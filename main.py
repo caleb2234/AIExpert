@@ -1,6 +1,5 @@
 from transformers import AutoProcessor, AutoModelForImageTextToText
 from PIL import Image
-import requests
 import torch
 import data
 from google import genai

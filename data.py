@@ -8,6 +8,147 @@ patient: They seem to happen at random, but I've noticed they sometimes occur af
 user: Do you feel any pain, shortness of breath, or dizziness during these episodes?
 patient: I don't feel any pain or shortness of breath. But I do feel weak and a bit faint during the episodes. It's really unsettling.
 """
+patient_conversation_history2 = """
+user: Hi Melissa, what brings you in today?
+patient: I've been getting short of breath when I run. It's been getting worse, and now I can't finish my usual runs without stopping halfway to catch my breath.
+
+user: Have you noticed when these episodes usually happen?
+patient: Yes, the shortness of breath usually starts about halfway into my run, after around 15 minutes. It happens suddenly while I’m running.
+
+user: Is it acute or chronic?
+patient: It's been gradually getting worse over the past six months, so I'd say it's a chronic issue now.
+"""
+student_input2 = """
+I'm thinking it's anxiety.
+"""
+flowchart = """
+{
+"S0_Dyspnea_Start": {
+"text": "Starting point for Dyspnea diagnosis. Common causes include: congestive heart failure, pneumonia, reactive airway disease, pulmonary embolism, deconditioning, foreign body aspiration, DKA, anemia, undiagnosed asthma, pneumothorax, COPD, ARF/CKD. Is the dyspnea acute or chronic?",
+"type": "question",
+"choices": [
+{ "text": "Acute", "next_node_id": "Q1_Acute" },
+{ "text": "Chronic", "next_node_id": "Q2_Chronic" }
+]
+},
+"Q1_Acute": {
+"text": "For acute dyspnea, is the onset sudden or gradual?",
+"type": "question",
+"choices": [
+{ "text": "Sudden onset", "next_node_id": "A1_SuddenOnsetTests" },
+{ "text": "Gradual onset", "next_node_id": "A1_GradualOnsetTests" }
+]
+},
+"A1_SuddenOnsetTests": {
+"text": "Obtain ABG, SaO2, CXR, ECG/cardiac enzymes, D-dimer/spiral CT, CBC, BMP.",
+"type": "action",
+"next_node_id": "D1_SuddenOnsetDiagnoses"
+},
+"D1_SuddenOnsetDiagnoses": {
+"text": "Potential diagnoses for sudden onset acute dyspnea: Pulmonary embolism, Pneumothorax/cardiac tamponade, Foreign body aspiration.",
+"type": "diagnosis",
+"next_node_id": null
+},
+"A1_GradualOnsetTests": {
+"text": "Obtain ABG, SaO2, ECG/cardiac enzymes, D-dimer/spiral CT, BNP, pH monitoring, CXR, CBC, BMP.",
+"type": "action",
+"next_node_id": "D1_GradualOnsetDiagnoses"
+},
+"D1_GradualOnsetDiagnoses": {
+"text": "Potential diagnoses for gradual onset acute dyspnea: ARDS, Respiratory failure, MI, GERD, Pneumonia/lung infections.",
+"type": "diagnosis",
+"next_node_id": null
+},
+"Q2_Chronic": {
+"text": "For chronic dyspnea, obtain CBC, BMP, and TSH. Are the lab results normal or abnormal?",
+"type": "question",
+"choices": [
+{ "text": "Normal", "next_node_id": "Q2_OnExertion" },
+{ "text": "Abnormal", "next_node_id": "A2_AddressAbnormalLabs" }
+]
+},
+"A2_AddressAbnormalLabs": {
+"text": "Address abnormal labs.",
+"type": "action",
+"next_node_id": null
+},
+"Q2_OnExertion": {
+"text": "Is the dyspnea on exertion?",
+"type": "question",
+"choices": [
+{ "text": "Yes", "next_node_id": "Q2_HgbSaO2" },
+{ "text": "No", "next_node_id": "Q2_AnxietySymptoms" }
+]
+},
+"Q2_AnxietySymptoms": {
+"text": "Does the patient present with anxiety symptoms?",
+"type": "question",
+"choices": [
+{ "text": "Yes", "next_node_id": "D2_PanicAttack" },
+{ "text": "No", "next_node_id": "Q2_WeightGainExerciseWeakness" }
+]
+},
+"D2_PanicAttack": {
+"text": "Diagnosis: Panic attack.",
+"type": "diagnosis",
+"next_node_id": null
+},
+"Q2_WeightGainExerciseWeakness": {
+"text": "Are there symptoms like recent weight gain, discontinuation of exercise, or muscular weakness?",
+"type": "question",
+"choices": [
+{ "text": "Yes", "next_node_id": "D2_DeconditioningAsthmaNeuromuscular" },
+{ "text": "No", "next_node_id": null }
+]
+},
+"D2_DeconditioningAsthmaNeuromuscular": {
+"text": "Diagnosis: Deconditioning, Asthma, Neuromuscular disorder.",
+"type": "diagnosis",
+"next_node_id": null
+},
+"Q2_HgbSaO2": {
+"text": "For dyspnea on exertion, what are the Hgb/Hct and SaO2 levels?",
+"type": "question",
+"choices": [
+{ "text": "Decreased Hgb/Hct", "next_node_id": "D2_Anemia" },
+{ "text": "Decreased SaO2", "next_node_id": "Q2_BNP" }
+]
+},
+"D2_Anemia": {
+"text": "Diagnosis: Anemia.",
+"type": "diagnosis",
+"next_node_id": null
+},
+"Q2_BNP": {
+"text": "Given Cardiopulmonary symptoms (e.g., decreased SaO2), what is the BNP level?",
+"type": "question",
+"choices": [
+{ "text": "> 100 pg/mL", "next_node_id": "A2_EchocardiogramCXR" },
+{ "text": "< 100 pg/mL", "next_node_id": "A2_SpirometryECGCXREchocardiogram" }
+]
+},
+"A2_EchocardiogramCXR": {
+"text": "Obtain Echocardiogram and CXR.",
+"type": "action",
+"next_node_id": "D2_CHFPulmonaryEdema"
+},
+"D2_CHFPulmonaryEdema": {
+"text": "Diagnosis: CHF, Pulmonary edema.",
+"type": "diagnosis",
+"next_node_id": null
+},
+"A2_SpirometryECGCXREchocardiogram": {
+"text": "Obtain Spirometry, ECG, CXR, Echocardiogram.",
+"type": "action",
+"next_node_id": "D2_COPDChronic"
+},
+"D2_COPDChronic": {
+"text": "Diagnosis: COPD, Asthma, Arrhythmia, Sarcoidosis, Cardiomyopathy.",
+"type": "diagnosis",
+"next_node_id": null
+}
+}
+"""
 expert_conversation_history = ""
 student_input = """
 Based on the patient’s description of irregular heart rhythm and palpitations, I would like to assess for any potential arrhythmias. I will ask more about the frequency and triggers of her episodes, any history of similar events, family history of cardiac disease, and if she’s on any medications. I also want to know if caffeine or other stimulants are involved.
