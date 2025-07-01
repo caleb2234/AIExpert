@@ -1,0 +1,3009 @@
+1114
+The presence of an acid–base or an electrolyte disorder may explain a 
+patient’s symptoms or may lead to a specific diagnosis.
+ACID–BASE BALANCE
+Normal acid–base balance is maintained by the lungs and kidneys. 
+Carbon dioxide, a by-­product of normal metabolism, is a weak acid. 
+The lungs are able to prevent an increase in the partial pressure of car­
+bon dioxide (Pco2) in the blood by excreting the carbon dioxide (CO2) 
+produced by the body. The pulmonary response to changes in the CO2 
+concentration is fast, as it occurs via central sensing of the Pco2, and 
+there is a subsequent increase or decrease in ventilation to maintain a 
+normal Pco2 (35–45 mm Hg). There is an inverse relationship between 
+Pco2 and ventilation because an increase in ventilation decreases the 
+Pco2, and a decrease in ventilation increases the Pco2.
+The kidneys are responsible for excreting acid produced by the 
+body. Sources of hydrogen ions include protein metabolism and 
+incomplete metabolism of carbohydrates and fat; urine or stool losses 
+of bicarbonate may contribute to acidemia. The hydrogen ions formed 
+from endogenous acid production are neutralized by bicarbonate from 
+the bicarbonate buffer system. The bicarbonate buffer system, based on 
+the relationship between carbon dioxide and bicarbonate (HCO –
+3 ), is 
+displayed by the following equation:
+CO2 + H2O ↔H+ + HCO −
+3
+This equation can help us understand how changes in CO2 or 
+HCO –
+3  affect the acid–base balance.
+ACID–BASE DISORDERS
+A pH <7.35 is defined as acidosis, and a pH >7.45 is defined as alkalo­
+sis. An acid–base disorder is respiratory in etiology when it is caused 
+by a primary abnormality in respiratory function (a change in Paco2) 
+and is metabolic when the primary change is due to a variation in 
+bicarbonate concentration. Acid–base disorders may also be mixed, 
+which occurs when two or even three primary events act to alter the 
+acid–base state at the same time.
+In metabolic disorders, extracellular buffers (bicarbonate) rapidly 
+titrate the presence of strong acids or bases. Intracellular buffers chiefly 
+accomplish the buffering of respiratory disorders. Secondary respira­
+tory compensation for metabolic acid–base disorders begins within 
+minutes by changes in ventilation and is usually complete in 12–24 
+hours. In contrast, secondary metabolic compensation for respiratory 
+disorders occurs more slowly, beginning within hours but requiring 
+2–5 days for completion. The kidneys increase net acid excretion in 
+response to a primary respiratory acidosis; renal net acid excretion also 
+increases during a metabolic acidosis if the kidneys themselves are not 
+the cause of the metabolic acidosis. The expected compensation for 
+primary acid–base disorders is shown in Table 59.1. These compensa­
+tory mechanisms never return the pH back to normal until the underly­
+ing disease process has subsided or has been effectively treated.
+When only one primary acid–base abnormality occurs and its com­
+pensatory mechanisms are activated, the disorder is classified as a sim­
+ple acid–base disorder. When a combination of acid–base disturbances 
+occurs, the disorder is classified as a mixed acid–base disorder. The 
+latter should be suspected if the compensation in a given patient differs 
+from the predicted values (see Table 59.1). Interpretation of data in 
+infants and young children requires caution. Crying results in hyper­
+ventilation and can quickly change Pco2 and consequently the pH.
+SYMPTOMS OF ACID–BASE DISORDERS
+History and clinical evaluation are the first steps in assessing a patient 
+with an acid–base disorder. Although the signs and symptoms associ­
+ated with an acid–base abnormality can be nonspecific, there are cer­
+tain clues that one can obtain from manifestations that can assist in 
+the diagnosis of the acid–base disorder. Metabolic acidosis results in 
+increased minute ventilation (manifesting as increased respiratory rate 
+and/or effort) because of respiratory compensation. A patient may have 
+tachypnea with a metabolic acidosis from a diarrheal illness, dehydra­
+tion, poisoning, diabetic ketoacidosis, inborn errors of metabolism, or 
+infection. In more severe acidosis (pH <7.20), the respiratory pattern is 
+characterized by deep and rapid breaths (Kussmaul respiration). Severe 
+acidosis may also lead to hypotension, pulmonary edema, and asystole; 
+its harmful effects are accentuated in the presence of hypoxia. Chronic 
+metabolic acidosis leads to poor growth and hypercalciuria with sub­
+sequent bone disease because bone buffering of acid produces marked 
+mineral losses.
+A child with metabolic alkalosis may be asymptomatic. In some 
+cases, careful examination of the child may detect hypoventilation. 
+One should consider metabolic alkalosis in a child who has been vom­
+iting or in a child who has had chronic diuretic use. Severe alkalosis 
+(pH >7.55) can lead to tissue hypoxia, mental confusion, obtundation, 
+muscular irritability, tetany, and an increased risk of seizures and car­
+diac arrhythmias. Some of these signs and symptoms are related to 
+decreased concentration of serum ionized calcium as a result of its 
+increased binding to protein in the presence of alkalosis. Acid–base 
+disturbances can be assessed through laboratory analysis by obtaining 
+a basic chemistry panel and/or a blood gas analysis.
+RENAL REGULATION OF ACID–BASE BALANCE
+The kidneys are the principal regulator of bicarbonate homeostasis. 
+The renal regulation of HCO –
+3  can be divided into two processes: reab­
+sorption of HCO –
+3  and excretion of H+. The first role of the kidneys is to 
+reabsorb the filtered HCO –
+3  so that this important extracellular buffer 
+Acid–Base and Electrolyte Disturbances
+Sarah Vepraskas, Heather Toth, and Michael Weisgerber
+59
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1115
+CHAPTER 59  Acid–Base and Electrolyte Disturbances
+is not excreted in the urine. The second role of the kidneys is to excrete 
+H+ that is produced from protein and phospholipid catabolism.
+Most (80–90%) of the filtered HCO –
+3  is reabsorbed in the proximal 
+tubule. Bicarbonate reabsorption at this site is increased by the con­
+traction of the extracellular fluid (ECF) volume, activation of the renin-­
+angiotensin system (mainly through the effect of angiotensin II), elevated 
+Pco2, and hypokalemia. Conversely, HCO –
+3  reabsorption is decreased 
+when there is expansion of the ECF volume, inhibition of angiotensin II, 
+a fall in Pco2, and an elevation of the parathyroid hormone level.
+The distal tubule and collecting duct regenerate bicarbonate via H+ 
+ion secretion into the tubular lumen by an H+-­adenosine triphospha­
+tase (H+-­ATPase) pump in the luminal membrane. This active secre­
+tion can generate an H+ ion gradient of 1,000:1 between tubular fluid 
+and cells, permitting the urine pH to fall to as low as 4.5. The active 
+H+ secretion is significantly influenced by the luminal electronegativity 
+caused by active Na+ reabsorption in the cortical collecting duct. Thus, 
+in the cortical collecting duct, H+ excretion is influenced by distal Na+ 
+delivery and reabsorption. In contrast, in the outer medullary portion 
+of the collecting duct, aldosterone stimulates the H+ excretion inde­
+pendently of Na+ delivery or reabsorption. Some of the H+ secreted 
+is consumed in reclaiming the small amount of HCO –
+3  that escaped 
+reabsorption at proximal sites; the rest of the H+ is excreted in the 
+urine. The ability to excrete a large amount of H+ ions is dependent on 
+the presence of buffers. The H+ ions are buffered by phosphates and, 
+to a lesser extent, by other non-­reabsorbable anions. The other very 
+important urinary buffer is ammonia (NH3), which combines with 
+a secreted H+ to generate an ammonium ion (NH4+). The proximal 
+tubular cells generate ammonia through the metabolism of the amino 
+acid glutamine. For every H+ that is finally excreted, an HCO –
+3  is added 
+to the ECF compartment. Metabolic acidosis by itself enhances NH4+ 
+production and excretion. Ammonia genesis by proximal tubular 
+cells is also stimulated by hypokalemia, whereas hyperkalemia inhib­
+its ammonia genesis. The ability of the kidney to produce ammonia 
+is markedly decreased in conditions such as chronic renal failure as a 
+result of reduced renal mass and in some types of renal tubular acidosis 
+(RTA). The ability to lower urine pH and increase net acid excretion 
+may not be achieved until 4–6 weeks of age.
+METABOLIC ACIDOSIS
+A metabolic acidosis can result from addition of H+ to the body, failure 
+to excrete H+, or loss of HCO –
+3 . The differential diagnosis of metabolic 
+acidosis is simplified by classifying the causes into those associated 
+with a normal anion gap (also known as a hyperchloremic metabolic 
+acidosis) and those associated with an increased anion gap (Table 59.2).
+The anion gap is easily calculated: Na+ – (Cl– + HCO3–). The anion 
+gap is normally 8–16 mEq/L. When a strong acid (e.g., lactic acid) is 
+added to or produced in the body, hydrogen ions are neutralized by 
+bicarbonate, HCO –
+3  is consumed by the H+, and the bicarbonate con­
+centration falls. The accompanying anion, such as lactate, is a new 
+unmeasured anion, which increases the anion gap. The increase in the 
+anion gap is usually proportional to the fall in serum (HCO –
+3 ). In con­
+trast, when HCO –
+3  is lost from the body, no new anion is generated. In 
+this situation, there is a reciprocal increase in the serum Cl− to main­
+tain electroneutrality. The anion gap does not change; the rise in (Cl−) 
+is proportional to the fall in (HCO –
+3 ).
+Normal Anion Gap (Hyperchloremic) Metabolic Acidosis
+Renal Tubular Acidosis
+RTA is a group of disorders characterized by impairment of renal 
+HCO –
+3  reabsorption and/or H+ excretion in the presence of a relatively 
+normal glomerular filtration rate (GFR). On the basis of the distinctive 
+pathophysiologic features, three types of RTA—type I (distal or clas­
+sic), type II (proximal or bicarbonate wasting), and type IV (hyperka­
+lemic)—are recognized (Table 59.3).
+Type I RTA is caused by the inability to secrete H+ in the distal 
+tubule, resulting in hypokalemic hyperchloremic metabolic acidosis. 
+These patients have a tendency to develop nephrocalcinosis and nephro­
+lithiasis, which results from the excretion of large quantities of calcium, 
+combined with an alkaline urine pH and hypocitraturia. In addition to 
+the deficient H+ secretion, these patients are unable to increase ammonia 
+genesis. The patient’s urine pH remains alkaline (>5.5) despite extreme 
+systemic metabolic acidosis. Type I RTA may occur as an isolated con­
+dition or may develop secondary to several diseases, medications, or 
+toxins (Table 59.4). Type I RTA due to variants in the ATP6V1B1 gene is 
+associated with early severe deafness, while variants in SLC4A1 may 
+be associated with congenital hemolytic anemia.
+Type II RTA is caused by an impairment of HCO –
+3  reabsorption 
+in the proximal tubule, resulting in hypokalemic hyperchloremic 
+metabolic acidosis. Because the distal acidification mechanisms are 
+intact, these patients can lower the urine pH to <5.5 and can excrete 
+adequate amounts of NH4+ when the serum HCO –
+3  is below the fil­
+tration threshold. As a result, their acidosis is usually less profound 
+than that which occurs in distal RTA. In some patients, there may be 
+TABLE 59.1  Changes in Pco2, HCO ‐
+3, and pH in Primary Acid–Base Disorders*
+Disorder
+Primary Event
+Degree of Initial Disturbance
+Compensation
+Degree of Compensation
+Metabolic acidosis
+↓ [HCO –
+3 ]
+For every 10 mEq/L ↓ in HCO –
+3 , pH ↓ by 0.15
+↓ Pco2
+For 1 mEq/L ↓ [HCO –
+3 ], Pco2 ↓ 1–1.5 mm Hg
+Metabolic alkalosis
+↑ [HCO –
+3 ]
+For every 10 mEq/L ↑ in HCO –
+3 , pH ↑ by 0.15
+↑ Pco2
+For 1 mEq/L ↑ [HCO –
+3 ], Pco2 ↑ 0.5–1 mm Hg
+Respiratory acidosis
+For every 10 mm Hg ↑ in Pco2, pH ↓ by 0.08
+Acute (<12–24 hr)
+↑ Pco2
+↑ [HCO –
+3 ]
+For 10 mm Hg ↑ Pco2, [HCO –
+3 ] ↑ 1 mEq/L
+Chronic (3–5 days)
+↑ Pco2
+↑↑ [HCO –
+3 ]
+For 10 mm Hg ↑ Pco2, [HCO –
+3 ] ↑ 4 mEq/L
+Respiratory alkalosis
+For every 10 mm Hg ↓ in Pco2, pH ↑ by 0.08
+Acute (<12 hr)
+↓ Pco2
+↓ [HCO –
+3 ]
+For 10 mm Hg ↓ Pco2, [HCO –
+3 ] ↓ 1–3 mEq/L
+Chronic (1–2 days)
+↓ Pco2
+↓↓ [HCO –
+3 ]
+For 10 mm Hg ↓ Pco2, [HCO –
+3 ] ↓ 1–3 mEq/L
+*Normal serum [HCO –
+3 ] is 24 mEq/L, and normal arterial partial pressure of carbon dioxide (Pco2) is 40 mm Hg.
+↓, decrease; ↓↓, greater decrease; ↑, increase; ↑↑, greater increase.
+Modified from Brewer ED. Disorders of acid-­base balance. Pediatr Clin North Am. 1990;37:429–447.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1116
+SECTION 11  Endocrine and Metabolic Disorders
+an increase in urinary calcium excretion, but because citrate excretion 
+is normal, nephrocalcinosis is uncommon. Type II RTA may rarely 
+occur as an isolated defect, but it usually coexists with other defects 
+in proximal tubule function. Fanconi syndrome is the combination 
+of multiple defects in proximal tubule reabsorption and, in addition to 
+type II RTA, includes excessive urinary losses of glucose, amino acids, 
+phosphate, and uric acid. The excessive losses of phosphate often cause 
+hypophosphatemic rickets. There are many causes of type II RTA (see 
+Table 59.4).
+Type IV RTA results from low circulating aldosterone concentra­
+tions, partial or complete end-­organ resistance to aldosterone, or aldo­
+sterone antagonism. Because of the lack of aldosterone effect, there is 
+decreased distal acidification and decreased distal sodium reabsorp­
+tion with hyperkalemic hyperchloremic acidosis. The hyperkalemia 
+seen in type IV RTA is the most characteristic feature and differentiates 
+it from the other two types.
+The examination of a child with RTA may be normal. Poor skin 
+turgor may be present from dehydration. Muscle weakness and mus­
+cle aches from hypokalemia may occur. Low back pain and bone pain 
+may be present in patients with abnormalities of calcium metabo­
+lism (type II). All forms of RTA are associated with growth failure. 
+Patients with Fanconi syndrome have severe rickets/osteomalacia and 
+malnutrition.
+Laboratory evaluation in all patients with RTA shows metabolic 
+acidosis with hyperchloremia and a normal anion gap. The urine 
+pH always exceeds 5.5 in type I RTA but can be <5.5 in type II and 
+type IV RTA.
+Type I and II RTA are treated with oral sodium bicarbonate titrated 
+to correct the acidosis. Potassium supplementation is needed in hypo­
+kalemic patients. Type IV RTA can be treated with furosemide to lower 
+elevated potassium levels, along with sodium bicarbonate to correct 
+significant acidosis. Fludrocortisone can be used to correct mineralo­
+corticoid deficiency. In patients with secondary proximal RTA, treat­
+ment should be aimed at the primary disorder.
+There needs to be frequent monitoring of potassium levels in type 
+IV RTA. Because of the common occurrence of nephrocalcinosis and 
+nephrolithiasis in type I RTA, renal ultrasound can be used to mon­
+itor these patients. A skeletal survey to look for bone disease should 
+also be done, especially in cases of type II RTA. Patients with Fanconi 
+syndrome should be evaluated for cystinosis, the most common cause 
+of Fanconi syndrome in children. Some patients with inherited distal 
+RTA have sensorineural deafness; therefore, infants and children with 
+established distal RTA need routine audiograms.
+TABLE 59.2  Causes of Metabolic Acidosis
+NORMAL ANION GAP
+Diarrhea
+Renal tubular acidosis (RTA):
+Distal (type I) RTA (OMIM 79800/602722/267300)*
+Proximal (type II) RTA (OMIM 604278)†
+Hyperkalemic (type IV) RTA (OMIM 201910/264350/177735/145260)‡
+Urinary tract diversions
+Post-­hypocapnia
+Ammonium chloride intake
+INCREASED ANION GAP
+Lactic Acidosis
+Tissue hypoxia
+Shock
+Hypoxemia
+Severe anemia
+Cyanide poisoning
+Carbon monoxide poisoning
+Methemoglobinemia
+Liver failure
+Lymphoma, leukemia, solid tumors
+Intestinal bacterial overgrowth
+Inborn errors of metabolism
+Thiamine deficiency
+Medications
+Nucleoside reverse transcriptase inhibitors
+Metformin
+Propofol
+Other Causes
+Ketoacidosis
+Diabetic ketoacidosis
+Starvation ketoacidosis
+Alcoholic ketoacidosis
+Kidney failure/uremia
+D-­Lactic acidosis
+Poisoning
+Ethylene glycol
+Methanol
+Salicylate
+Toluene
+Paraldehyde
+Cocaine
+*Along with these genetic disorders, distal RTA may be secondary to 
+renal disease or medications.
+†Most cases of proximal RTA are not caused by this primary genetic 
+disorder. Proximal RTA is usually part of Fanconi syndrome, which has 
+multiple etiologies.
+‡Hyperkalemic RTA can be secondary to a genetic disorder (some of the 
+more common are listed) or other etiologies.
+OMIM, database number from the Online Mendelian Inheritance in 
+Man (http://www.ncbi.nlm.nih.gov/omim).
+From Greenbaum LA. Electrolyte and acid-­base disorders. In Kliegman 
+RM, St. Geme JW III, Blum NJ, et al., eds. Nelson Textbook of 
+Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:416.
+TABLE 59.3  Differentiation of RTA Types
+Factor
+Type I
+Type II
+Type IV
+Serum K+
+Low or normal
+Low
+High, salt wasting
+Renal function
+Normal or near 
+normal
+Normal or near 
+normal
+Stage 3, 4, or 5 
+chronic kidney 
+disease
+Urine pH during 
+acidosis
+High >5.5
+Low <5.5 or 
+normal
+Low or high
+Serum HCO3
+–
+(mmol/L)
+10–20
+16–18
+16–22
+Urine Pco2 (mm Hg)
+<40
+<40
+>70
+Urine citrate
+Low
+High
+Low
+Fanconi syndrome
+No
+May be present
+No
+Type III RTA combines features of type I and II RTA in patients with 
+osteopetrosis.
+From Palmer BF. Metabolic acidosis. In: Johnson RJ, Feehally J, Floege J, 
+eds. Comprehensive Clinical Nephrology. 5th ed. Philadelphia: Saunders; 
+2015:153.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1117
+CHAPTER 59  Acid–Base and Electrolyte Disturbances
+TABLE 59.4  Common Causes of Renal Tubular Acidosis (RTA)
+PROXIMAL RTA/TYPE II RTA
+Primary
+Sporadic (common)
+Inherited
+ • Inherited renal disease (idiopathic Fanconi)
+ • Autosomal dominant
+ • Autosomal recessive
+ • X-­linked (Dent disease)
+ • Inherited syndromes
+ • Cystinosis
+ • Tyrosinemia type 1
+ • Galactosemia
+ • Oculocerebral dystrophy (Lowe syndrome)
+ • Wilson disease
+ • Hereditary fructose intolerance
+ • Glycogen storage disease type 1
+Secondary
+Intrinsic renal disease
+ • Autoimmune diseases (Sjögren syndrome)
+ • Hypokalemic nephropathy
+ • Renal transplant rejection
+Hematologic disease
+ • Myeloma
+Drugs
+ • Gentamicin
+ • Cisplatin
+ • Ifosfamide
+ • Sodium valproate
+Heavy metals
+ • Lead
+ • Cadmium
+ • Mercury
+Organic compounds
+ • Toluene
+Nutritional
+ • Kwashiorkor
+Hormonal
+ • Primary hyperparathyroidism
+DISTAL RTA/TYPE I RTA
+Primary
+Sporadic
+Inherited
+ • Inherited renal diseases
+ • Autosomal dominant
+ • Autosomal recessive
+ • Autosomal recessive with early-­onset hearing loss
+ • Autosomal recessive with later-­onset hearing loss
+ • Inherited syndromes associated with type I RTA
+ • Marfan syndrome
+ • Wilson syndrome
+ • Ehlers-­Danlos syndrome
+ • Familial hypercalciuria
+DISTAL RTA/TYPE I RTA—cont’d
+Secondary
+Intrinsic renal
+ • Interstitial nephritis
+ • Pyelonephritis
+ • Transplant rejection
+ • Sickle cell nephropathy
+ • Lupus nephritis
+ • Nephrocalcinosis
+ • Medullary sponge kidney
+Urologic
+ • Obstructive uropathy
+ • Vesicoureteral reflux
+ • Hepatic
+ • Cirrhosis
+Toxins or medications
+ • Amphotericin B
+ • Lithium
+ • Toluene
+ • Cisplatin
+HYPERKALEMIC RTA/TYPE IV RTA
+Primary
+Sporadic
+Genetic
+ • Hypoaldosteronism
+ • Addison disease
+ • Congenital adrenal hyperplasia
+ • Pseudohypoaldosteronism (type I or II)
+Secondary
+Urologic
+ • Obstructive uropathy
+Intrinsic renal
+ • Pyelonephritis
+ • Interstitial nephritis
+Systemic
+ • Diabetes mellitus
+ • Sickle cell nephropathy
+Drugs
+ • Trimethoprim/sulfamethoxazole
+ • Angiotensin-­converting enzyme inhibitors
+ • Cyclosporine
+ • Prolonged heparinization
+Addison disease
+From Sreedharan S, Avner ED. Renal tubular acidosis. In: Kliegman RM, Stanton BF, St Geme JW, et al., eds. Nelson Textbook of Pediatrics. 20th 
+ed. Philadelphia: Elsevier; 2016:2530.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1118
+SECTION 11  Endocrine and Metabolic Disorders
+Additional Causes of Renal Loss of Bicarbonate
+Carbonic anhydrase inhibitors such as acetazolamide inhibit the car­
+bonic anhydrase present in the proximal tubule, thus preventing the 
+reabsorption of HCO –
+3 . The net effect is similar to that of proximal RTA.
+Potassium-­sparing diuretics such as spironolactone or amiloride 
+can impair H+ secretion by the distal nephron by blocking Na+ absorp­
+tion in this segment.
+Gastrointestinal Loss of Bicarbonate
+Diarrhea is the most common cause of non–anion gap hyperchloremic 
+metabolic acidosis in children. The acidosis is secondary to loss of stool 
+bicarbonate. The degree of dehydration should be assessed, and appro­
+priate fluid resuscitation should be given, which should help correct 
+the acidosis. If there is persistent acidosis, one should consider addi­
+tional etiologies such as worsening infection/sepsis, an inborn error of 
+metabolism, adrenal insufficiency, or bacteria-­associated production of 
+methemoglobinemia or D-­lactate.
+Miscellaneous Causes of Hyperchloremic Acidosis
+Recovery from ketoacidosis. During recovery from diabetic 
+ketoacidosis (DKA), many patients may eliminate the organic anions 
+(through increased renal clearance and utilization) faster than their 
+acidosis resolves. The clinical picture can resemble normal anion gap 
+acidosis. Excessive fluids with isotonic chloride levels may contribute 
+to this acidemia.
+Dilutional acidosis. The rapid expansion of ECF volume with 
+fluids that do not contain HCO –
+3  leads to a dilution of HCO –
+3  and mild 
+metabolic acidosis. In addition, the expansion of ECF volume by itself 
+promotes urinary HCO –
+3  loss, possibly contributing to the dilutional 
+acidosis.
+Parenteral alimentation. Amino acid infusions without concomitant 
+administration of alkali (or alkali-­generating precursors) may produce a 
+normal anion gap acidosis in a manner similar to that of addition of HCl.
+Increased Anion Gap Acidosis
+Increased Acid Production
+Diabetic ketoacidosis. In DKA, the lack of insulin and excess of 
+glucagon shunt free fatty acids into ketone body formation. The rate 
+of formation of ketone bodies, principally β-­hydroxybutyrate and 
+acetoacetate, exceeds the capacity for their peripheral utilization and 
+renal excretion. Accumulation of ketoacids (both of which are relatively 
+strong acids and dissociate rapidly into H+ and the ketoacid anions) 
+results in metabolic acidosis. Acetone is formed by nonenzymatic 
+conversion of acetoacetate and is responsible for the fruity odor of the 
+patient’s breath (see Chapter 58).
+Patients with DKA typically present with polyuria and polydipsia in 
+addition to altered mental status (ranging from confusion and drowsi­
+ness, which can progress to obtundation and loss of consciousness) and 
+deep, sighing respirations (Kussmaul respirations). Additional clinical 
+manifestations of DKA can be dehydration, nausea, vomiting, abdom­
+inal pain, and tachypnea. Laboratory analysis of a patient with DKA is 
+significant for a severely increased anion gap metabolic acidosis with 
+pH values that may be lower than 7.0. Initially, the increase in the anion 
+gap is in proportion to the decrease in HCO –
+3 , but once the patients 
+start recovering with successful management, the kidneys clear the 
+ketoacid anions, and the increase in the anion gap becomes less than 
+the fall in HCO –
+3 . The loss of ketoacid anions in urine increases the 
+urinary losses of Na+ and K+ as the accompanying cations.
+The diagnosis of DKA is made by the combination of increased 
+anion gap metabolic acidosis, hyperglycemia, and demonstration of 
+serum (or urine) ketoacid anions. The therapy for DKA includes careful 
+volume repletion, insulin, and correction of electrolyte disturbances. 
+Severe acidosis is reversible by fluid and insulin replacement. Insulin 
+inhibits ketosis and allows ketoacids to be metabolized, which gener­
+ates bicarbonate. Treatment of hypovolemia improves tissue perfusion 
+and renal function, thereby increasing the excretion of organic acids. 
+Most patients with DKA present with considerable total body deficits 
+of potassium, magnesium, and phosphorus, even though serum levels, 
+particularly of potassium, may actually be high on presentation.
+Lactic acidosis. Under normal conditions, lactate is formed in 
+relatively small amounts and is further metabolized by the liver. 
+Pathologic conditions associated with either local or systemic hypoxia 
+or ischemia, hypotension (shock), impaired oxidative metabolism, or 
+impaired hepatic clearance can cause significant lactic acidosis.
+The diagnosis of lactic acidosis must be considered in all forms 
+of increased anion gap metabolic acidosis. The diagnosis can be con­
+firmed by measuring the serum lactate level, and treatment must be 
+directed at the underlying pathophysiologic process (see Table 59.2).
+GRACILE syndrome (growth retardation, amino aciduria, 
+cholestasis, iron overload, lactic acidosis, and early death) is a rare 
+lethal autosomal recessive disease caused by a point variant in the 
+BCS1L gene encoding a mitochondrial protein. In a Finnish study 
+describing 17 newborn infants with this disorder, the infants presented 
+with aminoaciduria and failure to thrive, with 9 of them dying by 
+12 days of life and the 8 other infants dying by age 1–4 months. The 
+autosomal recessive mode of inheritance makes GRACILE syndrome 
+different from neonatal hemochromatosis and hepatitis and should be 
+considered in a neonate presenting with significant fetal growth distur­
+bance and severe lactic acidosis.
+Inborn errors of metabolism. Most patients with inborn errors of 
+metabolism that cause a metabolic acidosis present in the neonatal 
+period or shortly thereafter. Organic acidemias, aminoacidopathies, 
+disorders of fatty acid oxidation, mitochondrial disorders, and defects 
+in carbohydrate metabolism are associated with acidosis. Associated 
+presenting signs and symptoms may include vomiting, failure to thrive, 
+lethargy, seizures, developmental abnormalities, hepatomegaly, and 
+elevated blood or urine levels of a particular metabolite. Some of these 
+disorders will be detected by the state newborn screening protocols. In 
+contrast, urea cycle disorders during the first few days of life manifest 
+with respiratory alkalosis because of stimulation of the respiratory 
+center by increased ammonia levels. Congenital lactic acidosis may 
+be due to mitochondrial gene variants or enzymes involved in glucose 
+metabolism (pyruvate dehydrogenase complex); the latter presents with 
+severe lactic acidosis after birth, while the presentation of mitochondrial 
+gene variants can be variable.
+Poisonings. A variety of toxic agents may be associated with increased 
+anion gap metabolic acidosis; these include salicylate intoxication, ethylene 
+glycol (a component of antifreeze), and methanol. Carbon monoxide, 
+cyanide poisoning, or methemoglobinemia induces hypoxic acidosis.
+Classically, salicylate intoxication is described as causing respi­
+ratory alkalosis (stimulation of the respiratory center), followed by 
+increased anion gap metabolic acidosis (accumulation of salicylic acid 
+itself and lactic acidosis as a result of uncoupling of mitochondrial oxi­
+dative phosphorylation). However, children may present with simple 
+increased anion gap metabolic acidosis. Nausea, tinnitus, noncardio­
+genic pulmonary edema, and prolonged prothrombin time are other 
+associated features. Alkalization of the blood and urine with sodium 
+bicarbonate is beneficial despite the potential problems associated with 
+its use in acute metabolic acidosis. Alkalization of the plasma decreases 
+the diffusion of salicylate into the central nervous system, and alkaline 
+urine improves renal excretion. In severe poisoning, hemodialysis is 
+quite effective at removing salicylate from the body. In cases of poi­
+sonings, dialysis serves the dual purposes of removing the poison (if 
+dialyzable) and correcting the acid–base and electrolyte abnormalities.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1119
+CHAPTER 59  Acid–Base and Electrolyte Disturbances
+Propofol-related infusion syndrome (PRIS) usually results with 
+prolonged (>48 hour) high-­dose (>4 mg/kg/hr) infusions and mani­
+fests with lactic acidosis, rhabdomyolysis, cardiac failure, and shock. 
+PRIS may result from propofol-­induced mitochondrial impairment.
+Failure of Acid Excretion
+In both acute and chronic renal failure, the kidneys fail to excrete the 
+acid produced from normal daily metabolism. Both H+ and anions 
+accumulate in the body, resulting in slow consumption of bicarbonate 
+stores. However, the acidosis is generally not severe unless a markedly 
+catabolic state occurs or other associated conditions coexist. In acute 
+renal failure, there is abrupt and complete inhibition of acid excretion, 
+whereas in chronic renal failure, there initially is enhanced ammonia 
+genesis by the remaining nephrons. As renal failure progresses, excre­
+tion of both NH4+ and phosphate declines. In addition, the secondary 
+hyperparathyroidism seen with chronic renal failure decreases proxi­
+mal tubular HCO –
+3  reabsorption and adds a component of hyperchlor­
+emic acidosis to the increased anion gap acidosis.
+Treatment of Metabolic Acidosis
+The morbidity and mortality caused by metabolic acidosis are deter­
+mined not only by the severity of acidosis but also by the amenability of 
+the underlying disorder to medical management. During treatment of 
+metabolic acidosis, the primary effort should focus on the management 
+of the underlying condition. The recommendations and goals of buffer 
+therapy differ for acute acidotic disorders such as DKA and for chronic 
+acidotic states such as RTA.
+During the correction of acute metabolic acidosis, particular 
+attention should be paid to ensure an appropriate potassium bal­
+ance. During an episode of metabolic acidosis, potassium shifts 
+from the intracellular space to the extracellular space in exchange 
+for H+, and thus the presence of a total body potassium deficit 
+may not be appreciated. Hypokalemia may become evident only as 
+the pH increases and potassium returns to the intracellular space. 
+Chronic metabolic acidosis slows linear growth and interferes with 
+bone mineralization. In chronic metabolic acidosis, there is a need 
+for alkali therapy.
+METABOLIC ALKALOSIS
+Metabolic alkalosis (pH >7.45) occurs as a result of a primary increase 
+in the serum HCO –
+3 , which may occur as a result of (1) net loss of 
+H+, (2) net gain of HCO –
+3  (or its precursors), or (3) loss of fluid with 
+more Cl− than HCO –
+3 . Normally functioning kidneys can excrete large 
+amounts of HCO –
+3  and should offset any increase in serum HCO –
+3  
+resulting from these causes. Therefore, factors that prevent the kidneys 
+from excreting HCO –
+3  also must be present to maintain the metabolic 
+alkalosis.
+Factors Initiating Metabolic Alkalosis
+The H+ can be lost externally, either through the gastrointestinal tract 
+or through the kidneys. For every H+ lost at these sites, the body gains 
+one HCO –
+3  ion. This is because H+ production at both these sites (gas­
+tric parietal cell and renal tubular cells) is associated with generation 
+of an equivalent number of HCO –
+3  molecules. H+ can also be “lost” 
+internally, by shifting into the intracellular compartment. This occurs 
+in states of severe potassium depletion (H+ moves in, whereas K+ exits 
+the cell, to maintain electroneutrality).
+The administration of HCO –
+3  or its precursors (such as lactate, 
+citrate, and acetate) at a rate greater than normal metabolic production 
+of acid can lead to net gain of HCO –
+3  by the body.
+External loss of fluid (gastric fluid) containing more Cl− than 
+HCO –
+3  raises the concentration of HCO –
+3  in the body. One of the 
+factors responsible for this type of alkalosis is the associated volume 
+contraction, which leads to increased bicarbonate reabsorption by the 
+proximal tubule of the kidney.
+Factors Responsible for Sustaining Alkalosis
+Decrease in effective blood volume and kidney perfusion causes 
+increased Na+ reabsorption in both the proximal tubule (angiotensin 
+II effect) and the distal renal tubule (mineralocorticoid effect), thereby 
+increasing H+ excretion.
+Increased mineralocorticoid levels directly increase H+ secretion in 
+the outer medullary collecting duct.
+Chloride depletion increases HCO –
+3  reabsorption in the proximal 
+tubule. This effect is independent of ECF volume status.
+Hypokalemia sustains metabolic alkalosis by decreasing bicar­
+bonate loss. Hypokalemia promotes hydrogen ion secretion in the 
+distal nephron and stimulates ammonia genesis in the proximal 
+tubular cells. When produced, ammonia enhances renal excretion of 
+hydrogen ions.
+Hypercapnia induces a state of intracellular acidosis, which increases 
+H+ secretion. Although Pco2 increases as a normal compensatory 
+response to metabolic alkalosis, the elevated Pco2 prevents the renal cor­
+rection of alkalosis.
+Differential Diagnosis of Metabolic Alkalosis
+The causes of metabolic alkalosis can be divided into two categories 
+on the basis of the urinary chloride level. The alkalosis in patients 
+with low urinary chloride is maintained by volume depletion; volume 
+repletion is needed to correct the alkalosis. In the process of volume 
+depletion, there are losses of sodium, potassium, and chloride, but the 
+loss of chloride is usually greater than the losses of sodium and potas­
+sium combined. Since chloride losses are the main cause of the volume 
+depletion, these patients require chloride to correct the volume deficit 
+and metabolic alkalosis; these patients have chloride-­responsive meta­
+bolic alkalosis. Conversely, patients with alkalosis and an elevated uri­
+nary chloride concentration do not respond to volume repletion and 
+have chloride-­resistant metabolic alkalosis. Blood pressure can also be 
+useful when considering the etiology of a patient’s chloride-­resistant 
+metabolic alkalosis (Table 59.5).
+Urinary Chloride Level Lower Than 15 mEq/L
+Chloride-­deficient diet. Although uncommon in developed 
+countries, the ingestion of milk formula with low chloride content 
+has been shown to result in hypochloremic metabolic alkalosis and 
+failure to thrive in infants and to result in later neurodevelopmental 
+abnormalities in childhood.
+Upper gastrointestinal losses. The gastric fluid has a high H+ 
+concentration; loss of gastric fluid by vomiting or by nasogastric drainage 
+leads to a net gain of HCO –
+3  in the body. Although this is the initiating 
+factor, the alkalosis is sustained by concomitant Cl− and K+ losses. 
+Secondary hyperaldosteronism, resulting from volume contraction, 
+promotes further urinary potassium and H+ excretion, worsening the 
+hypokalemia and alkalosis; urine is the source of most of the potassium 
+losses caused by emesis. The degree of metabolic alkalosis associated 
+with vomiting is generally mild except in conditions in which gastric 
+secretions are greatly stimulated (e.g., Zollinger-­Ellison syndrome) or 
+there is protracted vomiting (e.g., pyloric stenosis).
+Metabolic alkalosis can also be seen in newborns of mothers with 
+eating disorders (bulimia). The baby reflects the electrolyte changes of 
+the mother and sustains alkalosis because of the Cl− deficiency.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1120
+SECTION 11  Endocrine and Metabolic Disorders
+Chloride-­secreting diarrhea. This is a rare congenital syndrome 
+characterized by a defect in small-­ and large-­bowel chloride absorption 
+that leads to a chronic diarrhea with high chloride losses in the stool. 
+The ongoing chloride depletion leads to a sustained metabolic alkalosis.
+Diuretic therapy. Chronic use of loop and thiazide diuretics may 
+cause a metabolic alkalosis. The alkalosis is sustained because of 
+hypochloremia, hypokalemia, and volume contraction with resultant 
+secondary hyperaldosteronism. The urinary Cl− may be high if the 
+diuretics have been ingested recently. The metabolic derangements 
+caused by loop diuretics are identical to those seen in Bartter syndrome.
+Hypercapnia. Chronic hypercapnia, as seen in bronchopulmonary 
+dysplasia or cystic fibrosis, leads to an elevated serum bicarbonate 
+concentration from metabolic compensation. The increase in serum 
+bicarbonate is balanced by a decrease in serum chloride. Affected patients 
+have chloride depletion, which may be worsened by concomitant diuretic 
+use. With resolution of the hypercapnia, the bicarbonate concentration 
+remains high until the chloride depletion is corrected.
+Seasonal hypokalemic metabolic alkalosis. Occasionally reported 
+in infants with cystic fibrosis during excessive heat waves, chloride loss 
+in sweat together with dehydration produces this syndrome. It may 
+rarely be seen in children without cystic fibrosis.
+Urinary Chloride Level Higher Than 20 mEq/L with 
+Hypertension
+Pediatric patients with hypertension either have increased levels of 
+aldosterone or act as if they do. Increased aldosterone “effects” cause 
+renal retention of sodium, which results in elevated blood pressure. 
+The disorders of mineralocorticoid excess are characterized by volume 
+expansion and hypertension (see Table 59.5). The mineralocorticoid 
+excess stimulates the renal excretion of H+ and K+, resulting in met­
+abolic alkalosis and hypokalemia. The various causes can be differen­
+tiated by evaluating the renin-­aldosterone axis. Treatment is aimed at 
+removing or correcting the source of the mineralocorticoid excess.
+Urinary Chloride Level Higher Than 20 mEq/L with Normal 
+Blood Pressure
+Bartter syndrome and Gitelman syndrome. These uncommon 
+disorders result from defects in various ion transporters within the 
+nephron. Bartter syndrome is a severe disorder that is characterized 
+by urinary chloride wasting, hypokalemia, metabolic alkalosis, and 
+increased serum levels of aldosterone and renin. Hypercalciuria is 
+also common and leads to nephrocalcinosis in some patients. Affected 
+patients present with a history of failure to thrive, polyuria, polydipsia, 
+and a tendency for dehydration. In neonatal Bartter syndrome, 
+there is usually a history of polyhydramnios and premature delivery. 
+Gitelman syndrome, in contrast, is a milder disorder characterized 
+by hypokalemia, metabolic alkalosis, and hypomagnesemia caused 
+by urinary magnesium wasting; calcium excretion is normal. The 
+growth retardation is not as severe. Children with Gitelman syndrome, 
+however, are more prone to febrile seizures and tetanic episodes.
+The genetics of additional variants of Bartter and Gitelman syndromes 
+have been identified, most of which have autosomal recessive inheritance, 
+although there are some exceptions (Table 59.6). See Table 59.7 for the dis­
+tinguishing features of Bartter and Gitelman syndrome variants.
+Treatment of Metabolic Alkalosis
+Treatment focuses on correcting the underlying disorder and depends 
+on the pathophysiologic mechanisms of the alkalosis. Patients with 
+a chloride-­responsive metabolic alkalosis (urine Cl− <15 mEq/L) 
+respond to volume repletion; both sodium and potassium chloride are 
+necessary. In rare cases, if alkalosis persists despite chloride supplemen­
+tation, the carbonic anhydrase inhibitor acetazolamide can be used to 
+increase urinary bicarbonate losses. In patients undergoing persistent 
+gastric drainage, administration of either an H2 blocker or H+ pump 
+inhibitor can be beneficial by decreasing the gastric H+ secretion.
+Treatment of chloride-­resistant metabolic alkalosis with hyperten­
+sion (urinary Cl− >20 mEq/L) mandates interference with the miner­
+alocorticoid (or mineralocorticoid-­like substance) that is maintaining 
+renal H+ losses. This can sometimes be accomplished pharmacologi­
+cally (e.g., with spironolactone or with other distal potassium-­sparing 
+diuretics such as amiloride).
+RESPIRATORY ACIDOSIS
+Respiratory acidosis results when there is an inappropriate increase in 
+blood Pco2 that is secondary to impaired pulmonary ventilation. Respi­
+ratory acidosis can result from either pulmonary disease, such as in 
+severe bronchiolitis, or nonpulmonary disease, such as a narcotic over­
+dose. In acute compensation, plasma bicarbonate increases by 1 for each 
+10 mm Hg increase in the Pco2. In chronic respiratory acidosis, the kid­
+neys increase acid secretion. Renal compensation starts in 12–24 hours 
+and reaches maximum in 3–5 days. In chronic compensation, plasma 
+bicarbonate increases by 3–5 for each 10 mm Hg increase in the Pco2.
+TABLE 59.5  Causes of Metabolic Alkalosis
+Chloride Responsive (Urinary Chloride <15 mEq/L)
+Gastric losses
+Emesis
+Nasogastric suction
+Diuretics (loop or thiazide)
+Chloride-­losing diarrhea (OMIM 214700)
+Chloride-­deficient formula
+Cystic fibrosis (OMIM 219700) (pseudo-­Bartter syndrome)
+Seasonal (extreme heat)
+Post-­hypercapnia
+Chloride Resistant (Urinary Chloride >20 mEq/L)
+High blood pressure
+Adrenal adenoma or hyperplasia
+Glucocorticoid-­remediable aldosteronism (OMIM 103900)
+Renovascular disease
+Renin-­secreting tumor
+17-­β-­Hydroxylase deficiency (OMIM 202110)
+11-­β-­Hydroxylase deficiency (OMIM 202010)
+Cushing syndrome
+11-­β-­Hydroxysteroid dehydrogenase deficiency (OMIM 218030)
+Licorice ingestion
+Liddle syndrome (OMIM 177200)
+Normal blood pressure
+Gitelman syndrome (OMIM 263800)
+Bartter syndrome (OMIM 607364/602522/241200/601678)
+Autosomal dominant hypoparathyroidism (OMIM 146200)
+EAST/SeSAME syndrome (OMIM 612780)
+Base administration
+EAST, epilepsy, ataxia, sensorineural hearing loss, and tubulopathy; 
+OMIM, database number from the Online Mendelian Inheritance 
+in Man (http://www.ncbi.nlm.nih.gov/omim); SeSAME, seizures, 
+sensorineural deafness, ataxia, mental retardation, and electrolyte 
+imbalances.
+Modified from Greenbaum LA. Electrolyte and acid-­base disorders. In 
+Kliegman RM, St. Geme JW III, Blum NJ, et al., eds. Nelson Textbook 
+of Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:419.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1121
+CHAPTER 59  Acid–Base and Electrolyte Disturbances
+Patients with a respiratory acidosis are often tachypneic as they are 
+trying to correct the inadequate ventilation. The degree of hypercar­
+bia drives the symptoms in a patient with respiratory acidosis. Patients 
+with acute respiratory acidosis have more symptoms than patients with 
+chronic respiratory acidosis. Hypoxia is usually seen in a patient with 
+acute respiratory acidosis who is breathing room air. There may also be 
+central nervous system manifestations of respiratory acidosis, which 
+can include, but are not limited to, anxiety, dizziness, headache, con­
+fusion, hallucinations, myoclonic jerks, seizures, psychosis, and coma. 
+The management of respiratory acidosis is directed toward improving 
+alveolar ventilation and treating the underlying disorder.
+RESPIRATORY ALKALOSIS
+Respiratory alkalosis occurs when there is an inappropriate decrease 
+in Pco2 as a result of pulmonary hyperventilation. In a spontaneously 
+breathing child, this can result from fever, sepsis, mild asthma, panic 
+attack, or central nervous system disorders. In the intensive care unit, 
+TABLE 59.6  Types of Bartter Syndrome, Gitelman Syndrome, and Related Conditions
+Disorder
+OMIM, Gene
+Gene Product Inheritance
+Features
+BS Variants
+BS I (ABS, HPES)
+601678, SLC12A1
+NKCC2
+AR
+Polyhydramnios, prematurity, hypokalemic hypochloremic alkalosis, 
+nephrocalcinosis, with or without concentrating defect
+BS II (ABS with transient 
+hyperkalemia and acidosis, 
+HPES)
+241200, KCNJ1
+ROMK1
+AR
+Polyhydramnios, prematurity, transient hyperkalemia and acidosis, 
+then hypokalemic hypochloremic alkalosis, nephrocalcinosis, 
+with or without concentrating defect
+BS III (CBS)
+607364, CLCNKB
+CIC-­Kb
+AR; many 
+sporadic
+Variable age at presentation with severity corresponding to type of 
+gene variant; hypokalemic hypochloremic alkalosis
+BS IVa and BS IVb (ABS or HPES 
+with sensorineural deafness)
+602522, BSND, 
+CLCNKA, CLCNKB
+Bartter CIC-­Ka 
+and CIC-­Kb
+AR
+Polyhydramnios, prematurity, hypokalemic hypochloremic alkalosis, 
+sensorineural deafness, with or without concentrating defect
+BS V (transient ABS)
+300971, MAGED2
+MAGED2
+XR
+Severe polyhydramnios, hypokalemic hypochloremic alkalosis with 
+symptoms resolving within the first few months of life
+AD hypocalcemic hypercalciuria
+601199, L12SP
+CaSR
+AD
+Hypocalcemic hypocalciuria, hypokalemic hypochloremic alkalosis, 
+suppressed PTH
+GS Variants
+GS
+263800, SLC12A3
+NCC
+AR
+Present in later childhood or adulthood with weakness, lethargy, 
+carpopedal spasm, hypokalemic alkalosis, hypomagnesemia, 
+hypermagnesuria, and hypocalciuria
+EAST syndrome (SeSAME)
+612780, Kir4.1
+KCNJ10
+AR
+Epilepsy, ataxia, sensorineural deafness, hypokalemic 
+hypochloremic alkalosis
+Other Variants
+CLDN10 variants
+617579, CLDN10
+Claudin-­10
+AR
+Hypokalemic metabolic alkalosis with hypocalciuria but normal to 
+elevated magnesium
+AD, autosomal dominant; AR, autosomal recessive; BS, Bartter syndrome; CaSR, calcium-­sensing receptor; CIC-­Ka, chloride channel-­Ka; CIC-­Kb, 
+chloride channel-­Kb; GS, Gitelman syndrome; MAGED, melanoma-­associated antigen-­D2; NCC, thiazide-­sensitive NaCl co-transporter; NKCC2, 
+furosemide-­sensitive Na-­K-­2Cl co-transporter; OMIM, Online Mendelian Inheritance in Man; PTH, parathyroid hormone, ROMK, renal outer medullary 
+K channel; SeSAME, seizures, sensorineural deafness, ataxia, mental retardation, and electrolyte unbalances; XR, X-­linked recessive.
+From Fulchiero R, Seo-­Mayer P. Bartter syndrome and Gitelman syndrome. Pediatr Clin North Am. 2019;66:121–134, Box 1.
+TABLE 59.7  Features That Distinguish Bartter and Gitelman Syndrome Variants
+Variant
+Age of 
+Onset
+Serum K
+Serum CI
+Serum Mg
+Serum Renin, 
+Aldosterone
+Urine Ca/Cr
+Other Distinct 
+Features
+BS I
+AN
+Low
+Low
+Normal
+High, high
+High
+—
+BS II
+AN
+High, then low
+Low
+Normal
+High, high
+High
+Transient hyperkalemia
+BS III
+N, C, A
+Low
+Very low
+Normal
+High, high
+Low, normal, or high
+—
+BS IVa, IVb
+AN
+Low
+Low
+Normal
+High, high
+Normal or high
+Sensorineural deafness
+BS V
+AN
+Low
+Low
+Normal
+High, high
+—
+Transient features
+Hypocalcemic 
+hypercalciuria
+—
+Low
+Low
+Normal
+High, high
+High
+Family history, hypocalcemia, 
+suppressed PTH
+GS
+C, A
+Low
+Low
+Low
+High, high
+Low
+—
+EAST syndrome
+—
+Low
+Low
+Low
+High, high
+Low
+Epilepsy, ataxia, 
+sensorineural deafness
+A, adult; AN, antenatal; BS, Bartter syndrome; C, child; Ca/Cr, spot calcium-­to-­creatinine ratio; GS, Gitelman syndrome; Mg, magnesium; N, neonate.
+From Fulchiero R, Seo-­Mayer P. Bartter syndrome and Gitelman syndrome. Pediatr Clin North Am. 2019;66:121–134, Box 3.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1122
+SECTION 11  Endocrine and Metabolic Disorders
+the most common cause is mechanical overventilation of an intubated 
+child. A metabolic response to an acute respiratory alkalosis is mediated 
+by hydrogen ion release from nonbicarbonate buffers and occurs within 
+minutes. In this acute compensation, plasma bicarbonate falls by 2 for 
+each 10 mm Hg decrease in Pco2. In chronic respiratory alkalosis, the 
+kidneys decrease H+ secretion, which produces a decrease in the serum 
+HCO –
+3  concentration. Metabolic compensation for a respiratory alka­
+losis develops gradually and takes 2–3 days. In chronic compensation, 
+plasma bicarbonate falls by 4 for each 10 mm Hg decrease in the Pco2. 
+Chronic respiratory alkalosis is the only acid–base disorder in which the 
+pH may be completely normalized by the compensatory mechanisms.
+Symptoms of acute respiratory alkalosis may be chest tightness, pal­
+pitations, lightheadedness, circumoral numbness, or extremity pares­
+thesias. Less commonly, tetany, seizures, muscle cramps, or syncope can 
+be seen. The lightheadedness and syncope are felt to be a result of the 
+decrease in cerebral blood flow that is caused by hypocapnia. The pares­
+thesias, tetany, and seizures are thought to be related to the decrease in 
+ionized calcium that occurs because alkalemia causes more calcium to 
+bind to albumin. The treatment is management of the underlying process.
+MIXED ACID–BASE DISORDERS
+Mixed acid–base disorders occur when two or three primary events 
+act to alter the acid–base state at the same time. The deviations in pH 
+are more marked when two primary events block the compensation of 
+each other, such as the combination of a metabolic acidosis and a respi­
+ratory acidosis seen in a patient with shock and respiratory failure. In 
+contrast, in the presence of two opposing primary events, the pH may 
+be normal or only minimally abnormal, as can be seen with combined 
+vomiting and diarrhea. A mixed acid–base disorder is commonly seen 
+when neonates with respiratory acidosis caused by chronic lung disease 
+also receive diuretics, which can cause a metabolic alkalosis.
+The diagnosis of mixed acid–base disorder should be suspected in 
+the following situations:
+If the compensation for the primary event is absent or is out of the 
+expected range.
+If the deviation in anion gap and/or serum Cl− is out of proportion to 
+the change in HCO –
+3 .
+If the anion gap is significantly increased in the presence of a near-­
+normal pH.
+POTASSIUM DISORDERS
+Potassium is the major intracellular cation with a normal serum 
+concentration of 3.5–5.5 mEq/L. The differential distribution of 
+potassium between the intracellular (150 mEq/L) and extracellular 
+compartments, sustained by the action of the Na+,K+-­ATPase pump, 
+is the chief determinant of the resting membrane potential. Not sur­
+prisingly, both hyperkalemia (serum K+ >5.5 mEq/L) and hypokale­
+mia (serum K+ <3.5 mEq/L) have a profound effect on the excitability 
+of the neuromuscular tissue, especially the cardiac tissue. As a result, 
+fatal cardiac arrhythmias are possible sequelae of hypokalemia or 
+hyperkalemia.
+Almost all dietary potassium is absorbed. The kidney is the major 
+organ responsible for K+ excretion, eliminating more than 90% of 
+the daily K+ intake. However, after an acute ingestion of K+, the kid­
+neys excrete only half of it over the first 4–6 hours; the remainder is 
+transiently redistributed intracellularly before the kidneys eventually 
+excrete it. This intracellular redistribution has a very important role in 
+offsetting acute changes in serum K+, but it has a limited capacity to 
+do so. Redistribution of a very small fraction (1–2%) of intracellular 
+K+ into the ECF can easily increase serum K+ to a dangerous level. A 
+number of factors affect the distribution of K+ between the intracellular 
+space and the ECF (Table 59.8). The colonic excretion of K+ is of no sig­
+nificance under normal conditions, but in patients with chronic renal 
+failure, it becomes an important route of K+ elimination, when colonic 
+excretion increases substantially.
+Because the kidney is the major route of potassium elimination 
+from the body, a disturbance in renal potassium handling can be the 
+cause of excessive loss or retention.
+In clinical practice, spironolactone, amiloride, and triamterene 
+decrease urinary K+ excretion. Whereas spironolactone is an aldosterone 
+antagonist, amiloride and triamterene block the Na+ conductance chan­
+nels present in the principal cell luminal membrane. The antimicrobial 
+trimethoprim prevents K+ secretion by the same mechanism as amiloride.
+HYPOKALEMIA
+Hypokalemia (Table 59.9 and Fig. 59.1) may result from (1) increased 
+renal losses, (2) increased extrarenal losses, (3) redistribution, or (4) 
+prolonged decreased intake of potassium. When interpreting cases of 
+hypokalemia, the clinician should pay careful attention to blood pres­
+sure and obtain laboratory data concerning acid–base status, electro­
+lytes, osmolality of blood and urine, and the renin-­aldosterone axis.
+Increased Renal Losses with Hypertension
+Mineralocorticoid Excess
+The presence of excess mineralocorticoid hormone, regardless of 
+its source, results in stimulation of potassium secretion by the distal 
+tubular cells of the nephron. Mineralocorticoid excess can result from 
+primary hyperaldosteronism, rare forms of congenital adrenal hyper­
+plasia (17α-­hydroxylase or 11β-­hydroxylase deficiency), syndrome of 
+apparent mineralocorticoid excess, glucocorticoid remediable aldoste­
+ronism, and Cushing syndrome. The hypokalemia in these conditions 
+is associated with increased sodium chloride retention, causing hyper­
+tension. The expansion of the extracellular volume eventually leads to 
+the suppression of Na+-­retaining mechanisms, but the K+ losses con­
+tinue unabated. Metabolic alkalosis develops as a result of enhanced 
+proximal ammonium production secondary to potassium depletion.
+Liddle Syndrome
+Liddle syndrome is characterized by a primary increase in sodium reab­
+sorption in the collecting tubule and associated with increased potas­
+sium secretion. The sodium reabsorption is increased through activation 
+of the amiloride-­sensitive renal sodium channel. Because serum aldo­
+sterone levels are low, spironolactone is ineffective, but amiloride and 
+triamterene, which block the sodium channel, decrease potassium losses 
+and help ameliorate the hypokalemia and the hypertension.
+TABLE 59.8  Factors Affecting Potassium 
+Distribution Between Extracellular Fluid and 
+Intracellular Fluid
+Insulin
+Excess causes hypokalemia
+Deficiency causes hyperkalemia
+Catecholamines
+β-­agonists cause hypokalemia
+β-­antagonists cause hyperkalemia
+Acid–base status
+Metabolic alkalosis causes hypokalemia
+Metabolic acidosis (especially inorganic) causes 
+hyperkalemia
+Tissue injury
+Causes hyperkalemia
+From Chadha V, Alon US. Acid-­base and electrolyte disturbances. 
+In: Kliegman RM, Greenbaum LA, Lye PS, eds. Practical Strategies 
+in Pediatric Diagnosis and Therapy. 2nd ed. Philadelphia: Elsevier; 
+2004:455.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1123
+CHAPTER 59  Acid–Base and Electrolyte Disturbances
+Increased Renal Losses with Normal Blood Pressure
+The hypokalemia associated with Bartter syndrome, Gitelman syn­
+drome, RTA, DKA, and vomiting are discussed in the section on acid–
+base disorders.
+Hypomagnesemia of any cause can lead to K+ depletion, and cor­
+rection of hypokalemia is not possible until magnesium balance is 
+restored. These effects are believed to be secondary to magnesium’s 
+effect on aldosterone secretion and K+ channels. Magnesium replace­
+ment in this situation should be done with magnesium oxide, because 
+the sulfate ion of magnesium sulfate can increase the urinary K+ losses.
+The polyuric recovery phase of acute tubular necrosis and the post­
+obstructive diuresis after relief of urinary tract obstruction are com­
+monly encountered clinical conditions that may be associated with 
+excess urine potassium losses. Penicillins can increase urinary K+ losses 
+by increased delivery of sodium and nonabsorbable anions to the distal 
+nephron. Amphotericin B enhances urinary K+ loss by increasing the 
+tubular K+ permeability and also by causing type I RTA.
+Increased Extrarenal Losses
+Diarrhea is a very common cause of hypokalemia in pediatric practice. 
+Profuse sweating is a much less frequent cause of hypokalemia (sea­
+sonal pseudohypokalemia).
+Redistribution
+Alkalosis causes potassium to enter cells in exchange for H+. 
+β-­Adrenergic agonists increase intracellular movement of potassium. 
+Familial hypokalemic periodic paralysis is a rare disorder charac­
+terized by recurring transient episodes of net K+ transfer from ECF 
+to intracellular fluid (ICF). The autosomal dominant form manifests 
+between the ages of 10 and 19 years. The dominant finding is muscle 
+weakness, which may advance to paralysis. Episodes typically occur 
+after large carbohydrate-­rich meals, strenuous exercise, or insulin 
+administration. Hyperthyroid states may also produce hypokalemic 
+paralysis. Therapy is largely symptomatic; empirical treatment with 
+acetazolamide has yielded some results.
+EAST (epilepsy, ataxia, sensorineural deafness, and tubulopathy) 
+syndrome, also known as SeSAME syndrome (seizures, sensorineu­
+ral deafness, ataxia, mental retardation, and electrolyte imbalances), 
+is a rare disorder caused by a variant in the K(+) channel KCNJ10 
+(Kir4.1), found in the basolateral membrane of the renal distal convo­
+luted tubule. Inheritance is autosomal recessive and the loss-­of-­function 
+variant seen in EAST/SeSAME syndrome gives patients a similar clin­
+ical picture as Gitelman syndrome, with hypokalemic alkalosis, hypo­
+magnesemia, and hypocalciuria. Urinary studies have demonstrated 
+potassium, magnesium, and sodium wasting, and salt craving, enure­
+sis, and polydipsia/polyuria have been reported in patients with EAST 
+syndrome, consistent with renal salt wasting.
+Consequences of Hypokalemia
+Hypokalemia produces functional alterations in skeletal muscle, 
+smooth muscle, and the heart. The cardiac conduction effects are the 
+most serious consequence of hypokalemia. The characteristic ECG 
+changes include flattening of the T wave with appearance of the U wave 
+(Fig. 59.2). Skeletal muscle weakness usually starts in the limbs before 
+involving the trunk and respiratory muscles. Paralytic ileus and gas­
+tric dilatation reflect smooth muscle dysfunction. Rhabdomyolysis is 
+a dramatic and serious complication of hypokalemia. Hypokalemia is 
+particularly dangerous in patients taking digoxin.
+In the kidney, potassium deficiency may result in vacuolar 
+changes in the tubular epithelium. The renal concentrating capacity 
+is decreased, causing polyuria. Prolonged and sustained hypokalemia 
+leads to systemic alkalosis.
+Treatment of Hypokalemia
+The immediate objective of potassium replacement is to prevent 
+life-­threatening cardiac conduction and muscle complications. The 
+ultimate goal is to replenish total body potassium stores. There is no 
+method of determining the potassium deficit, because there is no 
+definite correlation between the plasma potassium concentration and 
+body potassium stores. A decrease of 1 mEq/L in serum potassium 
+concentration secondary to potassium loss generally corresponds 
+to a loss of approximately 10–30% of body potassium. In conditions 
+TABLE 59.9  Differential Diagnosis of 
+Hypokalemia
+INCREASED RENAL LOSSES (TTKG >6)
+With Hypertension
+Mineralocorticoid excess
+Primary aldosteronism
+Congenital adrenal hyperplasia
+17-­α-Hydroxylase deficiency
+11-­β-­Hydroxylase deficiency
+Hyperreninemic hyperaldosteronism
+Glucocorticoid-­suppressible hyperaldosteronism
+Exogenous mineralocorticoid
+Cushing syndrome
+Liddle syndrome
+With Normal Blood Pressure
+With Acidosis
+Renal tubular acidosis
+Diabetic ketoacidosis
+With Alkalosis
+Vomiting
+Diuretics
+Congenital chloride diarrhea
+Bartter syndrome
+Gitelman syndrome
+Magnesium depletion
+Normotensive hyperaldosteronism
+With Normal Acid–Base
+Recovery from acute tubular necrosis
+Postobstructive diuresis
+Drugs (penicillins, amphotericin B)
+EXTRARENAL LOSSES (TTKG <2)
+Diarrhea/GI fistulas
+Laxative abuse
+Profuse sweating
+REDISTRIBUTION
+Alkalosis
+β-­Adrenergic agonists
+Barium intoxication
+Familial hypokalemic periodic paralysis
+TTKG, transtubular potassium gradient.
+From Chadha V, Alon US. Acid-­base and electrolyte disturbances. 
+In: Kliegman RM, Greenbaum LA, Lye PS, eds. Practical Strategies 
+in Pediatric Diagnosis and Therapy. 2nd ed. Philadelphia: Elsevier; 
+2004:456.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1124
+SECTION 11  Endocrine and Metabolic Disorders
+with associated acidosis and/or hyperosmolality (e.g., RTA, DKA), the 
+plasma potassium concentration may underestimate potassium stores, 
+and correction of acidosis with bicarbonate in these conditions may 
+rapidly lower the serum potassium concentration.
+The safest route to administer potassium is by mouth, but in states 
+of severe symptomatic hypokalemia or when there are gastrointestinal 
+problems, potassium must be given intravenously. The usual concen­
+tration of potassium in intravenous fluid solutions is up to 40 mEq/L. 
+Higher concentrations of up to 60–80 mEq/L can be given in a central 
+vein under continuous ECG monitoring. Dextrose should be avoided 
+in the initial fluids because its administration with secondary increased 
+insulin secretion may result in further lowering of the plasma potas­
+sium concentration. The choice of potassium salt depends on the clin­
+ical situation. Under most circumstances, when hypovolemia coexists, 
+potassium chloride is appropriate. Potassium bicarbonate (or, more 
+often, other salts such as citrate or acetate, which generate bicarbonate) 
+Pseudohypokalemia
+History and physical,
+corresponding tests
+Urine K: 24hr urine K or FEK
+Extra-renal loss:
+24hr uK <20 mmol/day or FEK <5%
+Acid–base status
+Acid–base status
+TTKG
+Metabolic 
+alkalosis
+Urine chloride
+Blood pressure
+Plasma aldosterone
+and serum cortisol
+High
+<20
+<3
+>5
+Normal aldosterone
+and normal cortisol
+Liddle’s syndrome (gain-of-function variant in
+the cortical collecting tubule sodium channel)
+Apparent mineralocorticoid excess syndrome
+(reduced 11-β hydroxysteroid dehydrogenase
+activity due to gene variant)
+Cushing syndrome
+High aldosterone
+Upper GI loss
+Recent diuretic use
+Posthypercapnic state
+Steroid use
+Normal aldosterone
+and high cortisol
+Renal loss:
+24hr uK >20 mmol/day or FEK >5%
+No further
+work-up
+Low intake
+Yes
+Transcellular
+shift
+Severe leukocytosis
+Seasonal pseudohypokalemia
+High endogenous
+insulin/catecholamines
+  • ACS
+  • Hypoxia
+  • Drug withdrawals
+Osmotic diuresis
+  • Hyperglycemia
+  • Mannitol
+Metabolic acidosis
+  • RTA–I or II
+  • DKA
+  • Ureterosigmoidostomy
+Metabolic acidosis
+  • Lower GI loss, i.e.,
+    diarrhea
+Metabolic alkalosis
+  • Pyloric stenosis
+  • Congenital chloride
+    losing diarrhea
+  • Other causes of upper
+    GI loss or diuretic use
+Normal pH
+  • Mixed processes
+    above
+  • Sweating
+Primary aldosteronism
+  • Adenoma
+  • Hyperplasia
+  • Glucocorticoid remedial
+Secondary aldosteronism
+  • Renovascular disease
+  • Volume depletion
+  • Renin secreting tumor
+Normal pH
+  • Post-obstructive nephropathy
+  • Post-ATN diuresis
+  • Magnesium depletion
+Normotensive
+  • Bartter syndrome or loop
+    diuretic use
+  • Gitelman syndrome or thiazide
+    diurectic use
+Exogenous insulin, β2-
+adrenoreceptor agonist
+Hypokalemia (serum K ≤3.5 mmol/L)
+≥20
+Fig. 59.1  The diagnostic approach to hypokalemia. ACS, acute coronary syndrome; ATN, acute tubular necro­
+sis; DKA, diabetic ketoacidosis; FEK, fractional excretion of K; GI, gastrointestinal; RTA, renal tubular acidosis; 
+TTKG, transtubular potassium gradient; uK, urine K. (Modified from Kellerman RD, Rakel DP, eds. Conn’s 
+Current Therapy. Philadelphia: Elsevier; 2020:340, Fig. 1.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1125
+CHAPTER 59  Acid–Base and Electrolyte Disturbances
+can be given in the presence of coexistent metabolic acidosis. If there is 
+an associated phosphate deficiency (as in DKA), potassium phosphate 
+can be used. It is important to remember that correction of total body 
+potassium deficits can take days to weeks.
+HYPERKALEMIA
+Moderate (6.1–7.0 mEq/L) to severe (>7.0 mEq/L) hyperkalemia, espe­
+cially if it develops acutely, can lead to grave consequences and requires 
+prompt treatment. Pseudohyperkalemia can occur as a result of the 
+release of intracellular potassium (e.g., hemolysis caused by mechani­
+cal trauma during venipuncture), and it can also be seen in conditions 
+with marked leukocytosis and thrombocytosis. It can be avoided by 
+minimizing trauma and hand clenching during venipuncture, by rap­
+idly separating red blood cells, and by using plasma rather than serum 
+for potassium measurements. An unexpected elevated potassium level 
+should be immediately repeated.
+Hyperkalemia can be caused by (1) reduced urinary potassium 
+excretion, (2) increased potassium intake, (3) release of intracellular 
+potassium, and/or (4) impaired cellular potassium uptake (Table 59.10 
+and Fig. 59.3).
+Reduced Urinary Potassium Excretion
+Renal potassium excretion decreases when the GFR is decreased or 
+when there is a defect in tubular potassium excretion resulting from 
+lack of aldosterone, medications, or a primary defect in tubular potas­
+sium excretion.
+Renal Failure
+Potassium excretion is decreased in both acute and chronic renal fail­
+ure. Severe hyperkalemia occurs more commonly in acute renal failure. 
+In contrast, in patients with chronic renal failure, hyperkalemia does 
+not occur unless the GFR is lower than 10 mL/min or some other factor 
+V2
+V3
+V4
+Fig. 59.2  The ECG manifestations of hypokalemia. The serum potas­
+sium concentration was 2.2 mEq/L. The ST segment is prolonged, pri­
+marily because of a U wave following the T wave, and the T wave is 
+flattened. (From Goldman L, Schafer AI, eds. Goldman-­Cecil Medicine. 
+26th ed. Philadelphia: Elsevier; 2020:727, Fig. 109.1.)
+TABLE 59.10  Differential Diagnosis of 
+Hyperkalemia
+PSEUDOHYPERKALEMIA
+Hemolysis
+Thrombocytosis
+Leukocytosis
+REDUCED URINARY POTASSIUM EXCRETION (TTKG <5)
+Renal Failure
+Acute
+Chronic
+Hypoaldosteronism
+Addison disease
+Hereditary adrenal enzyme defects
+21-­Hydroxylase deficiency
+Hyporeninemic hypoaldosteronism
+Pseudohypoaldosteronism (Gordon syndrome)
+Drugs
+ACE inhibitors
+Potassium-­sparing diuretics
+Spironolactone
+Amiloride
+Triamterene
+Cyclosporine
+Trimethoprim
+Heparin
+Nonsteroidal antiinflammatory agents
+Primary Tubular Defects
+Post–renal transplantation
+Lupus nephritis
+AIDS
+RTA type IV (chloride shunt)
+INCREASED INTAKE/TISSUE RELEASE (TTKG >10)
+Intravenous/oral administration
+Hemolysis (endogenous or transfused blood)
+Rhabdomyolysis
+Tumor lysis
+REDISTRIBUTION
+Acidosis
+Insulin deficiency (diabetes)
+Familial hyperkalemic periodic paralysis
+Digitalis toxicity
+β-­Adrenergic blockade
+Succinylcholine
+ACE, angiotensin-­converting enzyme; RTA, renal tubular acidosis; TTKG, 
+transtubular potassium gradient.
+From Chadha V, Alon US. Acid-­base and electrolyte disturbances. In: 
+Kliegman RM, Greenbaum LA, Lye PS, eds. Practical Strategies in 
+Pediatric Diagnosis and Therapy. 2nd ed. Philadelphia: Elsevier; 2004:457.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1126
+SECTION 11  Endocrine and Metabolic Disorders
+predisposing to hyperkalemia is present. In patients with chronic renal 
+failure, potassium balance is maintained by increased K+ secretion per 
+functioning nephron and also by enhanced excretion of K+ through the 
+gastrointestinal tract.
+Hypoaldosteronism
+Low levels or absence of aldosterone (or aldosterone receptor defects) 
+may result from a variety of conditions (Addison disease, congenital 
+adrenal hyperplasia [deficiency of 21-­hydroxylase], and hyporenine­
+mic hypoaldosteronism). In addition to hyperkalemia, hyponatremia 
+and hyperchloremic metabolic acidosis are the associated features in 
+these disorders. The diagnosis can be confirmed by measurement of 
+renin activity and aldosterone levels.
+Drugs
+Several drugs are known to be associated with hyperkalemia; they 
+can either impair renin-­aldosterone secretion or action (angiotensin-­
+converting enzyme inhibitors, spironolactone, cyclosporine, or 
+heparin) or impair renal tubular potassium secretion (amiloride, tri­
+amterene, trimethoprim, or cyclosporine).
+Pseudohyperkalemia
+Severe leukocytosis
+Severe thrombocytosis
+Low endogenous
+insulin/catecholamines
+Acidosis
+Hyperglycemia
+Primary hypoaldosteronism
+Secondary hypoaldosteronism
+1. Renin deficiency/resistance
+  • Diabetes mellitus
+  • RTA-4
+  • Multiple myeloma
+  • Meds: β blocker; direct renin
+    inhibitor; NSAIDs
+2. Aldosterone deficiency/
+    resistance
+  • Congenital adrenal hyperplasia
+  • Addison disease
+  • RTA-4
+  • Renal tubulointerstitial disease
+  • Hereditary diseases: Gordon
+    syndrome, pseudohypo-
+    aldosteronism type 1
+  • Medications: ACEI/ARB; heparin;
+    spironolactone; eplerenone
+Hyperkalemic periodic paralysis
+Medications:
+  • Mannitol
+  • β blockers
+  • Succinylcholine
+  • Somatostatin
+  • Octreotide
+  • Digitalis
+Tissue breakdown/
+cell lysis
+  • Rhabdomyolysis
+  • Massive hemolysis
+  • Resolving hematoma
+  • Trauma
+  • Tumor lysis
+1. Acute renal failure or
+    advanced CKD
+    (GFR <20 mL/min)*
+2. Reduced renal tubular
+    flow from low sodium
+3. Reduced effective renal
+    blood flow
+Other medications:
+1. Collecting tubule Na/K
+    ATPase blockade
+  • Cyclosporin
+  • Tacrolimus
+2. ENAC blockade
+  • Amiloride
+  • Triamterene
+  • Trimethoprim
+  • Pentamidine
+History and physical,
+corresponding tests
+Reduced renal K excretion
+Transcellular shift
+High
+K
+load
+Yes
+No further
+work-up
+Hyperkalemia (serum K ≥5.5 mmol/L)
+TTKG<5
+Fig. 59.3  The diagnostic approach to hyperkalemia. *Hyperkalemia may occur with higher GFR if K load is 
+excessive. ACEI, angiotensin-­converting enzyme inhibitor; ARB, angiotensin receptor blocker; CKD, chronic 
+kidney disease; ENAC, epithelial sodium channel; GFR, glomerular filtration rate; NSAIDs, nonsteroidal antiin­
+flammatory drugs; RTA, renal tubular acidosis; TTKG, transtubular potassium gradient. (Modified from Keller­
+man RD, Rakel DP, eds. Conn’s Current Therapy. Philadelphia: Elsevier; 2020:341, Fig. 2.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1127
+CHAPTER 59  Acid–Base and Electrolyte Disturbances
+Primary Tubular Defects
+In some patients, hyperkalemia occurs because of low urinary K+ 
+excretion despite normal renin and aldosterone levels. The presence 
+of a selective defect in K+ secretion has been described in subjects with 
+renal transplant rejection and lupus nephritis.
+Increased Potassium Intake/Tissue Release
+Acute increases in potassium intake, usually through parenteral admin­
+istration, may result in hyperkalemia. The hyperkalemia is typically 
+transient because normal kidneys have a large capacity for excreting 
+potassium. Sustained hyperkalemia is seen only when renal excretory 
+mechanisms are impaired.
+In tumor lysis syndrome and rhabdomyolysis, massive amounts of 
+K+ are released from the intracellular compartment, but hyperkalemia 
+does not usually occur unless acute renal failure supervenes. Similarly, 
+trauma, intravascular hemolysis, transfusion of stored blood, and cata­
+bolic states such as infection or high fever are associated with release of 
+K+ from the cells; however, hyperkalemia is uncommon as long as renal 
+function is normal and normal to high urine output is maintained with 
+fluid therapy.
+Redistribution
+Acidosis and insulin deficiency result in egress of intracellular potas­
+sium. β2-­Receptor blockers, digitalis (by inhibiting the Na+,K+-­ATPase 
+pump), and succinylcholine (by inhibiting cellular repolarization) 
+cause hyperkalemia by impairing cellular potassium uptake.
+Consequences of Hyperkalemia
+Overt clinical manifestations are uncommon with hyperkalemia, but 
+cardiac arrhythmias are potentially life-­threatening. Generalized mus­
+cular weakness and paralysis can occur. The characteristic ECG find­
+ings seen with increasing [K+] are tall, peaked T waves; widening of the 
+QRS complex; decreased amplitude of the P wave; and fusion of the 
+QRS complex with the T wave, forming a sine wave (Fig. 59.4). This 
+can be rapidly followed by atrioventricular dissociation and ventricular 
+tachycardia or fibrillation. Cardiac arrest is more common with hyper­
+kalemia than with hypokalemia.
+Treatment of Hyperkalemia
+The treatment of hyperkalemia depends on the magnitude of the 
+hyperkalemia, the severity of ECG changes, and the anticipated future 
+rise in [K+]. The specific therapy should always focus on the under­
+lying cause. However, a plasma potassium concentration higher than 
+7.0 mEq/L or marked ECG changes are potentially life-­threatening 
+and necessitate immediate treatment. A normal ECG result should 
+not lead to a more casual approach, because significant ECG changes 
+can appear over a short period of time. All potassium intake (par­
+enteral nutrition, medications with potassium salt) and medica­
+tions that cause hyperkalemia, such as potassium-­sparing diuretics, 
+angiotensin-­converting enzyme inhibitors, and trimethoprim, should 
+be discontinued. The treatment modalities usually belong to the fol­
+lowing three categories: (1) antagonism of membrane excitability, 
+(2) shifting of potassium into the intracellular compartment, and (3) 
+elimination of excess potassium (Table 59.11).
+Calcium protects the heart from fatal arrhythmias caused by 
+hyperkalemia by normalizing the difference between the resting and 
+threshold potentials. This protective effect is quite rapid but relatively 
+short-­lived; therefore, other measures to reduce the concentration of 
+serum potassium are necessary.
+Potassium can be shifted from the extracellular to the intracellular 
+compartment by administration of glucose and insulin, or β2-­adrenergic 
+agonists, as detailed in Table 59.11. Although the intracellular shift of 
+potassium can be accomplished rather quickly, this is only a tempo­
+rary measure, and further steps should be taken to establish a negative 
+potassium balance.
+Loop or thiazide diuretics increase renal potassium excretion. In 
+patients with aldosterone deficiency, fludrocortisone increases renal 
+potassium excretion. Alkalinizing the urine through systemic base 
+administration can further enhance urinary potassium losses.
+Cation exchange resins (enteric) remove potassium from the body 
+and are effective in acute situations, particularly when poor renal func­
+tion is present. Dialysis is needed in patients with severe hyperkalemia, 
+especially in the presence of advanced renal failure or when accom­
+panied by a hypercatabolic state or severe tissue necrosis. For urgent 
+potassium removal, hemodialysis is more effective than continuous 
+hemodiafiltration or peritoneal dialysis.
+A
+B
+C
+Lead V3
+Fig. 59.4  The effects of progressive hyperkalemia on the electrocardio­
+gram. All of the illustrations are from lead V3. A, Serum potassium con­
+centration ([K+]) = 6.8 mEq/L; note the peaked T waves together with 
+normal sinus rhythm. B, Serum [K+] = 8.9 mEq/L; note the peaked T 
+waves and absent P waves. C, Serum [K+] > 8.9 mEq/L; note the classic 
+sine wave with absent P waves, marked prolongation of the QRS com­
+plex, and peaked T waves. (From Goldman L, Schafer AI, eds. Goldman-­
+Cecil Medicine. 26th ed. Philadelphia: Elsevier; 2020:727, Fig. 109.2.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1128
+SECTION 11  Endocrine and Metabolic Disorders
+SODIUM DISORDERS
+Sodium is the principal cation of the ECF compartment, and total body 
+sodium content is the major determinant of ECF volume. A normal 
+ECF volume is essential for maintaining an adequate circulating blood 
+volume. The sodium concentration determines cell volume by direct­
+ing water movement between the ECF compartment and the intra­
+cellular compartment. An increase in ECF osmolality causes water to 
+move out of cells, and a decrease in ECF osmolality causes water to 
+move into cells. Sodium homeostasis is coupled with water homeosta­
+sis; therefore, disorders of sodium homeostasis usually occur as a result 
+of imbalances of both sodium and water rather than an isolated imbal­
+ance of either sodium or water.
+The kidneys are pivotal regulators of sodium and water balance. 
+Sodium excretion, which is regulated by the renin-­angiotensin-­
+aldosterone system and atrial natriuretic peptide, increases in response 
+to an expanded intravascular volume, as may occur with a high sodium 
+intake. In response to a decreased intravascular volume, the urine can 
+be made virtually sodium free.
+A detailed history of the underlying disease, food and fluid intake, 
+and fluid losses in the form of stool, emesis, and urine should be 
+obtained. The physical examination focuses on an evaluation of the 
+patient’s volume status, including the nature and rate of peripheral 
+pulses, blood pressure, fullness of the fontanel, level of consciousness, 
+dryness of mucous membranes, coolness of extremities, and capil­
+lary refill time. Urinary sodium concentration can provide valuable 
+information regarding the child’s effective blood volume, but it can be 
+misleading if the patient is receiving diuretics or has abnormal renal 
+sodium handling. The clinical features associated with alterations in 
+plasma osmolality are nonspecific. Osmolality is regulated by thirst and 
+vasopressin production, which determines renal water excretion. A low 
+serum osmolality may produce lethargy and confusion, whereas a high 
+serum osmolality may lead to irritability, a high-­pitched cry, and a 
+doughy skin texture. The determination of plasma osmolality requires 
+a direct laboratory measurement or can be estimated from the follow­
+ing formula:
+	
+Serum osmolality(mOsm) = 2 × Na +
+mEq/L + [glucose]mg/dL/18
++ [urea]mg/dL/2.8
+HYPONATREMIA
+Hyponatremia is defined as a plasma sodium <135 mEq/L and is gen­
+erally characterized as a disproportionate concentration of water to 
+sodium. This may arise from either water retention or sodium losses. 
+Hyponatremia should be differentiated from pseudohyponatremia 
+and factitious hyponatremia. Pseudohyponatremia occurs in the 
+presence of excessive amounts of plasma proteins and lipids, which 
+decrease the percentage of plasma water and thus artificially lower 
+the plasma sodium concentration. The measured plasma osmolality 
+of these patients is normal, inasmuch as lipids and proteins do not 
+contribute significantly to osmolality because of their large size. There­
+fore, a gap between measured and calculated osmolalities can indicate 
+pseudohyponatremia.
+Factitious hyponatremia results from high plasma concentrations 
+of impermeable solutes such as glucose or mannitol that cause move­
+ment of water from the intracellular to the extracellular space. In con­
+trast to pseudohyponatremia, the low plasma sodium concentration in 
+these situations is a true value, and plasma osmolality is increased as 
+a result of the presence of the extra solutes. The decrease in plasma 
+sodium is approximately 1.6 mEq/L for every 100 mg/dL increase in 
+the plasma glucose concentration.
+In true hyponatremia, the plasma osmolality is low (<280 mOsm/
+kg), and the pathophysiologic processes are caused by (1) loss of both 
+plasma sodium and water (sodium losses exceeding water losses), (2) 
+increase in plasma water (without edema), or (3) increase in both total 
+body water and sodium (increase in water exceeding that of sodium; 
+usually with edema). Estimating the status of the ECF volume (hypo­
+volemia, euvolemia, or hypervolemia) is therefore useful in narrowing 
+the differential diagnosis (see Figs. 59.1, 59.5, 59.6).
+Hypovolemic Hyponatremia
+Hypovolemia hyponatremia occurs when urinary and/or gastrointes­
+tinal sodium losses exceed those of water; fluids are sequestered into 
+third spaces such as the peritoneal cavity, subcutaneous tissue, or bowel 
+lumen; or, uncommonly, sodium is lost in sweat for patients with cystic 
+fibrosis or in excessively hot climatic zones. The most common cause 
+of hypovolemic hyponatremia in children is gastroenteritis. Fistulas 
+and various types of gastrointestinal drainage tubes can also lead to 
+a similar clinical picture. The normally functioning kidneys respond 
+by conserving sodium, and the urine sodium concentration is usually 
+<20 mEq/L.
+The kidneys can be the source of excessive sodium loss in prema­
+ture infants (tubular immaturity), in patients receiving diuretics, and 
+in those having an osmotic diuresis (DKA). The presence of increased 
+urinary bicarbonate, as seen in certain patients with metabolic alka­
+losis and RTA, leads to obligatory losses of sodium in the urine. The 
+urinary sodium losses are increased during the recovery phase of 
+acute tubular necrosis, after relief of urinary tract obstruction, and 
+in certain renal diseases (salt-­wasting nephropathies) such as med­
+ullary cystic disease, polycystic kidney disease, and tubulointerstitial 
+diseases. All of these disorders are usually accompanied by hypoka­
+lemia. The presence of hyperkalemia and normal renal function in 
+patients with hypovolemic hyponatremia suggests mineralocorticoid 
+deficiency or type IV RTA.
+TABLE 59.11  Treatment of Hyperkalemia
+Antagonism of Membrane Excitability
+Calcium gluconate 10% (elemental calcium, 0.45 mEq/mL), 0.5–1.0 mL/kg 
+body weight (maximum = 10 mL), injected intravenously and slowly over 
+5–10 min, with continuous monitoring of heart rate)
+Shift of Potassium into the Intracellular Compartment
+ • Sodium bicarbonate, 1–2 mEq/kg body weight intravenously over 
+10–20 min; usefulness is limited in patients with volume expansion
+ • Glucose, 1 g/kg body weight, and insulin, 1 unit per every 4 g of glucose, 
+intravenously over 20–30 min
+ • β2-­Adrenergic agonists, such as albuterol, intravenously or by nebulizer or 
+aerosol
+Elimination of Excess Potassium
+ • Loop/thiazide diuretics
+ • Fludrocortisone (0.05–0.1 mg/day); should be avoided or given with great 
+caution to hypertensive patients
+ • Cation exchange resin, sodium polystyrene sulfonate, 1 g/kg body weight 
+(maximum, 15 g/dose), administered orally or rectally in 20–30% sorbitol 
+or 10% glucose, 1 g resin/4 mL (additional 70% sorbitol syrup may be 
+given if constipation occurs)
+ • Peritoneal dialysis, hemodialysis, or hemodiafiltration
+Modified from Hellerstein S, Alon US, Warady BA. Renal impairment. 
+In: Ashcraft KW, Murphy JP, Sharp RJ, et al., eds. Pediatric Surgery. 
+3rd ed. Philadelphia: Saunders; 2000:47–57.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1129
+CHAPTER 59  Acid–Base and Electrolyte Disturbances
+• Thiazide diuretic therapy
+• Cerebral salt wasting
+• Mineralocorticoid deficiency
+• Salt wasting nephropathy:
+  • Medullary cystic disease
+  • Chronic interstitial nephritis
+  • Polycystic kidney disease
+  • Analgesic nephropathy
+  • Partial urinary tract
+    obstruction
+  • Chronic glomerulonephritis
+• Bicarbonaturia (type 1 proximal
+  RTA, metabolic alkalosis)
+• Glucosuria (osmotic diuresis)
+• Ketonuria (alcoholic
+     ketoacidosis, diabetic
+     ketoacidosis, starvation)
+• SIADH
+• Adrenal insufficiency
+• Hypothyroidism
+• Reset osmostat
+• Drug induced
+• Excessive water intake
+• Low solute intake
+• Exercise
+• Cirrhosis
+• Congestive heart failure
+• Nephrotic syndrome
+• Renal failure (acute
+  and chronic)
+Assess clinical volume status
+Hypovolemic
+Euvolemic
+Hypervolemic
+Extrarenal
+Renal
+• Gastrointestinal losses
+• Cerebral salt wasting
+• Sweat losses
+• Third spacing losses
+  (burns, pancreatitis, trauma,
+  muscle, peritonitis)
+Fig. 59.5  The differential diagnosis of hypo-osmolar hyponatremia. RTA, renal tubular acidosis; SIADH, syn­
+drome of inappropriate antidiuretic hormone. (From Kellerman RD, Rakel DP, eds. Conn’s Current Therapy. 
+Philadelphia: Elsevier; 2020:343, Fig. 1.)
+Hypo-osmolar hyponatremia
+serum Na+ <135 mEq/L and plasma
+osmolality <275–280 mOsm/kg*
+Hypovolemic
+Euvolemic
+Hypervolemic
+Urine Osm <100 mOsm/kg*
+Urine Na <10
+FENa <1%
+Extrarenal losses
+SIADH
+Congestive heart failure,
+cirrhosis, nephrosis
+Urine Na+ >20 mEq/L
+Acute or chronic renal failure
+Urine Osm <100 mOsm/kg*
+Plasma uric acid <4 mg/dL
+Urine Osm >100 mOsm/kg*
+Urine Na+ >20 mEq/L
+(no diuretic use)
+Normal renal, adrenal,
+and thyroid function
+Urine Na+ <10
+Urine Osm >300 mOsm/kg*
+(in the absence of diuretics)
+or
+Urine Osm is 50% of plasma
+Osm (on diuretics)
+Primary polydipsia
+Renal losses
+Urine Na+ >20 mEq/L
+FENa >1%
+Fig. 59.6  Laboratory findings in hypo-osmolar hyponatremia. FENa, fractional excretion of sodium; Osm, 
+osmoles; SIADH, syndrome of inappropriate antidiuretic hormone. *Per kg water. (From Kellerman RD, Rakel 
+DP, eds. Conn’s Current Therapy. Philadelphia: Elsevier; 2020:344, Fig. 2.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1130
+SECTION 11  Endocrine and Metabolic Disorders
+Some children with acute or chronic central nervous system injury 
+(closed-­head trauma, neurosurgery, tumors, subarachnoid hemor­
+rhage, or meningitis) present with excessive renal sodium losses and 
+develop hypovolemic hyponatremia. The condition known as cere­
+bral (renal) salt-­wasting syndrome is controversial and may possi­
+bly occur because of secretion of atrial natriuretic hormone or other 
+undetermined factors. Cerebral salt wasting is usually associated with 
+hypovolemia but may be confused with the syndrome of inappropriate 
+antidiuretic hormone secretion (SIADH), which does not demonstrate 
+volume depletion. In cerebral (renal) salt wasting, sodium balance 
+(intake-­excretion) is negative. Adrenal insufficiency and renal tubular 
+injury are important disorders in the differential diagnosis of cerebral 
+salt wasting. Apart from managing the underlying condition, patients 
+with cerebral salt-­wasting syndrome require replacement of urinary 
+sodium and water losses.
+In all patients with renal losses of sodium as a cause of hypovole­
+mic hyponatremia, the urinary sodium concentration is usually >20 
+mEq/L, despite the presence of hypovolemia.
+Euvolemic Hyponatremia
+The ECF volume status of patients in this group is usually normal; 
+some persons have a slightly increased ECF volume, but they are not 
+edematous. Owing to slight ECF volume expansion, urinary sodium 
+concentration is usually >20 mEq/L.
+The syndrome of inappropriate antidiuretic hormone secretion 
+(SIADH) is a common cause of euvolemic hyponatremia. Exogenous 
+administration of DDAVP (synthetic analog of vasopressin) can produce 
+a similar clinical picture. SIADH, which has multiple causes (e.g., central 
+nervous system infections, trauma, hypoxia, and various malignancies), 
+results from antidiuretic hormone (ADH) secretion despite the absence 
+of increased plasma osmolality or volume depletion, the normal stimuli 
+for ADH secretion. Rarely is SIADH due to a vasopressin-­independent 
+mechanism such as vasopressin-­receptor sensitivity to vasopressin 
+(Table 59.12). The diagnostic criteria are as follows:
+	1.	 Hypo-osmolar hyponatremia
+	2.	 Urine osmolality higher than serum osmolality
+	3.	 Normal renal function
+	4.	 Normal adrenal and thyroid function
+	5.	 High urinary sodium concentration (this is not an absolute crite­
+rion, inasmuch as urinary sodium concentrations may be low in 
+patients who are severely sodium depleted)
+	6.	 Absence of hypovolemia or edema
+	7.	 Hypouricemia
+In the absence of any obvious clinical signs, the incidental labora­
+tory finding of hyponatremia is usually the first clue to the presence of 
+SIADH.
+Because SIADH is a problem of water retention and not of sodium 
+depletion, the most appropriate treatment is water restriction. Attempts 
+to correct the hyponatremia with sodium administration cause an 
+increase in urinary sodium excretion and little change in the plasma 
+sodium concentration. Nonetheless, sodium administration is needed 
+if severe hyponatremia leads to neurologic symptoms.
+Glucocorticoid and thyroid hormone deficiency can cause hypona­
+tremia similar to that of SIADH. Adrenal insufficiency may also pro­
+duce volume depletion and an Addisonian crisis. The hyponatremia 
+resolves with appropriate hormonal replacement therapy.
+Acute water intoxication is an uncommon cause of euvolemic 
+hyponatremia in children receiving hypotonic intravenous fluids; it 
+is likely to happen only if there is an associated impairment of free 
+water excretion capability. Postoperative patients are at particularly 
+increased risk because of high ADH secretion secondary to pain and 
+emotional stress. As the free water excretion ability of infants is limited 
+in comparison with that in older children, they are at increased risk 
+of developing hyponatremia from excessive oral water intake. Infants 
+younger than 6 months fed water without electrolytes may develop 
+hyponatremia and associated symptoms such as lethargy, seizures, and 
+hypothermia. Symptoms correct rapidly with water restriction.
+TABLE 59.12  Causes of the Syndrome of 
+Inappropriate ADH Secretion
+Ectopic ADH Production from Tumors
+Bronchogenic carcinoma
+Bronchial carcinoid
+Non-­Hodgkin lymphoma
+Hodgkin disease
+Thymoma
+Pulmonary Disease
+Tuberculosis
+Pneumonia
+Aspergillosis with cavitation
+Lung abscess
+Chronic chest infections
+Positive pressure mechanical ventilation
+Central Nervous System Disease
+Brain tumor
+Encephalitis
+Meningitis
+Brain abscess
+Head injury
+Subarachnoid hemorrhage
+Guillain-­Barré syndrome
+Systemic lupus erythematosus
+Acute intermittent porphyria
+Stress
+Hydrocephalus
+Drug Induced
+Carbamazepine
+Desmopressin
+Oxytocin
+Vincristine
+Interferons
+Nicotine
+Cyclophosphamide
+Morphine
+Amitriptyline
+Selective serotonin reuptake inhibitors
+3,4-­Methylenedioxymethamphetamine (Ecstasy)
+Phenothiazines
+Barbiturates
+ACE inhibitors
+Omeprazole
+Tricyclic antidepressants
+ACE, angiotensin-­converting enzyme; ADH, antidiuretic hormone.
+Modified from Goldman L, Schafer AI, eds. Goldman-­Cecil Medicine. 
+26th ed. Philadelphia: Elsevier; 2020:717, Table 108-­3.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1131
+CHAPTER 59  Acid–Base and Electrolyte Disturbances
+Medications may also cause hyponatremia, through a variety of 
+mechanisms, such as impairing urinary diluting capacity (i.e., thiazide 
+and loop diuretics) or renal salt wasting (Bactrim). Other medications 
+that can induce hyponatremia are angiotensin-­converting enzyme 
+inhibitors, mannitol, and nonsteroidal antiinflammatory medications 
+(see Table 59.12).
+Intoxication of traditional amphetamines and synthetic cathi­
+nones (β-­ketone amphetamine analogs) such as “bath salts” can result 
+in hyponatremia, which may cause profound central nervous system 
+disturbances. Other electrolyte abnormalities may also be seen with 
+amphetamine intoxication including hypokalemia, hyponatremia, 
+hypermagnesemia, and elevated anion gap metabolic acidosis.
+Hypervolemic Hyponatremia
+In the absence of renal disease, patients with hypervolemic hyponatre­
+mia have decreased effective circulating blood volume but with result­
+ing sodium and water retention. Urine sodium concentration is low. 
+The edema-­forming states such as heart failure, cirrhosis, and nephro­
+sis are characterized by decreased effective blood volume (despite an 
+increased ECF) that leads to stimulation of the renin-­angiotensin-­
+aldosterone axis as well as ADH secretion. Although both sodium and 
+water are retained, hyponatremia develops because of proportionately 
+greater water retention. The urinary sodium is usually <10 mEq/L 
+because of avid sodium reabsorption due to decreased effective blood 
+volume and decreased renal perfusion.
+Clinical Signs and Symptoms of Hyponatremia
+Most patients with mild degrees of hyponatremia (plasma sodium lev­
+els, 125–135 mEq/L) are asymptomatic. Once the serum sodium con­
+centration falls below 120 mEq/L, serious sequelae, especially involving 
+the central nervous system, may follow. Cerebral edema develops 
+because the decrease in plasma osmolality causes water to move into 
+the cells. Cerebral overhydration can manifest with varied symptoms, 
+such as headache, vomiting, altered consciousness, seizures, and coma. 
+The severity of symptoms is dependent on both the magnitude and 
+rapidity of the fall in the plasma sodium concentration. Although 
+seizures are common with acute hyponatremia, patients with chronic 
+hyponatremia may manifest focal neurologic deficits and ataxia. The 
+brain is protected during chronic hyponatremia by adaptive changes 
+involving loss of intracellular osmolytes. However, the same protective 
+changes can be responsible for the harmful effects seen when chronic 
+hyponatremia is corrected too rapidly (see later discussion).
+Patients with hypovolemic hyponatremia can develop shock at 
+lesser degrees of body water depletion in comparison with patients 
+with normal or increased serum sodium concentration, because of 
+the associated fluid shift from the ECF to the ICF compartment. The 
+decrease in the intravascular volume is a stimulus for ADH secretion, 
+which serves to perpetuate the hyponatremia by limiting renal water 
+excretion.
+Treatment of Hyponatremia
+The treatment of hyponatremia depends on its severity, its duration, 
+and the ECF volume status. The primary goal should be to treat the 
+underlying condition giving rise to hyponatremia (e.g., management 
+of diarrhea, mineralocorticoid deficiency, nephrosis, or heart failure). 
+However, management of hypovolemia often requires initiation of cor­
+rective therapy before the underlying disease is controlled.
+Patients with severe hypovolemia should promptly receive paren­
+teral fluids to restore the circulating blood volume and normalize tis­
+sue perfusion. Blood and urine specimens should ideally be obtained 
+as soon as possible to assess serum electrolytes, BUN level, creatinine 
+level, and urinary sodium excretion. Because correction of severe hypo­
+volemia takes precedence over normalization of osmolality, isotonic solu­
+tions can be safely administered before the blood chemistry results are 
+available. Crystalloids are the preferred replacement fluids except if 
+blood transfusion is required in cases of hemorrhagic shock. Isotonic 
+crystalloids such as 0.9% saline (sodium level, 154 mEq/L) or lactated 
+Ringer solution (sodium level, 130 mEq/L) are administered at a rate of 
+10–20 mL/kg over a short period of time. Fluid boluses can be repeated 
+as needed until clinical improvement has occurred. The correction of 
+hypovolemia helps in reversing the pathophysiologic factors causing 
+water retention, thus ameliorating the hyponatremia. In patients with 
+known cardiac, renal, or pulmonary diseases, fluid should be admin­
+istered with caution, and concomitant measurement of central venous 
+pressure and respiratory function is desirable.
+After correction of acute hypovolemia, the remaining fluid deficit 
+should be corrected slowly over 24–48 hours; additional fluid should 
+be given to accommodate ongoing losses.
+Patients with significant symptoms attributable to severe hypona­
+tremia should receive hypertonic (3%) saline. Central nervous system 
+symptoms almost always lessen when the serum sodium concentration 
+is increased by 10 mEq/L. It is recommended that the initial serum 
+sodium correction not exceed 125 mEq/L with this treatment.
+Patients with SIADH require water restriction. In this group of 
+patients, it is difficult to raise the plasma sodium concentration even 
+with hypertonic saline, unless the ECF volume is simultaneously 
+reduced. Whereas water restriction is enough for patients with mild 
+hyponatremia, patients with symptoms should receive intravenous 
+furosemide followed by intravenous hypertonic saline. In chronic 
+SIADH, demeclocycline and vaptans (vasopressin-­receptor antagonist) 
+are effective because they diminish the renal response to ADH.
+Patients with hypervolemic hyponatremia require salt and water 
+restriction. Any effort to increase the serum sodium concentration 
+by saline administration causes further ECF volume expansion and 
+may worsen the patient’s condition. In cases of severe salt and water 
+overload associated with renal failure, dialysis is the most effective 
+therapy.
+The management of patients with chronic hyponatremia is contro­
+versial. These patients usually have very subtle symptoms because the 
+brain has time to adapt to the disturbance with a decrease in the intra­
+cellular osmolytes. Rapid correction of hyponatremia can lead to cel­
+lular shrinkage and can cause an osmotic demyelination syndrome, 
+particularly in the pons; patients with extensive lesions can have flaccid 
+quadriplegia, dysphagia, and dysarthria.
+HYPERNATREMIA
+Hypernatremia is a plasma sodium level >145 mEq/L and usually 
+occurs as a result of (1) loss of both body sodium and water (water 
+losses exceeding those of sodium), (2) isolated loss of water, and 
+rarely (3) increase in body sodium. The development of hyperna­
+tremia is often prevented by thirst and renal concentrating mecha­
+nisms. Thirst is so effective that even patients with complete diabetes 
+insipidus (DI) avoid hypernatremia by spontaneously increasing fluid 
+intake. Hypernatremia develops only when hypotonic fluid losses 
+occur in combination with a disturbance in water intake, as a result of 
+inadequate access (as in comatose, developmentally delayed, or very 
+young patients), or as a result of a primary abnormality of the thirst 
+mechanism (e.g., hypothalamic adipsic syndrome). Establishing the 
+differential diagnosis of hypernatremia is aided by determining the 
+patient’s ECF volume status (hypovolemia, euvolemia, or hypervole­
+mia) (Fig. 59.7).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1132
+SECTION 11  Endocrine and Metabolic Disorders
+Hypovolemic Hypernatremia
+Disorders associated with losses of both sodium and water but with 
+a relatively greater loss of water lead to hypovolemic hypernatremia. 
+Many of the common causes (e.g., diarrhea, diuretic use) are similar to 
+those that cause hypovolemic hyponatremia. Hypernatremia in these 
+situations develops because of failure to ingest hypotonic fluids. Hyper­
+natremic dehydration and failure to thrive often develop in neonates 
+who nurse poorly, especially if the mother’s breast milk has not come 
+in. If the losses are extrarenal (e.g., through diarrhea, vomiting, profuse 
+sweating), the urinary sodium concentration is <10 mEq/L. The renal 
+causes are usually associated with a urine sodium concentration >20 
+mEq/L.
+Euvolemic Hypernatremia
+Pure water losses do not lead to volume contraction unless the water 
+losses are large; these patients therefore appear euvolemic. In addi­
+tion, hypernatremia develops only when the hypotonic losses are not 
+accompanied by appropriate water intake. Although water loss can 
+occur through the skin or the respiratory tract, the most important 
+disorder in this group is DI.
+Patients with DI have a very low urine osmolality. Central DI is 
+caused by a failure to secrete ADH; nephrogenic DI is secondary to a 
+renal resistance to ADH. Acquired forms of central and nephrogenic 
+DI are more common than the hereditary forms.
+Hereditary central DI can be either autosomal dominant or, less 
+commonly, autosomal recessive. The autosomal recessive form occurs 
+in association with diabetes mellitus, optic atrophy, and deafness (Wol­
+fram syndrome). The acquired causes of central DI include central 
+nervous system trauma, infections, tumors, granulomatous infiltration, 
+and vascular malformations.
+Congenital nephrogenic DI is a rare X-­linked disorder affect­
+ing mainly males, with variable penetrance in females. The acquired 
+form of nephrogenic DI can be seen in association with chronic renal 
+diseases (e.g., polycystic disease, medullary cystic disease, ureteral 
+obstruction), electrolyte disorders (e.g., hypokalemia, hypercalcemia), 
+drugs (e.g., lithium, demeclocycline, amphotericin, foscarnet), and 
+sickle cell disease/trait.
+Older children with DI have polyuria, polydipsia, and nocturia. 
+The urine is hypo-­osmolar and remains so even when these children 
+develop dehydration and consequently increased serum osmolality. 
+During infancy, DI can manifest with recurrent episodes of unex­
+plained dehydration and fever of unknown origin (FUO). Repeated 
+episodes of hypernatremic dehydration can lead to permanent neuro­
+logic sequelae.
+Performing a fluid deprivation test and then determining the 
+response to injectable vasopressin can help diagnose DI and differ­
+entiate between the central and nephrogenic forms. Primary treat­
+ment should focus on the underlying cause. Central DI is managed 
+with hormonal replacement therapy with desmopressin (DDAVP). 
+There is considerable individual variation in the required dosage, 
+and it is important to allow patients to revert to mild polyuria 
+before the next dose is given, to prevent excessive water accumula­
+tion. An intravenous form of ADH can be used in sick and coma­
+tose patients.
+Therapy for nephrogenic DI should ensure a sufficient intake of 
+water to replace the large urinary losses. Because obligatory urinary 
+Hypernatremia
+Hypovolemic
+(Water losses > sodium losses)
+Euvolemic
+(Isolated water deficit)
+Hypervolemic
+(Excessive sodium intake)
+Renal losses
+ Diuretics
+ Osmotic diuresis
+ Postobstructive diuresis
+ Renal dysplasia
+Gastrointestinal
+ Vomiting
+ Diarrhea
+ Drains/fistulas 
+Dermal
+ Sweating
+ Burns
+ Radiant warmer
+Diabetes insipidus
+ Central
+ Nephrogenic
+Adipsic / hypodipsic
+Increased intake
+ Improper formulation
+ Bicarbonate administration
+ Hypertonic dialysis
+Hyperaldosteronism
+Cushing syndrome
+Extrarenal losses
+Renal losses
+Respiratory
+Dermal
+Extrarenal losses
+UNa > 20 mEq/L
+Diuretics and 
+water replacement
+UNa variable
+Water replacement
+UNa > 20 mEq/L
+Iso- or hypotonic saline
+UNa variable
+UNa < 10 mEq/L
+Fig. 59.7  Classification, diagnosis, and treatment of hypernatremic states. (Modified from Beri T, Schrier RW. 
+Disorders of water metabolism. In: Schrier RW, ed. Renal and Electrolyte Disorders. Philadelphia: Lippincott-­
+Raven; 1997.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1133
+CHAPTER 59  Acid–Base and Electrolyte Disturbances
+water losses increase with increasing solute load, restriction of sodium 
+intake reduces the urine output. Administration of diuretics, such as 
+thiazides and amiloride, keeps these patients in a mildly dehydrated 
+state, which leads to increased water reabsorption in the more proxi­
+mal segments of the nephron, thereby decreasing urine output. Non­
+steroidal antiinflammatory drugs such as indomethacin also reduce 
+polyuria and may be used in combination with diuretics. Careful atten­
+tion should be paid to the fluid balance in these patients when they are 
+sick and have poor oral fluid intake because they require large quanti­
+ties of water replacement. Frequent monitoring of serum electrolytes is 
+mandatory during these periods.
+Medications such as amphotericin B, dexamethasone, lithium, 
+ofloxacin, and foscarnet can result in hypernatremia by causing a 
+nephrogenic DI, and electrolytes should be monitored in patients on 
+these medications for prolonged time periods.
+Adipsic/hypodipsic hypernatremia (essential/neurogenic hyper­
+natremia, osmoreceptor dysfunction) characterizes a group of patients 
+who have persistent hypernatremia, absence or attenuation of thirst, 
+and in some partial DI. Adipsic hypernatremia may be idiopathic 
+or associated with hypothalamic sarcoidosis, histiocytosis, tumors, 
+hemorrhage, anterior communicating artery aneurysm, hydrocepha­
+lus, trauma, or congenital malformations (holoprosencephaly). These 
+patients require regimental intake of fluids; they may need supplemen­
+tation with DDAVP.
+Hypervolemic Hypernatremia
+This is the least common type of hypernatremia. Most of the causes are 
+iatrogenic (administration of improperly formulated oral rehydration 
+solution, administration of intravenous fluids, excessive bicarbonate 
+administration during resuscitative efforts, inadvertent dialysis against 
+a high sodium concentration dialysate, salt poisoning, and seawater 
+drowning).
+Salt poisoning is often evident without signs of dehydration or 
+weight loss (weight gain may occur); the fractional excretion of sodium 
+is elevated, urine output is sustained, and an elevated sodium level in 
+the gastric aspirate may be noted.
+Other less common causes of hypernatremia include primary 
+hyperaldosteronism and Cushing syndrome.
+Clinical Signs and Symptoms of Hypernatremia
+Hypernatremia causes intracellular dehydration by movement of 
+water from the intracellular to the extracellular compartment. The 
+consequences of intracellular dehydration are particularly marked in 
+the brain and manifest with irritability, altered sensorium, lethargy, 
+and hyperreflexia and eventually seizures, coma, and death. Brain 
+hemorrhages can result from tearing of small blood vessels when the 
+brain contracts as a result of intracellular dehydration. Hypernatre­
+mia and dehydration may predispose to dural sinus thrombosis. 
+During chronic hypernatremia, the brain cells adapt to the increased 
+ECF osmolality by accumulating idiogenic osmoles (which are mostly 
+amino acids, particularly taurine). They increase intracellular osmo­
+lality, consequently restoring intracellular volume. This protective 
+response has significant implications for therapy and the speed with 
+which hypernatremia should be corrected.
+Treatment of Hypernatremia
+The treatment of hypernatremia is guided by its severity, its chronicity, 
+and the ECF volume status of the patient.
+It is important to realize that patients with hyperosmolality main­
+tain the ECF space at the expense of the ICF compartment, and, there­
+fore, the degree of sodium and fluid losses may be profound before 
+clinical signs of hypovolemia develop. Large volumes of isotonic crys­
+talloid may be necessary to replace the fluid deficit.
+Once initial fluid resuscitation has been performed, the serum 
+sodium concentration should be restored slowly over a minimum 
+period of 48 hours. The total water deficit can be estimated as follows 
+(FW, free water; NA, sodium):
+	FW 
+(child) = 0.6 × weight (kg) × ((current NA / 140) − 1)
+ 
+Hypernatremia is corrected especially slowly when it is more severe 
+and chronic. The rate of fall in plasma sodium concentration should be 
+<1 mEq/L/hr. During the correction of hypernatremia, the idiogenic 
+osmoles that brain cells produce to prevent cellular dehydration dis­
+sipate slowly. If hypernatremia is corrected too rapidly, the increased 
+intracellular osmolality from the idiogenic osmoles can lead to cere­
+bral edema. In patients with salt poisoning, the first line of therapy is 
+restriction of salt intake, followed by administration of hypotonic fluid; 
+acute salt ingestion does not generate idiogenic osmols, permitting a 
+more rapid treatment.
+CALCIUM DISORDERS
+Serum calcium concentration in the ECF is regulated by parathy­
+roid hormone (PTH), which acts on the kidney and bones, and by 
+1,25-­dihydroxyvitamin D, which acts on the intestines and bones. 
+About 50% of the calcium is in the ionized form, 40% is protein 
+bound (mainly to albumin), and 10% is associated with anions, such 
+as bicarbonate, citrate, sulfate, phosphate, and lactate. It is import­
+ant to remember that serum albumin levels and pH affect calcium 
+levels. There is a direct relationship between serum albumin con­
+centration and total serum calcium. An alkaline pH will increase 
+protein binding, leading to decreased ionized calcium levels. It is 
+important to obtain an ionized calcium level when evaluating cal­
+cium derangements.
+Hypocalcemia
+There are many causes of hypocalcemia, and measurements of PTH 
+can help classify the etiology of hypocalcemia (Fig. 59.8). Hypocal­
+cemia is defined as a total serum calcium level below 8.5 mg/dL and 
+an ionized serum calcium level below 4.65 mg/dL. Patients with mild 
+hypocalcemia are usually asymptomatic. With severe hypocalcemia, 
+patients may present with paresthesias of the extremities, Chvostek 
+sign, Trousseau sign, muscle cramps or spasm, laryngospasm, tetany, 
+and seizures. Cardiac manifestations of hypocalcemia include a pro­
+longed QT interval, which can progress to heart block. In a child pre­
+senting with severe hypocalcemia, especially one with a past medical 
+history significant for constipation, clinicians should be sure to take 
+a thorough medication history, including whether they have received 
+sodium phosphate enemas, as there are reports of patients present­
+ing with marked hypocalcemia after receiving phosphate-­containing 
+enemas.
+Hypercalcemia
+Similar to hypocalcemia, there are also many causes of hypercalce­
+mia (Fig. 59.9). Hypercalcemia usually occurs through one of three 
+mechanisms: increased bone resorption, increased gastrointestinal 
+absorption of calcium, and decreased renal excretion. Hypercalcemia 
+is defined as total serum calcium above 10.5 mg/dL and an ionized 
+serum calcium above 5.25 mg/dL. Patients with mild hypercalcemia 
+usually do not have symptoms. Patients with severe hypercalcemia may 
+have neurologic manifestations ranging from drowsiness to coma.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1134
+SECTION 11  Endocrine and Metabolic Disorders
+PTH
+Hypoparathyroidism
+Shock
+Hypoalbuminemic
+conditions
+PTH
+PTH normal
+Alkalosis
+Rapid correction
+  of acidosis
+Hypomagnesemia
+  Familial
+  Malabsorption
+  Aminoglycosides
+Vitamin D deficiency
+  Deficient sunlight
+  Nutritional/dietary deficiency
+  Malabsorption
+  Liver disease (biliary cirrhosis)
+  Renal disease
+  Anticonvulsants
+Vitamin D–dependent
+  rickets (Type I)
+Pseudohypoparathyroidism
+Hyperphosphatemia
+  Tumor-lysis syndrome
+  Rhabdomyolysis
+  Laxatives/enemas
+Acute pancreatitis
+Hungry bone syndrome
+Drugs (colchicine, estrogen,
+  calcitonin)
+Large amounts of citrated blood
+Vitamin D–dependent rickets
+  (Type II)
+Aplasia/hypoplasia
+  (DiGeorge syndrome)
+Familial
+Surgical
+Infiltrative lesions
+  (hemosiderosis, Wilson
+  disease)
+Autoimmune
+Idiopathic
+Maternal hyperparathyroidism
+  (during pregnancy)
+PTH
+1,25 (OH)2 vitamin D
+25 (OH) vitamin D
+Albumin
+AST, ALT
+BUN
+Creatinine
+Magnesium
+Phosphorus
+Alkaline phosphatase
+Electrolytes
+  (with bicarbonate)
+Yes
+No
+Confirm with ionized calcium
+HYPOCALCEMIA
+Abnormal
+Septic or ill appearing
+Normal
+Fig. 59.8  Causes of hypocalcemia. ALT, alanine aminotransferase; AST, aspartate aminotransferase; PTH, 
+parathyroid hormone. (From Pomeranz AJ, Sabnis S, Busey SL, et al. Hypocalcemia. In: Pomeranz AJ, Sabnis 
+S, Busey SL, et al., eds. Pediatric Decision-­Making Strategies. 2nd ed. Philadelphia: Elsevier; 2016:335.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1135
+CHAPTER 59  Acid–Base and Electrolyte Disturbances
+RICKETS
+Rickets is a disease caused by deficient mineralization of the osteoid matrix 
+before closure of the epiphyseal plate that results in softening and weaken­
+ing of bones in infants and children. In patients with rickets, the growth 
+plate cartilage and osteoid continues to expand but mineralization is inad­
+equate, and as a result, the growth plate thickens. The circumference of the 
+growth plate and the metaphysis also increases, which expands bone width 
+at the location of the growth plates and causes some of the classic clinical 
+manifestations, such as widening of the wrists and ankles. There is also 
+softening of the bones that can lead to bone deformities and causes them 
+to bend easily, especially when subject to certain forces.
+Rickets is usually caused by nutritional and less often malabsorp­
+tive vitamin D deficiency. Risk factors include limited sun expo­
+sure, ages 6–24 months, prematurity, solely breast-­fed infants, use of 
+anticonvulsants, and darker skin pigmentation. Rickets is still a signifi­
+cant problem in developing countries, likely due to nutritional vitamin 
+D deficiency and inadequate calcium intake.
+Clinical Manifestations
+Most clinical features of rickets are due to skeletal changes (Figs. 59.10 
+and 59.11). Craniotabes is a softening of the cranial bones, which can be 
+appreciated by applying pressure at the occiput or over the parietal bones. 
+Widening of the costochondral junctions produces a rachitic rosary, which 
+can be detected on exam by moving one’s fingers along the costochondral 
+junctions from rib to rib, named because it feels like the beads of a rosary. 
+Increased circumference of the wrists and ankles is a result of growth plate 
+widening. Patients with rickets may have an indentation of the lower ribs, 
+known as a Harrison groove, which occurs from the pulling of the softened 
+ribs by the diaphragm during inspiration. Softening of the ribs can impair 
+Obtain
+PTH
+Phosphorus
+HYPERCALCEMIA
+Stigmata of
+William syndrome
+1,25 (OH)2
+vitamin D
+Increased
+1,25 (OH)2
+vitamin D
+Normal
+1,25 (OH)2
+vitamin D
+PTH
+Undetectable
+PTH
+PTH
+PTH normal
+Medications
+Jensen-type
+metaphyseal
+chondrodys-
+plasia
+Immobilization
+Malignancy
+Thyrotoxicosis
+Dialysis
+  osteomalacia
+Hypophosphatemia
+Ectopic production of
+    vitamin D
+  Tumors
+  Sarcoid, other
+    granulomatous
+    diseases
+Hypervitaminosis D
+  latrogenic
+  Excessive food
+    fortification
+  Food fads
+Hypervitaminosis A
+Thiazides
+Milk-alkali syndrome
+Yes
+No
+Yes
+No
+Yes
+No
+Excessive intake
+William
+syndrome
+Post renal
+transplant
+Malignancies
+Sporadic (adenoma/
+    hyperplasia)
+Hereditary
+  MEN I
+  MEN II
+  Hyperparathyroidism–
+    jaw tumor syndrome
+Subcutaneous fat
+  necrosis
+Familial hypocalciuric
+  hypercalcemia
+Hypophosphatemia
+Idiopathic
+  hypercalcemia
+  of infancy
+Lithium
+Ectopic PTH
+  production
+Primary
+hyperparathyroidism
+Tertiary
+hyperparathyroidism
+Fig. 59.9  Causes of hypercalcemia. MEN, multiple endocrine neoplasia; PTH, parathyroid hormone. (From 
+Pomeranz AJ, Sabnis S, Busey SL, et al. Hypocalcemia. In: Pomeranz AJ, Sabnis S, Busey SL, et al., eds. 
+Pediatric Decision-­Making Strategies. 2nd ed. Philadelphia: Elsevier; 2016:337.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1136
+SECTION 11  Endocrine and Metabolic Disorders
+air movement and predisposes patients to atelectasis and pneumonia. In 
+addition to the skeletal manifestations, rickets can present with hypocalce­
+mia, hypophosphatemia, and tetany (Table 59.13). It is important to note 
+that most children are asymptomatic, and rickets is diagnosed through an 
+incidental finding on physical or radiologic examination.
+There is some variation in the clinical presentation of rickets 
+based on the etiology. Changes in the lower extremities tend to be the 
+Fig. 59.10  Vitamin D deficiency rickets. A 14-­month-­old child with 
+growth failure and severe rickets who responded well to vitamin D 
+therapy. The initial image (left) shows loss of definition of the zones of 
+provisional calcification for the distal radial and ulnar metaphyses along 
+with metaphyseal fraying and concavity (“cupping”) and physeal wid­
+ening with an increased distance between the epiphysis and visualized 
+portion of the metaphysis. Periosteal new bone also is present that is 
+seen best along the metacarpals but also is present along the distal 
+radius. With healing (right), the zone of provisional calcification is well 
+mineralized and the other findings have resolved. (From Coley BD, ed. 
+Caffey’s Pediatric Diagnostic Imaging. 13th ed. Philadelphia: Elsevier; 
+2019:1397, Fig. 139.1.)
+TABLE 59.13  Clinical Features of Rickets
+General
+Failure to thrive (malnutrition)
+Listlessness
+Protruding abdomen
+Muscle weakness (especially proximal)
+Hypocalcemic dilated cardiomyopathy
+Fractures (pathologic, minimal trauma)
+Increased intracranial pressure
+Head
+Craniotabes
+Frontal bossing
+Delayed fontanel closure (usually closed by 2 yr)
+Delayed dentition
+No incisors by age 10 mo
+No molars by age 18 mo
+Caries
+Craniosynostosis
+Chest
+Rachitic rosary
+Harrison groove
+Respiratory infections and atelectasis*
+Back
+Scoliosis
+Kyphosis
+Lordosis
+Extremities
+Enlargement of wrists and anides
+Valgus or varus deformities
+Windswept deformity (valgus deformity of one leg with varus deformity of 
+other leg)
+Anterior bowing of tibia and femur
+Coxa vara
+Leg pain
+Hypocalcemic Symptoms†
+Tetany
+Seizures
+Stridor caused by laryngeal spasm
+*These features are most frequently associated with the vitamin D defi­
+ciency disorders.
+†These symptoms develop only in children with disorders that produce 
+hypocalcemia.
+From Greenbaum LA. Vitamin D deficiency (rickets) and excess. In: 
+Kliegman RM, St. Geme JW III, Blum NJ, et al., eds. Nelson Textbook 
+of Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:375, Table 64.3.
+A
+B
+Fig. 59.11  Diaphyseal findings in a patient with severe vitamin D defi­
+ciency rickets. Radiographs of the forearm during the active phase (A) 
+show coarse demineralization and subperiosteal bone resorption, which 
+are indicative of hyperparathyroidism as a result of rickets. Also note the 
+severe rachitic findings in the metaphysis and poor mineralization of the 
+distal radial epiphysis (arrow) with loss of the zones of provisional calci­
+fication. With healing 3 months later (B), extensive periosteal new bone 
+is seen (white arrows) with calcification of previously nonmineralized 
+osteoid (black arrows) produced by periosteal osteoblasts. (From Coley 
+BD, ed. Caffey’s Pediatric Diagnostic Imaging. 13th ed. Philadelphia: 
+Elsevier; 2019:1398, Fig. 139.4)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1137
+CHAPTER 59  Acid–Base and Electrolyte Disturbances
+TABLE 59.15  Laboratory Findings in Various Disorders Causing Rickets
+Disorder
+Ca
+Pi
+PTH
+25-­(OH)D
+1,25-­(OH)2D
+ALP
+Urine Ca
+Urine Pi
+Vitamin D deficiency
+N, ↓
+↓
+↑
+↓
+↓, N, ↑
+↑
+↓
+↑
+VDDR type 1A
+N, ↓
+↓
+↑
+N
+↓
+↑
+↓
+↑
+VDDR type 1B
+N, ↓
+↓
+↑
+↓
+N
+↑
+↓
+↑
+VDDR type 2A
+N, ↓
+↓
+↑
+N
+↑↑
+↑
+↓
+↑
+VDDR type 2B
+N, ↓
+↓
+↑
+N
+↑↑
+↑
+↓
+↑
+Chronic kidney disease
+N, ↓
+↑
+↑
+N
+↓
+↑
+N, ↓
+↓
+Dietary Pi deficiency
+N
+↓
+N, ↓
+N
+↑
+↑
+↑
+↓
+XLH*
+N
+↓
+N, ↑
+N
+RD
+↑
+↓
+↑
+ADHR*
+N
+↓
+N
+N
+RD
+↑
+↓
+↑
+HHRH
+N
+↓
+N, ↓
+N
+↑
+↑
+↑
+↑
+ARHR type 1 or type 2*
+N
+↓
+N
+N
+RD
+↑
+↓
+↑
+Tumor-­induced rickets†
+N
+↓
+N
+N
+RD
+↑
+↓
+↑
+Fanconi syndrome
+N
+↓
+N
+N
+RD or ↑
+↑
+↓ or ↑
+↑
+Dent disease
+N
+↓
+N
+N
+N
+↑
+↑
+↑
+Dietary Ca deficiency
+N, ↓
+↓
+↑
+N
+↑
+↑
+↓
+↑
+1,25-­(OH)2D, 1,25-­dihydroxyvitamin D; 25-­(OH)D, 25-­hydroxyvitamin D; ADHR, autosomal dominant hypophosphatemic rickets; ALP, alkaline phos­
+phatase; Ca, calcium; HHRH, hereditary hypophosphatemic rickets with hypercalciuria; N, normal; Pi, inorganic phosphorus; PTH, parathyroid hor­
+mone; RD, relatively decreased (because it should be increased given the concurrent hypophosphatemia); VDDR, vitamin D–dependent rickets; XLH, 
+X-­linked hypophosphatemic rickets; ↓, decreased; ↑, increased; ↑↑, extremely increased.
+*Elevated fibroblast growth factor-­23 (FGF-­23).
+†FGF-­23 elevated in some patients.
+From Greenbaum LA. Vitamin D deficiency (rickets) and excess. In: Kliegman RM, St. Geme JW III, Blum NJ, et al., eds. Nelson Textbook of 
+Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:375, Table 64.4.
+dominant feature in X-­linked hypophosphatemic rickets. Symptoms 
+secondary to hypocalcemia occur only in those forms of rickets associ­
+ated with decreased serum calcium (Table 59.14).
+Diagnosis of rickets is usually made by radiographic examination of 
+the long bones. Laboratory values can support the diagnosis. Laboratory 
+values may show decreased calcium and phosphorus, increased alkaline 
+phosphatase, decreased 25-­(OH) vitamin D3 levels, increased 1,25-­(OH)2 
+vitamin D levels, and increased PTH levels. The increased PTH is indica­
+tive of the hormonal response that tries to maintain normal calcium (Table 
+59.15). The appropriate treatment depends on the underlying etiology.
+TABLE 59.14  Causes of Rickets
+Vitamin D Disorders
+Nutritional vitamin D deficiency
+Congenital vitamin D deficiency
+Secondary vitamin D deficiency
+Malabsorption
+Increased degradation
+Decreased liver 25-­hydroxylase
+Vitamin D–dependent rickets types 1A and 1B
+Vitamin D–dependent rickets types 2A and 2B
+Chronic kidney disease
+Calcium Deficiency
+Low intake
+Diet
+Premature infants (rickets of prematurity)
+Malabsorption
+Primary disease
+Dietary inhibitors of calcium absorption
+Phosphorus Deficiency
+Inadequate intake
+Premature infants (rickets of prematurity)
+Aluminum-­containing antacids
+Renal Losses
+X-­linked hypophosphatemic rickets*
+Autosomal dominant hypophosphatemic rickets*
+Autosomal recessive hypophosphatemic rickets types 1 and 2*
+Hereditary hypophosphatemic rickets with hypercalciuria
+Overproduction of fibroblast growth factor-­23
+Tumor-­induced rickets*
+McCune-­Albright syndrome*
+Epidermal nevus syndrome*
+Neurofibromatosis*
+*Disorders secondary to fibroblast growth factor-­23.
+From Greenbaum LA. Vitamin D deficiency (rickets) and excess. In: Kliegman RM, St. Geme JW III, Blum NJ, et al., eds. Nelson Textbook of 
+Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:376, Table 64.2.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1138
+SECTION 11  Endocrine and Metabolic Disorders
+   	 S U MMA RY  A N D  R E D  F L A G S
+Acid–base and electrolyte disturbances have many causes that reflect 
+abnormalities of regulation or compensation of these systems. For 
+many acid–base or electrolyte disturbances, the underlying condition 
+needs to be treated before consideration of the electrolyte or acid–base 
+disturbance. This is true in all causes of shock, such as dehydration, 
+adrenal crisis, severe trauma, or systemic hemorrhage. The circulating 
+blood volume must be quickly reestablished; this is usually performed 
+as part of the resuscitation phase of treating dehydration or shock. 
+Thereafter, specific acid–base or, more often, electrolyte abnormalities 
+can be attended to during the replacement phase to correct electrolyte 
+deficits. In general, electrolyte disturbances must be corrected slowly. 
+This is particularly true for sodium abnormalities. The major excep­
+tions are hyperkalemia and acute hypercarbic respiratory acidosis, 
+which must be treated immediately.
+Each of the discussed acid–base and electrolyte disturbances is 
+important, and hyperkalemia remains the one of most concern and the 
+most dangerous.
+Anuria or polyuria, hypotension or hypertension, weight loss, sei­
+zures, coma, hypoglycemia, muscle cramps, tetany, hyperglycemia, 
+apnea, and arrhythmias are additional concerning signs and symptoms. 
+Moreover, the clinician must remain vigilant in identifying the primary 
+reason or reasons for any of these acid–base or electrolyte disturbances.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1138.e1
+BIBLIOGRAPHY
+Acid–Base Disorders
+Adrogue HJ, Madias NE. Management of life-­threatening acid-­base disorders. 
+N Engl J Med. 1998;338:26.
+Akduman H, Eminoglu T, Okulu E, et al. A neonate presenting with Gracile 
+syndrome and Bjornstad phenotype associated with BCS1L mutation. 
+Genet Couns. 2016;27(4):509–512.
+Berend K, de Vries APJ, Gans ROB. Physiological approach to assessment of 
+acid-­base disturbances. N Engl J Med. 2014;371(15):1434–1445.
+Bettinelli A, Bianchetti MG, Girardin E, et al. Use of calcium excretion values 
+to distinguish two forms of primary renal tubular hypokalemic alkalosis: 
+Bartter and Gitelman syndromes. J Pediatr. 1992;120:38.
+Brewer ED. Disorders of acid-­base balance. Pediatr Clin North Am. 1990;37:429.
+Costanzo LS. Acid-­base physiology. In: Costanzo LS, ed. Physiology. 5th ed. 
+Philadelphia: Saunders; 2014:303–328.
+Fall PJ. A stepwise approach to acid-­base disorders. Practical patient evaluation 
+for metabolic acidosis and other conditions. Postgrad Med. 2000;107:249.
+Fellman V, Rapola J, Pihko H, et al. Iron-­overload disease in infants involving 
+fetal growth retardation, lactic acidosis, liver haemosiderosis, and 
+aminoaciduria. Lancet. 1998;351(9101):490–493.
+Ferri FF. Renal tubular acidosis. In: Ferri FF, ed. Ferri’s Clinical Advisor 2016. 
+Philadelphia: Elsevier; 2016:1071–1072.
+Greenbaum LA. Electrolyte and acid-­base disorders. In: Kliegman RM, St. 
+Geme III JW, Blum NJ, et al., eds. Nelson Textbook of Pediatrics. 21st ed. 
+Philadelphia: Elsevier; 2020:389–432.
+McKusick VA. #603358 GRACILE syndrome. Online Mendelian Inheritance in 
+Man (OMIM). Retrieved from https://www.omim.org/entry/603358.
+Palmer BF. Metabolic acidosis. In: Feehally J, Floege J, et al., eds. 
+Comprehensive Clinical Nephrology. 6th ed. Philadelphia: Elsevier; 
+2019:149–159.
+Pereira PC, Miranda DM, Oliveira EA, et al. Molecular pathophysiology of 
+renal tubular acidosis. Curr Genomics. 2009;10(1):51–59.
+Rodríguez SJ. Renal tubular acidosis: the clinical entity. J Am Soc Nephrol. 
+2002;13:2160–2170.
+Shapiro JI, Kaehny WD. Pathogenesis and management of metabolic acidosis 
+and alkalosis. In: Schrier RW, ed. Renal and Electrolyte Disorders. 
+Philadelphia: Lippincott-­Raven; 1997.
+Weber DR, Jospe N. Diabetes mellitus. In: Kliegman RM, St. Geme III JW, 
+Blum NJ, et al., eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia: 
+Elsevier; 2020:3019–3052.
+Wolfsdorf J, Allgrove J, Craig ME, et al. Diabetic ketoacidosis. Pediatr Diabetes. 
+2014;15(suppl 20):154–179.
+Potassium Disorders
+Alon US. Renal tubular acidosis. In: Finberg L, ed. Saunders Manual of 
+Pediatric Practice. Philadelphia: WB Saunders; 1998:694.
+Carlisle EJF, Donnelly SM, Ethier JH, et al. Modulation of the secretion 
+of potassium by accompanying anions in humans. Kidney Int. 
+1991;39:1206.
+Chacko M, Fordtran JS, Emmett M. Effect of mineralocorticoid activity on 
+transtubular potassium gradient, urinary [K]/[Na] ratio, and fractional 
+excretion of potassium. Am J Kidney Dis. 1998;32:47.
+Halperin ML, Kamel K. Potassium. Lancet. 1998;352:135.
+Hellerstein S, Alon US, Warady BA. Renal impairment. In: Ashcraft KW, ed. 
+Pediatric Surgery. Philadelphia: Saunders; 2000.
+Kintu B, Brightwell A. Episodic seasonal pseudo-­Bartter syndrome in cystic 
+fibrosis. Paedtr Respir Rev. 2014;155:19-­21.
+Kniffin CL. #612780 Seizures, sensorineural deafness, ataxia, mental 
+retardation, and electrolyte imbalance; sesames. Online Mendelian 
+Inheritance in Man (OMIM). Retrieved from https://www.omim.org/
+entry/612780
+Mandal AK. Hypokalemia and hyperkalemia. Med Clin North Am. 
+1997;81:611.
+Perazella MA. Drug-­induced hyperkalemia: old culprits and new offenders. 
+Am J Med. 2000;109:307.
+Peterson LN, Levi M. Disorders of potassium metabolism. In: Schrier RW, 
+ed. Renal and Electrolyte Disorders. Philadelphia: Lippincott-­Raven; 
+1997.
+Rodriguez-­Soriano J, Ubetagoyena M, Vallo A. Transtubular potassium 
+concentration gradient: a useful test to estimate renal aldosterone bio-­
+activity in infants and children. Pediatr Nephrol. 1990;4:105.
+Scholl UI, Choi M, Liu T, et al. Seizures, sensorineural deafness, ataxia, mental 
+retardation, and electrolyte imbalance (SeSAME syndrome) caused by 
+mutations in KCNJ10. Proc Nat Acad Sci. 2009;106:5842–5847.
+Sung CC, Cheng CJ, Chiang WF, et al. Etiologic and therapeutic analysis in 
+patients with hypokalemic nonperiodic paralysis. Amer J Med 
+2015;128:289–296.
+Wilson FH, Disse-­Nicodeme S, Choate KA, et al. Human hypertension caused 
+by mutations in WNK kinases. Science. 2001;293:1107.
+Sodium Disorders
+Abrahm WT, Schrier RW. Renal sodium excretion, edematous disorders, 
+and diuretic use. In: Schrier RW, ed. Renal and Electrolyte Disorders. 
+Philadelphia: Lippincott-­Raven; 1997.
+Adebamiro A, Perazella MA. Recurrent acute kidney injury following bath 
+salts intoxication. Am J Kidney Dis. 2012;59:273–275.
+Ball SG, Vaidja B, Baylis PH. Hypothalamic adipsic syndrome: diagnosis and 
+management. Clin Endocrinol (Oxf). 1997;47:405.
+Berl T, Schrier RW. Disorders of water metabolism. In: Schrier RW, ed. Renal 
+and Electrolyte Disorders. Philadelphia: Lippincott-­Raven; 1997.
+Berry PL, Belsha CW. Hyponatremia. Pediatr Clin North Am. 1990;37:351.
+Blohm E, Goldberg A, Salerno A, et al. Recognition and management of 
+pediatric salt toxicity. Pediatr Emerg Care. 2018;34(11):820–824.
+Breault DT, Majzoub JA. Diabetes insipidus. In: Kliegman RM, St. Geme III 
+JW, Blum NJ, et al., eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia: 
+Elsevier; 2020:2887–2889.
+Buckley MS, LeBlanc JM, Cawley MJ. Electrolyte disturbances associated with 
+commonly prescribed medications in the intensive care unit. Crit Care 
+Med. 2010;38:S253–S264.
+Cadnapaphornchai MA, Schrier RW. Pathogenesis and management of 
+hyponatremia. Am J Med. 2000;109:688.
+Conley SB. Hypernatremia. Pediatr Clin North Am. 1990;37:365.
+Djermane A, Elmaleh M, Simon D, et al. Central diabetes insipidus 
+in infancy with or without hypothalamic adipsic hypernatremia 
+syndrome: early identification and outcome. J Clin Endocrinol Metab. 
+2016;101(2):635–643.
+Ganong CA, Kappy MS. Cerebral salt wasting in children. The need for 
+recognition and treatment. Am J Dis Child. 1993;147:167.
+Hall RT, Simon S, Smith MT. Readmission of breastfed infants in the first 2 
+weeks of life. J Perinatol. 2000;20:432.
+Haycock GB. The syndrome of inappropriate secretion of antidiuretic 
+hormone. Pediatr Nephrol. 1995;9:375.
+Jakobsson B, Berg U. Effect of hydrochlorothiazide and indomethacin treatment 
+on renal function in nephrogenic diabetes insipidus. Acta Peadiatr. 1994;83:522.
+Kolmodin L, Sekhon MS, Henderson WR, et al. Hypernaturemia in patients with 
+severe traumatic brain injury: a systematic review. Ann Intensive Care. 2013;3:35.
+Manganaro R, Mami C, Marrone T, et al. Incidence of dehydration and 
+hypernatremia in exclusively breast-­fed infants. J Pediatr. 2001;139:673.
+Prosser JM, Nelson LS. The toxicology of bath salts: a review of synthetic 
+cathinones. J Med Toxicol. 2012;8:33.
+Savasta S, Chiapedi S, Borali E, et al. Holoprosencephaly with neurogenic 
+hypernatremia: a new case. Childs Nerv Syst. 2008;24:139–142.
+Spiller HA, Ryan ML, Weston RG, et al. Clinical experience with and analytical 
+confirmation of “bath salts” and “legal highs” (synthetic cathinones) in the 
+United States. Clin Toxicol. 2011;49(6):499–505.
+Trachtman H. Sodium and water homeostasis. Pediatr Clin North Am. 1995;6:1343.
+Wallace D, Lichtarowicz-­Krynska E, Bockenhauer D. Non-­accidental salt 
+poisoning. Arch Dis Child. 2017;102(2):119–122.
+Weber DR, Jospe N. Diabetes mellitus. In: Kliegman RM, St. Geme III JW, 
+Blum NJ, et al., eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia: 
+Elsevier; 2020:3019–3052.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+References
+1138.e2
+Calcium Disorders
+Craig JC, Hodson E, Martin HC. Phosphate enema poisoning in children. Med 
+J Aust. 1994;160(6):347–351.
+Ladenhauf HN, Stundner O, Spreitzhofer F, et al. Severe hyperphosphatemia 
+after administration of sodium-­phosphate containing laxatives in 
+children: case series and systematic review of literature. Pediatr Surg Int. 
+2012;28(8):805–814.
+Pomeranz AJ, Sabnis S, Busey SL, et al. Hypercalcemia. In: Pomeranz AJ, 
+Sabnis S, Busey SL, et al., eds. Pediatric Decision-­Making Strategies. 2nd ed. 
+Philadelphia: Saunders; 2016:334–338.
+Thakker RV. The parathydroid glands, hypercalcemia and hypocalcemia. 
+In: Goldman L, Schafer AI, eds. Goldman-­Cecil Medicine. 25th ed. 
+Philadelphia: Saunders; 2016:1649–1661.
+Rickets
+Ferri FF. Rickets. In: Ferri FF, ed. Ferri’s Clinical Advisor 2016. Philadelphia: 
+Elsevier; 2016:1086.e2–1086.e3.
+Greenbaum LA. Vitamin D deficiency (rickets) and excess. In: Kliegman RM, 
+St. Geme III JW, Blum NJ, et al., eds. Nelson Textbook of Pediatrics. 21st ed. 
+Philadelphia: Elsevier; 2020:375–388.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

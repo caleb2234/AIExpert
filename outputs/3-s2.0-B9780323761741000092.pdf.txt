@@ -1,0 +1,3329 @@
+145
+A heart murmur is a sign, the audible turbulence of blood flow through 
+the heart or the major vessels; symptoms associated with heart mur­
+murs vary by the underlying cause, as well as the nature and severity of 
+any cardiac lesion producing the murmur. While the majority of heart 
+murmurs are normal or innocent, they must be distinguished from 
+the pathologic murmurs of congenital or acquired cardiac disease. 
+Whereas <1% of the population has significant structural congenital 
+cardiac disease, as much as 85% of the population may have a heart 
+murmur during childhood; causes vary by the age of the patient at pre­
+sentation (Table 9.1). The causes of congenital heart disease are varied 
+and include genetic disorders, metabolic disorders, teratogens, and 
+syndrome complexes (Table 9.2). The causes of acquired heart diseases 
+in children include rheumatic fever, endocarditis, and cardiac injury 
+caused by systemic illnesses. Whereas the echocardiogram defines the 
+significance of pathologic heart abnormalities, the only way to defini­
+tively diagnose an innocent murmur is with a stethoscope.
+THE THORAX
+Knowing the location of the heart chambers and valves within the tho­
+rax helps in the interpretation of the heart sounds (Fig. 9.1). The left 
+atrium is located posteriorly, close to the spine. The right atrium and 
+right ventricle are located anteriorly, immediately beneath the sternum. 
+The outflow tract of the right ventricle, which contains the pulmonary 
+valve, rises to the left of the sternum. The parts of the left side of the 
+heart that are close to the chest wall include the left ventricular apex 
+and the ascending aorta as it passes up to the right of the sternum. In 
+other areas, lung tissue lies between the heart and chest wall, which 
+may diminish or distort the intensity of heart sounds.
+ORIGINS OF THE HEART SOUNDS
+Normal heart sounds originate from the vibration of heart valves when 
+they close and from heart chambers when they fill rapidly. The amount 
+of pressure that forces valve closure influences the intensity of a heart 
+sound. Other mechanical factors such as valve stiffness, thickness, and 
+excursion have lesser effects on sound intensity.
+Cardiac murmurs are the direct result of blood flow turbulence. The 
+amount of turbulence and consequently the intensity of a cardiac mur­
+mur are directly proportional to both the pressure difference or gradi­
+ent across a narrowing or defect and the blood flow or volume moving 
+across the site. In contrast to intensity, the frequency or pitch of a car­
+diac murmur is proportional to pressure difference or gradient alone.
+As sound radiates from its source, sound intensity diminishes with 
+the square of the distance. Consequently, heart sounds should be loud­
+est near the point of origin. However, factors other than distance may 
+influence this relationship. Sound passage through the body is affected 
+by the transmission characteristics of the tissues through which the 
+sound is being transmitted. Fat has a more pronounced dampening 
+effect on higher frequencies than does more dense tissue such as bone. 
+If the difference in tissue density is significant—for example, between 
+the heart and lungs—more sound energy is lost. Only the loudest 
+sounds may be heard when lung tissue is positioned between the heart 
+and chest wall.
+THE CARDIAC CYCLE
+The timing of events in the cardiac cycle allows for a more thorough 
+understanding of heart sounds and murmurs. The relationship between 
+the normal heart cycle and that of the heart sounds is noted in Figure 9.2.
+The cardiac cycle begins with atrial systole, the sequential activa­
+tion and contraction of the two thin-­walled upper chambers. Atrial 
+systole is followed by the delayed contraction of the more powerful 
+lower chambers, termed ventricular systole. Ventricular systole has 
+three phases:
+	1.	 Isovolumic contraction: the short period of early contraction 
+when the pressure builds within the ventricle but has yet to rise suf­
+ficiently to permit ejection
+	2.	 Ventricular ejection: when the ventricles eject blood to the body 
+(via the aorta) and to the lungs (via the pulmonary artery)
+	3.	 Isovolumic relaxation: the period of ventricular relaxation when 
+ejection ceases and pressure falls within the ventricles
+During ventricular contraction, the atria relax (atrial diastole) 
+and receive venous return from both the body and the lungs. Then, in 
+ventricular diastole, the lower chambers relax, allowing initial passive 
+filling of the thick-­walled ventricles and emptying of the atria. Later, 
+during the terminal period of ventricular relaxation, the atria contract. 
+This atrial systole augments ventricular filling just before the onset of 
+the next ventricular contraction.
+The sequence of contractions generates pressure and blood flow 
+through the heart. The relationship of blood volume, pressure, and flow 
+determines opening and closing of heart valves and generates charac­
+teristic heart sounds and murmurs.
+CHANGES IN THE CIRCULATION AT BIRTH
+The majority of significant structural congenital heart disease is recog­
+nizable in the first few weeks of life. The age at recognition or presen­
+tation often correlates with the nature of the cardiac anomaly and the 
+urgency with which assessment and treatment are necessary.
+In the fetus, oxygen is acquired from the placenta and returns via the 
+umbilical vein and through the ductus venosus to enter the inferior vena cava 
+and right atrium (Fig. 9.3). Preferentially, flow is directed across the foramen 
+ovale to enter the left atrium and, subsequently, the left ventricle. Deoxygen­
+ated blood returning from the superior vena cava and upper body segment 
+is preferentially directed by the flap of the eustachian valve to enter the right 
+Murmurs
+Andrew N. Pelech
+9
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+146
+SECTION 3  Cardiac Disorders
+ventricle and then, via the ductus arteriosus, to enter the descending aorta to 
+return via the umbilical arteries to the placenta. The pressures within both 
+ventricles are essentially equal, inasmuch as both chambers pump to the sys­
+temic circulation. However, in utero, the right ventricle does the majority of 
+the work, pumping 66% of the combined cardiac output. At transition (see 
+Fig. 9.3), with the first breath, pulmonary arterial resistance begins to fall as 
+the lungs begin the process of respiration. Pulmonary venous return to the 
+left atrium closes the flap of the foramen ovale. Through mechanical and 
+chemical mechanisms, the ductus arteriosus begins to close. In the normal 
+full-­term infant, this is accomplished by 10–15 hours after birth. Intermittent 
+right-­to-­left atrial level shunting through the foramen ovale may occur, par­
+ticularly if pulmonary vascular resistance fails to drop.
+The time when congenital heart disease becomes symptomatic is 
+influenced by the specific lesion. Some structural cardiac abnormali­
+ties require patency of the ductus arteriosus for maintenance of either 
+pulmonary blood flow (e.g., pulmonary atresia) or systemic blood 
+flow (e.g., hypoplastic left heart syndrome). These and other ductus-­
+dependent abnormalities, such as transposition of the great arteries, 
+coarctation of the aorta, or significant outflow obstruction (e.g., critical 
+aortic valve stenosis), manifest in the first few hours or days after birth 
+when the ductus arteriosus begins to close. In the absence of an asso­
+ciated anomaly, hemodynamically significant ventricular septal defects 
+(VSDs) do not manifest before 2–4 weeks after birth. Atrial septal 
+defects (ASDs) are seldom symptomatic in infancy.
+NORMAL INTRACARDIAC PRESSURES
+In the neonate, after birth and successful transition, resistance to flow 
+in the pulmonary circuit is much lower than in the systemic circuit. As 
+such, the pressures in the right-­sided chambers are lower than those in 
+the left-­sided chambers. The higher values within the ventricles reflect 
+the pressure during the period of ventricular systole in a normal heart 
+(see Fig. 9.3). Pressure in the great vessels during systole is identical to 
+that in the corresponding ventricles, though this relationship changes 
+if there is outflow obstruction. In ventricular diastole, the semilunar 
+valves (aortic and pulmonary) close. Resistance to blood flow in the 
+vascular bed determines the diastolic pressures in the great arter­
+ies. The thin-­walled atria generate much lower pressures than do the 
+ventricles, both during the phase of passive atrial filling (v wave) and 
+during atrial contraction (a wave). Only the mean (m) or average atrial 
+pressure is shown in Figure 9.3. During ventricular relaxation, the dia­
+stolic pressures are lower than those in the atria, enabling filling.
+PEDIATRIC CARDIOVASCULAR EVALUATION
+History
+Historical assessment of the pediatric patient referred for evaluation of 
+a cardiac murmur should include questions about the family history, 
+pregnancy (including fetal ultrasonography), and perinatal course, in 
+addition to questions about symptoms of cardiovascular disease. An 
+assessment of exercise or play or feeding capacity should be sought, 
+as should an assessment of growth and development. The presence of 
+congenital abnormalities of other major organ systems is associated 
+with structural cardiac problems in as many as 25% of patients.
+Structural heart disease is frequently seen in association with recog­
+nizable syndromes (see Table 9.2). Children with clearly definable chro­
+mosomal disorders known to be strongly associated with structural 
+cardiac abnormalities, such as trisomy 21 or Turner syndrome, should 
+be referred for further diagnostic evaluation. Family history of sudden 
+unexplained death, rheumatic fever, sudden infant death syndrome, or a 
+structural cardiac abnormality in a first-­degree relative may be relevant. 
+Hypertrophic cardiomyopathy in a first-­degree relative is associated with 
+TABLE 9.1  Causes of Heart Murmurs by Age at Presentation
+Neonate*
+Infant
+Older Child
+Transient patency of the ductus arteriosus
+Peripheral pulmonic stenosis
+Cyanotic congenital heart disease
+Congenital valvular obstruction
+Arteriovenous malformation (CNS, hepatic, 
+pulmonary)
+Anemia
+Asphyxia-­related myocardial ischemia (transient 
+TI or MI)
+Pulmonary hypertension
+Congenital heart disease (L→R shunt or R→L shunt)†
+Ejection murmurs (normal)
+Anemia
+Arteriovenous malformation
+Infective endocarditis
+Kawasaki disease
+Hunter syndrome
+Hurler syndrome
+Fabry syndrome
+Congenital valvular obstruction
+Ejection murmurs (normal)
+Repaired congenital heart disease
+Anemia
+Mitral valve prolapse
+Venous hum
+Infective endocarditis
+Rheumatic fever
+Marfan syndrome
+Prosthetic valves
+Obstructive (hypertrophic) cardiomyopathy (subaortic 
+stenosis)
+Carotid or abdominal bruit
+Tumor (atrial myxoma)
+Thyrotoxicosis
+Systemic lupus erythematosus
+Pericardial friction rub
+ASD, atrial septal defect; CNS, central nervous system; L, left; MI, mitral insufficiency; PDA, patent ductus arteriosus; R, right; TI, tricuspid insuffi­
+ciency; VSD, ventricular septal defect.
+*Common causes of congenital heart disease in low birthweight infants include PDA, VSD, tetralogy of Fallot, coarctation of the aorta–interrupted 
+aortic arch, hypoplastic left heart syndrome, heterotaxy, and dextrotransposition of the great arteries, in that order. Common causes of congenital 
+heart disease in term infants include VSD, dextrotransposition of the great arteries, tetralogy of Fallot, coarctation of the aorta, pulmonary stenosis, 
+hypoplastic left heart syndrome, and PDA; other causes represent a smaller percentage.
+†The relative percentages of congenital heart lesions are VSD (25–30%); ASD (6–8%); PDA (6–8%); coarctation of aorta (5–7%); tetralogy of Fallot 
+(5–7%); pulmonary valve stenosis (5–7%); aortic valve stenosis (5–7%); dextrotransposition of great arteries (3–5%); and hypoplastic left ventricle, 
+truncus arteriosus, total anomalous venous return, tricuspid atresia, single ventricle, and double-­outlet right ventricle representing 1–3% each. Other 
+and more complex lesions (e.g., forms of heterotaxy) together represent 5–10% of all lesions.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+147
+CHAPTER 9  Murmurs
+TABLE 9.2  Congenital Malformation Syndromes Associated with Congenital Heart Disease
+Syndrome
+Features
+Chromosomal Disorders
+Trisomy 21 (Down syndrome)
+Endocardial cushion defect, VSD, ASD
+Trisomy 21p (cat-­eye syndrome)
+Miscellaneous, total anomalous pulmonary venous return
+Trisomy 18
+VSD, ASD, PDA, TOF, coarctation of aorta, bicuspid aortic or pulmonary valve
+Trisomy 13
+VSD, ASD, PDA, coarctation of aorta, bicuspid aortic or pulmonary valve
+Trisomy 9
+Miscellaneous, VSD
+XXXXY
+PDA, ASD
+Penta X
+PDA, VSD
+Triploidy
+VSD, ASD, PDA
+XO (Turner syndrome)
+Bicuspid aortic valve, coarctation of aorta
+Fragile X
+Mitral valve prolapse, aortic root dilatation
+Duplication 3q2
+Miscellaneous
+Deletion 4p (Wolf-­Hirschhorn syndrome)
+VSD, PDA, aortic stenosis
+Deletion 9p
+Miscellaneous
+Deletion 5p (cri du chat syndrome)
+VSD, PDA, ASD, TOF
+Deletion 10q
+VSD, TOF, conotruncal lesions*
+Deletion 13q
+VSD
+Deletion 18q
+VSD
+Deletion 1p36
+ASD, VSD, PDA, TOF, cardiomyopathy
+Deletion/duplication 1q21.1
+ASD, VSD, PS
+Deletion 7q11.23 (Williams syndrome)
+Supravalvular AS, branch PS
+Deletion 11q 24-­25 (Jacobsen syndrome)
+VSD, left-­sided lesions
+Syndrome Complexes
+CHARGE association (coloboma, heart, atresia choanae, growth retardation, 
+genital, and ear anomalies)
+VSD, ASD, PDA, TOF, endocardial cushion defect
+DiGeorge syndrome, CATCH 22 (cardiac defects, abnormal facies, thymic 
+aplasia, cleft palate, hypocalcemia, and deletion 22q11)
+Aortic arch anomalies, conotruncal anomalies
+Alagille syndrome (arteriohepatic dysplasia)
+Peripheral pulmonic stenosis, PS, TOF, abdominal coarctation
+VATER association (vertebral, anal, tracheoesophageal, radial, and renal 
+anomalies)†
+VSD, TOF, ASD, PDA
+OAVS (oculo-­auriculo vertebral spectrum), including Goldenhar syndrome
+TOF, VSD
+CHILD (congenital hemidysplasia with ichthyosiform erythroderma, limb defects)
+Miscellaneous
+Mulibrey nanism (muscle, liver, brain, eye)
+Pericardial thickening, constrictive pericarditis
+Asplenia syndrome
+Complex cyanotic heart lesions with decreased pulmonary blood flow, transposi­
+tion of great arteries, anomalous pulmonary venous return, dextrocardia, single 
+ventricle, single atrioventricular valve
+Polysplenia syndrome
+Acyanotic lesions with increased pulmonary blood flow, azygos continuation of 
+inferior vena cava, partial anomalous pulmonary venous return, dextrocardia, 
+single ventricle, common atrioventricular valve
+PHACE syndrome (posterior brain fossa anomalies, facial hemangiomas, arterial 
+anomalies, cardiac anomalies and aortic coarctation, eye anomalies)
+VSD, PDA, coarctation of aorta, arterial aneurysms
+Teratogenic Agents
+Congenital rubella
+PDA, peripheral pulmonic stenosis
+Fetal hydantoin/phenytoin syndrome
+VSD, ASD, coarctation of aorta, PDA
+Fetal alcohol syndrome
+ASD, VSD, TOF
+Fetal valproate effects
+Coarctation of aorta, hypoplastic left side of heart, aortic stenosis, pulmonary 
+atresia, VSD
+Maternal phenylketonuria
+VSD, ASD, PDA, coarctation of aorta
+Retinoic acid embryopathy
+Conotruncal anomalies
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+148
+SECTION 3  Cardiac Disorders
+a high incidence of inheritance, and this condition is sufficiently subtle 
+that echocardiographic screening is mandatory. Unexplained fever, leth­
+argy, a history of intravenous drug use, or additional symptoms arising 
+after recent dental work should arouse suspicion of possible endocarditis.
+Infants born to mothers with diabetes mellitus (type 1 or gesta­
+tional) have as high as a 30% chance of transient hypertrophic cardio­
+myopathy and are also at risk for congenital structural abnormalities. 
+Additional maternal risk factors for congenital structural heart disease 
+include acute or chronic maternal illness, vertically transmitted infec­
+tions, illicit drug use, or the use of certain teratogenic medications.
+SYMPTOMS AND SIGNS OF HEART DISEASE
+The general health of a child with a suspected cardiac malformation 
+is important to assess. Particularly relevant are the rate of growth and 
+history of past illnesses. Although symptoms of failure to thrive are 
+nonspecific, patterns of growth reflect the severity of the disease and 
+effectiveness of treatment (see Chapter 12). In an infant, feeding dif­
+ficulties are often the first evidence of congestive heart failure. Feed­
+ing problems are common manifestations of cardiac disease and may 
+be evidenced as disinterest, excessive fatigue, long feeding duration, 
+diaphoresis, tachypnea, dyspnea, or a change in the pattern of respi­
+ration. It is important to obtain an objective measure of caloric intake 
+by quantitating the number and/or volume of feedings. Some index of 
+exertional tolerance should be sought in all children as an index of 
+cardiovascular fitness and a sign of functional capability. This index 
+should be age relevant and, in an infant, might include assessment of 
+the vigor and duration of feeding and the time period of interactive 
+play. In a toddler, the index might include the ability to keep up with 
+peers, climb stairs, or walk for extended periods. In an older child, a 
+comparison with peer sporting interactions, level of function in physi­
+cal education, and an index of aerobic ability should be sought.
+Tachypnea may occur as a consequence of increased pulmonary 
+blood flow. With increasing pulmonary congestion, particularly obstruc­
+tion to pulmonary venous drainage, dyspnea is manifested as an anxious 
+look with grunting, flaring of the alae nasi, head bobbing, and intercostal, 
+suprasternal, and subcostal retractions. Respiratory rates and the pat­
+tern of breathing should be assessed for a full minute in the quiet infant 
+because rates may vary considerably with activity and feeding (Table 9.3), 
+or even over shorter time periods in a quiet infant. Cardiac asthma or 
+exercise-­inducible reactive airway disease may occur as a consequence of 
+passive or active pulmonary congestion (see Chapter 4). Compression of 
+airways by plethoric vessels may contribute to the stasis of secretions and 
+atelectasis, which predisposes to respiratory tract infections.
+Cyanosis in association with a cardiac murmur suggests a struc­
+tural lesion with restriction to pulmonary blood flow (Table 9.4). Cya­
+nosis, or a blue discoloration of the skin and mucous membranes, is 
+a consequence of reduced hemoglobin being present in >5 g/dL of 
+TABLE 9.2  Congenital Malformation Syndromes Associated with Congenital Heart Disease—cont’d
+Syndrome
+Features
+Others
+Apert syndrome
+VSD
+Autosomal dominant polycystic kidney disease
+Mitral valve prolapse
+Carpenter syndrome
+PDA
+Char syndrome
+PDA
+Conradi syndrome
+VSD, PDA
+Cornelia de Lange syndrome
+VSD, TOF
+Crouzon disease
+PDA, coarctation of aorta
+Cutis laxa
+Pulmonary hypertension, pulmonic stenosis
+Ellis–van Creveld syndrome
+Single atrium, VSD
+Holt-­Oram syndrome
+ASD, VSD, first-­degree heart block
+Infant of diabetic mother
+Hypertrophic cardiomyopathy, VSD, conotruncal anomalies
+Kartagener syndrome
+Dextrocardia
+Laurence-­Moon
+TOF, VSD
+Marfan
+Aortic root dissection, mitral valve prolapse
+Meckel-­Gruber syndrome
+ASD, VSD
+Noonan syndrome (with or without multiple lentigines)
+Pulmonic stenosis, ASD, cardiomyopathy
+Pallister-­Hall syndrome
+Endocardial cushion defect
+Pierre Robin sequence
+ASD, VSD, PDA, coarctation of aorta
+Primary ciliary dyskinesia
+Heterotaxy disorders
+Rubinstein-­Taybi syndrome
+PDA, PS, coarctation of aorta, VSD
+Scimitar syndrome
+Hypoplasia of right lung, anomalous pulmonary venous return to inferior vena cava
+Smith-­Lemli-­Opitz syndrome
+VSD, PDA
+TAR syndrome (thrombocytopenia and absent radius)
+ASD, TOF, VSD
+Treacher Collins syndrome
+VSD, ASD, PDA
+ASD, atrial septal defect; AV, aortic valve; PDA, patent ductus arteriosus; PS, pulmonary stenosis; TOF, tetralogy of Fallot; VSD, ventricular septal defect.
+*Conotruncal includes TOF, pulmonary atresia, truncus arteriosus, and transposition of great arteries.
+†Also known as VACTERL (vertebral, anal, cardiac, tracheo-esophageal fistula, renal, limb).
+Modified from Bernstein D. History and physical examination in cardiac evaluation. In: Kliegman RM, St. Geme JW III, Blum NJ, et al., eds. Nelson 
+Textbook of Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:2346–2354.e1, Chapter 449.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+149
+CHAPTER 9  Murmurs
+hemoglobin and is evident in one third of infants with potentially lethal 
+congenital heart disease. Central cyanosis is distinguished from acro­
+cyanosis (peripheral cyanosis) by involvement of the warm mucous 
+membranes, including the tongue and buccal mucosa. Acrocyanosis or 
+peripheral cyanosis is generally confined to the perioral and perinasal 
+regions, extremities, or nail beds and occurs in the child who is cold, 
+vasoconstricted, or at rest. A distinctive feature is that central cyanosis 
+generally worsens with activity and increasing cardiac output, whereas 
+acrocyanosis generally improves or resolves with increased activity.
+General Physical Examination
+Overall Appearance
+Height and weight should be measured and plotted on a growth chart. 
+An assessment of the child’s overall growth, appearance, and state of 
+distress serves as a guide to the urgency of further investigation and 
+management. The sick infant often appears anxious, fretful, diapho­
+retic, pale, or breathless and is seldom consolable. Cyanosis, pallor, 
+digital clubbing, an abnormal pattern of respiration, and possible dys­
+morphic features may suggest specific structural cardiac anomalies.
+Vital Signs
+Normal resting heart rates and respiratory rate values for age are pre­
+sented in Table 9.3. Blood pressure should be measured using an appro­
+priately sized cuff. Every child should have a comparison of upper and 
+lower blood pressures on at least one occasion. The lower limb sys­
+tolic blood pressure is normally 10 mm Hg higher than the upper limb 
+pressure in older children. On occasion, the subclavian arteries may 
+arise aberrantly beyond the site of ductal ligament insertion. Therefore, 
+both upper limb pressures should be measured and compared with the 
+lower limb pressure. Normal values for blood pressure in children are 
+presented in Figure 9.4.
+Respiratory Assessment
+Respiratory distress may suggest cardiac disease. In addition to noting 
+the rate, depth, and effort of respiration, the inspection should include 
+observation for evidence of air trapping, increased chest diameter, 
+or the presence of Harrison sulci (horizontal grooves in the anterior 
+chest at the diaphragm insertion site along the sixth and seventh cos­
+tal cartilages) as an indication of chronic upper airway obstruction. 
+Midfacial hypoplasia with chronic mouth breathing may also suggest 
+upper airway obstructive disease with predisposition to hypercapnia 
+and pulmonary hypertension. Although crackles in the lungs in infants 
+and even young children usually indicate infection, pulmonary edema 
+should also be a consideration.
+CARDIOVASCULAR ASSESSMENT
+Arterial Examination
+Pulses should be assessed for rate, rhythm, volume, and character. The 
+dynamic character of the pulse may provide information about the car­
+diac output. A clinical index of cardiac output includes the warmth of 
+the digits and measured capillary refill time, obtained by blanching the 
+nail beds or digits and estimating the time to full reperfusion, which 
+is normally <2 seconds. Initially, the radial and brachial pulses should 
+be assessed simultaneously in the upper limb. By palpating the pulse 
+at two sites and altering the pressure applied by the palpating fingers, 
+a more accurate assessment of the rate of rise, volume, and contour 
+may be obtained. Assessment of the femoral pulse requires that the 
+infant be quiet. Palpating parallel to the inguinal crease and allowing 
+the leg to continue to flex is generally more effective than extending 
+the leg. Blood pressures in the arm and leg should be assessed, and the 
+radial and femoral pulses should be palpated simultaneously. When­
+ever possible, the radial pulse should be brought in close apposition to 
+the femoral pulse to compare for any delay, allowing for a more accu­
+rate appreciation of any temporal delay and enabling more accurate 
+detection of the presence of coarctation of the aorta. The presence of a 
+palpable femoral pulse is by itself an inadequate screen for coarctation 
+Fig. 9.1  Location of the heart within the thorax. The right atrium and 
+right ventricle lie immediately beneath the sternum. The left atrium lies 
+posteriorly against the spine. The left ventricle extends laterally toward 
+the chest wall, whereas the left ventricular outflow tract extends to the 
+right side of the sternum, going up toward the cardiac base.
+O
+ejection
+ejection
+Ventricle
+Atrium
+JP
+ACG
+ECG
+RFW
+SFW
+QRS
+T
+X
+Y
+A
+A
+P
+Z
+C
+E
+Mechanical
+activity
+right
+left
+OS
+S3
+S2
+S1
+S4
+TC PO
+AC
+MC AO
+MO
+TO
+PC
+seconds
+0
+0.7
+V
+IR
+clicks
+Fig. 9.2  The cardiac cycle. Relationship among electrical and mechan­
+ical events, valvular motion, heart sounds (S1, S2, S3, and S4), the jugu­
+lar pulse wave (JP), and the apexcardiogram (ACG). AC and AO, aortic 
+component and opening; IR, isovolumic (isochronic) relaxation wave; 
+MC and MO, mitral component and opening; O, opening of mitral valve; 
+OS, opening snap of atrioventricular valves; PC and PO, pulmonic com­
+ponent and opening; RFW, rapid-­filling wave; SFW, slow-­filling wave; TC 
+and TO, tricuspid component and opening. (From Tilkian AG, Conover 
+MB. Understanding Heart Sounds and Murmurs: With an Introduction 
+to Lung Sounds. 3rd ed. Philadelphia: WB Saunders; 1993.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+150
+SECTION 3  Cardiac Disorders
+because a widely patent ductus arteriosus (PDA) or collateral vessels, 
+particularly in the older patient, may provide delayed perfusion. Pre­
+vious arterial instrumentation, injury, or congenital variability may 
+account for reduction in palpable peripheral pulses.
+Venous Examination
+In infants and young children, the liver size and character offer more 
+reliable indicators of right atrial pressure and systemic congestion than 
+does the jugular venous pressure. The position, size, and consistency of 
+the liver should be assessed with quiet respiration. The character of the 
+normal liver margin is generally likened to that of the cartilage of the 
+external pinna, and the margin should be sharp and angulated. In the 
+newborn, the liver may be normally palpable at 1.5–2.5 cm below the 
+right costal margin in the midclavicular line. This distance decreases 
+to approximately 1–2 cm by 1 year of age and remains just palpable 
+until school-­entrance age. In the presence of congestive heart failure, 
+the liver enlarges and distends downward. The congested liver mar­
+gin becomes rounded and firm and is often more difficult to feel. An 
+enlarged liver may be tender, and aggressive palpation may cause dis­
+comfort and tensing of the abdominal musculature, making accurate 
+assessment difficult. A transverse liver is suggestive of a heterotaxy 
+syndrome with abnormal abdominal organ location (i.e., situs abnor­
+malities) and complex congenital heart lesions. The spleen should 
+always be sought; enlargement suggests endocarditis in the patient 
+with a heart murmur. Splenic enlargement in association with conges­
+tive heart failure is unusual (see Chapter 17).
+Precordial Examination
+Inspection of the chest may suggest the presence of a precordial bulge of 
+long-­standing right ventricular volume overload. The examiner’s entire 
+palm and hand should be warmed and then fully applied to the patient’s 
+chest wall to maximize ability to detect thrills or heaves. Whereas the 
+examiner’s fingertips are best utilized to localize an abnormality, the pal­
+mar surface of the metacarpals and first phalanges is more sensitive for 
+the detection of low-­frequency events. The fingertips should be used to 
+localize the most lateral displacement of the apical impulse. In patients 
+of all ages, the apical impulse should be confined to one intercostal inter­
+space, in which case the impulse would be described as localized; how­
+ever, if the apical impulse is equally dynamic in two or more interspaces, 
+then it is best described as diffuse. In the neonate, a right ventricular 
+impulse may be felt close to the sternum. Later in life, the same degree 
+of parasternal activity is likely to suggest pulmonary hypertension, right-­
+sided heart volume overload, or right ventricular outflow obstruction. 
+The lateral displacement of the apex, normally located in the midclavicu­
+lar line, should be compared to existing landmarks. A dynamic or thrust­
+ing character to an apical impulse may be detected in association with an 
+Ao
+Ao
+DA
+DA
+PA
+PA
+RV
+RV
+LV
+LV
+LA
+LA
+RA
+RA
+IVC
+IVC
+PV
+PV
+65
+65
+65
+68
+55
+55
+60
+60
+97
+97
+97
+97
+67
+70
+70
+40
+SVC
+SVC
+m3
+m2
+m2
+m4
+A
+B
+50
+3 
+50
+30 m38
+70
+45 m55
+70
+45 m55
+70
+45 m55
+70
+4
+70
+3
+70
+5
+Ao
+PA
+RV
+LV
+LA
+RA
+IVC
+PV
+65
+65
+65
+65
+60
+99
+99
+99
+99
+SVC
+m2
+m4
+C
+80
+50 m60
+30
+3
+30
+12 m18
+80
+5
+Fig. 9.3  Fetal (A), transitional (B), and neonatal (C) circulations. The course of the circulation in the heart 
+and great arteries of the late-­gestation fetal lamb, within a few hours of delivery and as a newborn, are pre­
+sented. The figures in the circles within the chambers and vessels represent percent oxygen saturation. The 
+numbers alongside the chambers and vessels are pressures in mm Hg related to amniotic fluid pressure as 
+zero. Ao, aorta; DA, ductus arteriosus; IVC, inferior vena cava; LA, left atrium; LV, left ventricle; m, mean; PA, 
+pulmonary artery; PV, pulmonary vein; RA, right atrium; RV, right ventricle; SVC, superior vena cava. (Modified 
+from Rudolph AM. Chapters 2 and 3. In: Congenital Disease of the Heart. Chicago: Year Book Medical; 1974.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+151
+CHAPTER 9  Murmurs
+TABLE 9.3  Normal Values of Respiratory and Heart Rates in Infants and Children
+AGE
+Birth–6 Wk
+6 Wk–2 Yr
+2–6 Yr
+6–10 Yr
+Older Than 10 Yr
+Respiratory rate
+45–60/min
+40/min
+30/min
+25/min
+20/min
+Heart rate
+125 ± 30/min
+115 ± 25/min
+100 ± 20/min
+90 ± 15/min
+85 ± 15/min
+TABLE 9.4  Categories of Cyanotic Heart Lesions in the Neonate
+Group
+Heart Size
+Pulmonary Blood 
+Flow
+Low Cardiac 
+Output
+Respiratory Distress
+Examples
+I
+Small
+Reduced
+No
+None
+Hypoplastic RV with pulmonary atresia
+Hypoplastic RV with tricuspid atresia
+Tetralogy of Fallot (severe)
+II
+Small or slight 
+­cardiomegaly
+Increased
+No
+Moderate
+Transposition of great arteries with intact 
+ventricular septum
+III
+Large
+Increased
+Yes
+Yes
+Complicated coarctation of aorta with VSD, 
+hypoplastic LV
+IV
+Small
+Pulmonary venous 
+congestion
+Yes
+Yes
+Obstructed total anomalous pulmonary veins
+LV, left ventricle; RV, right ventricle; VSD, ventricular septal defect.
+Modified from Gillette PC. The cardiovascular system. In: Behrman RE, Kliegman RM, eds. Nelson Essentials of Pediatrics. 2nd ed. Philadelphia: 
+WB Saunders; 1994:503.
+Systolic
+Diastolic
+Age
+A
+Percentile
+Blood
+Pressure
+mm Hg
+150
+140
+130
+120
+110
+100
+90
+80
+90
+80
+70
+60
+50
+95
+90
+75
+50
+25
+10
+5
+95
+90
+75
+50
+25
+10
+5
+2
+4
+6
+8
+10
+12
+14
+16
+18
+Systolic
+Diastolic
+Age
+B
+Percentile
+Blood
+Pressure
+mm Hg
+150
+140
+130
+120
+110
+100
+90
+80
+90
+80
+70
+60
+50
+95
+90
+75
+50
+25
+10
+5
+95
+90
+75
+50
+25
+10
+5
+2
+4
+6
+8
+10
+12
+14
+16
+18
+Fig. 9.4  Normal blood pressure percentiles for boys (A) and girls (B), aged 2–18 years. The Korotkoff IV sound 
+is used for diastolic blood pressure. (Modified from the National Heart, Lung, and Blood Institute. Report of 
+the Second Task Force On Blood Pressure Control In Children, 1987. Pediatrics. 1987;79:1.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+152
+SECTION 3  Cardiac Disorders
+elevated cardiac output or various forms of obstruction to left ventricular 
+outflow. On occasion, an apical filling impulse, coinciding with an audi­
+ble S3, may be normally palpable, particularly in the adolescent or athlete 
+with a relative bradycardia and increased stroke volume.
+A thrill is a palpable murmur and should be sought in the precor­
+dial and suprasternal areas. The palmar surface of the examiner’s hand is 
+most sensitive in detection of a thrill; however, only the tips of the dig­
+its fit in the patient’s suprasternal notch. A palpable second heart sound 
+(S2), indicative of a significant level of pulmonary hypertension, may be 
+detected as a sharp or distinctive impulse in the pulmonary outflow.
+Auscultation
+Thorough auscultation in the cooperative patient may take as long as 
+5–10 minutes and should include listening in the principal areas of the 
+precordial auscultation (tricuspid, pulmonary, mitral, and aortic) with 
+both the bell and diaphragm of the stethoscope, with the patient in 
+the supine, sitting, and standing positions. These four areas serve as a 
+guide to auscultation of the heart (Fig. 9.5). These are the optimal sites 
+for listening to sounds that arise within the chambers and great vessels:
+	1.	 The tricuspid area is represented by the fourth and fifth intercostal 
+spaces along the left sternal edge but extends to the right of the ster­
+num as well as downward to the subxiphisternal area.
+	2.	 The pulmonary area is the second intercostal space along the left 
+sternal border. Murmurs that are best heard in this area may also 
+extend to the left infraclavicular area and often lower, along the left 
+sternal edge to the third intercostal space.
+	3.	 The mitral area involves the region of the cardiac apex and gen­
+erally is at the fifth intercostal space in the midclavicular line. This 
+area may also extend medially to the left sternal edge and laterally 
+to the region of the axilla.
+	4.	 The aortic area, although centered at the second right intercostal 
+space, may extend to the suprasternal area, to the neck, and inferi­
+orly to the third left intercostal space.
+The margins of these areas are ill defined, and auscultation should 
+not be limited to these sites and may extend to the axillae, neck, back, 
+or infraclavicular areas.
+A step-­by-­step auscultation—first for heart sounds, subsequently 
+for systolic murmurs, and then separately for diastolic murmurs—is 
+essential. The ability to clearly characterize the S2 is perhaps more cru­
+cial than for any other sound; the effects of respiration are important. 
+The components of the S2 in childhood are normally split with inspi­
+ration and become single on expiration. A loud pulmonary closure 
+sound should suggest the possibility of pulmonary artery hyperten­
+sion. The S2 may be widely split and/or fixed in association with right 
+ventricular volume overload or delayed right ventricular conduction. 
+Normal inspiratory splitting of the S2 should be sought and established 
+in all patients. As timing may be difficult in the infant with a rapid 
+respiratory rate, the presence of splitting at any time during the respi­
+ratory cycle may be accepted as normal.
+The right ventricle is normally just beneath the sternum. This prox­
+imity generally makes sounds emanating from the right heart louder 
+and less diffuse. In addition, right heart sounds and murmurs are more 
+influenced by the effects of respiration.
+Heart Sounds
+Examination should first focus on identifying the normal heart sounds 
+in sequence; subsequent attention should be directed at establishing 
+the effects of inspiration and expiration on the heart sounds. Next, 
+examination should address the presence or absence of additional 
+heart sounds and murmurs. Finally, examination should ascertain any 
+variability that occurs with a change of body position.
+First Heart Sound
+The first heart sound (S1) (see Fig. 9.2) arises from closure of the atrio­
+ventricular (mitral and tricuspid) valves in early isovolumic ventricular 
+contraction and, consequently, is best heard in the mitral and tricuspid 
+valve areas. Mitral valve closure occurs slightly in advance of tricuspid 
+valve closure, and, on rare occasion, near the lower left sternal edge two 
+components (splitting) of the S1 may be heard. There is usually a single 
+first heart sound. The S1 is most easily heard when the heart rate is slow 
+because the interval between the S1 and S2 is shorter than the interval 
+between the S2 and subsequent S1. The intensity of the S1 is influenced 
+Aortic valve stenosis
+Supravalvular AS
+Subvalvular AS
+Pulmonary valve stenosis
+Atrial septal defect
+Pulmonary ejection murmur, innocent
+Pulmonary flow murmur of newborn
+Pulmonary artery stenosis
+Aortic stenosis
+Coarctation of the aorta
+Patent ductus arteriosus
+PAPVR
+TAPVR
+Mitral regurgitation
+Vibratory innocent murmur
+Mitral valve prolapse syndrome
+Aortic stenosis
+IHSS
+Ventricular septal defect,
+     including ECD
+Vibratory innocent murmur
+     (Still’s murmur)
+HOCM (IHSS)
+Tricuspid regurgitation
+Tetralogy of Fallot
+Fig. 9.5  Diagram showing the locations at which certain systolic murmurs are most readily auscultated. Less 
+common conditions are shown in smaller type. AS, aortic stenosis; ECD, endocardial cushion defect; HOCM, 
+hypertrophic obstructive cardiomyopathy; IHSS, idiopathic hypertrophic subaortic stenosis; PAPVR, partial 
+anomalous pulmonary venous return; TAPVR, total anomalous pulmonary venous return. (From Park MK. 
+Park’s Pediatric Cardiology for Practitioners. 6th ed. Philadelphia: Elsevier; 2014:33, Figure 2-­12.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+153
+CHAPTER 9  Murmurs
+by the position of the atrioventricular valve at the onset of ventricular 
+contraction.
+Second Heart Sound
+Shortly after the onset of ventricular contraction, the semilunar valves 
+(aortic and pulmonary) open and permit ventricular ejection. This 
+opening does not usually generate any sound. The atrioventricular 
+valves remain tightly closed during ventricular ejection. As ventric­
+ular ejection nears completion, the pressure begins to fall within the 
+ventricles, and the semilunar valves snap closed. This prevents regur­
+gitation from the aorta and pulmonary artery back into the heart. The 
+closure of the semilunar valves generates the S2 (see Fig. 9.2). The S2 
+usually consists of a louder and earlier aortic valve closure sound (A2), 
+followed by a later and quieter pulmonary valve closure sound (P2). 
+Normal physiologic splitting or variability is generally only appreciated 
+in the pulmonary area during or near the end of inspiration. During 
+expiration, the aortic and pulmonary valves close almost synchro­
+nously and produce a single or narrowly split S2. Normal splitting of 
+S2 is caused by (1) increased right-­sided heart filling during inspiration 
+because of increased blood volume returning via the venae cavae and 
+(2) diminished left-­sided heart filling because blood is retained within 
+the small blood vessels of the lungs when the thorax expands. During 
+inspiration, when the right ventricle is filled more than the left, it takes 
+slightly longer to empty. This causes the noticeable inspiratory delay 
+in P2 in relation to A2. Splitting of the S2 during inspiration is a normal 
+finding and should be sought in all patients.
+The aortic and pulmonary pressure in diastole close the semilunar 
+valves. Many forms of congenital or acquired heart disease have an 
+impact on the pulmonary circulation and, consequently, often affect 
+the S2. Thus, the higher the pulmonary artery diastolic pressure, the 
+more intense and earlier the P2 is. Pulmonary hypertension in children 
+is suggested when the P2 is palpable, loud, and narrowly split or cannot 
+be separated from A2. If the P2 is audible outside of the pulmonary area, 
+particularly at the apex, then pulmonary hypertension is likely. A single 
+or narrow split S2 may also be noted in patients with severe pulmonic 
+or aortic valve stenosis, tetralogy of Fallot, truncus arteriosus, pulmo­
+nary atresia, hypoplastic left heart syndrome, tricuspid valve atresia, 
+or Eisenmenger syndrome with a VSD. In the presence of moderate 
+to severe pulmonic stenosis, there is low pulmonary artery diastolic 
+pressure. The pulmonary valve closure is therefore delayed and of 
+decreased intensity and is occasionally inaudible.
+The S2 may be widely split and/or fixed in association with right 
+ventricular volume overload or delayed right ventricular conduction.
+Third Heart Sound
+The third heart sound (S3) (see Fig. 9.2), which is of very low frequency, 
+occurs about a third of the way into diastole, at the time of the most 
+rapid filling of the ventricles. It is most likely caused by sudden ten­
+sion of the ventricles, enough to produce sound vibrations within the 
+myocardial wall. Vibrations in the atrioventricular valve itself, as well as 
+in the chordae, may also contribute to the sound. The amplitude of S3 
+increases with an increased ventricular filling rate. When heard at the 
+apex, S3 is considered left ventricular in origin, and when heard at the 
+lower left sternal border, S3 is likely to be right ventricular in origin. An 
+apical S3 of soft to moderate intensity is readily heard in most children 
+and young adults. An S3 in association with tachycardia is termed a gal­
+lop and may be caused by lesions associated with left or right ventricular 
+diastolic overload or diminished ventricular compliance.
+Fourth Heart Sound
+The fourth heart sound (S4) (see Fig. 9.2) is also of low frequency and 
+can be both left-­sided and right-­sided in origin. It occurs with atrial 
+contraction against a high resistance and is therefore heard just before 
+S1. It is more difficult to hear than S3, particularly in children, in whom 
+the PR interval is usually shorter than that in the adult. The S4 is 
+thought to be caused by a forceful atrial contraction against a poorly 
+compliant left ventricle (e.g., as in diastolic overload). The sound is 
+readily heard in adults with significant chronic hypertension or left 
+ventricular cardiomyopathy and, except for its timing, sounds much 
+like an S3. In a young baby with total anomalous pulmonary venous 
+return, low pulmonary vascular resistance, and significantly increased 
+right ventricular and pulmonary blood flow, a loud right ventricular S4 
+(as well as S3) may be heard as part of a quadruple rhythm at the lower 
+left sternal border. An intermittent S4 may be heard in children with 
+complete atrioventricular block. Whereas an S3 may be heard in a nor­
+mal adolescent and can be physiologic, the S4 only occurs in a pathologic 
+condition.
+Ejection Click
+An audible ejection click (see Fig. 9.2) is abnormal and is related to 
+either the hemodynamics associated with a dilated root of the aorta 
+(aortic ejection click) or a dilated root of the pulmonary artery (pul­
+monary ejection click) or the effects of a thickened and immobile 
+semilunar valve. The sound is sharp and of very high frequency. The 
+pulmonary ejection click is best heard at the upper left sternal border, 
+whereas the aortic ejection click is usually best heard at the apex. It 
+may also be heard at the upper right sternal border, but if so, it is 
+always louder at the apex or the lower left sternal border. The click 
+arises either from sudden tension of the semilunar valve or from sud­
+den distention with lateral pressure at the root of the aorta or pul­
+monary artery. The sound is present in aortic or pulmonary valve 
+stenosis. In such cases, the rapid movement of the stenotic valve is 
+suddenly checked. An aortic ejection click may be heard in the pres­
+ence of a normal aortic valve (as in severe tetralogy of Fallot with a 
+large aortic root); a pulmonary ejection click may be heard with a 
+normal pulmonic valve (as in Eisenmenger syndrome with a large 
+pulmonary root). The aortic ejection click, best heard at the apex, 
+does not vary with respirations. However, the pulmonary ejection 
+click, best heard at the upper left sternal border, is better heard on 
+expiration than inspiration.
+An ejection click or a sharp sound present at the upper left ster­
+nal border, louder with expiration or heard only on expiration, is 
+characteristic of pulmonary valve stenosis. The ejection click follows 
+the period of isovolumic contraction and occurs as a consequence of 
+restricted semilunar pulmonary valve excursion at the onset of ven­
+tricular ejection. When the ejection sound occurs at the upper right 
+sternal border or at the apex, a bicuspid or stenotic aortic valve disease 
+is suggested. In contrast to ejection clicks, right-­sided cardiac murmurs 
+are accentuated with inspiration. Left-­sided heart auscultatory abnor­
+malities vary little with the respiratory cycle.
+In the case of the aortic ejection click, the sound is usually well sep­
+arated from S1. However, the pulmonary ejection click is usually closer 
+to S1 than is an aortic click. In some moderate to severe cases, the pul­
+monary ejection click occurs at the same time as S1. If one perceives a 
+split S1, one is most likely hearing an ejection click as the causes of a 
+true split S1 are very rare.
+Opening Snap
+The opening snap is present only in rheumatic mitral valve stenosis 
+when the anteromedial leaflet is immobile; is heard early in diastole, 
+usually above the apex; and is of medium frequency. Because the leaflets 
+are fused, the downward movement of the opening valve is suddenly 
+checked, resulting in the opening snap. This sound is often confused 
+with an S3. The frequency is somewhat higher and the timing is earlier 
+than those of an S3. The opening snap and the S3, although similar in 
+timing, can never occur together in the same patient.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+154
+SECTION 3  Cardiac Disorders
+Non-­Ejection Click
+Non-­ejection clicks are heard at the apex and occur one third to half 
+of the way between S1 and S2. Thus, they are commonly called mid-­
+systolic clicks. The sounds are of medium to high frequency. The 
+sound is caused by the sudden tensing of the posterior mitral valve 
+leaflet as it prolapses into the left atrium; in rare cases, there may be 
+multiple mid-­systolic clicks. The clicks may be loud, but they may also 
+be soft and easily missed.
+CLASSIFICATION OF CARDIAC MURMURS
+Heart murmurs are the consequence of turbulent blood flow. Turbu­
+lence may arise as a result of
+ • high flow through abnormal or normal valves
+ • normal flow through narrow or stenotic valves or vessels
+ • backward or regurgitant flow through incompetent leaky valves
+ • flow through congenital or surgical communications
+ • anemia with high flows and decreased blood viscosity
+Not all cardiac murmurs indicate heart problems.
+The clinician should be able to determine and describe the follow­
+ing seven characteristics of heart murmurs:
+	1.	 Timing: the relative position within the cardiac cycle relative to S1 
+and S2
+	2.	 Intensity or loudness: murmurs are graded as
+ 
+• grade I: heard only with intense concentration
+ 
+• grade II: faint but heard immediately
+ 
+• grade III: easily heard, of intermediate intensity
+ 
+• grade IV: easily heard and associated with a thrill (a palpable 
+vibration on the chest wall)
+ 
+• grade V: very loud, with a thrill present, and audible with only 
+the edge of the stethoscope on the chest wall
+ 
+• grade VI: audible with the stethoscope off the chest wall
+	3.	 Location: on the chest wall with regard to
+ 
+• area where the sound is loudest (point of maximal intensity)
+ 
+• area over which the sound is audible (extent of radiation)
+	4.	 Shape: to include the duration (the length of the murmur from 
+beginning to end) and configuration (the dynamic changing nature 
+of the murmur)
+	5.	 Pitch: the frequency range of the murmur, generally described as 
+low, medium, or high pitched
+	6.	 Quality: aspect that relates to the presence of harmonics and over­
+tones
+	7.	 Physiologic effects: of different positions, manipulations, or maneuvers
+PEDIATRIC MURMUR EVALUATION
+After the neonatal period, an innocent murmur may be detected at 
+some time in the majority of children before school age. The clinical 
+diagnosis of a normal ejection or innocent murmur should only occur 
+in the setting of an otherwise normal history, physical examination, 
+and appearance (Table 9.5 and Fig. 9.6).
+Thorough auscultation in the cooperative patient should include 
+listening in the principal areas (tricuspid, pulmonary, mitral, and 
+aortic) of the precordium with both the bell and diaphragm of the 
+stethoscope and with the patient in the supine, sitting, and standing 
+positions.
+SYSTOLIC MURMURS
+Systolic murmurs begin with or follow the S1 and end before the S2 
+(Fig. 9.7).
+Holosystolic murmurs, beginning abruptly with S1 and continuing at 
+the same intensity to S2, are graphically shown as a rectangle. This 
+murmur begins during the period of isovolumic contraction and 
+thus occurs when there is a regurgitant atrioventricular valve (tri­
+cuspid or mitral) or in association with a VSD.
+TABLE 9.5  Common Innocent Heart Murmurs in Children
+Type (Timing)
+Description of Murmur
+Age Group
+Classic vibratory murmur (Still murmur) (systolic)
+Maximal at MLSB or between LLSB and apex
+Grade 2–3/6 in intensity
+Low-­frequency vibratory, “twanging string,” groaning, squeaking, or 
+musical
+3–6 yr
+Occasionally in infancy
+Pulmonary ejection murmur (systolic)
+Maximal at ULSB
+Early to mid-­systolic
+Grade 1–3/6 in intensity
+Blowing in quality
+8–14 yr
+Pulmonary flow murmur of newborn (systolic)
+Maximal at ULSB
+Transmits well to the left and right chest, axilla, and back
+Grade 1–2/6 in intensity
+Premature and full-­term newborns
+Usually disappears by 3–6 mo of age
+Venous hum (continuous)
+Maximal at right (or left) supraclavicular and infraclavicular areas
+Grade 1–3/6 in intensity
+Inaudible in the supine position
+Intensity changes with rotation of the head and compression of the 
+jugular vein
+3–6 yr
+Carotid bruit (systolic)
+Right supraclavicular area and over the carotids
+Grade 2–3/6 in intensity
+Occasional thrill over a carotid
+Any age
+LLSB, lower left sternal border; MLSB, mid-­left sternal border; ULSB, upper left sternal border.
+From Park MK. Park’s Pediatric Cardiology for Practitioners. 6th ed. Philadelphia: Elsevier/Saunders; 2014:36, Table 2-­8.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+155
+CHAPTER 9  Murmurs
+Ejection murmurs are crescendo-­decrescendo or diamond-­shaped 
+murmurs that may arise from narrowing of the semilunar valves or 
+outflow tracts. The rising-­and-­falling nature of the murmur reflects 
+the periods of lower flow at the beginning and near the end of ven­
+tricular systole.
+Innocent murmurs are almost exclusively ejection systolic in nature 
+(see Table 9.5). They are generally soft, are never associated with a 
+palpable thrill, and are subject to considerable variation with posi­
+tioning changes.
+Early systolic murmurs start abruptly with S1 but taper and disappear 
+before the S2 and are exclusively associated with small muscular 
+VSDs.
+Mid-­systolic to late systolic murmurs begin midway through systole 
+and are often heard in association with the mid-­systolic clicks and 
+insufficiency of mitral valve prolapse.
+DIASTOLIC MURMURS
+Diastole, the period between closure of the semilunar valves (S2) and 
+subsequent closure of the atrioventricular valves (S1), is normally silent 
+because of relatively low flow through large valve orifices. Regurgita­
+tion of the semilunar valves, stenosis of the atrioventricular valves, or 
+increased flow across the atrioventricular valves all cause turbulence 
+and may produce diastolic heart murmurs (Fig. 9.8).
+Early diastolic murmurs are decrescendo in nature and arise from 
+either aortic or pulmonary valve insufficiency (regurgitation).
+Mid-­diastolic murmurs are diamond shaped and occur because of either 
+(1) increased flow across the normal tricuspid or mitral valve or (2) 
+normal flow across an obstructed or stenotic tricuspid or mitral valve.
+Late diastolic or crescendo murmurs are created by stenotic or nar­
+rowed atrioventricular valves and occur during atrial contraction.
+CONTINUOUS MURMURS
+Flow through vessels, channels, or communications beyond the semi­
+lunar valves is not confined to either systole or diastole. Thus, there may 
+be turbulent flow throughout some or all of the cardiac cycle (Fig. 9.9). 
+The resulting murmur that extends beyond the S2 has been classically 
+termed “continuous.” The continuous murmur can be heard through 
+part or all of diastole. Continuous murmurs are generally pathologic; 
+the venous hum is an exception.
+MURMURS IN CHILDREN WITH NORMAL HEARTS
+“Innocent” murmurs occur in the absence of structural or physio­
+logic cardiac disease. Innocent murmurs have been called functional, 
+benign, innocuous, or physiologic but are perhaps best termed normal 
+to accurately convey to parents the favorable impression and outcome 
+that should accompany the diagnosis. After the neonatal period, a nor­
+mal murmur may be detected in the majority of children at some time 
+before school age.
+S1
+S1
+S1
+S1
+S2
+A2
+P2
+Carotid bruit
+Venous hum
+Pulmonary ejection murmur
+of children and newborns
+Vibratory systolic murmur
+Fig. 9.6  Diagram of innocent heart murmurs in children. (From Park MK. Park’s Pediatric Cardiology for Prac­
+titioners. 6th ed. Philadelphia: Elsevier; 2014:37, Figure 2-­14.)
+Holosystolic
+Ejection
+Early systolic
+Late systolic
+Systole
+R
+P
+Q
+S
+T
+Fig. 9.7  Four classes of systolic heart murmurs. The holosystolic or 
+pansystolic murmur begins abruptly with the first heart sound (S1) and 
+proceeds at the same intensity to the second heart sound (S2). The ejec­
+tion systolic or crescendo-­decrescendo murmur begins with the onset 
+of volume ejection from the heart. As the flow increases, the murmur 
+varies both in intensity and frequency and subsequently tapers as the 
+period of ejection ceases, before the S2. The early systolic murmur 
+begins, as does the holosystolic murmur, abruptly with S1 but termi­
+nates in mid-­systole with the cessation of shunt flow. The late systolic 
+murmur begins well after S1, commencing in mid-­ to late systole in 
+association with the development of valve insufficiency, and proceeds 
+at this intensity to S2. (From Pelech AN. The cardiac murmur. Pediatr 
+Clin North Am. 1998;45:107–122.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+156
+SECTION 3  Cardiac Disorders
+The normal murmurs of childhood are composed of five systolic 
+and two continuous types but are never solely diastolic (see Table 9.5 
+and Fig. 9.6). The intensity or loudness of the murmur is grade III or 
+less and consequently is never associated with a palpable thrill. The 
+majority of all murmurs, both innocent and organic, are accentuated 
+by fever, anemia, or increased cardiac output.
+Vibratory Still Murmur
+The most common innocent murmur in children is the vibratory systolic 
+murmur described by Sir George Still. The murmur is typically audible 
+in children between ages 2 and 6 years but may be present as late as ado­
+lescence or as early as infancy. The murmur is low to medium in pitch, 
+confined to early systole, generally grade II (range I–III), and heard 
+maximally at the lower left sternal edge and extending to the apex. The 
+murmur is loudest when the patient is in the supine position and often 
+changes in character, pitch, and intensity with upright positioning.
+The most characteristic feature of the murmur is its vibratory, musi­
+cal, harmonious quality described as a “twanging” sound, very like that 
+made by strumming a piece of tense string. The quality of the murmur 
+can thus never be described as “noisy” or “rough.” Quite characteris­
+tically, the intensity of the murmur diminishes and the pitch changes 
+with upright positioning; it seldom disappears entirely.
+The origins of the murmur are obscure and have been ascribed to 
+vibration of the pulmonary valves during systolic ejection, vibrations 
+arising from the shift in blood mass in the dynamically contracting 
+ventricle, physiologic narrowing of the left ventricular outflow tract, 
+and the presence of ventricular false tendons or bridging bands. Pho­
+nocardiographic recordings have shown the innocent murmur to arise 
+from either the right ventricular or left ventricular outflow tracts.
+Pulmonary Flow Murmur
+An innocent pulmonary outflow tract murmur may be heard in chil­
+dren, adolescents, and young adults. The murmur is a crescendo-­
+decrescendo, loudest in early-­ to mid-­peaking ejection systolic murmur 
+confined to the second and third interspaces at the left sternal border. It 
+is of low intensity (grades II–III) and transmits to the pulmonary area. 
+It is rough and dissonant without the vibratory musical quality of the 
+Still murmur. The murmur is best heard in the supine position and is 
+exaggerated by the presence of a pectus excavatum, a straight back, or 
+kyphoscoliosis, which results in compression or approximation of the 
+right ventricular outflow tract to the chest wall. This murmur may be 
+heard in association with anemia or a thin body build. The murmur is 
+augmented in full exhalation while the patient is supine, rarely result­
+ing in the perception of a palpable thrill, and is diminished by upright 
+positioning and held inspiration.
+The murmur of an ASD is attributable to increased flow through the 
+pulmonary outflow tract and may be indistinguishable from the inno­
+cent pulmonary flow murmur. However, the hyperdynamic right ven­
+tricular impulse, wide splitting of the pulmonary component of the S2, 
+and presence of a mid-­diastolic flow rumble should enable distinction.
+The murmur of pulmonary valve stenosis may be distinguished 
+from the innocent pulmonary flow murmur by the frequent presence 
+of a systolic thrill, higher pitch, longer duration, and/or presence of 
+an ejection click. The presence of an ejection click signifies improper 
+opening of a semilunar valve and is usually of pathologic origin. In pul­
+monary stenosis, the S2 may be widely split and the P2, when audible, 
+is of diminished intensity.
+Peripheral Pulmonary Arterial Stenosis Murmur
+A common murmur heard frequently in newborns and in infants 
+younger than 1 year is the audible turbulence of peripheral branch 
+pulmonary arterial stenosis, angulation, or narrowing. These ejection 
+character murmurs are typically grade I or II, are low to moderate in 
+pitch, begin in early to middle systole, and extend up to and occasion­
+ally just after the S2. These murmurs are most often present in normal 
+newborns but may be associated with viral lower respiratory tract infec­
+tions and reactive airway disease in older infants. In the fetus, the pul­
+monary trunk is a relatively dilated, domed structure because it receives 
+the majority of combined cardiac output from the high-­pressure right 
+ventricle. Right and left pulmonary artery branches arise from this 
+major trunk as comparatively small lateral branches that receive little 
+intrauterine flow because of high pulmonary artery resistance. When 
+the lungs expand at birth, the relative disparity transiently persists. The 
+branches also arise at comparatively sharp angles from the main pul­
+monary trunk, accounting for turbulence and a recognized physiologic 
+drop in pressure from the main trunk to the proximal branch pulmo­
+nary arteries. In association with a respiratory tract infection, regional 
+vascular reactivity and pulmonary blood flow redistribution may 
+account for the reappearance of the murmur after the neonatal period.
+Early
+Mid
+Late
+Diastole
+R
+P
+Q
+S
+T
+S1
+S2
+Fig. 9.8  Diastolic murmurs. The early diastolic or decrescendo murmur 
+occurs in association with closure of the semilunar valves (second heart 
+sound) and tapers through part or all of diastole. The mid-­diastolic mur­
+mur rises and falls in intensity with atrial volume entering the ventricle. 
+The late systolic or crescendo diastolic murmur occurs late in diastole 
+with atrial contraction, before systole, and ascends to the first heart 
+sound. (From Pelech AN. The cardiac murmur. Pediatr Clin North Am. 
+1998;45:107–122.)
+R
+P
+Q
+S
+T
+S1
+S2
+Fig. 9.9  Continuous murmur. The continuous murmur begins in systole 
+and proceeds up to and through the second heart sound, proceeding 
+through part or all of diastole. (From Pelech AN. The cardiac murmur. 
+Pediatr Clin North Am. 1998;45:107–122.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+157
+CHAPTER 9  Murmurs
+The murmurs are often best heard peripherally in the axillae and 
+back with both regional and temporal variability. Because of the rapid 
+respiratory rate of infants, similar sound frequency composition of 
+breath sounds, and peripheral location of the murmurs, these murmurs 
+are often overlooked. In infancy, they often may be evident in associa­
+tion with a viral respiratory illness. Of importance is that the murmur 
+of peripheral branch stenosis changes with heart rate, increasing in 
+intensity with heart rate slowing as the stroke volume increases and, 
+conversely, diminishing with tachycardia and reduction in stroke vol­
+ume. Therefore, the murmur becomes louder with slowing of the heart 
+rate and diminishes with tachycardia and increasing cardiac output.
+The normal peripheral branch stenosis murmur may be indistin­
+guishable from the peripheral murmur of significant stenosis of the 
+branch pulmonary vessels seen in Williams or rubella syndrome or 
+from accompanying hypoplasia or narrowing of the pulmonary arter­
+ies. Murmurs of significant anatomic narrowing may be distinguished 
+by their higher pitch and extension after the S2 in children after the first 
+few months of life. The pulmonary flow murmur of an ASD may mimic 
+this murmur but is not heard in this age group. Proximal pulmonary 
+valve or right ventricular outflow obstruction may also closely resem­
+ble this murmur, but these obstructions are often of louder intensity, 
+possibly associated with an ejection click, and heard maximally lower 
+along the left sternal border.
+Supraclavicular or Brachiocephalic Systolic Murmur
+A supraclavicular systolic crescendo-­decrescendo murmur may be 
+heard in children and young adults. This systolic murmur is audible 
+maximally above the clavicles and radiates to the neck but may be 
+present to a lesser degree on the superior chest. The murmur is low to 
+medium in pitch, of abrupt onset, brief, and maximal in the first half or 
+two thirds of systole. High pitch or extension into diastole is unusual 
+and suggests significant vascular obstruction.
+The murmur is present in both supine and sitting positions but var­
+ies with hyperextension of the shoulders. The shoulders can be hyper­
+extended with the elbows brought behind the back until the shoulder 
+girdle is taut. When this maneuver is done rapidly, the murmur dimin­
+ishes or disappears altogether. Supraclavicular systolic murmurs are 
+thought to originate from turbulence within the major brachiocephalic 
+vessels as they arise from the aorta.
+Aortic Systolic Murmur or “Athlete’s Murmur”
+Innocent systolic flow murmurs may arise from the outflow tract in 
+older children and young adults. The murmurs are ejection in char­
+acter, confined to systole, and audible maximally in the aortic area. 
+In children, these murmurs may arise secondarily to extreme anxiety, 
+anemia, hyperthyroidism, fever, or any condition of increased systemic 
+cardiac output.
+In trained athletes, slower heart rates with increased stroke vol­
+ume may give rise to short crescendo-­decrescendo murmurs of low to 
+medium pitch. Physical examination may suggest a relatively displaced 
+thrusting apex and a physiologic S3.
+These murmurs must be distinguished from the systolic murmur of 
+hypertrophic cardiomyopathy obstructions of the left ventricular out­
+flow tract. The presence of a family history for hypertrophic cardiomy­
+opathy or a family history of unexplained death in a young individual, 
+particularly if associated with activity, is suggestive of hypertrophic 
+cardiomyopathy. A systolic murmur that gets louder with performance 
+of the Valsalva maneuver is considered almost diagnostic of hypertro­
+phic cardiomyopathy with systolic anterior motion of the mitral valve. 
+A reduction in venous return results in closer apposition of the septum 
+and mitral valve and dynamic narrowing of the left ventricular out­
+flow tract. In contrast, rapid squatting improves venous return; the left 
+ventricular chamber size is enlarged, the mitral valve and septum are 
+farther apart, and the murmur of hypertrophic cardiomyopathy gets 
+softer. It is often difficult to be certain of the cause of this type of aortic 
+murmur, and further investigations may be indicated.
+Normal Continuous Murmurs
+Venous Hum
+The most common type of continuous murmur heard in children is the 
+innocent cervical venous hum, which is most audible on the low ante­
+rior part of the neck just lateral to the sternocleidomastoid muscle but 
+often extends to the infraclavicular area of the anterior chest wall. The 
+murmur is generally louder on the right than on the left, is louder when 
+the patient is sitting than when lying down, and is accentuated in dias­
+tole. Intensity varies from faint to grade III. Patients are occasionally 
+aware of a loud hum. The murmur is quite variable in character, always 
+low pitched, and often described as rumbling, roaring, or whirring.
+The venous hum is best accentuated or elicited with the patient in 
+a sitting position and looking away from the examiner. The murmur 
+often resolves or changes in character with lying down and may be 
+eliminated or diminished by gentle compression of the jugular vein 
+or turning the head toward the side of the murmur. The murmur is 
+thought to arise from turbulence at the confluence of flow as the inter­
+nal jugular and subclavian veins enter the thoracic inlet or perhaps 
+from angulation of the internal jugular vein as it courses over the trans­
+verse process of the atlas.
+Mammary Arterial Souffle
+The mammary arterial souffle occurs most frequently late in preg­
+nancy and in lactating women but may occur in rare cases in adoles­
+cence. The term souffle refers to a murmur with a blowing quality on 
+auscultation that is typically caused by a vascular structure. The mur­
+mur arises in systole but may extend well into diastole, being audible 
+maximally on the anterior chest wall over the breast. There is usually 
+a distinct gap between the S1 and the origin of the murmur; this gap 
+is thought to relate to the delayed arrival of cardiac stroke volume at 
+the peripheral vasculature. The murmur is generally high pitched and 
+has an unusual superficial character but may vary considerably from 
+day to day. Firm pressure with the stethoscope or digit pressure on the 
+chest wall occasionally abolishes the murmur. The murmur is thought 
+to be arterial in origin, arising from the plethoric vessels of the chest 
+wall. The murmur must be distinguished from the continuous high-­
+pitched murmur of an arteriovenous fistula or a PDA. Characteris­
+tically, the mammary arterial souffle varies significantly from day to 
+day, is present in a most distinctive patient population, and resolves 
+with termination of lactation.
+MURMURS CAUSED BY COMMON LESIONS WITH 
+LEFT-­TO-­RIGHT SHUNT
+Atrial Septal Defects
+The most common form of ASD (Fig. 9.10) is the ostium secundum 
+defect in the floor of the fossa ovalis. Blood flow through an ASD in the 
+low-­pressure atria is inaudible. The auscultatory findings in ASD are 
+related to the consequences of increased blood volume that enters the 
+right side of the heart. The right ventricular volume overload is associated 
+with right ventricular overactivity and a right ventricular parasternal tap.
+The right atrium and ventricle receive the blood returning from 
+the body plus the blood shunted from left to right through the ASD. 
+This causes a prolongation of right-­sided heart emptying. The P2 of the 
+second heart sound is therefore widely split and fixed (no respiratory 
+variation).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+158
+SECTION 3  Cardiac Disorders
+Two types of murmur may be audible:
+	1.	 The typical pulmonary flow murmur is ejection systolic in char­
+acter, generally of low intensity (grade II or III), and of low pitch. 
+The crescendo-­decrescendo murmur begins shortly after the S1 and 
+ends well before the S2.
+	2.	 In patients with a large atrial shunt, there is typically a well-­localized, 
+low-­pitched mid-­diastolic flow rumble in the tricuspid area because 
+of increased flow across the tricuspid valve.
+ASDs may lead to pulmonary hypertension in the second and third 
+decades of life. Treatment is surgical or by device closure during car­
+diac catheterization.
+PATENT DUCTUS ARTERIOSUS
+In this condition, the connection between the aorta and pulmonary 
+artery that exists prenatally remains open after birth (Fig. 9.11).
+The amount of shunt flow is dependent not only on the size of the 
+ductus communication but also on the differential resistances of the 
+systemic and pulmonary circulations. In some children, the PDA may 
+produce significant left-­sided heart volume overload and signs of high-­
+output congestive heart failure.
+The peripheral pulses associated with significant diastolic runoff 
+to the pulmonary vascular area are bounding. Palpation may reveal 
+a thrill in systole at the upper left sternal edge when the murmur is 
+grade IV or greater; an abnormal left ventricular impulse; and, if the 
+left-­to-­right shunt is large, a hyperdynamic, diffuse, and displaced api­
+cal impulse. The majority of patients have an asymptomatic murmur.
+Premature infants often have persistence of ductal patency after 
+birth. Initially, in the presence of neonatal lung disease and elevated pul­
+monary vascular resistance, the shunt volume is not large. After the lung 
+disease improves, the presence of a PDA becomes apparent through the 
+detection of a cardiac murmur and bounding pulses. Preterm infants 
+with a PDA may show signs of heart failure, pulmonary edema, a hyper­
+dynamic precordium, and difficulty in weaning from the ventilator. 
+Treatment in preterm infants may include intravenous indomethacin, 
+ibuprofen, acetaminophen, and fluid restriction; if these measures are 
+unsuccessful, surgical ligation or device closure is indicated.
+Beyond the neonatal period, the PDA causes a continuous rough 
+murmur, best heard in the pulmonary area. The murmur is generally 
+Atrial
+septal
+defect
+Inspiration
+Expiration
+S1
+A2 P2
+S1
+A2 P2
+Systole
+P
+R
+Q
+T
+S
+Fig. 9.10  Atrial septal defects. The most common type of defect, the 
+secundum atrial septal defect, is shown. Characteristically, in associa­
+tion with a large left-­to-­right shunt, wide and fixed splitting of the sec­
+ond heart sound occurs. The murmur is that of increased flow through 
+the right ventricular outflow tract. The shunt flow through the defect, 
+which occurs at low pressure, is inaudible.
+Patent
+ductus
+arteriosus
+Systole
+Systole
+P
+R
+Q
+T
+S
+Fig. 9.11  The patent ductus arteriosus consists of residual patency of 
+a fetal communication between the two great arteries. Because the 
+shunt occurs outside the heart, the murmur is continuous and high 
+pitched, provided that the defect is restrictive and the pulmonary artery 
+pressures are low.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+159
+CHAPTER 9  Murmurs
+high pitched, peaks in late systole, and continues well through the S2. If 
+the PDA is large, a mid-­diastolic flow rumble may be heard at the apex 
+because of relative mitral valve stenosis. Treatment is surgical ligation 
+or device closure during cardiac catheterization.
+VENTRICULAR SEPTAL DEFECTS
+These common developmental communications between the two ven­
+tricles (Fig. 9.12) may be classified as
+ • perimembranous
+ • muscular
+ • atrioventricular or inlet
+ • subarterial or outlet (supra cristal)
+The acoustic findings depend on five factors:
+	1.	 Size
+	2.	 Location
+	3.	 Shunt or defect flow
+	4.	 Pulmonary hypertension
+	5.	 Associated anomalies
+All of these factors need to be addressed in the clinical description 
+of a VSD.
+The VSD (Fig. 9.13) causes a left-­to-­right shunt or, in rare cases, a 
+right-­to-­left shunt, depending on the resistance to the flow of blood 
+leaving the ventricles. The turbulence and thus the intensity of the 
+murmur are directly proportional to the flow and pressure difference 
+between the ventricles.
+Size
+A moderate-­sized VSD that is restrictive (i.e., a pressure difference 
+exists between the ventricles) causes a harsh blowing holosystolic mur­
+mur, which is often very loud and frequently associated with a palpable 
+thrill.
+The very restrictive or small VSD creates a high-­pitched sys­
+tolic murmur and causes little or no physiologic disturbance. Small 
+muscular defects may close in mid-­systole, which then abruptly stops 
+shunt flow and the murmur before S2.
+In an unrestrictive or large VSD, no pressure difference exists 
+between the two ventricles. This results in less turbulence and therefore 
+a reduced intensity of the murmur.
+Location
+The perimembranous defect is best heard at the left sternal edge in the 
+third left intercostal space. Muscular defects are heard variably from 
+the sternal edge to the apex. Outlet or subarterial defects are best heard 
+higher along the sternum.
+Shunt Flow
+If the volume of flow through the VSD (shunt flow) is large (i.e., more 
+than 2–3 times normal ventricular outflow), a low-­pitched, mid-­
+diastolic flow rumble may be heard in the mitral area. The extra volume 
+of blood returning from the pulmonary circulation to the left side of 
+the heart creates this murmur of “relative” (not true anatomic) mitral 
+valve stenosis.
+Perimembranous
+defect
+Inlet or
+atrioventricular
+defect
+Muscular
+defects
+Subarterial
+outlet or
+supracristal
+defect
+Fig. 9.12  Anatomic types of ventricular septal defects. The four types 
+of defects of the ventricular septum are shown. The most common 
+type is the muscular defect, which commonly occurs in the anterior 
+trabecular area of the septum. The perimembranous (often called mem­
+branous) defect occurs in the regions of the pars membranacea, or the 
+embryonic bulboventricular foramina. The subarterial outlet, or supra­
+cristal defect, extends to the fibrous ring of the semilunar valves. The 
+inlet or atrioventricular septal defect is that of the atrioventricular canal 
+or embryonic atrioventricularis communis.
+Holosystolic
+Ventricular
+septal
+defect
+Systole
+P
+R
+Q
+T
+S
+Fig. 9.13  Ventricular septal defects. A ventricular septal defect is a 
+communication between the high-­pressure left ventricle and the lower-­
+pressure right ventricle. The shunt flow begins with the onset of ven­
+tricular contraction before the period of ejection (isovolumic contraction) 
+and consequently gives rise to a holosystolic murmur that obscures the 
+first and often the second heart sounds. The murmur is high pitched 
+if the defect is restrictive and the right-­sided heart pressures are low; 
+however, the murmur may be low pitched or even inaudible if the defect 
+is large or if the pulmonary artery pressures are high, as occurs in the 
+newborn.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+160
+SECTION 3  Cardiac Disorders
+Pulmonary Hypertension
+High pressure in the pulmonary artery limits left-­to-­right shunt flow 
+and murmur intensity. The pulmonary closure sound is louder and is 
+either narrowly split or single.
+Associated Anomalies
+Frequently there are anomalies associated with a VSD, such as right-­ or 
+left-­sided heart outflow obstruction or aortic insufficiency. This may 
+affect the character of the murmur.
+The VSD murmur begins very early with the onset of left ventricular 
+contraction, which may precede right ventricular contraction because 
+the left ventricle is activated earlier. The murmur commences during 
+the period of isovolumic contraction and, if it is loud (grade III or 
+greater), often obscures the S1. Blood is ejected from the left ventricle 
+to the right ventricle throughout systole, giving rise to a classical full-­
+length, or “holosystolic,” murmur. On occasion, VSD murmurs may 
+not be full length. This may occur characteristically in a small muscular 
+VSD that coapts or closes in mid-­systole.
+Analysis of the S2 in a VSD is important and, in conjunction with 
+precordial palpation, enables estimation of the pulmonary artery pres­
+sure. The larger the defect, the higher the pulmonary artery pressure 
+and the earlier and louder the P2. Thus, the physiologic split of S2 may 
+become very narrow, or the S2 may even become single, a finding of 
+great concern. In large defects, a balance exists between delayed P2, 
+caused by large pulmonary blood flow, and early P2, caused by high 
+pulmonary artery pressure. The wider the split of S2, the less the con­
+cern is, because pulmonary vascular resistance is then likely to be low.
+The intensity or loudness of a murmur relates to the combination of 
+both flow and gradient across the defect. Pitch or frequency relates to 
+gradient alone. Thus, very small defects with small left-­to-­right shunt 
+flow may have a soft, high-­pitched murmur. In moderate-­sized defects, 
+the murmur is loud, often associated with a palpable thrill. In large 
+defects with no restriction between the right and left ventricles, the 
+murmur is low pitched and less intense as the pulmonary artery and 
+right-­sided heart pressures equate with the left-­sided heart pressure.
+In many children, the VSD spontaneously closes and the murmur 
+becomes softer and softer until it disappears with defect closure. In 
+patients who develop increased pulmonary vascular resistance and a 
+reduction in shunt flow and who are at risk for progressing to Eisen­
+menger syndrome (irreversible pulmonary vascular disease and cyano­
+sis with right-­to-­left ventricular level shunt), the murmur also becomes 
+quieter. Thus, a diminishing VSD murmur may be evolving into either a 
+good or bad outcome. The treatment of a large VSD currently includes 
+management of heart failure and, most frequently, surgery.
+COMPLETE ATRIOVENTRICULAR SEPTAL DEFECTS
+There is great variation in the anatomy of atrioventricular septal defects 
+(AVSDs). AVSDs (Fig. 9.14) occur in complete, partial, and interme­
+diate forms. In the complete AVSD, the intracardiac defect extends 
+between both the atria and ventricles. Either the atrial or ventricular 
+extent of the defect may be the primary level of shunt flow; conse­
+quently, the defect may manifest primarily as either an ASD or a VSD. 
+Often the defects are large and unrestrictive. In addition, a common 
+accompaniment of AVSD is a cleft in the left-­sided atrioventricular 
+valve, which may cause varying degrees of valve insufficiency. Approx­
+imately half of the children born with trisomy 21 (Down syndrome) 
+have congenital heart disease, the most common abnormality of which 
+is complete AVSD. Maturation of the pulmonary arteries and small 
+muscular arteries is delayed in children with Down syndrome, and 
+elevated pulmonary vascular resistance early in life is common. There­
+fore, the lesion may be missed early in life because signs of congestive 
+heart failure may not occur. It is recommended that all children with 
+Down syndrome undergo echocardiographic evaluation. In patients 
+with complete AVSDs, the electrocardiogram demonstrates an abnor­
+mally counterclockwise superior vector due to displacement of the AV 
+node. Intermediate or partial AVSDs are less frequently associated with 
+Down syndrome.
+In the partial form of AVSD, absence of the lower part of the inter­
+atrial septum, the ostium primum, is the major component of the 
+abnormality. In such patients, the manifestation and examination are 
+similar to those described for a secundum type of ASD. Often, mitral 
+regurgitation is present and is apparent as an apical holosystolic mur­
+mur that obscures S1. If the amount of mitral valve insufficiency is 
+large, a mid-­diastolic flow rumble of increased filling may be heard.
+The manifestation and consequently the clinical signs in patients 
+with AVSD vary considerably, depending on the patient’s age, pulmo­
+nary vascular resistance, size and level of the defects, amount of valve 
+insufficiency, and ventricular function. Patients with an AVSD often 
+manifest the signs of congestive heart failure early in infancy. Surgical 
+repair provides definitive treatment.
+Holosystolic
+Atrioventricular
+septal
+malformation
+Systole
+P
+R
+Q
+T
+S
+Fig. 9.14  Complete atrioventricular septal malformation. The atrioven­
+tricular septal malformations vary markedly from a large atrial compo­
+nent with a restrictive ventricular communication to a large unrestrictive 
+inlet ventricular septal defect. Consequently, their clinical manifesta­
+tions also vary from that of an atrial septal defect to that of an unrestric­
+tive ventricular septal defect.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+161
+CHAPTER 9  Murmurs
+MURMURS CAUSED BY COMMON LESIONS WITH 
+RIGHT-­TO-­LEFT SHUNT AND CYANOSIS
+Tetralogy of Fallot
+The tetralogy (Fig. 9.15) has four anatomic features:
+	1.	 VSD
+	2.	 Pulmonary stenosis
+	3.	 Dextroposition or rightward position of the aorta
+	4.	 Right ventricular hypertrophy
+The functional significance of this anomaly is related to the degree of 
+right ventricular outflow tract obstruction. There is a harsh ejection sys­
+tolic murmur, heard best in the pulmonary area but also widely trans­
+mitted through the chest. The right ventricular outflow obstruction is 
+most frequently a combination of muscular, annular, and valvular nar­
+rowing. Consequently, the P2 is soft, delayed, and often inaudible. The 
+VSD is typically large and unrestrictive. The prominent systolic murmur 
+in tetralogy of Fallot is therefore not caused by the septal defect.
+Patients with tetralogy of Fallot may present with moderate to severe 
+degrees of right ventricular outflow obstruction, right-­to-­left ventricular 
+level shunting, and varying degrees of cyanosis. Alternatively, the outflow 
+obstruction may be mild, providing a predominant left-­to-­right shunt 
+and causing the “acyanotic” or “pink” form of tetralogy of Fallot. In these 
+patients, the degree of outflow obstruction becomes progressive; bidirec­
+tional flow develops and, finally, a dominant right-­to-­left shunt emerges.
+One aspect of tetralogy physiology is the variable degree of desat­
+uration that may occur as a consequence of the reactive nature of 
+the right ventricular outflow obstruction. The sudden development 
+of severe reactive obstruction in response to temperature, fever, ill­
+ness, dehydration, or intense crying may precipitate a hypercyanotic 
+or tetralogy (“tet”) spell. Either increased infundibular reactivity or 
+decreased systemic vascular resistance is responsible for the dimin­
+ished pulmonary blood flow. This life-­threatening event manifests as 
+profound cyanosis, tachypnea, and dyspnea, progressing to acidosis, 
+unconsciousness, and death. During a spell, the outflow tract murmur 
+disappears with the diminution in pulmonary blood flow.
+Tetralogy of Fallot is a consequence of developmental anterior dis­
+placement of the conal or outlet septum and failure to adjoin with the 
+muscular trabecular interventricular septum. Because conal tissue is 
+needed for closure of the membranous ventricular septum, the ante­
+rior displacement and hypoplasia of the conus results in a VSD, which 
+is characteristically unrestrictive. The aorta extends more to the right, 
+which results in overriding of the aorta.
+In cases in which there is a predominant left-­to-­right shunt, the 
+murmur is a long, loud ejection systolic murmur and may overwhelm 
+and obscure the S2. The murmur extends up the left sternal border 
+(pulmonary area) and throughout both lung fields. The right ventricle 
+is at systemic pressure, and the pitch of the murmur is quite high. There 
+is a right ventricular parasternal impulse and often a palpable thrill in 
+the pulmonary outflow region.
+In cyanotic tetralogy of Fallot, the loudness or intensity of the mur­
+mur diminishes as the pulmonary blood flow decreases. The systolic 
+murmur remains high pitched, harsh, and ejection in shape. The S1 
+remains loud or normal; the S2 is single.
+In the most severe form of tetralogy, pulmonary atresia with VSD, 
+there is no pulmonary outflow murmur at all. Definitive corrective 
+treatment of tetralogy of Fallot is surgical.
+TRICUSPID VALVE ATRESIA
+In tricuspid valve atresia (Fig. 9.16), the tricuspid valve does not 
+develop and in its place there may be an imperforate membrane or 
+a thick muscle wedge. The right ventricle is usually very small; the left 
+ventricle compensates and is large. A dynamic diffuse left ventricular car­
+diac impulse is palpable. All systemic venous blood returning to the right 
+atrium must pass across at the atrial septal level to enter the left atrium and 
+then the left ventricle. Pulmonary blood flow occurs most often as a con­
+sequence of a VSD or, in rare cases, is dependent on the ductus arteriosus. 
+The ECG reveals an abnormally superior left axis. Examination reveals a 
+VSD murmur. The softer and shorter the murmur, the less the pulmonary 
+blood flow is, so that, just as in tetralogy of Fallot, the softer the murmur, 
+the more severe the cyanosis is. If there is enough pulmonary blood flow, 
+both P2 and A2 may be heard. Palliative surgery is required.
+PULMONARY ATRESIA WITH INTACT 
+VENTRICULAR SEPTUM
+There are two forms of pulmonary valve atresia. The first is pulmo­
+nary atresia with VSD and generally a long fibrous or muscular out­
+flow atresia, which is the most severe malformation on the spectrum 
+of tetralogy of Fallot. The second form occurs in association with an 
+Right 
+ventricular
+outflow 
+obstruction
+Nonrestrictive
+VSD with
+overriding
+of the aorta
+Ejection systolic
+Systole
+P
+R
+Q
+T
+S
+Fig. 9.15  Tetralogy of Fallot. The four anatomic malformations seen in 
+association with tetralogy of Fallot include an unrestrictive perimembra­
+nous ventricular septal defect (VSD), overriding of the aorta, right ven­
+tricular hypertrophy, and an obstructive right ventricular outflow tract. 
+The cardiac murmur in tetralogy, a harsh loud ejection systolic murmur, 
+arises from the turbulence generated in the right-­sided heart outflow. 
+Because the VSD is unrestrictive and the right-­ and left-­sided heart pres­
+sures are equal, the VSD generates no sound. The pulmonary closure 
+sound is often soft or inaudible.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+162
+SECTION 3  Cardiac Disorders
+intact interventricular septum (Fig. 9.17), wherein right-­sided heart 
+hypoplasia is usually then present.
+The cardiac impulse in a hypoplastic right ventricle with pulmonary 
+atresia may be right ventricular even though the dominant ventricle is 
+the left. In contrast to tricuspid valve atresia, a VSD is not part of this 
+lesion. The source of the pulmonary blood flow in the neonate is a duc­
+tus arteriosus with left-­to-­right shunt. A murmur from this ductus may 
+be audible. There is a single S2 (aortic closure). On occasion, there is tri­
+cuspid valve regurgitation, which may be confused with a VSD murmur. 
+The murmur is high pitched, because the right ventricular pressures are 
+very high. The ECG helps differentiate tricuspid valve and pulmonary 
+atresia. In both disorders, left ventricular hypertrophy is present, but in 
+pulmonary atresia, there is a normal inferior vector. Echocardiography 
+confirms the diagnosis. There is usually profound cyanosis.
+Intravenous prostaglandin therapy is required to ensure ductal 
+patency and pulmonary blood flow in the neonatal period. Surgical 
+repair is usually palliative.
+TRANSPOSITION OF THE GREAT ARTERIES
+In transposition of the great arteries (Fig. 9.18), the aorta arises from 
+the morphologic right ventricle, and the pulmonary artery arises from 
+the morphologic left ventricle. In transposition of the great arteries, 
+desaturated systemic venous blood returns to the right atrium, passes 
+to the right ventricle, and is returned to the aorta and thus to the sys­
+temic circulation. Any oxygenation occurring in this setting is the 
+result of mixing of blood with the pulmonary circulation at the ductal, 
+atrial, or ventricular level.
+Transposition of the great arteries with an intact ventricular sep­
+tum manifests in the neonatal period with profound cyanosis in an 
+infant whose saturations do not improve with oxygen administration 
+the hyperoxia test. There is a pronounced right ventricular impulse, 
+and the A2 is loud because it is anterior. There may be a faint, soft short 
+ejection murmur that is audible along the left sternal border as a result 
+of increased pulmonary blood flow. However, there are often no mur­
+murs. Heart failure is not expected. The P2 is often not heard.
+If there is a VSD, the patient may not present in the neonatal period. 
+The minimal cyanosis may be difficult to detect. Such infants usually 
+become ill at 2–3 weeks of age as a result of congestive heart failure 
+rather than hypoxia. The examination findings are very different, 
+because both ventricles are very hyperdynamic. The heart is large; there 
+is often a palpable thrill and a loud systolic murmur.
+Treatment consists of corrective surgical switching of the great 
+vessels.
+HYPOPLASTIC LEFT HEART SYNDROME
+Hypoplastic left heart syndrome (Fig. 9.19) consists of varying degrees 
+of left-­sided heart (mitral valve, left ventricle, aortic valve, or arch) 
+Tricuspid
+valve atresia
+Right
+ventricular
+hypoplasia
+Systole
+P
+R
+Q
+T
+S
+Holosystolic
+Atrial
+septal
+defect
+Ventricular
+septal
+defect
+Fig. 9.16  Tricuspid valve atresia. In this condition, the murmur most 
+often detected is a holosystolic murmur of a communicating ventricular 
+septal defect or an ejection systolic murmur related to an obstructing 
+pulmonary outflow.
+Systole
+Continuous
+Atrial septal
+defect
+Hypertensive
+hypoplastic
+right ventricle
+R
+P
+Q
+S
+T
+Fig. 9.17  Pulmonary atresia with intact septum. Characteristically, the 
+defect manifests in the cyanotic neonate. Most often, a continuous 
+murmur of a patent ductus arteriosus is audible. Less often, a high-­
+pitched murmur of tricuspid valve insufficiency may be heard.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+163
+CHAPTER 9  Murmurs
+hypoplasia or atresia such that the left ventricle cannot support the sys­
+temic circulation. In the first day or two after birth, the neonate may 
+not be recognized as being ill if the ductus arteriosus remains open 
+and the right ventricular output sustains the systemic output. When 
+the ductus begins to close, perfusion deteriorates, the pulses are dimin­
+ished, acidosis develops, and death ensues.
+The affected infant is often tachypneic, gray, and poorly perfused. 
+There may be considerable pulmonary blood flow and a dynamic 
+right ventricle impulse. An ejection systolic murmur may be audible 
+in the pulmonary area. The heart function may be very poor, and the 
+precordial and auscultatory examination findings may be quiet. A 
+significantly restrictive ASD may cause profound pulmonary venous 
+congestion and poor oxygenation.
+After intravenous prostaglandin E1 has been given, causing open­
+ing of the ductus arteriosus, a reasonable systemic output and palpable 
+pulses should return.
+Treatment includes the staged Norwood palliative repair to single-­
+ventricle Fontan operation or heart transplantation.
+MURMURS CAUSED BY COMMON LESIONS 
+WITH SIMPLE OBSTRUCTION
+In areas of obstruction, the gradient or pressure difference across an 
+obstruction relates to the severity of the narrowing, the flow across 
+the narrowing, and the pressure able to be generated (i.e., the cardiac 
+function).
+PULMONARY VALVE STENOSIS
+The hemodynamic abnormality in pulmonary valve stenosis (Fig. 
+9.20) is attributable to increased pressure within a right ventricle that 
+is attempting to eject through a narrowed or an obstructed valve. The 
+more severe the stenosis, the higher the intraventricular pressure is 
+until cardiac failure occurs.
+This condition is characterized by an ejection systolic murmur, 
+heard best in the pulmonary area. The murmur is diamond-­shaped. 
+With increasing valvular obstruction, the murmur becomes louder and 
+higher pitched and peaks later in systole. The P2 is very helpful because 
+the more severe the pulmonary valve stenosis, the more delayed and 
+less intense the P2 is.
+An ejection click, caused by abrupt arrest of leaflet excursion in 
+early systole, frequently precedes the ejection systolic murmur. The 
+more severe the pulmonary valve stenosis, the earlier and softer the 
+pulmonary ejection click is. In other forms of right ventricular outflow 
+obstruction, such as supravalvular stenosis and subvalvular stenosis, or 
+in the setting of a dysplastic or malformed pulmonary valve, an ejec­
+tion click is not audible.
+In newborns with very severe critical pulmonic stenosis, cyano­
+sis, and low cardiac output, the examination findings may be quite 
+Mitral valve
+closed or
+atretic
+Left 
+ventricular
+cavity is 
+small
+Aorta is
+reduced 
+in size
+Blood flow to
+the body is
+supplied by the
+patent ductus
+arteriosus
+Systole
+P
+R
+Q
+S
+Continuous
+Fig. 9.19  Hypoplastic left heart syndrome. In this condition, the systemic 
+circulation is supplied from the right ventricle via the ductus arteriosus. 
+The continuous murmur of ductal flow that may be heard is generally 
+low pitched as a result of equal pulmonary and aortic pressures.
+R
+P
+Q
+S
+T
+Pulmonary
+artery
+Systole
+Aorta
+Right ventricle
+Left
+ventricle
+Fig. 9.18  Transposition of the great arteries. The aorta in this condition 
+arises anteriorly, giving rise to a loud, single second heart sound. Many 
+profoundly cyanotic full-­term newborns with no audible murmur have 
+transposition of the great arteries.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+164
+SECTION 3  Cardiac Disorders
+different. There may be no pulmonary ejection click, and the murmur 
+may be very short, soft, or both.
+Palpation in pulmonic valve stenosis may reveal a palpable thrill in 
+the pulmonary area and an abnormal right ventricular impulse (except 
+in mild cases).
+Treatment is transcatheter balloon valve dilatation.
+AORTIC VALVE STENOSIS
+The hemodynamic impact of aortic valve stenosis (Fig. 9.21) is 
+increased pressure in the left ventricle. The more severe the ste­
+nosis, the higher the left ventricular pressure is until heart failure 
+ensues.
+The apex beat is of a thrusting character and is not displaced in the 
+absence of left-­sided heart failure. Palpation, except in very mild cases, 
+reveals a suprasternal notch thrill and often a carotid systolic thrill. If 
+the murmur is grade IV or greater, a precordial thrill is also palpable at 
+the upper right sternal border (aortic area).
+The murmur of aortic stenosis is a rough, harsh, diamond-­shaped 
+ejection systolic murmur. It is heard best in the aortic area but often 
+extends into the neck and throughout the precordium.
+A soft, short ejection murmur that peaks in systole indicates a mild 
+degree of valve obstruction, whereas a loud, long, and late-­peaking 
+murmur, often associated with a palpable thrill, reflects more severe 
+stenosis.
+An ejection click often precedes the murmur and is heard best at 
+the apex. The click intensity is inversely proportional to the severity of 
+the valve narrowing. A loud aortic valve ejection click is often present 
+in patients with a two-­leaflet or bicuspid aortic valve even if there is no 
+valve stenosis.
+The splitting of the S2 is normal. The paradoxical split, occurring 
+when there is a large delay of A2, is quite rare in children and young 
+adults; it is seen in older people with calcific aortic valve stenosis and a 
+failing left ventricle.
+In newborns with severe or critical aortic stenosis and low cardiac 
+output, the examination findings may be very different. There is often 
+no aortic ejection click, and, strikingly, the murmur may be short, soft, 
+or both. Significant heart failure and poor perfusion are present in such 
+neonates.
+Two other major types of aortic stenosis exist: subvalvular and 
+supravalvular. Neither has an aortic ejection click. In supravalvular 
+aortic stenosis (the major cardiac lesion associated with Williams 
+syndrome), the murmur is usually in the aortic area, whereas in 
+Obstructive
+pulmonary
+valve
+Ejection systolic
+Systole
+P
+R
+Q
+T
+S
+Fig. 9.20  Pulmonary valve stenosis. Pulmonary valve stenosis gives 
+rise to a rough ejection systolic murmur that is most prominent in the 
+pulmonary area and radiates equally to both lung fields. The presence 
+of an ejection click distinguishes valve obstruction from subvalvular or 
+supravalvular stenosis.
+Obstructive
+aortic valve
+Ejection systolic
+Systole
+P
+R
+Q
+T
+S
+Fig. 9.21  Aortic valve stenosis. The ejection systolic murmur from aor­
+tic valve stenosis is audible both at the apex and in the aortic area. The 
+aortic area extends up to the carotid arteries. There is often a palpable 
+thrill in the suprasternal notch. The pitch and peaking of the murmur 
+allow an estimate of the severity of stenosis. Note that a quiet and low-­
+pitched murmur may suggest poor ventricular function and low output.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+165
+CHAPTER 9  Murmurs
+subvalvular aortic stenosis, the murmur position may extend to the 
+left sternal border or the apex.
+The bicuspid aortic valve is the most common of all congenital 
+malformations of the heart, found in almost 2% of the general pop­
+ulation. The normal aortic valve has three leaflets of equal size. The 
+bicuspid valve has two functional leaflets, one generally larger than the 
+other. The bicuspid aortic valve is often only mildly stenotic or is often 
+unobstructed. The anomaly is recognized from the presence of an aor­
+tic ejection click. The ejection click is often mischaracterized as a split 
+S1, which is a very rare occurrence in children. Asymmetric stresses on 
+the valve leaflets predispose to calcification, dysfunction, and deterio­
+ration after many years. The valve is also at risk for the development of 
+infective endocarditis.
+Treatment of severe aortic valve stenosis may include surgical or 
+balloon valvotomy and often eventual valve replacement.
+COARCTATION OF THE AORTA
+Coarctation occurs in association with congenital cardiac anomalies 
+or in isolation. There are fundamentally two forms of coarctation (Fig. 
+9.22). The more common form has been termed juxtaductal or adult 
+coarctation and is typically a discrete area of aortic narrowing or 
+indentation of ductal tissue in relationship to the ductus arteriosus or 
+ligamentum. The second type of coarctation has been termed infantile 
+coarctation and includes varying degrees of transverse and isthmic 
+aortic arch hypoplasia.
+The hemodynamic abnormality caused by a coarctation of the aorta 
+is a high systolic pressure proximal to the area of narrowing, in the 
+ascending aorta, the brachiocephalic vessels, and the left ventricle.
+The diagnosis of coarctation of the aorta is made from recognition 
+of systemic hypertension in the right arm and decreased arterial pul­
+sation in the femoral arteries in comparison with that in the brachial 
+arteries. The femoral pulses may be absent, or they may be diminished 
+and delayed. In some cases, the left brachial pulse may be diminished 
+as a result of involvement of the left subclavian artery in the site of 
+narrowing. In rare cases, the right subclavian artery may arise aber­
+rantly below the level of the coarctation, causing the pulse in this arm 
+to be diminished. Therefore, brachial pulses must be felt on both sides 
+and compared with the femoral pulses. The blood pressure must be 
+obtained in both arms as well as in one leg. There is seldom any sig­
+nificant or consistent alteration in the heart sounds unless there is 
+associated aortic valve disease. Up to 40% of patients with juxtaductal 
+coarctation of the aorta have an associated bicuspid aortic valve, usu­
+ally without stenosis. In these cases, there is an aortic ejection click. 
+More complicated heart lesions, often unrestrictive VSDs or AVSDs, 
+are often seen in association with isthmic arch hypoplasia.
+The murmur of coarctation is of the ejection or continuous type, is 
+rarely louder than grade III, starts well after S1, and may peak late in 
+systole or extend into diastole. The point of maximal cardiac activity is 
+variable and is most often palpable in the fifth or sixth intercostal space, 
+extending out to the axillary line. The murmur of coarctation extends 
+to and is often loudest in the interscapular area posteriorly.
+As with aortic stenosis and obstruction of the left heart outflow, the 
+newborn with coarctation may present with signs of low output and 
+heart failure. Prostaglandins have proved useful in this circumstance, 
+alleviating the obstruction by dilating reactive muscle in the aortic 
+wall, which may have extended from the ductus or with opening of the 
+ductus itself, enabling right-­to-­left ductal flow to the lower body and 
+relieving associated pulmonary hypertension.
+Treatment in the neonate is surgical. However, after infancy, aortic 
+coarctation angioplasty with balloon or stent placement may be con­
+sidered, as may surgery.
+MITRAL VALVE STENOSIS
+Congenital mitral valve stenosis (Fig. 9.23) is uncommon. When it 
+occurs, it is usually in association with additional left-­sided heart 
+obstructive abnormalities, particularly coarctation of the aorta, which 
+is termed the Shone complex. The most common type of significant 
+mitral stenosis is caused by a single or “parachute” papillary muscle. 
+In its most severe form, it is part of the hypoplastic left heart syndrome, 
+in which the valve is small, very stenotic, or atretic. In affected patients, 
+cyanosis, heart failure, and poor perfusion are evident within the first 
+few days after birth.
+The leaflets in congenital stenosis are very immobile, and there is 
+seldom the accentuation of the S1 or an opening snap, which is charac­
+teristic of acquired or rheumatic mitral valve stenosis.
+The murmur of mitral valve stenosis arises from the increased 
+velocity of blood flow across the relatively immobile mitral leaflets 
+during diastolic filling of the left ventricle. This causes a characteristic 
+low-­pitched mid-­diastolic flow rumble best heard in the mitral area.
+Rheumatic mitral valve stenosis is common in many areas of 
+the world but is uncommon in North America. As a consequence of 
+mitral obstruction, the left atrial and pulmonary venous pressures are 
+elevated. Often there is a reflex or secondary elevation of pulmonary 
+Narrowing
+of the 
+aortic arch
+Continuous
+Systole
+P
+R
+Q
+T
+S
+Fig. 9.22  Coarctation of the aorta. The murmur of coarctation is often 
+audible both anteriorly and posteriorly between the scapulae. It is a con­
+tinuous murmur extending well into diastole.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+166
+SECTION 3  Cardiac Disorders
+artery pressures caused by constriction and thickening of small mus­
+cular pulmonary arteries. The features of pulmonary hypertension, 
+including a prominent right ventricular tap, single loud or palpable S2, 
+and a high-­pitched pulmonary insufficiency, may be apparent.
+Excursion of the thickened leaflets often causes an early diastolic 
+high-­pitched opening snap before the onset of the murmur. In severe 
+stenosis, strong atrial contraction late in diastole may create a late dia­
+stolic crescendo murmur. A loud S1 is often heard in this condition.
+MURMURS CAUSED BY ATRIOVENTRICULAR VALVE 
+AND SEMILUNAR VALVE INSUFFICIENCY
+Tricuspid Valve Regurgitation
+Tricuspid valve regurgitation (insufficiency) (Fig. 9.24) is uncommon 
+in childhood in the absence of additional abnormalities. It may be a 
+consequence of pulmonary artery hypertension, in which the high-­
+pressure right ventricle contributes to a high-­pitched holosystolic mur­
+mur at the lower left or lower right sternal border (tricuspid area).
+Less often, tricuspid valve insufficiency may occur in association 
+with a displaced and malformed tricuspid valve (Ebstein anomaly), in 
+which case the pulmonary arterial and right ventricular pressures are 
+not elevated, and the holosystolic murmur is low pitched. The features 
+of right-­sided cardiac murmurs vary much more with the respiratory 
+cycle than do left-­sided heart murmurs. There may be signs of right-­
+sided heart failure: an enlarged pulsatile liver and, in the older child, a 
+prominent V wave pulsation in the neck veins.
+Mitral Valve Insufficiency
+Mitral valve insufficiency (Fig. 9.25) is associated with a diffuse and 
+dynamic apical impulse. If the volume of regurgitant flow is great, a 
+bifid or double apical impulse of a palpable S3 may be apparent.
+The insufficiency jet of blood from the powerful left ventricle to 
+the thin-­walled left atrium causes a high-­pitched blowing holosystolic 
+murmur that has an abrupt onset. This murmur is heard best with the 
+diaphragm of the stethoscope placed anteriorly in the mitral area. The 
+systolic murmur radiates to the axillae.
+The S1 is usually of normal to increased intensity, but if the valve 
+abnormality is rheumatic in origin, it may be sufficiently deformed 
+that S1 is quite soft. If the mitral regurgitation is quite significant, an S3 
+filling sound is heard, often associated with a mid-­diastolic flow rum­
+ble of “relative” mitral valve stenosis. Mitral valve insufficiency may be 
+seen as a congenital lesion, in response to dilated annulus secondary to 
+heart failure, during acute rheumatic fever, or as part of the mitral valve 
+prolapse spectrum.
+Mitral Valve Prolapse
+This common condition of adolescents and young adults manifests as 
+laxity of the mitral valve and results in slippage or displacement of one 
+or both valve leaflets backward into the left atrium during systole (see 
+Fig. 9.25 and Fig. 9.26). Mitral valve prolapse may be isolated or syn­
+dromic (Table 9.6). Isolated mitral valve prolapse may be an autosomal 
+S
+R
+P
+Q
+T
+Obstruction to
+mitral valve
+inflow
+Systole
+Fig. 9.23  Mitral valve stenosis. The murmur of mitral valve stenosis 
+occurs during the period of passive and active filling of the ventricle as 
+turbulence occurs across the obstructive mitral valve. Pulmonary hyper­
+tension often arises as a consequence of the downstream obstruction.
+Holosystolic
+R
+P
+Q
+T
+S
+Tricuspid valve
+leakage to
+enlarged right
+atrium
+Systole
+Fig. 9.24  Tricuspid valve insufficiency. The holosystolic murmur of tri­
+cuspid valve insufficiency is low pitched in the absence of any pulmo­
+nary outflow obstruction, which makes tricuspid valve insufficiency very 
+challenging to hear.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+167
+CHAPTER 9  Murmurs
+dominant disorder with variable penetrance; an X-­linked mitral valve 
+prolapse disorder is less common due to pathologic variants in FLNA.
+The sudden tensing of the mitral valve often causes a mid-­systolic 
+click or sometimes multiple clicks that can be heard best in the mitral 
+area. The click is frequently followed by a late high-­pitched systolic 
+murmur of mitral valve insufficiency. The timing of the click or clicks 
+and the intensity of the murmur often vary with body position. When 
+the patient is sitting up (and even more so during standing), the mur­
+mur gets louder or may be heard even when no murmur was heard 
+when the patient was lying down. This is because the left ventricular 
+architecture changes in the upright position. In rare cases, the posi­
+tion change may result in a late systolic murmur becoming full length, 
+although with late accentuation. The ECG often shows unusually ante­
+rior and superior T waves with prominent U waves, which suggests 
+papillary muscle dysfunction.
+Mitral valve prolapse does not usually progress in childhood, but it 
+may be associated with supraventricular tachycardia, chest pain, and 
+possibly endocarditis or cerebrovascular embolism. Ventricular tachy­
+cardia and fibrillation may occur in adults, but sudden cardiac death 
+is very unusual during childhood and adolescence. Thickening of the 
+valve, in addition to prolapse, increases the risk of these complications.
+Pulmonary Valve Insufficiency
+Pulmonary valve insufficiency (Fig. 9.27) rarely if ever occurs in isola­
+tion. Most often, congenital regurgitation of the pulmonic valve occurs 
+in association with a pulmonary outflow obstruction such as in the 
+absent pulmonary valve syndrome.
+When the pulmonary arterial pressure is low, valve insufficiency is 
+recognized by a very low-­ to medium-­pitched early diastolic murmur 
+that starts with P2. This is heard best in the pulmonary area and extends 
+for a short distance down the left sternal edge.
+The more common types of pulmonary regurgitation are acquired, 
+commonly after surgery for severe pulmonary valve stenosis, as occurs 
+with tetralogy of Fallot, when a pulmonary outflow patch may be 
+placed and the valve leaflets are deficient or absent. Because no P2 
+exists, the murmur often appears to start significantly after S2. Because 
+these patients often have surgically acquired right bundle branch block, 
+the pulmonary valve closure would be well separated from aortic valve 
+closure if the sound could be heard. The diastolic decrescendo murmur 
+begins at that time.
+Pulmonary hypertension, particularly when associated with a high 
+pulmonary vascular resistance, is a common cause of secondary pul­
+monary insufficiency. Often, a pulmonary ejection click may be present 
+because of the dilated pulmonary root. The S2 is narrowly split or single 
+because the high pulmonary artery diastolic pressure closes the valve 
+early. A diastolic decrescendo murmur then begins with pulmonary 
+valve closure and is high in frequency because the pulmonary artery 
+pressure is high, the so-­called Graham-­Steele murmur.
+Aortic Valve Insufficiency
+Congenital insufficiency of the aortic valve (Fig. 9.28) is rare and is 
+usually mild and may not be audible. The valve may or may not be 
+bicuspid. There is usually an aortic ejection click that is well separated 
+from S1, does not vary with respiration, and is usually best heard at the 
+apex. The S2 split is normal, although the A2 may be loud and may have 
+a “tambour” quality.
+After closure of the aortic valve (A2), regurgitation of leakage at this 
+site creates the high-­pitched, early diastolic decrescendo murmur of 
+aortic insufficiency. This murmur is heard best at the third left or right 
+intercostal space while the patient is sitting. The pulse pressure is nor­
+mal if the leak is mild.
+The most common form of aortic insufficiency is acquired, most 
+often as a consequence of severe rheumatic carditis, and can be pres­
+ent in both acute rheumatic fever and chronic rheumatic heart disease. 
+In acute insufficiency, there is usually no aortic ejection click. The left 
+ventricular impulse is abnormal and hyperdynamic, and a wide pulse 
+pressure is present.
+A long, low-­frequency musical diastolic rumble beginning one 
+third of the time into diastole may occur, especially in the left lateral 
+decubitus position in patients with significant valve insufficiency. This 
+is called the Austin Flint murmur. It is believed to be related to regur­
+gitant aortic flow passing across the anterior mitral valve causing flut­
+tering of the leaflet in conjunction with mitral valve inflow.
+MISCELLANEOUS CARDIAC ANOMALIES
+Pericardial Disease
+Many infectious and noninfectious diseases may cause inflammation 
+of the pericardial sac and surrounding structures. The presence of 
+fluid in the pericardial sac may compromise cardiac filling and result 
+in life-­threatening impairment of cardiac output, “pericardial tam­
+ponade.” The auscultatory findings in these cases often include fric­
+tion rubs.
+These variable sounds are high-­pitched, superficial, and scratching 
+noises. They occur in synchrony with cardiac movement and can be 
+heard during the early period after myocardial infarction and often fre­
+quently are heard after cardiac surgery.
+R
+P
+Q
+T
+Systole
+Floppy and 
+prolapsing mitral
+valve leaflets        
+S
+Mid-systolic clicks
+Fig. 9.25  Mitral valve prolapse. The auscultatory examination findings 
+can be very distinctive, with one or more sharp clicks being heard 
+throughout systole. A late systolic high-­pitched murmur may arise if 
+mitral valve insufficiency occurs.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+D
+B
+A
+C
+C
+C
+A
+AO
+AO
+P
+A
+P
+D
+I
+V
+L
+D
+LV
+Septum
+Septum
+Normal: A
+A
+P
+AC form: P
+A
+Coaptation
+Fig. 9.26  Two-­dimensional parasternal long-­axis images of posteriorly coapting leaflets (anterior leaflet [AL]; 
+posterior leaflet [PL]) in a normal individual (A) vs increased coaptation height and an elongated posterior leaflet 
+in an individual with abnormal anterior coaptation (AAC) features (B) and in a patient with bileaflet mitral valve 
+prolapse (MVP) into the left atrium (LA; C). Schematics (D) showing the projections of anterior (A) and posterior 
+(P) leaflets onto the mitral annular diameter (D). C indicates the coaptation height relative to the annulus and is 
+calculated as P/D or C/LVID, where LVID is left ventricular internal diameter. AO, aorta; LV, left ventricle; RV, right 
+ventricle. (From Delling FN, Vasan RS. Epidemiology and pathophysiology of mitral valve prolapse: new insights 
+into disease progression, genetics, and molecular basis. Circulation. 2014;129[21]:2158–2170 [Fig. 4, p. 2165].)
+TABLE 9.6  Genetic Anomalies Associated with Mitral Valve Prolapse in Humans
+Gene or Chromosome
+Defect Localization/Mechanism
+Rare Causal Genetic Defects
+Syndromic MVP
+Trisomies 18, 13, 15
+Chr 18, 13, 15
+–
+Marfan syndrome
+FBN1-­TGFβR2-­TGFβ2
+ECM/TGFβ pathway
+Loeys-­Dietz
+TGFβR1-­TGFβR2
+TGFβ pathway
+Juvenile polyposis syndrome
+SMAD4-­BMPR1A
+TGFβ pathway
+Aneurysm-­osteoarthritis syndrome
+SMAD3
+TGFβ pathway
+Ehlers-­Danlos syndrome
+Collagen types I, III, V, and XI and tenascin
+ECM
+Osteogenesis imperfecta
+Collagen type I
+ECM
+Williams-­Beuren syndrome
+Elastin
+ECM
+Pseudoxanthoma elasticum
+MRP6 (ABCC6)
+ECM
+BDCS or FTH syndromes
+SH3PXD2B
+Podosomes/cell migration
+Larsen-­like syndrome
+B3GAT3
+ECM/glycosaminoglycans
+Syndrome with sinus node dysfunction, arrhythmias, LVNC
+HCN4
+Ionic channel/heart development
+Nonsyndromic MVP
+Filamin A-­MVD
+FLNA
+Mechanotransduction
+Myxomatous disease
+MMVP1
+Chr 16p
+–
+MMVP2
+DCHS1
+Cell migration and polarity
+MMVP3
+Chr 13
+–
+BDCS, Borrone dermato-­cardio-­skeletal; Chr, chromosome; ECM, extracellular matrix; FTH, Frank-­Ter Haar; GWAS, genome-­wide association study; 
+LVNC, left ventricular noncompaction; MVD, mitral valve disease; MVP, mitral valve prolapse; TGF, transforming growth factor.
+Modified from Le Tourneau T, Merot J, Rimbert A, et al. Genetics of syndromic and non-­syndromic mitral valve prolapse. Heart. 2018;104(12):978–
+984 (Table 1, p. 980).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+169
+CHAPTER 9  Murmurs
+PULMONARY HYPERTENSION
+After the neonatal period, pressures in the pulmonary circulation are 
+normally low (approximately 25 mm Hg systolic, or about one fourth 
+of the pressure in the systemic circulation or aorta). Many diseases 
+have profound effects on the pulmonary circulation and can elevate 
+pressures within the pulmonary arteries. These include diseases of the 
+lung parenchyma, pulmonary vasculature, heart, or liver; collagen vas­
+cular diseases; and obstruction of the upper airways.
+One consistent physical finding detected in pulmonary hyperten­
+sion is an active right ventricular parasternal tap with a distinctive, 
+sharp, palpable P2. The P2 is of increased intensity, and there is a single 
+or narrowly split S2. There may be no audible murmur; a high-­pitched 
+murmur of pulmonary valve insufficiency or a high-­pitched systolic 
+murmur of tricuspid valve insufficiency may be present.
+Recognition of pulmonary hypertension warrants a diligent search 
+for the underlying cause. If the reason for the elevated pulmonary 
+artery pressure remains unclear, the disorder is referred to as idio­
+pathic or primary pulmonary hypertension. If an etiology can be 
+found, the disorder is termed secondary pulmonary hypertension.
+APPROACH TO CONGENITAL HEART DISEASE
+Congenital heart disease may produce an asymptomatic murmur, heart 
+failure, cyanosis, cyanosis with heart failure, or severe cardiogenic shock 
+(Fig. 9.29). Malformations associated with profound and fixed cyanosis 
+without heart failure are usually associated with right-­sided obstructive 
+lesions and a right-­to-­left shunt (e.g., pulmonary atresia, tetralogy of 
+Fallot). Transposition of the great arteries with intact ventricular sep­
+tum also manifests with profound and fixed hypoxia, with mild tachy­
+pnea, and with no heart failure. Malformations associated with cyanosis 
+and heart failure have a large mixing lesion (single ventricle, truncus 
+arteriosus, transposition plus a VSD), in which pulmonary oxygenated 
+venous return mixes with desaturated systemic venous return before 
+ejection to the systemic arterial circulation. In addition, obstructed total 
+anomalous pulmonary veins may produce severe cyanosis, pulmonary 
+venous engorgement, and pulmonary hypertension. Lesions associated 
+with left-­sided obstruction (critical aortic stenosis, interrupted aortic 
+arch, hypoplastic left heart syndrome) produce significant cardiogenic 
+shock, poor perfusion, and profound lactic acidosis.
+The chest radiograph may provide helpful clues to the cause of 
+the lesion, depending on the paucity (pulmonary atresia) or plethora 
+(obstructed total anomalous pulmonary venous return) of the pul­
+monary vascular markings; the left-­ or right-­sided (tetralogy of Fallot, 
+truncus arteriosus) position of the aorta; the configuration of the heart 
+(boot-­shaped, as in tetralogy of Fallot; egg-­shaped, as in transposition 
+of the great arteries; or massive enlargement, as in Ebstein anomaly); or 
+the side of the chest (risk of heart disease is higher with dextrocardia, 
+especially if the stomach bubble is on the left side of the abdomen or 
+if the liver is midline) (Fig. 9.30). The chest radiograph is of some help 
+Systole
+R
+P
+Q
+T
+Regurgitant or
+backward flow
+through the
+pulmonary valve
+S
+Fig. 9.27  Pulmonary valve insufficiency. A low-­pitched early diastolic 
+murmur is heard just after the second heart sound. The murmur charac­
+teristically tapers into diastole.
+R
+P
+Q
+T
+Systole
+Regurgitant or
+backward flow
+through the
+aortic valve
+S
+Fig. 9.28  Aortic valve insufficiency. In contrast to the low-­pressure 
+murmur of pulmonary valve insufficiency (in the absence of pulmonary 
+hypertension), the murmur of aortic valve insufficiency is high pitched 
+and audible from the aortic area extending to the apex. The peripheral 
+pulses and the intensity and length of the murmur provide clinical quan­
+tification of the magnitude of regurgitant flow.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+170
+SECTION 3  Cardiac Disorders
+MURMUR
+CYANOSIS
+Transposition
+of the great
+arteries
+Pulmonic
+atresia
+Tetralogy
+of Fallot
+Truncus
+arteriosus
+Total
+anomalous
+pulmonary
+venous return
+Tricuspid
+atresia
+Persistent
+fetal
+circulation
+(pulmonary
+hypertension)*
+ADEQUATE
+PERFUSION
+Patent
+ductus
+arteriosus
+Ventricular
+septal
+defect
+Anomalous
+coronary
+artery
+Arteriovenous
+malformation
+Single
+ventricle
+AV–canal
+POOR
+PERFUSION
+Hypoplastic
+left heart
+Interrupted
+aortic arch
+Neonatal
+juxtaductal
+coarctation
+Critical
+aortic
+stenosis
+Myocarditis
+Cardiomyopathy
+HEART
+FAILURE
+ASYMPTOMATIC
+Peripheral
+pulmonic
+stenosis
+Patent
+ductus
+arteriosus
+Ventral
+septal
+defect (small)
+Atrial
+septal
+defect
+ACQUIRED
+ASPHYXIA
+Tricuspid
+insufficiency
+Mitral
+insufficiency
+DEGENERATIVE
+Marfan
+syndrome
+Mitral
+valve
+prolapse
+Cardiomyopathy
+INFLAMMATORY
+INFECTIOUS
+Bacterial
+endocarditis
+Rheumatic
+fever
+Systemic
+lupus
+erythematosus
+Rheumatoid
+arthritis
+Pulmonary
+thromboembolism
+Anemia
+*Murmur represents tricuspid insufficiency (usually no murmur in persistent fetal circulation).
+CONGENITAL
+POSTINFECTIOUS
+Fig. 9.29  Algorithmic approach to the child with a heart murmur. AV, atrioventricular.
+in distinguishing heart disease from congenital pneumonia, respiratory 
+distress syndrome, pneumothorax, and congenital diaphragmatic hernia.
+The ECG in infancy is of help in discriminating atrial and ventric­
+ular enlargement or hypertrophy and very helpful when there is an 
+abnormal superior vector (complete atrioventricular canal, tricuspid 
+atresia).
+Two-­dimensional real-­time color Doppler echocardiography is most 
+useful in identifying the anatomy of congenital heart lesions. The echocar­
+diogram enables assessment of the four chambers, the interconnecting 
+valves, the great arteries, the pulmonary venous return, and the anatomic 
+relationships between these structures. Furthermore, color Doppler 
+flow studies can determine the presence, direction, and magnitude of 
+B
+A
+C
+Fig. 9.30  Physiology of congenital heart disease delineated by chest radiography. A, Mild cardiomegaly with 
+an upturned cardiac apex, a concave main pulmonary artery segment, and symmetric, severely diminished 
+pulmonary blood flow in a 4-­year-­old with tetralogy of Fallot/pulmonary atresia. B, Moderate cardiomegaly and 
+symmetric, increased pulmonary blood flow in a 3-­month-­old with a large atrial septal defect and ventricular 
+septal defect. C, Moderate cardiomegaly with interstitial edema in an 8-­day-­old with critical aortic stenosis. 
+(From Frost JL, Krishnamurthy R, Sena L. Cardiac imaging. In: Walters MM, Robertson RL, eds. Pediatric 
+Radiology: The Requisites. 4th ed. Philadelphia: Elsevier; 2017:68, Fig. 3.9.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+171
+CHAPTER 9  Murmurs
+Fig. 9.31  Subcutaneous nodules. (Modified from Shulman ST, Jaggi 
+P. Nonsuppurative poststreptococcal sequelae: rheumatic fever and 
+glomerulonephritis. In: Bennett JE, Dolin R, Blaser MJ, eds. Mandell, 
+Douglas, and Bennett’s Principles and Practices of Infectious Diseases. 
+9th ed. Philadelphia: Elsevier; 2020:2466, Fig. 198.3.)
+Fig. 9.32  Rash of erythema marginatum in an adolescent boy with acute 
+rheumatic fever showing its characteristic serpiginous and erythem­
+atous margins. (From Alsaeid K, Uziel Y, Weiss PF. Reactive arthritis. 
+In: Petty RE, Laxer RM, Lindsley CB, et al., eds. Textbook of Pediatric 
+Rheumatology. 8th ed. Philadelphia: Elsevier; 2021, Fig. 46.10.)
+right-­to-­left or left-­to-­right shunts. Echocardiography has replaced car­
+diac catheterization for all but the most complex congenital heart lesions.
+ACUTE RHEUMATIC FEVER AND RHEUMATIC 
+HEART DISEASE
+Rheumatic fever is a postinfectious, immunologically mediated 
+inflammatory disease of the heart, joints, brain, and skin that is caused 
+by group A streptococcus. Migratory polyarthritis is the most com­
+mon presentation followed by carditis; chorea, subcutaneous nodules 
+(usually with mitral regurgitation) (Fig. 9.31), and erythema margin­
+atum (Fig. 9.32) are much less common. Valvulitis, as manifested by 
+specific and new heart murmurs, is often part of the initial clinical 
+presentation. There are three specific heart murmurs: mitral regur­
+gitation, aortic regurgitation (usually with mitral regurgitation), and 
+the rare Carey-­Coombs murmur, a mid-­diastolic rumble at the apex. 
+Pericarditis, usually associated with valvulitis, may produce a friction 
+rub. Rheumatic cardiac disease may present with pancarditis (valvuli­
+tis, pericarditis, and myocardial involvement). Valvulitis (endocardi­
+tis) is the most common cardiac lesion; pericarditis or myocarditis in 
+the absence of valvulitis should suggest another disorder. Recurrent 
+episodes of rheumatic fever create the greatest risk for chronic valve 
+abnormalities.
+After the acute rheumatic fever has run its course, any remaining 
+murmurs become part of chronic rheumatic heart disease. If the patient 
+has continued permanent reliable penicillin prophylaxis, the severity of 
+the mitral regurgitation often disappears; this happens less commonly 
+with aortic regurgitation. The development of mitral valve stenosis is 
+part of the natural history of severe repeated episodes of acute rheu­
+matic fever. Pure aortic stenosis does not develop, although in the 
+presence of long-­standing rheumatic heart disease with severe aortic 
+regurgitation, some aortic stenosis may be present. In some very severe 
+cases, tricuspid valve regurgitation has been documented, but it is rare.
+The diagnosis of acute rheumatic fever is suggested, although not 
+definitively confirmed, by application of the revised Jones criteria, last 
+edited in 2015 (Table 9.7). In addition, evidence of a group A strepto­
+coccal pharyngitis must be present, which may include a positive throat 
+culture, positive streptococcal antigen or antistreptococcal antibody, 
+or history of prior episodes of rheumatic fever. In cases where carditis 
+may be subclinical (no audible murmur), the diagnosis is supported 
+by echocardiographic evidence of subclinical carditis (Table 9.8). The 
+differential diagnosis is limited but in the presence of pericarditis or 
+carditis and arthritis may include juvenile idiopathic arthritis and sys­
+temic lupus erythematosus (see Chapter 44).
+INFECTIVE ENDOCARDITIS
+An acute or subacute infection of the cardiac valves produces infective 
+endocarditis. Infection may involve a native, previously normal heart 
+valve; a valve or structure that is altered as the result of congenital heart 
+disease or prior insult; or a prosthetic device (e.g., valve, conduit, patch, 
+graft, shunt, or pacemaker).
+Endocarditis may affect congenital heart lesions (most commonly, 
+tetralogy of Fallot, VSD, aortic stenosis, PDA, transposition of the great 
+arteries), valves affected by rheumatic heart disease, and mitral valve 
+prolapse. Endocarditis may develop in congenital heart anomalies in 
+the unoperated and the postoperative states. Furthermore, up to 30% 
+of cases of infective endocarditis occur on previously normal native 
+valves.
+Bacterial endocarditis is the result of a bacteremia, which in a nor­
+mal host is usually transient, asymptomatic, and without sequelae. The 
+presence of a damaged valve, a jet stream–injured endocardium, or a 
+foreign body (e.g., central catheter, graft, shunt, or patch) creates a nidus 
+of infection that permits the bacteria to bind, proliferate, and remain 
+sequestered from normal host defense mechanisms. Transient and pre­
+disposing episodes of bacteremia occur during dental procedures that 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+172
+SECTION 3  Cardiac Disorders
+TABLE 9.8  Echocardiographic Findings in Rheumatic Valvulitis
+Pathologic Mitral Regurgitation (All Four Met)
+Pathologic Aortic Regurgitation (All Four Met)
+	1.	Seen in at least two views
+	2.	Jet length ≥2 cm in at least one view
+	3.	Peak velocity >3 meters/sec
+	4.	Pan-­systolic jet in at least one envelope
+	1.	Seen in at least two views
+	2.	Jet length ≥1 cm in at least one view
+	3.	Peak velocity >3 meters/sec
+	4.	Pan-­diastolic jet in at least one envelope
+From Shulman ST. Group A streptococcus. In: Kliegman RM, Stanton BF, St. Geme III JW, et al., eds. Nelson Textbook of Pediatrics. 20th ed. 
+Philadelphia: Elsevier; 2016.
+TABLE 9.7  Guidelines for the Diagnosis of Initial or Recurrent Attack of Rheumatic Fever (Jones 
+Criteria, Updated 2015)
+Major Manifestations
+Minor Manifestations
+Supporting Evidence of Antecedent 
+Group A Streptococcal Infection
+Carditis
+Polyarthritis
+Erythema marginatum
+Subcutaneous nodules
+Chorea
+Clinical Features
+Arthralgia
+Fever
+Laboratory Features
+Elevated acute-­phase reactants:
+Erythrocyte sedimentation rate
+C-­reactive protein
+Prolonged P-­R interval
+Positive throat culture or rapid streptococcal antigen 
+test
+Elevated or increasing streptococcal antibody titer
+	1.	 Initial attack: two major manifestations, or one major and two minor manifestations, plus evidence of recent GAS infection. Recurrent attack: 
+two major, or one major and two minor, or three minor manifestations (the latter only in the moderate/high-­risk population), plus evidence of 
+recent GAS infection (see text).
+	2.	 Low-­risk population is defined as ARF incidence <2 per 100,000 school-­age children per year, or all-­age RHD prevalence of <1 per 1,000 popu­
+lation. Moderate/high-­risk population is defined as ARF incidence >2 per 100,000 school-­age children per year, or all-­age RHD prevalence of 
+>1 per 1,000 population.
+	3.	 Carditis is now defined as clinical and/or subclinical (echocardiographic valvulitis).
+	4.	 Arthritis (major) refers only to polyarthritis in low-­risk populations, but also to monoarthritis or polyarthralgia in moderate/high-­risk populations.
+	5.	 Minor criteria for moderate/high-­risk populations only include monoarthralgia (polyarthralgia for low-­risk populations), fever of >38°C (>38.5°C in 
+low-­risk populations), ESR >30 mm/hr (>60 mm/hr in low-­risk populations).
+ARF, acute rheumatic fever; GAS, group A streptococci; RHD, rheumatic heart disease.
+From Gewitz MH, Baltimore RS, Tani LY, et al. Revision of the Jones criteria for the diagnosis of acute rheumatic fever in the era of Doppler echo­
+cardiography: a scientific statement from the American Heart Association. Circulation. 2015;131(20):1806–1818.
+induce bleeding (even dental cleaning); tonsillectomy or adenoidec­
+tomy; intestinal (e.g., endoscopy, gall bladder), urinary (e.g., catheter­
+ization, dilatation), prostatic (e.g., cystoscopy), or respiratory surgery; 
+esophageal manipulation (e.g., sclerotherapy, dilatation), incision and 
+drainage of infected tissue; and gynecologic procedures (e.g., vaginal 
+hysterectomy, vaginal delivery).
+Bacterial vegetations grow and produce cardiovascular, 
+embolic, or immune complex–mediated signs and symptoms 
+(Table 9.9). Responsible bacteria are noted in Table 9.10; Staph­
+ylococcus aureus, α-­hemolytic oral mucosa–derived streptococci, 
+and enterococci are the dominant pathogens in native normal and 
+unoperated anomalous valves. Staphylococcus epidermidis and S. 
+aureus are common pathogens in the postoperative patient and in 
+patients with prosthetic devices. Fungal endocarditis is rare and is 
+typically associated with species of Candida. Risk factors include 
+indwelling catheters and the use of parenteral nutrition. Risk fac­
+tors for culture-­negative endocarditis and diagnostic strategies are 
+noted in Table 9.11.
+The definitive diagnosis of infective endocarditis includes recov­
+ery of a microorganism from culture or histologic study of a heart, 
+an embolized vegetation, or an intracardiac abscess (Tables 9.12 
+and 9.13). Vegetations may be demonstrated by the sensitive tech­
+nique of transesophageal echocardiography but are usually seen on 
+transthoracic echocardiography in children. In the absence of direct 
+definitive evidence, the following are important diagnostic factors: 
+persistently positive blood cultures with a pathogen compatible with 
+the diagnosis; echocardiographic evidence of an intracardiac mass, 
+vegetations, perivalvular abscess, or new partial dehiscence of a pros­
+thetic valve; and a new valvular murmur (regurgitation or worsening 
+or changing of a pre-­existing murmur). Blood cultures are helpful if 
+two or more drawn 12 hours apart are positive or if a majority (e.g., 
+three or four) of separate cultures drawn in 1 hour are positive. More 
+than 85% of first blood cultures are positive; the yield approaches 
+95% with obtaining a second blood culture. Sufficient blood must 
+be inoculated into the media to detect the low-­grade bacteremia of 
+infective endocarditis; excessive blood inoculation may inhibit bacte­
+rial growth by continued activity of leukocytes unless the technique 
+involves centrifugation lysis. The cultures should be incubated for 
+more than the routine 72 hours (often 1–2 weeks), and the laboratory 
+should be notified of the possible diagnosis so that laboratory per­
+sonnel can enrich the media to encourage the growth of fastidious 
+nutrient-­dependent organisms.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+173
+CHAPTER 9  Murmurs
+TABLE 9.9  Frequency of Findings in 
+Pediatric Infective Endocarditis
+Symptom
+Frequency (%)
+Malaise
+50–75
+Anorexia/weight loss
+25–50
+Heart failure
+25–50
+Arthralgia
+17–50
+Chest pain
+0–25
+Neurologic symptoms (focal neurologic deficit, 
+aseptic meningitis)
+0–25
+Gastrointestinal symptoms
+0–50
+Sign
+Frequency (%)
+Fever
+75–100
+Splenomegaly
+50–75
+Petechiae
+21–50
+Embolic phenomenon
+25–50
+New or changed murmur
+21–80
+Clubbing
+0–10
+Osler nodes
+0–10
+Roth spots
+0–10
+Janeway lesions
+0–10
+Splinter hemorrhages
+0–10
+Conjunctival hemorrhages
+0–10
+Abnormal Laboratory Finding
+Frequency (%)
+Positive blood culture
+75–100
+Elevated erythrocyte sedimentation rate
+75–100
+Anemia
+75–90
+Presence of rheumatoid factor
+25–50
+Hematuria
+25–50
+Low serum complement
+5–40
+From Levasseur S, Saiman L. Endocarditis and other intravascular 
+infections. In: Long SS, Prober CG, Fischer M, eds. Principles and 
+Practice of Pediatric Infectious Diseases. 5th ed. Philadelphia: Elsevier; 
+2018:264, Table 37.4.
+TABLE 9.10  Microbiologic Agents in 
+Pediatric Infective Endocarditis
+Common: Native Valve or Other Cardiac Lesions
+Viridans group streptococci (Streptococcus mutans, Streptococcus sanguinis, 
+Streptococcus mitis)
+Staphylococcus aureus
+Group D streptococci (Streptococcus gallolyticus)
+Enterococcus faecalis
+Uncommon: Native Valve or Other Cardiac Lesions
+Streptococcus pneumoniae
+Haemophilus influenzae
+Coagulase-­negative staphylococci
+Abiotrophia defectiva (nutritionally variant streptococcus)
+Coxiella burnetii (Q fever)*
+Neisseria gonorrhoeae
+Brucella*
+Chlamydia psittaci*
+Chlamydia trachomatis*
+Chlamydia pneumoniae*
+Legionella*
+Bartonella*
+Tropheryma whipplei* (Whipple disease)
+HACEK group†
+Streptobacillus moniliformis*
+Atypical mycobacterium
+Pasteurella multocida*
+Campylobacter fetus
+Culture negative (6% of cases)
+Prosthetic Valve
+Staphylococcus epidermidis
+S. aureus
+Viridans group streptococci
+Pseudomonas aeruginosa
+Serratia marcescens
+Diphtheroids
+Legionella species*
+HACEK group†
+Fungi‡
+*These fastidious bacteria plus some fungi may produce culture-­
+negative endocarditis. Detection may require special media, incuba­
+tion for more than 7 days, multiplex polymerase chain reaction on 
+blood or valve for 16S rRNA (bacteria) or 18S rRNA (fungi), or serologic 
+tests.
+†The HACEK group includes Haemophilus Aggregatibacter (formerly 
+Actinobacillus), Cardiobacterium, Eikenella, and Kingella species.
+‡Candida species, Aspergillus species, Pseudallescheria boydii, Histo­
+plasma capsulatum.
+From Bernstein D. Infective endocarditis. In: Kliegman RM, Stanton 
+BF, St. Geme III JW, et al., eds. Nelson Textbook of Pediatrics. 20th 
+ed. Philadelphia: Elsevier; 2016.
+Additional criteria for diagnosing infective endocarditis include 
+fever, predisposing heart lesions and procedures (many patients have 
+undergone no identifiable procedure), vascular phenomena (embo­
+lism, Janeway lesions, petechiae, septic pulmonary infarcts, intracranial 
+hemorrhage), immune lesions (glomerulonephritis, Roth spots, Osler 
+nodes) (Fig. 9.33), a suggestive but not definitive echocardiogram, and 
+microbiologic criteria (positive blood culture but not as defined earlier; 
+serologic evidence of active infection).
+To prevent infective endocarditis, high-­risk patients, pro­
+cedures, and factors that predispose to bacteremia need to be 
+identified (Table 9.14). Patients needing infective endocarditis 
+prophylaxis include those with intracardiac foreign bodies (pros­
+thetic valve, grafts), prior episodes of infective endocarditis, a heart 
+transplant with abnormal valve function, and certain congenital 
+heart abnormalities including the following: (1) cyanotic congeni­
+tal heart disease that has not been fully repaired, including children 
+who have had surgical shunts and conduits; (2) a congenital heart 
+defect that has been repaired with prosthetic material or a device 
+for the first 6 months after the repair procedure; and (3) repaired 
+congenital heart disease with residual defects, such as persisting 
+leaks or abnormal flow at or adjacent to a prosthetic patch or pros­
+thetic device.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+TABLE 9.11  Causes of Culture-­Negative Endocarditis
+Organism
+Epidemiology and Exposures
+Diagnostic Approaches
+Aspergillus and other 
+noncandidal fungi
+Prosthetic valve
+Lysis-­centrifugation technique; also culture and histopathologic examination 
+of any emboli
+Bartonella spp.
+Bartonella henselae: exposure to cats or cat fleas
+Bartonella quintana: louse infestation; homelessness, 
+alcohol abuse
+Most common cause of culture-­negative IE in United States; serologic testing 
+(may cross-­react with Chlamydia spp.); PCR assay of valve or emboli is best 
+test; lysis-­centrifugation technique may be useful
+Brucella spp.
+Ingestion of unpasteurized milk or dairy products; 
+livestock contact
+Blood cultures ultimately become positive in 80% of cases with extended incu­
+bation time of 4–6 wk; lysis-­centrifugation technique may expedite growth; 
+serologic tests are available
+Chlamydia psittaci
+Bird exposure
+Serologic tests available but exhibit cross-­reactivity with Bartonella; monoclo­
+nal antibody direct stains on tissue may be useful; PCR assay now available
+Coxiella burnetii
+(Q fever)
+Global distribution; zoonosis, wide range of mammals
+Serologic tests (high titers of antibody to both phase I and phase II antigens); 
+also PCR assay on blood or valve tissue
+HACEK spp.
+Periodontal disease or preceding dental work
+Although traditionally a cause of culture-­negative IE, HACEK species are now 
+routinely isolated from most liquid broth continuous monitoring blood culture 
+systems without prolonged incubation times
+Legionella spp.
+Contaminated water distribution systems; prosthetic 
+valves
+Serology available; periodic subcultures onto buffered charcoal yeast extract 
+medium; lysis-­centrifugation technique; PCR assay available
+Abiotrophia and Granuli­
+catella spp.
+Slow and indolent course
+Supplemented culture media or growth as satellite colonies around Staphy­
+lococcus aureus streak; antimicrobial susceptibility testing often requires 
+processing specialized microbiology laboratory
+Tropheryma whipplei 
+(Whipple disease)
+Typical signs and symptoms include diarrhea, weight 
+loss, arthralgias, abdominal pain, lymphadenopathy, 
+central nervous system involvement; IE may be pres­
+ent without systemic symptoms
+Histologic examination of valve with periodic acid–Schiff stain; valve cultures 
+may be done using fibroblast cell lines; PCR assay on vegetation material
+HACEK, Haemophilus, Aggregatibacter (formerly Actinobacillus), Cardiobacterium, Eikenella, Kingella; IE, infective endocarditis; PCR, polymerase 
+chain reaction.
+From Holland TL, Bayer AS, Fowler Jr VG. Endocarditis and intravascular infections. In: Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Douglas, and 
+Bennett’s Principles and Practice of Infectious Diseases. 9th ed. Philadelphia: Elsevier; 2020:1088, Table 80.6.
+TABLE 9.12  Definitions of Major and Minor Criteria Used in the Duke Schema for the 
+Diagnosis of Infective Endocarditis
+Major Criteria
+	1.	Positive blood culture for IE
+ • Typical microorganism consistent with IE from two separate blood 
+cultures:
+ • Viridans streptococci
+ • Streptococcus gallolyticus
+ • HACEK group
+ • Staphylococcus aureus
+ • Community-­acquired enterococci (without a primary focus)
+ • Microorganism consistent with IE from persistently positive blood 
+cultures if:
+ • At least two positive blood cultures sampled more than 12 hr apart
+ • All three or a majority of more than four blood cultures
+ • Single positive blood culture for Coxiella burnetii or IgG antibody titer 
+>1:800
+	2.	Evidence of endocardial involvement by positive echocardiogram for IE, 
+defined as:
+ • Oscillating intracardiac mass on valve or supporting structures, in the 
+path of regurgitant jets, or on implanted material
+ • Abscess
+ • New partial dehiscence of prosthetic valve
+ • New valvular regurgitation (worsening or changing of pre-­existing 
+murmur not sufficient)
+HACEK, Haemophilus, Aggregatibacter (formerly Actinobacillus), Cardiobacterium, Eikenella, Kingella; IE, infective endocarditis; IgG, immunoglobulin G.
+Modified from Li JS. Sexton DJ, Mick N, et al. Proposed modifications to the Duke criteria for the diagnosis of infective endocarditis. Clin Infect Dis. 
+2000;30:633–638.
+From Levasseue S, Saiman L. Endocarditis and other intravascular infections. In: Long SS, Prober CG, Fischer M, eds. Principles and Practice of 
+Pediatric Infectious Diseases. 5th ed. Philadelphia: Elsevier; 2018:266, Box 37.2.
+Minor Criteria
+	1.	Predisposing heart condition or intravenous drug abuse
+	2.	Fever: temperature >38°C
+	3.	Vascular phenomena: major arterial emboli, septic pulmonary infarcts, 
+mycotic aneurysm, intracranial hemorrhage, conjunctival hemorrhages, 
+Janeway lesions
+	4.	Immunologic phenomena: glomerulonephritis, Osler nodes, Roth spots, 
+rheumatoid factor
+	5.	Microbiologic evidence: positive blood culture but does not meet major 
+criteria or serologic evidence of active infection with organism consistent 
+with IE
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+175
+CHAPTER 9  Murmurs
+TABLE 9.13  Modified Duke Clinical Criteria for Diagnosis of Infective Endocarditis*
+Definite Infective Endocarditis
+Pathologic Criteria
+ • Microorganisms demonstrated by culture or histology in a vegetation, embolized vegetation, or intracardiac abscess
+ • Pathologic lesions (vegetation or intracardiac abscess) with active endocarditis confirmed by histology
+Clinical Criteria
+ • Two major criteria
+ • One major and three minor criteria
+ • Five minor criteria
+Possible Infective Endocarditis
+ • One major criterion and one minor criterion
+ • Three minor criteria
+Rejected
+ • Firm alternative diagnosis for manifestations of endocarditis
+ • Resolution of endocarditis manifestations with antibiotic therapy ≤4 days
+ • No pathologic evidence of infective endocarditis at surgery or autopsy with antibiotic therapy for ≤4 days
+ • Does not fulfill criteria above
+*Any one of the findings listed is taken as evidence.
+Modified from Li JS, Sexton DJ, Mick N, et al. Proposed modifications to the Duke criteria for the diagnosis of infective endocarditis. Clin Infect 
+Dis. 2000;30:633–638.
+Fig. 9.33  Osler node in infective endocarditis. (From Fowler JR VG, Bayer AS, Baddor LM. Infective endocarditis. In: Goldman L, Schafer AI, eds. 
+Goldman-­Cecil Medicine. 26th ed. Philadelphia: Elsevier; 2020:420, Fig. 67.2.)
+TABLE 9.14  2007 Statement of the American Heart Association (AHA): Cardiac Conditions 
+Associated with the Highest Risk of an Adverse Outcome from Infective Endocarditis for Which 
+Prophylaxis with Dental Procedures Is Reasonable
+Prosthetic cardiac valve or prosthetic material used for cardiac valve repair
+Previous infective endocarditis
+Congenital heart disease (CHD)*
+Unrepaired cyanotic CHD, including palliative shunts and conduits
+Completely repaired CHD with prosthetic material or device, whether placed by surgery or catheter intervention, during the 1–6 mo after the procedure†
+Repaired CHD with residual defects at the site or adjacent to the site of a prosthetic patch or prosthetic device (which inhibits endothelialization)
+Cardiac transplantation recipients who develop cardiac valvulopathy
+*Except for the conditions listed here, antibiotic prophylaxis is no longer recommended by the AHA for any other form of CHD.
+†Prophylaxis is reasonable because endothelialization of prosthetic material occurs within 6 mo after the procedure.
+From Wilson W, Taubert KA, Gewitz M, et al. Prevention of infective endocarditis. Guidelines from the American Heart Association. Circulation. 
+2007;116:1736–1754.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+176
+SECTION 3  Cardiac Disorders
+S U MMA RY  A N D  R E D  F L A G S
+Murmurs (audible blood flow turbulence) may be caused by cardiac or 
+noncardiac lesions and may be congenital or acquired. Murmurs in the 
+asymptomatic neonate are often transient, as a result of the changing 
+hemodynamics of the transitional circulation between fetal and neona­
+tal life. Most murmurs at all ages are not caused by cardiac disease and 
+are not associated with symptoms or increased risk for disease.
+Red flags in the neonatal period include cyanosis or heart failure with 
+or without the presence of other congenital anomalies or syndromes such 
+as trisomy 21. Such syndromes often manifest with multiple congenital 
+anomalies, including those involving the cardiovascular, gastrointestinal, 
+and central nervous systems. In the neonatal period, things not to miss 
+include ductus-­dependent lesions, in which systemic blood flow (as in 
+interrupted aortic arch, hypoplastic left heart syndrome) or pulmonary 
+blood flow (as in pulmonary atresia) is through the PDA. Sudden dete­
+rioration, cyanosis, or heart failure with increasing metabolic acidosis 
+and a reduction in the murmur suggests closure of the ductus arteriosus. 
+Another condition not to miss is the murmur associated with an arterio­
+venous malformation, such as the cerebral vein of Galen malformation, 
+which manifests with heart failure and a cranial bruit. Finally, obstructed 
+total anomalous venous return may be confused with persistent fetal 
+circulation or pulmonary infections, and it may be difficult to establish 
+the diagnosis. Total anomalous venous return is associated with fixed, 
+profound cyanosis (Pao2 <35 mm Hg), severe pulmonary venous con­
+gestion, and a small heart radiographically.
+Acquired murmurs or symptomatic murmurs that change in quality 
+should suggest acute or recurrent rheumatic fever or infective endocardi­
+tis. Systemic symptoms and peripheral signs associated with these disor­
+ders are suggestive of the diagnosis. Arthritis (associated with rheumatic 
+fever or endocarditis-­induced immune complexes), fever, anemia, leuko­
+cytosis, cutaneous manifestations (erythema marginatum and subcutane­
+ous nodules in rheumatic fever; Osler nodes, Janeway lesions, petechiae, 
+and splinter hemorrhages in infective endocarditis), and evidence of prior 
+infection (streptococcal antibodies) or current infection (positive blood 
+cultures or PCR) help identify the nature of the acquired heart disease. 
+Finally, heart murmurs in a normal heart may be caused by hemodynamic 
+factors, such as severe anemia or thyrotoxicosis.
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+176.e1
+BIBLIOGRAPHY
+Introduction
+Boneva RS, Botto LD, Moore CA, et al. Mortality associated with congenital 
+heart defects in the United States: trends and racial disparities, 1979–1997. 
+Circulation. 2001;103:2376–2381.
+Day INM, Wilson DI. Genetics and cardiovascular risk. BMJ. 2001;323:1409–
+1412.
+Goldmuntz E. The epidemiology and genetics of congenital heart disease. Clin 
+Perinatol. 2001;28:1–10.
+Karl TR. Neonatal cardiac surgery: anatomic, physiologic, and technical con­
+siderations. Clin Perinatol. 2001;28:159–185.
+Origins of Heart Sounds
+Glover DD, Murrah RL, Olsen CO, et al. Mechanical correlates of the third 
+heart sound. J Am Coll Cardiol. 1992;19:450–457.
+Nitta M, Ihenacho D, Hultgren HN. Prevalence and characteristics of the 
+aortic ejection sound in adults. Am J Cardiol. 1988;61:142–145.
+Shaver JA, O’Toole JD. The second heart sound: newer concepts, part I: normal 
+and wide physiological splitting. Mod Concepts Cardiovasc Dis. 1977;46:7–17.
+Cardiovascular Assessment
+Gessner IH. Evaluation of the infant and child with a heart murmur. In: 
+Gessner IH, Victoria BE, eds. Pediatric Cardiology: A Problem Oriented 
+Approach. Philadelphia: WB Saunders; 1993.
+McNamara DG. Value and limitations of auscultation in the management of 
+congenital heart disease. Pediatr Clin North Am. 1990;37:93–113.
+Pelech AN. The cardiac murmur. Pediatr Clin North Am. 1998;45:107–122.
+Poskitt EME. Failure to thrive in congenital heart disease. Arch Dis Child. 
+1993;68:158–160.
+Murmurs in Children with Normal Hearts
+Begic Z, Dinarevic SM, Pesto S, et al. Evaluation of diagnostic methods 
+in the differentiation of heart murmurs in children. Acta Inform Med. 
+2016;24(2):94–98.
+Etchells E, Bell C, Robb K. Does this patient have an abnormal systolic mur­
+mur? JAMA. 1997;277:564–571.
+Rosenthal A. Office maneuvers for evaluating children’s heart murmurs. Con­
+sultant. 1986;26:147–160.
+Stein PD, Sabbah HN. Aortic origin of innocent murmurs. Am J Cardiol. 
+1977;39:665–671.
+Vibratory Still Murmur
+Doshi AR. Innocent heart murmur. Cureus. 2018;10(12):e3689.
+Perry LW, Ruckman RN, Shapiro SR, et al. Left ventricular false tendons in 
+children: prevalence as detected by 2-­dimensional echocardiography and 
+clinical significance. Am J Cardiol. 1983;52:1264.
+Peripheral Pulmonary Arterial Stenosis
+Danilowicz DA, Rudolph AM, Hoffman JI, et al. Physiologic pressure 
+differences between the main and branch pulmonary arteries in infants. 
+Circulation. 1972;45:410.
+Venous Hum
+Cutforth R, Wiseman J, Sutherland RD. The genesis of the cervical venous 
+hum. Am Heart J. 1970;80:488.
+Potain SC. Des mouvements et des bruits qui se passent dans les veines jugu­
+laires. Bull Mem Soc Med Hop Paris. 1867;4:3.
+Mammary Arterial Souffle
+Tabatznik B, Randall TW, Hersch C. The mammary souffle of pregnancy and 
+lactation. Circulation. 1960;22:1069.
+Congenital Heart Disease
+Brickner ME, Hillis LD, Lange RA. Congenital heart disease in adults. N Engl J 
+Med. 2000;342:256–263.
+Driscoll DJ. Left-­to-­right shunt lesions. Pediatr Clin North Am. 1999;46:355–368.
+Fedderly RT. Left ventricular outflow obstruction. Pediatr Clin North Am. 
+1999;46:369–384.
+Grifka RG. Cyanotic congenital heart disease with increased pulmonary blood 
+flow. Pediatr Clin North Am. 1999;46:405–425.
+Karl TR. Neonatal cardiac surgery: anatomic, physiologic, and technical con­
+siderations. Clin Perinatol. 2001;28:159–185.
+Ovaert C, McCrindle BW, Nykanen D, et al. Balloon angioplasty of native 
+coarctation: clinical outcomes and predictors of success. J Am Coll Cardiol. 
+2000;35:988–996.
+Pihkala J, Nykanen D, Freedom RM, et al. Interventional cardiac catheteriza­
+tion. Pediatr Clin North Am. 1999;46:441–464.
+Thangaratinam S, Brown K, Zamora J, et al. Pulse oximetry screening for criti­
+cal congenital heart defects in asymptomatic newborn babies: a systematic 
+review and meta-­analysis. Lancet. 2012;379:2459–2464.
+Waldman JD, Wernly JA. Cyanotic congenital heart disease with decreased 
+pulmonary blood flow in children. Pediatr Clin North Am. 1999;46:385–
+404.
+Acute Rheumatic Fever and Rheumatic Heart Disease
+Babu AN, Kymes SM, Carpenter Fryer SM. Eponyms and the diagnosis of aor­
+tic regurgitation: what says the evidence? Ann Intern Med. 2003;138:736–
+742.
+Dass C, Kanmanthareddy A. Rheumatic heart disease. In: StatPearls [Internet]. 
+Treasure Island (FL): StatPearls Publishing; 2021.
+Figueroa FE, Fernandez MS, Valdes P, et al. Prospective comparison of clinical 
+and echocardiographic diagnosis of rheumatic carditis: long term follow up 
+of patients with subclinical disease. Heart. 2001;85:407–410.
+Gerwitz MH. The Jones criteria for the diagnosis of acute rheumatic fever: 
+updated but not abandoned. J Pediatr. 2018;198:7–8.
+Gerwitz MH, Baltimore RS, et al. Revision of the Jones Criteria for the diag­
+nosis of acute rheumatic fever in the era of Doppler echocardiography: 
+a scientific statement from the American Heart Association. Circulation. 
+2015;131:1806–1818.
+Hecht M. What is erythema marginatum? Healthline. 2018. https://www.
+healthline.com/health/erythema-­marginatum.
+Majmundar VD, Nagalli S. Erythema marginatum. In: StatPearls [Internet]. 
+­Treasure Island (FL): StatPearls Publishing; 2021.
+Sika-­Paotonu D. Acute rheumatic fever and rheumatic heart disease. In: 
+Streptococcus pyogenes: Basic Biology to Clinical Manifestations [Internet]. 
+Oklahoma City (OK): University of Oklahoma Health Sciences Center; 
+2016–2017 Mar 10 [updated 2017 Apr 3].
+Stollerman GH. Rheumatic fever in the 21st century. Clin Infect Dis. 
+2001;33:806–814.
+Veasy LG. Time to take soundings in acute rheumatic fever. Lancet. 
+2001;357:1994–1995.
+Infective Endocarditis
+Awadallah SM, Kavey REW, Byrum CJ, et al. The changing pattern of infective 
+endocarditis in childhood. Am J Cardiol. 1991;68:90–94.
+Baltimore RS, Gewitz M, Baddour LM, et al. Infective endocarditis in child­
+hood: 2015 update. Circulation. 2015;132(15):1487–1515.
+Bayer AS, Ward JI, Ginzton LE, et al. Evaluation of new clinical criteria for the 
+diagnosis of infective endocarditis. Am J Med. 1994;96:211–218.
+Bouza E, Menasalvas A, Munoz P, et al. Infective endocarditis: a ­prospective 
+study at the end of the twentieth century. Medicine (Baltimore). 
+2001;80:298–307.
+Brook MM. Pediatric bacterial endocarditis: treatment and prophylaxis. Pedi­
+atr Clin North Am. 1999;46:275–287.
+Carpenter JL. Perivalvular extension of infection in patients with infectious 
+endocarditis. Rev Infect Dis. 1991;13:127–138.
+Di Filippo S, Delahaye F, Semiond B, et al. Current patterns of infective endo­
+carditis in congenital heart disease. Heart. 2006;92:1490–1495.
+Dixon G, Christov G. Infective endocarditis in children: an update. Curr Opin 
+Infect Dis. 2017;30:257–267.
+Ferrieri P, Gewitz MH, Gerber MA, et al. Unique features of infective endocar­
+ditis in childhood. Circulation. 2002;107(17):211502126.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+References
+176.e2
+Gupta S, Sakhuja A, McGrath E, et al. Trends, microbiology, and outcomes of 
+infective endocarditis in children during 2000–2010 in the United States. 
+Cong Heart Dis. 2017;12:196–201.
+Hansen D, Schmiegelow K, Jacobsen JR. Bacterial endocarditis in children: trends 
+in its diagnosis, course, and prognosis. Pediatr Cardiol. 1992;13:198–203.
+Lin YT, Hsieh KS, Chen YS, et al. Infective endocarditis in children without 
+underlying heart disease. J Microbiol Immunol Infect. 2013;46:121–128.
+Mylonakis E, Calerwood SB. Infective endocarditis in adults. N Engl J Med. 
+2001;345:1318–1330.
+Saiman L, Prince A, Gersony WM. Pediatric infective endocarditis in the 
+modern era. J Pediatr. 1993;122:847–853.
+Shamszad P, Khan MS, Rossano JW, et al. Early surgical therapy of infective 
+endocarditis in children: a 15-­year experience. J Thoracic Cardiovasc Surg. 
+2013;146:506–511.
+Thanavaro KL, Nixon JV. Endocarditis 2014: an update. Heart & Lung. 
+2014;43:334–337.
+Tolan RW, Kleiman MB, Frank M, et al. Operative intervention in active 
+endocarditis in children: report of a series of cases and review. Clin Infect 
+Dis. 1992;14:852–862.
+Wilson W, Taubert KA, Gewitz M, et al. Prevention of infective endocar­
+ditis: guidelines from the American Heart Association. A guideline 
+from the American Heart Association Rheumatic Fever, Endocarditis, 
+and Kawasaki Disease Committee, Council on Cardiovascular Disease 
+in the Young, and the Council on Clinical Cardiology, Council on 
+Cardiovascular Surgery and Anesthesia, and the Quality of Care and 
+Outcomes Research Interdisciplinary Working Group. Circulation. 
+2007;116:1736–1754.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

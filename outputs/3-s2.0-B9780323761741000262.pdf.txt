@@ -1,0 +1,2513 @@
+431
+The term disorders of sex development (DSD) replaces the former terms 
+intersex and hermaphroditism (Table 26.1). The most common present­
+ing symptom of DSD is atypical (ambiguous) genitalia at birth. Other 
+presenting signs and symptoms include lack of some or all aspects of 
+pubertal development, postnatal virilization of a phenotypic female, 
+or infertility. The classification of DSD is based on broad categories 
+related to blood sex chromosome composition and gonadal structure. 
+These categories include 46,XX DSD, 46,XY DSD, ovotesticular DSD, 
+and sex chromosome DSD (Table 26.2).
+The terms atypical or ambiguous genitalia, in a broad sense, refer 
+to any case in which the external genitalia do not appear completely 
+male or completely female. Although there are standards for genital 
+size dimensions, variations in size of these structures do not always 
+constitute ambiguity.
+Development of the external genitalia begins with the potential to 
+be either male or female (Fig. 26.1 and Table 26.3). Virilization of a 
+female, the most common form of DSD, results in varying phenotypes 
+(Fig. 26.2) that develop from the basic bipotential genital appearances 
+of the embryo (see Fig. 26.1). Degrees of virilization at birth are often 
+classified using the Prader stages (Fig. 26.3).
+OVERVIEW OF SEX DIFFERENTIATION
+In typical differentiation from the sexually undifferentiated early 
+fetus, the final phenotype of the external and internal genitalia is 
+consistent with a normal sex chromosome complement (either XX 
+or XY). The process of sex differentiation and development follows 
+a consistent timeline (Fig. 26.4). A 46,XX complement of chro­
+mosomes as well as genetic factors, including DAX1, the signaling 
+molecule WNT-­4, CTNNB1, and R-­spondin 1, are among the many 
+factors needed for the development of normal ovaries and müllerian 
+(paramesonephric) ducts (uterus, fallopian tubes, and upper vagina). 
+Development of the male phenotype requires the product of a Y chro­
+mosome gene called SRY (Sex-­determining Region on the Y chromo­
+some), which, in concert with products of other genes such as SOX9, 
+SF1, WT1, and FGF9, directs the undifferentiated gonad to become 
+a testis. SRY acts as a transcriptional regulator to increase cellular 
+proliferation, attract interstitial cells from adjacent mesonephros into 
+the genital ridge, and stimulate testicular Sertoli cell differentiation. 
+Sertoli cells act as an organizer of steroidogenic and germ cell lines 
+and produce antimüllerian hormone that causes the female (parame­
+sonephric) duct system to regress. Aberrant genetic recombinations 
+may result in X chromosomes carrying SRY, resulting in XX males 
+(46,XX testicular DSD), or Y chromosomes that have lost SRY, result­
+ing in XY females (46,XY DSD due to gonadal dysgenesis). Epigene­
+tic causes of abnormal sex differentiation have been shown in plants, 
+invertebrates, and vertebrates and will likely be shown to contribute 
+to human DSD as well.
+Antimüllerian hormone (AMH) from the ipsilateral fetal testis 
+causes the müllerian (paramesonephric) ducts to regress. In its absence, 
+they persist as the uterus, fallopian tubes, cervix, and upper vagina. By 
+about 8 weeks of gestation, the Leydig cells of the testis begin to produce 
+testosterone. During this critical period of male differentiation, testos­
+terone secretion is stimulated by placental human chorionic gonadotro­
+pin (hCG), which peaks at 8–12 weeks. In the latter half of pregnancy, 
+lower levels of testosterone are maintained by luteinizing hormone 
+(LH) secreted by the fetal pituitary. Testosterone produced locally ini­
+tiates development of the ipsilateral wolffian (mesonephric) duct into 
+the epididymis, vas deferens, and seminal vesicle. Development of the 
+external genitalia also requires dihydrotestosterone (DHT), the more 
+active metabolite of testosterone. DHT is produced largely from cir­
+culating testosterone and is necessary for fusion of the genital folds to 
+form the penis and scrotum. DHT is also produced via an alternative 
+biosynthetic pathway from androstanediol, and this pathway must also 
+be intact for normal and complete prenatal virilization to occur. A func­
+tional androgen receptor, produced by an X-­linked gene, is required 
+for testosterone and DHT to produce the androgen effects.
+In the XX fetus with normal long and short arms of the X chro­
+mosomes, the bipotential gonad develops into an ovary by about the 
+10th–11th week. This occurs only in the absence of SRY, testosterone, 
+and AMH and requires a normal gene in the DSS (Dosage Sensitive Sex 
+reversal) locus of DAX1 (DSS Adrenal hypoplasia congenital region on 
+X, also known as NROB1), WNT-­4, and R-­spondin 1. A female exter­
+nal phenotype will develop even in the absence of fetal gonads. Unlike 
+development of the male external phenotype, which requires androgen 
+production and its action, estrogen is unnecessary for normal female 
+prenatal sex differentiation. This is demonstrated by 46,XX patients who 
+lack estrogen due to a deficiency of aromatase, the enzyme required for 
+conversion of androgen to estrogen. Development of the ovary was once 
+thought to be a passive process in the absence of SRY. Although the mor­
+phologic changes in the developing ovary are less marked than in the 
+testis, there are a number of sequentially expressed genes and pathways 
+that are required for complete ovarian development as well as mainte­
+nance of ovarian integrity postnatally. One of these genes is R-­spondin 
+1, which, if variants result in abnormal function, can result in testicular 
+or ovotesticular development in 46,XX individuals. Once developed, the 
+ovary requires FAX12 to preserve its differentiation and stability.
+Several genes important to the pathoetiology of DSD are listed in 
+Table 26.4.
+OVERVIEW OF GONADAL FUNCTION
+Testes
+Levels of placental hCG peak at 8–12 weeks of gestation, and in males 
+hCG stimulates the fetal Leydig cells to secrete testosterone, the main 
+hormonal product of the testis. In the classical androgen biosynthetic 
+Disorders of Sex Development
+Patricia A. Donohoue
+26
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+432
+SECTION 5  Genitourinary Disorders
+pathway (Fig. 26.5), testosterone is then converted by the enzyme 5α-­
+reductase to its more potent metabolite, DHT. This early period is crit­
+ical for virilization of the XY fetus including fusion of the midline to 
+form the scrotum and extension of the urethral meatus to distal penile 
+opening (see Fig. 26.1). Defects in this process lead to various devia­
+tions from typical male development. After virilization, fetal levels of 
+testosterone decrease but are maintained at lower levels in the latter half 
+of pregnancy by LH secreted by the fetal pituitary. This LH-­mediated 
+testosterone secretion is required for continued penile growth and, to 
+some degree, for testicular descent.
+As part of the normal transition from intrauterine to extrauterine 
+life, perhaps related to the sudden withdrawal of maternal and placen­
+tal hormones, newborns and young infants experience a transient surge 
+of gonadotropins and sex steroids. This is the so-­called minipuberty.
+In males, LH and testosterone peak at 1–2 months of age and then 
+decline to reach prepubertal levels by 4–6 months of age. Follicle-­
+stimulating hormone (FSH), along with inhibin B, peaks at 3 months 
+and declines to prepubertal levels by 9 and 15 months, respectively. The 
+LH rise is more dominant than that of FSH.
+The neonatal surge may be important for postnatal maturation of 
+the gonads, for stabilization of male external genitalia, and perhaps 
+TABLE 26.1  Revised Nomenclature
+Previous
+Currently Accepted
+Intersex
+Disorders of sex development (DSD)
+Male pseudohermaphrodite
+46,XY DSD
+Undervirilization of an XY male
+46,XY DSD
+Undermasculinization of an XY male
+46,XY DSD
+46,XY intersex
+46,XY DSD
+Female pseudohermaphrodite
+46,XX DSD
+Overvirilization of an XX female
+46,XX DSD
+Masculinization of an XX female
+46,XX DSD
+46,XX intersex
+46,XX DSD
+True hermaphrodite
+Ovotesticular DSD
+Gonadal intersex
+Ovotesticular DSD
+XX male or XX sex reversal
+46,XX testicular DSD
+XY sex reversal
+46,XY complete gonadal dysgenesis
+From Lee PA, Houk CP, Ahmed SF, et al. Consensus statement on 
+management of intersex disorders. Pediatrics. 2006;118:e488–e500.
+TABLE 26.2  Etiologic Classification of Disorders of Sex Development
+46,XX Disorders of Sex Development (DSD)
+Androgen Exposure
+Fetal/Fetoplacental Source
+Congenital adrenal hyperplasia
+21-­Hydroxylase (CYP21A2) deficiency
+11β-­Hydroxylase (CYP11B1) deficiency
+3β-­Hydroxysteroid dehydrogenase II (HSD3B2) deficiency
+Cytochrome P450 oxidoreductase (POR)
+Aromatase (CYP19) deficiency
+Glucocorticoid receptor gene pathogenic variant
+Maternal Source
+Virilizing ovarian tumor
+Virilizing adrenal tumor
+Androgenic drugs
+Disorders of Ovarian Development
+XX gonadal dysgenesis
+Testicular DSD
+Undetermined Origin/Associated with Genitourinary and 
+Gastrointestinal Tract Defects
+Cloacal exstrophy
+MURCS association
+Mayer-Rokitansky-Küster-Hauser syndrome
+46,XY DSD
+Defects in Testicular Development
+WT-­1 defects
+Denys-Drash syndrome
+Frasier syndrome
+WAGR syndrome
+Campomelic syndrome and SOX9 pathogenic variant
+SF1 pathogenic variant
+Variants in SRY gene (XY pure gonadal dysgenesis, Swyer 
+syndrome)
+XY gonadal agenesis (embryonic testicular regression syndrome)
+Deficiency of Testicular Hormone Production
+Leydig cell aplasia/hypoplasia
+Variants in luteinizing hormone receptor
+Congenital adrenal hyperplasia
+Lipoid adrenal hyperplasia (CYP11A1) deficiency; pathogenic variant in 
+StAR (steroidogenic acute regulatory protein)
+3β-­Hydroxysteroid dehydrogenase type II (HSD3B2) deficiency
+17-­Hydroxylase/17,20-­lyase (CYP17A1) deficiency
+17β-­Hydroxysteroid dehydrogenase (17β-­HSD) or 17-­ketosteroid 
+reductase deficiency
+Smith-­Lemli-­Opitz syndrome (defect in conversion of 
+7-­dehydrocholesterol to cholesterol [DHCR7])
+Persistent Müllerian Duct Syndrome Due to Antimülle­
+rian Hormone Gene Variants, or Receptor Defects for 
+Antimüllerian Hormone
+Defect in Androgen Action
+Dihydrotestosterone (DHT) deficiency
+5α-­Reductase II (SDR5A2) pathogenic variants
+3α-­Reductase (AKR1C2/AKR1C4) pathogenic variants
+Androgen receptor defects
+Complete androgen insensitivity syndrome (CAIS)
+Partial androgen insensitivity syndrome (PAIS)
+Undetermined Causes, Including Those Associated with 
+Other Congenital Defects
+Ovotesticular DSD
+XX
+XY
+XX/XY chimeras
+Sex Chromosome DSD
+45,X (Turner syndrome and variants)
+47,XXY (Klinefelter syndrome and variants)
+45,X/46,XY (mixed gonadal dysgenesis, sometimes a cause of ovotesticular DSD)
+46,XX/46,XY (chimeric, sometimes a cause of ovotesticular DSD)
+From Lee PA, Houk CP, Ahmed SF, et al. Consensus statement on management of intersex disorders. Pediatrics. 2006;118:e488–e500.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+433
+CHAPTER 26  Disorders of Sex Development
+also for gender identity and sexual behaviors. The postnatal surge in 
+LH and testosterone is absent or blunted in infants with hypopituita­
+rism, cryptorchidism, and complete androgen insensitivity syndrome 
+(CAIS). The development of nocturnal pulsatile secretion of LH marks 
+the advent of puberty.
+AMH, inhibin, and activin are members of the transforming 
+growth factor-­β (TGF-­β) superfamily of growth factors. AMH is the 
+earliest secreted product of the Sertoli cells of the fetal testis. The 
+AMH receptor is expressed in Sertoli cells. In the female it is present 
+in fetal müllerian duct cells and in granulosa cells (fetal and postna­
+tal). During sex differentiation in males, AMH causes involution of the 
+müllerian ducts. AMH is secreted in males by Sertoli cells during both 
+fetal and postnatal life. In females, it is secreted by ovarian granulosa 
+cells from 36 weeks of gestation to menopause, but at lower levels. The 
+serum concentration of AMH in males is highest at birth, whereas in 
+females it is highest at puberty. After puberty, both sexes have similar 
+serum concentrations of AMH. Its role in postnatal life is not yet fully 
+characterized.
+Genital tubercle
+Urethrolabial fold
+Anus
+Genital groove
+Labioscrotal fold
+Male
+Male
+Female
+Female
+Sexual appearance of fetus at second to third month of pregnancy
+Sexual appearance of fetus at third to fourth month of pregnancy
+Sexual appearance of fetus at time of birth
+Genital
+tubercle
+(penis)
+Urethral fold
+Urethral groove
+Scrotal swelling
+Anus
+Penis
+Urethral raphe
+(joining line of
+urethral fold)
+Scrotal raphe
+(joining line of
+scrotal swelling)
+Scrotum
+Anus
+Genital
+tubercle
+(clitoris)
+Inner labial fold
+Vulval groove
+Outer labial
+swelling
+Anus
+Clitoris
+Urethral
+opening
+Labia minora
+Labia majora
+Vaginal opening
+Anus
+Fig. 26.1  Schematic illustration of differentiation of normal male and female genitalia during embryogenesis. 
+(From Zitelli BJ, Davis HW. Atlas of Pediatric Physical Diagnosis. 4th ed. St Louis: Mosby; 2002:328.)
+TABLE 26.3  Embryologic Origins of Female 
+and Male Reproductive Structures
+Precursor
+Female
+Male
+Undifferentiated 
+bipotential gonad
+Ovary
+Testis
+Internal ducts
+Wolffian (mesone­
+phric)
+Involution
+Epididymis, vas defer­
+ens, seminal vesicles
+Müllerian (parameso­
+nephric)
+Fallopian tubes, uterus, 
+cervix, upper vagina
+Involution, prostatic 
+utricle
+Urogenital sinus
+Lower vagina, urethra
+Urethra
+External genitalia
+  Genital tubercle
+Clitoris
+Penile corpora cavernosa
+  Labioscrotal folds
+Labia majora
+Scrotum
+  Labiourethral folds
+Labia minora
+Penile urethra
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+434
+SECTION 5  Genitourinary Disorders
+Inhibin is another glycoprotein hormone secreted by testicular 
+Sertoli cells and ovarian granulosa and theca cells. Inhibin A consists 
+of an α subunit disulfide linked to the β-­A subunit, whereas inhibin 
+B consists of the same α subunit linked to the β-­B subunit. Activins 
+are dimers of the B subunits, either homodimers (BA/BA, BB/BB) or 
+heterodimers (BA/BB). Inhibins selectively inhibit, whereas activins 
+stimulate pituitary FSH secretion. Inhibin A is absent in males and is 
+present mostly in the luteal phase in women. Inhibin B is the principal 
+form of inhibin in males, and in females during the follicular phase. 
+Inhibin B is useful as a marker of Sertoli cell function in males. FSH stim­
+ulates inhibin B secretion in females and males, but only in males is 
+there also evidence for gonadotropin-­independent regulation. In males 
+with delayed puberty, inhibin B may be a useful screening test to differ­
+entiate between constitutional delay of puberty and hypogonadotropic 
+hypogonadism (HH). In HH the serum inhibin B level has been shown 
+to be very low to undetectable.
+Like inhibin and activin, follistatin (a single-­chain glycosylated 
+protein) is produced by gonads and other tissues such as the hypo­
+thalamus, kidney, adrenal gland, and placenta. Follistatin inhibits FSH 
+secretion principally by binding activins, thereby blocking the effects of 
+activins at the level of both the ovary and pituitary.
+Many additional peptides act as mediators of the development and 
+function of the testis. They include neurohormones such as growth 
+hormone–releasing hormone, gonadotropin-­releasing hormone, 
+corticotropin-­releasing hormone, oxytocin, arginine vasopressin, 
+somatostatin, substance P, and neuropeptide Y; growth factors such as 
+insulin-­like growth factors (IGFs) and IGF-­binding proteins, TGF-­β, 
+and fibroblast, platelet-­derived, and nerve growth factors; vasoactive 
+peptides; and immune-­derived cytokines such as tumor necrosis factor 
+and interleukins IL-­1, IL-­2, IL-­4, and IL-­6.
+Testicular development is marked by major maturational changes 
+at puberty (see Chapter 55). Clinical patterns of pubertal changes vary 
+widely. In 95% of boys, enlargement of the genitals, which is typically 
+the first sign of puberty, begins between 9.5 and 13.5 years, reaching 
+maturity at 13–17 years. In a minority of normal boys, puberty begins 
+after 15 years of age. In some boys, pubertal development is completed 
+in less than 2 years, but in others it may take longer than 4.5 years. 
+Pubertal development and the adolescent growth spurt occur at an 
+older age in boys than in girls.
+The median age of sperm production (spermarche) is 14 years. This 
+event occurs in mid-­puberty as judged by pubic hair, testis size, evi­
+dence of growth spurt, and testosterone levels. Nighttime levels of FSH 
+are in the adult male range at the time of spermarche; the first con­
+scious ejaculation occurs at about the same time.
+Ovaries
+In the normal female, the undifferentiated gonad can be identified 
+histologically as an ovary by 10–11 weeks of gestation (see Fig. 26.4), 
+after the upregulation of R-­spondin 1. Oocytes are present from the 4th 
+month of gestation and reach a peak of 7 million by 5 months of ges­
+tation. For normal maintenance, oocytes need granulosa cells to form 
+primordial follicles. Functional FSH (but not LH) receptors are present 
+in oocytes of primary follicles during follicular development. Two nor­
+mal X chromosomes are needed for maintenance of oocytes. In con­
+trast to somatic cells, in which only one X chromosome is active, both 
+Xs are active in germ cells. At birth, the ovaries contain about 1 million 
+active follicles, which decrease to 0.5 million by menarche. Thereafter, 
+they decrease at a rate of 1,000/month, and at an even higher rate after 
+the age of 35 years.
+The hormones of the fetal ovary are provided mostly by the fetopla­
+cental unit. As in males, peak gonadotropin secretion occurs in fetal 
+life and then again at 2–3 months of life, with the lowest levels at about 
+6 years of age. In contrast to males, the FSH surge predominates over 
+LH in females. FSH peaks around 3–6 months of age, declines by 12 
+months, but remains detectable for 24 months. Under LH influence, 
+estradiol peaks at 2–6 months of age. The inhibin B response is variable, 
+peaking at between 2 and 12 months and remaining above prepubertal 
+levels until 24 months. In both infancy and childhood, gonadotropin 
+levels are higher in females than in males.
+The most important estrogens produced by the ovary are estradiol-­
+17β (E2) and estrone (E1); estriol is a metabolic product of both, and 
+all three estrogens may be found in the urine of mature females. Estro­
+gens arise from androgens produced by the adrenal glands, the ovaries, 
+or the testes (see Fig. 26.5). This conversion explains why in certain 
+types of 46,XY DSD, feminization occurs at puberty. In HSD17B3 defi­
+ciency (see later), for example, the enzymatic block results in markedly 
+A
+B
+D
+C
+E
+F
+Fig. 26.2  Virilization of external genitalia in 46,XX congenital adrenal 
+hyperplasia (21-­hydroxylase deficiency A–D). A, There is a mild to mod­
+erate degree of virilization, with primarily clitoral hypertrophy and signif­
+icant fusion of the labia. B, Virilization is moderate, with clitoromegaly, 
+labial fusion, and rugation of labial folds. C, D, Complete masculin­
+ization is evident. E, F, Asymmetric external genitals with left unilat­
+eral descended testis (E), penoscrotal hypospadias, and chordee (F). 
+Asymmetric external genital development or gonadal descent would be 
+characteristic of mixed gonadal dysgenesis or ovotesticular disorder of 
+sexual development (E, F). (From Gleason CA, Juul SE, eds. Avery’s 
+Diseases of the Newborn. 10th ed. Philadelphia: Elsevier; 2018:1371, 
+Figs. 97.6 and 97.7.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+435
+CHAPTER 26  Disorders of Sex Development
+increased secretion of androstenedione, which is converted in the 
+peripheral tissues to estradiol and estrone. These estrogens, in addition 
+to those directly secreted by the testis, result in breast development. 
+Estradiol produced from testosterone in CAIS causes complete femini­
+zation in these XY individuals.
+Plasma levels of estradiol increase slowly but steadily with advanc­
+ing sexual maturation and correlate well with clinical progression of 
+pubertal development, skeletal age, and rising levels of FSH. Levels of 
+LH do not rise measurably until secondary sexual characteristics are 
+present. Estrogens, like androgens, inhibit secretion of both LH and 
+FSH (negative feedback). In females, estrogens also provoke the surge 
+of LH secretion that occurs in the mid-­menstrual cycle and results in 
+ovulation. The capacity for this positive feedback is another matura­
+tional milestone of puberty.
+The average age at menarche in White American girls is about 12.5–
+13 years, but the range of “normal” is wide, and 1–2% of normal girls 
+have not menstruated by 16 years of age (see Chapter 55). The age at 
+onset of pubertal signs is about 2 years before menarche. This age var­
+ies, with some studies suggesting earlier ages than previously thought, 
+especially in the U.S. African-­American population. Menarche gener­
+ally correlates closely with skeletal age. Maturation and closure of the 
+epiphyses is partially estrogen dependent, as demonstrated by a very 
+tall 28-­year-­old normally masculinized male with continued growth 
+due to incomplete closure of the epiphyses, who proved to have com­
+plete estrogen insensitivity due to an estrogen-­receptor defect.
+DIAGNOSTIC APPROACH TO THE PATIENT WITH 
+ATYPICAL OR AMBIGUOUS GENITALIA
+Infants with ambiguous or atypical genitalia should be evaluated and 
+treated at a center with multidisciplinary experience in DSD. The 
+appearance of the external genitalia is rarely diagnostic of a particular 
+disorder, and thus does not often allow distinction among the various 
+forms of DSD. Some clues are noted in Table 26.5. The most com­
+mon causes of 46,XX DSD are virilizing forms of congenital adrenal 
+hyperplasia (CAH). It is important to note that in 46,XY DSD, the 
+specific diagnosis is not found in up to 50% of cases. At one experi­
+enced center, the six most common diagnoses accounted for 50% of 
+the cases. These included virilizing CAH (14%), androgen insensitivity 
+syndrome (10%), mixed gonadal dysgenesis (8%), clitoral/labial anom­
+alies (7%), hypogonadotropic hypogonadism (6%), and 46,XY small-­
+for-­gestational age males with hypospadias (6%). The etiology in cases 
+of 46,XY DSD without a known diagnosis can be further delineated 
+using exome sequencing technologies.
+The difficulty of establishing a diagnosis in 46,XY DSD and the 
+resulting lack of specific management emphasizes the need for thor­
+ough diagnostic evaluations (Fig. 26.6). These include biochemical 
+Fig. 26.3  Method of staging the degree of virilization of the external genitalia of females as proposed by 
+Prader (1958). In type I, the only abnormality is a slight enlargement of the clitoris. In type V, there is a 
+markedly enlarged phallus with a penile urethra. (Redrawn from Prader A. Vollkommen männliche äussere 
+gentialentwicklung und salzverlustsyndrom bei madchen mit kongenitalem adrenogenitalem syndrom. Helv 
+Paediat Acta. 1958;13:5.)
+2
+4
+6
+8
+10
+Weeks of gestation
+12
+Vagina
+Urogenital
+sinus
+Vagina reaches
+perineum
+Prostate
+Utricle
+14
+16
+18
+20
+24
+22
+Labia majora & minora
+External
+genitalia
+Ventral flexion
+of phallus
+Urethral closure, fusion
+Labioscrotal folds
+Penile growth
+Vagina, uterus
+Mullerian
+ducts
+Fusion
+Regression
+Regression
+Wolffian
+ducts
+Vas, epididymis, ejaculatory ducts, seminal vesicles
+Gonads
+Follicles
+Oocytes
+Oogonia
+Testicular
+descent
+Leydig cells
+Sertoli cells
+Fig. 26.4  Timing of development of external and internal genitalia. The 
+solid dot shows the age at onset of the various developmental changes. 
+Male differentiation is shown above each line, with female differentia­
+tion below. (From White PC, Speiser PW. Congenital adrenal hyperpla­
+sia due to 21-­hydroxylase deficiency. Endocr Rev. 2000;21:245–291.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+436
+SECTION 5  Genitourinary Disorders
+TABLE 26.4  Genes Associated with in Disorders of Sex Development
+Gene
+Protein
+OMIM #
+Locus
+Inheritance Gonad
+Müllerian 
+Structures
+External Genitalia Associated Features/Variant Phenotypes
+46,XY DSD
+Disorders of Gonadal (Testicular) Development: Single-­Gene Disorders
+WT1
+TF
+607102
+11p13
+AD
+Testicular 
+dysgenesis
+±
+Female or ambiguous
+Wilms tumor, renal abnormalities, gonadal tumors (WAGR, Denys-­Drash, 
+and Frasier syndromes)
+SF1 
+(NR5A1)
+Nuclear receptor TF
+184757
+9q33
+AD/AR
+Testicular 
+dysgenesis
+±
+Female or ambiguous
+More severe phenotypes include primary adrenal failure; milder pheno­
+types have isolated partial gonadal dysgenesis; mothers who carry SF1 
+pathogenic variant have premature ovarian insufficiency
+SRY
+TF
+480000
+Yp11.3
+Y
+Testicular 
+dysgenesis 
+or ovotestis
+±
+Female or ambiguous
+SOX9
+TF
+608160
+17q24-­25
+AD
+Testicular 
+dysgenesis 
+or ovotestis
+±
+Female or ambiguous
+Campomelic dysplasia (17q24 rearrangements; milder phenotype than 
+point pathogenic variants)
+DHH
+Signaling molecule
+605423
+12q13.1
+AR
+Testicular 
+dysgenesis
++
+Female
+The severe phenotype of one patient included minifascicular neuropathy; 
+other patients have isolated gonadal dysgenesis
+ATRX
+Helicase (?chromatin 
+remodeling)
+300032
+Xq13.3
+X
+Testicular 
+dysgenesis
+–
+Female, ambiguous, 
+or male
+α Thalassemia, developmental delay
+ARX
+TF
+300382
+Xp21.13
+X
+Testicular 
+dysgenesis
+–
+Ambiguous
+X-­linked lissencephaly, epilepsy, temperature instability
+MAP3K1
+613762
+5q11.2
+AD
+Dysgenetic 
+testes
+Streak 
+ovaries, 
+uterus can 
+be normal
+Female or ambiguous 
+male (rare)
+Sparse axillary and pubic hair, gonadoblastoma
+Disorders of Gonadal (Testicular) Development: Chromosomal Changes Involving Key Candidate Genes
+DMRT1
+DMRT2
+TF
+602424
+9p24.3
+Monosomic 
+deletion
+Testicular 
+dysgenesis
+±
+Female or ambiguous
+Developmental delay
+Rib/vertebral malformations
+DAX1 
+(NR0B1)
+Nuclear receptor TF
+300018
+Xp21.3
+dupXp21
+Testicular 
+dysgenesis 
+or ovary
+±
+Female or ambiguous
+WNT4
+Signaling molecule
+603490
+1p35
+dup1p35
+Testicular 
+dysgenesis
++
+Ambiguous
+Developmental delay
+DMRT3
+OAS3
+Regulate ESR1 
+expression
+603351
+9p24.3
+12q24
+Digenic with 
+DMRT3 and 
+OAS3
+Testicular 
+dysgenesis
+Female or ambiguous
+Disorders in Hormone Synthesis or Action
+LHGCR
+G-­protein receptor
+152790
+2p21
+AR
+Testis
+–
+Female, ambiguous, or 
+micropenis
+Leydig cell hypoplasia
+DHCR7
+Enzyme
+602858
+11q12-­13
+AR
+Testis
+–
+Variable
+Smith-­Lemli-­Opitz syndrome: coarse facies, 2nd–3rd toe syndactyly, failure 
+to thrive, developmental delay, cardiac and visceral abnormalities
+StAR
+Mitochondrial mem­
+brane protein
+600617
+8p11.2
+AR
+Testis
+–
+Female
+Congenital lipoid adrenal hyperplasia (primary adrenal failure), pubertal 
+failure
+CYP11A1
+Enzyme
+118485
+15q23-­24
+AR
+Testis
+–
+Female or ambiguous
+Congenital adrenal hyperplasia (primary adrenal failure), pubertal failure
+HSD3B2
+Enzyme
+201810
+1p13.1
+AR
+Testis
+–
+Ambiguous
+CAH, primary adrenal failure, partial androgenization due to ↑ DHEA
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+437
+CHAPTER 26  Disorders of Sex Development
+TABLE 26.4  Genes Associated with in Disorders of Sex Development—cont’d
+Gene
+Protein
+OMIM #
+Locus
+Inheritance Gonad
+Müllerian 
+Structures
+External Genitalia Associated Features/Variant Phenotypes
+CYP17
+Enzyme
+202110
+10q24.3
+AR
+Testis
+–
+Female ambiguous or 
+micropenis
+CAH, hypertension due to ↑ corticosterone and 11-­deoxycorticosterone 
+(except in isolated 17,20-­lyase deficiency)
+POR (P450 
+oxidore­
+ductase)
+CYP enzyme electron 
+donor
+124015
+7q11.2
+AR
+Testis
+–
+Male or ambiguous
+Mixed features of 21-­hydroxylase deficiency, 17α-­hydroxylase/17,20-­lyase 
+deficiency, and aromatase deficiency; sometimes associated with Antley-­
+Bixler skeletal dysplasia
+HSD17B3
+Enzyme
+605573
+9q22
+AR
+Testis
+–
+Female or ambiguous
+Partial androgenization at puberty, ↑ androstenedione:testosterone ratio
+SRD5A2
+Enzyme
+607306
+2p23
+AR
+Testis
+–
+Ambiguous or micrope­
+nis
+Partial androgenization at puberty, ↑ testosterone:DHT ratio
+AKR1C4
+Enzyme
+600451
+10p15.1
+Unclear
+Testis
+–
+Ambiguous or micrope­
+nis
+DHT deficiency in patients once thought to have 17,20-­lyase deficiency; 
+dose effect with AKR1C2 pathogenic variant is possible
+AKR1C2
+Enzyme
+600450
+10p15.1
+Unclear
+Testis
+–
+Ambiguous or micrope­
+nis
+DHT deficiency in patients once thought to have 17,20-­lyase deficiency; 
+dose effect with AKR1C2 pathogenic variant is possible
+AMH
+Signaling molecule
+600957
+19p13.3-­13.2
+AR
+Testis
++
+Normal male
+Persistent müllerian duct syndrome; male
+AMH 
+receptor
+Serine–threonine 
+kinase transmem­
+brane receptor
+600956
+12q13
+AR
+Testis
+–
+Normal male
+External genitalia, bilateral cryptorchidism
+Androgen 
+receptor
+Nuclear receptor TF
+313700
+Xq12
+X
+Testis
+–
+Female, ambiguous, 
+micropenis, or 
+normal male
+Phenotypic spectrum from complete androgen insensitivity syndrome 
+(female external genitalia) and partial androgen insensitivity (ambiguous) 
+to normal male genitalia/infertility
+46,XX DSD
+Disorders of Gonadal (Ovarian) Development
+SRY
+TF
+480000
+Yp11.3
+Translocation
+Testis or 
+ovotestis
+–
+Male or ambiguous
+SOX9
+TF
+608160
+17q24
+dup17q24
+ND
+–
+Male or ambiguous
+R-­spondin 1
+TF
+610644
+1p34.3
+AR
+Ovotestis
++/–
+Male or ambiguous
+Palmoplantar hyperkeratosis and certain malignancies
+Androgen Excess
+HSD3B2
+Enzyme
+201810
+1p13
+AR
+Ovary
++
+Clitoromegaly
+CAH, primary adrenal failure, partial androgenization due to ↑ DHEA
+CYP21A2
+Enzyme
+201910
+6p21-­23
+AR
+Ovary
++
+Ambiguous
+CAH, phenotypic spectrum from severe salt-­losing forms associated with 
+adrenal failure to simple virilizing forms with compensated adrenal 
+function, ↑ 17-­hydroxyprogesterone
+CYP11B1
+Enzyme
+20210
+8q21-­22
+AR
+Ovary
++
+Ambiguous
+CAH, hypertension due to ↑ 11-­deoxycortisol and 11-­deoxycorticosterone
+POR (P450 
+oxidore­
+ductase)
+CYP enzyme electron 
+donor
+124015
+7q11.2
+AR
+Ovary
++
+Ambiguous
+Mixed features of 21-­hydroxylase deficiency, 17α-­hydroxylase/17,20-­lyase 
+deficiency, and aromatase deficiency; associated with Antley-­Bixler 
+skeletal dysplasia
+CYP19
+Enzyme
+107910
+15q21
+AR
+Ovary
++
+Ambiguous
+Maternal virilization during pregnancy, absent breast development at 
+puberty, except in partial cases
+Glucocor­
+ticoid 
+receptor
+Nuclear receptor TF
+138040
+5q31
+AR
+Ovary
++
+Ambiguous
+↑ ACTH, 17-­hydroxyprogesterone and cortisol; failure of dexamethasone 
+suppression (patient heterozygous for a pathogenic variant in CYP21)
+ACTH, adrenocorticotropic hormone; AD, autosomal dominant (often de novo pathogenic variant); AR, autosomal recessive; CAH, congenital adrenal hyperplasia; DHEA, dehydroepiandros­
+terone; DHT, dihydrotestosterone; DSD, disorders of sex development; ND, not determined; OMIM #, Online Mendelian Inheritance in Man number; TF, transcription factor; WAGR, Wilms, 
+aniridia, genital anomalies, and retardation; X, X-­chromosomal; Y, Y-­chromosomal. Chromosomal rearrangements likely to include key genes are included.
+Data from Lee PA, Houk CP, Ahmed SF, et al. International Consensus Conference on Intersex organized by the Lawson Wilkins Pediatric Endocrine Society and the European Society for 
+Paediatric Endocrinology. Consensus statement on management of intersex disorders. Pediatrics. 2006;118:e488–e500; Baxter RM, Arboleda VA, Lee H, et al. Exome sequencing for the 
+diagnosis of 46,XY disorders of sex development. J Clin Endocrinol Metab. 2015;100:e333–e344.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+438
+SECTION 5  Genitourinary Disorders
+characterization of possible steroidogenic enzymatic defects, imag­
+ing studies to characterize internal genitalia, and determination of 
+genetic sex as well as other genetic studies as determined by each 
+individual patient with atypical genitalia. The parents need counsel­
+ing about the potentially complex nature of the baby’s condition, and 
+guidance as to how to deal with the curiosity of their well-­meaning 
+friends and family members. The evaluation and management should 
+be carried out by a multidisciplinary team of experts that include 
+practitioners in pediatric endocrinology, pediatric surgery/urology, 
+pediatric radiology, newborn medicine/neonatology, genetics, and 
+psychology. On occasion, the sex of rearing will need to be uncom­
+mitted until the diagnostic evaluation is completed. Once the sex of 
+rearing has been agreed on by the family and team, treatment can be 
+organized. Genetic counseling should be offered as part of routine 
+work-up.
+After a complete history and physical exam, the common diag­
+nostic approach includes multiple steps that are usually performed 
+at the same time rather than waiting for results of one test prior to 
+performing another, in order to expedite the diagnosis. At many cen­
+ters, the initial evaluation may include a broad genetic screening panel 
+that simultaneously examines for multiple potential disease-­associated 
+genetic variants. Careful attention to the presence of physical features 
+other than the genitalia is crucial to determine if a diagnosis of a par­
+ticular multisystem syndrome is possible (Table 26.6 and Fig. 26.7). A 
+summary of many features of commonly encountered causes of DSD is 
+provided in Table 26.7.
+Diagnostic tests include the following:
+	1.	 Blood karyotype, with rapid determination of sex chromosomes (in 
+many centers this is available within 24–48 hours) (see Fig. 26.7).
+	2.	 Other blood tests (see Table 26.6)
+	
+a.	 Screen for congenital adrenal hyperplasia: cortisol biosyn­
+thetic precursors and adrenal androgens, particularly serum 
+levels of 17-­hydroxyprogesterone and androstenedione for 
+21-­hydroxylase deficiency, the most common form. In the United 
+States, all 50 states have a newborn screen for 21-­hydroxylase 
+deficiency.
+	
+b.	 Screen for androgen biosynthetic defects with serum levels of 
+androgens and their precursors.
+	
+c.	 Assess for gonadal responsiveness to gonadotropin to screen for 
+testicular gonadal tissue: measure serum levels of testosterone 
+and dihydrotestosterone before and after intramuscular injec­
+tions of hCG.
+HSD3B2
+CYP11A1  StAR
+Cholesterol
+Pregnenolone
+17-OH pregnenolone
+Adrenal & Sex Steroid Synthesis
+Sex Steroid Synthesis
+Standard Pathway
+Adrenal Steroid Synthesis
+DHEA
+CYP21A2  POR
+CYP11B1
+CYP11B2
+Aldosterone
+Corticosterone
+Cortisol
+DHT
+Testosterone
+Estradiol
+Estrone
+Androstenedione
+17-OH progesterone
+Progesterone
+DOC
+11-Deoxycortisol
+SRD5A2
+AKR1C2/4
+17-OH
+allopreg-
+nanolone
+Androstanediol
+DHT
+5DHP
+Sex Steroid Synthesis
+Alternative Pathway
+To DHT
+AKR1C2/RoDH (ox)
+CYP17A1  POR
+HSD17B3
+HSD17B3
+HSD17B2
+C
+Y
+P
+1
+7
+A
+1
+
+P
+O
+R
+S
+R
+D
+5
+A
+1
+C
+Y
+P
+1
+7
+A
+1
+
+P
+O
+R
+A
+R
+O
+
+P
+O
+R
+Fig. 26.5  Steroidogenic pathways. CYP11A1: cholesterol side chain cleavage. Enzyme activities include 
+20-­hydroxylase, 22-­hydroxylase, and 20,22-­lyase; CYP17A1: activities include 17α-­hydroxylase and 17,20-­
+lyase; HSD3B2: activities include 3β-­hydroxysteroid dehydrogenase type II and D5D4-­isomerase; CYP21A2: 
+activity is 21-­hydroxylase; CYP11B1: activity is 11β-­hydroxylase; CYP11B2: activities include 18-­hydroxylase 
+(CMOI) and 18-­dehydrogenase (CMOII); SRD5A1: activity is 5α-­reductase type I; SRD5A2: activity is 5α-­
+reductase type II; HSD17B2: activity is 17β-­hydroxysteroid dehydrogenase type II; HSD17B3: activity is 17β-­
+hydroxysteroid dehydrogenase type III; AKR1C2/4 (blue): activities are 3α-­reductase types I and III; AKR1C2/
+RoDH (ox): activities are 3α-­reductase and 3-­hydroxyepimerase. ARO, aromatase; DHEA, dehydroepiandros­
+terone; DHT, dihydrotestosterone; 5αDHP, 5α-­dihydroprogesterone; DOC, deoxycorticosterone; POR, P450 
+oxidoreductase. (Data from Kim MS, Donohoue PA. Adrenal disorders. In: Kappy MS, Allen DB, Geffner ME, 
+eds. Pediatric Practice Endocrinology. 2nd ed. New York: McGraw-­Hill; 2014; and Flück CE, et al. Why boys 
+will be boys: two pathways of fetal testicular androgen biosynthesis are needed for male sexual differentia­
+tion. Am J Hum Genet. 2011;89:201–218.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+439
+CHAPTER 26  Disorders of Sex Development
+	
+d.	 Molecular genetic analyses for SRY (sex-­determining region of 
+the Y chromosome), other Y-­specific loci, and, when appropri­
+ate, broad screening for other known single-­gene defects associ­
+ated with DSD (see Table 26.4).
+	
+e.	 Gonadotropin levels (LH and FSH).
+	
+f.	 AMH and inhibin B levels.
+	3.	 The internal anatomy of patients with ambiguous genitalia can be 
+defined with one or more of the following studies:
+	
+a.	 Pelvic ultrasound; renal and adrenal ultrasound.
+	
+b.	 Pelvic MRI.
+	
+c.	 Genitourethrograms.
+	
+d.	 Endoscopic examination of the genitourinary tract.
+	
+e.	 Exploratory laparoscopy to locate and characterize/biopsy 
+the gonads.
+BASIC APPROACHES TO THE DIAGNOSIS 
+AND MANAGEMENT OF DISORDERS OF SEX 
+DEVELOPMENT
+In the neonate, the presence of atypical genitalia requires immediate 
+attention to determine the etiology and then, if necessary, decide on 
+the sex of rearing. In some cases, DSD is associated with other abnor­
+malities that adversely impact the child’s health, particularly the salt-­
+losing forms of CAH, adrenal insufficiency related to SF1 defects, and 
+renal abnormalities associated with WT-­1 defects.
+The family of the infant needs to be informed of the child’s condition 
+as early, completely, compassionately, and honestly as possible. Caution 
+must be used to avoid feelings of guilt, shame, and confusion. Guid­
+ance needs to be provided to alleviate both short-­term and long-­term 
+concerns and to allow the child to grow up in a completely supportive 
+environment. The initial care is best provided by a team of professionals 
+who remain focused foremost on the needs of the child. Management 
+of the potential emotional and psychologic effects that these disorders 
+can generate in the child and the family is of paramount importance and 
+requires the involvement of physicians, psychologists, and other health 
+care professionals with sensitivity, training, and experience in this field.
+While awaiting the results of blood tests, imaging with pelvic ultra­
+sonography and/or MRI is used to determine the presence of a uterus 
+and ovaries. Presence of a uterus and absence of external palpable 
+gonads often suggest a virilized XX female. A search for the source of 
+virilization includes studies of adrenal hormones to rule out varieties of 
+CAH, and studies of androgens and estrogens may be necessary to rule 
+out aromatase deficiency. Virilized XX females with CAH are generally 
+(but not always) reared as females even when the genitalia are Prader 
+stage 4 or 5 (see Fig. 26.3).
+The absence of a uterus, with or without palpable external gonads, 
+may indicate an undervirilized XY male. Measurements of blood lev­
+els of gonadotropins, testosterone, AMH, and DHT are necessary to 
+determine whether testicular production of androgen is present and is 
+normal. Undervirilized males who are totally feminized may be reared 
+as females. Certain significantly undervirilized infants, such as those 
+with 5α-­reductase deficiency, may be reared as males because these 
+children virilize normally at puberty. Sixty percent of individuals with 
+5α-­reductase deficiency assigned as female in infancy will identify as 
+males as adults. An infant with a comparable degree of underviriliza­
+tion resulting from an androgen receptor defect, such as androgen 
+insensitivity syndrome (AIS), may be successfully reared as a female, 
+depending on androgen responsiveness.
+In some mammals, the female exposed to androgens prenatally or 
+in early postnatal life exhibits nontraditional sexual behavior in adult 
+life. Most, but not all, females who have undergone fetal masculiniza­
+tion from CAH have female sexual identity, although during childhood 
+they may appear to prefer male typical play activities over female typ­
+ical play activities.
+In the past it was thought that surgical treatment of ambiguous 
+genitalia to create a female appearance, particularly when a vagina was 
+present, was more successful than construction of male genitalia. Con­
+siderable controversy has developed regarding these decisions. Sexual 
+functioning is to a large extent more dependent on neurohormonal and 
+behavioral factors than the physical appearance and functional capac­
+ity of the genitalia. Similarly, controversy exists regarding the timing of 
+the performance of invasive and definitive procedures, such as surgery. 
+Whenever possible, without endangering the physical or psychologic 
+health of the child, an expert multidisciplinary team should consider 
+deferring elective surgical procedures and gonadectomies until the 
+child can participate in the informed consent for the procedure.
+TABLE 26.5  Association of Genital 
+Abnormalities
+Abnormal 
+Characteristics
+Examples of Associated Disorders
+Male-­Appearing Genitalia
+Micropenis
+Growth hormone or luteinizing hormone deficiency
+Testosterone deficiency (in 2nd and 3rd trimesters)
+Partial androgen insensitivity
+Syndrome: idiopathic
+Hypospadias (more severe)
+Disorders of gonadal development 46,XX DSD
+Ovotesticular DSD
+46,XX or 46,XX DSD
+Syndrome: idiopathic
+Impalpable gonads
+Anorchia
+Persistent müllerian duct syndrome
+46,XX DSD with 21-­ or 11β-­hydroxylase deficiency 
+cryptorchidism
+Small gonads
+47,XXY, 46,XX DSD
+Dysgenetic or rudimentary testes
+Inguinal mass (uterus 
+or tube)
+Persistent müllerian duct syndrome, dysgenetic 
+testes
+Female-­Appearing Genitalia
+Clitoromegaly
+XX with 21-­ or 11β-­hydroxylase or 3β-­hydroxy 
+dehydrogenase deficiency
+Other 46,XX DSD
+Gonadal dysgenesis, dysgenetic testes, ovotes­
+ticular DSD
+46,XY DSD
+Tumor infiltration of clitoris
+Syndrome: idiopathic
+Posterior labial fusion
+As for clitoromegaly
+Palpable gonad(s)
+Gonadal dysgenesis, dysgenetic testes, 
+ovotesticular DSD
+46,XY DSD
+Inguinal hernia or mass
+As for palpable gonad(s)
+DSD, disorders of sex development.
+From Martin RJ, Fanaroff AA, Walsh MC, eds. Fanaroff’s & Mar­
+tins’s Neonatal-­Perinatal Medicine. 11th ed. Philadelphia: Elsevier; 
+2020:1674, Table 89.3.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+440
+SECTION 5  Genitourinary Disorders
+For all patients with DSD who have Y-­chromosome material and 
+intraabdominal gonads, gonadectomy is generally recommended due 
+to the risk of gonadal tumors developing with increasing age, many 
+of which are malignant. The risk is highest in children with gonadal 
+dysgenesis, partial androgen insensitivity, or Frasier or Denys-­Drash 
+syndrome.
+The pediatrician, pediatric endocrinologist, and psychologist, along 
+with the appropriate additional specialists, should provide ongoing 
+compassionate, supportive care to the patient and the patient’s fam­
+ily throughout childhood, adolescence, and adulthood. Active support 
+groups are available for families and patients with many of the condi­
+tions discussed.
+SPECIFIC TYPES OF DISORDERS OF SEX 
+DEVELOPMENT
+46,XX Disorders of Sex Development
+In 46,XX DSD, the sex chromosomes are XX, but the external genita­
+lia are virilized. If the gonads are ovaries, there is no significant AMH 
+production. Thus the uterus, fallopian tubes, cervix, and upper vagina 
+will develop. The varieties and causes of this condition are relatively 
+few. Most cases result from exposure of the female fetus to excessive 
+exogenous or endogenous androgens during early intrauterine life (see 
+Figs. 26.2 and 26.4 and Table 26.2). The changes consist principally of 
+virilization of the external genitalia (clitoral hypertrophy and labio­
+scrotal fusion).
+Androgen Exposure/Fetoplacental Source
+Congenital adrenal hyperplasia. CAH is the most common cause of 
+genital ambiguity and of 46,XX DSD. CAH is caused by an enzymatic 
+defect in the biosynthesis of cortisol. This results in compensatory 
+adrenocorticotropic hormone (ACTH) excess, which stimulates 
+hyperplasia of the adrenal cortex in an attempt to normalize cortisol 
+secretion. There is overproduction of adrenal androgen precursors 
+in the forms of CAH that cause genital ambiguity in 46,XX infants. 
+Females with 21-­hydroxylase and 11-­hydroxylase deficiency are the 
+most highly virilized (see Fig. 26.2). Minimal virilization also occurs 
+with the type II 3β-­hydroxysteroid dehydrogenase (HSD3B2) defect 
+(see Fig. 26.5 for enzymatic pathways). The androgen precursors 
+are converted in extra-­adrenal tissues into testosterone and DHT, 
+the potent androgens that bind to the androgen receptor (AR). 
+The treatment for all forms of CAH is cortisol replacement therapy, 
+which reduces ACTH secretion and reverses the androgen excess. 
+Ambiguous genitalia
+with XY karyotype
+Palpable gonads or
+testes detectable by
+imaging
+hCG stimulation and
+AMH levels
+Vanishing
+testes
+Follow algorithm for
+palpable gonads or
+testes detectable by
+imaging
+(See Fig. 26.7)
+Suspicion for adrenal
+biosynthesis defect?
+Abnormal ACTH
+stimulation test?
+hCG
+stimulation
+T/DHT
+ratio
+5α-reductase
+deficiency
+Persistent
+müllerian duct
+syndrome
+Response to
+testosterone
+therapy?
+Note: AMH levels can be elevated in
+androgen insensitivity and
+hypogonadotropic hypogonadism
+Environmental
+Unknown cause
+Field defects
+Androgen
+insensitivity
+STAR (↓T precursors,↓cortisol)
+3β-HSD (↑17-OH preg, ↑DHEA)
+17-α hydroxylase /17, 20 lyase
+(↓cortisol, ↑prog, ↑preg,
+↓17-OH-prog, ↑DOC,
+↑corticosterone, ↓17-OH preg
+17β-HSD (normal cortisol,
+↑androstenedione, ↓testosterone)
+P450 oxidoreductase deficiency
+(normal or ↓cortisol, normal or 
+↑preg, prog, 17-OH preg, and 
+17-OH prog, and normal or 
+↓DHEA/androstenedione)
+- Gonadal dysgenesis – may
+  require gonadal biopsy to
+  confirm diagnosis, can be
+  isolated or syndromic
+- Ovotesticular DSD – will
+  require gonadal biopsy to
+  confirm presence of both
+  ovarian and testicular tissue
+- LH receptor defect
+- Hypogonadotropic
+  hypogonadism – GnRH
+  stimulation test will show no
+  rise in LH/FSH, evaluate for
+  panhypopituitarism
+Müllerian
+structures?
+Minimal/no
+response to hCG
+Testosterone
+No
+No response to hCG
+Undetectable AMH
+Some response,
+detectable AMH
+Yes
+Yes
+No
+Normal
+Ratio ↑
+Normal ratio
+Yes
+Normal
+None/minimal
+No
+Low
+Fig. 26.6  Diagnostic algorithm for ambiguous genitalia with XY karyotype. ACTH, adrenocorticotropic 
+hormone; AMH, antimüllerian hormone; DHEA, dehydroepiandrosterone; DHT, dihydrotestosterone; 
+DOC; deoxycorticosterone; DSD, disorder of sex development; FSH, follicle-­stimulating hormone; GnRH, 
+gonadotropin-­releasing hormone; hCG, human chorionic gonadotropin; HSD, hydroxysteroid dehydrogenase; 
+LH, luteinizing hormone; preg, pregnenolone; prog, progesterone; STaR, steroidogenic acute regulatory pro­
+tein; T, testosterone. (From McCann-­Crosby B, Sutton R. Disorders of sexual development. Clin Perinatol. 
+2015;42[2]:395–412 [Fig. 3, p. 400].)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+441
+CHAPTER 26  Disorders of Sex Development
+TABLE 26.6  Potential Investigations for Disorders of Sex Development
+Approach
+Test
+Uses
+Genetics
+FISH* (X-­ and Y-­specific probes)
+Rapid analysis of sex chromosome complement on cells
+qfPCR*
+Rapid analysis of sex chromosome signal in DNA
+Karyotype*
+Analysis of sex chromosomes and autosomes in cells with ability to look for mosaicism by screening multi­
+ple cells, as well as detection of major deletions, duplications, and balanced translocations
+Array CGH or SNP microarray*
+Analysis of chromosome signal across the genome, with ability to detect smaller copy number variants but 
+not balanced translocations, using DNA
+Multiple ligation probe-­dependent 
+amplification
+Analysis of the loss or gain of specific exons or whole genes on a predefined panel of probes, such as for 
+DSD genes, using DNA
+Single-­gene analysis
+Sanger sequencing and analysis of individual genes that are highly likely to be the cause of DSD based on 
+incidence and clinical and biochemical features (e.g., CYP21A2)
+Targeted panel sequencing
+Analysis of large numbers of known DSD-­causing genes using high-­throughput sequencing of DNA
+Whole exome sequencing
+Analysis of all the coding exons in the DNA, which may show changes in known, putative, or novel DSD-­
+associated genes, using high-­throughput sequencing
+Endocrine
+Routine serum biochemistry*; 
+urinalysis*
+May reveal a salt-­losing crisis or associated renal disorder (e.g., WT1)
+17-­Hydroxyprogesterone,* 
+11-­deoxycortisol, 
+17-­hydroxypregnenolone
+May help to diagnose CAH or reveal a specific block in an adrenal pathway relevant to DSD
+Renin, ACTH
+May show a salt-­losing state or primary adrenal insufficiency
+Testosterone,* 
+androstenedione, 
+DHT
+Indicates the degree of androgen production and ratios of androgens in the basal state or following hCG 
+stimulation and may help to diagnose a block in androgen production consistent with a specific diagnosis 
+(e.g., 17β-­hydroxysteroid dehydrogenase or 5α-­reductase deficiencies); can also reveal androgen produc­
+tion in ovotesticular DSD
+Gonadotropins
+May indicate an underlying block in steroidogenesis or androgen insensitivity (LH), or impaired Sertoli cell 
+function (FSH)
+AMH, inhibin B
+Can be useful markers of testicular integrity: AMH is detectable throughout childhood and is reduced in 
+testicular dysgenesis or absent if streak gonads or anorchia occur; AMH may be high in AIS or reduced 
+androgen production due to steroidogenic defects; AMH may help to reveal the presence of testicular 
+tissue in 46,XX ovotesticular DSD
+Urinary steroids by GC–MS
+Can be used to diagnose specific steroidogenic defects in the newborn period (e.g., 21-­hydroxylase defi­
+ciency, 11β-­hydroxylase deficiency, 3β-­hydroxysteroid dehydrogenase deficiency, P450 oxidoreductase 
+deficiency, 17α-­hydroxylase deficiency); can reveal 5α-­reductase deficiency only after 3–6 mo of life
+Dynamic tests: ACTH stimulation
+Used to assess the adrenal gland stress response (quantitative) and can be coupled with measurement of 
+steroid metabolites or poststimulation urine steroid analysis to study ratios of metabolites (diagnostic)
+hCG stimulation
+Used in short (3 days) or prolonged (3 wk) formats to assess androgen production (quantitative) and andro­
+gen biosynthesis pathways (diagnostic); can also be used to assess for the presence of testicular tissue 
+(e.g., anorchia, ovotestis), although AMH is now more often used initially
+FSH stimulation test
+Rarely used to investigate the presence of ovarian tissue by measuring inhibin A and estradiol response
+Imaging
+Abdominopelvic and renal 
+ultrasound*
+Can reveal the size, position, and structure of gonads (especially testes); the presence of müllerian struc­
+tures; and associated changes (such as renal size or anomalies)
+MRI
+Sometimes used to assess internal structures, especially in adolescence
+Cystourethroscopy, sinogram
+Can reveal the structure of the bladder, vagina, and common channel
+Surgical
+Laparoscopy
+Can reveal internal structures by direct visualization, such as gonads and müllerian structures
+Gonadal biopsies
+Can be used to determine the nature of gonads, especially if testicular dysgenesis or ovotestes are 
+suspected
+*Indicates first-­line investigations for which results are available within days. For images of G-­banded karyotypes and FISH analysis, see Fig. 26.6.
+ACTH, adrenocorticotropic hormone; AIS, androgen insensitivity syndrome; AMH, antimüllerian hormone; CAH, congenital adrenal hyperplasia; 
+CGH, comparative genomic hybridization; DHT, dihydrotestosterone; DSD, disorders of sex development; FISH, fluorescent in situ hybridization; 
+FSH, follicle-­stimulating hormone; GC–MS, gas chromatography–mass spectrometry; hCG, human chorionic gonadotropin; LH, luteinizing hormone; 
+qfPCR, quantitative fluorescent polymerase chain reaction; SNP, single-­nucleotide polymorphism.
+From Achermann JC, Hughes IA. Pediatric disorders of sex development. In: Melmed S, Polonsky KS, Larsen PR, et al., eds. Williams Textbook of 
+Endocrinology. 13th ed. Philadelphia: Elsevier; 2016:949.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+442
+SECTION 5  Genitourinary Disorders
+Mineralocorticoid replacement may be needed in 21-­hydroxylase and 
+HSD3B2 deficiency. The surgical treatment of virilized genitalia in 
+affected females is usually recommended during infancy. However, this 
+remains a controversial topic.
+CAH due to 21-­hydroxylase deficiency (variants in the CYP21A2 
+gene) is one of the most common inherited diseases associated with 
+DSD. It accounts for more than 95% of cases of adrenal steroidogenic 
+defects and is estimated to occur in about 1 in 14,000 live births. In 
+some genetically isolated populations such as Yupik Eskimos, the inci­
+dence is much higher. CYP21A2 deficiency usually presents as one 
+of two clinical syndromes in neonates or very young infants, both of 
+which are associated with glucocorticoid deficiency. If not diagnosed 
+Ambiguous genitalia
+XX
+karyotype
+XY
+karyotype
+17-Hydroxyprogesterone
+Salt losing?
+21-OH deficiency
+Simple virilizing
+21-OH deficiency
+Classic salt
+wasting
+3β-HSD
+deficiency
+11-Deoxycortisol
+High
+No
+Yes
+High
+Normal
+High
+Müllerian structures present
+Yes
+No
+Müllerian structures absent
+Normal
+Normal
+Variable
+11-Hydroxylase
+deficiency
+Pelvic/abdominal
+ultrasound
+History of maternal
+hyperandrogenemia
+Progestin ingestion
+during pregnancy
+Maternal CAH
+Maternal ovarian or
+adrenal tumor
+Fetoplacental hyperandrogenism:
+–Aromatase deficiency
+Laparotomy/gonadal
+biopsy
+Presence of both ovarian
+and testicular tissue?
+XX testicular DSD
+(SOX9 duplication,
+overexpression of SOX10
+RSPO1 pathogenic variant)
+XX ovotesticular DSD
+P450 oxidoreductase can present
+with ambiguous genitalia, skeletal
+malformations, variable deficiency of
+21-hydroxylase and 17-hydroxylase.
+(Normal or ↓ cortisol; normal or ↑
+pregnenolone, progesterone, 17-OH
+pregnenolone, and 17-OH
+progesterone; and normal or ↓
+DHEA/androstenedione)
+DHEAS
+See algorithm for evaluation of
+ambiguous genitalia in patients with
+an XY karyotype (Fig. 26.6)
+Chromosome analysis
+CMA
+Electrolytes
+Glucose
+17-Hydroxyprogesterone
+Fig. 26.7  Diagnostic algorithm for patients with ambiguous genitalia. CAH, congenital adrenal hyperplasia; 
+CMA, chromosomal microarray; DHEA, dehydroepiandrosterone; DHEAS, dehydroepiandrosterone sulfate; 
+DSD, disorders of sexual development; HSD, hydroxysteroid dehydrogenase. (From McCann-­Crosby B, Sut­
+ton R. Disorders of sexual development. Clin Perinatol. 2015;42[2]:395–412 [Fig. 2, p. 399].)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+443
+CHAPTER 26  Disorders of Sex Development
+in the first few weeks, the salt-­wasting form is associated with dehy­
+dration, hyponatremia, hyperkalemia, acidosis, and hypotension with 
+elevated plasma renin activity (PRA) due to mineralocorticoid defi­
+ciency. Symptoms of this renal salt loss include lethargy, vomiting, and 
+poor feeding. Adrenal androgen excess results in ambiguous genita­
+lia in affected females. The simple virilizing form also causes prena­
+tal virilization in females but without postnatal salt wasting. In some 
+infants, the distinction between the two forms is not clear due to early 
+detection by newborn screening. Female patients with salt-­losing CAH 
+tend to have more virilization than do non–salt-­losing female patients. 
+Masculinization may be so intense that the urethral meatus is at the tip 
+of the enlarged clitoris, giving the appearance of a normal penis (see 
+Fig. 26.2). The patient may therefore appear to be a male with bilat­
+eral cryptorchidism. Affected males have normal genitalia. Late-­onset 
+forms of CYP21A2 deficiency present with early pubarche in both 
+sexes, or with hirsutism and menstrual irregularities in older females. 
+These late-­onset forms are not causes of DSD.
+CAH due to 11β-­hydroxylase deficiency (pathogenic variants in 
+the CYP11B1 gene) is the second most common cause of CAH, and 
+accounts for <5% of CAH cases. As with other causes of CAH, corti­
+sol synthesis is reduced; however, there is excessive mineralocorticoid 
+(deoxycorticosterone [DOC]) secretion accompanying adrenal andro­
+gen overproduction. As a result, patients become hypertensive after 
+infancy because of increased sodium retention.
+CAH due to 3β-­hydroxysteroid dehydrogenase type II deficiency 
+(pathogenic variants in the HSD3B2 gene) is a rare form of CAH in 
+which synthesis of all steroid hormones is impaired (see Fig. 26.5). 
+Thus, there are deficiencies of glucocorticoids, mineralocorticoids, and 
+potent androgens. Most patients present as neonates or in early infancy. 
+Clinical manifestations are because of both cortisol and aldosterone 
+deficiency as seen in 21-­hydroxylase deficiency, including feeding 
+difficulties, vomiting, volume depletion, and subsequent hyponatre­
+mia, hyperkalemia, and high PRA. Affected females have mild viril­
+ization (an indirect effect of oversecretion of dehydroepiandrosterone 
+[DHEA]). This form of CAH may also cause 46,XY DSD.
+P450 oxidoreductase (POR) deficiency is also known as apparent 
+combined CYP21A2 and CYP17A1 deficiency. The underlying defect 
+is a pathogenic variant in the POR gene that encodes cytochrome 
+P450 oxidoreductase, a mitochondrial cofactor that transfers electrons 
+to CYP21A2 and CYP17A1 during steroidogenesis. This results in a 
+partial deficiency of the enzymes 21-­hydroxylase and 17-­hydroxylase. 
+Affected females are born with ambiguous genitalia, suggesting intra­
+uterine androgen excess; however, as opposed to classic CAH, after 
+birth serum androgen concentrations are low, and virilization does not 
+progress. Males may have undervirilization. Mothers may have viril­
+ization during pregnancy with an affected fetus. Bone malformations 
+affecting primarily the head and limbs (Antley-­Bixler syndrome) may 
+be seen in both boys and girls with POR deficiency.
+Aromatase deficiency. In 46,XX females, the rare condition of 
+aromatase deficiency during fetal life leads to 46,XX DSD and results in 
+hypergonadotropic hypogonadism at puberty because of ovarian failure 
+to synthesize estrogen from androgen. Examples of this condition 
+include two 46,XX infants who had enlargement of the clitoris and 
+posterior labial fusion at birth. In one instance, maternal serum and 
+urinary levels of estrogen were very low and serum levels of androgens 
+were high. Cord serum levels of estrogen were also extremely low, and 
+TABLE 26.7  Atypical/Ambiguous Genitalia: Features Associated with the Most Common 
+Diagnoses
+21-­OH 
+Deficiency
+Testicular 
+Dysgenesis with 
+Y Chromosome
+Ovo-­
+Testicular DSD
+Partial 
+Androgen 
+Insensitivity
+Dihydrotestosterone 
+(DHT) Deficiency
+Block in 
+Testosterone 
+(T) Synthesis
+Clinical Feature
+Palpable gonad(s)
+−
++/−
++/−
++
++/–
++
+Uterus present†
++
++
+Usually
+−
+–
+−
+Increased skin 
+pigmentation
++/−
+−
+−
+−
+–
+−
+Sick baby
++/−
+−
+−
+−
+–
++/−
+Dysmorphic features −
++/−
+−
+−
+–
+−
+Diagnostic Test Results
+Serum 17-­OHP
+Elevated
+Normal
+Normal
+Normal
+Normal
+Normal
+Electrolytes
+Possibly 
+abnormal
+Normal
+Normal
+Normal
+Normal
+Possibly abnormal
+Karyotype
+46,XX
+45,X/46,XY or others
+46,XX
+46,XY
+46,XY
+46,XY
+Testosterone 
+response to hCG
+NA
+Positive
+Normal or reduced Positive
+Positive
+Reduced or absent
+Gonadal biopsy
+NA
+Dysgenic gonad
+Ovotestis
+Normal testis with +/− Ley­
+dig cell hyperplasia
+Normal testis
+Normal testis
+DNA screening for AR‡ or 
+post-­receptor pathogenic 
+variants positive in many 
+cases
+Elevated T:DHT ratio
+Levels of testosterone 
+precursors elevated
+Testosterone level low
+†As determined by ultrasound or rectal examination.
+‡Androgen receptor.
+17-­OHP, 17-­hydroxyprogesterone; 21-­OH, 21-­hydroxylase; hCG, human chorionic gonadotropin; NA, not applicable.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+444
+SECTION 5  Genitourinary Disorders
+those of androgen were elevated. The second case also had virilization 
+of unknown cause since birth, but the aromatase deficiency was not 
+diagnosed until 14 years of age, when she had further virilization 
+and failed to go into female puberty. At that time, she had elevated 
+levels of gonadotropins and androgens but low estrogen levels, and 
+ultrasonography revealed large ovarian cysts bilaterally. Two siblings 
+with aromatase deficiency have also been described. The 28-­year-­old 
+XX proband was 177.6 cm tall (+2.5 SD) after having received estrogen 
+replacement therapy. Her 24-­year-­old brother was 204 cm tall (+3.7 
+SD) and had a delayed bone age of only 14 years due to failure of 
+epiphyseal fusion, which is estrogen mediated.
+Cortisol resistance due to glucocorticoid receptor gene 
+pathogenic variants. A 9-­year-­old female with 46,XX DSD and a 
+history of ambiguous genitalia, thought to be due to 21-­hydroxylase 
+deficiency CAH, had elevated cortisol levels both at baseline and 
+after dexamethasone, along with hypertension and hypokalemia, 
+suggestive of the diagnosis of generalized glucocorticoid resistance. A 
+novel homozygous pathogenic variant in exon 5 of the glucocorticoid 
+receptor was demonstrated. Subsequently, additional families with 
+this condition have been identified. Virilization occurs due to excess 
+ACTH stimulation of adrenal steroid production, as the glucocorticoid 
+receptor defect is also present in the pituitary gland, which senses 
+inadequate cortisol effect to provide negative feedback.
+Androgen Exposure: Maternal Source
+Virilizing maternal tumors. Rarely, a female fetus can be virilized 
+by a maternal androgen-­producing tumor. In a minority of cases, 
+the lesion is a benign adrenal adenoma, but the majority are ovarian 
+tumors, particularly androblastomas, luteomas, and Krukenberg 
+tumors. Maternal virilization may be manifested by enlargement of the 
+clitoris, acne, deepening of the voice, decreased lactation, hirsutism, 
+and elevated levels of androgens. In the infant, there is enlargement 
+of the clitoris of varying degrees, often with labial fusion if the tumor 
+produced excess androgen during the 1st trimester. Mothers of children 
+with unexplained 46,XX DSD should undergo physical examination 
+and measurements of their own levels of plasma testosterone, 
+dehydroepiandrosterone sulfate (DHEAS), and androstenedione.
+Administration of androgenic drugs to women during pregnancy. 
+Testosterone and 17-­methyltestosterone have been reported to cause 
+46,XX DSD in some instances. The greatest number of cases has 
+resulted from the use of certain progestational compounds for the 
+treatment of threatened abortion. These progestins have been replaced 
+by nonvirilizing ones.
+Disorders of Ovarian Development
+46,XX testicular DSD. In this condition, also called XX male, the 
+gonads are testicular, and virilization is typically incomplete. Infertility 
+and/or gonadal failure may develop after childhood. Many cases are 
+due to translocation of SRY sequences onto one of the X chromosomes, 
+often paired with duplication of SOX9. The appropriate sex of rearing 
+may be difficult to determine.
+46,XX gonadal dysgenesis. These females typically present at 
+puberty with lack of breast development and hypergonadotropic 
+hypogonadism. Normal müllerian structures are present, but ovaries 
+are absent or streaks. They do not have atypical genitalia.
+Undetermined/unknown. Rarely, 46,XX DSD can be associated with 
+other congenital anomalies, especially those of the genitourinary or 
+gastroenteric tract, and are thus multifactorial in origin. These include 
+cloacal exstrophy and MURCS association (müllerian hypoplasia, 
+renal agenesis, and cervicothoracic somite abnormalities). Isolated 
+deficiency of müllerian development is known as Mayer-­Rokitansky-­
+Küster-­Hauser syndrome.
+46,XY Disorders of Sex Development
+In 46,XY DSD, the genotype is XY, and the external genitalia are either 
+not completely virilized, ambiguous (atypical), or completely female. 
+When gonads are found, they typically contain testicular elements; 
+their development ranges from rudimentary to normal. Because the 
+process of normal virilization in the fetus is so complex, it is not sur­
+prising that there are many varieties and causes of 46,XY DSD. The 
+etiology of 46,XY DSD is not identified in up to 50% of cases; however, 
+with advances in rapid and robust genetic testing panels, the proportion 
+of undiagnosed cases is declining.
+Defects in Testicular Development
+The first step in male differentiation is development of the bipoten­
+tial gonad into a testis. In the XY fetus, if there is a deletion of the 
+short arm of the Y chromosome or pathogenic variant of the SRY gene, 
+male gonadal differentiation does not occur. The phenotype is female; 
+müllerian (paramesonephric) ducts are well developed because of the 
+absence of AMH, and gonads consist of undifferentiated streaks. By 
+contrast, even extreme deletions of the long arm of the Y chromosome 
+(Yq−) have been found in normally developed males, most of whom 
+have short stature and azoospermia. This indicates that the long arm 
+of the Y chromosome normally has genes that prevent these manifes­
+tations. In many syndromes in which the testes fail to differentiate, Y 
+chromosomes appear morphologically normal on karyotyping.
+Wilms tumor suppressor gene (WT1) pathogenic variants: 
+Denys-­Drash, Frasier, and WAGR syndromes. The constellation of 
+nephropathy with atypical genitalia and bilateral Wilms tumor typifies 
+Denys-­Drash syndrome. Müllerian ducts are often present, indicating 
+deficiency of multiple fetal testicular functions. Affected patients with 
+a 46,XX karyotype have normal external genitalia. There is onset of 
+proteinuria in infancy that progresses to nephrotic syndrome and end-­
+stage renal failure by 3 years of age, with focal or diffuse mesangial 
+sclerosis being the most consistent histopathologic finding. Wilms 
+tumor usually develops in children younger than 2 years of age and is 
+frequently bilateral. Gonadoblastomas have also been reported.
+A variety of variants of WT1 have been found in Denys-­Drash syn­
+drome. WT1 functions as a tumor suppressor gene and a transcription 
+factor, and is expressed in the genital ridge and fetal gonads. One report 
+found a zinc finger domain variant in the WT1 alleles of a patient with 
+no genitourinary abnormalities, suggesting that some cases of sporadic 
+Wilms tumor may carry the WT1 variant. Different pathogenic vari­
+ants of the WT1 gene, heterozygous variants at intron 9, have been 
+described in Frasier syndrome, a condition of nonspecific focal and 
+segmental glomerulosclerosis, 46,XY gonadal dysgenesis, and frequent 
+gonadoblastoma, but without Wilms tumor.
+WAGR syndrome is a contiguous gene deletion syndrome causing 
+Wilms tumor, Aniridia, Genitourinary malformations, and intellectual 
+disability (Retardation). These children have a deletion of one copy of 
+chromosome 11p13, which may be visible on karyotype analysis. The 
+deleted region encompasses the aniridia gene (PAX6) and WT1. Only 
+the 46,XY males have genital abnormalities, ranging from cryptorchi­
+dism to severe undervirilization. Gonadoblastomas have developed in 
+the dysgenic gonads. Wilms tumor usually occurs by 2 years of age. 
+Some cases also had unexplained obesity, raising the question of an 
+obesity-­associated gene in this region of chromosome 11 and naming 
+the syndrome WAGRO.
+Campomelic dysplasia. This form of short-­limbed skeletal 
+dysplasia is characterized by anterior bowing of the femur and tibia; 
+small, bladeless scapulae; small thoracic cavities and 11 pairs of ribs; 
+along with malformations of other organs. It is usually lethal in early 
+infancy. About 75% of reported 46,XY patients exhibit a completely 
+female phenotype with the external and internal genitalia both being 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+445
+CHAPTER 26  Disorders of Sex Development
+female. Some 46,XY patients have atypical genitalia. The gonads appear 
+to be ovaries but histologically may contain elements of both ovaries 
+and testes.
+The gene responsible for the condition is SOX9 (SRY-­related HMG-­
+box gene). This gene is structurally related to SRY and also directly 
+regulates type II collagen gene (COL2A1) development. There is phe­
+notypic variability in that the same pathogenic variants may result 
+in different gonadal phenotypes. Gonadoblastoma was reported in a 
+patient with this condition. The inheritance is autosomal dominant.
+Steroidogenic Factor 1 (SF1)
+Adrenal insufficiency and 46,XY DSD have been described in patients 
+with pathogenic variants of the SF1 gene. In some patients, SF1 vari­
+ants occur without causing adrenal insufficiency. In a number of these 
+families, if the mother shares the same SF1 variant, she experiences 
+premature ovarian insufficiency.
+Other Known Genetic Causes of 46,XY DSD
+46,XY DSD has been described in patients with other single-­gene 
+pathogenic variants, as well as deletions of parts of autosomal loci on 
+chromosomes 2q, 9p, and 10q. A disorder with digenic inheritance 
+involving coexistence of pathogenic variants in both DMRT3 and OAS3 
+has been described in a Taiwanese kindred. Examples of a number of 
+these genetic conditions are shown in Table 26.4. The use of exome 
+sequencing of targeted genes has enhanced the detection of specific 
+genetic defects in patients with 46,XY DSD.
+XY pure gonadal dysgenesis (Swyer syndrome). The designation 
+pure distinguishes this condition from forms of gonadal dysgenesis 
+that are of chromosomal origin and associated with somatic anomalies 
+such as 45,X Turner syndrome and 47,XXY Klinefelter syndrome. 
+Affected patients have normal stature as adults and a completely 
+female phenotype at birth, including vagina, uterus, and fallopian 
+tubes. At pubertal age, breast development and menarche fail to 
+occur, and hypergonadotropic hypogonadism is present. None of the 
+other phenotypic features associated with 45,X are present. Familial 
+cases suggest an X-­linked or a sex-­limited dominant autosomal 
+transmission. Most of the patients with a known genetic cause have 
+had pathogenic variants of the SRY gene. The gonads consist of almost 
+totally undifferentiated streaks despite the presence of a cytogenetically 
+normal Y chromosome. The primitive gonad cannot accomplish any 
+testicular function, including suppression of müllerian ducts. There 
+may be hilar cells in the gonad capable of producing some androgens; 
+accordingly, some virilization, such as clitoral enlargement, may occur 
+at the age of puberty. The streak gonads may undergo neoplastic 
+changes, such as gonadoblastomas and dysgerminomas, and should 
+be removed as soon as the diagnosis is established, regardless of the age 
+of the patient.
+XY gonadal agenesis syndrome (embryonic testicular regression 
+syndrome). In this rare syndrome, the external genitalia are slightly 
+atypical but more nearly female. Hypoplasia of the labia; some degree 
+of labioscrotal fusion; a small, clitoris-­like phallus; and a perineal 
+urethral opening are present. No uterus, no gonadal tissue, and usually 
+no vagina can be found. At the age of puberty, no sexual development 
+occurs and gonadotropin levels are elevated. Most children have been 
+reared as females. In several patients with XY gonadal agenesis in 
+whom no gonads could be found on exploration, significant rises in 
+testosterone followed stimulation with hCG, indicating Leydig cell 
+function somewhere. Siblings with the disorder are known.
+It is presumed that testicular tissue was active long enough during 
+fetal life for AMH to inhibit development of müllerian ducts but not 
+long enough for testosterone production to result in virilization. Tes­
+ticular degeneration seems to occur between the 8th and the 12th fetal 
+week. Regression of the testes before the 8th week of gestation results 
+in Swyer syndrome; between the 14th and the 20th week of gestation, it 
+results in the rudimentary testis syndrome; and after the 20th week, it 
+results in anorchia with otherwise normal external genitalia.
+In bilateral anorchia, sometimes referred to as vanishing testes 
+syndrome, testes are absent, but the male phenotype is complete; it is 
+presumed that fetal testicular function was active during the critical 
+period of genital differentiation but that sometime later it was dam­
+aged. Bilateral anorchia in identical twins and unilateral anorchia in 
+identical twins and in siblings suggest a genetic predisposition. Coex­
+istence of anorchia and the gonadal agenesis syndrome in a sibship is 
+evidence for a relationship between the disorders.
+Deficiency of Testicular Hormone Production
+Genetic defects have been delineated in the enzymatic steps required 
+for the synthesis of testosterone by the fetal testicular Leydig cells, 
+and a defect in Leydig cell differentiation has also been described. 
+These defects produce 46,XY males with incomplete masculinization. 
+Because levels of testosterone are normally low before puberty except 
+during the period of minipuberty at 1–2 months of age, an hCG stim­
+ulation test may be needed in children to assess the ability of the testes 
+to synthesize testosterone.
+Leydig cell aplasia. Patients with aplasia or hypoplasia of the Leydig 
+cells usually have a female phenotype, but there may be mild virilization. 
+Testes, epididymis, and vas deferens are present; the uterus and fallopian 
+tubes are absent due to normal production of müllerian-­inhibiting 
+substance. There are no secondary sexual changes at puberty, but pubic 
+hair may be normal. Plasma levels of testosterone are low and do increase 
+with hCG stimulation; LH levels are elevated. The Leydig cells of the 
+testes are absent or markedly deficient. The defect may involve a lack of 
+receptors for LH. In children, hCG stimulation is necessary to differentiate 
+the condition from the androgen insensitivity syndromes (AISs), as older 
+children with AIS have low testosterone levels when prepubertal. There is 
+male-­limited autosomal recessive inheritance. The human LH receptor is 
+a member of the G protein–coupled superfamily of receptors that contains 
+seven transmembrane domains. Several inactivating pathogenic variants 
+of the LH receptor have been described in males with hypogonadism 
+suspected of having Leydig cell hypoplasia or aplasia.
+Congenital adrenal hyperplasia. CAH due to lipoid adrenal 
+hyperplasia: This is the most severe form of congenital adrenal 
+hyperplasia, and it derives its name from the appearance of the 
+enlarged adrenal glands resulting from accumulation of cholesterol 
+and cholesterol esters. The rate-­limiting process in steroidogenesis 
+is the transport of free cholesterol through the cytosol to the inner 
+mitochondrial membrane, where the P450 side-­chain cleavage enzyme 
+(CYP11A1) acts. Cholesterol transport into mitochondria is mediated 
+by the steroidogenic acute regulatory protein (StAR) (see Fig. 26.5). 
+Most patients with lipoid CAH have genetic variants of StAR. A 
+minority have variants in CYP11A1.
+All serum steroid levels are low or undetectable, and ACTH and 
+PRA levels are very elevated. The phenotype is female in both genetic 
+females and males. Genetic males have no müllerian structures because 
+the testes can produce normal AMH but no steroid hormones. These 
+children present with acute adrenal crisis and salt wasting in infancy. 
+Most patients are 46,XY. In 46,XX patients with StAR defects, ovar­
+ian steroidogenesis can occur at puberty, as ovarian estrogen produc­
+tion does not require StAR. These 46,XX patients do not have DSD. 
+All patients have a lifelong requirement for glucocorticoid and min­
+eralocorticoid replacement therapy. Some patients will need estrogen 
+replacement therapy, such as all 46,XX individuals with CYP11A1 
+pathogenic variants, as well as all 46,XY lipoid CAH patients. Intraab­
+dominal testes should be removed due to the risk of future malignancy.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+446
+SECTION 5  Genitourinary Disorders
+CAH due to 3β-­hydroxysteroid dehydrogenase type II (HSD3B2) 
+deficiency. 46,XY infants with this form of CAH have various degrees 
+of hypospadias, with or without bifid scrotum and cryptorchidism and, 
+rarely, a complete female phenotype. Affected infants usually develop 
+salt-­losing manifestations shortly after birth due to an inability to syn­
+thesize biologically potent steroid hormones (see Fig. 26.5). Incom­
+plete defects, occasionally seen in infants without salt loss and in boys 
+with premature pubarche, as well as late-­onset nonclassic forms have 
+been reported, but these forms do not cause DSD. As described ear­
+lier, patients with HSD3B2 deficiency have pathogenic variants involv­
+ing the gene encoding type II 3β-­hydroxysteroid enzyme, resulting in 
+impairment of steroidogenesis in the adrenals and gonads. The impair­
+ment may be unequal between adrenals and gonads. Normal pubertal 
+changes in some boys could be explained by the normally present type 
+I 3β-­hydroxysteroid dehydrogenase present in many peripheral tissues. 
+Infertility is frequent. There is no correlation between degree of salt 
+wasting and degree of phenotypic abnormality. Replacement therapy 
+with adrenal steroids is required from infancy on, and with sex steroids 
+at puberty. In 46,XY patients with intraabdominal testes who are being 
+raised as females, gonadectomy is recommended.
+CAH due to deficiency of 17-­hydroxylase/17,20-­lyase. A single 
+enzyme (CYP17A1) encoded by a single gene has both 17-­hydroxylase 
+and 17,20-­lyase activities in adrenal and gonadal tissues (see Fig. 26.5). 
+Genetic males with CYP17A1 deficiency usually have a complete 
+female phenotype or, less often, various degrees of undervirilization, 
+from labioscrotal fusion to perineal hypospadias and cryptorchidism. 
+Pubertal development fails to occur in both genetic sexes.
+In the classic disorder, there is decreased synthesis of cortisol by 
+the adrenals and of sex steroids by the adrenals and gonads. Levels of 
+the mineralocorticoid DOC and corticosterone are markedly increased 
+and lead to the hypertension and hypokalemia characteristic of this 
+form of 46,XY DSD. Although levels of cortisol are low, the elevated 
+ACTH and corticosterone levels prevent symptomatic cortisol defi­
+ciency. The renin-­aldosterone axis is suppressed because of the strong 
+mineralocorticoid effect of elevated DOC. Virilization does not occur 
+at puberty; levels of testosterone are low, and those of gonadotropins 
+are increased. Because fetal production of AMH is normal, no mülle­
+rian duct remnants are present. In 46,XY phenotypic females, removal 
+of intraabdominal testes and replacement therapy with hydrocortisone 
+and estrogenic sex steroids are indicated.
+CYP17A1 deficiency has autosomal recessive inheritance. Affected 
+46,XX females are usually not detected until young adult life, when 
+they fail to experience normal pubertal changes and are found to have 
+hypertension and hypokalemia. This condition should be suspected in 
+patients presenting with primary amenorrhea and hypertension whose 
+chromosomal complement is either 46,XX or 46,XY.
+Deficiency of 17-­ketosteroid reductase. This enzyme, also called 
+17β-­hydroxysteroid dehydrogenase (17β-­HSD), catalyzes the final step 
+in testosterone biosynthesis. It is necessary to convert androstenedione 
+to testosterone and also DHEA to androstenediol, and estrone to 
+estradiol (see Fig. 26.5). Enzymatic defects in the fetal testis give rise 
+to males with complete or near-­complete female phenotype in 46,XY 
+patients. Müllerian ducts are absent, and a shallow vagina is present. 
+The diagnosis is based on the ratio of androstenedione to testosterone; 
+in prepubertal children a hCG stimulation test may be necessary to 
+make the diagnosis.
+The inheritance is autosomal recessive. At least four different types 
+of 17β-­HSD are recognized, each encoded by different genes on dif­
+ferent chromosomes. Type III (HSD17B3) is the enzyme defect that 
+is especially common in a highly inbred Arab population in Gaza. 
+The gene for the disorder is expressed only in the testes, where it con­
+verts androstenedione to testosterone. Most patients are diagnosed at 
+puberty because of virilization and the failure to menstruate. Testos­
+terone levels at puberty may approach normal, presumably as a result 
+of peripheral conversion of androstenedione to testosterone. Some 
+patients spontaneously adopt a male gender role at puberty.
+Type I 17β-­HSD converts estrone to estradiol and is found in the 
+placenta, ovary, testis, liver, prostate, adipose tissue, and endometrium. 
+Type II, whose gene is on chromosome 16q24, reverses the reactions of 
+types I and III (convert testosterone to androstenedione and estrone to 
+estradiol, respectively). Type IV is similar in action to type II. A late-­
+onset form of 17β-­HSD deficiency presents as gynecomastia in young 
+adult males.
+Persistent müllerian duct syndrome. In this disorder, there is 
+persistence of müllerian duct derivatives in otherwise completely 
+virilized males. Cases have been reported in siblings and identical 
+twins. Cryptorchidism is present in 80% of affected males; during 
+surgery for this or inguinal hernia, the condition is uncovered when 
+a fallopian tube and uterus are found. The degree of müllerian 
+development is variable and may be asymmetric. Testicular function is 
+normal in most, but testicular degeneration has been reported. Some 
+affected males acquire testicular tumors after puberty. In a study of 38 
+families, 16 families had defects in the AMH gene. They had low blood 
+AMH levels. In 16 families with high AMH levels, the defect was in the 
+AMH type II receptor gene, with 10 of 16 having identical deletions.
+Treatment consists of removal of as many of the müllerian struc­
+tures as possible without causing damage to the testis, epididymis, or 
+vas deferens.
+Smith-­Lemli-­Opitz syndrome. Smith-­Lemli-­Opitz syndrome is 
+an autosomal recessive disorder caused by variants in the sterol 
+Δ7-­reductase gene. This prevents normal androgen synthesis. It 
+is characterized by prenatal and postnatal growth retardation, 
+microcephaly, ptosis, anteverted nares, broad alveolar ridges, 
+syndactyly of the second to third toes, and severe intellectual disability. 
+Its incidence is 1/20,000–1/60,000; 70% are male. 46,XY patients 
+usually have genital ambiguity or completely female external genitalia. 
+Müllerian duct derivatives are usually absent. Affected 46,XX patients 
+have normal genitalia. Patients with Smith-­Lemli-­Opitz syndrome may 
+also develop adrenal insufficiency due to inability to produce sufficient 
+steroid hormones.
+Defects in Androgen Action
+In the following group of disorders, fetal synthesis of testosterone is 
+normal and defective virilization results from inherited abnormalities 
+in androgen action.
+Dihydrotestosterone deficiency. Deficiency of steroid 5α-­
+reductase type II (SRD5A2): SRD5A2 deficiency prevents the 
+conversion of testosterone to DHT in androgen target tissues. Decreased 
+production of DHT in utero results in marked ambiguity of external 
+genitalia of affected 46,XY infants because of the absolute requirement 
+for DHT in completion of prenatal virilization. Biosynthesis and 
+peripheral actions of testosterone are normal.
+The phenotype commonly associated with this condition in boys 
+consists of a small phallus, bifid scrotum, urogenital sinus with per­
+ineal hypospadias, and blind vaginal pouch (Fig. 26.8). Testes are in 
+the inguinal canals or labioscrotal folds and are normal histologically. 
+There are no müllerian structures. Wolffian (mesonephric) structures 
+(i.e., the vas deferens, epididymis, and seminal vesicles) are present. 
+Most affected patients have been assigned the female sex of rearing. At 
+puberty, virilization occurs; the phallus enlarges, the testes descend and 
+grow normally, and spermatogenesis occurs, as DHT is not required 
+for normal virilization at puberty. There is no gynecomastia. Beard 
+growth is scanty, acne is absent, the prostate is small, and recession 
+of the temporal hairline fails to occur. The prenatal virilization of the 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+447
+CHAPTER 26  Disorders of Sex Development
+wolffian ducts is caused by the action of locally produced testosterone 
+itself, although masculinization of the urogenital sinus and external 
+genitals depends on the action of DHT during the critical period of 
+fetal masculinization. Growth of facial hair and of the prostate postna­
+tally also appears to be DHT dependent.
+Several different gene defects of SRD5A2 have been identified 
+in patients from throughout the world. Familial clusters have been 
+reported from the Dominican Republic, Turkey, Papua New Guinea, 
+Brazil, Mexico, and the Middle East. There is no reliable correlation 
+between genotype and phenotype.
+The disorder is inherited as an autosomal recessive trait but 
+expression is limited to males. Normal homozygous females with 
+normal fertility indicate that in females DHT has no significant role 
+in sex differentiation or in ovarian function later in life. The clinical 
+diagnosis should be made as early as possible in infancy. It is import­
+ant to distinguish this from partial androgen insensitivity syndrome 
+(PAIS), as patients with PAIS are far less sensitive to androgen treat­
+ment than are patients with SRD5A2 deficiency. The biochemical 
+diagnosis of SRD5A2 deficiency is based on finding normal serum 
+testosterone levels and normal or low DHT levels with markedly 
+increased basal and especially hCG-­stimulated testosterone:DHT 
+ratios (>17).
+It is important to note that most but not all children with SRD5A2 
+deficiency reared as females in childhood have changed to identify as 
+male around the time of puberty. It appears that exposures to testos­
+terone in utero, early postnatally, and at puberty have variable con­
+tributions to the formation of their male gender identity. Much more 
+needs to be learned about the influences of hormones such as andro­
+gens as well as the influences of cultural, social, psychologic, genetic, 
+and other biologic factors in gender identity and behavior. Infants with 
+this condition should be reared as boys whenever practical. Treatment 
+of male infants with DHT results in phallic enlargement. DHT is not 
+commercially available in the United States but can be obtained from 
+European suppliers.
+Deficiency of 3α-­reductase (AKRC): Another cause of DHT defi­
+ciency is a block in an alternative pathway of DHT synthesis (see Fig. 
+26.5). Patients previously thought to have 46,XY DSD due to isolated 
+deficiency of the 17,20-­lyase activity of CYP17A1 have subsequently 
+been characterized as having variants in the AKR1C2 gene (3α-­
+reductase type III) or both the AKR1C2 and AKR1C4 (3α-­reductase 
+type IV) genes. These findings show that both the classical and alterna­
+tive pathways to DHT production must be intact for normal prenatal 
+virilization.
+Androgen receptor defects: androgen insensitivity syndromes. 
+The AISs are the most common forms of 46,XY DSD, occurring 
+with an estimated frequency of 1/20,000 genetic males. This group of 
+heterogeneous X-­linked recessive disorders can result from 1 of more 
+than 150 different variants described in the androgen receptor gene, 
+located on Xq11-­12: single point variants resulting in amino acid 
+substitutions or premature stop codons, frameshift and premature 
+terminations, gene deletions, and splice site variants. Post-­receptor 
+defects have also been described.
+The clinical spectrum seen in patients with AIS, all of whom have 
+a 46,XY chromosomal complement, range from phenotypic females 
+(complete AIS or CAIS) to males with various forms of atypical geni­
+talia and undervirilization (partial AIS or PAIS, as well as clinical syn­
+dromes such as Reifenstein syndrome) (Fig. 26.9) to phenotypically 
+normal-­appearing males with infertility. In addition to normal 46,XY 
+chromosomes, the presence of testes and normal or elevated testoster­
+one and LH levels are common to all such patients.
+In CAIS, an extreme form of failure of virilization, genetic males 
+appear female at birth and are invariably reared accordingly as their 
+condition often goes undetected until childhood or adolescence. The 
+external genitalia are female. The vagina ends blindly in a pouch, and 
+the uterus is absent due to the normal production and effect of AMH 
+by the testes. In about one third of patients, unilateral or bilateral fal­
+lopian tube remnants are found. The testes are usually intraabdominal 
+but may descend into the inguinal canal; they consist largely of semi­
+niferous tubules. At puberty, there is normal development of breasts, 
+Fig. 26.8  5α-­Reductase deficiency. (From Wales JKH, Wit JM, Rogol 
+AD. Pediatric Endocrinology and Growth. 2nd ed. Philadelphia: Elsevier; 
+2003:165.)
+A
+B
+Fig. 26.9  A, Partial androgen insensitivity with descended testes in 
+bifid labioscrotal folds. B, Less severe partial androgen insensitivity with 
+severe hypospadias and maldescent of testes. (From Wales JKH, Wit 
+JM, Rogol AD. Pediatric Endocrinology and Growth. 2nd ed. Philadel­
+phia: Elsevier; 2003:165.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+448
+SECTION 5  Genitourinary Disorders
+and the habitus is female, but menstruation does not occur and sex­
+ual hair is absent. Adult heights of these women are commensurate 
+with those of normal males despite profound congenital deficiency of 
+androgenic effects.
+The testes of affected adult patients produce normal to elevated 
+male levels of testosterone that are converted to normal levels of DHT. 
+Failure of normal male external genitalia differentiation during fetal 
+life reflects a defective response to androgens including DHT starting 
+very early in gestation.
+Prepubertal females with this disorder are often detected when 
+inguinal masses prove to be testes or when a testis is unexpectedly 
+found during inguinal herniorrhaphy. About 1–2% of females with an 
+inguinal hernia prove to have this disorder. In infants, elevated LH lev­
+els should suggest the diagnosis. In older girls and adults, amenorrhea 
+is the usual presenting symptom. In prepubertal children, the condi­
+tion must be differentiated from other types of 46,XY undervirilized 
+males in which there is complete feminization. These include 46,XY 
+gonadal dysgenesis (Swyer syndrome), true agonadism, Leydig cell 
+aplasia including LH receptor defects, and 17-­ketosteroid reductase 
+deficiency; all these conditions, unlike complete AIS, are character­
+ized by low levels of testosterone as neonates and during adult life and 
+by failure to respond to hCG during the prepubertal years. Although 
+patients with complete AIS have unambiguously female external gen­
+itals at birth, those with partial AIS have a wide variety of phenotypic 
+presentations ranging from perineoscrotal hypospadias, bifid scro­
+tum, and cryptorchidism to extreme undervirilization appearing as 
+clitoromegaly and labial fusion. Some forms of partial AIS have been 
+known as specific syndromes. Patients with Reifenstein syndrome have 
+incomplete virilization characterized by hypogonadism, severe hypo­
+spadias, and gynecomastia (Fig. 26.10). Gilbert-­Dreyfus and Lubs are 
+additional syndromes classified as partial AIS. In all cases, abnormal­
+ities in the androgen receptor gene or post-­receptor defects have been 
+identified.
+The diagnosis of patients with partial AIS may be particularly 
+difficult in infancy. The postnatal surge in testosterone and LH is 
+diminished in those with CAIS but not in those with PAIS. In some, 
+especially those sufficiently virilized in infancy, the diagnosis is not 
+suspected until puberty when there is inadequate virilization with 
+lack of facial hair or voice change and the appearance of unusually 
+prominent gynecomastia. Azoospermia and infertility are common. 
+Increasingly, androgen receptor defects are being recognized in adults 
+who have a small phallus and testes and infertility. A single amino acid 
+substitution in the androgen receptor was reported in a large Chinese 
+family in whom some affected members were fertile while others had 
+gynecomastia and/or hypospadias.
+In children or young women with CAIS, the historical recommen­
+dation has been that testes should be removed prior to adult life, or as 
+soon as they are discovered. In one third of patients, malignant tumors, 
+usually seminomas, develop by 50 years of age. Several teenage females 
+have acquired seminomas. Replacement therapy with estrogens is indi­
+cated at the age of puberty if the gonads were removed prior to this age. 
+Some patients prefer to retain their gonads until after puberty has com­
+pleted in order to mimic a more natural pubertal progression based on 
+their own body’s timing of gonadotropins.
+Normal breasts develop in affected girls who have not had their tes­
+tes removed by the age of puberty. In these individuals, production of 
+estradiol results from aromatase activity on testicular testosterone. The 
+absence of androgenic activity also contributes to the feminization of 
+these women.
+The psychosexual and surgical management of patients with PAIS is 
+extremely complex and depends in large part on the presenting pheno­
+type. Osteopenia is recognized as a late feature of AIS.
+Molecular analyses have suggested that phenotype may depend 
+in part on somatic mosaicism of the androgen receptor gene. This 
+was based on the case of a 46,XY patient who had a premature stop 
+codon in exon 1 of the androgen receptor gene but who also had evi­
+dence of virilization (pubic hair and clitoral enlargement) explained 
+by the discovery of the wild-­type alleles on careful examination of the 
+sequencing data. The presence of mosaicism shifts the phenotype to a 
+higher degree of virilization than expected from the genotype of the 
+mutant allele alone. Genetic counseling is thus challenging in families 
+with androgen receptor gene variants. In addition to lack of genotype-­
+phenotype correlations, there is a high rate (27%) of de novo patho­
+genic variants in families.
+The degree of sex hormone–binding globulin reduction after exoge­
+nous androgen administration (stanozolol) has been shown to correlate 
+with the severity of the receptor defect and may become a useful clinical 
+tool. Successful therapy with supplemental androgens has been reported 
+in patients with PAIS and various pathogenic variants of the androgen 
+receptor in the DNA-­binding domain and the ligand-­binding domain.
+Affected androgen receptors are also reported in patients with 
+spinal and bulbar muscular atrophy in whom clinical manifestations 
+including testicular atrophy, infertility, gynecomastia, and elevated 
+LH, FSH, and estradiol levels usually manifest between the 3rd and 5th 
+decades of life. Androgen receptor pathogenic variants have also been 
+described in patients with prostate cancer.
+Undetermined Causes of 46,XY Disorders of Sex Development
+Other 46,XY undervirilized males display great variability of the exter­
+nal and internal genitalia and various degrees of phallic and müllerian 
+Fig. 26.10  Partial androgen insensitivity syndrome at adolescence, 
+male sex of rearing. Note gynecomastia from peripheral aromatase con­
+version of testosterone to estradiol. Abundant pubic hair implies only 
+partial resistance. (From Wales JKH, Wit JM, Rogol AD. Pediatric Endo­
+crinology and Growth. 2nd ed. Philadelphia: Elsevier; 2003:165.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+449
+CHAPTER 26  Disorders of Sex Development
+development. Testes may be histologically normal or rudimentary, or 
+there may only be one testis. Other complex genetic syndromes, many 
+resulting from single-­gene variants, are associated with varying degrees 
+of ambiguity of the genitalia, particularly in the male. These entities 
+must be identified on the basis of the associated extragenital malfor­
+mations. Examples include bladder exstrophy and Eagle-­Barrett 
+syndrome (formerly known as prune-­belly syndrome). Another such 
+complex syndrome is termed ATRX or X-­linked α thalassemia with 
+intellectual disability and genital abnormalities.
+Ovotesticular Disorders of Sex Development
+In ovotesticular DSD, both ovarian and testicular tissues are present, 
+either in the same or in opposite gonads. Affected patients have ambig­
+uous genitalia, varying from normal female with only slight enlarge­
+ment of the clitoris to almost normal male external genitalia.
+About 70% of all patients have a 46,XX karyotype. Ninety-­seven 
+percent of affected patients of African descent are 46,XX. Fewer than 
+10% of persons with ovotesticular DSD are 46,XY. About 20% have 
+46,XX/46,XY mosaicism. Half of these are derived from more than 
+one zygote and are chimeras (chi 46,XX/46,XY). The presence of both 
+paternal and maternal alleles for some blood groups are demonstrated. 
+An ovotesticular DSD chimera, 46,XX/46,XY, was reported as resulting 
+from embryo amalgamation after in vitro fertilization. Each embryo 
+was derived from an independent, separately fertilized ovum.
+Examination of 46,XX ovotesticular DSD patients with Y-­specific 
+probes has detected fewer than 10% with a portion of the Y chromo­
+some including the SRY gene. Ovotesticular DSD is usually sporadic, 
+but a number of siblings have been reported. The cause of most cases of 
+ovotesticular DSD is unknown.
+The most frequently encountered gonad in ovotesticular DSD is 
+an ovotestis, which may be bilateral. If unilateral, the contralateral 
+gonad is usually an ovary but may be a testis. The ovarian tissue is often 
+normal, but the testicular tissue is usually dysgenic. The presence and 
+function of testicular tissue can be determined by measuring basal and 
+hCG-­stimulated testosterone levels as well as AMH levels. Patients who 
+are highly virilized and have had adequate testicular function with no 
+uterus are usually reared as males. If a uterus exists, virilization is often 
+mild and testicular function minimal; assignment of female sex may be 
+indicated. Selective removal of gonadal tissue inconsistent with sex of 
+rearing may be possible; however, it should be noted that microscopic 
+remnants of the undesired gonad may be present and become hormon­
+ally active during puberty. In a few families, 46,XY ovotesticular DSD 
+subjects and 46,XX males have been described in the same sibship.
+Defects in the ovarian developmental protein R-­spondin 1, encoded 
+by the RSPO1 gene, have also been described in 46,XX ovotesticular 
+DSD.
+Pregnancies with living offspring have been reported in 46,XX ovo­
+testicular DSD individuals reared as females, but very few males with 
+ovotesticular DSD have fathered children. About 5% of patients will 
+develop gonadoblastomas, dysgerminomas, or seminomas.
+Sex Chromosome Disorders of Sex Development
+Some ambiguity of the genitalia is associated with a wide variety of 
+chromosomal aberrations (see Table 26.2), which must always be 
+considered in the differential diagnosis, the most common being the 
+45,X/46,XY syndrome. It may be necessary to karyotype several tissues 
+to establish mosaicism. The phenotype in 45,X/46,XY individuals may 
+vary from completely female to completely male, and it is reported that 
+there are probably a large number of patients who are never detected 
+and are raised as normal males.
+Other conditions included in the broad category of sex chromo­
+some DSD include 45,X Turner syndrome and 47,XXY Klinefelter syn­
+drome, due to their associated gonadal failure. However, patients with 
+these conditions have normal external genitalia at birth.
+   	 R E D  F L A G S
+Danger signs include manifestations of adrenal insufficiency, in addi­
+tion to a male phenotype without a palpable testis in the scrotum, 
+hyperpigmentation (increased ACTH production), and hypertension. 
+Although normal at birth, male patients with CAH may experience an 
+adrenal crisis once circulating placental-­maternal steroid hormones 
+are catabolized and excreted. This phenomenon often occurs between 
+the 3rd and 10th days of life. The initial diagnosis in the male with salt-­
+losing CAH may be sepsis, pyloric stenosis, meningitis, or other more 
+common neonatal conditions.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+449.e1
+BIBLIOGRAPHY
+Allali S, Muller JB, Brauner R, et al. Mutation analysis of NR5A1 encoding ste­
+roidogenic factor 1 in 77 patients with 46,XY disorders of sex development 
+(DSD) including hypospadias. PLoS One. 2011;6:e24117.
+Bashamboo A, Donohoue PA, Vilain E, et al. A recurrent p.Arg92Trp variant 
+in steroidogenic factor-­1 (NR5A1) can act as a molecular switch in human 
+sex development. Hum Mol Genet. 2016;25:3446–3453.
+Baxter RM, Arboleda VA, Lee H, et al. Exome sequencing for the diag­
+nosis of 46,XY disorders of sex development. J Clin Endocrinol Metab. 
+2015;100:E333–E344.
+Bennecke E, Köhler B, Röhle R, et al. Disorders or differences of sex devel­
+opment? Views of affected individuals on DSD terminology. J Sex Res. 
+2020:1–10.
+Berenbaum SA, Bryk KK, Duck SC, et al. Psychological adjustment in children 
+and adults with congenital adrenal hyperplasia. J Pediatr. 2004;144:741–
+746.
+Biason-­Lauber A, Konrad D, Navratil F, et al. A WNT4 mutation associated 
+with Müllerian-­duct regression and virilization in a 46,XX woman. N Engl 
+J Med. 2005;351:792–798.
+Bilezikjian LM, Justice NJ, Blackler AN, et al. Cell-­type specific modulation 
+of pituitary cells by activin, inhibin and follistatin. Mol Cell Endocrinol. 
+2012;359:43–52.
+Bose HS, Pescovitz OH, Miller WL. Spontaneous feminization in a 46,XX 
+female patient with congenital lipoid adrenal hyperplasia due to a homo­
+zygous frameshift mutation in the steroidogenic acute regulatory protein. J 
+Clin Endocrinol Metab. 1997;82:1511–1515.
+Bose HS, Sugawara T, Strauss JF, et al. The pathophysiology and genetics of 
+congenital lipoid adrenal hyperplasia. NEJM. 1996;335:1870–1878.
+Bouvattier C, Carel JC, Lecointre C, et al. Postnatal changes of T, LH, and 
+FSH in 46,XY infants with mutations in the AR gene. J Pediatr Endocrinol 
+Metab. 2002;87:29–32.
+Brinkmann AO. Molecular basis of androgen insensitivity. Mol Cell Endocrinol. 
+2001;179:105–109.
+Canto P, Vilchis F, Chavez B, et al. Mutations of the 5α-­reductase type II gene 
+in eight Mexican patients from six different pedigrees with 5α-­reductase-­2 
+deficiency. Clin Endocrinol. 1997;46:155–160.
+Chu J, Zhang R, Zhao Z, et al. Male fertility is compatible with an Arg840 Cys 
+substitution in the AR in a large Chinese family affected with divergent 
+phenotypes of AR insensitivity syndrome. J Clin Endocrinol Metab. 
+2002;87:347–351.
+Clarkson MJ, Harley VR. Sex with two SOX on: SRY and SOX9 in testis devel­
+opment. Trends Endocrinol Metab. 2003;13:106.
+Damiani D, Fellous M, McElreavey K, et al. True hermaphroditism: clinical 
+aspects and molecular studies in 16 cases. Eur J Endocrinol. 1997;136:201–
+204.
+Eggers S, Sinclair A. Mammalian sex determination—insights from humans 
+and mice. Chromosome Res. 2012;20:215–238.
+El-­Khairi R, Achermann JC. Steroidogenic factor-­1 and human disease. Semin 
+Reprod Med. 2012;30:374–381.
+Fagerholm R, Santtila P, Miettinen PJ, et al. Sexual function and attitudes 
+toward surgery after feminizing genitoplasty. J Urol. 2011;185:1900–1904.
+Fluck CE, Meyer-­Boni M, Pandley AV, et al. Why boys will be boys: two path­
+ways of fetal testicular androgen biosynthesis are needed for male sexual 
+differentiation. Am J Hum Genet. 2011;89:201–218.
+Gul D. Third case of WAGR syndrome with severe obesity and consti­
+tutional deletion of chromosome (11)(p12p14). Am J Med Genet. 
+2002;107:70–71.
+Habert R, Lejeune H, Saez J. Origin, differentiation and regulation of fetal and 
+adult Leydig cells. Mol Cell Endocrinol. 2001;179:47–74.
+Harrington J, Palmert MR. Distinguishing constitutional delay of growth and 
+puberty from isolated hypogonadotropic hypogonadism: critical apprais­
+al of available diagnostic tests. J Clin Endocrinol Metab. 2012;97:3056–
+3067.
+Hochberg Z, Chayen R, Reiss N, et al. Clinical, biochemical and genetic find­
+ings in a large pedigree of male and female patients with 5α-­reductase 2 
+deficiency. J Clin Endocrinol Metab. 1996;81:2821–2827.
+Hughes IA, Davies JD, Bunch TI, et al. Androgen insensitivity syndrome. 
+Lancet. 2012;380:1419–1428.
+Imbeaud S, Belville C, Messika-­Zeitoun L, et al. A 27 base-­pair deletion of 
+the anti-­mullerian type 1 receptor gene is the most common cause of 
+the persistent mullerian duct syndrome. Hum Mol Genet. 1996;5:1269–
+1277.
+Kim MS, Donohoue PA. Adrenal disorders. In: Kappy MS, Allen DB, Geffner 
+ME, eds. Pediatric Practice Endocrinology. 3rd ed. New York: McGraw-­Hill; 
+2020.
+Kremer H, Karaaij R, Toledo SPA, et al. Male pseudohermaphroditism due to a 
+homozygous missense mutation of the luteinizing hormone receptor gene. 
+Nat Genet. 1995;9:160–164.
+Krob G, Braun A, Kuhnle U. True hermaphroditism: Geographical distribu­
+tion, clinical findings, chromosomes and gonadal histology. Eur J Pediatr. 
+1994;153:2–10.
+Lee PA, Nordenstrom A, Houk C, et al. Global disorders of sex development 
+update since 2006: perceptions, approach and care. Horm Res Paediatr. 
+2016;85:158–180.
+Lee PA, Witchel SF. Genital surgery among females with congenital adrenal 
+hyperplasia: changes over the past five decades. J Pediatr Endocrinol Metab. 
+2002;15:1473–1477.
+Looijenga LHJ, Hersmus R, LeLeeuw BH, et al. Gonadal tumours and DSD. 
+Best Pract Res Clin Endocrinol Metab. 2010;24:291–310.
+McPherson EW, Clemens MM, Gibbons RJ, et al. X-­linked α-­thalassemia/
+mental retardation (ATR-­X) syndrome: a new kindred with severe 
+genital anomalies and mild hematologic expression. Am J Med Genet. 
+1995;55:302–306.
+Mebarki F, Sanchez R, Rheaumes E, et al. Non-­salt-­losing male pseudoher­
+maphroditism due to the novel homozygous N100S mutation in the 
+type II 3 β-­hydroxysteroid dehydrogenase gene. J Clin Endocrinol Metab. 
+1995;80:2127–2134.
+Meier M, Moller G, Adamski J. Perspectives in understanding the role of 17β-­
+hydroxysteroid dehydrogenases in health and disease. Ann N Y Acad Sci. 
+2009;1155:15–24.
+Mendonca BB, Inacio M, Costa EMF, et al. Male pseudohermaphrodit­
+ism due to steroid 5α-­reductase 2 deficiency. Medicine (Baltimore). 
+1996;75:64–76.
+Mendonca BB, Leite MV, DeCastro M, et al. Female pseudohermaphroditism 
+caused by a novel homozygous mutation of the GR gene. J Clin Endocrinol 
+Metab. 2002;87:1805–1809.
+Miller WL. P450 oxidoreductase deficiency: a new disorder of steroidogen­
+esis with multiple clinical manifestations. Trends Endocrinol Metab. 
+2004;15:311–315.
+Moisan AM, Ricketts ML, Tardy V, et al. New insight into the molecular basis 
+of 3β-­hydroxysteroid dehydrogenase deficiency: identification of eight mu­
+tations in the HSD3 gene in eleven patients from seven new families and 
+comparison of the functional properties of twenty-­five mutant enzymes. J 
+Clin Endocrinol Metab. 1999;84:4410–4425.
+Mullis PE, Yoshimura N, Kuhlmann B, et al. Aromatase deficiency in a female 
+who is compound heterozygote for two new point mutations in the 
+P450arom gene: impact of estrogens on hypergonadotropic hypogonadism, 
+multicystic ovaries, and bone densitometry in childhood. J Clin Endocrinol 
+Metab. 1997;82:1739–1745.
+Ogilvy-­Stuart AL, Brain CE. Early assessment of ambiguous genitalia. Arch Dis 
+Child. 2004;89:401–407.
+Parisi MA, Ramsdell LA, Burns MW, et al. A gender assessment team: experi­
+ence with 250 patients over a period of 25 years. Genet Med. 2007;9:348–
+357.
+Parma P, Radi O, Vidal V, et al. R-­spondin-­1 is essential in sex determi­
+nation, skin differentiation and malignancy. Nat Genet. 2006;38:1304–
+1309.
+Piferrer F. Epigenetics of sex determination and gonadogenesis. Dev Dyn. 
+2013;242:360–370.
+Rajpert-­De Meyts E. Expression of anti-­müllerian hormone during normal 
+and pathological gonadal development: association with differentiation 
+of Sertoli and granulosa cells. J Clin Endocrinol Metab. 1999;84:3836–
+3844.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+References
+449.e2
+Royer-­Pekora B, Beier M, Henzler M, et al. Twenty-­four new cases of WT1 
+germline mutations and review of the literature: genotype/phenotype cor­
+relations for Wilms tumor development. Am J Med Genet. 2004;127A:249–
+257.
+Simard J, Sanchez R, Durocher F, et al. Structure-­function relationships and 
+molecular genetics of the 3 beta-­hydroxysteroid dehydrogenase family. J 
+Steroid Biochem Mol Biol. 1995;55:489–505.
+Sinclair AH, Berta P, Palmer MS, et al. A gene from the human sex-­
+determining region encodes a protein with homology to a conserved DNA-­
+binding motif. Nature. 1990;346:240–244.
+Smith EP, Boyd J, Frank GR, et al. Estrogen resistance caused by a mutation in 
+the estrogen-­receptor gene in a man. NEJM. 1994;331:1056–1061.
+Stenvers KL, Findlay JK. Inhibins: from reproductive hormones to tumor 
+suppressors. Trends Endocrinol Metab. 2010;21:174–180.
+Sun SS, Schubert CM, Chumlea WC, et al. National estimates of the timing of 
+sexual maturation and racial differences among US children. Pediatrics. 
+2002;110:911–919.
+Tajima T, Fujieda K, Kouda N, et al. Heterozygous mutation in the cholesterol 
+side chain cleavage enzyme (P450scc) gene in a patient with 46,XY sex rever­
+sal and adrenal insufficiency. J Clin Endocrinol Metab. 2001;86:3820–3825.
+Teixeira J, Maheswaran S, Donahue PK. Müllerian inhibiting substance: an 
+instructive development hormone with diagnostic and possible therapeutic 
+applications. Endocr Rev. 2001;22:657–674.
+Tsai CL, Tsai CN, Lee YS, et al. Analysis of a Taiwanese family identifies 
+a DMRT3-­OAS3 interaction that is involved in human sexual dif­
+ferentiation through the regulation of ESR1 expression. Fertil Steril. 
+2020;114:133–143.
+Wallien MS, Cohen-­Kettenis PT. Psychosexual outcome of gender-­dysphoric 
+children. J Am Acad Child Adolesc Psychiatry. 2008;47:1413–1423.
+White PC, Speiser PW. Congenital adrenal hyperplasia due to 21-­hydroxylase 
+deficiency. Endocr Rev. 2000;21:245–291.
+Winter JSD, Hughes IA, Reyes FL, et al. Pituitary-­gonadal relations in infancy: 
+2. Patterns of serum gonadal steroid concentrations in man from birth to 2 
+years of age. J Clin Endocrinol Metab. 1976;42:679.
+Wisniewski AB, Migeon CJ, Meyer-­Bahlburg HF, et al. Androgen insensitivity 
+syndrome: long-­term medical, surgical and psychosexual outcome. J Clin 
+Endocrinol Metab. 2000;85:2664–2669.
+Yanase T, Simpson ER, Waterman MR. 17-­Alpha-­hydroxylase/17,20-­lyase 
+deficiency: from clinical investigation to molecular definition. Endocr Rev. 
+1991;12:91–108.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

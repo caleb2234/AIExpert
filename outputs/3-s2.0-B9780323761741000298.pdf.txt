@@ -1,0 +1,1892 @@
+482
+With advancing genomic technology, disorders previously identified 
+to be unique phenotypes are now recognized as sharing common 
+pathways or developmental mechanisms. The clinical diagnostic 
+paradigm is evolving to a “genomic” first approach and is less reli­
+ant on the detailed phenotype to select single-­gene tests to reach a 
+diagnosis. Technology has also introduced machine learning in the 
+form of facial recognition linked to diagnostic databases to facilitate 
+syndromic diagnosis. Dysmorphology is not losing its relevance. 
+It remains a key component of an evaluation to identify and char­
+acterize the dysmorphic phenotype, which can help to inform or 
+interpret the outcome of genomic testing and resolve indeterminate 
+variants.
+Dysmorphology evolved as a subset of clinical genetics that 
+focused on standardizing the descriptive terminology used to define 
+deviations from normal structural development in the context of syn­
+dromic disorders. These traits were termed birth defects and result 
+from malformations, deformations, or disruptions, which generally 
+have a significant and obvious effect on appearance (Table 29.1 and 
+Fig. 29.1). The incidence of congenital birth anomalies is common, 
+with estimates that up to 15% of newborns have one minor anomaly. 
+If more than one anomaly is present, the likelihood of an underlying 
+major malformation is up to fivefold that of the general population. If 
+there are three or more minor anomalies, the risk of a major anomaly 
+is 20–30%. A careful and detailed evaluation is thus necessary if mul­
+tiple minor anomalies are present. Minor anomalies are typically not 
+of medical importance and are more of a cosmetic nature; a common 
+example would be an accessory nipple. Additional examples are pro­
+vided in Table 29.2; major malformations, conversely, are of clinical 
+importance and more frequently impact the health care management 
+of an affected individual (Table 29.3). To identify the abnormal state, 
+one has to be familiar with normal developmental stages, the timing 
+of specific organ development, and developmental vulnerable periods 
+(Fig. 29.2). The dysmorphic physical examination is directed to over­
+come some of the clinical challenges of identifying and describing 
+birth defects by providing a framework in which to differentiate nor­
+mal human variable morphology from the abnormal in the context of 
+a specific diagnosis.
+An international initiative to standardize the nosology used in 
+clinical dysmorphology has been adapted to the Internet as an online 
+resource supported by the National Human Genome Research Insti­
+tute (NHGRI): https://elementsofmorphology.nih.gov/. These terms 
+in themselves are of no clinical utility (aside from communicating the 
+appropriate malformation to other providers) but, when used with 
+available database tools, can be a powerful adjunct to determining the 
+final diagnosis. Examples of these terms are noted in Table 29.4. The 
+importance of reaching a diagnosis is to provide insight into the nature 
+of the condition, enable appropriate counseling of recurrence risk, 
+guide the necessary management recommendations, and provide the 
+family with an overall framework of the natural history and prognosis 
+of the disorder.
+DIAGNOSTIC APPROACHES
+Often the geneticist-­dysmorphologist is asked to view a child with the 
+expectation that the total picture will lead to an instant identification 
+of a syndrome or condition. Instant identification happens more fre­
+quently with the common or better-­known conditions, but most often, 
+making a diagnosis is more challenging with complex disorders. The 
+diagnostic process frequently relies on additional technologic tools in 
+combination with review of literature.
+Human Variation
+Human variation is the norm. A common-­sense argument can be 
+made for variation by pointing out the ability of people to recog­
+nize and differentiate thousands of individuals whom they have 
+met; computer programs for facial recognition are based on this 
+premise. Nonetheless, humans differ little from one another at their 
+DNA level; variation is currently estimated at approximately 0.1% 
+or 1 base of DNA/1,000 bases, which equates to roughly 6 coding 
+variants/gene.
+The advent of molecular and biochemical diagnostic methods for 
+identifying genes and gene products has begun to ease the burden 
+on the geneticist by providing diagnostic and confirmatory tests for 
+syndrome identification. Sequencing of the Human Genome clar­
+ified many prior preconceived notions regarding human genetics. 
+Prior to the completion of the project, it was estimated that humans 
+had approximately 100,000 genes, whereas this number is closer to 
+23,000 genes. Of these genes, less than half have been associated with 
+human disease and many have no clear function assigned to them at 
+this time. This gene coding portion of the genome only accounts for 
+approximately 1% of the total genomic code, which consists of roughly 
+3 billion nucleotides. DNA analysis when available may provide the 
+genotype and confirm the diagnosis, but it cannot unerringly define 
+the phenotype.
+There is still much to learn about our genetic code and how genes 
+are expressed and regulated; even if we could perform genomic 
+sequencing on every patient, there would be a number of patients in 
+whom the molecular diagnosis remained elusive. One meta-­analysis 
+of the outcomes of genomic sequencing applied to children presenting 
+with both syndromic and nonsyndromic intellectual disability sup­
+ported a mean diagnostic rate of 36% with the range extending from 
+15% through 80%.
+There are common genetic pathways that relate genes within 
+a pathway to common groups of disorders. This has provided an 
+Dysmorphology
+Donald Basel
+29
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+483
+CHAPTER 29  Dysmorphology
+explanation to clinicians why seemingly disparate disorders share 
+certain disease associations but remain clinically distinct. An exam­
+ple of this is the RASopathies (Fig. 29.3), in which germline patho­
+genic variants in KRAS can result in the classic Noonan phenotype 
+or cardiofaciocutaneous syndrome. There is genetic heterogeneity 
+in this group of disorders that share several overlapping features. 
+In addition, somatic mosaicism for genes in this pathway has been 
+identified to cause several capillary/vascular malformation disor­
+ders and KRAS is a frequently identified somatic variant in cancer/
+tumor tissue. Another example is the allelic disorders involving the 
+TRPV4 gene, which include brachyolmia type 3, digital arthropa­
+thy–brachydactyly, hereditary motor and sensory neuropathy type 
+IIc, metatropic dysplasia, parastremmatic dwarfism, scapulopero­
+neal spinal muscular atrophy, spondyloepiphyseal dysplasia Maro­
+teaux type, spinal muscular atrophy, and spondylometaphyseal 
+dysplasia Kozlowski type. The wide phenotypic variability ranging 
+from primary skeletal dysplasias to isolated neuromuscular disease 
+speaks to the complexities of gene regulation and tissue-­specific 
+expression. Another example is seen in the sonic hedgehog pathway 
+(Fig. 29.4).
+In addition to the primary gene code, there are tertiary elements 
+that can be imprinted, in which gene expression is controlled by parent 
+of origin, or can even be affected by the environment, the concept of 
+epigenetic control. Further variability exists in genomic copy num­
+ber variations, some of which are considered normal variants, while 
+others result in recognizable microdeletion or microduplication dis­
+orders such as velocardiofacial syndrome (VCFS) and Smith–Magenis 
+syndrome.
+Not all congenital malformations or birth defects are primarily 
+genetic. Teratogenic exposure, vascular events, and extrinsic factors, 
+TABLE 29.1  Mechanisms, Terminology, and Definition of Dysmorphology
+Terminology
+Definition
+Example
+Malformation sequence
+Single, local tissue morphogenesis abnormality that 
+produces a chain of subsequent defects
+DiGeorge sequence of primary 4th brachial arch and 3rd and 4th pharyn­
+geal pouch defects that lead to aplasia or hypoplasia of the thymus and 
+parathyroid glands, aortic arch anomalies, and micrognathia
+Deformation sequence
+Mechanical (uterine) forces that alter structure of intrin­
+sically normal tissue
+Oligohydramnios produces deformations by in utero compression of limbs 
+(dislocated hips, equinovarus foot deformity), crumpled ears, dislocated 
+nose, or small thorax
+Disruption sequence
+In utero tissue destruction after a period of normal 
+morphogenesis
+Amnionic membrane rupture sequence, leading to amputation of fingers/
+toes, tissue fibrosis, and destructive tissue bands
+Dysplasia sequence
+Poor organization of cells into tissues or organs
+Neurocutaneous melanosis sequence with poor migration of melanocyte 
+precursor cells from the neural crest to the periphery, manifesting as 
+melanocytic hamartomas of skin, meninges, and so forth
+Malformation syndrome
+Appearance of multiple malformations in unrelated 
+tissues without an understandable unifying cause; 
+with enhanced genetic investigation, a single etiology 
+may become identified
+Trisomy 21
+Teratogens
+Nature of Problem
+Deformation
+(mechanical)
+Malformation
+(poor formation)
+Deformation,
+deformation
+sequence
+Single
+localized
+defects
+Multiple
+localized
+defects
+Malformation
+syndrome
+Malformation,
+malformation
+sequence
+Malformation
+association
+?
+Disruption,
+disruption
+sequence
+Disruption
+(destructive)
+Dysplasia
+(deregulation)
+Dysplasia,
+dysplasia
+sequence
+Fig. 29.1  Most patients with multiple structural defects will fall into one of these categories (e.g., malforma­
+tion, deformation, disruption, or dysplasia). The prognosis, management, and recurrence-­risk counseling may 
+vary considerably among these categories. (From Jones KL, Jones MC, Del Campo M, eds. Smith’s Recog­
+nizable Patterns of Human Malformation. 7th ed. Philadelphia: Elsevier; 2013:3.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+484
+SECTION 6  Developmental and Psychiatric Disorders
+such as amniotic bands, all have the potential to result in deviations 
+from normal morphologic development (Fig. 29.5).
+TERATOLOGY
+Teratogens are agents that affect normal development and can 
+give rise to congenital anomalies. It is not uncommon for the par­
+ents of a child born with birth defects to attribute the cause to 
+themselves, looking for answers in events preceding or during the 
+pregnancy. They frequently question benign infections and rou­
+tine medication; it is important to address these concerns because 
+guilt can impair the critical bonding between parent and child. 
+Teratogens are usually considered chemical agents, such as tha­
+lidomide or alcohol. However, perinatal infections with cytomeg­
+alovirus would fall into this broad category, as would significant 
+radiation exposure. The minority of fetuses exposed to potential 
+teratogens show effects, even if exposed at the same time with 
+the same dose of the agent (e.g., alcohol, 30%; thalidomide, 20%; 
+hydantoins, 10%; warfarin, 8%; lithium, 7%; and diazepam, 1%). 
+The exact determinants why some fetuses are affected are poorly 
+understood. It is estimated that approximately 10% of birth defects 
+are caused by recognizable teratogens and up to 40% remain with­
+out an identifiable cause.
+Embryologic timing is one of the critical elements that define the 
+final outcome. There are broadly three periods identified in fetal devel­
+opment (see Fig. 29.2):
+Implantation: Period of fertilization through gastrulation and forma­
+tion of the embryonic plate (first 2 weeks after fertilization). Signifi­
+cant interference with development during this time usually results 
+in loss of conceptus.
+Embryonic: This is the period of primary tissue differentiation, and 
+thus, the period at greatest risk for major malformations (weeks 
+3–8).
+Fetal: At this time, primary organogenesis is complete, but growth and 
+neuronal migration proceed. The central nervous system (CNS) is 
+at risk and many of the minor birth defects arise during this time (9 
+weeks through birth).
+Some teratogens may have delayed effects, and these do not result 
+in an overt congenital malformation; diethylstilbestrol (DES) expo­
+sure in a female fetus can predispose to vaginal clear cell carcinoma 
+in puberty.
+Embryogenesis
+The developmental timing of the event that results in the final phe­
+notype is one of the critical determinants of the phenotypic outcome. 
+The timing is important because multiple developmental processes are 
+occurring at the same time and thus a number of malformations pres­
+ent concomitantly as a result of interference with everything developing 
+at the same embryonic time; radial ray defects may be seen with cardiac 
+septal defects as in Holt–Oram syndrome. The common embryologic 
+origin of various elements can give rise to overlapping disorders with 
+TABLE 29.2  Minor Anomalies and 
+Phenotype Variants
+Craniofacial
+ • Large fontanel
+ • Flat or low nasal bridge
+ • Saddle nose, upturned nose
+ • Micrognathia
+ • Cutis aplasia of scalp
+Eye
+ • Palpebral fissures
+ • Telecanthus
+ • Slanting of palpebral 
+fissures
+ • Hypertelorism
+ • Brushfield spots
+Ear
+ • Lack of helical fold
+ • Posteriorly rotated pinna
+ • Preauricular tags with or 
+without auricular skin tags
+ • Small pinna
+ • Auricular (preauricular) pit or 
+sinus
+ • Folding of helix
+ • Darwinian tubercle
+ • Crushed (crinkled) ear
+ • Asymmetric ear sizes
+ • Low-­set ears
+Skin
+ • Dimpling over bones
+ • Capillary hemangioma (face, 
+posterior neck)
+ • Dermal melanosis (African-­
+Americans, Asians)*
+ • Sacral dimple
+ • Pigmented nevi
+ • Redundant skin
+ • Cutis marmorata
+Hand
+ • Simian creases
+ • Bridged upper palmar creases
+ • Clinodactyly of 5th digit
+ • Hyperextensibility of thumbs
+ • Single flexion crease of 5th digit 
+(hypoplasia of middle phalanx)
+ • Partial cutaneous syndactyly
+ • Polydactyly
+ • Short, broad thumb
+ • Narrow, hyperconvex nails
+ • Hypoplastic nails
+ • Camptodactyly
+ • Shortened 4th digit
+Foot
+ • Partial syndactyly of 2nd and 3rd toes
+ • Asymmetric toe length
+ • Clinodactyly of 2nd toe
+ • Overlapping toes
+ • Nail hypoplasia
+ • Wide gap between hallux and 2nd toe
+ • Deep plantar crease between hallux 
+and 2nd toe
+Others
+ • Mild calcaneovalgus
+ • Hydrocele
+ • Shawl scrotum
+ • Hypospadias
+ • Hypoplasia of labia majora
+*Congenital dermal melanocytosis.
+TABLE 29.3  Major Anomalies
+Neurologic
+ • Severe hydrocephalus
+ • Lissencephaly
+ • Schizencephaly
+ • Megalencephaly
+ • Neural tube defect
+ • Spina bifida
+ • Meningomyelocele
+ • Encephalocele
+Cardiovascular
+ • Various congenital heart malfor­
+mations
+ • Cardiomyopathy
+ • Severe arrhythmia
+Genitourinary
+ • Ambiguous genitalia
+ • Kidney malformations
+ • Urachal defects
+Craniofacial
+ • Craniosynostosis
+ • Facial cleft
+ • Cleft lip and palate
+ • Structural eye defects
+ • Coloboma
+ • Aniridia
+ • Structural ear defects
+ • Microtia
+ • Aplasia of the auditory canal
+Limb
+ • Amelia
+ • Split hand/split foot malformation
+ • Significant syndactyly requiring 
+surgery
+Respiratory
+ • Congenital pulmonary airway 
+malformation (CPAM)
+ • Tracheoesophageal fistula
+Abdominal Wall
+ • Gastroschisis
+ • Omphalocele
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+485
+CHAPTER 29  Dysmorphology
+Main Embryonic Period (in weeks)
+Period of dividing 
+zygote, implantation, 
+and bilaminar embryo
+Not susceptible to
+teratogenesis
+Death of embryo and 
+spontaneous abortion common
+1
+2
+3
+4
+5
+6
+7
+8
+9
+16
+32
+38
+Fetal Period (in weeks)
+Neural tube defects (NTDs)
+Embryonic disc
+Embryonic disc
+Amnion
+Morula
+Blastocyst
+TA, ASD, and VSD
+Amelia/Meromelia
+Amelia/Meromelia
+Cleft lip
+Upper lip
+Low-set malformed ears and deafness
+Microphthalmia, cataracts, glaucoma
+Enamel hypoplasia and staining
+Cleft palate
+Palate
+Masculinization of female genitalia
+Major congenital anomalies
+Functional defects and minor anomalies
+External genitalia
+Teeth
+Eyes
+Ears
+Lower limb
+Upper limb
+Heart
+Intellectual disability
+CNS
+Common site(s) of action
+of teratogens
+Less sensitive period
+Highly sensitive period
+Fig. 29.2  Critical periods in human prenatal development. During the first 2 weeks of development, the embryo is usually not susceptible to teratogens; 
+a teratogen damages all or most of the cells, resulting in death of the embryo, or damages only a few cells, allowing the conceptus to recover and the 
+embryo to develop without birth defects. During highly sensitive periods (mauve), major birth defects may be produced (e.g., amelia, absence of limbs, 
+neural tube defects, spina bifida cystica). During stages that are less sensitive to teratogens (green), minor defects may be induced (e.g., hypoplastic 
+thumbs). ASD, atrial septal defect; CNS, central nervous system; TA, truncus arteriosus; VSD, ventricular septal defect. (From Moore KL, Persaud TVN, 
+et al. The Developing Human. 10th ed. Philadelphia: Elsevier; 2016.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+486
+SECTION 6  Developmental and Psychiatric Disorders
+shared elements: branchial arch developmental field defects in VCFS 
+or disorders caused by abnormal neural crest cell migration. Critical 
+embryologic events can give rise to disorders due to failure of a specific 
+embryologic process: Neural tube defects arise because of abnormal 
+neural tube fusion/closure.
+BIRTH DEFECTS
+It is estimated that approximately 15% of newborns have one minor 
+anomaly, 0.8% have two minor anomalies, and 0.5% have three. The 
+more minor anomalies that are present, the greater is the probability 
+that an underlying syndrome or a major organ anomaly is also present. 
+Statistically, this equates to a fivefold risk if two minor anomalies are 
+present and a 20–30% probability that there is a major anomaly (con­
+genital heart disease, renal, CNS, limb) if three minor anomalies are 
+present. Approximately 50% of major anomalies involve the head and 
+neck region. The Centers for Disease Control and Prevention statistics 
+for the United States assert that a baby is born with a birth defect every 
+4.5 minutes; in 2010, birth defects accounted for about one in five 
+infant deaths in the United States. Examples and potential etiologies 
+are noted in Table 29.5.
+Persons in the same family or ethnic group may superficially 
+resemble one another; any attempt at identifying a condition as an 
+abnormality should include inspection of close relatives. Unusual 
+morphologic findings in a child who resembles their parents does not 
+exclude a dysmorphic condition. The parents might have variation 
+in expression of the disorder, or there could be additional features 
+that are distinct that need to be separated from the common familial 
+morphology.
+CLINICAL CLASSIFICATION
+Single-­System Defects
+ • Most common of all birth defects
+ • Isolated to a single organ system
+ • Clinically similar to organ malformations seen in syndromes due to 
+common pathways and same-­organ end-­point
+ • Examples: isolated cleft lip/palate; congenital heart disease; distal 
+limb anomalies
+Association
+ • Statistically ascertained nonrandom co-­occurrences of multiple 
+anomalies in which a single underlying cause is not identifiable. 
+Usually, a diagnosis of exclusion
+ • Creates an awareness to evaluate for associated anomalies
+ • <1% risk for recurrence
+ • Example: VATER/VACTERL (vertebral, anal atresia, cardiac, tra­
+cheoesophageal fistula, renal anomalies, limb malformations—typ­
+ically radial ray) (Figs. 29.6 and 29.7)
+Sequence
+ • A cascade of effects from a single localized abnormality in early 
+morphogenesis that results in multiple congenital anomalies
+ • Example: Potter sequence secondary to renal agenesis and severe 
+oligohydramnios (Figs. 29.8 and 29.9)
+Syndrome
+ • The presence of multiple structural/functional defects due to a sin­
+gle cause
+ • Example: Down syndrome caused by trisomy for chromosome 
+21 (Fig. 29.10) or other trisomies (Fig. 29.11 and Tables 29.6, 29.7, 
+and 29.8)
+Complex
+ • Denotes a malformation arising from the effects of an event affect­
+ing a single developmental field in the embryo. Typically relates to 
+aberrant vasculature or vascular events
+ • Example: sacral agenesis, Poland anomaly
+DYSMORPHIC EVALUATION
+The first step toward a dysmorphic evaluation is an index of sus­
+picion. In a neonate with birth defects, this is often a logical step, 
+but in a child with failure to thrive or short stature, someone has 
+to initiate a more detailed evaluation for a syndromic entity, or it 
+will be delayed. It is not uncommon for a young female to be diag­
+nosed with monosomy X (Turner syndrome) when she fails to enter 
+puberty.
+TABLE 29.4  Glossary of Selected Terms 
+Used in Dysmorphology
+Terms Pertaining to the Face and Head
+Brachycephaly: A condition in which head shape is shortened from front to 
+back along the sagittal plane; the skull is rounder than normal
+Canthus: The lateral or medial angle of the eye formed by the junction of the 
+upper and lower lids
+Columella: The fleshy tissue of the nose that separates the nostrils
+Glabella: Bony midline prominence of the brows
+Nasal alae: The lateral flaring of the nostrils
+Nasolabial fold: Groove that extends from the margin of the nasal alae to the 
+lateral aspects of the lips
+Ocular hypertelorism: Increased distance between the pupils of the 
+2 eyes
+Palpebral fissure: The shape of the eyes based on the outline of the 
+eyelids
+Philtrum: The vertical groove in the midline of the face between the nose and 
+upper lip
+Plagiocephaly: A condition in which head shape is asymmetric in the sagittal 
+or coronal planes; can result from asymmetry in suture closure or from 
+asymmetry of brain growth
+Scaphocephaly: A condition in which the head is elongated from front to back 
+in the sagittal plane; most normal skulls are scaphocephalic
+Synophrys: Eyebrows that meet in the midline
+Telecanthus: A wide space between the medial canthi
+Terms Pertaining to the Extremities
+Brachydactyly: A condition of having short digits
+Camptodactyly: A condition in which a digit is bent or fixed in the direction of 
+flexion (a “trigger finger”–type appearance)
+Clinodactyly: A condition in which a digit is crooked and curves toward or 
+away from adjacent digits
+Hypoplastic nail: An unusually small nail on a digit
+-­melia: A suffix meaning “limb” (e.g., amelia—missing limb; brachymelia—
+short limb)
+Polydactyly: The condition of having 6 or more digits on an extremity
+Syndactyly: The condition of having 2 or more digits at least partially fused 
+(can involve any degree of fusion, from webbing of skin to full bony fusion 
+of adjacent digit)
+From Behrman RE, Kliegman RM. Nelson Essentials of Pediatrics. 4th 
+ed. Philadelphia: Saunders; 2002:149.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+487
+CHAPTER 29  Dysmorphology
+Components of Dysmorphic Evaluation
+Detailed History
+ • A family health history (three-­generation pedigree analysis) (Figs. 
+29.12 and 29.13) (about 5% of children have a biologic father who is 
+not the reported partner)
+ • Pregnancy history with detail to exposures (teratogens) and general 
+health (gestational diabetes)
+ • Birth history and neonatal status
+ • Participation in state newborn screening
+ • General growth and developmental history; regression is very 
+important to document
+ • Complete medical history, including details of the minutiae of 
+symptom presentation and progression
+Some sensitivity surrounding the history taking should be exercised 
+as it is common for a parent to perceive responsibility for the outcomes. 
+Most birth defects occur sporadically without a family history. Auto­
+somal recessive disorders typically happen in one or more siblings 
+without a family history; many autosomal dominant conditions occur 
+as new pathogenic variants. Sex-­linked conditions may have no prior 
+family occurrence or an occurrence identified in a remote relative such 
+as the maternal grandmother’s brother.
+Family health history. It is customary to start with the siblings of the 
+patient (the proband), proceed to the parents and the parents’ siblings 
+and their children, and then consider the four grandparents and their 
+siblings. This approach is more helpful than the generic question 
+“Does anyone in the family have anything like this?” Many parents 
+may be unaware of neonatal deaths in older relatives (the proband’s 
+grandparents or uncles and aunts). Most people are unfamiliar with 
+the term consanguinity, but the examiner can ask whether there are 
+ancestors in common or inquire about the place of origin and the 
+size of the community from which the families derive. Maiden names 
+of women should always be noted. Self-­identified, remote ancestry 
+may help identify a fruitful area to investigate because certain 
+conditions may be more common in certain ethnic population groups. 
+Consanguinity refers to couples who have ancestors in common within 
+two or three generations, whereas group identity is not consanguinity.
+Pregnancy and birth history. Maternal health and concurrent 
+illness with treatment is a critical part of the evaluation. Details of 
+participation in prenatal screening programs and prenatal evaluations 
+can help resolve uncertainties that arise during the evaluation. On 
+occasion, a discrepancy is discovered between an ultrasound report 
+and a neonatal clinical finding: for example, a “normal” cerebellum 
+reported at 17 weeks of gestation and absence of the cerebellum at 
+term. Before concluding that some process happened between 17 and 
+40 weeks of gestation, it is important to review the actual studies done 
+at 17 weeks. This type of investigation can help pinpoint the timing 
+of in utero problems or can eliminate erroneous hypotheses if the 
+Growth factor
+NRAS
+RTK
+p120GAP
+-GTP
+CS
+-GTP
+SHOC2
+Legius
+syndrome
+CFC
+SHC
+SHP2
+UB
+CBL
+PP1C
+SPRED1
+NF-1
+CM-AVM
+NS
+NSML
+Neurofibromin
+Numerous
+nuclear
+effectors
+Numerous
+cytosolic
+effectors
+CRAF
+BRAF
+MEK1
+MEK2
+ERK1
+ERK2
+RAS
+SOS1
+GRB2
+-GTP
+KRAS
+-GTP
+HRAS
+Cell membrane
+Fig. 29.3  The RAS/MAPK signal transduction pathway. The MAPK signaling pathway of protein kinases is 
+critically involved in cellular proliferation, differentiation, motility, apoptosis, and senescence. The RASopa­
+thies are medical genetic syndromes caused by pathogenic variants in genes that encode components or 
+regulators of the RAS/MAPK pathway (indicated by dashed lines). These disorders include neurofibromatosis 
+type 1 (NF1), Noonan syndrome (NS), Noonan syndrome with multiple lentigines (NSML), capillary malforma­
+tion–arteriovenous malformation syndrome (CM-­AVM), Costello syndrome (CS), cardiofaciocutaneous syn­
+drome (CFC), and Legius syndrome. RAS/MAPK, RAS protein family/mitogen-­activated protein kinase. (From 
+Rauen KA. The RASopathies. Annu Rev Genomics Hum Genet. 2013;14:355–369.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+SECTION 6  Developmental and Psychiatric Disorders
+488
+study of the fetus at 17 weeks was incomplete or inconclusive. Viral 
+and other infectious illnesses and rashes are germane to note, as are 
+times of exposure during the pregnancy. Parvovirus B19, rubella 
+virus, cytomegalovirus, Toxoplasma species, herpes simplex virus, 
+varicella virus, Zika virus, and Treponema pallidum (syphilis) are 
+microorganisms that can be teratogenic or affect organ function. 
+Fetal exposure to these organisms at a vulnerable time can be critical; 
+conversely, exposures after formation of an organ are not expected 
+to have a morphologic effect on the organ. Perinatal anoxia is often 
+blamed for infants’ problems, but infants with a syndrome or genetic 
+condition may be predisposed to perinatal problems, including fetal 
+distress or neonatal adaptive difficulties.
+Developmental history. A developmental history establishes the 
+pattern for acquisition of developmental milestones. A screening tool 
+such as the Denver Developmental Assessment Test can assist in the 
+evaluation of younger children. It is important to establish whether 
+Smith-Lemli-Opitz Syndrome
+• Microcephaly
+• Intellectual disability
+• Short, upturned nose
+• Hypospadias
+• Postaxial polydactyly
+Holoprosencephaly
+• Microcephaly
+• Intellectual disability
+• Failure of CNS
+lateralization
+• Hypotelorism
+Rubinstein-Taybi Syndrome
+• Microcephaly
+• Intellectual disability
+• Prominent beaked nose
+• Broad thumbs
+• Hirsutism
+Greig
+Cephalopolysyndactyly 
+Syndrome
+• Macrocephaly
+• Hypertelorism
+• Pre- and postaxial
+polydactyly
+Pallister-Hall
+Syndrome
+ • Hypothalamic
+hamartoma
+• Short, upturned
+nose
+• Central and
+postaxial
+polydactyly
+• Bifid epiglottis
+Gorlin Syndrome
+• Macrocephaly
+• Wide-set eyes
+• Basal cell 
+carcinoma
+• Rib anomalies
+Cholesterol
+GLI-1
+GLI-2
+GLI-3 • CBP
+GLI1
+PTC1
+HNF3
+N-SHH
+N-SHH•Chol
+Smoothened
+Twist
+Sonic Hedgehog
+Cleavage
+Holoprosencephaly
+Smith-Lemli-Opitz
+Gorlin Syndrome
+Greig Syndrome
+Pallister-Hall Syndrome
+Rubinstein-Taybi
+P
+at
+c
+h
+e
+d 
+1
+Fig. 29.4  Deleterious sequence variants in genes that function together in a developmental pathway typi­
+cally have overlapping clinical manifestations. Several components of the sonic hedgehog (SHH) pathway 
+have been identified and their relationships elucidated (see text for further details). Pathogenic variants in 
+several members of this pathway result in phenotypes with facial dysmorphism, as seen in holoprosen­
+cephaly, Smith-­Lemli-­Opitz syndrome, Gorlin syndrome, Greig cephalopolysyndactyly syndrome, Pallister-­Hall 
+syndrome, and Rubinstein-­Taybi syndrome. CNS, central nervous system. (From Kliegman RM, St. Geme JW 
+III, Blum NJ, et al, eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:989, Fig. 128.2.)
+Teratogen
+5%
+Chromosome
+imbalance
+25%
+Copy number
+variants
+10%
+Single-gene
+defects
+20%
+Multifactorial
+40%
+Fig. 29.5  Causes of congenital malformation. (From Nussbaum RL, 
+et al. Thompson and Thompson Genetics in Medicine. 8th ed. Philadel­
+phia: Elsevier; 2016.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+A
+B
+C
+5%
+3%
+3%
+7%
+7%
+10%
+36%
+27%
+T-E FISTULA
+VERTEBRAL
+DEFECTS
+IMPERFORATE
+ANUS
+RADIAL
+DYSPLASIA
+Fig. 29.6  VATER association as initially set forth. A, Young infant with vertebral anomalies, anal atresia, 
+esophageal atresia with tracheoesophageal fistula, radial aplasia on the left, and thumb hypoplasia on the 
+right. B, Relative frequencies of some of the other VATER association defects when the patient is ascertained 
+by virtue of having one of the defects. C, Same patient at 2 years of age, with normal intelligence. T-­E, tra­
+cheoesophageal. (From Jones KL, Jones MC, Del Campo M, eds. Smith’s Recognizable Patterns of Human 
+Malformation. 7th ed. Philadelphia: Elsevier; 2013:852.)
+TABLE 29.5  Causes of Congenital Malformations
+Monogenic (7.5% of Serious Anomalies)
+X-­linked hydrocephalus
+Achondroplasia
+Ectodermal dysplasia
+Apert disease
+Treacher Collins syndrome
+Chromosomal (6% of Serious Anomalies)
+Trisomies 21, 18, 13
+XO, XXY
+Deletions 4p–, 5p–, 7q–, 13q–, 18p–, 18q–, 22q–
+Prader–Willi syndrome (50% have partial deletion of chromosome 15)
+Maternal Infection (2% of Serious Anomalies)
+Intrauterine infections (e.g., herpes simplex, CMV, varicella-­zoster, rubella, 
+and toxoplasmosis)
+Zika virus
+Maternal Illness (3.5% of Serious Anomalies)
+Diabetes mellitus
+Phenylketonuria
+Hyperthermia
+Uterine Environment (% Unknown)
+Deformation
+Uterine pressure, oligohydramnios: clubfoot, torticollis, congenital hip 
+dislocation, pulmonary hypoplasia, 7th nerve palsy
+Disruption
+Amniotic bands, congenital amputations, gastroschisis, porencephaly, intestinal atresia
+Twinning
+Conjoined twins, intestinal atresia, porencephaly
+Environmental Agents (% Unknown)
+Polychlorinated biphenyls
+Herbicides
+Mercury
+Alcohol
+Medications (% Unknown)
+Thalidomide
+Diethylstilbestrol
+Phenytoin
+Warfarin
+Cytotoxic drugs
+Isotretinoin (vitamin A)
+d-­Penicillamine
+Valproic acid
+Unknown Etiologies
+Polygenetic
+Anencephaly/spina bifida
+Cleft lip/palate
+Pyloric stenosis
+Congenital heart disease
+Imprinting of Genes
+Prader–Willi syndrome
+Beckwith–Wiedemann syndrome
+Sporadic Syndrome Complexes (Anomalads)
+CHARGE syndrome
+VATER syndrome
+Pierre Robin syndrome
+Prune-­belly syndrome
+Nutritional
+Low folic acid–neural tube defects
+CHARGE, coloboma, heart defects, atresia choanae, retarded growth, genital anomalies, ear anomalies (deafness); CMV, cytomegalovirus; VATER, 
+vertebral defects, anal atresia, tracheoesophageal fistula with esophageal atresia, and radial and renal anomalies.
+From Behrman RE, Kliegman RM. Nelson Essentials of Pediatrics. 4th ed. Philadelphia: Saunders; 2002:148.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+SECTION 6  Developmental and Psychiatric Disorders
+490
+a child is making progress, remaining static, or showing signs of 
+developmental regression (see Chapter 28) by losing landmarks of 
+development. The last possibility is the most ominous for prognosis and 
+warrants aggressive evaluation for diagnosis and possible treatment.
+Prior medical concerns including all evaluations and investigations 
+to date should be reviewed. It is often necessary to delay the initial con­
+sult so that past medical records can be made available for thorough 
+review.
+Examination
+The details of morphology are documented in much more detail than 
+is ordinarily the case in a general physical examination. Diagnosis is 
+often based on the language used in the description. Even if a diagnosis 
+is not clear, the description is the starting point of the evaluation. It is 
+helpful to have an anatomic outline for assessing morphology in an 
+orderly and systematic manner.
+There are few opportunities to follow a predetermined flow for the 
+examination in most young children, but it is important to maintain a 
+level of structure to the data collection process so as not to overlook a 
+critical finding. It is also good practice to obtain photographs of the 
+face with frontal and side profiles for later reflection and utilization 
+of newer facial recognition tools. When documenting your findings, 
+aim to use standardized terminology in alignment with Human Phe­
+notype Ontology (HPO) as this will aid in the diagnostic analysis and 
+if machine learning tools with natural language processing are ever 
+applied to the medical record for diagnostic purposes.
+Initial Inspection
+General observation of the patient is important. The office visit is a 
+small snapshot in the life of the person being evaluated. Subtle move­
+ments, behaviors, and social interactions may be key to the underlying 
+diagnosis. Children with Williams syndrome are exceptionally sociable 
+with verbose language skills and frequently have a coarse character to 
+their voice, whereas on the opposing end, children with autism may 
+not permit you to perform a complete physical examination and the 
+greatest opportunity to evaluate movements and physical traits is while 
+you are initially interviewing the parents or caregivers.
+Anthropometrics
+The Centers for Disease Control and Prevention has published growth 
+curves for children and adolescents that are based upon a heteroge­
+neous U.S. population more representative of various ethnic and ances­
+tral groups than were previous charts. There are separate curves for 
+height, weight, head circumference, and stature for males and females 
+aged 0–36 months, and there are corresponding curves for males and 
+females aged 2–18 years, in addition to curves for body mass index, 
+but without curves for head circumference. There are also references 
+for anthropometric measurements of various body parts from the 
+fetus to adult age. If a child’s measurements are discrepant from the 
+norms—that is, over the 97th percentile or under the 3rd percentile—it is 
+possible to transpose the actual measurement up or down to the 50th 
+percentile on the same line to determine the height age or weight age 
+equivalent. Height can be plotted versus weight on the stature curve 
+to determine whether these parameters are proportional. Thus, a child 
+can be identified as small or tall for age and appropriate or inappro­
+priate in weight (either too heavy or too thin) for height. A child with 
+short stature and proportionate weight has proportionate short stature. 
+Head growth is an important factor in assessing brain growth as well as 
+skull growth and suture closure. Abnormally small head size (micro­
+cephaly) and abnormally large head size (macrocephaly) are consid­
+ered in proportion to stature with consideration for chronologic age. A 
+child 7 years of age but with a height age of 4 years and proportionate 
+weight and head circumference does not truly have microcephaly but 
+proportionate growth failure. Standardized tables exist in various ref­
+erence resources for several ethnic groups that allow for assessment 
+across racial barriers. Additionally, standardized charts exist for known 
+syndromes so that normal growth can be appropriately evaluated in a 
+child with a known diagnosis.
+A helpful diagnostic assessment for children of discrepant size is the 
+bone age, determined by radiograph of the left hand and wrist, accord­
+ing to the standards of Gruleich and Pyle, but occasionally, for infants, 
+by radiograph of the hemiskeleton.
+The data collection should include the following highlights with 
+more detail completed as needed.
+Head and Neck
+ • Hair: distribution, texture, pigmentation, low posterior hairline 
+(Fig. 29.14)
+ • Skull: shape, fontanel
+ • Neck: mobility, adenopathy, thyroid, embryonic remnants (bran­
+chial arch)
+Face
+ • Forms the largest and most important aspect of the dysmorphic 
+evaluation
+TRACHEOESOPHAGEAL
+FISTULA
+RADIAL LIMB
+DEFECT
+ANAL
+ATRESIA
+VERTEBRAL
+DEFECT
+GENITAL DEFECT
+RENAL
+DEFECT
+CARDIAC
+DEFECT
+SINGLE
+UMBILICAL
+ARTERY
+Fig. 29.7  Top, Expanded VACTERL association of defects. Bottom, 
+Note the relatively severe thumb (radial) defect of the right hand 
+and the much more subtle “radial” defect of the left hand (arrow). 
+The arrow depicts a hypoplastic thenar eminence and crease. (From 
+Jones KL, Jones MC, Del Campo M, eds. Smith’s Recognizable 
+Patterns of Human Malformation. 7th ed. Philadelphia: Elsevier; 
+2013:853.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+A
+C
+B
+Hindgut
+Mesonephric
+duct
+Mesonephric
+ridge
+Ureteral
+bud
+Cloaca
+Normal
+development
+Happens at
+about 31 days
+Defective
+development
+Renal agenesis
+Ureteral bud
+induces metanephric
+tissue to form renal
+parenchyma
+Lack of urine
+into amniotic cavity
+Relative lack of
+amniotic fluid during
+fetal life
+Pulmonary
+hypoplasia
+Amnion
+nodosum
+Fetal
+compression
+Altered
+facies
+Breech
+presentation
+Abnormal
+positioning of
+hands and feet
+Death from
+respiratory
+insufficiency
+Fig. 29.8  A–C, The consequences of renal agenesis. Note the multiple deformational defects in B, and the 
+amnion nodosum (brown-­yellow granules from vernix that have been ribbed into defects of the amniotic 
+surface) in C. (From Jones KL, Jones MC, Del Campo M, eds. Smith’s Recognizable Patterns of Human Mal­
+formation. 7th ed. Philadelphia: Elsevier; 2013:821.)
+Fetal Akinesia
+Growth
+deficiency
+Pulmonary
+hypoplasia
+Myo-neural
+dysfunction
+Lack of
+amniotic fluid
+Intrauterine constraint
+Short
+umbilical
+cord
+Limb
+positional
+defects
+Facial
+anomalies
+B
+C
+D
+A
+Fig. 29.9  A, This diagram demonstrates the etiologically heterogeneous phenotype that results from fetal akine­
+sia. B, This infant was born with myotonic dystrophy to a mother with the same condition. He had multiple joint 
+contractures with thin bones and respiratory insufficiency. C, This infant was immobilized in a transverse lie after 
+amnion rupture at 26 weeks. D, This fetus had bilateral renal agenesis resulting in oligohydramnios. (From Graham 
+JL. Smith’s Recognizable Patterns of Human Malformation. 3rd ed. Philadelphia: Elsevier; 2007:287. Fig. 47-­2.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+492
+SECTION 6  Developmental and Psychiatric Disorders
+General “Rules”
+ • 1/3s = forehead-­nasion:nasion-­subnasale:subnasale-­chin = 1:1:1
+ • Perpendicular from pupils should meet corners of mouth
+ • Inner canthal distance should allow space for an additional eye (on 
+MRI space between globes should allow an additional globe)
+ • Top of ear should align with eyebrow/line through pupils should 
+align with root of outer helix
+ • Forehead: slope, breadth, height, prominence
+ • Eyebrows: thickness/fullness, arch
+ • Eye: distance (hyper-­ or hypotelorism), color, pupil shape, presence 
+of epicanthus or telecanthus, alignment (up-­ or down-­slanting)
+ • Ears: overall shape/architecture, position, rotation, pits, creases, 
+hearing
+ • Nose: root, bridge, tip, columella, nasolabial fold, alae nasi, phil­
+trum
+ • Mouth: lip thickness and shape, lip pits, mucosal lesions, dental 
+alignment, dentition, palate, uvula
+ • Chest: shape, pectus, nipples, breathing
+ • Abdomen: organomegaly, masses, hernia
+ • Genitalia: structure, size, Tanner stage, anus, and perineum
+ • Musculoskeletal: spine alignment, joint mobility (see Chapter 47), 
+proportions, finger length, palmar surfaces, nail health
+ • Neurologic evaluation: complete including development, behav­
+ior and modified mini-­mental examination, and observation for 
+unique movements or behaviors
+If a child has an unusual appearance and the differences do not seem 
+to be familial variations as judged by observing the parents, it is neces­
+sary to describe how the child appears different. When the variation is 
+a discontinuous variable—that is, a birth defect (e.g., there is an extra 
+digit on the ulnar side of each hand; there is a cleft of the lip on the 
+left that extends into the left nostril, and there is a notch in the gum 
+behind the cleft)—the task is easier. Such birth defects may be consid­
+ered major abnormalities. The subtle malformations are often minor 
+abnormalities, but both major and minor findings are relevant to diag­
+nosis. Some conditions may be obvious on inspection alone, especially 
+to an experienced observer. Typical manifestations of Down syndrome 
+(Figs. 29.15 and 29.16; see also Tables 29.6 and 29.7 and Fig. 29.10), 
+Fig. 29.10  Facial appearance of a child with Down syndrome. (From 
+Wiedemann HR, Kunze J, Dibbern H. Atlas of Clinical Syndromes: A 
+Visual Guide to Diagnosis. 3rd ed. St. Louis: Mosby; 1989.)
+Fig. 29.11  Facial appearance of a child with trisomy 13. (From Wiede­
+mann HR, Kunze J, Dibbern H. Atlas of Clinical Syndromes: A Visual 
+Guide to Diagnosis. 3rd ed. St. Louis: Mosby; 1989.)
+TABLE 29.6  Clinical Findings That May Be 
+Present with Trisomy 21*
+Stature smaller than that of peer age 
+group
+Developmental delays
+Congenital heart disease (e.g., endo­
+cardial cushion defect and ventricular 
+septal defect)
+Structural abnormalities of the bowel 
+(e.g., tracheoesophageal atresia, 
+duodenal atresia, annular pancreas, 
+duodenal web, and Hirschsprung 
+disease)
+Central hypotonia
+Brachycephaly
+Delayed closure of fontanels
+Small midface, hypoplastic frontal sinuses, 
+myopia, and small (short) ears
+Lax joints, including laxity of the 
+atlantoaxial articulation (the 
+latter predisposing the patient 
+to C1–C2 dislocation)
+Short, broad hands, feet, and 
+digits; single palmar crease, 
+clinodactyly
+Exaggerated space between 1st 
+and 2nd toes
+Velvety, loosely adhering mottled 
+skin (cutis marmorata) in 
+infancy; coarse, dry skin in 
+adolescence
+Statistically increased risk for 
+leukemia, Alzheimer disease, 
+hypothyroidism
+*An individual may exhibit any combination of these findings. There 
+is no correlation between the number of physical findings and even­
+tual level of mental performance. The increased risk for leukemia is 
+significant, but probably not >1% for any individual. Alzheimer dis­
+ease is relatively common in persons with trisomy 21 who die in 
+middle adult life, but its frequency in all adults with Down syndrome 
+is not known.
+From Behrman RE, Kliegman RM. Nelson Essentials of Pediatrics. 4th 
+ed. Philadelphia: Saunders; 2002:142.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+493
+CHAPTER 29  Dysmorphology
+trisomy 13 or 18 (Figs. 29.17 and 29.18; see also Table 29.8 and Fig. 
+29.10), severe manifestations of Cornelia de Lange syndrome, and those 
+of Williams syndrome may represent a quick diagnosis; however, even 
+these classical syndromes may manifest in atypical and subtle ways, and 
+careful assessment is necessary to identify them. The expectation that, 
+with enough experience, a physician, even a geneticist or a dysmorphol­
+ogist, can unerringly identify every case of a common syndrome (even 
+one so common and well known as trisomy 21) is not true. Human 
+diversity is so great that even the most experienced clinicians are glad 
+for confirmatory tests. Most cases of trisomy 21 can be identified by 
+inspection, but there is not the same degree of certainty about every 
+dysmorphic patient.
+ASSEMBLING THE DATA
+After the history and examination are complete, the abnormal 
+findings are listed. In general, the order is in a sequence ranked by 
+TABLE 29.8  Findings That May Be Present 
+in Trisomy 13 and Trisomy 18
+Trisomy 13
+Trisomy 18
+Head and 
+face
+Scalp defects (e.g., cutis aplasia) Small and premature appearance
+Microphthalmia, corneal 
+abnormalities
+Tight palpebral fissures
+Cleft lip and palate in 
+60–80% of cases
+Narrow nose and hypoplastic 
+nasal alae
+Microcephaly
+Narrow bifrontal diameter
+Microphthalmia
+Prominent occiput
+Sloping forehead
+Micrognathia
+Holoprosencephaly 
+­(arhinencephaly)
+Cleft lip or palate
+Capillary hemangiomas
+Microcephaly
+Deafness
+Chest
+Congenital heart disease 
+(e.g., VSD, PDA, and ASD) 
+in 80% of cases
+Congenital heart disease (e.g., 
+VSD, PDA, and ASD)
+Thin posterior ribs (missing ribs) Short sternum, small nipples
+Extremities
+Overlapping of fingers and 
+toes (clinodactyly)
+Limited hip abduction
+Polydactyly
+Hypoplastic nails, 
+­hyperconvex nails
+Clinodactyly and overlapping 
+fingers; index over 3rd, 5th 
+over 4th; closed fist
+Rocker-­bottom feet
+Hypoplastic nails
+General
+Severe developmental delays 
+and prenatal and postnatal 
+growth retardation
+Severe developmental delays 
+and prenatal and postnatal 
+growth retardation
+Renal abnormalities
+Premature birth, polyhydramnios
+Nuclear projections in 
+neutrophils
+Inguinal or abdominal hernias
+Only 5% live >6 mo
+Only 5% live >1 yr
+ASD, atrial septal defect; PDA, patent ductus arteriosus; VSD, ventric­
+ular septal defect.
+From Behrman RE, Kliegman RM. Nelson Essentials of Pediatrics. 4th 
+ed. Philadelphia: Saunders; 2002:142.
+Affected individual
+Carrier (heterozygote)
+Fig. 29.12  Pedigree showing affected individuals and carriers. (From 
+Marcdante KJ, Kliegman RM. Nelson Essentials of Pediatrics. 7th ed. 
+Philadelphia: Elsevier; 2015:147, Fig. 47-­1.)
+TABLE 29.7  Ultrasonographic and 
+Pathologic Findings of Trisomic Conditions
+Abnormality
+Trisomy 21
+Trisomy 18
+Trisomy 13
+IUGR
++
+++
+++
+CNS abnormalities
+−
++
+++
+Holoprosencephaly
+−
+−
+++
+Mild ventricular dilatation +
++
++
+Agenesis of the corpus 
+callosum
+−
++
++
+Dandy–Walker variant
+−
+++
++
+Spina bifida, NTD
+−
+++
++
+Face
+−
++
+++
+Cyclopia
+−
+−
+++
+Cleft lip or palate
+−
++
+++
+Microphthalmia
+−
+++
++
+Duodenal atresia
+++
+−
+−
+Esophageal atresia
++
+++
+−
+Cardiac defects
++
+++
+++
+Echogenic intracardiac 
+foci
++
+−
+++
+Diaphragmatic hernia
+−
+++
++
+Cystic hygroma
++
++
++
+Hydrops
++
++
++
+Omphalocele
+−
++
++
+Echogenic bowel
+++
++
++
+Short femur or humerus
++
+++
+−
+Radial aplasia or limb 
+reduction
+−
+++
++
+Clenched hands or wrists
+−
+++
++
+Polydactyly
+−
+−
+++
+Club feet or rocker-­
+bottom feet
+−
+++
+++
+Renal abnormalities
++
++
+++
+Choroid plexus cysts
++?
+++
+−
+Single umbilical artery
+−
+++
+++
+CNS, central nervous system; IUGR, intrauterine growth restriction; 
+NTD, neural tube defect.
+From Nyberg DA, Souter VL. Sonographic markers of fetal aneuploidy. 
+Clin Perinatol. 2002;27:762.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+494
+SECTION 6  Developmental and Psychiatric Disorders
+perceived importance. In determining the order, the clinician may 
+consider the magnitude of the deviation, but uniqueness is import­
+ant in differentiating conditions. Subtleties can be significant; for 
+example, inverted nipples (common in carbohydrate-­deficient 
+glycoprotein syndrome) or redundant umbilical skin (in com­
+pany with abnormal anterior chamber of the eye and abnormally 
+shaped teeth in Rieger syndrome) can be very helpful in identifying 
+a condition.
+The description of history and morphology becomes the working 
+diagnosis. Even if the clinician cannot find a match in the standard 
+references concerning the syndrome identification, a descriptive diag­
+nosis is invaluable for providing the constellation of findings that delin­
+eate the problems.
+MINIMAL DIAGNOSTIC CRITERIA
+The key phenotypic elements of a syndrome, which unquestionably 
+identify it and differentiate it from all other similar conditions, have 
+been termed the minimal diagnostic criteria. In the absence of a defin­
+itive laboratory test, establishing the diagnostic criteria is a logical and 
+ideal goal for achieving uniformity of diagnosis.
+Unfortunately, minimal diagnostic criteria are difficult to decide 
+upon and are enumerated for only a few conditions. Reasonably 
+successful efforts for identifying diagnostic criteria for two rela­
+tively common conditions, neurofibromatosis type 1 (NF1) (Table 
+29.9) and Marfan syndrome (Table 29.10), have been achieved and 
+updated through consensus conferences. The molecular abnormal­
+ities for each condition have been identified, but the absence of a 
+molecular result does not exclude the diagnosis, and in the case of 
+Marfan syndrome, the molecular finding itself is not sufficient for a 
+diagnosis.
+In NF1, a family history that includes an affected parent is a major 
+help (and major criterion) for diagnosis. When there is no positive 
+family history, an index case requires additional criteria. The criteria 
+are quite specific and include easily documented findings. However, 
+criteria do not include learning disabilities, intellectual disability, sco­
+liosis, short stature, asymmetric limb growth, endocrine and neuroen­
+docrine tumors, hypertension, or epilepsy, any of which may be present 
+in NF1. These conditions are germane but not unique to NF1.
+The concept of minimal diagnostic criteria is laudable but difficult 
+to achieve. When available, the minimal diagnostic criterion is the 
+confirmatory laboratory test; however, the confirmatory laboratory 
+test does not necessarily define the parameters of the phenotype of the 
+syndrome as is noted in the example of Marfan syndrome and FBN1 
+gene variants.
+TOOLS TO ASSIST THE DIAGNOSTIC ODYSSEY
+Reference books on syndromology, human malformations, and defor­
+mations are excellent resources for assistance with diagnosis; however, 
+most illustrations in texts focus on individuals with the most exag­
+gerated findings to illustrate the condition. Birth defects are discrete 
+(discontinuous) variables, but human features occur in a continuum. 
+Diagnosis becomes a process of identifying the variables by a system­
+atic evaluation of the entire individual.
+Technology has eliminated some of the art forms once in common 
+practice (e.g., dermatoglyphics or the analysis of finger and palm ridge 
+patterns).
+Syndrome recognition is usually performed with genetic and 
+morphometric technologies that may blur the margins between vari­
+ous syndromes and enable syndrome recognition through the appli­
+cation of various computational tools. These methods include facial 
+Male
+Marriage or union
+Divorced
+Consanguinity
+Proband
+No offspring
+Multiple unions
+Termination
+of pregnancy
+Arrow indicates
+consultand
+seeking
+counseling
+Pedigree with
+generations
+and individuals
+numbered
+1
+2
+2
+2
+3
+2
+1
+I
+II
+3
+1
+Monozygotic twins
+Dizygotic twins
+Twins of unknown
+zygosity
+Stillbirth
+Adopted into family
+Adopted out of family
+Pregnancy with
+information on
+dates if available
+LMP
+12/20/14
+24 wk
+SB
+SB
+P
+P
+?
+Female
+Sex unspecified
+Number of children
+of sex indicated
+Affected
+Segments filled for
+different components
+of the phenotype
+Nonpenetrant carrier,
+may manifest disease
+Deceased individual
+Obligate carrier, will
+not manifest disease
+Spontaneous
+abortion
+Fig. 29.13  Symbols commonly used in pedigree charts. Although there is no uniform system of pedigree 
+notation, the symbols used here are according to recent recommendations made by professionals in the field 
+of genetic counseling. (From Nussbaum RL, McInnes RR, Willard HF, eds. Thompson and Thompson Genet­
+ics in Medicine. 8th ed. Philadelphia: Elsevier; 2016:109.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+495
+CHAPTER 29  Dysmorphology
+recognition software for syndromic identification (Fig. 29.19). These 
+tools are not diagnostic but offer rank-­listed possibilities for diag­
+nostic consideration. Such methods extract features from training 
+images and perform classification of images, often identifying fea­
+tures such as image texture that would not have been identified by 
+human diagnosticians. One of the more widely implemented tools is 
+the free resource Face2Gene®, which, in addition to the facial compu­
+tational analysis, enables adjunct HPO terminology to be entered to 
+further refine the phenotype. The machine learning aspect of these 
+tools ensures that, over time, their accuracy will improve. The knowl­
+edge base is continually expanded through “crowdsourcing” the 
+expertise of recognized experts who continue to train the system by 
+entering molecularly confirmed diagnoses.
+The advent of broad molecular diagnostic tests has eliminated 
+the original quest for a clinical diagnosis, which would then serve to 
+focus targeted single-­gene testing. Copy number variations (CNVs 
+or microdeletion/duplication disorders) still represent 10–15% of 
+all syndromic disorders presenting for diagnosis, which has estab­
+lished chromosome microarrays as the first-­line standard of care in 
+the evaluation of a child with multiple congenital anomalies, devel­
+opmental delays, or autism spectrum behaviors (Table 29.11). This 
+is supported by the American College of Medical Genetics as well as 
+the U.S. Food and Drug Administration (FDA). Common chromo­
+somal deletion and duplication disorders can be identified in this way 
+(Table 29.12). Current technologies offer the capability of sequencing 
+over 2,000 genes known to cause both syndromic and nonsyndromic 
+A
+B
+C
+Fig. 29.14  Turner syndrome. A–C, Note prominent ears, loose folds of skin in posterior neck with low hairline, 
+and broad chest with widely spaced nipples. (Courtesy Dr. Lynne M. Bird, Children’s Hospital, San Diego; 
+From Jones KL, Jones MC, Del Campo M, eds. Smith’s Recognizable Patterns of Human Malformation. 7th 
+ed. Philadelphia: Elsevier; 2013:81.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+496
+SECTION 6  Developmental and Psychiatric Disorders
+intellectual disability or autism and in addition can use complex algo­
+rithms to assess CNVs, which is typically less expensive than running 
+a microarray. There is a strong rationale for a exome-­ or genome-­
+first approach because these technologies can provide comprehensive 
+sequencing with CNV analysis at minimal additional burden to health 
+care expenditure.
+Utilization of specific genetic databases such as POSSUM (Pic­
+tures of Standard Syndromes and Undiagnosed Malformations) or 
+LMD (London Medical Databases) relies on cross-­referencing the 
+presence of specific dysmorphologic features to create differential 
+diagnoses. Another diagnostic support tool that includes genetic 
+disorders but expands the differential diagnosis to include all pedi­
+atric onset conditions is SimulConsult (https://simulconsult.com/). 
+These resources, however, require an annual subscription and are 
+curated by affiliated academic programs. Free resources that use the 
+standardized ontologic nosology include OMIM (Online Mendelian 
+Fig. 29.15  Characteristic dermal patterns of the palm of a child with 
+Down syndrome: a single flexion crease (simian crease), axial triradius 
+(arrowhead) in distal position, a pattern area on the palm between the 
+3rd and 4th digits, and ulnar loops on all 10 digits. (From Nussbaum RL, 
+McInnes RR, Willard HF. Thompson and Thompson Genetics in Medi­
+cine. 6th ed. Philadelphia: Saunders; 2001:160.)
+Fig. 29.16  “Prehensile” foot in a 1-­month-­old child. (From Wiedemann 
+HR, Kunze J, Dibbern H. Atlas of Clinical Syndromes: A Visual Guide to 
+Diagnosis. 3rd ed. St. Louis: Mosby; 1989.)
+Fig. 29.17  Trisomy 18: Overlapping finger and hypoplastic nails. (From 
+Wiedemann HR, Kunze J, Dibbern H. Atlas of Clinical Syndromes: A 
+Visual Guide to Diagnosis. 3rd ed. St. Louis: Mosby; 1989.)
+Fig. 29.18  Trisomy 18: Rocker-­bottom feet (protruding calcanei). (From 
+Wiedemann HR, Kunze J, Dibbern H. Atlas of Clinical Syndromes: A 
+Visual Guide to Diagnosis. 3rd ed. St. Louis: Mosby; 1989.)
+TABLE 29.9  Diagnostic Criteria for 
+Neurofibromatosis Type 1*
+	1.	Family history (an affected parent)
+	2.	6 or more café-­au-­lait spots
+>0.5 cm in prepubertal children
+>1.5 cm in postpubertal children
+	3.	1 or more plexiform neurofibromas
+	4.	2 or more neurofibromas
+	5.	Freckling of the armpits or in skinfolds
+	6.	2 or more Lisch modules of the iris
+	7.	Optic glioma
+	8.	Osseous dysplasia of the sphenoid bone and/or long bones
+*There must be positive findings in 2 or more categories.
+From National Institutes of Health Consensus Developmental 
+Conference. Neurofibromatosis conference statement. Arch Neurol. 
+1988;45:575.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+497
+CHAPTER 29  Dysmorphology
+Inheritance in Man; http://www.omim.org/) and Phenomizer 
+(http://compbio.charite.de/phenomizer/), which similarly allow the 
+end user to generate lists of potential diagnoses.
+Genetic Testing
+The catalog of available genetic tests has greatly expanded, and as large-­
+scale sequencing becomes more accessible and affordable, genomic 
+analysis is becoming the standard of care. The primary limitation of 
+this testing is our ability to interpret all the variation and to connect 
+relevance of this variation to the clinical phenotype being evaluated. 
+It thus remains important to collect and identify crucial/significant 
+phenotypic data elements that assist in the interpretation of the tests 
+ordered. Broad panels encompassing common phenotypes are avail­
+able for complex heterogeneic disorders such as epilepsy or cardiomy­
+opathy. To assist in the identification of laboratories offering specific 
+testing, a few reference websites have been established offering global 
+laboratory listings; two of these resources include https://www.ncbi.
+nlm.nih.gov/gtr/ and https://app.concertgenetics.com/. Given the vari­
+ability of the testing methodology and the genes included in various 
+panel tests, it is important for the ordering practitioner to understand 
+not only which genes are included but also what technology is being 
+utilized so as to truly appreciate the negative predictive value in rela­
+tion to the disorder within the differential diagnosis. For example, 
+some tests do not offer copy number evaluation, and if the disorder 
+you have near the top of your differential is most commonly caused by 
+a deletion of a gene, then the test being ordered may provide a false-­
+negative result (i.e., miss the diagnosis).
+Testing itself should be judiciously selected to confirm a diagno­
+sis or gather more information to enable a diagnosis to be formulated 
+(see Chapter 1: Evidence-­Based Technologic Testing). Before any lab­
+oratory or imaging testing is done, the examiner should address the 
+question “Does the description correlate with a described condition or 
+syndrome?” Often, the working diagnosis is the succinct and relevant 
+description of the child, which amounts to a list of findings arranged 
+in order of importance or significance from the perspective of the 
+examiner.
+A further advance in molecular understanding is the identification 
+of metabolic disorders that are associated with intellectual disability but 
+have proven treatments. The publication The Treatable Intellectual Dis­
+ability (https://www.treatable-­id.org) presents a digital tool to enhance 
+diagnosis and care for rare diseases and impacted the initial testing 
+recommendations for children with intellectual disability, and recom­
+mendations for initial evaluations as listed in Tables 29.13 and 29.14 
+have become more broadly implemented. Thus, metabolic screening 
+for disorders that would not have been detected through national new­
+born screening programs is routinely used in the evaluation of children 
+with intellectual disability. The development of metabolomic analysis 
+has additionally improved the ability for diagnosing rare metabolic dis­
+orders in individuals presenting with multisystem complex phenotypes 
+and has become routine in the evaluation of undiagnosed and rare dis­
+orders. Metabolomic analysis refers to the cross-­correlation of multiple 
+analytes in several samples (serum, urine, and/or cerebrospinal fluid) 
+aided by machine learning tools that have metabolic signatures for 
+numerous diseases.
+Diagnostic imaging is invaluable in assessing CNS malfor­
+mations, cardiac structure and function, skeletal deformity, and 
+abdominal organs. The rapid advances in imaging technology and 
+resolution are additionally enabling functional studies as well as 
+real-­time metabolic analysis with spectroscopy when using MRI to 
+study the brain.
+Bone age testing is indicated with short stature, growth delay, or 
+large stature. Complete skeletal surveys are one of the only ways to help 
+delineate skeletal dysplasias but require expert interpretation.
+TABLE 29.10  Revised Ghent Criteria for the 
+Diagnosis of Marfan Syndrome
+The revised criteria place more emphasis on aortic root dilatation/dissection 
+and ectopia lentis
+	I:	 In the absence of family history: MFS DX if:
+	 (1)	 Aortic root dilated/dissected (Z ≥2) AND EL*
+	 (2)	 Aortic root dilated/dissected (Z ≥2) AND FBN1
+	 (3)	 Aortic root dilated/dissected (Z ≥2) AND Syst (≥7 points)*
+	 (4)	 Ectopia lentis with normal aortic root AND FBN1 pathogenic variant 
+associated with aortic root dilated/dissected
+	II:	 In the presence of family history: MFS DX if:
+	 (5)	 EL AND FH of MFS
+	 (6)	 Systemic feature score (≥7 points) AND FH of MFS*
+	 (7)	 Ao (Z ≥2 above 20 yr old, ≥3 below 20 yr) + FH of MFS*
+*Caveat: without discriminating features of Shprintzen–Goldberg syndrome, 
+LDS, or vEDS AND after TGFBR1/2, collagen biochemistry, COL3A1 testing 
+if indicated (Other conditions/genes will emerge with time.)
+Scoring of systemic features: Max total: 20 points; score ≥7 points 
+indicates systemic involvement
+ • Wrist AND thumb sign [3] (wrist OR thumb sign [1])
+ • Pectus carinatum deformity [2] (pectus excavatum or chest asymmetry [1])
+ • Hindfoot deformity [2] (plain pes planus [1])
+ • Pneumothorax [2]
+ • Dural ectasia [2] (sensitive, but not specific; not considered equal to 
+lens dislocation or aortic root enlargement)
+ • Protrusio acetabuli [2] AP pelvis: medial protrusion of the acetabulum 
+at least 3 mm beyond the ilioischial line
+ • ↓ US/LS** AND ↑ arm span/height (>1.05) AND no severe 
+scoliosis [1]
+ • Scoliosis (≥2 degrees) or thoracolumbar kyphosis [1]
+ • Reduced elbow extension [1] 170 degrees or less upon full extension
+ • Facial features (3/5) [1] (dolichocephaly, enophthalmos, down-­slanting 
+palpebral fissures, malar hypoplasia, retrognathia)
+ • Skin striae [1] (abnormal position or excessive)
+ • Myopia >3 diopters [1]
+ • Mitral valve prolapse (all types) [1]
+US/LS** (normal upper to lower segment ratios)
+White adults, 0.85; Black adults, <0.78
+Children 0–5 yo <1; 6–7 yo <0.95; 8–9 yo <0.9
+Major Differential Diagnoses
+Ectopia lentis syndrome: EL with or without Syst AND with an FBN1 not 
+known with Ao or no FBN1
+MASS phenotype: Ao (Z <2) AND Syst (≥5 with at least 1 skeletal feature) 
+without EL
+Mitral valve prolapse syndrome: MVP AND Ao (Z <2) AND Syst (<5) 
+without EL
+Differential expanded, conditions with: 
+aortic aneurysms: LDS, bicuspid aortic valve, familial thoracic aortic aneu­
+rysm, vEDS, arterial tortuosity
+ectopia lentis: ectopia lentis syndrome, Weill–Marchesani syndrome, 
+homocystinuria 
+Stickler syndrome systemic features: Shprintzen–Goldberg syndrome, CCA, 
+LDS, MASS phenotype and MVPS
+Ao, aortic root dilatation/dissection; AP, anteroposterior; CCA, congen­
+ital contractural arachnodactyly; DX, diagnosis; EDS, Ehlers-­Danlos 
+syndrome; EL, ectopia lentis; FH, family history; LDS, Loeys-­Dietz syn­
+drome; LS, lower segment; MASS, Mitral valve, myopia, Aorta, Skin, 
+and Skeletal features; MFS, Marfan syndrome; MVPS, mitral valve 
+prolapse syndrome; Syst, systemic feature score; US, upper segment; 
+vEDS, vascular type of Ehlers-­Danlos syndrome; yo, years old.
+From Loeys BL, Dietz HC, Braverman AC, et al. The revised Ghent 
+nosology for the Marfan syndrome. J Med Genet. 2010;47:476–485.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+A
+B
+Fig. 29.19  Image analysis process of the automated facial recognition technology. A, A face is detected in the 
+frontal image and anatomic points are automatically identified. The face is divided into multiple regions, whose 
+appearance is analyzed. B, Last, a mask depicting the characteristic appearance of each syndrome is created. 
+(From Basel D. Dysmorphology in a genomic era. Clin Perinatol. 2020;47:15–23 [Fig. 5, p. 21].)
+TABLE 29.11  Common Microdeletion and Duplication Syndromes and Frequency of Occurrence
+Condition; Genomic 
+Location
+Incidence
+Major Phenotypic Features
+16p11.2 duplication
+1/1,900
+Normal to DD, ASD, ADHD, microcephaly, psychiatric conditions
+16p11.2 deletion
+1/2,300
+ID/DD, ASD, ADHD, macrocephaly, psychiatric conditions
+16p13.11 deletion
+1/2,300
+ID/DD, seizures, schizophrenia
+1q21.1 duplication
+1/3,300
+Normal to motor skill and articulation difficulty, ID/DD, ASD, ADHD, scoliosis, abnormal gait, macrocephaly, 
+short stature, psychiatric conditions (schizophrenia, anxiety, depression), CHD (especially tetralogy of Fallot)
+22q11.2 duplication
+1/4,000
+Normal to ID/DD, growth retardation, hypotonia
+1p36 deletion syndrome
+1/5,000
+ID/DD, hypotonia, seizures, structural brain abnormalities, CHD, vision and hearing issues, skeletal 
+anomalies, characteristic facies
+Charcot–Marie–Tooth type 1A; 17p12 
+­duplication
+1/5,000–1/10,000
+Slowly progressive neuropathy causing distal muscle weakness and atrophy, sensory loss, and slow 
+nerve conduction velocity first noticeable in the 1st or 2nd decade
+X-­linked ichthyosis; Xp22.31 deletion 1/6,000
+ID/DD, ichthyosis, Kallmann syndrome, short stature, ocular albinism
+7q11.23 duplication
+1/7,500
+DD, normal to ID, speech problems, hypotonia, problems with movement and walking, behavioral abnor­
+malities, seizures, aortic enlargement
+17q12 deletion
+1/14,500
+Kidney/urinary abnormalities, diabetes, ID/DD, ASD, psychiatric conditions
+Sotos syndrome; 5q35 deletion
+1/15,000
+ID/DD, overgrowth, characteristic facies
+Cri-­du-­chat; 5p15 deletion
+1/15,000–1/50,000
+High-­pitched cry, microcephaly, hypotonia, characteristic facies, ID/DD, CHD
+Koolen de Vries; 17q21 deletion
+1/16,000
+ID/DD, sociable personality, hypotonia, seizures, distinct facial features, CHD, kidney anomalies, foot 
+deformities
+Potocki–Lupski syndrome; 17p11.2 
+duplication
+1/20,000
+ID/DD, ASD, hypotonia, CHD
+ADHD, attention-deficit/hyperactivity disorder; ASD, autism spectrum disorder; CHD, congenital heart defect; DD, developmental delay; ID, intellec­
+tual disability.
+Modified from Norton ME, Kuller JA, Dugoff L, eds. Perinatal Genetics. Elsevier; 2019:129, Table 12.2.
+TABLE 29.12  Examples of Some Chromosomal Deletion Syndromes for Which There Is a 
+Commercially Available DNA Probe for Fluorescent In Situ Hybridization Analysis
+Condition
+Brief Description
+Probe
+Williams syndrome
+Proportionate short stature, mild–moderate to severe intellectual disability, cocktail patter for conversation, stellate 
+pattern of iris pigmentation, supravalvular aortic stenosis, recessed nasal bridge, and wide mouth with full lips
+7q11
+WAGR syndrome
+Wilms tumor, aniridia, growth delay, intellectual disability, and genitourinary anomalies
+11p13
+Prader–Willi syndrome
+Angelman syndrome
+Distinct syndromes with common or overlapping areas of deletion; phenotype depends on gender of the parent of origin 
+of the deletion
+Prader–Willi syndrome: hypotonia in infancy, short stature, obesity, mild–moderate and occasionally severe intellectual disa­
+bility, small hands and feet (caused by paternal deletion of 15q11-­13 or maternal uniparental disomy for chromosome 15)
+Angelman syndrome: severe intellectual disability, absence of speech, ataxia, tremulous movements, large mouth, 
+frequent drooling (caused by maternal deletion of chromosome 15q11-­13 or paternal uniparental disomy)
+15q11
+Smith–Magenis syndrome
+Brachycephaly, prognathism, self-­destructive behavior, wrist biting, pulling out nails, head banging, indifference to pain, 
+severe intellectual disability, hyperactivity, social behavior problems
+17p11.2
+Miller–Dieker syndrome
+Microcephaly, narrow temples, hypotonia/hypertonia, abnormal posturing, seizures, severe to profound intellectual 
+disability, poor growth, lissencephaly and other brain abnormalities on CT or MRI
+17p13
+Velocardiofacial (VCF) 
+syndrome (overlaps with 
+DiGeorge syndrome)
+VCF: cleft palate, congenital heart disease, learning and/or behavior problems, long face, prominent nose, limb hypotonia, 
+slender hands with tapering fingers
+DiGeorge syndrome: T-­cell deficiency, immunoglobulin deficiency
+22q11
+WAGR, Wilms tumor, aniridia, genitourinary anomalies, and mental retardation.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+499
+CHAPTER 29  Dysmorphology
+Specialized laboratory testing is reserved to aid specific diagnostic 
+investigation (e.g., muscle biopsy, fibroblast culture for enzyme anal­
+ysis, electron microscopy of arterial walls or blood buffy coat). These 
+specialized tests are performed by a small number of laboratories to aid 
+the diagnosis of rare disorders and should ideally be left to the expert 
+physician.
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+TABLE 29.13  Genetics and Biochemical 
+Developmental Delay Evaluation
+Tier One
+Acylcarnitine profile
+Amino acids (plasma)
+Ammonia
+Urine organic acids
+Ceruloplasmin
+Copper (blood)—if abnormal repeat with 24-­hr urine
+DNA microarray
+Homocysteine (blood)
+Lactic acid and pyruvic acid (blood) to determine lactate:pyruvate 
+ratio in mitochondrial disorders
+Tier Two
+Mucopolysaccharides screen
+Congenital disorders of carbohydrate glycosylation
+Chromosome Fragile X
+Prader–Willi and Angelman (methylation testing)
+Creatine/guanidinoacetate (blood)
+Creatine/guanidinoacetate (urine)
+Purine pyrimidine panel (urine)
+Very long chain fatty acids (blood)
+TABLE 29.14  Genetic Testing in Congenital 
+Heart Disease
+Patient Features
+What to Order
+CHD with features suggestive of trisomy 
+21 or 45X
+Karyotype
+CHD with features of trisomy 13 or 18
+STAT chromosome FISH 
+21/18/13
+Conotruncal congenital heart lesion
+ • Interrupted aortic arch
+ • Pulmonary atresia with ventricular septal 
+defect
+ • Tetralogy of Fallot
+ • Truncus arteriosus
+ • Malaligned ventricular septal defect and/
+or features typical of 22q11.2 deletion 
+syndrome
+DNA microarray
+Heterotaxy
+DNA microarray
+Next-­generation sequencing 
+heterotaxy panel
+CHD with or without dysmorphic features/
+multiple anomalies
+DNA microarray
+CHD, congenital heart disease; FISH, fluorescent in situ hybridization.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+499.e1
+BIBLIOGRAPHY
+Bone Age and Physical Measurements
+Bonthron D, Fitzpatrick D, Porteous M, et al. Clinical Genetics: A Case-­Based 
+Approach. Philadelphia: WB Saunders; 1998.
+Bronstein RA, Cornstock CH. Central nervous system anomalies. Clin Perina­
+tol. 2000;27:791–812.
+Bukowski R, Saade GR. Hydrops fetalis. Clin Perinatol. 2000;27:1007–1032.
+Dar P, Gross SJ. Craniofacial and neck anomalies. Clin Perinatol. 2000;27:
+813–838.
+Devine PC, Malone FD. Noncardiac thoracic anomalies. Clin Perinatol. 
+2000;27:865–900.
+Dugoff L, Thieme G, Hobbins JC. Skeletal anomalies. Clin Perinatol. 
+2000;27:979–1006.
+Emanuel BS, Saitta SC. From microscopes to microarrays: dissecting recurrent 
+chromosomal rearrangements: the RASopathies annual review of genomics 
+and human genetics. Nat Rev Genetics. 2007;8:869–883.
+Frazer KA, Murray SS, Schork NJ, et al. Human genetic variation and its con­
+tribution to complex traits. Nat Rev Genetics. 2009;10:241–251.
+Gleason PF, Eddleman KA, Stone JL. Gastrointestinal disorders of the fetus. 
+Clin Perinatol. 2000;27:901–920.
+Goodman RM, Gorlin RJ. The Malformed Infant and Child—An Illustrated 
+Guide. New York: Oxford University Press; 1983.
+Gorlin RJ, Cohen Jr MM, Hennekam RCM. Syndromes of the Head and Neck. 
+4th ed. New York: Oxford University Press; 2001.
+Greulich WW, Pyle SI. Radiographic Atlas of Skeletal Development of the Hand 
+and Wrist. 2nd ed. Stanford, CA: Stanford University Press; 1959.
+Hall JG, Froster-­Iskenius UG, Allanson JE. Handbook of Normal Physical Mea­
+surements. New York: Oxford University Press; 1989.
+Jacobs AM, Toudjarska I, Racine A, et al. A recurring FBN1 gene mutation in 
+neonatal Marfan syndrome. Arch Pediatr Adolesc Med. 2002;156:1081–1084.
+Jones KL. Smith’s Recognizable Patterns of Human Malformations. 5th ed. Phil­
+adelphia: WB Saunders; 1997.
+Jones KL, Jones MC, Del Campo M, eds. Smith’s Recognizable Patterns of Hu­
+man Malformation. 7th ed. Philadelphia: Elsevier; 2013.
+Keats TEE. Atlas of Roentgenographic Measurement. St. Louis: Mosby-­
+Yearbook; 1990.
+Kulchak Rahm A, et al. User testing of a diagnostic decision support system 
+with machine-assisted chart review to facilitate clinical genomic diagnosis. 
+BMJ Health Care Inform. 2021;28.
+Malone FD, D’Alton ME. Anomalies peculiar to multiple gestations. Clin 
+Perinatol. 2000;27:1033–1046.
+McKusick VA. Mendelian Inheritance in Man. 12th ed. Baltimore: Johns Hop­
+kins University Press; 1998. Available online as: OMIM: Online Mendelian 
+Inheritance in Man. http://www3.ncbi.nim.nih.gov/OMIM/.
+Nyberg DA, Souter VL. Sonographic markers of fetal aneuploidy. Clin Perina­
+tol. 2000;27:761–789.
+Robinson JN, Abuhanad AZ. Abdominal wall and umbilical cord anomalies. 
+Clin Perinatol. 2000;27:947–978.
+Roizen NJ, Patterson D. Down’s syndrome. Lancet. 2003;361:1281–1288.
+Saphier CJ, Gaddipati S, Liat E, et al. Prenatal diagnosis and management 
+of abnormalities in the urologic systems. Clin Perinatol. 2000;27:
+921–946.
+Simpson JL, Elias S. Genetics in Obstetrics and Gynecology. 3rd ed. Philadel­
+phia: WB Saunders; 2003.
+Simpson LL. Structural cardiac anomalies. Clin Perinatol. 2000;27:839–864.
+Sontag LW, Snell D, Anderson M. Skeletal maturation. Am J Dis Child. 
+1939;58:949.
+Stevenson RE, Hall JG, Goodman RM. Human Malformations and Related 
+Anomalies. Vols. 1–2. New York: Oxford University Press; 1993.
+Syndrome References
+Van Karnebeel CDM, Houben RFA, Lafek M, et al. The treatable intellectual 
+disability AAP. Orphanet J Rare Dis. 2012;7:47. A digital tool to enhance 
+diagnosis and care for rare diseases. www.treatable-­id.org.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

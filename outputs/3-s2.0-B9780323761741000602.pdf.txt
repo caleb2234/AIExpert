@@ -1,0 +1,2304 @@
+1139
+SECTION 12  Dermatology
+RASHES (TABLE 60.1)
+Papules and Pustules—Diffuse or Scattered
+Erythema toxicum is a benign condition that occurs in 30–70% of 
+White full-­term infants. Erythema toxicum occurs less frequently in 
+premature infants. The eruption is characterized by blotchy, erythem­
+atous macules or patches with central papules, pustules, or vesicles 
+that give the infant a “flea-­bitten” appearance (Fig. 60.1). The lesions 
+develop most commonly between the second and fourth days after 
+birth; however, they may appear during the first 2–3 weeks. They are 
+self-­limiting and usually resolve within several days. Typical sites of 
+involvement include the face, trunk, and proximal extremities. There 
+may be very few to hundreds of lesions.
+A Giemsa or Wright stain of the intralesional contents reveals 
+sheets of eosinophils with a relative absence of neutrophils. Peripheral 
+eosinophilia may be present in up to 20% of affected infants. Erythema 
+toxicum is occasionally confused with transient neonatal pustular mel­
+anosis, congenital cutaneous candidiasis, impetigo neonatorum, milia, 
+herpes simplex, or miliaria rubra (prickly heat).
+Transient neonatal pustular melanosis, seen in up to 4% of neo­
+nates, occurs more often in Black infants. Typically present at birth, 
+the initial lesions are 2-­ to 5-­mm pustules distributed over the face, 
+neck, and upper chest and, less often, on the sacrum, trunk, thighs, 
+palms, and soles (Fig. 60.2). In contrast to the lesions of erythema tox­
+icum, there is no erythema surrounding each pustule, and a Wright 
+stain of pustular contents reveals many neutrophils. In both disorders, 
+the pustules are sterile and should be distinguished from those seen in 
+potentially serious infections caused by herpes simplex virus (HSV), 
+Staphylococcus aureus, or Candida species.
+The superficial pustules of transient neonatal pustular melanosis 
+rupture spontaneously within the first few days after birth, leaving 
+hyperpigmented macules that have collarettes of fine scale. It is com­
+mon to see only the hyperpigmented macules at birth. These brown 
+spots slowly fade over several weeks to months.
+Miliaria results from sweat retention and is exacerbated by heat and 
+humidity. Affected newborns are frequently in incubators or receiving 
+phototherapy. Keratinous plugging of the eccrine ducts and subsequent 
+release of eccrine sweat into the surrounding skin produces two dis­
+tinct clinical manifestations with different sites of eccrine duct obstruc­
+tion. In miliaria crystallina, obstruction occurs just below the stratum 
+corneum, resulting in superficial, noninflammatory 1-­ to 2-­mm ves­
+icles. In miliaria rubra, or “prickly heat,” obstruction occurs in the 
+mid-­epidermis. This is associated with an inflammatory response 
+exhibited by vesicles, papules, or papulovesicles surrounded by a rim 
+of erythema. The lesions occur in clusters on the trunk, face, scalp, and 
+intertriginous regions. Neither type of miliaria warrants therapy, but 
+improvement occurs with cooling of the skin and avoidance of exces­
+sive warmth and moisture.
+Eosinophilic pustular folliculitis is another disorder of infancy 
+characterized by recurrent crops of vesicles and pustules, beginning in 
+the first year of life. Lesions are often present on the forehead and scalp. 
+The condition tends to occur in a cyclic pattern and is very pruritic. 
+Scraped material from the pustules subjected to Wright stain demon­
+strates a large number of eosinophils but no evidence of infectious 
+organisms. A CBC may show peripheral eosinophilia. In rare cases, 
+skin biopsy may be necessary. Histopathologic study demonstrates a 
+perifollicular and dermal infiltrate of eosinophils, as well as lympho­
+cytes and histiocytes. Because the clinical condition is very similar to 
+infantile acropustulosis, some authors contend that eosinophilic pustu­
+lar folliculitis may be part of the same clinical spectrum. This condition 
+is not associated with systemic disease, and the first-­line treatment is 
+symptomatic with topical corticosteroids and antihistamines. Oral and 
+topical indomethacin has been effective in recalcitrant cases. Eosino­
+philic pustular folliculitis usually resolves spontaneously by 2–3 years 
+of age.
+Acropustulosis of infancy is a condition that may present at birth 
+or during the first few weeks or months afterward. The disorder is char­
+acterized by recurrent eruptions of pruritic pustules or vesicles involv­
+ing the hands and feet (Fig. 60.3). On occasion, involvement includes 
+other sites such as the trunk or abdomen. The lesions frequently begin 
+in crops, which typically last approximately 1 week, and resolve with 
+desquamation, followed by postinflammatory hyperpigmentation.
+Acropustulosis is often confused with infantile scabies. Family his­
+tory and examination of scrapings of the involved area may help differ­
+entiate between these two diagnoses. However, there is some thought 
+that it may occur after a previous scabies infection. Scrapings of lesions 
+in acropustulosis often demonstrate neutrophils. Bacterial infection 
+should also be ruled out by wound cultures. Treatment is symptomatic 
+and consists of control of pruritus with low-­ to mid-­potency topical 
+corticosteroids and antihistamines. Parents should be advised that 
+lesions tend to occur episodically until approximately 2–3 years of age.
+Neonatal cephalic pustulosis (neonatal acne) develops in approxi­
+mately 20% of newborns. Typically, it is not present at birth but appears 
+during the first few weeks after birth. Characterized by papules and 
+pustules located on the face or trunk, this condition usually resolves 
+within the first several months of life (Fig. 60.4). Neonatal acne is a 
+Congenital Cutaneous Lesions 
+and Infantile Rashes
+Stephen R. Humphrey
+60
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1140
+SECTION 12  Dermatology
+misnomer as neonatal cephalic pustulosis is likely caused by Malasse­
+zia yeast species. Therapeutic intervention is rarely required, but keto­
+conazole 2% cream may be of some use.
+Langerhans cell histiocytosis (LCH) is a rare disorder, affecting 
+about 5 per 1 million children, which is characterized by a proliferation 
+of clonal dendritic cells, called Langerhans cells. There are four main 
+types, two of which are most frequently seen in neonates and infants, 
+though there is substantial overlap among the types.
+Congenital self-­healing reticulohistiocytosis (Hashimoto-­Pritzker 
+disease) typically presents at birth or within the first few days of life 
+and is limited to the skin. There is a diffuse eruption of red to purple-­
+brown papules and nodules that will crust and remit after several 
+weeks. While it is considered a benign, self-­limited condition, it can 
+rarely progress to other, more aggressive forms of LCH.
+Letterer-­Siwe disease is the more acute, diffuse form of LCH that 
+has multisystem involvement. It commonly presents before 1 year of 
+age with the majority of patients having skin findings of small 1-­ to 
+2-­mm papules, pustules, and vesicles, typically on the scalp, intertrigi­
+nous areas, and trunk (Fig. 60.5). The lesions are often crusted and may 
+have secondary bacterial infections. Fissures and confluence of papules 
+can be seen. It can be confused with seborrheic dermatitis and other 
+forms of diaper dermatitis (Table 60.2).
+Patches and Plaques
+Patches are confluent, flat lesions over 1 cm in size, while plaques are 
+slightly raised lesions over 1 cm in size. Many of these conditions have 
+overlapping features but can often be distinguished by their location, 
+distribution, and response to certain treatments (see Table 60.1).
+Neonatal lupus erythematosus is a unique annular erythematous 
+eruption during the neonatal period. It affects 1 in 12,000–20,000 live 
+births. Congenital cases are even more uncommon. Lesions of neo­
+natal lupus are often scaly, annular plaques that usually occur on the 
+face and scalp and may affect the periorbital and malar areas, creating 
+Fig. 60.2  Transient neonatal pustular melanosis. Papules and papulo­
+pustules rupture to leave a collarette of fine scales and eventual hyper­
+pigmentation. (From Paller AS, Mancini AJ. Cutaneous disorders of the 
+newborn. In: Paller AS, Mancini AJ, eds. Hurwitz Clinical Pediatric Der­
+matology. 4th ed. Philadelphia: Elsevier; 2011:18.)
+Fig. 60.3  Acropustulosis of infancy. Multiple tense erythematous pap­
+ules and pustules on the palm of this 4-­month-­old girl. (From Paller AS, 
+Mancini AJ. Cutaneous disorders of the newborn. In: Paller AS, Mancini 
+AJ, eds. Hurwitz Clinical Pediatric Dermatology. 4th ed. Philadelphia: 
+Elsevier; 2011:19.)
+Fig. 60.4  Neonatal acne (cephalic pustulosis) is usually found on the 
+cheeks and scalp in the first 2–4 weeks of life; small red papules and 
+pustules without comedones are evident. (Modified from Eichenfield 
+LF, Frieden IJ, Esterly NB. Textbook of Neonatal Dermatology. Philadel­
+phia: Saunders; 2001:94.)
+Fig. 60.1  Papules surrounded by erythema are characteristic of ery­
+thema toxicum. Typically it is located on the trunk but can be on the 
+extremities as well.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1141
+CHAPTER 60  Congenital Cutaneous Lesions and Infantile Rashes
+A
+B
+D
+C
+Fig. 60.5  Langerhans cell histiocytosis (LCH). A–C, Erythematous and eroded papules in the neck fold and 
+inguinal creases and over the trunk. Note the associated crusting, purpura, and umbilicated nature of some 
+of the papules. D, Eroded, erythematous, and hemorrhagic papules in the groin of this infant with dissemi­
+nated LCH. Note the associated jaundiced appearance, a result of massive liver involvement. (From Paller AS, 
+Mancini AJ, eds. Hurwitz Clinical Pediatric Dermatology. 5th ed. Philadelphia: Elsevier; 2016:232, Fig. 10-­2.)
+TABLE 60.1  Neonatal and Infantile Cutaneous Lesions
+RASHES
+Papules and Pustules
+Erythema toxicum
+Occurs first few days of life
+Blotchy red macules with central papule, 
+pustule, or vesicle
+Transient neonatal pustular 
+melanosis
+Present at birth
+More common in African-­American infants
+Pustules resolve with hyperpigmented macules
+Miliaria
+Associated with overheating
+Vesicles and pustules in occluded areas
+Eosinophilic pustular 
+folliculitis
+Onset during infancy
+Pruritic pustules on the head and neck
+Acropustulosis of infancy
+Onset during infancy
+Pruritic pustules on the hands and feet
+Neonatal cephalic pustulosis 
+(neonatal acne)
+Pink papules, predominately on face
+Langerhans cell histiocytosis
+Crusted papules, predominately on the scalp 
+and intertriginous areas
+Herpes simplex virus
+Onset from birth to 2 wk
+Grouped vesicles and papulopustules favor 
+scalp and trunk
+Varicella
+Diffuse vesicles and papules
+Associated with sepsis, fever/hypothermia
+Scabies
+Pruritic papules, vesicles, and pustules
+Can be widespread in infants, but 
+concentrated in intertriginous areas
+Syphilis
+Widely scattered scaly red-­brown papules and 
+plaques
+Patches and Plaques
+Neonatal lupus
+Bright red annular patches and plaques 
+distributed on cheeks and periorbital skin
+Heart block is most common extracutaneous 
+finding
+Seborrheic dermatitis
+Pink patches on the scalp, face, ears, and 
+intertriginous areas
+May have yellow, greasy scale
+Erosions and fissures can be seen
+Diaper dermatitis
+Pink patches with erosions in the groin and 
+buttocks
+Can be multifactorial
+FIXED LESIONS
+Macules, Papules, and Pustules
+Milia
+Pinpoint white-­yellow papules without 
+erythema
+Typically on face, gingiva, or palate
+Resolves with time
+Sebaceous gland 
+hyperplasia
+Skin-­colored to yellow tiny papules on cheeks 
+and nose
+Secondary to maternal androgens
+Resolve in first few months
+Subcutaneous fat necrosis
+Firm, indurated, tender plaques on back, arms, 
+shoulders of newborns
+Due to perinatal trauma, hypothermia, or 
+hypoxemia
+Monitor for hypercalcemia
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+TABLE 60.1  Neonatal and Infantile Cutaneous Lesions—cont’d
+Macules, Papules, and Pustules—cont’d
+Juvenile xanthogranuloma
+Solitary yellow-­pink plaques on the face and 
+scalp
+May ulcerate and usually resolve 
+spontaneously
+Mastocytoma
+Yellow to pink solitary plaques
+Can urticate or swell with friction or rubbing
+Composed of mast cells
+Can be seen in infants but typically more 
+common with toddlers
+Urticaria pigmentosa
+Condition with several mastocytomas
+Rare in infants
+Typically presents with lesions that will 
+urticate
+Over time, they become hyperpigmented
+Rarely associated with systemic symptoms
+Spider angioma
+Rare in infants
+Small blanching capillaries with “feeder 
+vessel” on the trunk and face
+Pyogenic granuloma
+Solitary, small vascular papules that develop 
+rapidly and bleed profusely
+Typically seen in toddlers and occasionally 
+infants
+Patches and Plaques
+Pink (Vascular or Other)
+Hemangioma
+Benign vascular tumors, typically present in 
+first month of life
+Grow rapidly for first several months and 
+then involute slowly over a couple of 
+years
+PHACE/PELVIS
+Syndromes associated with hemangiomas in 
+particular locations on the face or back
+Capillary malformation
+Stable, pink, vascular patches; typically 
+unilateral
+In V1 distribution, can be associated with 
+Sturge-­Weber syndrome
+Nevus simplex
+Pink patches on glabella, eyelids, nape of 
+neck, typically
+Usually fade over first couple of years
+Cutis marmorata 
+telangiectasia congenita
+Lacy, reticulated vascular patches
+Do not resolve with rewarming of infant
+May have atrophic changes or ulcerate
+Kaposiform 
+hemangioendothelioma
+Rare vascular tumor
+Firm, violaceous, and tends to proliferate
+Can lead to consumptive coagulopathy 
+(Kasabach-­Merritt syndrome)
+Venous/lymphatic 
+malformation
+Slow-­flow vascular malformations
+Typically present at birth
+May be associated with atrophy or overgrowth
+Hyperpigmented or Darker Pigment
+Congenital melanocytic 
+nevus
+Pigmented macules, papules, patches, and 
+plaques
+Present in 2–3% of population
+Neurocutaneous melanosis
+Defined by a giant melanocytic nevus or 
+greater than two CMNs
+Associated with melanocytic infiltration of 
+leptomeninges
+Clinically symptomatic lesions have worse 
+prognosis
+Café-­au-­lait macules
+Well-­demarcated tan macules or patches
+Seen in 10–20% of population
+Multiple lesions can be associated with 
+neurofibromatosis
+Dermal melanocytosis
+Large, poorly demarcated, slate-­gray to blue 
+patches on buttocks and lumbosacral region
+Occurs normally in darker skin tones
+Typically fades over time
+Hypopigmented or Depigmented
+Nevus depigmentosus
+Hypopigmented patch that persists through life
+Ash leaf spots
+Hypopigmented macules that present in first 
+few months to years of life
+Typically seen with tuberous sclerosis
+Piebaldism
+Well-­circumscribed areas of depigmentation 
+on the skin
+Tends to be symmetric and stable in size
+Waardenburg syndrome
+White forelock, white patches on skin
+Can have heterochromia of irides and hearing 
+loss
+Albinism
+Diffuse congenital hypopigmentation of skin
+Usually involves eyes and hair
+Should be monitored closely by 
+ophthalmologists
+Evaluate for hearing loss
+Patients need lifelong photoprotection
+Other
+Nevus sebaceus
+Sebaceous gland hamartoma, usually present 
+at birth
+Yellow-­orange and smooth plaque
+Thickens during puberty
+Dermoid cyst
+Typically found in head/neck region
+Potential for intracranial connection
+Aplasia cutis
+Congenital absence of skin, typically on scalp
+Can resemble scars when child is older
+Hair collar sign
+Ring of dense, darker hair encircling a scalp lesion
+Can be a sign of spinal dysraphism
+Hypertrichosis of lumbar 
+area
+Normal variant in certain ethnicities
+Can be indicator of spinal dysraphism
+Sacral dimples
+Commonly seen
+Large dimples along gluteal crease need to be 
+evaluated for spinal dysraphism
+Can be associated with hypertrichosis
+TRANSIENT/CHANGING LESIONS
+Patches
+Segmental
+Cutis marmorata
+Lacy, reticulated vascular patches, often 
+bilateral
+Resolve with warming of infant and disappear 
+over time
+Diffuse
+Harlequin color change
+Marked erythema on dependent side
+Simultaneous blanching on nondependent side
+Transient
+Distal Extremities
+Acrocyanosis
+Bluish-­purple discoloration of hands, feet, 
+and lips
+Occurs with crying and cold stress
+CMN, congenital melanocytic nevi; PELVIS, perineal hemangioma, external genitalia malformations, lipomyelomeningocele, vesicorenal abnormalities, 
+imperforate anus, and skin tag; PHACE, posterior fossa malformations, hemangiomas, arterial anomalies, cardiac defects, and eye abnormalities.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1143
+CHAPTER 60  Congenital Cutaneous Lesions and Infantile Rashes
+Fig. 60.6  “Raccoon eyes” eruption of neonatal lupus erythematosus. 
+(From Eichenfield LF, Frieden IJ, Esterly NB. Textbook of Neonatal Der­
+matology. Philadelphia: Saunders; 2001:297.)
+a “raccoon eyes” appearance (Fig. 60.6). Other manifestations may 
+include transient hypopigmentation with epidermal atrophy or telan­
+giectasia. Cutaneous lesions may be present at birth but often appear 
+within the first 2–4 months of life. The lesions are usually exacerbated 
+by sun exposure and are typically photodistributed. The majority of 
+skin findings are transient, lasting up to 6–9 months.
+Cutaneous findings and congenital heart block are each present 
+individually in approximately 50% of affected infants; some studies 
+have shown congenital heart block to be much less common. An over­
+lap of both is present in approximately 10% of affected infants. The 
+major morbidity and mortality of neonatal lupus result from congenital 
+heart block.
+The diagnosis of neonatal lupus includes examination of anti-­Ro, 
+anti-­La, and anti-­U1RNP autoantibodies in both the infant and 
+mother. Ninety-­five percent of mothers of infants with neonatal lupus 
+have anti-­Ro antibodies. Skin biopsy is usually not necessary. Work-­up 
+should include an ECG, platelet count, and liver function tests because 
+approximately 35% of affected infants have liver disease or thrombo­
+cytopenia. Rare reports of multisystem involvement, including neuro­
+logic and respiratory findings, have been reported.
+Mothers with high titers of anti-­Ro antibodies or with systemic 
+lupus erythematosus have a higher risk of delivering an infant with 
+neonatal lupus and should be counseled appropriately. Mothers with 
+positive anti-­Ro or anti-­La antibodies will have an approximately 2% 
+risk of their baby having neonatal lupus. Despite high antibody titers, 
+fewer than half of mothers of affected infants are symptomatic at the 
+time of delivery. In most of these mothers, evidence of connective tis­
+sue disease, usually Sjögren syndrome or subacute cutaneous lupus, 
+develops over time.
+Differential diagnosis should include annular erythema of infancy, 
+tinea corporis, and cutis marmorata telangiectatica congenita (CMTC). 
+Treatment consists of photoprotection and topical steroids. Most 
+cutaneous changes resolve spontaneously by 6–9 months of age as a 
+result of a gradual decrease in maternal antibodies.
+Seborrheic dermatitis, common during infancy, typically manifests 
+within the first several weeks after birth. Characterized by erythema 
+and a yellow, greasy scale, it usually resolves spontaneously within 
+several months. The eruption occurs at sites where sebaceous glands 
+are concentrated, such as the face, chest, posterior auricular scalp, and 
+intertriginous areas (Fig. 60.7). Malassezia colonization plays a part in 
+the development of seborrheic dermatitis. “Cradle cap” is seborrhea 
+that is confined to the scalp. Involvement of the diaper area is charac­
+terized by salmon-­colored patches that arise in skinfolds and spread to 
+the genitalia, suprapubic area, and upper medial thighs. Scale may not 
+be as apparent in intertriginous areas. Unlike atopic dermatitis, this 
+eruption is not very pruritic. Secondary candidal or bacterial infection 
+is common, particularly if erosions or fissures are seen.
+The diagnosis is established clinically. The presence of greasy yellow 
+scales and salmon-­colored patches, involvement of the scalp and inter­
+triginous areas, early onset, and lack of pruritus or atopic history help 
+distinguish seborrheic from atopic dermatitis. However, some infants 
+have an overlap of seborrheic dermatitis and atopic dermatitis. Sebor­
+rheic dermatitis should also be differentiated from LCH, in which the 
+A
+B
+Fig. 60.7  A, Seborrheic dermatitis may occasionally be widespread. 
+B, The body folds are often involved in seborrheic dermatitis. (From 
+Eichenfield LF, Frieden IJ, Mathes EF, et al., eds. Neonatal and Infant 
+Dermatology. 3rd ed. Philadelphia: Elsevier; 2015:225, Figs. 15.11 and 
+15.12.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1144
+SECTION 12  Dermatology
+lesions are typically purpuric, erosive, or crusted, and from psoriasis 
+(see Chapter 61). Skin biopsy findings, as well as hepatosplenomeg­
+aly, purpura, lymphadenopathy, anemia, thrombocytopenia, external 
+otitis, interstitial pneumonia, and osseous lesions, further distinguish 
+LCH from seborrheic dermatitis.
+Treatment of the scalp consists of mild keratolytic shampoos, such 
+as those containing selenium sulfide or zinc pyrithione. Ketoconazole 
+2% shampoo can be efficacious, particularly with controlling over­
+growth of the yeast. Mineral oil may be helpful in removing thick, 
+adherent scales. The scalp and diaper dermatitis may be treated with 
+low-­potency topical corticosteroids and barrier ointments. Topical 
+antifungal or antibacterial agents should be used for coexisting candi­
+diasis or impetigo.
+Diaper dermatitis is one of the most common dermatologic dis­
+orders of infants and toddlers (see Table 60.2). It comprises a group 
+of inflammatory conditions that involve the lower abdomen, genitalia, 
+upper thighs, and buttocks. Clinical manifestations include erythema, 
+edema, erosions, vesicles, and pustules. Secondary changes of postin­
+flammatory hyperpigmentation or hypopigmentation are common.
+Diaper dermatitis is often multifactorial, including irritation from 
+feces/urine, skin breakdown from maceration, and bacterial or fungal 
+components. Although urinary ammonia was thought to be the pri­
+mary factor in the development of diaper dermatitis, feces now appear 
+to play a more important role. Fecal ureases, by converting urea to 
+ammonia, cause the elevation of skin pH, which in turn increases fecal 
+protease and lipase activity. These proteases and lipases cause the dis­
+ruption of the epidermal barrier. Skin wetness, friction, maceration, 
+and contact with feces, urine, and microbes further compromise epi­
+dermal integrity. This results in increased permeability of the skin to 
+irritants such as soaps, powders, and detergents. Diaper dermatitis 
+may begin as early as 1–2 months of age and may become a chronic or 
+recurrent problem in older infants as well.
+Allergic contact dermatitis is another component to consider, 
+although it is more common in toddlers and children than neonates. 
+TABLE 60.2  Diaper Dermatitis
+Disease
+Clinical Manifestation
+Other Features
+Treatment
+Friction
+Inner surface of thighs, genitalia, buttocks, abdomen Course waxes and wanes
+Aggravated by talc
+Responds well to diaper changes
+Avoidance of diapers
+Irritant
+Mild erythema with shiny surface and occasional 
+papules
+Confined to convex surfaces
+Spares intertriginous areas
+Exacerbated by heat, moisture, and 
+sweat retention
+Gentle cleansing
+Regular diaper changes
+Barrier creams (zinc oxide, Vaseline)
+Low-­potency topical steroids can help
+Allergic contact
+Typically confined to convex surfaces
+Skin involved is in direct contact with offending 
+agent
+Mild cases: diffuse erythema, papules, vesicles, 
+scaling
+Severe cases: papules, plaques, psoriasiform 
+lesions, ulcerations, infiltrative nodules
+Often related to topical antibiotics 
+(neomycin, bacitracin)
+Certain emulsifiers in topical products
+Preservatives in wet wipes can be an 
+offender
+Remove offending agent
+Judicious use of low-­potency topical 
+steroids
+Barrier creams/ointments
+Seborrheic dermatitis
+Salmon-­colored patches
+Often have yellow, greasy scale
+Fissures, erosions, maceration, and weeping can 
+be seen
+Axillae, ear creases, and neck are often 
+involved
+“Cradle cap” on scalp
+Hypopigmentation often seen in 
+patients with darker skin tones
+Low-­potency topical steroids
+If coexistent infection—antifungal or 
+antibacterial agents
+Candidiasis
+Usually involves intertriginous areas and convex 
+surfaces
+Bright-­red papules and plaques
+Satellite lesions on abdomen and thighs
+Oral thrush may be present
+Often occurs after treatment with 
+systemic antibiotics or local topical 
+steroid use
+Topical anticandidal agent, including 
+nystatin
+Intertrigo
+Well-­demarcated, macerated plaques with weeping
+Gluteal cleft and fleshy folds of thighs
+May be associated with miliaria
+Avoiding excessive heat
+Cool clothing
+Psoriasis
+Bright red, scaly, well-­demarcated plaques
+Can persist for months
+Less responsive to topical treatment
+Red, sometimes scaly
+Can be present on extremities or trunk
+Nail changes seen
+Family history
+Low-­potency topical steroids
+Moisturizers
+Staphylococcal infection
+Many thin-­walled pustules with pink-­red base
+Collarette of scale after rupturing
+Antistaphylococcal therapy
+Acrodermatitis enteropathica 
+(zinc deficiency)
+Early lesions are vesicular and pustular
+Become confluent, pink, dry, scaly, crusty plaques
+Perioral skin typically also involved
+Irritability or listlessness
+Failure to thrive, alopecia, diarrhea
+Secondary to zinc deficiency or inborn 
+error of zinc transporter
+Treat with zinc replacement
+Langerhans cell histiocytosis
+May mimic candidiasis or seborrheic dermatitis
+Persistent, does not improve with standard 
+treatments
+Clusters of infiltrative, crusted, hemorrhagic papules
+Ulceration can be seen
+Involvement of groin, axillae, 
+periauricular skin, hairline, and scalp
+Anemia, thrombocytopenia, 
+hepatosplenomegaly, and osseous 
+lesions
+Chemotherapy
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1145
+CHAPTER 60  Congenital Cutaneous Lesions and Infantile Rashes
+Offenders can be dispersed dyes from disposable diapers and methyli­
+sothiazolinone in wet wipes. The differential diagnosis may also include 
+seborrheic dermatitis, skin or perianal infections (particularly due to 
+group A streptococcus), and psoriasis (see Chapter 61).
+FIXED LESIONS
+Macules, Papules, and Pustules
+Milia are pinpoint white or yellow papules that are commonly present 
+in 40–50% of neonates. Located predominantly on the face, they may 
+also be seen in the oral cavity, where they are referred to as Epstein 
+pearls (palate) or Bohn nodules (gingiva). The lesions represent 
+keratin-­filled epidermal inclusion cysts, which usually resolve spon­
+taneously during the first few weeks of life. Unusually widespread or 
+persistent lesions may be associated with defects such as hereditary 
+trichodysplasia, oral-­facial-­digital syndrome, or particular subtypes of 
+epidermolysis bullosa (EB). Milia may be present in several genoder­
+matoses, including Bazex-Dupré-Christol, Rombo, and Brook-­Spiegler 
+syndromes; atrichia with papular lesions; and pachyonychia congenita 
+type 2. Treatment is typically not needed, though topical retinoids have 
+been used.
+Sebaceous gland hyperplasia is characterized by the presence of 
+multiple flesh-­ to yellow-­colored tiny papules primarily on the nose 
+and cheeks of full-­term infants. The increased sebaceous cell size and 
+number as well as sebaceous gland volume may result from maternal 
+androgen stimulation. Spontaneous resolution occurs within the first 
+4–6 months of life.
+Subcutaneous fat necrosis is a condition of otherwise healthy infants 
+that is associated with preceding trauma, cesarean section, cold injury 
+(including therapeutic hypothermia), or hypoxia. Over half of patients 
+will develop lesions within the first week of life. This disorder occurs 
+primarily in healthy full-­term and postmature infants. It is thought to 
+be due to the higher ratio of saturated to unsaturated fat in neonates, 
+thereby predisposing the fat to crystallization with colder temperatures. 
+Single or multiple erythematous to violaceous, indurated, tender nod­
+ules or plaques arise on the buttocks, thighs, back, cheeks, and arms. 
+In rare cases, lesions liquefy, ulcerate, and drain an oily substance (Fig. 
+60.8). The diagnosis can be confirmed by the histopathologic findings of 
+fat lobules containing pathognomonic needle-­shaped clefts surrounded 
+by a mixed inflammatory infiltrate of lymphocytes, histiocytes, and for­
+eign body giant cells. Intact lesions heal spontaneously within several 
+months, whereas ulcerated lesions may heal more slowly and result 
+in scarring. All patients should be screened for hypercalcemia, which 
+may be present in nearly 70% of patients. Fortunately, hypercalcemia 
+tends to be asymptomatic, without evidence of irritability, hypotonia, 
+or weight loss, though life-­threatening hypercalcemia may occur. The 
+hypercalcemia may be delayed, with normal serum calcium early in the 
+course of this disorder but elevated levels arising several weeks later. 
+In most patients, the hypercalcemia resolves within 4 weeks of initial 
+detection. Some recommend screening at 30, 45, and 60 days following 
+resolution of skin lesions. The differential diagnosis includes cold pan­
+niculitis, cellulitis, and sclerema neonatorum.
+Juvenile xanthogranulomas (JXGs) are rare, benign, solitary col­
+lections of non–Langerhans cell histiocytes, thought to be reactive in 
+nature. They typically present during the neonatal and infantile period 
+and usually resolve over subsequent months or years. Multiple lesions 
+may exist and should raise suspicion for extracutaneous disease. The 
+incidence of extracutaneous JXG is rare, and the eye is thought to be 
+the most common site, occurring in 0.24% of patients. Multiple JXGs 
+should trigger a thorough review of symptoms, as neurofibromatosis 
+(NF)-­1 is associated with multiple JXGs. Recommendations for oph­
+thalmology examinations are somewhat controversial and are likely 
+low yield, unless there are ocular or visual symptoms. A skin biopsy 
+is diagnostic and shows collections of histiocytes and multinucleated 
+giant cells called Touton giant cells.
+A mastocytoma is a solitary skin-­colored to light red or tan papule 
+or plaque that is often located on the trunk, extremities, or neck. Some 
+lesions may have a yellow or pink hue. The lesion may appear at birth 
+or within the first few months of life. Histopathologic study reveals the 
+dermis densely infiltrated with mast cells. The characteristic finding 
+on physical examination is that stroking the lesion causes histamine 
+release that results in tense edema within the lesion and an erythem­
+atous flare, known as the Darier sign. A skin biopsy and special stains 
+for mast cells may confirm the clinical diagnosis. Symptoms such as 
+pruritus or flushing, when present, are usually mild. Treatment is not 
+usually necessary unless the patient has symptoms of excessive hista­
+mine release. The condition is self-­limited and resolves spontaneously 
+over several years. The lesions do not need to be excised.
+Urticaria pigmentosa is characterized by the development of mul­
+tiple mastocytomas, usually within the first 8–12 months of life (Fig. 
+60.9). The lesions may vary in size from a few millimeters to several 
+centimeters. Some lesions may not become pigmented until the child 
+is approximately 6 months of age or older. Therefore, early lesions of 
+Fig. 60.8  Subcutaneous fat necrosis. Indurated, erythematous plaques 
+on the shoulders and back of this 1-­week-­old boy. (From Paller AS, 
+Mancini AJ. Cutaneous disorders of the newborn. In: Paller AS, Mancini 
+AJ, eds. Hurwitz Clinical Pediatric Dermatology. 4th ed. Philadelphia: 
+Elsevier; 2011:14.)
+Fig. 60.9  Urticaria pigmentosa.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1146
+SECTION 12  Dermatology
+urticaria pigmentosa may resemble recurrent urticaria until pigmen­
+tation is noted. The Darier sign, or urtication of the lesions upon rub­
+bing, is seen in urticaria pigmentosa as well. Rarely, these lesions may 
+produce enough histamine release to cause flushing, diarrhea, vomit­
+ing, tachycardia, and hypotension. Parents should be counseled about 
+the avoidance of mast cell–degranulating agents.
+Antihistamines should be used in any patient who experiences 
+prominent histamine effects. Patients should be monitored closely 
+for any symptoms that suggest systemic mastocytosis. In rare cases, 
+other organs may be involved, including the intestines, bone, liver, 
+spleen, and bone marrow. Intestinal involvement may be manifested by 
+chronic diarrhea. The liver and spleen should be palpated for hepato­
+splenomegaly, and the patient should be monitored for any symptoms 
+of bone involvement. Routine bone marrow and hematologic exam­
+inations are not required. Systemic manifestations are more common 
+in adults; infants or children with significant systemic symptoms may 
+require further evaluation. In most infants and young children, urti­
+caria pigmentosa remits spontaneously by adulthood. Children who 
+present at an older age tend to have a more persistent condition that is 
+less likely to resolve.
+Plaques and Patches
+Pink (Vascular or Other)
+Vascular birthmarks can be classified into two groups: tumors and mal­
+formations (Table 60.3). Infantile hemangiomas are the most common 
+of the vascular tumors, and their behavior is characterized by a growth 
+phase (endothelial proliferation), followed by a plateau or stabilization 
+phase and then an involutional phase. Vascular malformations are 
+usually apparent at birth and tend to be relatively stable developmen­
+tal abnormalities of vessels, including any combination of capillaries, 
+veins, arteries, and lymphatic vessels (Table 60.4).
+Infantile hemangiomas are the most common benign tumors 
+occurring in children. These lesions develop in approximately 4% of 
+White infants by 1 year of age. Females are affected approximately 3 
+times as often as males. The incidence is higher in premature infants. 
+Other risk factors for hemangiomas include low birthweight and mul­
+tiple gestations. The natural course of infantile hemangiomas includes 
+proliferative and involutional phases that end in complete, sponta­
+neous regression in most cases. There is some thought that infantile 
+hemangiomas may be triggered by hypoxia, either through maternal 
+events or the infant factors.
+There are three types of infantile hemangiomas:
+	1.	 Superficial hemangiomas, once referred to as strawberry marks, 
+are the most common type (60%). They are bright red with well-­
+demarcated borders (Fig. 60.10). Often, a pale pink stain or bruise­
+like patch is noted at birth before taking its more characteristic 
+form.
+	2.	 Deep hemangiomas, previously known as cavernous hemangiomas, 
+are the least common of the three types (15%). They typically have 
+a blue-­violaceous to skin-­colored surface. These lesions involve the 
+deep reticular dermis and subcutaneous tissue. These may not be 
+noted until the infant is a few months old.
+	3.	 Mixed hemangiomas (25%) possess both superficial and deep com­
+ponents (Fig. 60.11).
+Most infantile hemangiomas occur on the head and neck, but any 
+area of the body may be involved. Infantile hemangiomas may be indis­
+tinguishable from port-­wine stains in the early weeks of life. Lesions 
+must be followed closely during the first few weeks after birth to deter­
+mine whether a proliferative phase is present. Although the cause 
+of infantile hemangiomas is not clear, their natural course has been 
+well documented. The initial lesion may be a white macule with cen­
+tral threadlike telangiectases or a red macule resembling a port-­wine 
+stain. A peripheral zone of pallor representing vasoconstriction may 
+be noted at this stage. Within the first few months of life, the macule 
+becomes raised and enlarges. During the first 6 months of life, infantile 
+hemangiomas proliferate at a rapid rate, and after 6 months, the lesions 
+grow at a slower rate. Deep hemangiomas (and to a lesser extent mixed 
+TABLE 60.3  Types of Vascular Tumors and 
+Vascular Malformations
+Vascular Tumors
+Vascular Malformations
+Hemangioma
+Kaposiform hemangioendothelioma
+Tufted hemangioma
+Noninvoluting congenital hemangioma 
+(NICH)
+Rapidly involuting congenital 
+hemangioma (RICH)
+Capillary malformation
+Venous malformation
+Lymphatic malformation
+Arteriovenous malformation 
+(AVM)
+Mixed
+TABLE 60.4  Differentiation of Infantile 
+Hemangiomas vs Vascular Malformations
+Infantile Hemangioma
+Vascular Malformations
+Up to 55% present at birth
+90% recognized at birth
+Rapid postnatal growth and slow 
+involution
+Static malformation of dysplastic 
+vessels that grows proportionally 
+with child
+Rapid endothelial cell turnover
+Normal endothelial cell turnover and 
+proliferation
+Increased incidence in female-­to-­
+male ratio (3:1–5:1)
+Female-­to-­male incidence ratio 1:1
+Fig. 60.10  A superficial hemangioma on the abdomen.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1147
+CHAPTER 60  Congenital Cutaneous Lesions and Infantile Rashes
+hemangiomas) have a slightly delayed onset of growth but also have 
+sustained growth when compared to superficial hemangiomas. Involu­
+tion may begin as early as the first year of life and is heralded by a color 
+change from bright cherry red to dull red violet. Deep hemangiomas 
+start to lose their blue-­violet hue. In time, the central portion of the 
+superficial hemangioma develops a grayish-­white color that eventually 
+extends to the periphery of the lesion. Lesions on the lips and nose 
+and deep hemangiomas usually involute more slowly. It is not possi­
+ble to predict precisely how long an infantile hemangioma will take to 
+involute. Statistically, 50% of lesions are gone by 5 years of age, 70% by 
+7 years, and more than 90% by 9 years. Once resolved, residual skin 
+changes such as hypopigmentation, atrophy, and telangiectases may be 
+present in up to 10–20% of affected patients. If infantile hemangiomas 
+have grown rapidly during their proliferative phase or were very exo­
+phytic, residual fibrofatty tissue may also be seen.
+Infantile hemangiomas have many potential complications and 
+associations (Table 60.5). For most, no treatment is needed. Manage­
+ment of infantile hemangiomas is based on a variety of factors. These 
+include the size of the lesion, location of the lesion, age of the patient, 
+rate of growth/involution at the time of presentation, and risk or pres­
+ence of complications. β Blockers, such as oral propranolol or topical 
+timolol 0.5% solution, are the initial treatment of choice. The most 
+common adverse events are sleep changes and cool extremities, but 
+more serious concerns are hypotension, bradycardia, and hypoglyce­
+mia, though these are rare. A pretreatment screening should include 
+clinical examination to identify patients who are at risk for cardiac or 
+pulmonary abnormalities.
+Lesions that may need to be treated include those on the midface, 
+labial, periorbital, genital, or diaper area. These lesions warrant close 
+clinical observation during the rapid growth phase of early infancy. 
+Additional therapeutic modalities that are more rarely used include 
+intralesional steroids, pulsed dye laser therapy, surgery, embolization, 
+and sclerosing agents.
+Location of infantile hemangiomas (segmental on face or beard dis­
+tribution) as well as on the spine and lower back should raise concern 
+for PHACE syndrome or PELVIS/SACRAL syndrome, respectively.
+Posterior fossa malformations, hemangiomas, arterial anoma­
+lies, cardiac defects, and eye abnormalities (PHACE) syndrome is a 
+rare syndrome that affects a subgroup of infants with infantile hemangi­
+omas. It is likely the most common vascular neurocutaneous disorder. 
+The cutaneous findings tend to be larger hemangiomas (>5 cm) and 
+also tend to be segmental, rather than arising from one point. These 
+hemangiomas can be more confluent, have a telangiectatic appearance, 
+Fig. 60.11  A mixed hemangioma with prominent deep component on 
+the trunk.
+TABLE 60.5  Complications and Syndromes of Infantile Hemangiomas
+Location
+Complication
+Lips/perineal/lumbosacral area
+Seen in rapidly growing lesions, especially of oral mucosa and genital area
+Risk for infection, scarring, hemorrhage; can be very painful
+High output, extensive lesions
+Congestive heart failure; hypothyroidism
+Extensive lesions with a large vascular supply may compromise cardiac function
+“Beard” distribution
+Symptomatic subglottic hemangiomas may occur in 50–60% of patients with extensive “beard” involvement
+Refer for laryngoscopy to evaluate risk for respiratory or airway compromise
+Often manifests within first 2–3 mo of life
+Periorbital distribution
+Associated ocular complications in up to 80% of patients
+Screening by an ophthalmologist to rule out astigmatism or amblyopia
+Ear lesions
+Location can cause the obstruction of auditory canal or decreased auditory conduction
+Monitor for otitis media or speech delay
+Lumbosacral hemangiomas
+High risk for spinal dysraphism; imaging of all midline lumbosacral hemangiomas should be considered
+Increased risk with other lumbosacral abnormalities (e.g., hypertrichosis, dimple, tags)
+Associated urogenital/anogenital anomalies may be present
+Large, extensive cervicofacial 
+hemangiomas
+PHACE syndrome
+Benign neonatal hemangiomatosis
+Multiple cutaneous hemangiomas without evidence of visceral hemangiomatosis
+History taking/physical examination should be performed thoroughly to rule out systemic involvement
+Consider liver ultrasound for infants with five or more cutaneous hemangiomas
+Benign clinical course with involution of hemangiomas within first year
+Disseminated neonatal 
+hemangiomatosis
+Multiple cutaneous hemangiomas with evidence of visceral hemangiomatosis
+Liver most commonly affected; can affect lungs, gastrointestinal tract, eyes, mouth, and tongue
+Work-­up necessary to determine the extent of systemic involvement; aggressive treatment usually needed
+PHACE, posterior fossa malformations, hemangiomas, arterial anomalies, cardiac defects, and eye abnormalities.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1148
+SECTION 12  Dermatology
+or be composed of grouped papules. They are nearly always located 
+on the head or face. It is important to distinguish them from capillary 
+malformations. Approximately 20% of all infants with segmental facial 
+hemangiomas have extracutaneous anomalies.
+Criteria for PHACE syndrome include one segmental hemangioma 
+of the head (>5 cm in diameter) plus one major criterion or two minor 
+criteria. Major and minor criteria involve a group of cerebrovascular, 
+structural brain, cardiovascular, ocular, and ventral/midline defects.
+Cerebral vascular anomalies are the most common extracutaneous 
+manifestation. The changes tend to be arterial, unlike Sturge-­Weber 
+syndrome, which involves capillaries. Imaging (MRI/magnetic reso­
+nance angiography [MRA] of the head and neck) greatly aids in the 
+work-­up of a patient with a segmental hemangioma on the face/head, 
+looking for arterial changes, as a subset of patients are at increased risk 
+for vasculopathy and ischemic stroke, though this remains a poorly 
+understood complication.
+Many congenital brain abnormalities have been noted in patients 
+with PHACE syndrome: The most common ones are malformations 
+of the posterior fossa and cerebellum. Most patients with congenital 
+lesions will have normal neurologic examinations during infancy, and, 
+thus, screening should not be based on abnormalities with the neuro­
+logic examination.
+Cardiovascular anomalies may be seen on echocardiogram in up to 
+40% of patients and include coarctation of the aorta (most common), 
+aberrant subclavian aneurysm, ventricular septal defect, and arterial 
+aneurysms. Ocular abnormalities are somewhat rare in PHACE syn­
+drome but include microphthalmia, optic nerve hypoplasia, persistent 
+fetal vasculature, and morning glory disk anomalies. Midline defects 
+including sternal cleft, supraumbilical abdominal raphe, and subtle 
+changes such as sternal pits, dimples, or papules can be seen. A screen­
+ing echocardiogram should be done for children who are at risk for 
+PHACE syndrome.
+Treatment typically is propranolol, and for patients with life-­
+threatening hemangiomas, it can be initiated prior to obtaining imag­
+ing results. Propranolol is typically well tolerated in patients with 
+PHACE syndrome, though it is recommended that they undergo a 
+physical exam and echocardiogram prior to initiation, to make sure 
+there is not coarctation of the aortic arch.
+PELVIS, LUMBAR, and SACRAL syndromes are all different 
+acronyms to describe disorders that include a segmental heman­
+gioma of the perineal area or midline lower back with underlying 
+abnormalities. The acronyms PELVIS (perineal hemangioma, exter­
+nal genitalia malformations, lipomyelomeningocele, vesicorenal 
+abnormalities, imperforate anus, and skin tag) and SACRAL (spinal 
+dysraphism, anogenital anomalies, cutaneous anomalies, renal and 
+urologic anomalies, associated with angioma of lumbosacral local­
+ization) have been used to describe associations with occult spinal 
+dysraphism. The risk of a spinal anomaly is ∼35% with a solitary 
+lumbosacral hemangioma. MRI is more sensitive than ultrasound 
+in evaluating for underlying spinal abnormalities in lumbosacral 
+lesions, such as tethered cord.
+Capillary malformations (also known as port-­wine stains or nevus 
+flammeus) occur in 0.3% of all newborns. They are present at birth and 
+represent progressive ectasia of the superficial vascular plexus. These 
+lesions do not undergo spontaneous resolution. They are usually uni­
+lateral and segmental but can be bilateral (Fig. 60.12). The face and 
+neck are the most commonly affected sites. Capillary malformations 
+are typically pink to red during infancy and darken to reddish-­purple 
+hues with advancing age. Affected adults frequently have thickened, 
+nodular port-­wine stains that may be associated with soft tissue hyper­
+trophy. Capillary malformations occur as isolated cutaneous lesions or 
+in conjunction with other abnormalities.
+Sturge-­Weber syndrome includes ipsilateral association of a facial 
+capillary malformation, almost always involving the V1 distribution 
+of the trigeminal nerve, eye abnormalities (primarily glaucoma), and 
+vascular malformations of the ipsilateral leptomeninges and brain. 
+The incidence of Sturge-­Weber syndrome is approximately 5–10% in 
+infants with a capillary malformation of the V1 distribution of the tri­
+geminal nerve. Consequences of Sturge-­Weber syndrome may include 
+seizures, developmental delay, hemiplegia, and glaucoma. Neuroimag­
+ing may be helpful in demonstrating the characteristic calcifications of 
+the leptomeninges and the abnormal cerebral cortex, although these 
+changes may be quite subtle with early studies. Having MRI findings to 
+diagnose Sturge-­Weber syndrome prior to developing symptoms does 
+not necessarily result in better outcomes. Newborns at risk for Sturge-­
+Weber syndrome should have careful clinical follow-­ups, including 
+monitoring eye pressure for glaucoma. Early referral to a pediatric 
+neurologist for education of parents to help monitor for neurologic 
+symptoms is also recommended.
+Other syndromes associated with capillary malformations include 
+Klippel-­Trenaunay syndrome and Parkes-­Weber syndrome. Klippel-­
+Trenaunay syndrome is characterized by a capillary malformation, 
+venous and/or lymphatic malformation, and soft tissue and/or bone 
+overgrowth of the affected limb. Parkes-­Weber syndrome is the asso­
+ciation of arteriovenous malformations, limb overgrowth, and the 
+variable presence of lymphedema and multiple arteriovenous shunts. 
+Klippel-­Trenaunay syndrome is a slow-­flow capillary-­venous malfor­
+mation, whereas Parkes-­Weber syndrome is a fast-­flow arterial-­venous 
+malformation. Both entities can result in overgrowth and hypertrophy 
+of the affected limb; however, Parkes-­Weber syndrome usually results 
+in increased morbidity and clinical consequences.
+Treatment of a capillary malformation is best accomplished with 
+the pulsed dye laser. Several treatments are generally required over 
+months to years to achieve desired fading. Depending on the location 
+of the capillary malformation, the response to the pulsed dye laser may 
+be limited. Many experts believe that early initiation of pulsed dye laser 
+therapy results in superior cosmetic results.
+Fig. 60.12  Capillary malformation of the back and flank, extending 
+down the right arm.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1149
+CHAPTER 60  Congenital Cutaneous Lesions and Infantile Rashes
+Nevus simplex (salmon patch) is the most common vascular lesion 
+in infancy. These lesions consist of ectatic capillaries and are present at 
+birth in about 40% of infants. These pink to red macules can be located 
+on the nape of the neck, glabella, forehead, upper eyelids, and naso­
+labial regions. More atypical locations include the lateral forehead, 
+nose, upper and lower lip, and back. Unusually persistent or prominent 
+nevus simplex can be associated with Beckwith-­Wiedemann syndrome, 
+Nova syndrome, nevus simplex with odontodysplasia, macrocephaly-­
+capillary malformation syndrome, and Roberts-­SC syndrome.
+No treatment is necessary because most of these fade by 1–2 years 
+of age. Persistent lesions can be treated successfully with the pulsed dye 
+laser if cosmetically disturbing.
+Cutis marmorata telangiectatica congenita (CMTC) manifests 
+as an erythematous to dark, bluish-­purple, reticulated vascular patch 
+that does not resolve with physiologic warming. This disorder is char­
+acteristically more segmental and asymmetric than physiologic cutis 
+marmorata. The clinical findings are most often noted within the first 
+few days of life. Associated features may include cutaneous atrophy and 
+ulcerations of the skin. CMTC has also been reported to be associated 
+with additional abnormalities, including body asymmetry (hypotro­
+phy or hypertrophy of affected limb), other vascular malformations, 
+developmental delay, and glaucoma (with lesions in the V1/V2 trigem­
+inal nerve distribution). CMTC may be difficult to differentiate from 
+a reticulated capillary malformation. The clinical course of CMTC is 
+characterized by gradual fading within the first 1–2 years of life, and 
+treatment is generally not required.
+Kasabach-­Merritt phenomenon is the presence of thrombocy­
+topenia, hemolytic anemia, hypofibrinogenemia, and consumptive 
+coagulopathy in association with a vascular tumor. Kasabach-­Merritt 
+phenomenon is associated with distinct vascular lesions: namely, 
+kaposiform hemangioendothelioma (KHE) or tufted angioma, but not 
+infantile hemangiomas. KHE and tufted angiomas are rare vascular 
+tumors thought to exist on a spectrum. They can be locally destructive, 
+infiltrating underlying soft tissue. Clinical examination findings, his­
+tologic findings, and the behavior of associated vascular tumors differ 
+from those of conventional infantile hemangiomas. These lesions are 
+often firm and violaceous with a shiny texture and may proliferate for 
+several years. This condition can be life-­threatening and may warrant 
+aggressive multimodal therapeutic modalities. Treatment of choice is 
+complete excision, if possible, but may not be feasible given location, 
+size, or tissue infiltration. Other treatments include sirolimus, high-­
+dose systemic corticosteroids, compression therapy, embolization, 
+irradiation, low-­molecular-­weight heparin, and interferon alfa. Siroli­
+mus has been used with promising results.
+Venous and lymphatic malformations are slow-­flow vascular mal­
+formations that are often present at birth. Venous malformations are 
+bluish, poorly demarcated, compressible masses. The characteristic 
+bluish hue is caused by the presence of ectatic venous channels in the 
+dermis. Often there may be associated swelling with changes in posi­
+tion or activity. Venous malformations can be segmental or more gen­
+eralized, and radiologic imaging may assist in determining the extent 
+of the lesion. Evaluation for central nervous system abnormalities with 
+cranial imaging is recommended for patients with venous malforma­
+tions of the face, to rule out developmental intracranial venous abnor­
+malities that usually are asymptomatic. Many lesions manifest with 
+pain caused by muscle involvement or with episodes of thrombosis or 
+hematoma. Other associated risks include bone abnormalities (thin­
+ning, demineralization, or hypoplasia) and chronic localized intravas­
+cular coagulation. Treatment is aimed at correcting disfigurement and 
+functional impairments. Therapy can include sclerotherapy, deep laser 
+surgery, compression, and surgical excision. In many cases, it may be 
+best to not intervene and to treat symptomatically.
+Lymphatic malformations, previously referred to as lymphangio­
+mas, are usually skin-­colored masses that may have superficial clear 
+or hemorrhagic vesicles that occasionally leak lymphatic fluid. These 
+lesions can be classified as macrocystic, microcystic, or mixed. Mac­
+rocystic malformations often occur on the head and neck and are fre­
+quently diagnosed by prenatal ultrasonography. When such a large 
+lymphatic malformation occurs on the head and neck region, it is often 
+referred to as cystic hygroma. Microcystic malformations are usually 
+more superficial lesions with a “frog spawn” appearance (hemorrhagic 
+and clear vesicles) that intermittently leak lymphatic fluid. This char­
+acteristic lesion was previously referred to as lymphangioma circum­
+scriptum. These lesions usually become more evident in childhood 
+rather than infancy. Large lymphatic malformations may impinge on 
+vital structures and cause severe compromise in the neonatal period. 
+Cellulitis is a potential complication of lymphatic malformations and 
+may require prophylactic antibiotics if recurrent. Treatment includes 
+sclerotherapy, sirolimus, and surgery in select lesions; surgical ther­
+apy of these lesions is often difficult and may result in recurrences and 
+complications.
+Hyperpigmented or Darker Pigmented Lesions
+Several hyperpigmented or darker pigmented lesions can be seen 
+during the neonatal period and infancy, while others can present later 
+in childhood (Table 60.6).
+Congenital melanocytic nevi (CMN) are pigmented macules, pap­
+ules, patches, or plaques that are present at birth or early infancy in 
+approximately 2–3% of children. The lesions are often tan at birth and 
+become darker and hairier during infancy and childhood. Congenital 
+nevi can be divided into small (<1.5 cm), medium (1.5–20 cm), large 
+(20–40 cm), and giant (>40 cm) lesions on the basis of their projected 
+adult size. In neonates and infants, lesions larger than 9 cm on the 
+head and larger than 6 cm on the body constitute giant CMN (Fig. 
+60.13). Most CMN are small to medium in size. The incidence of giant 
+melanocytic nevi is approximately 1/20,000 live births. The majority of 
+CMN have a variant in NRAS.
+The malignant potential of CMN remains an area of great contro­
+versy. The risk for malignant transformation in the general population 
+for small and medium congenital nevi is thought to be <1%, and there 
+are no universal guidelines for their management. For comparison, 
+the overall risk for melanoma in the general population in the United 
+States is 2%. Removal of these nevi can wait until later childhood, when 
+local anesthesia and outpatient surgery are feasible.
+The risk for malignant transformation of giant CMN is another 
+controversial issue. Interestingly, long-­term prospective studies have 
+shown melanoma of the central nervous system to be more common 
+than melanoma of the skin. The incidence of melanoma is approxi­
+mately 8% in those with CMN >60 cm with projected adult size. These 
+large lesions warrant close observation and serial photography. Care­
+ful annual or semiannual examinations with palpation of the nevi are 
+essential, as melanoma can arise from deep portions of the nevi with 
+little or no apparent surface alterations. Removal of giant congenital 
+nevi is also controversial from a future-­melanoma-­risk standpoint. 
+Removal may require extensive grafting as well as soft tissue expansion 
+procedures.
+Neurocutaneous melanosis is defined as the presence of giant (>40 
+cm) and/or multiple CMN, in association with benign or malignant 
+melanocytic infiltration of the leptomeninges. Clinically symptomatic 
+neurocutaneous melanosis substantially worsens the prognosis of large 
+or giant CMN and usually presents around or before 2 years of age, 
+but some may not show symptoms until the second or third decade 
+of life. Most symptomatic patients die within 3 years of the onset of 
+initial neurologic symptoms, typically from central nervous system 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1150
+SECTION 12  Dermatology
+melanoma or mechanical obstruction. The most frequent clinical man­
+ifestations include hydrocephalus, seizures, papilledema, headaches, 
+increase in head circumference, paresis, and developmental delay. 
+Location overlying the axial skeleton and many satellite lesions are pre­
+dictors of neurocutaneous melanosis.
+Screening MRI of the central nervous system is currently the best 
+predictor of all adverse outcomes. MRI with contrast of the head and 
+spine within the first 6 months of life is suggested in newborns with 
+giant CMN, particularly in the posterior axial distribution and espe­
+cially if satellite nevi are present. An MRI is also recommended for any 
+infant with two or more CMN, regardless of size. MRI abnormalities of 
+the brain have been identified in asymptomatic patients with giant or 
+multiple CMN. The most common imaging abnormalities in asymp­
+tomatic patients seen were T1 shortening in the cerebellum, temporal 
+lobes, pons, and medulla. Radiologic findings can be very subtle and 
+may be missed by radiologists unfamiliar with this entity. The risk of 
+melanoma is higher in those with multiple CMN, particularly if neuro­
+logic abnormalities are noted on screening MRI.
+Café-­au-­lait macules are well-­circumscribed tan macules that usu­
+ally measure <0.5 cm but may be as large as 15–20 cm in diameter. The 
+TABLE 60.6  Congenital and Acquired Disorders of Hyperpigmentation
+Disorder
+Congenital or Acquired
+Clinical Features
+Freckles (ephelides)
+Acquired
+Small tan to brown, 1-­ to 5-­mm macules
+Increase in number and pigmentation in summer and spring due to sunlight
+Seen in fair-­skinned individuals in sun-­exposed areas
+Lentigines
+Acquired
+Uniform, dark, brown/black 2-­ to 5-­mm macules
+No seasonal variation or change with sun exposure
+Can be anywhere on the body, including mucous membranes
+Café-­au-­lait spots
+Congenital or acquired
+May be seen at birth or later in life
+Tan to brown discrete macules or patches
+Round or oval
+Six or more lesions >5 mm in prepubertal persons meets diagnostic criteria for 
+neurofibromatosis (NF)
+NF lesions are smooth and well demarcated
+McCune-­Albright syndrome spots are larger and more jagged
+Dermal melanocytosis 
+(mongolian spots)
+Congenital
+Brown, blue-­gray patches often seen on lower trunk
+Seen usually in African-­Americans, Asians, or Native Americans
+Usually fades over time
+Nevus of Ota
+Congenital or acquired
+50% present at birth; 50% develop in second decade
+Unilateral, blue-­gray pigmentation in trigeminal nerve distribution
+Commonly involves ipsilateral sclera
+May darken or enlarge over time
+Nevus of Ito
+Congenital or acquired
+Patchy blue-­gray pigmentation of shoulder, supraclavicular area
+May increase in size and color over time
+Congenital melanocytic nevus
+Congenital
+Tan, brown, dark brown macules, patches, plaques, seen at birth or early infancy
+Variable color and texture
+Large, giant, or multiple nevi increase risk for neurocutaneous melanosis
+Nevus spilus (speckled 
+lentiginous nevus)
+Congenital or acquired
+Well-­demarcated, hyperpigmented patch with smaller, darker macules and papules within 
+larger patch
+May be extensive and segmental in distribution
+Small risk for malignant transformation
+Acquired melanocytic nevi
+Acquired
+May start as hyperpigmented macules (junctional melanocytic nevi)
+Over time, can become elevated papules (compound melanocytic nevi)
+Peaks in number during second and third decade of life
+Abnormalities in color, borders, size, symmetry may suggest malignancy
+Melanoma
+Acquired
+Variegation in color, texture, or border of congenital or acquired melanocytic nevi
+Rare in childhood or infancy
+Risk correlated with family history and sun exposure in childhood
+Fig. 60.13  Giant congenital melanocytic nevus of the lower back. Imag­
+ing should be considered to evaluate for tethered cord or spinal dysra­
+phism, as well as melanosis of the spine or brain.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1151
+CHAPTER 60  Congenital Cutaneous Lesions and Infantile Rashes
+lesions are found on any cutaneous site and may be present at birth or 
+appear during early childhood. Although café-­au-­lait spots are seen in 
+10–20% of normal individuals, the presence of many macules should 
+raise the clinical suspicion of NF or other genetic disorders (see Table 
+60.6). The presence of six or more café-­au-­lait spots (>0.5 cm in pre­
+pubertal children; >1.5 cm in postpubertal children) fulfills one of the 
+diagnostic criteria for NF-­1. Although the lesions are not pathogno­
+monic, they are present in most patients with NF and tend to be larger 
+and more numerous. Café-­au-­lait spots have also been associated with 
+tuberous sclerosis, McCune-­Albright syndrome, Turner syndrome, 
+Bloom syndrome, ataxia-­telangiectasia, Russell-­Silver syndrome, 
+Fanconi anemia, epidermal nevus syndrome, Gaucher disease, and 
+Chédiak-­Higashi syndrome.
+Dermal melanocytosis (mongolian spots) are large, poorly demar­
+cated, slate-­gray to blue-­black patches usually located over the but­
+tocks or lumbosacral region of normal infants. The condition occurs in 
+approximately 80–90% of Black infants, 75% of Asian infants, and 10% 
+of White infants. Dermal melanocytosis may be single or multiple and 
+frequently measure up to 10–20 cm in diameter. This benign disorder is 
+present at birth, usually fades during early childhood, and necessitates 
+no therapeutic intervention. In rare cases, the lesions may persist into 
+adulthood and may benefit from therapy with lasers that treat dermal 
+pigmentation. These lesions should not be confused with bruises. Der­
+mal melanocytosis is also seen in Hurler, Hunter, GM1 gangliosidosis, 
+Niemann-­Pick, mucolipidosis, and mannosidosis syndromes.
+The nevus of Ota and nevus of Ito are special variants of dermal 
+melanocytosis commonly seen in Asian and Black individuals. In 
+contrast to mongolian spots, these conditions tend to persist through­
+out adulthood. The nevus of Ota is a slate-­gray to blue-­black patch 
+located in the distribution of the trigeminal nerve. The condition is 
+usually unilateral and involves the forehead, temple, periorbital region, 
+nose, and cheek. Pigmentation of the sclera, iris, and choroid occurs 
+in about 50% of affected individuals. The disorder may be cosmeti­
+cally disfiguring, and laser treatment may be promising in some cases. 
+The nevus of Ito is a similar lesion occurring in the distribution of 
+the lateral supraclavicular and brachial nerves. The condition is usually 
+unilateral and involves the shoulder, neck, upper arm, scapular, and/or 
+deltoid regions. It may be seen alone or in conjunction with the nevus 
+of Ota.
+Hypopigmented and Depigmented Lesions
+These conditions are often cosmetically disfiguring and persistent. 
+They can be markers of serious systemic diseases. Pigmentary disor­
+ders may be localized or generalized; congenital or acquired; and tran­
+sient, stable, or progressive (Table 60.7).
+Nevus depigmentosus is a benign, solitary, hypopigmented macule 
+or patch that is noted at birth. It is not depigmented as the name sug­
+gests. It typically remains stable in size and may grow in proportion to 
+the patient as they grow. It should be differentiated from vitiligo.
+Ash leaf spots are hypopigmented macules, sometimes present at 
+birth or within the first few months or years of life, that allow early iden­
+tification of individuals with tuberous sclerosis (Fig. 60.14). Although 
+occasionally observed in normal infants, the characteristic lesions 
+are present in up to 90% of patients with tuberous sclerosis. They are 
+TABLE 60.7  Congenital and Acquired Disorders of Hypopigmentation and Depigmentation
+Disorder
+Congenital or Acquired
+Clinical Features
+Piebaldism
+Congenital
+Autosomal dominant inheritance
+Leukoderma of frontal scalp
+White forelock
+Usually involves face, neck, trunk, flank, and extremities
+Waardenburg syndrome is a variant, with sensorineural deafness, limb defects, and Hirschsprung 
+disease
+Nevus depigmentosus
+Congenital
+Well-­circumscribed hypopigmented patch (not typically depigmented)
+May be isolated or segmental
+Usually present at birth or infancy
+Wood lamp may aid in diagnosis
+Often found on trunk or extremities
+Hypomelanosis of Ito
+Congenital
+Whorls or streaks of hypopigmentation that follow lines of Blaschko
+Usually present at birth, but may present in first few years of life
+Can be associated with central nervous system, eye, or musculoskeletal abnormalities
+Nevus anemicus
+Congenital
+Rubbing or temperature change causes erythema of surrounding skin
+Often unilateral and on trunk
+Not accentuated by Wood lamp
+Asymptomatic
+Ash leaf spot
+Congenital
+Hypopigmented macules/patches often present at birth
+Wood lamp may aid in diagnosis
+Solitary lesion often of no significance
+Multiple lesions are associated with tuberous sclerosis
+Vitiligo
+Acquired
+Complete loss of pigment in involved areas
+May be segmental in distribution
+Hyperpigmentation can be seen at the edges of lesions
+Infrequently seen with autoimmune disorders, such as hypothyroidism
+Albinism
+Congenital
+Complete depigmentation or hypopigmentation in skin
+Affects eyes and hair
+Increased risk for skin cancer
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1152
+SECTION 12  Dermatology
+usually 2–3 cm in size and are located on the trunk and extremities. The 
+macules may be lancet shaped or may have a confetti-­like or irregularly 
+shaped appearance. Wood lamp examination may facilitate identifica­
+tion. Although tuberous sclerosis is an autosomal dominant disorder, 
+spontaneous gene variants are responsible for up to 50% of new cases. 
+Other cutaneous findings include facial angiofibromas (adenoma seba­
+ceum), periungual or subungual fibromas, gingival fibromas, shagreen 
+patches (connective tissue hamartomas), and fibrous plaques (typically 
+on the forehead). Systemic manifestations include seizures, intellectual 
+disability, cardiac rhabdomyomas, renal angiomyolipomas and cysts, 
+retinal nodular hamartomas, and pulmonary cysts. Imaging studies of 
+the brain may demonstrate cortical tubers or subependymal nodules, 
+which are pathognomonic for tuberous sclerosis.
+Piebaldism is characterized by circumscribed areas of depigmenta­
+tion in the newborn. The leukoderma is usually located on the frontal 
+scalp and is associated with a white forelock; however, the depigmented 
+patches characteristically involve the trunk, upper arms, and legs. 
+Hyperpigmented or normally pigmented macules or patches may 
+occur within the depigmented patches. This rare condition is transmit­
+ted in an autosomal dominant pattern. The disorder is usually present 
+at birth but may not be recognized until later because of the light color 
+of neonatal skin. A Wood lamp may enhance the contrast between 
+depigmented and normal skin.
+Piebaldism is a stable condition throughout life, and most affected 
+individuals are otherwise normal. Sun protection and cosmetic camou­
+flage of the depigmented skin are the mainstays of therapy.
+Waardenburg syndrome is a rare genetic disorder characterized 
+by a white forelock, areas of leukoderma, congenital sensorineural 
+deafness, heterochromia of the irides, and lateral displacement of the 
+medial canthi. Other features may include a flattened nasal bridge, 
+confluent eyebrows, hypoplasia of the nasal alae, speech impairment 
+that may or may not be related to presence of a cleft lip or palate, and 
+various skeletal abnormalities. It is most commonly inherited in an 
+autosomal dominant fashion, though autosomal recessive inheritance 
+patterns are sometimes seen.
+Albinism is manifested by diffuse congenital hypopigmentation or 
+depigmentation of the skin, hair, and eyes. This heterogeneous group 
+of disorders is composed of approximately 10 types of oculocutaneous 
+albinism and 5 forms of ocular albinism. Most types of oculocutaneous 
+albinism are inherited in an autosomal recessive pattern. The variants 
+of ocular albinism are transmitted in an X-­linked or autosomal reces­
+sive mode of inheritance.
+The various forms of albinism can usually be diagnosed by findings 
+on physical examination. These features include absent or reduced pig­
+mentation of skin and hair and ophthalmologic findings such as foveal 
+hypoplasia, nystagmus, photophobia, transillumination of the irides, 
+fundal depigmentation, and decreased visual acuity. Patients should be 
+monitored closely by ophthalmologists and evaluated for hearing loss. 
+In White persons, the skin is usually milk white and the hair is white, 
+blond, or light brown. The pupils are usually pink, and the irides are 
+blue or gray. In African-­Americans, the skin may appear tan or white 
+and is frequently freckled. The hair is usually blond or red, and the eyes 
+are blue or hazel.
+Treatment of albinism includes photoprotection and sun avoidance. 
+Individuals are predisposed to severe actinic damage and should be 
+monitored closely for the development of actinic keratoses, basal cell 
+carcinomas, squamous cell carcinomas, and melanomas.
+Other
+Nevus sebaceus of Jadassohn is a hamartoma of sebaceous gland deri­
+vation. Typically present at birth, these lesions are variable in size, usually 
+solitary, and located on the scalp, face, and neck. During infancy, they are 
+well-­circumscribed, hairless, yellowish-­orange, smooth, velvety, or waxy 
+plaques. These nevi tend to thicken and become verrucous during puberty.
+Because up to 15% of these lesions develop secondary benign or 
+malignant neoplasms during adolescence or adulthood, prophylactic 
+surgical excision is recommended before puberty.
+Dermoid cysts are nontender, noncompressible, firm, congenital 
+subcutaneous nodules found along sites of closure of embryonic clefts. 
+Dermoids are lined by stratified squamous epithelium that contains 
+mature adnexal structures. Although these lesions can be noted in 
+newborns, they may not be detected until later in infancy or in child­
+hood after the lesion enlarges or becomes inflamed. Lesions are often 
+described as rubbery and may be blue to skin-­colored in appearance. 
+A tuft of hair may be seen protruding from an orifice in the dermoid. 
+Dermoid cysts are often found in the head and neck region, often the 
+lateral portion of an eyebrow.
+The most important concern with dermoid cysts is the potential 
+for an intracranial connection. Up to 25% of midline or nasal dermoid 
+cysts may have an intracranial connection; all midline head and spinal 
+lesions should be imaged. If a connection is present, the patient is at 
+risk for infection because the dermoid cyst and sinus can serve as a 
+portal of entry for bacteria. These patients should be referred to neu­
+rosurgery for removal and repair. Dermoid cysts that are not midline, 
+including those commonly seen at the lateral brow area, should also 
+be excised because of the potential risk for infection and bony erosion. 
+After surgical excision, lesions do not usually recur.
+Aplasia cutis congenita is a heterogeneous group of disorders 
+in which there is a congenital absence of skin (Fig. 60.15). This disor­
+der may involve the epidermis, dermis, and subcutaneous tissues. The 
+most common type of aplasia cutis is membranous aplasia cutis. These 
+lesions are well-­demarcated, small, oval, 1-­ to 5-­cm defects on the ver­
+tex of the scalp. They are easily identified by their classic “punched-­
+out” appearance and may have an atrophic surface with a glistening, 
+membrane-­like surface at birth. In older children, these lesions resemble 
+scars. If the lesion is associated with a hair collar or midline in location, 
+the clinician should evaluate for the potential of cranial dysraphism.
+The defect is usually solitary; however, in a minority of patients, 
+multiple sites may be affected. Aplasia cutis can also occur on the trunk 
+and limbs, where the defects are often bilateral and symmetric; extrem­
+ity lesions must be distinguished from EB. Aplasia cutis in the midline 
+lumbosacral area is of particular importance because it may be associ­
+ated with spinal dysraphism.
+Lesions of membranous aplasia cutis usually necessitate no further 
+investigation, and gradual epithelialization typically occurs sponta­
+neously. However, large, deep, or widespread lesions with underlying 
+bone defects may necessitate surgical intervention to facilitate healing.
+Fig. 60.14  Ash leaf macule of tuberous sclerosis.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1153
+CHAPTER 60  Congenital Cutaneous Lesions and Infantile Rashes
+The term hair collar sign is a designation for hypertrichosis that 
+usually either partly or completely encircles a congenital scalp lesion 
+(Fig. 60.16). Usually the ring of hair is denser, darker, and coarser in 
+texture than the normal scalp hair. A hair collar sign surrounding a 
+congenital scalp nodule is a marker for cranial dysraphism, includ­
+ing encephaloceles and meningoceles. If a hair collar sign is seen in 
+combination with a capillary malformation or aplasia cutis, the risk for 
+cranial dysraphism is increased substantially. Therefore, all congenital 
+midline lesions with a hair collar sign should be imaged to evaluate for 
+an intracranial connection. MRI is the gold standard, but it occasion­
+ally misses a small intracranial connection. Lack of a hair collar sign 
+in aplasia cutis correlates with a negative predictive value of abnormal 
+imaging findings. Therefore, MRI is likely not needed in patients with 
+aplasia cutis who do not have a hair collar sign.
+Aplasia cutis typically is an isolated finding, but it can be associated 
+with some syndromes, including Adams-­Oliver syndrome. This rare con­
+dition also includes CMTC and limb defects. In the setting of aplasia cutis, 
+a good physical and evaluation for limb abnormalities is recommended.
+Lumbosacral hypertrichosis may be a normal variant, especially in 
+certain ethnic groups. However, hypertrichosis in this area in association 
+with other stigmata indicative of a neurologic defect is highly suggestive 
+of spinal dysraphism. The area may be poorly circumscribed, and the hair 
+can be light or dark. The hypertrichosis is often present at birth. Com­
+plete neurologic examination should be performed. There are no defined 
+parameters to determine further evaluation of isolated hypertrichosis, 
+though suspicion for spinal dysraphism is higher if additional cutaneous 
+markers, such as a vascular stain or a mass, are also present. If a spinal 
+defect is suspected, further evaluation by MRI of the spine is necessary.
+Lumbosacral dimples are common findings in neonates. Large, deep 
+dimples that are located in the superior portion of the gluteal crease should 
+be radiologically imaged to rule out dermal sinuses communicating 
+directly with the spinal canal. These dimples should not be probed because 
+of the potential communication with the spinal canal. Sacral dimples seen 
+in association with other cutaneous findings such as hypertrichosis, vas­
+cular birthmarks, a mass, or a deviated gluteal cleft carry particularly high 
+risk for spinal dysraphism. Imaging should be performed with MRI of the 
+spine as ultrasound has low sensitivity for subtle findings.
+Infantile hemangiomas that overlie the midline of the back are 
+strong markers for spinal dysraphism, most often lipomyelomeningo­
+cele, intraspinal lipoma, or a tethered cord. Infantile hemangiomas that 
+are larger than 4 cm and overlap the midline appear to carry greater 
+risk for spinal dysraphism, and MRI should be performed. The risk for 
+spinal dysraphism is increased when hemangioma is seen in associa­
+tion with other cutaneous findings such as sacral dimples, hypertricho­
+sis, or a deviated gluteal cleft.
+A solitary midline capillary malformation of the back without addi­
+tional clinical findings may be a marker for spinal dysraphism, but this 
+association is less clear. All affected infants should be evaluated for 
+additional neurocutaneous stigmata. If a lumbosacral capillary malfor­
+mation is detected with other cutaneous markers of spinal dysraphism, 
+imaging is warranted.
+TRANSIENT AND PHYSIOLOGIC CHANGES TO THE 
+SKIN
+Many entities unique to newborns are caused by physiologic phenom­
+ena in response to the infant’s transition to the new environment. Most 
+such entities are benign and self-­limited.
+Cutis Marmorata
+Cutis marmorata is characterized by symmetric reticulated cyanosis 
+involving the trunk and extremities. This marbled appearance usually 
+appears when the skin is cool and resolves upon rewarming of the infant. 
+This benign condition typically improves with age. When this vascular 
+pattern is seen in older infants or children, it may be associated with 
+Down syndrome, Cornelia de Lange syndrome, or hypothyroidism.
+Cutis marmorata should be differentiated from CMTC. The per­
+sistent cutis marmorata of CMTC is characteristically asymmetric; often 
+segmental, mottled, or marble-­like; and more localized than physio­
+logic cutis marmorata. In addition, the reticulated mottling of CMTC is 
+darker in color and does not resolve with rewarming. Although CMTC 
+improves with age, the abnormal vascular pattern is more persistent than 
+that seen in physiologic cutis marmorata. It may be an isolated entity or 
+may have distinct associations, including atrophy or hypertrophy of the 
+affected extremity, ulcerations, or coexistent vascular malformations and 
+tumors, and other extracutaneous anomalies. If CMTC is generalized or 
+involves the face, patients should be evaluated for glaucoma as well.
+Harlequin Color Change
+The harlequin color change is a distinctive condition observed in 
+infants lying on their sides. It is characterized by marked erythema on 
+the dependent side of the infant’s body with simultaneous blanching 
+Fig. 60.15  Congenital absence of skin (aplasia cutis congenita) on the 
+scalp of a neonate; multiple lesions can be seen.
+Fig. 60.16  A classic hair collar sign (from aplasia cutis).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1154
+SECTION 12  Dermatology
+of the nondependent side (Fig. 60.17). This phenomenon occurs more 
+often in premature infants but may be observed in full-­term newborns. 
+The change may be caused by autonomic immaturity, which results in 
+altered peripheral vascular tone.
+Although it typically occurs within the first 3 weeks of life, harle­
+quin color change is most often noted at 2–5 days of age. The changes 
+develop abruptly and usually resolve within 20 minutes.
+The harlequin syndrome is characterized by hemifacial flushing, 
+tearing, and rhinorrhea with contralateral hypohidrosis (Fig. 60.18). 
+Frey syndrome (auriculotemporal nerve syndrome) is characterized 
+by unilateral (occasionally bilateral) facial flushing and sweating, trig­
+gered by the introduction of solid foods.
+Acrocyanosis
+The normal newborn usually displays a bluish-­purple discolor­
+ation of the hands, feet, and lips. Referred to as acrocyanosis, this 
+typically occurs in association with crying or cold stress and can be 
+seen in >30% of infants. It results from increased peripheral arterio­
+lar tone, which leads to vasospasm and subsequent venous pooling. 
+Acrocyanosis should be differentiated from central cyanosis, which is 
+noted on mucosal surfaces. Physiologic acrocyanosis gradually resolves 
+spontaneously during the neonatal period.
+RARE AND GENETIC DISORDERS
+Epidermolysis Bullosa
+EB represents a group of diseases manifested by spontaneous or fric­
+tion (trauma)-­related skin and oral mucosa–related fragility and bulla 
+formation, inherited as autosomal or dominant disorders. Subgroups 
+include:
+EB simplex (suprabasal, basal) (Figs. 60.19 and 60.20 and Table 60.8)
+EB junctional (Herlitz, other) (Table 60.9)
+EB dystrophic (dominant, recessive) (Table 60.10) and Kindler syndrome
+Neonates may present at birth with lower extremity ulcerations 
+(congenital localized absence of skin: Bart syndrome) that may resem­
+ble cutis aplasia (see Fig. 60.19). Blisters, bulla, and erosions also 
+develop after birth secondary to minor trauma (see Fig. 60.20).
+More severe subtypes may heal with scarring; infection is a risk 
+in all subtypes. EB is also associated with congenital pyloric outlet 
+obstruction; airway (laryngeal involvement) obstruction is a less com­
+mon complication.
+Ichthyosis
+These heterogeneous disorders are characterized by cutaneous scaling 
+in a syndromic or nonsyndromic pattern, presenting in the newborn 
+as lamellar ichthyosis, congenital ichthyosiform erythroderma, or col­
+lodium baby (Figs. 60.21, 60.22, and 60.23 and Table 60.11).
+Neutrophilic Dermatosis
+Sweet syndrome is an acute febrile neutrophilic dermatosis that is 
+often associated with another primary disorder including congenital 
+Fig. 60.17  The dependent side is bright red in this infant with the harle­
+quin color change. (From Cohen BA, ed. Pediatric Dermatology. 4th ed. 
+Philadelphia: Elsevier; 2013:19, Fig. 2.10.)
+Fig. 60.18  Harlequin syndrome. Transient unilateral flushing associated 
+with hyperhidrosis, tearing, and rhinorrhea. (From Eichenfield LF, Frie­
+den IJ, Mathes EF, et al., eds. Neonatal and Infant Dermatology. 3rd ed. 
+Philadelphia: Elsevier; 2015:420, Fig. 25.17.)
+Fig. 60.19  Congenital localized absence of skin can be seen in all types 
+of epidermolysis bullosa. (From Eichenfield LF, Frieden IJ, Mathes EF, 
+et al., eds. Neonatal and Infant Dermatology. 3rd ed. Philadelphia: Else­
+vier; 2015:143, Fig. 11.2.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1155
+CHAPTER 60  Congenital Cutaneous Lesions and Infantile Rashes
+infection (HIV), immune deficiency (common variable immune defi­
+ciency, chronic granulomatous disease), neoplasia, inflammatory 
+bowel disease, lupus, and autoinflammatory disorders. It is character­
+ized by high fevers with erythematous, painful raised papular nodules 
+usually on the face and upper extremities (Fig. 60.24). Pathologic vari­
+ants in POMP are associated with immune deficiency, autoimmunity, 
+and neonatal-­onset Sweet syndrome.
+CANDLE (early-­onset chronic atypical neutrophilic dermatitis 
+with lipodystrophy and elevated temperature) presents in the new­
+born with recurrent lesions and fevers similar to Sweet syndrome. 
+CANDLE is due to pathologic variants in PSMB8, which is a com­
+ponent of immunoproteasome. The rash precedes the lipodystrophy 
+(Fig. 60.25) and is seen on the trunk, limbs, fingers, and face. The rash 
+is annular and produces hyperpigmentation after an acute episode.
+Immune Disregulation
+Neonatal-­onset multisystem inflammatory disease (NOMID), 
+also known as chronic infantile neurologic cutaneous and articular 
+syndrome (CINCA), may manifest at birth or infancy with intermit­
+tent fevers and a papular urticaria-­like nonpruritic rash (Fig. 60.26). 
+During episodes there may be arthralgias and arthritis leading in 
+Fig. 60.20  Blistering caused by the edge of a diaper in an infant with a 
+milder form of epidermolysis bullosa. (From Eichenfield LF, Frieden IJ, 
+Mathes EF, et al., eds. Neonatal and Infant Dermatology. 3rd ed. Phila­
+delphia: Elsevier; 2015:143, Fig. 11.3.)
+TABLE 60.8  Characteristics of Major Forms 
+of Epidermolysis Bullosa Simplex (EBS), Basal
+Type
+Clinical Manifestations
+EBS, localized 
+(formerly Weber-­
+Cockayne)
+Easy blistering on palms and soles
+May be focal keratoderma of palms and soles in adults
+~25% show oral mucosal erosions
+Rarely show reticulated pigmentation, especially on 
+arms and trunk, and punctate keratoderma (EBS 
+with mottled pigmentation)
+EBS, generalized, 
+intermediate 
+(formerly Koebner)
+Generalized blistering
+Variable mucosal involvement
+Focal keratoderma of palms and soles
+Nail involvement in 20%
+Improves with advancing age
+EBS, generalized, 
+severe (formerly 
+Dowling-­Meara)
+Most severe in neonate, infant; improves beyond 
+childhood
+Large, generalized blisters; later, smaller 
+(herpetiform) blisters
+Mucosal blistering, including esophageal
+Nails thickened, shed but regrow
+May have natal teeth
+EBS with mottled 
+pigmentation
+Reticulated hyperpigmentation, especially on arms 
+and trunk
+Punctate keratoses and keratoderma
+From Hurwitz Clinical Pediatric Dermatology. 5th ed. Philadelphia: 
+Elsevier; 2016:319, Table 13-­2.
+TABLE 60.9  Characteristics of Major Forms 
+of Junctional Epidermolysis Bullosa (JEB)
+Type
+Clinical Manifestations
+JEB, generalized 
+severe (formerly 
+Herlitz)
+50% of patients die by 2 yr old
+Blisters heal with atrophic scarring but no milia
+Periungual and fingerpad blistering, erythema
+Blistering of oral and esophageal mucosae
+Laryngeal and airway involvement with early 
+hoarseness
+Later, perioral granulation tissue with sparing of lips
+Anonychia
+Dental enamel hypoplasia, excessive caries
+Growth retardation
+Anemia
+JEB, generalized 
+intermediate 
+(formerly non-­
+Herlitz)
+Less severe, but similar manifestations to Herlitz type, 
+including dental, nail, and laryngeal involvement
+Granulation tissue is rare
+Perinasal cicatrization
+Less mucosal involvement
+Alopecia
+Anemia but not as severe as JEB, generalized severe
+JEB, localized
+Localized blisters without residual scarring or 
+granulation tissue
+Minimal mucosal involvement
+Dental and nail abnormalities as in JEB, generalized 
+severe
+JEB, generalized 
+with pyloric atresia
+Usually lethal in neonatal period
+Generalized blistering, leading to atrophic scarring
+May be born with large areas of cutis aplasia
+No granulation tissue
+Nail dystrophy or anonychia
+Pyloric atresia, genitourinary malformations
+Rudimentary ears
+Dental enamel hypoplasia (survivors)
+Variable anemia, growth retardation, mucosal 
+blistering
+From Hurwitz Clinical Pediatric Dermatology. 5th ed. Philadelphia: 
+Elsevier; 2016:321, Table 13-­4.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1156
+SECTION 12  Dermatology
+TABLE 60.10  Characteristics of Major Forms of Dystrophic Epidermolysis Bullosa
+Type
+Clinical Manifestations
+Dominant dystrophic
+Onset at birth to early infancy
+Blistering predominates on dorsum of hands, elbows, knees, and lower legs
+Milia associated with scarring
+Some patients develop scarlike lesions, especially on the trunk
+80% have nail dystrophy
+Recessive dystrophic, severe 
+generalized
+Present at birth
+Widespread blistering, scarring, milia
+Deformities: pseudosyndactyly, joint contractures
+Severe involvement of mucous membranes, nails; alopecia
+Growth retardation, poor nutrition
+Anemia
+Mottled, carious teeth
+Osteoporosis, delayed puberty, cardiomyopathy, glomerulonephritis, renal amyloidosis, IgA nephropathy
+Predisposition to squamous cell carcinoma in heavily scarred areas
+Recessive dystrophic, generalized 
+intermediate
+Generalized blisters from birth with milia, scarring
+Less anemia, growth retardation, mucosal but more esophageal issues with advancing age
+IgA, immunoglobulin A.
+From Hurwitz Clinical Pediatric Dermatology. 5th ed. Philadelphia: Elsevier; 2016:323, Table 13-­6.
+Neonatal Presentations of Ichthyoses
+Vernix-like
+hyperkeratosis
+Collodion baby
+Harlequin ichthyosis
+KID syndrome
+Constrictive scales
+with deformities
+Harlequin ichthyosis
+Netherton syndrome
+KID syndrome
+CIE
+Erythroderma
+Generalized scaling
+Also
+consider
+Also
+consider
+Also
+consider
+Omenn syndrome
+SCID
+Ectodermal dysplasias
+Erythrodermic psoriasis
+XLI
+Netherton syndrome
+Sjögren-Larsson syndrome
+Trichothiodystrophy
+Neutral lipid storage
+disease
+Lamellar ichthyosis
+CIE
+Self-healing collodion baby
+Harlequin ichthyosis {mild)
+Sjögren-Larsson syndrome
+Trichothiodystrophy
+Neutral lipid storage
+Disease
+Ectodermal dysplasias
+Gaucher disease
+Blisters / erosions
+Epidermolytic
+Ichthyosis
+Ichthyosis bullosa of
+Siemens
+Epidermolysis bullosa
+TEN
+SSSS
+Immunobullous disease
+Mastocytosis
+Fig. 60.21  Neonatal presentations of ichthyoses. The spectrum of possible presentations of ichthyosis in the 
+neonate and the possible underlying forms of ichthyosis. In some cases, disorders beyond ichthyosis must 
+be considered (“also consider”). Sjögren-­Larsson syndrome, trichothiodystrophy, and neutral lipid storage 
+disease are italicized, as they rarely present as collodion babies. CIE, congenital ichthyosiform erythroderma; 
+KID syndrome, keratitis-­ichthyosis-­deafness syndrome; SCID, severe combined immunodeficiency; SSSS, 
+staphylococcal scalded skin syndrome; TEN, toxic epidermal necrolysis; XLI, X-linked ichthyosis. (From Crai­
+glow BG. Ichthyosis in the newborn. Semin Perinatol. 2013;37:26–31 [Fig. 2, p. 28].)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1157
+CHAPTER 60  Congenital Cutaneous Lesions and Infantile Rashes
+A
+B
+Fig. 60.22  Collodion baby. A, A shiny transparent membrane covered this baby at birth. B, She later devel­
+oped lamellar ichthyosis. (From Cohen BA, ed. Pediatric Dermatology. 4th ed. Philadelphia: Elsevier; 2013:26, 
+Fig. 2.29.)
+A
+B
+C
+D
+Fig. 60.23  Congenital ichthyosiform erythroderma in two children. A, Congenital erythroderma persisted in 
+this child. B, Note the marked scaling on her hands. C, Generalized erythema with fine scaling was noted 
+on the first day of life. D, Shortly after his first birthday, he developed a new pattern of migrating, scaly, ery­
+thematous plaques typical of Netherton syndrome. Microscopic examination of his hair revealed trichorrhexis 
+invaginata (bamboo hair). (From Cohen BA, ed. Pediatric Dermatology. 4th ed. Philadelphia: Elsevier; 2013:28, 
+Fig. 2.31.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1158
+SECTION 12  Dermatology
+TABLE 60.11  Ichthyoses and Ichthyosis Syndromes
+VARIANT
+Genetics
+Incidence
+Clinical Features
+Onset
+Congenital ichthyosiform 
+erythroderma
+OMIM #242100
+Autosomal recessive
+TGM-­1, ABCA12, NIPAL4 
+(ICHTHYIN) ALOX12B, 
+ALOXE3
+1/50,000–1/100,000
+Collodion baby
+Fine white scale on trunk, face, and scalp
+Large scale on legs
+Variable erythroderma
+Birth
+Lamellar ichthyosis
+OMIM #242300
+Autosomal recessive
+TGM-­1, ABCA12, NIPAL4 
+(ICHTHYIN), CYP4F22, LIPN
+1/100,000
+Collodion baby
+Generalized large, dark, platelike scale
+Ectropion, eclabium
+Mild palmoplantar keratoderma
+Birth
+Epidermolytic hyperkeratosis
+OMIM #113800
+Autosomal dominant (most 
+common)
+Autosomal recessive, sporadic
+KRT1, KRT10
+Rare
+Widespread blisters at birth
+Increased erythema, scale with age
+Marked scale in intertriginous areas, palms, soles
+Malodor from bacterial overgrowth
+Birth
+Ichthyosis vulgaris
+OMIM #146700
+Autosomal dominant 
+FILAGGRIN
+1/250 (may be higher)
+Generalized mild scale sparing flexures
+Improves with age
+After 3 mo
+X-­linked ichthyosis
+OMIM #308100
+X-­linked recessive
+Steroid sulfatase gene
+1/2,000–1/6,000 males
+Large “dirty” scales on trunk, extremities sparing 
+flexures
+Variable in female carriers
+Corneal opacities in Descemet membrane
+Cryptorchidism
+Placental sulfatase deficiency with prolonged 
+maternal labor
+Within first 3 mo
+Harlequin ichthyosis
+OMIM #242500
+Autosomal recessive
+ABCA12
+Very rare
+Thick plates of “armor”-­like scale in neonate
+Overall survival just over 50%
+Death in first 3 mo of life most common
+Birth
+SYNDROMIC
+Syndrome/Disease
+Genetics
+Clinical Features
+Netherton syndrome
+OMIM #256500
+Autosomal recessive
+SPINK5
+Hair shaft anomaly (trichorrhexis invaginata most common), ichthyosis 
+linearis circumflexa, severe atopic dermatitis, failure to thrive
+Refsum disease, infantile
+OMIM #266510
+Autosomal recessive
+PEX1, PXMP3, PEX26
+Retinitis pigmentosa, cerebellar ataxia, chronic polyneuritis with 
+deafness, skin resembles ichthyosis vulgaris
+Sjögren-­Larsson syndrome
+OMIM #270200
+Autosomal recessive
+ALDH3A2 (fatty aldehyde dehydrogenase gene)
+Spastic paralysis, intellectual disability, seizures, glistening dots on 
+retina, dental bone dysplasia, similar skin findings to congenital 
+ichthyosiform erythroderma
+Conradi-­Hunermann syndrome 
+(chondrodysplasia punctata type 2)
+OMIM #302900
+X-­linked dominant
+EBP gene
+Chondrodysplasia punctata, alopecia, skeletal anomalies, cataracts, 
+dysmorphic facies, ichthyosiform erythroderma
+KID (keratitis-­ichthyosis-­deafness) 
+syndrome
+OMIM #148210
+Autosomal dominant (sporadic)
+GJB2 encoding connexin 26
+Fixed keratotic plaques, keratoderma, atypical ichthyosis with 
+prominent keratoses on extremities and head, neurosensory deafness, 
+keratoconjunctivitis
+CHILD syndrome
+OMIM #308050
+X-­linked recessive
+NSDHL
+Congenital hemidysplasia, unilateral ichthyosiform nevus (epidermal 
+nevus), limb defects, cardiovascular and renal anomalies
+From Cohen BA. Pediatric Dermatology. 4th ed. Philadelphia: Saunders/Elsevier; 2013:27–28, Tables 2.2 and 2.4.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1159
+CHAPTER 60  Congenital Cutaneous Lesions and Infantile Rashes
+A
+B
+C
+Fig. 60.24  A–C, Sweet syndrome. A 2-­year-­old girl developed fever, 
+arthritis, leukocytosis, and widely disseminated, red-­to-­violaceous 
+plaques and nodules, which demonstrated intense neutrophilic inflam­
+mation on skin biopsy. An extensive evaluation failed to reveal any 
+underlying disease. Although she responded quickly to systemic cor­
+ticosteroids, it took nearly a year to wean her because of frequent 
+recurrences. (From Cohen BA, ed. Pediatric Dermatology. 4th ed. Phila­
+delphia: Elsevier; 2013:189, Fig. 7.32.)
+Fig. 60.25  Annular, purpuric plaques of CANDLE (early-­onset chronic 
+atypical neutrophilic dermatitis with lipodystrophy and elevated tem­
+perature) syndrome. (From Torrelo A. CANDLE syndrome as a par­
+adigm of proteasome-­related autoinflammation. Frontiers Immunol. 
+2017;8:927, Fig. 5.)
+some to permanent joint deformity. Neurologic manifestations include 
+chronic aseptic meningitis, cerebral atrophy, cognitive decline, optic 
+nerve edema, and hearing loss. Leukocytosis and elevations of CRP 
+and ESR indicate the inflammatory state. This cryopyrin-­associated 
+autoinflammatory disease is due to pathologic variants in NLRP3 (see 
+Chapter 54).
+STING-­associated vasculopathy with onset in infancy (SAVI) is 
+due to a gain-­of-­function pathologic variant in TMEM173 (STING1) 
+and presents as an autoinflammatory disease with neonatal or infancy 
+onset. Manifestations include failure to thrive, recurrent fevers, spon­
+taneous or cold-­induced (malar or digits) rash (Fig. 60.27), gingi­
+vostomatitis, interstitial lung disease, polyarthritis, and increased 
+inflammatory markers including CRP, ESR, and antinuclear antibody 
+(ANA). Heterozygous variants in STING1 are also associated with 
+familial chilblain lupus (see Chapter 44).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1160
+SECTION 12  Dermatology
+B
+A
+Fig. 60.26  Neonatal-­onset multisystem inflammatory disease (NOMID). A, An urticaria-­like rash is usually 
+present at birth or during the first months of life. B, The rash is nonpruritic and papular. (Courtesy Dr. Raphaela 
+Goldbach-­Mansky.)
+P8
+P9
+P9
+P13
+P13
+P14
+Fig. 60.27  STING-­associated vasculopathy with onset in infancy (SAVI). Cutaneous involvement observed in 
+patients. Representative cutaneous involvement observed in four patients of the cohort, demonstrating ery­
+thematous infiltrated plaques with ulcerations on the dorsal side of the fingers and mild nail dystrophy (P8), 
+roundlike ulcerations on the dorsal side of the right leg and ulceration of the nose and the right cheek (P9), 
+facial erythema and telangiectatic lesions of the cheeks and erythema and ulceration of the outer helix of the 
+right ear (P13), and urticarial-­like lesions of the right elbow (P14). (From Fremond ML, Hadchouel A, Berteloot 
+L, et al. Overview of STING-­associated vasculopathy with onset in infancy (SAV1) among 21 patients. J Allergy 
+Clin Immunol: In Practice. 2021;9[2]:803–818 [Fig. 2A, p. 808].)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1161
+CHAPTER 60  Congenital Cutaneous Lesions and Infantile Rashes
+Erosions/ulcers
+Vesicles/bulIae
+Generalized
+Generalized
+Localized
+Localized
+BI
+Sucking blisters
+Membranous ACC
+Bullous mastocytosis
+AE
+Infectious
+HSV
+SSSS
+Scabies
+GBS
+Syphilis
+Neonatal VZV
+Infectious
+Neonatal candidiasis
+HSV
+Staphylococcal pustulosis
+Congenital candidiasis
+Scabies
+Aspergillus
+Chikungunya
+Cytomegalovirus
+GBS
+GAS
+Haemophilus influenza
+Listeria
+Neonatal VZV
+Pseudomonas
+Non-infectious
+ETN
+Neonatal pustular melanosis
+IP
+DIRA
+HIES
+LCH
+Neonatal Behçet syndrome
+Pustular eruption of Down syndrome
+Pustular psoriasis
+Sweet syndrome
+Non-infectious
+EB
+IP
+CEP
+HEP
+DCM
+BP
+LABD
+EI
+PV
+PG
+PF
+TEN
+TP
+Localized
+Head/neck
+NCP
+EPF
+EPD
+Trunk
+Miliaria
+Hands/feet
+Acropustulosis
+Pustules
+Generalized
+Infectious
+HSV
+SSSS
+Aspergillus
+Congenital syphillis
+GBS
+Intrauterine VZV
+Pseudomonas
+Noma
+Zygomycosis
+Diaper
+Irritant diaper erosions
+Infantile hemangioma
+AE
+Perinatal gangrene of buttock
+Head/neck
+Scalp electrode trauma
+ACC
+EPD
+AE
+Extremities/hands
+Sucking blister
+Trauma from adhesives
+Non-infectious
+EB
+BCIE
+Congenital deficiency of protein C
+Congenital deficiency of protein S
+Congenital deficiency of
+fibrinogen
+CEVD
+Focal dermal hypoplasia
+Porphyrias
+Pyoderma gangrenosum
+TEN
+Fig. 60.28  Diagnostic algorithm for vesiculopustular eruptions in neonates based on primary lesion mor­
+phology and distribution. Conditions highlighted in green are common, yellow are uncommon, and red are 
+rare. ACC, aplasia cutis congenita; AE, acrodermatitis enteropathica; BCIE, bullous congenital ichthyosiform 
+erythroderma; BI, bullous impetigo; BP, bullous pemphigoid; CEP, congenital erythropoietic porphyria; CEVD, 
+congenital erosive and vesicular dermatosis; DCM, diffuse cutaneous mastocytosis; DIRA, deficiency of inter­
+leukin-­1 receptor antagonist; EB, epidermolysis bullosa; EI, epidermolytic ichthyosis; EPD, erosive pustular 
+dermatosis of the scalp; EPF, eosinophilic pustular folliculitis; ETN, erythema toxicum neonatorum; GAS, 
+group A streptococcus; GBS, group B streptococcus; HEP, hepatoerythropoietic porphyria; HIES, hyper-­
+immunoglobulin E syndrome; HSV, herpes simplex virus; IP, incontinentia pigmenti; LABD, linear immuno­
+globulin A bullous dermatosis; LCH, Langerhans cell histiocytosis; NCP, neonatal cephalic pustulosis; PF, 
+pemphigus foliaceus; PG, pemphigoid gestationis; PV, pemphigus vulgaris; SSSS, staphylococcal scalded 
+skin syndrome; TEN, toxic epidermal necrolysis; TP, transient porphyrinemia; VZV, varicella zoster virus. (From 
+Lalor LE, Chiu YE. Rare vesiculopustular eruptions of the neonatal period. Clin Perinatol. 2020;47[1]:53–75 
+[Fig. 1, p. 54].)
+   	 S U MMA RY  A N D  R E D  F L A G S
+Neonates and infants can have a variety of congenital birthmarks and 
+transient rashes. It is necessary to identify the primary skin lesion, any 
+secondary skin lesions or changes, and the size, color, distribution, 
+and configurations of the lesions to develop an appropriate differential 
+diagnosis. Many entities unique to neonates are benign and self-­limited 
+and often require only reassurance to the parents.
+Red flags are lesions consistent with HSV, Staphylococcus aureus, or 
+LCH (see Table 60.2); those consistent with neurocutaneous diseases, 
+such as ash leaf spots; or a capillary malformation in V1 distribution 
+(see Table 60.1). The location of infantile hemangiomas in a beard 
+distribution or on the spine and lower back should raise concern for 
+PHACE or PELVIS/SACRAL syndrome (see Table 60.5). Lesions found 
+on the midline of the back or head such as hemangiomas or hair collar 
+sign can be associated with spinal dysraphism (see Table 60.1 and Fig. 
+60.12).
+An approach to the diagnosis of erosive, vesicular, bullous, and pus­
+tular lesions is noted in Fig. 60.28.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1161.e1
+BIBLIOGRAPHY
+Rashes: Papules and Pustules
+Bolognia J, Jorrizo J, Schaffer J. Dermatology. Philadelphia: Elsevier Saunders; 
+2012.
+Chia PS, Leung C, Hsu YL, et al. An infant with transient neonatal pustular 
+melanosis presenting as pustules. Pediatr Neonatol. 2010;51(6):356–358.
+Ehrhardt MJ, Humphrey SR, Kelly ME, et al. The natural history of skin-­
+limited Langerhans cell histiocytosis: a single-­institution experience. J 
+Pediatr Hematol Oncol. 2014;36(8):613–616.
+Eichenfield LF, Krakowski AC, Piggott C, et al. Evidence-­based 
+recommendations for the diagnosis and treatment of pediatric acne. 
+Pediatrics. 2013;131(suppl 3):S163–S186.
+Good LM, Good TJ, High WA. Infantile acropustulosis in internationally 
+adopted children. J Am Acad Dermatol. 2011;65(4):763–771.
+Hashizume S, Ansai S, Kosaka M, et al. Infantile case of eosinophilic pustular 
+folliculitis successfully treated with topical indomethacin. J Dermatol. 
+2014;41(2):196–197.
+Toyonaga E, Abe R, Moriuchi R, et al. Indomethacin for refractory infantile 
+eosinophilic pustular folliculitis. JAMA Dermatol. 2013;149(3):367–368.
+Rashes: Patches and Plaques
+Chang MW, Nakrani R. Six children with allergic contact dermatitis 
+to methylisothiazolinone in wet wipes (baby wipes). Pediatrics. 
+2014;133(2):e434–e438.
+Gleicher N, Elkayam U. Preventing congenital neonatal heart block in 
+offspring of mothers with anti-­SSA/Ro and SSB/La antibodies: a review 
+of published literature and registered clinical trials. Autoimmun Rev. 
+2013;12(11):1039–1045.
+Lee LA. The clinical spectrum of neonatal lupus. Arch Dermatol Res. 
+2009;301(1):107–110.
+Llanos C, Friedman DM, Saxena A, et al. Anatomical and pathological findings 
+in hearts from fetuses and infants with cardiac manifestations of neonatal 
+lupus. Rheumatology (Oxford). 2012;51(6):1086–1092.
+Padilla-­Espana L, Diaz Cabrera R, Del Boz J, et al. Congenital lupus with 
+multiorgan involvement: a case report and review of literature. Pediatr 
+Dermatol. 2015;32(3):401–404.
+Silverman E, Jaeggi E. Non-­cardiac manifestations of neonatal lupus 
+erythematosus. Scand J Immunol. 2010;72(3):223–225.
+Vanoni F, Lava SAG, Fossali EF, et al. Neonatal systemic lupus erythematosus 
+syndrome: a comprehensive review. Clin Rev Allergy Immunol. 
+2017;53:469–476.
+Fixed Lesions: Macules, Papules, and Pustules
+Del Pozzo-­Magaña BR, Ho N. Subcutaneous fat necrosis of the newborn: a 20-­
+year retrospective study. Pediatr Dermatol. 2016;33:e353–e355.
+Haveri FT, Inamadar AC. A cross-­sectional prospective study of cutaneous 
+lesions in newborn. ISRN Dermatol. 2014;2014:360590.
+Mahe E, Girszyn N, Hadj-­Rabia S, et al. Subcutaneous fat necrosis 
+of the newborn: a systematic evaluation of risk factors, clinical 
+manifestations, complications and outcome of 16 children. Br J Dermatol. 
+2007;156(4):709–715.
+Mitra S, Dove J, Somisetty SK. Subcutaneous fat necrosis in newborn—an 
+unusual case and review of literature. Eur J Pediatr. 2011;170(9):1107–
+1110.
+Murphy JT, Soeken T, Megison S, et al. Juvenile xanthogranuloma: diverse 
+presentations of noncutaneous disease. J Pediatr Hematol Oncol. 
+2014;36(8):641–645.
+Samuelov L, Kinori M, Chamlin SL, et al. Risk of intraocular and other 
+extracutaneous involvement in patients with cutaneous juvenile 
+xanthogranuloma. Pediatr Dermatol. 2018;35:329–335.
+Stefanko NS, Drolet BA. Subcutaneous fat necrosis of the newborn and 
+associated hypercalcemia: a systematic review of the literature. Pediatr 
+Dermatol. 2019;36:24–30.
+Wang AR, Bercovitch L. Congenital milia en plaque. Pediatr Dermatol. 
+2016;33:e258–e259.
+Fixed Lesions: Plaques and Patches
+Adams D, Trenor C, Hammill A, et al. Efficacy and safety of sirolimus 
+in the treatment of complicated vascular anomalies. Pediatrics. 
+2016;137(2):e20153257.
+Chiu YE, Drolet BA, Blei F, et al. Variable response to propranolol treatment 
+of kaposiform hemangioendothelioma, tufted angioma, and Kasabach-­
+Merritt phenomenon. Pediatr Blood Cancer. 2012;59(5):934–938.
+Drolet BA, Chamlin SL, Garzon MC, et al. Prospective study of spinal 
+anomalies in children with infantile hemangiomas of the lumbosacral skin. 
+J Pediatr. 2010;157(5):789–794.
+Drolet BA, Trenor 3rd CC, Brandão LR, et al. Consensus-­derived practice 
+standards plan for complicated kaposiform hemangioendothelioma. J 
+Pediatr. 2013;163(1):285–291.
+Garzon M, Epstein L, Heyer G, et al. PHACE syndrome: consensus-­derived 
+diagnosis and care recommendations. J Pediatr. 2016;178:24.
+Johnson EF, Smidt AC. Not just a diaper rash: LUMBAR syndrome. J Pediatr. 
+2014;164(1):208–209.
+Leaute-­Labreze C, Boccara O, Degrugillier-­Chopinet C, et al. Safety of oral 
+propranolol for the treatment of infantile hemangioma: a systematic 
+review. Pediatrics. 2016;138(4):e20160353.
+Leaute-­Labreze C, Hoeger P, Mazereeuw-­Hautier J, et al. A randomized, 
+controlled trial of oral propranolol in infantile hemangioma. N Engl J Med. 
+2015;372:735–746.
+Liang MG, Frieden IJ. Infantile and congenital hemangiomas. Semin Pediatr 
+Surg. 2014;23(4):162–167.
+Marqueling AL, Oza V, Frieden IJ, et al. Propranolol and infantile 
+hemangiomas four years later: a systematic review. Pediatr Dermatol. 
+2013;30(2):182–191.
+Olsen G, Hansen L, Stefanko N, et al. Evaluating the safety of oral propranolol 
+therapy in patients with PHACE syndrome. Jama Dermatology. 
+2020;156:186–190.
+Schumacher WE, Drolet BA, Maheshwari M, et al. Spinal dysraphism 
+associated with the cutaneous lumbosacral infantile hemangioma: a 
+neuroradiological review. Pediatr Radiol. 2012;42(3):315–320.
+Siegel DH, Tefft KA, Kelly T, et al. Stroke in children with posterior fossa 
+brain malformations, hemangiomas, arterial anomalies, co-­arctation of 
+the aorta and cardiac defects and eye abnormalities (PHACE) syndrome: a 
+systematic review of the literature. Stroke. 2012;43(6):1672–1674.
+Smith C, Friedlander S, Guma M, et al. Infantile hemangiomas: an updated 
+review on risk factors, pathogenesis, and treatment. Birth Defects Res. 
+2017;109:809–815.
+Steiner J, Drolet B. Classification of vascular anomalies: an update. Semin 
+Intervent Radiol. 2017;34:225–232.
+Wassef M, Blei F, Adams D, et al., ISSVA Board and Scientific Committee. 
+Vascular anomalies classification: recommendations from the International 
+Society for the Study of Vascular Anomalies. Pediatrics. 2015;136(1):e203–
+e214.
+Yu X, Zhang J, Wu Z, et al. LUMBAR syndrome: a case manifesting as 
+cutaneous infantile hemangiomas of the lower extremity, perineum 
+and gluteal region, and a review of published work. J Dermatol (Tokyo). 
+2017;44:808–812.
+Zallmann M, Leventer R, Mackay M, et al. Screening for Sturge-­Weber 
+syndrome: a state-­of-­the-­art review. Pediatr Dermatol. 2018;35:30–42.
+Fixed Lesions: Hyperpigmented or Darker Pigment
+Alikhan A, Ibrahimi OA, Eisen DB. Congenital melanocytic nevi: where 
+are we now? Part I. Clinical presentation, epidemiology, pathogenesis, 
+histology, malignant transformation, and neurocutaneous melanosis. J Am 
+Acad Dermatol. 2012;67(4):495.e1–e17.
+Kinsler V, O’Hare P, Bulstrode N, et al. Melanoma in congenital melanocytic 
+naevi. Br J Dermatol. 2017;176:1131–1143.
+Polubothu S, McGuire N, Al-­Olabi L, et al. Does the gene matter? Genotype-­
+phenotype and genotype-­outcome associations in congenital melanocytic 
+naevi. Br J Dermatol. 2020;182:434–443.
+Price H, O’Haver J, Marghoob A, et al. Practical application of the new 
+classification scheme for congenital melanocytic nevi. Pediatr Dermatol. 
+2015;32:23–27.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+References
+1161.e2
+Schaffer JV. Update on melanocytic nevi in children. Clin Dermatol. 
+2015;33(3):368–386.
+Sibbald C, Pope E, Randhawa H, et al. Neurocutaneous melanosis and 
+congenital melanocytic nevi: a retrospective review of clinical and 
+radiologic characteristics. Br J Dermatol. 2015. [Epub ahead of print].
+Surveillance, Epidemiology, and End Results Program (SEER) National Cancer 
+Institute website http://www.seer.cancer.gov/statfacts/html/melan.html.
+Waelchli R, Aylett S, Atherton D, et al. Classification of neurological 
+abnormalities in children with congenital melanocytic naevus syndrome 
+identifies magnetic resonance imaging as the best predictor of clinical 
+outcome. Br J Dermatol. 2015;173:739–750.
+Fixed Lesions: Other
+Browning JC. Aplasia cutis congenita: approach to evaluation and 
+management. Dermatol Ther. 2013;26(6):439–444.
+Humphrey S, Hu X, Adamson K, et al. A practical approach to the evaluation 
+and treatment of an infant with aplasia cutis congenita. J Perinatol. 
+2018;38:110–117.
+Kuemmet T, Miller J, Michalik D, et al. Low risk of clinically important central 
+nervous system dysraphism in a cohort study of 69 patients with isolated 
+aplasia cutis congenita of the head. Pediatr Dermatol. 2020;37:455–460.
+Sewell MJ, Chiu YE, Drolet BA. Neural tube dysraphism: review of cutaneous 
+markers and imaging. Pediatr Dermatol. 2015;32(2):161–170.
+Transient and Physiologic Changes of the Skin
+Bui T, Corap A, Bygum A. Cutis marmorata telangiectatica congenita: a 
+literature review. Orphanet J Rare Dis. 2019;14(1):283.
+Cizmeci MN, Alagoz D, Avsar MI, et al. Harlequin color change after 
+abdominal paracentesis in a newborn with neonatal hemochromatosis. 
+Pediatr Dermatol. 2014;31(6):e114–e115.
+Haveri FT, Inamadar AC. A cross-­sectional prospective study of cutaneous 
+lesions in newborn. ISRN Dermatol. 2014;2014:360590.
+Rare and Genetic Disorders
+Bonnekoh H, Butze M, Kallinich T, et al. Spectrum of genetic 
+autoinflammatory diseases presenting with cutaneous symptoms. Acta 
+Derm Venereol. 2020;100:adv00091.
+Dávila-­Seijo P, Hernández-­Martin A, Torrelo A. Autoinflammatory syndromes 
+for the dermatologist. Clin Dermatol. 2014;32:488–501.
+Fine JD, Bruckner-­Tuderman L, Eady RAJ, et al. Inherited epidermolysis 
+bullosa: updated recommendations on diagnosis and classification. J Am 
+Acad Dermatol. 2014;70:1103–1126.
+Garćia-­Romero MT, Ho N. Pediatric Sweet syndrome. A retrospective study. 
+Int J Dermatol. 2015;54:518–522.
+Gray PEA, Bock V, Ziegler DS, et al. Neonatal Sweet syndrome: a potential 
+marker of serious systemic illness. Pediatrics. 2012;129(5):e1353–e1358.
+Heath MS, Ortega-­Loayza AG. Insights into the pathogenesis of Sweet’s 
+syndrome. Fron Immunol. 2019;10:414.
+Intong LRA, Murrell DF. Inherited epidermolysis bullosa: new diagnostic 
+criteria and classification. Clin Dermatol. 2012;30:70–77.
+Melki I, Rose Y, Uggenti C, et al. Disease-­associated mutations identify a novel 
+region in human STING necessary for the control of type 1 interderson 
+signaling. J Allergy Clin Immunol. 2017;140:543–552.
+Navarini AA, Satoh TK, French LE. Neutrophilic dermatoses and 
+autoinflammatory diseases with skin involvement—innate immune 
+disorders. Semin Immunopathol. 2016;38:45–56.
+Rodriguez-­Pazos L, Ginarte M, Vega A, et al. Autosomal recessive congenital 
+ichthyosis. Actas Dermo-­Sifiliográficas. 2013;104:270–284.
+Shwin KW, Lee CCR, Goldbach-­Mansky R. Dermatologic manifestations of 
+monogenic autoinflammatory diseases. Dermatol Clom. 2017;35(1):21–38.
+Vahlquist A, Fischer J, Törmä H. Inherited nonsyndromic ichthyoses: an 
+update on pathophysiology, diagnosis, and treatment. Am J Clin Dermatol. 
+2018;19:51–66.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

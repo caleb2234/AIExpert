@@ -1,0 +1,1525 @@
+533
+Autism spectrum disorder (ASD) is a neurobiologic disorder with 
+onset in early childhood; it is characterized by impaired social com­
+munication and interaction accompanied by restricted and repetitive 
+behaviors.
+With definitions that vary dependent on agencies, schools, and 
+clinicians, there is often confusion surrounding the diagnosis of ASD. 
+This is the term used for all children who were, in previous editions 
+of the Diagnostic and Statistical Manual of Mental Disorders (DSM), 
+divided into autism, Asperger syndrome, and pervasive developmen­
+tal disorder not otherwise specified. The reliability and validity of the 
+separation of these diagnoses were shown to be directly correlated 
+to the diagnosing facility and not a distinct set of diagnostic criteria 
+or biomarkers, and, therefore, the diagnoses were collated under the 
+umbrella of autism spectrum disorder (DSM-­5).
+Several criteria must be met to enable the diagnosis of ASD beyond 
+difficulties in socialization (Tables 32.1 and 32.2). It should be noted 
+that although these features must be present early in the developmental 
+period, there is no age cutoff for making a diagnosis.
+DIAGNOSTIC CRITERIA
+The diagnostic criteria in the DSM-­5 focus on symptoms in two pri­
+mary domains. A thorough history of previous behaviors that meet 
+criteria is sufficient for being present early in development. As with 
+all symptoms in the DSM-­5, these behaviors must cause significant 
+impairment to be a disorder. Finally, the symptoms cannot be better 
+explained by intellectual disability (intellectual developmental disor­
+der) or global developmental delay (see Table 32.1E) or other disorders 
+(Table 32.3).
+There are several modifiers and levels that help clinicians better 
+communicate about the abilities and deficits of an individual with ASD. 
+The modifiers include those for accompanying intellectual impair­
+ment, accompanying language impairment, if the diagnosis is associ­
+ated with a known medical or genetic condition, and if it is associated 
+with another neurodevelopmental, mental, or behavioral disorder. 
+There is also a modifier if catatonia is present. The level system adds a 
+way to indicate how much support an individual needs, from level 1, 
+where minimal support is required and an untrained observer may not 
+quickly notice they have ASD, to level 3, where very substantial support 
+is required due to their symptoms (Table 32.4). Common clinical fea­
+tures are noted in Table 32.5.
+MEDICAL WORK-­UP
+A thorough physical examination can help to guide next steps. Chil­
+dren with ASD frequently react adversely to the focused attention of an 
+examination, and, as a result, indirect techniques such as observation 
+and examination by an experienced clinician are required. A dysmor­
+phology evaluation (see Chapter 29) can aid with identifying comorbid 
+syndromes and guide genetic testing. Facial asymmetry, multiple hair 
+whorls, and prominent forehead have been described as occurring 
+more often in patients with autism. There are reports of rapid head 
+growth in the 1st year of life in some individuals. Specific organ sys­
+tem malformations in individuals with ASD behaviors should raise the 
+suspicion of a congenital malformation syndrome associated with 
+autistic-­like behavior (Table 32.6).
+During the initial physical work-­up, it is important to rule out other 
+major medical concerns that can mimic autism (see Table 32.3). A for­
+mal hearing screen is essential; relying on newborn hearing screening 
+or screening undertaken at school is not sufficient when considering 
+autism. Due to the child’s difficulty in participating in the test, it is 
+important to test in a manner that does not involve child response, 
+even if they are older. If a vision screening has not been performed 
+adequately, this should also be included. A Woods lamp examination 
+of the skin should be conducted to rule out neurocutaneous disorders 
+such as tuberous sclerosis and neurofibromatosis type 1.
+Screening and Diagnosis for Autism Spectrum Disorder
+All children should be screened for autism at the 18-­ and 24-­month 
+well-­child visits. There are screening checklists that parents can com­
+plete prior to the visit, which are then reviewed by the physician. The 
+Modified Checklist for Autism in Toddlers, Revised (M-­CHAT-­R) 
+(https://m-­chat.org/en-­us/page/take-­m-­chat-­test/online) is one of the 
+most widely used at ages 18–30 months. It is free, electronic for easy 
+scoring, and available in many languages. The Social Communication 
+Questionnaire is available for children ages 4 years and older with a 
+mental age above 2 years and contains 40 yes-­or-­no questions for par­
+ents with a simple cutoff score. These and other screening tools are not 
+diagnostic but are meant to screen for parental concerns that could 
+lead to a work-­up for ASD.
+Autism spectrum disorder is a clinical diagnosis that can be made 
+by qualified clinicians familiar with the diagnostic criteria, nuances 
+of diagnosis, and experience in the field. However, there is an import­
+ant role for neuropsychologic testing in unclear cases and this is often 
+required for the child to obtain services. The gold standard test is the 
+Autism Diagnostic Observation Schedule (ADOS), which is avail­
+able for individuals 12 months of age through adulthood and requires 
+about an hour to administer. The person administering the exam must 
+have special training and certification in the ADOS. The test has good 
+specificity and sensitivity in laboratory settings but has been met with 
+some criticism in community settings. The Autism Diagnostic Inven­
+tory–Revised (ADI-­R) can be used with those children who have a 
+mental age of 2 years and older, requires a few hours, and is given by 
+a trained administrator to the caregiver. Its biggest limitation is that 
+it does not include any observation or interaction with the child. The 
+Childhood Autism Rating Scale–2 (CARS-­2) is a 10-­minute observa­
+tion tool used by trained neuropsychologists and psychologic testers 
+to observe the child and uses an unscored parent questionnaire.
+Autistic-­like Behaviors
+Kathleen A. Koth
+32
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+534
+SECTION 6  Developmental and Psychiatric Disorders
+A neuropsychologic examination of a child with developmen­
+tal delays or suspected ASD should go beyond testing for autism to 
+determine the child’s cognition and adaptive functioning, which is of 
+utmost importance in determining what types of support they need. 
+If the patient is able to participate, intelligence testing is available for 
+verbal and nonverbal children and adults of all ages. This helps screen 
+for intellectual disability but also examines what areas of intelli­
+gence are strengths and weaknesses for the child and will be used 
+as building blocks for targeted interventions. Adaptive functioning 
+testing, such as the Vineland Adaptive Behavior Scales, can help to 
+identify how the child is functioning overall, which may be the most 
+helpful part of the diagnosis to use in intervention. Often individuals 
+with autism are not functioning where expected for chronological or 
+even cognitive age. Very intelligent individuals with ASD can strug­
+gle with toilet training, food preparation, and other activities of daily 
+living. Neuropsychologic assessment is also useful in planning school 
+and home interventions.
+Common Mimics and Co-­occurring Neurodevelopmental 
+Disorders
+There are many cognitive and communication difficulties that can 
+appear to be ASD (see Table 32.3). These can also be co-­occurring with 
+ASD and further complicate the overall picture (Table 32.7).
+Communication disorders are difficult to recognize and require 
+careful observation and standardized testing. Communication disor­
+ders often do not become apparent until the expectations of the envi­
+ronment exceed the individual’s abilities. For severe disorders this 
+could be very early in life, whereas for a mild disorder it could be sev­
+eral years into school when a problem is identified.
+Receptive language disorder is a communication disorder where 
+the process of receiving and comprehending language is abnormal. 
+Expressive language disorder is difficulty with the production of 
+vocal, gestural, and verbal signals. They do not have to be impaired 
+together because these correlate with separate regions of the brain. 
+Having either one, or both, presents significant challenges. These may 
+present when children have difficulties in school that seem different 
+from attention-­deficit/hyperactivity disorder (ADHD) or learning 
+disabilities.
+In receptive language disorders, individuals have difficulty pro­
+cessing verbal input. They may appear as though they have not been 
+listening. In conversation, it is frequently interpreted that they do not 
+understand what others were saying. When disciplined through ver­
+bal command, they appear disobedient and repeat the behaviors. Yet 
+when expressive language is preserved, they can converse, express 
+themselves, and give others direction without apparent concern. This 
+often causes difficulty in school and can have educators and parents 
+blaming the child for not listening or paying attention. They can appear 
+socially awkward or not able to fully participate in peer interactions 
+when understanding is difficult.
+When expressive language disorder is present, the individual has 
+a difficult time expressing themselves but can understand completely 
+what is being said to them. This can lead to frustration in the child 
+who cannot express questions well to the teacher, cannot explain how 
+they complete a task, or cannot give a presentation to the class. These 
+TABLE 32.2  Associated Features of Autism 
+Not in DSM-­5 Criteria
+Atypical language development and abilities
+Age <6 yr: frequently disordered and delayed in comprehension; two 
+thirds have difficulty with expressive phonology and grammar
+Age ≥6 yr: disordered pragmatics, semantics, and morphology, with rela­
+tively intact articulation and syntax (i.e., early difficulties are resolved)
+Motor abnormalities: motor delay; hypotonia; catatonia; deficits in coordina­
+tion, movement preparation and planning, praxis, gait, and balance
+Adapted from Lai MC, Lombardo MV, Baron-­Cohen S. Autism. Lancet 
+2014;383:896–910.
+TABLE 32.3  Conditions Commonly 
+Misdiagnosed as Autism Spectrum Disorder
+Primary communication disorder
+ • Specific language impairment
+ • Social (pragmatic) communication disorder
+Anxiety disorder
+ 
+• Selective mutism
+Reactive attachment disorder
+ • Post-­institutional autistic syndrome
+Cognitive impairment
+Visual impairment
+Hearing impairment
+Normal behavioral variations
+From Simms MD. When autistic behavior suggests a disease other 
+than classic autism. Pediatr Clin N Am. 2017;64(1):127–138 (Box 1, p. 
+128).
+TABLE 32.1  DSM-­5 Diagnostic Criteria for 
+Autism Spectrum Disorder
+A.
+Persistent deficits in social communication and social interac­
+tion across multiple contexts, as manifested by the following, 
+currently or by history:
+	1.	Deficits in social-­emotional reciprocity.
+	2.	Deficits in nonverbal communicative behaviors used for social 
+interaction.
+	3.	Deficits in developing, maintaining, and understanding relation­
+ships.
+B.
+Restricted, repetitive patterns of behavior, interests, or activities, 
+as manifested by at least two of the following, currently or by 
+history:
+	1.	Stereotyped or repetitive motor movements, use of objects, or 
+speech.
+	2.	Insistence on sameness, inflexible adherence to routines, or 
+ritualized patterns of verbal or nonverbal behavior.
+	3.	Highly restricted, fixated interests that are abnormal in intensity 
+or focus.
+	4.	Hyper-­ or hyporeactivity to sensory input or unusual interest in 
+sensory aspects of the environment.
+C.
+Symptoms must be present in the early developmental period (may 
+not become fully manifest until social demands exceed limited 
+capacities, or may be masked by learned strategies in later life).
+D.
+Symptoms cause clinically significant impairment in social, occupa­
+tional, or other important areas of current functioning.
+E.
+These disturbances are not better explained by intellectual disability 
+(intellectual developmental disorder) or global developmental 
+delay.
+From the Diagnostic and Statistical Manual of Mental Disorders. 5th 
+ed. American Psychiatric Association; 2013:50–51.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+535
+CHAPTER 32  Autistic-­like Behaviors
+issues can make the child appear socially awkward as well and lead to 
+embarrassment and social isolation. Not being able to express yourself 
+verbally can also extend to explaining emotions and desires. Behavioral 
+issues can result from the frustration and inability to express those to 
+others.
+Pragmatic language disorder is a very narrow spectrum disorder 
+for those individuals who have difficulty in the social rules of verbal and 
+nonverbal communication without any of the other symptoms of ASD 
+such as repetitive behaviors, narrow ranges of interest, or insistence on 
+routines. This diagnosis may apply when social difficulties cannot be 
+better explained by intellectual developmental disorder (IDD) or inat­
+tention. Although many children with ADHD have deficits in nonver­
+bal communication, this is not considered pragmatic language disorder 
+because the cause is not being able to attend long enough to observe 
+details of others’ behavior.
+The association of ASD and IDD is often difficult to separate. 
+Approximately 50% or half of people with ASD have IDD. The com­
+munication difficulties that many children with ASD have can make 
+formal cognitive assessment challenging, but more so it can make the 
+results inaccurate. How a person with ASD performs on an IQ test may 
+be more representative of their level of function to participate than 
+their actual cognitive ability. In nonautistic individuals IQ test subsets 
+are usually within a narrow range, but in autism they can be scattered 
+over a wide range, indicating strength in some areas and weakness 
+in others. No IQ pattern has been identified to be diagnostic in ASD. 
+Since the diagnosis of IDD no longer requires an IQ score for severity, 
+overall functional cognition can be used in assessment, but participa­
+tion and effort are required for accurate results. It is important not to 
+assume overall cognitive strength or functional ability from a single skill. 
+While completing calculus in their sophomore year of high school, an 
+individual may struggle with reading comprehension on a grade school 
+level, be unable to complete their daily hygiene without direct support, 
+not know what money is, or be unable to prepare food.
+IDD is not just cognitive intelligence but also function or adaptive 
+reasoning. The changes in the DSM-­5 well articulate the conceptual, 
+social, and practical domains that are affected in IDD. An individual 
+with IDD may socialize more appropriately for their cognitive age than 
+their chronological age. If one is to consider a diagnosis of ASD in 
+addition to IDD, the socialization must be different from that expected 
+for the developmental age with the inclusion of stereotyped or repeti­
+tive behaviors, restricted areas of interest, inflexibility of routines, and 
+unusual sensory input that are not expected with that developmental 
+age. This is even more difficult in those with severe and profound IDD 
+who already have very limited social understanding, self-­stimulating 
+behaviors, and stereotypies. The diagnosis of ASD should only be 
+added if the symptoms of ASD are above and beyond what can be seen 
+in this population.
+The addition of the IDD diagnosis to ASD can be very difficult 
+when the autism symptoms are impairing daily functioning and par­
+ticipation in standardized testing. The use of alternate communication 
+tools and applied behavior analysis (ABA) therapy can help to identify 
+cognitive strengths and functioning that are limited in their expression 
+by autism.
+GENETIC TESTING AND DIAGNOSIS
+There is a wide spectrum of disorders that have autistic-­like behav­
+ior (Tables 32.6, 32.8, and 32.9 and Fig. 32.1). There is no definitive 
+monogenetic etiology for most patients with classic ASD; rather, ASD 
+represents diverse pathoetiologic pathways, which overlap in a similar 
+behavioral phenotype. It remains the current recommendation that all 
+children with a developmental disorder such as ASD or IDD undergo 
+genetic testing if a cause of the disorder is not otherwise known. One 
+in five children with a neurodevelopmental disability has an identifi­
+able genetic risk factor and that number is increasing rapidly with the 
+application of advanced genetic diagnostic tools. The importance of 
+reaching a unifying diagnosis can impact numerous areas including 
+screening for comorbidities, helping families understand and accept 
+the diagnosis and natural history, and making important reproductive 
+decisions in addition to the potential development of specific therapy. 
+TABLE 32.4  DSM-­5 Severity Levels for Autism Spectrum Disorder
+Severity Level
+Social Communication
+Restricted, Repetitive Behaviors
+Level 3
+“Requiring very substantial 
+support”
+Severe deficits in verbal and nonverbal social communication skills cause 
+severe impairments in functioning, very limited initiation of social interac­
+tions, and minimal response to social overtures from others For example, a 
+person with few words of intelligible speech who rarely initiates interac­
+tion and, when they do, they make unusual approaches to meet needs only 
+and respond to only very direct social approaches.
+Inflexibility of behavior, extreme difficulty coping with 
+change, or other restricted/repetitive behaviors mark­
+edly interfere with functioning in all spheres. Great 
+distress/difficulty changing focus or action.
+Level 2
+“Requiring substantial 
+support”
+Marked deficits in verbal and nonverbal social communication skills; social 
+impairments apparent even with supports in place; limited initiation of 
+social interactions; and reduced or abnormal responses to social overtures 
+from others. For example, a person who speaks simple sentences, whose 
+interaction is limited to narrow special interests, and who has markedly 
+odd nonverbal communication.
+Inflexibility of behavior, difficulty coping with change, or 
+other restricted/repetitive behaviors appear frequently 
+enough to be obvious to the casual observer and inter­
+fere with functioning in a variety of contexts. Distress 
+and/or difficulty changing focus or action.
+Level 1
+“Requiring support”
+Without supports in place, deficits in social communication cause noticeable 
+impairments. Difficulty initiating social interactions, and clear examples 
+of atypical or unsuccessful responses to social overtures of others. May 
+appear to have decreased interest in social interactions. For example, a 
+person who is able to speak in full sentences and engages in communi­
+cation but whose to-­and-­fro conversation with others fails, and whose 
+attempts to make friends are odd and typically unsuccessful.
+Inflexibility of behavior causes significant interference 
+with functioning in one or more contexts. Difficulty 
+switching between activities. Problems of organiza­
+tion and planning hamper independence.
+From the Diagnostic and Statistical Manual of Mental Disorders. 5th ed. American Psychiatric Association; 2013:52.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+536
+SECTION 6  Developmental and Psychiatric Disorders
+As individuals with specific genetic diagnoses increase, parent support 
+groups allow for sharing of common experience that can help families 
+manage and cope, especially for their neurotypical siblings.
+The current standard of care supports genetic testing in the form 
+of a chromosomal microarray for all individuals with IDD or an 
+ASD diagnosis. Fragile X testing should be considered if there is a 
+family history of IDD, premature ovarian failure, or fragile X–asso­
+ciated tremor/ataxia syndrome (FXTAS) in an elderly male relative. 
+With the advance of next-­generation sequencing technologies, large 
+IDD/ASD gene panels are available that screen hundreds to thou­
+sands of genes simultaneously. These gene panels are curated by the 
+laboratories and are updated frequently based on published gene 
+associations. It is important to be familiar with what test is being 
+offered or to work with a genetic professional when ordering such 
+testing. The current literature supports using exome sequencing as 
+standard of care for first-­tier testing, but this test has variable insur­
+ance coverage.
+The diagnostic testing algorithm detailed in Figure 32.2 pro­
+vides a comprehensive approach for diagnostic consideration. For 
+patients with seizures see Figure 32.3. Although epilepsy is more 
+common in children with ASD (onset in infancy or adolescence), 
+there are epilepsy syndromes that have autistic-­like behaviors (see 
+Table 32.9).
+GENETIC DISORDERS THAT CO-­OCCUR WITH 
+AUTISM SPECTRUM DISORDER
+Fragile X Syndrome
+Fragile X syndrome is the leading identifiable monogenetic cause of 
+ASD. IDD is observed in about 85% of males and 20–30% of females 
+with fragile X syndrome; ASD is seen is 30–43% of males and 16–20% 
+of females. Cognitive deficits are seen in executive functioning, work­
+ing memory, short-­term memory, and processing. Hyperarousal to 
+sensory stimuli of all types is common. Individuals with fragile X syn­
+drome have an increased risk of psychiatric co-­occurring illnesses such 
+as ADHD and anxiety.
+The physical manifestations can be very subtle in the young 
+child showing midface hypoplasia with sunken eyes, large-­cupped 
+ears, arched palate, and macro-orchidism. Medical features 
+TABLE 32.5  Signs and Symptoms of Possible Autism in Preschool Children (or Equivalent 
+Mental Age)
+SOCIAL INTERACTION AND RECIPROCAL COMMUNICATION 
+BEHAVIORS
+Eye Contact, Pointing, and Other Gestures
+Spoken Language
+Language delay (in babbling or using words, e.g., using <10 words by age 2 yr)
+Regression in or loss of use of speech
+Spoken language (if present) may include unusual features, such as vocalizations 
+that are not speechlike; odd or flat intonation; frequent repetition of set words 
+and phrases (echolalia), use of subjective pronouns, such as you, she, or he, to 
+refer to self after 3 yrs
+Reduced and/or infrequent use of language for communication (e.g., use of 
+single words, although able to speak in sentences)
+Responding to Others
+Absent or delayed response to name being called, despite normal hearing
+Reduced or absent responsive social smiling
+Reduced or absent responsiveness to other people’s facial expressions or 
+feelings
+Unusually negative response to the requests of others (“demand avoidance” 
+behavior)
+Rejection of cuddles initiated by parent or caregiver, although the child may 
+initiate cuddles
+Interacting with Others
+Reduced or absent awareness of personal space, or unusually intolerant of 
+people entering their personal space
+Reduced or absent social interest in others, including children of own age—may 
+reject others; if interested in others, child may approach others inappropri­
+ately, seeming to be aggressive or disruptive
+Reduced or absent imitation of others’ actions
+Reduced or absent initiation of social play with others; plays alone
+Reduced or absent enjoyment of situations that most children like (e.g., birthday 
+parties)
+Reduced or absent sharing of enjoyment
+Reduced or absent use of gestures and facial expressions to communicate 
+(although may place an adult’s hand on objects)
+Reduced and poorly integrated gestures, facial expressions, body orientation, eye 
+contact (looking at people’s eyes when speaking), and speech used in social 
+communication
+Reduced or absent social use of eye contact (assuming adequate vision)
+Reduced or absent “joint attention” (when one person alerts another to something 
+by means of gazing, finger pointing, or other verbal or nonverbal indication for 
+the purpose of sharing interest); this would be evident in the child from lack of:
+Gaze switching
+Following a point (looking where the other person points to—may look at hand)
+Pointing at or showing objects to share interest
+Ideas and Imagination
+Reduced or absent imagination and variety of pretend play
+Unusual or Restricted Interests and/or Rigid and Repetitive 
+Behaviors
+Repetitive “stereotypic” movements such as hand flapping, body rocking while 
+standing, spinning, and finger flicking
+Repetitive or stereotyped play (e.g., opening and closing doors)
+Overfocused or unusual interests
+Excessive insistence on following own agenda
+Extremes of emotional reactivity to change or new situations; insistence on things 
+being “the same”
+Overreaction or underreaction to sensory stimuli, such as textures, sounds, or 
+smells
+Excessive reaction to the taste, smell, texture, or appearance of food, or having 
+extreme food fads
+Adapted from Baird G, Douglas HR, Murphy MS. Recognizing and diagnosing autism in children and young people: summary of NICE guidance. 
+BMJ. 2011;343:d6360 (Box 1, p. 901).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+537
+CHAPTER 32  Autistic-­like Behaviors
+TABLE 32.6  Syndromes with Autistic-­Like Behaviors
+Chromosome Deletions
+1q21
+7q11.28
+16p11.2
+17q12
+2q23.1 (MBD5 mutations)
+12q24.3
+Cri-­du-­chat (5p15.2-­p15.33)
+22q deletion syndrome
+Jacobsen (11q23.2)
+Phelan-­McDermid (SHANK3 mutations; 22q13)
+Pitt-­Hopkins (18q21.2)
+Chromosome Duplications
+15q11.1-­q13.3
+7q11.23
+18q12.2
+16p11.2
+1q21.1
+22q11.2
+Potocki-­Lupski (17p11.2)
+Epilepsy Encephalopathies, Epilepsy
+Cortical dysplasia focal epilepsy
+SCN1A-­related syndromes (Dravet, Lennox Gastaut, others)
+Early myoclonic encephalopathies (Ohtahara: STXBP1, ARX, SIK1)
+SCN2A-­related syndromes (West, others)
+SLC6A1 myotonic-­atonic epilepsy
+HCN1-­related epilepsies
+CDKL5
+SCN8A
+PCDH19
+SCL35A2-­related disorders
+Epilepsy-­aphasia spectrum (Landau-­Kleffner; GRIN2A; continuous spike wave 
+during low-­wave sleep)
+Juvenile myoclonic epilepsy (RING2)
+IDD CDKL5 (Rett-­Like) Regression, Others
+2q37 monosomy
+Angelman
+Bardet-­Biedl
+Cardiofaciocutaneous
+CHARGE association
+Cohen
+Congenital rubella
+Cornelia de Lange
+Costello
+FOXG1 mutations
+Fragile X
+Hypomelanosis of Ito
+Joubert
+Kleefstra (EHMT1 mutations)
+Lujan-­Fryns
+Moebius sequence
+Muscle-­eye brain disease
+Myotonic dystrophy
+Neurofibromatosis
+Nonsyndromic intellectual disability due to SYNGAP1 mutations
+Noonan
+Oculoauriculovertebral spectrum (including Goldenhar)
+Partial monosomy 1p36
+Partial tetrasomy 15
+Prader-­Willi
+PTEN mutations
+Rett complex (female >> male)
+Ring chromosome 14
+SETD1B mutations
+Sex chromosome aneuploidies
+Smith-­Lemli-­Opitz
+Smith-­Magenis
+Sotos
+Timothy
+Trisomy 21
+Tuberous sclerosis
+WAGR
+Wiedemann-­Steiner (KMT2A mutations)
+Williams
+CHARGE, coloboma, heart, choanal atresia, retardation, genital, ear anomalies; IDD, intellectual developmental disability; WAGR, Wilms tumor, 
+aniridia, genitourinary anomalies, mental retardation.
+commonly include mitral valve prolapse, seizures, migraines, neu­
+ropathy, otitis media, strabismus, joint laxity, ataxia, fibromyalgia, 
+and gastrointestinal (GI) problems. Sleep disturbances are com­
+mon and can be accompanied by sleep apnea and restless leg syn­
+drome; affected individuals have difficulty with sleep latency and 
+maintaining sleep.
+MECP2-­Related Neurodevelopmental Disorders
+Pathogenic variants in MECP2 cause a spectrum of disorders that 
+include Rett syndrome, PPM-­X syndrome, MECP2 duplication syn­
+drome, and MECP2-­related severe neonatal encephalopathy. Rett 
+syndrome affects females and classically presents with a history of 
+normal psychomotor development for the first 6–18 months of life. 
+Development then stagnates for a period before rapid regression 
+in motor and language skills before long-­term stability is reached. 
+During the period of regression, stereotypic hand movements replace 
+purposeful hand movements and are accompanied by behavioral 
+issues with screaming and inconsolable crying. There can be panic-­
+like attacks as well as bruxism and episodic apnea and/or hyperpnea, 
+which make caring for an affected child difficult for parents. Autistic-­
+like features can be present although rarely meeting the diagnostic 
+criteria.
+PTEN Hamartoma Syndrome
+Rare autosomal dominant disorders of the PTEN pathway include 
+Bannayan-­Riley-­Ruvalcaba syndrome (BRRS), Proteus and Proteus-­
+like syndromes, and Cowden syndrome. The presentation within 
+each of these clinical subtypes differs. Patients with BRRS have facial 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+538
+SECTION 6  Developmental and Psychiatric Disorders
+TABLE 32.7  Common Co-­occurring Conditions in Autism Spectrum Disorder (ASD)
+Comorbidity
+Individuals with 
+Autism Affected
+Comments
+Developmental Disorders
+Intellectual disability
+∼45%
+Prevalence estimate is affected by the diagnostic boundary and definition of intelligence (e.g., whether 
+verbal ability is used as a criterion).
+In individuals, discrepant performance between subtests is common.
+Language disorders
+Variable
+In the DSM-­IV, language delay was a defining feature of autism (autistic disorder), but is no longer included 
+in the DSM-­5.
+An autism-­specific language profile (separate from language disorders) exists, but with substantial interindi­
+vidual variability.
+Attention-­deficit/ hyperactiv­
+ity disorder
+28–44%
+In the DSM-­IV, not diagnosed when occurring in individuals with autism, but no longer so in the DSM-­5.
+Tic disorders
+14–38%
+Approximately 6–5% have Tourette syndrome.
+Motor abnormality
+≤79%
+See Table 32.2.
+General Medical Disorders
+Epilepsy
+8–35%
+Increased frequency in individuals with intellectual disability or genetic syndromes.
+Two peaks of onset: early childhood and adolescence.
+Increases risk of poor outcome.
+Gastrointestinal problems
+9–70%
+Common symptoms include chronic constipation, abdominal pain, chronic diarrhea, and gastroesophageal 
+reflux.
+Associated disorders include gastritis, esophagus, gastroesophageal reflux disease, inflammatory bowel 
+disease, celiac disease, Crohn disease, and colitis.
+Immune dysregulation
+≤38%
+Associated with allergic and autoimmune disorders.
+Genetic disorders
+10–20%
+Collectively called syndromic autism.
+Examples include fragile X syndrome (21–50% of individuals affected have autism). Rett syndrome (most 
+have autistic features but with profiles different from idiopathic autism), tuberous sclerosis complex 
+(24–60%), Down syndrome (5–39%), phenylketonuria (5–20%).
+CHARGE syndrome* (15–50%), Angelman syndrome (50–81%), Timothy syndrome (60–70%), and Joubert 
+syndrome (-­40%).
+Sleep disorders
+50–60%
+Insomnia is the most common.
+Psychiatric Disorders
+Anxiety
+42–56%
+Common across all age groups.
+Most common are social anxiety disorder (13–29% of individuals with autism) and generalized anxiety 
+disorder (13–22%).
+High-­functioning individuals are more susceptible (or symptoms are more detectable).
+Depression
+12–70%
+Common in adults, less common in children.
+High-­functioning adults who are less socially impaired are more susceptible (or symptoms are more detect­
+able).
+Obsessive-­compulsive 
+disorder (OCD)
+7–24%
+Shares the repetitive behavior domain with autism that could cut across nosologic categories.
+Important to distinguish between repetitive behaviors that do not involve intrusive, anxiety-­causing thoughts 
+or obsessions (part of autism) and those that do (and are part of OCD).
+Psychotic disorders
+12–17%
+Mainly in adults.
+Most commonly recurrent hallucinosis.
+High frequency of autism-­like features (even a diagnosis of ASD) preceding adult-­onset (52%) and 
+childhood-­onset schizophrenia (30–50%).
+Substance use disorders
+≤16%
+Potentially because individual is using substances as self-­medication to relieve anxiety.
+Oppositional defiant disorder 16–28%
+Oppositional behaviors could be a manifestation of anxiety, resistance to change, stubborn belief in the 
+correctness of own point of view, difficulty seeing another’s point of view, poor awareness of the effect of 
+own behavior on others, or no interest in social compliance.
+Eating disorders
+4–5%
+Could be a misdiagnosis of autism, particularly in females, because both involve rigid behavior, inflexible 
+cognition, self-­focus, and focus on details.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+539
+CHAPTER 32  Autistic-­like Behaviors
+TABLE 32.7  Common Co-­occurring Conditions in Autism Spectrum Disorder (ASD)—cont’d
+Comorbidity
+Individuals with 
+Autism Affected
+Comments
+Personality Disorders†
+Paranoid personality disorder 0–19%
+Could be secondary to difficulty understanding others’ intentions and negative interpersonal experiences.
+Schizoid personality disorder
+21–26%
+Partly overlapping diagnostic criteria.
+Schizotypal personality 
+disorder
+2–13%
+Some overlapping criteria, especially those shared with schizoid personality disorder.
+Borderline personality 
+disorder
+0–9%
+Could have similarity in behaviors (e.g., difficulties in interpersonal relationships, misattributing hostile 
+intentions, problems with affect regulation), which requires careful differential diagnosis.
+Could be a misdiagnosis of autism, particularly in females.
+Obsessive compulsive 
+personality disorder
+19–22%
+Partly overlapping diagnostic criteria.
+Avoidant personality 
+disorder
+13–25%
+Could be secondary to repeated failure in social experiences.
+Behavioral Disorders
+Aggressive behaviors
+≤68%
+Often directed toward caregivers rather than noncaregivers.
+Could be a result of empathy difficulties, anxiety, sensory overload, disruption of routines, and difficulties 
+with communication.
+Self-­injurious behaviors
+≤50%
+Associated with impulsivity and hyperactivity, negative affect, and lower levels of ability and speech.
+Could signal frustration in individuals with reduced communication, as well as anxiety, sensory overload, or 
+disruption of routines.
+Could also become a repetitive habit.
+Could cause tissue damage and need for restraint.
+Pica
+∼36%
+More likely in individuals with intellectual disability.
+Could be a result of a lack of social conformity to cultural categories of what is deemed edible, or sensory 
+exploration, or both.
+Suicidal ideation or attempt
+11–14%
+Risks increase with concurrent depression and behavioral problems, and after being teased or bullied.
+*Coloboma of the eye, heart defects; atresia of the choanae; retardation of growth or development, or both; genital or urinary abnormalities, or both; 
+and ear abnormalities and deafness.
+†Particularly in high-­functioning adults.
+DSM-­IV, Diagnostic and Statistical Manual of Mental Disorders, 4th edition; DSM-­5, Diagnostic and Statistical Manual of Mental Disorders, 5th edition.
+Adapted from Lai MC, Lombardo MV, Baron-­Cohen S. Autism. Lancet. 2014;383:896–910.
+dysmorphic features that include a broad, flat forehead; thick eyebrows; 
+full cheeks; long philtrum; and pointed jaw in addition to macroceph­
+aly. Skin manifestations include papillomatous papules and café-­au-­lait 
+spots; hyperpigmented macules are common on the glans of the penis.
+In BRRS, the diagnosis is frequently made in infancy or childhood 
+due to the significant intellectual disability and/or ASD seen in 25–55% 
+of cases. Cowden syndrome is an adult-­onset tumor predisposition 
+syndrome, and Proteus syndrome is characterized by somatic over­
+growth of the affected areas.
+22q11.2 Deletion Syndrome
+22q11.2 microdeletion syndrome has a broad array of phenotypic 
+presentations that have many names including DiGeorge syndrome, 
+velocardiofacial syndrome, Shprintzen syndrome, and conotruncal 
+anomaly facial syndrome. This syndrome can be detected both early 
+and later in life. Early presentations include congenital heart defects, 
+cleft palate, hearing loss, immune dysfunction, and hypocalcemia.
+The presence of cognitive impairment is common, but higher 
+rates of ADHD and anxiety are also seen. Despite the presence of 
+TABLE 32.8  Inborn Errors of Metabolism 
+with Autistic-­like Behavior
+Adenylosuccinate lyase deficiency
+Biotinidase deficiency
+Cerebral folate deficiency
+Ceroid lipofuscinosis (infantile)
+Cystathionine β-­synthase deficiency
+Dihydropyrimidinase deficiency
+Disorders of creatine transport or metabolism
+Homocystinuria
+Lesch-­Nyhan syndrome
+Mitochondrial disorders
+Mucopolysaccharidosis
+Phenylketonuria (untreated)
+Sanfilippo syndrome
+Succinic semialdehyde dehydrogenase deficiency
+Urea cycle disorders
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+540
+SECTION 6  Developmental and Psychiatric Disorders
+social-­emotional reciprocity and nonverbal communication, this dis­
+order is rarely characterized by repetitive behaviors or restricted inter­
+ests, leading few patients to meet the ASD diagnosis.
+22q11.2 Duplication Syndrome
+The reciprocal duplication of the 22q11.2 deletion syndrome results 
+in a disorder with more notable gross motor delays, although affected 
+children struggle with abstract thinking and social abilities, which 
+becomes more notable as school demands progress in the third or 
+fourth grade. Receptive language is stronger than expressive; verbal 
+memory is stronger than visuospatial memory.
+These individuals can be described as shy or withdrawn, emo­
+tionally liable, hyperactive, and impulsive. They can move from task 
+to task quickly but are less able to adapt to changes in routine or the 
+environment. Social deficits are often seen including the lack of social-­
+emotional reciprocity. They do not often have the repetitive behaviors 
+and rigidity to fulfill the threshold for diagnosis of ASD. In one study 
+84% of cases had at least one psychiatric disorder, but only 18% met 
+strict criteria for ASD.
+Tuberous Sclerosis
+This is an autosomal dominant disorder that results from pathogenic 
+variants in either the TSC1 or TSC2 gene. The prevalence is estimated 
+to be 1/6,000–9,000 people. Affected infants can be identified prena­
+tally by the presence of cardiac rhabdomyomas as early as 22 weeks 
+of gestation. Infants can present with infantile spasms, or during an 
+evaluation for ASD. Most commonly it is identified postnatally with 
+cardiac rhabdomyomas, with hypopigmented macules on the skin, or 
+after the development of seizures. MRI will reveal subependymal nod­
+ules and cortical tubers.
+IDD can be present, the severity of which is often associated with 
+the age of seizure onset and their severity. Psychiatric comorbidity is 
+significant, with 30–50% having ADHD, 30–60% with depression or 
+anxiety disorders, and 25–50% with ASD.
+Timothy Syndrome
+Timothy syndrome is a neurodevelopmental disorder that is associ­
+ated with long QT syndrome. It is caused by pathogenic variants in 
+the CACNA1C gene, which encodes a calcium channel. The gene vari­
+ant allows calcium to enter cells abnormally, which causes a prolonged 
+QT interval that increases the risk of arrhythmias and sudden cardiac 
+death. Physical examination can demonstrate low-­set ears, lower nasal 
+bridge, small upper jaw, and widely spaced teeth. Cutaneous syndac­
+tyly webbed fingers and toes are commonly found. Seizures, stroke, and 
+blindness can also be found. Developmental delays, including ASD, are 
+common.
+Phelan-­McDermid Syndrome
+Contiguous gene deletion of the 22q13 region that includes SHANK3 or 
+pathogenic variants in SHANK3 results in Phelan-­McDermid syndrome. 
+SHANK3, which encodes for a scaffolding protein in the postsynaptic 
+glutamatergic synapse, plays a critical role in synaptic function. While it 
+TABLE 32.9  Single Gene and Genomic Copy Number Regions Commonly Associated with 
+Autism and Epilepsy
+Gene or Genomic 
+Region
+Associated Syndrome
+Key Features
+15q11-­q13
+Chromosome 15q11-­q13 
+duplication syndrome
+Autism, intellectual disability, ataxia seizures, developmental delays, and behavioral problems
+Note: Deletion of this region is associated with Angelman syndrome/Prader-­Willi syndrome
+Chromosome 21
+Down syndrome
+Distinct facial dysmorphisms, intellectual disability, congenital anomalies, and medical comorbidities
+22q13.3/SHANK3
+Phelan-­McDermid syndrome
+Neonatal hypotonia, global developmental delay, absent or severely delayed speech, autistic behavior, 
+and minor dysmorphic features
+FMR1
+Fragile X syndrome
+Moderate to severe intellectual disability, macro-orchidism, and distinct facial features (long face, large 
+ears, and prominent jaw)
+TSC1/2
+Tuberous sclerosis
+Multisystem disorder characterized by hamartomas (brain, heart, lungs, kidneys, and skin)
+PTEN
+PTEN-­related disorders
+Hamartoma syndromes and malignancies (breast, thyroid, and endometrial)
+Macrocephaly and ASD have been reported in children with PTEN mutations
+MECP2
+MECP2-­related disorders
+Severe neurodevelopmental disorder characterized by arrest of development between 6 and 18 mo of 
+age, regression of skills, loss of speech, stereotypic hand movements, microcephaly, seizures, and 
+intellectual disability
+CDKL5
+CDKL5-­related disorders
+X-­linked dominant condition characterized by early onset of seizures, severe global developmental delay, 
+and postnatal microcephaly
+Other features include subtle dysmorphic facial features, sleep disturbances, gastrointestinal problems, 
+stereotypic hand movements, and intellectual disability
+FOXG1
+FOXG1-­related disorders
+Severe neurodevelopmental disorder with features of classic Rett syndrome but earlier onset in the first 
+months of life
+MEF2C
+MEF2C-­related disorders
+Severe neurodevelopmental disorder characterized by intellectual disability, epilepsy, and stereotypic 
+movements
+CASK
+CASK-­related disorders
+Characterized by a distinct malformation phenotype in females involving postnatal microcephaly and 
+pontine and cerebellar hypoplasia, developmental delay, growth retardation, and eye abnormalities
+SCN2A
+SCN2A-­related disorders
+Autosomal dominant seizure disorder characterized by infantile onset or refractory seizures
+From Lee BH, Smith T, Paciorkowski AR. Autism disorder and epilepsy: disorders with a shared biology. Epilepsy Behav. 2015;47:191–201 (Table 1, 
+p. 193).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+Mother
+Mother
+Mother
+Mother
+Father
+Father
+Father
+Father
+Mother
+Father
+Child with ASD
+Child with ASD
+Child with ASD
+Male child with ASD
+Child with ASD
+Inherited
+De novo
+Autosomal recessive
+Copy number variation
+B. Variation
+A. Inheritance
+Translocation
+Autosomal dominant
+X-linked
+Additive risk
+Smith-Lemli-Opitz syndrome
+Cohen syndrome
+Cortical dysplasia–focal epilepsy
+Deficiencies in AMT, PEX7,
+SYNE1, BCKDK
+Common variation
+Fragile X syndrome
+Duchenne muscular
+dystrophy
+Phelan-McDermid syndrome
+Timothy syndrome
+Cornelia de Lange syndrome
+Tuberous sclerosis complex
+CHARGE syndrome
+Velocardial facial syndrome
+Neurofibromatosis type 1
+Angelman syndrome
+Potocki-Lupski syndrome
+CHD8, DYRK1A, SCN2A, ARID1B, ANK2, GRIN2B,
+SYNGAP1, ADNP, TBR1, POGZ, KATNAL2
+Phelan-McDermid
+Velocardial facial
+Potocki-Lupski
+16p11.2 deletion
+16p11.2 duplication
+15q13.3 deletion
+15q11.2q13 duplication
+NRXN1 deletion
+Phelan-McDermid
+Tuberous sclerosis
+Fragile X
+syndrome
+Timothy syndrome
+Smith-Lemli-Opitz
+Cornelia de Lange
+Tuberous sclerosis
+Cohen syndrome
+CHARGE syndrome
+Neurofibromatosis
+AMT
+PEX7
+SYNE1
+BCKDK
+Smith-Lemli-Opitz
+Cornelis de Lange
+Tuberous sclerosis
+Cohen syndrome
+CHARGE syndrome
+Neurofibromatosis
+Duchenne muscular
+dystrophy
+Cortical dysplasia-
+focal epilepsy
+Angelman
+Phelan-McDermid
+Most likely
+common
+variation
+CHD8, DYRK1A,
+SCN2A, ARID1B,
+ANK2, GRIN2B,
+SYNGAP1, ADNP,
+TBR1, POGZ,
+KATNAL2, BCKDK
+del
+dup
+Trinucleotide
+repeat
+Missense
+Indel
+Nonsense
+Splice-
+site
+Intronic or
+intergenic
+CGGCGG...
+ATG TTT ... ... ... ... CAG ... ... ... CAG ... ...
+Likely protein damaging
+TCT
+Ser
+CAAG
+TAG
+C. Penetrance
+80
+60
+40
+20
+0
+100
+D. Genetic contributions to ASD population
+Phelan-McDermid syndrome
+Timothy syndrome
+Smith-Lemil-Opitz syndrome
+Cortical dysplasia-focal epilepsy syndrome
+Potocki-Lupski syndrome
+Angelman syndrome
+Cornelia de Lange syndrome
+Tuberous sclerosis complex
+Cohen syndrome
+Fragile X  syndrome
+CHARGE  syndrome
+Velocardial facial syndrome
+Neurofibromatosis type 1
+Duchenne muscular dystrophy
+% patients with syndrome diagnosed with ASD
+SHANK3
+CACNA1C
+DHCR7
+CNTNAP2
+17p11.2 dup
+NIPBL, SMC1A, SMC3
+TSC1, TSC2
+VPS13B
+FMR1
+CHD7
+22q11.2 del
+NF1
+DMD
+UBE3A
+Percentage of individuals with
+ASD harboring known mutations
+Percent of liability due to
+different classes of mutations
+Syndromic
+(3.40%)
+CNV
+(1.28%)
+Strongly implicated
+de novo SNVs (1.34%)
+Unaccounted (41%)
+Predicted
+common (49%)
+inherited
+Non-additive (4%)
+Rare inherited (3%)
+De novo (3%)
+KATNAL2 (0.08%)
+POGZ (0.08%)
+TBR1 (0.08%)
+ADNP (0.10%)
+SYNGAP1 (0.10%)
+GRIN2B (0.13%)
+ANK2 (0.13%)
+ARID1B (0.13%)
+SCN2A (0.13%)
+DYRK1A (0.13%)
+CHD8 (0.21%)
+15q13.3 del (0.16%)
+16p11.2 dup (0.24%)
+15q11.2q13 dup (0.25%)
+16p11.2 del (0.31%)
+NRXN1 del (0.32%)
+Neurofibromatosis type 1 (0.28%)
+Phelan-McDermid (0.28%)
+Tuberous sclerosis (0.90%)
+Fragile X (1.94%)
+Prevalence of ASD in syndromes
+of known genetic etiology
+Fig. 32.1  Genetic architecture of autism spectrum disorder (ASD). A, The inheritance patterns of syndromes with known genetic etiology and high 
+incidence of autism, as well as that of genes recently identified to be associated with autism. The red stars indicate a causal allele and the red 
+pie charts indicate a small proportion of risk. Most dominant disorders show de novo inheritance. Autosomal recessive, autosomal dominant, and 
+X-­linked inheritance patterns best fit a major gene model, whereas a polygenic model is best represented by additive risk. B, The types of genetic 
+variation (left and middle) and the developmental disorders (right) associated with autism. Genes that have been associated with ASD are also 
+indicated. C, The penetrance of known syndromic mutations summarized from multiple studies. Ninety-­five percent binomial proportion confidence 
+intervals, based on Wilson’s score interval, are shown. D, The percentage of individuals with ASD harboring known mutations, as well as the per­
+centage of liability from different classes of mutations. The percentage variance in liability measures the contribution of a particular variant or class of 
+variants relative to the population variance in a theoretical variable called liability. Liability is a continuous and normally distributed latent variable that 
+represents each individual’s risk (both genetic and environmental) for developing a disease. Notably, percentage variance in liability is directly depen­
+dent on the frequency of the variant and the effect size of the variant, and it is inversely dependent on the frequency of the disease in the population. 
+CNV, copy number variation. (From de la Torre-­Ubieta L, Won H, Stein J, et al. Advancing the understanding of autism disease mechanisms through 
+genetics. Nat Med. 2016;22[4]:345–361 [Fig. 1, p. 346].)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+542
+SECTION 6  Developmental and Psychiatric Disorders
+For individuals with a confirmed diagnosis of
+a developmental disorder (autism spectrum
+disorder, intellectual disability, or global
+developmental delay)
+Complete
+neuropsychiatric
+evaluation
+Current symptoms
+Physical signs
+Family history
+Lab abnormalities
+Review previous genetic reports
+Etiology of DD is unknown and genetic
+testing not performed or incomplete
+Review laboratory tests
+Newborn screening results
+Electrolytes
+Complete blood count
+Hepatic profile
+Thyroid-stimulating hormone
+Lead level
+Metabolic testing
+Key history components
+Prenatal and birth history
+Developmental history
+Family history (3-generation)
+Morphologic abnormalities
+Other affected organ systems
+Neurologic exam (or consult)
+Hearing and vision tests
+Pre-test genetic counseling
+Informed consent
+Insurance preauthorization for testing
+Chromosomal
+microarray and
+fragile X testing
+No variants
+Variant of unknown
+significance (VOUS)
+Parental testing to discriminate
+pathogenic variants
+Unresolved
+clinical findings?
+Yes
+No
+Known pathogenic
+variant
+Genetic syndromes that may
+be clinically evident
+Fragile X syndrome
+PTEN hamartoma syndrome
+Rett syndrome
+Tuberous sclerosis
+Prader-Willi or Angelman syndromes
+Down syndrome
+Unresolved clinical findings
+• Seizures
+• Developmental regression
+• Hypotonia or dystonia
+• Poor growth
+• Abnormal head size or shape
+• Congenital anomalies (heart,
+  limbs, urogenital system)
+If a molecular diagnosis is
+made, consider:
+• Testing family members
+• Subspecialty referrals
+• Referral to patient support
+  organizations
+• Offering participation in
+  research trials
+• Periodic monitoring for
+  medical comorbidities
+Consider additional testing:
+• Whole exome sequencing
+• Chromosomal analysis (karyotype)
+• Mitochondrial DNA testing
+(if positive see molecular diagnosis follow-up)
+Molecular diagnosis
+Post-test counseling and
+collaboration with care providers
+Recognized
+genetic
+syndrome?
+Test for genetic
+syndrome
+Yes
+No result
+Benign
+Pathogenic
+No
+Fig. 32.2  Diagnostic genetic testing algorithm for youth with developmental disorders. JAACAP-­D-­17-­00189. 
+DD, development disorder. (From Muhle R, Reed H, Vo L, et al. Clinical diagnostic genetic testing for individ­
+uals with developmental disorders. J Am Acad Child Adolesc Psychiatry. 2017;56[11]:910–913.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+543
+CHAPTER 32  Autistic-­like Behaviors
+Patient with epilepsy
+Is there impairment of
+• Language?
+• Social development?
+• Behavior?
+Referral to development
+expert for autism evaluation
+Genetic evaluation of autism
+Genetic evaluation of epilepsy
+CMA
+Gene panel
+WES
+CMA
+Gene panel
+WES
+Fig. 32.3  Suggested workflow for evaluation of patients with epi­
+lepsy who may be at risk for autism. A patient with epilepsy should 
+be screened for impairment in language, social development, and/
+or behavior. If warranted, the patient should be referred to a trained 
+expert in autism diagnosis. If a diagnosis of autism is confirmed, or if 
+significant other developmental concerns exist (i.e., intellectual disabil­
+ity), genetic evaluation is appropriate. The clinical genetic evaluation for 
+autism and epilepsy may have overlap and may be tailored by recogni­
+tion of conditions where autism and epilepsy overlap. Current clinical 
+genetic evaluation includes sequential chromosomal microarray (CMA), 
+autism and epilepsy next-­generation sequencing gene panels, and, if 
+necessary, whole exome sequencing (WES). (Modified from Lee BH, 
+Smith T, Paciorkowski AR. Autism disorder and epilepsy: disorders with 
+a shared biology. Epilepsy Behav. 2015;47:191–201.)
+accounts for a relatively small number of cases of ASD and IDD, the sever­
+ity of the phenotype increases with the size of the affected region. While 
+20% of the cases are de novo, parents can carry a balanced chromosomal 
+translocation, increasing the recurrence risk in additional offspring.
+Most individuals have at least one visible dysmorphic feature 
+including dolichocephaly, long eyelashes, pointed chin, prominent or 
+dysplastic ears, bulbous nose, and full lips in addition to hypoplastic 
+or dysplastic nails and large, fleshy hands. Hypotonia is often present 
+and can present early in the form of feeding abnormalities and posture. 
+Gait is almost uniformly affected and can range from nonambulatory 
+to having issues with gait, toe walking, and broad-­based ataxia. Coor­
+dination and motor planning issues are also seen in most cases. An 
+increased risk of scoliosis is present.
+Medical comorbidities are common. GI issues are most common 
+and include gastroesophageal reflux disease (GERD), constipation, 
+and diarrhea. Recurrent ear and upper respiratory infections can be 
+linked to immune system abnormalities as well as allergies and asthma. 
+There is an increased incidence of seizures. MRI data have included an 
+increase in brain abnormalities including the corpus callosum, arach­
+noid cyst, ventriculomegaly, and dysmyelination. There can be signifi­
+cantly delayed or absent speech. Behavioral difficulties are often found 
+but have not been well categorized.
+There is an increased incidence of ASD in individuals with Phelan-­
+McDermid syndrome, along with IDD.
+Cortical Dysplasia–Focal Epilepsy Syndrome
+CNTNAP2 variants can be seen clinically with ASD, focal epilepsy, lan­
+guage regression, and IDD. It can also be associated with Gilles de la 
+Tourette syndrome, ADHD, and schizophrenia.
+15q11-­13 Deletion or Duplication Maternal/Paternal
+The loss or gain of genetic material from 15q11.2-­13 has been seen 
+frequently in the context of an ASD diagnosis. Portions of this region 
+are additionally imprinted, and clinically unique syndromes are 
+manifest dependent on whether the loss of material is maternal or 
+paternal.
+Angelman syndrome is a result of this alteration in the mater­
+nally inherited allele. Most individuals with Angelman syndrome 
+have severe IDD are nonverbal, and usually plateau in development 
+between 18 and 24 months. If they do have speech, it is usual phrase 
+speech and receptive language skills are better than expressive. They 
+are happy to engage with others and seek social attention in a devel­
+opmentally appropriate manner but can have repetitive and restric­
+tive behavior as seen in many with severe IDD. Body movements and 
+mannerisms, such as hand flapping, are very common.
+Prader-­Willi syndrome is the result of alteration in the paternally 
+inherited allele. Individuals have mild to moderate IDD. Social defi­
+cits are often reported in individuals with Prader-­Willi but often not 
+to the severity of those with ASD. They can have some repetitive and 
+restrictive behaviors, be insistent on routines, arrange objects, and have 
+repetitive speech.
+Potocki-­Lupski Syndrome
+The duplication of 17p11.2 is known as Potocki-­Lupski syndrome. 
+Younger children are usually identified due to hypotonia, poor feed­
+ing with failure to thrive, sleep-­disorder breathing, and cardiovascular 
+anomalies. Older children can have developmental delays and cog­
+nitive impairment. For those individuals who have speech it can be 
+marked with precision, referring to themselves in the third person, 
+having running commentaries, or echolalia.
+Behavioral issues are seen in most patients including those with 
+attention, hyperactivity, anxiety, somatization, and withdrawal. ASD 
+can be seen in these individuals with motor mannerisms, repetitive 
+behaviors, social aspects of withdrawal, poor eye contact, and difficulty 
+with transitions.
+Ring Chromosome 14 Syndrome R(14) Syndrome (OMIM 
+#616606)
+This is a rare genetic syndrome for which prevalence and incidence 
+are not known. Moderate to severe IDD is persistent in affected indi­
+viduals. The level of impairment is largely due to the time of onset of 
+epilepsy and its severity. Language is one of the most affected features. 
+Behaviorally, hyperactivity and stereotypies are often noted. There are 
+reports of ASD being present with the need to adhere to routines as 
+well as being hyper-­ or hyporeactive to stimuli.
+Pitt-­Hopkins Syndrome
+Pitt-­Hopkins syndrome is a neurodevelopmental disorder caused by 
+deletions of the TCF4 gene located on 18q21.2. Physical signs include 
+abnormal facies and hand abnormalities as well as gross motor deficits. 
+Individuals usually have very limited speech and severe IDD. Many 
+children with this deletion have significant behavioral outbursts with 
+hair pulling, tantrums, inappropriate laughing, and throwing, banging, 
+and kicking objects. There can be self-­injurious behaviors or hitting, 
+pinching, and pushing.
+ASD has been diagnosed in those with Pitt-­Hopkins syndrome. The 
+combination of communication issues driving social interaction issues 
+as well as repetitive behaviors can be present.
+METABOLIC DISORDERS THAT PRESENT WITH 
+AUTISTIC-­LIKE FEATURES
+In addition to genetic syndromes, metabolic disorders can present with 
+autistic-­like behaviors (see Table 32.8).
+Metabolic disorders remain an important consideration in the 
+differential diagnosis for children presenting with features of autism. 
+Referral to a specialist center for additional testing is recommended as 
+many of these disorders require expert knowledge to ensure that the 
+appropriate testing is requested.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+544
+SECTION 6  Developmental and Psychiatric Disorders
+Regression
+Loss of developmental milestones may occur in 10–20% of children 
+with ASD often at ∼18–24 months. Some children without obvious ear­
+lier signs of ASD may show developmental regression by ∼3–4 years 
+of age, a condition previously named childhood disintegrative disor­
+der; this disorder has been incorporated into the general designation 
+of ASD. In addition, regression may rarely be seen in adolescents with 
+ASD and may be associated with catatonia or seizures.
+The cause of regression is often not known; possible etiologies, par­
+ticularly in those with profound and rapid-­onset regression, should 
+include epilepsy syndromes, genetic syndromes (tuberous sclerosis, 
+Rett), neurodegenerative storage diseases (lipid, leukodystrophies), 
+lead poisoning (pica is common in ASD), hypothyroidism, new onset 
+seizures, catatonia, and autoimmune or subacute sclerosing panen­
+cephalitis (see Chapter 28).
+Catatonia
+Catatonia is a serious disorder seen in many neuropsychiatric diseases 
+including ASD. Catatonia usually presents acutely often at the onset 
+of puberty and demonstrates symptoms within motor, speech, and 
+behavioral domains (autism shut down syndrome). Symptoms include 
+stupor, catalepsy, waxy flexibility, mutism, negativism, posturing, man­
+nerisms, stereotypy, agitation, grimacing, echolalia, and echopraxia 
+(diagnostic criteria require 3 of 12 symptoms). Motor manifestations 
+may be hypo-­ or hyperactivity; self-­injurious behaviors may also be 
+present. Behavioral manifestations also include regression, obsessive-­
+compulsive behaviors, withdrawal or depression, sensory sensitivity 
+(light, touch, movement, taste), and a delusional belief that friends or 
+family have been replaced by a double (Capgras syndrome). Treatment 
+includes benzodiazepines and, in refractory patients, electroconvulsive 
+therapy (ECT).
+   	 S U MMA RY  A N D  R E D  F L A G S
+While “unknown” continues to be the current answer for the etiology 
+in the majority of individuals with ASD, it is important for clinicians to 
+be aware of the comorbid disorders and disorders that masquerade as 
+ASD to ensure accurate clinical diagnoses and appropriate utilization 
+of resources for optimal wellness of this population. Red flags or clues 
+to another diagnosis are noted in Table 32.10.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+TABLE 32.10  Red Flags
+Single or multiple congenital anomalies
+Dysmorphic features
+Macro-­ or microcephaly
+Epilepsy encephalopathy syndromes
+New-­onset seizures
+Regression
+Neurocutaneous lesions
+Family history of genetic disease
+Catatonia
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+544.e1
+BIBLIOGRAPHY
+What is Autism
+Bridgemohan CA. Autism spectrum disorder. In: Kliegman RM, St. Geme 
+III JW, Blum NJ, et al., eds. Nelson Textbook of Pediatrics. Philadelphia: 
+Elsevier; 2020:294–302.21e.
+Diagnostic and Statistical Manual of Mental Disorders: DSM-­5. Washington 
+(D.C.): American Psychiatric Publishing; 2013.
+Lord C, Brugha TS, Charman T, et al. Autism spectrum disorder. Nat Rev Dis 
+Primers. 2020;6(1).
+Lord C, Petkova E, Hus V, et al. A Multisite Study of the Clinical Diag­
+nosis of Different Autism Spectrum Disorders. Arch Gen Psychiatry. 
+2012;69(3):306–313. https://doi:10.1001/archgenpsychiatry.2011.148.
+Medical Evaluation
+AAP Statement on U.S. Preventive Services Task Force Final Recommenda­
+tions on Autism Screening (February 2016).
+Besag FMC, Vasey MJ. Seizures and epilepsy in autism spectrum disorder. 
+Child Adolesc Psychiatr Clin N Am. 2020;29:483–500.
+DiGennaro Reed FD. Assessment and treatment of stereotypic behavior in 
+children with autism and other developmental disabilities: a thirty-­year 
+review. Res Autism Spectr Disord. 2012;6:422–430.
+Ghaziuddin N, Andersen L, Ghaziuddin M. Catatonia in patients with autism 
+spectrum disorder. Child Adolesc Psychiatr Clin N Am. 2020;29:443–454.
+Gotham K, Risi S, Pickles A, et al. The Autism Diagnostic Observation Sched­
+ule (ADOS). J Autism Dev Disord. 2006.
+Initial Medical Evaluation of a Child Diagnosed with an Autism Spectrum 
+Disorder, Clinician Fact Sheet – Caring for Children with Autism Spectrum 
+Disorders: A Resource Toolkit for Clinicians. 2nd ed. American Academy of 
+Pediatrics; 2013.
+Ozgen H, Hellemann GS, DeJonge MV, et al. Predictive value of morpholog­
+ical features in patients with autism versus normal controls. J Autism Dev 
+Disord. 2013;43:147–155.
+Rutter M, LeCouteur A, Lord C. Autism Diagnostic Inventory – Revised 
+(ADI-­R). WPS Publishing; 2003.
+Schopler E, Van Bourgondien ME, Wellman GJ, et al. Childhood Autism Rating 
+Scale–2 (CARS-­2). WPS Publishing; 2010.
+Screening and Diagnosis for ASD
+Siegel DJ, Minshew NJ, Goldstein G. Wechsler IQ profiles in diagnosis of high-­
+functioning autism. J Autism Dev Disord. 1996;26:389–406.
+Sparrow SS, Cicchetti DV, Saulnier CA. Vineland Adaptive Behavior Scales: 
+(Vineland III), Survey Interview Form/Caregiver Rating Form. 3rd ed. Livo­
+nia, MN: Pearson Assessments; 2016.
+Wier ML, Yoshida CK, Odouli R, et al. Congenital anomalies associated with 
+autism spectrum disorders. Dev Med Child Neurol. 2006;48:500–507.
+Common Mimics—Other Neurodevelopmental Disorders
+Berryer MH, Hamdan FF, Klitten LL, et al. Mutations in SYNGAP1 cause 
+intellectual disability, autism, and a specific form of epilepsy by inducing 
+haploinsufficiency. Hum Mutat. 2013;34(2):385–394.
+Betancur C. Etiological heterogeneity in autism spectrum disorders: more 
+than 100 genetic and genomic disorders and still counting. Brain Res. 
+2011;1380:42–77.
+Boccuto L, Lauri M, Sarasua SM, et al. Prevalence of SHANK3 variants in 
+patients with different subtypes of autism spectrum disorders. Eur J Hum 
+Genet. 2013;21:310–316.
+Butler MG, Dasouki MJ, Zhou XP, et al. Subset of individuals with autism 
+spectrum disorders and extreme macrocephaly associated with germline 
+PTEN tumor suppressor gene mutations. J Med Genet. 2005;42:318–321.
+Chahil G, Yelam A, Bollu PC. Rett syndrome in males: a case report and review 
+of the literature. Cureus Open Access Report. DOI:10.7759/cureus.3414.
+Diagnostic and Statistical Manual of Mental Disorders: DSM-­5. Washington 
+(D.C.): American Psychiatric Publishing; 2013.
+Doan RN, Lim ET, De Rubeis S, et al. Recessive gene disruptions in autism 
+spectrum disorder. Nat Genet. 2019;51:1092–1098.
+Harris JC. Intellectual Disability: Understanding Its Development, Causes, 
+Classification, Evaluation, and Treatment. London: Oxford University Press; 
+2006.
+Hiraide T, Nakashima M, Yamoto K, et al. De novo variants in SETD1B are 
+associated with intellectual disability, epilepsy, and autism. Hum Genet. 
+2018;137:95–104.
+Kleefstra T, de Leeuw N. Kleefstra syndrome. Gene Rev 2010 Oct 5 [Up­
+dated 2019 Mar 21]. In: Adam MP, Ardinger HH, Pagon RA, et al., eds. 
+GeneReviews® [Internet]. Seattle (WA): University of Washington, Seattle; 
+1993–2020.
+Manzi B, Livia Loizzo A, Giana G, et al. Autism and metabolic diseases. J Child 
+Neurol. 2008;23:307–314.
+Miles JH. Autism spectrum disorders—a genetics review. Genet Med. 
+2011;13(4):278–294.
+NIH Genetics Home Reference: Jacobsen syndrome. https://ghr.nlm.nih.gov/
+condition/jacobsen-­syndrome.
+Suter B, Treadwell-­Deering D, Zoghbi HY, et al. MECP2 mutations in people 
+with Rett syndrome. J Autism Dev Disord. 2014;44(3):703–711.
+Talkowski ME, Mullegama SV, Rosenfeld JA, et al. Assessment of 2q23.1 
+microdeletion syndrome implicates MBD5 as a single causal locus intellec­
+tual disability, epilepsy, and autism spectrum disorder. Am J Hum Genet. 
+2011;89:551–563.
+Vegas N, Cavallin M, Maillard C, et al. Delineating FOXG1 syndrome. Neurol 
+Genet. 2018;4:e281.
+Wolff M, Brunklaus A, Zuberi SM. Phenotypic spectrum and genetics of 
+SCN2A-­related disorders, treatment options, and outcomes in epilepsy and 
+beyond. Epilepsia. 2019;60(S3):S59–S67.
+Genetic Testing and Diagnosis
+Cook Jr EH, Scherner SW. Copy-­number variations associated with neuropsy­
+chiatric conditions. Nature. 2008; 455:919–923.
+De la Torre-­Ubieta L, Won H, Stei JL, et al. Advancing the understanding of 
+autism disease mechanisms through genetics. Nat Med. 2016;22(4):345–
+361.
+Genetic Disorders That Co-­occur with Autism Spectrum 
+Disorder
+Muhle RA, Reed HE, Vo LC, et al. Clinical diagnostic genetic testing for indi­
+viduals with developmental disorders. J Am Acad Child Adolesc Psychiatry. 
+2017;56(11):910–913.
+Ornoy A, Weinstein-­Fudim L, Ergaz Z. Genetic syndromes, maternal diseases 
+and antenatal factors associated with autism spectrum disorders (ASD). 
+Front Neurosci. 2016;10:316.
+Satterstrom FK, Kosmicki JA, Wang J, et al. Large-­scale exome sequencing 
+study implicates both developmental and functional changes in the neuro­
+biology of autism. Cell. 2020;180(3):568–584.
+Wier ML, Yoshinda CK, Odouli R, et al. Congenital anomalies associated with 
+autism spectrum disorder. Dev Med Child Neurol. 2006;48:500–507.
+Fragile X
+Jalnapurkar I, Cochran DM, Frazier JA. New therapeutic options for fragile X 
+syndrome. Curr Treat Options Neurol. 2019;21:12.
+Lozano R, Atoosa A, Wilaisakditipakorn T, et al. Fragile X syndrome: a review 
+of clinical management. Intractable Rare Dis Res. 2016;5(3):145–157.
+Mila M, Alvarez-­Mora MI, Madrigal I, et al. Fragile X Syndrome: an overview 
+and update on the FMR1 gene. Clin Genet. 2018;93:197–205.
+MeCP2
+Wen Z, Chen T, Li G, et al. Identification of autism-­related MeCP2 muta­
+tions by whole-­exome sequencing and functional validation. Mol Autism. 
+2017;8:43.
+PTEN
+Hansen-­Kiss E, Beinkampen S, Adler B, et al. A retrospective chart review of 
+the features of PTEN hamartoma tumour syndrome in children. J Med 
+Genet. 2017;54:471–478.
+Isik E, Simsir OS, Solmaz AE, et al. Clinical and molecular aspects of PTEN 
+mutations in 10 pediatric patients. Ann Hum Genet. 2020:1–7.
+Pilarski R. PTEN hamartoma tumor syndrome: a clinical overview. Cancers. 
+2019;11:84.
+Rademacher S, Eickholt BJ. PTEN in autism and neurodevelopmental disor­
+ders. Cold Spring Harb Perspect Med. 2019;9(11).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+References
+544.e2
+22q11.2 Deletion
+Morrison S, Chawner SJRA, van Amelsvoort TAMJ, et al. Cognitive deficits in 
+childhood, adolescence, and adulthood in 22q11.2 deletion syndrome and 
+association with psychopathology. Transl Psychiatry. 2020;10:5.
+Serur Y, Frumer DS, Daon K, et al. Psychiatric disorders and autism in young 
+children with 22q11.2 deletion syndrome compared to children with idio­
+pathic autism. Eur Psychiatry. 2019;55:116–121.
+Tang KI, Antshel KM, Fremont WP, et al. Behavioral and psychiatric pheno­
+types in 22q11.2 deletion syndrome. J Dev Behav Pediatr. 2015;36:639–650.
+22q11.2 Duplication
+Wenger TL, Miller JS, DePolo LM, et al. 22q11.2 duplication syndrome: elevat­
+ed rate of autism spectrum disorder and need for medical screening. Mol 
+Autism. 2016;7:27.
+Tuberous Sclerosis
+DiMario FJ, Sahin M, Ebrahimi-­Fakhari D. Tuberous sclerosis complex. Pedi­
+atr Clin North Am. 2015;62:633–664.
+Gupta A, de Bruyn G, Tousseyn S, et al. Epilepsy and neurodevelopmental co­
+morbidities in tuberous sclerosis complex: a natural history study. Pediatr 
+Neurol. https://doi.org/10.1016/j.pediatrneurol.2019.12.016.
+Vries PJ, Whittemore VH, Leclezio L, et al. Tuberous sclerosis associated 
+neuropsychiatric disorders and the TAND checklist. Pediatr Neurol. 
+2015;52:25–35.
+Timothy Syndrome
+Timothy Syndrome. NORD (National Organization for Rare Disorders). 
+https://rarediseases.org/rare-­diseases/timothy-­syndrome/. Published July 
+10, 2017. Accessed July 10, 2020.
+Shank 3 – Phelan-­McDermid Syndrome
+Kohlenberg TM, Trelles MP, McLarney B, et al. Psychiatric illness and regres­
+sion in individuals with Phelan-­McDermid syndrome. J Neurodev Disord. 
+2020;12:7.
+Kolevzon A, Angarit A, Bush L, et al. Phelan-­McDermid syndrome: a review of 
+the literature and practice parameters for medical assessment and monitor­
+ing. J Neurodev Disord. 2014;6:39.
+CNTNAP2
+Contactin-­associated protein-­like 2; CNTNAP2. https://www.omim.org/
+entry/604569. Accessed July 10, 2020.
+Poot M. Connecting the CNTNAP2 networks with neurodevelopmental disor­
+ders. Mol Syndromol. 2015;6:7–22.
+15q11-­13
+Baker EK, Godler DE, Bui M, et al. Exploring autism symptoms in an Aus­
+tralian cohort of patients with Prader-Willi and Angelman syndromes. J 
+Neurodev Disord. 2018;10:24.
+Butler MG, Manzard AM, Forster JL. Prader-Willi syndrome: clinical genetics 
+and diagnostic aspects with treatment approaches. Curr Pediatr Rev. 
+2016;12(2):136–166.
+Smith–Magenis Syndrome & Potocki–Lupski Syndrome
+Neira-­Fresneda J, Potocki L. Neurodevelopmental disorders associated with 
+abnormal gene dosage: Smith-­Magenis and Potocki-­Lupski syndromes. J 
+Pediatr Genet. 2015;4:159–167.
+Ring Chromosome 14 Syndrome R(14) Syndrome
+Rinaldi B, Vaisfeld A, Amarri S, et al. Cirmin. Guideline recommendations for 
+diagnosis and clinical management of Ring14 syndrome—first report of an 
+ad hoc task force. Orphanet J Rare Dis. 2017;12:69.
+Pitt-­Hopkins Syndrome
+Zollino M, Zweier C, Van Balkonm ID, et al. Diagnosis and management 
+in Pitt-­Hopkins syndrome: first international consensus statement. Clin 
+Genet. 2019;95:462–478.
+Metabolic Disorders That Present with ASD-like Features
+Manzi B, Loizzo AL, Giana G, et al. Autism and metabolic diseases. J Child 
+Neurol. 2008;23(3):307–314.
+Regression
+DeJong H, Bunton P, Hare DJ. A systematic review of interventions used to 
+treat catatonic symptoms in people with autistic spectrum disorders. J 
+Autism Dev Disord. 2004;44:2127–2136.
+Mughal S, Faizy RM, Saadabadi A. Autism spectrum disorder (regressive au­
+tism, child disintegrative disorder). NCI Bookshelf. https://www.ncbi.nlm.
+nih.gov/books/NBK525976/.
+Thompson L, Gillberg C, Landberg S, et al. Autism with and without regres­
+sion: a two-­year prospective longitudinal study in two population-­derived 
+Swedish cohorts. J Autism Dev Disord. 2019;49:2281–2290.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

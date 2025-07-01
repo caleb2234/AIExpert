@@ -1,0 +1,3657 @@
+965
+SECTION 10  Infectious Diseases/Immune/Inflammation
+Fever is a common symptom associated with a range of infectious and 
+noninfectious etiologies. Two-­thirds of all children visit a physician for 
+fever before they reach the age of 2 years. The appropriate evaluation 
+for fever depends on age, duration of illness, comorbidities, and asso­
+ciated signs and symptoms. The etiology of fever is often revealed with 
+careful history and physical examination, though the precise micro­
+biologic or genetic etiology for fever may need to be elucidated with 
+further diagnostic testing in appropriate situations.
+DEFINITIONS
+ • Fever without source (FWS): A child with fever of recent onset 
+with no obvious historical or physical explanation for the fever is 
+said to have FWS. Most patients with FWS, regardless of age, have a 
+self-­limited viral illness. Bacterial pathogens account for a small but 
+clinically significant number of cases. The challenge is to identify 
+which children have fever caused by bacteria or other pathogens 
+that would require treatment. Evaluation decisions must balance 
+the risk of morbidity and mortality associated with delayed treat­
+ment with the risks of testing or treatment when neither is needed. 
+The risk of bacterial infection decreases with increasing age and 
+is highest for infants younger than 3 months of age, compared to 
+infants and toddlers 3–36 months of age, and even lower for chil­
+dren over the age of 36 months. High suspicion for serious infec­
+tion should also be considered in immunocompromised patients or 
+those with indwelling hardware such as central venous access lines 
+or ventriculoperitoneal shunts.
+ • Fever with localizing signs: Fever in children most commonly 
+presents with signs or symptoms that indicate a likely diagnosis. 
+Examples include fever accompanied with vomiting and diarrhea 
+(gastroenteritis: see Chapter 14), sore throat (pharyngitis: see Chap­
+ter 2), or dysuria and flank pain (pyelonephritis: see Chapter 21).
+ • Fever of unknown origin (FUO): The term FUO broadly refers to 
+prolonged fevers with no etiology found after an initial evaluation. 
+Varying specific definitions are found in the literature. In adults, 
+classic FUO is defined as an illness lasting more than 3 weeks with 
+fever higher than 38.3°C (101°F) on several occasions and uncer­
+tainty of diagnosis after a 1-­week study in the hospital. Shorter 
+duration of fever (as little as 3 days) may prompt evaluation in cases 
+of health care–associated fever or underlying immunodeficiency. 
+In pediatrics, the defined duration of FUO is variable, from 8 days 
+to 3 weeks (average, 2 weeks), and may depend on the age of the 
+patient, with shorter periods of fever tolerated in young infants and 
+more traditional adult standards tolerated in adolescent patients. 
+A practical diagnosis of FUO in pediatrics is the presence of daily 
+temperatures higher than 38°C (100.4°F) for at least 8–14 days and 
+no diagnosis after an initial evaluation including history, physical 
+examination, and basic laboratory and radiologic tests.
+PATHOPHYSIOLOGY OF FEVER
+Temperature is controlled by the thermoregulatory center, located in 
+the preoptic area of the anterior hypothalamus. The thermoregulatory 
+center receives input from peripheral receptors and the temperature 
+of the blood bathing the hypothalamus and acts on autonomic, endo­
+crine, and behavioral mechanisms to maintain the body temperature at 
+a particular set point. The hypothalamic set point normally maintains 
+body temperature around 37°C, but there can be significant variation 
+among individuals. Normal temperatures range from 36°C to 37.8°C, 
+depending on the time of day, with the peak in the afternoon (5–7 p.m.) 
+and the trough in the early morning (2–6 a.m.). Although the circadian 
+rhythm is not well established in infancy, it becomes more reliable by 
+the second year of life.
+The febrile response not only produces an elevation in body tem­
+perature but also causes physiologic changes that enhance the indi­
+vidual’s ability to eliminate infection, including the production of 
+acute-­phase reactants and alterations in metabolism and endocrine 
+function. Acute-­phase reactants—proteins that are produced in 
+response to infection or injury—include ceruloplasmin, CRP, hapto­
+globin, amyloid A, complement, ferritin, and fibrinogen. Hormones 
+and cytokines, some of which are endogenous pyrogens, regulate the 
+production of acute-­phase proteins. Exogenous pyrogens, such as bac­
+teria or endotoxins, generate the production of endogenous pyrogens, 
+which play a vital role in prostaglandin-­related set point elevation and 
+regulation of acute-­phase responses.
+Fever results when the thermoregulatory set point is elevated above 
+the normal set point; the hypothalamus then generates physiologic 
+changes involving endocrine, metabolic, autonomic, and behavioral 
+processes. Diversion of blood from peripheral vessels to central ves­
+sels causes coolness of the extremities but helps increase core tempera­
+ture. Shivering increases metabolic activity and heat production. The 
+affected patient may feel cold and seek a warmer environment or add 
+clothing to feel warmer and prevent heat loss. Once these processes have 
+resulted in increasing the core temperature to match the elevated set 
+point, the thermoregulatory center works to maintain the temperature 
+at that point, as it does during normothermia. The thermoregulatory 
+Fever
+Anna R. Huppler
+52
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+966
+SECTION 10  Infectious Diseases/Immune/Inflammation
+point returns to normal once the infection is resolved. The hypothala­
+mus then produces physiologic changes to decrease the core tempera­
+ture; these changes include sweating, dilatation of cutaneous blood 
+vessels, and the sensation of feeling hot, which may lead to behaviors 
+such as removing clothing or seeking a cooler environment.
+Fever has both positive and negative effects. High body tempera­
+tures may impair the reproduction and survival of some invading 
+microorganisms by decreasing required nutrients, such as free iron, 
+or by optimizing immunologic responses, such as phagocytosis. How­
+ever, at extremely high temperatures, immunologic responses may be 
+impaired. Fever increases the basal metabolic rate by 10–12% for each 
+degree Celsius elevation in temperature. This change in metabolic rate 
+increases oxygen consumption, carbon dioxide production, and fluid 
+and caloric needs. Fluid requirements increase 100 mL/m2/day for 
+each 1°C rise in temperature above 37.8°C.
+Elevated body temperature occurring in the absence of infectious 
+or inflammatory stimuli is termed hyperthermia. Hyperthermia can 
+result from excessive heat production, inadequate heat dissipation, 
+or hypothalamic dysfunction (Table 52.1). Heat stroke is a form of 
+heat illness in which excessive heat production and inadequate heat 
+dissipation can result in extreme elevations in temperature despite a 
+normal hypothalamic set point. Prompt restoration of normal body 
+temperature is mandatory to prevent multiorgan dysfunction and 
+death.
+FEVER WITHOUT SOURCE
+The evaluation of FWS aims to identify the etiology of the fever and 
+determine the severity of illness. All patients should undergo a thor­
+ough history and physical examination. The scope of laboratory and 
+radiographic evaluation depend on the patient age and severity of ill­
+ness. FWS of long duration may meet criteria for FUO.
+History
+A detailed history may reveal a potential source for infection. A com­
+plete history addresses several important issues: (1) duration and 
+pattern of fever; (2) height of fever; (3) mode of temperature mea­
+surement; (4) administration and response to medications, including 
+antipyretics, antibiotics, or home remedies; (5) associated symptoms; 
+(6) environmental exposures; (7) ill contacts; (8) immunization his­
+tory including recent administrations, and (9) recent travel. In addi­
+tion, inquiry into the child’s past medical history may reveal important 
+historical information such as recurrent febrile illnesses, primary or 
+acquired immunodeficiency, or underlying diseases that predispose to 
+infection or fevers. A personal history of or exposure to COVID-­19 
+suggests the possibility of multisystem inflammatory syndrome in chil­
+dren (MIS-­C).
+Temperature Measurement
+Rectal temperature measurement is the gold standard for children 
+3 years of age or younger. The most widely accepted definition of 
+fever is rectal temperature of 38°C (100.4°F) or higher. It is import­
+ant to consider that infants, especially those younger than 2 months 
+of age, may have a blunted febrile response or develop hypothermia 
+with infection. Hence, lack of fever should not be used as a criterion 
+for ruling out infection in infants. Rectal temperature measurement 
+should be avoided in neutropenic immunocompromised patients, in 
+whom rectal manipulation may result in translocation of bacteria to 
+the bloodstream.
+Oral temperature measurement is reliable for cooperative patients 
+who are older than 4–5 years of age. Axillary temperature measure 
+is commonly performed but is less precise than rectal temperatures. 
+There is a general correlation between axillary and rectal temperature 
+measurements; the axillary temperature is usually 0.5–0.85°C lower. 
+Tympanic membrane thermometers are often inaccurate in children. 
+Temporal artery temperature measurement correlates well with rectal 
+temperature in some studies, but it has been shown to be inferior when 
+patients are febrile. It can be considered in settings when children are 
+not likely to be febrile and are over 3 months of age. When detection 
+of fever is critical for diagnosis and management, rectal temperatures 
+should be used in the child 3 years of age and younger.
+Physical Examination
+The physical examination is vitally important to classify the febrile child 
+as ill-­ or well-­appearing. This classification informs the requirement for 
+and urgency of laboratory and radiographic evaluation, as well as the 
+subsequent management. Ill-­appearing children are typically lethargic 
+or irritable. They may show signs of shock, including weak peripheral 
+pulses, tachycardia, poor perfusion, respiratory distress, mottling, cya­
+nosis, or decreased mental status (Table 52.2). Additional worrisome 
+signs include petechiae or purpura and signs of meningitis. After thor­
+ough clinical and laboratory evaluation, ill-­appearing children should 
+TABLE 52.1  Causes of Hyperthermia
+Excessive Heat Production
+Exertion
+Heat stroke (exertion)
+Malignant hyperthermia (anesthesia induced)
+Neuroleptic malignant syndrome
+Catatonia
+Tetanus
+Status epilepticus
+Delirium
+Endocrine disorders (hyperthyroidism, pheochromocytoma)
+Drugs (cocaine, amphetamines, ephedrine, phencyclidine, tricyclic 
+antidepressants, lysergic acid diethylamide [LSD], lithium, thyroid hormone, 
+salicylates)
+Diminished Heat Dissipation
+Heat stroke
+Occlusive dressings
+Dehydration
+Extensive burns (including severe sunburn)
+Anhidrotic ectodermal dysplasia
+Anticholinergic-­like drugs (atropine, antihistamines, phenothiazines, tricyclic 
+antidepressants)
+Autonomic neuropathy
+Spinal cord level paralysis (spinal crisis)
+Possible overbundling (especially in a warm environment)
+Overheating in automobile exposed to sun or heat
+Therapeutic hyperthermia
+Hypothalamic Dysfunction*
+Stroke
+Encephalitis
+Granulomatous processes (sarcoid, tuberculosis, eosinophilic)
+Trauma
+Central: idiopathic
+Phenothiazines
+Hemorrhage
+*Usually associated with hypothermia.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+967
+CHAPTER 52  Fever
+be admitted to the hospital and likely require empiric antibiotic treat­
+ment while microbiologic and other diagnostic assays are pending.
+Observational Scales
+It is challenging to determine the subsequent evaluation and manage­
+ment of infants and children with FWS who do not appear ill. The phy­
+sician’s ability to make a hypothesis about the child’s degree of illness, 
+on the basis of observation, may simultaneously allow for identifica­
+tion of serious infection as well as eliminate administration of unnec­
+essary testing or treatment. An objective scoring measure may be used 
+to assess serious illness in young febrile children. The Acute Illness 
+Observation Scale (AIOS) (Table 52.3), also known as the Yale Obser­
+vation Score, is a 6-­item predictive model graded on a scale of 1–5. Use 
+of the AIOS in conjunction with the history and physical examination 
+has a higher sensitivity for identifying serious illness than history and 
+physical examination alone. While helpful in determining the severity 
+of illness, the AIOS cannot be used to confirm or exclude serious bac­
+terial infection.
+Differential Diagnosis
+Most children who present with FWS are subsequently determined 
+to have a self-­limited benign viral infection. In a study of children 
+with FWS aged 2–36 months, 76% had one or more known patho­
+genic viruses found, most commonly adenovirus, human herpesvirus 
+6 (HHV-­6: roseola), enterovirus, or parechovirus. Other identifiable 
+viruses include respiratory syncytial virus, parainfluenza viruses, 
+influenza viruses, varicella (chickenpox), human metapneumovi­
+rus, and parvovirus (fifth disease/erythema infectiosum). Measles, 
+mumps, and rubella are uncommon in countries with sufficiently 
+high rates of immunization but have been reported in epidem­
+ics following imported cases or in underimmunized communities. 
+Although rapid testing for viral pathogens is often readily available, 
+a detailed and costly investigation to identify a viral pathogen is not 
+necessary unless the confirmation of a viral infection will change the 
+acute diagnostic plan, there is potential for antiviral therapy (e.g., 
+herpes simplex virus [HSV], influenza), fever is prolonged (FUO), 
+or end-­organ involvement is identified (e.g., hepatitis, myocarditis, 
+encephalitis, or meningitis).
+Although less common than viral infections, bacterial infections 
+are notable causes of FWS, especially in younger children. Bacterial 
+infections most likely to manifest in the absence of localizing symp­
+toms include urinary tract infections, bacteremia, and meningitis. 
+Bacterial superinfection concurrent with or after viral infection may 
+also occur. Well-­documented examples include croup due to parain­
+fluenza virus predisposing to bacterial tracheitis, influenza accompa­
+nied by bacterial pneumonia, and varicella complicated by invasive 
+group A streptococcal (GAS) infection. In many cases, there is a clear 
+biphasic pattern to the symptoms with improvement in the initial 
+viral symptoms followed by recurrent fever or worsening symptoms. 
+These bacterial superinfections are unusual causes of FWS since 
+localizing signs and symptoms in the respiratory tract or skin are 
+usually present.
+Noninfectious conditions manifesting as FWS are rare. Histori­
+cal clues (recurrences, chronicity) or systemic signs usually indicate 
+malignancy or rheumatic disorders. Similarly, history should suggest 
+conditions associated with hyperthermia, such as heat-­related illness 
+or drug ingestion. Recent receipt of immunizations may cause fever 
+at a characteristic interval. The 1–2-­week delay between measles, 
+mumps, and rubella (MMR) or varicella vaccine and fever onset may 
+result in decreased recognition of this fever source. Many noninfec­
+tious inflammatory conditions are elusive to diagnosis in the early days 
+of fever. However, some inflammatory conditions in children, such as 
+TABLE 52.2  International Consensus 
+Definitions for Pediatric Sepsis
+Infection
+Suspected or proven infection or a clinical syndrome 
+associated with high probability of infection
+SIRS
+Two of four criteria, one of which must be abnormal 
+temperature or abnormal leukocyte count:
+	1.	Core temperature >38.5°C (101.3°F) or <36°C (96.8°F) 
+(rectal, bladder, oral, or central catheter)
+	2.	Tachycardia:
+Mean heart rate >2 SD above normal for age in absence 
+of external stimuli, chronic drugs, or painful stimuli
+or
+Unexplained persistent elevation over 0.5–4 hr
+or
+In children <1 yr old, persistent bradycardia over 0.5 hr 
+(mean heart rate <10th percentile for age in absence 
+of vagal stimuli, β-­blocker drugs, or congenital heart 
+disease)
+	3.	Respiratory rate >2 SD above normal for age or 
+acute need for mechanical ventilation not related to 
+neuromuscular disease or general anesthesia
+	4.	Leukocyte count elevated or depressed for age (not 
+secondary to chemotherapy) or >10% immature 
+neutrophils
+Sepsis
+SIRS plus a suspected or proven infection
+Severe sepsis
+Sepsis plus one of the following:
+	1.	Cardiovascular organ dysfunction, defined as:
+Despite >40 mL/kg of isotonic intravenous fluid in 1 hr:
+ • Hypotension <5th percentile for age or systolic blood 
+pressure <2 SD below normal for age 
+or
+ • Need for vasoactive drug to maintain blood pressure
+or
+ • Two of the following:
+ 
+• Unexplained metabolic acidosis: base deficit >5 
+mEq/L
+ 
+• Increased arterial lactate: >2 times upper limit of 
+normal
+ 
+• Oliguria: urine output <0.5 mL/kg/hr
+ 
+• Prolonged capillary refill: >5 sec
+ 
+• Core-­to-­peripheral temperature gap >3°C (5.4°F)
+	2.	ARDS as defined by the presence of a Pao2/Fio2 ratio 
+≤300 mm Hg, bilateral infiltrates on chest radiograph, 
+and no evidence of left heart failure
+or
+Sepsis plus two or more organ dysfunctions (respiratory, 
+renal, neurologic, hematologic, or hepatic)
+Septic shock
+Sepsis plus cardiovascular organ dysfunction as defined 
+above
+MODS
+Presence of altered organ function such that 
+homeostasis cannot be maintained without medical 
+intervention
+ARDS, acute respiratory distress syndrome; Fio2, fraction of inspired 
+oxygen; MODS, multiple organ dysfunction syndrome; Pao2, partial 
+pressure arterial oxygen; SIRS, systemic inflammatory response syn­
+drome.
+From Turner DA, Cheifetz IM. Shock. In: Kliegman RM, St. Geme 
+JW III, Blum NJ, et al., eds. Nelson Textbook of Pediatrics. 21st ed. 
+Philadelphia: Elsevier; 2020:578, Table 88.7.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+968
+SECTION 10  Infectious Diseases/Immune/Inflammation
+Kawasaki disease and MIS-­C, require early intervention to prevent 
+severe sequelae or severe illness.
+Urinary Tract Infections
+Urinary tract infections (UTIs) are the most common serious bacte­
+rial infection in children younger than 36 months of age who present 
+with FWS. UTIs are often occult in children younger than 24 months 
+because the symptoms, except for fever, are nonspecific or nonexistent. 
+UTI occurs in 7% of febrile children younger than 2 years. The prev­
+alence of UTI varies by height of the fever, duration of the fever, age, 
+gender, race, and circumcision status. Children with FWS >39°C are 
+at a higher risk of UTIs. Males with fever for more than 2 days and 
+females with fever for more than 1 day are more likely to have a UTI. 
+Higher rates of UTIs are found in females, especially those younger 
+than 12 months of age. For febrile males younger than 3 months of 
+age, 20.1% of those who are uncircumcised have a UTI; for circum­
+cised males, the rate is 2.4%. UTI rates are higher among children with 
+abnormal genitourinary tract anatomy or neurogenic bladder.
+Urine specimens should be obtained from the following children 
+with FWS: those with a history of UTI, those with a history of uri­
+nary tract anomalies or vesicoureteral reflux, females younger than 
+12–24 months, uncircumcised males younger than 12 months, and 
+circumcised males younger than 6 months. Prompt evaluation of 
+the urine in all febrile infants younger than 2 months is mandatory. 
+There is an age-­associated risk of bacteremia with UTIs, particularly 
+in infants. The incidence of bacteremia in patients with UTI who are 
+younger than 2 months ranges from 4% to 15% depending on the set­
+ting. Opinions regarding when to obtain blood cultures in infants with 
+UTI differ, but a reasonable approach would be to obtain blood cul­
+tures in children younger than 2–6 months with suspected UTI and in 
+older infants with UTI if they are ill-­appearing.
+Bacteremia
+Occult bacteremia is defined by the presence of a positive blood cul­
+ture for pathogenic bacteria in a febrile patient who does not appear 
+extremely ill and who has no focus of infection, excluding otitis media. 
+Prior to the introduction of conjugate pneumococcal vaccines, Strepto­
+coccus pneumoniae was a common cause of occult bacteremia in young 
+children. With the introduction of the 7-­valent conjugate pneumococ­
+cal vaccine in 2000, rates of pneumococcal bacteremia decreased from 
+74.5 to 10 cases per 100,000 per year. The expansion to 13-­valent conju­
+gate pneumococcal vaccine (PCV-­13) in 2010 correlated with a further 
+threefold decline in pneumococcal bacteremia. In immunized febrile 
+children 3–36 months of age, the likelihood of detecting a contaminant 
+TABLE 52.3  Acute Illness Observation Scale
+1
+3
+5
+Observation Item
+Normal
+Moderate Impairment
+Severe Impairment
+Quality of cry
+Strong with normal tone 
+or 
+Content and not crying
+Whimpering 
+or 
+Sobbing
+Weak 
+or 
+Moaning
+or 
+High-­pitched
+Reaction to parent stimulation
+Cries briefly, then stops 
+or 
+Content and not crying
+Cries off and on
+Continual cry 
+or 
+Hardly responds
+State variation
+If awake → stays awake 
+or 
+If asleep and stimulated 
+→ wakes up quickly
+Eyes close briefly → 
+awakens 
+or 
+Awakes with prolonged 
+stimulation
+Falls asleep 
+or 
+Will not rouse
+Color
+Pink
+Pale extremities 
+or 
+Acrocyanosis
+Pale 
+or 
+Cyanotic 
+or 
+Mottled 
+or 
+Ashen
+Hydration
+Skin normal, eyes normal 
+and 
+Mucous membranes moist
+Skin, eyes normal 
+and 
+Mouth slightly dry
+Skin doughy 
+or 
+Skin tented 
+and 
+Dry mucous membranes 
+and/or
+Sunken eyes
+Response (talk, smile) to social 
+overtures
+Smiles
+or 
+Alert (≤2 mo)
+Brief smile 
+or 
+Alert briefly (≤2 mo)
+No smile; face anxious, dull, 
+expressionless 
+or 
+No alertness (≤2 mo)
+From McCarthy PL, Sharpe MR, Spiesel SZ, et al. Observation scales to identify serious illness in febrile children. Pediatrics. 1982;70:802.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+969
+CHAPTER 52  Fever
+on blood culture may be double the incidence of true occult bacteremia 
+in the post–­PCV-­13 era. Risk factors for recurrent occult bacteremia 
+include functional or anatomic asplenia (including sickle cell anemia) 
+as well as defects in the innate immune system, including abnormali­
+ties in the toll-­like receptor signaling pathway, which may also result in 
+a blunted host immune response and decrease the likelihood of associ­
+ated signs or symptoms when bacteremic.
+Overall, most cases of bacteremia in children are not occult. Children 
+with bacteremia are likely to either be ill-­appearing or have a focus of 
+infection, such as a UTI. Escherichia coli is the most common cause of 
+bacteremia in children aged younger than 12 months, all associated 
+with UTI. Other less common causes of bacteremia in young children 
+beyond the neonatal period are Neisseria meningitidis, nontyphoidal 
+Salmonella, Staphylococcus aureus, and GAS. N. meningitidis bacte­
+remia is frequently associated with serious sequelae, including shock 
+and meningitis. Nontyphoidal Salmonella bacteremia is often accom­
+panied or preceded by enteritis. In some instances, particularly in 
+young infants, the diarrhea is mild or even absent. The prevalence of 
+Salmonella bacteremia among patients with Salmonella enteritis has 
+been reported to be between 2% and 45%; fever is not always present. 
+Salmonella infection seldom causes serious complications in patients 
+with normal host defenses and resolves spontaneously. Infants younger 
+than 3 months, malnourished children, and immunocompromised 
+individuals are at high risk for serious and disseminated Salmonella 
+infection.
+Meningitis
+Bacterial and viral meningitis/meningoencephalitis are important 
+causes of FWS in young infants. The most common etiologic agents 
+in neonates are E. coli, group B Streptococcus (GBS), Listeria mono­
+cytogenes, HSV, and enterovirus. Pneumococcus and meningococcus 
+become more common after 1 month of age.
+Role of Diagnostic Testing in Patients with 
+Fever Without Source
+Evaluation is usually divided into four different age ranges: younger 
+than 1 month, 1–3 months, 3–36 months, and older than 36 months. 
+Testing for each individual age group is based on risks for diseases and 
+prevalence of pathogens.
+Complete Blood Count and Other Markers 
+of Inflammation
+The white blood cell (WBC) count is the most commonly used test in 
+young children with FWS. CBC is less useful as a marker for invasive 
+disease caused by E. coli than by S. pneumoniae; thus, its utility has 
+declined with the reduced incidence of invasive pneumococcal disease. 
+Similarly, band counts are less informative except in the 29–60-­day-­old 
+infant as part of identifying a low-­risk cohort. A WBC count of 5,000–
+15,000 is generally considered normal for children over 1 month of age. 
+A WBC count of <15,000/mm3 or even leukopenia may be found in 
+children with N. meningitidis bacteremia. A minority of children with 
+occult nontyphoidal Salmonella bacteremia have been found to have a 
+WBC count exceeding 15,000/mm3. CRP and procalcitonin combined 
+with a UA can be used to screen for bacterial infection. This combina­
+tion of tests has been validated for children 7 days to 36 months of age.
+Molecular Testing
+Polymerase chain reaction (PCR, also known as nucleic acid amplifica­
+tion tests or NAAT) is useful in identifying the cause of acute fever from 
+common viruses such as respiratory syncytial virus, influenza viruses, 
+parainfluenza viruses, enteroviruses, parechovirus, adenoviruses, coro­
+naviruses including severe acute respiratory syndrome–coronavirus 2 
+(SARS-­CoV-2), rhinoviruses, and HSV. Appropriate specimens include 
+nasopharyngeal (respiratory viruses and enterovirus), stool (adenovi­
+rus and enterovirus), cerebrospinal fluid (CSF) (enterovirus and HSV 
+most commonly), skin (HSV), and blood (enterovirus, adenovirus, and 
+HSV). Typically, PCR testing is reserved for patients with serious ill­
+ness or pathogens that are amenable to treatment, such as HSV, or in 
+circumstances when the identification of a specific viral etiology would 
+allow for the discontinuation of empiric antibacterial therapy. PCR 
+testing is also available for some bacterial pathogens from select body 
+fluids (CSF, pleural fluid).
+Additional methods are available in select laboratories to identify 
+serious bacterial infections. Gene expression profiles of peripheral 
+blood leukocytes demonstrate different biosignatures of RNA produc­
+tion associated with bacterial or viral infections, though this method 
+does not identify the specific pathogen. Rapid multiplex PCR combined 
+with standard blood culture methods may identify a specific pathogen 
+much sooner (∼20 hours) than standard blood culture techniques. Spe­
+cific bacteria may be identified using 16S ribosomal RNA bacterial gene 
+detection in tissue biopsies or blood. This method does not require bac­
+terial growth but may lack sensitivity with low inoculum.
+Blood Cultures
+Blood cultures are the gold standard for identification of bacteremia. 
+Blood culture methodology allows for continuous and automated 
+detection of bacterial growth. Blood cultures are easy to perform and 
+provide essential information in the diagnosis and management of 
+patients with possible bacteremia. Pathogen growth is usually detected 
+within 24–48 hours of collection, with positive identification of most 
+organisms within 2–24 hours of growth. Rapid diagnostic techniques 
+such as multiplex PCR on positive blood culture bottles and matrix-­
+assisted laser desorption/ionization time-­of-­flight mass spectrometry 
+(MALDI-­TOF MS) on growing bacteria have further shortened the 
+interval to pathogen identification.
+False-­negative blood culture results may be due to prior treatment 
+with antibiotics, presence of intermittent bacteremia, or sampling error 
+due to small specimen volume. Alternatively, too much blood inoc­
+ulated into the blood culture bottle may yield a false-­negative result 
+because of ongoing killing of bacteria by neutrophils. Reference ranges 
+for the appropriate volumes of blood are available based on the patient 
+size and type of blood culture bottle. False-­positive results are most 
+commonly due to inadequate skin preparation, leading to contamina­
+tion with skin flora.
+Urinalysis and Urine Culture
+Recommendations for the diagnosis of UTI include a UA that has 
+pyuria (defined as >5 WBCs/high-­power field [hpf] on the micro­
+scopic examination or a positive leukocyte esterase on dipstick) and a 
+positive urine culture for a uropathogen in an appropriately collected 
+specimen; 50,000 to 100,000 colonies of a single organism is consid­
+ered positive (see Chapter 21). Children should have a catheterized 
+urine specimen obtained, unless they are toilet-­trained and can supply 
+a clean voided specimen. Suprapubic aspiration allows for noncontam­
+inated urine collection but requires technical expertise, and parents 
+often perceive it as unsuitably invasive; it may be the only alternative 
+for males with severe phimosis. The use of plastic receptacles attached 
+to the perineum should be discouraged because contamination from 
+skin and fecal flora commonly occurs.
+Lumbar Puncture
+Lumbar puncture (LP) to obtain CSF is indicated if the patient is 
+younger than 28 days or if a diagnosis of sepsis, meningitis, or enceph­
+alitis is considered, regardless of the child’s age. Normal CSF findings, 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+970
+SECTION 10  Infectious Diseases/Immune/Inflammation
+including chemistry, cell count with differential, Gram stain, PCR, and 
+culture, help exclude the diagnosis of meningitis. Less than 1% of chil­
+dren with normal preliminary CSF results have a positive culture; in 
+most of these, the pathogen is N. meningitidis. Thus, even in the pres­
+ence of normal preliminary CSF results, close follow-­up is essential.
+Chest Radiographs
+Chest radiographs are usually normal in children who have FWS. 
+Respiratory signs or symptoms, such as tachypnea, retractions, crack­
+les, wheezing, rhonchi, nasal flaring, grunting, cough, or hypoxia, may 
+predict chest radiograph findings consistent with pneumonia. In prac­
+tice, pneumonia can often be diagnosed solely based on the clinical 
+findings of fever, tachypnea, and crackles; chest radiographs are not 
+always necessary. However, chest radiographs may be useful in eval­
+uating for the presence of pleural effusion or other complications of 
+pneumonia, or in instances where lower-­lobe or lingular pneumonia 
+produces vague referred abdominal pain that is more pronounced than 
+respiratory signs or symptoms.
+Stool Cultures
+Most acute febrile diarrhea episodes in developed countries are caused 
+by viral pathogens. Stool testing for bacterial pathogens by culture or 
+enteric pathogen PCR is indicated if there are risk factors in the history, 
+such as blood in the stool or certain exposures (petting zoos, ingestion 
+of potentially contaminated food) (see Chapter 14).
+Evaluation and Management
+Children Younger Than 3 Months
+Febrile infants younger than 3 months have a higher incidence of seri­
+ous bacterial infections than older infants and therefore deserve special 
+consideration. The relatively high incidence of bacterial disease prob­
+ably results from a combination of factors unique to this age group: 
+decreased opsonin activity, decreased macrophage function, decreased 
+neutrophil function, poor immunoglobulin G (IgG) antibody response 
+to encapsulated bacteria, and susceptibility to bacterial pathogens such 
+as GBS, gram-­negative enteric organisms such as E. coli, and L. mono­
+cytogenes. The incidence of early-­onset GBS infections has decreased 
+with routine screening and the intrapartum treatment of GBS-­positive 
+pregnant women; the incidence of late-­onset GBS (>1 week) has not 
+decreased. In contemporary studies, E. coli is the most common organ­
+ism causing bacterial infections in neonates and young infants.
+In very young infants, clinical evaluation alone is insufficiently 
+sensitive to exclude bacterial infections such as UTI, bacteremia, or 
+meningitis. In addition, abnormal initial laboratory results are often 
+insufficiently specific to definitively diagnose these infections. Various 
+investigators developed clinical prediction models to identify febrile 
+infants at low risk for serious bacterial infection (Table 52.4). Appli­
+cation of these criteria allowed for decreased laboratory testing and/
+or hospitalization in select infants who were unlikely to have bacte­
+rial meningitis, bacteremia, or UTI. In 2021, the American Academy 
+of Pediatrics (AAP) with the assistance of the Agency for Healthcare 
+Research and Quality published new guidelines for the evaluation and 
+management of well-­appearing febrile infants 8 to 60 days old. Notable 
+changes from those earlier clinical prediction models included changes 
+in tests used to guide decision making, with increased emphasis on 
+CRP and procalcitonin, and new age-­based risk stratification.
+Management of well-­appearing febrile infants younger than 21 days 
+includes evaluation of the blood, urine, and CSF for bacterial infec­
+tion, as well as any other sites based on presenting findings (e.g., chest 
+radiograph in neonates with respiratory distress or cough) and hospi­
+talization for parenteral antimicrobial therapy pending culture results. 
+The reasoning for this conservative approach lies in the difficulty in 
+evaluating the behavioral state of neonates, the rapid clinical deteri­
+oration of infants with bacterial infections, the immature neonatal 
+immune system, and the possibility of life-­threatening viral infections 
+caused by HSV and enteroviruses. Evaluation should include bacterial 
+cultures of the CSF, blood, and urine; a CBC with differential; examina­
+tion of the CSF for cell count and differential, protein, and glucose; and 
+UA. Inflammatory markers such as procalcitonin and CRP may also be 
+obtained. Testing for HSV (surface swabs, blood, and CSF PCR) and 
+empiric treatment for possible HSV infection should be considered 
+in patients at increased HSV risk. While the risk of vertical transmis­
+sion of HSV is highest during a primary maternal infection of genital 
+herpes at or near the time of delivery, the presence of maternal HSV 
+infection is often unknown. Additional risk factors for neonatal HSV 
+include a known maternal history of genital HSV lesions or peripar­
+tum fevers, as well as neonatal seizures, hypothermia, vesicles, mucous 
+membrane ulcers, leukopenia, thrombocytopenia, elevated alanine 
+TABLE 52.4  Low-­Risk Criteria in a Child 
+0–3 Months Old with Fever
+Boston Criteria
+Infants are at low risk if they appear well, have a normal physical examination, 
+received no antimicrobials or DTaP vaccine in the previous 48 hr, have a 
+caretaker reachable by telephone, and if laboratory tests are as follows:
+ • CBC: <20,000 WBC/mm3
+ • Urine: negative leukocyte esterase or <10 WBC/hpf
+ • CSF: leukocyte count <10 cells/mm3
+ • Chest radiograph: no infiltrate (if respiratory symptoms)
+Philadelphia Protocol
+Infants are at low risk if they appear well and have a normal physical 
+examination, caregiver available to be contacted, and if laboratory tests are 
+as follows:
+ • CBC: <15,000 WBC/mm3; immature: total neutrophil ratio <0.2
+ • Urine: <10 WBC/hpf; no bacteria on Gram stain
+ • CSF: <8 WBC/mm3; no bacteria on Gram stain; nonbloody specimen
+ • Chest radiograph: no infiltrate
+ • Stool: no RBC; few to no WBCs (if abnormal stools)
+Pittsburgh Guidelines
+Infants are at low risk if they appear well and have a normal physical 
+examination; no history of prematurity, illness, hospitalization, antibiotics, 
+or siblings with GBS disease; and if laboratory tests are as follows:
+ • CBC: 5,000–15,000 WBC/mm3; peripheral absolute band count ≤1,500/
+mm3
+ • Urine (enhanced urinalysis): ≤9 WBC/mm3 and no bacteria on Gram stain
+ • CSF: ≤5 WBC/mm3 and negative Gram stain; if bloody tap, then WBC:RBC 
+≤1:500
+ • Chest radiograph: no infiltrate (if respiratory symptoms)
+ • Stool: <5 WBC/hpf (if diarrhea)
+Rochester Criteria
+Infants are at low risk if they appear well and have a normal physical 
+examination; previous healthy, full-­term gestation, no recent antibiotics, 
+and no unexplained hyperbilirubinemia; and if laboratory findings are as 
+follows:
+ • CBC: 5,000–15,000 WBC/mm3; absolute band count ≤1,500/mm3
+ • Urine: <10 WBC/hpf, no bacteria on Gram stain
+ • Chest radiograph: no infiltrate (if respiratory symptoms)
+ • Stool: <5 WBC/hpf (if abnormal stools)
+CSF, cerebrospinal fluid; hpf, high-­powered field; RBC, red blood cell; 
+WBC, white blood cell.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+971
+CHAPTER 52  Fever
+aminotransferase levels, or CSF pleocytosis with a Gram stain that is 
+negative for organisms.
+A combination of age, clinical evaluation, and laboratory studies is 
+used to define a specific population of well-­appearing febrile infants 
+who are at low risk for bacterial infections. With the 2021 AAP guide­
+lines, the relevant age range is 22–60 days old, with additional evalua­
+tion steps recommended for the infants aged 22–28 days. Infants at low 
+risk for bacterial infections are those who are well-­appearing with no 
+evident focus of bacterial infection on physical examination and who 
+have negative laboratory screening results. Historically, low-­risk screen­
+ing criteria included normal total WBC, band count, immature-­to-­total 
+neutrophil ratio, UA WBC, CSF WBC, and lack of organisms observed 
+in fluid stains (see Table 52.4). Based on existing evidence, the updated 
+2021 AAP guidelines focus instead primarily on UA results and inflam­
+matory markers for risk stratification. Abnormal inflammatory markers 
+are defined as temperature >38.5°C, procalcitonin >0.5 ng/mL, CRP >20 
+mg/L, and absolute neutrophil count (ANC) >4000–5200 cells/mm3. A 
+positive UA result should be followed with bladder catheterization or 
+suprapubic aspiration for urine culture. Decision on the performance of 
+an LP depends on the age group of the child (22–28 days versus 29–60 
+days old) and the result of the inflammatory marker testing (Table 
+52.5). In most circumstances, patients with increased inflammatory 
+TABLE 52.5  Management of Fever Without Source
+Group
+Management
+Any toxic-­appearing child 0–36 mo and temperature ≥38°C 
+(100.4°F)
+Hospitalize, broad cultures plus other tests,* parenteral antibiotics
+Child <22 days and temperature ≥38°C (100.4°F)
+Hospitalize, broad cultures plus other tests,* parenteral antibiotics
+Child 22–60 days and temperature ≥38°C (100.4°F)
+Three-Step Process
+	1.	Determine risk based on history, physical examination, and laboratory studies.
+Low risk:
+ • Uncomplicated medical history
+ • Well-appearing physical examination
+ • Normal laboratory studies
+ • Urine: negative leukocyte esterase, nitrite ≤5 WBC centrifuged, and <10 WBC/hpf uncentrifuged
+ • Inflammatory markers: temperature ≤38.5°C, procalcitonin ≤0.5 ng/mL, CRP ≤20 mg/L, absolute 
+neutrophil count ≤4000–5200/mm3
+ • Stool studies if diarrhea (no RBC and <5 WBC/hpf)
+	2.	If child fulfills all low-­risk criteria, use age to determine need for LP, parenteral antimicrobials, and 
+hospital observation.
+ • Age 22–28 days: May perform LP. May administer parenteral antimicrobials. Observe in hospital.
+ • Age 29–60 days old: Need not perform LP. Need not administer antimicrobials. Observe closely 
+at home with follow-­up within 24–36 h.
+	3.	If child does not fulfill all low-­risk criteria, use age and lab results to determine need for LP, 
+antimicrobials, and hospital observation.
+ • Age 22–28 days with abnormal UA and normal inflammatory markers: May perform LP. 
+Administer parenteral antimicrobials. Observe in hospital.
+ • Age 22–28 days with abnormal inflammatory markers: Perform LP. If CSF pleocytosis, CSF 
+uninterpretable, or abnormal UA, administer parenteral antimicrobials and observe in hospital. If 
+CSF and UA are normal, may observe at home after parenteral antimicrobials or observe in the 
+hospital with or without parenteral antimicrobials.
+ • Age 29–60 days with abnormal UA and normal inflammatory markers: Administer oral 
+antimicrobials. May observe closely at home with follow-­up in 12–24 h.
+ • Age 29–60 days with abnormal inflammatory markers: May perform LP. If CSF pleocytosis, 
+administer parenteral antimicrobials and observe in hospital. If CSF is normal, may administer 
+parenteral or oral antimicrobials and may observe closely in hospital or at home. If CSF is not 
+available or uninterpretable, administer parenteral antimicrobials and may observe closely in 
+hospital or at home.
+Child 2–36 mo and temperature 38–39°C (100.4–102.2°F)
+Reassurance that diagnosis is likely self-­limited viral infection, but advise return with persistence of 
+fever, temperatures >39°C (102.2°F), and/or new signs and symptoms.
+Child 2–36 mo and temperature >39°C (102.2°F)
+Two-­Step Process
+	1.	Determine immunization status.
+	2.	If received conjugate pneumococcal and Haemophilus influenzae type b vaccines, obtain urine 
+studies (urine WBC, leukocyte esterase, nitrite, and culture) for all girls, all boys <6 mo old, all 
+uncircumcised boys <2 yr, and all children with recurrent urinary tract infections.
+If did not receive conjugate pneumococcal and H. influenzae type b vaccines, manage according to 
+the 1993 Guidelines (see Baraff et al. Ann Emerg Med. 1993;22:1198–1210).
+*Other tests may include chest radiograph, stool studies, herpes simplex virus polymerase chain reaction.
+hpf, high-powered field; LP, lumbar puncture; RBC, red blood cell; WBC, white blood cell.
+Adapted from Nield LS, Kamat D. Fever without a focus. In: Kliegman RM, Stanton BF, St Geme JW III, et al, eds. Nelson Textbook of Pediatrics. 
+20th ed. Philadelphia: Elsevier; 2016: Table 177.3; with data from Pantell RH, Roberts KB, Adams WG, et al. Evaluation and Management of Well-
+Appearing Febrile Infants 8 to 60 Days Old. Pediatrics. 2021;148(2).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+972
+SECTION 10  Infectious Diseases/Immune/Inflammation
+markers or positive UA results should be administered parenteral anti­
+biotics. Select patients can be treated with oral antimicrobials or be 
+observed without antimicrobial therapy in hospital or at home. Regard­
+less of whether the clinician chooses to treat the patient with empiric 
+antibiotics, all low-­risk infants should be re-­evaluated within 24 hours. 
+Those who appear ill or who have positive culture results should be hos­
+pitalized for parenteral antibiotics. If a child appears well and all culture 
+results are negative, close follow-­up should be continued and a second 
+return visit made in 24 hours.
+Although most of the original studies on management of well-­
+appearing febrile infants included infants up to 3 months of age, 
+most infants aged 2–3 months can be managed safely according 
+to the guidelines for infants and children aged 3–36 months (see 
+Table 52.5). Special consideration should also be given to febrile 
+infants with recent receipt of vaccinations. Fever within the first 
+48 hours after immunization occurs in greater than 40% of young 
+infants.
+All ill-­appearing febrile infants regardless of age must be evaluated for 
+bacteremia, meningitis, or pyelonephritis and treated immediately after 
+cultures are obtained.
+Children Aged 3–36 Months
+The risk of bacteremia for children with FWS in this age group has 
+decreased with the routine use of pneumococcal vaccines. The most 
+common occult bacterial infection in this age group is UTI. However, 
+children in this age group who appear ill should undergo a full sepsis 
+evaluation (see Table 52.5).
+Screening UA for UTI should be considered in children with a 
+history of UTI; children with a history of urinary tract anomalies or 
+vesicoureteral reflux; females younger than 12–24 months, especially 
+when the temperature is >39.0°C; uncircumcised males younger than 
+12 months; and circumcised males younger than 6 months. Blood 
+cultures are recommended for children with probable UTIs who are 
+younger than 6 months of age. A febrile child with moderate leuko­
+cyte esterase on macroscopic UA or pyuria on an appropriately col­
+lected specimen should be treated presumptively for a UTI. Urine 
+cultures should be obtained for any patient with a suspected UTI. The 
+choice of antibiotics should be guided by knowledge of the common 
+pathogens that cause UTIs and by patterns of antibiotic sensitivity in 
+the community. Hospitalization should be considered for the child 
+who is vomiting, dehydrated, or ill-­appearing; for those in whom 
+compliance is likely to be poor; and for any patient with underlying 
+renal or urologic anomalies.
+Evaluation for meningitis with an LP is necessary in any child 
+with unexplained sepsis, signs or symptoms of central nervous sys­
+tem (CNS) infection, or blood culture positive for N. meningitidis or 
+H. influenzae type B. Admission to the hospital for parenteral antibiot­
+ics is necessary while awaiting the results of CSF studies.
+Outpatient management of children with FWS is acceptable for 
+those with a low probability of meningitis, good follow-­up, and reliable 
+caregivers. The clinical evolution and results of cultures dictate the next 
+stage of management. The child with occult pneumococcal bacteremia 
+who appears well and is afebrile when returning for a follow-­up may be 
+managed as an outpatient with parenteral ceftriaxone followed by oral 
+antibiotics according to the sensitivity of the organism. If blood cul­
+ture is positive for nontyphoidal Salmonella organisms and the child is 
+younger than 3 months, full sepsis evaluation and intravenous antibiot­
+ics are recommended. Oral antibiotics and close follow-­up are recom­
+mended for older children with Salmonella bacteremia. Children with 
+continued FWS should be re-­evaluated every 48 hours until fever reso­
+lution to assess for the emergence of new signs and symptoms, as well as 
+changes in the severity of illness. Laboratory work-­up such as CBC with 
+differential, comprehensive metabolic profiles, and inflammatory mark­
+ers may be indicated, such as when evaluating for incomplete Kawasaki 
+disease.
+Children Older Than 36 Months
+Evaluation and management of ill-­appearing children older than 36 
+months with FWS are similar to those of younger children. History to 
+evaluate for potential sources is more reliable in this age group, thus 
+decreasing the incidence of FWS. Close attention should be paid to 
+environmental exposures and ill contacts because of the high likeli­
+hood of increased contacts in this school-­aged cohort. For children in 
+this age group with true FWS who do not appear ill, no screening diag­
+nostic tests are indicated. For children in the 3–36-­month age range, 
+repeat evaluation every 48 hours may be necessary until fever resolves 
+or a diagnosis is reached.
+Fever with Localizing Signs: Focus on Central Nervous 
+System Infections
+Bacterial Meningitis
+Bacterial meningitis is usually a disease of infants and young chil­
+dren. It is seen during all seasons; however, there may be a seasonal 
+correlation between the presence of preceding respiratory patho­
+gens in the upper respiratory tract and the subsequent develop­
+ment of bacterial meningitis. Bacterial meningitis usually occurs 
+sporadically, although clusters of cases have been noted in daycare 
+centers, colleges, and other closed communities. The incidence of 
+meningitis is increased in children with traumatic fractures of the 
+cribriform plate or paranasal sinuses or with a cochlear implant 
+(pneumococci); children who have undergone neurosurgical pro­
+cedures such as ventricular shunts (S. aureus, Staphylococcus epider­
+midis, Cutibacterium acnes); children with congenital or acquired 
+immunodeficiencies (pneumococci, L. monocytogenes, meningo­
+cocci); children with anatomic or functional asplenia (pneumo­
+cocci, meningococci); and children with sickle hemoglobinopathies 
+(pneumococci).
+Bacterial meningitis manifests in two patterns. In the first, the symp­
+toms develop slowly over several days, the initial symptoms being those 
+of a nonspecific illness. The signs and symptoms of meningitis develop 
+subsequently. In the second pattern, the disease develops suddenly and 
+quickly with signs and symptoms of meningitis and/or sepsis.
+The manifestations of meningitis depend on the child’s age. In 
+infants, the findings are usually nonspecific and may be subtle; they 
+include vomiting, diarrhea, irritability, lethargy, poor feeding, respira­
+tory distress, seizures, hypothermia, and jaundice. Only 50% of affected 
+infants have fever, but fever may also be the only presenting symptom. 
+It is uncommon for affected young infants to have a stiff neck, and only 
+30% have a bulging fontanel.
+Older children present with more specific meningeal signs. The 
+classic presenting symptoms are headache that is described as severe, 
+generalized, and constant, and stiff neck, caused by inflammation of 
+the cervical dura and reflex spasm of the extensor muscles of the neck. 
+Pain and limitation of motion occur with flexion of the neck, but lateral 
+movement of the neck may be normal and pain-­free. Other symptoms 
+may include nausea, vomiting, anorexia, and photophobia.
+On examination, patients with meningitis demonstrate irritabil­
+ity, mental confusion or altered consciousness, nuchal rigidity, and, 
+occasionally, hyperesthesia and ataxia. The clinician demonstrates 
+nuchal rigidity by feeling resistance and observing a painful response 
+while flexing the patient’s neck. The stiffness may not be recognized 
+until the end of flexion. The neck usually can be rotated without 
+symptoms. In the child who is crying and tensing the muscles, nuchal 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+973
+CHAPTER 52  Fever
+rigidity may be demonstrated if the examiner places one hand under 
+the occiput of the supine patient and lifts the child. If the neck does 
+not flex, it is stiff. Alternatively, a sitting child may be observed fol­
+lowing an object as it falls to the floor. The child who flexes the neck 
+to look at the object does not have nuchal rigidity. In the presence of 
+meningitis, flexion of the neck causes spontaneous flexion of the legs 
+at the hips and knees, known as the Brudzinski sign (Fig. 52.1). The 
+Kernig sign is elicited when the patient lies supine and, with the knee 
+flexed, the leg is flexed at the hip. The knee is then extended. A pos­
+itive sign is present if this movement is limited by contraction of the 
+hamstrings and causes pain. Nuchal rigidity is absent in 1.5% of older 
+children with meningitis; it may be absent in children who have over­
+whelming infections, who are deeply comatose, or who have focal or 
+global neurologic impairment.
+As many as 15% of children with bacterial meningitis initially pres­
+ent in a comatose or semi-­comatose state (see Chapter 41). Because of 
+the short duration and inconsistent development of increased intracra­
+nial pressure, papilledema is usually not seen at presentation. When it 
+is present, venous sinus thrombosis, subdural effusion, or an intracra­
+nial abscess must be considered. Seizures occur before hospital admis­
+sion in up to 20% of affected patients.
+Children with meningitis may also present with cutaneous findings. 
+Although commonly associated with meningococcal disease, purpura, 
+petechiae, or a diffuse nonspecific maculopapular rash may be present 
+in meningitis caused by any of the common bacterial pathogens (see 
+Chapter 53).
+Septic arthritis may be seen simultaneously with bacterial men­
+ingitis. This has been assumed to be caused by simultaneous localiz­
+ing infection after a primary bacteremia. Reactive arthritis caused by 
+immune complex deposition is also seen with bacterial meningitis. This 
+arthritis affects a single large joint and appears 5–7 days after initiation 
+of treatment for meningitis. In general, arthritis occurring acutely with 
+meningitis should be assumed to be infectious (see Chapter 44).
+Various eye disorders have also been described with acute bacterial 
+meningitis, including photophobia, transient cataracts, paralysis of the 
+extraocular muscles, pupillary dysfunction, dendritic ulcers, endoph­
+thalmitis, cortical blindness, and conjunctivitis.
+Recurrent episodes of bacterial meningitis occur rarely. Potential 
+etiologies include congenital CSF fistulas (inner ear, dermal sinus, neu­
+roenteric cysts, lumbosacral sinus tracts), traumatic or surgical CSF 
+fistula (skull fracture, postoperative nasal surgery, cochlear implant), 
+immunodeficiency states, and parameningeal infections (mastoiditis, 
+sinusitis, craniofacial osteomyelitis). Recurrent nonbacterial lympho­
+cytic meningitis (Mollaret meningitis) may be due to HSV-­1, HSV-­2, 
+or Epstein-­Barr virus (EBV); HaNDL (headache and neurologic defi­
+cits with CSF lymphocytes) is another recurrent syndrome that mimics 
+meningitis.
+Diagnostic studies
+Lumbar puncture and cerebrospinal fluid analysis. The definitive 
+diagnosis of meningitis is based on examination of the CSF. The CSF 
+is usually obtained via an LP (or spinal tap). The LP is performed by 
+introducing a small-­bore, short-­beveled spinal needle with a stylet into 
+the subarachnoid space at the L3–L4 or L4–L5 level. Approximately 3 
+mL of fluid is removed for analysis.
+There are a few contraindications for the performance of an LP. The 
+first is cardiorespiratory compromise. Performance of the LP requires 
+that the child be held in flexion to open the intervertebral spaces. In 
+seriously ill children or children with significant cardiac or pulmo­
+nary compromise, this positioning may be enough to cause respira­
+tory arrest. The LP may need to be postponed, be performed cautiously 
+with continuous cardiorespiratory monitoring, or be performed with 
+the patient in the sitting position.
+Second, children with increased intracranial pressure from a focal 
+CNS lesion, such as brain abscess or tumor or from illnesses associated 
+with cerebral edema, have a risk of cerebral herniation after an LP. If 
+signs or symptoms of increased intracranial pressure are present, the 
+LP should be postponed until the increased pressure is lowered with 
+appropriate treatment. If an LP is delayed, appropriate antibiotic ther­
+apy should be initiated without further delay. Third, the LP should not 
+be done if the spinal needle must pass through an area of infection on 
+its way to the subarachnoid space. To do so might introduce pathogens 
+into the CNS that could cause meningitis.
+Complications of LP are uncommon. In children with underlying 
+or temporary bleeding disorders, epidural hematomas causing lower 
+limb paralysis may occur. In children with hemophilia, disseminated 
+intravascular coagulopathy, or thrombocytopenia, LP should be post­
+poned until the bleeding disorder is corrected. Extra care should be 
+taken to avoid a traumatic LP, and patients should be monitored for 
+postprocedure neurologic deficits. Empirical therapy may be started 
+while the coagulopathy is corrected. Other, rarer complications of LP 
+include cortical blindness from compression of the posterior cerebral 
+artery against the tentorium cerebelli and cervical spinal cord infarc­
+tion from herniation of the cerebellar tonsils through the foramen 
+magnum. Post-­LP headache may occur in up to 10% of older children 
+and adults; it is presumably caused by persistent CSF leakage at the 
+puncture site.
+A
+B
+Fig. 52.1  A, Brudzinski sign. The patient lies supine, and the head is 
+passively elevated from the table by the examiner. The patient com­
+plains of neck and low back discomfort and attempts to relieve the men­
+ingeal irritation by involuntary flexion of the knees and hips. B, Kernig 
+sign. The patient lies supine, with the hips and knees flexed. The knees 
+are then gradually extended. Complaints of pain in the lower back, neck, 
+and/or head are suggestive of meningeal irritation. (From Reilly BM. 
+Practical Strategies in Outpatient Medicine. 2nd ed. Philadelphia: WB 
+Saunders; 1991:95.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+974
+SECTION 10  Infectious Diseases/Immune/Inflammation
+TABLE 52.6  Cerebrospinal Fluid Findings in Central Nervous System Disorders
+Condition
+Pressure 
+(cm H2O)
+Leukocytes (cells/mm3)
+Protein (mg/dL)
+Glucose (mg/dL)
+Comments
+Normal
+<28
+<5, ≥75% Lymphocytes
+In neonates: <20
+20–45
+>50 (or 66–75% serum 
+glucose)
+Common Forms of Meningitis
+Acute bacterial 
+meningitis
+Usually elevated
+100–10,000 or more; usually 
+300–2,000; PMNs predominate
+Usually 100–500
+Decreased, usually 
+<40 (or <50% serum 
+glucose)
+Organisms usually seen on 
+Gram stain and isolated by 
+culture
+Partially treated 
+bacterial meningitis
+Normal or 
+elevated
+5–10,000; PMNs usual but 
+mononuclear cells may 
+predominate if pretreated for 
+extended period
+Usually 100–500
+Normal or decreased
+Organisms may be seen on 
+Gram stain. Pretreatment may 
+render CSF sterile. PCR-­based 
+assays may detect bacterial 
+DNA
+Viral meningitis or 
+meningoencephalitis
+Normal or slightly 
+elevated
+Rarely >1,000 cells. Eastern 
+equine encephalitis and 
+lymphocytic choriomeningitis 
+may have cell counts of several 
+thousand. PMNs early but 
+mononuclear cells predominate 
+through most of the course
+Usually 50–200
+Generally normal; 
+may be decreased 
+to <40 in some viral 
+diseases, particularly 
+mumps (15–20% of 
+cases)
+HSV encephalitis is suggested 
+by focal seizures or by focal 
+findings on MRI or CT scans 
+or EEG. Most arboviruses 
+detected by serology. Most 
+other viruses detected by PCR 
+of CSF
+Uncommon Forms of Meningitis
+Tuberculous meningitis
+Usually elevated
+10–500; PMNs early, but 
+lymphocytes predominate 
+through most of the course
+100–3,000; may be 
+higher in presence 
+of block
+<50 in most cases; 
+decreases with time 
+if treatment is not 
+provided
+Acid-­fast organisms rarely seen 
+on smear. Large volumes of 
+CSF required for recovery of 
+organisms. Mycobacterium 
+tuberculosis may be detected 
+by PCR of CSF
+Fungal meningitis
+Usually elevated
+5–500; PMNs early but 
+mononuclear cells predominate 
+through most of the course. 
+Cryptococcal meningitis may 
+lack pleocytosis. Coccidioidal 
+meningitis may have 
+eosinophilia
+25–500
+<50; decreases with 
+time if treatment is 
+not provided
+Budding yeast may be seen. 
+Organisms may be recovered 
+in culture. Cryptococcal 
+antigen (CSF and serum) may 
+be positive in cryptococcal 
+infection
+Syphilis (acute) and 
+leptospirosis
+Usually elevated
+50–500; lymphocytes predominate
+50–200
+Usually normal
+Positive CSF serology. 
+Spirochetes not demonstrable 
+by usual techniques of 
+smear or culture; dark-­field 
+examination may be positive
+Amebic (Naegleria) 
+meningoencephalitis
+Elevated
+1,000–10,000 or more; PMNs 
+predominate
+50–500
+Normal or slightly 
+decreased
+Mobile amoebae may be seen 
+by wet-­mount microscopy 
+of CSF
+Opening pressure measurements are obtained with the head of the 
+bed flat and with the child relaxed and in the lateral decubitus position 
+with the back no longer tightly flexed. The upper limit of normal open­
+ing pressure depends on age (5 cm H2O in premature infants, 10 cm 
+H2O in infants, and 25–28 cm H2O in children 1–18 years of age). 
+Opening pressure measurements are elevated if the LP is performed 
+with the patient in the sitting position and if the patient is combat­
+ive or performing the Valsalva maneuver. Obstructive hydrocephalus, 
+hyperventilation, or removal of fluid can all lead to lowering of the 
+measurement. Children with bacterial meningitis have a mean opening 
+pressure of 18 ± 7 cm H2O.
+The CSF is examined for red blood cell (RBC) number, WBC num­
+ber and differential, glucose, protein, and the presence of pathogenic 
+organisms by stain, rapid testing (antigen and PCR), or culture.
+Normal CSF is clear and colorless (Table 52.6). Blood in the CSF 
+indicates a traumatic LP (also known as a “traumatic tap”) or a CNS 
+hemorrhage. A traumatic tap occurs when the spinal needle is advanced 
+through the subarachnoid space and penetrates the richly vascularized 
+ventral epidural space. Blood is thereby introduced into the subarach­
+noid space, and the CSF appears bloody. Obtaining an RBC count on 
+tubes 1 and 3 may be informative because the count is unchanged in 
+CNS hemorrhage but may decline in traumatic taps. Centrifugation of 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+975
+CHAPTER 52  Fever
+the CSF sample may also help differentiate between a traumatic tap 
+and a CNS hemorrhage. When blood has been present in the CSF for 
+several hours, the CSF is xanthochromic after centrifugation. However, 
+if the blood was recently mixed with CSF, as in the case of a traumatic 
+tap, the supernatant is clear. Xanthochromic CSF can also be caused by 
+icterus or an elevated CSF protein concentration.
+The normal values for CSF WBC are shown in Table 52.6. Most 
+children with bacterial meningitis have a WBC count of at least 100/
+mm3 in their CSF, but in general, more than 5 cells/mm3 in children 
+after the neonatal period is considered abnormal. Normal CSF WBC 
+values for neonates are higher than for older children, but reference 
+ranges have been revised to lower numbers with the availability of 
+high-­quality data on noninfected neonates. Mean CSF WBC in the 
+absence of viral or bacterial meningitis is 8.6 cells/mm3 and 3.6 cells/
+mm3 in the first week of life and weeks 1–8, respectively. A CSF abso­
+lute neutrophil count exceeding 3 neutrophils/mm3 is also considered 
+abnormal and evidence of a bacterial infection. Although rapidly ful­
+minant meningitis may not be accompanied by CSF pleocytosis on ini­
+tial examination, the CSF of 98% of children with bacterial meningitis 
+has pleocytosis with a differential of more than 50% neutrophils. CSF 
+with at least 200–400 WBCs/mm3 will appear visually turbid.
+It is sometimes difficult to know whether the WBCs seen on exam­
+ination of the CSF are caused by CSF pleocytosis or are peripheral 
+blood WBCs contaminating the CSF. To aid in this determination, 
+the ratio of WBCs to RBCs in the CSF is compared with the ratio of 
+WBCs to RBCs in the patient’s peripheral blood collected around the 
+same time. A higher ratio in the CSF can indicate the presence of CSF 
+pleocytosis. When the CSF ratio is at least 10 times higher than the 
+blood ratio, bacterial meningitis is favored, with a sensitivity of 88% 
+and a specificity of 90%. Conversely, the negative predictive value for 
+the presence of bacterial meningitis of a <10-­fold difference between 
+the ratios is 99%. Traumatic taps usually do not alter the CSF glucose, 
+TABLE 52.6  Cerebrospinal Fluid Findings in Central Nervous System Disorders—cont’d
+Condition
+Pressure 
+(cm H2O)
+Leukocytes (cells/mm3)
+Protein (mg/dL)
+Glucose (mg/dL)
+Comments
+Brain Abscesses and Parameningeal Focus
+Brain abscess
+Usually elevated
+5–200; CSF rarely acellular; 
+lymphocytes predominate; if 
+abscess ruptures into ventricle, 
+PMNs predominate and cell 
+count may reach >100,000
+75–500
+Normal unless abscess 
+ruptures into 
+ventricular system
+CSF cultures are only positive in 
+24% of cases unless abscess 
+ruptures into ventricular 
+system
+Subdural empyema
+Usually elevated
+100–5,000; PMNs predominate
+100–500
+Normal
+No organisms on smear 
+or culture of CSF unless 
+meningitis also present; 
+organisms found on tap of 
+subdural fluid
+Cerebral epidural 
+abscess
+Normal to slightly 
+elevated
+10–500; lymphocytes predominate
+50–200
+Normal
+No organisms on smear or 
+culture of CSF
+Spinal epidural abscess
+Usually low, with 
+spinal block
+10–100; lymphocytes predominate
+50–400
+Normal
+No organisms on smear or 
+culture of CSF
+Chemical (drugs, 
+dermoid cysts, 
+myelography dye)
+Usually elevated
+100–1,000 or more; PMNs 
+predominate
+50–100
+Normal or slightly 
+decreased
+Epithelial cells may be seen 
+within CSF by use of polarized 
+light in some children with 
+ruptured dermoids
+Noninfectious Causes
+Sarcoidosis
+Normal or 
+elevated slightly
+0–100; mononuclear
+40–100
+Normal
+No specific findings
+Systemic lupus 
+erythematosus with 
+CNS involvement
+Slightly elevated
+0–500; PMNs usually 
+predominate; lymphocytes may 
+be present
+100
+Normal or slightly 
+decreased
+No organisms on smear or 
+culture. Positive neuronal 
+and ribosomal P protein 
+antibodies in CSF
+Tumor, leukemia
+Slightly elevated 
+to very high
+0–100 or more; mononuclear or 
+blast cells
+50–1,000
+Normal to decreased 
+(20–40)
+Cytology may be positive
+Acute disseminated 
+encephalomyelitis
+Normal or 
+elevated
+∼100 lymphocytes
+Normal to elevated
+Normal
+MRI adds to diagnosis
+Autoimmune 
+encephalitis
+Normal
+∼100 lymphocytes
+Normal to elevated
+Normal
+Anti-­NMDAR antibody positive 
+(CSF is more sensitive than 
+serum)
+CSF, cerebrospinal fluid; HSV, herpes simplex virus; NMDAR, N-­methyl-­d-­aspartate receptor; PCR, polymerase chain reaction; PMN, polymorphonu­
+clear neutrophils.
+From Janowski AB and Hunstad DA. Central nervous system infections. In: Kliegman RM, St. Geme JW III, Blum NJ, et al., eds. Nelson Textbook 
+of Pediatrics, 21st ed. Philadelphia: Elsevier; 2020:322–­323, Table 621.1.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+976
+SECTION 10  Infectious Diseases/Immune/Inflammation
+TABLE 52.7  Clinical Conditions and Infectious Agents Associated with Aseptic Meningitis
+Viruses
+Arboviruses: La Crosse, eastern equine, western equine, Venezuelan equine, 
+St. Louis encephalitis, Powassan and California encephalitis, chikungunya, 
+Colorado tick fever, dengue, Jamestown Canyon, Japanese encephalitis, 
+Rift Valley fever, tick-­borne encephalitis, West Nile virus, Zika
+Enteroviruses (coxsackievirus, echovirus, enterovirus, poliovirus)
+Parechovirus
+Herpes simplex (types 1 and 2)
+Varicella-­zoster virus
+Epstein-­Barr virus
+Cytomegalovirus
+Human herpesvirus (types 6 and 7)
+Parvovirus B19
+Adenovirus
+Variola (smallpox)
+Measles
+Mumps
+Rubella
+Influenza A and B
+Parainfluenza
+Rhinovirus
+Rabies virus
+Lymphocytic choriomeningitis
+Rotaviruses
+Cardiovirus A
+Hendra and Nipah viruses
+Astroviruses
+Coronaviruses
+Human T-­cell lymphotropic virus (HTLV-­1)
+HIV
+Bacteria
+Mycobacterium tuberculosis (early and late)
+Leptospira species (leptospirosis)
+Treponema pallidum (syphilis)
+Borrelia species (tick-­borne relapsing fever or hard tick relapsing fever)
+Borrelia burgdorferi (Lyme disease)
+Nocardia species
+Brucella species
+Bartonella species (cat-­scratch disease)
+Rickettsia rickettsiae (Rocky Mountain spotted fever)
+Rickettsia prowazekii (typhus)
+Ehrlichia species
+Anaplasma species
+Coxiella burnetii
+Mycoplasma pneumoniae
+Mycoplasma hominis
+Chlamydia trachomatis
+Chlamydia psittaci
+Chlamydia pneumoniae
+Ureaplasma species
+Partially treated bacterial meningitis
+Bacterial Parameningeal Focus
+Sinusitis
+Mastoiditis
+Brain abscess
+Subdural-­epidural empyema
+Cranial osteomyelitis
+Gram stain, or culture findings, which are often abnormal with bacte­
+rial meningitis. When there is doubt about the validity of the cell count 
+after a potentially traumatic tap, the LP should be repeated after several 
+hours by introducing the spinal needle one intervertebral space above 
+the original tap site.
+In normal CSF, the glucose concentration is two-­thirds that of 
+serum glucose concentration. The CSF glucose concentration is low 
+in most infants and younger children with bacterial meningitis and 
+in 45% of school-­aged children with bacterial meningitis. In children 
+older than 2 months of age, a CSF/serum glucose ratio of <0.4 is 80% 
+sensitive and 98% specific for the presence of bacterial meningitis. The 
+presence of RBCs in a CSF sample that is promptly analyzed does not 
+affect the glucose concentration.
+The normal CSF protein concentration is <45 mg/dL in chil­
+dren older than 2 months. The mean CSF protein concentration is 
+90 (range, 20–170) in full-­term infants and 115 (range, 65–150) in 
+preterm infants. The CSF protein concentration is elevated in more 
+than 90% of younger children with bacterial meningitis but in only 
+60% of infected school-­aged children. Every 1,000 RBCs in the CSF 
+(from a traumatic tap) increases the protein concentration by approx­
+imately 1 mg/dL.
+Microscopic examination of a CSF Gram stain for bacteria should be 
+performed routinely, with results used to expand the differential diag­
+nosis. Due to inherent inaccuracies in the technique, antibiotics should 
+never be narrowed based on Gram stain results alone. The sensitivity of 
+this test is directly related to the number of organisms in the CSF and 
+is inversely related to the age of the patient. Additional stains (fungal, 
+mycobacterial) may be indicated depending on the clinical circum­
+stances. Rapid pathogen identification can be accomplished with anti­
+gen testing (such as for Cryptococcus species) and PCR. Targeted PCR, 
+most commonly for enterovirus and HSV, and multiplex PCR panels 
+have proven to be sensitive diagnostic tools in the evaluation of CNS 
+infections. Indiscriminate use of multiplex PCR panels may increase 
+costs and identify the presence of organisms that are not contributing 
+to the current illness (such as chromosomally integrated HHV-­6). PCR 
+for bacterial organisms may increase the diagnostic yield in patients 
+treated with antibiotics before CSF is obtained. Culture remains the 
+gold standard for the identification of bacterial pathogens and permits 
+the assessment of antibiotic susceptibility. In circumstances in which 
+the causative pathogen remains elusive, unbiased next-­generation 
+sequencing (NGS) of CSF may be used.
+In patients who have been treated with antibiotics before the LP is 
+performed, bacterial meningitis cannot be ruled out based on Gram 
+stain or culture alone. The presence of abnormalities of CSF cell count 
+(including elevated leukocytes), protein concentration, and glucose 
+concentration is compatible with the diagnosis of bacterial meningitis 
+and will likely result in presumptive treatment for bacterial meningitis 
+based on age and comorbidities. If an organism is identified by culture 
+or PCR, definitive antibiotic treatment is administered. If no organism 
+is identified, the decision to continue treatment depends on the clinical 
+suspicion of bacterial meningitis and the exclusion of other causes of 
+aseptic meningitis (Tables 52.7 and 52.8).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+977
+CHAPTER 52  Fever
+Computed tomography. Routine CT of the head is not indicated 
+in children with suspected meningitis. Nonfocal increases in 
+intracranial pressure typical of bacterial meningitis do not result in 
+cerebral herniation with LP and may appear normal on CT. CT should 
+be reserved for children who show clinical signs of herniation or 
+cerebral edema and for those with focal symptoms concerning for an 
+intracranial mass.
+Other laboratory tests. Bacterial meningitis is usually accom­
+panied by elevated peripheral blood WBC and platelet counts, but 
+leukopenia and thrombocytopenia may also be seen in the case of 
+overwhelming infection. The sensitivity (70%), specificity (54%), and 
+negative predictive value (81%) of the differential WBC count are too 
+low to render the differential WBC examination useful in making the 
+diagnosis of bacterial meningitis.
+Blood cultures may be useful in identifying the bacterial patho­
+gen of meningitis. However, blood culture is negative in up to 33% of 
+children with meningococcal, 20% with pneumococcal, and 10% with 
+H. influenzae type b meningitis. Sensitivity of blood culture further 
+decreases with prior antibiotic exposure. In addition, there is a nega­
+tive correlation between the length of illness before diagnosis and the 
+rate of positive blood cultures. A bacterial meningitis score has been 
+developed to attempt to distinguish between bacterial and aseptic (i.e., 
+TABLE 52.7  Clinical Conditions and Infectious Agents Associated with Aseptic 
+Meningitis—cont’d
+Fungi
+Coccidioides immitis (coccidioidomycosis)
+Blastomyces dermatitidis (blastomycosis)
+Cryptococcus neoformans (cryptococcosis)
+Histoplasma capsulatum (histoplasmosis)
+Candida species
+Other fungi (Alternaria, Aspergillus, Cephalosporium, Cladosporium, 
+Bipolaris hawaiiensis, Paracoccidioides brasiliensis, Pseudallescheria 
+boydii, Sporothrix schenckii, Ustilago species, zygomycetes)
+Parasites (Eosinophilic)
+Angiostrongylus cantonensis
+Gnathostoma spinigerum
+Baylisascaris procyonis (raccoon roundworm)
+Strongyloides stercoralis
+Trichinella spiralis
+Toxocara canis
+Taenia solium (cysticercosis)
+Paragonimus westermani
+Schistosoma species
+Fasciola species
+Parasites (Noneosinophilic)
+Toxoplasma gondii (toxoplasmosis)
+Acanthamoeba species
+Naegleria fowleri
+Balamuthia mandrillaris
+Malaria
+Postinfectious
+Vaccines: rabies, influenza, measles, poliovirus
+Demyelinating or allergic encephalitis
+Systemic or Immunologically Mediated
+Acute disseminated encephalomyelitis (ADEM)
+Autoimmune encephalitis
+Bacterial endocarditis
+Kawasaki disease
+Systemic lupus erythematosus
+Vasculitis, including polyarteritis nodosa
+Sjögren syndrome
+Mixed connective tissue disease
+Rheumatoid arthritis
+Behçet syndrome
+Granulomatosis with polyangiitis
+Lymphomatoid granulomatosis
+Granulomatous arteritis
+Sarcoidosis
+Familial Mediterranean fever
+Vogt-­Koyanagi-­Harada syndrome
+Neonatal onset multisystem inflammatory disease (NOMID)
+Sweet syndrome (acute febrile neutrophilic dermatosis)
+Aicardi-­Goutières syndrome
+Malignancy
+Leukemia
+Lymphoma
+Metastatic carcinoma
+Central nervous system tumor (e.g., craniopharyngioma, glioma, 
+ependymoma, astrocytoma, medulloblastoma, teratoma)
+Drugs
+Intrathecal injections (contrast media, serum, antibiotics, antineoplastic agents)
+Nonsteroidal antiinflammatory agents
+OKT3 monoclonal antibodies
+Carbamazepine
+Azathioprine
+Intravenous immunoglobulin
+Antibiotics (trimethoprim-­sulfamethoxazole, sulfasalazine, ciprofloxacin, 
+isoniazid)
+Miscellaneous
+Heavy metal poisoning (lead, arsenic)
+Foreign bodies (shunt, reservoir)
+Subarachnoid hemorrhage
+Postictal state
+Postmigraine state
+Mollaret syndrome (recurrent)
+Intraventricular hemorrhage (neonate)
+Familial hemophagocytic syndrome
+Postneurosurgical procedure
+Dermoid-­epidermoid cyst
+Syndrome of transient headache and neurologic deficits with cerebrospinal 
+fluid lymphocytosis (HaNDL)
+Data from Bronstein DE, Glaser CA. Aseptic meningitis and viral meningitis. In: Cherry J, Demmler-­Harrison GJ, Kaplan SL, et al., eds. Feigin and 
+Cherry’s Textbook of Pediatric Infectious Diseases. 7th ed. Philadelphia: WB Saunders; 2014:484–492; and from Romero JR. Aseptic and viral 
+meningitis. In: Long SS, Pickering LK, Prober CG, eds. Principles and Practice of Pediatric Infectious Disease. 4th ed. Philadelphia: Saunders; 
+2012:292–297.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+978
+SECTION 10  Infectious Diseases/Immune/Inflammation
+TABLE 52.8  Characteristics of the Most Common Causes of Aseptic Meningitis
+Organism
+Age Group
+Season
+Prodrome
+Clinical Characteristics
+Epidemiologic 
+Characteristics
+Agent 
+Identification
+Serologic 
+Diagnosis
+Common
+Enteroviruses
+Infants, young 
+children
+Summer, fall
+None, or mild GI or pharyngitis 
+syndrome for 1–3 days
+Exanthem, myopericarditis, 
+conjunctivitis, pleurodynia, hand-­
+foot-­mouth disease, herpangina, 
+myositis, hepatitis
+Epidemic
+PCR of CSF, blood, 
+throat, stool
+Paired IgG (rarely used)
+Arboviruses
+Children, elderly
+Summer, early 
+fall
+Fever, rash, malaise for 1–5 
+days
+Encephalitis or aseptic meningitis
+Geographic area, 
+contact with insect 
+vector, encephalitis in 
+community or animals
+PCR of CSF for some
+IgM, paired IgG (serum 
+or CSF)
+Herpes simplex 
+type 2
+Neonates, young 
+adults
+Year round
+Fever (neonate), genital 
+vesicles for 1–7 days
+Associated primary herpes lesions
+Perinatal or sexual 
+exposure
+PCR or culture of genital/
+skin lesions; PCR (CSF)
+IgM, paired IgG
+Borrelia burgdorferi 
+(Lyme disease)
+Children, adults
+Spring–late fall Erythema migrans; secondary 
+symptoms weeks to months 
+later
+Facial palsy or other cranial nerve 
+palsy; radiculitis; heart block
+Endemic area, deer 
+tick exposure (often 
+unrecognized)
+PCR (CSF) (low 
+sensitivity)
+EIA screen with Western 
+blot confirmation
+Less Common
+Mumps
+5–9 yr olds
+Late winter–
+spring
+Parotitis, orchitis: 2–10 days
+Parotitis, orchitis, oophoritis, 
+pancreatitis
+Exposure to mumps or 
+vaccination
+PCR (CSF or throat)
+IgM, paired IgG
+HIV
+Young adults
+Year round
+Fever, arthralgias, 
+maculopapular rash, 
+pharyngitis, adenopathy
+Same as prodrome; meningitis may 
+occur 1–5 days into the illness
+2–6 wk after sexual or 
+blood exposure
+PCR (RNA, blood)
+Fourth-­generation Ag/Ab 
+test (may be negative 
+at this stage)
+Lymphocytic 
+choriomeningitis 
+virus
+Older children, 
+young adults
+Fall, early 
+winter
+Fever and flulike syndrome, 
+5–21 days
+Orchitis, alopecia
+Exposure to mice, 
+hamsters
+PCR (CSF or blood)
+IgG
+Mycobacterium 
+tuberculosis
+Infants (primary 
+infection), 
+young adults 
+(reactivation)
+Year round
+Fever
+Pneumonia, basilar inflammation 
+with cranial nerve palsy and 
+intracranial hypertension
+History of tuberculosis 
+or exposure, HIV risk 
+factors
+Culture, PCR (CSF)
+None
+Leptospira
+Young adults
+Late summer, 
+early fall
+Hepatitis and hematuria, 1–7 
+days
+Conjunctivitis, splenomegaly, 
+jaundice, nephritis, rash
+Exposure to animals, 
+water contaminated 
+with animal urine
+Culture (blood, CSF, or 
+urine)
+Paired IgG
+Fungal
+Premature infant, 
+young adult
+Year round
+Fever
+Basilar inflammation on CT or MRI, 
+cranial nerve findings
+Endemic area 
+(blastomycosis, 
+histoplasmosis)
+Immunodeficiency 
+(cryptococcosis)
+Prematurity (candidiasis)
+Culture (CSF), antigen 
+(select species), 
+meningeal biopsy
+Specific IgG
+Mycoplasma 
+organisms
+Children, young 
+adults
+Fall, winter
+Fever, malaise, sore throat, 
+cough
+Cough, rash, hemolytic anemia
+Family or community 
+epidemic
+PCR (CSF or 
+nasopharyngeal)
+IgM (false positive 
+common)
+CSF, cerebral spinal fluid; EIA, enzyme immunoassay; GI, gastrointestinal; IgG and IgM, immunoglobulins G and M; PCR, polymerase chain reaction.
+Modified from Connolly KJ, Hammer SM. The acute aseptic meningitis syndrome. Infect Dis Clin North Am. 1990;4:599–622; and from Davis LE. Aseptic and viral meningitis. In: Long SS, 
+Pickering LK, Prober CG, eds. Principles and Practice of Pediatric Infectious Disease. New York: Churchill Livingstone; 1997:331.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+979
+CHAPTER 52  Fever
+nonbacterial) meningitis in patients with CSF pleocytosis. The risk of 
+bacterial meningitis is low if none of the following criteria are pres­
+ent: history of a seizure with the illness, blood neutrophil count ≥10 × 
+109 cells/L, positive CSF Gram stain, CSF protein ≥80 mg/dL, or CSF 
+neutrophil count ≥1 × 109 cells/L. This diagnostic tool is 99% sensitive 
+and 62% specific for bacterial meningitis. It should only be applied to 
+non–ill-­appearing children older than 2 months without petechiae, 
+purpura, or other concerning findings on examination who have not 
+been pretreated with antibiotics.
+Aseptic Meningitis
+Aseptic meningitis is an inflammatory process of the meninges, most 
+often characterized by acute signs and symptoms of meningeal irri­
+tation; mononuclear CSF pleocytosis (predominance of monocytes, 
+macrophages, and/or lymphocytes); a normal or, less frequently, ele­
+vated CSF protein concentration; normal or, less often, low CSF glu­
+cose concentration; and no organisms demonstrable by Gram stain 
+or bacterial cultures. There are many causes of aseptic meningitis (see 
+Table 52.7). The most common cause is viral infection; up to 90% of 
+cases are caused by enteroviruses and arboviruses (see Chapter 42). 
+The definitive diagnosis is made by identifying the organism in the 
+CSF. However, this is not always possible, and other causes must be 
+excluded by history, presence or absence of associated symptoms, and 
+appropriate laboratory tests (see Tables 52.7 and 52.8).
+Viral meningitis. The most common pathogens to cause viral 
+meningitis are enteroviruses. Enteroviral meningitis occurs most often 
+during the summer and early fall months. Transmission is via the fecal-­
+oral route, and young children exhibit increased transmission of the 
+viruses and more severe disease in comparison with other age groups. 
+Initially, patients may have a respiratory tract infection, a nonspecific 
+febrile illness, or vomiting and diarrhea. Viral infection of the meninges 
+occurs 7–10 days after initial exposure. The clinical course may be 
+biphasic. Virus from the oropharynx can be cultured only during the 
+first 5–7 days of the illness but may be excreted in stool for 6–8 weeks.
+Children with viral meningitis present with fever, nuchal rigid­
+ity, irritability, headache, and vomiting. Less common symptoms are 
+anorexia, drowsiness, photophobia, myalgia, and malaise. Affected 
+young infants often lack meningeal signs. In addition, children may 
+have an altered sensorium, but focal neurologic signs are rare. Seizures 
+are more common in infants.
+The number of WBCs in the CSF varies from zero to several 
+thousand (see Table 52.6). Up to 75% of initial (early in the illness) 
+CSF specimens contain a predominance of polymorphonuclear cells. 
+Mononuclear cells predominate by 2 days after the onset of symptoms. 
+Of children with enteroviral meningitis, 18% may have decreased CSF 
+glucose concentrations, whereas 12% may have elevated CSF protein. 
+Aseptic meningitis secondary to parechovirus may have no CSF pleo­
+cytosis. Meningitis due to Lyme disease may mimic viral meningitis in 
+both clinical presentation and CSF findings. It is important to differ­
+entiate viral meningitis from Lyme meningitis (which is treatable) in 
+endemic areas.
+Treatment of enteroviral meningitis is supportive. Admission to the 
+hospital may be required while bacterial meningitis is being ruled out 
+and for intravenous hydration. Analgesics and antipyretics may also 
+be indicated. The LP performed to diagnose viral meningitis is often 
+helpful in ameliorating the acute symptoms. The mechanism for this 
+is not clear.
+The outcome is quite good for children in whom common viral patho­
+gens cause aseptic meningitis. Multisystem organ involvement may 
+occur in neonates with enterovirus infections, including septic shock, 
+hepatitis, myocarditis, and respiratory failure. Long-­term adverse out­
+comes are more common (but unusual) in children who have viral 
+meningitis during the first year of life. Speech and language develop­
+ment may be affected. Treatment and outcome for the other types of 
+aseptic meningitis depend on the underlying cause.
+Tuberculous meningitis. Tuberculous meningitis is an important 
+treatable cause of aseptic meningitis. During the primary pulmonary 
+tuberculous infection and subsequent lymphohematogenous spread 
+to extrapulmonary sites, tubercle bacilli produce local microscopic 
+granulomas in the CNS and meninges. If this primary CNS infection is not 
+contained by host defense mechanisms (T lymphocytes, monocytes), or if 
+host defense mechanisms fail at a later period, tuberculous meningitis may 
+result. Meningitis occurs weeks to months after the primary pulmonary 
+process. Miliary tuberculosis is a risk factor for TB meningitis.
+The symptoms of tuberculous meningitis are insidious and sub­
+acute (weeks to months). Stage 1 is a prodrome with nonspecific man­
+ifestations (apathy, poor school function, irritability, weight loss, fever, 
+night sweats, nausea); stage 2 is heralded by the onset of neurologic 
+signs (headache, cranial neuropathy, nuchal rigidity, signs of increased 
+intracranial pressure); and stage 3 manifests with altered levels of con­
+sciousness (lethargy, stupor, coma). Meningismus may be absent.
+The diagnosis is supported by a history of contact with adults with 
+known active tuberculosis, a chronic cough, or HIV disease, or by 
+a history of immigration, poverty, or homelessness. In addition, the 
+patient’s chest radiograph is consistent with active or, often, quiescent 
+tuberculosis (parenchymal-­hilar node calcifications, infiltrates, hilar 
+adenopathy, and, in rare cases, endobronchial or cavitary lesions), 
+and the patient’s tuberculin skin test or interferon-­γ release assay may 
+yield a positive result (see Chapter 3). Cranial CT or MRI may show 
+the intense meningeal inflammation around the base of the brain 
+or inflammatory mass lesions (tuberculomas). The CSF results (see 
+Table 52.6) include profound hypoglycorrhachia, a high CSF pro­
+tein, lymphocyte-­ or monocyte-­predominant cells (usually 500 cells/
+mm3), increased opening pressure, and, on occasion, organisms on 
+acid-­fast staining. PCR amplification of Mycobacterium tuberculosis 
+DNA aids in making a more rapid diagnosis than does culture of CSF, 
+sputum, or gastric aspirates, which traditionally requires 2–6 weeks. 
+The differential diagnosis depends on the stage of the illness.
+Encephalitis and Meningoencephalitis
+Encephalitis is inflammation of the brain parenchyma, whereas 
+meningoencephalitis is inflammation of the brain accompanied by 
+inflammation of the meninges (see Chapter 42). Meningoenceph­
+alitis is distinguished from aseptic meningitis by evidence of brain 
+parenchymal involvement, including behavior or personality changes; 
+altered level of consciousness (including agitation or coma); general­
+ized seizures; focal neurologic signs, including focal seizures and focal 
+motor defects (hemiparesis or ataxia); or movement disorders. The dif­
+ferential diagnosis is broad, inclusive of both infectious and noninfec­
+tious etiologies. Despite broad diagnostic testing, an etiologic agent is 
+identified in less than half of cases.
+Enteroviruses and arboviruses are the most commonly identified 
+causes of infectious encephalitis in children. Enterovirus encepha­
+litis, uncommon without meningeal involvement, is suggested by 
+epidemic occurrence and presence of typical prodrome or associ­
+ated findings (see Table 52.8); diagnosis is by PCR for enterovirus 
+in CSF, blood, throat, or stool specimens. A CSF or blood specimen 
+is preferred because enterovirus persists in the throat and especially 
+stool for weeks after the primary infection has resolved and its pres­
+ence in stool is nonspecific. Arbovirus encephalitis is suggested by 
+mosquito or tick exposure and epidemic occurrence and is diag­
+nosed by findings of arbovirus immunoglobulin M (IgM) in CSF 
+or blood or by paired serologic findings (acute and convalescent 
+serology) for IgG.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+980
+SECTION 10  Infectious Diseases/Immune/Inflammation
+TABLE 52.9  Etiology of Fever of Unknown Origin (FUO) in Children
+Abscesses
+Brain
+Hepatic
+Intraabdominal*
+Odontogenic (dental)
+Pelvic*
+Perinephric and renal
+Psoas
+Rectal
+Subphrenic
+Bacterial Diseases
+Actinomycosis
+Bartonella henselae (cat-­scratch disease)*
+Brucellosis
+Campylobacter
+Chlamydia
+Francisella tularensis (tularemia)
+Fusobacterium (Lemierre syndrome)
+Leptospirosis
+Listeria monocytogenes (listeriosis)
+Lymphogranuloma venereum
+Meningococcemia (chronic)
+Mycoplasma pneumoniae
+Psittacosis
+Rat-­bite fever (Streptobacillus moniliformis; streptobacillary form of rat-­bite 
+fever)
+Salmonella
+Tuberculosis*
+Whipple disease
+Yersiniosis
+Localized Infections
+Bacterial endocarditis*
+Cholangitis
+Ludwig angina
+Mastoiditis
+Osteomyelitis*
+Pericarditis
+Pneumonia
+Pyelonephritis*
+Sinusitis
+Spondylodiskitis
+Spirochetes
+Borrelia burgdorferi (Lyme disease)
+Leptospirosis
+Rat-­bite fever (Spirillum minus; spirillary form of rat-­bite fever)
+Relapsing fever (Borrelia recurrentis, Borrelia miyamotoi)
+Syphilis
+Fungal Diseases
+Blastomycosis (extrapulmonary)
+Coccidioidomycosis (disseminated)
+Cryptococcosis
+Histoplasmosis (disseminated)
+Rickettsiae-­like Organisms
+Anaplasmosis
+Ehrlichiosis
+Q fever
+Rocky Mountain spotted fever
+Tick-­borne typhus
+HSV is a treatable cause of encephalitis. In neonates, HSV 
+encephalitis usually occurs between 7 and 21 days of age; may 
+produce focal or generalized CNS disease; and may occur with or 
+without conjunctivitis, oral mucosal involvement, vesicles on skin, 
+or disseminated disease (hepatitis, pneumonia, septic appearance). 
+After the neonatal period, HSV encephalitis is usually isolated to 
+the CNS and classically produces necrotizing encephalitis with a 
+focus in the temporal lobe. Symptoms in persons with HSV enceph­
+alitis range broadly from those suggesting mild aseptic meningitis 
+to the presence of status epilepticus and coma and then death. In 
+addition to elevated WBC, CSF examination later in infection may 
+show increased numbers of erythrocytes and elevated protein due 
+to parenchymal brain involvement. CT, MRI, and EEG may suggest 
+a temporal lobe focus. Specific diagnosis is by PCR of CSF for HSV 
+DNA. In the appropriate clinical setting, presumptive therapy with 
+high-­dose intravenous acyclovir is indicated while awaiting the 
+results of PCR of CSF for HSV.
+Autoimmune encephalitis, such as anti-­N-­methyl-­d-­aspartate 
+receptor (anti-­NMDAR) encephalitis, is a relatively common form 
+of noninfectious encephalitis. Data from the California Encephalitis 
+Project showed that anti-­NMDAR encephalitis was the most com­
+mon identifiable cause of encephalitis in their cohort, which included 
+patients from 6 months to 30 years. Most of the cases occurred in chil­
+dren and adolescents. Patients present with features similar to viral 
+encephalitis, but seizures, language dysfunction, psychosis, autonomic 
+dysfunction, movement disorders, and EEG abnormalities are more 
+common in these patients.
+FEVER OF UNKNOWN ORIGIN
+Daily fevers lasting more than a week with no diagnosis apparent after 
+initial history and physical examination are termed FUO. The differ­
+ential diagnosis for FUO in children is broad (Table 52.9). The most 
+commonly identified etiology for FUO in children is infection, with 
+rates as high as 51% depending on the practice setting and availability 
+of diagnostic testing. Infections identified included UTI and tubercu­
+losis in all children; osteomyelitis and bartonellosis in countries with 
+higher baseline socioeconomic status; and brucellosis and typhoid in 
+countries with lower baseline socioeconomic status. Other significant 
+causes of FUO are collagen vascular disease, malignancy, Kawasaki 
+disease, and inflammatory bowel disease. Often patients with FUO 
+have atypical manifestations of common childhood bacterial or viral 
+diseases rather than unusual or uncommon disorders. Approximately 
+one quarter of FUO resolves without diagnosis.
+The evaluation of a child with FUO centers on serial histories and 
+physical examinations. Repeated history taking is useful because par­
+ents often remember important details after the initial interview. The 
+physical examination findings may also change during the course of 
+the investigation, revealing important clues (Fig. 52.2 and Table 52.10). 
+Clues to the diagnosis are noted in Tables 52.11 and 52.12.
+History
+The detailed history should include the time of day of the fever, who 
+measured the temperature, and the instrument that was used to mea­
+sure the temperature. Increased temperatures after exercise and in the 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+981
+CHAPTER 52  Fever
+TABLE 52.9  Etiology of Fever of Unknown Origin (FUO) in Children—cont’d
+Viruses
+Arboviruses
+Cytomegalovirus*
+Epstein-­Barr virus*
+Hantavirus
+Hepatitis viruses
+HIV
+Human herpesviruses (HHV-­6 and HHV-­7)
+Lymphocytic choriomeningitis
+Respiratory viruses (especially, adenovirus and enteroviruses)*
+Parasitic Diseases
+Amebiasis
+Babesiosis
+Baylisascaris
+Malaria
+Naegleria
+Toxoplasmosis
+Trichinosis
+Trypanosomiasis
+Visceral larva migrans (Toxocara)
+Rheumatologic Diseases
+Autoimmune hepatitis
+Behçet syndrome
+Chronic noninfectious osteomyelitis (CNO)
+Juvenile dermatomyositis
+Juvenile idiopathic arthritis* ± macrophage activation syndrome
+Rheumatic fever
+Systemic lupus erythematosus*
+Vasculitis syndromes (granulomatous, nongranulomatous)
+Hypersensitivity Diseases
+Drug fever
+Hypersensitivity pneumonitis
+Hypersensitivity vasculitis/reactive arthritis*
+Serum sickness
+Weber-­Christian disease
+Neoplasms
+Atrial myxoma
+Cholesterol granuloma
+Hodgkin lymphoma
+Inflammatory pseudotumor
+Langerhans cell histiocytosis
+Leukemia
+Lymphoma*
+Pheochromocytoma
+Neuroblastoma
+Wilms tumor
+Granulomatous Diseases
+Crohn disease
+Granulomatous hepatitis
+Polyangiitis with granulomatosis
+Sarcoidosis
+Familial and Hereditary Diseases
+Anhidrotic ectodermal dysplasia
+Autoimmune lymphoproliferative syndrome (ALPS)
+Autonomic neuropathies
+Fabry disease
+Familial dysautonomia
+Familial Hibernian fever
+Familial Mediterranean fever and the many other autoinflammatory (periodic 
+fever) diseases (see Chapter 54)
+Hypertriglyceridemia
+Ichthyosis
+Sickle cell crisis
+Spinal cord/brain injury
+Miscellaneous
+Addison disease
+Allergic alveolitis
+Castleman disease (see Chapter 48)
+Cyclic neutropenia
+Diabetes insipidus (non-­nephrogenic and nephrogenic)
+Factitious fever
+Hemophagocytic syndromes
+Hypereosinophilia syndromes
+Hypothalamic-­central fever
+Infantile cortical hyperostosis
+Inflammatory bowel disease*
+Kawasaki disease*
+Kikuchi-­Fujimoto disease
+Metal fume fever
+Multisystem inflammatory syndrome in children (MIS-­C)
+Pancreatitis
+Poisoning
+Pulmonary embolism
+Thrombophlebitis
+Thyrotoxicosis, thyroiditis
+*Most common identified causes of FUO in children.
+afternoon often represent normal variations. The appearance of the 
+child while febrile is also important. Increased temperature without 
+sweating might be seen in a child with ectodermal dysplasia or facti­
+tious fever. Increased temperature without signs of fatigue or malaise is 
+less likely to be true fever.
+The pattern of fever should be noted (Fig. 52.3). Sustained fever, 
+intermittent fever, and relapsing fever are associated with different 
+disease states. Sustained or remittent fever remains elevated with little 
+variation during the day and is associated with enteric (typhoid) fever, 
+tularemia, and rickettsial diseases such as typhus and Rocky Moun­
+tain spotted fever. Intermittent fever normalizes at least once a day and 
+is associated with tuberculosis, abscesses, lymphomas, juvenile idio­
+pathic arthritis (JIA), and some forms of malaria. Children with relaps­
+ing fever have afebrile days between febrile episodes. Relapsing fever is 
+associated with rat-­bite fever, Borrelia species (tick-­borne and hard tick 
+relapsing fever), malaria, brucellosis, subacute bacterial endocarditis, 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+982
+SECTION 10  Infectious Diseases/Immune/Inflammation
+African trypanosomiasis, lymphoma, and Lyme disease. Saddle-­back 
+or double-­hump fever lasts a few days, is followed by an afebrile day or 
+two, and then returns. This pattern is associated with viruses such as 
+enterovirus and dengue fever. Double quotidian fever (two fever spikes 
+each day) occurs in visceral leishmaniasis, malaria, and gonococcal 
+endocarditis. Unfortunately, neither the fever pattern nor the duration 
+is sufficient to determine a cause.
+Other patterns of fever are rarely due to infection. This includes 
+periodic fevers and prolonged fevers lasting more than 1 year. Peri­
+odic fevers occur as acute stereotypical febrile episodes separated 
+by prolonged afebrile, healthy periods. Diseases to consider include 
+cyclic neutropenia, familial Mediterranean fever, and the syndrome 
+of periodic fever, aphthous stomatitis, pharyngitis, and adenitis 
+(PFAPA). Periodic fever syndromes have different prevalence pat­
+terns in different ethnic groups and different inheritance patterns. A 
+detailed family history is particularly important when these diagno­
+ses are considered (see Chapter 54). Fevers lasting for more than 1 
+year are not usually infectious; factitious fever, rheumatic or gran­
+ulomatous disorders, familial diseases, or malignancies need to be 
+considered in these patients.
+FEVER ≥38.3°C for ≥14 Days
+Thorough history
+Identify:
+  Pneumonia
+  UTI
+Consider history, physical, and screening
+labs for clues to diagnosis
+Clues absent or nonspecific and
+fever still present
+Physical examination
+including growth chart
+Screening laboratory
+studies:
+  CBC, CRP, ESR, UA + culture,
+  blood culture, chest x-ray
+Clues present
+Pursue
+Clues present
+Clues absent or
+nonspecific
+and fever still present
+Repeat history and physical exam
+Repeat screening labs: CBC, ESR,
+CRP, UA, blood culture, urine culture
+• LFTs, LDH, uric acid, BUN, creatinine
+• Stool heme
+• PPD, interferon-γ release assay
+• Tube to hold
+Consider EBV, Bartonella serologies
+Consider abdominal CT, STIR MRI or MRI/PET scan
+Avoid empiric antibiotic therapy without
+  clear indication
+Consider: hospitalization if:
+      • Clinically worrisome
+      • Labs worrisome
+      • Fever history suspect
+      • Need for evaluation by
+        multiple subspecialists
+Perform serial physical exams
+Consider as appropriate:
+  Pediatric infectious diseases consult
+  Hematology/oncology consult
+  Rheumatology consult
+Fig. 52.2  Approach to the evaluation of fever of unknown origin (FUO). EBV, Epstein-­Barr virus; LDH, lactate 
+dehydrogenase; LFT, liver function test; PPD, purified protein derivative; STIR, short tau inversion recovery 
+rapid MRI; UTI, urinary tract infection.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+983
+CHAPTER 52  Fever
+TABLE 52.10  Examples of Subtle Physical Findings Having Special Significance in Patients 
+with Fever of Unknown Origin
+Body Site
+Physical Finding
+Diagnosis
+Head
+Sinus tenderness
+Sinusitis
+Scalp redness or tenderness
+Infantile cortical hyperostosis (Caffey disease)
+Oropharynx
+Ulceration
+Disseminated histoplasmosis, SLE, Behçet syndrome, IBD
+Tender tooth
+Periapical abscess
+Fundi or conjunctivae
+Choroid tubercle
+Disseminated granulomatosis*
+Petechiae, Roth spot
+Endocarditis
+Thyroid
+Enlargement, tenderness
+Thyroiditis
+Heart
+Murmur
+Endocarditis, rheumatic fever
+Abdomen
+Enlarged iliac crest lymph nodes, splenomegaly
+Lymphoma, endocarditis, disseminated granulomatosis*
+Rectum
+Perirectal fluctuance, tenderness
+Abscess
+Perianal skin tags, fistula
+IBD
+Genitalia
+Testicular nodule
+Periarteritis nodosa, tumor
+Epididymal nodule
+Disseminated granulomatosis*
+Lower extremities
+Deep venous tenderness
+Thrombosis or thrombophlebitis; malignancy, autoimmune disease
+Skin and nails
+Petechiae, splinter hemorrhages, subcutaneous nodules, clubbing
+Vasculitis, endocarditis, chronic pulmonary disease
+Muscles
+Weakness, tenderness
+Myositis
+Joints
+Swelling, stiffness, erythema
+SLE, JIA, IBD
+*Includes tuberculosis, histoplasmosis, coccidioidomycosis, sarcoidosis, and syphilis.
+IBD, inflammatory bowel disease; JIA, juvenile idiopathic arthritis; SLE, systemic lupus erythematosus.
+Modified from Wright WF. Fever of unknown origin. In: Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Douglas, and Bennett’s Principles and 
+Practices of Infectious Diseases. 9th ed. Philadelphia: Elsevier; 2020:790–800, Table 56.7.
+TABLE 52.11  Examples of Potential Diagnostic Clues to Infections Presenting as Fever of 
+Unknown Origin
+Etiology
+Historical Clues
+Physical Clues
+Anaplasmosis
+Transmitted by the bite of an Ixodes tick in association with outdoor 
+activity in north central and eastern USA
+Fever, headache, arthralgia, myalgia, pneumonitis, 
+thrombocytopenia, lymphopenia, and elevated liver 
+enzymes
+Babesiosis
+Transmitted by the bite of an Ixodes tick in association with outdoor 
+activity in the northeastern USA
+Arthralgia, myalgia, relative bradycardia, 
+hepatosplenomegaly, anemia, thrombocytopenia, and 
+elevated liver enzymes
+Bartonellosis
+Recent travel to the Andes mountains with fever and bacteremia 
+(Oroya fever, Bartonella bacilliformis), association with 
+homelessness in urban settings (Bartonella quintana) or contact 
+with either fleas or the scratch of an infected kitten or feral cat 
+(Bartonella henselae)
+Conjunctivitis, retroorbital pain, anterior tibial bone pain, 
+macular rash, nodular plaque lesions, and/or regional 
+lymphadenopathy
+Blastomycosis
+Contact with soil adjacent to the Mississippi and Ohio River 
+valleys, Saint Lawrence River in New York and Canada, and North 
+American Great Lakes, or exposure to infected dogs
+Arthritis, atypical pneumonia, pulmonary nodules, and/or 
+fulminant adult respiratory distress syndrome; verrucous, 
+nodular, or ulcerative skin lesions; and prostatitis
+Brucellosis
+Associated with contact with or consumption of products from 
+infected goats, pigs, camels, yaks, buffalo, or cows and with 
+abattoir work
+Arthralgia, hepatosplenomegaly, suppurative 
+musculoskeletal lesions, sacroiliitis, spondylitis, uveitis, 
+hepatitis, and pancytopenia
+Coccidioidomycosis
+Exposure to soil or dust in the southwestern USA
+Arthralgia, pneumonia, pulmonary cavities, pulmonary 
+nodules, erythema multiforme, and erythema nodosum
+Ehrlichiosis
+Transmitted by the bite of an Amblyomma, Dermacentor, or Ixodes 
+tick in association with outdoor activity in midwestern and 
+southeastern USA
+Pneumonitis, hepatitis, thrombocytopenia, and lymphopenia
+Enteric fever (Salmonella 
+enterica serovar typhi)
+Recent travel to a third world country with consumption of 
+potentially contaminated food or water
+Headache, arthritis, abdominal pain, relative bradycardia, 
+hepatosplenomegaly, and leukopenia
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+984
+SECTION 10  Infectious Diseases/Immune/Inflammation
+TABLE 52.11  Examples of Potential Diagnostic Clues to Infections Presenting as Fever of 
+Unknown Origin—cont’d
+Etiology
+Historical Clues
+Physical Clues
+Histoplasmosis
+Exposure to bat or black bird excreta in roosts, chicken houses, or 
+caves in the region surrounding the Ohio and Mississippi River 
+valleys of the USA or regions of Central and South America, 
+Africa, Asia, and Australia
+Headache, pneumonia, pulmonary cavities, mucosal ulcers, 
+adenopathy, erythema nodosum, erythema multiforme, 
+hepatitis, anemia, leukopenia, and thrombocytopenia
+Leishmaniasis (visceral disease)
+Associated with recent travel to areas endemic for sand flies
+Hepatosplenomegaly, lymphadenopathy, and 
+hyperpigmentation of the face, hand, foot, and/or 
+abdominal skin (kala azar)
+Leptospirosis
+Occupational exposure among workers in sewers, rice and sugar 
+cane fields, and abattoirs; recreational water sports and exposure 
+to contaminated waters or infected dogs
+Bitemporal and frontal headache, calf and lumbar muscle 
+tenderness, conjunctival suffusion, hepatic and renal 
+failure, and hemorrhagic pneumonitis
+Malaria
+Recent travel to endemic areas in Asia, Africa, and Central and 
+South America
+Fever, headaches, nausea, emesis, diarrhea, hepatomegaly, 
+splenomegaly, and anemia
+Psittacosis (Chlamydia psittaci)
+Associated with contact with birds, especially psittacine birds
+Fever, pharyngitis, hepatosplenomegaly, pneumonia, 
+blanching maculopapular eruptions, erythema multiforme, 
+erythema marginatum, and erythema nodosum
+Q fever (Coxiella burnetii)
+Associated with farm, veterinary, or abattoir work; consumption of 
+unpasteurized milk; and contact with infected sheep, goats, or 
+cattle
+Atypical pneumonia, hepatitis, hepatomegaly, relative 
+bradycardia, and/or splenomegaly
+Rat-­bite fever (Streptobacillus 
+moniliformis)
+Recent bite or scratch by a rat, mouse, or squirrel and/or ingestion 
+of food or water contaminated by rat excrement
+Headaches, myalgia, polyarthritis, and maculopapular, 
+morbilliform, petechial, vesicular, or pustular rash over the 
+palms, soles, and extremities
+Relapsing fever (Borrelia 
+recurrentis)
+Associated with poverty, crowding, and poor sanitation (louse 
+borne); or with camping (tick borne), particularly in the Grand 
+Canyon
+High fever with rigors, headache, delirium, arthralgia, 
+myalgia, and hepatosplenomegaly
+Rocky Mountain spotted fever
+Associated with outdoor activity in the South Atlantic or 
+southeastern USA and exposure to Dermacentor tick bites
+Headache, petechial rash involving the extremities, hand 
+palms, and feet soles
+Tuberculosis
+Recent contact with tuberculosis, recent immigration from an 
+endemic country, and work or residence in homeless shelters, 
+correctional facilities, or health care facilities
+Night sweats, weight loss, atypical pneumonia, cavitary 
+pulmonary lesions
+Tularemia
+Associated with bites by Amblyomma or Dermacentor ticks, deer 
+flies, and mosquitoes or direct contact with the tissues of infected 
+animals such as rabbits, squirrels, deer, raccoons, cattle, sheep, 
+and swine
+Ulcerated skin lesions at a bite site, pneumonia, relative 
+bradycardia, lymphadenopathy, and conjunctivitis
+Whipple disease (Tropheryma 
+whipplei)
+Potential association with exposure to sewage
+Chronic diarrhea, arthralgia, weight loss, malabsorption, 
+and malnutrition
+From Bennett JE, Dolin R, Blaser MJ. Mandell, Douglas, and Bennett’s Principles and Practices of Infectious Diseases. 9th ed. Vol. 1. Philadelphia: 
+Elsevier; 2020:798, Table 56.8.
+TABLE 52.12  Discriminating Features of Noninfectious Causes of Fever of Unknown Origin
+Causes of Fever
+Exposure or Condition
+Features
+Diagnostic Method
+Infectious Causes
+Kikuchi-­Fujimoto disease
+Regional or generalized lymphadenopathy; elevated 
+inflammatory markers
+Biopsy or histology
+Inflammatory pseudotumor
+History of nonspecific illness 
+(presumed host-­controlled 
+infection)
+Insidious; malaise, weight loss, vague abdominal pain or 
+tenderness; anemia; elevated inflammatory markers
+Abdominal CT; biopsy or histology
+Kawasaki disease 
+(incomplete)
+Asynchronous or incomplete features of Kawasaki disease; 
+elevated inflammatory markers; thrombocytosis
+Clinical constellation; echocardiogram
+Juvenile idiopathic arthritis
+Familial, sporadic
+Hepatosplenomegaly, lymphadenopathy, exanthem; 
+anemia, elevated inflammatory markers
+Clinical constellation
+Systemic lupus 
+erythematosus
+Familial, sporadic
+Malaise, weight loss; then multisystem involvement 
+(kidneys, joints, skin)
+Serum antinuclear antibody, anti–
+double-­stranded DNA, anti–smooth 
+muscle antibody
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+985
+CHAPTER 52  Fever
+A complete review of systems is essential in the evaluation of FUO. 
+Subtle respiratory or gastrointestinal symptoms may suggest back-­to-­
+back viral illnesses, commonly occurring during the first year in school 
+or daycare. A history of rash is important for diagnosing Lyme disease, 
+JIA, and acute rheumatic fever (see Chapter 53). The review of systems 
+may reveal heat intolerance, palpitations, tremors, and declining qual­
+ity of schoolwork in a child with hyperthyroidism. The overall state of 
+health, including growth, energy, and appetite, can classify the severity 
+of the illness and urgency of diagnostic testing.
+Exposure history can be informative for uncommon causes of fever 
+(see Table 52.12). A history of pica with fevers is associated with vis­
+ceral larva migrans and toxoplasmosis. Exposure to domesticated and 
+wild animals should be identified to exclude zoonoses (see Chapter 53). 
+The food history should be detailed and should include water sources 
+(particularly inquiring about well water), use of game meats, and con­
+sumption of undercooked meats or unpasteurized dairy products (e.g., 
+milk or cheese). Travel history is critically important in the establish­
+ment of a differential diagnosis. Areas visited, accommodations, activ­
+ities, prophylactic treatments, animal and insect exposures, and water 
+and food sources should be reviewed. Coccidioidomycosis, histoplas­
+mosis, malaria, Lyme disease, and Rocky Mountain spotted fever have 
+regional distributions in the United States; travel to and within coun­
+tries where other diseases are endemic should be ascertained as well 
+(Table 52.13).
+Previous medical records should be reviewed. Weight loss is 
+important for diagnosing many chronic diseases such as lymphoma, 
+tuberculosis, and inflammatory bowel disease. Poor weight gain and 
+growth, with or without gastrointestinal symptoms, may be the only 
+historical clue to inflammatory bowel disease (see Chapter 14). HIV 
+risk factors in the parents and child should be reviewed. The types and 
+frequency of prior infections may suggest an immunodeficiency. Past 
+and current medications may reveal additional medical history. A his­
+tory of severe head trauma may be associated with hypothalamic dys­
+function and central fevers.
+Physical Examination
+Whenever possible, the patient should be examined during a febrile 
+episode. Accompanying tachycardia and tachypnea can differentiate 
+true fever from normal diurnal variation or factitious fever. Certain 
+signs, such as rash, may only be present during the fever.
+Eyes
+The ophthalmologic examination should include assessment of visual 
+acuity, extraocular motion, visual field integrity, and gaze, as well as 
+inspection of external structures and ophthalmoscopic examination 
+(see Chapter 43). Conjunctivitis, iritis-­uveitis-­scleritis, or both may 
+be seen in a variety of infectious conditions, including EBV infection, 
+leptospirosis, rickettsial infection, and cat-­scratch disease. Conjunc­
+tivitis, uveitis, or both occur with Kawasaki disease, systemic lupus 
+erythematosus (SLE), polyarteritis nodosa, and JIA. Sarcoidosis may 
+be associated with conjunctival and uveal tract nodules. A thorough 
+ophthalmoscopic evaluation (and, if needed, slit-­lamp examination) 
+should be performed. Sarcoidosis may be accompanied by vascular 
+occlusions, hemorrhages, vascular sheathing, and preretinal inflamma­
+tory exudates. Cytomegalovirus (CMV) produces chorioretinitis asso­
+ciated with white infiltrates near vessels and confluent depigmented 
+Causes of Fever
+Exposure or Condition
+Features
+Diagnostic Method
+Hemophagocytic 
+lymphohistiocytosis
+Virus associated; familial 
+rheumatic disorder
+Severe, rapidly progressive illness; hepatomegaly, 
+lymphadenopathy, exanthem; cytopenias; extreme 
+elevations of inflammatory markers
+Ferritin, triglyceride levels, other 
+diagnostic criteria; erythrophagocytosis 
+by macrophages; natural killer cell, 
+CD8+ T lymphocyte dysfunction
+Vasculitis syndromes
+Familial, sporadic
+Specific hallmarks (renal, neurologic, stomatitis or perianal 
+ulcers, uveitis, pulmonary)
+Clinical constellation; specific 
+autoantibodies; biopsy or histology
+Sarcoidosis
+Geography; race
+Fatigue, weight loss, leg pain; anemia; elevated 
+inflammatory markers; mediastinal lymphadenopathy; 
+uveitis
+Clinical constellation; biopsy or 
+histology; soluble interleukin-­2 
+receptor level
+Inflammatory bowel disease
+Familial; sporadic
+Linear growth failure, subtle gastrointestinal symptoms 
+or abdominal tenderness; perirectal skin tag; iron-­
+deficiency anemia; elevated inflammatory markers
+Abdominal CT; barium study
+Lymphoreticular malignancy
+Weight loss, fatigue; nonarticular bone pain; 
+lymphadenopathy; cytopenias
+Bone marrow or tissue biopsy
+Drug hypersensitivity
+Prescription or 
+nonprescription drug 
+exposure
+Preserved sense of well-­being; exanthems; eosinophilia; 
+organ dysfunction (renal, cardiac, pulmonary)
+Clinical constellation; withdrawal of 
+drug
+Factitious fever or 
+Munchausen syndrome by 
+proxy
+Predisposing parent-­patient 
+dynamic
+Discordant temperature and vital signs; discordant parent-­
+measured temperature and urine temperature; normal 
+inflammatory markers
+Clinical constellation; verification of 
+temperature in medical setting
+Hypothalamic dysfunction, 
+diabetes insipidus, 
+dysautonomia, or absent 
+corpus callosum
+Underlying condition; genetic 
+syndrome; anatomic 
+abnormality
+Normal inflammatory markers; hypernatremia; no response 
+to nonsteroidal antiinflammatory drugs
+Clinical constellation; laboratory tests 
+and imaging
+Modified from Long SS, Prober CG, Fischer M, eds. Principles and Practice of Pediatric Infectious Diseases. 5th ed. Philadelphia: Elsevier; 
+2018:121, Table 15.2.
+TABLE 52.12  Discriminating Features of Noninfectious Causes of Fever of Unknown 
+Origin—cont’d
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+986
+SECTION 10  Infectious Diseases/Immune/Inflammation
+areas. Histoplasmosis causes small atrophic spots and, in rare cases, 
+focal granulomas of the retina and choroid. Toxoplasma gondii is a 
+common cause of recurrent retinochoroiditis. Retinal changes also 
+occur with bacterial endocarditis. Tuberculosis can cause formation 
+of choroidal tubercles and ulcerative palpebral conjunctival lesions. 
+Slit-­lamp examination may also reveal iridocyclitis in JIA, Behçet syn­
+drome, and inflammatory bowel disease.
+Ears, Nose, and Throat
+The frontal and maxillary sinuses should be palpated for tenderness. 
+The nares should be inspected for inflamed mucosa, aphthae, and 
+purulent discharge. Tympanic membranes should be viewed and 
+insufflated (see Chapter 5). The mouth should be checked for lesions, 
+inflammation, and tooth tenderness. Behçet syndrome may manifest 
+with oral aphthous lesions. Inspection of teeth and gums may reveal 
+a dental abscess; percussing each tooth with a wooden tongue blade 
+may produce pain in the abscessed tooth that may not otherwise be 
+appreciated on visual inspection. Pharyngitis with and without exu­
+date is associated with EBV infection, tularemia, leptospirosis, and 
+CMV. PFAPA syndrome is characterized by periodic fever, aphthous 
+stomatitis, pharyngitis, and cervical adenopathy. Candida infection in 
+the mouths of children older than 6 months may result from immuno­
+deficiency such as HIV, from stasis of oral secretions in children who 
+are not orally fed, or from improper technique with inhaled steroids.
+Day
+107
+108
+107
+106
+105
+104
+103
+102
+101
+100
+99
+98
+97
+96
+95
+170
+Pulse Temp.
+Date
+Day of disease 1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+1
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+AM
+PM
+106
+105
+104
+103
+102
+101
+Temperature
+Temperature
+100
+99
+98.6
+98
+97
+107
+Time
+106
+105
+104
+103
+102
+101
+100
+99
+98
+97
+96
+2
+3
+4
+5
+6
+7
+8
+9 10 11 12 13 14 15 16 17 18 19 20
+Days
+21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36
+160
+150
+140
+130
+120
+110
+100
+90
+80
+70
+60
+50
+40
+Stools
+B
+A
+C
+D
+Respirations
+Temperature
+Pulse
+105
+103
+101
+99
+97
+1st
+M E M E M E
+Simple Tertian
+1st week
+2nd week
+3rd week
+4th week
+Temperature
+M E M E M E
+2nd
+3rd
+4th
+5th
+6th
+Day
+107
+105
+103
+101
+99
+97
+1st
+M E M E M E
+Simple Quartan
+M E M E M E
+2nd
+3rd
+4th
+5th
+6th
+Day
+107
+105
+103
+101
+99
+97
+1st
+M E M E M E
+Malignant Tertian
+M E M E M E
+2nd
+3rd
+4th
+5th
+6th
+M E
+7th
+Fig. 52.3  Distinctive fever patterns. A, Malaria. B, Typhoid fever (demonstrating relative bradycardia). C, Hod­
+gkin disease (Pel-­Ebstein pattern). D, Borreliosis (relapsing fever pattern). (Data from Woodward TE. The fever 
+pattern as a clinical diagnostic aid. In: Mackowiak PA, ed. Fever: Basic Mechanisms and Management. 2nd 
+ed. Philadelphia: Lippincott-­Raven; 1997:215–236.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+987
+CHAPTER 52  Fever
+Neck
+The neck should be examined for adenopathy or thyroid enlargement 
+(see Chapter 48). The rest of the lymphatic system should be carefully 
+examined. A single tender node may be seen with cat-­scratch disease 
+or nontender node with lymphoma. Generalized adenopathy can be 
+seen in CMV, EBV, HIV, and systemic JIA (see Chapter 44).
+Heart, Lungs, and Abdomen
+Careful auscultation of the heart and lungs is essential. A mitral or aortic 
+regurgitant murmur may be the initial finding of infectious endocardi­
+tis or of carditis in children with acute rheumatic fever. A pericardial 
+friction rub may also suggest JIA, SLE, rheumatic fever, malignancy, or 
+viral pericarditis. The abdomen must be carefully palpated for evidence 
+of masses or hepatosplenomegaly (see Chapters 17 and 20). Abdominal 
+tenderness may be present with abdominal abscesses, hepatosplenomeg­
+aly, and inflammatory bowel disease. A rectal examination should be 
+performed, and stool should be tested for occult blood. Sexually active 
+girls should have a pelvic examination. Pain on movement of the uterus 
+during the pelvic examination may indicate pelvic inflammatory disease.
+Musculoskeletal Evaluation
+The musculoskeletal examination should include assessments of 
+strength and of active and passive range of motion and evaluation for 
+warmth, tenderness, or swelling of joints. Irritability and pain on pal­
+pation over a bone or pseudoparalysis may be the first clue to osteo­
+myelitis. Bone pain may also result from neoplastic infiltration of the 
+bone marrow or sickle cell anemia. Unexplained fever, arthralgia, and 
+arthritis may be present with acute rheumatic fever, JIA, Lyme disease, 
+Kawasaki disease, SLE, polyarteritis nodosa, and Behçet syndrome 
+(see Chapter 44). Myalgia occurs commonly with viral diseases such 
+as influenza, and may be present with rickettsial diseases, polyarteritis 
+nodosa, Takayasu arteritis, and dermatomyositis.
+Skin
+The skin must be inspected for evidence of rashes and other lesions 
+(see Chapter 53). JIA may manifest with an evanescent, salmon-­
+colored macular rash over the trunk and joints that may appear and 
+disappear rapidly and be evident only during febrile periods. Derma­
+tomyositis is characterized by a heliotropic rash of the upper eyelids 
+and an erythematous eruption (vasculitis) over the extensor surfaces 
+(Gottron sign). SLE may manifest with a butterfly rash over the nose 
+and malar regions, signs of photosensitivity in sun-­exposed areas, or 
+vasculitis. The rash of Kawasaki disease is erythematous and may man­
+ifest in many forms; it is most commonly a diffuse maculopapular rash. 
+In Rocky Mountain spotted fever, there are erythematous macules on 
+the wrists, ankles, or forearms that may become maculopapular and 
+expand centripetally to the proximal extremities and torso; palms and 
+soles may be involved and petechiae may develop later in the course of 
+the illness. Endocarditis may be associated with splinter hemorrhages, 
+Janeway lesions (painless, small, erythematous, or hemorrhagic lesions 
+on the palms and soles), or Osler nodes (small, tender nodules on the 
+palms). Lyme disease usually manifests with erythema migrans. This 
+nontender, erythematous rash expands over hours and may have a 
+pale center (“bull’s eye rash,” occurring in ∼50% of erythema migrans). 
+The rash begins at the site of the tick bite during early localized Lyme 
+disease; secondary lesions may appear at other sites during early dis­
+seminated Lyme disease. Tularemia, salmonellosis, listeriosis, and EBV 
+infections may feature generalized maculopapular rashes.
+Diagnostic Studies
+Laboratory evaluation should proceed in a stepwise, focused manner 
+with emphasis on identifying serious illnesses with defined interven­
+tions (see Fig. 52.2). Initial studies should include a CBC with differen­
+tial, ESR, CRP, blood cultures, UA, urine culture, and chest radiograph.
+The CBC with differential is neither specific nor diagnostic, except 
+in rare circumstances, such as seeing lymphoblasts on the blood smear. 
+Approximately 30% of patients have abnormal WBC counts; 46% may 
+have a left shift (i.e., increased band neutrophil percentage), lymphocy­
+tosis, atypical lymphocytes, or blasts. An elevated ESR or CRP indicates 
+inflammation. The ESR is usually high in children with FUO caused 
+by infectious pathogens, malignancies, and rheumatic diseases. Of 
+patients with an ESR <10 mm/hr, 90% have a self-­limited viral disease.
+UA and urine culture identify occult infections, particularly in 
+young girls. The UA may also be abnormal in patients with endocardi­
+tis and rheumatic and other inflammatory disorders.
+Chest radiographs should be examined for unexpected consolida­
+tions, calcifications, interstitial changes, perihilar adenopathy, medias­
+tinal masses, or cardiomegaly (heart failure, pericarditis). Chest films 
+are abnormal in up to 15% of patients with FUO.
+Further studies should be directed by information obtained from 
+detailed histories and physical examinations, as well as the initial labo­
+ratory studies. Leukopenia, thrombocytopenia, and hyponatremia may 
+be a sign of certain tick-­borne infections. Abnormalities in the physical 
+exam or laboratory values may suggest diagnostic yield for biopsy of 
+lymph nodes, skin, liver, or bone marrow.
+In many cases, the etiology is still unknown after the initial eval­
+uation and fever persists, necessitating performance of a second tier 
+of testing. The initial laboratory studies may be repeated, especially 
+to assess for trends in inflammatory markers. Additional studies may 
+include a complete metabolic panel (CMP, to include assessments of 
+kidneys and liver), lactate dehydrogenase (LDH), uric acid, fibrinogen, 
+ferritin, immunoglobulins, and fecal occult blood. The presence of 
+transaminitis suggests the need to evaluate for associated viral infec­
+tions, such as hepatitis A, CMV, EBV, adenovirus, and enterovirus. 
+Elevation in LDH and uric acid suggests increased cell turnover due 
+to an occult malignancy. Marked abnormalities in fibrinogen, ferritin, 
+or immunoglobulins may suggest a more serious cause of FUO such 
+as immune disregulation. The presence of fecal occult blood can point 
+toward inflammatory bowel disease; if symptoms or the presence of 
+TABLE 52.13  Causes of Fever in the 
+Returned Traveler
+Diagnosis
+%
+Malaria
+30–40
+Hepatitis
+3–6
+Respiratory infection*
+2–11
+Urinary tract infection/pyelonephritis
+2–4
+Dysentery
+4–5
+Dengue fever
+2–6
+Enteric (typhoid) fever
+1–2
+Tuberculosis
+1–2
+Rickettsial infection
+∼1
+Acute HIV infection
+<1
+Amebic liver abscess
+<1
+Other miscellaneous infections
+4–9
+Miscellaneous noninfectious causes
+1–6
+Undiagnosed
+∼25
+*Includes upper respiratory tract infection, pneumonia, and bronchitis.
+Modified from Suh KN, Kozavsky PE, Keystone JS. Evaluation of fever 
+in the returned traveler. Travel Med. 1999;83:997–1017.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+988
+SECTION 10  Infectious Diseases/Immune/Inflammation
+fecal occult blood suggest inflammatory bowel disease, fecal calprotec­
+tin can assess for bowel inflammation and suggest the need for endo­
+scopic studies and biopsy. All children with FUO should be assessed 
+for tuberculosis (tuberculin skin tests or interferon-­γ release assay) 
+and HIV (fourth-­generation antibody/antigen screen; see Chapter 48). 
+After 10–14 days of fever have elapsed, additional infections may be 
+identified by serologies. Organism-­specific IgG and IgM can be used 
+to diagnose CMV, EBV (with the addition of EBV nuclear antigen 
+antibody [EBNA] to aid with timing of the infection), and Bartonella 
+infection. PCR-based bacteria detection from whole blood may also 
+detect nonculturable organisms. Depending on travel and exposure 
+history, additional serologic testing for toxoplasmosis, brucellosis, 
+tularemia, and leptospirosis may be indicated. Expanded radiologic 
+studies should include abdominal imaging. In well-­appearing children, 
+abdominal ultrasound may be performed first. With ill appearance or 
+continued elusive diagnosis, abdominal CT is appropriate. Additional 
+imaging that may be of benefit include sinus CT, whole-­body MRI (to 
+evaluate for occult osteomyelitis, malignancy, or histiocytic disorders), 
+and PET/CT or MRI. Specialized radiologic studies performed without 
+specific diagnostic clues from the history, physical examination find­
+ings, or initial laboratory evaluation results have a low yield.
+Finally, hospitalization may be considered at any time if the clinical 
+assessment or laboratory values are worrisome for a serious cause of 
+fever (see Table 52.13). In some cases, hospitalization is used to verify 
+the presence of fever or facilitate evaluation by multiple subspecialists, 
+such as infectious diseases, hematology/oncology, or rheumatology. In 
+most well-­appearing children, serial physical examinations and diag­
+nostic evaluation can be performed safely in an outpatient setting.
+Cause
+Most of the causes of FUO eventually develop localizing signs, symp­
+toms, or abnormal laboratory studies. The following list of etiologies 
+may either initially present with isolated fever or atypically present 
+with fever.
+Infectious Syndromes Causing Fever of Unknown Origin
+A wide variety of infectious syndromes have been identified in children 
+with FUO including subacute bacterial endocarditis, UTI, sinusitis, 
+abscesses, osteomyelitis, and rheumatic fever.
+Bacterial endocarditis. Bacterial endocarditis is rare in children; 
+incidence increases with advancing age and history of pre-­existing heart 
+disease (see Chapter 9). A new murmur or a change in the characteristic of 
+an existing murmur may not be initially evident. Vegetations also may not 
+be visible initially by transthoracic echocardiography; repeat transthoracic 
+echocardiography or a transesophageal approach for patients with 
+larger body habitus may be more sensitive. Large-­volume blood cultures 
+separated in space and time are necessary for definitive diagnosis. PCR-
+based blood assays may help diagnose culture negative endocarditis.
+Urinary tract infection. Both upper and lower UTIs may present 
+without localized pain or dysuria. Leukocytes may be absent in urine 
+early in infection (see Chapter 21). Sterile pyuria may be present with 
+tuberculosis, nongonococcal urethritis, viral cystitis, Kawasaki disease, 
+reactive arthritis, interstitial nephritis, well-­circumscribed renal abscess, 
+and certain rheumatic diseases. Renal ultrasonography may show areas 
+of decreased echogenicity, enlarged echogenic kidneys, and renal or 
+perinephric abscesses. A CT scan with contrast may reveal infected 
+parenchyma as a nonenhancing lucency. Nuclear medicine renal scans 
+can be used to identify active areas of infection and old scars.
+Sinusitis. Factors that decrease the size and patency of the ostium 
+or impair the mucociliary transport system predispose a child to 
+sinusitis. Ethmoid and maxillary sinuses are present at birth. The frontal 
+sinuses usually appear near 5 or 6 years of age but may be asymmetric 
+or absent. Sphenoid sinuses may be seen radiographically by 9 years of 
+age. Prolonged nasal congestion, headache, purulent nasal discharge, 
+sore throat, daytime cough, tender teeth, and halitosis may be present in 
+children with sinusitis. CT will demonstrate opacification of the sinuses 
+but may not differentiate viral and bacterial infections. Rhinoscopy may 
+show purulent material at the ostium of an infected sinus. Three distinct 
+clinical presentations can identify high probability of bacterial sinusitis: 
+(1) acute onset of high fever with severe purulent nasal discharge, (2) 
+recurrent fever with onset of purulent nasal discharge during a period 
+of apparent recovery from a viral URI, and (3) prolonged (>10–14 days) 
+fever and nasal drainage. Infectious complications of sinusitis include 
+dural space empyema or brain abscess.
+Abscesses. Focal abscess not apparent on physical examination 
+may present with FUO. Liver abscess may manifest with right upper 
+quadrant tenderness and hepatomegaly. Blood cultures and laboratory 
+assessments of the liver are often normal. Pelvic abscesses should be 
+suspected in children with FUO who have abdominal, rectal, or pelvic 
+tenderness even in the absence of a mass. Congenital anomalies, such 
+as a patent urachus, may become superinfected and present with fever. 
+The diagnosis of deep-­seeded abscesses is usually made with MRI, CT 
+with contrast, or ultrasonography. CT or ultrasound guidance may be 
+used to direct percutaneous drainage of many abscesses for diagnostic 
+and therapeutic purposes.
+Osteomyelitis. Bacterial osteomyelitis in childhood is usually seeded 
+from a hematogenous source, but it sometimes follows penetrating 
+injury. Refusal to use the affected limb or tenderness to palpation over 
+the infected site is common; localizing symptoms may be initially 
+absent in infants. Abnormalities in plain radiographs appear late, 
+typically 2 weeks or more after onset. MRI is the imaging modality 
+of choice. The blood or bone culture is often positive and markers of 
+inflammation (CRP, procalcitonin, and ESR) are elevated. Suppurative 
+myositis may mimic osteomyelitis and manifest as an FUO. Chronic 
+noninfectious osteomyelitis (CNO), including chronic recurrent 
+multifocal osteomyelitis (CRMO), may present with fever and pain at 
+one or more sites of sterile inflammation. The presence of recurrent 
+sterile bone and joint inflammation accompanied by acne and pustulosis 
+is highly suggestive of SAPHO syndrome (synovitis, acne, pustulosis, 
+hyperostosis, and osteitis), a rare multisystem inflammatory disorder.
+Rheumatic fever. Acute rheumatic fever may initially present 
+as FUO, but diagnosis requires the development of a localizing 
+sign or symptom. Early acute rheumatic fever may only manifest as 
+polyarthralgia and elevation of inflammatory markers. Elbows, wrists, 
+knees, and ankles are frequently involved. The diagnosis is made by 
+fulfillment of the Jones criteria, which requires at least one objective 
+major criterion (see Chapter 9).
+Bacterial Pathogen Causes of Fever of Unknown Origin
+Bacterial syndromes that cause FUO in children include Lyme disease, 
+cat-­scratch disease, Q fever, rat-­bite fever, tularemia, brucellosis, lepto­
+spirosis, chlamydial infections, and rickettsial infections.
+Lyme disease. Lyme disease is caused by the spirochete Borrelia 
+burgdorferi and is transmitted by the Ixodes scapularis and Ixodes 
+pacificus ticks. Although fever may be the only presenting symptom, 
+careful history and examination invariably reveals one of the specific 
+manifestations of Lyme disease. The usual manifestation of early Lyme 
+disease is with a single (early localized) or multiple (early disseminated) 
+erythema migrans lesions—an erythematous, annular, nontender, 
+expanding rash with or without central clearing (see Chapter 53). The 
+rash is self-­limited and resolves in 1–30 days (usually 2 weeks). Other 
+manifestations of early disseminated Lyme disease include facial nerve 
+palsy, peripheral neuropathy, cardiac conduction defects, myocarditis, 
+and aseptic meningitis. Patients with early localized or disseminated 
+Lyme may also exhibit fever, chills, fatigue, headaches, malaise, myalgia, 
+and arthralgia. Late disseminated Lyme disease presents as monoarticular 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+989
+CHAPTER 52  Fever
+arthritis, typically with marked swelling but preservation of some range 
+of motion. Although a history of exposure to outdoor activities or ticks 
+is common in patients with Lyme disease at any stage, recognition of the 
+specific tick bite resulting in disease transmission is unusual. Diagnosis 
+in early localized Lyme disease should be made clinically on the basis of 
+an erythema migrans lesion. Serology in early infection lacks sensitivity 
+and specificity. Diagnosis of early disseminated and late disseminated 
+Lyme disease requires a typical clinical illness and serologic evidence of 
+infection with a two-­tier testing strategy. The initial test is an enzyme-­
+linked immunosorbent assay (ELISA) or immunofluorescence assay 
+(IFA) screen. If this result is equivocal or positive, a Western immunoblot 
+is performed to confirm the presence of at least five IgG antibodies 
+(“bands”) specific to B. burgdorferi infection. Western blot should not be 
+performed if the ELISA is negative or has not been performed because it 
+lacks specificity in this setting.
+Cat-­scratch disease. Cat-­scratch disease is a febrile illness 
+associated with cats (usually kittens or cats in the first 2 years of life) 
+and, more rarely, dogs. Bartonella henselae, which may be transmitted 
+by the cat flea and cat saliva, is the etiologic agent. After a scratch or 
+bite, a papule forms and may persist from days to months. Regional 
+lymphadenopathy with one or more nodes occurs proximal to the skin 
+site 1–9 weeks after inoculation. The node or nodes become enlarged 
+and tender and may have overlying erythema. The lymphadenopathy 
+usually resolves after 2–4 months but may last up to 3 years. Affected 
+children may have adenopathy with fever, headache, malaise, anorexia, 
+sore throat, and conjunctivitis (see Chapter 48). Atypically, cat-­scratch 
+disease can present with isolated fever (FUO) or disseminated disease 
+(culture-­negative endocarditis, encephalopathy, bone lesions, or liver 
+or spleen granulomas). Diagnosis is established with serology.
+Q fever. Q fever occurs as an acute or chronic infection caused by 
+Coxiella burnetii. It manifests with headache, fever, chills, malaise, and, 
+on occasion, respiratory symptoms. Gastrointestinal tract symptoms 
+are also common in children. Severe disease with hepatic, cardiac, 
+or CNS involvement is rare. Domesticated farm animals including 
+cattle, sheep, and goats are the primary reservoirs for human infection. 
+Humans acquire the organism through inhalation of infected aerosols, 
+particularly after livestock birthing, or ingestion of unpasteurized dairy 
+products. Diagnosis is made by serologic testing.
+Rat-­bite fever. Rat-­bite fever is a relapsing fever caused by Strep­
+tobacillus moniliformis or Spirillum minus. Both organisms live in the 
+upper respiratory tract of rodents and can be transmitted to humans 
+through rodent bites, exposure to rodent oral secretions, or ingestion 
+of contaminated food or water. Initial symptoms include relapsing 
+fever, chills, malaise, and muscle aches. Rash, including palm and sole 
+involvement, and migratory polyarthritis or arthralgia are common. 
+Complications include abscesses, pneumonia, endocarditis, myocardi­
+tis, and meningitis. Diagnosis is made by blood culture or culture of 
+other infected fluid, such as abscess aspiration.
+Tularemia. Francisella tularensis is the causative agent of tularemia. 
+The disease is spread by contact with wild animals, such as rabbits and 
+prairie dogs; insects that bite these animals, such as ticks and deer flies; 
+or contaminated water or aerosols. A maculopapular nodule forms at 
+the portal of entry and later becomes ulcerated with associated regional 
+lymphadenopathy, a phenomenon termed ulceroglandular disease. 
+Children may also present with fever and other disease variants based on 
+the site of inoculation. Pharyngitis, conjunctivitis, hepatosplenomegaly, 
+and pneumonia may occur. Diagnosis is made by serologic study.
+Brucellosis. Brucellosis is caused by several bacterial species 
+including Brucella abortus, Brucella melitensis, Brucella suis, and Brucella 
+canis. The microorganisms are found in wild and domesticated animals. 
+Infection may occur by airborne spread or by ingestion of meat or milk, 
+with most childhood cases in the United States resulting from ingestion of 
+unpasteurized milk or cheese. The infected child may present with fever, 
+chills, malaise, headache, arthralgia, or myalgia. Pneumonia, cardiac 
+involvement, and CNS involvement occur in rare cases. Diagnosis is 
+made by special culture techniques and serologic study.
+Leptospirosis. Leptospirosis is caused by members of the spirochete 
+genus Leptospira. Infection is spread by contact with the urine of wild 
+or domestic animals. In 1–2 weeks after exposure, patients experience 
+the abrupt onset of fever, chills, nausea, vomiting, headache, and occa­
+sionally conjunctival suffusion and rash. The initial acute septicemia 
+phase may be followed by a second immune-­mediated phase with 
+fever, aseptic meningitis, and uveitis. Severe illness with renal failure, 
+jaundice, myocarditis, shock, and pulmonary hemorrhage may occur. 
+Diagnosis is made by special culture techniques and serologic testing.
+Chlamydial infection. Psittacosis and lymphogranuloma vene­
+reum are chlamydial causes of FUO. Chlamydia psittaci may be 
+transmitted by infected birds and produces respiratory illness with 
+fever. Cardiac, liver, CNS, and thyroid involvement are possible 
+though are rare. Diagnosis is made serologically. Chlamydia tra­
+chomatis is a sexually transmitted organism that causes urogenital 
+infections, perihepatitis, invasive lymphadenopathy (lymphogranu­
+loma venereum), neonatal conjunctivitis, and neonatal pneumonia. 
+Diagnosis is by PCR of infected body fluids.
+Rickettsial infections. Transmission of the causative agent for Rocky 
+Mountain spotted fever, Rickettsia rickettsii, occurs by tick bite. This 
+disease is a small-­vessel vasculitis that manifests with fever, headache, 
+intense myalgia, and abdominal symptoms. A characteristic rash is usu­
+ally present by the sixth day of illness, includes palms and soles, and 
+progresses from macular to petechial. Characteristic laboratory findings 
+include leukopenia, thrombocytopenia, and hyponatremia. Mortality 
+rates are high, necessitating prompt therapy when the diagnosis is sus­
+pected. Diagnosis is confirmed by PCR testing of blood or serology.
+Anaplasmosis and ehrlichiosis are caused by Anaplasma phagocytoph­
+ila and multiple Ehrlichia species. Organisms are transmitted by I. scapu­
+laris or the Lone Star tick (Amblyomma americanum). These illnesses are 
+usually seen in the southeastern and upper midwestern United States and 
+present with fever, severe headache, gastrointestinal symptoms, and myal­
+gia. Rash is inconsistent but more common in children than in adults. 
+Symptoms and general laboratory perturbations are similar to Rocky 
+Mountain spotted fever. Diagnosis is confirmed by PCR or serology.
+Fungal Pathogen Causes of Fever of Unknown Origin
+Fungal causes of FUO include blastomycosis, histoplasmosis, coccidi­
+oidomycosis, and cryptococcoses.
+Blastomyces dermatitidis is a saprophytic fungus with both yeast and 
+mycelial forms; it is found in the soil all over the world but is common in 
+the Americas. It is endemic in the Southeast and Midwest regions of North 
+America (Great Lakes). Infections with this fungus may localize to the 
+lungs or disseminate to the brain, bone, or skin. The diagnosis is made by 
+antigen testing on urine, fungal culture from respiratory or tissue samples, 
+or visualization of broad-­based budding yeast on fungal stains.
+Histoplasma capsulatum is a yeast found in soil in the Ohio and 
+Mississippi River valleys and other locations in the United States and 
+causes pulmonary and disseminated disease. Its many disease presen­
+tations make it one of the “great mimics” in medicine. Diagnosis is 
+made by the demonstration of the microorganism in biopsy or respira­
+tory specimens, antigen testing on urine, or serology.
+Coccidioides immitis is found in soil in the southwestern United 
+States. Infections in humans are associated with a febrile pulmonary 
+disease characterized by cough, rash, and chest pain. Diagnosis is usu­
+ally made serologically.
+Cryptococcus neoformans is often found in pigeon droppings and 
+can cause pulmonary or CNS infection in immunocompromised 
+patients. The diagnosis is made by culture, antigen in blood or CSF, or 
+identification of encapsulated yeast in collected specimens.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+990
+SECTION 10  Infectious Diseases/Immune/Inflammation
+Viral Pathogen Causes of Fever of Unknown Origin
+Fever associated with most viral infections resolves within 7–10 days. 
+For this reason, laboratory work-­up of FUO is usually deferred until 
+after this interval in the well-­appearing child. Although certain respira­
+tory viruses such as adenovirus can cause prolonged fevers, the classic 
+viral infections associated with FUO are CMV, EBV, and HIV.
+Cytomegalovirus. CMV may cause a mononucleosis-­like syn­
+drome (heterophile-­negative mononucleosis) in children. General­
+ized or cervical adenopathy may be seen along with fatigue, malaise, 
+fever, hepatosplenomegaly, and abdominal pain (see Chapter 48). A 
+morbilliform rash may occur. CMV retinitis, hepatitis, colitis, and 
+pneumonitis are usually limited to children with impaired immune 
+systems. The virus is transmitted by contact with infected secre­
+tions. Infection is diagnosed by PCR (blood, urine) or by serology, 
+although care must be taken to differentiate acute infection from 
+reactivation.
+Epstein-­Barr virus. Infectious mononucleosis is typically caused 
+by EBV and may manifest with fever, exudative pharyngitis, malaise, 
+and fatigue (see Chapter 48). The appearance of rash is sometimes 
+preceded by amoxicillin therapy, but rash may occur without antibiotic 
+administration. Tender lymphadenopathy and hepatosplenomegaly 
+may occur. The diagnosis may be made by nonspecific tests 
+(heterophile antibody or monospot) in older patients, but these studies 
+are unreliable for young children. Specific antibody tests against viral 
+capsid antigen, early antigen, and nuclear antigen are recommended in 
+younger children.
+Human immunodeficiency virus. Infection with HIV may cause 
+FUO in children. The fever is typically due to associated opportunistic 
+infections or malignancies that occur as a result of chronic immuno­
+deficiency. Diagnosis is made with fourth-­generation antigen/antibody 
+tests or PCR if acute infection is suspected (see Chapter 48).
+Parasitic Pathogen Causes of Fever of Unknown Origin
+FUO in children may be caused by parasitic infections, including babe­
+siosis, toxoplasmosis, and toxocariasis.
+Babesiosis is caused by Babesia microti and is a parasite of rodents trans­
+mitted to humans by tick bite. Infection may result in fever, chills, nau­
+sea, vomiting, night sweats, myalgia, and arthralgia. Identification of the 
+organism in a thick smear of RBCs, blood PCR, or serology is diagnostic.
+Toxoplasma gondii is a protozoan parasite. Children become 
+infected from eating contaminated, undercooked meat or from expo­
+sure to the feces of domestic cats. Most infections acquired postnatally 
+are asymptomatic, but children may develop a mononucleosis-­like ill­
+ness (see Chapter 48). Diagnosis is by serology.
+Toxocariasis (visceral larva migrans or ocular toxocariasis) results 
+from ingestion of larvae of Toxocara canis or from Toxocara cati shed 
+in dog and cat feces, respectively. Heavy or repeated infection results in 
+fever, intense eosinophilia, hepatomegaly, and hypergammaglobulin­
+emia. Lung, heart, and CNS involvement is rare. In ocular toxocariasis, 
+the eye is infected, resulting in inflammation and scarring. Diagnosis 
+is based on serology, but care must be taken to differentiate prior or 
+asymptomatic infection from active infection.
+Infections in Children with Fever of Unknown Origin 
+Who Live in or Have Traveled to Countries with Certain 
+Endemic Infections or Lower Baseline Socioeconomic 
+Status
+In a child who has traveled to or lives in a country with lower base­
+line socioeconomic status, consideration must be given to the location, 
+water sources, and activities. Some causes of FUO to consider include 
+malaria, viral hepatitis, typhoid fever, tuberculosis, and amebic liver 
+abscess (see Table 52.13).
+Malaria
+Malaria is transmitted by the bite of an infected mosquito carrying 
+one of the five species of the Plasmodium genus that cause disease in 
+humans. The patient experiences chills, rigors, high fever, diaphore­
+sis, and headaches. The incubation period varies among species, from 
+1 week to several months. Demonstration of the parasite on thick 
+peripheral blood smear is diagnostic. The endemicity of malaria in var­
+ious countries can be checked at http://www.cdc.gov/malaria.
+Viral Hepatitis
+Hepatitis A may be contracted by ingestion of contaminated food or 
+water. Hepatitis B and C viruses are transmitted through blood prod­
+ucts or sexual contact. Symptoms can include fever, malaise, jaundice, 
+hepatomegaly, nausea, and anorexia. Hepatitis B and C can become 
+chronic (see Chapter 18). Initial diagnosis is by serologic testing, with 
+PCR testing for active disease in hepatitis B and C.
+Typhoid Fever (Enteric Fever)
+Enteric fever is caused by infection with Salmonella enterica serovars 
+typhi, paratyphi A, paratyphi B, and paratyphi C. After ingestion of 
+contaminated water or food, the incubation period is usually 1–2 
+weeks, but may be as long as 8 weeks. Persistent fever, headache, mal­
+aise, anorexia, splenomegaly, and rose spots are clinical hallmarks of 
+enteric fever. Diagnosis is by blood culture.
+Tuberculosis
+Tuberculosis may manifest as FUO in children (see Chapters 3 and 48). 
+Affected children may have pulmonary or extrapulmonary disease. 
+The signs and symptoms of pulmonary disease may vary greatly from 
+weight loss, tuberculin skin test conversion, and low-­grade fever to 
+mass effect from mediastinal lymphadenopathy and fulminant dissem­
+inated pulmonary involvement with miliary infiltrates or, in rare cases, 
+cavitation. Pulmonary tuberculous presents as an FUO less commonly 
+than nonpulmonary tuberculosis. Hematogenous spread may cause 
+CNS, liver, heart, or renal involvement. Ingested bacilli may result in 
+gastrointestinal tuberculosis. The diagnosis requires demonstration 
+of acid-­fast bacilli or positive PCR from sputum, gastric aspirate, or 
+the affected organ. Skin testing or interferon-­γ release assays may yield 
+negative results in the case of active tuberculosis.
+Amebiasis
+Intestinal infection with Entamoeba histolytica may produce invasion 
+of the mucosal lining and spread to other organs such as the liver. Ame­
+bic liver abscess may manifest with fever, weight loss, right upper quad­
+rant pain, and anorexia. The patient may have painful hepatomegaly 
+without splenomegaly. The abscess may be localized with abdominal 
+ultrasonography or CT. Diagnosis is by ova and parasite examination 
+of the stool and serology.
+Rheumatic Causes of Fever of Unknown Origin
+Rheumatic diseases are the second most common identified cause of 
+FUO after infections. In a systematic review, the most common causes 
+were JIA and SLE (see Chapter 44).
+Juvenile Idiopathic Arthritis
+JIA is a diagnosis that requires time to identify all manifestations and to 
+exclude other entities. JIA is defined by arthritis of unknown origin that 
+begins in a child younger than 16 years and persists for a minimum of 
+6 weeks. JIA is divided into three subtypes: systemic, polyarticular, and 
+oligoarticular. The systemic form often manifests with prolonged high 
+fever. Affected children often have a daily fever and may have a fine 
+macular rash, arthralgias, arthritis, hepatosplenomegaly, or pericardial 
+involvement. Characteristic laboratory findings include leukocytosis, 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+991
+CHAPTER 52  Fever
+thrombocytosis, and elevated ESR. Polyarticular JIA may manifest with 
+arthritis, low-­grade fever, morning stiffness, anorexia, and weight loss. 
+There is no diagnostic laboratory test for JIA.
+Polyarteritis
+Polyarteritis is a necrotizing vasculitis that may manifest with myalgia, 
+arthralgia, fever, vasculitic skin lesions, and abdominal pain. Cardiac, CNS, 
+and renal involvement may also occur. The ESR is usually markedly ele­
+vated. Biopsy and the presence of antibodies to proteinase 3 and myeloper­
+oxidase (antineutrophil cytoplasmic antibodies) aid with diagnosis.
+Systemic Lupus Erythematosus
+SLE may manifest with fever, photosensitivity, mouth sores, weight loss, 
+rash, myalgias, malaise, fatigue, and hepatosplenomegaly. Patients may 
+also have serositis and renal involvement. Cytopenias are typical. The 
+presence of autoantibodies is common, including antinuclear antibody 
+(ANA), double-­stranded DNA (dsDNA), antibodies to extractable 
+nuclear antigens (ENAs, such as anti-­Smith antibody, anti-­ribonuclear 
+protein antibody, anti-­Ro antibody, and anti-­La antibody), and anti­
+phospholipid antibodies.
+Behçet Syndrome
+Behçet syndrome is very rare in children but may manifest with FUO. 
+Patients may have aphthous stomatitis, arthritis, genital ulcers, uveitis, 
+and erythema nodosum.
+Neoplasms
+Hodgkin lymphoma, lymphoma, neuroblastoma, and leukemia may 
+all manifest as FUO. In young children, leukemia, neuroblastoma, 
+and lymphoma should be suspected, whereas in adolescents, Hod­
+gkin lymphoma and Ewing sarcoma are more common as causes of 
+FUO.
+Hodgkin Lymphoma
+Hodgkin lymphoma may manifest with firm, nontender adenopathy; 
+fever; night sweats; and weight loss. Some patients present with a medi­
+astinal mass with or without respiratory symptoms. Diagnosis is made 
+through biopsy.
+Lymphoma
+Non-­Hodgkin lymphoma may manifest as painless adenopathy, cough 
+or dyspnea from a mediastinal mass, abdominal mass, nerve compres­
+sion, bone pain, fever, and weight loss. Adenopathy and masses may be 
+inapparent on physical examination but found on chest or abdominal 
+imaging. Diagnosis is by biopsy.
+Neuroblastoma
+Neuroblastoma may manifest as abdominal, thoracic, or pelvic masses; 
+spinal cord compression; bone pain; hypertension; hepatomegaly; 
+diarrhea; and fever (see Chapter 20). Diagnosis is aided by radiologic 
+studies and urinary catecholamine measurements and is confirmed by 
+biopsy.
+Leukemia
+Both acute lymphocytic leukemia and acute nonlymphocytic leukemia 
+may manifest with lethargy, pallor, bleeding, fever, bone pain, lymph­
+adenopathy, and arthralgia. Diagnosis is made by blood smear and 
+bone marrow biopsy.
+Pheochromocytoma
+Pheochromocytomas are rare catecholamine-­secreting tumors; 10% 
+occur in children. These tumors manifest with paroxysmal or sustained 
+hypertension, headache, excessive sweating, fever, hyperglycemia, and 
+palpitations. The tumors are usually in the adrenal medulla, but 35% 
+of those occurring in children are multiple or extra-­adrenal. Diag­
+nosis is made by measuring urinary or plasma metanephrine or cat­
+echolamine levels. Localization of tumor is by CT, MRI, or iodine 
+131-­metaiodobenzylguanidine scanning.
+Miscellaneous Causes of Fever of Unknown Origin
+Genetic Diseases (See Chapter 54)
+Familial Mediterranean fever is an autosomal recessive trait seen in 
+people of Sephardic Jewish descent and people of Middle Eastern 
+descent. The fever may be accompanied by joint, abdominal, and chest 
+pain. Anhidrotic ectodermal dysplasia is an X-­linked recessive disor­
+der associated with decreased ability to sweat, dental abnormalities, 
+and sparse hair. Eyebrows and eyelashes may be absent. Fever may 
+result from the inability of the body to cool itself. Diagnosis is made by 
+skin biopsy that shows an absence of eccrine glands.
+Drug Fever
+Drug fever is a diagnosis of exclusion. Some drugs are more likely 
+than others to cause drug fever (α-­methyldopa, phenytoin, penicil­
+lins). There is no characteristic fever pattern. The lag time between 
+the initiation of the drug and onset of fever is highly variable. There is 
+an infrequent association with rash or eosinophilia. Some drugs may 
+cause fever by virtue of physiologic side effects. Anticholinergic drugs 
+may decrease sweating and diminish the body’s ability to cool itself. 
+Chronic salicylate intoxication can cause increased heat production by 
+uncoupling oxidative phosphorylation.
+Kawasaki Disease
+Kawasaki disease may manifest with a variety of signs, including rash; 
+lymphadenopathy; conjunctival hyperemia; strawberry tongue; ery­
+thematous lips; swelling of hands and feet; arthralgia; arthritis; myo­
+carditis; late desquamation of hands, feet, and perineal area; and sterile 
+pyuria. Fever may be high and spiking. Diagnosis is by fulfillment of 
+clinical criteria (see Chapter 53). A subset of patients with MIS-­C will 
+present with features of Kawasaki disease with additional findings, 
+such as coagulopathy, cardiac dysfunction, or shock. A known prior 
+history of infection with the SARS-­CoV-­2 virus or demonstration of 
+prior infection via positive IgG in an unvaccinated individual in the 
+setting of a hyperinflammatory illness suggests MIS-­C rather than 
+Kawasaki disease.
+Inflammatory Bowel Disease
+Inflammatory bowel disease (ulcerative colitis, Crohn disease) may 
+manifest with FUO. Ulcerative colitis may manifest with bloody diar­
+rhea, fever, fecal urgency, and straining (see Chapter 14). Pyoderma 
+gangrenosum, arthritis, and erythema nodosum can also be seen. 
+Crohn disease (regional enteritis) may manifest with abdominal pain, 
+fever, anorexia, and growth failure. Diarrhea may develop later. Arthri­
+tis, erythema nodosum, and finger clubbing may also occur. Diagnosis 
+of inflammatory bowel disease is by endoscopy and histology.
+Thyrotoxicosis
+Hyperthyroid states may manifest with FUO. Physical examination 
+may reveal tremor, tachycardia, palpitations, exophthalmos, lid lag, 
+eyelid retraction, and smooth, flushed skin with diaphoresis. Diagnosis 
+is made from thyroid function studies.
+Factitious Disorders
+Factitious fever may be a form of factitious disorder imposed on self 
+(formerly Munchausen syndrome) or medical child abuse (formerly 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+992
+SECTION 10  Infectious Diseases/Immune/Inflammation
+Munchausen syndrome by proxy) (see Chapter 30). A variety of tech­
+niques have been used to falsely elevate a recorded temperature. A 
+mercury thermometer may be rubbed between hands or placed near 
+a light bulb. Hot liquids may be placed in the mouth before an oral 
+temperature is taken. Hot rectal douches have also been reported to 
+raise a rectally taken temperature. Even with pathologic fevers, there is 
+some circadian rhythm to the temperature curve; with factitious fever 
+there is no rhythm. In addition, there is usually no vasoconstriction, 
+sweating, tachypnea, or tachycardia. If factitious fever is suspected, the 
+temperature should be obtained while the patient is observed. The tem­
+perature of freshly voided urine can also be recorded.
+Other patients may produce actual diseases that cause true fevers, 
+such as by injecting infected pyogenic material subcutaneously or 
+intravenously or by taking toxic levels of thyroid hormone. Once 
+the diagnosis is documented and the safety and security of the child 
+ensured, psychiatric care is indicated.
+Patients with Fever of Unknown Origin in Whom 
+No Diagnosis Is Made
+If no diagnosis is made, most patients are clinically well and asymp­
+tomatic on follow-­up. Some may be determined to be healthy from the 
+start; most are in good health at follow-­up, whereas few have symptoms 
+at the end of evaluation. Some may have relapses of fever for a few 
+months. Diseases such as JIA, inflammatory bowel disease, and PFAPA 
+syndrome may not be immediately diagnosed but usually manifest typ­
+ical symptoms and signs within 2 years of the onset of the FUO.
+   	 S U MMA RY  A N D  R E D  F L A G S
+Many children with fever will have a source identified on their ini­
+tial history and physical examination. Red flags include patients with 
+symptoms or signs of sepsis (tachycardia, hypotension) or meningi­
+tis or encephalitis (fever, headache, irritability, altered mental status, 
+and, for the older child, meningismus). Affected infants with menin­
+gitis are more likely than older children to have subtle and nonspecific 
+symptoms.
+A child with fever of recent onset with no adequate historical or 
+physical explanation for the fever is said to have FWS. Because of the 
+high volume of children with FWS, it is important to have a reliable sys­
+tem for individual patient evaluation and management. Although most 
+patients with FWS have a self-­limited viral illness, up to 10% have an 
+invasive bacterial infection, with young infants at highest risk. Because 
+of the potential for morbidity and mortality from the organisms that 
+cause invasive disease, identification of patients at high risk is essential. 
+Although there is no single, timely series of tests that correctly cate­
+gorizes all patients, the combination of careful clinical evaluation and 
+appropriate laboratory screening criteria can help identify a level of 
+risk in children of different ages. The reduction of bacteremia due to 
+vaccine-­serotype pneumococcus has led to a careful reduction in diag­
+nostic testing, especially in the 3–36-­month-­old child with FWS. Red 
+flags include a history of immunodeficiency or other chronic medical 
+illness, prior episodes of bacteremia, anatomic or functional asplenia, 
+no prior immunizations, toxic appearance, signs of shock, petechiae or 
+purpura, poor responsiveness, and other signs of altered mental status.
+Some children who are initially thought to have FWS develop into 
+patients with FUO. A practical definition of FUO is a temperature 
+higher than 38°C (100.4°F) daily for at least 8–14 days and no diag­
+nosis after an initial evaluation. Work-­up of the patient with FUO 
+should proceed in a stepwise manner. It should be kept in mind that 
+many patients with FUO have unusual, atypical, or complicated man­
+ifestations of common childhood illness, mainly infections. Red flags 
+include weight loss, night sweats, signs of organ system dysfunction or 
+failure, or unstable vital signs suggestive of sepsis (Table 52.14). Only 
+this last category requires empiric antibiotics or deviation for the usual 
+stepwise evaluation of FUO.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+TABLE 52.14  Red Flags for Potentially Serious Febrile Conditions
+History
+Poor appetite
+Weight loss (unintentional)
+Sleep perturbation
+Focal complaints
+High fever longer than 5 days
+Oliguria
+Physical Examination
+Hepatomegaly
+Splenomegaly
+Lymphadenopathy
+Rash (especially petechiae or purpura)
+Wasting
+Clubbing
+Altered mental status
+Focal findings
+Shock (tachycardia hypotension)
+Screening Laboratory Tests
+Anemia
+Hypoalbuminemia
+Lactate dehydrogenase or uric acid elevation
+Immunoglobulin elevation
+Elevated Inflammatory Markers
+Marked leukocytosis or neutropenia
+Bandemia
+Pronounced thrombocytosis or thrombocytopenia
+Markedly Elevated
+ESR
+CRP
+Procalcitonin
+Ferritin
+Fibrinogen (elevated or low)
+From Chusid MJ. Fever of unknown origin in childhood. Pediatr Clin North Am. 2017;64(1):205–230, Box 1.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+992.e1
+BIBLIOGRAPHY
+General
+Bahorski J, Repasky T, Ranner D, et al. Temperature measurement in 
+pediatrics: a comparison of the rectal method versus the temporal artery 
+method. J Pediatr Nurs. 2012;27:243–247.
+Carr EA, Wilmoth ML, Eliades AB. Comparison of temporal artery to rectal 
+temperature measurements in children up to 24 months. J Pediatr Nurs. 
+2011;26:179–185.
+Cimpello LB, Goldman DL, Khine H. Fever pathophysiology. Clin Pediatr 
+Emerg Med. 2000;1:84–93.
+Cunha BA. The clinical significance of fever patterns. Infect Dis Clin N Amer. 
+1996;1:33–44.
+Goldstein B, Giroir B, Randolph A, et al. International Pediatric Sepsis 
+Consensus Conference: definitions for sepsis and organ dysfunction in 
+pediatrics. Pediatr Crit Care Med. 2005;6(1):2–8.
+Sinha M, Jupe J, Mack H, et al. Emerging technologies for molecular diagnosis 
+of sepsis. Clin Microbiol Rev. 2018;31(2):e00089-17.
+Stine CA, Flook DM, Vincze DL. Rectal versus axillary temperatures: is there 
+a significant difference in infants less than 1 year of age? J Pediatr Nurs. 
+2012;27:265–270.
+Sullivan JE, Farrar HC. Fever and antipyretic use in children. Pediatrics. 
+2011;127(3):580–587.
+Tribble AC, Gerber JS, Bilker WB, et al. Impact of rapid diagnostics with 
+antimicrobial stewardship support for children with positive blood 
+cultures: a quasi-­experimental study with time trend analysis. Infect 
+Control Hosp Epidemiol. 2020;41(8):883–890.
+Wolfe M, Bachur R. Serious bacterial infection in recently immunized young 
+febrile infants. Acad Emerg Med. 2009;16(12):1284–1289.
+Fever Without Source
+American Academy of Pediatrics. Reaffirmation of AAP clinical practice 
+guideline: the diagnosis and management of the initial urinary tract 
+infection in febrile infants and young children 2-­24 months of age. 
+Pediatrics. 2016;138(6):e21063026.
+Andreola B, Bressan S, Callegaro S, et al. Procalcitonin and C-­reactive 
+protein as diagnostic markers of severe bacterial infections in febrile 
+infants and children in the emergency department. Pediatr Infect Dis J. 
+2007;26(8):672–677.
+Arora R, Mahajan P. Evaluation of child with fever without source: review of 
+literature and update. Pediatr Clin North Am. 2013;60(5):1049–1062.
+Baraff LJ. Management of fever without source in infants and children. Ann 
+Emerg Med. 2000;36(6):602–614.
+Biondi EA, Lee B, Ralston SL, et al. Prevalence of bacteremia and bacterial 
+meningitis in febrile neonates and infants in the second month of life: a 
+systematic review and meta-­analysis. JAMA Netw Open. 2019;2(3):e190874.
+Colvin JM, Muenzer JT, Jaffe DM, et al. Detection of viruses in young children 
+with fever without an apparent source. Pediatrics. 2012;130(6):e1455–e1462.
+Coulthard MG, Kalra M, Lambert HJ, et al. Redefining urinary tract infections 
+by bacterial counts. Pediatrics. 2010;125(2):335–341.
+Cruz AT, Mahajan P, Bonsu BK, et al. Accuracy of complete blood cell counts 
+to identify febrile infants 60 days or younger with invasive bacterial 
+infections. JAMA Pediatr. 2017;171(11):e172927.
+Dall L, Stanford JF. Fever, chills, and night sweats. In: Walker HK, Hall WD, 
+Hurst JW, eds. Clinical Methods: The History, Physical, and Laboratory 
+Examinations, 3/e. Boston: Butterworths; 1990.
+Farnham AC, Zimmerman CM, Papadouka V, et al. Invasive pneumococcal 
+disease following the introduction of 13-­valent conjugate vaccine 
+in children in New York City from 2007 to 2012. JAMA Pediatr. 
+2015;169(7):646–652.
+Greenhow TL, Hung YY, Herz AM, et al. Changing epidemiology of serious 
+bacterial infection in young infants. Pediatr Infect Dis J. 2014;33(6):595–599.
+Greenhow TL, Hung YY, Herz A. Bacteremia in children 3 to 36 months 
+old after introduction of conjugated pneumococcal vaccines. Pediatrics. 
+2017;139(4):e20162098.
+Huppler AR, Eickhoff JC, Wald ER. Performance of low-­risk criteria in the 
+evaluation of young infants with fever: review of the literature. Pediatrics. 
+2010;125(2):228–233.
+Kuppermann N, Dayan PS, Levine DA, et al. A clinical prediction rule to 
+identify febrile infants 60 days and younger at low risk for serious bacterial 
+infections. JAMA Pediatr. 2019;173(4):342–351.
+Milcent K, Faesch S, Gues CG, et al. Use of procalcitonin assays to predict 
+serious bacterial infection in young febrile infants. JAMA Pediatric. 
+2016;170(1):62–69.
+Mischler M, Ryan MS, Leyenaar JK, et al. Epidemiology of bacteremia 
+in previously healthy febrile infants: a follow-­up study. Hosp Pediatr. 
+2015;5(6):293–300.
+Nigrovic LE, Mahajan PV, Blumberg SM, et al. The Yale Observation Scale 
+Score and the risk of serious bacterial infections in febrile infants. 
+Pediatrics. 2017;140(1):e20170695.
+Ogoina D. Fever, fever patterns and diseases called “fever” – a review. J Infec 
+Public Health. 2011;4:108–124.
+Pantell RH, Newman TB, Bernzwig J, et al. Management and outcomes of care 
+of fever in early infancy. J Am Med Assoc. 2004;291(10):1203–1212.
+Pantell RH, Roberts KB, Adams WG, et al. Evaluation and management of 
+well-appearing febrile infants 8 to 60 days old. Pediatrics. 2021;148(2).
+Powell EC, Mahajan PV, Roosevelt G, et al. Epidemiology of bacteremia in febrile 
+infants aged 60 days and younger. Ann Emerg Med. 2018;71(2):211–216.
+Sanders S, Barnett A, Correa-­Velez I, et al. Systematic review of the 
+diagnostic accuracy of C-­reactive protein to detect bacterial infection in 
+nonhospitalized infants and children with fever. J Pediatr. 2008;153:570–574.
+Shaikh N, Hoberman A, Hum S, et al. Development and validation of a 
+calculator for estimating the probability of urinary tract infection in young 
+febrile children. JAMA Pediatr. 2018;172(6):550–556.
+Shaikh N, Morone NE, Bost JE, et al. Prevalence of urinary tract infection in 
+childhood—a meta-­analysis. Pediatr Infect Dis J. 2008;27:302–308.
+Tam PI, Madoff LC, Coombes B, et al. Invasive pneumococcal disease 
+after implementation of 13-­valent conjugate vaccine. Pediatrics. 
+2014;134(2):210–217.
+Tzimenatos L, Mahajan P, Dayan PS, et al. Accuracy of the urinalysis for 
+urinary tract infections in febrile infants 60 days and younger. Pediatrics. 
+2018;141(2):e20173068.
+Van den Bruel A, Haj-­Hassan T, Thompson M, et al. Diagnostic value of 
+clinical features at presentation to identify serious infection in children in 
+developed countries: a systematic review. Lancet. 2010;375:834–845.
+Whitney C, Farley M, Hadler J, et al. Decline in invasive pneumococcal disease 
+after the introduction of protein-­polysaccharide conjugate vaccine. N Engl 
+J Med. 2003;348:1737–1746.
+Yo CH, Hsieh PS, Lee SH, et al. Comparison of the test characteristics of 
+procalcitonin to C-­reactive protein and leukocytosis for the detection 
+of serious bacterial infections in children presenting with fever without 
+source: a systematic review and meta-­analysis. Ann Emerg Med. 
+2012;60(5):591–600.
+Central Nervous System Infection
+Avery RA, Licht DJ, Shah SS, et al. CSF opening pressure in children with optic 
+nerve head edema. Neurology. 2011;76:1658–1661.
+Avery RA, Shah SS, Licht DJ, et al. Reference range for cerebrospinal fluid 
+opening pressure in children. N Engl J Med. 2010;363(9):891–892.
+Byington CL, Kendrick J, Sheng X. Normative cerebrospinal fluid profiles in 
+febrile infants. J Pediatr. 2011;158(1):33–37.
+Chadwick SL, Wilson JW, Levin JE, et al. Cerebrospinal fluid characteristics of 
+infants who present to the emergency department with fever. Pediatr Infect 
+Dis J. 2011;30:e63–e67.
+Curtis S, Stobart K, Vandermeer B, et al. Clinical features suggestive of 
+meningitis in children: a systematic review of prospective data. Pediatrics. 
+2010;126(5):952–960.
+Freedman SB, Marrocco A, Pirie J, et al. Predictors of bacterial meningitis 
+in the era after Haemophilus influenzae. Arch Pediatr Adolesc Med. 
+2001;155:1301.
+Gable MS, Sheriff H, Dalmau J, et al. The frequency of autoimmune N-­
+methyl-­D-­aspartate receptor encephalitis surpasses that of individual viral 
+etiologies in young individuals enrolled in the California Encephalitis 
+Project. Clin Infect Dis. 2012;54:899–904.
+Kanegaye JT, Soliemanzadeh P, Bradley JS. Lumbar puncture in pediatric 
+bacterial meningitis: defining the time interval for recovery of 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+Bibliography
+992.e2
+cerebrospinal fluid pathogens after parenteral antibiotic pretreatment. 
+Pediatrics. 2001;108:1169.
+Kim KS. Acute bacterial meningitis in infants and children. Lancet Infect Dis. 
+2010;10(1):32–42.
+Kimberlin DW, Lin CY, Jacobs RF, et al. Natural history of neonatal 
+herpes simplex virus infections in the acyclovir era. Pediatrics. 
+2001;108:223.
+Kimberlin DW, Lin CY, Jacobs RF, et al. Safety and efficacy of high-­dose 
+intravenous acyclovir in the management of neonatal herpes simplex virus 
+infections. Pediatrics. 2001;108:230.
+Kulik DM, Uleryk EM, Maguire JL. Does this child have bacterial meningitis? 
+A systematic review of clinical prediction rules for children with suspected 
+bacterial meningitis. J Emerg Med. 2013;45(4):508–519.
+Lee MW, Vedanarayanan VV. Cerebrospinal fluid opening pressure in 
+children: experience in a controlled setting. Pediatr Neurol. 2011;45:238–
+240.
+Nigrovic LE, Malley R, Kuppermann N. Meta-­analysis of bacterial meningitis 
+score validation studies. Arch Dis Child. 2012;97(9):799–805.
+Wong M, Schlaggar BL, Buller RS, et al. Cerebrospinal fluid protein 
+concentration in pediatric patients. Arch Pediatr Adolesc Med. 
+2000;154:827.
+Fever of Unknown Origin
+American Academy of Pediatrics. Report of the Committee on Infectious 
+Diseases. 31th ed. Itaska, IL: American Academy of Pediatrics; 2018.
+Antoon JW, Potisek NM, Lohr JA. Pediatric fever of unknown origin. Pediatr 
+Rev. 2015;36(9):380–390.
+Centers for Disease Control and Prevention. Malaria. [Updated 8-­20-­2020; 
+cited 8-­29-­2020.] Available from: http://www.cdc.gov/malaria.
+Chovel-­Sella A, Ben Tov A, Lahav E, et al. Incidence of rash after amoxicillin 
+treatment in children with infectious mononucleosis. Pediatrics. 
+2013;131:e1424.
+Chow A, Robinson JL. Fever of unknown origin in children: a systematic 
+review. World J Pediatr. 2011;7(1):5–10.
+Chusid MJ. Fever of unknown origin in childhood. Pediatr Clin North Am. 
+2017;64(1):205–230.
+Hocqueloux L, Guinard J, Buret J, et al. Do penicillins really increase the 
+frequency of a rash when given during Epstein-­Barr virus primary 
+infection? Clin Infect Dis. 2013;57:1661–1662.
+Kouijzer IJE, Mulders-­Manders CM, Bleeker-­Rovers CP, et al. Fever of unknown 
+origin: the value of FDG-­PET/CT. Semin Nucl Med. 2018;48(2):100–107.
+Palazzi DL, McClain DL, Kaplan SL. Hemophagocytic syndrome in children: 
+an important diagnostic consideration in fever of unknown origin. Clin 
+Infect Dis. 2003;36(3):306–312.
+Pizzo PA, Lovejoy FH, Smith DH. Prolonged fever in children: review of 100 
+cases. Pediatrics. 1975;55:468–473.
+Talano JAM, Katz BZ. Long-­term follow-­up of children with fever of unknown 
+origin. Clin Pediatr (Phila). 2000;39:715–717.
+Weakley KE, Marshall GS, Statler VA. Long-­term health outcomes of patients 
+evaluated for unexplained fever in a pediatric infectious diseases clinic. J 
+Pediatric Infect Dis Soc. 2020;9(4):494–497.
+Woods CR. Rocky Mountain spotted fever in children. Pediatr Clin North Am. 
+2013;60(2):455–470.
+Zhou W, Tan Z, Li Y, et al. Human herpes viruses are associated with 
+classic fever of unknown origin (FUO) in Beijing patients. PloS One. 
+2014;9(9):e110077.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

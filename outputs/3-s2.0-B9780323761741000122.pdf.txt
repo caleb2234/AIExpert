@@ -1,0 +1,3191 @@
+203
+SECTION 4  Gastrointestinal Disorders
+Calories from food provide energy for the body’s maintenance func­
+tions of repair, regulation, metabolism, replacement of losses, and daily 
+activity. Children have additional caloric requirements because they 
+are growing. Children under the age of 3 years whose caloric needs 
+are not met do not grow according to published norms and are said 
+to have failure to thrive (FTT) or growth faltering. FTT raises serious 
+concerns. It is important to have a systematic, stepwise approach to the 
+diagnosis and management of poor growth in young children and to 
+follow growth over time.
+The term failure to thrive describes growth failure that accompa­
+nies many pathologic as well as psychosocial causes. Differentiation 
+between organic (biomedical) and nonorganic (psychosocial/environ­
+mental) is not always useful; children often have a combination of psy­
+chosocial and biomedical problems. Children with medical conditions 
+will often have psychosocial issues related to eating and dysfunctional 
+feeding patterns. Children with primarily social or emotional issues 
+around eating may develop medical consequences of undernutrition.
+The best diagnostic tool available to the clinician is a comprehensive 
+history, including diet, growth (over time), family and social histories, 
+and a complete review of systems. A thorough physical examination 
+is necessary. Further work-­up should be directed by results from this 
+initial evaluation. There is a poor yield from exhaustive laboratory 
+evaluations. Children with either biomedical or psychosocial causes of 
+FTT may or may not gain weight in institutional settings; short-­term 
+outcome may not be diagnostic.
+NORMAL GROWTH
+Newborns typically lose up to 10–12% of their birthweight during the 
+first few days of life and regain this weight by the age of 2 weeks. Sub­
+sequently, they gain weight at a steady pace of about 1 ounce per day 
+for the first 2 or 3 months; they gain at half to two thirds that rate for 
+the next 3 months and half to two thirds again for the next 6 months. 
+This results in a doubling of birthweight by the age of 4–6 months and a 
+tripling at about 1 year. Height and head circumference grow at similar 
+well-­defined rates. These three growth parameters, along with weight/
+length, should be plotted on appropriate growth charts and monitored 
+for adherence to standard growth rates. Children grow in a stepwise 
+manner, but on average their growth pattern follows the accepted 
+curves (see Chapter 56). Online tools are available to assist with the 
+determination of growth status (http://peditools.org).
+By the age of 3 years, if caloric intake is normal, the child’s growth 
+adjusts to their genetic potential. Ultimate height is determined by 
+additional factors, among them rates of bone maturity and pubertal 
+development (see Chapter 56). Considerable energy from ingested 
+food is required to achieve this growth. The energy balance can be 
+described by the following equation, in which E equals energy:
+	
+EIN = EOUT + Egrowth + Estored	
+EOUT is the sum of the basal metabolic rate, energy expended in 
+physical activity, and energy needed for food digestion. Children 
+should be in a positive energy balance for growth. Any imbalance in 
+this energy equation (losing or using more calories than are ingested) 
+results in abnormal growth patterns. Weight is usually affected first, 
+followed by height and finally head circumference if the energy imbal­
+ance is severe and prolonged in young children.
+DEFINITIONS
+FTT is a sign, not a diagnosis. FTT is generally used to describe chil­
+dren younger than 2 or 3 years who meet any of the following criteria:
+	1.	 Growth under the third percentile on World Health Organization 
+(WHO) weight-­for-­age growth charts (less than 2 standard devia­
+tions [SD] below mean)
+	2.	 Weight for height or body mass index (BMI) less than the third per­
+centile
+	3.	 Growth patterns that have crossed two major percentiles downward 
+on the weight-­for-­age charts within 6 months
+	4.	 Growth velocity less than normal for age
+There are inherent problems with these definitions. Two percent of 
+the normal population is under 2 SD below the mean; those who are 
+growing appropriately per their genetic potential must be differentiated 
+from those with growth problems. The child who has been obese and is 
+now approaching normal weight, crossing major weight percentiles in 
+the process, should not be considered a child with FTT. Some children 
+are naturally slim. The clinician must exercise considerable judgment 
+before raising the concern of poor growth.
+Additional terms are used to describe children who are not growing 
+well. A child has wasting if the weight for length (or height) is below 
+–2 SD (or −2 z-­scores, which is equal to <2nd centile). Stunting is 
+defined as a child whose height or length is less than −2 z-­scores due to 
+chronic undernutrition. In the third year of life, children are described 
+Failure to Thrive
+Susan Feigelman and Virginia Keane
+12
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+204
+SECTION 4   Gastrointestinal Disorders
+as underweight if weight/age is <3% or if BMI is <5%. Short stature or 
+microcephaly alone is not due to nutritional deficiencies (Table 12.1).
+INTERPRETATION OF GROWTH CHARTS
+The evaluation for any child who is not growing well includes a care­
+ful analysis of the growth pattern over time. Measurements of length 
+are the most susceptible to error; standard procedures should be used 
+(see Chapter 56). Possible errors in weight, head circumference, date of 
+birth, or plotting on the growth chart should all be considered. Once 
+the correct data are available, the charts should be examined to answer 
+the following questions:
+ • Are the measurements of length and weight proportional?
+ • Has the head grown adequately?
+ • How severe are the deficits of each measurement, relative to what is 
+expected?
+ • When did the problem start; what is the progression?
+ • What environmental factors were present at the start of this process 
+(weaning, introduction of new foods, food insecurity)?
+Although weight is usually the most readily available measurement, 
+measurement of length is particularly critical, because it serves as the 
+point of reference for other diagnostic considerations. The best way to 
+obtain accurate length measurements is to use a specially calibrated 
+length board with a fixed headpiece and a movable footpiece. In the 
+absence of such a device, the examiner can use a table or desk with the 
+infant’s head pressed against the wall and a firm square box or thick 
+textbook for the sliding footer. Measurements obtained with the infant 
+lying on a mattress and marked with a pen on the sheet are not accurate 
+(see Chapter 56).
+The choice of growth curves is important. In the United States, the 
+recommendation is to use the WHO charts from birth through the sec­
+ond year of life (http://www.cdc.gov/growthcharts/who_charts.htm) 
+(see Chapter 56). Some children previously classified as FTT will fall 
+into the normal range. Their health status may be poorer than those 
+within normal ranges on both charts. The 2000 age-­ and gender-­
+specific National Center for Health Statistics growth charts published 
+by the Centers for Disease Control and Prevention combined data 
+across geographic and ethnic populations and are appropriate to use 
+for children over 24 months of age.
+Conventions (for premature infants) differ in whether to plot age in 
+relation to actual birth date or to use corrected gestational age. Growth 
+charts following children prenatally to infancy are available (see Fenton 
+and Olsen at http://peditools.org). Beyond the equivalent of 40 weeks 
+of gestation, standard charts can be used, keeping in mind that prema­
+ture infants may not catch up on all parameters for 2 or 3 years.
+Because infants with FTT no longer follow their growth curves, the 
+usual convention of expressing growth measurements in relation to 
+normal percentiles is not always useful; weight/length or BMI z-­scores 
+better define and assess the degree of malnutrition. Children with 
+moderate wasting have weight for height below −2 SD of the WHO 
+Child Growth Standards median; severe wasting is defined as weight 
+for height below −3 SD.
+It is important to note the following points:
+	1.	 Infants and toddlers who are short in proportion to weight should 
+be considered to have primary growth problems, including vari­
+ous endocrine (often growth hormone) and skeletal dysplasias (see 
+Chapter 56) (see Table 12.1).
+	2.	 Infants who have had inadequate caloric intake will be abnormally 
+thin. If the problem developed at some time after birth, weight will 
+drop off before changes in length or head circumference.
+	3.	 Infants with disproportionately small heads may have primary neu­
+rologic or genetic (monogenetic, microdeletion, aneuploidy, syn­
+dromic) problems affecting brain growth because head growth is 
+the last to be affected by malnutrition and is not characteristic of 
+primary skeletal growth problems (see Table 12.1). An alternative 
+diagnosis is craniosynostosis, or early closure of skull growth plates.
+Several examples of how these patterns may be interpreted are 
+presented in Figures 12.1 to 12.4. Growth charts adjusted for abnor­
+mal head size (micro-­ or macrocephaly) are not available. This factor 
+becomes relatively less important as the child ages, but during infancy 
+it may significantly affect the weight percentile and requires clinical 
+judgment to assess.
+Syndrome-­specific growth charts have been developed for certain 
+populations (e.g., trisomy 21, skeletal dysplasias). Their use is most 
+appropriate for conditions that affect muscle and bone development 
+(e.g., Russell-­Silver syndrome). All other disease-­specific charts should 
+be used in conjunction with the WHO charts. Accuracy of some of 
+these charts is suspect.
+EPIDEMIOLOGY
+FTT is found in all populations but has a higher prevalence among 
+children of low socioeconomic status compared to those in higher 
+socioeconomic groups. FTT accounts for up to 5% of all hospitaliza­
+tions; up to 10% of children may have FTT at some point in time. Most 
+affected children with nutritional problems present before the age of 
+3 years.
+CLINICAL PRESENTATION
+Parents often voice concerns about their young child’s weight gain. 
+They may complain that their child is a picky eater or seems not to 
+drink enough formula, or they worry that breast milk supply is inade­
+quate. Very commonly, parents complain that their child is not as big 
+TABLE 12.1  Three Major Anthropologic Categories of Failure to Thrive
+Weight
+Length/
+Height
+Weight/Length 
+or BMI
+Head 
+Circumference
+Associated Diseases
+Type I
+Decreased
+Decreased/
+normal
+Decreased
+Normal
+Malnutrition of organic or nonorganic etiology, usually secondary to intesti­
+nal, pancreatic, or liver diseases; systemic illness; or psychosocial factors
+Type II
+Decreased
+Decreased
+Increased, decreased, 
+or normal
+Normal
+Endocrinopathies, bony dystrophy, constitutional or genetic short stature
+Type III
+Decreased
+Decreased
+Increased, decreased, 
+or normal
+Decreased
+Chromosomal (including microdeletions), metabolic disease, intrauterine 
+and perinatal insults, severe malnutrition, congenital syndromes
+Modified from Shashidar H, Toila V. Failure to thrive. In: Wyllie R, Hyams JS, Kay M, eds. Pediatric Gastrointestinal and Liver Disease. 4th ed. 
+Philadelphia: Elsevier; 2011:137.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+205
+CHAPTER 12  Failure to Thrive
+as a similar-­aged child or a sibling at that age. Many such children are 
+growing normally. Plotting the child’s growth and reviewing it with 
+the parents may be reassuring, or it may serve to confirm the parents’ 
+concerns. When families raise concerns about growth, regardless of 
+whether a problem exists, the child and the weight have already become 
+a focus of concern for that family. Often parents have already put a 
+great deal of effort into changing the child’s eating patterns, leading 
+to intrafamily conflict. In this setting, conversations about the child’s 
+growth may carry a high emotional charge.
+However, it is often the physician who is first to raise concerns. 
+These suspicions can be confirmed by carefully plotting the growth 
+parameters. The clinician must then prioritize the clinical issues and 
+decide whether the FTT should be addressed immediately or deferred 
+for evaluation and management at another time in the very near future. 
+In rare cases, the growth failure is so severe that immediate hospital­
+ization is indicated for nutritional rehabilitation. In this case, the 
+evaluation can take place over several days, while therapeutic nutri­
+tional interventions are ongoing.
+APPROACH TO DETERMINING ETIOLOGY
+Clinicians need to have a broad approach to determining etiology of 
+FTT for each child. Many children with FTT, particularly those with 
+chronic diseases, have a mixed pattern of increased needs or losses 
+attributable to organic causes, along with environmental causes lead­
+ing to calorie deprivation.
+There are several growth conditions that result in smaller than nor­
+mal size that are not due to calorie insufficiency. Infants who are born 
+symmetrically small in all growth parameters are believed to have a 
+reduced number of somatic cells in relation to their normal-­sized peers 
+as a result of an early intrauterine event. Infants who are asymmetrically 
+small for gestational age, with sparing of the head circumference and 
+in
+ 
+AGE (MONTHS)
+AGE (MONTHS)
+33
+36
+30
+27
+24
+21
+18
+15
+12
+9
+6
+3
+B
+33
+36
+30
+27
+24
+21
+18
+15
+12
+9
+6
+3
+B
+105
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+cm
+cm
+in
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+B
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+33
+36
+30
+27
+24
+21
+18
+15
+12
+9
+6
+3
+H
+E
+A
+D
+C
+I
+R
+C
+U
+M
+F
+E
+R
+E
+N
+C
+E
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+kg
+46
+44
+42
+40
+38
+36
+34
+32
+30
+28
+26
+24
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+GIRLS: BIRTH TO 36 MONTHS
+PHYSICAL GROWTH 
+NCHS PERCENTILES*
+GIRLS: BIRTH TO 36 MONTHS
+PHYSICAL GROWTH 
+NCHS PERCENTILES*
+L
+E
+N
+G
+T
+H
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+13
+42
+41
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+W
+E
+I
+G
+H
+T
+kg lb
+41
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+12
+11
+10
+9
+8
+7
+6
+5
+4
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+100
+19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39
+AGE (MONTHS)
+40
+95
+90
+75
+50
+25
+10
+5
+95
+90
+75
+50
+25
+10
+5
+95
+90
+75
+50
+25
+10
+5
+LENGTH
+W
+E
+I
+G
+H
+T
+lb
+95
+90
+75
+50
+25
+10
+5
+cm
+in
+RECORD#
+                                                       RECORD#
+NAME
+NAME
+Fig. 12.1  Growth curve of an infant female with unexplained chronic failure to thrive, which affected weight 
+and head growth more than length, which suggested an organic disorder. Intrauterine growth restriction with­
+out postnatal catch-­up growth is demonstrated (see Chapter 56). (Modified from National Center for Health 
+Statistics: NCHS growth charts. Monthly Vital Statistics Report. 1976;25:76–1120. Rockville, MD: Health 
+Resources Administration, June 1976. Data from The Fels Research Institute, Yellow Springs, Ohio. Copyright 
+1976, Ross Laboratories.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+206
+SECTION 4   Gastrointestinal Disorders
+possibly length, had a late intrauterine event, such as poor maternal 
+nutrition or placental insufficiency. These infants often eat voraciously 
+and experience catch-­up growth early in life. Children with constitu­
+tional growth delay usually grow normally over the first few years, but 
+weight and height decelerate to near or below the 2nd percentile fol­
+lowed by growth at normal rates along their new curve (see Chapter 
+56). The symmetric deceleration of height and weight is a clue that the 
+child does not have calorie insufficiency. Children with genetic causes 
+of short stature have short height for age with appropriate low weight 
+(see Table 12.1).
+Children with FTT caused by calorie insufficiency typically have 
+decreased weight gain, at first with sparing of height and head circum­
+ference (wasting). Long-­standing calorie insufficiency results in height 
+deceleration (stunting). Decrease in height or length is the best pre­
+dictor of chronic malnutrition. Only in the worst, long-­standing cases 
+is head growth decreased. This typical pattern suggests calorie insuffi­
+ciency and informs the clinician of the chronicity of the problem.
+There are several approaches to the differential diagnosis. The func­
+tional approach determines whether there is a problem with inade­
+quate calorie intake, increased calorie requirement or utilization, or 
+increased calorie loss (Table 12.2). The systems approach focuses on 
+the identification of the organ system(s) responsible for poor growth 
+(Table 12.3).
+Another approach is to consider the age at onset, the child’s devel­
+opmental level, and the conditions likely to manifest at that stage of 
+development. The causes of prenatal growth problems include environ­
+mental toxins, maternal drug and alcohol use, prenatal infection, con­
+genital syndromes, placental insufficiency, and poor prenatal nutrition. 
+Poor growth immediately after birth can be associated with maternal 
+postpartum depression, bonding and attachment disorders, incorrect 
+formula preparation, failure to establish breast-­feeding, and congenital 
+anomalies or metabolic conditions. Difficulty with transition to solid 
+foods results in poor growth from 6 to 12 months. In children older 
+than 9 months, issues of separation and autonomy may result in power 
+ 
+AGE (MONTHS)
+AGE (MONTHS)
+33
+36
+30
+27
+24
+21
+18
+15
+12
+9
+6
+3
+B
+33
+36
+30
+27
+24
+21
+18
+15
+12
+9
+6
+3
+B
+105
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+cm
+cm
+in
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+B
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+33
+36
+30
+27
+24
+21
+18
+15
+12
+9
+6
+3
+H
+E
+A
+D
+C
+I
+R
+C
+U
+M
+F
+E
+R
+E
+N
+C
+E
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+kg
+46
+44
+42
+40
+38
+36
+34
+32
+30
+28
+26
+24
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+BOYS: BIRTH TO 36 MONTHS
+PHYSICAL GROWTH 
+NCHS PERCENTILES*
+BOYS: BIRTH TO 36 MONTHS
+PHYSICAL GROWTH 
+NCHS PERCENTILES*
+L
+E
+N
+G
+T
+H
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+13
+42
+41
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+W
+E
+I
+G
+H
+T
+kg lb
+41
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+12
+11
+10
+9
+8
+7
+6
+5
+4
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+100
+19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39
+AGE (MONTHS)
+40
+95
+90
+75
+50
+25
+10
+5
+95
+90
+75
+50
+25
+10
+5
+95
+90
+75
+50
+25
+10
+5
+95
+90
+75
+50
+25
+10
+5
+LENGTH
+W
+E
+I
+G
+H
+T
+lb
+NAME
+RECORD#
+in
+cm
+in
+NAME
+RECORD#
+Fig. 12.2  Growth curve of an infant male with untreated growth hormone deficiency. Note that weight and 
+length remain proportionate, whereas head growth is less affected. (Modified from National Center for Health 
+Statistics: NCHS growth charts. Monthly Vital Statistics Report. 1976;25:76–1120. Rockville, MD: Health 
+Resources Administration, June 1976. Data from The Fels Research Institute, Yellow Springs, Ohio. Copyright 
+1976, Ross Laboratories.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+207
+CHAPTER 12  Failure to Thrive
+struggles over eating, resulting in insufficient intake. For toddlers, poor 
+food choices (empty calories found in juice drinks and snack foods), 
+dysfunctional feeding interaction (restriction of self-­feeding or lack of 
+structure around meals), and distraction (chaotic home environment, 
+television and electronic devices) may interfere with adequate food 
+intake.
+History
+The history is the most important part of the evaluation of the child 
+with FTT and guides the evaluation.
+History of the Present Illness
+The clinician who first notices poor growth should identify whether the 
+family perceives a problem. What is the family members’ perception 
+of the child’s food intake? When, if ever, was the problem suspected? 
+What changes have they made to address the problem? Asking these 
+questions in a nonjudgmental manner will reassure the family that the 
+clinician regards them as partners in the task of improving the child’s 
+growth.
+A detailed feeding history should start with infant feeding; dietary 
+sources and growth patterns should be chronologically reviewed. Was 
+the child breast-­ or formula-­fed? If breast-­fed, were there any problems 
+with milk sufficiency? Did the mother feel emotionally supported in 
+her choice to breast-­feed? If the child was formula-­fed, what was the 
+formula; how was it mixed; was there ever any reason to change for­
+mula? Was feeding a pleasurable or a difficult experience for the par­
+ent and child? These questions may give insight into problematic early 
+parent-­child interaction.
+If the child is beyond infancy, when and how were solid foods 
+introduced? Were there any specific food refusals that might indicate 
+an allergy or intolerance? How did the child accept solids? What are the 
+child’s food preferences? When did the child start to self-­feed and how 
+ 
+AGE (MONTHS)
+AGE (MONTHS)
+33
+36
+30
+27
+24
+21
+18
+15
+12
+9
+6
+3
+B
+33
+36
+30
+27
+24
+21
+18
+15
+12
+9
+6
+3
+B
+105
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+cm
+cm
+in
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+B
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+33
+36
+30
+27
+24
+21
+18
+15
+12
+9
+6
+3
+C
+I
+R
+C
+U
+M
+F
+E
+R
+E
+N
+C
+E
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+kg
+46
+44
+42
+40
+38
+36
+34
+32
+30
+28
+26
+24
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+BOYS: BIRTH TO 36 MONTHS
+PHYSICAL GROWTH 
+INCH PERCENTILES*
+BOYS: BIRTH TO 36 MONTHS
+PHYSICAL GROWTH 
+INCH PERCENTILES*
+L
+E
+N
+G
+T
+H
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+13
+42
+41
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+W
+E
+I
+G
+H
+T
+kg lb
+41
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+12
+11
+10
+9
+8
+7
+6
+5
+4
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+100
+19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39
+AGE (MONTHS)
+40
+95
+90
+75
+50
+25
+10
+5
+95
+90
+75
+50
+25
+10
+5
+95
+90
+75
+50
+25
+10
+5
+LENGTH
+W
+E
+I
+G
+H
+T
+lb
+95
+90
+75
+50
+25
+10
+5
+NAME
+RECORD#
+NAME
+RECORD#
+in
+HEAD
+cm
+in
+Fig. 12.3  Growth curve of an infant male with severely impaired head growth, poor weight gain, and less 
+impairment of length. Most obvious is the marked microcephaly associated with developmental delay, sug­
+gestive of an underlying neurologic disorder. (Modified from National Center for Health Statistics: NCHS 
+growth charts. Monthly Vital Statistics Report. 1976:25:76–1120. Rockville, MD: Health Resources Admin­
+istration, June 1976. Data from The Fels Research Institute, Yellow Springs, Ohio. Copyright 1976, Ross 
+Laboratories.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+208
+SECTION 4   Gastrointestinal Disorders
+did the family manage messiness? Where does the child eat? Is there 
+a high chair or booster seat? Are there family meals, or does the child 
+eat alone? What is going on in the immediate environment when the 
+child is eating? Did a traumatic event trigger the eating problem? These 
+questions can reveal dysfunctional eating behaviors that can affect the 
+child’s intake.
+Questions about unusual eating habits or pica may indicate nutri­
+tional deficiencies, such as iron deficiency (Table 12.4). Children with 
+difficult temperaments may have problematic eating behaviors. Are the 
+parents forcing the child to eat?
+Does the child have difficulty taking or manipulating food in the 
+mouth? Is there frequent choking on food? Does the child drool? Is 
+there food refusal or aversion suggesting dysphagia? If the response 
+to any of these questions is confirmatory, consider difficulty with 
+oral motor control. This is common among children with neurologic 
+problems.
+Obtaining a daily schedule of meals and activities is very helpful. 
+What foods are prepared and offered by other caregivers? Is there a 
+difference in how the child eats when the child is with the parents in 
+comparison to other caretakers?
+A careful dietary history is imperative. The 24-­hour recall is stan­
+dard, although some authorities question its validity. The clinician asks 
+the parent to remember everything the child ate in the past 24 hours 
+and whether that was a typical day. It is helpful to start with the present 
+and work backward. Alternatively, the parent may keep a 3-­day food 
+diary. The diary should be structured so that the type of food, quantity, 
+in
+ 
+AGE (MONTHS)
+AGE (MONTHS)
+33
+36
+30
+27
+24
+21
+18
+15
+12
+9
+6
+3
+B
+33
+36
+30
+27
+24
+21
+18
+15
+12
+9
+6
+3
+B
+105
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+cm
+cm
+in
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+B
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+33
+36
+30
+27
+24
+21
+18
+15
+12
+9
+6
+3
+C
+I
+R
+C
+U
+M
+F
+E
+R
+E
+N
+C
+E
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+kg
+46
+44
+42
+40
+38
+36
+34
+32
+30
+28
+26
+24
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+BOYS: BIRTH TO 36 MONTHS
+PHYSICAL GROWTH 
+NCHS PERCENTILES*
+BOYS: BIRTH TO 36 MONTHS
+PHYSICAL GROWTH 
+NCHS PERCENTILES*
+L
+E
+N
+G
+T
+H
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+13
+42
+41
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+W
+E
+I
+G
+H
+T
+kg lb
+41
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+12
+11
+10
+9
+8
+7
+6
+5
+4
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+100
+19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39
+AGE (MONTHS)
+40
+95
+90
+75
+50
+25
+10
+5
+95
+90
+75
+50
+25
+10
+5
+95
+90
+75
+50
+25
+10
+5
+95
+90
+75
+50
+25
+10
+5
+LENGTH
+W
+E
+I
+G
+H
+T
+lb
+NAME
+RECORD#
+cm
+in
+NAME
+RECORD#
+HEAD
+Fig. 12.4  Growth curve of an infant male with acute weight loss and catch-­up weight gain. Before the age 
+of 41/2 months, there was normal growth while he was breast-­feeding. After a change to an inadequate 
+weaning diet, severe weight loss developed, but less impairment of length occurred. Head size was not 
+affected. An acute episode of diarrhea led to multiple dietary changes that resulted in further weight loss. 
+With a proper diet history, nutritional rehabilitation with a balanced diet resolved this child’s problem. This 
+may also be a pattern of a child with celiac disease. (Modified from National Center for Health Statistics: 
+NCHS growth charts. Monthly Vital Statistics Report. 1976:25:76–1120. Rockville, MD: Health Resources 
+Administration, June 1976. Data from The Fels Research Institute, Yellow Springs, Ohio. Copyright 1976, 
+Ross Laboratories.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+209
+CHAPTER 12  Failure to Thrive
+method of preparation, and amount eaten are recorded; beverages 
+should be included. The caregiver should receive prior instruction 
+regarding how to estimate portions and to include only what the child 
+actually eats.
+Diet review is a good opportunity to explore parental beliefs 
+about food and the feeding of children (e.g., children must drink 
+water, they need lots of milk, juice is good for them, fat should be 
+restricted to prevent obesity and heart disease). It may be useful to 
+explore parent assumptions about food based on their own experi­
+ences or beliefs. The parent who sees the child as vulnerable may 
+be overanxious and rigid about food intake. Cultural norms may 
+dictate certain food choices, which may not provide optimal nutri­
+tion. Vegetarian diets may provide insufficient protein, vitamins D 
+and B12, and iron. Parents may substitute goat’s milk (deficient in 
+folate) or rice or almond milk (low in protein) for cow’s milk–based 
+nutrition.
+Medical History
+The prenatal and perinatal history begins with the mother’s age, 
+general health, and parity. Was this pregnancy planned? What were 
+the parents’ reactions to the pregnancy? Did the mother have any 
+emotional problems during or before her pregnancy? What was her 
+alcohol, tobacco, and drug intake during pregnancy? When was prena­
+tal care begun? Were there sufficient visits to monitor the pregnancy? 
+How much weight did she gain? Were there any complications such as 
+sexually transmitted and other infections? Were they hoping for a boy 
+or a girl?
+The perinatal history includes problems with labor, method of deliv­
+ery, gestational age, and the newborn’s growth parameters at birth (i.e., 
+appropriate [AGA], small [SGA], or large [LGA] for gestational age). 
+Is this an SGA infant who needs extra calories for catch-­up growth 
+or a newborn with intrauterine growth restriction who is small in all 
+growth parameters? Did the baby have any problems in the nursery? A 
+nursery stay of more than 2–3 days following a vaginal birth may indi­
+cate a problem with the newborn. Did the baby have feeding problems 
+after birth? Was breast-­feeding begun immediately?
+The child’s medical history should be reviewed for chronic condi­
+tions and recurrent, acute conditions, such as recurrent emesis, diar­
+rhea, constipation, neurologic symptoms, or recurrent infections. 
+Hospitalizations, surgical procedures, medications, allergies, and 
+immunization status should be ascertained. Among children hospital­
+ized with FTT, over 40% have an underlying chronic condition and 
+some have two or more chronic conditions. It is essential to docu­
+ment neurodevelopmental progress, because motor or cognitive delays 
+could be associated with neurologic dysfunction that increases calorie 
+requirements and/or decreases feeding efficiency.
+Family History
+The clinician should ascertain the growth of siblings and other fam­
+ily members. Are there patterns of growth in the family that might 
+result in a child growing slower than expected? What differences 
+or similarities do the parents notice between this child and their 
+other children? What were the growth patterns and ultimate sizes 
+of the parents and grandparents? Document the age at menarche 
+and puberty in parents and siblings. Creating a two-­generation gen­
+ogram that includes the height and weight of each family member 
+may provide clues to the growth potential of the patient. Plotting 
+the mean parental height on the child’s height curve will help to 
+predict ultimate stature.
+A thorough family history is important. This should include early 
+childhood deaths and any family members with genetic or metabolic 
+conditions. Is there a family history of mental illness that might affect 
+the child or the caretakers? Is there consanguinity?
+Social History
+Many cases of FTT do not have a primary medical etiology, and thus 
+the social history is vital. Determine the family constellation. What is 
+the relationship of the adults in the household, and how do they get 
+along? Are the parents working, and if so, who cares for the child? Chil­
+dren with FTT come from all socioeconomic groups. Do the parents 
+have nearby food stores as well as adequate storage, refrigeration, and 
+food preparation space? Are there adequate eating facilities and imple­
+ments? Are there siblings who might eat the child’s food? Is the child 
+enrolled in the Women, Infants, and Children (WIC) program? Food 
+insecure families may be eligible for the Supplemental Nutrition Assis­
+tance Program (SNAP); both are programs of the U.S. Department of 
+Agriculture. What is the cultural context of food selection and eating 
+behavior?
+More difficult social issues must be approached carefully, with a 
+statement to the family that all patients with this problem are asked 
+these routine questions. Families should be screened for substance use 
+that might result in use of food money for tobacco, alcohol, or drugs, 
+TABLE 12.2  Differential Diagnosis by 
+Functional Category
+Excessive Calorie Needs
+Diabetes mellitus
+Cystic fibrosis
+Chronic respiratory or cardiovascular disease
+Hyperthyroidism
+Cerebral palsy/spasticity
+Chronic infection or inflammatory diseases
+Inadequate Calorie Intake
+Family education and mental health: maternal depression/anxiety, 
+psychosis, substance use, lack of parental knowledge of child nutrition 
+needs
+Parent-­child interaction: parental emotional distance, mealtime distractions 
+(e.g., television), lack of family mealtime, overindulgent or overcontrolling 
+parent, parental inability to read hunger or satiety cues
+Poor food choices: allows grazing, excessive juice intake, fad diet, fear of 
+allergies
+Child factors: neuromuscular disease, poor oral motor coordination, chronic 
+disease with easy tiring and failure to complete meals, difficult tempera­
+ment, hyperactivity, inability to display hunger cues
+Economic factors: food insecurity, diluting formula, early conversion from 
+formula to cow’s milk
+Food aversion: impaired swallowing, oropharyngeal or esophageal inflamma­
+tion, anorexia-­causing conditions, psychosocial factors
+Increased Calorie Loss/Failure to Incorporate Ingested 
+Calories
+Diabetes mellitus
+Malabsorption syndromes (celiac disease, lactose intolerance, cystic fibrosis, 
+other causes of pancreatic insufficiency, chronic cholestasis)
+Inborn errors of metabolism
+Chronic diarrhea (multiple etiologies)
+Gastroesophageal reflux and other conditions with chronic vomiting, eosino­
+philic gastroenteritis
+Short gut syndrome
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+210
+SECTION 4   Gastrointestinal Disorders
+CHARGE, coloboma, heart disease, choanal atresia, retarded growth and retarded development and/or central nervous system anomalies, genital 
+hypoplasia, and ear anomalies and/or deafness; IPEX, immune disregulation polyendocrinopathy enteropathy X-­linked; VATER, vertebral defects, 
+imperforate anus, tracheoesophageal fistula, and radial and renal dysplasia.
+TABLE 12.3  Failure to Thrive: Differential Diagnosis by System
+Psychosocial/Behavioral
+Inadequate diet because of poverty/food insecurity, errors in food preparation, 
+fad diet, fear of allergy
+Poor parenting skills (lack of knowledge of sufficient diet)
+Child/parent interaction problems (autonomy struggles, coercive feeding)
+Food refusal/aversion/dysphagia
+Parental cognitive or mental health problems
+Child abuse or neglect
+Neurologic
+Oral motor dysfunction (dysautonomia, brainstem lesion, cerebral palsy, Chiari 
+malformation, myopathies)
+Spasticity
+Developmental delay
+Increased intracranial pressure
+Diencephalic syndrome
+Renal
+Urinary tract infection
+Renal tubular acidosis
+Renal failure
+Endocrine
+Diabetes mellitus
+Hypothyroidism/hyperthyroidism
+Growth hormone deficiency
+Adrenal insufficiency
+Genetic/Metabolic/Congenital
+Cystic fibrosis
+Sickle cell disease
+Inborn errors of metabolism (organic acidosis, hyperammonemia, storage 
+diseases)
+Fetal alcohol syndrome
+Skeletal dysplasias
+Chromosomal disorders: aneuploidy, microdeletion/duplication, 
+imprinting
+Monogenetic disorders
+Multiple congenital anomaly syndromes (VATER, CHARGE)
+Gastrointestinal
+Pyloric stenosis
+Gastroesophageal reflux
+Eosinophilic esophagitis
+Malrotation
+Malabsorption syndromes
+Celiac disease
+Formula intolerance (lactose, protein)
+Pancreatic insufficiency syndromes
+Chronic cholestasis
+Inflammatory bowel disease
+Chronic congenital diarrhea states including IPEX and IPEX-­like monogenetic 
+disorders
+Pseudo-obstruction
+Cardiac
+Cyanotic heart lesions
+Congestive heart failure
+Pulmonary/Respiratory
+Severe asthma
+Cystic fibrosis; bronchiectasis
+Chronic respiratory failure
+Bronchopulmonary dysplasia
+Adenoid/tonsillar hypertrophy
+Obstructive sleep apnea
+Miscellaneous
+Autoimmune diseases
+Autoinflammatory–recurrent fever syndromes
+Malignancy
+Primary immunodeficiency
+Transplantation
+Infections
+Perinatal infection
+Occult/chronic infections
+Parasitic infestation
+Tuberculosis
+HIV
+as well as inadequate child care. Prior involvement of child protection 
+authorities is relevant.
+Is the child in group daycare, or has the family traveled to or 
+emigrated from an area where a chronic infection such as a parasite 
+might have been acquired? Although the social history can be the 
+most revealing part of the history, it can be the most difficult to elicit. 
+Often the clinician must establish trust with the family before they 
+can reveal the source of their inability to meet their child’s nutritional 
+needs.
+Review of Systems
+A thorough review of systems can help to reveal organic conditions. A 
+few areas merit special attention to determine sources of calorie loss or 
+increased metabolic demands.
+Constitutional: The examiner should ask whether there are any 
+fevers, night sweats, or changes in activity. Assess sleep hygiene, 
+amount of sleep, and whether sleep is disrupted by snoring or 
+awakenings.
+Gastrointestinal: Inquire about choking, swallowing, dysphagia, 
+vomiting, spitting up, and rumination. Pocketing food, or retaining 
+food in the mouth, may indicate oral motor dysfunction that impedes 
+adequate intake. Night waking and coughing may indicate reflux. Diar­
+rhea, constipation, abdominal pain, early satiety, distention, and dis­
+comfort indicate organic conditions.
+Cardiopulmonary: The examiner should ask about coughing, 
+wheezing, shortness of breath, exercise intolerance, and early tiring 
+during feeding.
+Renal: Inquire about dysuria, hematuria, increased urinary fre­
+quency or volume, secondary enuresis, and urine that seems unusually 
+dilute or concentrated.
+Physical Examination
+The examination should start with accurate measurements of height 
+or length, weight, and head circumference; these parameters should 
+be plotted on a standard growth curve. Weight for height or BMI (if 
+older than 2 years of age) should also be plotted. Historical events 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+211
+CHAPTER 12  Failure to Thrive
+should be identified and plotted to discover impact on growth 
+patterns.
+As part of a complete physical examination, the following signs 
+should be sought:
+General: degree of emaciation, fat distribution and muscle mass, 
+dysmorphic features, vital signs (including blood pressure), hydration 
+status.
+Head, eyes, ears, nose, and throat: fontanel size, evidence of chronic 
+ear infections, allergic facies, patency of upper airway, status of teeth
+Cardiorespiratory: respiratory effort, lower airway sounds, cardiac 
+sounds, pulses, edema
+Gastrointestinal: organomegaly, abdominal distention, rectal fis­
+sures or prolapse
+Genitourinary: renal masses, Tanner staging
+Musculoskeletal: joint swelling, bone deformities
+Skin: hydration, bruising or scarring, rashes, hair quality and distri­
+bution, nails (Figs. 12.5 and 12.6)
+Lymph nodes: local vs generalized (see Chapter 48)
+Neurologic: muscle volume, tone (hypo-­ or hypertonic), strength, 
+coordination, swallowing and drooling, assessment of development 
+and interaction with the examiner
+Abnormalities associated with pathologic biomedical conditions 
+should prompt a search for a specific diagnosis (see Table 12.3). 
+On occasion, growth failure as well as other physical findings can 
+TABLE 12.4  Characteristics of Mineral Deficiencies
+Mineral
+Function
+Manifestations of Deficiency
+Comments
+Sources
+Iron
+Heme-­containing macromol­
+ecules (e.g., hemoglobin, 
+cytochrome, myoglobin)
+Anemia, spoon nails, reduced muscle and mental 
+performance
+History of pica, cow’s milk, gastrointesti­
+nal bleeding, excessive milk in diet
+Liver, meat, eggs, 
+grains
+Copper
+Redox reactions (e.g., 
+cytochrome oxidase)
+Hypochromic anemia, neutropenia, osteoporosis, 
+hypotonia, hypoproteinemia, poor growth
+Inborn error, Menkes kinky hair syndrome, 
+occipital horn syndrome, long-­term TPN
+Liver, oysters, meat, 
+nuts, grains, 
+legumes, chocolate
+Zinc
+Metalloenzymes (e.g., alka­
+line phosphatase, carbonic 
+anhydrase, DNA poly­
+merase; wound healing)
+Acrodermatitis enteropathica; poor growth, acro-­
+perioral-­perianal rash, alopecia, delayed sexual 
+development, hypogeusia, infection
+Protein-­calorie malnutrition; weaning; 
+malabsorption syndrome
+Meat, grains, cheese, 
+nuts
+Selenium
+Prevents oxidative damage
+Keshan cardiomyopathy in China, poor growth
+Endemic areas; long-­term TPN
+Meat, vegetables
+Chromium
+Insulin cofactor
+Poor weight gain, glucose intolerance, neuropathy
+Protein-­calorie malnutrition, long-­term TPN Yeast, breads
+Fluoride
+Strengthens dental enamel
+Caries
+Supplementation during tooth growth, 
+narrow therapeutic range; fluorosis may 
+cause staining of the teeth
+Seafood, supple­
+mented water
+Iodine
+Thyroxine, triiodothyronine 
+production
+Simple endemic goiter
+Myxedematous cretinism: congenital hypothyroid­
+ism
+Neurologic cretinism: intellectual disability, deaf­
+ness, spasticity, normal T4 level at birth
+Endemic in New Guinea, the Congo; 
+endemic in Great Lakes area before 
+iodized salt available
+Seafood, iodized salt, 
+most food in nonen­
+demic areas
+T4, thyroxine; TPN, total parenteral nutrition.
+From Tershakovec AM, Stallings VA. Pediatric nutrition and nutritional disorders. In: Behrman RE, Kliegman RM, eds. Nelson Essentials of Pediat­
+rics. 2nd ed. Philadelphia: WB Saunders; 1994:81.
+Fig. 12.5  A 14-­month-­old girl with “flaky paint” dermatitis. (From Katz 
+KA, Mahlberg MH, Honig PJ, et al. Rice nightmare: kwashiorkor in 2 
+Philadelphia-­area infants fed Rice Dream beverage. J Am Acad Derma­
+tol. 2005;52[5 Suppl 1]:S69–S72.)
+Fig. 12.6  Paired, transverse, homogeneous, and smooth-­bordered lines 
+noted in all fingernails, suggestive of Muehrcke lines in an infant fed 
+diluted cow’s milk since birth. (From Williams V, Jayashree M. Mueh­
+rcke lines in an infant. J Pediatr. 2017;189:234.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+212
+SECTION 4   Gastrointestinal Disorders
+be associated with specific nutrient deficiencies (Tables 12.4, 12.5, 
+and 12.6).
+Laboratory Evaluation
+Almost any serious chronic illness may result in FTT; therefore, 
+the examiner must have a broad diagnostic screening approach and 
+simultaneously consider the more likely possibility that nonmedical 
+processes are the cause. In most cases of chronic “organic” illness, 
+there is likely some indication in the history, physical examination, 
+or selected diagnostic screening tests (Table 12.7). In cases where an 
+underlying illness is not detected by these screening tests, the condi­
+tion may become evident when the infant does not respond to nutri­
+tional rehabilitation. If, however, the examiner attempts to pursue 
+every conceivable diagnostic test for organic causes of FTT before 
+implementing vigorous nutritional rehabilitation, the examiner is 
+likely to run out of time, patience, and resources and come to no con­
+clusion. Some unusual cases may take months or years before a diag­
+nosis can be made.
+The choice of the appropriate initial laboratory tests may include 
+several general screening tests to detect treatable conditions. A CBC 
+can reveal clinically inapparent anemia, which, although usually sec­
+ondary to the poor nutritional state, can sometimes contribute to the 
+poor dietary intake or suggest anemia of chronic disease. A UA and 
+urine culture can reveal evidence of an occult urinary tract infection or 
+renal tubular acidosis. Serum electrolytes with BUN level may detect 
+metabolic conditions. An ESR or CRP may provide evidence of chronic 
+inflammation or infection. The examiner may need to test for celiac 
+disease; poor weight gain may be the only symptom for many years. 
+Other specific tests are directed by the history and physical examina­
+tion (see Table 12.7). For example, for a child with developmental delay 
+TABLE 12.5  Characteristics of Vitamin Deficiencies
+Vitamin
+Function
+Manifestations of Deficiency
+Comments
+Sources
+Water-­Soluble
+Thiamine (B1)
+Coenzyme in ketoacid decarbox­
+ylation (e.g., pyruvate → acetyl-­
+CoA transketolase reaction)
+Beriberi: polyneuropathy, calf tenderness, 
+heart failure, edema, ophthalmoplegia
+Inborn errors of lactate 
+metabolism; boiling milk 
+destroys B1
+Liver, meat, milk, cereals, nuts, 
+legumes
+Riboflavin (B2)
+FAD coenzyme in oxidation-­
+reduction reactions
+Anorexia, mucositis, anemia, cheilosis, 
+nasolabial seborrhea
+Photosensitizer
+Milk, cheese, liver, meat, 
+eggs, whole grains, green 
+leafy vegetables
+Niacin (B3)
+NAD coenzyme in oxidation-­
+reduction reactions
+Pellagra: photosensitivity, dermatitis, 
+dementia, diarrhea, death
+Tryptophan is a precursor
+Meat, fish, liver, whole grains, 
+green leafy vegetables
+Pyridoxine (B6)
+Cofactor in amino acid metab­
+olism
+Seizures, hyperacusis, microcytic anemia, 
+nasolabial seborrhea, neuropathy
+Dependency state; deficiency 
+secondary to drugs
+Meat, liver, whole grains, 
+peanuts, soybeans
+Pantothenic acid
+CoA in Krebs cycle
+None reported
+—
+Meat, vegetables
+Biotin
+Cofactor in carboxylase reactions 
+of amino acids
+Alopecia, dermatitis, hypotonia, death
+Bowel resection, inborn 
+errors of metabolism, and 
+ingestion of raw eggs
+Yeast, meats; made by intes­
+tinal flora
+B12
+Coenzyme for 
+5-­methyl-­tetrahydrofolate 
+formation; DNA synthesis
+Megaloblastic anemia, peripheral neurop­
+athy, posterior lateral column disease, 
+vitiligo, encephalopathy
+Vegans; fish tapeworm; 
+transcobalamin or intrinsic 
+factor deficiencies
+Meat, fish, cheese, eggs
+Folate
+DNA synthesis
+Megaloblastic anemia
+Goat’s milk deficient; drug 
+antagonists; heat inactivates
+Liver, greens, vegetables, 
+cereals, cheese
+Ascorbic acid (C)
+Reducing agent; collagen 
+metabolism
+Scurvy: irritability, purpura, bleeding gums, 
+periosteal hemorrhage, aching bones
+May improve tyrosine metab­
+olism in preterm infants
+Citrus fruits, green vegetables; 
+cooking destroys it
+Fat-­Soluble
+A
+Epithelial cell integrity; vision
+Night blindness, xerophthalmia, Bitot spots, 
+follicular hyperkeratosis, poor growth
+Common with protein-­calorie 
+malnutrition; malabsorption
+Liver, milk, eggs, green and 
+yellow vegetables, fruits
+D
+Maintains serum calcium, phos­
+phorus levels
+Rickets: reduced bone mineralization, poor 
+growth
+Prohormone of 25-­ and 
+1,25-­vitamin D; malab­
+sorption
+Fortified milk, cheese, liver
+E
+Antioxidant
+Hemolysis in preterm infants; areflexia, 
+ataxia, ophthalmoplegia
+May benefit patients with 
+G6PD deficiency; malab­
+sorption
+Seeds, vegetables, germ oils, 
+green leafy vegetables
+K
+Post-translation carboxylation of 
+clotting factors II, VII, IX, and X 
+and proteins C and S
+Prolonged prothrombin time; hemorrhage; 
+elevated PIVKA
+Malabsorption; breast-­fed 
+infants, prolonged antibiotic 
+therapy
+Liver, green vegetables; made 
+by intestinal flora
+CoA, coenzyme A; FAD, flavin adenine dinucleotide; G6PD, glucose-­6-­phosphate dehydrogenase; NAD, nicotinamide adenine dinucleotide; PIVKA, 
+protein induced in vitamin K absence.
+Modified from Tershakovec A, Stallings VA. Pediatric nutrition and nutritional disorders. In: Behrman RE, Kliegman RM, eds. Nelson Essentials of 
+Pediatrics. 2nd ed. Philadelphia: WB Saunders; 1994:74.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+213
+CHAPTER 12  Failure to Thrive
+and FTT, a blood lead test, metabolic screening tests, a karyotype or 
+other genetic testing (microarray), imaging of the head, or HIV screen­
+ing may be necessary, whereas a child with apparent malabsorption 
+is evaluated completely differently (targeting cystic fibrosis, inflamma­
+tory bowel disease, celiac disease, or parasitic infection). An endoscopy 
+may be needed to determine eosinophilic infiltration into the gastroin­
+testinal mucosa. If height growth is affected, a bone age may determine 
+if an endocrine evaluation is necessary. Consultation with specialists 
+will be needed in many cases.
+OVERALL APPROACH TO MANAGEMENT
+The evaluation of a child with FTT should proceed in a stepwise 
+manner (Fig. 12.7). Once the clinician has arrived at a working 
+diagnosis, treatment can be instituted. It is important to develop a 
+therapeutic alliance with family members. Parents whose children 
+are not growing according to expectation may feel guilty or may 
+have a sense of failure. A nonjudgmental approach, avoiding the 
+assignment of blame, is important. Although the clinician can make 
+suggestions, it is the family that must feel empowered to implement 
+the plan.
+Providing specific information that can be easily implemented in 
+the family’s home environment will be more successful than giving 
+general advice. Suggestions that a parent feed more food to a child 
+may be disregarded, particularly when the family members believe 
+they are already doing their best. Pressuring parents may increase 
+caregiver guilt, frustration, and anxiety if the child does not grow as 
+expected.
+Even with the strong suspicion of a biomedical cause, it is reason­
+able to give specific advice on enhancing calorie intake while further 
+evaluation and treatment are ongoing. If the condition is chronic, the 
+child may need long-­term nutritional supplementation. If the condi­
+tion is acute and treatable, the child needs extra calories for catch-­up 
+growth.
+Steps to Improve Calorie Intake
+Mealtime Behavior
+A pleasant, safe setting should be created for mealtime. An infant seat 
+is appropriate for the first several months. Once a child can sustain a 
+sitting position, a high chair is advantageous. The high chair allows 
+the child to feel safe from falling, frees up the child’s hands for feeding, 
+and keeps the child confined in one place to focus on the meal. A bib 
+prevents the need for frequent changes of clothing. For an older child, 
+a booster seat is appropriate along with child-­sized utensils. Parents 
+who feed an infant or toddler while holding the child in their laps find 
+that the meal is a struggle; this also prevents the child from developing 
+self-­feeding skills.
+To promote the important social aspect of mealtime, family mem­
+bers should be seated and eat together whenever possible. Use of a 
+small, child-­sized table and chair prevents the child from observing 
+and learning from siblings and adults during family meals. Toddlers 
+and older infants are usually interested in the food served to other fam­
+ily members, leading to experimentation with new foods. There should 
+be conversation during the meal, but the child’s food intake should not 
+be the focus of the conversation.
+Distractions should be minimized during meals. The television and 
+other electronic media should be off. There should not be other com­
+motion in the kitchen. However, for the infant, a small washable toy on 
+the tray or table may help keep attention on the meal.
+Parents should understand that experimenting with food is part of 
+the natural curiosity of older infants and toddlers. If the parent is con­
+stantly wiping the child and berating the child for getting messy, the 
+child cannot learn that eating can be a fun experience. If a parent has 
+difficulty with messiness, the examiner can suggest spreading newspa­
+per or a plastic sheet under the high chair. Another simple technique 
+is the “two-­spoon method”; the child holds a spoon to dip into the 
+food, and the parent has the second spoon, which provides most of 
+the feeding.
+Once the child has communicated that the meal is finished, the 
+parent can offer one or two more bites but then should accept that 
+the child is no longer hungry, and the meal should be ended. The 
+duration of the meal for a toddler is typically not more than 15 or 20 
+minutes. Food should not be brought out until the next scheduled 
+meal or snack.
+Beverages
+Exclusive breast-­feeding is the preferred nutritional source for infants 
+from birth to at least 6 months. Formula-­fed infants should be held 
+during a feeding until they are able to sit on their own and hold the 
+bottle. Both breast milk and formula can be fortified for additional 
+calories per ounce. Bottles should never be propped. After 1 year of 
+age, breast milk may continue but formula is changed to cow’s milk. 
+Although 1–2% milk is acceptable, whole milk is preferred for under­
+weight toddlers. The volume of formula or whole cow’s milk consumed 
+should be about 24 ounces per day. If a child is drinking an excessive 
+TABLE 12.6  Clinical Signs of Malnutrition
+Site
+Signs
+Face
+Moon face (kwashiorkor), simian facies (marasmus)
+Eye
+Dry eyes, pale conjunctiva, Bitot spots (vitamin A), perior­
+bital edema
+Mouth
+Angular stomatitis, cheilitis, glossitis, spongy bleeding 
+gums (vitamin C), parotid enlargement
+Teeth
+Enamel mottling, delayed eruption
+Hair
+Dull, sparse, brittle hair; hypopigmentation; flag sign 
+(alternating bands of light and normal color); broomstick 
+eyelashes; alopecia
+Skin
+Loose and wrinkled (marasmus); shiny and edematous 
+(kwashiorkor); dry, follicular hyperkeratosis; patchy 
+hyper-­ and hypopigmentation (“crazy paving” or 
+“flaky paint” dermatoses); erosions; poor wound 
+healing
+Nails
+Koilonychia; thin and soft nail plates, fissures, or ridges
+Musculature
+Muscle wasting, particularly buttocks and thighs; 
+Chvostek or Trousseau sign (hypocalcemia)
+Skeletal
+Deformities, usually as a result of calcium, vitamin D, or 
+vitamin C deficiencies
+Abdomen
+Distended: hepatomegaly with fatty liver; ascites may be 
+present
+Cardiovascular
+Bradycardia, hypotension, reduced cardiac output, small 
+vessel vasculopathy
+Neurologic
+Global developmental delay, loss of knee and ankle 
+reflexes, impaired memory
+Hematologic
+Pallor, petechiae, bleeding diathesis
+Behavior
+Lethargic, apathetic, irritable on handling
+From Kliegman RM, St. Geme JW III, Blum NJ, et al., eds. Nelson Text­
+book of Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:337, Fig. 57.6.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+214
+SECTION 4   Gastrointestinal Disorders
+amount of formula, review the preparation procedures to ensure that 
+the proper dilution is used.
+Children naturally enjoy sweet foods. However, if they are intro­
+duced early or used instead of more nutritionally complete foods, 
+children may develop a preference for sweets, especially juices. In par­
+ticular, toddlers who are allowed to have bottles with sweetened juices 
+throughout the day eat little at mealtime, resulting in undernutrition. 
+In addition, because of limited absorption of dietary sugars, particu­
+larly in juices with high fructose-­to-­glucose ratios (such as apple and 
+pear juice), excessive juice intake may result in bloating, excessive 
+flatulence, abdominal pain, and chronic diarrhea due to carbohydrate 
+malabsorption. Juice should not be introduced until after 12 months of 
+age. When introduced, only 100% fruit juice should be offered in a cup. 
+Intake should be limited to 4 ounces per day for toddlers, 4–6 ounces 
+per day for preschoolers, and 8 ounces per day for older children and 
+adolescents.
+Various methods are available to enhance the calorie density of 
+infant dietary beverages for nutritional supplementation. Formu­
+las can be made with less water. Polycose and vegetable oils can be 
+added. Pumped/expressed breast milk can be enhanced with breast 
+milk fortifier (premature infants) or powdered formula (full-­term 
+infants).
+Food Selection
+Complementary foods should be introduced after 4 or 6 months. 
+Infants and young toddlers may have preferences for certain food 
+textures, temperatures, and presentations. These preferences are often 
+short-­lived. Normal children may become “picky” eaters in the sec­
+ond and third years of life, generally refusing vegetables and fruits. 
+New foods should routinely be introduced but not forced on the child. 
+With reintroduction (up to 10 times may be required) and modeling, 
+children will try new foods. For some children, food preferences may 
+TABLE 12.7  Some Causes of Failure to Thrive and Screening Tests
+Cause
+Screening Tests
+Environmental and Psychosocial*
+Inadequate caloric intake
+History; observation in hospital
+Emotional deprivation and disruptions
+History; observation in hospital
+Rumination; chronic diarrhea, gastroesophageal reflux
+History; observation in hospital
+Anorexia nervosa and bulimia
+History; examination
+Secondary to impact of organic disease
+History and observation
+Organic
+Central nervous system abnormalities, infection
+Neurodevelopmental assessment; brain MRI
+Malabsorption, cystic fibrosis, inflammatory bowel disease, parasites, agangli­
+onic megacolon; liver disease; food intolerance; celiac disease; gastroesopha­
+geal reflux, eosinophilic esophagitis
+Examination of stools: stool fat and elastase, sweat test, stool ova and parasites; 
+tissue transglutaminase antibodies; liver function tests; barium swallow, ESR, 
+food challenge, esophageal and intestinal biopsy
+Partial cleft palate
+Physical examination; observation of feeding
+Chronic heart failure
+Physical examination; chest x-­ray; echocardiography
+Endocrine disorders
+Growth chart; thyroid function tests; bone age, cortisol level, GH testing
+Bronchopulmonary dysplasia; bronchiectasis; cystic fibrosis
+Physical examination; chest x-­ray; tuberculin test, pulmonary function tests, sweat 
+test, newborn screen
+Anomalies; infection; renal failure; renal tubular disorder
+UA; BUN; ultrasonography; urinary amino acid screen; urine pH
+Chromosomal disorders or syndromes; Turner syndrome
+Skeletal dysplasias
+Chromosomal analysis (microarray, exome); identification of peculiar facies or 
+multisystem defects, skeletal radiographs
+Other metabolic, syndromic, or inborn errors
+Urine and blood amino and organic acids, lactate, mitochondrial DNA, specific 
+gene panels, exome
+Tuberculosis, mycotic, congenital, AIDS
+Tuberculin skin test or interferon-gamma release assay; appropriate laboratory 
+identification of infectious agent, (antigen, antibody, or PCR)
+Juvenile idiopathic arthritis, SLE
+Physical examination; ESR; CBC, ANA
+DiGeorge syndrome; severe combined immunodeficiency syndrome
+History of rash and diarrhea; thymus size; tonsil size; skin tests; CBC, immuno­
+globulins, lymphocyte cell markers, FISH for DiGeorge syndrome, newborn 
+screen
+AIDS or AIDS-­related complex
+HIV rapid antigen, antibody test
+Malignancies (kidney, hematologic, adrenal, brain)
+Imaging (CT, ultrasonography) of abdomen, chest; brain CT or MRI, bone 
+marrow
+Congenital syndromes caused by alcohol, Dilantin, other drugs, infection
+Physical examination; history, TORCH evaluation
+*Nonorganic may also be combined with organic.
+ANA, antinuclear antibodies; CBC, complete blood cell count; FISH, fluorescent in situ hybridization; GH, growth hormone; PCR, polymerase chain 
+reaction; SLE, systemic lupus erythematosus; TORCH, toxoplasmosis, other, rubella, cytomegalovirus, herpes simplex.
+Modified from Barbero GJ. Failure to thrive. In: Behrman RE, ed. Nelson Textbook of Pediatrics. 14th ed. Philadelphia: WB Saunders; 
+1992:215.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+215
+CHAPTER 12  Failure to Thrive
+PART A
+FAILURE TO THRIVE 
+(AND WEIGHT LOSS)
+Signs or symptoms
+suggestive of an
+organic etiology present    
+Carefully review feeding history
+Assess caloric intake
+Consider brain MRI, CK, TORCH
+titers, microarray or exome,
+speech pathology consult
+Signs or symptoms suggestive of
+developmental delay or 
+neuromuscular disorder present
+Perform H and P, accurate 
+documentation of serial measurements    
+Developmental delay 
+    (multiple etiologies)    
+Inadequate calorie intake
+Oral-motor dysfunction    
+Inadequate intake
+   Breast-feeding problems
+   Improper formula preparation
+   Improper feeding technique    
+   Insufficient food offered (food 
+       insecurity, inappropriate parental 
+       knowledge or expectations)   
+   Aversion (pain, sensory)
+Fear of allergy
+Fad diet
+Other psychosocial factors 
+Renal disease
+     Obstructive uropathy 
+     Reflux nephropathy
+     Renal tubular acidosis
+     Glomerulonephritis
+Liver disease
+Celiac disease
+Cystic fibrosis
+Other causes of 
+        malabsorption 
+Diagnosis
+apparent
+Diagnosis
+not apparent
+Normal results
+Diagnosis
+not apparent
+Diagnosis
+apparent
+Carefully review feeding history
+and technique, psychosocial issues,
+   nutritional intervention      
+(See 3DUW%)
+Abnormal results
+Continue nutritional intervention    
+Consider referral to a multidisciplinary 
+   feeding program vs Inpatient observation
+CBC, lead level    
+Blood chemistry profile
+UA and culture
+Albumin and serum protein
+Celiac panel (anti-tTG and IgA)
+Review newborn screen results
+Consider sweat chloride, free T4, TSH 
+Further consider 
+organic disorders    
+(See 3DUW%)
+NO
+NO
+YES
+YES
+Fig. 12.7  Flow chart for the stepwise evaluation of a child with failure to thrive (and weight loss). anti-­
+tTG, anti–tissue transglutaminase; CK, creatine kinase; ENT, ear, nose, and throat; GER, gastroesophageal 
+reflux; GERD, gastroesophageal reflux disease; H, history; ICP, intracranial pressure; IgA, immunoglobulin A; 
+IgE, immunoglobulin E; O&P, ova and parasites; P, physical examination; PPD, purified protein derivative; T4, 
+thyroxine; TORCH, toxoplasmosis, other, rubella, cytomegalovirus, herpes simplex; TSH, thyroid-­stimulating 
+hormone; UGI, upper gastrointestinal series. (From Pomeranz AJ, Sabnis S, Busey SL, et al., eds. Pediatric 
+Decision-­Making Strategies. 2nd ed. Philadelphia: Elsevier; 2016.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+216
+SECTION 4   Gastrointestinal Disorders
+be strong and cyclic. For example, a child may go through a cycle 
+in which they request peanut butter and jelly sandwiches for nearly 
+every meal. If a variety of fruits or vegetables are given along with 
+the sandwich, this may be a reasonable compromise. Including older 
+children in food shopping and preparation will increase interest in 
+eating. At mealtime, older toddlers and preschool-­aged children may 
+be permitted some flexibility in food selection from two or three 
+choices. Providing choices allows the child to assume some control 
+over the meal. Each choice must be nutritionally sound and accept­
+able to the parent. Parents should not become bound by social con­
+straints when it comes to foods served at certain meals.
+Although it is the caregiver’s responsibility to provide appropriate 
+food, it is the child’s responsibility to decide on the quantity of food 
+to be eaten. “Force feeding” will convince the child that mealtime is 
+something to be feared. Parents must learn to read a child’s cues for 
+hunger and satiety.
+PART B
+FAILURE TO THRIVE
+(continued)
+Historical or physical evidence
+suggesting organic etiology
+Obstruction
+   (webs, vascular ring,
+   pyloric stenosis, bezoars)
+Malrotation/volvulus
+GER
+Rumination
+Eosinophilic esophagitis
+Increased ICP
+Allergy (IgE-mediated) or
+   food protein-induced
+   (non-IgE-mediated)
+   reactions
+Encephalopathy (lead,
+   hypoxic-ischemic)
+Hirschsprung disease
+Meconium ileus
+Metabolic disorder
+Celiac disease    
+Other food protein-induced 
+    hypersensitivity reactions   
+Parasitosis (giardiasis,
+     cryptosporidiosis)
+Eosinophilic intestinal disorders
+    (esophagitis, gastroenteritis)
+Inflammatory bowel disease
+Liver disease (hepatitis,
+     cirrhosis, biliary disease)
+Hirschsprung disease
+Pancreatic insufficiency
+     (cystic fibrosis, Shwachman-
+     Diamond syndrome)   
+Short gut syndrome
+Other rare causes of
+   malabsorption (disaccharidase 
+   deficiency, other congenital
+   disorders)
+HIV, other immunodeficiencies
+Acrodermatitis enteropathica
+Upper airway obstruction
+   Adenotonsillar  hypertrophy
+   Micrognathia/retrognathia
+   Nasal obstruction
+Cor pulmonale (secondary)
+HIV
+Other immune 
+  deficiency
+Eating disorders   
+Other causes 
+   of anorexia   
+Congestive 
+   heart failure
+Malignancy
+HIV   
+Hyperthyroidism
+Diabetes mellitus
+Other chronic 
+   disease   
+Chronic aspiration
+GERD
+Cystic fibrosis
+Congenital or acquired
+   heart disease (including 
+   cardiomyopathy)
+Severe asthma
+Tuberculosis
+HIV (Pneumocystis 
+   jiroveci pneumonia, 
+   lymphoid interstitial 
+   pneumonitis)
+Bronchiectasis
+Consider UGI, pH
+probe study,
+metabolic work-up
+Consider stool fat, O&P, 
+celiac panel, antigen
+studies for Giardia and 
+Cryptosporidium, endoscopy 
+(with small bowel biopsy), 
+sweat chloride, zinc, 
+exome/gene panel
+Lateral neck film
+ENT consult
+Consider chest x-ray,
+radionuclide scan for
+aspiration, PPD,
+sweat chloride
+Excessive spitting
+   up, vomiting
+Diarrhea or abnormal 
+   stool pattern (foul-
+   smelling, bulky)
+±abdominal distention, 
+   cramps
+Snoring, periodic
+breathing during
+sleep, restless sleep
+Respiratory
+symptoms
+(coughing, 
+wheezing)
+Frequent infections
+   (minor or serious)
+Other   
+Fig. 12.7, cont’d
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+217
+CHAPTER 12  Failure to Thrive
+Daily Routines and Snacks
+Once children are receiving solid foods, they should be on a regular 
+schedule of meals served at predictable times during the day. This gen­
+erally means three meals and two or three snacks per day for infants 
+and toddlers. The practice of “grazing”—having food available to the 
+child throughout the day—should not be allowed. Frequent snacking 
+allows the child to be satiated, preventing interest in standard meals 
+and resulting in poor nutrition. Planned snacks afford the opportunity 
+to supplement the child’s diet with high-­quality foods with good nutri­
+tional content. For toddlers and preschool-­aged children, beverages 
+should be introduced only after a good portion of the meal has been 
+eaten.
+Calculating Caloric Need
+To calculate the minimal daily caloric requirements needed for catch-­up 
+growth, determine the weight age (age at which current weight would 
+be at 50%) and recommended calories for weight age (Table 12.8). The 
+ideal weight for current height (50% weight for current height) should 
+also be determined. Calories needed for catch-­up growth are calculated 
+as:
+	(kcal/kg for weight age) × (ideal weight for height in kilograms)	
+	
+actual weight in kilograms	
+Required kcal/kg by age are the following:
+0–6 months = 108 kcal/kg
+6–12 months = 98 kcal/kg
+1–3 years = 102 kcal/kg
+4–6 years = 90 kcal/kg
+For most children, calories needed for catch-­up growth can be eas­
+ily calculated as:
+	(120 kcal / kg) × (ideal weight for height in kilograms)
+actual weight in kilograms
+	
+Most infants will achieve catch-­up growth on 160–180 kcal/kg/day. 
+Some infants may need considerably more, up to 1.5–2 times the daily 
+requirements for catch-­up. Caloric intake can be estimated from the 
+diet history.
+NUTRITIONAL SUPPLEMENTATION FOR THE OLDER 
+INFANT AND CHILD
+Several products are available for nutritional supplementation. The 
+complete liquid formulations are excellent products; very similar nutri­
+tional value can be found in packaged instant-­breakfast drinks when 
+mixed with whole milk, at much lower cost. These nutrient-­dense bev­
+erages should supplement the child’s diet, not supplant food.
+Many food products (powdered milk, margarine, cheese, wheat 
+germ, peanut butter) can be added to acceptable foods to increase cal­
+ories. It is easier to increase caloric density than increase the amount 
+of food eaten. Attention should be paid to maximizing protein intake 
+needed for growth.
+If a child does not seem to be taking an adequate variety of foods, a 
+supplement of multivitamins with minerals may be indicated. Particu­
+larly during periods of rapid catch-­up growth, additional vitamins and 
+minerals can be beneficial. Iron and zinc deficiencies may impede nor­
+mal growth (see Table 12.4). Supplementation of zinc and other trace 
+minerals has been shown to enhance catch-­up growth in malnourished 
+children. A trial of an appetite stimulant, such as cyproheptadine, can 
+be effective in some children.
+Referral Resources and Other Options
+Multidisciplinary Team
+Children with FTT have complex medical and psychosocial issues. 
+A multidisciplinary approach is beneficial in complicated cases by 
+relieving the primary medical care provider of the responsibilities of 
+investigating the home situation, reviewing the family’s finances and 
+resources, and observation of mealtime. Improvement is most likely 
+when children are referred at younger ages. The team might include 
+a physician, social worker, psychologist, nutritionist, nurse, child life 
+specialist, and home visitor. The team then discusses the case and 
+develops a plan for ongoing management. Children treated by teams 
+have better outcomes than children receiving routine care.
+The psychological evaluation may identify children with develop­
+mental delays and can assess family stressors and identify strengths 
+and weaknesses in the family. In some families, the child may be the 
+indicator that there is an underlying disturbance, such as depression 
+or marital stress. The psychologist can also offer support and reassur­
+ance as the family goes through a difficult period caused by potential 
+long-­term nutritional rehabilitation of the child. In addition, the psy­
+chologist can help the caregiver understand that improving the feeding 
+situation takes a great effort on the part of the parent as well as the child 
+and that new strategies are required for successful weight gain.
+The nutritionist’s expertise is essential for a thorough evaluation 
+and follow-­up plan. When taking a complete nutritional history, the 
+nutritionist can analyze the nutritional and caloric values of the foods 
+eaten. Alternative meal plans can be developed to maximize calories 
+and nutritional content.
+A social worker’s contribution to the team is an assessment of the 
+child’s environment and factors that may be contributing to the child’s 
+poor growth. Areas for investigation include social supports, housing 
+conditions (crowding, space for food storage, proper refrigeration), 
+and food insecurity. Families may need assistance with arranging work 
+leave, rearranging work schedules, transportation, or respite care. Fam­
+ilies can be directed to community support services that focus on both 
+social/emotional and material/financial issues. Participation in the 
+WIC and SNAP programs ameliorates food insecurity. If child mal­
+treatment is suspected, the social worker assists with communication 
+with the appropriate social service agency.
+When feasible, home observation provides a wealth of information 
+to the clinician about the environment in which the child resides and 
+eats meals. Does the child have an appropriate place in which to eat? 
+Is there a supply of appropriate foods in the home? What are the other 
+environmental factors that may be impeding the child’s growth? Stud­
+ies of home interventions have had mixed success, but young children 
+with the highest risks have improved developmental outcomes with 
+home intervention.
+TABLE 12.8  Normal Calorie Requirements 
+and Weight Gain by Age
+Calorie Requirement 
+(kcal/kg/day)
+Weight Gain* 
+(g/day)
+Premature
+150
+20–40
+Full-­term to 3 mo
+100–120
+25–39
+3–6 mo
+14–20
+6–9 mo
+90–100
+9–13
+9–12 mo
+7–10
+Toddler
+75–85
+6–9
+*Based on WHO growth charts (5% and 95%).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+218
+SECTION 4   Gastrointestinal Disorders
+Recording or Direct Observation
+Observation or recording of a meal provides an opportunity to assess 
+the child’s willingness and ability to participate in the meal, the par­
+enting style, and the interaction between the child and parents. Feed­
+ing is most successful when the parent is responsive to the child’s cues. 
+Parents who are controlling, overly permissive, or neglectful will find 
+the feeding situation unsuccessful. Parent and child strengths should 
+be pointed out to the parent. Problematic communication, both ver­
+bal and nonverbal, should be reviewed. Difficulties that are observed 
+should be discussed and become the basis for further intervention.
+Involvement of Social Service Agencies
+Clinicians caring for children with FTT often find themselves work­
+ing in conjunction with other agencies, including social service agen­
+cies. Children who are refused food or are abused in any way must be 
+reported. It may, however, be difficult to determine what constitutes 
+neglectful care. Families that are disorganized and overwhelmed, 
+have other pressing social issues, or refuse to follow recommenda­
+tions, resulting in lack of sufficient progress in the child’s growth, 
+must be reported to the local agency. This may include parents with 
+cognitive deficits, mental health problems, or substance abuse. It is 
+important for all agencies to work together and articulate a plan, so 
+that the families involved do not receive conflicting instructions and 
+messages.
+Behavioral Strategies
+In some situations, behavior modification programs are used. These 
+may include strategies to determine specific parameters in the feeding 
+environment that will improve the child’s intake. These may include 
+colors, textures, tastes, etc. In more difficult cases, a strict behavior 
+modification program may be used.
+Non-­Oral Enteral Feeding
+For some children, maximizing oral intake may nonetheless provide 
+insufficient calories for catch-­up growth. The clinician may consider 
+other forms of enteral feeding. This intervention is needed if, despite 
+all other attempts to maximize oral feeding, the child’s growth is fall­
+ing further below the third percentile or if the child is showing signs 
+of severe malnourishment (e.g., hypoalbuminemia, or low prealbumin 
+levels).
+Initially, nasogastric (NG) feeding can be used for night feedings. 
+The child should be encouraged to eat orally during the day. If the need 
+for the NG tube is extended for a longer duration (some authorities 
+use 3 months), then a referral should be made for placement of a per­
+cutaneous gastrostomy tube (G-­tube). This is used for supplemental 
+nutrition for most children and is not a substitute for oral intake. Chil­
+dren receiving supplemental alimentation should be monitored very 
+closely. Once the weight for height is approaching the 50th percentile, 
+the supplement should be adjusted to prevent obesity. The G-­tube is 
+removed when the child can sustain an adequate growth rate with oral 
+intake only.
+It is very important that some oral stimulation continue even if 
+the G-­tube is the main source of nutrition. If children are denied the 
+chance to develop competence in age-­appropriate feeding behaviors, 
+they are likely to develop food aversions. This makes reintroduction of 
+oral intake extremely difficult.
+CHILDREN WITH SPECIAL HEALTH CARE NEEDS
+This category encompasses a variety of children: children with iso­
+lated dysphagia for whom eating represents more work than pleasure, 
+children with sensory issues for whom food tastes and textures can be 
+experienced as adverse, and children who are technology dependent 
+and not able to self-­regulate caloric intake.
+During the medical assessment, if a child is found to have drool­
+ing, coughing, gagging, pocketing of food in the cheek, or retention of 
+food in the mouth, consider oral motor problems. An assessment by a 
+speech therapist or occupational therapist with specific training in oral 
+motor therapy can help reveal specific problems that are amenable to 
+therapy. A modified barium swallow may be recommended to assess 
+the risk of aspiration. Some children with oral motor dysfunction 
+develop food aversion, as if it is not worth the effort to put anything 
+in their mouths. Oral motor therapy or involvement in an intensive 
+feeding program that addresses feeding therapy in a multidisciplinary 
+fashion may be indicated for these children.
+Children with autism often have sensory issues that cause feed­
+ing aversion. Again, oral motor evaluation and therapy may be of 
+help, but the therapy may need to focus on oral desensitization 
+rather than motor skills. These children will sometimes accept only 
+a very limited number of foods, or a single color or texture. The cli­
+nician can ensure adequate micronutrient intake with vitamins and 
+other supplements but may need to disguise them in the accepted 
+foods.
+Technology-­dependent children represent a very different chal­
+lenge. Here, it is necessary to monitor growth regularly and adjust 
+caloric intake as necessary. Increased activity or work, due perhaps to 
+improved motor skills or decrease in respiratory support, can abruptly 
+increase a child’s caloric need and cause weight loss if caloric intake is 
+not increased. In general, increases of 10% are well tolerated and can 
+be adequate to improve growth. This can be done by increasing volume 
+or caloric density depending on the particular patient’s clinical situa­
+tion. Follow-­up weight checks in 2–4 weeks can inform the clinician 
+if the increase was adequate or excessive, and additional adjustments 
+can be made. Failure to gain weight appropriately even with additional 
+calories should prompt further evaluation for increased utilization or 
+improper home feeding.
+CRITERIA FOR HOSPITALIZATION
+Decisions about when to hospitalize a child with FTT are inevitably 
+influenced by practical considerations of the availability and quality 
+of hospital services, cost, and distance from the family’s home. The 
+medical issues are whether hospitalization will facilitate further diag­
+nostic steps and whether the affected child is malnourished enough 
+to create a sense of urgency about nutritional rehabilitation. Weight 
+loss resulting in weight for height below −3 SD constitutes severe 
+malnutrition and may require hospitalization. In addition, hospital­
+ization is indicated if there is a concern about factitious disorder 
+(Munchausen syndrome by proxy). In this situation, a parent may 
+be purposefully manipulating the child to produce FTT or other 
+symptoms.
+Most children with FTT gain weight in the hospital within 1–2 
+weeks, but obtaining a weight gain in a short amount of time does 
+not prove that the home environment was the problem. Alternatively, 
+even a 1–2-­week hospitalization in a child without an organic cause 
+of the growth failure may not produce a sustainable weight gain. The 
+foreign surroundings and lack of familiar faces might prevent the 
+child from eating appropriately. Parents may not be able to remain 
+with the child in the hospital if they have other small children to 
+attend to at home.
+Sufficient time must be anticipated in the hospital for substantial 
+recovery; in severe cases, full recovery requires about 6 weeks. After 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+219
+CHAPTER 12  Failure to Thrive
+initial stabilization and reassurance that the infant is doing well, the 
+child can spend much of this recovery period in a less expensive, non­
+intensive supervised medical care facility that emphasizes nutritional 
+support and psychosocial stimulation. Creative approaches to well-­
+organized outpatient day programs or frequent home visiting by prop­
+erly trained health care workers may provide an attractive alternative 
+to hospitalization.
+MONITORING
+Long-­term follow-­up with periodic visits is required to ensure that 
+initial weight gains are sustained. At the follow-­up visits, the 24-­
+hour diet recall is assessed, or a 3-­day diet history is brought by the 
+family. At all visits, the child’s growth parameters must be plotted. 
+Dividing weight gained by the number of days since the last mea­
+surement provides a mean growth rate. This can be compared with 
+the normal growth rate in children by age group (see Table 12.8). A 
+child in need of catch-­up growth should exceed the expected growth 
+rate for normal children. Periodically, the family can be observed or 
+recorded during a feeding session to determine improvement from 
+prior sessions.
+LONG-­TERM OUTCOMES
+Children with early FTT may suffer long-­term consequences such as 
+shorter adult height, less schooling, and diminished economic pro­
+ductivity through changes in brain growth and function. However, 
+outcomes may not be as ominous as early studies suggested. Paren­
+tal self-­perceived competence, child adaptability, and adherence to 
+nutritional and behavioral plans have been associated with good 
+outcomes. Among those referred for management, younger child age 
+and multiple child and family risk factors are associated with better 
+weight gain.
+Poverty and associated family and environmental problems may 
+exacerbate the negative effects of FTT. Children with FTT who expe­
+rience neglect are more likely to have poor outcomes. However, 
+children who are diagnosed early and given appropriate treatment 
+and family support services have better recovery than those who are 
+treated later.
+Children with a biomedical etiology that can be successfully man­
+aged often do well. For those with undetermined causes or persistent 
+FTT, outcomes can be poor. Growth may continue to be delayed. Ulti­
+mate stature may be shorter than that predicted from mean parental 
+heights (see Chapter 56).
+Of interest is that with long-­term follow-­up, some children 
+with FTT and rapid nutritional rehabilitation have been observed 
+to develop obesity with long-­term consequences of insulin resis­
+tance and cardiovascular risk. While rapid catch-­up growth may 
+be desirable in some infants, slower weight recovery in other chil­
+dren may have long-­term benefits. The factors that lead some chil­
+dren to develop these consequences of overnutrition are not fully 
+understood.
+Poor developmental and cognitive outcomes have been found in 
+many children with FTT; however, it is difficult to ascribe outcomes 
+solely to the nutritional deficiencies. Those who were symmetrically 
+small for gestational age and those with microcephaly are particu­
+larly at risk for diminished cognitive potential; nutritional enhance­
+ment may have minimal effect. Children who are stunted in the first 
+2 years of life have poor long-­term outcomes. Home intervention by 
+child development specialists may lessen the impact of FTT on cogni­
+tive skills. Children should be referred for early intervention services 
+as soon as deficits are detected. Better success will be achieved if inter­
+vention is started early.
+Children with FTT may manifest behavioral problems, even after 
+the nutritional issues appear to be resolved. If the behaviors are par­
+ticularly difficult to manage, the services of a psychologist or behavior 
+specialist are warranted.
+PROTEIN ENERGY MALNUTRITION
+Protein energy malnutrition (PEM) is traditionally a disorder of 
+resource-­poor countries with multiple risk factors, the major risk being 
+food insecurity. Features are noted in Table 12.9.
+There is an increasing awareness of the presence of PEM 
+in developed countries, most often due to parental beliefs that 
+include food elimination diets from fear of food allergies or food 
+protein–induced enterocolitis syndrome (Fig. 12.8). Other risk 
+factors include restrictive diets (autism, eating disorders), cultural 
+remedies to treat feeding intolerance or other illnesses, and food 
+fads. Concerns for cow’s milk protein allergy has resulted in food 
+substitutions with low-­protein or low-­caloric-­density foods such 
+as rice milk, nondairy creamers, formula dilution, home remedies 
+of barley or potato juice or fruit purees, and poorly balanced vegan 
+diets.
+Hypoalbuminemia and edema are often present with a diffuse 
+erythematous crusting, erosive, and desquamating rash (see Fig. 
+12.5). The differential diagnosis of the rash includes Langerhans 
+cell histiocytosis, acrodermatitis enteropathica, eczema, and sca­
+bies. The differential diagnosis of the edema includes nephrotic syn­
+drome; liver disease; and, because diarrhea is often present in PEM, 
+a protein-­losing enteropathy (Table 12.10). Management is noted in 
+Figure 12.8.
+TABLE 12.9  Features of Protein-­Energy Malnutrition Syndromes in Children
+Parameter
+Kwashiorkor
+Marasmus
+Nutritional Dwarfism
+Appetite
+Poor
+Good
+Good
+Edema
+Present
+Absent
+Absent
+Mood
+Irritable when picked up, apathetic 
+when alone
+Alert
+Alert
+Weight for age (% expected)
+60–80
+<60
+<60
+Weight for height
+Normal or decreased
+Markedly decreased
+Normal
+From Feldman M, Friedman LS, Brandt LJ, eds. Sleisenger and Fordtran’s Gastrointestinal and Liver Disease. 10th ed. Philadelphia: Elsevier; 
+2016:74, Table 5-­17.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+220
+SECTION 4   Gastrointestinal Disorders
+Assess nutritional risk
+0-5 years
+Red flags:
+• Weight for height or height for age
+  ≤ –2 z-score
+• Recent static weight/growth
+  faltering or downward crossing of
+  ≥2 centiles or 1 z-score
+• Feeding difficulties
+• Exclusion of cow’s milk
+• Food allergy and concomitant
+  atopic eczema
+• Multiple food elimination
+• Family are vegetarian or vegan
+• Other food restrictions due to
+  religious or cultural factors
+Red flags:
+• Weight for height/BMI ≤ –2
+  z-score growth faltering
+  or downward crossing of
+  ≥2 centiles or 1 z-score
+• Avoidant Restrictive
+  Food Intake Disorder
+• Multiple food elimination
+• Family are vegetarian or
+  vegan
+• Other food restrictions
+  due to religious or
+  cultural factors
+Red flags:
+• BMI < 18.5
+• Exclusion of milk or
+  wheat or multiple
+  foods ≥ 6 months
+• Vegetarian or vegan
+• Other food restrictions
+  due to religious or
+  cultural factors
+• Presence of another
+  chronic condition
+• Other dietary
+  restrictions, e.g.,
+  diabetes
+6-17 years
+Review intake of key staple foods, amount and frequency, and advise on substitute foods
+• Age-dependent
+  substitute milk
+• Other cheese and
+  yogurt substitutes,
+  e.g., soy or coconut-
+  based
+• Assess protein and
+  energy intakes
+• Calcium, iron, zinc,
+  vitamins A and D
+  supplements may be
+  required
+Milk
+• Check need to
+  avoid barley and rye
+• Advise alternative
+  sources of grains,
+  e.g., oats, rice, corn,
+  quinoa, teff, and
+  buckwheat
+• Check if wheat
+  substitute foods
+  (gluten-free
+  products) are being
+  eaten
+• B vitamin and iron
+  supplements may
+  be required
+Wheat
+• If vegetarian,
+  ensure diet is
+  enhanced with
+  other high-protein
+  foods including
+  beans and lentils
+Egg
+• Omega 3
+  supplements may
+  be required
+Fish
+High nutritional risk if avoiding both wheat
+and milk
+Check individual requirement for vitamin D
+and follow country-specific guidelines for
+age-appropriate vitamin D supplementation
+Vitamin D
+• Legumes, e.g.,
+  beans and
+  lentils, will often
+  be tolerated,
+  and can be
+  substituted for
+  peanuts or tree nuts
+• Vegans may
+  need iron,
+  calcium, and B
+  vitamin supplements
+Soy, peanuts,
+tree nuts,
+seeds
+18 years or over
+Fig. 12.8  Approach to evaluate risk for adverse elimination diets. BMI, body mass index. (From Skypala IJ, 
+McKenzie R. Nutritional issues in food allergy. Clin Rev Allergy Immunol. 2019;57:166–178 [Fig. 1, p. 172].)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+221
+CHAPTER 12  Failure to Thrive
+TABLE 12.10  Etiology of Protein-­Losing Enteropathy
+Categories
+Agent, Diseases (Gene)
+Gastrointestinal infections
+CMV, rotavirus, HIV enteropathy
+Salmonella, Shigella, Campylobacter, Clostridium difficile, Helicobacter pylori
+Whipple disease
+Small bowel bacterial overgrowth
+Giardiasis
+Strongyloides stercoralis
+Tuberculosis
+Gastrointestinal inflammatory 
+disorders
+Menetrier disease
+Eosinophilic gastroenteropathy
+Food (milk, others)-­induced enteropathy
+Celiac disease, Crohn disease
+Ulcerative colitis, tropical sprue
+Radiation enteritis
+GVHD, NEC
+Malrotation/volvulus
+Lymphoproliferative disorder (post transplant)
+Malignancies
+Adenocarcinomas
+Lymphomas
+Kaposi sarcoma
+Neuroblastoma
+Vasculitic disorders
+Henoch-­Schönlein purpura
+Systemic lupus erythematosus
+Drugs
+NSAID-­induced enteropathy
+Metabolic/genetic
+Congenital disorders of glycosylation (CDG)
+Variants in DGAT1 gene
+Variants in CD55
+Congenital enterocyte heparan sulfate deficiency (ALG6)
+PVLAP-associated diarrhea
+Infantile systemic hyalinosis
+Intestinal lymphangiectasia
+Congenital/primary IL
+ • Syndromal/genetic/ metabolic
+Turner, Noonan, Klippel–Trenaunay–Weber
+Hennekam (CCBE1, FAT4) syndromes
+PLE with skeletal dysplasia (FGFR3)
+Generalized lymphatic dysplasia (PIEZO1)
+Secondary
+ • Inflammation
+Sarcoidosis
+ • Radiotherapy
+Retroperitoneal fibrosis
+ • Neoplastic disorders
+Retroperitoneal malignancies, lymphoma
+ • Cardiac disorders
+Constrictive pericarditis, after Fontan operation, CHF
+ • Other
+Budd-­Chiari syndrome, lymphatic-­enteric fistula
+CDG, carbohydrate-­deficient glycoprotein; CHF, congestive heart failure; CMV, cytomegalovirus; GVHD, graft versus host disease; IL, intestinal 
+lymphangiectasia; NEC, necrotizing enterocolitis, NSAID, nonsteroidal antiinflammatory drug; PLE, protein-­losing enteropathy.
+   	 S U MMA RY  A N D  R E D  F L A G S
+FTT (or growth faltering) is a complex condition encompassing bio­
+medical and psychosocial causes. In the United States, it is most often 
+associated with various psychosocial attributes of the parents, family, 
+or child. The keys to determining the cause are a thorough history and 
+physical examination, including assessment of the growth pattern over 
+time. Red flags include refusal to eat, poor response to feedings, multi­
+ple formula or diet changes, unusual parental food beliefs or fear of food 
+allergies, an inappropriately small head size, and abnormal physical 
+signs. Clinicians should be vigilant in identifying chronic disease as 
+well as indicators of child abuse and neglect (see Table 12.3). Recurrent 
+emesis, altered mental status, metabolic acidosis, and hypoglycemia 
+should raise suspicions of an inborn error of metabolism. Microceph­
+aly, seizures, developmental delay or developmental regression, and 
+hypo-­ or hypertonia should lead to suspicions of a chronic neurologic 
+problem. Identifying and treating the medical and psychosocial causes 
+while enhancing calorie intake can result in better outcomes.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+221.e1
+BIBLIOGRAPHY
+Reviews
+Drennen CR, Coleman SM, Ettinger de Cuba S, et al. Food insecurity, 
+health, and development in children under age four years. Pediatrics. 
+2019;144(4):e20190824.
+Fewtrell M, Bronsky J, Campoy C, et al. Complementary feeding: a position 
+paper by the European Society for Paediatric Gastroenterology, Hepa­
+tology, and Nutrition (ESPGHAN) Committee on Nutrition. J Pediatr 
+Gastroenterol Nutr. 2017;64(1):119–132.
+Gahagan S. The development of eating behavior—biology and context. J Dev 
+Behav Pediatr. 2012;33:261–271.
+Gonzalez-­Viana E, Dworzynski K, Murphy MS, et al., Guideline Commit­
+tee. Faltering growth in children: summary of NICE guidance. BMJ. 
+2017;358:j4219.
+Heyman MB, Abrams SA, Section on Gastroenterology, Hepatology, And 
+Nutrition, Committee on Nutrition. Fruit juice in infants, children, and 
+adolescents: current recommendations. Pediatrics. 2017;139(6):e20170967.
+Jaffe A. Failure to thrive: current clinical concepts. Pediatr Rev. 2011;32:100–
+107.
+Larson-­Nath CM, Goday PS. Failure to thrive: a prospective study in a pedi­
+atric gastroenterology clinic. J Pediatr Gastroenterol Nutr. 2016;62(6):907–
+913.
+Meyers A, Joyce K, Coleman SM, Children’s HealthWatch, et al. Health of 
+children classified as underweight by CDC reference but normal by WHO 
+standard. Pediatrics. 2013;131:e1780–e1787.
+Pérez-­Escamilla R, Segura-­Pérez S, Lott M. Feeding guidelines for infants 
+and young toddlers: a responsive parenting approach. Nutr Today. 
+2017;52(5):223–231.
+Rabago J, Marra K, Allemdinger N, Shur N. The clinical geneticist and the 
+evaluation of failure to thrive versus failure to feed. Am J Med Genet, Part C 
+Semin Med Genet. 2015;169C:337–348.
+Rudolf MCJ, Logan S. What is the long-­term outcome for children who fail to 
+thrive? A systematic review. Arch Dis Child. 2005;90:925–931.
+Suskind DL. Nutritional deficiencies during normal growth. Pediatr Clin North 
+Am. 2009;56:1035–1053.
+Treatment and Outcomes
+Black MM, Aboud FE. Responsive feeding is embedded in a theoretical frame­
+work of responsive parenting. J Nutr. 2011;141(3):490–494.
+Black MM, Tilton N, Bento S, et al. Recovery in young children with weight 
+faltering: child and household risk factors. J Pediatr. 2016;170:301–306.
+Hoddinott J, Behrman JR, Maluccio JA, et al. Adult consequences of growth 
+failure in early childhood. Am J Clin Nutr. 2013;98:1170–1178.
+Mitchell GL, Farrow C, Haycraft E, et al. Parental influences on children’s eat­
+ing behaviour and characteristics of successful parent-­focussed interven­
+tions. Appetite. 2013;60(1):85–94.
+Puls HT, Hall M, Bettenhausen J, et al. Failure to thrive hospitalizations 
+and risk factors for readmission to children’s hospitals. Hosp Pediatr. 
+2016;6(8):468–475.
+Romano C, Hartman C, Privitera C, et al. Current topics in the diagnosis and 
+management of the pediatric non organic feeding disorders (NOFEDS). 
+Clin Nutr. 2015;18:195–200.
+Sant’Anna Ana MGA, Hammes PS, Porporino M, et al. Use of cyproheptadine 
+in young children with feeding difficulties and poor growth in a pediatric 
+feeding program. J Pediatr Gastroenterol Nutr. 2014;59:674–678.
+Singhal A. Long-­term adverse effects of early growth acceleration or catch-­up 
+growth. Ann Nutr Metab. 2017;70(3):236–240.
+Protein Energy Malnutrition
+Carvalho NF, Kenney RD, Carrington PH, et al. Severe nutritional deficien­
+cies in toddlers resulting from health food milk alternatives. Pediatrics. 
+2001;107(4):1–7.
+Levitt DG, Levitt MD. Protein losing enteropathy: comprehensive review of 
+the mechanistic association with clinical and subclinial disease states. Clin 
+Exper Gastroenterol. 2017;10:147–168.
+Liu T, Howard RM, Mancini AJ, et al. Kwashiorkor in the United States. Arch 
+Dermatol. 2001;137:630–636.
+Marjet JA, Braamskamp M, Koert M, et al. Clinical practice. Eur J Pediatr. 
+2010;169:1179–1185.
+Tierney EP, Sage RJ, Shwayder T. Kwashiorkor from a severe dietary restric­
+tion in an 8-­month infant in suburban Detroit, Michigan: case report and 
+review of the literature. Intern J Dermatol. 2010;49:500–506.
+Umar SB, DiBaise JK. Protein-­losing enteropathy: case illustrations and clinical 
+review. Am J Gastroenterol. 2010;105:43–49.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

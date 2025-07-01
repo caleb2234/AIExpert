@@ -1,0 +1,3488 @@
+27
+INTRODUCTION
+Cough is an important defense mechanism of the lungs and is a com­
+mon symptom, particularly during winter months. In most patients, 
+it is self-­limited. However, cough can be ominous, indicating serious 
+underlying disease, because of accompanying problems (hemoptysis) 
+or because of serious consequences of the cough itself (e.g., syncope 
+and hemorrhage), or cough may present as an uncommon disorder 
+that mimics a common disease.
+Pathophysiology
+The cough reflex serves to prevent the entry of harmful substances into 
+the tracheobronchial tree and to expel excess secretions and retained 
+material from the tracheobronchial tree. Cough begins with stimula­
+tion of cough receptors, located in the upper and lower airways, and in 
+many other sites such as the ear canal, tympanic membrane, sinuses, 
+nose, pericardium, pleura, and diaphragm. Receptors send impulses 
+via vagal, phrenic, glossopharyngeal, or trigeminal nerves to the “cough 
+center,” which is in the medulla. Because cough is not only an invol­
+untary reflex activity but also one that can be initiated or suppressed 
+voluntarily, “higher centers” must also be involved in the afferent limb 
+of the responsible pathway. The neural impulses go from the medulla to 
+the appropriate efferent pathways to the larynx, tracheobronchial tree, 
+and expiratory muscles.
+The act of coughing (Fig. 3.1) begins with an inspiration, followed 
+by expiration against a closed glottis (compressive phase), resulting in 
+the buildup of intrathoracic pressures (50–300 cm H2O). These pres­
+sures may be transmitted to vascular, cerebrospinal, and intraocular 
+spaces. Finally, the glottis opens, allowing for explosive expiratory air­
+flow (300 m/sec) and expulsion of mucus, particularly from the larger, 
+central airways. The inability to seal the upper airway (e.g., endotra­
+cheal tube or tracheostomy) impairs the effectiveness of cough. Respi­
+ratory muscle weakness (e.g., muscular dystrophy) impairs both the 
+inspiratory and the compressive phase.
+History
+The history often provides the most important body of information 
+about a child’s cough. A diagnosis can often be discerned with relative 
+certainty from the environmental and exposure history, family history, 
+timeframe, and characterization of the cough.
+Demographics
+The patient’s age (Table 3.1) helps to focus the diagnostic possibilities. 
+Congenital anatomic abnormalities may be symptomatic from birth, 
+whereas toddlers, who may have incomplete neurologic control over 
+swallowing and often put small objects in their mouths, are at risk for 
+foreign body aspiration; adolescents may experiment with smoking 
+traditional cigarettes, e-­cigarettes, or vaping. Socioeconomic factors 
+must be considered; a family that cannot afford central heating may 
+use a smoky wood-­burning stove; spending time at a daycare center 
+may expose an infant to respiratory viruses; and several adult smokers 
+in a small home expose children to a high concentration of respiratory 
+irritants.
+Characteristics of the Cough
+The various cough characteristics can help determine the cause of 
+cough. The causes of acute, recurrent, and chronic coughs may be quite 
+different from each other (Fig. 3.2; see also Table 3.1). A cough can be 
+paroxysmal, brassy, productive, weak, volitional, and “throat-­clearing,” 
+and it may occur at different times of the day (Tables 3.2 and 3.3). The 
+previous response or lack of response to some therapies for recurrent 
+and chronic cough can provide important information (see Table 3.3). 
+Furthermore, some coughs may be caused or worsened by medications 
+(Table 3.4).
+Associated Symptoms
+A history of accompanying signs or symptoms, whether localized to 
+the respiratory tract (e.g., wheeze, stridor, transient tachypnea of the 
+newborn) or elsewhere (e.g., failure to thrive, frequent malodorous 
+stools) can give important clues (Table 3.5; see also Tables 3.2 and 3.3). 
+It is essential to remember that the daily language of the physician is 
+full of jargon that may be adopted by parents but with a different mean­
+ing from that understood by physicians. If a parent says that a child 
+“wheezes” or “croups” or is “short of breath,” it is important to find out 
+what the parent means by that term and ask them to mimic the sound 
+or action.
+Family and Patient’s Medical History
+Because many disorders of childhood have genetic or environmen­
+tal familial components, the family history can provide helpful 
+information:
+ • Are there older siblings with cystic fibrosis (CF) or asthma?
+ • Is there a coughing sibling whose kindergarten class has been closed 
+because of pertussis or COVID-­19?
+ • Is there an adolescent or adult with chronic cough (bronchitis) who 
+may have pertussis or tuberculosis?
+ • Was the child premature, and if so, did they spend a month on the 
+ventilator, and do they now have chronic lung disease (bronchopul­
+monary dysplasia)?
+ • Did the toddler choke on a carrot or other food a few months ago?
+ • Did the child have respiratory syncytial virus (RSV), bronchiolitis, 
+or rhinovirus infection as an infant?
+ • Did the child receive a bone marrow transplant?
+ • Is the child fully immunized?
+ • Did the infant have a tracheoesophageal fistula repaired in the neo­
+natal period?
+Cough
+Louella B. Amos
+3
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+28
+SECTION 2  Respiratory Disorders
+Physical Examination
+Inspection
+Initial inspection often reveals the seriousness of an illness:
+ • Is the child struggling to breathe (dyspnea)?
+ • Does the child have an anxious look?
+ • Is the child in respiratory distress?
+ • Can the child be calmed or engaged in play?
+ • Are there audible respiratory sounds?
+ • Is the child’s skin blue (representing cyanosis) or ashen?
+ • Does the child appear wasted, with poor growth that may indicate a 
+chronic illness?
+The respiratory rate is often elevated with parenchymal lung dis­
+ease or extrathoracic airway obstruction. Respiratory rates vary with 
+the age of the child (Fig. 3.3) and with pulmonary infection, airway 
+obstruction, activity, wakefulness and sleep, fever, metabolic acidosis, 
+and anxiety.
+Odors may also give helpful clues. Does the examining room or the 
+clothing smell of stale cigarette smoke? Is there a foul odor from a dia­
+per with a fatty stool, which may suggest pancreatic insufficiency and 
+CF? Is the child’s breath malodorous, as can be noticed in sinusitis, 
+nasal foreign body, lung abscess, or bronchiectasis?
+Fingers. Cyanotic nail beds suggest hypoxemia, poor peripheral 
+circulation, or both. The examiner looks for the presence of digital 
+clubbing (Fig. 3.4), which makes asthma or acute pneumonia extremely 
+unlikely. The absence of digital clubbing but a history of severe chronic 
+cough in an older child makes CF unlikely.
+Chest, abdomen, and spine. The shape of the chest gives 
+information. Is the anteroposterior (AP) diameter increased, which 
+indicates hyperinflation of the lungs from obstruction of small airways 
+(e.g., asthma, bronchiolitis, CF)? Is this diameter small, as can be seen 
+with some restrictive lung diseases with small lung volumes (e.g., 
+muscular dystrophy, spinal muscular atrophy)? The normal infant 
+has a “round” chest configuration, with the AP diameter of the chest 
+about 84% of the transverse (lateral) diameter. With growth, the chest 
+becomes more flattened in the AP dimension, and the AP-­to-­transverse 
+ratio is between 70% and 75%. Although obstetric calipers can be used 
+Sound
+Air
+volume
+Flow
+rates
+Subglottic
+pressure
+0.1 sec
+1
+2
+3
+Neg. flow phase
+Inspiratory
+phase
+Glottis
+closure
+Expiratory
+phase
+(explosive)
+Min. flow
+phase
+Pos. flow phase
+4.0
+0.0
+1.0
+2.0
+3.0
+5.0
+6.0
+L/Sec
+40
+0
+10
+20
+30
+50
+cmH2O
+Fig. 3.1  Cough mechanics, showing changes in expiratory flow rate, air 
+volume, subglottic pressure, and sound recording during cough. (Mod­
+ified from Yanagihara N et al. The physical parameters of cough: the 
+larynx in a normal single cough. Acta Otolaryngol. 1996;61:495–510.)
+TABLE 3.1  Causes of Cough
+Age Group Acute
+Recurrent
+Chronic (>4 wk)
+Infants
+Infection1*
+Aspiration2
+Foreign body3
+Asthma1
+CF1
+GER1
+Aspiration2
+Anatomic 
+abnormality3†
+Passive smoking3
+Asthma1
+CF1
+GER1
+Aspiration2
+Pertussis2
+Anatomic abnormality3†
+Passive smoking3
+Toddlers
+Infection1
+Foreign body2
+Aspiration3
+Asthma1
+CF1
+GER1
+Aspiration2
+Anatomic 
+abnormality3
+Passive smoking3
+Protracted 
+bacterial 
+bronchitis1
+Asthma1
+CF1
+GER1
+Aspiration2
+Pertussis2
+Anatomic abnormality3
+Passive smoking3
+Protracted bacterial 
+bronchitis1
+Children
+Infection1
+Foreign body3
+Asthma1
+CF1
+GER1
+Passive smoking3
+Protracted 
+bacterial 
+bronchitis1
+Asthma1
+CF1
+GER2
+Pertussis2
+Mycoplasma3
+Habit3
+Anatomic abnormality3
+Passive smoking3
+Protracted bacterial 
+bronchitis1
+Adolescents
+Infection1
+Vaping
+Asthma1
+CF1
+GER1
+Aspiration2
+Anatomic 
+abnormality3
+Protracted 
+bacterial 
+bronchitis1
+Asthma1
+CF1
+GER2
+Smoking2
+Tuberculosis3
+Habit2
+Pertussis3
+Aspiration3
+Anatomic abnormality3
+Tumor3
+Protracted bacterial 
+bronchitis1
+*Infections include upper (pharyngitis, sinusitis, tracheitis, rhinitis, otitis) 
+and lower (pneumonia, abscess, empyema) respiratory tract disease.
+†Anatomic abnormality includes tracheobronchomalacia, tracheoesopha­
+geal fistula, vascular ring, abnormal position, or take-­off of large bronchi.
+1Common.
+2Less common.
+3Much less common.
+CF, cystic fibrosis; GER, gastroesophageal reflux.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+29
+CHAPTER 3  Cough
+to give an objective assessment of the AP diameter of the chest, most 
+clinicians rely on their subjective assessment of whether the diameter 
+is increased: does the patient look “barrel-­chested”?
+Intercostal, subcostal, suprasternal, and supraclavicular retractions 
+(inspiratory sinking in of the soft tissues) indicate increased effort of 
+breathing and reflect both the contraction of the accessory muscles of 
+respiration and the resulting difference between intrapleural and extra­
+thoracic pressure. Retractions occur most commonly with obstructed 
+airways (upper or lower), but they may occur with any condition lead­
+ing to the use of the accessory muscles. Any retractions other than the 
+mild normal depressions seen between an infant’s lower ribs indicate 
+a greater-­than-­normal work of breathing. Audible end-­expiratory 
+“grunting” is suggestive of alveolar fluid from pulmonary, cardiac, or 
+inflammation; it is often associated with severe disease.
+Less easy to notice than intercostal retractions is their bulging out 
+with expiration in a child with expiratory obstruction (asthma). Con­
+traction of the abdominal muscles with expiration is easier to notice 
+and is another indication that a child is working harder than normal to 
+push air out through obstructed airways.
+Inspection of the spine may reveal kyphosis or scoliosis. There is a 
+risk of restrictive lung disease if the curvature is severe.
+Palpation
+Palpating the trachea, particularly in infants, may reveal a shift to one 
+side, which suggests loss of volume of the lung on that side or extrapul­
+monary gas (pneumothorax) on the other side. Placing one hand on each 
+side of the chest while the patient breathes may enable the examiner to 
+detect asymmetry of chest wall movement, either in timing or in degree 
+of expansion. The former indicates a partial bronchial obstruction, and 
+the latter suggests a smaller lung volume, voluntary guarding, or dimin­
+ished muscle function on one side. Palpating the abdomen gently during 
+expiration may allow the examiner to feel the contraction of the abdom­
+inal muscles in cases of expiratory obstruction. Hyperinflation may push 
+the liver down, making it palpable below the costal margin.
+Palpation for tactile fremitus, the transmitted vibrations of the spo­
+ken word (“ninety-­nine” is the word often used to accentuate these 
+Foreign body
+Pulmonary embolism
+Inhaled irritant
+Nasopharyngitis
+Sinusitis
+Laryngotracheitis
+Viral, bacterial pneumonia
+Hypersensitivity pneumonia
+Cystic fibrosis
+Asthma
+Tuberculosis
+Mediastinal
+ disease
+Habit
+Other (see below)
+Cystic fibrosis
+Immunodeficiency (HIV,
+ agammaglobulinemia,
+ combined immunodeficiency)
+Leukocyte disorders (e.g.,chronic granulomatous
+ disease)
+Ciliary dyskinesia (dysmotile cilia syndrome,
+ Kartagener syndrome)
+Anatomic disorders (sequestration, reflux,
+ bronchiectasis, lobar emphysema, cystic
+ adenomatoid malformation, aspiration)
+Sickle cell anemia
+COUGH
+Sudden onset
+Fever, rhinorrhea
+Normal chest exam
+Fever, abnormal
+chest  exam,
+acute onset
+Chronic cough
+Recurrent cough
+and pneumonia
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+No
+No
+No
+Fig. 3.2  Algorithm for differential diagnosis of cough.
+TABLE 3.2  Clinical Clues About Cough
+Characteristic
+Think of
+Staccato, paroxysmal
+Pertussis, cystic fibrosis, foreign body, Chlamydia 
+species, Mycoplasma species, parapertussis
+Followed by “whoop”
+Pertussis
+All day, rarely during 
+sleep, honking
+Habit
+Barking, brassy
+Croup, habit, tracheomalacia, tracheitis, 
+epiglottitis
+Staccato
+Chlamydia
+Hoarseness
+Laryngeal involvement (croup, recurrent laryngeal 
+nerve involvement)
+Abrupt onset
+Foreign body, pulmonary embolism
+Follows exercise
+Asthma
+Accompanies eating, 
+drinking
+Aspiration, gastroesophageal reflux, 
+tracheoesophageal fistula
+Throat clearing
+Postnasal drip
+Productive (sputum)
+Infection
+Sputum casts
+Plastic bronchitis
+Night cough
+Sinusitis, asthma
+Seasonal
+Allergic rhinitis, asthma
+Immunosuppressed 
+patient
+Bacterial pneumonia, Pneumocystis jirovecii, 
+Mycobacterium tuberculosis, Mycobacterium 
+avium–intracellulare, cytomegalovirus
+Dyspnea
+Hypoxia, hypercarbia
+Animal exposure
+Chlamydia psittaci (birds), Yersinia pestis 
+(rodents), Francisella tularensis (rabbits), Q 
+fever (sheep, cattle), hantavirus (rodents), 
+histoplasmosis (pigeons)
+Geographic
+Histoplasmosis (Mississippi, Missouri, Ohio 
+River Valley), coccidioidomycosis (Southwest), 
+blastomycosis (North and Midwest)
+Workdays with clearing 
+on days off
+Occupational exposure
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+30
+SECTION 2  Respiratory Disorders
+vibrations), helps determine areas of increased parenchymal density 
+and hence increased fremitus (as in pneumonic consolidation) or 
+decreased fremitus (as in pneumothorax or pleural effusion).
+Percussion
+The percussion determined by the examiner’s tapping of one middle 
+finger on the middle finger of the other hand, which is firmly placed 
+over the patient’s thorax, may be dull over an area of consolidation or 
+effusion and hyperresonant with air trapping. Percussion can also be 
+used to determine diaphragmatic excursion. The lowest level of reso­
+nance at inspiration and expiration determines diaphragmatic motion.
+TABLE 3.3  Cough: Some Aspects of Differential Diagnosis
+Cause
+Abrupt 
+Onset
+Only When 
+Awake
+Yellow 
+Sputum
+Responds 
+to Inhaled 
+Bronchodilator 
+(by History)
+Responds 
+to 
+Antibiotics 
+(by History)
+Responds 
+to Steroids 
+(by History)
+Failure to 
+Thrive
+Wheeze
+Digital 
+Clubbing
+Asthma
++
+++
+++
++++
++
++++
++
++++
+–
+Cystic fibrosis
++
+++
+++
++
++++
++
+++
+++
++++
+Infection
++
++
+++
+–
+++
+–
++
++
+–
+Aspiration
++
++
++
++
++
++
+++
+++
++
+Gastroesophageal 
+reflux
++
+++
+–
+–
+–
++
+++
+++
+–
+Foreign body
++++
++
+++
++
+++
++
++
+++
++
+Habit
+–
++++
+–
+–
+–
+–
+–
+–
+–
++++, very common and suggests the diagnosis; ++, common; +, uncommon; –, almost never and makes examiner question the diagnosis.
+TABLE 3.4  Drugs Causing Cough
+Drug
+Mechanism
+Tobacco, marijuana
+Direct irritants
+β-­Adrenergic blockers
+Potentiate asthma
+ACE inhibitors
+↑ Bradykinin (protussive mediator)
+Bethanechol
+Potentiates asthma
+Nitrofurantoin
+(?) Via oxygen radicals vs autoimmunity
+Antineoplastic agents
+Various (including pneumonitis/fibrosis, 
+hypersensitivity, noncardiogenic pulmonary 
+edema)
+Sulfasalazine
+(?) Causes bronchiolitis obliterans
+Penicillamine
+(?) Causes bronchiolitis obliterans
+Diphenylhydantoin
+Hypersensitivity pneumonitis
+Aspirin, NSAIDs
+Potentiate asthma
+Nebulized antibiotics
+(?) Direct irritant
+Inhaled/nebulized 
+bronchodilators
+Increases tracheal/bronchial wall instability in 
+airway malacia; or via reaction to vehicle
+Theophylline, caffeine
+Indirect, via worsened gastroesophageal reflux 
+(relaxation of lower esophageal sphincter)
+Metabisulfite
+Induces allergic asthma
+Cholinesterase inhibitors
+Induce mucus production (bronchorrhea)
+ACE, angiotensin-­converting enzyme; NSAIDs, nonsteroidal antiinflam­
+matory drugs.
+TABLE 3.5  Nonpulmonary History 
+Suggesting Cystic Fibrosis
+Maldigestion, malabsorption, steatorrhea (in 80–90%)
+Poor weight gain
+Family history of cystic fibrosis
+Salty taste to skin
+Rectal prolapse (up to 20% of patients)
+Digital clubbing
+Meconium ileus (in 10–15%)
+Intestinal atresia
+Intestinal obstruction after infancy
+Neonatal cholestatic jaundice
+Male sterility
+Chronic sinusitis
+Age (months)
+0
+0
+12
+24
+36
+4
+8
+12
+16
+10
+20
+30
+40
+50
+60
+Age (years)
+Respiratory rate (breaths/min)
+Fig. 3.3  Mean values (blue line) ±2 standard deviations (red and yel­
+low lines) of the normal respiratory rate at rest (during sleep in children 
+younger than 3 years). There is no significant difference between the 
+genders. (Data from Pasterkamp H. The history and physical examina­
+tion. In: Chernick V, ed. Kendig’s Disorders of the Respiratory Tract in 
+Children. 6th ed. Philadelphia: WB Saunders; 1998:88.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+31
+CHAPTER 3  Cough
+Auscultation
+Because lung sounds tend to be higher pitched than heart sounds, the 
+diaphragm of the stethoscope is better suited to pulmonary ausculta­
+tion than is the bell, whose target is primarily the lower-­pitched heart 
+sounds (Table 3.6). The adult-­sized stethoscope generally is superior 
+to the smaller pediatric or neonatal diaphragms, even for listening to 
+small chests, because its acoustics are better (Figs. 3.5 and 3.6).
+Adventitious sounds come in a few varieties, namely, stridor, crack­
+les, rhonchi, and wheezes. Other sounds should be described in clear, 
+everyday language.
+ • Stridor is a continuous musical sound usually heard on inspiration 
+and is caused by narrowing in the extrathoracic airway, as with 
+croup or laryngomalacia.
+ • Crackles are discontinuous, representing the popping open of air-­
+fluid menisci as the airways dilate with inspiration. Fluid in larger 
+airways causes crackles early in inspiration (congestive heart fail­
+ure). Crackles that tend to be a bit lower in pitch (“coarse” crack­
+les) than the early, higher-­pitched (“fine”) crackles are associated 
+with fluid in small airways (pneumonia). Although crackles usually 
+signal the presence of excess airway fluid (pneumonia, pulmonary 
+edema), they may also be produced by the popping open of nonin­
+fected fibrotic or atelectatic airways. Fine crackles are not audible 
+at the mouth, whereas coarse crackles may be. Crackles is the pre­
+ferred term, rather than the previously popular “rales.”
+ • Rhonchi, or “large airway sounds,” are continuous gurgling or bub­
+bling sounds typically heard during both inhalation and exhalation. 
+These sounds are caused by movement of fluid and secretions in 
+larger airways (in asthma, viral upper respiratory infection [URI]). 
+Rhonchi, unlike other sounds, may clear with coughing.
+ • Wheezes are continuous musical sounds (lasting longer than 
+200 msec), caused by vibration of narrowed airway walls, as with 
+asthma, and perhaps vibration of material within airway lumens. 
+a
+a
+b
+b
+c
+c
+Phalangeal depth ratio
+NORMAL
+CLUBBING
+IPDDPD
+DPDIPD
+abc180
+abc195
+Hyponychial angle
+Schamroth sign
+Fig. 3.4  Measurement of digital clubbing. The ratio of the distal phalan­
+geal depth (DPD) to the interphalangeal depth (IPD), or the phalangeal 
+depth ratio, is normally <1 but increases to >1 with finger clubbing. 
+The DPD/IPD ratio can be measured with calipers or, more accurately, 
+with finger casts. The hyponychial angle is measured from lateral pro­
+jections of the finger contour on a magnifying screen and is normally 
+<180 degrees but >195 degrees with finger clubbing. Schamroth sign is 
+useful for bedside assessment. The dorsal surfaces of the terminal pha­
+langes of similar fingers are placed together. With clubbing, the normal 
+diamond-­shaped aperture or “window” at the bases of the nail beds 
+disappears, and a prominent distal angle forms between the end of the 
+nails. In normal subjects, this angle is minimal or nonexistent. (From 
+Pasterkamp H. The history and physical examination. In: Chernick V, ed. 
+Kendig’s Disorders of the Respiratory Tract in Children. 6th ed. Philadel­
+phia: WB Saunders; 1998.)
+TABLE 3.6  Physical Signs of Pulmonary Disease
+Disease 
+Process
+Mediastinal 
+Deviation
+Chest Motion
+Fremitus
+Percussion
+Breath Sounds
+Adventitious 
+Sounds
+Voice Signs
+Consolidation 
+(pneumonia)
+No
+Reduced over area, 
+splinting
+Increased
+Dull
+Bronchial or reduced Crackles
+Egophony,* 
+whispering 
+pectoriloquy 
+increased†
+Bronchospasm
+No
+Hyperexpansion 
+with limited 
+motion
+Normal or 
+decreased
+Hyperresonant
+Normal to 
+decreased
+Wheezes, crackles
+Normal to 
+decreased
+Atelectasis
+Shift toward lesion Reduced over area
+Decreased
+Dull
+Reduced or absent
+None or crackles
+None
+Pneumothorax
+Tension deviates 
+trachea and PMI 
+to opposite side
+Reduced over area
+None
+Resonant, 
+tympanitic
+None
+None
+None
+Pleural effusion
+Deviation to 
+opposite side
+Reduced over area
+None
+Dull
+None
+Friction rub; splash, if 
+hemopneumothorax
+None
+*Egophony is present when e sounds like a.
+†Whispering pectoriloquy produces clearer-­sounding whispered words (e.g., “ninety-­nine”).
+Modified from Dantzker D, Tobin M, Whatley R. Respiratory diseases. In: Andreoli TE, Carpenter CJ, Plum F, Smith LH, eds. Cecil Essentials of 
+Medicine. Philadelphia: WB Saunders; 1986:126–180.
+PMI, point of maximal impulse.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+32
+SECTION 2  Respiratory Disorders
+These sounds are much more commonly heard during expiration 
+than inspiration.
+Diagnostic Studies
+Radiography
+The chest radiograph is often the most useful diagnostic test in the evalua­
+tion of the child with cough. Table 3.7 highlights some of the radiographic 
+features of the most common causes of cough in pediatric patients. Radio­
+graphic findings are often similar for a number of disorders, and thus these 
+studies may not indicate a definitive diagnosis. Chest radiographs are nor­
+mal in children with psychogenic (habit) cough and in children with sinu­
+sitis or gastroesophageal reflux (GER) as the primary cause of cough. A 
+normal chest radiograph indicates the unlikelihood of pneumonia caused 
+by RSV, influenza, parainfluenza, adenovirus, Chlamydia species, or bacte­
+ria. Although children with cough resulting from CF, Mycoplasma species, 
+tuberculosis, aspiration, a bronchial foreign body, or an anatomic abnor­
+mality usually have abnormal chest radiographs, a normal radiograph 
+does not exclude these diagnoses. Hyperinflation of the lungs is commonly 
+seen on chest radiographs of infants with RSV bronchiolitis or Chlamydia 
+pneumonia, and a lobar or round (coin lesion) infiltrate is the radiographic 
+hallmark of bacterial pneumonia. Normal sinuses on radiograph or CT 
+scan exclude sinusitis. In some causes of cough, the chest x-­ray may be 
+unrevealing; CT angiography is often very helpful in these circumstances, 
+which may include COVID-­19, vaping injury, pulmonary embolism, 
+bronchiectasis, granulomatous diseases, and diseases associated with hilar 
+or mediastinal lymphadenopathy.
+Hematology/Immunology
+The white blood cell (WBC) count may help exclude or include certain 
+entities for a differential diagnosis. For example, a WBC count of 35,000 
+Posterior
+Anterior
+Right
+Left
+Fig. 3.5  Projections of the pulmonary lobes on the chest surface. The 
+upper lobes are white, the right-­middle lobe is black, and the lower 
+lobes are purple. (From Pasterkamp H. The history and physical exam­
+ination. In: Chernick V, ed. Kendig’s Disorders of the Respiratory Tract 
+in Children. 6th ed. Philadelphia: WB Saunders; 1998.)
+Tracheal
+Bronchial
+Bronchovesicular
+Vesicular
+Inspiration
+Expiration
+  Characteristic 
+  Tracheal 
+  Bronchial 
+  Bronchovesicular 
+  Vesicular
+Intensity 
+Very loud 
+Loud 
+Moderate 
+Soft
+Pitch 
+Very high 
+High 
+Moderate 
+Low
+I:E ratio* 
+1:1 
+1:3 
+1:1 
+3:1
+Description 
+Harsh 
+Tubular 
+Rustling, but tubular 
+Gentle rustling
+Normal locations Extrathoracic trachea 
+Manubrium 
+Over mainstem bronchi 
+Most of peripheral lung
+*Ratio of duration of inspiration to expiration.
+Fig. 3.6  Characteristics of breath sounds. Tracheal breath sounds are very harsh, loud, and high pitched; they 
+are heard over the extrathoracic portion of the trachea. Bronchial breath sounds are loud and high pitched; 
+normally, they are heard over the lower sternum and sound like air rushing through a tube. The expiratory com­
+ponent is louder and longer than the inspiratory component; a definite pause is heard between the two phases. 
+Bronchovesicular breath sounds are a mixture of bronchial and vesicular sounds. The inspiratory (I) and expira­
+tory (E) components are equal in length. They are usually heard only in the first and second interspaces anteriorly 
+and between the scapulae posteriorly, near the carina and mainstem bronchi. Vesicular breath sounds are soft 
+and low pitched; they are heard over most of the lung fields. The inspiratory component is much longer than the 
+expiratory component; the latter is softer and often inaudible. (From Swartz MH, ed. The chest. In: Textbook of 
+Physical Diagnosis: History and Examination. Philadelphia: WB Saunders; 1989.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+33
+CHAPTER 3  Cough
+TABLE 3.7  Cough: Radiologic and Laboratory Evaluation
+CHEST RADIOGRAPH
+Abnormal Sinus 
+Radiograph
+COMPLETE BLOOD COUNT
+IMMUNOGLOBULINS
++ NP PCR
+Other
+Normal
+Hyper
+Lobar Infil
+Diff Infil Other
+↑WBC
+↑LY
+↑EOS
+↑PMN ↑IgG
+↑IgM
+↑IgE
+Asthma
++
+++
+–
+–
+–
++
++
++
+++
+–
++
++
+++
++Bdilator1
+Cystic fibrosis
++
+++
++
++
+++
++++
+++
++
++
+++
+++
++
++
+See Table 3.8
+Other infection
+Croup
+++
++
++
++
+++2
+–
+–
++
++
+–
+Paraflu
++++
+Epiglottitis
+++
++
++
++
+++3
+–
++++
++
++
++++
+Direct look
+Sinusitis
++++
+–
+–
+–
+–
++++
+++
+–
++
++++
+++
++
+Bronchiolitis
+–
++++
++
+++
++
+–
++
++
++
++
+RSV, human 
+metapneumovirus
++++
+Pneumonia
+Influenza
+–
+++
++
+++
++
+–
+++
+–
+–
++
++++
+Paraflu
+–
++
+++
++
+–
+++
+–
+–
++
++++
+Coronaviruses
+-­
+++
++
+++
++
+–
+++
+–
+–
++
++++
+Adenovirus
+–
++
+++
++
+–
+++
++
++
+++
++++
+Pertussis
+++
++
+–
++
++
+–
+++
++++
++
++
+++
++
+–
+++4
+Chlamydia
+–
++++
++
++++
++
+–
++
++
+++
++
++++
++++
+–
++++
+Mycoplasma
++
++
++
++
+++5
++
++
++
++
++
+–
+++
+–
+++
++Cold 
+agglutinin
+TB
++
+–
+++
++
+++
+–
++
++
++
++
++PPD, 
+QuantiFERON
+Bacterial
+–
++
++++
++
+++5
+–
++++
++
++
++++
+++
++
++
++
++Bld cult6
+Foreign body
+–
+++7
+++
+–
+++7
+–
+++
++
++
+++
+Bronch
+GE reflux
++++
++
+–
+–
+–
++
+–
+–
+–
+–
+–
+–
++
+–
+Esoph pH8
+Aspiration
++
++
++
++
+++9
++
++
+–
++
++
+–
+–
++
+–
+10
+Anatomic
++
++
++
+–
+++11
+–
++
+–
+–
++
+–
+–
+–
+–
+12
+Habit
++++
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+1Positive response to bronchodilators, either as a home therapeutic trial or in a pulmonary function test in the laboratory.
+2“Steeple” sign: narrowing of upper tracheal air column.
+3“Swollen thumb”: sign of thickened epiglottis.
+4Low yield in paroxysmal stage.
+5Pleural effusion relatively common.
+6Blood culture positive in 10%; needle aspiration of pleural fluid or lung fluid may yield organism; bacterial antigen in urine. In older infants and children, common pathogens include pneumococci 
+and group A streptococci; Staphylococcus aureus is rare and may be associated with pneumatoceles or empyema.
+7Localized hyperinflation is common; localized atelectasis is common; inspiratory-­expiratory radiographs may show ball-­valve obstruction.
+8Esophageal biopsy specimen shows esophagitis.
+9Multilobular or multisegmental, dependent lobes.
+10(?) Lipid-­laden macrophages from bronchoscopy or gastric washings; barium swallow or radionuclide study showing aspiration.
+11Right-­sided arch, mass effect on airways, mass identified; MRI.
+12Bronchoscopy; computed tomography; MRI.
++++, almost always—if not present, must question diagnosis; ++, common; +, less common; –, seldom—if present, must question diagnosis.
++Bld cult, blood culture may be positive; Bronch, bronchoscopy can reveal the foreign body; Diff, diffuse or scattered; ↑EOS, increased eosinophil count; Esoph pH, prolonged esophageal pH 
+probe monitoring; GE, gastroesophageal; Hyper, hyperinflated; Ig, immunoglobulin; Infil, infiltrates; ↑LY, increased lymphocyte count; +NP aspirate PCR, nasopharyngeal positive for specific 
+organism; Paraflu, parainfluenza virus; PCR, polymerase chain reaction; ↑PMN, increased polymorphonuclear neutrophil count; PPD, purified protein derivative (TB); RAD, reactive airways dis­
+ease; RSV, respiratory syncytial virus; TB, tuberculosis; ↑WBC, increased white blood cell count.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+34
+SECTION 2  Respiratory Disorders
+with 85% lymphocytes strongly suggests pertussis, but not every child 
+with pertussis presents such a clear hematologic picture. The presence 
+of a high number or large proportions of immature forms of WBCs sug­
+gests an acute process, such as a bacterial infection. Immunoglobulins 
+provide supportive evidence for a few diagnoses, such as chlamydial 
+infection, which rarely occurs without elevated serum concentrations of 
+immunoglobulin G (IgG) and immunoglobulin M (IgM).
+Bacteriology/Virology
+Specific bacteriologic or virologic diagnoses can be made in a number 
+of disorders causing cough, including RSV, influenza, parainfluenza, 
+coronaviruses, adenovirus, enteroviruses, metapneumovirus, Myco­
+plasma, and Chlamydia pneumonia. In most cases, the viruses can be 
+rapidly identified with amplification of the viral genome through poly­
+merase chain reaction (PCR). In bacterial pneumonia, the offending 
+organism can be cultured from the blood in a small proportion (10%) 
+of patients. A positive culture provides definitive diagnosis, but a nega­
+tive culture specimen is not helpful. Throat cultures are seldom helpful 
+(except in CF) in identifying lower respiratory tract bacterial organ­
+isms. Sputum cultures and Gram stains may help guide initial empir­
+ical therapy in older children with pneumonia or purulent bronchitis, 
+but their ability to identify specific causative organisms with certainty 
+(with the exception of CF) has not been shown clearly.
+Infants and young children usually do not expectorate but rather 
+swallow their sputum. Specimens obtained via bronchoscopy may be 
+contaminated by mouth flora, but heavy growth of a single organism 
+from a bronchoalveolar lavage in the presence of polymorphonuclear 
+neutrophils certainly supports the organism’s role in disease. If pleural 
+fluid or fluid obtained directly from the lung via needle aspiration is 
+cultured, the same rules apply: Positive cultures and nucleic acid ampli­
+fication tests are definitive, but negative cultures are not.
+Other Tests
+A number of specific tests can help to establish diagnoses in a child 
+with cough (see Table 3.7). These include a positive response to bron­
+chodilators in a child with asthma; visualizing the red, swollen epiglot­
+tis in epiglottitis (to be done only under very controlled conditions); 
+the bronchoscopic visualization of the peanut, plastic toy, or other 
+offender in foreign body aspiration; a positive purified protein deriva­
+tive (PPD) or QuantiFERON assay in tuberculosis; and several studies 
+of the esophagus in GER. Several imaging techniques, such as CT or 
+MRI, can help to delineate various intrathoracic anatomic abnormal­
+ities, pulmonary embolism, and bronchiectasis. Multiple tests can be 
+employed to confirm the diagnosis of CF (Table 3.8).
+Differential Diagnosis and Treatment
+Infection
+Infections are the most common cause of acute cough in all age groups 
+and are responsible for some chronic coughs. The age of the patient has 
+a large impact on the frequency of the type of infection.
+Infections in infants. Viral upper respiratory infections (common 
+cold); croup (laryngotracheobronchitis); viral bronchiolitis, particularly 
+with RSV or human metapneumovirus; and viral pneumonia are the 
+most frequently encountered respiratory tract infections and hence the 
+most common causes of cough in infancy. Viral illness may predispose to 
+bacterial superinfection (e.g., croup and Staphylococcus aureus tracheitis 
+or influenza and Haemophilus influenzae or S. aureus pneumonia).
+Viral upper respiratory infections. Viral URI symptoms and 
+signs usually include nasal congestion and discharge, sore throat, 
+and sneezing. There may be fever, constitutional signs (irritability, 
+myalgias, and headache), or both. Cough is common and may persist 
+for 5–7 days. The mechanism by which URIs cause cough in children 
+is undetermined. In adults, it is generally thought that “postnasal 
+drip”—that is, nasal or sinus secretions draining into the posterior 
+nasopharynx—causes cough and, in fact, may be one of the most 
+frequent causes of cough. Indeed, sinus CT in older patients with 
+URIs often reveals unexpected involvement of the sinus mucosa. 
+Other authorities believe that cough in a child with a URI indicates 
+involvement (inflammation or bronchospasm) of the lower respiratory 
+tract. Over-­the-­counter cough and cold medications are commonly 
+used. Evidence of efficacy of these medications for children with URI 
+is lacking. Because of the known risk for unintentional overdose from 
+these medications, their use is not recommended in children under age 
+4 years.
+TABLE 3.8  Laboratory Tests for Cystic Fibrosis
+Usefulness
+Test
+Sensitivity
+Specificity
+Definitive
+Sweat chloride test
+.99+
+.95+
+DNA analysis
+.85–.90
+.99
+Suggestive
+Throat or sputum culture* positive for mucoid Pseudomonas aeruginosa
+.70–­.80
+.85
+Sinus radiographs
+Pansinusitis
+.95
+.90
+Positive IRT newborn screen
+.98
+.25
+Supportive
+Fecal elastase
+Pulmonary function tests:
+Obstructive pattern, especially small airways and especially if patient is 
+poorly responsive to bronchodilator
+.70+
+?
+Chest radiograph:
+Hyperinflation, ± other findings; especially with right upper lobe infiltrate/
+atelectasis
+.70+
+?
+Throat or sputum culture*:
+Positive for Staphylococcus aureus
+.20
+.20
+Positive for Haemophilus influenzae
+.05–.20
+.15
+*Throat is usually deep pharyngeal culture.
+IRT, immunoreactive trypsinogen.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+35
+CHAPTER 3  Cough
+Common viral pathogens include rhinovirus, RSV, coronaviruses, 
+and parainfluenza viruses. The differential diagnosis includes allergic 
+rhinitis, which often demonstrates clear nasal secretions with eosino­
+phils and pale nasal mucosa, and sinusitis, which presents with muco­
+purulent nasal secretions containing neutrophils and erythematous 
+mucosa.
+Croup (laryngotracheobronchitis). Infectious croup (see Chapter 
+4) is most common in the first 2 years of life. Its most dramatic 
+components are the barking (“croupy”) cough and inspiratory stridor, 
+which appear a few days after the onset of a cold. In most cases, the 
+patient has a low-­grade fever, and the disease resolves within a day or 
+two. In severe cases, the child can be extremely ill and is at risk for 
+complete laryngeal obstruction. There may be marked intercostal and 
+suprasternal retractions and cyanosis. Stridor at rest signifies significant 
+obstruction. Diminishing stridor in a child who is calm is a good sign, 
+but diminishing stridor in and of itself is not necessarily good: If the 
+child becomes fatigued because of the tremendous work of breathing 
+through an obstructed airway and can no longer breathe effectively, 
+smaller-­than-­needed tidal volumes make less noise.
+It is important to distinguish croup from epiglottitis in the child 
+with harsh, barking cough and inspiratory stridor because the nat­
+ural histories of the two diseases are quite different (see Table 3.7). 
+Epiglottitis is uncommon but occurs in unimmunized patients (see 
+Chapter 4).
+Treatment of mild croup is usually not needed. For decades, pedi­
+atricians have recommended putting a child with croup in a steamy 
+bathroom or driving to the office or emergency department with the 
+car windows rolled down. It is likely that these remedies are effective 
+because of the heat exchange properties of the upper airway; air that 
+is cooler or more humid than the airway mucosa will serve to cool the 
+mucosa, thus causing local vasoconstriction and probably decreasing 
+local edema.
+In a child who has stridor at rest, evaluation is indicated. Symptom­
+atic, often dramatic relief through decreased laryngeal edema can usu­
+ally be achieved with aerosolized racemic epinephrine (2.25% solution, 
+0.25 to 0.5 mL/dose). It is essential to remember that the effects of the 
+epinephrine are transient, lasting only a few hours, although the course 
+of the illness is often longer. The result is that when the racemic epi­
+nephrine’s effect has worn off, the child’s cough and stridor will proba­
+bly be as bad or even worse than before the aerosol was administered. 
+This is not a “rebound” effect: The symptoms are not worse because 
+of the treatment but, rather, because of the natural progression of the 
+viral illness. Repeating the aerosol will probably again have a beneficial 
+effect. A child who responds favorably to such an aerosol needs to be 
+observed for several hours because further treatment may be needed. 
+A single dose of dexamethasone (0.6 mg/kg orally, intramuscularly, or 
+intravenously, maximum dose 16 mg) reduces the severity and hastens 
+recovery.
+Bronchiolitis. Bronchiolitis is a common and potentially serious 
+lower respiratory tract disorder in infants (see Chapter 4). It is caused 
+usually by RSV but on occasion by parainfluenza, influenza, human 
+metapneumovirus, adenovirus, enterovirus, and human rhinovirus. 
+It mostly occurs in the winter months, often in epidemics. RSV 
+bronchiolitis is seen uncommonly in children older than 4 years. 
+Typically, “coldlike” symptoms of rhinorrhea precede the harsh cough, 
+increased respiratory rate, and retractions. Respiratory distress and 
+cyanosis can be severe. The child’s temperature is seldom elevated 
+above 38°C.
+The chest is hyperinflated, widespread crackles are audible on inspi­
+ration, and wheezing marks expiration. The chest radiograph invari­
+ably reveals hyperinflation, as depicted by a depressed diaphragm, 
+with an enlarged retrosternal air space in as many as 60% of patients, 
+peribronchial thickening in approximately 50%, and consolidation 
+and/or atelectasis in 10–25%.
+The diagnosis is confirmed with demonstration of RSV by PCR 
+of nasopharyngeal secretions. In most cases, no treatment is needed 
+because the disease does not interfere with the infant’s eating or breath­
+ing. Apnea is a common complication of RSV bronchiolitis in neonates 
+and may necessitate close monitoring. In severe cases, often those in 
+which there is underlying chronic heart, lung, or immunodeficiency 
+disease, RSV can be life threatening. In severe cases, hospital care with 
+supplemental oxygen and intravenous fluids is indicated. Suctioning of 
+secretions is an essential part of the treatment. Many other treatment 
+modalities have been tried for hospitalized infants with bronchiolitis. 
+Aerosolized bronchodilators and systemic glucocorticoids do not seem 
+to alter clinical outcome and are not recommended in most patients. 
+Nebulized saline may reduce the length of hospitalization. Use of a 
+high-­flow nasal cannula may reduce the need for more invasive forms 
+of respiratory support in infants with impending respiratory failure.
+Viral pneumonia. Viral pneumonia can be similar to bronchiolitis 
+in its manifestation, with cough and tachypnea, after a few days of 
+apparent URI. There can be variable degrees of fever and of overall 
+illness. Infants and children with viral pneumonia may appear relatively 
+well or, particularly with coronavirus, adenovirus, or influenza, may 
+have a rapidly progressive course. Frequent symptoms include poor 
+feeding, cough, cyanosis, fever (some patients may be afebrile), 
+apnea, and rhinorrhea. Frequent signs include tachypnea, retractions, 
+crackles, and cough. Cyanosis is less common.
+The most common agents causing viral pneumonia in infancy and 
+childhood are RSV, influenza, and parainfluenza. Adenovirus is less com­
+mon, but it is important because it can be severe and cause residual lung 
+disease, including bronchiectasis and bronchiolitis obliterans. Adenovi­
+rus pneumonia is often accompanied by conjunctivitis and pharyngitis, 
+in addition to leukocytosis and an elevated ESR; the ESR and leukocyte 
+count are usually not elevated in other types of viral pneumonia. Addi­
+tional viral agents include enteroviruses, human metapneumovirus, and 
+rhinovirus. Radiographs most often reveal diffuse, bilateral peribronchial 
+infiltrates, with a predilection for the perihilar regions, but occasionally 
+lobar infiltrates are present. Pleural effusions are not common. Human 
+coronaviruses account for 5–10% of acute upper respiratory infections 
+in adults; infants with coronaviruses often have coinfections with other 
+respiratory viruses and may not have respiratory symptoms, suggesting 
+that some endemic coronaviruses may have low pathogenicity in healthy 
+infants. Older children and adolescents are at risk for severe pneumonia 
+from severe acute respiratory syndrome-­coronavirus 2 (SARS-­CoV-2), 
+which causes COVID-­19 (see later and Chapter 4). Vaccination is now 
+available for COVID-19.
+Treatment is largely supportive, with oxygen and intravenous flu­
+ids. Mechanical ventilation may be necessary in a small minority of 
+infants.
+Pertussis (whooping cough). Pertussis is a relatively common 
+cause of lower respiratory tract infection in infants, children, 
+adolescents, and adults, especially in those who are underimmunized 
+or not immunized. The causative organism, Bordetella pertussis, has 
+a tropism for tracheal and bronchial ciliated epithelial cells; thus, the 
+disease is primarily bronchitis, but spread of the organism to alveoli, 
+or secondary invasion by other bacteria, can cause pneumonia. The 
+disease can occur at any age, from early infancy onward, although its 
+manifestations in young infants and in those who have been partially 
+immunized may be atypical; infants may present with apnea and 
+minimal or no cough.
+Most commonly, pertussis has three stages:
+ • Catarrhal, in which symptoms are indistinguishable from a viral 
+URI
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+36
+SECTION 2  Respiratory Disorders
+ • Paroxysmal, dominated by repeated forceful, paroxysmal coughing 
+spells; spells may be punctuated by an inspiratory “whoop,” post-­
+tussive emesis, or both
+ • Convalescent, in which the intensity and frequency of coughing 
+spells gradually diminish
+Each stage typically lasts 1–2 weeks, except the paroxysmal stage, 
+which lasts many weeks. (Pertussis is known as the “100-­day cough” in 
+China.) Most children are entirely well between coughing spells, when 
+physical findings are remarkably benign. The paroxysmal cough recurs 
+with subsequent respiratory illnesses for many months after illness. 
+Infants younger than 6 months of age are at highest risk for compli­
+cations. The majority of infants with pertussis need to be hospitalized.
+Diagnosis can be difficult because the definitive result—namely, cul­
+turing the organism from nasopharyngeal secretions—requires special 
+culture medium (Bordet-­Gengou, which must be prepared fresh for each 
+collection). Culture specimens are much less likely to be positive during 
+the paroxysmal stage than during the catarrhal stage, when the diagno­
+sis is not being considered. PCR assay of an adequate nasopharyngeal 
+(NP) specimen is the most commonly used test because of improved 
+sensitivity and faster turnaround time compared to culture. An elevated 
+WBC count, as high as 20,000–50,000, with lymphocytes predominating 
+is suggestive of pertussis in infants and children but often absent in ado­
+lescents. Chest radiographic findings are nonspecific.
+Treatment is largely supportive, with oxygen; fluids; and small, fre­
+quent feedings for patients who do not tolerate their normal feedings. 
+Treatment with azithromycin decreases infectivity and may ameliorate 
+the course of the disease if given during the catarrhal stage.
+Complications include those related to severe coughing (Table 3.9) 
+and those specific to pertussis, such as seizures and encephalopathy. The 
+risk of acquiring pertussis is markedly reduced by immunizations (three 
+primary immunizations and regular booster immunizations). Neither 
+pertussis infection nor immunization produces lifelong immunity.
+Chlamydial infection. Chlamydia trachomatis can cause pneumonia 
+in young infants following acquisition from the maternal genitourinary 
+tract, particularly those aged 3–12 weeks. Cough, nasal congestion, 
+low-­grade or no fever, and tachypnea are common. Conjunctivitis is 
+an important clue to chlamydial disease but is present in only 50% of 
+infants with chlamydial pneumonia at the time of presentation. Affected 
+infants may have a paroxysmal cough similar to that of pertussis, but 
+post-­tussive emesis is less common. Crackles are commonly heard on 
+auscultation, but wheezing is much less common than the overinflated 
+appearance of the lungs on radiographs would suggest. The organism 
+may be recovered from the nasopharynx by culture or antigen testing. 
+The CBC may reveal eosinophilia. Chlamydial infection responds to 
+oral erythromycin or azithromycin therapy.
+In young infants, the afebrile pneumonia syndrome may be caused by 
+Chlamydia, Ureaplasma, or Mycoplasma species; cytomegalovirus; or Pneu­
+mocystis jirovecii. In this syndrome, cough and tachypnea are common. 
+Severe pneumonia may develop in neonates as a result of herpes simplex.
+Ureaplasmal infection. Ureaplasma urealyticum pneumonia 
+is difficult to diagnose but causes cough in some infants. There are 
+no particularly outstanding features to distinguish this relatively 
+uncommon infection from viral pneumonias.
+Bacterial pneumonia. Bacterial pneumonia is less common in 
+infants than is viral pneumonia but can cause severe illness, with 
+cough, respiratory distress, and fever. Chest radiographs are abnormal, 
+and the WBC count is elevated.
+Treatment is with antibiotics effective against pneumococci, group 
+A streptococci, and, if illness is severe, S. aureus.
+Infections in toddlers and children
+Viral URIs. In early childhood, as children attend daycare and nurs­
+ery schools, they are constantly exposed to respiratory viruses to which 
+they have little or no immunity (e.g., RSV, rhinoviruses, adenoviruses, 
+parainfluenza, and enteroviruses). Young children may have as many as 
+six to eight or even more URIs in a year. The remarks concerning colds 
+and cough in infants (see previous discussion) apply to this older age 
+group. The differential diagnosis of rhinorrhea is noted in Table 3.10.
+Sinusitis. The sinuses may become the site for viral and subsequent 
+secondary bacterial infection spreading from the nasopharynx 
+(Fig. 3.7). The signs and symptoms are usually localized, including 
+nasal congestion, a feeling of “fullness” or pain in the face (Fig. 3.8), 
+headache, sinus tenderness, day or night cough, and fever. Maxillary 
+toothache, purulent nasal discharge for more than 10 days, and 
+positive transillumination (opacification) are important clues. Sinus 
+radiographs or (more accurate) a CT scan may facilitate the diagnosis 
+of sinusitis by demonstrating opacification of the sinus with mucosal 
+thickening. Sinusitis is thought to be a cause of cough in adults and can 
+probably be listed, with lower certainty, as a cause of cough in children.
+Sinusitis is frequently seen in other conditions known to cause cough, 
+especially CF, asthma, primary ciliary dyskinesia, and granulomatosis with 
+polyangiitis with or without eosinophilia. It may be difficult to ascertain 
+whether the cough is a direct result of the sinus infection or the underly­
+ing problem (purulent bronchitis in the child with CF or ciliary dyskine­
+sia, exacerbation of asthma). In the first two situations, it may not matter 
+because treatment is the same. In the case of the child with asthma, it is 
+important to treat the asthma with bronchodilating and antiinflammatory 
+agents, as well as to treat the infected sinuses with antibiotics.
+TABLE 3.9  Potential Complications of 
+Cough
+Musculoskeletal
+Rib fractures
+Vertebral fractures
+Rupture of rectus abdominis muscle
+Asymptomatic elevation of serum creatine 
+phosphokinase
+Pulmonary
+Chest wall pain*
+Bronchoconstriction
+Pneumomediastinum
+Pneumothorax
+Hemoptysis
+Subcutaneous emphysema
+Irritation of larynx and trachea
+Cardiovascular
+Rupture of subconjunctival,* nasal,* and anal 
+capillaries or veins
+Bradycardia, heart block
+Transient hypertension
+Central nervous 
+system
+Cough syncope
+Headache
+Subarachnoid hemorrhage
+Gastrointestinal
+Hernias (ventral, inguinal)
+Emesis
+Rectal prolapse
+Pneumoperitoneum
+Miscellaneous
+Anorexia*
+Malnutrition
+Sleep loss*
+Urinary incontinence
+Disruption of surgical wounds
+Vaginal prolapse
+Displacement of intravenous catheters
+Petechiae
+*Common.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+37
+CHAPTER 3  Cough
+The treatment of sinusitis involves the use of oral antibiotics active 
+against the common pathogens (i.e., Streptococcus pneumoniae, non­
+typable H. influenzae, Moraxella catarrhalis, and, in rare cases, anaero­
+bic bacteria or Streptococcus pyogenes). Treatment regimens include the 
+use of amoxicillin, amoxicillin-­clavulanate, cefuroxime, cefpodoxime, or 
+cefdinir. Amoxicillin is considered the initial agent of choice. Oral (pseu­
+doephedrine, phenylephrine) or topical (phenylephrine, oxymetazoline) 
+decongestants may be of benefit by increasing the patency of the sinus 
+ostia, which permits drainage of the infected and obstructed sinuses. 
+Oral antihistamines may benefit patients with an allergic history. Treat­
+ment with antimicrobial agents should continue for at least 7 days after 
+the patient has responded. This may require 14–21 days of therapy. Many 
+patients with presumed sinusitis recover without antibiotic therapy.
+Complications of acute sinusitis include orbital cellulitis, abscesses 
+(orbital, cerebral), cranial (frontal) osteomyelitis (Pott puffy tumor), empy­
+ema (subdural, epidural), and thrombosis (sagittal or cavernous sinus).
+TABLE 3.10  Differential Diagnosis of Rhinorrhea
+Etiology
+Frequency
+Duration*
+Discharge
+Comment
+Viral
+Common
+Acute
+Purulent
+Polymorphonuclear neutrophils in smear
+Allergic
+Common
+Acute/chronic
+Clear
+Eosinophils in smear, seasonal
+Vasomotor
+Common
+Chronic
+Variable
+? Environmental triggers
+Sinusitis
+Common
+Chronic
+Purulent
+Sinus tenderness
+Rhinitis medicamentosa
+Common
+Chronic
+Variable
+Medication use
+Response to stimuli
+Common
+Acute
+Clear
+Odors, exercise, cold air, pollution
+Nasal polyps
+Uncommon
+Chronic
+Variable
+Consider cystic fibrosis
+Granulomatous disease
+Uncommon
+Chronic
+Bloody
+Sarcoid, granulomatosis with polyangiitis, midline 
+granuloma
+Cerebrospinal fluid fistula
+Uncommon
+Chronic
+Watery
+Trauma, encephalocele
+Foreign body
+Uncommon
+Chronic
+Purulent
+Often malodorous
+Tumor
+Uncommon
+Chronic
+Clear to bloody
+Angiofibroma, hemangioma, rhabdomyosarcoma, 
+lymphoma, nasopharyngeal carcinoma, neuroblastoma
+Choanal atresia, stenosis
+Uncommon
+Chronic
+Clear to purulent
+Congenital
+Nonallergic eosinophilic rhinitis syndrome
+Uncommon
+Chronic
+Clear
+Eosinophils in smear
+Septal deviation
+Unknown
+Chronic
+Clear
+Congenital, trauma
+Drugs
+Uncommon
+Chronic
+Variable
+Cocaine, glue and organic solvents, angiotensin-­
+converting enzyme inhibitors, β blockers
+Hypothyroidism
+Uncommon
+Chronic
+Clear
+Cluster headache
+Uncommon
+Intermittent
+Clear
+Associated tearing, headache
+Horner syndrome
+Uncommon
+Chronic
+Clear
+Ptosis, miosis, anhidrosis
+*Less than 1 week is considered acute.
+1
+2
+3
+4
+Fig. 3.7  The paranasal sinuses. 1, Frontal. 2, Ethmoid. 3, Maxillary. 4, Sphenoid. (From Smith RP. Common 
+upper respiratory tract infections. In: Reilly B, ed. Practical Strategies in Outpatient Medicine. 2nd ed. Phila­
+delphia: WB Saunders; 1991.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+38
+SECTION 2  Respiratory Disorders
+Protracted bacterial bronchitis. Protracted bacterial bronchitis (PBB) 
+is a cause of chronic, productive cough in young children. Suggested 
+clinical criteria include a productive cough for at least 4 weeks, no 
+other symptoms, normal spirometry, normal chest x-­ray (but may have 
+peribronchial thickening), and possible improvement/resolution after 
+2 weeks of antibiotics. H. influenzae, S. pneumoniae, and M. catarrhalis 
+may be the most common pathogens. Treatment of PBB requires an 
+initial 2-­week course of an appropriate antibiotic, with the preferred 
+choice being amoxicillin-­clavulanate. If cough persists, a more prolonged 
+antibiotic course may be needed (up to 4 weeks). Bronchoscopy with 
+bronchoalveolar lavage may help guide antibiotic treatment, particularly 
+in those with refractory cough despite 4 weeks of antibiotics.
+Pneumonia. The features discussed for viral pneumonia in infants 
+are relevant for viral pneumonia in older children. The differentiation 
+of viral or atypical pneumonia from classical bacterial pneumonia is 
+noted in Table 3.11. Adenovirus and influenza pneumonia may present 
+similar to bacterial pneumonia in severity and acuteness and with 
+elevated acute-­phase reactants (ESR, CRP, procalcitonin). Etiology 
+clues are noted in Tables 3.12, 3.13, and 3.14. Bacterial pneumonia 
+is more common in toddlers and older children than in infants. The 
+most common pathogen is S. pneumoniae (see Table 3.12). Cough may 
+not be as prominent a presenting symptom or sign as tachypnea and 
+grunting. Raised respiratory rates (>50 in infants 2–12 months old, 
+>40 in children 1–5 years old) plus retractions and grunting with or 
+without hypoxemia (oxygen saturation <90%) have a high specificity 
+and sensitivity for pneumonia. Chest pain, abdominal pain, headache, 
+or any combination of these symptoms may occur. Upper lobe 
+pneumonia may produce meningeal signs, and lower lobe involvement 
+may cause abdominal pain and an ileus.
+Sphenoid
+Frontal
+Ethmoid
+Maxillary
+Fig. 3.8  Typical pain locations in patients with various anatomic sites of 
+acute sinusitis. (From Smith RP. Common upper respiratory tract infec­
+tions. In: Reilly B, ed. Practical Strategies in Outpatient Medicine. 2nd 
+ed. Philadelphia: WB Saunders; 1991.)
+TABLE 3.11  Differentiation of Classical Bacterial Pneumonia from Viral and 
+Atypical Pneumonias*
+Bacterial
+Viral/Atypical Bacterial
+History
+Precedent URI
+Headache, malaise, URI, myalgias
+Course
+Often biphasic illness
+Often monophasic
+Onset
+Sudden
+Gradual
+Temperature
+High fever
+Low-­grade fever
+Rigors
+Common
+Uncommon
+Vital signs
+Tachypnea, tachycardia
+Usually normal
+Pain
+Pleuritic
+Unusual
+Chest examination
+Crackles, signs of consolidation
+Consolidation unusual
+Pleural effusion
+Common
+Uncommon
+Sputum
+Productive, purulent, many PMNs, one dominant 
+organism on Gram stain
+Scant, no organisms; PMNs or mononuclear cells
+ESR
+Elevated
+Usually normal
+CRP
+Elevated
+Usually normal
+Procalcitonin
+Elevated
+Normal
+WBC count
+Elevated; left shift
+Often normal; predominant lymphocytes
+Chest radiography
+Lobar consolidation, round infiltrate, parapneumonic 
+effusion; may be “bronchopneumonia”
+Diffuse, bilateral, patchy, interstitial or bronchopneumonia; lower lobe involvement 
+common; chest radiograph may look worse than patient’s condition
+Progression
+May be rapid
+Rapid if Legionella species, hantavirus, SARS, herpesvirus, adenovirus, COVID-19
+Diagnosis
+Blood, sputum, and pleural fluid specimens for culture; 
+antigen detection possible; BAL if progressive
+Viral, chlamydial culture or PCR detection; acute and convalescent titers; BAL if 
+progressive
+*Atypical pneumonias include Chlamydia pneumoniae, Mycoplasma pneumoniae, Legionella species (Legionella pneumophila, Legionella micdadei), 
+Q fever, psittacosis, tularemia.
+BAL, bronchoalveolar lavage; CRP, C-­reactive protein; PMNs, polymorphonuclear neutrophils; SARS, severe acute respiratory syndrome; URI, upper 
+respiratory tract infection; WBC, white blood cell.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+39
+CHAPTER 3  Cough
+Examination of the chest shows tachypnea but may be otherwise 
+surprisingly normal. In older children, there may be localized dullness 
+to percussion, with crackles or amphoric (bronchial) breath sounds 
+over a consolidated lobe. The chest radiograph may be normal in the 
+first hours of the illness, inasmuch as the radiographic findings often 
+lag behind the clinical manifestations. Nonetheless, both anterior-­
+posterior and lateral views are the main diagnostic tools; lobar consoli­
+dation is usual, with or without pleural effusion. In infants, the pattern 
+may be more diffuse and extensive.
+Some clinical and radiographic features may be suggestive of the 
+bacterial cause of pneumonia. Children (especially infants) with staph­
+ylococcal pneumonia are more likely to have a rapid, overwhelming 
+course. Staphylococcal pneumonia may be accompanied by more 
+extensive radiographic abnormalities, including multilobar consolida­
+tion, pneumatocele formation, and extensive pleural (empyema) fluid 
+(Fig. 3.9). The presence of a pleural effusion is not helpful in indicat­
+ing the specific bacterial diagnosis because other bacterial pneumonias 
+may be accompanied by pleural effusion (Fig. 3.10). Pleural effusions 
+may represent a reactive parapneumonic effusion or an empyema. 
+Pleural fluid may be characterized as transudate, exudate, or empyema 
+(Table 3.15). If the effusion is of sufficient size, as demonstrated by a 
+lateral decubitus radiograph or ultrasonography, a thoracentesis may 
+be indicated to differentiate the nature of the effusion and to identify 
+possible pathogens. For young children who require sedation for tho­
+racentesis and who have an effusion needing drainage, a primary chest 
+tube placement is preferred over thoracentesis due to the risks of mul­
+tiple procedures with sedation.
+Differentiating among the causes of bacterial pneumonia can be 
+done with certainty only with positive cultures from blood, pleural 
+fluid (including PCR testing), or, in rare cases, sputum. Current or pre­
+vious antibiotic treatment diminishes the yield of such cultures. Bron­
+choscopy with or without lavage may yield helpful specimens from the 
+progressively ill child or the child who has not responded promptly to 
+empirical antibiotics.
+Treatment of uncomplicated presumed bacterial pneumonia is with 
+antibiotics. Ampicillin is the drug of choice for the previously healthy 
+TABLE 3.12  Causes of Infectious Pneumonia
+Bacterial
+Common
+Streptococcus pneumoniae
+See Table 3.11
+Group B streptococci
+Neonates
+Group A streptococci
+See Table 3.11
+Mycoplasma pneumoniae*
+Adolescents; summer-­fall epidemics
+Chlamydia pneumoniae*
+Adolescents (see Table 3.11)
+Chlamydia trachomatis
+Infants
+Mixed anaerobes
+Aspiration pneumonia
+Gram-­negative enteric
+Nosocomial pneumonia
+Uncommon
+Haemophilus influenzae type B
+See Table 3.11
+Staphylococcus aureus
+Pneumatoceles; infants
+Moraxella catarrhalis
+Neisseria meningitidis
+Salmonella species
+Francisella tularensis
+Animal, tick, fly contact
+Nocardia species
+Immunosuppressed persons
+Chlamydia psittaci*
+Bird contact
+Yersinia pestis
+Plague
+Legionella species*
+Exposure to contaminated water; 
+nosocomial
+Viral
+Common
+Respiratory syncytial virus
+See Table 3.11
+Parainfluenza types 1–4
+Croup, types 3 and 4 seen in the 
+summer
+Influenza A, B
+High fever; winter months
+Adenovirus 1, 2, 3, 5, 14
+Can be severe; occurs all year round
+Human metapneumovirus
+Similar to RSV
+Rhinovirus
+Rhinorrhea, wheezing
+SARS-­CoV-2 (COVID-­19)
+Pandemic
+Uncommon
+Enteroviruses
+Neonates
+Herpes simplex
+Neonates
+Cytomegalovirus
+Infants, immunosuppressed persons
+Measles
+Rash, coryza, conjunctivitis
+Varicella
+Adolescents
+Hantavirus
+Southwestern United States
+SARS-­CoV-1
+Asia
+Fungal
+Histoplasma capsulatum
+Geographic region; bird, bat contact
+Cryptococcus neoformans
+Bird contact
+Aspergillus species
+Immunosuppressed
+Mucormycosis
+Immunosuppressed
+Coccidioides immitis
+Geographic region
+Blastomyces dermatitidis
+Geographic region
+Rickettsial
+Coxiella burnetii*
+Q fever, animal (goat, sheep, cattle) 
+exposure
+Rickettsia rickettsiae
+Tick bite
+Mycobacterial
+Mycobacterium tuberculosis
+See Table 3.16
+Mycobacterium avium–intracellulare Immunosuppressed persons
+Parasitic
+Pneumocystis jirovecii
+Immunosuppressed, steroids
+Eosinophilic
+Various parasites (e.g., Ascaris, 
+Strongyloides species)
+CoV, coronavirus; SARS, severe acute respiratory syndrome.
+*Atypical pneumonia syndrome (see Table 3.11); atypical in terms of extrapulmonary manifestations, low-­grade fever, patchy diffuse infiltrates, poor 
+response to penicillin-­type antibiotics, and negative sputum Gram stain.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+40
+SECTION 2  Respiratory Disorders
+child who requires hospitalization with lobar pneumonia who is fully 
+immunized. If the child is not fully immunized, ceftriaxone is indi­
+cated. For the critically ill child, vancomycin and ceftriaxone may be 
+considered for possible drug-­resistant S. pneumoniae and methicillin-­
+resistant S. aureus (MRSA). Many children with pneumonia do well 
+with oral antibiotics and respond within hours to the first dose. 
+Repeated or follow-­up chest radiographs may remain abnormal for 
+4–6 weeks after appropriate treatment and are not indicated for a single 
+episode of uncomplicated pneumonia (i.e., no effusion, no abscess, and 
+good response to treatment).
+Mycoplasma pneumoniae is a common cause of pneumonia among 
+school-­aged children. The disease often occurs in community outbreaks 
+in the fall. The illness typically begins with extrapulmonary symptoms 
+(i.e., sore throat, myalgias, headache, fever), which then progress to 
+include cough, which can be paroxysmal at times. Patients do not often 
+appear acutely ill, but cough may persist for weeks. There may be no 
+specific abnormalities on the chest examination, although a few crackles 
+may be heard, and about one third of younger patients wheeze.
+The radiographic findings in mycoplasma pneumonia can mimic 
+almost any intrathoracic disease; scattered infiltrates with nonspecific 
+“dirty” lung fields, predominantly perihilar or lower lobes, are com­
+mon, and lobar infiltrates and pleural effusion are occasionally seen. 
+Laboratory data (CBC, ESR, sputum culture) may not be helpful. A 
+rise in anti-­mycoplasma IgG over 1–2 weeks may be demonstrated but 
+is seldom helpful in guiding therapy. A positive IgM response may be 
+useful, although it can persist in serum for several months and, conse­
+quently, may not indicate current infection. PCR is the most helpful test. 
+The cold agglutinin test yields positive results in about 70% of patients 
+with mycoplasma pneumonia, but they are also positive in other con­
+ditions, including adenovirus infection. The more severe the illness is, 
+the greater is the frequency of positive cold agglutinins. The diagnosis 
+is often made from the history of an older child who has a lingering 
+coughing illness in the setting of a community outbreak, unresponsive 
+to most (non-­erythromycin) antibiotic regimens.
+Treatment with azithromycin, clarithromycin, or erythromycin 
+in children younger than 8 years old or tetracycline or doxycycline 
+TABLE 3.13  Pneumonia: Etiology Suggested by Exposure History
+Exposure History
+Infectious Agent
+Exposure to concurrent illness in school dormitory or household setting
+Neisseria meningitidis,
+Mycoplasma pneumoniae
+Environmental Exposures
+Exposure to contaminated aerosols (e.g., air coolers, hospital water supply)
+Legionnaires disease
+Exposure to goat hair, raw wool, animal hides
+Anthrax
+Ingestion of unpasteurized milk
+Brucellosis
+Exposure to bat droppings (caving) or dust from soil enriched with bird droppings
+Histoplasmosis
+Exposure to water contaminated with animal urine
+Leptospirosis
+Exposure to rodent droppings, urine, saliva
+Hantavirus
+Potential bioterrorism exposure
+Anthrax, plague, tularemia
+Zoonotic Exposures
+Employment as abattoir worker or veterinarian
+Brucellosis
+Exposure to cattle, goats, pigs
+Anthrax, brucellosis
+Exposure to ground squirrels, chipmunks, rabbits, prairie dogs, rats in Africa or 
+southwestern United States
+Plague
+Hunting or exposure to rabbits, foxes, squirrels
+Tularemia
+Bites from flies or ticks
+Tularemia
+Exposure to birds (parrots, budgerigars, cockatoos, pigeons, turkeys)
+Psittacosis
+Exposure to infected dogs and cats
+Pasteurella multocida, Q fever (Coxiella burnetii)
+Exposure to infected goats, cattle, sheep, domestic animals, and their secretions 
+(milk, amniotic fluid, placenta, feces)
+Q fever (C. burnetii)
+Travel Exposures
+Residence in or travel to San Joaquin Valley, Southern California, southwestern 
+Texas, southern Arizona, New Mexico
+Coccidioidomycosis
+Residence in or travel in Mississippi or Ohio River Valleys, Caribbean, Central 
+America or Africa, South Asia
+Histoplasmosis, blastomycosis
+Residence in or travel to southern China
+SARS, avian influenza
+Residence in or travel to Arabian Peninsula
+MERS-­CoV
+Residence in or travel in Southeast Asia
+Paragonimiasis, melioidosis
+Residence or travel to West Indies, Australia, or Guam
+Melioidosis
+MERS-­CoV, Middle Eastern respiratory syndrome-­coronavirus; SARS, severe acute respiratory syndrome.
+From Bennett JE, Dolin R, Blaser MJ. Mandell, Douglas, and Bennett’s Principles and Practice of Infectious Diseases. 9th ed., Vol 1. Elsevier; 
+2020:894, Table 67.3.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+41
+CHAPTER 3  Cough
+in children 8 years old or older usually shortens the course of illness. 
+Extrapulmonary complications of mycoplasma infection include asep­
+tic meningitis, transverse myelitis, peripheral neuropathy, erythema 
+multiforme, myocarditis, pericarditis, hemolytic anemia, and bullous 
+otitis media (myringitis). In patients with sickle cell anemia, severe 
+respiratory failure and acute chest syndrome may develop. Infection 
+with Chlamydia pneumoniae mimics respiratory disease resulting 
+from M. pneumoniae, inasmuch as it occurs in epidemics, is seen in 
+older children, and produces an atypical pneumonia syndrome and 
+pharyngitis.
+Tuberculosis. Tuberculosis is uncommon in developed countries; 
+95% of the disease burden worldwide is in developing countries. 
+Tuberculosis must be considered in the child with chest disease that is 
+not easily explained by other diagnoses, especially if the child lives in 
+or has migrated from an endemic area of the world or has been exposed 
+to an adult with active tuberculosis. Nonetheless, tuberculosis is an 
+infrequent cause of cough in children, even in those with active disease.
+The diagnosis is made primarily by skin testing (purified protein 
+derivative [PPD]) or a positive QuantiFERON test; a history of contact 
+with a person who has tuberculosis; and recovery of the organism from 
+TABLE 3.14  Guide to Differential Diagnosis of Pneumonia Based on Radiologic Characteristics
+Imaging Characteristics
+Possible Pathogens
+Chest Radiograph
+Dense segmental or lobar consolidation
+More likely bacterial pathogens
+Unilateral or bilateral homogenous consolidation
+Streptococcus pneumoniae, Legionella spp., Mycoplasma pneumoniae
+Lower lobe
+Aspiration-­anaerobes, gram-­negative rods
+Unilobar with air bronchograms
+Chlamydia
+Bulging fissure sign
+Klebsiella spp.
+Bronchopneumonia—result of bronchial inflammation, epithelial ulceration, 
+fibropurulent exudate
+Staphylococcus aureus, Haemophilus influenzae, fungi
+Interstitial infiltrates or interstitial-­alveolar infiltrates (diffuse pneumonitis)
+More likely viral or Mycoplasma
+Bilateral with hypoxia out of proportion to imaging abnormalities
+Pneumocystis jirovecii (PCP)
+Patchy, peribronchiolar opacities or ill-­defined reticulonodular opacities
+Primary viral infection including CMV, HSV, adenovirus
+M. pneumoniae
+Diffuse bilateral bronchopneumonia
+CMV, HSV, adenovirus
+Unilateral or bilateral interstitial basilar infiltrates progressing to severe 
+symmetrical air-­space disease
+Coronavirus including SARS, MERS
+Cavitary Lung Lesions
+Upper lobe
+Tuberculosis or nontubercular mycobacteria
+Unilateral or lower lobe
+Anaerobic lung abscess
+Multiple, may be pleural based
+Endemic and opportunistic fungi
+Cavities that evolve from lobar consolidation and coalescence of latencies
+S. aureus, Pseudomonas aeruginosa, Klebsiella pneumoniae
+Pleural effusion
+Large effusions support a bacterial cause
+In association with necrosis, pneumatoceles or empyema
+S. aureus, Streptococcus pyogenes, S. pneumoniae
+With multilobular infiltrates
+Primary viral especially metapneumovirus, bocavirus
+Pneumatoceles
+S. aureus, Klebsiella spp., Haemophilus spp., S. pneumoniae
+Multiple nodules
+Bacteremic spread of S. aureus
+Endemic or opportunistic fungi
+Hilar adenopathy
+Tuberculous or nontuberculous mycobacteria, endemic fungi
+With upper lobe infiltrate
+Mycobacterium tuberculosis
+With homogenous opacities, may cavitate
+Coccidioidomycosis
+With signs of obstruction
+Malignancy with bacterial infection
+Computed Tomography
+Ground-­glass opacities—localized increase in lung attenuation
+Pneumocystis, Mycoplasma, fungi, CMV, COVID-19, and other viruses
+Tree-­in-­bud pattern—reflects presence of bronchioles filled with inflammatory 
+material
+Bacteria, mycobacteria, fungi, viruses including RSV and parainfluenza virus, and 
+other atypical pathogens
+Central density sparing subpleural space
+Vaping injury
+CMV, cytomegalovirus; HSV, herpes simplex virus; MERS, Middle East respiratory syndrome; PCP, P. jirovecii pneumonia; RSV, respiratory syncytial 
+virus; SARS, severe acute respiratory syndrome.
+Data from Franquet T. Imaging of pneumonia: trends and algorithms. Eur Resp J. 2001;18:196–208; and Franquet T. Imaging of community-­
+acquired pneumonia. J Thorac Imaging. 2018;33:282–294.
+From Bennett JE, Dolin R, Blaser MJ. Mandell, Douglas, and Bennett’s Principles and Practice of Infectious Diseases. 9th ed., Vol. 1. Elsevier; 
+2020:901, Table 67.4.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+42
+SECTION 2  Respiratory Disorders
+sputum, bronchoalveolar lavage, pleural fluid or biopsy, or morning 
+gastric aspirates (Table 3.16). The yield from these procedures is rela­
+tively low, even from children with active pulmonary tuberculosis.
+The patterns of disease in normal hosts include primary pulmo­
+nary tuberculosis, with subsequent inactivation usually noted in 
+young children and reactivation of pulmonary disease among adoles­
+cents. Primary pulmonary disease is often noted as a lower or mid­
+dle lobe infiltrate during the period of T-­lymphocyte reaction to the 
+initial infection. Before resolution, the Mycobacterium tuberculosis 
+infection may disseminate to the better-­oxygenated upper lobes and 
+extrathoracic sites, such as bone, or the central nervous system. If the 
+immune response contains the initial infection, the radiographic find­
+ings may be indistinguishable from those of any other pneumonic pro­
+cess. In some young patients or those with altered immune function, 
+however, there may be progressive disease, dissemination to miliary 
+pulmonary disease, or early reactivation (months to 5 years) at distal 
+sites, which produces tuberculous meningitis or osteomyelitis. Reac­
+tivation of upper lobe pulmonary disease may produce cavities that 
+are similar to the disease among adults. Cavitary and endobronchial 
+lymph node involvement are highly infectious, in contrast to the much 
+less contagious nature of the hypersensitivity reaction noted in primary 
+pulmonary disease.
+Aspiration
+Inhaling food, mouth or gastric secretions, or foreign bodies into 
+the tracheobronchial tree causes acute, recurrent, or chronic cough. 
+Interference with normal swallowing disrupts the coordination of 
+swallowing and breathing that prevents aspiration. Structural causes 
+of disordered swallowing include repaired or unrepaired esophageal 
+atresia, strictures, webs, or congenital stenoses. Mediastinal lesions 
+(tumors, lymph nodes), including vascular rings, may compromise the 
+esophageal lumen and esophageal peristalsis, increasing the likelihood 
+of aspiration. Functional disorders include central nervous system dys­
+function or immaturity, dysautonomia, achalasia, and diffuse esoph­
+ageal spasm. Prior neck surgery, including tracheostomy, may alter 
+normal swallowing. Tracheoesophageal fistula and laryngeal clefts are 
+congenital malformations with direct physical connections between 
+the tracheobronchial tree and the upper gastrointestinal tract; thus, 
+oral contents enter the lungs directly.
+Making the diagnosis of aspiration as the cause of cough may be dif­
+ficult. Barium contrast studies during swallowing may help character­
+ize these disorders if barium enters the trachea. Because most patients 
+aspirate sporadically, a normal barium swallow does not rule out aspi­
+ration. Radionuclide studies can be helpful if ingested radiolabeled 
+milk or formula is demonstrated over the lung fields at several-­hour 
+intervals after the meal. Bronchoscopy and bronchoalveolar lavage that 
+recover large numbers of lipid-­laden macrophages suggest that aspira­
+tion has taken place; however, the finding is neither sensitive nor spe­
+cific for aspiration.
+Treatment depends largely on the cause of aspiration. Because many 
+patients who aspirate do so because of lack of neurologic control of 
+swallowing and breathing, it is often difficult to prevent. Even gastros­
+tomy feedings cannot prevent aspiration of oral secretions. In extreme 
+cases, tracheostomy with ligation of the proximal trachea has been 
+employed. This not only prevents aspiration but also prevents phona­
+tion, and it must be considered only in unusual situations. Aspiration 
+pneumonia is often treated with intravenous ampicillin-­sulbactam or 
+clindamycin to cover mouth flora of predominant anaerobes. Addi­
+tional coverage against gram-­negative organisms may be indicated if 
+the aspiration is nosocomial.
+Foreign Body
+Any child with cough of abrupt onset should be suspected of having 
+inhaled a foreign body into the airway. Toddlers, who by nature put all 
+types of things into their mouths and who have incompletely matured 
+swallowing and airway protective mechanisms, are at high risk. Infants 
+with toddlers or young children in the household who may “feed” the 
+baby are also at risk. In older children, it is usually possible to obtain an 
+accurate history of the aspiration event. These events are described as 
+choking, gagging, and coughing while something (e.g., peanuts, pop­
+corn, small toys, sunflower seeds) is in the mouth. However, in toddlers, 
+∼50% may have no witnessed history of gagging. The child may come 
+Fig. 3.9  Pneumatocele formation in the left upper lobe of a patient 
+with staphylococcal pneumonia. (From Daly JS, Ellison RT. Acute pneu­
+monia. In: Bennett JE, Dolin R, Blaser MF, eds. Mandell, Douglas, and 
+Bennett’s Principles and Practices of Infectious diseases. 9th ed. Phila­
+delphia: Elsevier; 2020, Fig. 67.10.)
+Fig. 3.10  Chest radiograph of large right-­sided pleural effusion com­
+plicating community-­acquired pneumonia. (From de Benedictis FM, 
+Kerem E, Chang AB, et al. Complicated pneumonia in children. Lancet. 
+2020;396:786–798, Fig. 1.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+43
+CHAPTER 3  Cough
+to the physician with cough and wheeze immediately after the event, 
+with a clear history and a straightforward diagnosis. In many children 
+with a tracheobronchial foreign body, however, the initial episode is 
+not recognized; these children may not come to medical attention for 
+days, weeks, or even months. The initial episode may be followed by a 
+relatively symptom-­free period lasting days or even weeks, until infec­
+tion develops behind an obstructed segmental or lobar bronchus. At 
+this point, cough, perhaps with hemoptysis, with or without wheeze, 
+recurs.
+On physical examination early after an aspiration episode, there is 
+cough, wheeze, or both, often with asymmetry of auscultatory find­
+ings. There may be locally diminished breath sounds. Later, localized 
+wheeze or crackles may be detected. The triad of wheezing, coughing, 
+and decreased breath sounds is present in fewer than 50% of patients. 
+The presence of laryngotracheal foreign bodies often manifests with 
+stridor, retractions, aphonia, cough, and normal radiographs.
+Chest radiographs may be normal in 15% of patients with intra­
+thoracic foreign bodies but should be obtained in both inspiration and 
+expiration because in some cases the only abnormality is unilateral 
+or unilobar air trapping, which is occasionally more clearly identified 
+with an expiratory radiograph. In this view, an overdistended lung 
+that had appeared normal on the inspiratory view does not empty, but 
+the normal, unobstructed lung empties normally. This phenomenon 
+causes a shift of the mediastinum toward the emptying lung, away from 
+the side with the obstructing foreign body (Fig. 3.11). In other patients, 
+localized infiltrate or atelectasis may be present behind the obstructing 
+object. In a few patients, it may be possible to identify the foreign body 
+itself; nonetheless, most inhaled food particles are not radiopaque and 
+cannot be seen on radiographs. Aspiration is usually unilateral (80%); 
+50–60% of the objects are in the right lung (the lobe depends on body 
+position—supine vs standing—but is often the right middle lobe). The 
+definitive diagnostic and therapeutic maneuver is bronchoscopy; either 
+the flexible or rigid bronchoscope enables direct visualization of the 
+object; the rigid instrument also enables its removal.
+Gastroesophageal Reflux
+GER is a common cause of cough in all age groups (see Chapter 15). 
+The typical patient is an infant in the first 6 months of life who spits 
+up small amounts frequently after feedings. This “regurgitant reflux” 
+most commonly resolves by 1 year of age. However, many toddlers and 
+children continue to have reflux, although it may be “silent” or nonre­
+gurgitant (without spitting up).
+In most people with GER, it is merely a nuisance or not noticed. In 
+some there are sequelae, and this condition is designated gastroesoph­
+ageal reflux disease (GERD). One manifestation is cough; the mecha­
+nisms for the cough are not fully understood. Aspiration of refluxed 
+material is one mechanism for cough but is probably not very common 
+in neurologically intact children. A major mechanism for GERD with 
+cough is mediated by vagal esophagobronchial reflexes (bronchocon­
+striction), stimulated by acid in the esophagus. Whether acid in the 
+TABLE 3.15  Differentiation of Pleural Fluid
+Transudate
+Exudate
+Complicated Empyema
+Appearance
+Clear
+Cloudy
+Purulent
+Cell count
+<1,000
+>1,000
+>5,000
+Cell type
+Lymphocytes, monocytes
+PMNs
+PMNs
+LDH
+<200 U/L
+>200 U/L
+>1,000 U/L
+Pleural/serum LDH ratio
+<0.6
+>0.6
+>0.6
+Protein >3 g
+Unusual
+Common
+Common
+Pleural/serum protein ratio
+<0.5
+>0.5
+>0.5
+Glucose*
+Normal
+Low
+Very low* (<40 mg/dL)
+pH*
+Normal (7.40–7.60)
+7.20–7.40
+<7.20
+Gram stain
+Negative
+Usually positive
+>85% positive unless patient received 
+prior antibiotics
+LDH, lactate dehydrogenase; PMNs, polymorphonuclear neutrophils.
+*Low glucose or pH may be seen in malignant effusion, tuberculosis, esophageal rupture, pancreatitis (positive pleural amylase), and rheumatologic 
+diseases (e.g., systemic lupus erythematosus).
+TABLE 3.16  Definitions of Positive 
+Tuberculosis (TB) by Mantoux Skin 
+Test (5 TU)*
+Cutaneous Induration ≥5 mm
+ • Close exposure to known or suspected active TB
+ • Chest radiograph consistent with TB (old or active)
+ • Clinical evidence of TB
+ • Children receiving immunosuppressive therapy or with immunosuppressive 
+conditions
+Cutaneous Induration ≥10 mm
+Children at increased risk
+ • Age <4 yr of age
+ • High risk conditions (chronic renal failure, malnutrition, diabetes mellitus, 
+lymphoma)
+Children with likelihood of increased exposure
+ • Children born in high-­prevalence regions of the world
+ • Children who travel to high-­prevalence regions of the world
+ • Children frequently exposed to adults who are HIV infected, homeless, 
+users of illicit drugs, residents of nursing homes, incarcerated, or 
+institutionalized
+Cutaneous Induration ≥15 mm
+ • All children without any identifiable risk
+*BCG vaccination status not relevant.
+BCG, bacille Calmette-­Guérin; TB, tuberculosis; TU, tuberculin units.
+Data from American Academy of Pediatrics. Tuberculosis. In: Kimberlin 
+DW, Brady MT, Jackson MA, et al., eds. 2015 Red Book: Report of 
+the Committee on Infectious Diseases. 30th ed. Elk Grove Village, IL: 
+American Academy of Pediatrics; 2015:806.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+44
+SECTION 2  Respiratory Disorders
+esophagus is sufficient stimulus to cause bronchoconstriction by itself 
+or whether it merely heightens bronchial reactivity to other stimuli is 
+not yet clear. Many children with asthma have cough or wheeze that 
+is difficult to control until their concurrent GER is also treated. Many 
+episodes of cough caused by GERD occur in children with asthma that 
+is difficult to control.
+The diagnosis of GERD must also be considered in the child with 
+chronic or recurrent cough with no other obvious explanation. The 
+child who coughs after meals or at night, when the supine position may 
+provoke GER, should be evaluated for GER. If GER is confirmed, the 
+next step is a therapeutic trial of antireflux therapy.
+Treatment in a child whose cough is related to GER may be 
+accomplished by treating the reflux (see Chapter 15) or by a combina­
+tion of antireflux and antiasthma treatment. On occasion, the cough 
+may be abolished by stopping all antiasthma medications. In such 
+cases, the cough was a manifestation of bronchospasm with esoph­
+ageal acidification as the trigger for bronchospasm; the esophageal 
+acidification was caused by the bronchodilator effects on the lower 
+esophageal sphincter.
+Asthma
+Cough is frequently the sole or most prominent manifestation of 
+asthma; wheezing may be entirely absent. In fact, asthma is almost 
+certainly the most common cause of recurrent and chronic cough 
+in childhood (see Chapter 4). Some of the features that characterize 
+the cough of a child with asthma are listed in Table 3.17. Treatment 
+for asthma manifesting as cough is the same as the treatment for 
+asthma.
+Cystic Fibrosis
+CF is a common cause of recurrent or chronic cough in infancy and 
+childhood. CF occurs in 1 in 2,000–3,000 live births among White 
+persons, is far less common among African Americans (1 in 15,000), 
+and is rare among Native Americans and Asians. Early diagnosis 
+improves the prognosis for untreated CF; if untreated, many patients 
+die in infancy or early childhood. The median length of survival is in 
+the upper 30s; based on 2018 CF Patient Registry data, the median life 
+expectancy of people with CF who are born between 2014 and 2018 is 
+predicted to be 44 years. Of children born in 2018, half are predicted to 
+survive to 47 years or older.
+CF is a genetic disorder, inherited as an autosomal recessive trait. 
+The CF gene is on the long arm of chromosome 7; more than 1,900 
+gene variants have been identified at the CF locus. Of these variants, 
+one (ΔF508, indicating a deletion, Δ, of a single phenylalanine, F, at 
+position 508 of the protein product) is the most common, responsible 
+for 70–75% of all CF chromosomes. The variant affects the gene’s pro­
+tein product, termed cystic fibrosis transmembrane regulator (CFTR), 
+which acts as a chloride channel and affects other aspects of membrane 
+transport of ions and water. Not all the consequences of the defective 
+gene and protein have been determined. In general, however, the defec­
+tive gene product results in the long-­observed clinical manifestations 
+of the disease, including thick, viscid mucus in the tracheobronchial 
+tree, leading to purulent bronchiolitis and bronchitis with subsequent 
+bronchiectasis, pulmonary fibrosis, and respiratory failure; pancreatic 
+duct obstruction, leading to pancreatic insufficiency with steatorrhea 
+and failure to thrive; and abnormally high sweat chloride and sodium 
+concentrations. The airway disease in CF is characterized by infection, 
+inflammation, and endobronchial obstruction. The infection begins 
+with S. aureus, H. influenzae, Escherichia coli, Klebsiella species, or 
+A
+B
+Fig. 3.11  A, Normal inspiratory chest radiograph in a toddler with a peanut fragment in the left main bron­
+chus. B, Expiratory radiograph of the same child showing the classic air trapping on the involved side. (From 
+Hammer AR, Schroeder JW Jr. Foreign bodies in the airway. In: Kliegman RM, St. Geme JW III, Blum NJ, 
+et al., eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia: Elsevier; 2020, Fig. 411.2.)
+TABLE 3.17  Asthma as a Cause of Cough: 
+History
+Any age (even infants)
+Coexistence of allergy increases likelihood, but absence of allergy does not 
+decrease likelihood
+Wheeze need not be present
+	 ↑	Cough with upper respiratory infections
+	 ↑	Cough with (and especially after) exercise
+	 ↑	Cough with hard laughing or crying
+	 ↑	Cough with exposure to cold
+	 ↑	Cough with exposure to cigarette smoke
+	 ↑	Nocturnal cough
+	 ↑	Exercise-­induced dyspnea or cough
+Usually a history of dramatic response to inhaled β-­agonists
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+45
+CHAPTER 3  Cough
+combinations of these organisms but eventually is dominated by non­
+mucoid or mucoid Pseudomonas aeruginosa. Other organisms, such 
+as Burkholderia cepacia, Stenotrophomonas maltophilia, Alcaligenes 
+xylosoxidans, Aspergillus fumigatus, or nontuberculous mycobacte­
+ria may also appear. In some patients, B. cepacia has been associated 
+with rapid deterioration and death, and in others, Aspergillus species 
+has caused allergic bronchopulmonary aspergillosis (ABPA). The air­
+way inflammation in all patients with CF appears to be the result of 
+endogenous toxic substances, including elastase, released by neutro­
+phils as they respond to the endobronchial infection and by exogenous 
+enzymes released by the invading organisms.
+CF may manifest at birth with meconium ileus (20% of patients), or 
+later, with steatorrhea and failure to thrive despite a voracious appetite, 
+in an apparent effort to make up for the calories that are lost in the 
+stool (see Chapter 12). The most common presenting symptom after 
+the newborn period is cough, which may appear within the first weeks 
+of life or may be delayed for decades. The cough can be dry, productive, 
+or paroxysmal. Cough may respond to antibiotics or perhaps steroids, 
+but it is less likely to improve with bronchodilators (see Tables 3.3 and 
+3.5). Because CF is a recessive genetic disease, there is often no family 
+history. Furthermore, in atypical cases, patients may not have pancre­
+atic insufficiency (∼10% of patients) and thus may not demonstrate 
+steatorrhea and failure to thrive. In addition, malabsorption may not 
+be evident in the neonatal period.
+There is no such thing as a child who looks “too good” to have 
+CF; common abnormalities found on physical examination are noted 
+in Table 3.18. One of the most important physical findings is digital 
+clubbing. In most patients with CF, clubbing develops within the first 
+few years of life. Although the list of conditions associated with digital 
+clubbing (Table 3.19) is long, they are less common than CF, or the 
+incidence of digital clubbing with these conditions is low. There is some 
+relationship between the degree of pulmonary disease severity and the 
+degree of digital clubbing. A child who has had years of severe respira­
+tory symptoms without digital clubbing is not likely to have CF.
+The diagnosis is confirmed by a positive sweat chloride test or con­
+firming the presence of two CF variants on chromosome 7. The sweat 
+test, if not performed correctly in a laboratory with extensive experi­
+ence with the technique (as, for example, in an accredited CF center), 
+yields many false-­positive and false-­negative results. The proper tech­
+nique is to use quantitative analysis of the concentration of chloride in 
+the sweat produced after pilocarpine iontophoretic stimulation. Chlo­
+ride concentration ≥60 mmol/L is considered positive, ≤29 mmol/L is 
+negative (normal), and 30–59 mmol/L is intermediate, suggestive of 
+possible CF, and requires further evaluation, including a repeat sweat 
+test and CFTR gene sequencing. Healthy adults have slightly higher 
+sweat chloride concentrations than do children, but the same guide­
+lines hold for positive tests in adults. The non-­CF conditions yielding 
+elevated sweat chloride concentrations are listed in Table 3.20. False-­
+negative results of sweat tests can be seen in CF children presenting 
+TABLE 3.18  Physical Examination Features 
+of Cystic Fibrosis
+General
+Low weight for height (>50% of patients)
+Head, Eyes, Ears, Nose, and Throat
+Nasal polyps (20%)
+Chest
+Cough
+Barrel chest (↑ anteroposterior diameter)
+Intercostal, suprasternal retractions
+Crackles, especially upper lobes
+Wheeze
+Abdomen
+Hepatomegaly (10%)
+Right lower quadrant fecal mass (5–10%)
+Extremities
+Digital clubbing (80%)
+Reproductive Tract
+Bilateral atresia or absence of vas deferens (>95% of males)
+TABLE 3.19  Causes of Digital Clubbing in 
+Children
+Pulmonary
+ • Cystic fibrosis ++
+ • Non–cystic fibrosis bronchiectasis +
+ • Primary ciliary dyskinesia
+ • Bronchiolitis obliterans
+ • Interstitial lung diseases
+ • Empyema
+ • Lung abscess
+ • Malignancy
+ • Tuberculosis
+ • Pulmonary arteriovenous fistula
+Cardiac
+ • Cyanotic congenital heart disease ++
+ • Bacterial endocarditis +
+ • Chronic congestive heart failure
+Gastrointestinal
+ • Crohn disease
+ • Ulcerative colitis
+ • Celiac disease +
+ • Severe gastrointestinal hemorrhage
+ • Small bowel lymphoma
+ • Multiple polyposis
+Hepatic
+ • Biliary cirrhosis
+ • Chronic active hepatitis
+Hematologic
+ • Thalassemia
+ • Congenital methemoglobinemia
+Miscellaneous
+ • Familial
+ • Thyroid deficiency
+ • Thyrotoxicosis
+ • Chronic pyelonephritis
+ • Heavy metal poisoning
+ • Scleroderma
+ • Lymphoid granulomatosis
+ • Hodgkin disease
+ • HIV
+++, very common cause of digital clubbing; +, common cause of digital 
+clubbing.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+46
+SECTION 2  Respiratory Disorders
+with edema or hypoproteinemia and in samples from children with 
+an inadequate sweat rate. Sweat testing can be performed at any age. 
+Newborns within the first few weeks of life may not produce a large 
+enough volume of sweat to analyze (75 mg minimum), but in those 
+who do (the majority), the results are accurate. Indications for sweat 
+testing are noted in Table 3.21.
+In patients for whom sweat testing is difficult (e.g., because of 
+distance from an experienced laboratory, small infants who have not 
+produced enough sweat, patients with extreme dermatitis, or patients 
+with intermediate-­range sweat chloride concentrations), CFTR gene 
+sequencing can be useful. Demonstration of two known CF variants 
+confirms the diagnosis. Finding one or no known variant makes the 
+diagnosis less likely but is not exclusive, inasmuch as there are patients 
+with not-­yet-­characterized variants.
+Recovery of mucoid P. aeruginosa from respiratory tract secretions 
+is strongly suggestive of CF. Similarly, pansinusitis is nearly universal 
+among CF patients but is quite uncommon in other children. All 50 
+states are using a neonatal screen for CF. The CF screen assays include 
+measuring serum immunoreactive trypsinogen (IRT) levels, which are 
+elevated in most infants with CF for the first several weeks of life, and 
+DNA analysis for CFTR variants. The main drawback of the IRT assay 
+is that it has relatively poor specificity; as many as 90% of the positive 
+results on the initial screen are false-­positive results. If an infant’s IRT 
+screen is positive, the test should be repeated, or DNA analysis for the 
+23 most common CFTR variants should be performed. At 2–3 weeks 
+of age, which is when the IRT is repeated, the false-­positive rate has 
+fallen dramatically but is still quite high (25%). Definitive testing with 
+the sweat chloride test needs to be carried out on infants with positive 
+screening results.
+Laboratory data that may support the diagnosis of CF include low 
+levels of fecal elastase. This suggests pancreatic insufficiency, which 
+occurs most commonly in CF but can be seen in other diseases. The 
+test is not perfect for confirming CF as some CF patients have suffi­
+cient pancreatic function. Pulmonary function test findings with an 
+obstructive pattern, incompletely responsive to bronchodilators, are 
+consistent with CF but, of course, can be seen in other conditions. 
+Conversely, some patients with CF also have asthma and may show a 
+marked response to a bronchodilator. Complications of CF that suggest 
+the diagnosis are noted in Table 3.22.
+The treatment of patients with CF requires a comprehensive 
+approach, best performed in, or in conjunction with, an approved CF 
+center. Several studies have shown survival to be significantly better in 
+center-­based care than in non–center-­based care. CFTR gene modula­
+tor therapy aims to increase or improve the function of the abnormal 
+CFTR protein and has shown promising results over the past 5 years.
+Anatomic Abnormalities
+Table 3.23 lists the main anatomic abnormalities that cause cough.
+Vascular rings and slings. Vascular rings and slings are often 
+associated with inspiratory stridor because the abnormal vessels 
+compress central airways, most commonly the trachea (see Chapter 
+4). The patient may also have difficulty swallowing if the esophagus is 
+compressed.
+The diagnosis may be suspected from plain radiographs of the chest, 
+especially those showing tracheal deviation and a right-­sided aortic 
+arch. Further support for the diagnosis can be found at bronchoscopy 
+(which shows extrinsic compression of the trachea or a mainstem 
+bronchus), barium esophagram (which shows esophageal compres­
+sion), or both. The definitive diagnosis is made with CT angiography 
+or magnetic resonance angiography. Treatment is surgical.
+Pulmonary sequestration. Pulmonary sequestration is relatively 
+unusual, occurring in 1 in 60,000 children. It occurs most commonly 
+in the left lower lobe and can manifest in several ways (Fig. 3.12; see 
+also Table 3.23). The chest radiograph usually shows a density in the 
+left lower lobe; this density often appears to contain cysts (Fig. 3.13). 
+The feature distinguishing a sequestered lobe from a complicated 
+pneumonia is that the blood supply arises from the systemic circulation 
+and not the pulmonary circulation. Doppler ultrasonography and CT 
+TABLE 3.20  Conditions Other Than Cystic 
+Fibrosis with Elevated Sweat Chloride
+Adrenal insufficiency (untreated)
+Ectodermal dysplasia
+Autonomic dysfunction
+Hypothyroidism
+Malnutrition, including psychosocial dwarfism
+Mucopolysaccharidosis
+Glycogen storage disease (type I)
+Fucosidosis
+Hereditary nephrogenic diabetes insipidus
+Mauriac syndrome
+Pseudohypoaldosteronism
+Familial cholestasis
+Nephrosis with edema
+TABLE 3.21  Indications for Sweat Testing
+Pulmonary Indications
+ • Chronic or recurrent cough
+ • Chronic or recurrent pneumonia (especially RUL)
+ • Recurrent bronchiolitis
+ • Atelectasis
+ • Hemoptysis
+ • Staphylococcal pneumonia
+ • Pseudomonas aeruginosa in the respiratory tract (in the absence of such 
+circumstances as tracheostomy or prolonged intubation)
+ • Mucoid P. aeruginosa in the respiratory tract
+Gastrointestinal Indications
+ • Meconium ileus
+ • Neonatal intestinal obstruction (meconium plug, atresia)
+ • Steatorrhea, malabsorption
+ • Failure to thrive
+ • Hepatic cirrhosis in childhood (including any manifestations such as 
+esophageal varices or portal hypertension)
+ • Pancreatitis
+ • Rectal prolapse
+ • Vitamin K deficiency states (hypoprothrombinemia)
+Miscellaneous Indications
+ • Digital clubbing
+ • Family history of cystic fibrosis (sibling or cousin)
+ • Salty taste when kissed; salt crystals on skin after evaporation of sweat
+ • Heat prostration, especially under seemingly inappropriate circumstances
+ • Hyponatremic hypochloremic alkalosis in infants
+ • Nasal polyps
+ • Pansinusitis
+ • Aspermia
+RUL, right upper lobe.
+From Kercsmar CM. The respiratory system. In: Behrman RE, 
+Kliegman RM, eds. Nelson Essentials of Pediatrics. 2nd ed. 
+Philadelphia: WB Saunders; 1994:451.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+47
+CHAPTER 3  Cough
+angiography provide the definitive diagnosis. The treatment is surgical 
+removal.
+Congenital pulmonary airway malformation. Congenital pulmonary 
+airway malformations (CPAMs) (formerly known as congenital cystic 
+adenomatoid malformations or CCAMs) are rare. They manifest in 
+infancy with respiratory distress in nearly 50% of cases; the other half 
+may manifest as cough with recurrent infection later in childhood or 
+even adulthood. The chest radiograph reveals multiple cysts, separated 
+by dense areas. Chest CT scans can help make the diagnosis with near 
+certainty. Surgical removal is the treatment of choice, particularly if the 
+lesion is symptomatic.
+Congenital lobar emphysema. Congenital lobar emphysema has 
+a prevalence of 1 in 20,000–30,000. It can manifest dramatically with 
+respiratory distress in the neonatal period or later (Fig. 3.14), with 
+cough or wheeze, or as an incidental finding on a chest radiograph. 
+Radiography shows localized overinflation, often dramatic, with 
+compression of adjacent lung tissue and occasionally atelectasis of the 
+contralateral lung because of mediastinal shift away from the involved 
+side. The appearance on chest CT scan is typical, with widely spaced 
+blood vessels (as opposed to congenital cysts, for example, which have 
+no blood vessels within the overinflated area). Bronchoscopy can 
+document patent bronchi and should probably be performed in older 
+children in whom congenital lobar emphysema can be confused with 
+acquired overinflation of a lobe as the result of bronchial obstruction, as 
+with a foreign body. If the disease is symptomatic, treatment is surgical.
+Tracheoesophageal fistula. Tracheoesophageal fistula is common, 
+with an incidence of about 1 in 2,500–4,500 live births. Of these fistulas, 
+the large majority (85%) are associated with esophageal atresia; only 3% 
+are the isolated, H-­type fistula (a patent esophagus with fistulous tract 
+connecting the esophagus and trachea). A neonate with esophageal 
+atresia experiences respiratory distress, excessive drooling, and choking 
+and gagging with feeding. The H-­type fistula causes more subtle signs 
+and may be undiagnosed for months or even years. The child may have 
+only intermittent feeding trouble, especially with liquids. There may be 
+recurrent lower respiratory tract infections.
+The diagnosis is not challenging in the infant with esophageal 
+atresia; a nasogastric tube cannot be passed, and swallowed barium 
+outlines the trachea. In the older child with H-­type fistula, a barium 
+esophagogram may or may not reveal the fistula. Bronchoscopy and 
+esophagoscopy should permit direct visualization of the fistula; how­
+ever, the opening may be hidden in mucosal folds.
+Treatment is surgical. Many children born with tracheoesopha­
+geal fistula have recurrent cough and lower respiratory tract infection 
+for many years, even after successful surgical correction. The cough 
+is characteristically the harsh cough of tracheomalacia, which is pres­
+ent at the site of the fistula. The infections result from several causes, 
+including GER due to impaired esophageal motility, with or without 
+aspiration, and altered mucociliary transport. Treatment involves reg­
+ular chest physiotherapy and early and aggressive use of antibiotics 
+whenever there is evidence of increased pulmonary symptoms.
+Hemangiomas. Hemangiomas may be present within the airway and 
+can cause cough, rarely with hemoptysis. Stridor (if the hemangioma is 
+high in the airway) and respiratory distress (if the hemangioma is large) 
+may also occur. In rare cases, with very large airway hemangiomas, 
+there may even be dysphagia from extrinsic compression. Children 
+with cutaneous hemangiomas in the mandibular or neck region 
+(“beard” distribution) are at risk for an airway hemangioma.
+The diagnosis is made with bronchoscopy. These lesions may resolve 
+spontaneously over the first year or so. However, if they cause symp­
+toms, it may not be advisable or possible to wait for them to resolve.
+Many airway hemangiomas regress with steroid treatment; how­
+ever, due to the side effect profile, propranolol is considered the treat­
+ment of choice. Asthma is a contraindication for propranolol treatment 
+due to its beta-­blocking effect and potential to worsen asthma. Laser 
+ablation may be indicated in some refractory cases that do not respond 
+to first-­line treatment. In the case of a large subglottic hemangioma, a 
+tracheostomy is performed and maintained until the mass regresses.
+Enlarged lymph nodes. Enlarged mediastinal lymph nodes, such 
+as those resulting from tuberculosis, leukemia, other hematologic 
+malignancies, or other infections, are occasionally a cause of cough in 
+children (Table 3.24; see also Table 3.23). These nodes are usually seen 
+on plain radiographs of the chest. The x-­ray study or bronchoscopy 
+may show extrinsic compression of the trachea. Treatment is directed 
+at the underlying cause.
+Bronchial stenosis. Occasionally bronchial stenosis, either 
+congenital or acquired, may cause cough. The diagnosis is made with 
+TABLE 3.22  Complications of Cystic 
+Fibrosis
+Pulmonary Complications
+ • Bronchiectasis, bronchitis, bronchiolitis, pneumonia
+ • Atelectasis
+ • Hemoptysis
+ • Pneumothorax
+ • Nasal polyps
+ • Sinusitis
+ • Bronchospasm
+ • Cor pulmonale
+ • Respiratory failure
+ • Mucoid impaction of the bronchi
+ • Allergic bronchopulmonary aspergillosis
+Gastrointestinal Complications
+ • Meconium ileus
+ • Meconium peritonitis
+ • Distal intestinal obstruction syndrome (meconium ileus equivalent) (non-­
+neonatal obstruction)
+ • Rectal prolapse
+ • Intussusception
+ • Volvulus
+ • Appendicitis
+ • Intestinal atresia
+ • Pancreatitis
+ • Biliary cirrhosis (portal hypertension: esophageal varices, hypersplenism)
+ • Neonatal obstructive jaundice
+ • Hepatic steatosis
+ • Gastroesophageal reflux
+ • Cholelithiasis
+ • Inguinal hernia
+ • Growth failure
+ • Vitamin deficiency states (vitamins A, D, E, K)
+ • Insulin deficiency, symptomatic hyperglycemia, diabetes
+Other Complications
+ • Infertility
+ • Edema/hypoproteinemia
+ • Dehydration/heat exhaustion
+ • Hypertrophic osteoarthropathy/arthritis
+ • Delayed puberty
+ • Amyloidosis
+From Kercsmar CM. The respiratory system. In: Behrman RE, 
+Kliegman RM, eds. Nelson Essentials of Pediatrics. 2nd ed. 
+Philadelphia: WB Saunders; 1994:451.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+48
+SECTION 2  Respiratory Disorders
+bronchoscopy, after suspicion has been raised by the child having 
+recurrent infiltrates in the same lobe, especially with localized wheeze.
+Treatment may be difficult. In some cases, endoscopic balloon dila­
+tation or airway stent placement is successful; in others, surgical resec­
+tion of stenotic areas may be necessary.
+Bronchogenic cysts. Bronchogenic cysts are uncommon, but they 
+can cause cough, wheeze, stridor, or any combination of these. They 
+may also cause recurrent or persistent pneumonia if they block a 
+bronchus sufficiently to interfere with normal drainage of the segment 
+or lobe. Radiography may show localized overinflation if the cyst causes 
+a ball-­valve–type obstruction. The cyst itself may or may not be seen on 
+plain radiographs. Bronchoscopy reveals extrinsic compression of the 
+airway. CT studies often definitively show the lesion. Surgical removal 
+is indicated.
+Other rare causes of cough. Certain genetic disorders such as 
+hereditary sensory and autonomic neuropathies (HSANs), in the 
+absence of significant autonomic features, may first present with 
+unexplained chronic cough and GER.
+Habit (Psychogenic) Cough
+On occasion, a school-­aged child may develop a cough that lasts for 
+weeks, often after a fairly typical cold. This cough occurs only during 
+wakefulness, never during sleep. In many cases, the cough is harsh and 
+sounds like a foghorn. It can disrupt the classroom, and the child may 
+be asked to leave. The child is otherwise well and may seem unbothered 
+by the spectacle created. There is no response to medications. It seems 
+that this type of cough, previously termed “psychogenic” or “psycho­
+genic cough tic,” now called habit cough, has given the child valuable 
+attention. This attention then serves as the sustaining force, and the 
+cough persists beyond the original airway inflammation. In the small 
+minority of cases, there may be deep-­seated emotional problems of 
+which the cough is the physical expression.
+During the history or physical examination, the child appears com­
+pletely well and may cough when attention is drawn to the child or 
+when the word “cough” is uttered. The physical examination findings 
+are otherwise completely normal, as are laboratory values. Because this 
+may occur in any child, evidence of mild asthma (history or pulmonary 
+function testing) does not rule out the diagnosis. Once a physician has 
+seen a child with this problem, it is usually possible to make the diag­
+nosis with certainty on entering the examining room or, indeed, from 
+the hallway outside the room.
+Treatment can prove more difficult. The child and family should 
+be reassured that the child is well. Suggestion therapy empowers and 
+TABLE 3.23  Anatomic Abnormalities Causing Cough
+Condition
+Other Symptoms
+Diagnostic Evidence
+Treatment
+Vascular ring/sling
+Stridor; dysphagia, emesis
+Radiographic: deviated trachea, right-­sided arch
+Barium swallow: esophageal indentation
+Bronchoscopy: extrinsic compression
+Chest CT angiography: definitive
+Surgical
+Pulmonary sequestration
+Fever, dyspnea; may be asymptomatic
+Radiographic: most commonly in the left lower lobe, 
+usually with cysts
+Angiography: systemic blood supply
+Surgical
+Congenital pulmonary airway 
+malformation
+Respiratory distress; recurrent infection
+Radiographic: multiple cysts alternating with solid areas
+Surgical
+Congenital lobar emphysema
+Respiratory distress; wheeze; may be 
+asymptomatic
+Radiographic: localized overinflation, other lobes (even 
+other lung) collapsed
+Bronchoscopy to rule out foreign body
+Surgical (if symptomatic)
+Tracheoesophageal fistula or 
+cleft
+Gagging, choking with feeds; respiratory 
+distress (especially with esophageal 
+atresia)
+Barium esophagram: barium in tracheobronchial tree
+Bronchoscopy: direct visualization
+Surgical
+Airway hemangioma
+Stridor; wheeze; dysphagia; hemoptysis
+Bronchoscopy
+Propranolol, steroids; laser; 
+occasionally tracheostomy 
+required
+Mediastinal lymph nodes
+Stridor
+Radiographic: hilar nodes; compressed tracheal air 
+column
+Treat cause
+Bronchial stenosis
+Wheeze; recurrent pneumonia
+Bronchoscopy
+Balloon dilatation; surgery
+Bronchogenic cysts
+Wheeze, stridor
+Radiographic: hyperinflation of one lung; visible mass 
+(carina, posterior mediastinum)
+Bronchoscopy: extrinsic compression
+CT: often definitive
+Surgical
+Tumors (see Tables 3.24, 3.25)
+Cough, wheeze, hemoptysis
+CT, MRI
+Based on tumor type
+Recurrent cough and fever
+Incompletely resolved pneumonia
+Incidental radiologic finding
+Breathlessness from birth
+Incidental autopsy finding
+7
+8
+7
+3
+2
+Fig. 3.12  Different modes of presentation of sequestered lobe and 
+number of children with each problem. (From Phelan PD, Olinsky A, 
+eds. Respiratory Illness in Children. Oxford: Wiley-­Blackwell; 1994.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+49
+CHAPTER 3  Cough
+encourages the patient to suppress the cough for short increments of 
+time. The goal is for them to gradually lengthen the cough-­free inter­
+vals. Speech therapy may be helpful (Table 3.25).
+Other Causes of Cough
+Table 3.26 lists several miscellaneous causes of cough in children.
+Bronchiectasis. Bronchiectasis is defined as an abnormal dilatation 
+of the subsegmental bronchi and is usually associated with chronic 
+cough and purulent sputum production. It occasionally occurs after 
+severe pneumonias (bacterial or viral); it eventually develops in 
+nearly all patients with CF. Recurrent protracted bacterial bronchitis 
+(over three episodes in 1 year) may be a sign of or a precursor to 
+bronchiectasis. Diagnosis may, on occasion, be made with plain 
+Fig. 3.13  Anterior-­posterior and lateral chest radiographs showing a left lower lobe pulmonary sequestration 
+(bold arrow) in a 15-­year-­old girl.
+<1 month
+1–6 months
+1–5 years
+6–12 months
+>5 years
+8
+11
+5
+4
+4
+Respiratory 
+distress
+Wheeze
+Incidental radiologic findings
+Cough
+14
+8
+5
+5
+Left upper 
+lobe
+Right upper lobe
+Right middle lobe
+16
+14
+2
+A
+B
+C
+Fig. 3.14  Different modes of presentation of congenital lobar emphy­
+sema. A, Age at presentation. B, Symptoms at presentation. C, Involved 
+lobe. Numbers refer to the number of children in each category. (From 
+Phelan PD, Olinsky A, eds. Respiratory Illness in Children. Oxford: 
+Wiley-­Blackwell; 1994.)
+TABLE 3.24  Intrathoracic Mass Lesions
+Anterior Mediastinum
+ • Thymus tumor
+ • T-­cell lymphoma
+ • Teratoma
+ • Thyroid lesions
+ • Pericardial cyst
+ • Hemangioma
+ • Lymphangioma
+Hilar–Middle Mediastinum
+ • Tuberculosis
+ • Histoplasmosis
+ • Coccidiomycosis
+ • Acute lymphocytic leukemia/lymphoma
+ • Hodgkin disease
+ • Sarcoidosis
+ • Hiatal hernia
+ • Pericardial cyst
+ • Bronchogenic or enteric cyst
+Posterior Mediastinum
+ • Neuroblastoma/ganglioneuroma
+ • Other neural tumors
+ • Neuroenteric lesions
+ • Esophageal lesions (duplication)
+ • Vertebral osteomyelitis
+ • Diaphragmatic hernia
+ • Meningocele
+ • Aortic aneurysm
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+50
+SECTION 2  Respiratory Disorders
+chest radiographs, but high-­resolution CT scanning is the diagnostic 
+procedure of choice. Treatment of bronchiectasis consists of airway 
+clearance with chest physiotherapy and postural drainage or high-­
+frequency chest wall oscillation, occasionally bronchodilators and 
+mucolytic agents, and antibiotic therapy during exacerbations. Surgical 
+resection may be indicated in cases that are progressive and localized 
+when medical therapy has failed. The prognosis of bronchiectasis 
+depends on the underlying cause. CF-­associated bronchiectasis is a 
+major cause of CF-­related morbidity and mortality, whereas non-­CF 
+bronchiectasis may remain stable or even regress with therapy.
+Primary ciliary dyskinesia. Conditions in which the cilia do not 
+function properly (immotile cilia or ciliary dyskinesia) lead to cough, 
+usually because infection (and bronchiectasis) occurs in the absence of 
+normal mucociliary transport. Diagnosis includes exhaled or nasal low 
+nitric oxide levels, bronchoscopic biopsy, and specific genetic testing. 
+Treatment is similar to that for CF, with regular chest physiotherapy 
+and frequent and aggressive use of antibiotics at the first sign of airways 
+infection, most commonly increased cough.
+Interstitial lung disease. Interstitial lung diseases are classified 
+based on those that occur during the neonatal period and those that 
+are not as prevalent in infancy. Interstitial lung diseases that manifest 
+with cough include aspiration (chronic and recurrent) pneumonitis, 
+hypersensitivity pneumonitis, bronchiolitis obliterans, and cryptogenic 
+organizing pneumonia (formerly known as bronchiolitis obliterans 
+organizing pneumonia or BOOP). Lung biopsy may be required for 
+a diagnosis.
+Pulmonary hemosiderosis. Pulmonary hemosiderosis is a rare, and 
+often fatal, condition of bleeding into the lung that can manifest with 
+cough. If sputum is produced, it is often frothy and blood-­tinged. There 
+may be frank hemoptysis. However, the cough may be nonproductive, 
+or the sputum may be swallowed. Some cases are associated with 
+milk hypersensitivity (Heiner syndrome), and others are associated 
+with collagen vascular disorders. Radiographs usually show diffuse 
+fluffy infiltrates, and there is invariably iron-­deficiency anemia. The 
+diagnosis is based on lung biopsy findings.
+Primary and metastatic tumors. Tumors causing cough are rare in 
+childhood. Cough usually occurs because of bronchial obstruction, 
+either extrinsic or endobronchial, resulting at times in recurrent 
+obstructive pneumonias (Table 3.27).
+Bronchogenic tumors (carcinoid, mucoepidermoid carcinoma 
+[MEC], bronchial adenocarcinoma [BAC], inflammatory myofibro­
+blastic tumor [IMT]) may present with cough, recurrent obstructive 
+pneumonias, wheezing, hemoptysis, and chest pain (Fig. 3.15). Carci­
+noid is the most common bronchial tumor followed by MEC, BAC, and 
+IMT. Carcinoid tumors rarely manifest vasoactive carcinoid syndrome 
+symptoms (<5%) but may be associated with Cushing syndrome.
+Pleuropulmonary blastoma (PPB) usually presents under age 3 
+years and is often associated with the DICER1 tumor susceptibility 
+syndrome, an autosomal dominant disease. There are four subtypes: 
+1, cystic; 2, mixed; 3, solid; and 1r, regressing. Type 1 may be confused 
+with a cystic CPAM. PPB may present with cough, wheezing, pneumo­
+nia, or pneumothorax.
+The evaluation of a suspected primary or metastatic tumor includes 
+chest x-­ray, bronchoscopy, CT angiography, and, to evaluate for meta­
+static disease, PET-­MRI (see Fig. 3.15). Treatment usually requires sur­
+gical resection in addition to other tumor-­specific therapies.
+Tracheomalacia and bronchomalacia. Isolated tracheomalacia or 
+bronchomalacia is uncommon but can cause cough in some children. 
+The cough of tracheomalacia is typically harsh and brassy. Specific 
+treatment is difficult but, fortunately, is seldom needed.
+TABLE 3.25  Speech Therapy Techniques 
+for Treating Habit Cough
+Increase abdominal breathing
+Reduce muscle tension in neck, chest, and shoulders
+Interrupt early cough sensation by swallowing
+Substitute gentle cough for hacking cough
+Interrupt cough sequence with diaphragm breathing and tightly pursed lips
+Increase the patient’s awareness of initial sensations that would trigger cough
+TABLE 3.26  Miscellaneous Causes of 
+Cough in Children
+Postnasal drip
+Bronchiectasis
+Primary ciliary dyskinesia
+Interstitial lung disease
+Heart failure/pulmonary edema
+Pulmonary hemosiderosis
+Drug induced (see Table 3.4)
+α1-­Antitrypsin deficiency
+Graft-­versus-­host disease
+Bronchopulmonary dysplasia
+Tumor (see Table 3.27)
+Alveolar proteinosis
+Tracheomalacia, bronchomalacia
+Spasmodic croup
+Cerumen impaction
+Irritation of external auditory canal
+Bronchiolitis obliterans
+Follicular bronchiolitis
+Mediastinal disease (nodes, 
+pneumomediastinum)
+Nasal polyps
+Hypersensitivity pneumonitis 
+(extrinsic allergic alveolitis)
+Thyroid lesions
+Subphrenic abscess
+Sarcoidosis
+Anaphylaxis
+Pulmonary embolism
+Lung contusion
+TABLE 3.27  Pulmonary Tumors
+Primary Malignant
+Bronchial carcinoid*
+Mucoepidermoid carcinoma*
+Adenoid cystic carcinoma*
+Pleuropulmonary blastoma*
+Inflammatory myofibroblastic tumor*
+Germ cell
+Thymoma
+Thymolipoma
+Bronchogenic carcinoma (squamous cell and bronchioalveolar)
+FLIT
+NUT midline carcinoma
+Primary Benign
+Hamartoma
+Arteriovenous malformation
+Hemangioma
+Leiomyoma
+Metastatic
+Adrenocortical carcinoma
+Thyroid carcinoma
+Teratoma
+Hepatoblastoma
+Neuroblastoma
+Wilms tumor
+Ewing sarcoma
+Osteosarcoma
+Rhabdomyosarcoma
+*Commonest primary lung tumors.
+FLIT, fetal lung interstitial tumor; NUT, nuclear protein in testis.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+51
+CHAPTER 3  Cough
+Spasmodic croup. Some children, usually preschoolers, may 
+episodically awaken at night with stridor and a harsh, barking cough 
+indistinguishable from that of viral croup. This entity is termed 
+spasmodic croup and is of unclear origin. Viral and allergic causes have 
+been postulated. GER may be the cause in some patients.
+Treatment with cool mist or racemic epinephrine is effective in 
+most patients. If GER is the underlying cause, antireflux treatment is 
+beneficial.
+Bronchiolitis obliterans. Bronchiolitis obliterans (BO) is very 
+rare except in lung and bone marrow transplant recipients. In 
+other instances, it may arise after adenovirus, measles, or influenza 
+pneumonia; after exposure to certain toxins; or in other rare cir­
+cumstances. Children may exhibit cough, respiratory distress, and 
+exercise intolerance.
+The diagnosis is suggested by the pulmonary function test or radio­
+graphic evidence of small airways obstruction; however, these findings are 
+not always present. Not all chest radiographs show overinflated lungs, and 
+not all pulmonary function tests show decreased small airways function.
+The definitive diagnosis is histologic via open or transbronchial 
+biopsy. No specific treatment is available. Most children with BO 
+recover but many progress to chronic disability or death.
+Hemoptysis
+The child who coughs out blood or bloody mucus presents special diag­
+nostic and therapeutic challenges. Although hemoptysis is relatively 
+uncommon in children, particularly among those without CF, many 
+conditions can cause it (Table 3.28). It is important (and not always 
+easy) to distinguish cases in which blood has originated in the tracheo­
+bronchial tree (true hemoptysis), the nose (epistaxis), and the gastro­
+intestinal tract (hematemesis). Table 3.29 gives some guidelines to help 
+localize sites of origin of blood that has been reported or suspected as 
+hemoptysis. None of these guidelines is foolproof, partly because blood 
+that has originated in one of these sites might well end up in another 
+before being expelled from the body; for instance, blood from the nose 
+can be swallowed and vomited or aspirated and expectorated.
+Infection is among the most common causes of hemoptysis. Lung 
+abscess and tuberculosis need to be considered. Bronchiectasis can 
+readily cause erosion into bronchial vessels, often made tortuous by 
+years of local inflammation, and produce hemoptysis. Other infectious 
+causes are less common and include necrotizing pneumonias and fun­
+gal and parasitic lung invasion.
+Foreign bodies in the airway can cause hemoptysis by direct irrita­
+tion, by erosion of airway mucosa, or by secondary infection.
+Pulmonary embolus is uncommon in children and adolescents, 
+but it needs to be considered in the differential diagnosis of an ado­
+lescent with hemoptysis of unclear origin. Clues to the diagnosis of 
+pulmonary embolus include a positive family history, severe dyspnea, 
+chest pain, hypoxia, a normal chest radiograph, an accentuated sec­
+ond heart sound, an abnormal compression ultrasonographic study of 
+the leg veins, a positive Homans sign, a positive helical CT scan, and a 
+high-­probability lung ventilation-­perfusion scan.
+The diagnosis of several causes of hemoptysis is straightforward. 
+For example, hemoptysis that occurs immediately after a surgical or 
+invasive diagnostic procedure in the chest should suggest an iatrogenic 
+problem. The chest radiograph can help suggest lung abscess, pulmo­
+nary sequestration, bronchogenic cyst, or tumor. Chest CT can help 
+with cases of arteriovenous malformations, and additional laboratory 
+values can support the diagnosis of collagen vascular disease. Bron­
+choscopy can sometimes localize a bleeding site, identify a cause (e.g., 
+a foreign body or endobronchial tumor), or recover an offending bac­
+terial, fungal, or parasitic pathogen. In many instances, bronchoscopy 
+does not help except by excluding some possibilities, because either no 
+blood or blood throughout the tracheobronchial tree is found. Chest 
+CT angiography may help to identify the involved vessel or vessels.
+Treatment of hemoptysis depends on the underlying cause. It can be 
+a terrifying symptom to children and their parents, and a calm, reas­
+suring approach is essential. Because hemoptysis is seldom fatal in chil­
+dren, reassurance is usually warranted. Furthermore, hemoptysis most 
+often resolves, and treatment of the bleeding itself is not often needed. 
+What is required is treatment of the underlying cause of the hemop­
+tysis, such as therapy for infection, removal of a foreign body, or con­
+trol of collagen vascular disease. When death occurs from hemoptysis, 
+it is more likely to be from suffocation than from exsanguination. In 
+cases of massive bleeding, the rigid open-­tube bronchoscope may help 
+A
+B
+C
+D
+Fig. 3.15  Lateral chest radiograph (A) of an 11-­year-­old boy who presented with intermittent cough. It revealed 
+collapse of the middle lobe, which was confirmed on the CT (B). Subsequent bronchoscopy (C) revealed a 
+lesion obstructing the bronchus intermedius, presumed to be a carcinoid tumor, which was confirmed (D) on 
+subsequent pathology. (From Weldon CB, Shamberger RC. Pediatric pulmonary tumors: primary and meta­
+static. Semin Pediatr Surg. 2008;17:17–29, Fig. 3.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+52
+SECTION 2  Respiratory Disorders
+suction large amounts of blood while ventilating and keeping unaf­
+fected portions of the lung clear of blood. Interventional radiologists 
+treat as well as localize a bleeding site by injecting the offending vessel 
+with occlusive substances (embolization). In extremely rare instances, 
+emergency lobectomy may be indicated.
+WHEN COUGH ITSELF IS A PROBLEM
+Cough itself seldom necessitates specific treatment. Nonetheless, cough 
+is not always completely benign (see Table 3.9). Most complications are 
+uncommon, and most accompany only very severe cough, but some 
+are serious enough to justify treatment of the cough itself.
+Cough suppressants include codeine, hydrocodone (two narcotics), 
+or dextromethorphan (a non-narcotic D-­isomer of the codeine ana­
+log of levorphanol). Such agents should be used only for severe cough 
+that may produce significant complications (see Table 3.9). For most 
+diseases, suppressing the cough offers no advantage. Disadvantages 
+include narcotic addiction and loss of the protective cough reflex with 
+subsequent mucous retention and possible superinfection. Demulcent 
+preparations (sugar-­containing, bland soothing agents or honey) tem­
+porarily suppress the cough response from pharyngeal sources, and 
+decongestant-­antihistamine combinations may reduce postnasal drip. 
+Cough medications should not be used in children under 4 years of age.
+TABLE 3.28  Hemoptysis: Differential 
+Diagnosis
+Infection
+Lung abscess
+Pneumonia*
+Tuberculosis
+Bronchiectasis* (cystic fibrosis, ciliary 
+dyskinesia)
+Necrotizing pneumonia
+Fungus (especially allergic 
+bronchopulmonary aspergillosis or 
+mucormycosis)
+Parasite
+Herpes simplex
+Foreign body
+Retained
+Congenital defect
+Heart (various)
+Primary pulmonary hypertension
+Eisenmenger syndrome
+Arteriovenous malformation
+Telangiectasia (Osler-­Weber-­Rendu)
+Pulmonary sequestration
+Bronchogenic cyst
+Autoimmune-­inflammatory
+Henoch-­Schönlein purpura
+Goodpasture syndrome
+Systemic lupus erythematosus
+Sarcoidosis
+Granulomatosis with polyangiitis
+Pulmonary hemosiderosis
+Idiopathic or with milk allergy (Heiner 
+syndrome)
+Trauma
+Contusion*
+Fractured trachea, bronchus
+Iatrogenic
+After surgery
+After transbronchial lung biopsy*
+After diagnostic lung biopsy*
+Tumors
+Benign (neurogenic, hamartoma, 
+hemangioma, carcinoid)
+Malignant (adenoma, bronchogenic 
+carcinoma)
+Metastatic (Wilms tumor, 
+osteosarcoma, sarcoma)
+Pulmonary embolus
+Cardiogenic
+Deep vein thrombosis
+Other
+Factitious
+Endometriosis
+Coagulopathy*
+Congestive heart failure
+After surfactant therapy in neonates
+Kernicterus
+Hyperammonemia
+Intracranial hemorrhage
+Epistaxis*
+Idiopathic
+*A common cause of hemoptysis.
+TABLE 3.29  Hemoptysis: Differentiating 
+Sites of Origin of Blood
+Pulmonary
+Gastrointestinal 
+Tract
+Nose
+History
+Cough, with or 
+without gurgling 
+in lung before 
+episode
+Nausea, vomiting, 
+abdominal pain
+With or without 
+nosebleed 
+dripping in back 
+of throat
+Physical
+Cough; localized 
+crackles or 
+decreased breath 
+sounds; digital 
+clubbing
+↑ Liver, spleen, 
+epigastric tenderness
+Blood in nose
+TABLE 3.30  Red Flags for Cough
+If associated with severe, acute:
+Hemoptysis
+Dyspnea
+Hypoxemia
+Choking, gagging
+If associated with chronic:
+Failure to thrive
+Steatorrhea
+Decreased exercise tolerance
+Digital clubbing
+Cough starting in infancy
+Dyspnea
+Neurodevelopmental delay
+Persistence of:
+Cough for 4 wk or more
+Radiographic abnormality, especially if asymmetric
+Failure to respond to empirical therapy:
+Antibiotics for presumed infection
+Bronchodilators for presumed bronchospasm
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+53
+CHAPTER 3  Cough
+   	 S U MMA RY  A N D  R E D  F L A G S
+Cough is important because it is a symptom and sign of underlying 
+disease that frequently merits treatment. In the acute setting, severe 
+disease, including massive hemoptysis or profound dyspnea or hypox­
+emia, warrants immediate attention, rapid diagnosis, and rapid man­
+agement. Certain chronic conditions, including those that suggest 
+CF and those in which symptoms have persisted and interfere with a 
+child’s daily activities and quality of life, warrant further evaluation and 
+treatment. Finally, a child whose cough fails to respond to what should 
+have been reasonable treatment should be referred to a pulmonary spe­
+cialist (Table 3.30).
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+53.e1
+BIBLIOGRAPHY
+Cough
+Black AD. Non-­infectious mimics of community-­acquired pneumonia. 
+Pneumonia. 2016;8:2.
+Black P. Evaluation of chronic or recurrent cough. In: Hilman BC, ed. Pediatric 
+Respiratory Disease: Diagnosis and Treatment. Philadelphia: WB Saunders; 
+1993:143–154.
+Chang AB. Cough: are children really different from adults? Cough. 2005;1:7.
+Long DA, Long B, Koyfman A. Clinical mimics: an emergency medicine 
+focused review of pneumonia mimics. Int Emerg Med. 2018;13:539–
+547.
+Morice AH, Millqvist E, Bieksiene K, et al. ERS guidelines on the diagnosis 
+and treatment of chronic cough in adults and children. Eur Respir J. 
+2020;55:1901136.
+Shields MD, Bush A, Everard ML, et al. Recommendations for the assessment 
+and management of cough in children. Thorax. 2008;63(suppl III):iii1–
+iii15.
+Upper Respiratory Infection
+Donnelly BW, McMillan JA, Weiner LB. Bacterial tracheitis: report of eight 
+new cases and review. Rev Infect Dis. 1990;12:729–735.
+Heikkinen T, Jarvinen A. The common cold. Lancet. 2003;361:51–59.
+Schaeffer MK, Shehab N, Cohen AL, et al. Adverse events from cough and cold 
+medication in children. Pediatrics [Internet]. 2008;121:783–787.
+Williams JW, Simel DL. Does this patient have sinusitis? Diagnosing 
+acute sinusitis by history and physical examination. J Am Med Assoc. 
+1993;270:1242–1246.
+Protracted Bacterial Bronchitis
+Kantar A, Chang AB, Shields MD, et al. ERS statement on protracted bacterial 
+bronchitis in children. Eur Respir J. 2017;50:1602139.
+Wurzel DF, Marchant JM, Yerkovich ST, et al. Protracted bacterial bronchitis 
+in children: natural history and risk factors for bronchiectasis. Chest. 
+2016;150:1101–1108.
+Pneumonia
+American Academy of Pediatrics. Pertussis (whooping cough). In: Kimberlin 
+DW, Brady MT, Jackson MA, et al., eds. 2015 Red Book: Report of the 
+Committee on Infectious Diseases. 30th ed. Elk Grove Village, IL: American 
+Academy of Pediatrics; 2015:608–621.
+American Academy of Pediatrics. Tuberculosis. In: Kimberlin DW, Brady 
+MT, Jackson MA, et al., eds. 2015 Red Book: Report of the Committee on 
+Infectious Diseases. 30th ed. Elk Grove Village, IL: American Academy of 
+Pediatrics; 2015:805–831.
+Balfour-­Lynn IM, Abrahamson E, Cohen G. BTS guidelines for the 
+management of pleural infection in children. Thorax. 2005;60:
+i1–i21.
+Bourke SJ. Chlamydial respiratory infections. BMJ. 1993;306:1219–1220.
+Bradley JS, Byington CL, Shah SS, et al. The management of community-­
+acquired pneumonia in infants and children older than 3 months of 
+age: clinical practice guidelines by the Pediatric Infectious Diseases 
+Society and the Infectious Diseases Society of America. Clin Infect Dis. 
+2011;53:e25.
+Brasfield DM, Stagno S, Whitley RJ, et al. Infant pneumonitis associated with 
+cytomegalovirus, Chlamydia, Pneumocystis, and Ureaplasma: follow-­up. 
+Pediatrics. 1987;79:76–83.
+Cameron LH, Starke JR. Tuberculosis (Mycobacterium tuberculosis). In: 
+Kliegman RM, St Geme III JW, Blum NJ, et al., eds. Nelson Textbook of 
+Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:1565–1582.
+De Benedictis FM, Kerem E, Chang AB, et al. Complicated pneumonia in 
+children. Lancet. 2020;396:786–798.
+Gibson NA, Hollman AS, Paton JY. Value of radiological follow-­up of 
+childhood pneumonia. BMJ. 1993;307:117.
+Harris M, Clark J, Coote N, et al. British Thoracic Society guidelines for the 
+management of community acquired pneumonia in children: update 2011. 
+Thorax. 2011;66:ii1–ii23.
+Heimdal I, Moe N, Krokstad S, et al. Human coronavirus in hospitalized 
+children with respiratory tract infections: a 9-­year population-­based study 
+from Norway. J Infect Dis. 2019;219:1198–1206.
+McCracken Jr GH. Etiology and treatment of pneumonia. Pediatr Infect Dis J. 
+2000;19:373–377.
+Meduri GU, Stein DS. Pulmonary manifestations of acquired 
+immunodeficiency syndrome. Clin Infect Dis. 1992;14:98–113.
+Monto AS, Yale J. Medical reviews. Coronaviruses. Biol Med. 1974;47(4):234–251.
+Mulholland EK, Simoes EAF, Costales MOD, et al. Standardized diagnosis of 
+pneumonia in developing countries. Pediatr Infect Dis. 1992;11:77–81.
+Perez-­Velez CM, Marais BJ. Tuberculosis in children. N Engl J Med. 
+2012;367:348–361.
+Prill MM, Iwane MK, Edwards KM, et al. Human coronavirus in young 
+children hospitalized for acute respiratory illness and asymptomatic 
+controls. Pediatr Infect Dis J. 2012;31:235–240.
+Ralston SL, Lieverthal AS, Meissner C, et al. Clinical practice guideline: 
+the diagnosis, management, and prevention of bronchiolitis. Pediatrics. 
+2014;134:e1474–e1502.
+Rubin BK. The evaluation of the child with recurrent chest infections. Pediatr 
+Infect Dis. 1985;4:88–98.
+Zhang L, Mendoza-­Sassi RA, Wainwright C, et al. Nebulised hypertonic saline 
+solution for acute bronchiolitis in infants. Cochrane Database Syst Rev. 
+2013;(31):CD006458.
+Foreign Bodies
+Black RE, Choi K-­J, Syme WC. Bronchoscopic removal of aspirated foreign 
+bodies in children. Am J Surg. 1984;148:778–781.
+Friedman EM. Tracheobronchial foreign bodies. Otolaryngol Clin North Am. 
+2000;33:179–185.
+Gay BB, Atkinson GO, Vanderzalm T, et al. Subglottic foreign bodies in 
+pediatric patients. Am J Dis Child. 1986;140:165–168.
+Puhakka H, Svedstrom E, Kero P, et al. Tracheobronchial foreign bodies. Am J 
+Dis Child. 1989;143:543–545.
+Cystic Fibrosis
+Cystic Fibrosis Foundation Patient Registry. Annual Data Report to the Center 
+Directors; 2018. https://www.cff.org/Research/Researcher-­Resources/
+Patient-­Registry/2018-­Patient-­Registry-­Annual-­Data-­Report.pdf.
+Farrell PM, White TB, Ren CL, et al. Diagnosis of cystic fibrosis: consensus 
+guidelines from the Cystic Fibrosis Foundation. J Pediatr. 2017;181S:S4–S15.
+Hamos A, Corey M. The Cystic Fibrosis Genotype-­Phenotype Consortium. 
+Correlation between genotype and phenotype in patients with cystic 
+fibrosis. N Engl J Med. 1993;329:1308–1316.
+Hoffman LR, Ramsey BW. Cystic fibrosis therapeutics. The road ahead. Chest. 
+2013;143:207–213.
+Kerem E, Reisman J, Corey M, et al. Wheezing in infants with cystic fibrosis: 
+clinical course, pulmonary function, and survival analysis. Pediatrics. 
+1992;90:703–706.
+O’Sullivan BP, Freedman SD. Cystic fibrosis. Lancet. 2009;373:1891–1904.
+Prasad SA, Tannenbaum EL, Mikelsons C. Physiotherapy in cystic fibrosis. J R 
+Soc Med. 2000;93:27–36.
+Ranasinha C, Assoufi B, Shak S, et al. Efficacy and safety of short-­term 
+administration of aerosolised recombinant human DNase I in adults with 
+stable stage cystic fibrosis. Lancet. 1993;342:199–202.
+Savant AP, McColley SA. Cystic fibrosis year in review 2018, part 1. Pediatr 
+Pulmonol. 2019;54:1117–1128.
+Taylor RFH, Gaya H, Hodson ME. Pseudomonas cepacia: pulmonary infection 
+in patients with cystic fibrosis. Respir Med. 1993;87:187–192.
+Hemoptysis
+David M, Andrew M. Venous thromboembolic complications in children. J 
+Pediatr. 1993;123:337–346.
+Jean-­Baptiste E. Clinical assessment and management of massive hemoptysis. 
+Crit Care Med. 2000;28:1642–1647.
+Jones DK, Davies RJ. Massive haemoptysis: medical management will usually 
+arrest the bleeding. BMJ. 1990;300:889–890.
+Panitch HB, Schidlow DV. Pathogenesis and management of hemoptysis in 
+children. Int Pediatr. 1989;4:241–244.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+References
+53.e2
+Anatomic Abnormalities
+Cassina M, Ruol M, Pertile R, et al. Prevalence, characteristics, and survival 
+of children with esophageal atresia: a 32-­year population-­based study 
+including 1,417,724 consecutive newborns. Birth Defects Res A Clin Mol 
+Teratol. 2016;106:542.
+Thakral CL, Maji DC, Sajwani MJ. Congenital lobar emphysema: experience 
+with 21 cases. Pediatr Surg Int. 2001;17:88.
+Rare Causes of Cough
+Spring PJ, Kok C, Nicholson GA, et al. Autosomal dominant hereditary 
+sensory neuropathy with chronic cough and gastro-­oesophageal reflux: 
+clinical features in two families linked to chromosome 3p22-­p24. Brain. 
+2005;128:2797–2810.
+Tumors
+Barr RL, McCrystal DJ, Perry CF, et al. A rare cause of specific cough in a 
+child: the importance of following-­up children with chronic cough. Cough. 
+2005;1:8.
+Camela F, Gallucci M, di Palmo E, et al. Pulmonary inflammatory 
+myofibroblastic tumor in children: a case report and brief review of the 
+literature. Front Pediatr. 2018;6. Article 35.
+Feinberg A, Hall NJ, Williams GM, et al. Can congenital pulmonary airway 
+malformation be distinguished from Type 1 pleuropulmonary blastoma 
+based on clinical and radiological features? J Pediatr Surg. 2016;5(1):33–37.
+Panagiotopoulos N, Patrini D, Gvinianidze L, et al. Inflammatory 
+myofibroblastic tumour of the lung: a reactive lesion or a true neoplasm? J 
+Thorac Dis. 2015;7(5):908–911.
+Potter SL, HaDuong J, Okcu F, et al. Pediatric bronchial carcinoid tumors: 
+a case series and review of the literature. J Pediatr Hematol Oncol. 
+2019;41(1):67–70.
+Rojas Y, Shi YX, Zhang W, et al. Primary malignant pulmonary tumors 
+in children: a review of the national cancer data base. J Pediatr Surg. 
+2015;50:1004–1008.
+Weldon CB, Shamberger RC. Pediatric pulmonary tumors: primary and 
+metastatic. Sem Pediatr Surg. 2008;17:17–29.
+Yu DC, Grabowski MJ, Kozakewich HP, et al. Primary lung tumors in children 
+and adolescents: a 90-­year experience. 2010; 45:1090–1095.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

@@ -1,0 +1,1348 @@
+132
+Chest pain in children is a common complaint; however, it is rarely 
+due to underlying cardiac illness. This underscores the importance of 
+avoiding a false sense of safety in low-­risk causes and maintaining vig­
+ilance for potential life-­threatening etiologies. Chest pain can be the 
+presenting complaint for a child describing chest tightness, burning, 
+pressure, stabbing sensations, palpitations, and/or heartburn. It can be 
+encountered in outpatient, emergency, and urgent care settings. This 
+variability in complaint and care setting can make quickly discerning 
+an etiology difficult, particularly in young children who are not able 
+to verbalize precise symptoms. Chest pain as a symptom affects equal 
+numbers of females and males and children under and over 12 years of 
+age. Diagnostically, children younger than 12 years with chest pain are 
+more likely to have cardiorespiratory etiologies for their pain, whereas 
+adolescents are more likely to have musculoskeletal or psychogenic 
+etiologies.
+The general public has been adequately educated on the significant 
+morbidity and mortality that chest pain can imply in adults in the form 
+of cardiac ischemia. Therefore, when children complain of chest pain, 
+it can provide significant anxiety for patients, families, and providers. 
+Due to this anxiety, cardiology consultation is often sought. Only up 
+to 6% of children without known congenital heart disease are found to 
+have a cardiac etiology after evaluation. This number is likely higher 
+than it actually is noted in some studies as only referrals to pediatric 
+cardiology may be analyzed. The challenge for the medical care pro­
+vider is to distinguish chest pain as a commonly benign pediatric com­
+plaint from significant cardiac disease, limit unnecessary evaluation, 
+and provide adequate reassurance for an anxious patient and family.
+Due to the rarity of cardiac pathology as the cause for chest pain, it 
+is difficult to develop evidence-­based guidelines for evaluation, and the 
+implication of a misdiagnosis of a serious disorder is high. Chest pain 
+caused by noncardiac causes may be the combination of multiple diag­
+noses, leaving medical providers seeking to “rule out” life-­threatening 
+cardiac causes of chest pain. The evaluation, if inconclusive, can leave 
+patients and families without precise answers. Most final diagnoses of 
+noncardiac chest pain represent clinical impressions rather than con­
+firmed diagnoses. Between 20% and 45% of pediatric cases of chest 
+pain are labeled idiopathic. The lack of a defined etiology or the pres­
+ence of multiple causes for a particular patient can heighten worry, 
+anxiety, and subsequent morbidity, which is reflected in missed days of 
+school, reduced exercise, and psychologic distress. Furthermore, chest 
+pain can become a chronic condition in the pediatric population; up 
+to 45–69% of patients have been noted to have persistent symptoms, 
+with 19% of patients reporting symptoms lasting for more than 3 years.
+Overall, if medical providers systematically approach a child’s or 
+an adolescent’s complaint of chest pain, they can provide thoughtful 
+diagnostic evaluations that not only discover serious cardiac pathol­
+ogy if present but also reassure families when a noncardiac etiology is 
+suspected. Evaluation relies heavily on a thorough history and physical 
+examination with subsequent electrocardiogram and further studies if 
+cardiac etiologies remain on the list of possibilities.
+CAUSES OF CHEST PAIN
+The most common causes of chest pain in descending frequency 
+include idiopathic, musculoskeletal, psychologic, gastrointestinal, 
+pulmonary, and cardiac diagnoses. A differential diagnosis of pediat­
+ric chest pain is listed in Table 8.1. The etiology of chest pain in the 
+absence of cardiac pathology can be multifactorial and can include 
+multiple items on this list.
+APPROACH TO THE PATIENT WITH CHEST PAIN
+A practical approach to chest pain first requires a detailed history and 
+physical examination. An awareness of indicators (red flags) and pri­
+oritization that may suggest serious disease and necessitate immediate 
+treatment are essential (Table 8.2). A deliberate, orderly, and complete 
+approach to the clinical evaluation often calms an anxious child and 
+family.
+History
+The goal of a thorough history of a patient with chest pain is to deter­
+mine if the etiology is life threatening, a manifestation of a chronic 
+condition with possible serious complications, a specific acute cause, 
+or multiple acute and/or chronic causes. Although chest pain affects 
+children and adolescents of all ages equally, the age of a child can assist 
+in diagnosis. Adolescents are more likely to have musculoskeletal or 
+psychogenic causes of chest pain, while younger children have more 
+respiratory disorders and vague complaints.
+One possible approach includes a stepwise, directed history that 
+includes:
+ • Description of pain
+ • Assessment for red-­flag symptoms (see Table 8.2), including tar­
+geted family history
+ • Medication review
+ • Review of known illnesses
+ • Review of systems including psychosocial evaluation
+Eliciting the basics of the chest pain’s duration, quality, propensity 
+to radiate, severity, and timing is essential. Details that have been noted 
+to be particularly helpful include duration, aggravating and relieving 
+factors, and associated symptoms. Severe pain that lasts only a few sec­
+onds up to 1 or 2 minutes is often from the chest wall, but chest pain 
+that persists longer is more likely to be organic in nature. Aggravating 
+and alleviating factors can include position changes that accompany 
+the pain from pericarditis or onset after eating spicy foods in gastro­
+esophageal reflux. The character and location of the pain in pediatric 
+patients are less helpful in the diagnostic evaluation due to often vague 
+Chest Pain
+Julie M. Kolinski
+8
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+133
+CHAPTER 8  Chest Pain
+descriptions; nonetheless, medical providers should continue to obtain 
+this information to understand the whole picture. Providers should 
+remember that children often complain of chest pain when the pain 
+is in a different place, such as the epigastrium or flank. Finally, it is 
+important to determine whether the chest pain has had an impact on 
+the child’s activity (Table 8.3).
+Red-­flag symptoms (see Table 8.2) are high-­yield, must-­know char­
+acteristics of a child’s or an adolescent’s chest pain. Oftentimes, after 
+a patient’s complete description of the pain, a medical provider will 
+already know the answers to multiple red-­flag symptoms, such as when 
+the pain occurs, if it wakes the patient from sleep, and if it is associated 
+with syncope. A targeted family history includes asking about inher­
+ited conditions such as familial hypercholesterolemia, hypertrophic 
+cardiomyopathy, and Marfan syndrome. It also can provide informa­
+tion regarding relatives with adult-­onset cardiac illnesses associated 
+with chest pain, such as heart failure or ischemia, which may be pro­
+viding added anxiety for the family.
+Medications that the child may already be taking are important to 
+consider. Some medications have specific links to etiologies of chest 
+pain, such as tetracyclines with erosive esophagitis or oral contra­
+ceptives with pulmonary embolism. Other recreational drugs such 
+TABLE 8.1  Differential Diagnosis of Pediatric Chest Pain
+Musculoskeletal
+Trauma (accidental, abuse)
+Exercise, overuse injury (strain)
+Costochondritis
+Tietze syndrome
+Precordial catch syndrome
+Slipping rib syndrome
+Fibromyalgia
+Spinal cord or nerve root compression
+Muscle strain (overuse injuries)
+Pulmonary
+Asthma
+Pneumonia
+Pleurisy
+Cough
+Pneumothorax, pneumomediastinum
+Pulmonary embolism
+Tumor
+Foreign body
+Psychiatric
+Hyperventilation
+Anxiety
+Panic disorder
+Gastrointestinal
+Achalasia
+Gastroesophageal reflux
+Esophageal foreign body including pill esophagitis
+Esophageal spasm
+Esophageal rupture
+Cholecystitis
+Subdiaphragmatic abscess
+Perihepatitis (Fitz-­Hugh–Curtis syndrome)
+Peptic ulcer disease
+Pancreatitis
+Cardiac
+Hypertrophic cardiomyopathy
+Aortic stenosis
+Pulmonary stenosis
+Mitral valve prolapse
+Dilated cardiomyopathy
+Pericarditis
+Myocarditis
+Endocarditis
+Idiopathic ventricular tachycardia
+Exercise-­induced ventricular tachycardia
+Wolff-­Parkinson-­White syndrome
+Aortic dissection
+Pulmonary hypertension
+Eisenmenger syndrome
+Ischemia (anomalous coronary artery, systemic lupus erythematosus, post–
+heart transplant, Kawasaki disease, sympathomimetic drugs, hypercholes­
+terolemia)
+Other
+Herpes zoster (cutaneous)
+Sickle cell anemia vasoocclusive crisis (rib infarction)
+Primary or metastatic cancer
+Splenic rupture
+Drug related: cigarette smoking, vaping, cocaine use, sympathomimetic use, 
+tetracycline ingestion
+Anorexia nervosa
+Breast-­related disease
+TABLE 8.2  Red Flags That Increase the 
+Likelihood of a Cardiac Cause for Chest Pain
+Sudden onset of severe pain
+Pain radiating to right or left arm or shoulder
+Pain occurs with exercise
+Described as pressure
+Exertional syncope
+Pain that awakens the patient from sleep
+Palpitations and/or dysrhythmias
+Family history of sudden death, young-­onset ischemic heart disease, inherited 
+arrhythmias such as long QT syndrome or Brugada syndrome, deep vein 
+thrombosis or pulmonary embolism
+Cyanosis
+Diaphoresis
+Personal past or current history of congenital heart disease
+Personal history of connective tissue disease, hypercoagulable or hypercho­
+lesterolemic state, systemic lupus erythematosus, Kawasaki disease, sickle 
+cell anemia, Marfan syndrome, cystic fibrosis, Ehlers-­Danlos syndrome
+Personal history of cocaine, huffing, vaping, and/or amphetamine use
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+134
+SECTION 3  Cardiac Disorders
+as cocaine, other sympathomimetic agents (such as amphetamines, 
+synthetic marijuana), and vaping have been associated with chest 
+pain. A child’s known underlying illnesses and surrounding medical 
+complaints discovered in a review of systems can complete the clinical 
+picture for medical providers. The presence of joint pain or rash could 
+suggest collagen vascular disease, or the presence of increased drooling 
+could represent an esophageal foreign body.
+A full psychosocial review should be performed on each patient 
+to ensure that details of personal stressors and behaviors emerge. It is 
+useful to learn about these aspects of the child’s chest pain from the 
+child and the parent/family separately. Make sure to interview the 
+patient alone if the child is older or an adolescent. It is difficult for chil­
+dren to discuss areas of difficulty, such as family relationships, school 
+difficulties, or concerns about physical development, with family pres­
+ent. It is useful to ask, “What are you concerned that this pain is caused 
+by?” of both the patient and the family. This question frequently gives 
+information about overriding fears and concerns that can help medical 
+providers know how to appropriately reassure the family in the likely 
+event that the chest pain has a benign, noncardiac etiology.
+Musculoskeletal
+Musculoskeletal chest wall pain is perhaps the most identifiable cause 
+of chest pain due to its association with localized tenderness elicited by 
+specific manipulation of the thorax (Fig. 8.1). Pain can involve the ribs, 
+costochondral junctions (such as in costochondritis), costal cartilages, 
+intercostal muscles, sternum, clavicle, or spine. The pain is often worse 
+with movement, coughing, and inspiration. In considering musculo­
+skeletal etiologies, thoroughly consider any trauma to the chest wall. 
+Both contusion and rib fracture can have exquisite tenderness on pal­
+pation and pain on inspiration. Table 8.4 highlights common causes of 
+musculoskeletal chest pain.
+In general, chest wall pain can result from the strain of any mus­
+cle group present in the chest; however, multiple syndromes have been 
+described in relation to specific patterns of muscular pain (Fig. 8.2). 
+Some of these syndromes include pectoral syndrome (pain in a band 
+across the anterior parasternal chest wall on the right or the left), cora­
+coid syndrome (pain at the site of the pectoralis minor muscle with 
+tenderness at its insertion onto the coracoid process), and xiphoid pro­
+cess syndrome (pain over the xiphoid process).
+Psychogenic
+Psychogenic causes of chest pain are more common in adolescents 
+than in children under the age of 12. Patients with psychogenic eti­
+ologies of chest pain may also have additional physiologic causes of 
+pain; psychologic risk factors can amplify the clinical presentation 
+TABLE 8.3  Historical Features of Chest Pain 
+That Are Essential to Its Assessment
+Duration of pain (how long present but also duration of each episode)
+Acuteness of onset
+Severity of pain (use scale of 1–10)
+Associated symptoms
+Precipitating and ameliorating factors
+Quality of pain (pleuritic, sharp, dull)
+Location of pain
+Limitation of activities by pain
+Radiation of pain
+Time of day that pain occurs
+Recent activity, injury, and stresses
+Full psychosocial review, including behaviors
+Medical history
+Family medical history
+Rectus abdominis
+muscle
+Xiphoidalgia
+“Trigger”
+points
+Breast mass
+or tenderness
+Firm and/or tender
+thoracoepigastric
+vein
+(Mondor’s syndrome)
+Insertion of
+pectoralis minor
+Insertion of
+pectoralis major
+“Slipping rib”
+Rib fracture
+Tender costochondra
+junctions
+(costochondritis)
+Intercostal
+neuritis
+Sternoclavicular
+joint
+Swollen costal cartilage
+(Tietze syndrome)
+Fig. 8.1  Palpable and/or visible abnormalities of the chest wall that may be found in different chest wall 
+syndromes. In addition, various proximal abdominal causes of chest pain, such as disease of the gallbladder, 
+liver, stomach, pancreas, or subdiaphragmatic space, must be considered. (From Reilly BM. Chest pain. In: 
+Practical Strategies in Outpatient Medicine. 2nd ed. Philadelphia: WB Saunders; 1991.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+135
+CHAPTER 8  Chest Pain
+of chest pain. Psychologic forms of chest pain are typically recurrent 
+with stressors. Children and adolescents may have a history of anxiety 
+and/or stressful life events that are not easily apparent but can have 
+a large impact on their perception of pain. Many psychologic factors, 
+such as anxiety, depression, and psychosomatic features, often coexist. 
+Patients with psychogenic causes of chest pain are the most likely to 
+have other somatic symptoms, including breathlessness, fatigue, ner­
+vousness, near-­syncope, and palpitations. These patients also often 
+demonstrate more bodily worries, more limitation of general activity, 
+and more school absences. The most common etiologies of psycho­
+genic chest pain are hyperventilation and underlying psychiatric ill­
+ness, such as anxiety, depression, or somatoform disorders (conversion 
+or somatization).
+Hyperventilation, most often in the setting of a panic attack, is 
+characterized by rapid breathing accompanied with dyspnea and anx­
+iety to the degree that systemic symptoms result, such as paresthesias, 
+dizziness/lightheadedness, palpitations, and confusion. This can occur 
+as an acute one-­time episode or can represent an underlying panic dis­
+order if recurrent. These symptoms are manifestations of physiologic 
+phenomena caused by hypocapnic respiratory alkalosis, chest muscle 
+strain from use of accessory muscles, tachycardia and arrhythmias, 
+spasm of the diaphragm, and gastric distention caused by aerophagia 
+(Fig. 8.3). Typically, the patient’s chest pain complaint due to hyperven­
+tilation will include sharp, nonradiating pain over the left precordium. 
+It is the easiest to diagnose when these symptoms arise without 
+exertion. However, it is often difficult to differentiate hyperventilation 
+from asthma as both diagnoses can include dyspnea, chest tightness, 
+cough during exercise, and symptoms characteristic of bronchospasm. 
+Hyperventilation can also occur concurrently with costochondritis or 
+asthma, further complicating diagnosis.
+Anxiety, depression, and somatoform disorders can cause episodic 
+chest pain with or without hyperventilation. Within anxiety disor­
+ders, chest pain and other symptoms are typically temporally related 
+to stressful situations. Anxiety-­related psychogenic chest pain is four 
+times as likely to occur in a patient with a family history of chest pain 
+(often an adult with a history of cardiac ischemia), and the pain is often 
+fleeting and vague in its description.
+Gastrointestinal
+Esophagitis (reflux, infectious, eosinophilic) and esophageal motility 
+disorders (diffuse esophageal spasm, achalasia) can cause chest pain in 
+both adults and children. Esophagitis (commonly generalized within 
+the term gastroesophageal reflux) is characterized by symptoms typical 
+of “heartburn,” a substernal burning sensation that is exacerbated by 
+eating or position changes, specifically lying supine. However, heart­
+burn is less common in children than in adults. More commonly, chil­
+dren will have the presence of epigastric tenderness on exam. In fact, 
+epigastric tenderness is one of the best indicators of a gastrointestinal 
+etiology of pain in a child. To manage this diagnosis, first assess if there 
+are triggering factors, such as overeating or spicy foods. Avoidance of 
+TABLE 8.4  Manifestations and Causes of Musculoskeletal Chest Pain
+Signs and Symptoms
+Diagnosis
+Aching, localized pain after new or intense exercise or repetitive coughing
+Can appear up to 2 days later
+Can have localized swelling or erythema
+Pain reproduced by range-­of-­motion testing or palpation
+Muscular strain
+Sharp, anterior pain over costochondral junctions, often along the sternal border
+Exacerbated by deep breathing
+First through fifth ribs are most common and often more than one costochondral junction affected
+Can be related to growth spurts
+Costochondritis (also called costosternal 
+syndrome, parasternal chondrodynia, 
+or anterior chest wall syndrome)
+Can be considered a variant of costochondritis
+Sharp, localized pain at only one costochondral junction
+Area is swollen, ± warm, erythematous bulbous or fusiform 1–4 cm mass
+Second or third costochondral junction is most common
+Age predominance in adolescence and early 20s
+Tietze syndrome
+Pain and increased mobility due to subluxation of 8th, 9th, or 10th ribs (which are not attached to the sternum), 
+resulting in impingement of superior intercostal nerve
+Intermittent sharp pain in chest or upper abdomen
+Brought on by exertion, especially sudden upward and anterior movement (“hooking maneuver”; see Fig. 8.2)
+Can have popping sensation at onset of pain
+Caused by trauma or dislocation of these ribs
+Slipping rib syndrome (lower rib pain 
+syndrome)
+Brief (30 sec–3 min), nonradiating, well-­localized, sharp pain in the left parasternal area or cardiac apex (“Texidor twinge”)
+Occurs at rest or with mild activity
+Exacerbated with inspiration and alleviated by shallow breathing or straightened position
+Related to poor posture
+Precordial catch syndrome
+Pain over both anterior chest and back
+Spasm in muscles innervated by nerve root causes pain
+No midline spine bony tenderness
+History of vertigo, headache, pain after prolonged recumbence or straining
+Spinal cord or nerve root compression, 
+typically lower cervical or upper 
+thoracic spine
+Chronic aching and stiffness
+Multiple points of tenderness on palpation of muscle with minimal pressure
+Associated with fatigue and sleep disturbance
+Fibromyalgia
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+136
+SECTION 3  Cardiac Disorders
+A
+D
+E
+F
+G
+C
+B
+Fig. 8.2  Chest wall maneuvers. A, B, The “scissors” maneuver. The patient’s arm is adducted across the 
+anterior chest, and the examiner pulls the patient’s hand beyond the contralateral shoulder (A). When both 
+arms are tested together, traction is applied to both (B); the patient turns the head to either side, and the arms 
+form a “scissors.” Pain originating in the scapula, thoracic spine, pectoral muscles, or ribs and intercostal 
+structures is often precipitated by the scissors maneuver. C, The “hedge clipper” maneuver. The pectoralis 
+major muscles are stressed by the patient’s pressing the palms forcefully together with the elbows flexed 
+anterior to the chest. The pectoral muscles are thus more clearly defined, and pain is often appreciated within 
+the muscles or at their insertion in the upper parasternal area (see Fig. 8.1). D, The “racing dive” maneuver. 
+The pectoralis minor muscles are stressed by forcefully resisting the patient’s attempt to throw forward the 
+shoulder and upper arm from an initial position behind (dorsal to) the chest wall. The attempted arm motion is 
+that of flinging the arm and hand forward, as a swim racer would when beginning a racing dive. The examiner 
+resists this forward arm and shoulder motion. E, The “crowing rooster” maneuver. The patient hyperextends 
+the neck while the examiner lifts both of the patient’s arms backward and superiorly. Pain originating in the 
+cervical spine or anterior chest wall or both is often thus reproduced. F, The “hooking” maneuver. With 
+the patient supine, the examiner stands at the patient’s side, facing the patient’s feet. The examiner then 
+“hooks” their fingers around the lower costal margin of the patient’s rib cage and pulls anteriorly (ventrally) 
+and superiorly (cephalad). This maneuver may elicit pain when costochondritis or traumatic rib injuries involve 
+the lower rib cage, when the upper rectus abdominis muscle is torn, or when a “slipping rib” is the problem. 
+G, The “high 10” maneuver. The patient raises both hands overhead, elbows extended, and then presses 
+forward with the hands against resistance offered by the examiner. Pain originating in the anterior rib cage, 
+thoracic spine, or pectoral muscles may be elicited here. (A, B, and G from Reilly BM. Chest pain. In: Practical 
+Strategies in Outpatient Medicine. 2nd ed. Philadelphia: WB Saunders; 1991.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+137
+CHAPTER 8  Chest Pain
+these triggers can be adequate treatment to diagnose and treat. If pain 
+persists, a trial of H2-­blocking agents or proton pump inhibitors helps 
+diagnostically and therapeutically in the evaluation of esophagitis.
+Motility disorders of the esophagus cause chest pain that lasts from 
+only a few seconds to several hours. The pain is nonexertional but can be 
+exacerbated by bending forward. Achalasia classically causes dysphagia, 
+nocturnal regurgitation, and chest pain. It can occur at any age and the 
+chest pain is variably associated with the diagnosis (19–95% of the time). 
+Eosinophilic esophagitis can cause chest pain secondary to esophageal 
+inflammation, dysmotility, and reflux. Other notable gastrointestinal dis­
+orders that also cause chest pain include esophageal foreign body such as 
+pill esophagitis, gastric and duodenal ulcers, cholecystitis, pancreatitis, 
+hepatitis, and infections of the subdiaphragmatic space. Esophageal rup­
+ture is a rare cause of chest pain; it has been described in patients with 
+bulimia nervosa or after surgical repair of a tracheoesophageal fistula.
+Pulmonary
+Pulmonary causes of chest pain are often diagnosed through history 
+and general appearance of the patient (Table 8.5). Some of these causes 
+can require urgent evaluation and treatment. In a patient with sudden, 
+significant chest pain, medical providers should consider acute pneu­
+mothorax or acute pulmonary embolism (along with acute pericardi­
+tis, myocarditis, or aortic dissection). Underlying history is essential 
+to understand as in a recent trauma or underlying asthma or cystic 
+fibrosis for pneumothorax (which can be spontaneous or secondary 
+to the noted conditions; see Chapter 4). Known obesity, malignancy, 
+prolonged immobilization, or adolescents taking birth control increase 
+risk for pulmonary embolism. Asthma or reactive airway disease is 
+more likely in a patient with audible wheezing and cough. Notably, 
+patients with chest pain from undiagnosed causes after complete eval­
+uation have a greater likelihood than normal control subjects to have 
+abnormal results on methacholine challenges and exercise testing, indi­
+cating that reactive airway disease (a typical sign of potential underly­
+ing asthma) is a more common etiology of chest pain than providers 
+realize. Finally, pneumonia and respiratory infections are the most 
+common causes of chest pain when it presents with fever. Children typ­
+ically cannot expectorate mucus until at least 8 years of age; therefore, 
+clinical signs of pneumonia can include vomiting and abdominal pain 
+in addition to the more typical symptoms of fever, cough, chest pain, 
+and tachypnea. Vaping-associated lung injury may present with fever, 
+dyspnea, and chest pain (see Chapter 4).
+Anxiety
+Hyperventilation
+Use of accessory muscles
+of respiration
+PCO2 and
+alkalosis
+Ionized Ca++
+L  shift of O2 Hgb and
+CNS vasoconstriction
+Peripheral nerve hypoxia
+Lightheadedness,
+confusion, syncope,
+hallucinations, seizures
+Sighing
+Yawning
+Tetany
+Tachycardia and
+arrhythmias
+Chest pain
+Palpitations
+Paresthesias
+Fig. 8.3  Pathophysiologic mechanisms of hyperventilation. CNS, central nervous system; Hgb, hemoglo­
+bin; O2 Hgb, oxyhemoglobin dissociation curve; Pco2, carbon dioxide pressure. (From Herman SP, Stick­
+ler GB, Lucas AR. Hyperventilation syndrome in children and adolescents: long-­term follow-­up. Pediatrics. 
+1981;67:183–187.)
+TABLE 8.5  Manifestations and Respiratory 
+Causes of Chest Pain
+Signs and Symptoms
+Diagnosis
+Unilateral pain associated with severe dyspnea
+Can have radiation to ipsilateral shoulder
+Degree of pain does not correlate to extent of 
+pneumothorax
+Risk factors include tall and thin body habitus, asthma, 
+cystic fibrosis, inhalation of cocaine/marijuana
+Pneumothorax, 
+primary or 
+secondary
+Sudden pain, dyspnea, tachycardia ± hypoxia
+Pain is pressure-­like or pleuritic
+Can have hemoptysis (rare)
+Risk factors include central venous catheter, trauma, 
+malignancy, immobilization, oral contraceptive use, 
+recent abortion or surgery, hypercoagulable state
+ECG with sinus tachycardia, right heart strain
+Pulmonary 
+embolism
+Wheeze, ± shortness of breath, ± cough
+Often perceive “tightness” as pain
+If exercise induced, can cause chest pain in absence 
+of wheeze
+Asthma, reactive 
+airway disease
+Fever, cough ± sputum production
+Midsternal or parasternal pain that can be diffuse
+Pain exacerbated by deep breathing, coughing, straining
+Pneumonia with 
+pleurisy
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+138
+SECTION 3  Cardiac Disorders
+Cardiac
+Although cardiac disease is a rare cause of chest pain, there is poten­
+tial for dangerous morbidity and mortality if left undiagnosed. One of 
+the foremost concerns of families with children who have chest pain 
+is whether or not their child is having a heart attack, although this is 
+extremely uncommon in the pediatric population. Etiologies of chest 
+pain due to cardiac disease include arrhythmias, ischemia, structural 
+abnormalities, and pericardial or myocardial disorders (Tables 8.6, 8.7, 
+and 8.8). Arrhythmias are the most common, whereas patients with 
+myocarditis or myocardial infarction are often the most acutely ill. 
+Heart disease is more commonly found in adolescents than in younger 
+children who complain of chest pain, and adolescents represent the 
+largest group of patients between 1 and 21 years of age who die sud­
+denly of cardiac causes. Perhaps the most important evaluation that 
+should be done in each patient with concern for chest pain secondary 
+to a cardiac etiology is to assess for pediatric sudden cardiac arrest. 
+Four questions that should be asked during this assessment include:
+	1.	 Have you ever fainted, passed out, or had a seizure suddenly and 
+without warning, especially during exercise or in response to 
+auditory triggers such as doorbells, alarm clocks, and ringing tele­
+phones?
+	2.	 Have you ever had exercise-­induced chest pain or shortness of 
+breath?
+	3.	 Are you related to anyone with sudden, unexplained, and unex­
+pected death before age 50 years?
+	4.	 Are you related to anyone who has been diagnosed as having a 
+sudden death–predisposing heart condition such as hypertrophic 
+cardiomyopathy, long QT syndrome, or catecholaminergic poly­
+morphic ventricular tachycardia?
+Red-­flag symptoms as previously noted are essential to capture 
+in the history (see Table 8.2). Lower-­risk findings for cardiac disease 
+include pleuritic, positional, or sharp pain as well as tenderness pro­
+duced by chest palpation. Children rarely come in complaining of 
+“shortness of breath on exertion” or “palpitations.” Instead, children 
+should be asked if they keep up with their same-­age peers when par­
+ticipating in activities, if they finish last in races, or whether they must 
+pause in the middle of a flight of stairs. If concerned for palpitations, 
+a provider can ask if a child’s heart ever skips a beat or seems to do 
+flip-­flops or somersaults in their chest. Even with these questions, a 
+child with palpitations may only be able to describe their symptoms 
+as pain. If red flags are not present but a potentially serious noncar­
+diac etiology of chest pain is suspected, a continued investigation of the 
+pain itself is necessary to make a diagnosis. Supraventricular and ven­
+tricular tachyarrhythmias can put adolescents at risk for sudden death. 
+TABLE 8.6  Causes of Pediatric Anginal 
+Chest Pain
+Critical aortic stenosis
+Hypertrophic cardiomyopathy
+Coronary artery atherosclerosis (hypercholesterolemia)
+Anomalous origin of left coronary artery from the pulmonary artery
+Acute inflammatory coronary arteritis or aneurysm in context of Kawasaki 
+syndrome, multisystem inflammatory syndrome in children, or vasculitis 
+disorder
+Chronic coronary artery stenotic sequalae of acute inflammatory coronary 
+artery diseases
+Origin of left coronary artery from right sinus of Valsalva
+Ectopic origin from aortic sinus
+Coronary artery fistula
+Associated with other congenital heart diseases
+Cocaine use
+Coronary vasospasm
+TABLE 8.7  Structural Cardiac Abnormalities That Can Cause Chest Pain
+Signs and Symptoms
+ECG
+Diagnosis
+Chest pain with associated dyspnea is brought on by exercise
+Patient history of syncope, presyncope
+Seen in adolescence due to rapid growth of left ventricle in puberty
+Crescendo-­decrescendo systolic ejection murmur from outflow tract gradient
+Prominent septal Q wave, left 
+ventricular hypertrophy, left 
+axis deviation
+Hypertrophic cardiomyopathy
+Chest pain is brought on intermittently
+Patient history of tiring easily, exertional dyspnea ± syncope, cool extremities
+Signs of right heart failure is a late finding
+High-­pitched, early diastolic decrescendo murmur (pulmonary regurgitation)
+Right ventricular hypertrophy
+Pulmonary hypertension (primary 
+or secondary to pulmonary ste­
+nosis or Eisenmenger complex)
+Chest pain is brought on with exercise
+Patient history of syncope at late stages
+Harsh crescendo-­decrescendo systolic murmur radiating to carotid arteries ± thrill
+Left ventricular strain
+Aortic stenosis
+Chest pain that is vague and nonexertional, but most children are asymptomatic
+Patient history of postural hypotension, palpitations, or syncope
+Late to midsystolic click preceding a systolic murmur
+Normal, T-­wave abnormalities or 
+prominent U waves
+Mitral valve prolapse
+Chest pain that is acute, present on anterior or posterior chest that can migrate to arms, 
+abdomen, and legs
+Patient history may include Marfan syndrome, Ehlers-­Danlos syndrome, previously healthy 
+weight-­lifting athletes
+High-­pitched early diastolic decrescendo murmur (aortic regurgitation)
+Normal, can have low QRS 
+voltages
+Aortic dissection
+Chest pain may be present but unclear due to patient age (for example, symptoms occur at 
+2–3 mo of age)
+Patient history of poor feeding, diaphoresis, tachycardia, irritability
+Signs of heart failure can be present
+Anterolateral myocardial infarc­
+tion pattern with Q waves and 
+ST changes
+Anomalous left coronary artery 
+from pulmonary artery
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+139
+CHAPTER 8  Chest Pain
+Supraventricular tachycardia (SVT), a narrow complex tachycardia, is 
+the most common arrhythmia in children. In children under 12 years, 
+the most common cause of SVT is an accessory atrioventricular path­
+way, whereas in teenagers, it tends to be atrioventricular node re-­entry 
+tachycardia. Patients with pre-­excitation or accessory pathways that 
+cause an arrhythmia such as Wolff-­Parkinson-­White syndrome are at 
+the highest risk for SVT. Alternatively, ventricular tachycardia is a wide 
+complex tachycardia that is often associated with mitral valve pro­
+lapse, viral myocarditis, or long QT syndrome. Chest pain caused by 
+an arrhythmia is typically associated with palpitations and/or dyspnea 
+but not necessarily with exercise. The pain is caused by an imbalance 
+of myocardial oxygen supply and demand, subendocardial wall stress, 
+and diminished diastolic coronary perfusion. The pain itself is typically 
+intermittent as most arrhythmias are inherently sporadic in their onset 
+and resolution.
+Chest pain that increases during physical exertion or other stress, is 
+relieved by rest, is poorly localized to the substernal area, and possibly 
+radiates to the left arm and/or jaw is likely secondary to a cardiac eti­
+ology. This pain is often referred to as anginal and can be secondary to 
+ischemia, although ischemia is not common in children or adolescents. 
+Other conditions that can cause anginal chest pain in children are listed 
+in Table 8.6. Any sign of anginal chest pain should prompt investigation 
+of obstructive, structural cardiac abnormalities and anomalies of the 
+coronary arteries. Associated presyncope, syncope, and/or palpitations 
+with these symptoms should significantly raise a provider’s suspicion 
+for underlying cardiac disease, and a complete physical examination 
+with an ECG is essential initial diagnostic evaluation.
+Structural abnormalities lead to chest pain through altered cardiac 
+output, which can lead to syncope or death. Tables 8.7 and 8.9 review 
+the signs, symptoms, and ECG findings of the structural cardiac abnor­
+malities that can cause chest pain.
+Acute pericarditis causes substernal chest pain that is sharp, 
+stabbing, and aggravated by deep inspiration, coughing, or straining. 
+Typical pericarditis pain is improved by being in the sitting position, 
+and patients will avoid lying supine. There are many causes of peri­
+carditis and/or pericardial effusion (see Table 8.8). Idiopathic or viral 
+pericarditis has a preceding or accompanying flulike illness with myal­
+gias, arthralgias, and fever. Evaluation for acute pericarditis includes 
+physical examination during which a three-­component pericardial rub 
+(atrial systole, ventricular systole, diastolic filling) may be present on 
+auscultation. Of note, this rub may disappear with the development of 
+pericardial effusion. Electrocardiogram findings of acute pericarditis 
+go through a four-­stage evolution. Stage 1, the most classic stage for 
+diagnosis (Fig. 8.4), may reveal diffuse PR depressions with upright P 
+waves followed by J-­point ST elevations. The ST elevations noted in 
+pericarditis are referred to as J-­point elevations due to their upslop­
+ing “J” shape. Subsequently, stage 2 shows descent of the J-­point ele­
+vations followed by stage 3 with T-­wave inversions. Stage 4 then shows 
+TABLE 8.8  Etiology of Pericarditis and Pericardial Effusion
+Idiopathic (Presumed Viral or Autoinflammatory)
+Infectious Agents
+Bacterial: Group A streptococci, Staphylococcus aureus, pneumococci, 
+meningococci,* Haemophilus influenzae,* Salmonella species, Mycoplasma 
+pneumoniae, Borrelia burgdorferi, Mycobacterium tuberculosis, rickettsiae, 
+tularemia
+Viral†: Coxsackievirus (group A, B), echovirus, mumps, influenza, Epstein-­Barr 
+virus, cytomegalovirus, herpes simplex, herpes zoster, hepatitis B virus, 
+COVID-­19, parvovirus
+Fungal: Histoplasma capsulatum, Coccidioides immitis, Blastomyces 
+dermatitidis, Cryptococcus neoformans, Candida species, Aspergillus 
+species
+Parasitic: Toxoplasma gondii, Entamoeba histolytica, schistosomes
+Collagen Vascular–Inflammatory and Granulomatous 
+Diseases
+Rheumatic fever
+Systemic lupus erythematosus (idiopathic and drug induced)
+Juvenile idiopathic arthritis (JIA)
+Kawasaki disease
+Scleroderma
+Mixed connective tissue disease
+Reactive arthritis
+Inflammatory bowel disease
+Granulomatosis with polyangiitis
+Dermatomyositis
+Behçet syndrome
+Sarcoidosis
+Vasculitis
+Familial Mediterranean fever
+Serum sickness
+Stevens-­Johnson syndrome
+Traumatic
+Cardiac contusion (blunt trauma)
+Penetrating trauma
+Postpericardiotomy syndrome
+Radiation
+Contiguous Spread
+Pleural disease
+Pneumonia
+Aortic aneurysm (dissecting)
+Metabolic
+Hypothyroidism
+Uremia
+Gaucher disease
+Fabry disease
+Chylopericardium
+Neoplastic
+Primary
+Contiguous (lymphoma)
+Metastatic
+Infiltrative (leukemia)
+Others
+Drug reaction
+Pancreatitis
+Post–myocardial infarction
+Thalassemia
+Central venous catheter perforation
+Heart failure
+Hemorrhage (coagulopathy)
+Chylous
+Biliary-­pericardial fistula
+*Infectious or immune complex.
+†Common (viral pericarditis or myopericarditis is probably the most common cause of acute pericarditis in a previously normal host).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+140
+SECTION 3  Cardiac Disorders
+TABLE 8.9  Systolic Murmurs Important in the Diagnosis of Chest Pain
+Innocent ejection 
+murmur
+Loudest left sternal border at base, 1–3 intensity, peaks early in systole; no click, gallop, heave, or 
+diastolic murmur
+Diminishes with standing and Val­
+salva maneuver
+Valvular aortic 
+stenosis
+Mild:
+Similar to innocent murmur but ejection click is possible
+Severe:
+Loudest over right second intercostal space, peaks late in systole; delayed carotid upstroke, thrill pres­
+ent; left ventricular heave; audible S4 gallop; aortic insufficiency murmur may also be present
+Hypertrophic car­
+diomyopathy
+Loudest over left second intercostal space, peaks in midsystole; carotid upstroke brisk or bisferiens; no 
+diastolic murmur
+Increases with standing or Valsalva 
+maneuver; decreases on squatting
+Pulmonic 
+stenosis
+Mild:
+Similar to innocent murmur but ejection click is possible
+Severe:
+Loudest over left second intercostal space; loud, widely split S2; thrill present; right ventricular heave; 
+ejection click at left second intercostal space
+Mitral valve 
+prolapse
+Loudest at left sternal border and apex; mid-­ to late-­systolic murmur; click precedes murmur
+Increases with standing after squatting 
+and during expiration
+I
+II
+III
+aVR
+aVL
+aVF
+V1
+V2
+V3
+V4
+V5
+V6
+J-Point Depression
+PR Depression
+J-Point Elevation
+J-Point Elevation
+J-Point Elevation
+J-Point Elevation
+J-Point Elevation
+J-Point Elevation
+PR Elevation
+I
+II
+III
+II
+aVR
+aVL
+aVF
+V1
+V2
+V3
+V4
+V5
+V6
+A
+Pericarditis 
+Infarction
+B
+Fig. 8.4  A, Acute pericarditis. Note diffuse J-­point ST elevations and near-­ubiquitous PR segment depres­
+sions. B, Acute ST elevation myocardial infarction: Note dome-­shaped, sometimes referred to as “tombstone-­
+shaped,” ST elevations in leads II, III, and aVF with reciprocal ST depressions in leads I, aVL, and V1–V5 
+consistent with an acute inferior wall myocardial infarction. (A from Spodick DH. Acute pericarditis: current 
+concepts and practice. JAMA. 2003;289:1150–1153; B from Hwang C, Levis JT. ECG diagnosis: ST-­elevation 
+myocardial infarction. Perm J. 2014;18:e133.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+141
+CHAPTER 8  Chest Pain
+restitution back to the child’s baseline ECG. These J-­point ST elevations 
+are markedly different from ST elevations caused by cardiac ischemia, 
+which are more dome shaped (see Fig. 8.4). A chest x-­ray may show 
+an enlarged cardiac silhouette. In pericarditis, perform an echocardio­
+gram to clarify the amount of pericardial fluid present and whether or 
+not there is ventricular dysfunction.
+Acute myocarditis often is caused by or follows viral infections. 
+Symptoms of acute myocarditis include lethargy, pallor, low-­grade 
+fever, anorexia, chest or abdominal pain, and signs of congestive heart 
+failure. ECG abnormalities tend to be diffuse and nonspecific, and 
+complications of myocarditis include arrhythmias and conduction 
+blocks; chest x-­ray may show an enlarged cardiac silhouette. Often, 
+patients can merely have persistent tachycardia. Patients with myocar­
+ditis have the propensity to become severely ill and often require inpa­
+tient or even intensive care hospitalization.
+Other
+Other causes of chest pain are diverse and variable. Patients with her­
+pes zoster often experience chest pain prior to the typical vesicular 
+rash over a unilateral dermatome. These patients can continue to have 
+burning chest pain for weeks to months. Breast-­related causes of chest 
+pain can occur in both males and females. Females may complain of 
+throbbing or burning chest pain caused by fibrocystic disease, fibroad­
+enoma, swelling with menstruation, mastitis, or pregnancy. Gyneco­
+mastia in males can lead to unilateral or bilateral chest pain. Substance 
+abuse of tobacco and/or cocaine in addition to other sympathomimetic 
+substances can also cause chest pain. Other medications, such as tetra­
+cyclines, iron, or nonsteroidal antiinflammatory agents, can cause pill-­
+induced esophagitis. Foreign bodies in the airways and/or esophagus 
+can be unusual causes of chest discomfort; these diagnoses are typically 
+evident due to other symptoms such as dysphagia, drooling, choking, 
+stridor, or dyspnea. Neoplastic diseases such as mediastinal tumors or 
+lymphomas can also manifest primarily as chest pain.
+In addition, certain underlying disease processes have clinical 
+courses that can manifest as chest pain. In patients with sickle cell 
+anemia, chest pain can be secondary to acute chest syndrome and rib 
+or pulmonary infarction. Long-­term complications of Kawasaki dis­
+ease include coronary artery stenosis and coronary artery aneurysm, 
+both of which can present as chest pain. Patients with these cardiac 
+complications of Kawasaki disease often have associated symptoms of 
+fatigue, shortness of breath, and diaphoresis. Patients with Marfan syn­
+drome are at high risk for dissecting aortic aneurysm, as are patients 
+with Turner syndrome, type IV Ehlers-­Danlos syndrome, and homo­
+cystinuria (Table 8.10). A dissecting aortic aneurysm will often have 
+the history of a sharp, sudden onset of chest pain with radiation to 
+the back. Rheumatic fever is an acquired condition that can present 
+with the major manifestations of carditis, which may include tachycar­
+dia out of proportion to degree of fever, mitral regurgitation or aortic 
+regurgitation, and signs of pericarditis or heart failure. Chest pain also 
+can be present before the onset of lower spinal symptoms in ankylos­
+ing spondylitis, a disease of the sacroiliac joints with variable involve­
+ment in the thoracic and cervical spine. A phenomenon that can occur 
+with any cardiac procedure is postpericardiotomy syndrome, which 
+includes fever, chest pain, and an audible friction rub approximately 
+1–2 weeks postsurgery.
+COVID-­19 and Multisystem Inflammatory Syndrome 
+in Children
+Chest pain is not a symptom commonly reported with acute COVID-­19 
+syndrome. However, multisystem inflammatory syndrome, character­
+ized by fever, multisystem organ involvement, and laboratory markers 
+of inflammation, has been reported to cause critical illness in >50% of 
+cases. Cardiac involvement is common in children with multisystem 
+inflammatory syndrome in children (MIS-­C). Specifically, children 
+with MIS-­C should be monitored for shock, cardiac arrhythmias, peri­
+cardial effusion, and coronary artery dilation. Evaluation of children 
+with MIS-­C should include a cardiac troponin, an N-­terminal pro–B-
+type natriuretic peptide, and inflammatory markers including CRP, 
+ferritin, and D-­dimer (see Chapters 4 and 53). All patients with sus­
+pected MIS-­C should receive an ECG, and if there are abnormalities in 
+biochemical markers, pediatric cardiologists often recommend echo­
+cardiogram evaluation to better understand the impact of this newly 
+developing disease. Long-­lasting effects of this disease and of acute 
+COVID-­19 in the pediatric population are yet to be fully understood.
+Physical Examination
+A physical examination can often confirm a medical provider’s suspi­
+cion of a particular diagnosis or diagnoses, especially when it comes to 
+the complaint of chest pain. The cardiovascular assessment of children 
+requires patience, thoroughness, and flexibility to adapt to children 
+who may not desire you to examine them. All physical examinations 
+for the complaint of chest pain should start with observing the child 
+for general states of distress, pain with breathing, and interaction with 
+parents. Vital signs can indicate the presence of pain by revealing signs 
+of tachycardia and tachypnea, and can provide information regarding 
+potential serious medical illness, including fever, hypoxia, or hypoten­
+sion. Blood pressures should be obtained in all four upper and lower 
+extremities, monitoring closely for a gradient between extremities. All 
+vital signs should be evaluated in the context of reference ranges for a 
+child’s age and height.
+A helpful physical exam finding is elicitation of chest wall tender­
+ness upon palpation of the thorax, which is pathognomonic for chest 
+wall pain (see Fig. 8.1). Therefore, medical providers are encouraged 
+to palpate over the chest including the ribs, intercostal areas, sternum, 
+xiphoid, manubrium, axilla, clavicles, epigastric area, spinous pro­
+cesses, and paraspinal areas. Chest wall maneuvers can also be per­
+formed to better understand what muscle group is causing the pain 
+(see Fig. 8.2).
+Palpation of the chest wall should be performed to identify the 
+point of maximal intensity and to determine if there is a cardiac heave 
+or thrill. Palpation of the abdomen should be done for tenderness and 
+organomegaly. Both distal and proximal pulses should be felt for equal­
+ity and caliber. After palpation, percussion over the thorax should be 
+done. Dullness to percussion can suggest consolidation, effusion, or 
+atelectasis, whereas hyperresonance to percussion can suggest pneu­
+mothorax or asthma.
+Every medical provider should allow ample time for auscultation of 
+the lungs and heart. Medical providers should follow a constant, sys­
+temic procedure for listening to heart sounds (see Table 8.9). Heart 
+sounds include S1–S4. S1 is caused by mitral and tricuspid valve closure, 
+and S2 is caused by aortic and pulmonary valve closure. The sounds 
+caused by these valves opening are not heard in healthy individuals. 
+Because the left-­sided valves close before the right-­sided valves, the S2 
+heart sound can be physiologically split into the aortic valve and then 
+the pulmonic valve closing during inspiration. S3 and S4 are harder to 
+understand and hear. S3 is a result of the deceleration of blood at the 
+end of early rapid filling of the ventricles. An S3 is normal in children 
+with hyperdynamic circulations (such as athletes) and thin chest walls 
+(of note, in adults an S3 is always abnormal). An S4 is a result of deceler­
+ation of blood at the end of late rapid filling of the ventricles. Audible S4 
+sounds are always abnormal, no matter what age the patient is. There­
+fore, a gallop rhythm (third heart sounds) can be normal or abnormal.
+Subsequently, medical providers must listen to what occurs between 
+S1 and S2. A midsystolic click is often an indicator of the mitral valve 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+142
+SECTION 3  Cardiac Disorders
+TABLE 8.10  TAA Syndromes and Diseases from a Heritable or Genetic Cause
+Gene (Protein)
+Syndrome or Disease
+Clinical Features
+Extracellular Matrix Protein Genes
+FBN1 (fibrillin-­1)
+Marfan syndrome
+Aortic root aneurysm, AD, TAA, MVP, long bone overgrowth, scoliosis, 
+pectus deformities, ectopia lentis, myopia, tall stature, PTX
+FBN2 (fibrillin-­2)
+Congenital contractural arachnodactyly, 
+Beals syndrome
+MVP, arachnodactyly, marfanoid habitus, digital contractures, mild aortic 
+dilation
+COL3A1 (type 3 procollagen)
+Vascular Ehlers-­Danlos syndrome
+TAA, AAA, arterial rupture, AD, MVP, bowel and uterine rupture, PTX, 
+translucent skin, atrophic scars, small joint hypermobility, easy 
+bruising
+EFEMP2 (fibulin-­4)
+Cutis laxa
+TAA, arterial tortuosity, arterial stenosis, hypertelorism, arachnodactyly
+MFAP5 (microfibrillar-­associated protein 5)
+FTAAD, AAT9
+TAA, AD
+TGF-­β Signaling Pathway Genes
+TGFBR1 (TGF-­β receptor 1)
+Loeys-­Dietz syndrome type 1, Furlong 
+syndrome, FTAAD, AAT5
+TAA, branch vessel aneurysms, AD, arterial tortuosity, craniosynostosis, 
+hypertelorism, bluish sclera, bifid/broad uvula, translucent skin, visible 
+veins, MVP, clubfoot, easy bruising
+TGFBR2 (TGF-­β receptor 2)
+Loeys-­Dietz syndrome type 2, FTAAD, AAT3
+TAA, branch vessel aneurysms, AD, arterial tortuosity, craniosynostosis, 
+hypertelorism, bluish sclera, bifid/broad uvula, translucent skin, visible 
+veins, MVP, clubfoot, easy bruising
+SMAD3 (SMAD3)
+Aneurysm-­osteoarthritis syndrome, LDS 3
+TAA, branch vessel aneurysms, AD, arterial tortuosity, overlapping 
+phenotype with LDS 1 and 2 and marfanoid features, bifid uvula, 
+premature osteoarthritis, osteoarthritis dissecans
+TGFB2 (TGF-­β 2 ligand)
+FTAAD, LDS 4
+TAA, arterial tortuosity, AD, MVP, PDA, overlapping features of MFS and 
+LDS, bifid uvula, hypertelorism
+TGFB3 (TGF-­β 3 ligand)
+Rienhoff syndrome, LDS 5
+TAA, AAA, AD, hypertelorism, bifid uvula, overlapping features of MFS 
+and LDS, MVP
+SKI (v-­SKI sarcoma oncogene homolog)
+Shprintzen-­Goldberg syndrome (velocardio­
+facial syndrome)
+TAA, marfanoid habitus, craniosynostosis, intellectual disability, skeletal 
+muscle hypotonia
+SLC2A10 (glucose transporter 10)
+Arterial tortuosity syndrome
+Widespread aortic and branch vessel tortuosity, TAA, aortic and arterial 
+dissection, keratoconus, marfanoid habitus, joint contractures
+SMAD2 (SMAD2)
+FTAAD
+TAA, AD, cervicocranial arterial dissection
+SMAD4 (SMAD4)
+Juvenile polyposis syndrome, HHT, FTAAD
+Telangiectasia, AVMs, TAA, AD
+Vascular Smooth Muscle Contraction Components or Cytoskeleton Genes
+ACTA2 (α-­smooth muscle actin)
+FTAAD, AAT6
+TAA, AD, BAV, moyamoya disease, premature CAD and CVD, livedo 
+reticularis, iris flocculi
+MYH11 (myosin heavy chain-­11)
+FTAAD, AAT4
+TAA, AD, PDA
+MYLK (myosin light chain kinase)
+FTAAD, AAT7
+AD at relatively small aortic size
+PRKG1 (protein kinase cGMP dependent)
+FTAAD, AAT8
+Aortic root aneurysm and AD
+MAT2A (MAT IIα)
+FTAAD
+TAA, AD, BAV
+FLNA (filamin A)
+EDS with periventricular nodular heterotopia 
+and cardiac valve dysplasia
+X-­linked, TAA, BAV, MV disease, seizures, joint hypermobility
+Bicuspid Aortic Valve–Associated Ascending Aortic Aneurysm
+NOTCH1 (NOTCH1)
+BAV with TAA
+Aortic stenosis, TAA
+TGFBR1, TGFBR2, TGFB2, TGFB3, ACTA2, 
+MAT2A, GATA5, SMAD6, LOX
+BAV with TAA
+Syndromic and nonsyndromic FTAAD with increased frequency of BAV
+XO, Xp
+Turner syndrome
+BAV, COA, TAA, AD, short stature, lymphedema, webbed neck, prema­
+ture ovarian failure; affects 1 in 2,500 live-­born girls
+AAA, abdominal aortic aneurysm; AAT, aortic aneurysm syndrome; AD, aortic dissection; AVM, arteriovenous malformation; BAV, bicuspid aortic 
+valve; CAD, coronary artery disease; COA, coarctation of the aorta; CVD, cerebrovascular disease; EDS, Ehlers-­Danlos syndrome; FTAAD, familial 
+thoracic aortic aneurysm and dissection syndrome; HHT, hereditary hemorrhagic telangiectasia; LDS, Loeys-­Dietz syndrome; MFS, Marfan syn­
+drome; MV, mitral valve; MVP, mitral valve prolapse; PDA, patent ductus arteriosus; PTX, pneumothorax; TAA, thoracic aortic aneurysm; TGF, 
+transforming growth factor.
+From Zipes DP, et al. Braunwald’s Heart Disease – A Textbook of Cardiovascular Medicine. 11th ed. Vol. 2. Elsevier; 2019:1301, Table 63.1.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+143
+CHAPTER 8  Chest Pain
+prolapsing into the left atrium. It can be a single click or series of clicks. 
+Then, the medical provider should listen for heart murmurs. Heart 
+murmurs can provide additional clinical evidence for potential cardiac 
+causes of chest pain. Listening for heart murmurs should be performed 
+with the patient supine, sitting, standing, squatting, and standing after 
+squatting. Many murmurs increase in intensity with decreased ven­
+tricular filling or decreased afterload (standing, release of Valsalva, 
+squatting); however, hypertrophic cardiomyopathy’s murmur does 
+the opposite. It increases in intensity with the Valsalva maneuver and 
+decreases with squatting. Of note, all diastolic murmurs or murmurs 
+grade 3/6 or higher should be further evaluated with an echocardio­
+gram. The presence of a gallop rhythm or a friction rub can make an 
+immediate cardiac diagnosis. A pericardial friction rub is a scratchy, 
+high-­pitched, to-­and-­fro sound caused by the inflamed pericardial 
+surfaces rubbing together during cardiac motion and that is loudest 
+when the patient is upright and leaning forward. Finally, the patient 
+should be assessed for extremity edema. It is important to stress that 
+if a patient’s examination is unrevealing, it is imperative that providers 
+pay close attention to vital signs. Tachypnea, tachycardia, hypoxemia, 
+or hypertension without an obvious cause always warrants further 
+evaluation.
+Electrocardiogram
+An ECG may be helpful if there is a suggestive history and/or physical 
+examination for potential cardiac disease. In the absence of a sugges­
+tive history and physical, the yield of an ECG is considered low as it 
+may be normal in patients with structural heart disease or arrhythmias. 
+Regardless, because of its relatively low cost and noninvasive nature, 
+electrocardiograms should be performed in the evaluation of chest 
+pain if there are any concerns discovered in the history assessment or 
+physical examination. After a medical provider obtains an ECG, there 
+are a few important principles to keep in mind. ECG findings are age 
+specific (e.g., infants have a right ventricular–dominant ECG and T 
+waves are usually inverted), arrhythmias are often not found on rou­
+tine ECGs, and providers should be careful in using the “machine” read 
+in regard to myocardial infarction, pericarditis, or long QT syndrome 
+(the computer is prone to overdiagnosis).
+Further Diagnostic Testing
+Cardiac consultation is reasonable for any child with red-­flag symp­
+toms, specifically chest pain associated with exertion, syncope with 
+exertion, chest pain with concurrent palpitations, abnormal findings 
+on cardiac examination or ECG, a history of cardiac surgery/inter­
+vention, or a high-­risk family history. If a patient has chest pain with 
+concurrent fever or signs of hemodynamic instability, the child should 
+be referred to the emergency department for further evaluation for 
+myocarditis.
+When the previous evaluation results in a positive screening result, 
+echocardiogram is the diagnostic test of choice for further assessment. 
+However, referral to a cardiologist is generally more cost-­effective than 
+obtaining an echocardiogram without a cardiologist. The decision to 
+do an echocardiogram should be judicious due to the low probabil­
+ity of significant findings (Table 8.11). An echocardiogram should be 
+obtained urgently if there are signs of cardiac tamponade (hypoten­
+sion, tachycardia, pulsus paradoxus) or poor cardiac output. It is also 
+useful if mitral valve prolapse, valvular heart disease, hypertrophic car­
+diomyopathy, septal defects, endocarditis, or pericarditis is suspected.
+Other diagnostic modalities can include chest radiographs, exercise 
+stress tests, and Holter monitors. A chest radiograph is helpful if there 
+is a clinical finding that needs further investigation, such as a history of 
+trauma or fever. Other than pulmonary disease, a chest radiograph can 
+note cardiomegaly or pneumothorax. Regardless, a chest radiograph 
+in the absence of febrile illness, trauma, or lung findings on physical 
+examination has not been shown to be largely beneficial as the likeli­
+hood of finding bone or intrathoracic abnormalities in the absence of 
+these features is low. Exercise stress tests should be reserved for anginal 
+cardiac pain in the setting of other normal testing. Due to the difficulty 
+of determining anginal chest pain in the pediatric population, there has 
+been an increased frequency of exercise stress tests ordered. However, 
+medical providers should remember that in the setting of chest pain 
+with a normal echocardiogram evaluation, an exercise stress test has 
+low yield. A 24-­hour Holter monitor or a 30-­day loop recorder only 
+should be utilized if an arrhythmia is suspected but the resting ECG 
+is normal. Testing for other underlying abnormalities as the cause of 
+noncardiac chest pain can include pulmonary function testing and/
+or methacholine challenge testing as well as esophageal manometry 
+testing.
+The standardized clinical assessment and management plan 
+(SCAMP) is used to reduce practice variation, optimize resource use, 
+and improve patient care through algorithms. One study showed that 
+utilization of SCAMPs reduced cost by 27.5% in assessing and man­
+aging pediatric chest pain. It suggests that the diagnostic approach to 
+chest pain in pediatric patients should use only data gathered from the 
+history and physical in conjunction with ECG to suggest when further 
+testing is indicated. Laboratory testing for biochemical markers of car­
+diac damage is used extensively in the adult population, primarily to 
+diagnose and assist in management of acute myocardial infarction and 
+in children with MIS-­C. The biochemical marker most utilized is the 
+TABLE 8.11  Appropriate Use Criteria for Initial Transthoracic Echocardiography in Outpatient 
+Pediatric Cardiology in Children Seen with Chest Pain
+Appropriate use of echocardiography
+Exertional chest pain
+Nonexertional chest pain with abnormal ECG findings
+Chest pain with a family history of sudden unexplained death or cardiomyopathy
+Echocardiography may be appropriate
+Chest pain with other symptoms or signs of cardiovascular disease, a benign family history, and normal ECG findings
+Chest pain with a family history of premature coronary artery disease
+Chest pain with recent onset of fever
+Chest pain with recent illicit drug use
+Echocardiography is rarely appropriate
+Chest pain with no other symptoms or signs of cardiovascular disease, a benign family history, and normal ECG findings
+Nonexertional chest pain with no recent ECG
+Nonexertional chest pain with normal ECG findings
+Reproducible chest pain with palpation or deep inspiration
+Adapted from Barbut G, Needleman J. Pediatric chest pain. Pediatr Rev. 2020;41(9):469–480.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+144
+SECTION 3  Cardiac Disorders
+high-­sensitivity troponin T. The MB isoenzyme of creatinine kinase is 
+rarely used and only utilized if the troponin T is found to be elevated. 
+Troponin T is a protein present in high concentrations in the myocar­
+dium but not in other tissues and is released rapidly after myocardial 
+injury in direct proportion to the extent of injury. Troponin T has a 
+high specificity and a low sensitivity for myocardial injury; therefore, 
+false positives often occur, especially in pediatrics where the prevalence 
+of myocardial ischemia and injury is extremely low. Troponin T levels 
+are elevated in postoperative cardiac surgery patients and in diagnoses 
+of myocarditis. Cutoff values have not been well defined; however, low-­
+level troponin T elevations can signify serious disease in children, as 
+opposed to adults, where these small elevations would be considered 
+insignificant. Additional studies in pediatrics are continually ongoing 
+regarding the potential usefulness of cardiac biochemical markers in 
+diseases with muscle breakdown such as Duchenne muscular dys­
+trophy or in determining subtle cardiac dysfunction after convulsive 
+seizures.
+Treatment
+Medical providers should refer patients to cardiology specialists if car­
+diac etiologies are still a concern after thorough history, physical, and 
+necessary ancillary studies such as ECGs. Unfortunately, a precise diag­
+nosis is not made in a high percentage of cases. It is up to the medical 
+provider to carefully deal with uncertainty, not over-­test or over-­refer, 
+and provide ongoing care that minimizes anxiety. Most importantly, 
+if a noncardiac etiology is the highest consideration, medical provid­
+ers should thoughtfully provide extensive reassurance that includes a 
+symptomatic treatment approach and a plan for appropriate follow-­up. 
+It is of the utmost importance that providers provide this reassurance 
+and follow-­up to avoid a chronic course of chest pain with potential 
+disability. Of note, families should be specifically asked about school 
+absenteeism so that recommendations for returning to school can be 
+given. Treatment plans should be tailored to both the most likely diag­
+nosis and the patient’s individual concerns. Musculoskeletal chest pain 
+can be treated with heat, antiinflammatory medications, or specific 
+exercises. Psychogenic causes of chest pain are perhaps the hardest to 
+treat, often requiring consultation with behavioral health specialists, 
+counselors, and/or psychologists. Primary care providers can start 
+this treatment by having their patients keep pain diaries to help facil­
+itate follow-­up discussions. Gastrointestinal causes of chest pain can 
+be diagnosed and treated with a trial of H2-­blocking agents or proton 
+pump inhibitors in addition to reflux precautionary behaviors such as 
+avoiding foods that worsen the symptoms, not eating close to bedtime, 
+and elevating the head of the bed at night. Pulmonary causes of chest 
+pain require therapies to treat the underlying cause, most frequently 
+reactive airway disease.
+Overall, because etiologies of chest pain are so often multifactorial 
+and require ongoing evaluation and treatment, the primary care physi­
+cian must stay actively involved in the patient’s care over time.
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+144.e1
+BIBLIOGRAPHY
+Alehan F, Erol I, Cemil T, et al. Elevated CK-­MB mass and plasma brain-­type 
+natriuretic peptide concentrations following convulsive seizures in children 
+and adolescents: possible evidence of subtle cardiac dysfunction. Epilepsia. 
+2009;50:755–760.
+Angoff GH, Kane DA, Giddins N, et al. Regional implementation of a pediatric 
+cardiology chest pain guideline using SCAMPs methodology. Pediatrics. 
+2013;132:e1–e8.
+Archer TP, Qualman SJ, Mazzaferri EL. Chest pain and dyspnea in a 
+17-­year-­old smoker. Hosp Pract (Off Ed). 1998;33:97–98.
+Barbut G, Needleman J. Pediatric chest pain. Pediatrics in Review. 
+2020;41(9):469–480. https://doi.org/10.1542/pir.2019-­0058.
+Brown JL, Hirsh DA, Mahle WT. Use of troponin as a screen for chest pain in 
+the pediatric emergency department. Pediatr Cardiol. 2012;33:337–342.
+Campbell RM, Douglas PS, Eidem BW, et al. ACC/AAP/AHA/ASE/HRS/
+SCAI/SCCT/SCMR/SOPE 2014 appropriate use criteria for initial trans­
+thoracic echocardiography in outpatient pediatric cardiology. J Am Coll 
+Cardiol. 2014;64(19):2039–2060.
+Cartaya Blanco C, Bandler Parekh J. In brief: pericarditis. Pediatr Rev. 
+2010;31:83–84.
+Chun Jy, Kim TH, Han MY, et al. Analysis of clinical characteristics and causes of 
+chest pain in children and adolescents. Korean J Pediatr. 2015;58(1):440–445.
+Collins SA, Griksaitis MJ, Legg JP. 15-­minute consultation: a structured ap­
+proach to the assessment of chest pain in a child. Arch Dis Child Educ Pract 
+Ed. 2014;99:122–126.
+Danduran MJ, Earing MG, Sheridan DC, et al. Chest pain: characteristics of 
+children/adolescents. Pediatr Cardiol. 2008;29:775–781.
+Driscoll DJ, Glicklich LB, Gallen WJ. Chest pain in children: a prospective 
+study. Pediatrics. 1976;57:648–651.
+Drossner DM, Hirsh DA, Sturm JJ, et al. Cardiac disease in pediatric patients pre­
+senting to a pediatric ED with chest pain. Am J Emerg Med. 2011;29:632–638.
+Farias M, Jenkins K, Lock J, et al. Standardized clinical assessment and 
+management plans (SCAMPs) provide a better alternative to clinical 
+practice guidelines. Health Aff (Millwood). 2013;32(5):911–920. https://doi.
+org/10.1377/hlthaff.2012.0667.
+Friedman KG, Alexander ME. Chest pain and syncope in children: a practical 
+approach to the diagnosis of cardiac disease. J Pediatr. 2013;163:896–901.
+Geggel RL. Conditions leading to pediatric cardiology consultations in a tertia­
+ry academic hospital. Pediatrics. 2004;114:409–417.
+Hallagan LF, Dawson PA, Eljaiek LF. Pediatric chest pain: case report of a 
+malignant cause. Am J Emerg Med. 1992;10:43–45.
+Haworth SG. The management of pulmonary hypertension in children. Arch 
+Dis Child. 2008;93:620–625.
+Hwang C, Levis JT. ECG diagnosis: ST-­elevation myocardial infarction. Perm 
+J. 2014;18:e133.
+Iqbal SF, Otero HJ. Approach to the child with chest pain. J Urgent Care Med. 
+2017. Available at: https://www.jucm.com/approach-­child-­chest-­pain/.
+Kane DA, Fulton DR, Saleeb S, et al. Needles in hay: chest pain as the pre­
+senting symptom in children with serious underlying cardiac pathology. 
+Congenit Heart Dis. 2010;5:366–373.
+Kocis KC. Chest pain in pediatrics. Pediatr Clin North Am. 1999;46:189–203.
+Kronick-­Mest C. Postpericardiotomy syndrome: etiology, manifestations and 
+interventions. Heart Lung. 1989;18:192–198.
+Kyle WB, Macicek SL, Lindle KA, et al. Limited utility of exercise stress tests in the 
+evaluation of children with chest pain. Congenit Heart Dis. 2012;7:455–459.
+Lam JC, Tobias SC. Follow-­up survey of children and adolescents with chest 
+pain. South Med J. 2001;94:921–924.
+Leung A, Robson W, Cho H. Chest pain in children. Can Fam Physician. 
+1996;4:23–33.
+Lipshultz SE, Nader Rifai SE, Lipsitz SR, et al. Predictive value of cardiac 
+troponin T in pediatric patients at risk for myocardial injury. Circulation. 
+1997;96:2641–2648.
+Loiselle KA, Lee JL, Gilleland J, et al. Factors associated with healthcare 
+utilization among children with noncardiac chest pain and innocent heart 
+murmurs. J Pediatr Psychol. 2012;37:817–825.
+Owens TR. Chest pain in the adolescent. Adolesc Med. 2001;12:95–104.
+Place R, Vezzetti R. Pediatric and adolescent chest pain. Pediatr Emerg Med 
+Pract. 2007;4:1–26.
+Pomeranz AJ, Busey SL, Sabnis S, et al. Chest Pain. Pediatric Decision-­Making 
+Strategies. 16th ed. To Accompany Nelson Textbook of Pediatrics. 2002:52–57.
+Rabinowicz S, Leshem E, Pessach IM. COVID-­19 in the pediatric population—
+review and current evidence. Curr Infect Dis Rep. 2020;22(11):29. https://doi.
+org/10.1007/s11908-­020-­00739-­6.
+Reddy SR, Singh HR. Chest pain in children and adolescents. Pediatr Rev. 
+2010;31:e1–e10.
+Roodpeyma S, Sadeghian N. Acute pericarditis in childhood. A 10-­year experi­
+ence. Pediatr Cardiol. 2000;21:363–367.
+Rowe BH, Dulberg CS, Peterson RG, et al. Characteristics of children present­
+ing with chest pain to a pediatric emergency department. Can Med Assoc J. 
+1990;143:388–394.
+Sabri MR, Ghavanini AA, Haghighat M, et al. Chest pain in children and ado­
+lescents: epigastric tenderness as a guide to reduce unnecessary work-­up. 
+Pediatr Cardiol. 2003;24:3–5.
+Saleeb SF, Li WYV, Warren SZ, et al. Effectiveness of screening for life-­
+threatening chest pain in children. Pediatrics. 2011;124:e1062–e1068.
+Selbst SM, Ruddy RM, Clark BJ, et al. Pediatric chest pain: a prospective study. 
+Pediatrics. 1988;82:319–323.
+Snyder CS, Fenier AL, Friedman RA, et al. The emergency department versus 
+the computer: which is the better electrocardiographer? Pediatr Cardiol. 
+2003;24:364–368.
+Soongswang J, Durongpisitkul K, Nana A, et al. Cardiac troponin T: a 
+marker in the diagnosis of acute myocarditis in children. Pediatr Cardiol. 
+2005;26:45–49.
+Spodick DH. Acute pericarditis: current concepts and practice. JAMA. 
+2003;289:1150–1153.
+Swenson JM, Fischer DR, Miller AS, et al. Are chest radiographs and electro­
+cardiograms still valuable in evaluating new pediatric patients with heart 
+murmurs or chest pain? Pediatrics. 1997;98:1–3.
+Thull-­Freedman J. Evaluation of chest pain in the pediatric patient. Med Clin 
+North Am. 2010;94:327–347.
+Valverde I, Singh Y, Sanchez-­de-­Toledo J, et al., on behalf of the AEPC 
+COVID-­19 Rapid Response Team. Acute cardiovascular manifestations in 
+286 children with multisystem inflammatory syndrome associated With 
+COVID-­19 infection in Europe. Circulation. 2021;143(1):21–32
+Verghese GR, Friedman KG, Rathod RH, et al. Resource utilization reduc­
+tion for evaluation of chest pain in pediatrics using a novel Standardized 
+Clinical Assessment and Management Plan (SCAMP). J Am Heart Assoc. 
+2012;1(2): jah3-­e000349. Published online 2012 Apr 24. https://doi.
+org/10.1161/JAHA.111.000349.
+Wiens L, Sabath R, Ewing L, et al. Chest pain in otherwise healthy children and 
+adolescents is frequently caused by exercise-­induced asthma. Pediatrics. 
+1992;90:350–353.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

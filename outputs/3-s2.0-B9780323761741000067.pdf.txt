@@ -1,0 +1,1229 @@
+99
+A brief resolved unexplained event (BRUE) is a term used to describe 
+events occurring in infants younger than 1 year of age that are charac­
+terized by the observer as “brief” (lasting <1 minute but typically <20–
+30 seconds) and “resolved” (meaning the patient returned to baseline 
+state of health after the event) and with a reassuring history, physical 
+examination, and vital signs at the time of clinical evaluation by trained 
+medical providers (Table 6.1). A BRUE is diagnosed only when there is 
+no explanation for a qualifying event after conducting an appropriate 
+history and physical examination.
+DEFINITION
+The term BRUE (pronounced “brew”) is defined as an event lasting 
+<1 minute in an infant younger than 1 year of age that is associated 
+with at least one of the following: cyanosis or pallor; absent, decreased, 
+or irregular breathing; marked change in muscle tone (hypertonia 
+or hypotonia); and altered level of responsiveness. BRUE occurs in a 
+patient who was asymptomatic prior to the event, at the time of exam­
+ination is well-­appearing and has returned to baseline level of func­
+tion, and after evaluation has no condition that could explain the event 
+(see Table 6.1). It was introduced as a replacement for the term ALTE 
+(apparent life-­threatening event).
+The definition of ALTE presented challenges due to the subjectiv­
+ity and vagueness of the described symptoms. This made it difficult to 
+standardize the care of these patients, due to possible causation by a 
+wide range of disorders. In addition, it relied on the subjective report of 
+the observer rather than on pathophysiology and implied the event was 
+“life-­threatening” when it generally was not. The term BRUE serves to 
+remove the “life-­threatening” label, more narrowly define the event, 
+and better reflect the transient nature and lack of a clear cause.
+In development of the BRUE clinical practice guideline, a sys­
+tematic review of ALTE literature that allowed for the identification 
+of BRUEs found two subsets of BRUE patients based on their risk for 
+adverse outcomes. Those at lower risk are defined as >60 days old, ges­
+tational age ≥32 weeks and postconceptual age ≥45 weeks, no prior 
+BRUEs and not occurring in a cluster, event duration <1 minute, no 
+cardiopulmonary resuscitation administered by a trained medical pro­
+vider, and no concerning historical features or physical exam findings. 
+These patients can likely be managed in the outpatient setting without 
+need for extensive evaluation (Fig. 6.1). Any patient not meeting these 
+criteria are classified as higher risk for adverse outcomes.
+EPIDEMIOLOGY
+Because the term BRUE was introduced in 2016, the incidence of these 
+events is not well known. Prior to the introduction of the term BRUE, 
+the exact incidence of ALTEs was also unclear, due to the subjectivity 
+of the definition and the probability that not all children with ALTE 
+presented for evaluation. Reported figures may have underestimated 
+the true incidence as studies may not have included those cases where 
+the underlying cause was ultimately identified. Various studies estimate 
+the incidence of ALTE to be between 0.46 and 2.46/1,000 live births, 
+accounting for 0.6–1% of all emergency department visits by patients 
+younger than 1 year and 2% of pediatric hospitalizations. Studies 
+attempting to identify BRUE patients among those classified as ALTE 
+found that less than half met the criteria for BRUE. The mortality rates 
+reported to be associated with ALTE vary widely depending on the 
+definition and the population. However, review of these prior studies 
+focused on the outcomes of patients who met the criteria for BRUE did 
+not identify deaths or significant morbidities in that population.
+ETIOLOGY
+By definition BRUEs are unexplained events with no identifiable 
+underlying cause. It is important for providers presented with a sus­
+pected BRUE to consider additional diagnoses that may present sim­
+ilarly. Based on broad symptomatology, the differential diagnosis for 
+BRUEs is large (Table 6.2). Comorbid conditions are frequently identi­
+fied, but it can be challenging to identify true causation. Thus, caution 
+must be used when implicating a specific diagnosis as the true cause of 
+an event. Prior literature reported that a suspected diagnosis was found 
+in approximately 50% of patients presenting with an ALTE. These diag­
+noses encompass a wide range of etiologies and systems and should 
+also be considered as alternative etiologies for patients presenting with 
+a BRUE.
+The most commonly cited alternative diagnoses include gastro­
+esophageal reflux (GER), seizures, and lower respiratory tract infec­
+tions. However, numerous less common but potentially dangerous 
+and/or treatable conditions can also present similarly (see Table 6.2). 
+These need to be carefully considered to provide prompt lifesaving 
+or outcome-­altering treatment. A thorough and thoughtful history 
+and physical examination are extremely important in the evaluation 
+of a patient with a BRUE, as they provide essential clues to help nar­
+row the differential and perform risk stratification. It is often helpful 
+to consider the differential diagnosis by a systems-­based approach, 
+considering both common and rare but concerning diagnoses in 
+each category. Key systems-­based historical and physical examina­
+tion findings may help discriminate among possible etiologies (see 
+Table 6.2).
+CLINICAL EVALUATION
+History
+The most important diagnostic tool in the evaluation of a BRUE is 
+a thorough history elicited from the caretaker who observed the 
+episode. History taking should start with open-­ended questions to 
+Apparent Life-­Threatening Event/
+Brief Resolved Unexplained Event
+Amanda Rogers and Sandra Gage
+6
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+100
+SECTION 2   Respiratory Disorders
+obtain the story from the caretaker, followed by specific questions 
+geared at characterizing certain key aspects of the episode. The his­
+tory should focus on the activities and behaviors preceding the event, 
+characteristics of the episode itself, interventions performed and 
+their effect, and postepisode events and behavior. A comprehensive 
+past medical history, social history, and family history should also 
+be obtained for identifying clues that may aid in narrowing the focus 
+of the investigation. Information essential to a complete history is 
+outlined in Table 6.3. Key historical findings by system can be useful 
+in narrowing the differential (see Table 6.2).
+The patient’s activities and behaviors immediately preceding the 
+episode are important to consider and may provide clues to the diag­
+nosis. Key associations include those with sleep, feeding, crying, cough, 
+and emesis. The location and position of the child prior to the event 
+should also be noted, such as placement in a car seat, on a soft or firm 
+surface, prone or supine, and with or without surrounding blankets or 
+pillows.
+Key characteristics of the actual event include color change, respira­
+tory effort, change in tone or movements, and level of alertness at onset 
+and during the episode. Careful review of these signs and symptoms 
+TABLE 6.1  BRUE Definition and Factors for Inclusion and Exclusion of BRUE Diagnosis
+Includes
+Excludes
+Brief
+Duration <1 min; typically 20–30 sec
+Duration ≥1 min
+Resolved
+Patient returned to their baseline state of health after the event
+At the time of medical evaluation:
+Normal vital signs
+Fever or recent fever
+Normal appearance
+Tachypnea, bradypnea, apnea
+Tachycardia or bradycardia
+Hypotension, hypertension, or hemodynamic instability
+Mental status changes, somnolence, lethargy
+Hypotonia or hypertonia
+Vomiting
+Bruising, petechiae, or other signs of injury/trauma
+Abnormal weight, growth, or head circumference
+Noisy breathing (stridor, stertor, wheezing)
+Repeat event(s)
+Unexplained
+Not explained by an identifiable medical condition
+Event consistent with GER, swallow dysfunction, nasal congestion, etc.
+History or physical examination concerning for child abuse, congenital 
+airway abnormality, etc.
+Event Characterization
+Cyanosis or pallor
+Central cyanosis: blue or purple coloration of face, gums, trunk
+Acrocyanosis or perioral cyanosis
+Central pallor: pale coloration of face or trunk
+Rubor
+Absent, decreased, or 
+irregular breathing
+Central apnea
+Periodic breathing of the newborn
+Obstructive apnea
+Breath-­holding spell
+Mixed obstructive apnea
+Marked change in tone 
+(hyper-­ or hypotonia)
+Hypertonia
+Hypotonia
+Hypertonia associated with crying, choking, or gagging due to GER or 
+feeding problems
+Tone changes associated with breath-­holding spell
+Tonic eye deviation or nystagmus
+Tonic-­clonic seizure activity
+Infantile spasms
+Altered responsive­
+ness
+Loss of consciousness
+Mental status change
+Loss of consciousness associated with breath-­holding spell
+Postictal phase due to seizure
+Lethargy
+Somnolence
+BRUE, brief resolved unexplained event; GER, gastroesophageal reflux.
+From Tieder JS, Bonkowsky JL, Etzel RA, et al. Brief resolved unexplained events (formerly apparent life-threatening events) and evaluation of 
+­lower-risk infants. Pediatrics. 2016;137(5):e20160590 (Table 1).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+101
+CHAPTER 6  Apparent Life-­Threatening Event/Brief Resolved Unexplained Event
+aids in the identification and classification of a BRUE, and they are 
+important clues to potential alternative diagnoses.
+Color: The specifics of any change in color should be clearly noted, 
+and the hue of the change is significant. Unlike in the term ALTE where 
+any change of color was considered, BRUE more precisely defines con­
+cerning color change as episodes of cyanosis or pallor. Episodes of 
+rubor are not consistent with a BRUE, because they are common in 
+healthy infants. The location of the change should also be noted, such 
+as central cyanosis versus peripheral acrocyanosis, as the latter may be 
+consistent with normal changes in perfusion.
+Change in breathing: The term BRUE expands the respiratory 
+criteria for ALTE beyond apnea to include absent breathing, dimin­
+ished breathing, and other breathing irregularities. If apnea is noted, 
+the duration of respiratory cessation aids in the determination of true 
+pathologic apnea. Apnea is defined as cessation in breathing that is 
+prolonged (>20 seconds) or associated with cyanosis, marked pallor or 
+hypotonia, or bradycardia. The degree of respiratory effort noted assists 
+in differentiating central versus obstructive processes. Central apnea 
+with no respiratory effort may suggest underlying neurologic, cardiac, 
+metabolic, or infectious causes, while obstructive processes include 
+GER, respiratory tract infections, foreign body, suffocation, or airway 
+anatomic anomalies.
+Tone: It is important to determine if tone was increased or decreased 
+during or after the event. If abnormal movements were identified, it 
+should be noted if the movements were generalized or localized to a 
+certain part of the body and the timing. The ability to suppress any 
+abnormal movements should be documented, as this makes conditions 
+such as seizure less likely.
+Altered level of responsiveness: Specific note of the level of respon­
+siveness is another criterion under the BRUE definition and is signif­
+icant to note as it can be associated with episodic but serious cardiac, 
+respiratory, metabolic, or neurologic events.
+Of note, if the event was noted to consist primarily of choking or 
+gagging without any of the other features listed earlier, unlike in the 
+former ALTE definition, this would not be included within the current 
+definition of BRUE. Choking and gagging usually indicate easily iden­
+tifiable common diagnoses such as GER or respiratory infections and 
+therefore are not considered a BRUE.
+Additional history should include any interventions performed, by 
+whom, and the effects of the interventions. The need for resuscitation, 
+especially when performed by health care providers, has been associ­
+ated with more severe and significant underlying etiologies and classi­
+fies the event as a higher-­risk BRUE. Obtaining a direct history from 
+any emergency personnel who may have been involved with the case 
+is important.
+Postepisode behavior should be carefully documented. Level of 
+alertness following the event and time until return to normal behavior 
+are also of particular importance.
+Regarding past medical history, it is essential to note the birth his­
+tory including gestational age, any prior similar episodes, preceding 
+Age >60 days
+Born ≥32 weeks’ gestation and
+  postconception age ≥45 weeks
+No CPR by trained medical provider
+Event lasted <1 min
+First event
+No concerning history or exam features
+History and physical
+Lower-risk patient
+Higher-risk patient
+Individualized management
+Yes
+No
+Risk stratification
+Individualized management
+Cyanosis or pallor
+Absent, decreased, or irregular breathing
+Marked change in tone (hyper- or hypotonia)
+Altered level of responsiveness
+Infant (<1 year old) with a brief, resolved,
+unexplained event (BRUE)
+Additional symptoms
+Abnormal vital signs
+Explanation for event identified
+Exclusion criteria: CHD, epilepsy,
+  metabolic disease, neurologic
+  abnormality
+Not a BRUE if:
+Management recommendation
+Provide reassurance and educate family
+Offer CPR training resources
+Consider brief observation of infant in ED
+  on continuous pulse oximetry
+Consider ECG and pertussis testing
+Further testing is generally not indicated
+Figure 6.1  Algorithm for diagnosis, risk stratification, and management of a brief resolved unexplained event 
+(BRUE). CHD, congenital heart disease; ECG, electrocardiogram; ED, emergency department. (From The 
+Johns Hopkins Hospital [Baltimore, Maryland], ed. The Harriet Lane Handbook. 22nd ed. Philadelphia: Else­
+vier; 2020.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+102
+SECTION 2   Respiratory Disorders
+TABLE 6.2  Differential Diagnosis and System-­Based Approach to BRUEs
+Diagnostic 
+Categories
+Common and/or Concerning 
+Causes to Consider
+Suggestive Historical 
+Findings
+Suggestive Physical 
+Examination Findings
+Testing to Consider
+Gastrointestinal
+GER
+Intussusception
+Volvulus
+Swallowing abnormalities
+Coughing, vomiting, choking, 
+gasping
+Feeding difficulties
+Recent preceding feed
+Irritability following feeds
+Milk in mouth/nose
+Bilious emesis
+Pulling legs to chest
+Bloody/mucousy stool
+Lethargy following event
+Gastric contents in the nose and 
+mouth
+Abdominal distention
+Abdominal tenderness
+Upper GI to assess for anatomic 
+anomalies
+Swallow evaluation
+Abdominal ultrasound or pH 
+probe
+Infectious
+Upper and lower respiratory tract 
+infection (RSV, pertussis, pneumo­
+nia)
+Bacteremia
+Meningitis
+Urinary tract infection
+Preceding URI symptoms
+Multiple events on the day of 
+presentation
+Sick exposures
+Foul-­smelling urine
+Fever/hypothermia
+Lethargy
+Ill appearance
+Coryza
+Cough
+Wheeze
+Tachypnea
+NP swab for RSV, pertussis, 
+COVID-­19
+Chest radiograph
+CBC and blood culture
+Cerebrospinal fluid analysis and 
+culture
+Urinalysis and culture
+Neurologic
+Seizures
+Breath-­holding spells
+Congenital central hypoventilation 
+syndrome
+Neuromuscular disorders
+Congenital malformations of the brain 
+and brainstem
+Malignancy
+Intracranial hemorrhage
+Multiple events
+Loss of consciousness
+Change in tone
+Abnormal muscular movements
+Eye deviation
+Preceding triggers
+Papilledema
+Abnormal muscular movements
+Hypertonicity or flaccidity
+Abnormal reflexes
+Micro-­ or macrocephaly
+Dysmorphic features
+Ptosis
+Bulging fontanel
+EEG
+Neuroimaging
+Respiratory/ENT
+Apnea of prematurity
+Apnea of infancy
+Periodic breathing
+Airway anomaly
+Aspiration
+Foreign body
+Obstructive sleep apnea
+Prematurity
+Foreign body
+Aspiration
+Noisy breathing
+Wheezing
+Stridor
+Crackles
+Rhonchi
+Tachypnea
+Chest radiograph
+Neck radiograph
+Laryngoscopy
+Bronchoscopy
+Esophagoscopy
+Polysomnography
+Child maltreatment
+Nonaccidental head trauma
+Smothering
+Poisoning
+Factitious syndrome (formerly Mun­
+chausen syndrome) by proxy
+Multiple events
+Unexplained vomiting or 
+irritability
+Recurrent events
+Historical discrepancies
+Family history of unexplained 
+death, BRUEs, SIDS, or ALTEs
+Single witness of event
+Delay in seeking care
+Bruising (especially in a nonmo­
+bile child)
+Ear trauma, hemotympanum
+Acute abdomen
+Painful extremities
+Oral bleeding/trauma
+Frenulum tears
+Unexplained irritability
+Retinal hemorrhages
+Depressed mental status
+Skeletal survey
+CT of the head
+Dilated funduscopic exam­
+ination
+Toxicology screen
+Cardiac
+Dysrhythmia (prolonged QT syndrome, 
+Wolff-­Parkinson-­White syndrome)
+Cardiomyopathy
+Congenital heart disease
+Myocarditis
+Abrupt onset
+Feeding difficulties
+Failure to thrive
+Diaphoresis
+Prematurity
+Abnormal heart rate/rhythm
+Murmur
+Decreased femoral pulses
+Four-­extremity blood pressure
+Pre-­ and postductal oxygen 
+saturation measurements
+ECG
+Echocardiogram
+Serum electrolytes, calcium, 
+magnesium
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+103
+CHAPTER 6  Apparent Life-­Threatening Event/Brief Resolved Unexplained Event
+illnesses, and known medical conditions. Family history should also be 
+obtained with a focus on the presence of BRUEs, ALTEs, sudden infant 
+death syndrome (SIDS), early deaths, and metabolic or neurologic dis­
+orders in first-­ or second-­degree family members. Social factors to con­
+sider include a full list of caregivers, siblings, and other children in the 
+home; illness exposures; medications in the home; exposure to smoke; 
+or prior Child Protective Services involvement.
+Major factors suggestive of risk for future adverse events and/or a 
+serious underlying diagnosis include age, prematurity, multiple events, 
+and the need for CPR by trained medical providers. Prematurity is a 
+frequently noted risk factor for a BRUE/ALTE, perhaps due in part 
+to the preterm infants’ immature respiratory centers, arousal mech­
+anisms, and airway reflexes. The risk is increased for infants born at 
+<32 weeks’ gestation, and the risk decreases once they reach 45 weeks’ 
+postconception age. A history of multiple events raises the concern for 
+serious underlying pathology and progression of future events. With a 
+history of multiple events over days to months, the concern for child 
+maltreatment, seizures, intracranial pathology, and inborn errors of 
+metabolism increases. Multiple events occurring over the course of the 
+day of presentation escalate concern for serious infections and child 
+maltreatment.
+Physical Examination
+One of the diagnostic challenges of the evaluation of a child with a 
+BRUE is that the patient has returned to their baseline state of health 
+after the event and has a reassuring physical examination and vital signs 
+when evaluated by a trained medical provider. Infants should undergo 
+a complete head-­to-­toe examination fully unclothed, including vital 
+signs with pulse oximetry, growth parameters with head circumfer­
+ence, and complete ear, nose, throat, cardiac, respiratory, abdominal, 
+neurologic, musculoskeletal, and skin examinations to note any abnor­
+malities or clues to suggest an alternative diagnosis.
+Abnormalities noted on the presenting examination may indicate 
+various possible diagnoses and should prompt additional evaluation 
+for the suggested etiology (see Table 6.2). Particular attention should 
+be paid to the child’s general appearance for dysmorphic features that 
+might suggest an underlying genetic or metabolic syndrome. Abnor­
+mal growth parameters may identify failure to thrive, which can be 
+suggestive of pathologic reflux, cardiac disease, or metabolic disorders. 
+Signs of trauma, including retinal hemorrhages, unexplained bruising, 
+or evidence of oral pharyngeal trauma (torn frenulum), suggestive 
+of child maltreatment should also be noted. A full neurologic exam­
+ination may raise concern for an intracranial bleed or mass requiring 
+prompt attention.
+Diagnostic Evaluation
+A comprehensive history is essential both in performing a risk stratifi­
+cation to determine if the event would be classified as higher or lower 
+risk and in identifying indications of potential alternative diagnoses.
+For patients identified as lower risk, laboratory studies, imaging 
+studies, and other diagnostic procedures are unlikely to be useful or 
+necessary (see Fig. 6.1). Low-­risk patients should not be admitted to 
+the hospital solely for cardiorespiratory monitoring or undergo exten­
+sive evaluations. Two evaluations that are recommended for consid­
+eration in the lower-­risk population include an ECG and pertussis in 
+conjunction with brief monitoring on a continuous pulse oximeter 
+with serial exams. ECGs may be useful in identifying channelopa­
+thies, ventricular pre-­excitation, cardiomyopathy, or other heart dis­
+ease. Although the incidence of these is low, the benefit of identifying 
+a patient at risk of sudden cardiac death may outweigh the cost and 
+risk of potential false positives leading to additional evaluation. Pertus­
+sis and respiratory syncytial virus (RSV) have been reported to cause 
+BRUE-­like events with gasping, color change, and apnea and may not 
+have associated fever or respiratory symptoms particularly when pres­
+ent in young infants.
+When evaluating patients presenting with a higher-­risk BRUE, it is 
+often difficult to determine the degree to which diagnostic work-­up is 
+indicated, especially in well-­appearing infants with a nonspecific his­
+tory and physical examination. A potential framework for the approach 
+to evaluation of a higher-­risk BRUE suggests consideration of the fol­
+lowing: continuous pulse oximetry monitoring for at least 4 hours; 
+consultation with a social worker; a bedside feeding evaluation; ECG; 
+laboratory studies including consideration of a rapid viral respiratory 
+panel and pertussis testing, hematocrit, blood glucose, bicarbonate or 
+venous blood gas, and lactate; consultation with a child abuse expert; 
+head imaging with CT or MRI, and skeletal survey if concerned for 
+child maltreatment; and then additional consultation and evaluation as 
+indicated based on the clinical context. The level of evidence varies for 
+each of these recommendations and the clinical context should be care­
+fully considered when approaching the evaluation of a BRUE. Prior 
+data from the ALTE literature suggests that in approximately 20% of 
+patients the history and physical examination alone yield the cause; in 
+TABLE 6.2  Differential Diagnosis and System-­Based Approach to BRUEs—cont’d
+Diagnostic 
+Categories
+Common and/or Concerning 
+Causes to Consider
+Suggestive Historical 
+Findings
+Suggestive Physical 
+Examination Findings
+Testing to Consider
+Metabolic/genetic
+Inborn errors of metabolism
+Electrolyte abnormalities
+Genetic syndromes including those 
+with craniofacial malformations
+Severe initial event
+Multiple events
+Event associated with period of 
+stress or fasting
+Developmental delay
+Associated anomalies
+Failure to thrive
+Severe/frequent illnesses
+Family history of a BRUE, 
+ALTE, consanguinity, seizure 
+disorder, or SIDS
+Dysmorphic features
+Microcephaly
+Hepatomegaly
+Serum electrolytes; glucose, 
+calcium, and magnesium 
+levels
+Lactate
+Ammonia
+Pyruvate
+Urine organic and serum amino 
+acids
+Newborn screen
+ALTE, apparent life-­threatening event; BRUE, brief resolved unexplained event; ENT, ear, nose, and throat; GER, gastroesophageal reflux; GI, gastro­
+intestinal; NP, nasopharyngeal; RSV, respiratory syncytial virus; SIDS, sudden infant death syndrome; URI, upper respiratory infection.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+104
+SECTION 2   Respiratory Disorders
+about 50% of patients, a likely diagnosis is suspected from the history 
+and physical examination and is subsequently confirmed by diagnos­
+tic testing. Diagnostic testing alone yields an etiology in approximately 
+15% of patients. When testing is performed, it is most successful when 
+done in a focused and targeted manner geared toward diagnoses sug­
+gested by the history and physical examination, specifically addressing 
+concerning features identified.
+DIFFERENTIAL DIAGNOSIS BY SYSTEM
+Gastrointestinal
+A variety of gastrointestinal (GI) etiologies can mimic a BRUE on pre­
+sentation, including GER, intussusception, and volvulus.
+GER is one of the most commonly cited comorbid conditions in 
+patients presenting with concerning events. Some infants will present 
+with overt symptoms such as coughing, choking, and laryngospasm 
+following regurgitation. Others may present without visible regurgi­
+tation but rather with posturing including arching of the back, torsion 
+of the neck, and lifting up of the chin. This phenomenon, known as 
+Sandifer syndrome, can be frightening to the observer and is often 
+confused with seizure activity. Historical findings that should raise 
+the index of suspicion for GER include a history of frequent reflux, 
+the event being immediately preceded by a feeding, poor weight gain, 
+irritability following a feed, or gastric contents noted in the infant’s 
+nose or mouth during the episode. However, one must be careful when 
+attributing the event to GER. Approximately 50% of all normal infants 
+younger than 3 months of age experience daily regurgitation, and tem­
+poral association does not necessarily equate with causation. Although 
+GER may occasionally cause apneic episodes, GER also occurs very 
+commonly in most healthy infants without any sequelae. It is therefore 
+important not to let a history of GER in an infant presenting with a 
+BRUE preclude the consideration of other underlying causes.
+Although less common, additional GI pathology can present sim­
+ilar to a BRUE, including conditions such as intussusception or vol­
+vulus. Patients who present with these conditions will typically have 
+additional historical and examination findings to suggest their under­
+lying etiology. Patients with intussusception can have sudden and 
+severe abdominal pain demonstrated by inconsolable crying and draw­
+ing up of the legs to the abdomen. The classic presentation of intussus­
+ception is the triad of abdominal pain, a sausage-­shaped abdominal 
+mass, and currant-­jelly stool. However, this classic triad is frequently 
+not seen at presentation. Some infants present solely with lethargy or 
+altered consciousness. Similarly, infants with volvulus can present with 
+sudden-­onset abdominal pain accompanied by emesis. Volvulus is a 
+medical emergency, which can lead to bowel necrosis and death. Oro­
+pharyngeal dysphagia is another consideration. This dysfunctional 
+coordination of the suck, swallow, and breathe mechanism is common 
+when infants are first learning to feed and can be associated with aspi­
+ration, laryngeal food penetration, or nasopharyngeal reflux. This eti­
+ology should be considered if there are symptoms of choking, gagging, 
+or color change with feeds; prolonged feeds; or pooling of feeds in the 
+mouth.
+Obtaining a careful feeding history is critical in the evaluation of 
+potential GI etiologies for patients presenting with a suspected BRUE, 
+but most studies do not support routine testing for GER in these 
+patients. Because there is a high prevalence of GER in infants, it is 
+expected that a high number of these patients will have positive GER 
+testing. When testing is considered, it is important to understand the 
+utility of various modalities. Upper gastrointestinal fluoroscopy is fre­
+quently performed. Although this can be useful in identifying under­
+lying anatomic anomalies that can lead to concerning events, it should 
+TABLE 6.3  Important Historical Features in 
+the Evaluation of a Possible BRUE
+Prior to Event
+Condition of child
+Awake vs asleep
+Location of child
+Prone vs supine, in crib/car seat, with pillows, blankets
+Activity
+Feeding, crying
+During Event
+Respiratory effort
+None, shallow, gasping, increased
+Duration of respiratory pauses
+Color
+Pallor, red, cyanotic
+Peripheral, whole body, circumoral
+Tone/movement
+Rigid, tonic-­clonic, decreased, floppy
+Focal vs diffuse
+Ability to suppress movements
+Level of conscious­
+ness
+Alert, interactive, sleepy, nonresponsive
+Duration
+Time until normal breathing, normal tone, normal 
+behavior
+Detailed history of caregiver actions during event to aid 
+in defining time course
+Associated symp­
+toms
+Vomiting, sputum production, blood in mouth/nose, 
+eye rolling
+Postevent
+Condition
+Back to baseline, sleepy, postictal, crying
+If altered after event, duration of time until back to 
+baseline
+Interventions
+What was per­
+formed
+Gentle stimulation, blowing in face, mouth-­to-­mouth, 
+cardiopulmonary resuscitation
+Who performed 
+intervention
+Medical professional vs caregiver
+Response to inter­
+vention
+Resolution of event vs self-­resolving
+Duration of inter­
+vention
+How long was intervention performed
+Medical History
+History of present 
+illness
+Preceding illnesses, fever, rash, irritability, sick 
+contacts
+Past medical history Prenatal exposures, gestational age, birth trauma
+Any medical problems, prior medical conditions, prior 
+hospitalizations
+Developmental delay
+Medications
+Feeding history
+Gagging, coughing with feeds, poor weight gain
+Family history
+Neurologic problems
+Cardiac arrhythmias
+Sudden death, childhood deaths, ALTEs, BRUEs
+Neonatal problems
+Consanguinity
+Social history
+Home situation
+Caregivers
+Smoke exposure
+Medications in the home
+Prior Child Protective Services involvement
+ALTE, apparent life-­threatening event; BRUE, brief resolved unexplained 
+event.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+105
+CHAPTER 6  Apparent Life-­Threatening Event/Brief Resolved Unexplained Event
+not be used to delineate GER as the cause for the event. This study 
+frequently demonstrates regurgitation in normal infants, and a positive 
+finding on the study does not necessarily indicate that GER was the 
+cause of the inciting event. Although typically not indicated, if further 
+GER testing is desired, esophageal pH analysis via a pH probe could 
+be considered to help demonstrate a causal link by correlating low 
+pH findings with documented apnea on concurrent cardiorespiratory 
+monitoring (see Chapter 15).
+Infectious Disease
+Various infectious etiologies can mimic a BRUE on presentation, 
+ranging from common illnesses caused by respiratory viruses to less 
+common but serious infections such as bacteremia and meningitis. A 
+history of multiple events on the day of presentation is often associated 
+with an infectious etiology. Additional historical clues include recent 
+fever, irritability, altered level of arousal, cough, or coryza. Physical 
+examination findings may confirm the suspicion of an infectious eti­
+ology, while hypothermia and ill appearance at presentation exclude 
+the event from being characterized as a BRUE and should lead to con­
+cern for more serious infectious etiologies. Of note, fever and typical 
+infectious symptoms may be absent in younger infants with immature 
+immunologic and neurologic systems. Prematurity, complicated birth 
+history, or prior antibiotic administration should raise concerns for 
+potential infectious etiologies.
+Viral respiratory infections can present with findings similar 
+to that of a BRUE, particularly in young infants. In this population, 
+apnea may be the presenting symptom of viral lower respiratory tract 
+infections, with the telling symptoms of coryza and cough delayed by 
+hours to days. In particular, pertussis and infection caused by RSV are 
+commonly reported conditions associated with apnea in young infants. 
+Suspicion of respiratory infection must remain high, especially during 
+peak respiratory illness periods, or if there is a history of recent expo­
+sure. Influenza and coronavirus should also be considered. Neonates 
+with pertussis may present with or develop few other symptoms, so 
+a careful history of potential exposure is essential for early diagnosis. 
+Although uncommon in infants with pertussis, the development of a 
+staccato cough with posttussive emesis, or a classic “whoop,” should 
+prompt treatment while awaiting appropriate testing.
+Although the incidence of bacteremia or meningitis is low in 
+patients presenting with BRUE-­like events, the morbidity and mortal­
+ity of these diagnoses are such that they should always be considered. 
+A history of irritability and/or altered level of arousal may suggest 
+these and other serious infections. Paradoxical irritability (crying when 
+held) suggests soft tissue or bone infection or a fracture. Examination 
+findings of concern include ill appearance, fever, hypothermia, leth­
+argy, nuchal rigidity, and poor peripheral perfusion. Prompt action is 
+required for the evaluation and treatment of these infants.
+Urinary tract infections (UTIs) have also been shown to be a 
+potential cause of BRUE-­like events. The infection can lead to cardio­
+respiratory compromise, which can manifest as apnea, color change, 
+altered levels of consciousness, or change in muscle tone. The major­
+ity of patients with UTIs significant enough to cause those symptoms 
+will be ill-­appearing at presentation. Therefore, most studies indicate 
+that urinalysis and urine culture can be reserved for infants who are 
+febrile, are ill-­appearing, or have other clinical symptoms consistent 
+with a UTI.
+Neurologic
+Neurologic disorders that can present similar to a BRUE include sei­
+zure, breath-­holding spells, congenital central hypoventilation syn­
+drome (Ondine’s curse), metabolic encephalopathies, and brain or 
+brainstem abnormalities.
+The most common identifiable neurologic disorder associated with 
+these symptoms is seizure, with a rate of up to 25%. Factors that sup­
+port the diagnosis of seizure include a history of loss of consciousness, 
+poor tone, unresponsiveness, eye deviation, or rhythmic movements 
+that are not able to be suppressed. A history of choking is typically 
+absent in those presenting with seizure. Lack of this historical fact 
+should raise the suspicion for seizure in the differential.
+Breath-­holding spells have been reported to present to medical 
+attention with a BRUE-­like event. These are typically divided into two 
+types: cyanotic and pallid. In cyanotic breath-­holding spells, there is 
+usually an emotional trigger such as anger or frustration. The infants 
+cry, then become silent and hold their breath in expiration with sub­
+sequent cyanosis. This can then be followed by limpness and possible 
+loss of consciousness. Pallid breath-­holding spells are less common 
+and are typically triggered by pain or fright. The child may gasp, then 
+lose consciousness and become pale, diaphoretic, and limp. This can 
+be followed by a period of increased tone and clonic movements. To 
+determine if the event is consistent with a breath-­holding spell, it is 
+important to obtain a stepwise history of the event, including any emo­
+tional or painful precipitant.
+Congenital central hypoventilation syndrome (CCHS) is a rare 
+but important cause of BRUE-­like events. This is classically character­
+ized by near-­adequate ventilation while awake but significant hypoven­
+tilation while asleep. Most patients with CCHS present at ≤1 month of 
+age; however, late-­onset central hypoventilation syndrome (LOCHS) 
+may present up to age 10 years. In addition to hypoventilation, there 
+may be associated autonomic dysfunctions or other manifestations 
+(Table 6.4). Infants with no prior history of sleep-­related hypoventila­
+tion may become apneic after a triggering event such as an upper respi­
+ratory tract infection, sedation, or endotracheal intubation. PHOX2B 
+gene polyalanine repeat expansion mutations (PARMs) are responsible 
+for ∼90% of affected patients in this autosomal dominant disorder. The 
+differential diagnosis of the central hypoventilation seen in CCHS and 
+LOCHS includes Prader Willi syndrome, Chiari I or II malformations, 
+familial dysautonomia, congenital myasthenia, congenital myopathy, 
+mitochondrial defects (Leigh syndrome), and ROHHAD (rapid-­onset 
+obesity, hypoventilation, and hypothalamic and autonomic dysfunc­
+tion). An approach to the evaluation of hypoventilation is noted in 
+Figure 6.2.
+Additional rare, but potentially life-­threatening, neurologic disor­
+ders to consider include brain tumors, neuromuscular disorders, meta­
+bolic encephalopathies, and malformations of the brain and brainstem. 
+Examiners should therefore pay particular attention to any focal weak­
+ness, cranial nerve abnormalities, or signs of increased intracranial 
+pressure, including papilledema and Cushing triad (bradycardia, respi­
+ratory irregularities, and hypertension).
+Given the relatively high incidence of seizures in infants presenting 
+with a suspected BRUE, some diagnostic algorithms recommend EEGs 
+as part of the initial investigation. However, at only 15%, the sensitivity 
+of EEGs in diagnosing future epilepsy is poor. Since infants who go 
+on to develop epilepsy will likely have recurrent events, most experts 
+recommend that EEGs be reserved for those patients with recurrent 
+events or history or physical examination findings specifically con­
+cerning for seizures. In patients with suspected seizures, evaluation of 
+serum electrolytes may also be beneficial to identify possible derange­
+ments including hypo-­ or hypernatremia, hypocalcemia, or hypoglyce­
+mia. If specific electrolyte abnormalities are identified, further work-­up 
+should be undertaken to determine underlying pathology.
+Neuroimaging may be considered in patients presenting with a 
+BRUE. Current evidence does not support routine neuroimaging 
+for asymptomatic infants with a BRUE-­like presentation given the 
+low diagnostic yield, high cost, and sedation or radiation concerns. 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+106
+SECTION 2   Respiratory Disorders
+However, neuroimaging must be considered in the infant with an 
+abnormal neurologic examination, recurrent events, or a clinical con­
+cern for seizure, child maltreatment, metabolic encephalopathies, or 
+tumor.
+Airway/Pulmonary
+Infections of the upper and lower respiratory tract are common causes 
+of BRUE-­like events, but other respiratory etiologies have been cited as 
+well. These include apnea of prematurity and infancy, periodic breath­
+ing, and airway abnormalities.
+The most common cause of apnea in preterm infants is apnea of 
+prematurity. It occurs in virtually all infants born at <28 weeks’ gesta­
+tion, and the frequency is indirectly proportional to the gestational age. 
+Apnea of prematurity is thought to be due to immature respiratory con­
+trol in premature infants and typically presents with either central or 
+mixed (central and obstructive) apnea. Following the perinatal period, 
+it is a diagnosis of exclusion and should be considered only after other 
+etiologies have been ruled out. The apneic events typically begin within 
+the first week of life, and as such, symptom onset after that time should 
+stimulate consideration of other causes. Apnea of prematurity typically 
+resolves by 37–40 weeks’ postconceptual age in infants delivered at ≥28 
+weeks but can persist later in infants delivered prior to 28 weeks.
+Apnea of infancy (AOI) refers to apnea that develops in neonates 
+older than 37 weeks’ postconception. The etiology is unknown. It is 
+reserved for cases when a cause is not identified and is typically seen as 
+a diagnosis of exclusion.
+Periodic breathing is a common entity that is often confused by par­
+ents as a BRUE. Periodic breathing is defined as three or more respira­
+tory pauses of >3 seconds’ duration within a 20-­second portion of the 
+breathing cycle. Sometimes several pauses occur, one after the other, 
+followed by a set of short, rapid respirations before the respiratory 
+rhythm is restored. Importantly, no associated change in color, tone, 
+or heart rate and no prolonged respiratory pauses (>20 seconds) are 
+reported in association with periodic breathing. A clear history of the 
+event is essential in differentiating true apnea from periodic breathing. 
+Video of concerning events can prove very helpful. If determined to 
+be periodic breathing, it is a benign entity and does not require any 
+additional work-­up or intervention.
+Less common respiratory etiologies to consider include ana­
+tomic airway abnormalities such as anomalies of the pharynx 
+(adenotonsillar hypertrophy), the larynx (laryngomalacia, edema, 
+subglottic ductal cyst, subglottic stenosis), or the trachea (tracheo­
+malacia, aberrant innominate artery). A history of associated respi­
+ratory distress, obstructive apnea, positional symptoms, or noisy 
+breathing, or physical examination findings such as stridor should 
+raise the index of suspicion for these otolaryngologic etiologies. 
+Aspiration can also present with features similar to a BRUE and can 
+be the result of a foreign body, neurologic abnormalities leading to 
+swallowing dysfunction, or anatomic disorders such as cleft palate or 
+tracheoesophageal fistula.
+Chest and neck radiographs can be beneficial in assessing for signs 
+of airway abnormalities or radiopaque foreign bodies. If there is high 
+concern for anatomic abnormalities, evaluation by direct laryngoscopy, 
+bronchoscopy, and/or esophagoscopy could be considered. However, 
+in patients who are well-­appearing without clinical concern for airway 
+anomalies, the yield for these tests is low. Polysomnography can be 
+useful in differentiating between central versus obstructive processes 
+(see Fig. 6.2). This may be a consideration in patients with prematu­
+rity, noisy breathing, or recurrent/severe events when obstruction in 
+suspected.
+Child Maltreatment
+Child maltreatment should always be considered in infants presenting 
+with BRUE-­like symptoms (see Chapter 30). Possible etiologies include 
+head trauma (direct injury or repetitive shaking), smothering, toxic 
+ingestions, and factitious syndrome (formerly Munchausen syndrome) 
+by proxy.
+Concerning historical facts include unexplained vomiting or 
+irritability, recurrent events, historical discrepancies (history is 
+confusing, varies among caregivers, changes over the course of the 
+evaluation), or a family history of BRUEs, ALTEs, SIDS, or unex­
+plained death. There is a higher rate of child maltreatment in infants 
+presenting with more severe initial episodes and in those requiring 
+resuscitation.
+Any bruising should be noted, especially in a nonambulatory infant. 
+A careful ear, nose, and throat examination should be performed, 
+TABLE 6.4  Clinical Manifestations of CCHS
+Organ System
+Clinical Manifestations
+Ophthalmologic
+Decreased/absent pupillary light response
+Anisocoria
+Strabismus
+Lack of convergent gaze
+Marcus Gunn jaw winking
+Respiratory
+Alveolar hypoventilation
+Absent perception of dyspnea
+Cardiovascular
+Bradycardia
+Prolonged sinus pauses (>3 sec)
+Transient asystole
+Decreased heart rate variability
+Low normal daytime BP
+Orthostatic hypotension
+Nondipping BP circadian pattern
+Decreased BP response to exercise
+Syncope
+GI
+Hirschsprung disease (20%)
+Constipation
+Esophageal dysmotility
+Endocrine
+Hyperinsulinism
+Hypoglycemia
+Hyperglycemia
+Neurologic
+Decreased anxiety
+Decreased pain perception
+Seizures
+Neurocognitive deficits
+Skin
+Sporadic profuse sweating
+Tumors
+Neuroblastoma
+Ganglioneuroma
+Ganglioneuroblastoma
+Others
+Decreased baseline body temperature
+Poor heat tolerance
+BP, blood pressure; CCHS, congenital central hypoventilation syndrome; 
+GI, gastrointestinal.
+From Bishara J, Keens TG, Perez IA. The genetics of congenital central 
+hypoventilation syndrome: clinical implications. Appl Clin Genet. 
+2018;11:135–144 (Table 1, p. 136).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+107
+CHAPTER 6  Apparent Life-­Threatening Event/Brief Resolved Unexplained Event
+noting any ear bruising, bleeding from the nose or mouth, or frenulum 
+tears. A thorough neurologic examination is also essential, assessing 
+for altered sensorium, fontanel fullness, pupillary abnormalities, or 
+other focal neurologic findings. These findings should all raise suspi­
+cion for child maltreatment. However, it is also important to note that 
+infants with child maltreatment may appear well on presentation with 
+no external signs of trauma; the absence of these findings does not rule 
+out maltreatment as the cause for the event.
+If there is clinical suspicion for child maltreatment, a skeletal sur­
+vey, cranial/brain imaging, select laboratory studies, and a dilated 
+funduscopic examination should be considered to assess for support­
+ive findings. Video surveillance while the infant is hospitalized can 
+also be considered in these cases. In addition, if there is concern for 
+possible intentional or unintentional poisoning, a toxicology screen 
+should be considered to identify the presence of medications that 
+could cause the presenting symptoms. However, in patients without 
+historical or physical examination findings concerning for child mal­
+treatment, the evidence does not support the routine use of any of 
+these assessments.
+Cardiac
+Though relatively rare, with a reported rate of 0–2%, cardiac pathology 
+can lead to BRUE-­like events in myriad ways. Children with structur­
+ally normal hearts may experience events due to arrhythmias, cardio­
+myopathy, and myocarditis. Those with structurally abnormal hearts, 
+such as vascular anomalies, cyanotic heart disease, and left-­sided 
+obstruction, may also present with symptoms similar to a BRUE. A 
+history of multiple and/or escalating events over days to weeks, feed­
+ing difficulties, diaphoresis, failure to thrive, long QT syndrome, or a 
+positive family history of an ALTE, BRUE, cardiac disease, or sudden 
+unexplained death before the age of 35 years should raise the index 
+of suspicion for cardiac pathology. A complete cardiac examination 
+should be performed, noting abnormalities that might suggest under­
+lying cardiac pathology, such as irregular rhythms, decreased femoral 
+pulses, or murmurs.
+Given the low rate of cardiac disease in patients presenting with 
+a BRUE, routine echocardiograms are generally not useful in the ini­
+tial work-­up of these patients. ECGs may be a more useful screening 
+tool, as they are relatively easy to perform and are highly sensitive in 
+identifying cardiac abnormalities. Therefore, ECG could be considered 
+to help exclude cardiac etiologies in patients where this is a clinical 
+concern. However, the examiner should note that there is a high false-­
+positive rate for ECGs in these patients, which could lead to additional 
+unnecessary testing. If arrhythmia is strongly suspected or identified, 
+assessment for electrolyte disturbances, such as hypo-­ or hyperkalemia, 
+should be undertaken.
+Metabolic/Genetic
+BRUE-­like events can be the initial presentation of various metabolic 
+disorders including organic acidemias, urea cycle disorders, fatty 
+acid oxidation disorders, and mitochondrial disorders. Similarly, this 
+type of event can be the presenting symptom of hypoglycemia and 
+Suspected alveolar hypoventilation?
+Hypoventilation?
+Yes
+Yes
+No
+No
+Clinical features of
+other conditions, e.g.,
+Prader Willi, ROHHAD
+Genetic and
+other specific
+studies
+PHOX2B genetic test
+Hypoventilation
+remains unexplained
+Brain +/– spinal MRI
+Chest x-ray
+Echocardiogram
+Diaphragmatic echo
+Airway endoscopy
+EMG and NCV
+Pyridostigmine test
+Metabolic study
+Other studies
+Categorize hypoventilation
+• Secondary
+• Primary
+         • Central
+         • Peripheral
+Sleep-related?
+PSG or CRP confirms
+worse in quiet sleep
+Not CCHS
+Consider other
+diagnoses according
+to symptoms and
+physical findings
+Confirm hypoventilation:
+Polysomnography or cardiorespiratory polygraphy
+to include CO2 (Tcco2, Etco2) in all sleep & waking phases
+Figure 6.2  Diagnostic algorithm for alveolar hypoventilation. CCHS, congenital central hypoventilation syn­
+drome; CRP, cardiorespiratory polygraphy; EMG, electromyogram; Etco2, end-­tidal co2; NCV, nerve conduction 
+velocity; PHOX2B, paired-­like homeobox 2B; PSG, polysomnography; ROHHAD, rapid-­onset obesity with 
+hypoventilation, hypothalamic dysfunction, and autonomic disregulation; Tcco2, transcutaneous Pco2. (From 
+Trang H, Samuels M, Ceccherini I, et  al. Guidelines for diagnosis and management of congenital central 
+hypoventilation syndrome. Orphanet J Rare Dis. 2020;15:252 [Fig. 1, p. 3].)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+108
+SECTION 2   Respiratory Disorders
+hypocalcemia. Although metabolic entities are rare, they can be pro­
+gressive and life-­threatening and therefore should be considered in the 
+differential for these patients.
+Clinical findings that may suggest an inborn error of metabolism 
+include recurrent or severe events, associated developmental delay, 
+failure to thrive, or positive family history of seizure disorders, SIDS, 
+or early infant deaths. Physical findings such as dysmorphic features 
+should also be noted as these could suggest an underlying syndromic 
+etiology. Disorders of the face and upper airway, such as cri du chat 
+and Pierre Robin syndromes, can lead to obstructed respiratory 
+patterns.
+Serum chemistries, while not necessarily diagnostic of an inborn 
+error of metabolism, can be helpful in screening patients with potential 
+metabolic abnormalities and should be considered in patients when 
+this is a clinical concern. Serum glucose, bicarbonate, ammonia, lac­
+tate, and pyruvic acid levels are useful screening tests in these patients 
+because abnormalities signal the possibility of metabolic disorders 
+requiring additional evaluation. The newborn metabolic screen 
+should also be reviewed to ensure no abnormalities were identified. If 
+there is a high index of suspicion, it is prudent to repeat the newborn 
+screen to ensure that the findings remain normal following the intro­
+duction of enteral feeds.
+   	 S U MMA RY  A N D  R E D  F L A G S
+A thorough history and physical examination are paramount in the 
+evaluation of patients with a suspected BRUE. Concerning historical 
+factors and physical examination findings, such as prematurity, age <60 
+days, multiple events, or requirement for resuscitation, should prompt 
+consideration of further evaluation (Table 6.5).
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+TABLE 6.5  Red Flags in Infants Presenting 
+with a Suspected BRUE
+Age <60 days
+Prematurity (gestational age ≤32 wk and postconceptual age ≤45 wk)
+Duration >1 min
+Cardiopulmonary resuscitation by a trained medical provider
+Recurrent events
+Concerning historical features
+ • Inconsistent history/history incompatible with the child’s developmental 
+age (concern for child abuse)
+ • Congenital anomalies, autonomic dysfunction, or known syndromes
+ • Family history of BRUE, ALTE, SIDS, or unexplained death
+Concerning physical exam findings
+ • Unexplained bruising, torn labial or lingual frenulum, signs of trauma 
+(concern for child abuse)
+ • Fever or persistent respiratory symptoms (concern for infection)
+ • Dysmorphic feature
+ • Abnormal physical examination findings at the time of presentation; no 
+recovery from event
+ALTE, apparent life-­threatening event; BRUE, brief resolved unexplained 
+event; SIDS, sudden infant death syndrome.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+108.e1
+BIBLIOGRAPHY
+Apparent Life-­Threatening Event
+Brand D, Altman R, Purtill K, et al. Yield of diagnostic testing in infants who 
+have had an apparent life-­threatening event. Pediatrics. 2005;115:885–893.
+Davies F, Gupta R. Apparent life threatening events in infants presenting to an 
+emergency department. Emerg Med J. 2002;19:11–16.
+Fu LY, Moon RY. Apparent life-­threatening events: an update. Pediatr Rev. 
+2012;33:361–368.
+Kahn A. European Society for the Study and Prevention of Infant Death. Rec­
+ommended clinical evaluation of infants with an apparent life-­threatening 
+event. Consensus document of the European Society for the Study and 
+Prevention of Infant Death, 2003. Eur J Pediatr. 2004;163:108.
+Kaji AH, Claudius I, Santillanes G, et al. Apparent life-­threatening event: 
+multicenter prospective cohort study to develop a clinical decision rule for 
+admission to the hospital. Ann Emerg Med. 2013;61:379–387.
+Mittal MK, Sun G, Baren JM. A clinical decision rule to identify infants with 
+apparent life threatening event who can be safely discharged from the 
+emergency department. Pediatr Emerg Care. 2012;28:599–605.
+National Institutes of Health. Consensus Development Conference on Infantile 
+Apnea and Home Monitoring. Pediatrics. 1987;79:292–299.
+Okada K, Miyako M, Honma S, et al. Discharge diagnoses in infants with 
+apparent life-­threatening event. Pediatr Int. 2003;45:560–563.
+Shah S, Sharieff G. An update on the approach to apparent life-­threatening 
+events. Curr Opin Pediatr. 2007;19:288–294.
+Tieder JS, Altman RL, Bonkowsky JL, et al. Management of apparent life-­
+threatening events in infants: a systematic review. J Pediatr. 2013;163:94–
+99.
+Brief Resolved Unexplained Event
+Ari A, Atias Y, Amir J. Long-term follow-­up of infants after a brief re­
+solved unexplained event–related hospitalization. Pediatr Emerg Care. 
+2019;35(11):765–768. https://doi.org/10.1097/PEC.0000000000001816.
+Brand DA, Fazzari MJ. Risk of death in infants who have experienced a brief 
+resolved unexplained event: a meta-­analysis. J Pediatr. 2018;197:63–67. 
+https://doi.org/10.1016/j.jpeds.2017.12.028.
+Colombo M, Katz ES, Bosco A, et al. Brief resolved unexplained events: 
+retrospective validation of diagnostic criteria and risk stratification. Pediatr 
+Pulmonol. 2019;54(1):61–65. https://doi.org/10.1002/ppul.24195.
+Merritt JL, Quinonez RA, Bonkowsky JL, et al. A framework for evaluation of 
+the higher-­risk infant after a brief resolved unexplained event. Pediatrics. 
+2019;144(2):e20184101. https://doi.org/10.1542/peds.2018-­4101.
+Ramgopal S, Soung J, Pitetti RD. Brief resolved unexplained events: analysis of 
+an apparent life-­threatening event database. Acad Pediatr. 2019;19(8):963–
+968. https://doi.org/10.1016/j.acap.2019.08.001.
+The Johns Hopkins Hospital (Baltimore, Maryland). The Harriet Lane Hand­
+book. 22nd ed. Elsevier; 2020.
+Tieder JS, Bonkowsky JL, Etzel RA, et al. Brief resolved unexplained events 
+(formally apparent life-threatening events) and evaluation of lower-­risk 
+infants. Pediatrics. 2016;137(5):e20160590.
+Zwemer E, Claudius I, Tieder J. Update on the evaluation and management 
+of brief resolved unexplained events (previously apparent life-threatening 
+events). RRCT. 2017;12(4). https://doi.org/10.2174/157488711266617081
+6150104.
+Gastrointestinal
+Duncan DR, Amirault J, Mitchell PD, et al. Oropharyngeal dysphagia is 
+strongly correlated with apparent life-­threatening events. J Pediatr Gastro­
+enterol Nutr. 2017;65(2):168–172.
+Mousa H, Woodley FW, Metheney M, et al. Testing the association between 
+gastroesophageal reflux and apnea in infants. J Pediatr Gastroenterol Nutr. 
+2005;41:169–177.
+Infectious
+Claudius I, Mittal MK, Murray R, et al. Should infants presenting with an 
+apparent life-­threatening event undergo evaluation for serious bacterial 
+infections and respiratory pathogens? J Pediatr. 2014;164:1231–1233.
+Loron G, Tromeur T, Venot P, et al. COVID-19 associated with life-threatening 
+apnea in an infant born preterm: a case report. Front Pediatr. 2020;8(Arti­
+cle 568).
+Needleman JS, Hanson AE. COVID-19-associated apnea and circumoral 
+cyanosis in a 3-week-old. Pediatrics. 2020;20:382.
+Neurologic
+Barratt S, Kendrick A, Buchanan F, et al. Central hypoventilation with 
+PHOX2B expansion mutation presenting in adulthood. BMJ Case Rep 
+2009bcr09.2008.0946. Published online 2009 Feb 2.
+Berry-­Kravis EM, Zhou L, Rand CM, et al. Congenital central hypoventilation 
+syndrome. Am J Respir Crit Care Med. 2006;174:1139–1144.
+Bonkowsky JL, Guenther E, Srivastava R, et al. Seizures in children following 
+an apparent life-­threatening event. J Child Neurol. 2009;24:709–713.
+Doherty LS, Kiely JL, Deegan PC, et al. Late-­onset central hypoventilation 
+syndrome: a family genetic study. Eur Respir J. 2007;29:312–316.
+Genizi J, Pillar G, Ravid S, et al. Apparent life-­threatening events: neurological 
+correlates and the mandatory work-­up. J Child Neurol. 2008;23:1305–1307.
+Tirosh E, Jaffe M. Apparent life-­threatening event: a neurologic perspective. J 
+Child Neurol. 1995;10:216–218.
+Weese-­Mayer DE, Rand CM, Zhou A, et al. Congenital central hypoventilation 
+syndrome: a bedside-­to-­bench success story for advancing early diagno­
+sis and treatment and improved survival and quality of life. Pediatr Res. 
+2017;81(1):192–201.
+Airway/Pulmonary
+McMurray JS, Holinger LD. Otolaryngic manifestations in children present­
+ing with apparent life-­threatening events. Otolaryngol Head Neck Surg. 
+1997;116(6 Pt 1):575–579.
+Child Maltreatment
+Altman RL, Brand DA, Forman S, et al. Abusive head injury as a cause of 
+apparent life-­threatening events in infancy. Arch Pediatr Adolesc Med. 
+2003;157:1011–1015.
+Altman RL, Forman S, Brand DA. Ophthalmologic findings in infants after an 
+apparent life-­threatening event. Eur J Ophthalmol. 2007;17:648–653.
+Bonkowsky JL, Guenther E, Filloux FM, et al. Death, child abuse, and adverse 
+neurological outcome of infants after an apparent life-­threatening event. 
+Pediatrics. 2008;122:125–131.
+Guenther E, Powers A, Srivastava R, et al. Abusive head trauma in children 
+presenting with an apparent life-­threatening event. J Pediatr. 2010;157:821–
+825.
+Pitetti RD, Maffei F, Chang K, et al. Prevalence of retinal hemorrhages and 
+child abuse in children who present with an apparent life-­threatening 
+event. Pediatrics. 2002;110:557–562.
+Truman TL, Ayoub CC. Considering suffocatory abuse and Munchausen by 
+proxy in the evaluation of children experiencing apparent life-­threatening 
+events and sudden infant death syndrome. Child Maltreat. 2002;7:138–148.
+Cardiac
+Hoki R, Bonkowsky JL, Minich LL, et al. Cardiac testing and outcomes 
+in infants after an apparent life-­threatening event. Arch Dis Child. 
+2012;97(12):1034–1038.
+Woolf PK, Gewitz MH, Preminger T, et al. Infants with apparent life threaten­
+ing events. Cardiac rhythm and conduction. Clin Pediatr. 1989;28:517–520.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

@@ -1,0 +1,1529 @@
+767
+Encephalitis, or inflammation of the brain, and myelitis, or inflam­
+mation of the spinal cord, cause myriad symptoms and signs because 
+of the subtle behavioral phenotypes and varying locations of the 
+inflammation. The lesions are hard to categorize or quantify and are 
+not generally accessible to biopsy. The challenge in relatively nonverbal 
+children compounds the problem. Encephalopathy, or dysfunction 
+of alertness, attention, cognition, and speech, has a much broader dif­
+ferential diagnosis (see Chapter 31). For this reason, the diagnosis of 
+encephalomyelitis (EM) usually requires fevers or an objective neuro­
+logic sign to open the investigation (Table 42.1).
+Encephalitis is uncommon (0.3–0.5/100,000 population) and is only 
+one of many etiologies of altered mental status including the broad cat­
+egory of noninfectious noninflammatory encephalopathies (see Chapter 
+41). Indeed, encephalitis may be due to infections of the central nervous 
+system, as well as immune-mediated processes (active, postinfectious), 
+autoimmune (N-methyl-D-aspartate receptor [NMDAR] antibody, oth­
+ers), or overlapping (HSV with NMDAR encephalitis, COVID-19 with 
+acute disseminated encephalomyelitis [ADEM]).
+ETIOLOGY
+Encephalitis may be infectious, postinfectious, autoinflammatory, or 
+autoimmune (Table 42.2). The approach to the epidemiology of enceph­
+alitis must take age (see Table 42.2) and exposure (Table 42.3) into 
+consideration. Exposures include other affected people in addition to 
+insects (mosquitoes, ticks, others), animals (bats, dogs, cats, raccoons, 
+sheep, goats), ingestion or inhalation (water, soil, foods), the season, and 
+travel to endemic areas. Although many cases of encephalitis have no 
+identifiable exposures, particularly autoimmune encephalitis, a careful 
+history may improve the ability to make a diagnosis and provide specific 
+therapy (brucellosis, Baylisascaris procyonis, Naegleria fowleri).
+In addition to infectious etiologies, autoimmune encephalitis 
+must always be considered in the differential diagnosis (Tables 42.4, 
+42.5, 42.6, and 42.7). Subacute or chronic encephalitis, particularly in 
+immunosuppressed patients, has a different epidemiology (Table 42.8). 
+In addition, many systemic disorders mimic encephalitis (Table 42.9) 
+(see Chapter 31).
+Herpes simplex is the most important treatable infectious endemic 
+cause of encephalitis in the United States. Seasonal fluctuations of asep­
+tic meningitis and/or encephalitis are often due to enteroviruses/pare­
+choviruses and arboviruses (arthropod-­borne virus) such as West Nile, 
+Powassan, St. Louis, California, Eastern and Western equine, and La 
+Crosse viruses. Zika, dengue, and Chikungunya are also arboviruses. 
+In endemic areas and during the appropriate season, tick-­borne dis­
+eases (Lyme disease) should be considered.
+Autoimmune encephalitis, ADEM, and neuromyelitis optica spec­
+trum disorder (NMOSD) are important, recognizable, noninfectious-­
+inflammatory treatable disorders that commonly present with an 
+encephalitis-­like picture.
+Autoimmune Encephalitis
+Autoimmune encephalitis is often associated with behavioral or psy­
+chiatric changes and seizures; the MRI may be normal, but the EEG 
+will universally be abnormal. The presence of restricted diffusion or 
+contrast enhancement is unusual in autoimmune encephalitis. The 
+most common form of autoimmune encephalitis is caused by anti­
+bodies to the NMDA­ receptor (NMDAR), which in children is often 
+associated with agitation, hallucination, sleep disorder, movement 
+disorders (or catatonia), ataxia, mutism, and seizures. Inflammatory 
+markers are often normal. NMDAR encephalitis is uncommonly para­
+neoplastic in children (more so in adolescents) and usually of ovarian 
+origin. NMDAR encephalitis can be triggered by HSV encephalitis and 
+Japanese encephalitis virus, which confounds the primary diagnosis. 
+Other relatively antibody-­mediated syndromes include myelin oligo­
+dendrocyte glycoprotein (MOG) and GAD65.
+The most common, cell-­mediated autoimmune encephalitis is acute 
+disseminated encephalomyelitis (ADEM), a bilateral, asymmetric 
+demyelinating syndrome presenting 2–4 weeks after a minor respira­
+tory or gastrointestinal infection; it has also been reported after mea­
+sles, historical smallpox and neural tissue–derived rabies vaccines, 
+trauma, or surgery. Encephalopathy is present in >90% of patients; 
+fever is not. Often there is paresis of the cranial nerves or extremities. 
+Imaging is usually abnormal in most cases (Fig. 42.1). ADEM is cell 
+mediated, but a subset of patients, usually with more severe disease, 
+show peripheral antibodies to MOG; some with MOG antibodies have 
+a course distinct from ADEM. Epidemiologic (Fig. 42.2) and MRI find­
+ings (Table 42.10) may help differentiate ADEM from MS. Corticoste­
+roids are often used despite inconclusive evidence; rapid withdrawal of 
+corticosteroids may result in relapse.
+Acute transverse myelitis (TM) clinically mimics cord transection 
+(sensory, motor, and sphincter impairment) at a precise spinal level, but 
+MRI usually demonstrates cord inflammation extending more than three 
+vertebral bodies. It is essential to emergently exclude spinal cord compres­
+sion by epidural abscess, hematoma, or tumor. Sparing of proprioception 
+and vibration suggests possible anterior spinal artery disease (vasculitis, 
+infarction, syphilis, schistosomiasis). Therapy is not established, and out­
+comes vary. Acute flaccid myelitis (AFM) (or acute flaccid paralysis) 
+is a syndrome associated with TM with anterior horn cell involvement, 
+typically in younger children, occurring seasonally. Recovery is vari­
+able. There has been irregular geographic coincidence with outbreaks of 
+enterovirus (EV) D-­68 and coxsackievirus A-­16, but virus is usually not 
+detected in CSF. Outbreaks of AFM have occurred in other regions with­
+out detection of these viruses despite aggressive diagnostic surveillance.
+The most common treatable cause of sporadic encephalitis at 
+all ages is caused by herpes simplex virus. Apart from the neonatal 
+period, when the virus spreads hematogenously, encephalitis is medi­
+ated by reactivation of the virus in the trigeminal nerve and spread 
+to the innervated base of the brain (frontal and temporal lobes). The 
+Encephalitis
+Robert M. Kliegman
+42
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+768
+SECTION 7  Neurosensory Disorders
+TABLE 42.1  Comparison of Encephalitis and Encephalopathy
+Encephalitis
+Encephalopathy
+Clinical Features
+Fever >38°C
+Common
+Uncommon
+Headache
+Common
+Uncommon†
+Depressed mental status >24 hr*
+May fluctuate
+Steady decline in mental status
+Focal neurologic signs
+Common
+Uncommon
+Seizures
+Occasional
+Uncommon
+Types of seizures
+Generalized or focal
+Generalized
+Laboratory Results
+CBC
+Leukocytosis occasional
+Leukocytosis uncommon
+Cerebrospinal fluid
+Pleocytosis common
+Pleocytosis uncommon
+EEG
+Diffuse slowing and occasional focal 
+abnormalities or periodic patterns
+Diffuse slowing
+MRI
+May have focal abnormalities
+No focal abnormalities
+*Lethargy, irritability, coma, change in behavior or personality.
+†Unless increased intracranial pressure.
+Modified from Bennett JE, Dolin R, Blaser MJ. Mandell, Douglas, and Bennett’s Principles and Practice of Infectious Diseases. 9th ed. Vol 1. 
+­Philadelphia: Elsevier; 2020:1227, Table 89.1.
+TABLE 42.2  Causes of Encephalitis at Different Ages
+Age Group
+Inflammation
+Autoimmune
+Infectious
+Mimics
+0–24 mo
+Cryopyrin disorders
+Interferonopathies
+Complement disorders 
+(HUS/TTP)
+Aicardi-Goutieres syndrome
+Paraneoplastic
+Rare under 12 mo
+Congenital infec­
+tions
+Enteroviruses
+Arboviruses (includ­
+ing WNV)
+HSV
+HIV-­1
+Urea cycle disorders, maple syrup urine disease, Reye 
+(MCAD deficiency), CPT2, mitochondrial disorders (Leigh)
+Bacterial meningitis
+Brain malformations
+Intoxication
+Epilepsy
+Dravet (SCNA1) and other epilepsy encephalopathy syndromes
+Acute adrenal crisis
+Hydrocephalus
+HLH
+Glioma
+AFP: SMA, botulism, pseudoparesis
+2–5 yr
+Complement disorders 
+(HUS/TTP)
+ADEM
+NMOSD
+VZV
+AFP: TM, AFM, NMOSD
+HSV
+Enteroviruses
+Influenza
+Arboviruses
+EBV
+Adenovirus
+Mycoplasma
+Bartonella
+Rabies
+Bacterial meningitis
+Intoxication
+Reye (MCAD deficiency)
+Epilepsy
+Dravet (SCNA1) and other epilepsy encephalopathy syndromes
+HUS, infectious
+HLH
+Mitochondrial disorders (MELAS)
+Glioma; CNS lymphoma
+School age
+ADEM
+NMDAR
+NMOSD
+VZV
+AFP: TM, AFM, NMOSD
+HSV
+Enteroviruses
+Influenza
+EBV
+Adenovirus
+Mycoplasma
+Bartonella
+Lyme
+Rabies
+Epilepsy
+Dravet (SCNA1) and other epilepsy encephalopathy syndromes
+CNS lymphoma
+HLH
+Mitochondrial disorders (MELAS)
+Vasculitis (primary, rickettsia, VZV)
+Glioma; CNS lymphoma
+AFP: AFM
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+769
+CHAPTER 42  Encephalitis
+TABLE 42.2  Causes of Encephalitis at Different Ages—cont’d
+Age Group
+Inflammation
+Autoimmune
+Infectious
+Mimics
+Pubertal
+ADEM
+NMDAR
+NMOSD
+VZV
+SLE
+AFP: TM, NMOSD
+HSV
+Enteroviruses
+Influenza
+EBV
+Mycoplasma
+HIV-­1
+Lyme
+Rabies
+Intoxication
+Psychosis
+Wilson disease
+HLH
+Pseudotumor cerebri
+Multiple sclerosis
+Mitochondrial disorders (MELAS)
+Vasculitis (primary, rickettsia, VZV)
+Tumor metastases
+AFP: Guillain-­Barré
+Young adult
+ADEM
+NMDAR
+NMOSD
+SLE
+Paraneoplastic
+AFP: TM, NMOSD
+HSV
+Enteroviruses
+Influenza
+EBV
+Mycoplasma
+HIV-­1
+Lyme
+Rabies
+Intoxication
+Psychosis
+Wilson disease
+HLH
+Periarteritis nodosa, Takayasu, giant cell, ANCA+ arteritis
+Acute intermittent porphyria
+Multiple sclerosis
+Mitochondrial disorders (MELAS)
+Vasculitis (primary, rickettsia, VZV)
+Tumor metastases
+AFP: Guillain-­Barré
+Adult
+Limbic encephalitis
+SLE
+AFP: NMOSD
+NMDAR
+HSV
+Enteroviruses
+Influenza
+HIV-­1
+Lyme
+WNV
+Rabies
+Intoxication
+Glioma; CNS lymphoma
+TTP
+Neurodegeneration
+Tumor metastases
+HLH
+Periarteritis nodosa, Takayasu, giant cell, ANCA+ arteritis
+Multiple sclerosis
+Mitochondrial disorders (MELAS)
+Vasculitis (primary, rickettsia, VZV)
+Glioma; CNS lymphoma; tumor metastases
+AFP: Guillain-­Barre
+ADEM, acute disseminated encephalomyelitis; AFM, acute flaccid myelitis; AFP, acute flaccid paralysis; ANCA, antineutrophil cytoplasmic antibody; 
+CNS, central nervous system; CPT2, carnitine palmitoyltransferase-­2; EBV, Epstein-­Barr virus; HLH, hemophagocytic lymphohistiocytosis; HSV, her­
+pes simplex virus; HUS, hemolytic uremic syndrome; MCAD, medium-­chain acylcarnitine deficiency; MELAS, mitochondrial encephalopathy lactic 
+acidosis syndrome; NMDAR, N-­methyl-­d-­aspartate receptor; NMOSD, neuromyelitis optica spectrum disorders; SCNA1, sodium voltage-­gated chan­
+nel alpha subunit 1; SLE, systemic lupus erythematosus; SMA, spinal muscular atrophy; TM, transverse myelitis; TTP, thrombotic thrombocytopenia 
+purpura; VZV, varicella-­zoster virus; WNV, West Nile virus.
+proximity of the innervated dura to CSF explains the remarkably high 
+sensitivity of polymerase chain reaction (PCR) tests for HSV enceph­
+alitis (93%) relative to those for hematogenous neonatal HSV enceph­
+alitis (70%). The virus is highly cytolytic, causing tissue necrosis. Early 
+CSF findings do not distinguish HSV from other encephalitides; hem­
+orrhagic CSF with a high protein level signifies necrotic brain lesions. 
+Acyclovir requires a virally expressed thymidine kinase for activity, 
+which directly matches potential cellular toxicity with antiviral effect. 
+Acyclovir will crystalize in the kidneys unless hydration is aggressive.
+The most common cause of epidemic infectious encephalitis is 
+the enteroviruses. Enteroviruses cause summer outbreaks of aseptic 
+meningitis without measurable neurologic deficits. Why they should 
+on occasion mimic necrotizing HSV encephalitis in unclear; the rarity 
+of the event raises consideration for a second-­hit hypothesis. Entero­
+viruses include poliomyelitis viruses, the historical cause of epidemic 
+acute flaccid paralysis worldwide. Nonpolio enteroviruses have been 
+associated temporally with biannual outbreaks of AFM, with dif­
+ferent clinical, radiologic, and virologic patterns than polio. Acute 
+poliomyelitis is restricted to anterior motor neurons in the spine, caus­
+ing asymmetric flaccid paralysis with leg pain but without sensory or 
+autonomic disturbances. Detection of virus in the CSF is common. 
+Enteroviruses are naturally cleared by immunoglobulins, so patients 
+with hypogammaglobulinemia are at high risk of a slow, chronic 
+encephalitis due to enteroviruses.
+Influenza viruses cause yearly outbreaks of severe respiratory illness 
+and may be the most common precipitant of acute metabolic diseases 
+causing encephalopathy, including Reye syndrome (medium-­chain 
+acylcarnitine deficiency [MCAD] deficiency), acute hemorrhagic 
+shock and encephalopathy, acute necrotizing (thalamic, RANBP2) 
+encephalopathy, acute encephalopathy with biphasic seizures and 
+restricted diffusion, hemiconvulsion/hemiplegia syndrome, and mild 
+encephalopathy with reversible splenial lesions. These syndromes 
+are characterized by acute febrile illness, brain edema, hepatitis and 
+disseminated intravascular coagulation (DIC) in some, and seizures. 
+Syndromes vary by ethnicity and geography. All respiratory viruses 
+associated with these syndromes are common and several are restricted 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+770
+SECTION 7  Neurosensory Disorders
+TABLE 42.3  Exposures Associated with Agents Causing Encephalitis and Encephalitis-­Like 
+Syndrome
+Exposure and/or 
+Reservoir
+Agent
+Risk Factors and Epidemiology
+Arthropods
+Mosquitoes
+Alphaviruses
+Chikungunya virus
+Tropical Africa and Southeast Asia, Indian Ocean and parts of Europe, Caribbean 
+countries, South and Central America
+Western equine encephalitis (WEE) virus
+Summer and early fall onset; western USA and Canada, Central and South Amer­
+ica; rare cause of encephalitis, with 640 cases reported in the USA from 1964 to 
+1999. There have been only 4 cases of neuroinvasive disease due to WEE since 
+1989, with no cases reported in the last 10 yr (through 2009)
+Eastern equine encephalitis virus
+Eastern and southern coastal states; children and elderly disproportionately 
+affected; rare cause of encephalitis, with 260 cases reported in the USA from 
+1964 to 1999
+Venezuelan equine encephalitis virus
+Mexico, Central and South America; rarely in border states of USA (Texas, 
+Arizona)
+Semliki Forest virus
+Africa
+Flaviviruses
+West Nile virus
+Epidemic encephalitis throughout USA, Europe; endemic in Middle East; cases 
+also found in Africa, Caribbean, India, Australia, Russia, and Southeast Asia; 
+peak incidence adults >50 yr
+Japanese encephalitis virus
+Most common worldwide cause of encephalitis, endemic throughout Asia; vaccine 
+preventable
+St. Louis encephalitis virus
+Endemic to western USA; with periodic outbreaks in central/eastern USA, peak 
+incidence in adults >50 yr
+Murray Valley encephalitis virus
+Australia and New Guinea
+Bunyaviruses
+California/La Crosse virus
+USA with most cases in upper midwestern states (MN, WI, IA, IL, IN, OH) and 
+more recently in mid-­Atlantic and southeastern states (WV, VA, KY, NC, and 
+TN); peak incidence in school-­aged children
+Phleboviruses
+Rift Valley fever virus
+Africa and Arabia
+Ticks
+Powassan virus
+In the USA, endemic in the Upper Midwest, Great Lakes, New England, and New 
+York; endemic in eastern Canada
+Anaplasma phagocytophilum
+Endemic to New England and north central and western USA
+Ehrlichia ewingii
+Endemic to southeastern and central USA
+Ehrlichia chaffeensis
+Endemic to northeastern USA and Midwest
+Rickettsia rickettsii
+Rocky Mountain spotted fever has been reported throughout the USA with the 
+exceptions of Hawaii and Vermont; states with highest incidence are Oklahoma, 
+North Carolina, Arkansas, Tennessee, and Missouri
+Tickborne encephalitis virus
+Endemic to Eastern and Central Europe, East and Southeast Asia
+Borrelia burgdorferi
+Encephalitis in early disseminated Lyme disease; encephalopathy in late disease
+Kyasanur Forest disease virus
+India
+Sandflies
+Bartonella bacilliformis
+Colombia, Ecuador, and Peru
+Toscana virus
+Italy, Mediterranean
+Chandipura virus
+India
+Tsetse flies
+Trypanosoma brucei gambiense
+West Africa and India; central nervous system (CNS) illness can occur years after 
+infection
+Trypanosoma brucei rhodesiense
+East Africa; CNS illness can occur years after infection
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+771
+CHAPTER 42  Encephalitis
+TABLE 42.3  Exposures Associated with Agents Causing Encephalitis and Encephalitis-­Like 
+Syndrome—cont’d
+Exposure and/or 
+Reservoir
+Agent
+Risk Factors and Epidemiology
+Wild or Domestic Animals
+Bats
+Rabies virus
+Vaccine preventable. Between 1995 and 2009, 43 rabies cases were recognized 
+in the USA; 10 of these cases were imported (usually from a canine strain), and 
+the remaining cases were acquired in the USA mostly related to bat exposures 
+and often with an unknown bite exposure
+Nipah virus
+Epidemics in Southeast Asia; also found in Bangladesh and India. Reservoir host 
+is fruit bat, but humans generally acquire disease through direct contact with 
+infected swine
+Histoplasma capsulatum
+Eastern and central USA; occupational or recreational activities where there is 
+exposure to disturbed soil, such as gardening; playing in barns, hollow trees, 
+bird roosts, or caves; and examination, demolition, or renovation of contami­
+nated buildings
+Deer
+Borrelia burgdorferi
+Deer is reservoir host, but infection usually is transmitted to humans via tick 
+vector
+Elk
+Anaplasma phagocytophilum
+Brucella abortus
+Deer is reservoir host, but infection usually is transmitted to humans via tick 
+vector
+Almost total eradication in cattle in the USA, but the disease still occurs in some 
+elk herds and wild bison in the western USA
+Dogs
+Rabies virus
+Vaccine preventable; dogs important in developing countries; worldwide distribu­
+tion
+Toxocara canis
+Dogs, especially puppies, shed eggs in feces, and organism survives in soil for 
+prolonged period
+Cats
+Bartonella henselae
+Typically follows scratch or bite from cat or kitten; highest incidence in children
+Toxoplasma gondii
+Cats and other felines are reservoir hosts; they shed oocytes in feces, and the soil 
+becomes contaminated. Sheep, goats, swine, cattle serve as intermediate hosts
+Rabies virus
+Vaccine preventable; most common vector in the USA is bat, and bites often 
+unrecognized; cats are second to dogs in importance in developing countries; 
+worldwide distribution
+Toxocara cati
+Cats, especially kittens, shed eggs in feces, and organism survives in soil for 
+prolonged period
+Rodents
+Lymphocytic choriomeningitis virus
+Peak incidence in fall and winter; chronic infection in laboratory or house mice, 
+hamsters, and guinea pigs; humans infected by inhalation or ingestion of dust or 
+food contaminated by urine, feces, blood, nasopharyngeal secretions of infected 
+rodents
+Leptospira spp.
+Rodents (and other animals) excrete organism in urine, and the organism remains 
+viable in soil or water for weeks to months
+Raccoons
+Baylisascaris procyonis
+Pica, particularly near raccoon latrine
+Rabies virus
+“Raccoon strain” extends along eastern seaboard of the USA and has reached as 
+far north as Ontario and New Brunswick in Canada
+Sheep, goats
+Brucella melitensis
+Direct contact with infected animals or their secretions (note that B. melitensis 
+has been eradicated in the USA since early 1970s)
+Coxiella burnetii
+Inhalation; either direct exposure to animal or exposure to contaminated materials 
+(e.g., wool, straw)
+Birds
+Cryptococcus neoformans
+Inhalation of soil contaminated with bird feces
+Chlamydophila psittaci
+Healthy and sick birds can harbor and transmit organism to humans; usually 
+acquired via inhalation of fecal dust/sections of birds
+West Nile virus
+Birds are reservoir hosts, but infection usually is transmitted to humans via 
+mosquito vector
+Old World monkeys
+Herpes B virus
+Bite of Old World monkey (e.g., macaque)
+Horses
+Hendra virus
+Endemic in Australia; associated with excretions/tissues from horses
+Swine
+Nipah virus
+Brucella suis
+Epidemics in Southeast Asia; close contact with pigs
+No longer found in domestic swine but present in some wild hog populations
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+772
+SECTION 7  Neurosensory Disorders
+TABLE 42.3  Exposures Associated with Agents Causing Encephalitis and Encephalitis-­Like 
+Syndrome—cont’d
+Exposure and/or 
+Reservoir
+Agent
+Risk Factors and Epidemiology
+Skunks
+Squirrels
+Rabies virus
+Bornavirus
+Skunk populations are widely distributed in the USA; cases found in California, 
+Arizona, north central USA, eastern coast of the USA
+Only three human cases described to date, exposure to squirrels in Germany
+Parturient animals (especially 
+farm animals)
+Coxiella burnetii
+Humans generally acquire via inhalation; either direct exposure to animal or 
+exposure to contaminated materials (e.g., wool, straw)
+Ingestion or Inhalation
+Fresh water
+Naegleria fowleri
+Swimming or diving in warm, natural bodies of water (rarely poorly chlorinated 
+pools reported)
+Leptospira spp.
+Organisms excreted in animal urine or placental tissue and can remain viable for 
+weeks to months in soil or water; recreational exposure associated with wading 
+or swimming in contaminated water (particularly after floods)
+Soil
+Balamuthia mandrillaris
+Contact with soil seems to be important risk factor, presumably through inhalation 
+or inoculation
+Acanthamoeba spp.
+Contact with soil seems to be important risk factor, presumably through inhalation 
+or inoculation
+Baylisascaris procyonis
+Pica, particularly near raccoon latrine; raccoons infected with B. procyonis appear 
+to be common in many parts of the USA; human cases reported in California, 
+Oregon, New York, Pennsylvania, Illinois, Michigan, Georgia, Minnesota, and 
+Missouri
+Coccidioides spp.
+Also known as valley fever. Infection is seasonal and is acquired by inhalation 
+of soil or dust or laboratory acquired; endemic in certain areas of Arizona, 
+California, Nevada, New Mexico, Texas, Utah, and northwestern Mexico. Also 
+found in northern Argentina, northwest Brazil, Colombia, Paraguay, Venezuela, 
+and Central America
+Histoplasma capsulatum
+Inhalation of airborne spores from soil. Outbreaks have occurred in endemic areas 
+with exposure to bird, chicken, or bat droppings or recently contaminated soil. 
+Globally distributed, with the Ohio and Mississippi River basin, Mexico, and 
+Central and South America being endemic areas in which as many as 80% of 
+children have been infected. Also found in Africa, East Asia, Australia, and 
+rarely Europe
+Blastomyces dermatitidis
+Endemic areas include the midwestern, southwestern, and south central USA and 
+the Canadian provinces near the Great Lakes and the St. Lawrence Seaway
+Toxocara canis/Toxocara cati
+Eggs in sandboxes and playgrounds; organisms survive long periods in soil
+Undercooked pork or beef 
+(rarely chicken)
+Toxoplasma gondii
+Consuming raw or undercooked infected meat; worldwide
+Undercooked freshwater fish, 
+chicken, or pork
+Gnathostoma spp.
+Southeast Asia and Mexico
+Freshwater crayfish or crabs
+Paragonimus westermani
+Mostly in Asia but some reports from Africa and South America
+Raw or undercooked meat
+Trichinella spp.
+Mostly associated with pigs but has been found in other mammals (e.g., horses, 
+bears, foxes)
+Frogs, snakes
+Gnathostoma spinigerum
+Southeast Asia and some areas in South and Central America
+Raw or undercooked freshwa­
+ter prawns, crabs, or frogs, 
+or unwashed produce (with 
+snails or slugs)
+Angiostrongylus cantonensis
+Reported in Louisiana, Hawaii, the South Pacific, Pacific Islands, Southeast Asia, 
+Asia, Australia, and the Caribbean
+Raw vegetables
+Toxoplasma gondii
+Consumption of raw, unwashed vegetables
+Unpasteurized milk
+Coxiella burnetii
+Animal exposures (particularly placenta and amniotic fluid)
+Tickborne encephalitis virus
+Tick bite or ingestion of unpasteurized milk; endemic to Eastern and Central 
+Europe, East and Southeast Asia
+Listeria monocytogenes
+Can be found in about 5% of unpasteurized milk samples and products
+Toxoplasma gondii
+Consumption of raw goat milk
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+773
+CHAPTER 42  Encephalitis
+TABLE 42.3  Exposures Associated with Agents Causing Encephalitis and Encephalitis-­Like 
+Syndrome—cont’d
+Exposure and/or 
+Reservoir
+Agent
+Risk Factors and Epidemiology
+Season
+Fall
+Enteroviruses
+Peak incidence in late summer and early fall; enterovirus 71 a cause of large 
+outbreaks in Asia, with children primarily affected
+Arthropod-­borne pathogens
+Geographically specific agents/risks
+Winter
+Influenza virus, other respiratory viruses
+Sporadic cases in children, with most reports from Japan and Southeast Asia
+Spring
+Enteroviruses
+Peak incidence in late summer and early fall; enterovirus 71 a cause of large 
+outbreaks in Asia, with children primarily affected
+Arthropod-­borne pathogens
+Summer
+Enteroviruses
+Peak incidence in late summer and early fall; enterovirus 71 a cause of large 
+outbreaks in Asia, with children primarily affected
+Naegleria fowleri
+Swimming or diving in brackish freshwater lakes or ponds
+Arthropod-­borne pathogens
+Geographically specific agents/risks
+Recreation
+Camping or hunting
+Arthropod-­borne pathogens
+Geographically specific agents/risks
+Spelunking
+Rabies virus
+Airborne transmission has been reported rarely in caves inhabited by millions of 
+bats
+Histoplasma capsulatum
+Inhalation of spores from soil contaminated with bat guano
+Sexual activity
+HIV
+Global risk
+Treponema pallidum
+Global risk
+Herpes simplex virus 2 (HSV-­2)
+HSV-­1 also can be transmitted by sexual activity
+Water sports
+Naegleria fowleri
+Swimming or diving in brackish freshwater lakes or ponds
+Leptospira spp.
+Exposure to water contaminated with urine of infected animals via swallowing 
+water or skin contact
+Blood Transfusion or Organ Transplantation
+Toxoplasma gondii
+Infection can occur through blood transfusion or organ transplantation
+Rabies virus
+Rare case reports of transmission via organ transplantation
+Balamuthia mandrillaris
+Rare case reports of transmission via organ transplantation
+Lymphocytic choriomeningitis virus
+Rare case reports of transmission via organ transplantation
+Foreign Travel
+Global
+West Nile virus
+Geographically specific risks
+Rabies virus
+Dog bites are the most common mode of acquisition in developing countries
+HSV-­1 and HSV-­2
+Sporadic
+Influenza
+Seasonal by region
+Measles
+Measles subacute sclerosing panencephalitis can occur despite history of immuni­
+zation (child generally had unrecognized infection before measles vaccine)
+Enteroviruses
+Seasonal by region
+HIV
+Sexual activity and bloodborne
+Plasmodium spp.
+Tropical and subtropical areas
+Africa
+Chikungunya virus
+Particularly Tanzania
+Poliovirus
+Wild poliovirus transmission occurs in Nigeria
+Histoplasma capsulatum
+Microfoci throughout Africa
+Taenia spp.
+East Africa, particularly in underdeveloped communities with poor sanitation and 
+where people eat raw or undercooked pork
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+774
+SECTION 7  Neurosensory Disorders
+TABLE 42.3  Exposures Associated with Agents Causing Encephalitis and Encephalitis-­Like 
+Syndrome—cont’d
+Exposure and/or 
+Reservoir
+Agent
+Risk Factors and Epidemiology
+Asia
+Chikungunya virus
+Particularly India, Indonesia, Thailand, and Indian Ocean islands
+Japanese encephalitis virus
+Including Southeast Asia
+Tickborne encephalitis virus
+Central Europe to Japan
+Borrelia burgdorferi
+Temperate forested regions throughout northern Asia
+Histoplasma capsulatum
+Microfoci throughout eastern Asia
+Gnathostoma spinigerum
+Southeast Asia, particularly Thailand, and Japan
+Nipah virus
+Southeast Asia, particularly Malaysia
+Taenia spp.
+Poliovirus
+Southeast Asia, particularly in underdeveloped communities with poor sanitation 
+and where people eat raw or undercooked pork
+Wild type present in India, Pakistan, Afghanistan
+Australia
+Murray Valley encephalitis virus
+Also in New Guinea
+Japanese encephalitis virus
+Northern Australia
+Histoplasma capsulatum
+Microfoci throughout Australia
+Hendra virus
+Exposure to body fluids and excretions of infected horses is important
+Caribbean
+Venezuelan equine encephalitis virus
+Trinidad
+Europe
+Tickborne encephalitis virus
+Central Europe to Japan
+Chikungunya virus
+Italy (northeastern), France (southern)
+Anaplasma phagocytophila
+Temperate zones, particularly Germany, Portugal, and Denmark
+Toscana virus
+Italy, Mediterranean
+Borrelia burgdorferi
+Temperate forested regions throughout Europe, particularly eastern and central Europe
+Taenia spp.
+Eastern Europe, particularly in underdeveloped communities with poor sanitation 
+and where people eat raw or undercooked pork
+Mediterranean
+Toscana virus
+Central Italy, France, Spain, Portugal, Greece, Cyprus
+North America
+Powassan virus
+Northeastern and central USA, Canada
+California/La Crosse virus
+Midwestern and eastern USA
+St. Louis encephalitis virus
+Geographic range extends from Canada to Argentina, but most human cases in 
+the western USA, with periodic outbreaks in central and eastern USA
+Ehrlichia chaffeensis
+Southern and central USA, and mid-­Atlantic and coastal states
+Anaplasma phagocytophila
+Wooded areas of the north and northeastern USA, mid-­Atlantic, Midwest, West Coast
+Rickettsia rickettsii
+Throughout southern Canada and North America, with peak incidence in southeast and 
+south central USA, northern and southwestern Mexico, Costa Rica, and Panama
+Eastern equine encephalitis
+Highest incidence in Atlantic and Gulf states
+Venezuelan equine encephalitis virus
+Florida and southwestern USA, rarely in border states (Texas, Arizona); tropical 
+latitudes of Mexico and Central America
+Western equine encephalitis virus
+Most cases occur in western USA and prairie provinces in Canada, but WEE also 
+occurs in Mexico and Central America; infection associated with residence in 
+rural areas and with agricultural occupations and other outdoor activities that 
+lead to contact with the vector mosquito
+Borrelia burgdorferi
+Eastern USA, Upper Midwest, and Pacific Northwest; epidemics in summer 
+months when ticks actively seek hosts and human outdoor activity is greatest
+Coccidioides spp.
+Semiarid regions of southwestern USA and Mexico
+Blastomyces dermatitidis
+Southeastern and central states, midwestern states bordering the Great Lakes; 
+thrives in decaying vegetation or wet soil
+Histoplasma capsulatum
+Endemic in Mississippi, Ohio, and Missouri River valleys in the USA and other 
+microfoci throughout the USA, Mexico, and Central America
+Balamuthia mandrillaris
+Highest number of cases reported from Arizona, California, and Texas in the USA; 
+also occurs in Mexico and Central America
+Taenia spp.
+Mexico and Central America, especially in underdeveloped communities with poor 
+sanitation and where people eat raw or undercooked pork
+Gnathostoma spinigerum
+Mexico and Central America; humans become infected by eating undercooked 
+fish or poultry containing third-­stage larvae, or reportedly by drinking water 
+containing infective second-­stage larvae
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+775
+CHAPTER 42  Encephalitis
+TABLE 42.3  Exposures Associated with Agents Causing Encephalitis and Encephalitis-­Like 
+Syndrome—cont’d
+Exposure and/or 
+Reservoir
+Agent
+Risk Factors and Epidemiology
+Russia
+Taenia spp.
+More prevalent in underdeveloped communities with poor sanitation and where 
+people eat raw or undercooked pork
+Tickborne encephalitis virus
+Eastern Russia
+South America
+Venezuelan equine encephalitis virus
+Tropical latitudes, particularly Colombia, Venezuela, Peru, and Ecuador
+St. Louis encephalitis virus
+From Canada to Argentina, but most human cases occur in the USA
+Western equine encephalitis virus
+Associated with residence in rural areas and with agricultural occupations and 
+other outdoor activities that lead to contact with the vector mosquito
+Rickettsia rickettsii
+Brazil and Argentina
+Coccidioides spp.
+Semiarid regions
+Histoplasma capsulatum
+Microfoci throughout South America
+Gnathostoma spinigerum
+Consuming undercooked fish or poultry containing third-­stage larvae, or reportedly 
+by drinking water containing infective second-­stage larvae
+Bartonella bacilliformis
+Middle altitudes of Andes Mountains
+Taenia spp.
+More prevalent in underdeveloped communities with poor sanitation and where 
+people eat raw or undercooked pork
+From Long SS, Prober CG, Fischer M. Principles and Practice of Pediatric Infectious Diseases. 5th ed. Philadelphia: Elsevier; 2018:306–310, 
+Table 44-­1.
+TABLE 42.4  Diagnostic Criteria for Definite Autoimmune Limbic Encephalitis
+Diagnosis can be made when all four* of the following criteria have been met:
+	1.	Subacute onset (rapid progression of <3 mo) of working memory deficits, seizures, or psychiatric symptoms suggesting involvement of the limbic system
+	2.	Bilateral brain abnormalities on T2-­weighted fluid-­attenuated inversion recovery MRI highly restricted to the medial temporal lobes†
+	3.	At least one of the following:
+ • CSF pleocytosis (white blood cell count of >5 cells/mm3)
+ • EEG with epileptic or slow-­wave activity involving the temporal lobes
+	4.	Reasonable exclusion of alternative causes
+CSF, cerebrospinal fluid.
+*If one of the first three criteria is not met, a diagnosis of definite limbic encephalitis can be made only with the detection of antibodies against cell-­
+surface, synaptic, or onconeural proteins.
+†18-­Fluorodeoxyglucose (18F-­FDG) PET can be used to fulfill this criterion. Results from studies from the past 5 yr suggest that 18F-­FDG-­PET imaging 
+might be more sensitive than MRI to show an increase in FDG uptake in normal-­appearing medial temporal lobes.
+From Graus F, Titulaer MJ, Balu R, et al. A clinical approach to diagnosis of autoimmune encephalitis. Lancet Neurol. 2016;15:391–404 
+(Panel 2, p. 395).
+TABLE 42.5  Diagnostic Criteria for Definite Acute Disseminated Encephalomyelitis
+Diagnosis can be made when all five of the following criteria have been met:
+	1.	A first multifocal, clinical CNS event of presumed inflammatory demyelinating cause
+	2.	Encephalopathy that cannot be explained by fever
+	3.	Abnormal brain MRI:
+ • Diffuse, poorly demarcated, large (>1–2 cm) lesions predominantly involving the cerebral white matter
+ • T1-­hypointense lesions in the white matter in rare cases
+ • Deep gray matter abnormalities (e.g., thalamus or basal ganglia) can be present
+	4.	No new clinical or MRI findings after 3 mo of symptom onset
+	5.	Reasonable exclusion of alternative causes
+CNS, central nervous system.
+From Graus F, Titulaer MJ, Balu R, et al. A clinical approach to diagnosis of autoimmune encephalitis. Lancet Neurol. 2016;15:391–404 
+(Panel 3, p. 396).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+776
+SECTION 7  Neurosensory Disorders
+TABLE 42.6  Diagnostic Criteria for Anti-­NMDA Receptor Encephalitis
+Probable Anti-­NMDA Receptor Encephalitis*
+Diagnosis can be made when all three of the following criteria have been met:
+	1.	Rapid onset (<3 mo) of at least four of the six following major groups of symptoms:
+ • Abnormal (psychiatric) behavior or cognitive dysfunction
+ • Speech dysfunction (pressured speech, verbal reduction, mutism)
+ • Seizures
+ • Movement disorder, dyskinesias, or rigidity/abnormal postures
+ • Decreased level of consciousness
+ • Autonomic dysfunction or central hypoventilation
+	2.	At least one of the following laboratory study results:
+ • Abnormal EEG (focal or diffuse slow or disorganized activity, epileptic activity, or extreme delta brush)
+ • CSF with pleocytosis or oligoclonal bands
+	3.	Reasonable exclusion of other disorders 
+Diagnosis can also be made in the presence of three of the above groups of symptoms accompanied by a systemic teratoma
+Definite Anti-­NMDA Receptor Encephalitis*
+Diagnosis can be made in the presence of one or more of the six major groups of symptoms and IgG anti-­GluN1 antibodies,† after reasonable exclusion of other 
+disorders (appendix)
+CSF, cerebrospinal fluid; IgG, immunoglobulin G; NMDA, N-­methyl-­d-­aspartate.
+*Patients with a history of herpes simplex virus encephalitis in the previous weeks might have relapsing immune-­mediated neurologic symptoms 
+(post–herpes simplex virus encephalitis).
+†Antibody testing should include testing of CSF. If only serum is available, confirmatory tests should be included (e.g., live neurons or tissue immu­
+nohistochemistry, in addition to cell-­based assay).
+From Graus F, Titulaer MJ, Balu R, et al. A clinical approach to diagnosis of autoimmune encephalitis. Lancet Neurol. 2016;15:391–404 (Panel 4, p. 397).
+TABLE 42.7  Diagnostic Criteria for 
+Bickerstaff Brainstem Encephalitis
+Probable Bickerstaff Brainstem Encephalitis
+Diagnosis can be made when both of the following criteria have been met:
+	1.	Subacute onset (rapid progression of <4 wk) of all the following symptoms:
+ • Decreased level of consciousness
+ • Bilateral external ophthalmoplegia
+ • Ataxia
+	2.	Reasonable exclusion of alternative causes
+Definite Bickerstaff Brainstem Encephalitis
+Diagnosis can be made in the presence of positive IgG anti-­GQ1b antibodies 
+even if bilateral external ophthalmoplegia is not complete or ataxia cannot 
+be assessed, or if recovery has occurred within 12 wk after onset
+IgG, immunoglobulin G.
+From Graus F, Titulaer MJ, Balu R, et al. A clinical approach to diag­
+nosis of autoimmune encephalitis. Lancet Neurol. 2016;15:391–404 
+(Panel 5, p. 398).
+to mucosal surfaces (e.g., influenza, respiratory syncytial virus [RSV], 
+rotavirus). Half of patients (other than those with splenial lesions) have 
+neurologic sequelae. MRI findings confirm the anatomic diagnosis. 
+The presence of cardiomyopathy or liver failure with encephalopa­
+thy may also suggest a mitochondrial disorder. The empirical use of 
+nucleoside analogs as antivirals in patients with possible mitochondrial 
+disorders risks unbalancing nucleoside pools to cause further mito­
+chondrial DNA loss.
+CNS vasculitis and vasculopathies are mostly secondary to 
+other inflammatory processes (see Chapter 37). The distinction of 
+encephalitis and CNS vasculitis is partly semantic because enceph­
+alitis involves the neurovascular unit and perivenular inflammation 
+is a regular pathologic finding in encephalitis. Systemic infections 
+(rickettsia), virus reactivations (varicella-­zoster virus [VSV]), and 
+toxins (Shiga toxin, hemolytic uremia syndrome [HUS]/thrombotic 
+TABLE 42.8  Subacute and Chronic Central 
+Nervous System Presentations: Microbiologic 
+Causes
+Viruses
+Measles virus (inclusion body encephalitis)
+Varicella-­zoster virus (causes a multifocal leukoencephalopathy)
+Cytomegalovirus
+Herpes simplex virus (especially HSV-­2)
+Human herpes virus 6
+Enteroviruses
+HIV (dementia)
+Measles virus (subacute sclerosing panencephalitis)
+JC/BK* virus (progressive multifocal leukoencephalopathy)
+Bacteria
+Mycobacterium tuberculosis
+Treponema pallidum (syphilis)
+Borrelia burgdorferi (Lyme neuroborreliosis)
+Tropheryma whipplei (Whipple disease)
+Fungi
+Cryptococcus neoformans
+Parasites
+Trypanosoma brucei spp. (African trypanosomiasis)
+Toxoplasma gondii (toxoplasmosis)
+Prions
+Creutzfeldt-­Jakob disease
+*JC and BK viruses are named after the initials of the patients from 
+whom they were first isolated.
+Viral agents often seen in immunocompromised or immunocompetent 
+patients; other pathogens in all patients.
+Modified from Solomon T, Hart I, Beeching NJ. Viral encephalitis: 
+a clinician’s guide. Pract Neurol. 2007;7:288–305; and Solomon T. 
+Arboviruses. In: Gill GV, Beeching NJ, eds. Lecture Notes: Tropical 
+Medicine. 6th ed. Oxford: Wiley-Blackwell; 2009:287–288.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+777
+CHAPTER 42  Encephalitis
+TABLE 42.9  Conditions Mimicking Infectious Encephalitis
+Immune Mediated
+ • Anti-­N-­methyl-­d-­aspartate receptor-­associated (NMDAR) and other autoimmune encephalitides*
+ • Rheumatologic causes (systemic lupus erythematosus, Sjögren syndrome, Behçet disease, sarcoidosis)
+ • Small-­vessel vasculitis
+ • Corticosteroid-­responsive encephalopathy associated with Hashimoto thyroiditis
+ • Acute disseminated encephalomyelitis (ADEM)
+Toxic Encephalopathy
+ • Bacterial toxins (Shigella spp., Campylobacter jejuni, Salmonella spp.)
+ • Reye syndrome
+ • Acute toxic ingestion
+ • Lead intoxication
+ • Hyperpyrexic encephalopathy and shock syndrome
+Inborn Error of Metabolism
+ • Ornithine transcarbamylase deficiency, heterozygote
+ • Glutaric acidemia type 1
+ • Medium-­chain acyl coenzyme A dehydrogenase deficiency
+ • Mitochondrial encephalopathy with lactic acidosis and stroke syndrome
+ • Acute intermittent porphyria
+Acquired Metabolic
+ • Hypoglycemia
+ • Electrolyte disturbances
+ • Uremia
+ • Hepatic encephalopathy
+ • Endocrine disorder
+ • Vitamin deficiency (thiamine, B12)
+Tumor
+Brainstem glioma
+Other neoplasms (primary or metastatic; paraneoplastic disease)
+Other Central Nervous System Conditions
+ • Stroke
+ • Pseudotumor cerebri
+ • Acute confusional migraine
+ • Brain malformations
+ • Psychosis
+ • Epilepsy encephalopathy syndromes (genetic)
+ • Bacterial meningitis
+ • Brain or parameningeal abscess
+ • Endocarditis complicated by brain embolism
+ • Venous sinus thrombosis
+ • Subdural or epidural hematoma
+ • Head injury
+ • Connective tissue disorder
+ • FIRES
+ • Hypertensive encephalopathy (PRES)
+*Two broad categories of antigens: (1) intracellular paraneoplastic antigens, including Hu, Ma2, CV2, and CRMP5, and (2) cell surface antigens, such 
+as voltage-­gated potassium channels and others.
+FIRES, febrile infection related epilepsy syndrome; PRES, posterior reversible encephalopathy syndrome.
+From Long SS, Prober CG, Fischer M. Principles and Practice of Pediatric Infectious Diseases. 5th ed. Philadelphia: Elsevier; 2018:310, Box 44-­1.
+thrombocytopenic purpura [TTP]) cause secondary vasculitis and 
+encephalopathy. Autoimmune forms of vasculitis include innate 
+inflammopathies (pyrin, interferon, and complement disorders) as 
+well as antibody-­mediated (system lupus erythematosus [SLE]) and 
+cell-­mediated (Rasmussen) processes. Primary small-­vessel vasculitis 
+has a long prodrome and often presents subtly, including encepha­
+lopathies, developmental regression, and behavioral and psychiatric 
+symptoms. Inflammatory markers are elevated and oligoclonal bands 
+are present in one third of cases. MRI may be normal or demonstrate 
+demyelination (but with meningeal enhancement) or cord lesions. 
+Contrast enhancement is variable; there is no restricted diffusion. 
+Diagnosis may require brain biopsy but does not require targeting of 
+a radiologic lesion. Granulomatous inflammation is more common in 
+adults than children.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+A
+B
+C
+D
+E
+Fig. 42.1  Acute disseminated encephalomyelopathy (ADEM). Twenty-­two-­month-­old male with lethargy, 
+hypotonia, ataxia, and decreased righting reflexes preceded by an antecedent upper respiratory illness. 
+Sequential coronal fluid-­attenuated inversion recovery images from anterior to posterior (A–C), axial T2-­
+weighted (D), and axial postcontrast T1-­weighted (E) MRI. There are patchy areas of bilateral subcortical white 
+matter T2 prolongation (arrows in A–D), as well as abnormal T2 prolongation within the central gray structures 
+(arrowheads in B and D). There is no significant contrast enhancement noted; however, the central gray 
+structures appear to stand out in relief on the postcontrast images (arrows in E) likely secondary to abnormal 
+T1 prolongation. (From Rothenberg Maddocks AB, Pollock AN. Infection and inflammation. In: Coley BD, ed. 
+Caffey’s Pediatric Diagnostic Imaging. 13th ed. Philadelphia: Elsevier; 2019:339–340, Fig. 34.26.)
+Polysymptomatic
+Bilateral
+Lymphocytosis
+No new lesions
+Cortical and deep
+gray matter lesions
+< 10 years
+Present
+Monosymptomatic
+Unilateral
+Intrathecal lgG
+New lesions
+Periventricular/
+callosal lesions
+> 10 years
+Age
+Encephalopathy
+Optic neuritis
+MR lesions*
+CSF
+Follow-up MRI
+Symptoms and
+signs
+ADEM
+MS
+Absent
+Fig. 42.2  Clinical and investigation differences between ADEM and MS (trends only). *MR lesions other than white matter. ADEM, acute disseminated 
+encephalomyelitis; CSF, cerebrospinal fluid; IgG, immunoglobulin G; MS, multiple sclerosis. (From Dale RC, Branson JA. Acute disseminated enceph­
+alomyelitis or multiple sclerosis: can the initial presentation help in establishing a correct diagnosis? Arch Dis Child. 2005;90:636–639 [Fig. 3, p. 638].)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+779
+CHAPTER 42  Encephalitis
+TABLE 42.10  MRI Characteristics in ADEM vs MS
+MRI Characteristics
+ADEM: Typical
+MS: Typical
+Deep gray matter and cortical involvement
+Yes
+No
+Bilateral diffuse lesions
+Yes
+No
+Poorly marginated lesions
+Yes
+No
+Large globular lesions
+Yes
+No
+Periventricular pattern of lesions
+No
+Yes
+Lesions perpendicular to long axis of corpus callosum
+No
+Yes
+Ovoid lesions
+No
+Yes
+Lesions confined to corpus callosum
+No
+Yes
+Sole presence of well-­defined lesions
+No
+Yes
+Black holes (on T1 sequence)
+No
+Yes
+ADEM, acute disseminated encephalomyelitis; MS, multiple sclerosis.
+From Pohl D, Alper G, Van Haren K, et al. Acute disseminated encephalomyelitis. Neurology. 2016;87(Suppl 2):S38–S45 (Table 2, p. S40).
+Evaluation
+Evaluation is considered in cases of encephalitis or encephalopa­
+thy in association with fevers or focal neurologic signs. Symptoms 
+are difficult to elicit in preverbal children, but speech, behavior, 
+and sleep are often affected. Important findings on physical exam 
+are noted in Table 42.11. Objective motor signs include myoclonus, 
+myoclonic seizures, tremors, dyskinesias, abnormalities of tone, 
+and ataxia. Dysautonomia is often present. CT of the head is rarely 
+useful other than to detect gross edema, midline shifts, obstructive 
+hydrocephalus, intracranial hemorrhage, or calcifications. MRI 
+provides exquisite detail and can differentiate strokes, gray matter 
+involvement, demyelination, and large-­vessel vasculitis (see Chapter 
+37) (Fig. 42.3). MRI should include T2, fluid-­attenuated inversion 
+recovery (FLAIR), diffusion-­weighted imaging (DWI), and intrave­
+nous contrast to differentiate disorders. Magnetic resonance angiog­
+raphy or magnetic resonance spectroscopy may be indicated. EEG is 
+generally not specific but universally has an abnormal background 
+with or without seizures; EEG is normal in pediatric autoimmune 
+neuropsychiatric disorders associated with streptococcal infec­
+tions (PANDAS)/pediatric acute-­onset neuropsychiatric syndrome 
+(PANS) and psychiatric disorders.
+There are myriad causes of autoimmune and infectious encephalitis 
+(Tables 42.12, 4.13, and 4.14).
+TABLE 42.11  Examination Findings of 
+Importance in Assessing a Patient with 
+Suspected Encephalitis
+ • Airway, breathing, circulation
+ • Mini-­mental state, cognitive function, behavior (when possible)
+ • Evidence of prior seizures (tongue biting, injury)
+ • Subtle motor seizures (mouth, digit, eyelid twitching)
+ • Meningism
+ • Focal neurologic signs
+ • Papilledema
+ • Flaccid paralysis (anterior horn cell involvement)
+ • Rash (purpuric—meningococcus; vesicular—hand, foot, and mouth 
+disease; varicella-­zoster; rickettsial disease)
+ • Injection sites of drug abuse
+ • Bites from animals (rabies) or insects (arboviruses)
+ • Movement disorders, including parkinsonism
+From Kneen R, Michael BD, Menson E, et al. Management of 
+suspected viral encephalitis in children—Association of British 
+Neurologists and British Paediatric Allergy, Immunology, and Infec­
+tion Group National Guidelines. J Infect. 2010;64:499–477 (Table 
+7, p. 456).
+A
+B
+C
+D
+Fig. 42.3  Herpes simplex virus (HSV). Patient with seizures and 
+decreased level of consciousness. Axial fluid-­attenuated inversion recov­
+ery (FLAIR) (A and B) and coronal FLAIR (C and D) MRIs were obtained. 
+There is abnormal signal intensity within both frontal lobes (arrows) and 
+temporal lobes (arrowheads) indicative of HSV encephalitis. The bilateral 
+temporal lobe involvement is a clue to the underlying causative agent of 
+HSV. (From Rothenberg Maddocks AB, Pollock AN. Infection and inflam­
+mation. In: Coley BD, ed. Caffey’s Pediatric Diagnostic Imaging. 13th ed. 
+Philadelphia: Elsevier; 2019:344, Fig. 34.34.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+780
+SECTION 7  Neurosensory Disorders
+TABLE 42.12  Diagnostic Algorithm for Initial Evaluation of Encephalitis in Children*
+Routine Studies
+CSF†
+Collect at least 5 mL fluid, if possible; freeze unused fluid for additional testing
+Opening pressure, WBC count with differential, RBC count, protein, glucose
+Gram stain and bacterial culture
+HSV-­1/2 PCR
+Enterovirus PCR
+Serum
+Routine blood cultures
+EBV serology (VCA IgG and IgM and EBNA IgG)
+Mycoplasma pneumoniae IgM and IgG
+Hold acute serum and collect convalescent serum 10–14 days later for paired antibody testing
+Imaging
+Neuroimaging (MRI preferred to CT, if available)
+Neurophysiology
+EEG
+Other Tissues/Fluids
+Mycoplasma pneumoniae PCR from throat sample
+Enterovirus PCR and/or culture of throat and stool
+When clinical features of extra-­CNS involvement are present, we recommend additional testing (e.g., biopsy of skin lesions; bronchoalveolar lavage and/or endobron­
+chial biopsy in those with pneumonia/pulmonary lesions; throat swab PCR/culture in those with upper respiratory illness; stool culture in those with diarrhea); also 
+see below
+Conditional Studies
+Host Factors
+Age <3 yr—parechovirus PCR (CSF)
+Immunocompromised—CMV PCR, HHV 6/7 PCR, HIV PCR (CSF); cryptococcal antigen; Toxoplasma gondii serology and/or PCR; MTB testing‡; fungal testing§; WNV 
+testing||
+Geographic Factors
+Africa—malaria (blood smear); trypanosomiasis (blood/CSF smear, serology from serum and CSF); dengue testing||
+Asia—Japanese encephalitis virus testing||; dengue testing||; malaria (blood smear); Nipah virus testing (serology from serum and CSF; PCR, immunohistochemistry, 
+and virus isolation in a BSL4 lab can also be used to substantiate diagnosis)
+Australia—Murray Valley encephalitis virus testing||; Kunjin virus testing||; ABLV testing¶
+Europe—tickborne encephalitis virus (serology); if Southern Europe, consider WNV testing,|| Toscana virus testing||
+Central and South America—dengue testing||; malaria (blood smear)
+North America—geographically—appropriate arboviral testing (e.g., WNV, Powassan, La Crosse, Eastern equine encephalitis viruses,|| Lyme [serum ELISA and 
+Western blot])
+Season and Exposure
+Summer/fall—arbovirus|| and tickborne disease** testing
+Cat (particularly if with seizures, paucicellular CSF)—Bartonella antibody (serum), ophthalmologic evaluation
+Tick exposure—tickborne disease testing**
+Animal bite/bat exposure—rabies testing¶
+Swimming or diving in warm fresh water or nasal/sinus irrigation—Naegleria fowleri (CSF wet mount and PCR††)
+Specific Signs and Symptoms
+Abnormal behavior (e.g., new-­onset temper tantrums, agitation, aggression), psychotic features, seizures or movement disorder—NMDAR antibody (serum, CSF), 
+oligoclonal bands, IgG index, rabies testing¶
+Behavior changes followed by myoclonic spasms/jerks: measles IgG (CSF and serum)
+Vesicular rash—VZV PCR from CSF (sensitivity may be low; if test available, consider CSF IgG and IgM); VZV IgG and IgM from serum
+Rapid decompensation (particularly with animal bite history or prior travel to rabies-­endemic areas)—rabies testing¶
+Respiratory symptoms—chest imaging (chest x-­ray and/or CT scan); respiratory virus testing‡‡; Mycoplasma pneumoniae PCR (CSF)
+Acute flaccid paralysis—arbovirus testing||; rabies testing¶
+Parkinsonism—arbovirus testing||; toxoplasma serology
+Nonhealing skin lesions—Balamuthia, Acanthamoeba testing††
+Prominent limbic symptoms—autoimmune limbic encephalitis testing,§§ HHV-6/7 PCR (CSF)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+781
+CHAPTER 42  Encephalitis
+Laboratory Features
+If EBV serology is suggestive of acute infection, perform EBV PCR (CSF)
+Elevated transaminases—rickettsia serology, tickborne disease testing**
+CSF protein >100 mg/dL, or CSF glucose <2/3 peripheral glucose, or lymphocytic pleocytosis with subacute symptom onset—MTB testing‡; fungal testing§; 
+­Balamuthia mandrillaris testing††
+CSF protein >100 mg/dL or CSF glucose <2/3 peripheral glucose and neutrophilic predominance with acute symptom onset and recent antibiotic use—CSF PCR for 
+Streptococcus pneumoniae and Neisseria meningitidis
+CSF eosinophilia—MTB testing‡; fungal testing§; Baylisascaris procyonis antibody (serum and CSF); Angiostrongylus cantonensis, Gnathostoma sp. testing||||
+Hyponatremia—MTB testing‡
+M. pneumoniae serology or throat PCR positive—M. pneumoniae PCR (CSF)
+Neuroimaging Features
+Frontal lobe—N. fowleri (CSF wet mount and PCR††)
+Temporal lobe—HSV, HHV-6/7 PCR (CSF)
+Basal ganglia and/or thalamus—respiratory virus testing‡‡; arbovirus testing||; MTB testing‡
+Brainstem—respiratory virus testing‡‡; arbovirus testing||; Listeria PCR (if available); Brucella antibody (serum); MTB testing‡
+Cerebellum—VZV PCR from CSF (sensitivity may be low; if test available, consider CSF IgG and IgM); VZV IgG and IgM from serum; EBV PCR (CSF)
+Diffuse cerebral edema—respiratory virus testing‡‡
+Space-­occupying and/or ring-­enhancing lesions—MTB testing‡; fungal testing§; B. mandrillaris and Acanthamoeba testing††; Toxoplasma gondii serology
+Hydrocephalus and/or basilar meningeal enhancement—MTB testing‡; fungal testing§; B. mandrillaris testing††
+Infarction or hemorrhage—MTB testing‡; fungal testing§; respiratory virus testing‡‡
+White matter lesions—oligoclonal bands, IgG index, Lyme (serum ELISA and Western blot); Brucella (serology or CSF culture)
+Measles virus testing for SSPE; Baylisascaris procyonis antibody (serum and CSF); B. mandrillaris testing††
+ABLV, Australian bat lyssavirus; BSL4, biosafety level 4; CMV, cytomegalovirus; CNS, central nervous system; CSF, cerebral spinal fluid; EBNA, 
+Epstein-­Barr virus nuclear antigen; EBV, Epstein-­Barr virus; ELISA, enzyme-­linked immunosorbent assay; HHV, human herpesvirus; HSV, herpes 
+simplex virus; IgG, immunoglobulin G; IgM, immunoglobulin M; MTB, Mycobacterium tuberculosis; NMDAR, N-­methyl-­d-­aspartate receptor; PCR, 
+polymerase chain reaction; RBC, red blood cell; RT, reverse transcriptase; SSPE, subacute sclerosing panencephalitis; VCA, viral capsid antigen; 
+VGKC, voltage-­gated potassium channel; VZV, varicella-­zoster virus; WBC, white blood cell; WNV, West Nile virus.
+*This table is not intended to encompass all causes of encephalitis, nor all epidemiologic or laboratory-­based risk factors. We recommend utilizing 
+this table as a guideline for initial management of acute encephalitis in children beyond the neonatal period. For additional information, we rec­
+ommend consulting Tunkel et al. 2008, Steiner et al. 2010, Kneen et al. 2012 (see Bibliography). Consultation with local health authorities is also 
+recommended.
+†Although some members of the consortium recommended M. pneumoniae CSF PCR as routine testing for all children, a consensus was not 
+reached given the challenges of establishing a diagnosis of encephalitis due to M. pneumoniae (see text).
+‡MTB testing includes CSF smear for acid-­fast bacilli and CSF mycobacterial culture along with one or more of the number of MTB PCR tests for 
+CSF now commercially available. Sensitivity of smear and culture increases with the volume of CSF analyzed; we recommend consulting with the 
+laboratory regarding optimal volumes of CSF to be analyzed. Given the varying sensitivity of these tests, systemic MTB testing including tuberculin 
+skin test (may be negative) or interferon-­γ release assay, stains and cultures from sputum, and tissue from biopsies from any potential systemic 
+sites of infection.
+§Fungal testing should be tailored to specific geographic region and prior travel history/place of residence, and typically consists of serology, antibody 
+testing from urine and/or CSF, and cultures from blood and CSF.
+||Arbovirus testing should be tailored to specific geographic region and typically consists of IgG and IgM from serum and CSF; PCR (serum, CSF) can 
+be performed for select arboviruses (i.e., WNV, California serogroup viruses), and is particularly useful in immunocompromised patients.
+¶Rabies/ABLV testing includes serologic analysis of serum and CSF; virus isolation or RT-­PCR from saliva; and tests for viral antigen or histopathology 
+on either a brain biopsy or full-­thickness biopsy of the nape of the neck. Testing should be conducted in concert with a local or regional public health 
+department.
+**Tickborne disease testing should be tailored to specific geographic region and typically consists of serology (i.e., Borrelia, Ehrlichia, Rickettsia sp., 
+Anaplasma phagocytophilum, tickborne encephalitis virus) and blood PCR (Ehrlichia, Anaplasma).
+††N. fowleri, B. mandrillaris, and Acanthamoeba spp. testing is only available at specialized laboratories (e.g., Centers for Disease Control and Preven­
+tion) and includes serum immunofluorescence assay, immunohistochemistry on brain or other tissue, and PCR testing on brain or other tissue and 
+CSF. In addition, CSF wet mount is recommended for N. fowleri testing. Brain tissue from affected region offers optimal sensitivity and specificity 
+but other specimens can be tested.
+‡‡Respiratory virus testing includes either culture or respiratory PCR panel from respiratory specimens (e.g., nasopharyngeal swab, nasal wash). 
+Respiratory virus testing should include influenza A and B (during influenza season). Testing for other respiratory viruses including parainfluenza 1–4, 
+adenovirus, and human metapneumovirus should be considered, although their role in causing CNS illness is controversial.
+§§Autoimmune limbic encephalitis evaluation includes testing for antibodies to VGKC, GAD, AMPA receptor, GABAb receptor, mgluR5, Hu, CV2, Ma2, 
+and amphiphysin.
+||||Limited testing may be available through research laboratories and includes examination of CSF or other affected tissues (i.e., eye, muscle) for 
+presence of parasite or detection of antibody in serum or CSF.
+From Venkatesan A, Tunkel AR, Bloch KC, et al. Case definitions, diagnostic algorithms, and priorities in encephalitis: consensus statement of the 
+International Encephalitis Consortium. CID. 2013;57:1114–1128 (Table 3, pp. 1119–1120).
+TABLE 42.12  Diagnostic Algorithm for Initial Evaluation of Encephalitis in Children*—cont’d
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+782
+SECTION 7  Neurosensory Disorders
+TABLE 42.13  Initial CSF Testing for Encephalomyelitis at Children’s Wisconsin: Consensus 
+Recommendations of Infectious Disease and Neurology Services
+Test
+Opening pressure
+CSF complete (cells, glucose, protein)
+Meningoencephalitis NAAT CSF panel (BioFire panel includes Escherichia coli K1, Haemophilus influenzae, Listeria monocytogenes, Neisseria meningitidis, Strep­
+tococcus agalactiae, Streptococcus pneumoniae, cytomegalovirus, enterovirus/parechovirus, herpes simplex virus 1 and 2, human herpesvirus-6, varicella-­zoster 
+virus, Cryptococcus neoformans/gattii)
+Bacterial culture and Gram stain
+Cytology
+Encephalopathy, autoimmune panel (Mayo panel includes antibodies to GAD65, VGKC, ANNA-­1, ANNA-­2, ANNA-­3, PCA-­1, PCA-­2, PCA-­Tr, amphiphysin, CRM-­5 Ig, 
+AGNA-­1, NMDA receptor, AMPA receptor, GABA-­B receptor)
+CSF oligoclonal bands (CSF + serum)
+Additional CSF
+In summer (May–October) add:
+Arbovirus Ab panel CSF (includes Eastern equine encephalitis IgG+IgM, St. Louis encephalitis IgG+IgM, California/La Crosse encephalitis IgG+IgM, Western equine 
+encephalitis IgG+IgM)
+West Nile virus Ab IgM CSF
+Ab, antibody; CSF, cerebral spinal fluid; IgG, immunoglobulin G; IgM, immunoglobulin M; NAAT, nucleic acid amplification test.
+TABLE 42.14  Initial Blood Testing for 
+Encephalomyelitis at Children’s Wisconsin: 
+Consensus Recommendations of Infectious 
+Disease and Neurology Services
+Test
+ESR
+CRP
+Ferritin
+CPK
+Aldolase
+EV/PeV PCR
+Blood cultures
+HIV-­1 rapid test
+RPR
+ANA evaluation with reflex ENA and dsDNA
+Antithyroid antibody panel
+Brucella panel (obtain CSF panel if positive)
+Bartonella Ab IgG IgM with reflex
+Lyme Ab with reflex Western blot (obtain CSF Ab if positive)
+EBV Ab panel (obtain CSF PCR if positive)
+HIV-­1 RNA PCR
+HTLV1/HTLV2 screen blood
+NMO antibody
+Vitamin B12
+Anticardiolipin antibody panel
+CSF oligoclonal bands (blood)
+Serum special collection (hold)
+In summer (May–October) add:
+Tickborne panel NAAT anaplasma/ehrlichia/babesia
+Ab, antibody; AFP, α-­fetoprotein; ANA, antinuclear antibody; CPK, creatine 
+phosphokinase; CSF, cerebral spinal fluid; ENA, extractable nuclear anti­
+gen; EV, enterovirus; HTLV, human T-­lymphotropic virus; IgG, immuno­
+globulin G; IgM, immunoglobulin M; NAAT, nucleic acid amplification test; 
+NMO, neuromyelitis optica; PeV, parechovirus; RPR, rapid plasma reagin.
+*Shaded items were adapted for acute flaccid myelitis (AFM) outbreaks.
+DIAGNOSTIC EMERGENCIES: OTHER DISEASES TO 
+EXCLUDE
+Encephalomyelitis
+ • Bacterial meningitis. Highly damaging; screening by blood cul­
+ture, CSF, Gram stain, and CSF cytochemical profile; easily diag­
+nosed by culture and with highly effective antibacterial therapies. 
+Most common bacteria are detected by CSF nucleic acid amplifi­
+cation test (NAAT) panels. Lumbar puncture should be performed 
+immediately if no localizing signs are present by exam (see Chapter 
+52). Ultrasonography for optic nerve sheath diameter (ONSD) at 
+bedside accurately estimates intracranial pressure to enable prompt 
+lumbar puncture. Increased ONSD can also be detected by MRI 
+in coronal and axial views. Practitioners must consider obtaining 
+enough CSF to avoid delays in other time-­sensitive diseases, such as 
+herpes simplex encephalitis.
+ • Herpes simplex encephalitis. The most common cause of sporadic 
+encephalitis (HSV-1), and causal of an aseptic meningitis syndrome 
+(HSV type 2) during genital flares. Highly necrotizing but can be 
+diagnosed with high sensitivity (93%) by NAAT testing in CSF 
+when symptoms present for more than 4 days (otherwise requiring 
+a later sample) and with safe, effective antiviral therapies. Screening 
+for HSV is included in most clinical CSF NAAT panels.
+ • Fever-­associated epileptic encephalopathies. Various genetic 
+or idiopathic disorders characterized by preceding or concurrent 
+fever may manifest with seizures (often refractory status epilepti­
+cus) and encephalopathy. Dravet syndrome (SCN1A, unknown), 
+Alpers syndrome (POLG1), and early epileptic encephalopathy 
+type 9 (PCDH19) are examples of genetic epilepsy encephalop­
+athies precipitated by fever. Febrile infection–related epilepsy 
+syndrome (FIRES) and new-­onset refractory status epilepti­
+cus (NORSE) are catastrophic idiopathic disorders preceded by a 
+febrile illness 24 hours to 2 weeks prior to the onset of the epileptic 
+encephalopathy.
+Acute Flaccid Paresis/Paralysis (Without 
+Encephalopathy)
+ • Bacterial epidural abscess, hematoma, and tumor must be excluded. 
+Screening requires exam of the spine and bedside ultrasonography 
+and MRI before lumbar puncture.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+783
+CHAPTER 42  Encephalitis
+ADEM
+ • CNS lymphoma. Rare but empirical corticosteroid therapy for 
+ADEM may compromise later diagnostic profiling and chemother­
+apeutic response. Diagnostics and therapeutics are well based on 
+evidence. Screening requires cytology of CSF cells.
+ • Hemophagocytic lymphohistiocytosis (HLH). Rare, genetic or 
+secondary to another disease. Often requires chemotherapy and 
+stem cell transplantation. Diagnostics and therapeutics are well 
+based on evidence. Screening is aided by cytology of CSF cells 
+(hemophagocytosis) and high serum ferritin. May initially present 
+with only CNS symptoms.
+COVID-19 ASSOCIATED CNS MANIFESTATIONS
+Severe neurologic manifestations of SARS-CoV-2 infections are noted in 
+~5% of hospitalized patients with respiratory failure and those with mul­
+tisystem inflammatory syndrome in children (MIS-C). Potential etiolo­
+gies of neurologic disorders in patients with COVID-19 include cytokine 
+hyperinflammation and neuroimmune (antibody or T-cell) induced 
+direct CNS injury. The spectrum of manifestations is broad and includes 
+encephalopathy, seizures, delirium, ADEM, psychosis, Guillain-Barré syn­
+drome, and MERS (mild encephalopathy with reversible splenial lesions). 
+In addition to neuroimmune-mediated inflammations, patients are also at 
+risk for cerebrovascular disease (ischemic or hemorrhagic stroke).
+   	 S U MMA RY  A N D  R E D  F L A G S
+Depending on the epidemiology, the etiology of infectious encephalitis 
+becomes readily apparent with MRI and examining the CSF or other 
+fluids. Presumptive diagnosis of autoimmune encephalitis or ADEM 
+may initially be facilitated by diagnostic criteria including MRI and 
+EEG; therapy should not be delayed while waiting for results on auto­
+immune antibody panels (see Tables 42.4 to 42.7).
+Red flags include coma, papilledema or signs of impending brain 
+herniation, hemiplegia, autonomic dysfunction, a distinct cord level, 
+exposure to high-­risk vectors (rabies, etc.), being immunosuppressed, 
+and travel to endemic areas.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+783.e1
+BIBLIOGRAPHY
+Bauer SC, Moral F, Preloger E, et al. Pediatric COVID-19 delirium: case report 
+of 2 adolescents. WMJ. 2021;120(2):131–136.
+Britton PN, Eastwood K, Paterson B, et al. Consensus guidelines for the 
+investigation and management of encephalitis in adults and children in 
+Australia and New Zealand. Intern Med J. 2015;45(5):563–576.
+Cellucci T, Van Mater H, Graus F, et al. Clinical approach to the diagnosis of 
+autoimmune encephalitis in the pediatric patient. Neurol Neuroimmunol 
+Neuroinflamm. 2020;7(2):e663.
+Cross JH. Fever and fever-related epilepsies. Epilepsia. 2012;53(suppl 4):3–8.
+Dale RC, Branson JA. Acute disseminated encephalomyelitis or multiple scle­
+rosis: can the initial presentation help in establishing a correct diagnosis? 
+Arch Dis Child. 2005;90:636–639.
+Ellul M, Solomon T. Acute encephalitis—diagnosis and management. Clin 
+Med. 2018;18(2):155–159.
+Gowdie P, Twilt M, Benseler SM. Primary and secondary central nervous 
+system vasculitis. J Child Neurol. 2012;27(11):1448–1459.
+Graus F, Titulaer MJ, Balu R, et al. A clinical approach to diagnosis of autoim­
+mune encephalitis. Lancet Neurol. 2016;15:391–404.
+Gürsoy S, Ercal D. Diagnostic approach to genetic causes of early-onset epilep­
+tic encephalopathy. J Child Neurol. 2016;3(14):523–532.
+Hon KL, Leung AKC, Torres AR. Febrile Infection-Related Epilepsy Syndrome 
+(FIRES): an overview of treatment and recent patents. Recent Patent 
+Inflamm Allergy Drug Discov. 2018;12:128–135.
+Kennedy PGE. Viral encephalitis: causes, differential diagnosis, and manage­
+ment. J Neurol Neurosurg Psych. 2004;75(suppl 1):i10–i15.
+Kneen R, Michael BD, Menson E, et al. Management of suspected viral 
+encephalitis in children—Association of British Neurologists and British 
+Paediatric Allergy, Immunology and Infection Group National Guidelines. 
+J Infect. 2012;64(5). 449-77.
+Lee HF, Chi CS. Febrile Infection-Related Epilepsy Syndrome (FIRES): thera­
+peutic complications, long-term neurological and neuroimaging follow-up. 
+Seizure. 2018;56:53–59.
+Mizuguchi M, Ichiyama T, Imataka G, et al. Guidelines for the diagnosis and 
+treatment of acute encephalopathy in childhood. Brain Dev. 2021;43(1):2–
+31.
+Pohl D, Alper G, Van Haren K, et al. Acute disseminated encephalomyelitis. 
+Neurology. 2016;87(suppl 2):S38–S45.
+Ray STJ, Abdel-Mannan O, Sa M, et al. Neurological manifestations of SARS-
+CoV-2 infection in hospitalized children and adolescents in the UK: a 
+prospective national cohort study. Lancet Child Adolesc Health. 2021; 
+S2352-4642(21)00193-0.
+Serino D, Santarone ME, Caputo D, et al. Febrile Infection-Related Epilepsy 
+Syndrome (FIRES): prevalence, impact and management strategies. Neuro­
+psych Dis Treat. 2019;15:1897–1903.
+Sharma S, Mishra D, Aneja S, et al. Consensus guidelines on evaluation and 
+management of suspected acute viral encephalitis in children in India. 
+Indian Pediatr. 2012;49(11):897–910.
+Sigfrid L, Perfect C, Rojek A, et al. A systematic review of clinical guidelines on 
+the management of acute, community-acquired CNS infections. BMC Med. 
+2019;17:170.
+Song E, Bartley CM, Chow RD, et al. Divergent and self-reactive immune 
+responses in the CNS of COVID-19 patients with neurological symptoms. 
+Cell Rep Med. 2021;2:100288.
+Tunkel AR, Glaser CA, Bloch KC, et al. The management of encephalitis: clin­
+ical practice guidelines by the Infectious Diseases Society of America. Clin 
+Infec Dis. 2008;47:303–327.
+Venkatesan A, Tunkel AR, Bloch KC, et al. Case definitions, diagnostic algo­
+rithms, and priorities in encephalitis: consensus statement of the Interna­
+tional Encephalitis Consortium. Clin Infect Dis. 2013;57(8):1114–1128.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

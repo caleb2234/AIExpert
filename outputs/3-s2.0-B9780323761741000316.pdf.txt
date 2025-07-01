@@ -1,0 +1,2655 @@
+512
+The history is the most important tool for identifying a psychiatric dis­
+order. The initial focus in conducting the history is to establish rapport 
+and to ensure the child’s safety. Safety should always be assessed and 
+should include risk of suicide, homicide, and abuse (physical, sexual, 
+emotional, and neglect). The history should then focus on delineat­
+ing the specific behaviors of concern, on identifying any stressors that 
+may be precipitating the behavior (Table 31.1), and on recognizing 
+any associated symptoms that may differentiate which disorder or dis­
+orders are causing the behavior (Table 31.2). In addition to primary 
+psychiatric diagnoses, the clinician should focus on possible medical 
+causes of the behaviors in question, including medication side effects, 
+substance misuse, and medical illnesses (Tables 31.3 and 31.4). Comor­
+bidity is common in children with psychiatric illnesses, and as such, 
+the clinician should consider whether a combination of medical and 
+psychiatric diagnoses may be producing the patient’s symptoms.
+Information should be obtained from multiple sources whenever 
+possible. This can include any adults who have spent significant time 
+with the child, such as parents, other family members, guardians, and 
+teachers. The child should be interviewed separately so as to provide a 
+better chance of obtaining their perspective of the presenting symptoms. 
+The patient may also be more comfortable disclosing a history of abuse 
+or destructive behaviors, such as substance misuse, self-­harm, or high-­
+risk sexual activity, during an individual interview. Because some psy­
+chiatric disorders demonstrate a strong genetic predisposition, a detailed 
+psychiatric family history should be obtained. Psychiatric illness in fam­
+ily members may be undiagnosed; the clinician should inquire about the 
+presence of symptoms in addition to formal diagnoses in the family.
+The following validated principles should guide history taking, par­
+ticularly when discussing sensitive topics such as substance use, sexual 
+abuse, and suicidal ideation or intent:
+	1.	 Behavioral analysis: The clinician should break down complex 
+patterns of behavior into discrete incidents and focus on concrete 
+details chronologically. Doing so allows the clinician to objectively 
+establish the sequence of behaviors behind sensitive events, par­
+ticularly when the patient’s subjective responses to the events may 
+influence recall or reporting.
+	2.	 Shame attenuation: The clinician should assume a stance of uncon­
+ditional positive regard so as to minimize the influence of guilt or 
+shame while discussing taboo subjects.
+	3.	 Gentle assumption: By framing questions based on the assumption 
+that a behavior exists, the clinician may overcome patient hesitation 
+to acknowledge the presence of that behavior (e.g., “How often do 
+you have suicidal thoughts?”).
+	4.	 Symptom amplification: By assuming a high frequency of the 
+behavior and inquiring in a concrete manner (e.g., “How many days 
+a week do you drink? 5–6?”), the clinician may make the patient feel 
+more at ease by acknowledging the existence of a particular behavior, 
+particularly if a patient is troubled by the frequency of the behavior.
+	5.	 Denial of the specific: By asking specific questions, the clinician 
+may elicit more accurate information by prompting recollection of 
+particular behaviors that may otherwise be denied when asked in 
+general terms. Asking the patient whether they have ever used mar­
+ijuana may be more likely to elicit a positive response than asking 
+the patient whether they have ever used illegal drugs.
+	6.	 Normalization: By simply describing common patterns of symp­
+toms or behaviors, the clinician may help the patient feel more at 
+ease by endorsing the presence of similar patterns in their behaviors.
+The history allows the clinician to define patterns of behavior that 
+suggest a differential diagnosis. The Diagnostic and Statistical Manual 
+of Mental Disorders, Fifth Edition (DSM-­5), contains descriptive diag­
+nostic criteria based on the presence or absence of various symptoms 
+and aids the clinician in assigning a specific diagnosis to these behav­
+ior patterns and symptom clusters. Terms frequently used in the diag­
+nosis of psychotic illnesses are noted in Table 31.5. The persistence, 
+frequency, and severity of behaviors should be used to distinguish a 
+behavior that is symptomatic from a behavior that is within normal 
+limits. When a behavior does not meet a clinical threshold, it can be 
+just as important for the provider to reassure a family and provide sup­
+port during a difficult time of normal development. A classic example 
+would be a 2 year old expressing their autonomy or a teenager strug­
+gling to establish their individual identity.
+CONDITIONS CHARACTERIZED BY ABNORMAL 
+BEHAVIORS
+Disruptive behaviors are broadly categorized by whether they affect the 
+patient or others, then further classified by whether there is associated 
+difficulty in regulating emotions or behaviors (see Table 31.2).
+Behaviors That Primarily Affect the Patient
+Attention-­Deficit/Hyperactivity Disorder
+The cardinal features of attention-­deficit/hyperactivity disorder 
+(ADHD) are hyperactivity, distractibility, and impulsivity. Manifes­
+tations of these symptoms must be present in more than one setting 
+(school and home) and must interfere with functioning or develop­
+ment. Prevalence increases with the child’s age and is approximately 
+9–15% in school-­aged children. ADHD is more frequent in males than 
+in females with a ratio of about 2:1 for the predominantly inattentive 
+type and 4:1 for the predominantly hyperactive type. Females may be 
+underdiagnosed as they are more likely to present with the inattention 
+symptoms as compared to the hyperactivity symptoms that tend to be 
+more disruptive and more likely to reach the threshold for seeking care. 
+The DSM-­5 specifies that there must be a persistent pattern of inatten­
+tion and/or hyperactivity–impulsivity with six or more symptoms in 
+either category lasting at least 6 months. Adolescents 17 years of age or 
+Emotional and Behavioral Symptoms
+Ryan Byrne, Garrett Elsner, and Ashley Beattie
+31
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+513
+CHAPTER 31  Emotional and Behavioral Symptoms
+older require only five symptoms; however, symptoms should be pres­
+ent prior to 12 years of age.
+Inattention
+	1.	 Lack of attention to detail or inaccurate work
+	2.	 Difficulty sustaining attention
+	3.	 Failure to listen when spoken to directly
+	4.	 Lack of follow-­through
+	5.	 Disorganization
+	6.	 Avoidance of activities requiring sustained attention
+	7.	 Frequent loss of items
+	8.	 Easy distraction by extraneous stimuli
+	9.	 Forgetfulness
+Hyperactivity/Impulsivity
+	1.	 Frequent fidgeting or squirming
+	2.	 Frequent need to walk around
+	3.	 Restlessness or need to run around/climb
+	4.	 Difficulty engaging in quiet activities
+	5.	 Acting “on the go,” restlessness, or difficulty of caregivers to keep up 
+with
+	6.	 Talking excessively
+	7.	 Frequently interrupting
+	8.	 Difficulty waiting turn
+	9.	 Intrusiveness
+The chronicity of the hyperactivity in this disorder may be subtle. 
+Although children with ADHD tend to move around more than other 
+children, the hyperactivity may be of concern only in certain situations 
+in which the child is expected to be quiet (e.g., in school or places of 
+worship). Some children with ADHD can sit and be attentive in quiet 
+and relaxed situations, whereas a noisy and active setting, such as an 
+unstructured classroom, precipitates inappropriate behavior. When 
+these children become older, they often become less overtly hyperac­
+tive. An adolescent may mostly feel restless without acting upon that 
+feeling in a disruptive manner. This restlessness may contribute signifi­
+cantly to academic underachievement. Despite intentions for diligent 
+studying, the restlessness may cause the affected teenager to feel the 
+need to walk around, distracting from studying.
+Impulsivity significantly contributes to morbidity. The impul­
+sivity applies not only to actions but also to emotions. An impulsive 
+child whose emotions change quickly is at risk for physically aggres­
+sive behaviors, such as hitting or biting. In school-­aged children, the 
+impulsive aggression is often manifested as explosive behavior. Because 
+of their explosive behavior, inability to wait their turn in a game, and 
+difficulty regulating emotions when interacting with teachers, these 
+children have great difficulty with both peer and teacher relations. 
+Impulsivity can also be potentially life threatening because the child 
+may act before considering the consequences. Impulsivity may man­
+ifest as risk-­taking behaviors in both children (e.g., running into the 
+street after a ball without checking for traffic) and adolescents (high-­
+risk sexual activity or substance misuse).
+Hyperactivity and impulsivity in children are often readily apparent 
+to adults; however, the manifestations of inattention and distractibil­
+ity are often not as overt. In young children, inattentive behavior can 
+consist of shifting from one activity to another and having difficulty 
+finishing tasks. The parents may incorrectly consider these actions to 
+represent lack of motivation. In adolescence, inattentive behavior may 
+result in poor school performance. These children may forget to do 
+homework or may need excessively long periods to complete assign­
+ments because of their inability to focus on their work. They may be 
+mislabeled as being lazy.
+The challenge in diagnosing ADHD lies in defining when specific 
+behaviors are abnormal, particularly when those behaviors may not be 
+apparent in all situations or contexts. The clinician should not rely solely 
+on observations obtained in the clinic setting, but should instead gather 
+information from multiple sources, including parents, teachers, day­
+care workers, and even a direct classroom observation from a trained 
+health care professional. Being in the clinic can be overstimulating or 
+TABLE 31.2  Disruptive Behavior Disorders
+Symptom
+Intermittent 
+Explosive Disorder
+Disruptive Mood 
+Dysregulation Disorder
+Oppositional 
+Defiant Disorder
+Conduct Disorder
+Aggressive outbursts
++
++
++
++
+Property destruction or physically assaultive
++
++
++
++
+Persistently irritable
+−
++
++/−
+−
+Purposefully defiant
+−
+−
++
++
+Vindictive
+−
+−
++
++
+Argues with authority
+−
+−
++
++
+Stealing
+−
+−
+−
++
+Use of a weapon or fire setting
+−
+−
+−
++
+Run away from home/truancy
+−
+−
+−
++
+A “+” indicates symptoms are seen in the disorder. A “-” indicates symptoms are not seen in the disorder.
+TABLE 31.3  The MIDAS Mnemonic for 
+Screening for Medical Illness
+M: Do you take any Medications?
+I: Do you have any medical Illnesses?
+D: Do you have a primary care Doctor?
+A: Have you ever had any Allergies, reactions, or side effects?
+S: Have you ever had any Surgery?
+From Carlat DJ. The Psychiatric Interview. 3rd ed. Philadelphia: Lippin­
+cott Williams & Wilkins; 2011.
+TABLE 31.1  Common Precipitants of 
+Psychiatric Symptoms
+Substance misuse
+Stress
+Death or illness of family or friend
+Interpersonal conflict, including bullying
+Rejection or abandonment
+Significant change in routine
+Homelessness
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+514
+SECTION 6   Developmental and Psychiatric Disorders
+TABLE 31.4  Medical (Secondary) and Psychiatric (Primary) Causes of Psychosis and/or 
+Depression
+Category
+Disorders
+Psychiatric
+Schizophrenia
+Schizoaffective
+Schizophreniform
+Brief psychotic
+Major depression
+Bipolar
+Postpartum
+Head trauma
+Traumatic brain injury
+Subdural hematoma
+Infectious
+Viral infections/encephalitides (HIV infection/encephalop­
+athy, herpes encephalitis, cytomegalovirus. Epstein-­Barr 
+virus, COVID-­19)
+Lyme disease
+Cerebral malaria
+Endocarditis
+Neurosyphilis
+Whipple disease
+Inflammatory
+Autoimmune encephalitis: NMDAR, limbic, others
+Systemic lupus erythematosus
+Sjögren syndrome
+Hashimoto encephalopathy (steroid-­responsive encephalop­
+athy associated with autoimmune thyroiditis [SREAT])
+Sydenham chorea
+Sarcoidosis
+Celiac disease
+Neoplastic
+Primary or secondary cerebral neoplasm
+Paraneoplastic encephalitis: ovarian teratoma-­associated 
+autoimmune encephalitis
+Systemic neoplasm
+Pheochromocytoma
+Endocrine or 
+acquired met­
+abolic
+Hepatic encephalopathy
+Uremic encephalopathy
+Hypo/hyperparathyroidism
+Hypo/hyperthyroidism
+Addison disease
+Cushing disease
+Vitamin deficiency: vitamin B12 , folate, niacin, vitamin C, 
+thiamine
+Gastric bypass–associated nutritional deficiencies
+Hypoglycemia
+Hyponatremia
+Vascular
+Cerebral autosomal dominant arteriopathy with subcortical 
+infarcts and leukoencephalopathy (CADASIL)
+Other vasculitis syndromes
+Stroke
+Degenerative
+Idiopathic basal ganglia calcifications, Fahr disease
+Neuroacanthocytosis
+Neurodegeneration with brain iron accumulation (NBIA)
+Tuberous sclerosis
+Huntington disease
+Corticobasal ganglionic degeneration
+Multisystem atrophy, striatonigral degeneration, olivopon­
+tocerebellar atrophy
+Category
+Disorders
+Demyelinating, 
+dysmyelinating
+Multiple sclerosis
+Acute disseminated encephalomyelitis
+Adrenoleukodystrophy
+Metachromatic leukodystrophy
+Inherited 
+metabolic
+Wilson disease
+Posterior horn syndrome
+Tay-­Sachs disease (adult onset)
+Neuronal ceroid lipofuscinosis
+Niemann-­Pick disease type C
+Acute intermittent porphyria
+Mitochondrial encephalopathy, lactic acidosis, and stroke-­
+like episodes (MELAS)
+Mitochondrial neurogastrointestinal encephalopathy 
+(MNGIE)
+Cerebrotendinous xanthomatosis
+Homocystinuria
+Ornithine transcarbamylase deficiency
+Phenylketonuria
+Syndromes
+Williams
+Prader-­Willi
+Marfan
+Fragile X
+Deletion 22q11.2
+Rapid-­onset obesity with hypothalamic dysfunction, 
+hypoventilation, autonomic dysregulation (ROHHAD)
+Klinefelter
+Epilepsy
+Ictal
+Interictal
+Postictal
+Postepilepsy surgery
+Lafora progressive myoclonic epilepsy
+Complex partial (temporal lobe)
+Substance induced 
+(medications)
+Analgesics
+Acyclovir
+Androgens (anabolic steroids)
+Antiarrhythmics
+Anticonvulsants
+Anticholinergics
+Antihypertensives
+Antineoplastic agents
+β-­Blocking agents
+Cefepime
+Clarithromycin
+Cyclosporine
+Dextromethorphan
+Dopamine agonists
+Ketamine
+Fluoroquinolones
+Metronidazole
+Sulfamethoxazole-­trimethoprim
+Oral contraceptives
+Sedatives/hypnotics
+Selective serotonin reuptake inhibitors (SSRIs) (serotonin 
+syndrome)
+Steroids
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+515
+CHAPTER 31  Emotional and Behavioral Symptoms
+anxiety provoking for the child. The classroom teacher represents an 
+excellent resource for determining whether the patient’s level of activ­
+ity and degree of impulsivity are abnormal. Standardized behavioral 
+checklists (such as the Vanderbilt Rating Scale) filled out by the parents 
+and teachers quantify the degree of abnormal behaviors with regard to 
+an age-­specific reference population.
+Before establishing a diagnosis of ADHD, the clinician must rule 
+out other psychiatric and medical causes of the patient’s symptoms. 
+With respect to psychiatric conditions, the differential diagnosis of 
+ADHD includes learning disorders, oppositional behavior, mood dis­
+orders, anxiety disorders, and substance abuse. Because of the high asso­
+ciation of learning disorders with ADHD, the evaluation should include 
+an assessment for learning problems.
+With respect to medical conditions, the differential diagnosis of 
+ADHD includes iron deficiency, lead toxicity, thyroid disorders, sei­
+zures, hearing loss, and substance misuse. Screening for symptoms of 
+sleep disturbances or sleep apnea is essential because chronically inef­
+fective or inefficient sleep can produce symptoms of inattention and 
+hyperactivity.
+Tic Disorders
+Tics are motor movements or vocalizations that are sudden, rapid, 
+recurrent, nonrhythmic, and involuntary. Tics often become worse 
+during stress but may improve during activities requiring moderate 
+physical or mental activity. Tics need to be differentiated from other 
+abnormal movements, such as chorea, athetosis, dystonia, myoclo­
+nus, and hemiballismus (Chapter 40). These other movements may 
+be associated with an underlying neurologic condition or may be 
+medication induced. Tics are common with 5–24% of school-­aged 
+children having a history of tics. Most do not require treatment and 
+do not progress to a more serious tic disorder. Simple motor tics are 
+defined as repetitive movements of single muscle groups. They may 
+consist of eye blinking, neck jerking, or shoulder shrugging. Com­
+plex motor tics are repetitive movements of several muscle groups 
+in coordination, such as repetitive grooming behaviors, deep knee 
+bends, or smelling of objects. Simple vocal tics are defined as non­
+verbal noises, such as throat clearing or grunting sounds, whereas 
+complex vocal tics are intelligible words. Complex vocal tics may 
+rarely manifest as coprolalia, the repetitive, stereotyped vocalization 
+of obscenities.
+The DSM-­5 categorizes tic disorders as follows:
+	1.	 Provisional tic disorder: motor and/or vocal tics lasting less than a 
+year
+	2.	 Chronic motor or vocal tic disorder: either motor or vocal tics 
+lasting longer than a year
+	3.	 Tourette disorder: both multiple motor and one or more vocal tics 
+lasting longer than a year
+The incidence of Tourette disorder is 4–5/10,000. In some families, 
+this illness is inherited as an autosomal dominant condition, with 70% 
+penetrance in females and near-­complete penetrance in males. Because 
+of this difference in penetrance, Tourette disorder is 1.5–3 times more 
+common in males than in females. The median age at presentation is 7 
+years, though some children may present as early as 2 years. While cop­
+rolalia is popularly thought to be a common feature of Tourette disorder, 
+fewer than 10% of affected patients have this form of complex vocal tics.
+The DSM-­5 criteria for Tourette disorder are as follows:
+	1.	 Multiple motor and one or more vocal tics must be present, although 
+not necessarily concurrently, lasting longer than a year with no tic-­
+free intervals longer than 3 months
+	2.	 Symptom onset before age 18 years
+	3.	 No medical cause for the tics
+Tics may lead to the patient being socially ostracized. Children with 
+chronic tic disorders frequently have other psychologic conditions, 
+such as ADHD or obsessive-­compulsive disorder (OCD), which may 
+lead to further difficulties in peer interactions and frequent frustration 
+of teachers and family members. Such stressors can worsen the tics, 
+which can further compound the problem.
+Behaviors That Affect Others
+Disruptive Mood Dysregulation Disorder
+While the predominant characteristic of disruptive mood dysregula­
+tion disorder (DMDD) is chronic, persistent, and severe irritability, it 
+is often the behavioral issues that prompt presentation to a clinician. 
+DMDD often manifests as irritable, depressed mood and temper tan­
+trums with a low frustration tolerance. The DSM-­5 requires the follow­
+ing for diagnosis:
+	1.	 Severe recurrent temper outbursts that manifest with verbal or 
+behavioral aggression out of proportion to the situation in intensity 
+or duration
+TABLE 31.4  Medical (Secondary) and Psychiatric (Primary) Causes of Psychosis and/or 
+Depression—cont’d
+Category
+Disorders
+Substance induced Alcohol
+Amphetamines
+Cocaine
+LSD
+Marijuana and synthetic cannabinoids
+Methylenedioxymethamphetamine (MDMA, Ecstasy)
+Phencyclidine
+Mescaline
+Psilocybins (mushrooms)
+Drug withdrawal 
+syndromes
+Alcohol
+Barbiturates
+Benzodiazepines
+Amphetamines
+SSRIs
+Category
+Disorders
+Toxins
+Heavy metals: lead, mercury, arsenic
+Carbon monoxide
+Inhalants
+Organophosphates
+St. John’s Wort
+Other
+Normal-­pressure hydrocephalus
+Ionizing radiation
+Decompression sickness
+Narcolepsy
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+516
+SECTION 6   Developmental and Psychiatric Disorders
+	2.	 Behavior is inconsistent with developmental level
+	3.	 Behavior occurs on average 3 or more times per week
+	4.	 The mood between outbursts is persistently irritable or angry
+	5.	 Symptoms present for 12 or more months
+	6.	 Symptoms present in at least two settings
+	7.	 Age of onset of symptoms must be before age 10 years, but diagnosis 
+should not be made before age 6 years or after age 18 years
+The overall prevalence of DMDD among children and adolescents 
+is as high as 5%. Rates are higher in males and school-­aged children 
+than in females and adolescents. DMDD can cause significant diffi­
+culties with school performance and family/peer relationships. Many 
+children with DMDD will also meet criteria for ADHD, mood disor­
+ders, or anxiety disorders. The diagnosis of DMDD should be distin­
+guished from bipolar disorder, which must have distinct episodes of 
+mania or hypomania (Table 31.6). The age of the patient can also help 
+differentiate DMDD and bipolar disorders because bipolar disorders 
+rarely present prior to adolescence. Individuals who meet criteria for 
+DMDD and oppositional defiant disorder (ODD) should only be given 
+the diagnosis of DMDD.
+Intermittent Explosive Disorder
+Intermittent explosive disorder (IED) is an impulse control disorder 
+where the child will have significant recurrent behavioral outbursts 
+that are seen as out of proportion to the situation. The outbursts can 
+be violent but are not premeditated. The outbursts can cause signifi­
+cant distress to both the patient and family. IED does not have the per­
+sistently angry or irritable mood in between outbursts that is present in 
+DMDD. The DSM-­5 requires the following for diagnosis:
+	1.	 Recurrent behavioral outbursts representing failure to control 
+aggressive impulses
+	2.	 Verbal or physical aggression toward property, animals, or other 
+individuals occurring on average twice weekly for 3 months or 
+three behavioral outbursts involving destruction of property and/
+or physical assault within a 12-­month period
+TABLE 31.5  Psychiatric Terms
+Abulia is the state of reduced impulse to act and think associated with indifference about consequences of action.
+Affect is the examiner’s observation of the patient’s emotional state. Frequently used descriptive terms include the following:
+Constricted affect is reduced range and intensity of expression.
+Blunted affect is further reduced. Usually, there is little facial expression and a voice that is monotone and lacking normal prosody.
+Flat describes severely blunted affect in which there is no affective expression.
+Inappropriate affect is an incongruous expression of emotion or behavior relative to the content of a conversation or social norms.
+Labile affect exhibits abrupt and sudden changes in both type and intensity of emotion.
+Anxiety is the feeling of apprehension caused by anticipation of danger that may be internal or external.
+Apathy is dulled emotional tone associated with detachment or indifference.
+Comportment refers to self-­regulation of behavior through complex mental processes that include insight, judgment, self-­awareness, empathy, and social adapta­
+tion.
+Compulsion is the uncontrollable impulse to perform an act repetitively.
+Confusion is the inability to maintain a coherent stream of thought owing to impaired attention and vigilance. Secondary deficits in language, memory, and visual 
+spatial skills are common.
+Delusion is a false, unshakable conviction or judgment that is out of keeping with reality and with socially shared beliefs of the individual’s background and culture. 
+It cannot be corrected with reasoning.
+Depression is a sustained psychopathologic feeling of sadness often accompanied by a variety of associated symptoms, particularly anxiety, agitation, feelings of 
+worthlessness, suicidal ideation, abulia, psychomotor retardation, and various somatic symptoms and physiologic dysfunctions and complaints that cause signifi­
+cant distress and impairment in social functioning.
+Hallucination is a false sensory perception not associated with real external stimuli.
+Mood is the emotional state experienced and described by the patient and observed by others.
+Obsession is the pathologic persistence of an irresistible thought or feeling that cannot be eliminated from consciousness by logical effort. It is associated with 
+anxiety and rumination.
+Paranoia is a descriptive term designating either morbid-­dominant ideas or delusions of self-­reference concerning one or more of several themes, most commonly 
+persecution, love, hate, envy, jealousy, honor, litigation, grandeur, and the supernatural.
+Prosody is the melodic patterns of intonation in language that convey shades of meaning.
+Psychosis is the inability or impaired ability to distinguish reality from hallucinations and/or delusions.
+Russell sign is calluses on the knuckles or back of the hand due to repeated self-­induced vomiting over long periods of time.
+Thought process and content. Common descriptive terms include the following:
+Circumstantial thought follows a circuitous route to the answer. There may be many superfluous details, but the patient eventually reaches the answer.
+Linear thought demonstrates goal-­directed associations and is easy to follow.
+Loose associations are thoughts that have no logical or meaningful connection with ensuing thoughts.
+Tangential thoughts are initially clearly linked to a current thought but fail to maintain goal-­directed associations; the patient never arrives at the desired point 
+or goal.
+Clang associations describe speech in which the sounds of words are similar but not the meanings. The words have no logical connection to each other.
+Flight of ideas describes a rapid stream of thoughts that tend to be related to each other.
+Magical thinking describes the belief that thoughts, words, or actions have power to influence events in ways other than through reality-­based mechanisms.
+Thought blocking is characterized by abrupt interruptions in speech during conversation before an idea or thought is finished. After a pause, the individual 
+indicates no recall of what was being said or what was going to be said.
+From Perez DL, Murray ED, Price BH. Depression and psychosis in neurological practice. In: Daroff RB, Jankovic J, Mazziotta JC, Pomeroy SL, 
+eds. Bradley’s Neurology in Clinical Practice. 7th ed. Philadelphia: Elsevier; 2015.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+517
+CHAPTER 31  Emotional and Behavioral Symptoms
+	3.	 Aggression grossly out of proportion to trigger
+	4.	 Outbursts are not premeditated
+	5.	 Chronological age is at least 6 years (or equivalent development 
+level)
+	6.	 The outbursts cause marked distress in the individual or impair­
+ment in interpersonal functioning
+The diagnosis of IED can be made in addition to ADHD, conduct 
+disorder, oppositional defiant disorder, or autism spectrum disorder. 
+It cannot be made with a diagnosis of DMDD. It is important to rule 
+out other potential causes for the outbursts including bipolar disorder, 
+substance use disorders, and traumatic brain injury.
+Substance Use Disorder
+Substance use can lead to a wide range of disturbances in mood and 
+behavior. The disturbance can occur during both the period of intox­
+ication and the period of withdrawal. The hallmark of a substance use 
+disorder is the continued use of a substance despite it causing ongoing 
+negative cognitive, behavioral, and physiologic symptoms. The other 
+hallmark of substance use disorder is the significance of the negative 
+behaviors, such as verbal or physical aggression, defiance, lying, or 
+stealing. Sometimes these behaviors will reach the point of violating 
+the rights of family and friends.
+Oppositional Defiant Disorder
+The characteristic feature of ODD is a persistent pattern of both defi­
+ant behavior and an angry/irritable mood, argumentative/defiant 
+behavior, or vindictiveness. Affected individuals exhibit at least four 
+of the following behaviors in a consistent manner over a 6-­month 
+period:
+	1.	 Frequently losing temper
+	2.	 Often arguing with authority figures
+	3.	 Defying rules
+	4.	 Deliberately annoying adults
+	5.	 Blaming others for their actions
+	6.	 Becoming easily annoyed by others
+	7.	 Being angry
+	8.	 Being vindictive
+ODD should not be diagnosed if the patient meets the DSM-­5 cri­
+teria for conduct disorder or if the symptoms occur in the context of 
+a mood, an anxiety, or a psychotic disorder, in which children exhibit 
+oppositional behavior as a reaction to their illness.
+Prevalence ranges from 1% to 11%, depending on the population. 
+In prepubertal children, it occurs more frequently in males; however, 
+in adolescents, its incidence is equal in both sexes. Most children pres­
+ent before 8 years of age. Affected preschool-­aged children sometimes 
+exhibit increased motor activity, difficulty being comforted, and over­
+reacting to situations. Affected school-­aged children have low self-­
+esteem and a low tolerance for frustration. The disorder commonly 
+occurs in families with a history of mood or psychotic disorders—par­
+ticularly maternal depression—and with chronic disruptive behaviors, 
+such as ADHD or conduct disorder.
+Children with this disorder are at marked risk for other psychi­
+atric disorders, such as ADHD. In addition, these patients may be at 
+increased risk for conduct disorder, antisocial personality disorder as 
+adults, substance abuse, major depressive disorder, and suicide.
+Conduct Disorder
+A child has conduct disorder if they have repetitively violated the rights 
+of others and of society. Children with this diagnosis have performed 
+three or more of the following behaviors within the past year and with 
+at least one occurring in the previous 6 months:
+	1.	 Aggression toward people or animals, such as intimidation, initia­
+tion of fights, use of weapons, cruelty to people, cruelty to animals, 
+rape, confrontational theft, or mugging
+	2.	 Destruction of property, such as arson or vandalism
+	3.	 Deceitfulness or theft, such as breaking into houses or cars or steal­
+ing items of nontrivial value
+	4.	 Serious violation of rules, such as curfew violation, running away, 
+or truancy before the age of 13 years (for running away to qualify as 
+a symptom, it must occur twice, or once if it was lengthy, and must 
+not be an attempt to escape sexual or physical abuse)
+Conduct disorder is classified as childhood onset if symptoms 
+occur before 10 years of age and adolescent onset if symptoms occur 
+at or after 10 years of age. It may have the qualifier of “limited pro­
+social emotions” such as lack of remorse or guilt, callous lack of 
+empathy, unconcerned about performance, and shallow affect. It is 
+further subdivided by severity of offense: mild (e.g., truancy), moder­
+ate (e.g., vandalism, nonconfrontational theft), and severe (e.g., rape, 
+TABLE 31.6  Diagnostic Features of Primary Psychiatric Disorders
+The following conditions require clinically significant distress or impairment in social or occupational functioning:
+ • Schizophrenia is a disorder that lasts for at least 6 mo and includes at least 1 mo of active symptoms (two or more of the following: delusions, hallucinations, 
+disorganized speech, grossly disorganized or catatonic behavior, or negative symptoms).
+ • Schizoaffective disorder is a disorder in which a mood episode and the active symptoms of schizophrenia occur together and were preceded or are followed by 
+at least 2 wk of delusions or hallucinations without prominent mood symptoms.
+ • Major depressive disorder is characterized by one or more major depressive episodes (at least 2 wk of depressed mood or loss of interest accompanied by 
+at least four additional symptoms of depression). Additional symptoms of depression may include significant weight changes, sleep dysfunction, psychomotor 
+agitation or retardation, fatigue or loss of energy, feelings of worthlessness or guilt, diminished concentration, and suicidal ideation or thoughts of death.
+ • A manic episode is defined by an abnormally and persistently elevated, expansive, or irritable mood persisting for at least 1 wk (or less if hospitalization is 
+required). At least three of the following symptoms must be present if the mood is elevated or expansive (four symptoms are required if the mood is irritable): 
+inflated self-­esteem or grandiosity, decreased need for sleep, pressured speech, flight of ideas, distractibility, increased goal-­directed activities or psychomotor 
+agitation, and excessive involvement in pleasurable activities with a high potential for painful consequences. Psychotic features may be present.
+ • Bipolar I disorder is characterized by the presence of both manic and major depressive episodes or manic episodes alone.
+ • Bipolar II disorder is characterized by the presence of major depressive episodes alternating with episodes of hypomania.
+ • Hypomania is characterized by an abnormally and persistently elevated, expansive, or irritable mood persisting for at least 4 days. Other criteria required for 
+diagnosis are identical to that of a manic episode except that the symptoms are not so severe as to cause marked impairment in social or occupational function­
+ing, hospitalization is not required, and no psychotic symptoms are present.
+From Perez DL, Murray ED, Price BH. Depression and psychosis in neurological practice. In: Daroff RB, Jankovic J, Mazziotta JC, Pomeroy SL, 
+eds. Bradley’s Neurology in Clinical Practice. 7th ed. Philadelphia: Elsevier; 2015.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+518
+SECTION 6   Developmental and Psychiatric Disorders
+confrontational theft). The prevalence of conduct disorder is higher in 
+males than in females. Children initially present with lying, initiating 
+fights, and truancy; as they get older, they progress to more violent acts. 
+Males are more likely to exhibit acts of violence, such as fighting and 
+stealing, than are females, who are more likely to exhibit truancy, run­
+away behavior, and high-­risk sexual activity. Half of these children may 
+develop antisocial personality disorder, which is a severe conduct 
+disorder of adulthood that is usually associated with criminal activ­
+ity. The earlier the onset of conduct disorder, the greater the risk of 
+developing antisocial personality disorder as an adult. These children 
+also have a high frequency of depression, suicidal ideation, personality 
+disorders, anxiety disorders, ADHD, and substance abuse.
+CONDITIONS CHARACTERIZED BY DISRUPTION IN 
+MOOD
+Mood disorders are divided into those characterized by a depressed 
+mood and those characterized by extremes of mood lability. When 
+assessing mood disturbances, it is essential to screen for symptoms 
+suggestive of bipolar illness as these patients have a risk of becoming 
+manic when treated with antidepressants (Fig. 31.1). The evaluation of 
+any patient with a disruption in mood should include an assessment of 
+the risk of suicide.
+Conditions Characterized by Depressed Mood
+Depressive disorders that may present in childhood include DMDD, 
+major depressive disorder, premenstrual dysphoric disorder, persistent 
+depressive disorder (i.e., dysthymia), substance/medication-­induced 
+depressive disorder, adjustment disorder with depressed mood, and 
+depressive disorder related to another medical condition.
+Major Depressive Disorder
+Major depressive disorder is associated with serious risks of suicide, 
+significant social isolation, and academic impairment (see Table 31.6). 
+Presentations may be subtle. While children and adolescents can pres­
+ent with classic sad or depressed mood, they may also present with irri­
+tability. Patients may also present with somatic complaints, psychosis, 
+or both. The psychotic symptoms are typically mood-­congruent audi­
+tory hallucinations and delusions of guilt, medical illnesses, or deserv­
+ing punishment. DSM-­5 criteria for major depressive disorder consist 
+of at least a 2-­week period of a depressed mood—or irritability in some 
+children—or loss of interest in pleasurable activities, resulting in sig­
+nificant impairment. During this period, the patient has to have at least 
+five of the following symptoms:
+	1.	 Depressed mood or irritability in some children
+	2.	 Loss of interest or pleasure
+	3.	 Loss of appetite or overeating
+	4.	 Insomnia or hypersomnia
+	5.	 Fatigue or loss of energy
+	6.	 Feelings of worthlessness or guilt
+	7.	 Poor concentration or indecisiveness
+	8.	 Suicidal ideation or thoughts of death
+	9.	 Psychomotor agitation or retardation
+These symptoms should not be secondary to bereavement, medical 
+conditions, substance abuse, or bipolar disorders. Emotional reaction 
+to adverse stressors is a normal part of life. The clinician must decide 
+whether the reaction to the stressor is normal, an adjustment disorder, 
+or major depression.
+The occurrence of major depressive disorders in adolescence is as 
+high as 5%, with a cumulative prevalence in adolescence of 12% in 
+females and 7% in males. There is also a threefold increase in major 
+depression in children who have a parent with depression. The dif­
+ferential diagnosis of major depression encompasses various medical 
+disorders, including neurologic disorders, endocrine disorders such as 
+hypothyroidism or hyperparathyroidism, side effects from medications 
+such as H2-­blockers or isotretinoin, and substance abuse or use (see 
+Table 31.4). Numerous psychiatric conditions are comorbid with major 
+depression. Among these are ODD, conduct disorder, ADHD, anxiety 
+disorders, eating disorders, and substance abuse.
+Major depressive disorder can manifest at any age; most patients 
+present in early adulthood. Children usually present with somatic com­
+plaints, social withdrawal, and irritability, whereas adolescents often 
+present with psychomotor retardation, thoughts of guilt and worthless­
+ness, and excessive sleep. Approximately 15% of children with major 
+Are there symptoms of mania or hypomania
+(abnormally elevated mood)?
+Yes
+No
+No
+Is there substance use?
+Substance-Induced Mood Disorder
+Are there significant disruptive behaviors?
+Disruptive Mood Dysregulation Disorder (DMDD)
+Was there a recent death?
+Bereavement
+Was there a precipitating event?
+Adjustment Disorder
+Major Depressive Disorder
+Bipolar I Disorder
+Bipolar II Disorder
+Substance-Induced
+  Mood Disorder
+Cyclothymia
+No
+Yes
+Yes
+Are criteria for major depressive disorder met?
+(At least 2 weeks of depressed mood or
+irritability or loss of interest causing
+significant impairment with at least 5
+of the following: change in appetite,
+change in sleep, fatigue or loss of energy,
+feelings of worthlessness or guilt, poor
+concentration, psychomotor symptoms,
+thoughts of suicide)
+Are criteria for mania met?
+(Abnormally elevated mood of greater
+than 1 week in duration, associated with
+grandiosity, impulsivity, excessive
+goal-directed activity, and decreased
+need for sleep)
+Fig. 31.1  Evaluation of mood disorders.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+519
+CHAPTER 31  Emotional and Behavioral Symptoms
+depression eventually develop bipolar disorders. Fifty percent of chil­
+dren with major depression have multiple episodes, frequently asso­
+ciated with significant stressors. Approximately 25% of patients with 
+certain chronic medical conditions such as cancer or diabetes develop 
+a major depressive episode during the course of the illness. The main 
+difficulty in diagnosing major depression is that the gravity of the 
+depressive mood is often not always apparent to the parent and the cli­
+nician. Children and adolescents suffering from depression often have 
+a broader range of affect compared with adults, who often appear more 
+sullen. Given that children and adolescents often present with irritabil­
+ity or mean-­spiritedness, the parents and/or clinician may attribute this 
+behavior to typical adolescent behavior. These children do not always 
+appear sad and the clinician should have a high index of suspicion of 
+major depression in any child who presents with sullenness and irrita­
+bility. Guidelines for evaluating such a patient are as follows:
+	1.	 Assess suicidal ideation and ensure the patient’s safety.
+	2.	 Obtain collateral information from other sources to determine the 
+child’s functioning and symptoms.
+	3.	 Obtain a thorough family history for symptoms and formal diagno­
+ses of mood disorders.
+	4.	 Rule out bipolar disorders by assessing for symptoms of mania or 
+hypomania.
+	5.	 Investigate primary or comorbid conditions, such as substance 
+abuse.
+	6.	 Consider the role of life stressors in relationship to the symptoms.
+Premenstrual Dysphoric Disorder
+Both physical and mood symptoms can occur prior to a female’s men­
+strual cycle. When the symptoms are severe, they may constitute pre­
+menstrual dysphoric disorder, the primary features of which are mood 
+lability, irritability, dysphoria, and anxiety that appear recurrently 
+during the premenstrual phase of a female’s cycle and then resolve 
+around the onset of menses. Delusions or hallucinations have been 
+described but are rare. The 12-­month prevalence is as high as 6% of 
+menstruating women. Onset can be any time after menarche. Factors 
+such as stress, a history of trauma, and seasonal changes can contrib­
+ute. The DSM-­5 states that the following criteria must be met:
+	1.	 In the majority of cycles, at least four of the following symptoms: 
+marked affective lability (mood swings, increased sensitivity to 
+rejection), irritability or anger, increased interpersonal conflicts, 
+depressed mood, feelings of hopelessness or self-­deprecating 
+thoughts, anxiety, or tension
+	2.	 At least one of the following: decreased interest in activities, diffi­
+culty concentrating, lack of energy, change in appetite, change in 
+sleep, sense of being out of control, physical symptoms of breast 
+tenderness, joint pain, bloating, or weight gain
+	3.	 Symptoms present during the majority of cycles over the year prior
+The severity of symptoms is similar to that in other psychiatric 
+disorders, such as major depression or generalized anxiety disorder, 
+though the duration of symptoms is shorter. Nonetheless, symptoms 
+do need to be severe and cause marked impairment in functioning to 
+satisfy diagnostic criteria. To confirm the diagnosis, daily prospective 
+symptom ratings are required for at least two cycles.
+Substance-­Induced Mood Disorders
+Substance-­induced disorders are distinct from substance use disorders. 
+Whereas the latter refer to the negative consequences of substance 
+use over time, the substance-­induced disorders refer to the immedi­
+ate effects of substance use—intoxication and withdrawal—and to 
+the substance-­induced mental disorders, which include psychotic 
+disorders, anxiety disorders, depressive disorders, bipolar and related 
+disorders, obsessive-­compulsive and related disorders, sleep disorders, 
+sexual dysfunction, delirium, and neurocognitive disorders. The hall­
+mark of substance-­induced mental disorders is that the symptoms 
+of the disorder are attributable to the ingestion or chronic use of the 
+substance and were not present prior to substance use. While symp­
+toms may abate as the pharmacologic activity of the substance abates, 
+repeated use may lead to chronic changes in neurophysiology, and as 
+such, behavioral effects may persist even when the substance is no lon­
+ger used.
+The substances specified in the DSM-­5 include alcohol, caffeine, 
+cannabis (also synthetic cannabinoids), hallucinogens (including 
+phencyclidine and others), inhalants, opioids, sedatives/hypnotics/
+anxiolytics, stimulants, tobacco, and “other.” Defining the symptom 
+complex associated with each individual substance is out of the pur­
+view of this text; however, the possibility of substance use/abuse as a 
+cause for behavioral and mood disruption is critical for all physicians 
+to recognize. The patient interview should include time to speak with 
+the patient individually, without a parent or other caregiver present, so 
+as to establish rapport, to incorporate the techniques of normalizing 
+and remaining nonjudgmental, and to encourage a patient to discuss 
+their substance use.
+Adjustment Disorder
+Adjustment disorder is an excessive or maladaptive response to a 
+stressor, and diagnosis is contingent upon the recognition of a particu­
+lar stressor. Typical stressors for children and adolescents include sep­
+arations, painful injuries, illness, hospitalization or surgery, parental 
+divorce, change of residency, academic failure, and conflict with peers. 
+The DSM-­5 criteria for adjustment disorder are as follows:
+	1.	 The symptoms develop within 3 months of the stressor.
+	2.	 Significant social and/or academic impairment results.
+	3.	 The symptoms do not meet criteria for mood or anxiety disorder.
+	4.	 The symptoms do not represent bereavement.
+	5.	 The symptoms abate 6 months after termination of the stressor.
+This disorder is further classified by the patient’s symptoms, such 
+as depressed mood, anxiety, and/or conduct disorder. Affected 
+patients may be at increased risk for suicide, particularly if social and/
+or academic impairment are severe. If the stressor is an illness or its 
+treatment, the morbidity of the medical condition may increase as a 
+consequence of noncompliance. The differential diagnosis of adjust­
+ment disorder is a mood or anxiety disorder, a disruptive behavior dis­
+order, or post-­traumatic stress disorder (PTSD).
+Conditions Characterized by Extremes of Mood Lability
+The bipolar disorders include bipolar I disorder, bipolar II disorder, 
+and cyclothymic disorder. All are characterized by the presence of 
+either mania or hypomania. Mania manifests acutely, leads to signif­
+icant functional impairments, and is characterized by racing thoughts, 
+distractibility, delusions of grandeur, and other disturbances in think­
+ing. Problematic behaviors during a manic episode include recklessness 
+(e.g., excessive participation in social activities, high-­risk sexual activ­
+ity, spending sprees, extreme gambling), agitation, decreased sleep, and 
+excessive talkativeness. A manic episode is defined as an abnormally 
+elevated, euphoric, expansive, or irritable mood for at least 1 week 
+unless treated. This mood disturbance is associated with at least three 
+of the following symptoms or four if the mood is irritable:
+	1.	 Grandiosity
+	2.	 Decreased need for sleep
+	3.	 Talkativeness
+	4.	 Racing thoughts
+	5.	 Distractibility
+	6.	 Excessive goal-­directed activity or psychomotor agitation
+	7.	 Reckless pursuit of pleasure
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+520
+SECTION 6   Developmental and Psychiatric Disorders
+The symptoms of a hypomanic episode are the same, though are 
+present for a shorter duration (i.e., 4 days or fewer), are not associated 
+with psychotic symptoms of delusions or hallucinations, and are not 
+severe enough to cause major social or academic dysfunction. Up to 
+10% of patients with hypomania will eventually develop mania.
+Bipolar I disorder is characterized by the presence of manic epi­
+sodes. Patients may also have prior or subsequent episodes of hypo­
+mania or major depression, though these are not required. Bipolar II 
+disorder is characterized by the presence of at least one major depres­
+sive episode and hypomania. Cyclothymic disorder is a chronic, cyclic 
+illness of hypomania and depressive symptoms without episodes of 
+major depression.
+Comorbid psychiatric conditions include eating disorders, 
+ADHD, conduct disorders, panic disorders, social phobias, adjust­
+ment disorders, substance use disorders, and substance-­induced 
+disorders. The lifetime prevalence of bipolar I disorder is as high 
+as 1.6%, and that of bipolar II disorder is 0.5%. Approximately 15% 
+of adolescents with recurrent major depression eventually develop 
+bipolar illnesses.
+The differential diagnosis of the bipolar disorders includes schizo­
+phrenia and medical conditions that cause changes in mental sta­
+tus, particularly thyroid disorders, Cushing disease, and multiple 
+sclerosis (see Table 31.4). Substance-­induced mood disorders must 
+also be considered, particularly those associated with cocaine, tricy­
+clic antidepressants, and selective serotonin reuptake inhibitors. The 
+clinician should obtain a detailed family history as bipolar disorder 
+frequently runs in families. Because the condition is often undiag­
+nosed in parents, the questions should be directed toward the pres­
+ence of the symptoms for bipolar disorders. The following principles 
+should guide the evaluation of patients with symptoms of depression 
+or mania:
+	1.	 Recognize the symptoms of mania and hypomania.
+	2.	 Remember that depressed patients often have bipolar disorders.
+	3.	 Obtain a thorough family history to look for symptoms of mood 
+disorders.
+	4.	 Consider bipolar illnesses in patients with any disruptive disorder 
+that does not respond to treatment.
+	5.	 Assess for drug and/or alcohol use as substances may induce bipo­
+lar disorder, and substance use is frequently a comorbid condition.
+Borderline personality disorder is a chronic personality dis­
+order characterized by intense mood lability, impulsivity, identity 
+disturbances, and unstable relationships. The diagnosis may be 
+challenging in adolescents whose appropriate psychologic devel­
+opment includes the forging of identity and personality traits; 
+however, since borderline personality disorder is associated with 
+significant morbidity and potential mortality, it should be consid­
+ered in the differential diagnosis of a patient presenting with signif­
+icant mood or behavioral issues. Diagnosis requires five or more of 
+the following:
+	1.	 Significant efforts to avoid real or imagined abandonment
+	2.	 Unstable and intense relationships with extremes of idolization and 
+devaluation
+	3.	 Marked identity disturbances with unstable sense of self
+	4.	 Significant impulsivity in at least two areas that are potentially self-­
+damaging: spending, sexual activity, substance abuse, reckless driv­
+ing, or binge eating
+	5.	 Recurrent suicidal or self-­mutilating behavior
+	6.	 Intense dysphoria, irritability, or anxiety
+	7.	 Chronic feelings of emptiness
+	8.	 Inappropriate anger
+	9.	 Transient, stress-­related paranoia or dissociation
+Both genetic and psychosocial factors are believed to be causative. 
+Risk factors for borderline personality disorder include a history of 
+abuse, neglect, or early parental loss. The median population preva­
+lence is approximately 6% in primary care settings and is as high as 
+10% in outpatient mental health clinics. Females are more frequently 
+diagnosed than males, at a ratio of 3:1.
+Addressing Suicidal Thoughts and Attempts
+Suicide is the second leading cause of death in adolescents, and 
+assessing the risk of suicide is a critical component in the evalua­
+tion of any child or teen. Although depression is an important risk 
+factor for suicide, only half of adolescents who attempt suicide have 
+clinically diagnosable depression. In those without depression, 
+strong predictors of suicide are impulsivity and low frustration 
+tolerance. The approach to evaluating suicidality is complicated 
+and includes a stepwise process of probing first for latent thoughts 
+of suicidality (Table 31.7), then for active suicidal intent. Key to 
+this process is assessing whether the child is considering acting on 
+thoughts of death or suicide. To assess risk, the interviewer should 
+focus on the risk factors for completed suicide, which include the 
+following:
+	 1.	 Male gender
+	 2.	 Adolescence
+TABLE 31.7  Columbia Suicide Severity Rating Scale–Screener
+	1.	Have you wished you were dead or wished you could go to sleep and not wake up?
+	2.	Have you actually had any thoughts about killing yourself?
+If Yes to 2, answer questions 3, 4, 5, and 6. If No to 2, go directly to question 6.
+	3.	Have you thought about how you might do this?
+	4.	Have you had any intention of acting on these thoughts of killing yourself, as opposed to you having the thoughts but you definitely would not act on them?
+	5.	Have you started to work out or worked out the details of how to kill yourself? Do you intend to carry out this plan?
+	6.	Have you done anything, started to do anything, or prepared to do anything to end your life?
+Response Protocol to Screening, based on last item answered YES.
+Item 1 – Mental Health Referral at discharge
+Item 2 – Mental Health Referral at discharge
+Item 3 – Care Team Consultation (Psychiatric Nurse) and Patient Safety Monitor/Procedures
+Item 4 – Psychiatric Consultation and Patient Safety Monitor/Procedures
+Item 5 – Psychiatric Consultation and Patient Safety Monitor/Procedures
+Item 6 – If over a year ago, Mental Health Referral at discharge
+If between 1 wk and 1 yr ago, Care Team Consultation (Psychiatric Nurse) and Patient Safety Monitor
+If 1 wk ago or less, Psychiatric Consultation and Patient Safety Monitor
+From Posner K. Columbia-­Suicide Severity Rating Scale: Screener/Recent–Self-­Report. http://www.cssrs.columbia.edu/scales_practice_cssrs.html.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+521
+CHAPTER 31  Emotional and Behavioral Symptoms
+	 3.	 Formation of a conscious plan
+	 4.	 Presence of available means (e.g., medications, firearms)
+	 5.	 Depression
+	 6.	 Hopelessness
+	 7.	 Impulsivity
+	 8.	 Low frustration tolerance
+	 9.	 Use of intoxicants
+	10.	 Sexual identity conflicts
+	11.	 Recent death of family member or friend, or significant breakup
+	12.	 Previous suicide attempts
+Once a patient’s thoughts of suicide have escalated to suicide 
+threats, plans, or attempts, this constitutes a medical emergency and 
+the patient should be immediately referred to an experienced mental 
+health professional or emergency department, and psychiatric hospi­
+talization should strongly be considered.
+CONDITIONS CHARACTERIZED BY WORRY, FEAR, 
+AND PANIC
+These conditions include diagnoses in the broad categories of anxi­
+ety disorders, trauma-­ and stressor-­related disorders, and obsessive-­
+compulsive disorder. In childhood, these diagnoses are often comorbid 
+and may include portions of other related disorders. A child with PTSD 
+may experience panic attacks or a child with social anxiety may also 
+have some generalized worries.
+Conditions Characterized by Worry
+Worries are primarily internal ruminations about the potential to 
+experience negative outcomes from typically benign, everyday events. 
+While often accompanied by somatic symptoms, such as stomach 
+upset and headache, the hallmark of these disorders is the persistence 
+of worry across one or more areas of a child’s life. Conditions charac­
+terized by worry are categorized by whether they are associated with 
+unusual behaviors (Fig. 31.2).
+Worry Without Unusual Behaviors
+Generalized anxiety disorder is characterized by excessive worry 
+and concern over many issues. Chronic generalized anxiety may lead 
+to symptoms of depression or somatic complaints, including abdom­
+inal pain, nausea, appetite loss, and headaches. DSM-­5 criteria are as 
+follows:
+	1.	 Excessive anxiety and worry about various issues for more than 6 
+months
+	2.	 Difficulty controlling the worry
+	3.	 Anxiety and worry are associated with three of the following:
+	
+a.	 Restlessness
+	
+b.	 Being easily fatigued
+	
+c.	 Difficulty concentrating
+	
+d.	 Irritability
+	
+e.	 Muscle tension
+	
+f.	 Sleep disturbance
+	4.	 Anxiety, worry, or physical symptoms cause significant distress or 
+impairment
+The lifetime prevalence of generalized anxiety disorder is approx­
+imately 5%, with most cases initially presenting during childhood or 
+adolescence. The disorder is chronic and worsens during periods of 
+stress. Comorbid diagnoses include mood disorders, other anxiety dis­
+orders, and substance use disorders.
+Adjustment disorder with anxiety. The hallmark of adjustment 
+disorders is an excessive or maladaptive response to a stressor that is 
+out of proportion to that stressor. In adjustment disorder with anxiety, 
+the maladaptive response manifests as excessive worry. It can occur in 
+both children and adolescents. Stressors that children and adolescents 
+may encounter include social separations, parental divorce, illness, 
+injury, moving, academic failure, and peer conflict. The stressor should 
+not represent a perceived threat to the life of oneself or a loved one, 
+which would suggest PTSD. DSM-­5 diagnostic criteria are as follows:
+	1.	 Symptoms develop within 3 months of the stressor
+	2.	 Significant impairment results
+	3.	 The symptoms do not meet criteria for an alternative anxiety disor­
+der
+	4.	 The symptoms do not represent bereavement
+	5.	 The symptoms abate 6 months after termination of the stress
+Worry with Unusual Behaviors
+Obsessive-­compulsive disorder (OCD) is characterized by obsessive 
+worries that are briefly relieved by compensatory compulsive behav­
+iors. Obsessions are recurrent and persistent thoughts, urges, or 
+images that the individual attempts to ignore or suppress. Common 
+obsessions include fear of contamination or illness, guilt regarding sex­
+ual thoughts, images of violent or horrific scenes, and urges to injure 
+oneself or others. Compulsions are repetitive and excessive acts the 
+What is the primary symptom?
+Fear
+Panic
+Worry
+No
+No
+Yes
+Generalized Anxiety
+    Disorder
+Adjustment Disorder
+    with Anxiety
+Obsessive-Compulsive
+    Disorder
+PANS
+Acute Stress Disorder
+Post-traumatic Stress
+    Disorder
+Specific Phobias
+Social Anxiety Disorder
+Separation Anxiety Disorder
+Selective Mutism
+Yes
+Are there unusual behaviors
+with the worry?
+Do fears arise from
+trauma exposure?
+Panic Disorder
+Agoraphobia
+Fig. 31.2  Evaluation of worry, fear, and panic. PANS, pediatric acute onset neuropsychiatric disorder.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+522
+SECTION 6   Developmental and Psychiatric Disorders
+patient performs to reduce the anxiety elicited by obsessions. Compul­
+sions may include actions, such as repetitive handwashing or check­
+ing locks, or mental acts, such as repeating certain words or counting 
+internally. Some patients need to perform a particular action a specific 
+number of times to satisfy the compulsion. To meet criteria for OCD, 
+the compulsive actions must take over an hour a day or interfere with 
+the patient’s day-­to-­day life.
+Lifetime prevalence of OCD is approximately 2.5%. While females 
+are more frequently affected in general, males have a higher preva­
+lence during childhood. Children generally present with vague anxiety 
+symptoms or poor concentration before clear obsessions and compul­
+sions are seen. In children, OCD is highly comorbid with tic disorders 
+and ADHD. Other comorbidities include depression, anxiety disor­
+ders, and eating disorders.
+Pediatric Acute Onset Neuropsychiatric Disorder. Pediatric acute 
+onset neuropsychiatric disorder (PANS) is the term proposed for a 
+group of neuropsychiatric disorders (particularly OCD, tic disorder, 
+and Tourette disorder) with an acute onset, triggered by an immune 
+or infectious process. The most common subtypes are pediatric 
+autoimmune neuropsychiatric disorders associated with Streptococcus 
+pyogenes, for which a possible relationship with group A streptococcal 
+(GAS) infections has been hypothesized. It has been proposed that 
+this subset of patients with obsessive-­compulsive and tic disorders 
+may produce autoimmune antibodies in response to a GAS infection 
+that cross-­react with brain tissue similar to the autoimmune response 
+believed to be responsible for the manifestations of Sydenham chorea. 
+Until carefully designed and well-­controlled studies have established 
+a causal relationship between neurobehavioral abnormalities and 
+GAS infections, routine diagnostic laboratory testing for GAS and 
+antistreptococcal antibodies, long-­term antistreptococcal prophylaxis, 
+or immunoregulatory therapy (e.g., intravenous immunoglobulin, 
+plasma exchange) to treat exacerbations of this disorder is not routinely 
+recommended. The newer, broader diagnosis of PANS follows the 
+suggestion that a broad spectrum of infectious agents may have the 
+ability to trigger exacerbations in children with these neurobehavioral 
+disorders.
+Conditions Characterized by Fear
+Fear is an intense emotion centered on a belief that something is dan­
+gerous, emotionally harmful, or painful. Fears may be spontaneous or 
+may arise from previous traumatic experiences. While all people expe­
+rience fear as an emotion, in these disorders it causes significant func­
+tional impairment.
+Fears Arising Spontaneously
+Specific phobias. The hallmark of a specific phobia is intense fear 
+upon exposure to a particular stimulus or situation or, occasionally, 
+upon thinking about or visualizing the stimulus. The fear is out of 
+proportion to the actual danger. The fear response in children typically 
+manifests as clinging, crying, having a tantrum, or “freezing.” Common 
+specific phobias include animals, heights, enclosed places, exposure to 
+blood, or venipuncture. Specific phobias peak in childhood and early 
+adulthood. Diagnostic criteria of a specific phobia are as follows:
+	1.	 Intense fear is caused by a particular stimulus.
+	2.	 The object or situation almost always provokes immediate fear or 
+anxiety.
+	3.	 Stimuli are avoided or endured with great distress.
+	4.	 The fear is out of proportion to the actual danger.
+	5.	 The fear persists 6 months or longer.
+Social anxiety disorder (social phobia). Social anxiety disorder is a 
+specific phobia in which the stimulus is either a social or performance 
+task. Diagnostic criteria include the following:
+	1.	 Marked fear about one or more social situations
+	2.	 Individual fears that they will act in a way that will be negatively 
+evaluated
+	3.	 Social situations almost always provoke fear or anxiety
+	4.	 Social situations are avoided
+	5.	 Fear is out of proportion to the actual threat posed by the social 
+situation
+	6.	 Fear or anxiety persists 6 months or longer
+Social phobia most often begins in adolescence and is one and a 
+half times more frequent in females compared to males. Children with 
+social anxiety often refuse group play, stay close to familiar adults, and 
+appear excessively timid in unfamiliar situations. Children may report 
+somatic complaints, such as headaches or stomachaches, which abate 
+when the child is allowed to remain home and away from social situ­
+ations, including school. School avoidance due to severe social anxi­
+ety can be a significant problem for children and adolescents. Social 
+phobia may be comorbid with panic disorder, other anxiety disorders, 
+mood disorders, and substance abuse.
+Separation anxiety disorder. The core fear in separation anxiety 
+disorder is separation from a specific attachment figure or figures. Fear 
+of separation is normal in infants and children aged 6–30 months but 
+should be considered abnormal if increasing or not declining beyond 
+this age range. Diagnosis requires the presence of symptoms for greater 
+than 4 weeks. At least three of the following symptoms must be present:
+	1.	 Distress with separation
+	2.	 Worry about losing loved ones
+	3.	 Worry about an event causing separation
+	4.	 Refusal to go away from home
+	5.	 Reluctance to be alone
+	6.	 Refusal to fall asleep alone
+	7.	 Repeated nightmares of separation
+	8.	 Somatic complaints when separation occurs or is anticipated
+The prevalence of separation anxiety disorder is as high as 5%, with 
+onset typically in early childhood. Patients with separation anxiety 
+disorder often display their worries as demands or behavioral out­
+bursts, which may cause significant family conflict. Comorbid con­
+ditions include major depressive disorder and panic disorder with 
+agoraphobia.
+Selective mutism. Patients with selective mutism have a persistent 
+failure to speak in specific, but not all, situations. Children with 
+selective mutism are often shy in public but controlling at home in 
+order to maintain proximity to parents. Diagnostic criteria include the 
+following:
+	1.	 Consistent failure to speak in specific social situations
+	2.	 Failure to speak interferes with achievement or social communica­
+tion
+	3.	 Duration of at least 1 month
+	4.	 Failure to speak is not due to lack of knowledge of the spoken lan­
+guage
+	5.	 Disturbance is not better explained by a communication or other 
+psychiatric disorder
+The differential diagnosis includes communication disorders, 
+autism spectrum disorders, and social anxiety disorder. Selective mut­
+ism may be a more severe form of social anxiety disorder.
+Fears Arising from Traumatic Events
+A traumatic event is defined as an exposure to actual or threatened 
+death, serious injury, or sexual violence. Responses to traumatic events 
+include hyperarousal, avoidance of circumstances reminiscent of the 
+event, or re-­experiencing the event via nightmares, intrusive thoughts 
+of the event, or flashbacks. Acute stress disorder and PTSD are charac­
+terized by severe and persistent trauma responses that lead to impaired 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+523
+CHAPTER 31  Emotional and Behavioral Symptoms
+function. Symptoms are divided into four clusters: intrusion, avoidance, 
+negative alteration in cognition and mood, and marked alterations in 
+arousal and activity. Acute stress disorder is the persistence of at least 
+9 of the 14 defined symptoms, regardless of symptom cluster desig­
+nation, for 3 days to 1 month after exposure to a traumatic event. In 
+contrast to acute stress disorder, PTSD must include symptoms from 
+each of the separate symptom clusters. Exposure to the traumatic event 
+includes directly experiencing the event, witnessing the event, learning 
+the event occurred to a family member or close friend (caregiver for 
+children under 6), or experiencing repeated or extreme exposure to 
+details of a traumatic event.
+	1.	 Intrusion symptoms
+	
+a.	 Distressing memories of the event
+	
+b.	 Dreams in which content or effect of the dream is related to the 
+event (in children, does not need to be related to event)
+	
+c.	 Dissociative reactions in which the individual feels the event is 
+recurring (flashbacks) (in children, may be re-enactment in play)
+	
+d.	 Psychologic distress at exposure to reminders of the event
+	
+e.	 Marked physiologic reactions to reminders of the event
+	2.	 Avoidance
+	
+a.	 Avoidance or efforts to avoid distressing memories (children 
+may avoid places or physical reminders)
+	
+b.	 Avoidance of external reminders (children may avoid people, 
+conversations, or interpersonal relationships)
+	3.	 Negative alterations in cognition and mood
+	
+a.	 Inability to remember an important aspect of the traumatic 
+event (not a criterion for a child under 6 years of age)
+	
+b.	 Persistent and exaggerated negative beliefs (not a criterion for a 
+child under 6 years of age)
+	
+c.	 Persistent, distorted thoughts about cause or consequences of 
+trauma (not a criterion for a child under 6 years of age)
+	
+d.	 Persistent negative emotional state (fear, guilt, sadness, shame)
+	
+e.	 Decreased interest in activities (constriction of play in children)
+	
+f.	 Feelings of detachment (socially withdrawn behavior in children)
+	
+g.	 Persistent inability to experience positive emotions (express 
+positive emotions in children)
+	4.	 Alterations in arousal
+	
+a.	 Irritable behavior and angry outbursts (with little provocation)
+	
+b.	 Reckless or self-­destructive behaviors (not a criterion in a child 
+under 6 years of age)
+	
+c.	 Hypervigilance
+	
+d.	 Exaggerated startle response
+	
+e.	 Problems with concentration
+	
+f.	 Sleep disturbance
+While as many as 30% of children will have some symptoms of 
+acute stress disorder following a trauma, only 10% will meet diagnostic 
+criteria. The significance of acute stress disorder in predicting eventual 
+development of PTSD remains unclear.
+Comorbid diagnoses include panic disorder, social phobia, sub­
+stance abuse, OCD, somatic symptom disorder, and major depressive 
+disorder. In addition to PTSD, childhood trauma and other significant 
+stressors, together known as adverse childhood experiences, have 
+been found to predispose children to future chronic medical and men­
+tal health conditions. These medical conditions include ischemic heart 
+disease, cancer, chronic lung disease, skeletal fracture, and liver disease.
+Conditions Characterized by Panic
+Panic Disorder
+Panic attacks may be a component of many psychiatric disorders. 
+While panic disorder is characterized by recurrent and unexpected 
+panic attacks, the hallmark of panic disorder is persistent concern over 
+having additional attacks, worry about the consequences of an attack, 
+or a significant change in behavior related to the attacks. Panic attacks 
+occur suddenly, peak within 10 minutes, often resolve without inter­
+vention, and consist of at least four of the following symptoms:
+	 1.	 Palpitations or tachycardia
+	 2.	 Diaphoresis
+	 3.	 Trembling or shaking
+	 4.	 Shortness of breath or sensation of smothering
+	 5.	 Feelings of choking
+	 6.	 Chest pain
+	 7.	 Nausea or abdominal discomfort
+	 8.	 Dizziness or feeling faint
+	 9.	 Chills or heat sensation
+	10.	 Paresthesias
+	11.	 Derealization (feelings of unreality) or depersonalization
+	12.	 Fear of losing control or “going crazy”
+	13.	 Fear of dying
+The 1-­year prevalence rate of panic disorder is as high as 3.5%. The 
+age of onset is bimodal, with the largest peak occurring in adolescence 
+and a smaller one in the mid-­30s. Panic disorder in prepubertal chil­
+dren is rare.
+Patients with panic disorder have a high degree of comorbid condi­
+tions. Over half of patients may have major depressive disorder. There 
+is a high frequency of other anxiety disorders, such as social phobia, 
+OCD, and generalized anxiety disorder. Patients with panic disorder 
+are also at great risk for substance abuse, as a consequence of self-­
+medicating. Panic attacks may be inappropriately diagnosed as cardiac, 
+pulmonary, or neurologic emergencies.
+Agoraphobia
+Agoraphobia is characterized by intense anxiety over developing a 
+panic attack or other incapacitating or embarrassing symptoms in a 
+place from which the person cannot escape or in which help may not 
+be available. Diagnosis requires that the anxiety manifest in at least two 
+of the following situations:
+	1.	 Riding public transportation
+	2.	 Being in open spaces
+	3.	 Being in enclosed spaces
+	4.	 Standing in line or in a crowd
+	5.	 Being outside of the home alone
+The anxiety is present nearly every time an individual is exposed to 
+the situation they fear and may also develop when the child knows that 
+they may be placed in one of these situations. While agoraphobia does 
+present in childhood, the peak of onset is late adolescence and early 
+adulthood. It is seen in about 1.7% of adolescents. Females are affected 
+twice as frequently as males. Agoraphobia is typically preceded by 
+panic disorder, phobias, and separation anxiety disorder. Other comor­
+bidities, such as depression and substance use disorder, often follow the 
+presentation of agoraphobia.
+CONDITIONS CHARACTERIZED BY MENTAL 
+STATUS ABNORMALITIES
+The evaluation of mental status changes (Fig. 31.3) involves first deter­
+mining whether the abnormality is limited—such as hallucinations 
+unaccompanied by changes in cognition or consciousness—or perva­
+sive (see also Chapter 41). The abnormality should then be classified by 
+whether it is episodic or persistent. Finally, the mental status change 
+should be classified as either acute or chronic. An example of a limited, 
+episodic, acute change in mental status is the development of hallu­
+cinations secondary to acute anxiety. In contrast, autism represents a 
+pervasive, persistent, and chronic alteration in mental status.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+524
+SECTION 6   Developmental and Psychiatric Disorders
+Psychosis is an important consideration in any patient with mental 
+status abnormalities. Psychosis has key features including delusions 
+(fixed irrational implausible beliefs that may be persecutory, referen­
+tial, grandiose, erotomanic, nihilistic), hallucinations, disorganized 
+thinking/speech (loose associations, tangential, incoherent), abnor­
+mal motor behavior/catatonia, and negative symptoms (diminished 
+emotions, avolition, alogia, anhedonia, asociality). Psychosis, often 
+associated with schizophrenia, has a much broader differential diag­
+nosis (see Table 31.4), which must include drug use and the multiple 
+causes of autoimmune encephalitis (Table 31.8). Clues or red flags for 
+secondary causes of psychosis are noted in Table 31.9.
+Catatonia is also often associated with schizophrenia and may be 
+noted more often in patients with secondary causes of psychosis (see 
+Table 31.9). Disorders associated with catatonia include autoimmune 
+encephalitis (particularly N-­methyl-­D-­aspartate receptor related), sys­
+temic lupus erythematosus, viral encephalitis, autoimmune thyroid 
+disorders, autism, and demyelinating diseases. Catatonia is character­
+ized by the features in Table 31.10. The diagnosis is suggested by the 
+presence of two or more of these symptoms lasting ≥1 hour. Catatonia 
+may coexist with delirium.
+Conditions Characterized by Hallucinations
+Hallucinations—the apparent perception of something that does not 
+exist in reality—may be an indication of a medical condition, poor 
+visual or auditory function, the ingestion of a substance, or a psychi­
+atric illness (see Fig. 31.3). The vast majority of hallucinations in pre­
+adolescent children do not ultimately represent a serious psychiatric 
+or medical illness. Hallucinations occur in as many as 5% of normal 
+children.
+The first step in evaluating hallucinations is to assess the patient’s 
+mental status. Most children with hallucinations have an otherwise 
+normal mental status. If the primary alteration in mental status is 
+confusion, medical delirium should be considered (see Chapter 41). 
+The presence of delusions—beliefs that are maintained despite being 
+objectively contraindicated by reality—should prompt consideration 
+of psychosis, schizophrenia, or mood disorders. Most hallucinations 
+associated with delirium are visual, whereas those observed in psy­
+choses are typically auditory. Auditory hallucinations may be per­
+ceived as chatter or as a voice that chastises the child. Culture can 
+often shape the content of hallucinations and whether the sensory 
+experiences are considered worrisome or abnormal by the patient 
+and family. Children with an otherwise normal mental status may 
+hallucinate in the context of fantasy, grief, sleep, acute phobia, and 
+fever.
+Fantasy-­Based Hallucinations
+To define a subjective perceptual experience as hallucinatory, the per­
+son experiencing the phenomenon has to be able to distinguish imag­
+ination from reality. As they develop, children gradually learn that 
+imagination and reality are two separate entities. Children under 3 
+years of age confuse reality with imagination. By 4 years of age, chil­
+dren understand the concept of “pretend,” and by 7 years of age, they 
+understand imagination but act as though the fantasy is still real. They 
+may still describe having an imaginary friend. By 8 years of age, most 
+children are reliably able to distinguish inner thoughts from voices. 
+Some children are involved in more fantasy than are their peers and 
+may engage in fantasy for entertainment or comfort. On occasion, they 
+may get carried away by their fantasies and become quite fearful. Most 
+of these children proceed to healthy psychologic adjustment. Children 
+who have intellectual disability or other developmental delays may, 
+appropriately, have imaginary friends or voices into adolescence.
+Grief-­Induced Hallucinations
+The grieving process following the death of a loved one may include 
+visual hallucinations of the deceased. These hallucinations can also be 
+auditory, in which the child hears the voice of the deceased speaking 
+to the child. The child’s and the family’s reaction to these hallucina­
+tions is dependent on their cultural and religious beliefs. Some families 
+may perceive these events as a supernatural or a religious experience. 
+Although these experiences may be frightening to some young chil­
+dren, many find reassurance or comfort.
+Hallucinations Associated with Sleep
+Dreamlike hallucinations can occur during various stages of sleep. 
+Some may be considered bizarre by the patient and may include par­
+tial preservation of consciousness. Hypnagogic hallucinations occur 
+during sleep onset and hypnopompic hallucinations occur during 
+awakening. The overall prevalence of hypnagogic hallucinations is as 
+high as 37%; that of hypnopompic hallucinations is as high as 12.5%. 
+Patients with insomnia or excessive daytime sleepiness may be more 
+likely to experience sleep-­related hallucinations. As many as 30% of 
+patients with narcolepsy experience both hypnagogic and hypnopom­
+pic hallucinations. These hallucinations can also occur as part of PTSD, 
+in which case they often take the form of a flashback or re-­experiencing 
+of the traumatic event. Night terrors may resemble hallucinations, 
+though are a distinct entity of non–rapid eye movement sleep arousal. 
+The DSM-­5 defines sleep terror disorder as recurrent episodes of night 
+terrors. During episodes, the child appears to arouse from sleep and 
+cries or screams inconsolably, may speak unintelligibly, and exhibits 
+What is the primary symptom?
+Hallucinations
+No
+No
+Schizophrenia
+No
+Other cause of
+   delayed development
+Autism Spectrum Disorder
+Yes
+Delirium
+Substance intoxication
+   or withdrawal
+Autoimmune encephalitis
+Yes
+Fantasy-based
+   hallucinations
+Grief
+Sleep-associated
+  hallucinations
+Night terrors
+Phobic hallucinations
+Febrile hallucinations
+Yes
+Persistent delay in development
+Are there repetitive patterns of behavior
+and deficits in social communication?
+Are there other mental
+status changes?
+Does mental status
+fluctuate?
+Fig. 31.3  Evaluation of abnormal mental status findings.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+525
+CHAPTER 31  Emotional and Behavioral Symptoms
+TABLE 31.8  Antigenic Targets in Autoimmune Encephalitis with Associated Psychiatric 
+Features
+Commonly 
+Targeted 
+Antigens
+Antigen Description 
+or Epitope
+Main Encephalopathy 
+Syndrome and 
+Psychiatric Features
+Other Associated Neurologic 
+Disorders
+Main Psychiatric Features
+NMDAR
+Ligand-­gated ion channel
+Encephalopathy (frequently 
+extralimbic manifestation)
+Post–herpes simplex encephalitis 
+relapse with chorea; pediatric 
+dyskinetic encephalitis lethargica; 
+idiopathic epilepsy; immunotherapy-­
+responsive dementia 
+Anxiety, agitation, bizarre behavior, 
+catatonia, delusional or paranoid 
+thoughts, and visual or auditory hal­
+lucinations; also movement disorder, 
+seizures, autonomic instability 
+LGI1
+VGKC-­associated and 
+AMPAR-­associated 
+secreted molecule
+Limbic encephalitis with or 
+without faciobrachial dys­
+tonic seizures; prominent 
+hyponatremia
+Morvan syndrome, neuromyotonia, 
+epilepsy, REM sleep behavior disor­
+der; rarely isolated movement disorder 
+(parkinsonism, dystonia, chorea) 
+Confusion, hallucinations, depression 
+CASPR2
+VGKC-­associated adhesion 
+molecule
+Morvan syndrome: periph­
+eral nerve hyperexcitabil­
+ity, autonomic instability, 
+encephalopathy
+Limbic encephalitis, neuromyotonia, 
+epilepsy; rarely isolated movement 
+disorder (chorea, myoclonus) 
+Confusion, hallucinations, agitation, 
+delusions 
+AMPAR
+Ligand-­gated ion channel
+Limbic encephalitis
+NA
+Personality change, psychosis, apathy, 
+agitation, confabulation 
+GABAAR
+Ligand-­gated ion channel
+Limbic encephalitis with 
+refractory seizures
+Varied presentations 
+Confusion, anxiety, affective changes 
+(including depression), hallucinations, 
+catatonia 
+GABABR
+Ligand-­gated ion channel
+Limbic encephalitis with 
+refractory status epilep­
+ticus
+Opsoclonus-­myoclonus; cerebellar 
+ataxia; PERM 
+Psychosis, agitation, catatonia 
+Hu
+Intracellular RNA-­binding 
+protein
+Limbic encephalitis or 
+limbic encephalomyelitis 
+occurring with small cell 
+lung cancer
+Painful sensory neuropathy; cerebellar 
+ataxia 
+Confusion, depression, less commonly 
+hallucinations 
+Ma2
+Intracellular protein involved 
+in mRNA processing or 
+biogenesis
+Limbic encephalitis occurring 
+with testicular germ cell 
+tumors; REM sleep disorder 
+is common; frequent short-­
+term memory problems
+Visual dysfunction, gait disturbance, 
+hypokinesia 
+Confusion and anxiety, including obses­
+sions and compulsions 
+D2R
+Metabotropic receptor
+So-­called basal ganglia 
+encephalitis with prominent 
+movement disorder (i.e., 
+dystonia, parkinsonism, 
+chorea, tics)
+Sydenham chorea, PANDAS 
+Agitation, depression, psychosis, 
+emotional lability 
+DPPX
+Auxiliary subunit of Kv4.2 
+potassium channels
+Limbic encephalitis with 
+enteropathy
+PERM 
+Amnesia, delirium, psychosis, depres­
+sion
+MGluR5
+Metabotropic glutamate 
+receptor
+So-­called Ophelia syndrome: 
+limbic encephalitis in 
+association with Hodgkin 
+lymphoma
+Paraneoplastic limbic encephalitis with­
+out lymphoma, or nonparaneoplastic 
+limbic encephalitis; immunotherapy-­
+responsive prosopagnosia 
+Depression, anxiety, delusions, visual 
+and auditory hallucinations, personal­
+ity change, anterograde amnesia 
+GFAP
+Intracellular (cytosolic) glial 
+intermediate filament 
+protein
+Corticosteroid-­responsive 
+meningoencephalitis or 
+encephalitis, with or with­
+out myelitis; presents with 
+subacute onset of memory 
+loss and confusion 
+NA
+Occurred in 29% in one study but not 
+described in detail; psychosis and 
+behavioral changes reported 
+AK5, adenylate kinase 5; AMPAR, α-­amino-­3-­hydroxy-­5-­methyl-­4-­isoxazolepropionic acid receptor; CASPR2, contactin-­associated protein-­like 2; D2R, 
+dopamine receptor D2; DPPX, dipeptidyl-­peptidase-­like protein-­6; GABAAR, γ-­aminobutyric acid type A receptor; GABABR, γ-­aminobutyric acid type 
+B receptor; GFAP, glial fibrillary acidic protein; LGI1, leucine-­rich glioma-­inactivated 1; MGluR5, metabotropic glutamate receptor 5; NA, not applica­
+ble; NMDAR, N-­methyl-­D-­aspartate receptor; PANDAS, pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections; 
+PERM, progressive encephalomyelitis with rigidity and myoclonus; REM, rapid eye movement; VGKC, voltage-­gated potassium channel.
+Modified from Pollak TA, Lennox BR, Muller S, et al. Autoimmune psychosis: an international consensus on an approach to the diagnosis and man­
+agement of psychosis of suspected autoimmune origin. Lancet Psychiatry. 2020;7(1):93–108.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+526
+SECTION 6   Developmental and Psychiatric Disorders
+intense fear and autonomic arousal (e.g., tachycardia, sweating). On 
+awakening, the child has no memory of the event. Episodes of night 
+terrors last from 1 to 10 minutes. Night terrors occur during stage 
+4 sleep and not during rapid eye movement sleep and tend to occur 
+in the first half of the night. Over 30% of 18-­month-­old toddlers will 
+experience a night terror, with the prevalence decreasing to 2.2% by 
+adulthood. Seizures, especially of the temporal and frontal lobes, can 
+produce fear and complex behavior patterns resembling night terrors, 
+and should be considered in the differential diagnosis of night terrors.
+Phobic Hallucinations
+Acute phobic hallucinations occur in preschool-­aged children and 
+consist of episodes of hallucinations coupled with terror. These hal­
+lucinations last from 10 to 60 minutes and may occur any time of 
+the day but mostly at night. During episodes, the child may become 
+very frightened, state that bugs are crawling over them and attempt to 
+remove them, cry, or hide. Because of the acute change in mental status, 
+this condition must be differentiated from the medical and psychotic 
+causes of hallucinations, such as delirium. The cause of acute phobic 
+hallucinations is unknown. Phobic hallucinations are most frequently 
+seen in children with a personal or family history of anxiety. Symptoms 
+usually last 1–3 days and diminish over 1–2 weeks.
+Febrile Hallucinations
+Preschool-­aged children may hallucinate during high fevers. The hallu­
+cinations are temporary and are not associated with future psychiatric 
+disorders. The phenomenon may represent a mild form of delirium 
+and typically requires only reassurance for management, as well as 
+evaluation for the source of fever. Persistent hallucinations, impaired 
+consciousness, and changes in cognition, such as not recognizing par­
+ents or difficulty completing previously accomplished tasks, suggest 
+frank delirium and require further evaluation.
+Schizophrenia
+Schizophrenia is a disorder of chronic, persistent psychosis (loss of 
+reality testing) that often presents in adolescence or young adulthood. 
+Symptoms are divided into four domains: positive symptoms, negative 
+symptoms, cognitive symptoms, and mood symptoms. Positive symp­
+toms consist of psychotic symptoms (such as hallucinations), delusions 
+(fixed false beliefs), and disorganized speech and behavior (loose asso­
+ciations). Negative symptoms consist of social withdrawal, flattening 
+of affect, alogia (i.e., speaking in brief sentences), abulia, apathy, and 
+avolition (i.e., lack of desire to do anything) (see Table 31.5). The flat 
+affect may consist of a reduction in body language, lack of eye contact, 
+and emotional unresponsiveness (see Table 31.5). Cognitive symp­
+toms are characterized by deficits in executive function and an inability 
+to appreciate and react appropriately to social cues. Mood symptoms 
+often consist of depression though may also consist of context-­
+inappropriate cheerfulness or sadness. The symptoms may fluctuate 
+over time, and as such, schizophrenia is divided into two phases: pro­
+dromal and active. Diagnostic criteria for schizophrenia specify two or 
+more of the following characteristic symptoms:
+	1.	 Delusions
+	2.	 Hallucinations
+	3.	 Disorganized speech
+	4.	 Grossly disorganized or catatonic behavior
+	5.	 Negative symptoms, such as flat affect
+At least one symptom must be delusions, hallucinations, or dis­
+organized speech and the symptoms must appear in the context of 
+significant social and educational dysfunction. There must also be 
+continuous indications of the disturbance for at least 6 months, with 
+at least 1 month of active-­phase symptoms. Medical causes and mood 
+disorders need to be excluded (see Table 31.4). Orientation and mem­
+ory are usually intact in schizophrenia.
+During the prodromal phase, the patient exhibits progressive 
+negative symptoms; these include social withdrawal, flattened affect, 
+or eccentric behaviors. During this period, the patient may also have 
+unusual beliefs that are not of the magnitude of true delusions or hallu­
+cinations. The patient may have magical thinking or may perceive that 
+someone is talking to them, but no words are hallucinated.
+During the active phase of schizophrenia, the patient has at least 
+two characteristic symptoms for more than 1 month, unless the 
+TABLE 31.9  Red Flags and Features 
+Suggesting Secondary Etiologies of Psychosis
+Atypical Features
+ • Normal prior to event
+ • Very early (≤13 yr) age of onset
+ • Acute or subacute onset (days, ≤1 mo)
+ • Catatonia
+ • Dyskinesias
+ • Isolated misidentification delusion (Capgras syndrome)
+ • Depressed level of consciousness
+ • Cognitive and recent memory decline
+ • Poor orientation
+ • Intractability despite adequate therapy
+ • Rapidly progressive and/or fluctuating (polymorphic) symptoms
+ • Multimodel hallucinations: visual, auditory, olfactory, gustatory
+History
+ • Infectious prodrome
+ • New or worsening headache
+ • Paresthesias
+ • Past, current substance misuse
+ • Recent onset incontinence
+ • Anorexia/weight loss
+ • Risk factors for cerebrovascular disease or central nervous system infec­
+tions
+ • Malignancy
+ • Immunocompromised status
+ • Head trauma
+ • Seizures
+ • Hepatobiliary disorders
+ • Systemic lupus erythematosus/other autoimmune diseases
+ • Biological relatives with similar medical complaints
+Physical Examination
+ • Autonomic hyperactivity: tachycardia, hypertension, mydriasis, sleep 
+disturbance
+ • Incoordination, or gait difficulty
+ • Toxidrome
+ • Abnormal neurologic exam: upper and lower motor neuron focal findings
+ • Movement disorder
+Diagnostic Abnormalities
+ • Abnormal electroencephalogram (extreme delta brush, diffuse slowing)
+ • Abnormal cerebrospinal fluid (pleocytosis: greater than five lymphocytes)
+ • Positive urine toxicology
+ • Screening laboratory tests including N-­methyl-­D-­aspartate receptor and 
+other antibodies
+ • Abnormal neuroimaging studies (unilateral or bilateral hippocampal/
+medial temporal lobe hyperdensities: limbic encephalitis)
+ • Hyponatremia
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+527
+CHAPTER 31  Emotional and Behavioral Symptoms
+symptoms have been shortened by treatment. The most common delu­
+sions in this disorder are persecutory (e.g., the patient is being spied 
+on) and referential (e.g., external events or comments are directed 
+toward the patient). Other less common delusions may be somatic 
+(e.g., internal organs are replaced by others), religious, or grandiose in 
+nature. Hallucinations are most commonly auditory but may emanate 
+from any sensory modality.
+The disorganized speech may be incomprehensible, and the 
+patient may be unable to organize a logical conversation. The behavior 
+problems consist of inappropriate dress, disheveled appearance, unpro­
+voked aggression, and catatonia, decreased responsiveness to the envi­
+ronment (see Table 31.10). If symptoms have not been present for 6 
+months, the provisional diagnosis of schizophreniform disorder is 
+applied. Approximately 65% of patients with schizophreniform disor­
+der have symptoms that last longer than 6 months and are reclassified 
+as having schizophrenia.
+Schizophrenia is exceedingly rare and is often a misdiagnosis 
+prior to 13 years of age. If diagnosed prior to this age, it is labeled as 
+childhood-­onset or very early-­onset schizophrenia. Furthermore, 
+onset prior to age 13 requires a careful evaluation to look for atypical fea­
+tures and to exclude medical causes of psychosis, especially drug ingestion 
+and autoimmune encephalitis (see Tables 31.8 and 31.9). Prevalence is 
+approximately 2.5/100,000 in children under 13 years of age and 0.5% 
+in adolescents. The differential diagnosis of schizophrenia consists of 
+other causes of psychosis (especially autoimmune encephalitis), delir­
+ium, dementia, mood disorder, pervasive developmental disorders, 
+and substance ingestion (see Tables 31.4 and 31.9). The prognosis of 
+schizophrenia is guarded, with significant morbidity and mortality. The 
+risk of suicide is high early in the illness. The disorder is chronic and is 
+associated with exacerbations and remissions. Even with optimal ther­
+apy, patients with schizophrenia may have significant social deficits, 
+poor initiative, and abnormal thought processes.
+Conditions Characterized by Fluctuating Mental 
+Status
+Delirium
+Delirium is characterized by deficits in cognition and consciousness 
+that develop over a short time (see Chapter 41). Diagnostic criteria 
+include the following:
+	1.	 Disturbance in awareness and attention (i.e., reduced ability to 
+direct, focus, sustain, and shift attention)
+	2.	 Change in cognition (e.g., memory deficit, disorientation, language 
+disturbance, perceptual disturbance) that is not better accounted 
+for by a pre-­existing, established, or evolving dementia
+	3.	 Disturbance develops over a short period of time and tends to fluc­
+tuate over time
+	4.	 There is evidence of a medical, substance-­induced, or toxin-­induced 
+cause
+Children with delirium may misinterpret auditory or visual stimuli 
+or may have actual hallucinations. The hallucinations of delirium are 
+different from those seen in psychosis in that they are more often visual 
+and acute in onset, whereas those resulting from psychoses are usually 
+auditory and are subacute or chronic.
+Besides altered sensorium, patients often have decreased sleep or 
+reversal of the sleep/wake cycle and may exhibit psychomotor agitation 
+or retardation. Delirium is indicative of global cerebral dysfunction. 
+Because causes of delirium are potentially life threatening, an expedi­
+ent and comprehensive medical evaluation is needed.
+Substance Intoxication
+Intoxication is defined as clinically significant behavioral or psycho­
+logic changes following the use of a substance (Table 31.11). The most 
+common signs of intoxication are changes in perception, wakeful­
+ness, attention, thinking, judgment, coordination, and interpersonal 
+TABLE 31.10  Catatonia
+Excitement: Extreme hyperactivity; constant motor unrest, which is apparently nonpurposeful
+Immobility/stupor: Extreme hypoactivity, immobility; minimally responsive to stimuli
+Mutism: Verbally unresponsive or minimally responsive
+Staring: Fixed gaze, little or no visual scanning of environment, decreased blinking
+Posturing/catalepsy: Maintains posture(s), including mundane (e.g., sitting or standing for hours without reacting)
+Grimacing: Maintenance of odd facial expressions
+Echopraxia/echolalia: Mimics of examiner’s movements/speech
+Stereotypy: Repetitive, non-­goal-­directed motor activity (e.g., finger-­play; repeatedly touching, patting, or rubbing self)
+Mannerisms: Odd, purposeful movements (hopping or walking tiptoe, saluting passersby, exaggerated caricatures of mundane movements)
+Verbigeration: Repetition of phrases or sentences
+Rigidity: Maintenance of a rigid posture despite efforts to be moved
+Negativism: Apparently motiveless resistance to instructions or to attempts to move/examine the patient; contrary behavior does the opposite of the instruction
+Waxy flexibility: During reposturing of the patient, offers initial resistance before allowing themselves to be repositioned (similar to that of bending a warm candle)
+Withdrawal: Refusal to eat, drink, or make eye contact
+Impulsivity: Suddenly engaging in inappropriate behavior (e.g., runs down the hallway, starts screaming, or takes off clothes) without provocation; afterward, cannot 
+explain
+Automatic obedience: Exaggerated cooperation with examiner’s request, or repeated movements that are requested once
+Passive obedience (mitgehen): Raising arm in response to light pressure of finger, despite instructions to the contrary
+Negativism (gegenhalten): Resistance to passive movement that is proportional to strength of the stimulus; response seems automatic rather than willful
+Ambitendency: Appears stuck in indecisive, hesitant motor movements
+Grasp reflex: Striking the patient’s open palm with two extended fingers of the examiner’s hand results in automatic closure of the patient’s hand
+Perseveration: Repeatedly returns to the same topic or persists with the same movements
+Combativeness: Belligerence or aggression, usually in an undirected manner, without explanation
+Autonomic abnormality: Abnormality of body temperature (fever), blood pressure, pulse rate, respiratory rate, inappropriate sweating
+From Dhossche DM, Wachtel LE. Catatonia is hidden in plain sight among different pediatric disorders: a review article. Pediatr Neurol. 
+2010;43:307–315.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+528
+SECTION 6   Developmental and Psychiatric Disorders
+behavior. Physical findings suggest particular classes of medications 
+and cluster into recognizable patterns of signs and symptoms termed 
+toxidromes (Table 31.12). If the suspected cause of altered mental sta­
+tus in a patient is substance intoxication, urine and blood toxicology 
+testing should be performed.
+Patients who present with substance intoxication should be evalu­
+ated for whether the ingestion represented an attempt at self-­harm or 
+suicide. Some substance intoxications will require medical hospitaliza­
+tion, if severe. Patients being treated for psychiatric illnesses may be 
+at risk of two particular toxidromes related to their medical therapy, 
+serotonin syndrome and neuroleptic malignant syndrome.
+Serotonin Syndrome
+The triad of cognitive-­behavioral changes, autonomic instability, and 
+neuromuscular signs and symptoms are characteristic of the central 
+serotonin syndrome. Patients frequently manifest behavior alterations 
+that include confusion, disorientation, agitation, and irritability. Coma, 
+anxiety, seizures, hallucinations, and hypomania are less common.
+Central serotonin syndrome results from excessive central ner­
+vous system serotonin activity from dietary supplements or the use 
+of substances that modify central nervous system serotonin levels. 
+Most commonly, these agents are selective serotonin reuptake inhib­
+itors or other substances that inhibit serotonin reuptake, includ­
+ing tricyclic antidepressants, meperidine, dextromethorphan, and 
+TABLE 31.11  Potential Behavioral and 
+Cognitive Manifestations of Substance Abuse
+Depression
+Panic attacks
+Anxiety
+Hallucinations
+Delusions
+Paranoia
+Mania
+Depersonalization
+Disinhibition
+Impulsivity
+Cognitive deficits:
+Attention
+Calculation
+Executive tasks
+Memory
+Fatigue
+Sedation
+From Perez DL, Murray ED, Price BH. Depression and psychosis in 
+neurological practice. In: Daroff RB, Jankovic J, Mazziotta JC, Pomeroy 
+SL, eds. Bradley’s Neurology in Clinical Practice. 7th ed. Philadelphia: 
+Elsevier; 2015.
+TABLE 31.12  Clinically Relevant Toxidromes
+Toxidrome
+Clinical Findings
+Example Agents
+Cholinergic
+Diarrhea, fecal incontinence, enuresis, miosis, tachycardia followed by bra­
+dycardia, lacrimation, sialorrhea, sweating, muscle fasciculations followed 
+by weakness and/or paralysis, altered mental status
+Organophosphate and carbamate insecticides
+Amanita muscaria
+Nicotine
+Anticholinergic
+Agitated delirium, flushing, decreased sweating, tachycardia, mydriasis, 
+urinary retention, decreased peristalsis, hyperthermia
+Atropine
+Benztropine
+Scopolamine
+Diphenhydramine
+Sympathomimetic
+Mydriasis, hyperthermia, seizures, hyperactivity, hypertension, tachycardia, 
+diaphoresis, delusions, piloerection
+Cocaine
+Methamphetamine
+MDMA
+Sympatholytic
+Miosis, hypotension, bradycardia or reflex tachycardia, CNS depression
+Clonidine
+Methyldopa
+Oxymetazoline
+Opioid
+Miosis, CNS depression, respiratory depression or apnea, may have hypo­
+tension
+Heroin
+Morphine
+Fentanyl
+Oxycodone
+Serotonin syndrome
+Mental status changes, autonomic hyperactivity, neuromuscular abnormali­
+ties, akathisia, tremor, clonus, muscle hypertonicity, hyperthermia
+Sertraline
+Fluoxetine
+Citalopram
+Linezolid
+Trazodone
+Meperidine
+Tramadol
+Neuroleptic malignant 
+syndrome
+Fever, “lead pipe” muscular rigidity, altered mental status, autonomic 
+dysfunction (in setting of recent treatment with neuroleptics)
+Haloperidol
+Chlorpromazine
+Promethazine
+Prochlorperazine
+Ziprasidone
+Quetiapine
+CNS, central nervous system; MDMA, methylenedioxymethamphetamine.
+From Skolnik AB, Wilcox SR. General toxicology and toxidromes. In: Critical Care Secrets. 5th ed. St. Louis: Mosby; 2013:545–551.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+529
+CHAPTER 31  Emotional and Behavioral Symptoms
+3,4-­methylenedioxymethamphetamine (MDMA). Other substances, 
+such as amphetamines, cocaine, and levodopa, increase synaptic 
+serotonin release, while others, such as lithium and lysergic acid 
+diethylamide, are serotonin agonists. Monoamine oxidase inhibitors 
+inhibit serotonin degradation.
+Autonomic features of serotonin syndrome include hyperther­
+mia, diaphoresis, and tachycardia. Hypertension, mydriasis, and 
+tachypnea are less common. Neuromuscular features include myoc­
+lonus, hyperreflexia, tremor, restlessness, hyperactivity, and ataxia. 
+Neuroleptic malignant syndrome is included in the differential 
+diagnosis and is distinguished by neurologic exam since neurolep­
+tic malignant syndrome presents with hyporeflexia and lead-­pipe 
+muscular rigidity (Chapter 38).
+Neuroleptic Malignant Syndrome
+The hallmark of neuroleptic malignant syndrome is severe general­
+ized rigidity, fever, and altered mental status consisting of delirium or 
+stupor. Other findings include diaphoresis, significant creatine kinase 
+elevation, autonomic instability, urinary incontinence, tachypnea, and 
+pallor. While rare, as many as 0.02% of individuals treated with anti­
+psychotics are affected and fatality rates are as high as 20% if the condi­
+tion is not recognized and managed appropriately. Differentiation from 
+serotonin syndrome is based on medication review, and the presence of 
+significant rigidity, which serotonin syndrome lacks.
+CONDITIONS CHARACTERIZED BY PHYSICAL 
+FINDINGS OR COMPLAINTS
+Parents may present to the primary care provider with unexplained 
+physical complaints on behalf of the child. These complaints may be 
+inconsistent with the results of the medical evaluation and may fail 
+to respond to any medical therapy. These unexplained physical com­
+plaints may be the manner in which a patient copes with a stressor. 
+The patient may not be aware of the stressor, nor may the patient 
+realize that these symptoms emanate from their effort to cope with 
+the problem. The clinician should empathize with the patient, vali­
+date the presence of the symptoms, then state which potentially seri­
+ous medical conditions are reasonably felt to be unlikely based on 
+the patient’s history, examination, and diagnostic evaluation. The cli­
+nician should highlight the notion that stress can produce or worsen 
+symptoms and should recommend that the possibility of stress be 
+evaluated while the clinician continues to monitor the patient for 
+other medical illnesses. Key to the evaluation is determining whether 
+the symptoms are more concerning primarily to the parent or to the 
+child.
+Conditions Characterized by Parental Concerns 
+(Table 31.13)
+Parental Worry
+Parents may worry excessively about their child’s health because of a 
+preceding life-­threatening event or illness, because of mistrust of the 
+medical profession, or as an expression of their own fear of having a 
+serious condition themselves. These parents do not invent the child’s 
+symptoms but instead experience an exaggerated worry about symp­
+toms. The evaluation of a parent’s excessive concern over the child’s 
+health may be further subdivided into specific concerns versus general 
+medical worries.
+Specific medical concerns are often related to prior life-­threatening 
+events or illnesses, or previous negative experiences with the health 
+care system. Reassurance after an appropriate and thorough medical 
+evaluation may reduce parental anxiety. When the parent reveals the 
+past incident that led to distrust of the reassurances of doctors, the cli­
+nician may be able to reduce the parent’s worry through open discus­
+sion on the differences between past and current events.
+If the parents report that they worry about everything, the clinician 
+should determine whether this is a recent development or a chronic 
+concern. Parents with an acute onset of general medical worries about 
+their children may suffer from a recent stressor or may have anxiety, 
+depression, or OCD. Reassurance alone may be insufficient under these 
+circumstances and the parents’ generalized worries may not improve 
+until their own symptoms improve. In such a case, providing parents 
+with resources for their own mental health treatment may be needed.
+Factitious Disorder Imposed on Another (Formerly 
+Munchausen Syndrome by Proxy) (see also Chapter 30)
+This disorder is a condition in which the patient either feigns or pro­
+duces symptoms or physical findings in their child to fulfill an under­
+lying need to assume the caregiver role for a sick child. There is no 
+external reward for these symptoms, in contrast to malingering, in 
+which the symptoms result in either economic gain or avoidance of 
+responsibilities.
+Red flags include unexplained and prolonged illnesses, incongru­
+ous symptoms and signs, ineffective medical treatments, and prior epi­
+sodes of sudden infant death syndrome. The offending caregiver may 
+not seem worried about the child’s medical condition. Some caregiv­
+ers may form an unusually close relationship with the medical staff; 
+however, there are many exceptions, in which the caregiver is instead 
+neglectful, disruptive, and argumentative.
+When this entity is suspected, the first step in evaluation is to ensure 
+the child’s safety, which may require hospitalization on a medical ward. 
+TABLE 31.13  Diagnostic Features of Malingering and Factitious Disorders
+Malingering
+Factitious Disorder (Previously 
+Known as Munchausen)
+Factitious Disorder Imposed on 
+Another
+Primary gain
++/− (primary goal with malingering is 
+external reward rather than sick role)
+Goal is to receive medical care/interventions
+Parent produces symptoms in child to receive 
+medical care/obtain sick role for child
+Secondary gain
++
+Economic gain or avoidance of respon­
+sibilities
+−
+−
+Age of onset
+More common in adults
+More common in adults; can start in adolescence/
+childhood
+Adults in a caretaker role
+Things to look 
+out for
+Misuse of resources/fraudulent 
+behaviors
+Avoidance of unnecessary procedures/treatments, 
+especially more invasive procedures; monitor for 
+signs of “doctor shopping”
+Concerns for child maltreatment and abuse; 
+safety concerns for children and families
+A “+” indicates symptoms are seen in the disorder. A “-” indicates symptoms are not seen in the disorder.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+530
+SECTION 6   Developmental and Psychiatric Disorders
+With safety assured, the next step is to develop a definitive investigative 
+plan with a multidisciplinary team consisting of mental health profes­
+sionals, physicians, social services, child abuse specialists, and the legal 
+system. This plan will be most successful when combined with thor­
+ough and timely documentation of findings and concerns.
+Conditions Characterized by the Patient’s Physical 
+Complaints
+Psychologic and social stressors may result in the development of 
+physical symptoms. These symptoms seem real to the child and cause a 
+great deal of distress. Extreme manifestations of these concerns include 
+the somatic symptom disorders (Table 31.14).
+Illness Anxiety Disorder (Hypochondriasis)
+In illness anxiety disorder, the child either fears that they have a serious 
+illness or focuses on minor discomforts with a worry that they may 
+have a life-­threatening illness. The hallmark is not the physical symp­
+tom itself but the anxiety over what the symptom represents. Illness 
+anxiety disorder is often associated with other anxiety and depressive 
+disorders; consequently, these patients may appear sad, irritable, or 
+fatigued and should be screened for suicidal ideation or intent, as well 
+as evidence of other comorbid psychiatric disorders.
+Somatic Symptom Disorder
+Somatic symptom disorder requires the presence of a physical symp­
+tom that is distressing. That symptom must then lead to one of the 
+following three behaviors:
+	1.	 Disproportionate and persistent thoughts about the seriousness of 
+one’s symptoms
+	2.	 Persistently high level of anxiety about health or the symptom
+	3.	 Excessive time and energy devoted to the health concern
+In addition, the patient must have at least one symptom for 6 months. 
+This is separate from illness anxiety disorder as the patient’s complaints 
+are focused on the symptom, not anxiety about developing a life-­
+threatening illness. It is important to note that, in contrast to conversion 
+disorder, the symptom does not have to be medically unexplainable.
+Associated comorbid conditions are major depressive disorder, 
+panic disorder, substance abuse, borderline personality disorder, and 
+antisocial personality disorder. This is a chronic condition that rarely 
+remits. The psychiatric differential diagnosis is extensive and includes 
+major depression, schizophrenia with somatic delusions, panic disor­
+ders (in which symptoms occur only during an attack), generalized 
+anxiety disorder, and factitious disorder.
+Factitious Disorder
+Factitious disorder consists of a patient inducing symptoms or signs to 
+assume the role of being sick and to receive care. There is no secondary 
+gain, such as escaping responsibilities or receiving money, as is found 
+with malingering. The onset of this disorder usually occurs in early 
+adulthood; it can also occur in childhood. Patients are at risk for sub­
+stance use disorders (secondary to using agents to induce symptoms) 
+as well as for complications from associated diagnostic evaluations and 
+unnecessary surgical procedures. On confrontation, they may either 
+change their symptoms or try to seek medical care elsewhere.
+Conversion Disorder (Functional Neurologic Symptom 
+Disorder)
+The diagnosis of conversion disorder is based on the presence of one or 
+more symptoms of altered voluntary motor or sensory function. Symp­
+toms may take the form of weakness, paresthesias, vision changes, or 
+paroxysmal episodes of erratic movements that may be mistaken for 
+seizure activity. The history, physical examination, and neurologic 
+diagnostic evaluation, including the use of long-­term video electro­
+encephalogram monitoring in the case of paroxysmal movements, 
+demonstrate incompatibility between the symptom and any medical 
+condition. Unlike somatic symptom disorder, in which patients have 
+excessive thoughts, feelings, or behaviors associated with the volun­
+tary motor or sensory function, conversion disorder is an unconscious 
+phenomenon.
+Onset is usually in late adolescence or early adulthood. A typical 
+episode is acute, follows a recent stressor, and is of relatively short 
+duration, typically <4 weeks. The symptoms may solve a psychologic 
+conflict. For example, complaints of blindness may prevent a patient 
+from being witness to traumatic events in their environment. Common 
+childhood stressors associated with conversion disorders are grief, bul­
+lying, and abuse. Major depressive disorder and anxiety disorders are 
+associated with conversion disorders.
+Conditions Characterized by Changes in Eating
+The disorders combined under eating disorders (Table 31.15) are most 
+often thought of as leading to weight loss. However, these disorders 
+may be better conceptualized by their pattern of eating than weight 
+changes that may result.
+Conditions Characterized by Decreased Eating
+Anorexia Nervosa
+Anorexia nervosa is an eating disorder in which the patient restricts 
+caloric intake due to a significant fear of gaining weight and distorted 
+body image. There are two subtypes, restricting type and binge-­
+eating/purging type. Diagnostic criteria are as follows:
+	1.	 Restriction of energy intake leading to a significantly low body 
+weight
+	2.	 Intense fear of gaining weight or becoming fat
+TABLE 31.14  Diagnostic Features of Conditions Characterized by Patient’s Physical Complaints
+Illness Anxiety Disorder
+Somatic Symptom Disorder
+Conversion Disorder
+Presenting com­
+plaint
+Primary concern is the development of 
+a serious illness—does not require 
+specific symptoms
+Primary concern is a specific symptom; generally 
+presents with a more specific physical complaint
+Presents with new-­onset neurologic or 
+physical symptom; patient may or may not 
+be concerned about this new symptom
+Medical 
+correlation to 
+complaint
+Generally present with more vague com­
+plaints than a specific symptom; not 
+usually explained by medical work-­up
+Patient can have a medical explanation for their 
+symptom; however, the worry about the seri­
+ousness of the symptom is disproportionate or 
+excessive
+Physical and neurologic findings do not 
+correlate with patient’s presentation
+Course of disease
+Often associated with other anxiety 
+disorders; can be chronic
+Chronic; rarely remits
+Generally acute onset; can recur with same 
+or different presenting symptom(s)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+531
+CHAPTER 31  Emotional and Behavioral Symptoms
+	3.	 Distorted perception of body size, undue influence of body weight 
+or shape on self-­evaluation, or lack of recognition of severity of low 
+body weight
+Patients with anorexia nervosa will often go to great lengths to hide 
+their intent and symptoms, oftentimes by wearing baggy clothes, by 
+explaining that excessive and vigorous exercise is required for sports par­
+ticipation, by rationalizing food restriction as health consciousness, by 
+complaining that allergies ruin the taste and smell of food, or by conceal­
+ing purging behaviors, such as induced vomiting or diarrhea. Because 
+of frequent concealment, the detection of these behaviors is challenging.
+The prevalence of anorexia nervosa is as high as 1%; almost 90% 
+of cases occur in females. Although this condition is associated with 
+higher socioeconomic status, it can occur in persons from a variety of 
+socioeconomic backgrounds and in all ethnic groups.
+Besides weight loss, patients with anorexia nervosa may develop 
+symptoms of depression or may withdraw socially secondary to the 
+physiology of starvation. Actual loss of appetite is rare, though patients 
+with anorexia have been found to have higher levels of leptin, which 
+suppresses appetite. Patients with anorexia may develop obsessive-­
+compulsive behavior regarding food, such as collecting recipes or 
+hoarding food. These patients may also have inflexible thinking or feel 
+the need to control their environment.
+Anorexia nervosa may affect every organ system, and presenting 
+symptoms and signs are secondary to malnutrition and purging. The 
+symptoms of malnutrition are fatigue, depression, and amenorrhea. 
+The physical findings of malnutrition are bradycardia, hypothermia, 
+hypotension, emaciation, hair loss, yellow skin, and lanugo. If the 
+patient controls caloric intake through purging via vomiting, findings 
+may include hypertrophic salivary glands, dental erosions secondary 
+to gastric acid irritation, and abrasions or calluses on the dorsum of 
+the hand secondary to manual induction of vomiting (Russell sign). 
+The metabolic abnormalities related to starvation and purging con­
+sist of leukopenia, anemia, hyperamylasemia from parotid gland 
+irritation, vomiting-­related metabolic alkalosis or laxative-­associated 
+metabolic acidosis, thyroid abnormalities, hypomagnesemia, hypo­
+calcemia, hypozincemia, and electrolyte abnormalities resulting from 
+diuretic abuse and dehydration. These patients also have regression of 
+the hypothalamic-­pituitary-­gonadal axis, which results in low estrogen 
+levels in girls and low testosterone levels in boys.
+In evaluating an adolescent with unexplained weight loss, the exam­
+iner must rule out the medical causes of cachexia such as malignancy, 
+malabsorption (celiac disease), or inflammatory bowel disease. Inter­
+view data that support a diagnosis of anorexia nervosa are a restrictive 
+dietary history, distorted perception of body shape, and rationalization 
+of the causative behaviors. Once the medical causes for weight loss 
+have been ruled out, the examiner must consider the psychiatric dif­
+ferential diagnosis for anorexia nervosa and its associated comorbid 
+conditions. These conditions are major depressive disorder, the abuse 
+of stimulants, OCD, social phobia, body dysmorphic disorder, and 
+bulimia nervosa. If the patient has symptoms of depression that fail to 
+resolve with the correction of malnutrition, the clinician should also 
+consider the diagnosis of major depressive disorder.
+Anorexia nervosa is associated with both life-­threatening psycho­
+logic conditions (i.e., suicide) and medical conditions (e.g., electrolyte 
+abnormalities, cardiac failure, starvation). The lifelong rate of mortality 
+secondary to anorexia nervosa in patients who require hospitalization 
+is more than 10%. Some of the possible medical complications are oste­
+oporosis resulting from hypocalcemia with low serum estrogen levels, 
+cardiomyopathy, anemia, sepsis resulting from malnutrition-­induced 
+immunodeficiency, arrhythmias resulting from electrolyte abnormal­
+ities, and superior mesenteric artery syndrome. Superior mesenteric 
+artery syndrome, which is characterized by postprandial vomiting and 
+pain secondary to intermittent gastric outlet obstruction, is more com­
+mon in anorexia nervosa as profound weight loss is believed to result 
+in the loss of the intraabdominal fat pad between the duodenum and 
+superior mesenteric artery.
+Avoidant/Restrictive Food Intake Disorder
+The hallmark of avoidant/restrictive food intake disorder (ARFID) is 
+avoidance or restriction of food intake in infancy or early childhood 
+that is not related to a disturbance in the way in which one’s body 
+weight or shape is experienced. The restriction in eating must be asso­
+ciated with one or more of the following:
+	1.	 Significant weight loss
+	2.	 Significant nutritional deficiency
+	3.	 Dependence on enteral feeding tubes or supplements
+	4.	 Marked interference with psychosocial functioning
+Two common reasons that patients develop ARFID are an aver­
+sion to the sensory characteristics of food and a conditioned negative 
+response to eating. Examples of sensory aversions include extreme 
+sensitivity to appearance, color, smell, texture, or taste of food. It is 
+separate from “picky eating” in that the restriction leads to one of the 
+aforementioned outcomes. A conditioned negative response to eat­
+ing could result from an episode of choking, trauma to or traumatic 
+investigations of the throat or upper gastrointestinal tract, or repeated 
+vomiting. Risk factors for ARFID include anxiety disorders, autism 
+spectrum disorder, OCD, ADHD, familial anxiety, gastroesophageal 
+reflux disease, vomiting, and other gastrointestinal conditions.
+Conditions Characterized by Binge Eating
+Bulimia Nervosa
+Diagnostic criteria for bulimia nervosa are as follows:
+	1.	 Recurrent episodes of binge eating (eating more than what most 
+individuals would eat in a discrete period and a sense of lack of 
+control over eating)
+	2.	 Recurrent inappropriate purging (compensatory behaviors for 
+controlling weight gain, such as induced vomiting, laxative misuse, 
+diuretic misuse, prolonged fasting, or excessive exercise)
+	3.	 Binge eating and compensatory measures occur at least once a week 
+for 3 months
+	4.	 Self-­evaluation is unduly influenced by body shape and weight
+	5.	 Does not occur within anorexia nervosa
+Bulimia nervosa is twice as common as anorexia nervosa and has a 
+later onset, typically in late adolescence. Unlike anorexia nervosa, there 
+is not significant food restriction or low body weight. Like anorexia 
+nervosa, it is more common in females (90%) and can occur in any 
+socioeconomic background. Almost 90% of patients control their 
+weight gain by purging. Other methods for controlling weight are 
+excessive exercise and fasting before binge eating.
+Comorbid psychologic conditions are common in bulimia nervosa 
+and include mood disorders, personality disorders, anxiety disorders, 
+and substance use. Approximately 30% of patients who use medica­
+tions to control weight also have substance use disorders, typically of 
+alcohol or stimulants. In contrast to anorexia nervosa, significant med­
+ical complications occur less commonly in bulimia nervosa. If pres­
+ent, comorbid medical conditions of bulimia nervosa are associated 
+with vomiting or medication abuse. These conditions are esophagitis 
+and gastritis, cardiomyopathy (particularly if syrup of ipecac is used 
+to induce vomiting), hypokalemia and nephrolithiasis from diuretic 
+abuse, metabolic alkalosis from vomiting and metabolic acidosis from 
+laxative abuse, and increased amylase levels.
+Concealment of symptoms coupled with the lack of cachexia makes 
+bulimia nervosa difficult to detect. Some patients may present to the 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+532
+SECTION 6   Developmental and Psychiatric Disorders
+clinician because of a parent’s detection of binge eating and purging. 
+Physical findings that suggest recurrent vomiting are dental erosion, 
+parotid hypertrophy, callus abrasions on the dorsum of the hand 
+known as Russell sign, and pharyngeal irritation.
+Binge-­Eating Disorder
+Binge-­eating disorder consists of recurrent binge-­eating episodes 
+without compensatory behaviors to prevent weight gain. Patients with 
+binge-­eating disorder may be of normal weight or overweight. DSM-­5 
+criteria are as follows:
+	1.	 Recurrent episodes of binge eating (eating more than what most 
+individuals would eat in a discrete period and a sense of lack of 
+control over eating)
+	2.	 Binge-­eating episodes are associated with three of the following:
+	
+a.	 Eating much more rapidly than normal
+	
+b.	 Eating until feeling uncomfortably full
+	
+c.	 Eating large amounts of food when not hungry
+	
+d.	 Eating alone because of embarrassment by how much one is eat­
+ing
+	
+e.	 Feeling disgusted, depressed, or guilty afterward
+	3.	 Marked distress regarding binge eating is present
+	4.	 Binge eating occurs, on average, at least once a week for 3 months
+Binge-­eating disorder is distinct from obesity as most individuals 
+with obesity do not engage in recurrent binge-­eating episodes. At this 
+time, there are limited data regarding the prevalence of binge-­eating 
+disorder in youths. In adults, it is roughly twice as common in females.
+   	 S U MMA RY  A N D  R E D  F L A G S
+Suicide is the second leading cause of death in adolescents. Identify­
+ing suicidal ideation and intent is crucial in the evaluation of patients 
+presenting with changes in mood or behavior. Changes in mood or 
+behavior carry a significant burden for patients, their family members, 
+and society as a whole. Many psychiatric illnesses have comorbid psy­
+chiatric and medical conditions that require thoughtful and deliberate 
+assessment, and many psychiatric symptoms may be secondary to an 
+underlying medical condition. Red flags include risk-­taking behavior, 
+violence, poor school performance, poor attention to personal appear­
+ance and hygiene, deteriorating social interaction, reduced appetite, 
+weight loss, reduced or excessive sleeping, delusions, and hallucina­
+tions (see Table 31.9).
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+TABLE 31.15  Diagnostic Guidelines for Eating Disorders
+Anorexia Nervosa, 
+Restricting Type
+Anorexia Nervosa, 
+Binge/Purge Type
+Bulimia Nervosa
+Binge-­Eating 
+Disorder
+BMI/weight
+Underweight
+Mild: BMI ≥17 kg/m2
+Moderate: BMI 16–16.99 kg/m2
+Severe: 15–15.99 kg/m2
+Extreme: BMI <15 kg/m2
+Underweight
+Mild: BMI ≥17 kg/m2
+Moderate: BMI 16–16.99 kg/m2
+Severe: 15–15.99 kg/m2
+Extreme: BMI <15 kg/m2
+May be normal weight or overweight
+May be normal weight or 
+overweight/obese
+Restricting behaviors
++
++
+−
+−
+Purging behaviors 
+(including excessive 
+exercise, use of 
+laxatives, vomiting)
+−
++
+Must have recurrent binge-­eating or 
+purging behaviors in the last 3 mo
++
+Must occur at least one time per 
+week for 3 mo
+−
+Episodes of binge 
+eating
+−
++
+Must have recurrent binge-­eating or 
+purging behaviors in the last 3 mo
++
+Must occur at least one time per 
+week for 3 mo
++
+Must occur at least one 
+time per week for 3 mo
+Potential medical 
+complications
+Hypotension, bradycardia, hypo­
+thermia, fatigue, dizziness, 
+leukopenia, anemia, thyroid 
+abnormalities, amenorrhea, 
+electrolyte abnormalities 
+(hyponatremia, hypocalcemia, 
+hypophosphatemia, hypoglyce­
+mia, etc.)
+Hypotension, bradycardia, hypother­
+mia, fatigue, dizziness, leukopenia, 
+anemia, thyroid abnormalities, 
+amenorrhea, electrolyte abnor­
+malities (can have abnormalities 
+consistent with malnutrition and/or 
+purging behaviors)
+Esophagitis, gastritis, cardiomyopa­
+thy (especially w/ use of ipecac), 
+electrolyte abnormalities including 
+hypokalemia and nephrolithiasis 
+from diuretic abuse, metabolic 
+alkalosis from vomiting, metabolic 
+acidosis from laxative abuse, and 
+increased amylase levels.
+Obesity, metabolic abnor­
+malities
+Notable physical 
+findings
+Signs of malnutrition: emacia­
+tion, hair loss, yellow skin, and 
+lanugo
+Signs of malnutrition: emaciation, 
+hair loss, yellow skin, and lanugo
+If engaging in recurrent vomiting can 
+also have dental erosion, parotid 
+hypertrophy, Russell sign, and 
+pharyngeal irritation
+Suggestive of recurrent vomiting: dental 
+erosion, parotid hypertrophy, Russell 
+sign, and pharyngeal irritation
+BMI, body mass index.
+A “+” indicates symptoms are seen in the disorder. A “-” indicates symptoms are not seen in the disorder.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+532.e1
+BIBLIOGRAPHY
+General References
+American Psychiatric Association. Diagnostic and Statistical Manual of Men­
+tal Disorders. 5th ed. Arlington, VA: American Psychiatric Association; 
+2013.
+Dulcan MK. Dulcan’s Textbook of Child and Adolescent Psychiatry. 2nd ed. 
+Washington, DC: American Psychiatric Publishing; 2015.
+Dulcan MK, Ballard RR, Jha P, et al. Concise Guide to Child and Adolescent 
+Psychiatry. 5th ed. Washington, DC: American Psychiatric Publishing; 
+2017.
+Martin A, Bloch MH, Volkmar FR. Lewis’s Child and Adolescent Psychiatry: 
+A Comprehensive Textbook. 5th ed. Philadelphia: Lippincott Williams & 
+Wilkins; 2017.
+History Taking
+Carlat D. The Psychiatric Interview: A Practical Guide. 4th ed. Philadelphia: 
+Lippincott Williams & Wilkins; 2016.
+Disruptive Behaviors
+Dulcan M. Practice parameters for assessment and treatment of children and 
+adolescents with attention deficit hyperactivity disorder. J Am Acad Child 
+Adolesc Psychiatry. 2007;46:894–921.
+Murphy TK, Lewin AB, Storch EA, et al. Practice parameters for assessment 
+and treatment of children and adolescents with tic disorders. J Am Acad 
+Child Adolesc Psychiatry. 2013;52:1341–1359.
+Steiner H. Practice parameters for the assessment and treatment of children 
+and adolescents with conduct disorder. J Am Acad Child Adolesc Psychiatry. 
+1997;36:1482–1485.
+Mood Disorders
+Birmaher B, Brent D, AACAP Work Group on Quality Issues. Practice param­
+eter for the assessment and treatment of children and adolescents with de­
+pressive disorders. J Am Acad Child Adolesc Psychiatry. 2007;46:1503–1526.
+Gunderson JG. Reducing suicidal risk in borderline personality disorder. J Am 
+Med Assoc. 2015;314:2.
+March J, Silva S, Petrycki S, et al. Fluoxetine, cognitive-­behavioral therapy, 
+and their combination for adolescents with depression: Treatment for 
+Adolescents with Depression Study (TADS) randomized controlled trial. J 
+Am Med Assoc. 2004;292:807–820.
+McClellan J, Kowatch R, Findling RL. Practice parameter for the assessment 
+and treatment of children and adolescents with bipolar disorder. J Am Acad 
+Child Adolesc Psychiatry. 2007;46:107–125.
+Posner K. Columbia–Suicide Severity Rating Scale: Screener/Recent – Self-­
+Report. http://www.cssrs.columbia.edu/scales_practice_cssrs.html.
+Posner K, Brown GK, Stanley B, et al. The Columbia–Suicide Severity Rating 
+Scale: initial validity and internal consistency findings from three multisite 
+studies with adolescents and adults. Am J Psychiatry. 2011;168:1266–1277.
+Anxiety
+Bryant RA. Acute stress disorder as a predictor of posttraumatic stress disor­
+der: a systematic review. J Clin Psychiatry. 2011;2:233–239.
+Cohen JA, Mannarino AP. Trauma-­focused cognitive behavioural therapy for 
+children and parents. J Child Adolesc Ment Health. 2008;4:158–162.
+Cohen JA. The Work Group on Quality Issues, AACAP Work Group on Qual­
+ity Issues. Practice parameter for the assessment and treatment of children 
+and adolescents with posttraumatic stress disorder. J Am Acad Child 
+Adolesc Psychiatry. 2010;49:414–430.
+Felitti VJ, Anda RF, Nordenberg D, et al. Relationship of childhood abuse 
+and household dysfunction to many of the leading causes of death in 
+adults: the Adverse Childhood Experiences (ACE) study. Am J Prev Med. 
+1998;4:245–258.
+Geller DA, March J. Practice parameter for the assessment and treatment 
+of children and adolescents with obsessive-­compulsive disorder. Focus. 
+2012;3:360–373.
+Murphy TK, Gerardi DM, Leckman JF. Pediatric acute-­onset neuropsychiatric 
+syndrome. Psychiatr Clin North Am. 2014;3:353–374.
+Pediatric OCD Treatment Study (POTS) Team. Cognitive-­behavior thera­
+py, sertraline, and their combination for children and adolescents with 
+obsessive-­compulsive disorder: the pediatric OCD treatment study (POTS) 
+randomized controlled trial. J Am Med Assoc. 2004;292:1969–1976.
+Shulman ST, Reuter CH. Group A streptococcus. In: Kliegman RM, St. Geme 
+III JW, Blum NJ, et al., eds. Nelson Textbook of Pediatrics, 21e. Philadelphia: 
+Elsevier; 2020:1440–1450.
+Walkup JT, Albano AM, Piacentini J, et al. Cognitive behavioral thera­
+py, sertraline, or a combination in childhood anxiety. N Engl J Med. 
+2008;359:2753–2766.
+Altered Mental Status
+Amouri J, Andrews PS, Heckers S, et al. A case of concurrent delirium and 
+catatonia in a woman with coronavirus disease 2019. Psychomatics. 2020:15 
+(in press).
+Ballageer T, Malla A, Manchanda R, et al. Is adolescent-­onset first-­episode 
+psychosis different from adult onset? J Am Acad Child Adolesc Psychiatry. 
+2005;44:782–789.
+Barbagallo M, Vitaliti G, Pavone P, et al. Pediatric autoimmune encephalitis. J 
+Pediatr Neurosci. 2017;12(2):130–134.
+Beach SR, Praschan NC, Hogan C, et al. Delirium in COVID-­19: a case series 
+and exploration of potential mechanisms for central nervous system 
+involvement. Gen Hosp Psychiatry 202;65:47–­53.
+Biederman J, Petty C, Faraone SV, et al. Phenomenology of childhood psycho­
+sis. J Nerv Ment Dis. 2004;192:607–614.
+Boeing L, Murray V, Pelosi A, et al. Adolescent-­onset psychosis: prevalence, 
+needs and service provision. Br J Psych. 2007;190:18–26.
+Butler M, Pollak TA, Rooney AG, et al. Neuropsychiatric complications of 
+COVID-­19. BMJ. 2020;371:m3871.
+Cellucci T, Van Mater H, Graus F, et al. Clinical approach to the diagnosis of 
+autoimmune encephalitis in the pediatric patient. Neurol Neuroimmunol 
+Neuroinflamm. 2020;7:e633.
+Gochman P, Miller R, Rapoport JL. Childhood-­onset schizophrenia: the chal­
+lenge of diagnosis. Curr Psychiatry Rep. 2011;13:321–322.
+Hatherill S, Flisher AJ. Delirium in children and adolescents: a systematic 
+review of the literature. J Psychosom Res. 2010;68:337–344.
+Keshavan MS, Kaneko Y. Secondary psychoses: an update. World Psychiatry. 
+2013;12:4–15.
+Lee SK, Lee ST. The laboratory diagnosis of autoimmune encephalitis. J Epilep­
+sy Res. 2016;6:45–52.
+McClellan J, Werry J. Practice parameter for the assessment and treatment 
+of children and adolescents with schizophrenia. J Am Acad Child Adolesc 
+Psychiatry. 2001;40:4S–23S.
+McKee J, Brahm N. Medical mimics: differential diagnostic considerations for 
+psychiatric symptoms. Ment Health Clin. 2016;6(6):289–296.
+Mormando C, Francis A. Catatonia revived: a unique syndrome updated. Int 
+Rev Psychiatry. 2020;32(5–­6):403–411.
+Pao M, Lohman C, Gracey D, et al. Visual, tactile, and phobic hallucinations: 
+recognition and management in the emergency department. Pediatr Emerg 
+Care. 2004;20:30–34.
+Restrepo-­Martinez M, Ramierez-­Bermudez J, Bayliss L, et al. Delirious mania 
+as a frequent and recognizable neuropsychiatric syndrome in patients with 
+anti-­NMDAR encephalitis. Gen Hosp Psychiatry. 2020;64:50–55.
+Rogers JP, Pollak TA, Blackman G, et al. Catatonia and the immune system: a 
+review. Lancet Psych. 2019;6:620–630.
+Siegel MS, Smith WE. Psychiatric features in children with genetic syndromes: 
+toward functional phenotypes. Child Adolesc Psychiatric Clin N Am. 
+2010;19:229–261.
+Simons A, Eyskens F, Glazemakers I, et al. Can psychiatric childhood disor­
+ders be due to inborn errors of metabolism? Eur Child Adolesc Psychiatry. 
+2017;26:143–154.
+Synderman D, Rovner BW. Mental status examination in primary care: a 
+review. Am Fam Physician. 2009;80(8):809–814.
+Teeple RC, Caplan JP, Stern TA. Visual hallucinations: differential 
+diagnosis and treatment. Prim Care Companion J Clin Psychiatry. 
+2009;11(1):26–32.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+References
+532.e2
+Walther S, Stegmayer K, Wilson JE, Heckers S. Structure and neural mecha­
+nisms of catatonia. Lancet Psychiatry. 2019;6(7):610–619.
+Wilson JE, Carlson R, Duggan MC, et al. Delirium and catatonia in critically 
+ill patients: the DeCat prospective cohort investigations. Crit Care Med. 
+2017;45(11):1837–1844.
+Physical Symptoms
+Ford CV. Factitious disorders and malingering. In: Current Diagnosis and 
+Treatment – Psychiatry. 2nd ed. New York: McGraw-­Hill; 2008:411–418.
+Ford CV. Somatoform disorders. In: Current Diagnosis and Treatment – Psychi­
+atry. 2nd ed. New York: McGraw-­Hill; 2008:395–410.
+Kohn MR, Madden S, Clarke SD. Refeeding in anorexia nervosa: increased 
+safety and efficiency through understanding the pathophysiology of pro­
+tein calorie malnutrition. Curr Opin Pediatr. 2011;23:390–394.
+Shaw RJ, Spratt EG, Bernard RS, et al. Somatoform disorders. In: Shaw RJ, De­
+Maso DR, eds. Textbook of Pediatric Psychosomatic Medicine. Washington, 
+DC: American Psychiatric Publishing; 2010.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

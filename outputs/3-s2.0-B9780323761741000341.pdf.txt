@@ -1,0 +1,2089 @@
+Chapter Title One Line
+Chapter Author
+550
+Headaches are classified as primary or secondary. Primary headaches 
+are benign, are not caused by underlying disease or structural prob­
+lems, and include migraines, tension-type headaches (TTHs), and the 
+trigeminal autonomic cephalgias (TACs). Migraines and TTHs are the 
+most common primary headaches in children and can have less dis­
+tinct features in children than they do in adults (Table 34.1). While pri­
+mary headaches may cause significant pain and disability, they are not 
+intrinsically dangerous. Secondary headaches are caused by an under­
+lying disease, such as infection, tumor, intracranial hemorrhage, or a 
+vascular disorder, and may indicate an innocuous etiology or portend 
+a serious illness. Most headaches in children are primary headaches 
+or harmless secondary headaches. History and physical examination 
+guide the diagnosis of primary headache disorders, assess the degree 
+of headache-­related disability, and reveal information that may prompt 
+evaluation for secondary headaches. Each subsequent visit allows for 
+assessment of the response to therapy and consideration of secondary 
+headaches, the causes of which may confer significant morbidity and in 
+rare cases may be life threatening.
+HISTORY
+The specific headache diagnosis is determined by the headache pheno­
+type, which is defined in terms of laterality, location (Figs. 34.1, 34.2, 
+and 34.3), timing, frequency, duration, quality, severity, associated 
+symptoms, and alleviating and aggravating factors. In most cases, a 
+single phenotypic headache is present. If the patient has more than one 
+type of headache, the clinician must obtain a specific history for each 
+type. Ideally, the history should be obtained from the child, parent, and 
+any other caregivers, including teachers. Even a young child should be 
+given the opportunity to describe the symptoms experienced with each 
+headache episode and may use drawings to do this.
+The laterality and location of the pain should be established (see 
+Figs. 34.1, 34.2, and 34.3). If the pain is unilateral, it should be noted 
+whether the pain is always on one side or if the side varies. The loca­
+tion may be restricted or more widely distributed; if the location var­
+ies from one episode to another, this should be noted as well. Unusual 
+locations in pediatrics may include the occipital region. This location 
+should raise index of suspicion for intracranial pathology if there are 
+abnormal neurologic findings or the headache does not meet criteria 
+for a primary headache disorder.
+The timing, frequency, and duration of headaches should be 
+described, as the temporal patterns of headaches are useful in creating 
+a differential diagnosis, identifying the need for work-­up, and classify­
+ing the type of headache. The temporal categories of headache include 
+acute, acute recurrent, chronic nonprogressive, and chronic progres­
+sive (Table 34.2).
+The severity of a headache does not necessarily correlate with the 
+seriousness of its etiology. Pain caused by brain tumors may initially 
+be mild, whereas the pain of TTHs may be excruciating. Pain is sub­
+jective and may be influenced by age, culture, duration, and previous 
+encounters with medical care, leading some patients to unintention­
+ally minimize or exaggerate their pain; as such, pain alone should not 
+be used to narrow the differential diagnosis. An exception to this prin­
+ciple is the thunderclap headache, in which the onset of pain is sud­
+den, reaches maximum severity within seconds, and is often described 
+by patients as the worst headache they have ever had. Such headaches 
+may indicate subarachnoid hemorrhage, arterial dissection, or venous 
+sinus thrombosis, among other causes (Table 34.3). Numerical scales, 
+or visual scales for younger children, are helpful for quantifying pain 
+and determining the efficacy of treatment. In older patients, descrip­
+tive phrases, such as mild, moderate, severe, and excruciating, may 
+suffice.
+Associated symptoms such as hemiparesis, ataxia, visual loss, dip­
+lopia, scotomata, vertigo, seizure-­like activity, confusion, mood or 
+behavioral changes, autonomic symptoms, and hemisensory occur­
+rences may suggest neurologic dysfunction or a migraine-­related 
+aura. Any history of fevers, syncope, nausea, vomiting, and appetite 
+changes should also be ascertained. Special note should be made if the 
+pain awakens the patient from sleep, is present upon awakening in the 
+morning, or worsens when recumbent; these findings may indicate 
+increased intracranial pressure. Events associated with the onset or 
+aggravation of headaches, such as trauma, intake of particular foods, or 
+physical exertion, may provide insight into the etiology of headaches, 
+as well as potential triggers to avoid.
+Alleviation via rest or positional changes should be noted, as 
+should the response of the headaches to medications. A thorough 
+medication history is essential for diagnosing analgesic overuse head­
+aches and headaches caused by medication side effects. The use of 
+over-­the-­counter medication and prescription medications, including 
+medications that have not been prescribed for the patient, should be 
+delineated, as well as the use of any supplements or traditional rem­
+edies. Both primary and secondary headaches may respond to medi­
+cations and such a response is not diagnostic of any specific headache 
+disorder. For example, relief of an acute headache by triptans is not 
+Headaches
+Sara M. Lauck and Sandra Gage
+34
+SECTION 7  Neurosensory Disorders
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+551
+CHAPTER 34  Headaches
+diagnostic of migraine, as triptans may also be effective for other causes 
+of headache.
+In patients with recurring headaches, the history may be clari­
+fied by keeping a headache diary, which can additionally determine 
+headache patterns, identify triggers, aid diagnosis, and assess the 
+efficacy of therapy (Table 34.4). A headache diary may also assist 
+in determining the degree of disability caused by the headache. 
+Disability evaluation may be augmented by school attendance and 
+performance records. Headaches that improve with the onset of the 
+summer school holiday may suggest that a child is struggling aca­
+demically or is being bullied at school. In younger children, where 
+detailed personal descriptions of pain may be more difficult to 
+obtain and record in a diary, videos of the headache episodes may 
+aid diagnosis.
+The past medical history may reveal a risk for potentially serious 
+causes of secondary headaches that require prompt evaluation, such 
+as sickle cell disease, thyroid disorders, parathyroid dysfunction, 
+malignancy, hypercoagulability, hypertension, immunodeficiency, 
+congenital heart disease, autoimmune disorders, and arteriovenous 
+malformations. Allergic rhinitis and other atopic disorders are also 
+associated with headaches. Infantile colic, benign paroxysmal tor­
+ticollis, cyclic vomiting syndrome, and benign paroxysmal vertigo 
+are considered episodic syndromes that may be associated with 
+migraine and may precede the development of typical migraine 
+symptoms later in life. In females, a menstrual history should be 
+obtained, including details of the cycle and the timing of head­
+aches with respect to the menstrual cycle. A history of secondary 
+TABLE 34.1  Differential Diagnosis of Headache
+Headache Type
+Genetics
+Epidemiology
+Characteristic Features
+Length
+Accompanying Symptoms
+Migraine headache
+Complex genetics 
+but usually a family 
+history
+More frequent in 
+women
+Unilateral, bilateral; throbbing; 
+moderate to severe; worsens 
+with activity
+Hours to days
+Photophobia, phonophobia, nausea 
+and/or vomiting
+Tension-­type headache
+Usually a family 
+history
+Equal frequency in 
+men and women
+Tight bandlike pain; bilateral; 
+pain may be mild to moderate; 
+improves with activity
+Hours to days
+No nausea or vomiting; small amount 
+of light or sound sensitivity, but 
+not both
+Cluster headache
+May have a family 
+history
+More frequent in 
+men
+Unilateral severe pain in the 
+face
+Minutes to hours
+Ipsilateral ptosis, miosis, rhinorrhea, 
+eyelid edema, tearing
+Paroxysmal hemicrania
+Usually no family 
+history
+More frequent in 
+women
+Unilateral pain in the face
+Minutes
+Ipsilateral ptosis, miosis, rhinorrhea, 
+eyelid edema, tearing; responds to 
+indomethacin
+Short unilateral headache 
+with conjunctival 
+injection, tearing
+No family history
+More frequent in 
+men
+Unilateral eye pain; orbit pain
+Typically 4 min 
+or less
+Conjunctival injection, tearing
+Hemicrania continua
+No family history
+More frequent in 
+women
+Unilateral continuous headache 
+with episodic stabbing pains
+Continuous
+Ipsilateral ptosis, miosis, rhinorrhea, 
+eyelid edema, tearing
+From Digre KB. Headaches and other head pain. In: Goldman L, Schafer AI, eds. Goldman-­Cecil Medicine. 25th ed. Philadelphia: Elsevier; 2016, Table 398-­2.
+A
+“Hatband”
+distribution
+Occipital
+distribution
+B
+Fig. 34.1  Common location of migraine (A) and tension (B) headaches. 
+Of note, some tension headaches may be unilateral, while migraines 
+may occur in the same distribution (including bilateral) as tension head­
+aches. (From Reilly BM. Practical Strategies in Outpatient Medicine. 
+2nd ed. Philadelphia: WB Saunders; 1991.)
+Ocular disease
+Frontal sinusitis
+Temporomandibular syndrome
+Temporal arteritis
+Tension headache
+Migraine
+Cluster
+Ocular disease
+Maxillary sinusitis
+Dental infection
+Allergic/vasomotor rhinitis
+Nasopharyngeal tumor
+Trigeminal neuralgia
+Migraine
+Cluster
+Fig. 34.2  Periorbital headache. (From Reilly BM. Practical Strategies in 
+Outpatient Medicine. 2nd ed. Philadelphia: WB Saunders; 1991.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+552
+SECTION 7  Neurosensory Disorders
+amenorrhea could suggest pituitary or other central nervous system 
+neoplasms.
+The family history should be probed for any genetic predisposi­
+tion to migraines, aneurysms, other vascular malformations, early-­
+onset strokes, or brain neoplasms. A negative family history for 
+primary headaches should cause the clinician to be more cautious in 
+assigning the diagnosis of a primary headache disorder. Social history 
+should investigate for psychosocial factors that may influence or be 
+influenced by headaches, such as school performance, the relation­
+ships between family members, recent changes in social structure, 
+and substance abuse in the patient or the family. The provider should 
+also screen for indications of neglect or abuse. Detailed psychologic 
+evaluation with screening for symptoms of depression and anxiety 
+may be indicated.
+Some historical components are classic features of primary 
+headaches, while others are concerning for secondary headaches 
+TABLE 34.2  Four Temporal Patterns of 
+Childhood Headache
+Acute: Single episode of pain without a history of such episodes. The 
+“first and worst” headache raises concerns for aneurysmal subarachnoid 
+hemorrhage in adults but is commonly due to febrile illness related to upper 
+respiratory tract infection in children. Regardless, more ominous causes of 
+acute headache (hemorrhage, meningitis, tumor) must be considered.
+Acute recurrent: Pattern of attacks of pain separated by symptom-­free 
+intervals. Primary headache syndromes, such as migraine or tension-­type 
+headache, usually cause this pattern. Recurrent headaches are occasionally 
+due to specific epilepsy syndromes (benign occipital epilepsy), substance 
+abuse, or recurrent trauma.
+Chronic progressive: Implies a gradually increasing frequency and severity 
+of headache. The pathologic correlate is increasing ICP. Causes of this 
+pattern include pseudotumor cerebri, brain tumor, hydrocephalus, chronic 
+meningitis, brain abscess, and subdural collections.
+Chronic nonprogressive or chronic daily: Pattern of frequent or constant 
+headache. Chronic daily headache generally is defined as >3-­mo history of 
+>15 headaches/mo, with headaches lasting >4 hr. Affected patients have 
+normal neurologic examinations; psychologic factors and anxiety about 
+possible underlying organic causes are common.
+From Huang Schiller J, Shellhaas RA. Headache and migraine. In: 
+Marcdante KJ, Kliegman RM, eds. Nelson Essentials of Pediatrics. 8th 
+ed. Philadelphia: Elsevier; 2019:686.
+Periorbital or
+frontotemporal
+location is usual
+Tears and
+nasal stuffiness,
+often unilateral,
+accompany the 
+headache
+Duration is
+usually brief
+(1 hour)
+Fig. 34.3  Cluster headache. (From Reilly BM. Practical Strategies in 
+Outpatient Medicine. 2nd ed. Philadelphia: WB Saunders; 1991.)
+TABLE 34.3  Main and Rare Causes of 
+Thunderclap Headache
+Main Causes
+Rare Causes
+Vascular Disorders
+Subarachnoid hemorrhage
+Intracerebral hemorrhage
+Cerebral venous thrombosis
+Spontaneous intracranial 
+hypotension
+Cervical artery dissection
+Pituitary apoplexy, arteritis, angiitis
+Unruptured vascular malformation, 
+aneurysm
+Arterial hypertension
+Cerebral segmental vasoconstriction
+Nonvascular Disorders
+Greater occipital neuralgia
+Intermittent hydrocephalus by colloid cyst
+Infections
+Meningitis, encephalitis
+Erve virus (European Nairovirus)
+Sinusitis
+Primary Headache Disorders
+Migraine
+Primary thunderclap headache
+Primary exertional headache
+Primary cough headache
+Cluster headache
+Tension headache, new daily persistent 
+headache
+From Linn FHH. Primary thunderclap headache. In: Aminoff MJ, 
+ed. Handbook of Clinical Neurology. Vol. 97. New York: Elsevier; 
+2010:473–481.
+TABLE 34.4  The Headache Diary for 
+Recurring Headaches*
+Date
+Time of onset
+Time of resolution
+Maximum level of pain (mild, moderate, or severe or according to a visual or 
+numerical pain scale)
+Triggers:
+Sleep
+Foods†
+Activities
+Medications
+Modifiers:
+Response to position changes or Valsalva maneuver
+Medications used (dose, response)
+Other modifiers
+Additional symptoms
+*If more than one type of headache exists, the types should be defined 
+and labeled, and separate data should be recorded for each type.
+†Foods are believed to be less associated with triggering migraines than 
+previously.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+553
+CHAPTER 34  Headaches
+(Table 34.5). Throughout the history, the clinician should constantly 
+assess for warning signs of serious and sometimes life-­threatening 
+causes of secondary headache. The identification of any of these red-­
+flag symptoms should cause concern and lead promptly to further 
+investigation.
+PHYSICAL EXAMINATION
+Abnormalities in the examination may provide clues to the underly­
+ing etiology of secondary headaches, and red flags may identify spe­
+cific diagnoses of concern (Table 34.6). Vital signs assessment may 
+reveal elevated blood pressure, which may be the cause of headache, 
+signal increased intracranial pressure, or herald an underlying renal 
+abnormality. Fever may be a sign of an infectious or inflammatory 
+process. Growth parameters, including height, weight, body mass 
+index, and head circumference, should be obtained. Poor weight 
+gain may indicate an underlying chronic illness associated with 
+headaches, such as celiac disease, respiratory disorders, neurofibro­
+matosis type 1, or neglect. Obesity should alert the clinician to assess 
+for symptoms of obstructive sleep apnea or idiopathic intracranial 
+hypertension (IIH). Enlarged head circumference associated with 
+signs of headache or other evidence of increased intracranial pres­
+sure warrants alarm.
+The general examination starts with assessment of mental status 
+and overall level of distress. The head and neck examination should 
+assess specifically for nasal congestion, sinus tenderness, and signs 
+of allergic rhinitis, such as boggy nasal turbinates. Frontal bone 
+tenderness could be an early sign of Pott puffy tumor, a complica­
+tion of frontal sinusitis. Tenderness over the mandibular condyle in 
+children with dental malocclusion, or jaw crepitus in patients with 
+arthritis, may indicate temporomandibular joint dysfunction as a 
+cause of headache. Thorough lymphatic, respiratory, cardiac, and 
+abdominal examinations should also be completed. Genitourinary 
+examination should include pubertal stage, as headaches may be 
+associated with endocrine disorders. Skin should be evaluated for 
+petechiae, atopic or vasculitis findings, and lesions associated with 
+neurocutaneous syndromes such as neurofibromatosis or tuberous 
+sclerosis. Signs of trauma should be noted. Neurologic examination 
+should be detailed and include assessments of mental status, cra­
+nial nerves, auditory function, sensation, motor strength, reflexes, 
+gait, coordination, and speech. Whenever possible, a thorough oph­
+thalmologic examination should be undertaken, including visual 
+acuity testing and a funduscopic evaluation for papilledema (Fig. 
+34.4). In a young child, much of the neurologic examination is com­
+pleted through observation or engaging the child in play to elicit 
+TABLE 34.5  History-­Related Red Flags for 
+Secondary Headaches
+Quality:
+“Thunderclap” rapid-­onset headache or the “worst headache of my life”
+Recent worsening in severity or frequency
+Change in quality
+New-­onset symptoms consistent with cluster headache
+Location:
+Unilateral without alteration of sides
+Chronic or recurrent occipital headache
+Timing:
+Awakens from sleep
+Occurs in morning or causes morning vomiting
+Acute or chronic progressive pattern
+Positional or activity-­related variations:
+Worsened in the recumbent position or when bending over
+Headache experienced or worsened with cough or the Valsalva maneuver
+Associated neurologic history:
+Neurologic dysfunction other than typical aura
+Altered sensorium during headache
+Sensory deficits or changes in vision, gait, or coordination
+Other focal neurologic deficits
+Seizures or syncope
+Decreased visual acuity
+Mental status changes (e.g., confusion or disorientation)
+Regression in fine or gross motor developmental skills
+Decline in cognition or school performance
+Change in mood, behavior, or personality
+Associated general history:
+Vomiting without nausea and morning/fasting nausea or vomiting
+Polyuria or polydipsia
+Preschool or younger age
+History of head trauma
+Neck pain
+Medical comorbidities
+History of ventriculoperitoneal shunt
+Certain medications
+Signs of systemic or localized head/neck infection
+Negative family history of primary headache disorders
+TABLE 34.6  Physical Examination Red 
+Flags for Secondary Headaches
+Abnormal vital signs:
+Hypertension
+Growth failure
+Increased head circumference or bulging fontanel
+Fever
+Meningeal signs with or without fever
+Evidence of cranial trauma
+Cranial bruit
+Frontal bony tenderness
+Macrocephaly
+Abnormal ophthalmologic findings:
+Papilledema
+Abnormal ocular movements
+Squinting
+Pathologic pupillary response
+Visual field defects
+Abnormal neurologic findings:
+Impaired mental status
+Cranial nerve palsy
+Ataxia
+Abnormal gait
+Abnormal coordination
+Abnormal reflexes
+Asymmetric motor or sensory examination
+Hemiparesis
+Developmental regression
+Precocious, delayed, or arrested puberty
+Skin findings:
+Café-­au-­lait or ash leaf macules
+Petechiae or purpura
+Facial hemangioma
+Malar rash
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+554
+SECTION 7  Neurosensory Disorders
+findings. A complete ophthalmologic evaluation may be limited by 
+lack of cooperation or comprehension. If the clinician is unable to 
+complete or interpret the neurologic and ophthalmologic assess­
+ments, the support of a neurologist and an ophthalmologist may 
+be required. If the results of examination suggest a structural brain 
+lesion or increased intracranial pressure, neuroimaging is warranted 
+(Table 34.7). However, many causes of headache, including some 
+serious diseases early in their course, do not present with abnor­
+mal findings on physical examination or have fluctuating abnormal 
+findings (Table 34.8). A single normal physical examination does 
+not exclude pathology; thus, periodic reassessments are essential if 
+headache persists.
+NEUROIMAGING
+Most children do not require neuroimaging for headaches, and it is 
+rarely indicated in children with recurrent headaches and a normal 
+neurologic and ophthalmologic exam. Neuroimaging should be con­
+sidered when the headache history or symptomatic progression is 
+incompatible with a primary headache disorder or if there is no fam­
+ily history of primary headache disorder. Furthermore, neuroimaging 
+in the assessment of headaches in children is indicated when the fol­
+lowing features are present: abnormal neurologic exam or historical 
+findings; new onset of afebrile seizures or alteration in seizure type 
+or frequency; new severe headache; change in frequency or severity 
+of headaches; headache consistent with increased intracranial pres­
+sure; association of headache with cough or bending over; concerning 
+past medical history components, including trauma or presence of a 
+ventriculoperitoneal shunt; and age younger than 6 years (Table 34.9). 
+In specific cases, neuroimaging may be considered when there is his­
+tory of a brain tumor in the family, fear by the patient or the parents of 
+underlying pathology, or inability to obtain an accurate physical exam­
+ination due to lack of patient cooperation.
+MRI and CT are the neuroimaging modalities to consider (Table 
+34.10). CT remains the most sensitive and rapid method for detecting 
+acute intracranial bleeding and is preferred in emergency situations 
+or when MRI is contraindicated or unavailable. MRI is otherwise the 
+preferred imaging modality, offering superior visualization of soft tis­
+sue contrast and gray-­to-­white matter differentiation without expos­
+ing the patient to the ionizing radiation associated with CT scanning. 
+While gadolinium contrast for MRI is considered safe, it is not usu­
+ally necessary. An MRI contrast study should be considered when 
+there is concern for infection or if the noncontrast study is abnormal. 
+MRI may involve the need for sedation, particularly in younger chil­
+dren. Normal neuroimaging and a single normal neurologic exam­
+ination should not give complete reassurance. Follow-­up assessment 
+of ongoing symptoms or for changes in the physical examination 
+remains necessary.
+LABORATORY INVESTIGATIONS
+Routine blood work is not indicated when history suggests a pri­
+mary headache disorder and physical and neurologic examinations 
+are normal. Findings in the history, physical examination, or neu­
+roimaging that dictate directed laboratory evaluation are listed in 
+Table 34.11.
+B
+C
+A
+E
+F
+D
+Fig. 34.4  Stages of papilledema (Frisen scale). A, Stage 0: normal optic disc. B, Stage 1: very early papill­
+edema with obscuration of the nasal border of the disc only, without elevation of the disc borders. C, Stage 
+2: early papilledema showing obscuration of all borders, elevation of the nasal border, and a complete peri­
+papillary halo. D, Stage 3: moderate papilledema with elevation of all borders, increased diameter of the optic 
+nerve head, obscuration of vessels at the disc margin, and a peripapillary halo with finger-­like extensions. E, 
+Stage 4: marked papilledema characterized by elevation of the entire nerve head and total obscuration of a 
+segment of a major blood vessel on the disc. F, Stage 5: severe papilledema with obscuration of all vessels 
+and obliteration of the optic cup. Note also the nerve fiber layer hemorrhages and macular exudate. (A–C 
+courtesy Dr. Deborah Friedman; D–F courtesy Flaum Eye Institute, University of Rochester.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+555
+CHAPTER 34  Headaches
+CLASSIFICATION OF HEADACHES
+Headaches are classified broadly as primary or secondary. The acuity 
+or chronicity of the headache helps to guide the development of the 
+differential diagnosis (Fig. 34.5).
+Primary Headaches
+There are three categories of primary headaches: TTH, migraine head­
+ache, and the TACs. TTH and migraine are the most common head­
+ache types in children and adolescents.
+Tension-­Type Headaches
+TTHs are common in pediatrics with a broad prevalence range 
+reported. These headaches have a typical pattern. Patients awaken 
+TABLE 34.7  Headache Disorders 
+Associated with Neurologic Signs
+Headache
+Pain Profile
+Neurologic Sign
+Complicated 
+migraine
+AR
+Hemiparesis, aphasia, paresthesia, 
+hemianopia
+Migraine with 
+brainstem aura
+AR
+Dysarthria, vertigo, tinnitus, 
+hypoacusis, diplopia, ataxia, 
+decreased level of consciousness
+Acute confusional 
+migraine
+AR
+Alteration in migraine sensorium, 
+stupor, agitation, fugue state
+Vasculitis
+CP, AR
+Seizure, changes in sensorium
+Brain neoplasm or 
+mass
+CP
+Papilledema, focal deficit
+Hydrocephalus
+CP, AR
+Papilledema, bilateral sixth nerve 
+palsies, increased motor tone, 
+impaired upward gaze and 
+Parinaud syndrome
+Idiopathic intracranial 
+hypertension
+CP
+Papilledema, constricted visual 
+fields, enlarged blind spot
+Subarachnoid 
+hemorrhage, 
+ruptured aneurysm
+A
+Changes in sensorium, focal 
+neurologic signs, meningismus
+Subdural or epidural 
+hemorrhage
+CP
+Focal neurologic signs, papilledema, 
+changes in sensorium
+Sagittal sinus 
+thrombosis
+A
+Papilledema, focal neurologic 
+deficits, changes in sensorium, 
+seizures
+Meningitis, 
+encephalitis
+A
+Focal neurologic deficits, changes in 
+sensorium, seizures
+Optic neuritis
+A
+Papillitis, decreased visual acuity, 
+afferent pupillary defect
+A, acute; AR, acute recurrent; CP, chronic progressive.
+TABLE 34.8  Headache Disorders with No 
+Neurologic Signs
+Headache Disorder
+Pain Profile
+Tension-­type headache
+CN, AR
+Migraine without aura
+AR, CN
+Cluster headache
+AR
+Hypertension, uncomplicated
+AR, CN
+Fever
+A
+Anoxia
+A
+Medication overuse
+CN
+Caffeine withdrawal
+A, AR
+Early hydrocephalus or brain mass
+CP
+Cough headache, uncomplicated
+AR
+Meningitis, uncomplicated
+A
+Sinusitis, dental or pharyngeal abscess
+AR
+Temporomandibular joint syndrome
+CN
+Postconcussive syndrome
+CN
+Conversion disorder
+CN
+A, acute; AR, acute recurrent; CN, chronic nonprogressive; CP, chronic 
+progressive.
+TABLE 34.9  Reasons to Obtain 
+Neuroimaging in a Child with Headache
+Abnormal neurologic findings on examination including papilledema
+History of abnormal or focal neurologic symptoms
+New onset of afebrile seizures or alteration in seizure type or frequency
+Recent onset of severe headache
+New headache or change in pattern/severity of previously stable headache
+Symptoms concerning for increased intracranial pressure such as headache:
+ • Occurring in the morning
+ • Worse in recumbent position
+ • Waking the child from sleep
+ • Associated with morning vomiting
+Cough headache or headache when bending over
+Atypical auras with presumed migraine headache
+Headache consistent with trigeminal autonomic cephalgia
+Recent or remote trauma
+Medical comorbidities such as ventriculoperitoneal shunt
+Young age (less than 6 yr) or inability to describe headache
+Incompatibility of headache with primary headache disorder
+Lack of family history of primary headache disorder
+TABLE 34.10  Neuroimaging Modalities
+Advantages of MRI
+Most vascular malformations are detected
+Accurate detection of tumors in temporal lobes and posterior fossa, and 
+small tumors that obstruct CSF flow (e.g., quadrigeminal plate and third 
+ventricular)
+Paranasal sinuses usually included in the examination without special 
+request
+More sensitive for detecting transependymal CSF in cases of borderline 
+hydrocephalus
+Diagnostic for Chiari malformations
+Magnetic resonance angiography can detect many aneurysms
+Magnetic resonance venography can detect cortical vein and dural sinus 
+thrombosis
+Advantages of CT
+Can rapidly diagnose intracranial bleed
+Shorter imaging time, important in evaluating critically ill patients
+May be used in patients with pacemakers, metal implants (surgical clips), 
+and cosmetic tattoos (MRI may turn off pacemakers and dislodge the clips; 
+tattoos distort the image)
+Less expensive and easier access than MRI
+CSF, cerebrospinal fluid.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+feeling well, with pain beginning gradually and escalating throughout 
+the day. Pain is constant, squeezing, nonpulsatile, and located in a band 
+extending from the front of the head, across the temples, and toward the 
+occiput or neck. Photophobia and phonophobia may accompany these 
+headaches but are not a constant feature; patients with TTH typically 
+do not experience both photophobia and phonophobia in the context 
+of a single episode. Unlike migraine headaches, routine physical activ­
+ity does not tend to influence the severity of the headache. In patients 
+with long-­standing pain, the headaches may assume characteristics of 
+migraines; indeed, TTHs often accompany other headache disorders.
+TTHs are classified by the International Classification of Headache 
+Disorders-­3 (ICHD-­3) as either episodic or chronic. Both episodic and 
+chronic TTHs are further classified as having associated pericranial ten­
+derness or as lacking such tenderness. This tenderness is typically present 
+between headaches and increases during episodes. Episodic tension-­
+type headache (acute recurrent) is categorized as either infrequent or 
+frequent. Infrequent episodic TTH is defined as 10 or more episodes 
+total, occurring less than once per month on average. Frequent episodic 
+TTH is defined as 10 or more episodes total, occurring on 1–14 days per 
+month on average for over 3 months. Individual episodes of either may 
+last from 30 minutes to as long as a week and have at least two of the 
+following features: (1) bilateral location, (2) pressing or tightening (non­
+pulsating) quality, (3) mild or moderate intensity, and (4) not aggravated 
+by routine physical activity such as walking or climbing stairs. Nausea 
+or vomiting must be absent; if present, migraine should be considered. 
+Either photophobia or phonophobia may be present; if both are present 
+simultaneously, migraine should be considered. Chronic tension-­type 
+headaches are defined as headaches occurring at least 15 days a month 
+for over 3 months, with features otherwise similar to episodic TTHs.
+Psychosocial history may uncover the cause of the headache. Adjust­
+ment disorders and depression may be either the underlying causes or 
+reactions to chronic pain. Sleep disturbances, school absences, and 
+chronic analgesic use are common. In some highly motivated and suc­
+cessful children, the headaches may be a reaction to the stress associ­
+ated with achievement. In this instance, school attendance is usually 
+perfect, and the patient continues to achieve in all realms. However, 
+some patients with chronic TTH may lack a contributory psychosocial 
+history, and the severe subtypes of TTH are now thought to have a 
+neurobiologic foundation.
+Patients with TTHs have normal neurologic and physical findings, 
+except for possible tenderness along the affected muscles. These mus­
+cles often feel tight, and palpation may trigger the pain. Laboratory 
+tests are not required in the evaluation of TTHs.
+Migraine Headaches
+The diagnosis of migraine headache is typically based on the histori­
+cal description of episodes. Migraine and migraine variants occur in 
+early childhood but with an unknown prevalence, as diagnostic cri­
+teria for migraine are often insufficient in young children and infants 
+(Table 34.12). Several features distinguish migraine in children from 
+adult migraine. In children, the headaches are shorter, ranging from 
+2 to 72 hours, and pain tends to be frontotemporal rather than unilat­
+eral. Vomiting and abdominal pain are more common in children than 
+in adults, and while photophobia and phonophobia may be present 
+in children, they may need to be deduced by behavior changes rather 
+than by child report. Thus, 5-­ to 10-­year-­old children may present with 
+bilateral frontal headaches and associated abdominal pain, nausea, 
+vomiting, photophobia, phonophobia, and a desire to sleep. Unilateral 
+temporal headache location develops in late adolescence, with onset of 
+aura typically in middle school. A family history of migraines is com­
+mon, with reports of up to 90% of pediatric patients having a first-­ or 
+second-­degree relative with recurrent headaches.
+The prevalence of migraine headaches increases with age through­
+out childhood and is higher in females following the onset of puberty. 
+While the diagnosis of migraine is typically made later in childhood, 
+a careful retrospective history of infancy and early childhood events 
+may reveal early episodic symptoms consistent with migraine, includ­
+ing pallor, vomiting, fussiness, and sleepiness occurring outside the 
+context of concurrent illnesses. Furthermore, benign paroxysmal 
+torticollis, cyclic vomiting syndrome, and benign paroxysmal vertigo 
+are episodic syndromes that may be associated with the diagnosis of 
+migraines later in life.
+Certain exposures trigger migraine attacks in susceptible patients. 
+Precipitants include hunger, dehydration, heat or weather changes, 
+exertion, sleep deprivation or irregularity, substance exposures or 
+withdrawal, and psychologic triggers. Food triggers are now thought to 
+be less common than previously believed. In postmenarchal females, 
+migraines may cluster around particular phases of the menstrual cycle.
+Migraines are categorized based on the presence or absence of an 
+associated aura. Migraine without aura is the most common migraine 
+phenotype in pediatric patients.
+Migraine without aura. Criteria assist in the diagnosis of migraine 
+without aura and are based on the number and duration of episodes, as 
+well as symptoms and associated findings (Table 34.13). Children may 
+have shorter-­duration headaches. The pain onset is typically gradual 
+and is dull and constant. At times, though, the pain of an episode may 
+be sudden and severe, prompting concern for a thunderclap headache. 
+More typically, pain increases in severity over the course of an 
+individual episode and becomes throbbing. As the headache proceeds, 
+the pain may generalize to the entire cranium. Intense nausea often 
+accompanies migraines, with occasional vomiting. Skin pallor is 
+a common finding. Nasal congestion and tearing may be present. 
+Because most patients are sensitive to motion, light, and noise during 
+TABLE 34.11  Potentially Useful Tests and 
+Studies in Children with Headaches
+Laboratory Test
+Possible Cause of Headache
+CBC
+Infection (elevated white blood 
+cell count); bleeding diathesis 
+(thrombocytopenia); anemia
+CSF examination with opening 
+pressure
+Infection, vasculitis, pseudotumor 
+cerebri, subarachnoid hemorrhage 
+after CT is normal
+Toxicology assays
+Substance abuse, possible toxin 
+exposure, carbon monoxide
+Hypercoagulation panel
+Unexplained venous sinus thrombosis
+ESR, ANA, ANCA
+Vasculitis
+Genetic tests
+Familial hemiplegic migraine, MELAS, 
+CADASIL, CARASIL
+EEG
+Seizure disorder
+Electrolytes, ECG, UA
+Hypertension, renal disease
+VP shunt radiographic series
+Malfunctioning VP shunt
+Blood glucose
+Hypoglycemia or hyperglycemia
+Serum calcium
+Hyperparathyroidism
+ANA, antinuclear antibody; ANCA, antineutrophil cytoplasmic antibod­
+ies; CADASIL, cerebral autosomal dominant arteriopathy with subcor­
+tical infarcts and leukoencephalopathy; CARASIL, cerebral autosomal 
+recessive arteriopathy with subcortical infarcts and leukoencephalop­
+athy; CSF, cerebrospinal fluid; MELAS, mitochondrial encephalomyop­
+athy, lactic acidosis, and strokelike episodes; VP, ventriculoperitoneal.
+556
+SECTION 7  Neurosensory Disorders
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+HEADACHE
+Headache Pattern
+Abnormal
+neurologic exam
+Migraine without
+aura
+Meningitis
+Subarachnoid hemorrhage
+Vasculitis
+Encephalitis
+  Infectious
+  Acute disseminated
+    encephalomyelitis (ADEM)
+Autoimmune
+Posttraumatic
+  postconcussion
+  headache
+Intracranial hemorrhage
+Other head or neck injury
+Migraine with
+aura
+Tumor
+Abscess
+Hydrocephalus
+Cyst
+Vascular disorders
+  Intracranial hemorrhage
+  Stroke
+  Arteriovenous
+    malformation
+  Other intracranial
+    vascular disorders
+Chiari malformation
+Optic neuritis
+Low CSF pressure
+    (s/p lumbar puncture)
+Encephalitis
+Viral or bacterial
+  illness
+Meningismus
+Abscess (tonsillar,
+  retropharyngeal)
+Sinusitis
+Dental abscess
+Other infection (ENT/
+  cranial structures) 
+Tension-type headache
+Cluster headaches and
+  other TACs
+Primary exertional
+  headache
+Toxic effect of substances
+  or their withdrawal
+    Caffeine
+    Cocaine
+    Food additives
+Hypoxia
+Hypercarbia
+Cold stimulus (ice cream
+  headache)
+Other cranial neuralgias
+Hypertensive crises
+Severe acute
+History of recent trauma
+See next page for
+Recurrent and
+Chronic Headaches
+Features suggestive
+of migraine present
+Yes
+No
+Yes
+No
+Yes
+No
+Yes
+No
+No
+No
+Abnormal neurologic
+exam
+OR
+History of neurologic
+symptoms
+Yes
+Yes
+Fever present
+Consider neuroimaging
+if negative family
+history for migraine
+Perform
+neuroimaging
+Perform LP*
+Meningeal signs
+OR
+Altered mental
+status present
+Normal
+results
+Abnormal
+results
+Abnormal
+results
+Normal
+results
+A
+Perform head
+CT or MRI, ±cervical
+  spine films
+Fig. 34.5  A–B, Decision-­making algorithm in the assessment of headache. The temporal pattern of the head­
+ache must be clarified. Each pattern (acute, acute recurrent, chronic progressive, chronic nonprogressive) has 
+its own differential diagnosis. *Delay LP if signs of increased intracranial pressure but treat and image first. 
+CNS, central nervous system; CSF, cerebrospinal fluid; ENT, ear, nose, and throat; LP; lumbar puncture; s/p, 
+status post; TAC, trigeminal autonomic cephalgia. (From Pomeranz AJ, Sabnis S, Busey SL, et al. Pediatric 
+Decision-­Making Strategies. 2nd ed. Philadelphia: Elsevier; 2016:185–186.)
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+558
+SECTION 7  Neurosensory Disorders
+a migraine attack, they search for a dark and quiet place to sleep. The 
+patient usually awakens within hours feeling fatigued but pain free.
+Migraine with aura. In migraine with aura, the headache is 
+preceded by sensory signs or symptoms termed an aura, which 
+is caused by vasoconstriction and diminished blood flow to the 
+affected region of the brain (Table 34.14). In migraine with typical 
+aura (Table 34.15), the aura is visual and may consist of blurred 
+vision, spreading scintillating scotomata, flashing lights, zigzag lines, 
+and hemianopia. These features typically last less than 60 minutes. 
+Less classic visual disturbances may occur in children. Sensory auras 
+are less common than visual auras and may consist of numbness or 
+tingling.
+Aura should not be confused with a prodrome, which may include 
+anxiety, fatigue, hunger, thirst, nausea or depression. A prodrome may 
+last many hours before a migraine, while an aura usually lasts less than 
+60 minutes.
+Further types of migraine with aura are classified by the specific 
+aura symptoms.
+Migraine with brainstem aura (Table 34.16), previously known as 
+basilar artery migraine, has aura limited to brainstem symptoms such as 
+dysarthria and ataxia. In some patients, the headache may be a minor 
+component of the syndrome. Visual changes may also occur and may 
+include vivid visual images. Vertigo and tinnitus are less common symp­
+toms. Diplopia, vertigo, and vomiting should prompt evaluation for a 
+posterior fossa abnormality, such as a mass or a vascular malformation.
+Hemiplegic migraine has an aura that consists of motor weakness and 
+visual, sensory, and/or speech/language symptoms that are fully revers­
+ible. Both familial and sporadic forms have been described. The familial 
+HEADACHE
+(continued)
+Acute recurrent
+Migraine with aura
+Third ventricle cyst
+Cluster headaches
+  and other TACs
+Vasculitis
+Childhood periodic
+  syndromes (migraine
+  precursors)
+Migraine with or
+without aura
+B
+Chronic migraine
+Chronic tension headache
+New daily persistent
+  headache
+Idiopathic intracranial
+  hypertension
+Caffeine withdrawal
+Carbon monoxide poisoning
+Other toxic effect of substances
+  or their withdrawal
+Temporomandibular
+  joint syndrome
+Analgesic rebound
+Infection/abscess
+Chronic post-traumatic/
+  postconcussion
+  headache
+Vasculitis
+  Primary CNS angiitis
+    of childhood
+Infection-related
+Conversion disorder
+Hypoxia
+Occipital neuralgia
+Chiari malformation
+Tumor
+Hydrocephalus
+Idiopathic intracranial
+  hypertension
+Subdural or epidural
+  hemorrhage
+Aneurysmal leakage/rupture
+Arteriovenous malformation
+Abscess
+Cyst (arachnoid,
+    epidermoid, dermoid,
+    third ventricle)
+Chiari malformation type 1
+Chronic nonprogressive
+Chronic
+progressive
+Features suggestive
+of migraine present
+Yes
+Yes
+No
+No
+Perform CT
+or MRI
+Abnormal neurologic exam
+OR
+History of neurologic symptoms
+Consider CT
+or MRI
+Tension-type headache
+Toxic effect of substances
+  or their withdrawal
+    Caffeine
+    Cocaine
+    Food additives
+Craniofacial abscess/
+  infection (sinus, dental)
+Refractive errors
+  (uncorrected
+  or miscorrected)
+Primary exertional
+  headache
+Seizure; associated
+  headache
+Occipital neuralgia 
+Fig. 34.5, cont’d
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+559
+CHAPTER 34  Headaches
+hemiplegic migraine is an autosomal dominant disorder with genetic vari­
+ants described in three separate genes: CACNA1A, ATP1A2, and SCN1A.
+Retinal migraine involves monocular visual disturbances that are 
+fully reversible. This migraine subtype is extremely rare, and other 
+causes of the vision disturbance should be investigated prior to desig­
+nating this diagnosis (see Chapter 43).
+The episodic syndromes that may be associated with migraines, pre­
+viously termed childhood periodic syndromes, are a group of potentially 
+related symptoms that occur with increased frequency in children with 
+migraine. The hallmark of these symptoms is the recurrent episodic nature 
+of the events. These include gastrointestinal-­related symptoms (recurrent 
+gastrointestinal disturbance, cyclic vomiting syndrome, and abdominal 
+migraine), benign paroxysmal vertigo, and benign paroxysmal torticollis.
+Acute confusional migraine and Alice in Wonderland syndrome are 
+headache conditions that occur primarily in children. Acute confusional 
+migraine, which can be triggered by minor head trauma or have no pre­
+cipitating event, usually converts to typical migraine with age. Episodes 
+consist of alteration in consciousness, which may include lethargy, agi­
+tation, and dysphagia. Attacks last a few hours, with the child eventually 
+falling asleep. The child awakens without memory of the incident. Alice 
+in Wonderland syndrome is characterized by perceptual disturbances in 
+which the sense of proportion or distance, particularly with respect to 
+the body, is distorted. While in adults this syndrome is associated with 
+migraine episodes, Epstein-­Barr virus infection seems to be the most 
+common trigger in children. Migraine mimics are noted in Table 34.17.
+Complications of migraine. Status migrainosus is defined as a 
+migraine headache that lasts over 72 hours with debilitating pain or 
+associated symptoms. Diagnosis is based on a propensity for previous 
+prolonged migraine attacks. Some patients have an aura that lasts 
+longer than 1 week, termed persistent aura without infarction. 
+Conversely, when an aura symptom persists for greater than an hour 
+and neuroimaging demonstrates associated ischemic infarction, 
+migrainous infarction is diagnosed. Patients can also have migraine 
+aura-­triggered seizures that occur during or within 1 hour of a migraine 
+with aura.
+TABLE 34.12  Migraine Variants
+Migraine with or without aura
+Acephalic migraine (aura without headache)
+Familial (CACNA1A, ATP1A, SCN1A) or sporadic hemiplegic migraine
+Basilar migraine (ataxia, deafness, tinnitus, vertigo, syncope)
+Acute confusional migraine
+Vestibular migraine
+Paroxysmal torticollis (infants)*
+Benign paroxysmal vertigo (infants)*
+Transient global amnesia
+Abdominal migraine
+Retinal (monocular vision loss)
+Migralepsy (migraine triggered by seizures)
+Cluster migraine
+Icepick headache
+Migraine strokes
+*Episodic syndrome that may be associated with migraine.
+TABLE 34.13  Migraine Without Aura
+	A.	 At least five attacks fulfilling criteria B–D
+	B.	 Headache attacks lasting 4–72 hr (untreated or unsuccessfully treated)
+	C.	 Headache has at least two of the following four characteristics:
+	
+1.	 Unilateral location
+	
+2.	 Pulsating quality
+	
+3.	 Moderate or severe pain intensity
+	
+4.	 Aggravation by or causing avoidance of routine physical activity (e.g., 
+walking or climbing stairs)
+	D.	 During headache at least one of the following:
+	
+1.	 Nausea and/or vomiting
+	
+2.	 Photophobia and phonophobia
+	E.	 Not better accounted for by another ICHD-­3 diagnosis
+ICHD-­3, International Classification of Headache Disorders-­3.
+Arnold M, Headache Classification Committee of the International 
+Headache Society (IHS). The international classification of headache 
+disorders, 3e. Cephalalgia. 2018;38(1):19.
+TABLE 34.15  Migraine with Typical Aura
+	A.	 At least two attacks fulfilling criteria B and C
+	B.	 Aura consisting of visual, sensory, and/or speech/language symptoms, 
+each fully reversible, but no motor, brainstem, or retinal symptoms
+	C.	 At least three of the following six characteristics:
+	
+1.	 At least one aura symptom spreads gradually over 5 or more min
+	
+2.	 Two or more aura symptoms occur in succession
+	
+3.	 Each individual aura symptom lasts 5–60 min
+	
+4.	 At least one aura symptom is unilateral
+	
+5.	 At least one aura symptom is positive (e.g., scintillations or 
+paresthesia)
+	
+6.	 The aura is accompanied, or followed within 60 min, by headache
+	D.	 Not better accounted for by another ICHD-­3 diagnosis
+ICHD-­3, International Classification of Headache Disorders-­3.
+Arnold M, Headache Classification Committee of the International 
+Headache Society (IHS). The international classification of headache 
+disorders, 3e. Cephalalgia. 2018;38(1):20–21.
+TABLE 34.14  Migraine Auras
+Visual
+Blurred vision
+Zig-­zag lines
+Scotoma (field deficits)
+Scintillations
+Black dots
+Kaleidoscope
+Micropsia, macropsia
+Metamorphopsia (Alice in Wonderland)
+Basilar
+Dysarthria
+Vertigo
+Tinnitus
+Hearing loss
+Diplopia
+Bilateral vision symptoms
+Ataxia
+Depressed level of consciousness
+Bilateral paresthesias
+Other
+Cheiro-oral syndrome*
+Attention loss (poor concentration)
+Confusion
+Amnesia
+Agitation
+Aphasia (expressive, receptive)
+*Migrating paresthesia: hand to arm to face to lips to tongue.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+560
+SECTION 7  Neurosensory Disorders
+Trigeminal Autonomic Cephalgias
+Trigeminal autonomic cephalgia is rare in children under 7 years of 
+age but has been reported in a child as young as 3 months. Onset typ­
+ically occurs during adolescence or adulthood. Cluster headaches and 
+paroxysmal hemicranias are types of TAC (see Table 34.1).
+Cluster headache. Cluster headaches are characterized by episodes 
+of pain interspersed between long periods of remission (Table 34.18). 
+Prevalence in childhood is estimated to be between 0.03% and 0.1%; the 
+disorder is more common in males. Pain is unilateral and localized to the 
+orbital, supraorbital, and/or temporal region. The pain begins suddenly and 
+rapidly increases to an excruciating level. Cluster headaches may be as short 
+as 15 minutes or may last as long as 3 hours; episodes tend to be shorter and 
+less frequent in children. Associated findings include ipsilateral conjunctival 
+injection and/or lacrimation, nasal symptoms, eyelid edema, sweating, 
+miosis, and/or ptosis. Children may have less prominent autonomic features 
+than adults and are most likely to experience lacrimation, conjunctival 
+injection, and nasal discharge. A patient may find it impossible to rest 
+and become agitated and restless during an attack, which is in contrast to 
+migraines, during which the patient becomes quiet and withdraws to a 
+dark, cool room for sleep. However, restlessness may not be as severe or 
+characterizable in children, so observation of behavior is very important.
+Cluster headache is categorized as either episodic or chronic. Episodic 
+cluster headaches occur in a series that may last for a week to months, 
+separated by remission periods of months to years, whereas chronic clus­
+ter headaches are defined as occurring for at least 1 year without such a 
+remission period or with remission periods that last <3 months. Cluster 
+headaches are more common in individuals who smoke tobacco.
+Paroxysmal Hemicrania
+Paroxysmal hemicrania is characterized by shorter cluster head­
+ache–like attacks, lasting 2–30 minutes, though they can be lon­
+ger in children. Although the disorder usually begins in adulthood, 
+chronic paroxysmal hemicrania may affect older children and 
+adolescents. Patients have at least five attacks a day, and the pain 
+may awaken the patient from sleep. Children can have facial pallor 
+instead of flushing. This headache typically responds dramatically 
+TABLE 34.16  Migraine with 
+Brainstem Aura
+	A.	 At least two attacks fulfilling criteria B and C
+	B.	 Aura consisting of visual, sensory, and/or speech/language symptoms, 
+each fully reversible, but no motor or retinal symptoms
+	C.	 At least three of the following six characteristics:
+	
+1.	 At least one aura symptom spreads gradually over 5 or more min
+	
+2.	 Two or more aura symptoms occur in succession
+	
+3.	 Each individual aura symptom lasts 5–60 min
+	
+4.	 At least one aura symptom is unilateral
+	
+5.	 At least one aura symptom is positive (e.g., scintillations or paresthesia)
+	
+6.	 The aura is accompanied, or followed within 60 min, by headache
+	D.	 Aura with at least two of the following fully reversible brainstem symptoms:
+	
+1.	 Dysarthria (must be distinguished from aphasia)
+	
+2.	 Vertigo (must be distinguished from dizziness)
+	
+3.	 Tinnitus
+	
+4.	 Hypoacusis
+	
+5.	 Diplopia
+	
+6.	 Ataxia not attributable to sensory deficit
+	
+7.	 Decreased level of consciousness (GCS ≤13)
+	
+a.	 Not better accounted for by another ICHD-­3 diagnosis
+ICHD-­3, International Classification of Headache Disorders-­3.
+Arnold M, Headache Classification Committee of the International 
+Headache Society (IHS). The international classification of headache 
+disorders, 3e. Cephalalgia. 2018;38(1):20–22.
+TABLE 34.17  Migraine Mimics and 
+Secondary Migraine
+Trigeminal autonomic cephalgias (TACs)
+Cluster headache
+Hemicrania continua
+Short-­lasting unilateral neuralgiform headache attacks with or without 
+conjunctival tearing (injection) (SUNCT/SUNA)
+Ophthalmoplegic (CN III, IV, VI) migraine
+Arterial dissection
+Vasculitis/vasculopathies
+Giant cell arteritis
+Moyamoya
+Cerebral autosomal dominant arteriopathy with subcortical infarcts and 
+leukoencephalopathy (CADASIL) (NOTCH 3)
+Cerebral autosomal recessive arteriopathy with subcortical infarcts and 
+leukoencephalopathy (CARASIL) (HTRA1)
+SLE
+Granulomatosis with polyangiitis
+Primary CNS vasculitis
+Reversible cerebral vasoconstriction syndrome (RCVS)
+Antiphospholipid antibody syndrome
+MELAS
+Idiopathic intracranial hypertension (pseudotumor cerebri)
+Occipital epilepsy
+Sudden vision loss
+Transient ischemic attack
+Acute glaucoma
+Sinusitis with intracranial extension
+Epilepsy with aura
+Transient headache and neurologic deficits with CSF lymphocytosis (HaNDL)
+Alternating hemiplegia of childhood (ATP1A3)
+Fabry disease
+CN, cranial nerve; CNS, central nervous system; CSF, cerebrospinal 
+fluid; MELAS, mitochondrial encephalomyopathy with lactic acidosis 
+and strokelike episodes; SLE, systemic lupus erythematosus.
+TABLE 34.18  Cluster Headache
+	A.	 At least five attacks fulfilling criteria B–D
+	B.	 Severe or very severe unilateral orbital, supraorbital, and/or temporal 
+pain lasting 15–180 min (when untreated)*
+	C.	 Either or both of the following:
+	
+1.	 At least one of the following symptoms or signs, ipsilateral to the 
+headache:
+	
+a.	 Conjunctival injection and/or lacrimation
+	
+b.	 Nasal congestion and/or rhinorrhea
+	
+c.	 Eyelid edema
+	
+d.	 Forehead and facial sweating
+	
+e.	 Miosis and/or ptosis
+	
+2.	 A sense of restlessness or agitation
+	D.	 Occurring with a frequency between one every other day and eight per 
+day†
+	E.	 Not better accounted for by another ICHD-­3 diagnosis
+*During part, but less than half, of the active time course of cluster head­
+ache, attacks may be less severe and/or of shorter or longer duration.
+†During part, but less than half, of the active time course of cluster 
+headache, attacks may be less frequent.
+ICHD-­3, International Classification of Headache Disorders-­3.
+Arnold M, Headache Classification Committee of the International 
+Headache Society (IHS). The international classification of headache 
+disorders, 3e. Cephalalgia. 2018;38(1):41–42.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+561
+CHAPTER 34  Headaches
+to indomethacin therapy. Relief of symptoms occurs within a few 
+days of beginning the medication. Other nonsteroidal antiinflam­
+matory drugs (NSAIDs) are of no benefit. Because the symptoms 
+of chronic paroxysmal hemicrania are similar to those of vascular 
+malformations of the brain, a neuroimaging study should be per­
+formed to rule out malformation before the diagnosis of chronic 
+paroxysmal hemicrania is made.
+Secondary Headaches
+Headache Associated with Trauma
+Acute headache. If a child presents with a headache after trauma 
+and has abnormal neurologic signs or symptoms, noncontrast CT of 
+the head should be obtained emergently to assess for subarachnoid, 
+subdural, or epidural intracranial bleed. Cervical spine radiographs 
+should be obtained if cervical injury is suspected. If the child has focal 
+neurologic deficits indicating possible vascular injury, MRI is indicated, 
+potentially with magnetic resonance (MR) angiography.
+Persistent headache. Headaches may occur as part of the 
+postconcussive or post-­traumatic syndrome. The headache is generally 
+constant and may have qualities of both chronic tension-­type and 
+migraine headaches. For example, some patients may have nausea, 
+vomiting, and visual auras. Other features of this syndrome are fatigue, 
+dizziness, vertigo, poor memory, decreased reaction times, and inability 
+to concentrate. The neurologic findings are usually normal. Symptoms 
+begin within a week of the head injury and may persist for years. About 
+70% of patients recover within a year, but 15% are still symptomatic 
+after 3 years. Post-­traumatic headache is considered acute if duration 
+is <3 months and chronic if >3 months. The pathophysiology of this 
+syndrome is unknown. Postconcussive syndrome is more common 
+in persons with a history of psychologic or psychosomatic illness. A 
+neuroimaging study may be necessary to exclude the rare possibility of a 
+chronic subdural hematoma. Trauma may also lead to the development 
+of primary headaches such as migraines.
+Headaches Associated with Vascular Disorders
+Acute ischemic stroke (see Chapter 37). Headache is a feature of 
+up to 30% of acute ischemic strokes. More commonly experienced 
+symptoms are focal neurologic deficits such as weakness of the limbs 
+and face or speech abnormalities; as such, every child presenting with 
+a focal neurologic deficit must undergo evaluation for stroke. CT 
+imaging can show mature acute ischemic stroke; however, cerebral 
+diffusion-­weighted MRI is needed to identify early and small infarcts. 
+MR angiography can diagnose vascular occlusion and suggest possible 
+arteriopathy. The headache in acute ischemic stroke is typically of 
+moderate intensity and otherwise lacks consistent features, though 
+may occasionally present as a thunderclap headache. Similar headaches 
+may also accompany transient ischemic attacks.
+Aneurysms and arteriovenous malformations. Arterial aneurysms 
+may be congenital (berry) or caused by an infectious process (mycotic). 
+Rupture of an arterial aneurysm is rare in children. The rupture produces 
+an excruciating headache, known as a thunderclap headache. Patients 
+will often describe the pain as the worst headache of their lives. The 
+pain is acute in onset and associated with nuchal rigidity, emesis, and 
+changes in sensorium. The neurologic examination findings may be 
+nonfocal. Noncontrast CT or MRI and an MR angiogram of the head 
+(neck if arterial dissection is suspected) are indicated. CT scan reveals 
+blood in the cisterns and meninges in 85% of cases. If the CT scan shows 
+no pathologic process, a lumbar puncture (LP) is necessary in all patients 
+thought to have a ruptured aneurysm. The spinal fluid in a ruptured 
+aneurysm is bloody, xanthochromic, or both. In half of the cases, patients 
+report having previous headaches before having the headache associated 
+with the rupture. These earlier headaches may be caused by leakage of 
+blood from the aneurysm. If the clinician suspects a leaking or ruptured 
+aneurysm, rapid neurologic and neurosurgical care are mandatory. 
+Arteriovenous malformations may produce similar manifestations.
+Venous thrombosis. Cerebral sinovenous thrombosis can present 
+with progressive headache. Additional signs and symptoms can include 
+papilledema, sixth cranial nerve palsy with associated diplopia, focal 
+deficits, seizures, lethargy, and confusion. Prothrombotic states, certain 
+systemic diseases, and head and neck infections (such as meningitis 
+and mastoiditis) and disorders are risk factors for development of 
+cerebral sinus venous thrombosis. Contrast CT venography or MRI 
+venography should be obtained to assess for filling defects, with MRI 
+offering better assessment of parenchyma.
+Vascular dissection. Vascular dissection may present with a 
+headache that precedes ischemic symptom development by hours 
+to days. These headaches are typically persistent, nonthrobbing, and 
+unilateral but may be throbbing, thunderclap, and steadily worsening. 
+Infection, coughing, vomiting, and connective tissue disorders such as 
+Ehlers-­Danlos disease are risk factors. MRI with angiography of the 
+head and neck is required for diagnosis.
+Vasculitis. Vasculitis is an important cause of headaches in adults; 
+in children, headache is rarely the only presenting manifestation of this 
+disorder and is instead a less frequent associated finding. Because of 
+the increased risk of systemic hypertension in patients with vasculitis, 
+it is important to include a blood pressure measurement as part of 
+the complete history and physical examination. When systemic lupus 
+erythematosus and mixed connective tissue disorders affect the central 
+nervous system, children may present with seizures and mental status 
+changes. These symptoms may occur with or without headaches.
+Genetic disorders. Patients with mitochondrial encephalomyopathy, 
+lactic acidosis, and strokelike episodes (MELAS) may have recurrent 
+migraine episodes and/or acute headache with associated neurologic 
+deficits and/or seizures. MELAS is characterized by strokelike episodes, 
+most commonly in the posterior temporal, parietal, and occipital lobes, 
+as well as lactic acidosis, ragged red fibers on muscle biopsy, and at least 
+two of the following: seizures, dementia, recurrent migraine headache, 
+and vomiting. MELAS is associated with myopathy, short stature, hearing 
+deficits, ophthalmologic problems, learning disabilities, hemiparesis, 
+cardiac problems, and diabetes. Molecular genetic testing is available to 
+identify pathogenic variants in mitochondrial genes associated with the 
+disorder: Over 80% of confirmed cases are related to pathogenic variants 
+in MT-­TL1; another 10% of confirmed cases are related to pathogenic 
+variants in MT-­ND5; pathogenic variants in over a dozen additional 
+mitochondrial genes can cause the syndrome as well. Migraines are also 
+common in a variety of other mitochondrial disorders.
+Cerebral autosomal dominant arteriopathy with subcortical 
+infarcts and leukoencephalopathy (CADASIL) is a mitochondrial dis­
+order that may present with headaches. Most patients develop symptoms 
+in late adolescence or adulthood, though earlier onset is possible and 
+the disorder should be considered in children with subcortical infarcts, 
+migraines, and multifocal T2/fluid-­attenuated inversion recovery 
+(FLAIR) hyperintensities in the deep white matter. CADASIL is inher­
+ited in an autosomal dominant fashion and may lead to early stroke or 
+dementia; a suggestive family history should increase suspicion. Patho­
+genic variants in NOTCH3 are diagnostic; molecular genetic testing is 
+available. Cerebral autosomal recessive arteriopathy with subcortical 
+infarcts and leukoencephalopathy (CARASIL) is due to pathologic 
+variants in HTRA1. Associated features include alopecia and spondylosis.
+Headaches Associated with Nonvascular 
+Intracranial Disorders
+Secondary headaches may be due to a variety of nonvascular intracra­
+nial pathology, including increased cerebrospinal fluid (CSF) pressure, 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+562
+SECTION 7  Neurosensory Disorders
+decreased CSF pressure, intracranial masses, Chiari type I malforma­
+tions, and seizures.
+Disorders associated with increased CSF pressure. Idiopathic 
+intracranial hypertension (IIH), formally called pseudotumor 
+cerebri, is most commonly seen in obese postmenarchal females, 
+but can occur in prepubertal children. IIH is defined as a new 
+or significantly worsening headache, with associated elevated 
+cerebrospinal fluid opening pressure (>250 mm H2O or in obese 
+children >280 mm H2O), that does not meet criteria for another 
+headache diagnosis and has no identifiable cause. Pain is typically 
+worse when recumbent and improves to a degree when upright or 
+standing. The associated headache either develops or worsens with 
+the IIH or leads to its diagnosis and is associated with pulsatile 
+tinnitus and/or papilledema.
+Secondary intracranial hypertension may be caused by medication 
+or a variety of medical conditions, including obstructive, toxic, metabolic, 
+infectious, or hormonal causes. History and physical examination will 
+guide whether neuroimaging is indicated (see Table 34.9) and whether 
+evaluation for nonobstructive secondary causes is indicated (Table 
+34.19). If papilledema is present, neuroimaging should be obtained prior 
+to lumbar puncture to evaluate for other causes of intracranial hyperten­
+sion, such as a tumor or hydrocephalus. MRI with venography should 
+also be considered in patients who are at risk for venous thrombosis or in 
+those whose presentation does not fit the typical idiopathic intracranial 
+hypertension profile (e.g., males, prepubertal children, and nonobese 
+females), in order to assess for dural sinus thrombosis. In IIH, MRI can 
+show empty sella turcica, distention of the perioptic subarachnoid space, 
+flattening of the posterior sclerae, protrusion of the optic nerve papillae 
+into the vitreous, and transverse cerebral venous sinus stenosis.
+All patients with IIH should be monitored closely with special atten­
+tion to ocular findings, as they are at risk for development of perma­
+nent visual impairment secondary to the development of optic atrophy.
+TABLE 34.19  Secondary Intracranial Hypertension Without an Obstructive Lesion on MRI
+Hematologic Disorders
+Wiskott-­Aldrich syndrome
+Iron-­deficiency anemia
+Aplastic anemia
+Sickle cell disease
+Polycythemia
+Bone marrow transplantation and associated treatments
+Prothrombotic states
+Fanconi anemia
+Infections
+Acute sinusitis
+Otitis media (lateral sinus thrombosis)
+Mastoiditis
+Tonsillitis
+Measles
+Roseola
+Varicella, recurrent varicella-­zoster virus infection
+Lyme disease
+HIV or associated treatment complications
+Drug-­Related
+Tetracyclines
+Sulfonamides
+Nalidixic acid
+Fluoroquinolones
+Corticosteroid therapy and withdrawal
+Nitrofurantoin
+Cytarabine
+Cyclosporine
+Phenytoin
+Mesalamine
+Isotretinoin
+Amiodarone
+Oral contraceptive pills/implants
+Renal Disorders
+Nephrotic syndrome
+Chronic renal insufficiency
+Post–renal transplantation
+Peritoneal dialysis
+Nutritional Disorders
+Hypovitaminosis A
+Vitamin A intoxication
+Hyperalimentation in malnourished patient
+Vitamin D–dependent rickets
+Connective Tissue Disorders
+Antiphospholipid antibody syndrome
+Systemic lupus erythematosus
+Behçet disease
+Endocrine Disorders
+Polycystic ovarian syndrome
+Hypothyroidism
+Hypoparathyroidism/hyperparathyroidism
+Congenital adrenal hyperplasia
+Addison disease
+Recombinant growth hormone
+Other Conditions
+Dural sinus thrombosis
+Obesity (in pubertal patients)
+Superior vena cava syndrome
+Sleep apnea
+Guillain-­Barré syndrome
+Crohn disease
+Ulcerative colitis
+Turner syndrome
+Galactosemia
+Atrial septal defect repair
+Möbius syndrome
+Sarcoidosis
+From Parker A. Idiopathic intracranial hypertension (pseudotumor cerebri). In: Kliegman RM, St. Geme JW III, Blum NJ, et al., eds. Nelson 
+Textbook of Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:3237.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+563
+CHAPTER 34  Headaches
+Hydrocephalus usually causes a generalized headache. Slowly 
+developing hydrocephalus initially causes mild pain, whereas rap­
+idly developing hydrocephalus causes severe pain. Most patients with 
+hydrocephalus have morning headaches that lessen after they arise, 
+though pain may also be constant. Physical examination reveals signs 
+of increased intracranial pressure, such as papilledema or tenderness of 
+the neck. Papilledema is usually absent in children with an open fon­
+tanel. Macrocephaly is present in young children with unfused cranial 
+sutures and in those with long-­standing hydrocephalus. Other signs of 
+hydrocephalus are a bulging fontanel and widened cranial sutures. The 
+head growth chart is especially important in the evaluation of children 
+with hydrocephalus. Head growth is abnormal if the plot of sequential 
+head circumferences crosses percentile lines.
+Cough headaches are intermittent headaches caused by transient 
+increases in intracranial pressure resulting from activities that ele­
+vate intrathoracic pressure, such as exertion, coughing, or bending. 
+The pain is maximum and severe at the onset of the activity and then 
+resolves in seconds. Patients are usually asymptomatic between events. 
+Cough headaches, which are much shorter than exercise-­induced vas­
+cular headaches, may be caused by both benign and life-­threatening 
+conditions. Structural causes of cough headache include brain tumors, 
+cysts, and Chiari malformations. The results of the physical examina­
+tion are usually normal, even when structural lesions cause this syn­
+drome. In children, subtentorial tumors account for more than 50% of 
+space-­occupying lesions; cough headaches are a cause for concern and 
+warrant an MRI.
+Disorders associated with decreased CSF pressure. Intracranial 
+hypotension may occur from a tear in the dura caused by trauma, 
+surgery, or lumbar puncture. The etiology of the headache is due to 
+traction on the dura and vessels at the base of the brain. The headache 
+associated with intracranial hypotension typically improves while the 
+patient is recumbent and worsens upon sitting or standing.
+The most common cause of a headache from intracranial hypoten­
+sion is a persistent CSF leak following lumbar puncture. Risk factors 
+for post–lumbar puncture headache include the use of large-­bore spi­
+nal needles and multiple attempts at obtaining CSF. Patients describe 
+a severe headache within seconds after assuming an upright position. 
+The headache disappears soon after the patient lies down. Other causes 
+of low-­pressure headaches include CSF leaks from fractures or tumors 
+at the base of the skull.
+Intracranial masses. Brain neoplasms are the second most 
+common type of childhood malignancy, though the overall incidence 
+is low. As such, tumor is an infrequent cause of headache in children. 
+The mechanisms by which tumors produce headaches include 
+hydrocephalus from obstruction of CSF flow or direct traction on 
+dural or vascular structures. Headaches caused by hydrocephalus may 
+develop rapidly, whereas traction on dural or vascular structures from 
+tumor growth causes a slow and progressive headache. At the time of 
+presentation, most patients with tumors or hydrocephalus have chronic 
+and progressive headaches, with a history of increasing frequency and 
+severity of pain over time.
+Headache secondary to a tumor may or may not be localized to the 
+tumor site. Patients with posterior fossa tumors usually have occipital 
+pain, but if hydrocephalus is also present, the pain may be generalized. 
+Headache secondary to tumor typically demonstrates a slow increase 
+in the severity and frequency of painful episodes; initially, pain may 
+be mild, and over-­the-­counter analgesics provide adequate pain relief. 
+However, it is important to note that many patients with brain tumors 
+have no particular pattern to their headaches. Patients with brain 
+tumors near the optic chiasm may have visual disturbances, galactor­
+rhea, or other endocrine abnormalities. Diplopia may be present if the 
+third or sixth cranial nerve is compressed; ptosis may also be present. 
+Other historical features concerning for intracranial neoplasm include 
+changes in school performance, reported motor or balance distur­
+bances, personality or behavior changes, or seizures.
+Physical examination often reveals abnormal findings, including 
+papilledema and neurologic deficits. Focal neurologic findings may 
+include eye movement abnormalities, anisocoria, facial weakness, pto­
+sis, swallowing difficulties, hemiparesis, sensory deficits, cranial nerve 
+deficits, altered mental status, and ataxia. Papilledema may be absent 
+in children with posterior fossa tumors (with or without hydrocepha­
+lus) or in children with open fontanels. Nonlateralizing signs include 
+increased motor tone as well as third and sixth nerve palsies. Increased 
+motor tone may not be a constant finding and may manifest as tran­
+sient shivering.
+Parinaud syndrome is the triad of upward-­gaze paresis, poor pupil­
+lary reaction to light, and retraction nystagmus on convergence, and is 
+seen in patients with hydrocephalus or tumors in the pineal region. The 
+presence of Parinaud syndrome always warrants neuroimaging.
+Increased intracranial pressure secondary to hydrocephalus and/
+or a brain tumor should be suspected in any child with chronic pro­
+gressive headaches, abnormal neurologic examination findings, nuchal 
+rigidity, or abnormal head growth. Patients with these signs and symp­
+toms should undergo neuroimaging (see Table 34.9).
+Intracranial cysts are classified as arachnoid, epidermoid, or der­
+moid. Slow-­growing cysts often produce headache patterns similar to 
+those of neoplasms. Epidermoid and dermoid cysts may have sinus 
+tracts that communicate with the skin. Rarely, cysts may rupture and 
+result in increased intracranial pressure and resultant headache. If 
+these cysts become infected, their clinical manifestations resemble that 
+of a brain abscess.
+A colloid cyst of the third ventricle is a potentially life-­threatening 
+cause of headache. With changes in position, this cyst functions as a 
+ball valve and intermittently impedes the flow of CSF. This obstruc­
+tion causes transient increases in intracranial pressure. During some 
+episodes of obstruction, the patient may be asymptomatic. At other 
+times, symptoms may be severe and include debilitating thunderclap 
+headaches, neurologic posturing, coma, and even death. The intracra­
+nial pressure returns to normal when position is changed or when the 
+increased CSF pressure overcomes the obstruction. Physical findings 
+are normal between events. MRI confirms diagnosis. Treatment con­
+sists of CSF diversion or removal of the cyst.
+Chiari I malformations. Chiari I malformation may present with 
+headaches (often occipital and neck) that worsen with cough and 
+Valsalva maneuvers, and may be associated with radicular extremity 
+pain. Patients presenting with this pattern of findings require 
+neuroimaging.
+Headaches associated with epileptic seizures. Headache may be 
+a preictal phenomenon in patients with focal epilepsy syndromes or a 
+consequence of an epileptic seizure. Postictal headaches tend to remit 
+within hours of the cessation of seizure activity but may last as long 
+as 72 hours. Headache occurring as an ictal phenomenon in partial 
+seizures remits with, or soon after, the cessation of seizure activity.
+Headaches Related to Substances
+Medication-­overuse headaches. A thorough medication history 
+is essential, as many analgesics may be associated with overuse 
+headaches. All classes of headache medications can paradoxically cause 
+headaches that may be worse on waking and exacerbated by activity. 
+Acetaminophen, nonsteroidal antiinflammatory drugs, triptans, 
+ergot alkaloids, and opiates can be culprits. The diagnostic criteria for 
+medication-­overuse headaches include the following: (1) headache 
+occurring on 15 days per month in a patient with a pre-­existing 
+headache disorder and (2) regular overuse of the medication taken 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+564
+SECTION 7  Neurosensory Disorders
+for acute and/or symptomatic treatment of headache for >3 months. 
+Stopping the medication improves the symptoms.
+Caffeine withdrawal headaches. The threshold for withdrawal 
+for each person is variable, but when caffeine is ingested in sufficient 
+quantities for prolonged periods, sudden withdrawal may lead to 
+vascular headaches. In the most common scenario, consumption 
+occurs on weekdays, and because of schedule differences, the 
+caffeinated beverage is not consumed on the weekend. This syndrome 
+is easily diagnosed by history or using a headache diary.
+Other substance exposure headaches. Carbon monoxide 
+poisoning should be suspected in any child with chronic headaches, 
+as even mild exposure may cause headache and nausea. The diagnosis 
+is difficult to confirm with an arterial hemoglobin carbon monoxide 
+(HbCO) level because the half-­life of HbCO in room air is only 4 hours. 
+Hence, the level may be normal only a few hours after exposure. One 
+way of diagnosing and treating this condition is by removing the cause 
+of the exposure. Example sources of carbon monoxide exposure include 
+heavy urban traffic in which the patient is a car passenger, methylene 
+dichloride paint strippers, kerosene space heaters, a gasoline engine 
+running in an attached garage, cigarette smoking, and faulty home 
+furnaces. Typically, co-­inhabitants have similar symptoms. Patients 
+exposed to carbon monoxide may have behavioral and neurologic 
+findings days to months later.
+Other substance exposures may also lead to headaches. Ingestion 
+of alcohol may lead to headache either during or after consumption. 
+Use of cocaine causes headaches through various mechanisms, includ­
+ing hypertension, vasoconstriction, hypersensitivity vasculitis, and 
+subarachnoid hemorrhage. Elevations in serum lead levels may cause 
+headache (lead encephalopathy).
+Headaches Associated with Infections
+Infectious causes of headache are common and are typically benign, 
+with the most common etiology being a viral upper respiratory tract 
+infection. However, serious and life-­threatening infections may present 
+with headache.
+Meningitis and meningoencephalitis may present with a headache 
+that is acute in onset and generalized. Fever, nuchal rigidity, alteration 
+in sensorium, and abnormal neurologic findings may be present as well. 
+Children presenting with this constellation of findings require an emer­
+gent lumbar puncture with cell counts and differential, glucose and pro­
+tein quantification with a simultaneous determination of serum glucose, 
+Gram stain, bacterial culture, and any indicated viral studies based on 
+history, physical findings, or local epidemiology.
+The child with a brain abscess may present with progressive neuro­
+logic dysfunction and may deteriorate quickly. Brain abscess should be 
+considered in any child with a right-­to-­left cardiac shunt, chronic mucosal 
+surface infections (sinus, otitis, dental), endocarditis, and a recent onset of 
+persistent, chronic headaches. These patients may present with focal neu­
+rologic findings and signs of increased intracranial pressure rather than 
+fever and nuchal rigidity. Neuroimaging should be considered prior to 
+lumbar puncture, due to risk of herniation with space-­occupying lesions.
+Headache may accompany infections of the eye and orbit. The signs 
+and symptoms of periorbital cellulitis are periorbital redness and ten­
+derness, whereas in orbital cellulitis, the patient may also have che­
+mosis, proptosis, ophthalmoplegia, painful extraocular movements, 
+and change in visual acuity. Inflammation of the eye and orbit usually 
+causes localized pain.
+The headache associated with sinusitis may be acute or chronic. When 
+the frontal or maxillary sinuses are involved, pain is frontal or orbital in 
+location. When the ethmoid or sphenoid sinuses are infected, the headache 
+may be frontal or occipital. Signs and symptoms of sinusitis include puru­
+lent rhinorrhea, halitosis, cough, tenderness to palpation over the sinuses 
+or teeth, and fever. A prior history of allergic rhinitis or sinusitis may be 
+present. The diagnosis of acute bacterial sinusitis in pediatric patients may 
+be made if symptoms of nasal discharge or daytime cough persist without 
+improvement for more than 10 days, clinical course worsens or new symp­
+toms develop after initial symptoms improve, or symptoms are severe at 
+onset with fever of or above 39°C and purulent nasal discharge for at least 
+3 days. Imaging studies are not required to confirm a diagnosis of sinusitis. 
+However, contrast CT of the head, sinuses, and orbits should be obtained if 
+there are signs of orbital cellulitis, altered mental status, or severe headache 
+associated with sinusitis.
+Dental abscesses may produce headaches that are aching or 
+stabbing, and may occur as a complication of dental caries, tooth 
+extractions, or root canal procedures. Physical examination may be 
+normal or may reveal gingival swelling, redness, purulence, or pain. 
+Palpating each tooth individually with a tongue blade may reveal the 
+specific source of pain.
+Headaches and/or Facial Pain Related to Dysfunction of 
+Extracranial Structures (Table 34.20)
+Asthenopia or eye strain may be a cause of headache and mild, dull, ach­
+ing discomfort of the eyes. Because it is due to muscle strain that occurs 
+while trying to correct visual acuity, it is not present on awakening and 
+worsens with prolonged visual duties. Referral to an ophthalmologist 
+should be made if asthenopia is suspected. Physical examination is oth­
+erwise normal. Abnormal extraocular movements should prompt neu­
+roimaging to evaluate for possible intracranial lesions.
+A corneal abrasion should be suspected in the irritable infant and 
+in the patient with excruciating eye pain. Diagnosis is made by fluores­
+cein examination of the cornea. Corneal irritation, keratoconjunctivitis 
+sicca, and recurrent erosion syndrome may present with recurrent eye 
+pain that must be differentiated from cluster headaches.
+Optic neuritis (inflammation of the optic nerve) often causes ipsi­
+lateral retro-­orbital pain. Optic neuritis may occur as a single entity, or 
+it may be part of the manifestation of multiple sclerosis. This disorder 
+is rare in children but is more common in adolescents. The ophthal­
+mologic examination reveals papillitis, an afferent pupillary defect, 
+and decreased visual acuity. Often, the findings are normal except for 
+decreased visual acuity. A neuroimaging study should be performed to 
+fully evaluate the orbit and optic nerve and to evaluate for the presence 
+of other demyelinating lesions more consistent with multiple sclerosis.
+Malocclusion of the temporomandibular joint (TMJ) may cause 
+chronic headaches. The pain is localized to the side of the affected joint. 
+Some patients report constant pain, whereas others have pain only with 
+jaw movement. An identifying “click” occurs when the patient opens 
+the mouth. Full depression of the mandible may be limited in range. 
+Not every person with a click has TMJ syndrome, and not everyone 
+with TMJ syndrome has headaches. Gum chewing may exacerbate the 
+pain associated with TMJ syndrome. In patients without TMJ syn­
+drome, gum chewing may cause headaches through overuse of the 
+temporalis muscles. Patients with symptomatic TMJ syndrome often 
+find relief with the use of an occlusal splint worn during sleep.
+Disorders Affecting Homeostasis
+Headaches triggered by fasting may occur in individuals with or with­
+out primary headache disorders. Children may fast due to dieting or 
+irregular schedules; skipping breakfast before school is associated with 
+increased headache frequency in adolescents. These headaches may 
+occur within 1 hour but generally take 12 hours to develop. A thorough 
+diet history reveals prolonged fasting as the etiology of the headache.
+Anoxia and hypoxia (<70 mm Hg) may produce headaches 
+through dilatation of cerebral arteries, which in turn causes an increase 
+in cerebral blood flow. Headaches are typically bifrontal, throbbing, 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+565
+CHAPTER 34  Headaches
+and worse with exertion, straining, or supine positioning. In children 
+with illnesses that predispose them to hypoxia (chronic lung disease, 
+obstructive sleep apnea), treatment should be directed at alleviating the 
+source of the hypoxia. High altitudes may also lead to an acute hypoxic 
+state. Hypercapnia (levels >50 mm Hg) may also cause throbbing head­
+aches. For nocturnal or morning headaches, in addition to neuroimag­
+ing, polysomnography should be considered to assess for obstructive 
+sleep apnea.
+Systemic hypertension, both acute and chronic, may be associ­
+ated with headaches. The pain is related to altered regulation of cere­
+bral blood flow. Acute hypertension typically occurs in a child with 
+underlying renal disease due to poststreptococcal glomerulonephritis, 
+renal failure, or collagen vascular disease. Although hypertension is an 
+uncommon cause of headaches in children, the diagnosis of hyperten­
+sion is straightforward, and treatment of the hypertension alleviates 
+the headaches. Headaches may be part of malignant hypertension 
+syndrome, in which retinal exudates and microscopic hematuria are 
+usually present. Severe hypertension may also cause intracerebral 
+hemorrhage.
+Psychologic Factors
+There is a high rate of comorbid psychiatric diagnoses in children with 
+primary headaches, of which anxiety and depression are the most com­
+mon. Primary headaches are more commonly seen in children with a 
+history of psychiatric disorders. Anxiety and mood disorders are also 
+comorbidities associated with TTHs, especially when chronic, and psy­
+chosocial stress may trigger these headaches. Consequently, screening 
+for mental health symptoms and psychosocial stressors should occur 
+in conjunction with the medical history. History should also aim to 
+determine child coping skills, family relationships, and parental reac­
+tions to pain.
+Conversion disorder may manifest as headaches. Headaches asso­
+ciated with conversion disorder are very difficult to diagnose and treat 
+appropriately. The frequency and severity of these headaches increase 
+without lasting relief from any pharmacologic or physical therapy. 
+Some patients appear as if they are in pain, whereas others look per­
+fectly normal despite claiming to be in considerable pain. Secondary 
+TTH pain may occur, which further complicates the diagnosis. The 
+neurologic findings in conversion disorder are normal.
+The two goals in approaching conversion disorder headaches are 
+(1) to convince the family that there is no physical cause for these head­
+aches and (2) to uncover the origin of the conversion disorder. The 
+physician with a pre-­established rapport with the family is clearly at an 
+advantage in convincing the family that no physical cause exists for the 
+headaches. The origins of a conversion disorder are difficult to uncover 
+and require the finesse of an experienced therapist. Psychologic inter­
+vention is essential, not only to identify the source of the problem but 
+also to offer appropriate counseling.
+TABLE 34.20  Chronic Facial Pain: Differential Diagnosis
+Orbital Pain
+Ocular disease
+Migraine
+Cluster headache
+Sinusitis
+Orbital cellulitis
+Tolosa-­Hunt syndrome
+Intracranial aneurysm
+Cavernous sinus disease (mass, aneurysm)
+Giant cell arteritis
+Neoplasm
+Graves disease
+Neoplasm, frontal lobe
+Trigeminal neuralgia
+Postherpetic neuralgia
+Zoster
+Ear/Periauricular Pain
+Chronic external otitis
+Relapsing polychondritis
+Cholesteatoma
+TMJ syndrome
+Migraine
+Carotidynia
+Glossopharyngeal neuralgia
+Thyroiditis
+Muscle contraction
+Carotid aneurysm
+Cervical spine disease
+Neoplasm
+Zoster
+Nasal/Cheek Pain
+Sinusitis
+Facial cellulitis
+Neoplasm (nasopharynx, sinus)
+Vasomotor rhinitis
+Allergic rhinitis
+Trigeminal neuralgia
+Midline granuloma
+Granulomatosis with polyangiitis
+TMJ syndrome
+Dental disease
+Postherpetic neuralgia
+Atypical odontalgia
+Cluster headache
+Poorly Localized/Vague
+Sinus disease
+TMJ syndrome
+Depression
+Conversion reaction
+Neoplasm
+Muscle contraction
+Dental/Jaw Pain
+Toothache
+TMJ syndrome
+Sinusitis
+Neoplasm
+Trigeminal neuralgia
+Parotid disease
+Atypical odontalgia
+Postherpetic neuralgia
+TMJ, temporomandibular joint.
+Modified from Reilly BM. Practical Strategies in Outpatient Medicine. 2nd ed. Philadelphia: WB Saunders; 1991:106.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+566
+SECTION 7  Neurosensory Disorders
+   	 S U MMA RY  A N D  R E D  F L A G S
+Headaches are a common cause of morbidity and health care utiliza­
+tion in children. Most children who present with headaches will have 
+a benign secondary headache or the primary headache disorders of 
+TTH or migraine. However, the clinician must always consider condi­
+tions associated with significant morbidity or mortality in the evalua­
+tion of each patient with a headache. A thorough history and physical 
+examination are the best tools to aid in determining which patients 
+have a serious and life-­threatening cause for their headaches. Certain 
+symptoms and signs should be considered red flags and prompt further 
+evaluation (see Tables 34.5 and 34.6). Blood pressure and fundoscopic 
+exams are essential. Indications for neuroimaging are shown in Table 
+34.9. In the evaluation of the patient with headache, a single normal 
+neurologic examination or one normal neuroimaging study should 
+not provide complete reassurance. If headache persists, children 
+require continued follow-­up and ongoing comprehensive assessments, 
+including detailed general physical and neurologic examinations. 
+Maintenance of a headache diary for patients with frequent or chronic 
+headaches may be invaluable in determining the diagnosis and assess­
+ing the response to therapy. Assessment of headaches requires a strong 
+patient-­physician relationship to provide continued review of associ­
+ated symptoms, ongoing assessments, appropriate evaluation, consid­
+eration of psychosocial factors, and reassurance when indicated.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+566.e1
+BIBLIOGRAPHY
+Abend N, Younkin D, Lewis D. Secondary headaches in children and 
+adolescents. Semin Pediatr Neurol. 2010;17:123–133.
+Abu-­Arafeh I, Howells R. Primary headaches in children under the age of 7 
+years. Curr Pain Headache Rep. 2014;18:401.
+Abu-­Arafeh I, Macleod S. Serious neurological disorders in children with 
+chronic headache. Arch Dis Child. 2005;90(9):937–940.
+Abu-­Arafeh I, Razak S, Sivaraman B, et al. Prevalence of headache and 
+migraine in children and adolescents: a systematic review of population-­
+based studies. Dev Med Child Neurol. 2010;52(12):1088–1097.
+Alexiou GA, Argyropoulou MI. Neuroimaging in childhood headache: a 
+systemic review. Pediatr Radiol. 2013;43:777–784.
+Angus-­Leppan H. Migraine: mimics, borderlands and chameleons. Pract 
+Neurol. 2013;13:308–318.
+Annequin D, Tourniaire B, Massiou H. Migraine and headache in childhood 
+and adolescence. Pediatr Clin North Am. 2000;47:617–631.
+Anttila P, Metsahonkala L, Sillanpaa M. Long-­term trends in the incidence of 
+headache in Finnish schoolchildren. Pediatrics. 2006;117(6):e1197–e1201.
+Arnold M. Headache Classification Committee of the International Headache 
+Society (IHS). The international classification of headache disorders, 3rd 
+ed. Cephalalgia. 2018;38(1):1–211.
+Bear JJ, Gelfand AA, Goadsby PJ, et al. Occipital headaches and neuroimaging 
+in children. Neurology. 2017;89(5):469–474.
+Broasky J, Kair K, Shoshany T, et al. Benign paroxysmal migraine variants 
+of infancy and childhood: transitions and clinical features. Eur J Paediatr 
+Neurol. 2018;22:667–673.
+Caviness V, Ebinger F. Headache in pediatric practice. In: Handbook of 
+Clinical Neurology. Vol. 112 (3rd Series) Pediatric Neurology. Part II. 2013; 
+Chapter 86:827–­838.
+Dao JM, Qubty W. Headache diagnosis in children and adolescents. Curr Pain 
+Headache Rep. 2018;22:17.
+Dlamini N, deVeber GA. Pediatric stroke. In: Kliegman RM, St. Geme III JW, 
+Blum NJ, et al., eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia: 
+Elsevier; 2020:3209–3218.
+Dodock DW. Migraine. Lancet. 2018;391:1315–1326.
+Genizi J, et al. Occipital headaches in children: are they a red flag? J Child 
+Neurol. 2017;32(11):942–946.
+Goncalves D, Meireles J, Richa R, et al. Syndrome of transient headache and 
+neurologic deficits with cerebrospinal fluid lymphocytosis (HaNDL): a 
+pediatric case report. J Child Neurol. 2012;28(12):1661–1663.
+Gupta SN, Gupta VS, Borad N. Spectrum migraine variants and beyond: the 
+individual syndromes in children. Brain Dev. 2016;38:10–26.
+Hayes LL, Palasis S, et al., Expert Panel on Pediatric Imaging. ACR 
+Appropriateness Criteria® headache—child. J Am Coll Radiol. 
+2018;15(5S):S78–S90.
+Hersey AD, Kabbouche MA, O’Brien HL, et al. Headaches. In: Kliegman RM, 
+St. Geme III JW, Blum NJ, et al., eds. Nelson Textbook of Pediatrics, 21st ed. 
+Philadelphia: Elsevier; 2020:3128–3140.
+How CH, Chan WSD. Headaches in children. Singapore Med J. 
+2014;55(3):128–131.
+Irwin SL, Gelfand AA. Occipital headaches and neuroimaging in children. 
+Curr Pain Headache Rep. 2018;22(9):59.
+Johnston MV. Encephalopathies: mitochondrial myopathy, encephalopathy 
+lactic acidosis and stroke-­like episodes. In: Kliegman RM, St. Geme III JW, 
+Blum NJ, et al., eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia: 
+Elsevier; 2020:3175.
+Kandemir G, Hesapcioglu ST, Kurt ANC. What are the psychosocial factors 
+associated with migraine in the child? Comorbid psychiatric disorders, 
+family functioning, parenting style, or Mom’s psychiatric symptoms? J 
+Child Neurol. 2018;33(2):174–181.
+Kaniecki R. Headache assessment and management. J Am Med Assoc. 
+2003;289:1430–1433.
+Klein J, Koch T. Headache in children. Pediatr Rev. 2020;41(4):159–171.
+Lewis DW. Headaches in children and adolescents. Am Fam Physician. 
+2002;65:625–632.
+Lewis DW, Ashwal S, Dahl G, et al. Practice parameter: evaluation of children 
+and adolescents with recurrent headaches: report of the Quality Standards 
+Subcommittee of the American Academy of Neurology and the Practice 
+Committee of the Child Neurology Society. Neurology. 2002;59:490–498.
+Lewis DW, Qureshi F. Acute headache in children and adolescents presenting 
+to the emergency department. Headache. 2000;40(3):200–203.
+Linder SL, Winner P. Pediatric headache. Med Clin North Am. 2001;85:1037–1053.
+Marcdante KJ, Kliegman RM. Headache and migraine. In: Marcdante KJ, ed. 
+Nelson Essentials of Pediatrics. 8th ed. Philadelphia: Elsevier; 2019:685–687.
+Mastria G, Mancini V, Viganò A, et al. Alice in Wonderland syndrome: a 
+clinical and pathophysiological review. BioMed Res Int. 2016;2016:8243145.
+McConnell B, Duffield T, Hall T, et al. Post-­traumatic headache after pediatric 
+traumatic brain injury: prevalence, risk factors, and association with 
+neurocognitive outcomes. J Child Neurol. 2020;35(1):63–70.
+Özge A, Faedda N, Abu-­Arafeh I, et al. Experts’ opinion about the primary 
+headache diagnostic criteria of the ICHD–­3rd edition beta in children and 
+adolescents. J Headache Pain. 2017;18(1):109.
+Ozge A, Termine C, Antonaci F, et al. Overview of diagnosis and management 
+of paediatric headache. Part I: diagnosis. J Headache Pain. 2011;12:13–23.
+Pacheva IH, Ivanov IS. Migraine variants – occurrence in pediatric neurology 
+practice. Clin Neurol Neurosurg. 2013;115:1775–1783.
+Papetti L, Capuano A. Headache as an emergency in children and adolescents. 
+Curr Pain Headache Rep. 2015;19:3.
+Parisi P, Papetti L, Spalice A, et al. Tension-­type headache in paediatric age. 
+Acta Paediatr. 2011;100(4):491–495.
+Parker A. Idiopathic intracranial hypertension (pseudotumor cerebri). In: 
+Kliegman RM, St. Geme III JW, Blum NJ, et al., eds. Nelson Textbook of 
+Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:3236–3238.
+Pektezel MY, Konuskan B, Sonmez FM, et al. Pediatric headache and 
+neuroimaging: experience of two tertiary centers. Childs Nerv Syst. 
+2020;36:173–177.
+Raucci U, Della Vecchia N, Ossella C, et al. Management of childhood 
+headache in the emergency department. Review of the literature. Front 
+Neurol. 2019;10:886.
+Romanello S, Spiri D, Marcuzzi E, et al. Association between childhood migraine 
+and history of infantile colic. J Am Med Assoc. 2013;309:1607–1612.
+Roser T, Bonfert M, Ebinger F, et al. Primary versus secondary headache 
+in children: a frequent diagnostic challenge in clinical routine. 
+Neuropediatrics. 2013;44:34–39.
+Rothner AD. Evaluation of headache. In: Winner P, Rothner AD, eds. Headache 
+in Children and Adolescents. Hamilton, Ontario: BC Decker; 2001.
+Russell MB, Ducros A. Sporadic and familial hemiplegic migraine: 
+pathophysiological mechanisms, clinical characteristics, diagnosis, and 
+management. Lancet Neurol. 2011;10:457–470.
+Senior K. New understanding into the mechanics of migraine. Lancet. 
+2002;359:500.
+Seshia SS, Abu-­Arafeh I, Hershey AD. Tension-­type headache in children: the 
+Cinderella of headache disorders! Can J Neurol Sci. 2009;36(6):687–695.
+Silbert PL, Mokri B, Schievink WI. Headache and neck pain in spontaneous 
+internal carotid and vertebral artery dissections. Neurology. 2005;45:1517–
+1522.
+Singhi S, Jacobs H, Gladstein J. Pediatric headache: where have we been and 
+where do we need to be? Headache. 2014;54:817–829.
+Stafstrom C, Rostasy K, Minster A. The usefulness of children’s drawings in the 
+diagnosis of headache. Pediatrics. 2002;109(3):460–472.
+Steiner TJ, Fontebasso M. Headache. BMJ. 2002;325:881–886.
+Torres-­Ferrus M, Vila-­Sala C, Quintana M, et al. Headache, comorbidities 
+and lifestyle in an adolescent population (the TEENs study). Cephalalgia. 
+2019;39(1):91–99.
+Vaz I. Probable trigeminal autonomic cephalgia in 3-­month-­old infant. Dev 
+Med Child Neurol. 2009;52(4):400–440.
+Wald ER, et al. Clinical practice guideline for the diagnosis and management 
+of acute bacterial sinusitis in children aged 1 to 18 years. Pediatrics. 
+2013;132(1):e262–e280.
+Youssef PE, Mack KJ. Episodic and chronic migraine in children. Dev Med 
+Child Neurol. 2019;62:34–41.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

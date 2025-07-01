@@ -1,0 +1,1155 @@
+294
+Gastrointestinal (GI) bleeding in children can range from small 
+amounts of blood in the stool, associated with milk protein allergy 
+or anal fissure, to life-­threatening hemorrhage, associated with portal 
+hypertension or peptic ulcer disease. Severe bleeding is a true medical 
+emergency and necessitates prompt diagnostic attention and appropri­
+ate management since overall mortality of children hospitalized in the 
+United States with GI bleeding is approximately 2%. Hemodynamic sta­
+bilization of the patient with severe bleeding should always precede diag­
+nostic studies. An accurate history and thorough physical examination 
+usually allow the physician to categorize the problem as mild or severe 
+and to direct evaluation at the appropriate pace.
+DEFINITIONS
+Children with GI bleeding generally present with hematemesis, hema­
+tochezia, or melena, although the clinical manifestation can be as sub­
+tle as evidence of occult blood loss. An upper GI bleed is bleeding 
+from the esophagus, stomach, or duodenum. Upper sources account 
+for the majority of GI bleeds in children. If the site of bleeding is dis­
+tal to the ligament of Treitz, it is a lower GI bleed. Blood passed per 
+rectum can originate from either an upper or lower GI source. Occult 
+bleeding may occur from disorders at numerous sites.
+Hematemesis
+Vomited blood can be either red or the color of coffee grounds. 
+Hematemesis is most commonly associated with an upper GI bleed, 
+although swallowed blood produces the same clinical picture. Bright 
+red hematemesis suggests active bleeding that has not had prolonged 
+contact with gastric secretions. When gastric secretions interact with 
+the blood, the blood will darken in color as the iron oxidizes and leads 
+to dark red or “coffee ground” emesis.
+Hematochezia and Melena
+The presence of hematochezia (bright red blood) is generally associ­
+ated with colonic bleeding, although it may result from a brisk upper 
+bleed. Maroon stools from the rectum are generally associated with 
+a lower GI bleed. The presence of melena—passage of black, tarry 
+stools—generally results from significant blood loss proximal to the 
+ileocecal valve, with up to 90% originating proximal to the ligament of 
+Treitz. The color results from bacterial breakdown of the hemoglobin. 
+Up to 10–15% of upper GI bleeds present with melena in the absence of 
+hematemesis. These patients are more likely to have a clinically signif­
+icant bleed.
+Occult Gastrointestinal Bleeding
+In contrast to overt GI bleeding as in hematemesis, hematochezia, or 
+melena, occult GI bleeding is a positive fecal blood test when there is 
+no visible blood loss.
+Mimics of Gastrointestinal Bleeding
+Hemoptysis may occasionally be mistaken for hematemesis. Melena 
+may be confused with menstrual bleeding. In addition, certain med­
+ications, supplements (such as iron), foods, and dyes may turn stool 
+or emesis red or maroon color, mimicking blood. A thorough history 
+including respiratory symptoms, menstrual history, medications, and 
+diet history is important.
+APPROACH TO GASTROINTESTINAL BLEEDING
+The first step is to determine whether the problem is actually GI bleed­
+ing. Many substances and non-­GI sources may simulate GI bleeding 
+(Table 16.1). Occult blood testing consists of guaiac-­based tests from 
+the stool or emesis (gastric occult blood), which measure heme, and 
+fecal immunochemical tests (FITs), which measure the globin portion 
+of human hemoglobin. Recommendations for guaiac-­based testing 
+from manufacturers are to avoid red meat, citrus fruits and juices, 
+Gastrointestinal Bleeding
+Julia Fritz, Amornluck Krasaelap, and Bernadette Vitola
+16
+TABLE 16.1  Mimics of Gastrointestinal 
+Bleeding
+Foodstuffs:
+ • Beets
+ • Blueberries
+ • Food coloring
+ • Gelatin
+ • Licorice
+ • Punch
+ • Red candy
+ • Spinach
+ • Tomato skins
+ • Watermelon
+Medications:
+ • Phenytoin
+ • Bismuth
+ • Iron supplementation
+ • Rifampin
+ • Diazepam
+ • Cefdinir
+ • Phenolphthalein
+Bleeding from other locations:
+ • Epistaxis
+ • Hemoptysis
+ • Menses
+ • Recent dental work or tonsillectomy
+Swallowed maternal blood in breast-­fed or newborn infant
+Munchausen (factitious disorder) syndrome by proxy
+Factitious disorder
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+295
+CHAPTER 16  Gastrointestinal Bleeding
+supplemental vitamin C in excess of 250 mg/day for 3 days prior to 
+testing, and antacids for at least 60 minutes prior to testing. Nonste­
+roidal antiinflammatory drugs (NSAIDs) should be avoided for 1 week 
+prior to testing and aspirin exposure should be minimized; however, 
+it is uncertain whether these products affect the reliability of the test. 
+In addition, although iron preparations may blacken stools, they do 
+not lead to false-­positive results. Female patients should be told not 
+to collect test samples for 3 days after or during a menstrual period. 
+To avoid potential false-­positive or false-­negative results, stool should 
+be collected from diapers or from disposable collection devices rather 
+than directly from toilet water. Finally, an alkali denaturation test, also 
+known as the Apt-­Downey or Apt test, should be performed when a 
+breast-­fed infant vomits bright red blood or passes red bloody stools to 
+distinguish whether it is maternal or fetal hemoglobin.
+Once GI bleeding is confirmed, the evaluation, differential diagno­
+sis, and therapeutic interventions will depend on the age of the patient, 
+severity of bleeding, and whether the bleed is coming from the upper 
+or the lower GI tract (Tables 16.2, 16.3, 16.4, and 16.5). A nasogastric 
+(NG) tube may be placed in the appropriate patient when the source of 
+bleeding is not clear. Bloody aspirate from the stomach is confirmation 
+of upper GI bleeding. The tube may then be used to lavage the stomach 
+with warm saline. If aspirated saline clears after repeated lavage, the 
+bleeding has likely stopped or is from a different source.
+HEMATEMESIS AND MELENA: UPPER 
+GASTROINTESTINAL BLEED
+History
+Neonates who did not receive prophylactic vitamin K are at risk for 
+hemorrhagic disease of the newborn (see Chapter 51) and additional 
+perinatal factors may place them at risk for sepsis or other stress 
+that could lead to gastritis. Infants who require intensive care may 
+have trauma from an NG tube, and infants with neonatal umbilical 
+vein catheterization or neonatal omphalitis are at risk for portal vein 
+TABLE 16.2  Differential Diagnosis for 
+Upper Gastrointestinal Bleeding
+Infants
+Ill-­appearing
+Stress ulcer
+Hemorrhagic gastritis
+Sepsis with DIC
+Vitamin K deficiency
+Infection—CMV, herpes, parasites, fungal
+Trauma
+Well-­appearing
+Milk protein sensitivity
+Mallory-­Weiss tear
+Prolapse gastropathy
+Reflux esophagitis
+Reactive gastritis
+Anatomic anomalies (duplication)*
+Vascular anomalies (hemangioma/vascular 
+malformation)*
+Children
+Ill-­appearing
+Esophageal varices
+Stress ulcer
+Sepsis with DIC
+Hemobilia
+Well-­appearing
+Esophagitis including pill ulceration (alen­
+dronate, tetracycline, quinidine, potassium 
+chloride, aspirin, NSAIDs)
+Reflux esophagitis
+Gastritis
+ • NSAIDs
+ • Helicobacter pylori
+Ulcer from foreign body
+Mallory-­Weiss tear
+Prolapse gastropathy
+Vascular malformation*
+ • Dieulafoy lesion (artery that protrudes 
+through mucosa)
+Anatomic anomalies (duplication)*
+Infection—CMV, herpes, parasites, fungal
+CMV, cytomegalovirus; DIC, disseminated intravascular coagulation; 
+NSAIDs, nonsteroidal antiinflammatory drugs.
+*Patient is usually well-­appearing but may deteriorate due to high rate 
+of bleeding.
+TABLE 16.3  Differential Diagnosis for 
+Lower Gastrointestinal Bleeding
+Infants
+Ill-­appearing
+Infectious—Salmonella, ­Shigella, 
+­Escherichia coli O157:H7, ­Campylobacter 
+species, Yersinia ­species, Entamoeba 
+histolytica, CMV
+Ischemia—volvulus or necrotizing 
+­enterocolitis
+Sepsis with DIC
+Vitamin K deficiency
+Hirschsprung enterocolitis
+Intussusception
+Trauma
+Well-­appearing
+Anal fissure
+Milk protein sensitivity/eosinophilic 
+proctocolitis
+Lymphonodular hyperplasia
+Vascular anomalies (hemangioma/vascular 
+malformation)*
+Anatomic anomalies
+Children
+Ill-­appearing
+Infectious—above plus Clostridium difficile
+Intussusception
+Meckel diverticulum
+Inflammatory bowel disease
+Ischemia
+Typhlitis
+Henoch-­Schönlein purpura
+Trauma
+Well-­appearing
+Anal fissure
+Milk and other protein sensitivity
+Juvenile polyp
+Medication
+ • NSAIDs
+ • Mycophenolate
+Lymphonodular hyperplasia
+Hemorrhoid (in chronic liver disease)
+Vascular anomalies (hemangioma/vascular 
+malformation)*
+Anatomic anomalies
+CMV, cytomegalovirus; DIC, disseminated intravascular coagulation; 
+NSAIDs, nonsteroidal antiinflammatory drugs.
+*Patient is usually well-­appearing but may deteriorate due to high rate 
+of bleeding.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+296
+SECTION 4  Gastrointestinal Disorders
+thrombosis and resultant later onset of esophageal varices. In older 
+children, a recent history of vomiting, regurgitation, or abdominal pain 
+suggests a mucosal lesion. Forceful, repeated vomiting may result in a 
+Mallory-­Weiss tear or prolapse gastropathy. Reactive gastritis can be 
+due to medications such as NSAIDs as well as alcohol or ingestion of 
+caustic substances. Providers must ask about recent bleeding such as 
+epistaxis or dental procedures, which could lead to hematemesis with­
+out a GI source of bleeding.
+Information regarding chronic pulmonary disease, renal disease, 
+bleeding disorders such as hemophilia, platelet dysfunction or von Will­
+ebrand disease, and liver disease, including a history of jaundice, should 
+be obtained in all children. Patients with cystic fibrosis are at risk not only 
+for the development of esophageal varices caused by biliary cirrhosis but 
+also for coagulopathies from vitamin K deficiency. They may also have 
+hemoptysis, which can be misinterpreted as hematemesis. In patients with 
+renal disease, uremia will cause platelet dysfunction, which may manifest 
+as a GI bleed. The family history should address the presence of bleed­
+ing disorders, peptic ulcer disease, and possible Helicobacter pylori expo­
+sure. Other genetic disorders may be elicited in the family history such as 
+VMCM (venous malformations, multiple cutaneous and mucosal, OMIM 
+600195), hereditary hemorrhagic telangiectasia, Peutz-­Jeghers syndrome, 
+and blue rubber bleb nevus syndrome that cause variable GI bleeding.
+Physical Examination
+Immediate attention must be given to signs of hypovolemia, anemia, 
+or shock. An orthostatic change, such as a pulse rate increase of 20 
+beats/min or a drop in systolic blood pressure of more than 10 mm Hg 
+when the patient changes from supine to standing, is a sensitive index 
+of significant volume depletion. Blood pressure may remain normal 
+up to the point of circulatory collapse in children and a normal blood 
+pressure should not be reassuring in the setting of other signs of hypo­
+volemia such as tachycardia or delayed capillary refill.
+In addition to close attention to changes in vital signs, a physical 
+exam with emphasis on potential sources of bleeding is essential (Table 
+16.6). The oropharynx and nasal canals should be examined for lesions 
+TABLE 16.4  Causes of Occult 
+Gastrointestinal Bleeding
+Inflammatory Causes
+Peptic esophagitis
+Crohn disease
+Ulcerative colitis
+Mild enterocolitis
+Celiac disease
+Eosinophilic gastroenteritis
+Meckel diverticulum
+Solitary rectal ulcer
+Vascular Causes
+Angiodysplasia and vascular ectasias
+Gastroesophageal varices
+Congestive gastropathy
+Hemangiomas
+Drugs
+Nonsteroidal antiinflammatory drugs
+Extragastrointestinal Causes
+Hemoptysis
+Epistaxis
+Oropharyngeal bleeding
+Infectious Causes
+Hookworm
+Strongyloidiasis
+Ascariasis
+Tuberculosis enterocolitis
+Amebiasis
+Tumors and Neoplastic Causes
+Polyps
+Lymphoma
+Leiomyoma
+Lipoma
+Carcinoma
+Artificial Causes
+Hematuria
+Menstrual bleeding
+Nonspecific test positivity
+Miscellaneous Causes
+Long-­distance running
+Coagulopathies
+Factitious
+Modified from Ahlquist DA. Approach to the patient with occult gas­
+trointestinal bleeding. In: Yamada T, ed. Textbook of Gastroenterology. 
+Philadelphia: JB Lippincott; 1991:620.
+TABLE 16.5  Rare/Atypical Causes of 
+Gastrointestinal Bleeding in Children
+Hematemesis/Melena
+ • Hemobilia—nontraumatic
+ • Spontaneous intramural hematoma
+ • Burkitt lymphoma
+ • Collagenous gastritis/duodenitis
+ • Superior mesenteric artery aneurysm
+ • Ectopic pancreas
+ • Hemosuccus pancreaticus
+ • Gastric volvulus
+ • Ectopic varices
+ • Aortoesophageal fistula
+ • Gastrointestinal stromal tumor (GIST)
+Hematochezia
+ • Eosinophilic colitis
+ • Cytomegalovirus colitis (non–inflammatory bowel disease)
+ • Granulomatous colitis (non–Crohn disease)
+ • Sarcoidosis
+ • Abdominal tuberculosis
+ • Chronic granulomatous disease
+ • Hermansky-­Pudlak syndrome
+ • Ileal GIST
+ • Intestinal Behçet disease
+ • Langerhans cell histiocytosis
+ • IPEX (immune disregulation, polyendocrinopathy, enteropathy)
+ • Wiskott-­Aldrich syndrome
+ • Juvenile hyaline fibromatosis
+ • Spontaneous intramural hematoma
+ • Ectopic varices
+From Wyllie R, Hyams JS, Kay M, eds. Pediatric Gastrointestinal and 
+Liver Disease. 5th ed. Philadelphia: Elsevier; 2016:153, Box 13-­11.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+297
+CHAPTER 16  Gastrointestinal Bleeding
+as the cause of bleeding. Palpation to evaluate organomegaly should 
+begin at the iliac crests so as not to miss a hugely enlarged liver or 
+spleen. A prominent venous pattern on the abdomen (Fig. 16.1), sple­
+nomegaly, and ascites may suggest portal hypertension. Tenderness 
+and guarding indicate a significant inflammatory process.
+In addition to assessing for pallor, cutaneous lesions may help deter­
+mine the underlying cause of bleeding. Petechiae can indicate dissem­
+inated intravascular coagulation, hypersplenism, or another bleeding 
+abnormality. Hyperpigmented lesions of the oral or anal mucosa may 
+indicate Peutz-­Jeghers disease (Fig. 16.2). Cutaneous telangiectasia and 
+hemangiomas may indicate such diseases as Osler-­Weber-­Rendu syn­
+drome (a.k.a. hereditary hemorrhagic telangiectasia) (Fig. 16.3) and 
+ataxia-­telangiectasia, or they may simply suggest a predisposition for 
+vascular malformations. However, only about 2% of individuals with 
+cutaneous vascular lesions will also have GI involvement. Blue cutane­
+ous nodules suggest blue rubber bleb nevus syndrome (Fig. 16.4). Pal­
+mar erythema, spider angioma, or jaundice suggests underlying liver 
+TABLE 16.6  Pertinent Physical Findings in 
+Gastrointestinal Bleeding
+Exam Finding
+Associated Disorder
+Splenomegaly
+Caput medusae
+Portal hypertension and esophageal varices
+Palmar erythema
+Spider angioma
+Jaundice
+Ascites
+Liver disease
+Hemangioma
+Hemangioma in gastrointestinal tract
+Port-­wine stain
+Vascular malformation in gastrointestinal tract
+Palpable purpura
+Henoch-­Schönlein purpura or other vasculitis
+Hyperpigmented lesions of 
+the oral or anal mucosa
+Peutz-­Jeghers syndrome (gastrointestinal 
+polyps)
+Lip, oral mucosal 
+­telangiectasias
+Hereditary hemorrhagic telangiectasia
+Oral ulcers
+Perianal fistula
+Perianal skin tag
+Erythema nodosum
+Pyoderma gangrenosum
+Inflammatory bowel disease
+Fig. 16.1  Prominent venous pattern on the abdomen.
+Fig. 16.2  Peutz-­Jeghers syndrome. This smiling, 12-­year-­old girl devel­
+oped progressive lentigines on her face, particularly her lips, in early 
+childhood. She also has involvement of the extremities, trunk, and 
+mucous membranes. (From Cohen BA, ed. Pediatric Dermatology. 4th 
+ed. Philadelphia: Saunders; 2013:152, Fig. 6.6.)
+Fig. 16.3  Hereditary hemorrhagic telangiectasia. Telangiectasias are 
+found on the lips, oral mucosa, nasal mucosa, skin, and conjunctiva. 
+Epistaxis is the most common manifestation of the disease. Blood 
+transfusions may be required. (From Dinulos GHJ. Habif’s Clinical Der­
+matology. 7th ed. Philadelphia: Elsevier; 2021:925, Fig. 23.42.)
+Fig. 16.4  Blue rubber bleb nevus syndrome. A 16-­year-­old girl was eval­
+uated for multiple 3 mm–1 cm blue nodules on the skin. She had a 
+history of similar lesions in the gastrointestinal tract, which were discov­
+ered during surgery for small bowel obstruction from intussusception. 
+(From Cohen BA, ed. Pediatric Dermatology. 4th ed. Philadelphia: Saun­
+ders; 2013:51, Fig. 2.70.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+298
+SECTION 4  Gastrointestinal Disorders
+disease. Scleral icterus may be subtle but can be the first sign of liver 
+disease and may be more easily appreciated than jaundice in darker-­
+skinned individuals.
+Differential Diagnosis
+In infants, esophagitis, gastritis, and ulcers are the most common causes 
+of upper GI bleeding. Esophagitis may be associated with dysphagia, irri­
+tability, and arching with feeds (see Chapter 15). Milk protein sensitivity 
+should be considered as well, although it more often presents with blood 
+in stool. Trauma or infection (such as cytomegalovirus, herpes simplex, 
+parasites, or fungal) can cause mucosal irritation presenting as hemate­
+mesis. Anatomic abnormalities including duplication cysts or vascular 
+abnormalities may also lead to hematemesis or melena in infants.
+In older children, mucosal lesions remain common causes of bleed­
+ing. Mallory-­Weiss tears are associated with repeated forceful vom­
+iting from a variety of causes (e.g., acute gastroenteritis) (Fig. 16.5). 
+The forcefulness of the vomiting causes a tear in the distal esophagus 
+at the level of the lower esophageal sphincter. The history is generally 
+one of frequent nonbloody vomiting that then becomes hematemesis. 
+Prolapse gastropathy, caused by prolapse of gastric mucosa into the 
+distal esophagus, can similarly occur after forceful vomiting and lead 
+to hematemesis (Fig. 16.6). Reactive gastritis secondary to medication 
+(NSAIDs) or infection (H. pylori) is also a common cause of upper GI 
+bleeding. Children with known or unknown liver disease can develop 
+esophageal varices that may lead to large-­volume hematemesis and 
+melena (or hematochezia if bleeding is brisk). Ulcers, although rare, 
+can also lead to significant blood loss and may be related to H. pylori 
+infection, stress such as surgery or burns, and foreign body ingestion, 
+specifically button batteries, which can lead to significant bleeding.
+HEMATOCHEZIA: LOWER GASTROINTESTINAL 
+BLEED
+History
+Chronicity of bleeding is essential to ascertain because infectious coli­
+tis may cause acute bloody diarrhea, while inflammatory bowel disease 
+generally presents with a more prolonged history (see Chapter 14). 
+Presence or absence of pain can also help distinguish between causes of 
+bleeding. Severe, acute abdominal pain is often present in patients with 
+vascular compromise, such as in intussusception, midgut volvulus, and 
+bowel ischemia (e.g., Henoch-­Schönlein purpura), while painless rec­
+tal bleeding suggests a Meckel diverticulum, polyp, or angiodysplasia. 
+Growth failure is suggestive of inflammatory bowel disease, specifically 
+Crohn disease; constipation points to the possibility of an anal fissure 
+(see Chapter 19) or Hirschsprung disease with enterocolitis. Informa­
+tion regarding travel (either by the patient or by visitors), sick con­
+tacts, daycare exposure, camping, and antibiotic exposure may reveal 
+potential infectious causes. Family history of polyps or colon cancer 
+is important given the inherited polyposis syndromes, as is a family 
+history of inflammatory bowel disease.
+Physical Examination
+Physical exam in any patient with GI bleeding must begin with assess­
+ment of hemodynamic status. In addition to a general exam, for 
+patients with hematochezia, a rectal exam is important to evaluate for 
+fissures as well as skin tags and fistulas, which may be seen in Crohn 
+disease (Fig. 16.7). Local intense tenderness, fever, and erythema of the 
+perianal area may suggest group A β-­hemolytic streptococcus infec­
+tion. Infants and toddlers may have a palpable right lower quadrant 
+abdominal mass, which suggests intussusception. Skin examination 
+may show purpura, which, although not always present initially, is seen 
+in Henoch-­Schönlein purpura; it may also be seen in hemolytic uremic 
+syndrome. Erythema nodosum or pyoderma gangrenosum is present 
+in approximately 3% of children with inflammatory bowel disease and 
+may correlate with disease severity.
+Differential Diagnosis
+Anal fissures are probably the most frequent cause of streaks of bright 
+red blood mixed with stool. The bleeding may be associated with hard 
+bowel movements but may occur from straining with normal bowel 
+movements. There is also an association with group A streptococcal 
+perianal cellulitis and bleeding. Anal fissure may be a manifestation of 
+milk protein allergy with resultant perianal inflammation and subse­
+quent constipation to avoid painful defecation. More often, a milk pro­
+tein allergy will present with specks of blood within the stool. There may 
+be a history of increasing frequency and amount of blood and mucus 
+in the stool. The infant may exhibit cramping with bowel movements 
+Fig. 16.5  Endoscopic appearance of a Mallory-­Weiss tear with mild 
+oozing. Note that the tear starts at the gastroesophageal junction (long 
+arrow) and extends distally into the hiatal hernia (short arrow). (From 
+Feldman M, Friedman LS, Brandt LJ, eds. Sleisenger and Fordtran’s 
+Gastrointestinal and Liver Disease. 11th ed. Philadelphia: Elsevier; 
+2021, Fig. 20-­14.)
+Fig. 16.6  Endoscopic view of fundus showing area of prolapse 
+­gastropathy.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+299
+CHAPTER 16  Gastrointestinal Bleeding
+and vomiting may be part of the presentation. Often there is a family 
+history of food allergies. Milk protein allergy can be seen in infants 
+fed cow’s milk– or soy protein–based formulas, as well as in breast-­fed 
+infants. Ischemic bowel disease, including necrotizing enterocolitis and 
+volvulus, may lead to rectal bleeding and an acutely ill, sick-­appearing 
+neonate or infant. Risk factors for necrotizing enterocolitis include 
+prematurity, cardiac surgery, polycythemia, chronic diarrhea, and GI 
+malformations.
+Infectious colitis is common in both infants and children and 
+causes frequent, often watery, bloody bowel movements (see Chapter 
+14). There may be cramping pain before and during the bowel move­
+ment as a result of the colitis. Common pathogens include Salmonella 
+and Shigella organisms, especially with dysentery type stools, but 
+Escherichia coli O157:H7, Campylobacter species, Yersinia species, and 
+Entamoeba histolytica should also be considered. Clostridium difficile is 
+a common cause of hematochezia in older children but is also found in 
+healthy infants without causing disease due to lack of toxin receptors 
+in the immature colon.
+For young children, intussusception and Meckel diverticulum are 
+common causes of hematochezia. The hallmark of intussusception is 
+the presence of “currant jelly” stools associated with colicky abdominal 
+pain, lethargy, or irritability. Meckel diverticulum occurs in 1–3% of 
+the population and manifests by the age of 2 years in about 50% of 
+patients. Bleeding results from mucosal ulceration secondary to secre­
+tion of gastric acid or pepsin from ectopic gastric or pancreatic tissue, 
+respectively, in the tip of the diverticulum. It is usually brisk and pain­
+less with blood ranging from dark red to bright red.
+Juvenile polyps also present with painless rectal bleeding but 
+are uncommon in children under 1 year of age with peak incidence 
+between ages 5 and 7 years. They are more common in males and non-­
+Caucasian people. Most juvenile polyps occur in the distal colon and 
+may cause bleeding from autoamputation as they outgrow their blood 
+supply. Juvenile polyps can be classified to juvenile polyposis syndrome 
+(JPS) based on the number (five or more), distribution, and family 
+history. Polyps are generally benign but some may suggest an inher­
+ited disorder, such as Peutz-­Jeghers disease or adenomatous polyps in 
+familial adenomatous polyposis (FAP). Affected individuals with FAP 
+are at significant risk for the development of colonic carcinoma and 
+require repeated colonoscopies and, eventually, prophylactic colec­
+tomy and ileoanal pouch procedures.
+In older children, inflammatory bowel disease becomes a more 
+common cause of hematochezia. The rectal bleeding varies from occult 
+to frank blood in the bowel movements. Blood is present in 100% of 
+cases of ulcerative colitis but in only 30–50% of cases of Crohn disease. 
+Inflammatory bowel disease is generally accompanied by fever, weight 
+loss, and rectal bleeding (see Chapter 14).
+Henoch-­Schönlein purpura is an IgA vasculitic syndrome that can 
+cause bloody stools. It is often accompanied by cramping abdominal 
+pain, purpuric rash (palpable purpura), joint swelling, scalp edema 
+(infants and toddlers), and, occasionally, nephritis (see Chapter 22).
+OCCULT GASTROINTESTINAL BLEEDING
+Occult gastrointestinal bleeding (OGIB) is defined as bleeding that is 
+unknown to the patient. This condition most often presents as iron-­
+deficiency anemia or positive occult blood during evaluation for 
+abdominal pain, vomiting, diarrhea, or weight loss. Normal fecal blood 
+loss ranges from 0.5 to 1.5 mL/day. In occult bleeding, a patient can 
+lose up to 100 mL/day and the stool can still appear grossly normal.
+History
+While the history of iron-­deficiency anemia might be the only clinical 
+clue to diagnose OGIB, it should always be in the differential diagnosis 
+of chronic iron-­deficiency anemia. Due to a very low degree of bleed­
+ing, symptoms are minimal and typically related to iron-­deficiency 
+anemia including irritability, anorexia, and lethargy.
+Physical Examination
+In contrast to overt GI bleeding, changes in hemodynamic status or 
+vital signs are unlikely. Pallor is usually seen at palmar creases, nail 
+beds, and conjunctivae. Other physical examinations to determine the 
+underlying cause of bleeding are similar to those for upper and lower 
+GI bleeding.
+Differential Diagnosis
+OGIB in children can be caused by any lesion in the GI tract, particu­
+larly in the upper GI tract and small intestine. The causes of OGIB are 
+similar to those of overt bleeding discussed previously.
+Angiodysplasia/Angioectasia
+These abnormal vascular lesions are dilated, tortuous mucosal small 
+blood vessels of unknown etiology that can produce occult (occasion­
+ally acute) upper or lower intestinal blood loss (∼50% are in the small 
+bowel) (Fig. 16.8). They are more common in older adults but may 
+produce recurrent and chronic intestinal bleeding in children, particu­
+larly those with hereditary hemorrhagic telangiectasia, von Willebrand 
+disease, aortic stenosis, and end-­stage renal disease, although they are 
+often independent of an underlying disorder. They may be isolated or 
+multiple. Other vascular etiologies of intestinal blood loss are noted in 
+Table 16.7.
+DIAGNOSTIC EVALUATIONS
+Laboratory Evaluation
+Initial laboratory evaluation should include a CBC with differential 
+and platelet count, coagulation profile, and a comprehensive metabolic 
+profile with total and direct bilirubin (Table 16.8). Patients with clinical 
+signs of significant blood loss should have a blood typing with cross 
+match sent. Occult blood testing can be performed on stool or emesis 
+to confirm presence of blood. In patients with lower GI bleeding, stool 
+Fig. 16.7  Skin tags and fistulas as in Crohn disease.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+300
+SECTION 4  Gastrointestinal Disorders
+should be sent for analysis of infectious causes. UA may be useful in 
+patients with hematochezia with suspicion for hemolytic uremic syn­
+drome. Iron studies should also be tested to evaluate for iron deficiency 
+secondary to bleeding.
+Imaging
+Radiographs
+Abdominal radiographs should be obtained in all infants with acute 
+hematochezia to look for pneumoperitoneum, pneumatosis intesti­
+nalis, or hepatic portal vein gas suggesting necrotizing enterocolitis. 
+Flat plate films may also identify intussusception, volvulus, abdominal 
+masses, or foreign bodies (Fig. 16.9). Upper GI contrast studies can dis­
+cern anatomic lesions, such as strictures, stenosis, atresias, malrotation, 
+large ulcerations, and masses. Small bowel follow-­through examina­
+tion allows evaluation of the small bowel from the ligament of Treitz 
+to the ileocecal valve. Areas of ulceration, mucosal thickening, and 
+narrowing may be appreciated. An air or water-­soluble enema should 
+be performed in infants and children in whom there is a concern of 
+distal intestinal obstruction, such as intussusception (see Chapter 13). 
+In cases of intussusception, the enema not only aids in diagnosis but 
+also may be therapeutic. Crohn disease and ulcerative colitis may be 
+suggested by results of this test, but endoscopy is necessary for histo­
+logic confirmation of these diagnoses.
+Abdominal Ultrasound
+An ultrasound may be useful in patients with suspected liver disease to 
+evaluate for portal hypertension. It may also be used in potential cases of 
+intussusception or suspected large vascular malformations (Fig. 16.10).
+Computed Tomography
+CT scans may be useful in evaluating possible anatomic anomalies and 
+may reveal signs of inflammation related to infectious or inflammatory 
+colitis. CT enterography can localize an active lower GI bleed. Given 
+the radiation exposure, the value of a CT over other diagnostic modal­
+ities must be considered.
+Magnetic Resonance Enterography
+Magnetic resonance enterography (MRE) can be useful in cases of 
+occult bleeding or in suspected and known inflammatory bowel disease 
+to evaluate for areas of inflammation in the small bowel that may be 
+causing blood loss. Patients must be awake and able to stay still through 
+the prolonged study, which limits its utility in younger patients.
+Angiography
+Angiography may help identify the source of bleeding but is only 
+sensitive for an active bleed at a rate of at least 0.5 mL/min. The 
+diagnostic efficacy can be improved with provocative measures by 
+using anticoagulants, vasodilators, and fibrinolytic agents to pro­
+long, augment, or reactivate the bleeding. The safety of provoking 
+bleeding in the patient must be considered. The classic angio­
+graphic finding that confirms active bleeding is extravasation of 
+contrast material such as in a Meckel diverticulum or the presence 
+of vascular malformations of the bowel, which may be acquired or 
+congenital. Therapeutic angiography can also be used to control GI 
+bleeding.
+Fig. 16.8  Endoscopic image of an angioectasia (AE) in the ascending 
+colon. This AE has a typical coral reef–like pattern of small vessels dis­
+torting the mucosa and submucosa. A tortuous submucosal vein, which 
+is the earliest stage in the development of AE, is probably present 
+among the linear vessels intersecting the ectasia but cannot be distin­
+guished. (From Feldman M, Friedman LS, Brandt LJ, eds. Sleisenger 
+and Fordtran’s Gastrointestinal and Liver Disease. 11th ed. Philadelphia: 
+Elsevier; 2021, Fig. 38-­1.)
+TABLE 16.7  Vascular Lesions of the GI Tract
+Primary Vascular Lesions
+Aneurysms of the aorta and its branches
+Angioectasia (angiodysplasia, vascular ectasia)
+Arteriovenous malformation
+Blue rubber bleb nevus
+Capillary phlebectasia
+Dieulafoy lesion
+Glomus tumor
+Hemangioma
+Hemangiomatosis
+Hemangioendothelioma
+Hemangiopericytoma
+Hemangiosarcoma
+Hemorrhoids
+Kaposi sarcoma
+Diseases and Syndromes with Vascular Lesions
+Blue rubber bleb nevus syndrome
+Ehlers-­Danlos syndrome
+Hereditary hemorrhagic telangiectasia (Osler-­Weber-­Rendu disease)
+Klippel-­Trenaunay or Parkes Weber syndrome
+Kohlmeier-­Degos syndrome
+Marfan syndrome
+Pseudoxanthoma elasticum
+PSS (scleroderma, CREST)
+Scurvy
+Turner syndrome
+von Willebrand disease
+Systemic Disorders Associated with Vascular Lesions
+Portal hypertension
+Congestive gastropathy and colopathy
+GAVE (watermelon stomach)
+Spider telangiectasias
+Varices
+Renal failure
+GI telangiectasias
+Vasculitis (e.g., polyarteritis nodosa)
+Iatrogenic lesions
+Radiation telangiectasia
+CREST, calcinosis, Raynaud phenomenon, esophageal dysmotility, 
+sclerodactyly, telangiectasia; GAVE, gastric antral vascular ectasia; GI, 
+gastrointestinal; PSS, progressive systemic sclerosis.
+From Feldman M, Friedman LS, Brandt LJ, eds. Sleisenger and 
+Fordtran’s Gastrointestinal and Liver Disease. 11th ed. Philadelphia: 
+Elsevier; 2021:618, Box 37-­1.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+301
+CHAPTER 16  Gastrointestinal Bleeding
+Nuclear Imaging
+Nuclear medicine may determine the site of bleeding with minimal 
+complications; it is associated with minimal radiation exposure and 
+requires minimal sedation. Technetium 99m (99mTc) pertechnetate 
+is rapidly taken up by gastric mucosa, and it is useful in identifying 
+sites of bleeding secondary to ectopic gastric mucosa. Gastric mucosa 
+is found in 90% of bleeding Meckel diverticula, and in these patients 
+the Meckel scan has a sensitivity of 94% and a specificity of 97% in 
+the pediatric population (Fig. 16.11). False-­negative results have been 
+reported frequently because of insufficient gastric tissue mass, down­
+stream washout of isotope, impaired blood supply, or suboptimal tech­
+niques. Positive identification may be improved by the administration 
+of ranitidine to prevent excretion of pertechnetate from gastric tissue.
+Bleeding scans are performed by intravenously injecting technetium 
+sulfur colloid. The agent is distributed quickly and is rapidly taken up 
+by the reticuloendothelial system. It can detect a rate of bleeding of 0.1 
+mL/min. However, because the technetium is taken up by the reticulo­
+endothelial system, this may hinder the search for bleeding sites behind 
+the liver or spleen. Finally, the clearance is very rapid, with a half-­life of 
+2 minutes, which means that bleeding has to be occurring at the time of 
+the scan.
+The 99mTc pertechnetate–labeled red blood cell scan is a sensi­
+tive and accurate test for the localization of active bleeding. In cases 
+of intermittent bleeding, a single injection of labeled cells allows 
+repeated scans for up to 24 hours. It can detect as little blood as 0.5 
+mL/min.
+Procedural Evaluations
+Upper Endoscopy or Esophagogastroduodenoscopy
+Esophagogastroduodenoscopy (EGD) is the procedure of choice in 
+identifying the site of upper GI bleeding. EGD can also allow direct 
+intervention at the bleeding site, as in the case of esophageal varices 
+or a visible vessel in an ulcer crater. Endoscopic visualization of the 
+stomach and duodenum should be performed even if the bleeding 
+is thought to originate from esophageal varices. Of patients with 
+proven esophageal varices, 50% may manifest bleeding from gas­
+tritis or peptic ulcer disease rather than the varices. Endoscopy, 
+however, should not be performed until the patient is as hemody­
+namically stable as possible. Gastric lavage may be useful prior to 
+upper endoscopy to remove any blood present in the stomach to 
+allow for better views as well as to determine whether there is still 
+active bleeding. Erythromycin can be given prior to endoscopy to 
+accelerate gastric emptying and removal of blood from the stomach.
+Lower Endoscopy
+Lower GI tract bleeding can also be evaluated endoscopically. Pro­
+cedures frequently used in children include proctosigmoidoscopy 
+and flexible colonoscopy. With the patient under appropriate seda­
+tion, lower GI endoscopy allows for full exploration of the colon; 
+identifies the presence of multiple lesions; allows for therapeutic 
+intervention to bleeding lesions through electrocoagulation, laser 
+therapy, or thermocoagulation; and allows for removal of bleed­
+ing lesions, such as polyps. Colonoscopy is indicated when there 
+is melena or severe bleeding with no evidence of upper GI lesions, 
+when stools are guaiac positive over a long time, and when exam­
+ination of the terminal ileum is indicated to determine whether 
+inflammatory bowel disease is present. One disadvantage is that 
+large amounts of luminal blood obscure visualization of a lesion. 
+Before lower GI colonoscopy, intestinal lavage with oral adminis­
+tration of polyethylene glycol should be used to remove as much of 
+the luminal blood and stool as possible.
+Small Bowel Enteroscopy
+Small bowel enteroscopy refers to endoscopic examination of the small 
+intestine, extending into the jejunum and/or ileum. Enteroscopy can be 
+useful in the evaluation of occult bleeding. While its diagnostic yield 
+TABLE 16.8  Laboratory Findings 
+Suggestive of a Diagnosis
+Lab Finding
+Significance
+Hgb/HCT
+Normal hemoglobin or hematocrit does not rule 
+out significant bleed as it may take time to 
+equilibrate
+Low MCV
+Chronic blood loss
+Low platelets
+HUS, hypersplenism (secondary to portal 
+hypertension), ITP, DIC
+High platelets
+Chronic blood loss, inflammation, IBD
+Elevated prothrombin time
+Liver disease, coagulation disorder, DIC
+Elevated BUN/normal Cr
+UGI bleed more likely
+Elevated BUN/elevated Cr
+HUS or HSP
+Decreased albumin
+IBD or liver disease
+Elevated ESR/CRP
+IBD
+Elevated AST/ALT
+Liver disease
+Elevated bilirubin
+Liver disease
+Fecal calprotectin
+IBD, infectious enteritis
+Eosinophilia
+Parasitic infestation
+ALT, alanine aminotransferase; AST, aspartate aminotransferase; Cr, 
+creatinine; DIC, disseminated intravascular coagulation; Hgb/HCT, 
+hemoglobin/hematocrit; HSP, Henoch-­Schönlein purpura; HUS, hemo­
+lytic uremic syndrome; IBD, inflammatory bowel disease; ITP, immune 
+thrombocytopenic purpura; MCV, mean corpuscular volume; UGI, 
+upper gastrointestinal.
+Fig. 16.9  Flat plate film demonstrating intussusception (arrows).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+302
+SECTION 4  Gastrointestinal Disorders
+A
+B
+M
+Fig. 16.10  Abdominal ultrasound illustrating intussusception. A, Transverse plane shows target-­like appear­
+ance of bowel. B, Longitudinal plane shows inner bowel loops (white arrows) telescoping through outer 
+bowel loops (black arrows). Edema of affected bowel causes hyperechoic mucosa (M).
+varies by study, it allows for direct intervention if the source of bleed­
+ing is found. In addition, it has been employed intraoperatively to help 
+identify lesions and guide surgical intervention.
+Capsule Endoscopy
+Wireless camera capsule endoscopy may be useful in patients with 
+occult or apparent bleeding when other work-­up, including an 
+upper and lower endoscopy, has been negative. The patient swal­
+lows or has the capsule placed endoscopically and images are taken 
+as the capsule passes through the small and large intestines, which 
+can identify vascular malformations and other sources of bleeding 
+(Fig. 16.12). The main risk is capsule retention and so children 
+must be of a certain size and be evaluated for possible stricture 
+prior to the study.
+Treatment
+Resuscitation
+The severity of bleeding determines the general guidelines for treat­
+ment. For severe bleeding, initial management re-­establishes and 
+maintains the intravascular volume. Subsequently, the site of blood loss 
+must be determined and attempts made to stop the hemorrhage. Severe 
+anemia also necessitates packed red blood cell transfusions after the 
+intravascular volume deficit is corrected (Table 16.9).
+Although parents tend to overestimate the amount of blood 
+lost by their child, a major error in the management of GI bleed­
+ing is underestimating blood loss. The hematocrit may remain 
+unchanged initially, despite significant blood loss, and therefore is 
+not a good indicator of significant bleeding. If orthostatic blood 
+Fig. 16.11  Positive Meckel scan. Arrow indicates abnormal area of 
+increased uptake in lower abdomen above bladder, consistent with gas­
+tric mucosa containing Meckel diverticulum.
+Fig. 16.12  Capsule endoscopy image revealing jejunal bleeding (arrows) 
+from a vascular malformation in a patient who presented with anemia 
+refractory to iron supplementation.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+303
+CHAPTER 16  Gastrointestinal Bleeding
+pressure changes or tachycardia is present, the initial goal of treat­
+ment should be to hemodynamically stabilize the patient, maintain 
+the intravascular volume, and provide adequate oxygen delivery 
+to the tissues. A second potential error is the failure to establish 
+adequate intravenous (IV) access. The largest possible IV catheter 
+must be rapidly placed in a child with active bleeding. Blood loss 
+should be replaced immediately with a crystalloid solution, such 
+as normal saline or lactated Ringer solution. Initially, a fluid push 
+of 20 mL/kg should be given, although resuscitation should be per­
+formed cautiously in patients who may have portal hypertension as 
+overly aggressive resuscitation raises the venous pressure and could 
+worsen bleeding from varices. In these patients, small, repeated 
+fluid boluses with close monitoring are preferred to large-­volume 
+boluses. If blood loss continues and the patient appears to be at 
+risk for hypovolemic shock, infusion of normal saline or colloid 
+solutions (5% albumin) can be continued until blood is available. 
+Plasma is indicated if coagulation factors are depleted. Once bleed­
+ing has stopped, transfusions of packed red blood cells should con­
+tinue, to slowly raise the hematocrit to 30% (10 g/dL hemoglobin) 
+(for patients with variceal bleeding the goal is instead hemoglobin 
+of 8–9 g/dL). If continued blood loss necessitates multiple transfu­
+sions, fresh frozen plasma and calcium should be given to replace 
+coagulation factors and correct the hypocalcemia caused by the 
+citrate in blood products. The platelet count in such patients must 
+be monitored because thrombocytopenia may develop.
+If an NG tube is inserted, the tube size is determined by the child’s 
+age and size. A 12 French tube is used in infants and preschool chil­
+dren; a 14 or 16 French tube is appropriate for children of elementary 
+school age or older. Gastric lavage should be undertaken with room 
+temperature normal saline. The color of the gastric lavage fluid gives 
+the physician an indication of the rate of bleeding. Lavage returns 
+that are bright red indicate significant ongoing bleeding; pink-­tinged 
+or brown flecks in the solution indicate less significant or minimal 
+bleeding.
+Maintaining a gastric pH of more than 4 is considered standard 
+therapy for upper GI mucosal bleeding. This can be accomplished with 
+either H2-­receptor antagonists or proton pump inhibitors.
+Vasoactive Agents
+In patients with suspected variceal bleeding, a continuous infusion of 
+octreotide may be started. This agent reduces splanchnic blood flow 
+with minimal disturbance to other organs. It is safer than vasopressin 
+but has not been shown to have benefit in nonvariceal bleeding. Cus­
+tomarily, a bolus of octreotide (1–2 μg/kg) is given over 5–10 minutes, 
+and this is followed by a continuous infusion of 1 μg/kg/hr, although 
+higher doses may be required. The infusion may help control the bleed­
+ing until definitive therapy (banding or sclerotherapy) is performed. 
+After endoscopic intervention, octreotide infusions may be weaned 
+slowly (every 12 hours) with close monitoring of the patient to ensure 
+varices do not rebleed. See Table 16.10 for additional pharmacotherapy.
+Endoscopic Modalities
+Most patients with GI bleeding will undergo upper and/or lower 
+endoscopy for definitive diagnosis and treatment. The aim of thera­
+peutic endoscopy is to stop bleeding and prevent rebleeding. Endos­
+copy should be performed when the patient has been stabilized, and 
+preferably within 24 hours of bleeding presentation. For patients 
+with mucosal lesions, such as ulcers or bleeding polyps, there are 
+multiple therapeutic interventions available. Injection therapy 
+with diluted epinephrine and sclerosants, ablative therapy (contact 
+methods such as thermocoagulation heater probe and electrocoag­
+ulation; noncontact methods such as argon plasma coagulation), 
+mechanical therapy (such as with hemoclips and band ligation), 
+and hemostatic powder spray can be used to stop active bleeding. 
+Vascular lesions may also be treated endoscopically. For patients 
+with colitis, colonoscopy is used primarily to confirm diagnosis and 
+extent of disease.
+Variceal banding is the preferred method for treating bleeding 
+esophageal varices (Fig. 16.13A and B). Ideally, the banding takes 
+place after good control of acute bleeding, affording the endoscopist 
+an unobstructed view of the varices. Side effects of this therapy are 
+minimal, and the procedure is repeated weekly to monthly until the 
+varices are obliterated. Sclerotherapy is also effective in controlling the 
+acute bleeding from esophageal varices and may be performed weekly 
+to monthly until the varices resolve. In young children whose upper 
+esophageal sphincter is too small for the endoscopic banding device 
+to pass, sclerotherapy may be the only option. Complications include 
+esophageal ulceration and esophageal stricture. A number of scleros­
+ing agents (e.g., ethanolamine, sodium morrhuate, ethanol, tetradecyl 
+sulfate) are efficacious in treating varices. Empiric broad-­spectrum 
+antibiotics are also typically administered in patients with liver disease 
+causing variceal bleeding due to a high association of infection with 
+bleeding.
+Interventional Radiology
+Selective embolization during angiography can be used to treat vas­
+cular malformations and to control bleeding from ulcers. The rate of 
+complications from angiography is 2%, whether the procedure is diag­
+nostic or therapeutic. In patients with intrahepatic portal hypertension 
+with bleeding from GI sites inaccessible to sclerotherapy or banding, 
+coiling of varices or transjugular intrahepatic portosystemic shunting 
+may be beneficial.
+Surgical Intervention
+Surgical intervention is a definitive treatment for many of the anatomic 
+anomalies causing GI bleeding and may be performed in conjunction 
+with endoscopy to identify the lesion. Despite effective nonoperative 
+therapeutic interventions, traditional operations such as suture ligation, 
+lesion or organ excision, vagotomy, portosystemic anastomosis, and 
+devascularization procedures continue to be helpful in many instances.
+TABLE 16.9  Initial Management of 
+Patients with Hypovolemia Secondary to 
+Gastrointestinal Hemorrhage
+	1.	Establish adequate intravenous (IV) access by placing two IV catheters.
+ • Recommended catheter size:
+ 
+• Infant: 20 gauge
+ 
+• Child: 18 gauge
+ 
+• Adolescent: 16 gauge
+	2.	Rapidly infuse saline or lactated Ringer solution; use smaller boluses and 
+frequent monitoring in patients with suspected varices to avoid rapid 
+increase in venous pressure and worsening of variceal bleed.
+	3.	Carefully monitor pulse, blood pressure, and central venous pressure to 
+avoid fluid overload.
+	4.	Monitor urine output, skin perfusion, and orthostatic changes in pulse and 
+blood pressure for early recognition of shock.
+	5.	Transfuse with packed red blood cells to return oxygen-­carrying capacity 
+to normal.
+	6.	Carefully record all fluids transfused, and estimate and record all recog­
+nized fluids lost.
+Modified from Olson AD, Hillemeier AC. Gastrointestinal hemorrhage. 
+In: Wyllie R, Hyams JS, eds. Pediatric Gastrointestinal Disease. Phila­
+delphia: WB Saunders; 1993:253.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+304
+SECTION 4  Gastrointestinal Disorders
+TABLE 16.10  Pharmacotherapy in Pediatric Gastrointestinal Bleeding*
+*Dosages listed are from Pediatric Lexi-­Comp online formulary and do not apply to infants aged <3 mo. Evidence-­based dosing of these medications 
+is not well established.
+†Proton pump inhibitors (PPIs) should not be administered in infants aged <1 yr without endoscopic evidence of acid-­induced disease.
+‡Ranitidine has been withdrawn from the US market.
+§Use in conjunction with PPI may limit efficacy.
+Medication
+Dosage
+Proton Pump Inhibitor†—Acid Reducer
+Pantoprazole†
+IV:
+≥2 yr: 0.8 or 1.6 mg/kg once daily (max 
+dose: 80 mg/dose)
+Oral:
+≤5 yr: 1.2 mg/kg/day once daily
+>5 yr: 20 (<40 kg) or 40 mg once daily 
+(>40 kg)
+Esomeprazole†
+IV:
+<1 yr: 0.5 mg/kg once daily
+>1 yr: <55 kg: 10 mg once daily
+>55 kg: 20 mg once daily
+Oral:
+3–5 kg: 2.5 mg once daily
+5–7.5 kg: 5 mg once daily
+7.5–20 kg: 10 mg once daily
+≥20 kg: 10–20 mg once daily
+Omeprazole†
+Oral:
+5 kg to <10 kg: 5 mg once daily
+10–20 kg: 10 mg once daily
+≥20 kg: 20 mg once daily (max 40 mg/day)
+Lansoprazole†
+Oral:
+Infants 1–2 mg/kg/day
+≤30 kg: 15 mg once daily
+>30 kg: 30 mg once daily
+H2-­Receptor Antagonist—Acid Reducer (Alternative If IV 
+PPI is Not Available)
+Ranitidine‡
+IV:
+≤16 yr: 2–4 mg/kg/day divided every 
+6–8 hr (max dose: 
+50 mg/dose)
+>16 yr: 50 mg every 6–8 hr
+Medication
+Dosage
+Oral:
+≤16 yr: 4–8 mg/kg/day divided twice 
+daily (max dose: 
+300 mg/day)
+>16 yr: 150 mg twice daily
+Famotidine
+IV
+0.25 mg/kg/dose every 12 hr (max 
+dose: 20 mg/dose)
+Oral:
+≤16 yr: 0.5 mg/kg/day nightly or 
+divided twice daily (max dose: 40 
+mg/day)
+>16 yr: 40 mg/day nightly or divided 
+twice daily (max dose: 40 mg/day)
+Vasoactive Agent—Somatostatin Analog, Selectively 
+Decreases Splanchnic Blood Flow
+Octreotide
+IV:
+1–2 μg/kg initial bolus followed by 1–2 
+μg/kg/hr continuous infusion (doses 
+up to 4 μg/kg/hr have been used)
+Following endoscopic intervention may 
+taper dose by 50% every 12 hr and 
+discontinue when dose is 25% of initial 
+dose
+Mucosal Coating Agent—Coats Mucosal Injury, Binds Bile 
+Acids to Prevent Further Injury, Inhibits Pepsin in the 
+Presence of Acid
+Sucralfate§
+Oral:
+40–80 mg/kg/day divided every 6 hr (max 
+dose: 1,000 mg/dose)
+A
+B
+Fig. 16.13  Variceal banding is the preferred method for treating esophageal varices. A, Grade 3 esophageal 
+varices in patient with cirrhosis. B, View of varices after band application.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+305
+CHAPTER 16  Gastrointestinal Bleeding
+   	 S U MMA RY  A N D  R E D  F L A G S
+GI bleeding may occur anywhere along the GI tract and can range 
+from occult blood loss to massive hemorrhage. Approach to GI 
+bleeding begins with ensuring hemodynamic stability of the patient 
+while obtaining a thorough history and physical exam to help deter­
+mine upper versus lower sources of bleeding. Iron-­deficiency anemia 
+in a male or premenstrual female should raise the suspicion of occult 
+blood loss. Red flags include hemodynamic instability that necessi­
+tates immediate attention. Laboratory, radiologic, endoscopic, and 
+surgical evaluation are used for confirmation of diagnosis and poten­
+tial treatment.
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+305.e1
+BIBLIOGRAPHY
+ASGE Technology Committee, Chauhan SS, Manfredi MA, et al. Enteroscopy. 
+Gastrointest Endosc. 2015;82(6):975–990.
+Attard TM, Miller M, Pant C, et al. Mortality associated with gastrointestinal 
+bleeding in children: a retrospective cohort study. World J Gastroenterol. 
+2017;23(9):1608–1617. https://doi.org/10.3748/wjg.v23.i9.1608.
+Bonnet S, Douard R, Malamut G, et al. Intraoperative enteroscopy in 
+the management of obscure gastrointestinal bleeding. Dig Liver Dis. 
+2013;45(4):277–284. https://doi.org/10.1016/j.dld.2012.07.003.
+Brumbaugh DE, Colson SB, Sandoval JA, et al. Management of button 
+battery-­induced hemorrhage in children. J Pediatr Gastroenterol Nutr. 
+2011;52:585–589.
+Cappell MS, Friedel D. Initial management of acute upper gastrointestinal 
+bleeding: from initial evaluation up to gastrointestinal endoscopy. Med Clin 
+North Am. 2008;92(3):491–509, xi.
+Cohen S, Hyer W, Mas E, et al. Management of juvenile polyposis syndrome in 
+children and adolescents: a position paper from the ESPGHAN polyposis 
+working group. J Pediatr Gastroenterol Nutr. 2019;68(3):453–462.
+Davis JS, Ryan ML, Fields JM, et al. Use of CT enterography for the diagnosis 
+of lower gastrointestinal bleeding in pediatric patients. J Pediatr Surg. 
+2013;48:681–684.
+de la Torre L, Carrasco D, Mora MA, et al. Vascular malformations of the 
+colon in children. J Pediatr Surg. 2002;37:1754–1757.
+Dotson JL, Hyams JS, Markowitz J, et al. Extraintestinal manifestations of 
+pediatric inflammatory bowel disease and their relation to disease type and 
+severity. J Pediatr Gastroenterol Nutr. 2010;51:140–145.
+Freedman SB, Stewart C, Rumantir M, et al. Predictors of clinically significant 
+upper gastrointestinal hemorrhage among children with hematemesis. J 
+Pediatr Gastroenterol Nutr. 2012;54:737–743.
+Friedlander JA, Liu QY, Sahn B, Endoscopy Committee, et al. NASPGHAN 
+capsule endoscopy clinical report. JPGN. 2017;64:485–494.
+Garcia-­Compeán D, Del Cueto-­Aguilera AN, Jiménez-­Rodriguez AR, et al. Diag­
+nostic and therapeutic challenges of gastrointestinal angiodysplasias: a critical 
+review and view points. World J Gastroenterol. 2019;25(21):2549–2564.
+Gralnek IM, Dumonceau JM, Kuipers EJ, et al. Diagnosis and management of 
+nonvariceal upper gastrointestinal hemorrhage: European Society of Gas­
+trointestinal Endoscopy (ESGE) Guideline. Endoscopy. 2015;47(10):a1–a46. 
+https://doi.org/10.1055/s-­0034-­1393172.
+Hood B, Bigler S, Bishop P, et al. Juvenile polyps and juvenile polyp syndromes 
+in children: a clinical and endoscopic survey. Clin Pediatr. 2011;50:910–915.
+Hwang JH, Fisher DA, Ben-­Menachem T, et al. Standards of Practice Com­
+mittee of the American Society for Gastrointestinal Endoscopy. The role 
+of endoscopy in the management of acute non-­variceal upper GI bleeding. 
+Gastrointest Endosc. 2012;75:6.
+Kim CY. Provocative mesenteric angiography for diagnosis and treatment of occult 
+gastrointestinal hemorrhage. Gastrointestinal Intervention. 2018;7(3):150–154.
+Konrad G, Katz A. Are medication restrictions before FOBT necessary? 
+Practical advice based on a systematic review of the literature. Can Fam 
+Physician. 2012;58:939–948.
+Lirio R. Management of upper gastrointestinal bleeding in children:variceal 
+and non-­variceal. Gastrointest Endosc Clin N Am. 2016;26(1):63–73.
+Lowers J, Jaffe A, Zenel JA, et al. Visual diagnosis: four infants who have red, 
+“bloody” stools. Pediatr Rev. 2009;30(4):146–149.
+Melmed GY, Lo SK. Capsule endoscopy: practical applications. Clin Gastroen­
+terol Hepatol. 2005;3:411–422.
+Oliva S, Pennazio M, Cohen SA, et al. Capsule endoscopy followed by single 
+balloon enteroscopy in children with obscure gastrointestinal bleeding: 
+a combined approach. Dig Liver Dis. 2015;47(2):125–130. https://doi.
+org/10.1016/j.dld.2014.09.001.
+Pant C, Sankararaman S, Deshpande A, et al. Gastrointestinal bleed­
+ing in hospitalized children in the United States. Curr Med Res Opin. 
+2014;30(6):1065–1069.
+Racadio JM. Arterial interventions: gastrointestinal. In: Temple M, Marshal­
+leck FE, eds. Pediatric Interventional Radiology: Handbook of Vascular and 
+Non-­vascular Interventions. 1st ed. New York: Springer; 2014:95–104.
+Rockey DC. Occult and obscure gastrointestinal bleeding: causes and clinical 
+management. Nat Rev Gastroenterol Hepatol. 2010;7(5):265–279.
+Sinha CK, Pallewatte A, Easty M, et al. Meckel’s scan in children: a review of 
+183 cases referred to two paediatric surgery specialist centres over 18 years. 
+Pediatr Surg Int. 2013;29:511–517.
+Thakkar K, Fishman DS, Gilger MA. Colorectal polyps in childhood. Curr 
+Opin Pediatr. 2012;24:632–637.
+Xanthakos SA, Schwimmer JB, Melin-­Aldana H, et al. Prevalence and outcome 
+of allergic colitis in healthy infants with rectal bleeding: a prospective 
+cohort study. J Pediatr Gastroenterol Nutr. 2005;41:16–22.
+Yaqob KS. Occult blood in iron deficiency anemia: the key diagnostic approach 
+to treatment in chronic cases. EC Paediatrics. 2017;5:132–138.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

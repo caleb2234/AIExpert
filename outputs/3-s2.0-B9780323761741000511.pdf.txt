@@ -1,0 +1,3062 @@
+942
+Hemostasis is a process that maintains normal blood flow through 
+healthy vessels but, when a vessel is damaged, rapidly generates a 
+platelet plug (primary hemostasis) and subsequent thrombin clot 
+(secondary hemostasis) at the site of vascular injury. The major com­
+ponents of the hemostatic mechanism are the platelets, the anticoagu­
+lant proteins, the procoagulant proteins, and the various components 
+of the vascular wall. Normal hemostasis is an interactive process in 
+which each element cooperates closely to generate a rapid, cohesive, 
+focused reaction. An abnormality of one element destabilizes the sys­
+tem, but significant clinical symptoms often manifest only when two 
+components are affected. Typical examples include the patient with 
+hemophilia who bleeds after sustaining trauma and the antithrombin 
+(AT)-­deficient woman in whom thrombosis develops during preg­
+nancy. The astute clinician is aware of situations that may exacerbate 
+preexisting conditions. Pretreatment of known predisposing condi­
+tions can prevent complications, as exemplified by infusion of factor 
+VIII (factor 8*) concentrate before and after surgery to a patient with 
+hemophilia A to prevent excessive bleeding. Table 51.1 shows common 
+bleeding symptoms and the most common disorders that trigger these 
+symptoms.
+COAGULATION CASCADE
+Two opposing systems generate local clots but limit the clot to the 
+area of vascular damage. Fig. 51.1 shows the sequence of activation of 
+coagulation. The cascade is capable of rapid response because genera­
+tion of a small number of activated factors at the “top” of the cascade 
+leads to thousands of molecules of thrombin (factor 2). Deficiencies 
+of proteins at or below factors 11 or 7 in the coagulation cascade 
+sequence result in clinical bleeding symptoms, whereas deficiencies 
+of factor 12, prekallikrein, and high-­molecular-­weight kininogen do 
+not. The coagulation mechanism is continuously generating a small 
+amount of thrombin. If there is trauma, tissue factor (TF) and factor 
+7 combine to activate factor 10 to factor 10a both directly and indi­
+rectly via factor 9. Factor 10a then forms a complex on a membrane 
+surface (provided by the activated platelet) with factor 5 and calcium, 
+resulting in even more thrombin generation. Platelets adhere to 
+exposed subendothelial material in areas of vessel injury, thus gen­
+erally restricting thrombin generation and clot formation to the area 
+of damage.
+Thrombin exerts positive feedback on the system by acting on fac­
+tor 11 to trigger the intrinsic system, cleaving factors 5 and 8 to activate 
+*Established international nomenclature refers to the clotting factors 
+by their respective Roman numerals. However, for this general pedi­
+atrics textbook, we have chosen here to use Arabic numerals to avoid 
+confusion that results on occasion from use of Roman numerals.
+them, further accelerating thrombin generation, aggregating platelets, 
+and activating factor 13. Clotting proteins, along with enzymes and 
+zymogens, circulate in concert and a rapid activation cascade ensues 
+with the exposure to damaged endothelium. This dynamic system 
+concept allows for expeditious cessation of bleeding but underscores 
+the impact of deficiencies in anticoagulant protein when thrombin is 
+being continuously generated. A deficiency of an inhibitory enzyme 
+or a cofactor removes part of the “brakes” on the system and causes 
+increased thrombin generation.
+COAGULATION INHIBITORS
+Four key systems interact to inhibit the coagulation mechanism:
+ • AT
+ • Protein C/S system
+ • Fibrinolytic system
+ • Tissue factor pathway inhibitor (TFPI)
+Antithrombin
+AT is a member of the serine protease inhibitor family (serpins) that 
+inhibits thrombin, factor 10a, and, less efficiently, factors 9a and 11a. 
+When AT is bound to heparin, this reaction is accelerated 1,000-­fold. 
+AT is the active anticoagulant operative during heparin therapy; if AT 
+is deficient, the activity of heparin is compromised. Heparin-­like mol­
+ecules are synthesized by endothelial cells and interact with AT on the 
+vessel wall to inhibit coagulation. Both congenital and acquired AT 
+deficiencies are associated with a predisposition toward thrombosis. 
+AT is consumed during clotting.
+Protein C/Protein S System
+The protein C (PC)/protein S (PS) system is complex and limits clot 
+extension by inactivating the rate-­limiting coenzymes of the coagu­
+lation cascade, factors 5 and 8. To prevent extension of the clot, the 
+anticoagulant mechanism must limit thrombin formation to areas of 
+vascular damage. First, thrombin binds to the protein thrombomod­
+ulin on intact endothelial cells. Thrombomodulin-­bound thrombin 
+then converts protein C into its activated form, activated protein C 
+(APC). APC then combines with protein S to inactivate factors 5 and 
+8. In addition, APC may promote fibrinolysis. Thrombin itself is inacti­
+vated when bound to thrombomodulin and simultaneously augments 
+the anticoagulant response by generating APC. APC limits the amount 
+of thrombin that can be generated subsequently.
+AT, PC, and PS are important inhibitors of clotting because defi­
+ciencies of each of these proteins, either inherited or acquired, are asso­
+ciated with an increased risk for thrombosis. A gene variant in factor 
+5 (factor 5 Leiden) that makes it less susceptible to proteolysis by APC 
+(resistance to APC) is the most common hereditary predisposition to 
+Bleeding and Thrombosis
+Brian R. Branchford and Veronica H. Flood
+51
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+943
+CHAPTER 51  Bleeding and Thrombosis
+TABLE 51.1  Common Causes of Clinical 
+Bleeding Symptoms
+Mucocutaneous Bleeding
+Immune thrombocytopenic purpura
+Child abuse
+Trauma
+Poisoning with anticoagulants (rat poison)
+von Willebrand disease
+Platelet function defect or deficiency: acquired or genetic
+Marrow infiltration: malignancy
+Marrow failure/aplasia
+Collagen vascular defect
+Deep/Surgical Bleeding
+Hemophilia
+Vitamin K deficiency
+von Willebrand disease
+Trauma
+Generalized Bleeding
+Disseminated intravascular coagulation
+Vitamin K deficiency
+Liver disease
+Uremia
+F11
+F11a
+Procoagulants
+T
+F9
+F9a
+Ca2+
+Ca2+
+7
+7a
+PL
+F8a
+T
+F10
+F10a
+F5a
+F5
+F13
+F13a
+TF
+PL
+F8
+Von Willebrand 
+factor
+Prothrombin (F2)
+Fibrinogen (F1)
+Thrombin (2a)
+Fibrin
+Clot
+T
+T
+Fig. 51.1  The coagulation cascade and the critical positive feedback 
+role of factor 2a (thrombin) (T) on multiple aspects of the coagulation 
+cascade. In addition, thrombin aggregates platelets and thereby con­
+tributes to platelet plug formation. The dotted line connecting factor 
+7a with factor 9 depicts the physiologic pathway of factor 9 activation 
+in vivo. Factor 8 circulates bound to von Willebrand factor. After activa­
+tion by thrombin, factor 8a can participate with factor 9a in the activa­
+tion of factor 10. Factor 13a cross-­links fibrin and stabilizes the fibrin 
+clot. Ca2+, calcium; PL, platelet phospholipid surface; TF, tissue factor. 
+(Modified from Montgomery RR, Scott JP. Hemorrhage and thrombotic 
+diseases. In: Behrman RE, Kliegman RM, Jenson HB, eds. Nelson Text­
+book of Pediatrics. 16th ed. Philadelphia: WB Saunders; 1999:1505.)
+thrombosis, although it imparts only a modest increase in absolute 
+risk. TFPI is an inhibitor of factor 7a (Fig. 51.2).
+Fibrinolytic System
+The fibrinolytic system dissolves and removes clots from the vascular 
+system so that normal flow through vessels can be restored. Endothelial 
+cells synthesize two activators of plasminogen: tissue-­type plasmino­
+gen activator (tPA) and urokinase, both of which convert plasminogen 
+to plasmin, the enzyme that degrades fibrin. Normally, plasminogen 
+activator and its inhibitor, plasminogen activator inhibitor (PAI-­I), are 
+synthesized in equimolar amounts and are released from endothelial 
+cells in parallel, leading to minimal amounts of active fibrinolysis. 
+Increased activation or damage to the vascular system can alter this 
+balance, however, and result in increased tPA release, thus generating 
+plasmin and lysing local clots. Plasminogen activator has been synthe­
+sized in a recombinant form (rtPA) and is an effective pharmacologic 
+fibrinolytic agent in vivo.
+PLATELET-­ENDOTHELIAL CELLS AXIS
+Clotting is initiated when platelets adhere to damaged endothelium 
+(Fig. 51.3). In areas of vascular damage, the adhesive protein, von Wil­
+lebrand factor (VWF), binds to the exposed subendothelial collagen 
+matrix and undergoes a conformational change. VWF then binds to 
+its platelet receptor, glycoprotein Ib, and activates platelets. Activated 
+platelets secrete adenosine diphosphate (ADP), which induces nearby 
+circulating platelets to aggregate. Platelet-­to-­platelet cohesion is medi­
+ated by the binding of fibrinogen (clotting factor 1) to its platelet recep­
+tor, glycoprotein IIb/IIIa (αiibβ3). Therefore, both VWF and fibrinogen 
+play essential roles in normal platelet function in vivo. Simultaneously 
+with the platelet adhesion-­aggregation response, coagulation is being 
+activated. The phospholipid-­rich platelet membrane brings the reac­
+tants of the cascade into close proximity, promoting rapid, effective fac­
+tor catalysis and accelerating the reactions 1,000-­fold faster than would 
+occur in the absence of the appropriate surface.
+Normally, endothelial cells provide an antithrombotic surface 
+through which blood flows without interruption. The endothelial cell 
+is capable of a rapid change in function and character so that it can aug­
+ment coagulation after stimulation with a variety of modulating agents, 
+including lymphokines and cytokines, as well as noxious agents such 
+as endotoxin and infectious viruses (Fig. 51.4). Widespread alteration 
+of endothelial cell function can shift and disregulate the hemostatic 
+response and promote activation of clotting, which is the probable 
+mechanism by which sepsis induces the clinical syndrome of dissemi­
+nated intravascular coagulation (DIC).
+DEVELOPMENTAL HEMOSTASIS
+Hemostatic disorders in newborns are more common than at any other 
+pediatric age. The neonate is relatively deficient in most procoagulant 
+and anticoagulant proteins. Platelet function may also be impaired. 
+Blood flow characteristics in the newborn are unique because of the 
+high hematocrit, small-­caliber vessels, low blood pressure, and special 
+areas of vascular fragility. Table 51.2 presents the normal values for 
+coagulation screening tests and procoagulant proteins in preterm and 
+full-­term infants, as well as in older children. Table 51.3 presents age-­
+specific values for the anticoagulant and fibrinolytic proteins.
+Levels of factors 5 and 8, fibrinogen, VWF, and platelets become 
+normal by 28 weeks of gestation. PS levels are also close to normal 
+at birth, but levels of other anticoagulant proteins, especially PC, AT, 
+and plasminogen, are low in full-­term infants and are even lower in 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+944
+SECTION 9  Hematologic Disorders
+F11
+F11a
+Procoagulants
+Anticoagulants
+T
+F9
+F9a
+TFPI
+Ca2+
+Ca2+
+7
+7a
+PL
+F8a
+T
+F10
+F10a
+F5a
+F5
+F13
+F13a
+TF
+AT3
+AT3
+PL
+F8
+Von Willebrand factor
+Prothrombin (F2)
+Fibrinogen (F1)
+Thrombin (2a)
+Protein C/S
+Protein C/S
+Fibrin
+Clot
+T
+T
+Fig. 51.2  The major sites of action of the physiologic anticoagulants. Antithrombin (AT) irreversibly binds and 
+inactivates factor 10a and thrombin. Thrombin binds to endothelial thrombomodulin and activates protein 
+C. The activated protein C/protein S complex (protein-­C/S) proteolyses and inactivates factors 5a and 8a. 
+The tissue factor pathway inhibitor (TFPI) binds to the complexes of factor 7a–tissue factor–factor 10a and 
+inactivates factor 7a. Ca2+, calcium; PL, platelet phospholipid surface; TF, tissue factor. (Modified from Mont­
+gomery RR, Scott JP. Hemorrhage and thrombotic diseases. In: Behrman RE, Kliegman RM, Jenson HB, eds. 
+Nelson Textbook of Pediatrics. 16th ed. Philadelphia: WB Saunders; 1999:1505.)
+Endothelial cell
+Adherence of platelets to damaged endothelium is VWF-dependent
+Platelet aggregation
+Platelet plug formation
+Fibrin clot formation
+Fibrin clot facilitated by platelet surface
+Blood vessel
+VWF
+Adherent platelets
+Fig. 51.3  The endothelial cell–platelet–von Willebrand factor (VWF) interaction that results in initiation of the 
+normal platelet plug by the adhesion of platelets to damaged endothelium, mediated by VWF with subse­
+quent formation of the platelet plug and fibrin clot. (Courtesy R.R. Montgomery.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+945
+CHAPTER 51  Bleeding and Thrombosis
+premature neonates. The levels of most procoagulant and anticoagu­
+lant proteins increase throughout gestation; therefore, the most imma­
+ture infant has the lowest levels of these proteins and is at the highest 
+risk for either bleeding or thrombotic complications.
+Vitamin K deficiency is a particular problem of the newborn. Vita­
+min K is a fat-­soluble vitamin that induces the post-­translational γ-­
+carboxylation of the vitamin K–dependent substances (factors 2, 7, 9, 
+and 10; PC; and PS). This carboxylation step occurs after the protein 
+is synthesized in the liver and must occur for a vitamin K–dependent 
+coagulation factor to bind calcium, the bridge to the membrane sur­
+face on which these proteins form complexes with other members of 
+the clotting cascade and catalyze subsequent reactions. Vitamin K defi­
+ciency effectively renders these proteins unable to bind to a surface. 
+Most of the vitamin K in adults originates from the diet and from bac­
+terial production in the intestine. The breast-­fed neonate is at high risk 
+for vitamin K deficiency because human milk is relatively deficient in 
+vitamin K, the neonatal liver itself is immature with reduced carboxyl­
+ation function, and the newborn’s gut requires several days to develop 
+normal bacterial flora.
+Severe vitamin K deficiency in neonates, vitamin K–dependent 
+bleeding (VKDB), occurs in breast-­fed infants who have not received 
+intramuscular vitamin K prophylaxis. VKDB can be classified by age 
+of onset into early (<24 hours), classical (days 1–7), and late (>1 week 
+to <6 months), and by etiology into idiopathic and secondary. In sec­
+ondary VKDB, in addition to breast-­feeding, other predisposing fac­
+tors are apparent, such as poor intake or malabsorption of vitamin K 
+(hepatobiliary disease). Such infants may experience diffuse bleeding 
+and even central nervous system hemorrhage. VKDB is an extraordi­
+narily rare event in the United States, occurring in <2% of live births, 
+because of nearly universal neonatal administration of vitamin K. In 
+the evaluation of bleeding in a newborn, the clinician should confirm 
+that vitamin K has been administered. Patients with disorders of the 
+gastrointestinal tract, those taking broad-­spectrum antibiotics, those 
+born of mothers who received phenobarbital or phenytoin during 
+pregnancy (very–early-­onset VKDB), and those with cholestasis and 
+malabsorption (late-­onset VKDB) are at higher risk for vitamin K 
+deficiency.
+CLUES FROM HISTORY AND PHYSICAL 
+EXAMINATION
+History
+Table 51.4 is an outline of historical questions that are important 
+for the diagnosis of bleeding disorders as it is critical to obtain 
+quantifiable, precise information. Easy bruising and nosebleeds are 
+common in children, although the presence of large (>2 inches in 
+diameter) bruises at multiple sites, prolonged nosebleeds (>15–30 
+minutes), and hematoma formation are seen in up to 20–40% of 
+children with a bleeding disorder. Bleeding postcircumcision should 
+raise the suspicion of hemophilia, while bleeding from the umbili­
+cal cord stump is associated with factor 13 deficiency. Some helpful 
+questions include “What was the biggest bruise you ever had, and 
+what caused it?” and “Have you ever noted little red dots (petechiae) 
+on your skin?”
+A personal or family history of gynecologic bleeding is often valu­
+able. Menorrhagia causing iron-­deficiency anemia, bleeding after 
+childbirth, or need for red blood cell transfusion or early hysterectomy 
+because of bleeding is often inappropriately assumed to have anatomic 
+causes (“dysfunctional uterine bleeding”). The clinician must ascertain 
+the number of pads used per day, in addition to the length and fre­
+quency of each menstrual cycle. If the majority of females in a fam­
+ily have an underlying bleeding disorder, then that family’s “normal 
+menstrual periods” may be quite abnormal. Many adolescent females 
+with menorrhagia caused by an underlying bleeding disorder respond 
+to oral contraceptive agents; therefore, improvement in bleeding symp­
+toms after starting oral contraceptive agents does not rule out a bleeding 
+disorder.
+Historical information is equally important in deciding who requires 
+evaluation for a predisposition to thrombosis. Virtually all pediatric 
+patients in whom a blood clot develops in the absence of major vascu­
+lar instrumentation, catheter placement, underlying infection, or other 
+inflammatory state merit careful laboratory screening for a prothrom­
+botic state (a hereditary or acquired disorder that predisposes to clot­
+ting). Even in the situation of a provoked thrombosis, a detailed family 
+history should be documented for early-­onset stroke; early myocardial 
+infarction; and blood clots in the veins, arteries, or lungs.
+Physical Examination
+The most important determination is whether the patient appears 
+acutely or chronically ill, including vital signs and growth parame­
+ters. The nose should be examined for ulcers or anatomic bleeding 
+sites, and the heart should be examined for the presence of murmurs 
+(as occur in anemia and endocarditis). Joints should be examined 
+for chronic arthropathy (as occurs in hemophilia) or joint laxity (as 
+occurs in Ehlers-­Danlos syndrome), and the extremities are exam­
+ined for thumb or radial anomalies (thrombocytopenia–absent 
+radius syndrome, or Fanconi anemia). The abdomen and lymph 
+nodes should be examined for the presence of hepatosplenomegaly 
+and adenopathy.
+The examination of the skin should include a search for pallor, 
+hematomas, petechiae, ecchymoses, telangiectasias, poor wound 
+healing (large or abnormal scars), lax (loose) skin, and varicose veins 
+(possible deep venous thrombosis). Petechiae are pinpoint, flat, dark 
+red lesions caused by capillary bleeding into the skin. Ecchymoses 
+are larger lesions (bruises) that are flat and usually not palpable. 
+Hematomas are accumulations of blood in the skin or deeper tissues; 
+in the skin, hematomas are raised and palpable. Bruises should be 
+described in detail, including whether hematomas are associated with 
+bruises and whether petechiae are present. Petechiae and ecchymoses 
+are usually painless. Purpura refers to any group of disorders char­
+acterized by the presence of dark-­red, purplish, or brown lesions of 
+the skin and mucous membranes. The discoloration is caused by the 
+leakage of red blood cells from affected vessels. Purpuric lesions can 
+be caused by abnormalities of the platelets, of coagulation proteins, 
+or of vessel walls. Since all these lesions result from visualization of 
+extravascular blood under the skin, blanching will not occur with 
+manual pressure.
+Prothrombotic
+(endotoxin)
+(cytokines)
+(viral agents)
+Tissue factor generation
+Synthesis of clotting factors
+    and von Willebrand factor
+Reaction surface
+Plasminogen activator inhibitor
+Platelet activating factor
+Thrombomodulin
+Heparin
+Surface charge
+ADPase
+Tissue plasminogen activator
+Prostacyclin generation
+Nitric oxide
+Antithrombotic
+Fig. 51.4  Endothelial balance. The pivotal role of the endothelium in 
+maintaining a balance between antithrombotic and prothrombotic activi­
+ties, as influenced by endotoxins, viruses, and immunomodulatory cyto­
+kines. ADPase, adenosine diphosphatase.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+946
+SECTION 9  Hematologic Disorders
+TABLE 51.2  Reference Values for Coagulation Tests in Healthy Children*
+Test
+19–27 Wk 
+Gestation†
+28–31 Wk 
+Gestation†
+30–36 Wk 
+Gestation
+Full Term
+1–5 Yr
+6–10 Yr
+11–18 Yr
+Adult
+PT (sec)
+—
+15.4 (14.6–16.9)
+13.0 (10.6–16.2)
+13.0 (10.1–15.9)
+11 (10.6–11.4)
+11.1 (10.1–12.0)
+11.2 (10.2–12.0)
+12 (11.0–14.0)
+INR
+—
+—
+1.0 (0.61–1.7)
+1.00 (0.53–1.62)‡
+1.0 (0.96–1.04)
+1.01 (0.91–1.11)
+1.02 (0.93–1.10)
+1.10 (1.0–1.3)
+aPTT (sec)
+—
+108 (80–168)
+53.6 (27.5–79.4)‡ §
+42.9 (31.3–54.3)‡
+30 (24–36)
+31 (26–36)
+32 (26–37)
+33 (27–40)
+Fibrinogen (factor 1)
+1.00 (±0.43)
+2.56 (1.60–5.50)
+2.43 (1.50–3.73)‡ §
+2.83 (1.67–3.99)
+2.76 (1.70–4.05)
+2.79 (1.57–4.0)
+3.0 (1.54–4.48)
+2.78 (1.56–4.0)
+Bleeding time (min)
+—
+—
+—
+—
+6 (2.5–10)‡
+7 (2.5–13)‡
+5 (3.8)‡
+4 (1–7)
+Prothrombin (factor 2)
+0.12 (±0.02)
+0.31 (0.19–0.54)
+0.45 (0.20–0.77)‡
+0.48 (0.26–0.70)‡
+0.94 (0.71–1.16)‡
+0.88 (0.67–1.07)‡
+0.83 (0.61–1.04)‡
+1.08 (0.70–1.46)
+Factor 5
+0.41 (±0.10)
+0.65 (0.43–0.80)
+0.88 (0.41–1.44)§
+0.72 (0.34–1.08)‡
+1.03 (0.79–1.27)
+0.90 (0.63–1.16)‡
+0.77 (0.55–0.99)‡
+1.06 (0.62–1.50)
+Factor 7
+0.28 (±0.04)
+0.37 (0.24–0.76)
+0.67 (0.21–1.13)‡
+0.66 (0.28–1.04)‡
+0.82 (0.55–1.16)‡
+0.86 (0.52–1.20)‡
+0.83 (0.58–1.15)‡
+1.05 (0.67–1.43)
+Factor 8 procoagulant
+0.39 (±0.14)
+0.79 (0.37–1.26)
+1.11 (0.5–2.13)
+1.00 (0.50–1.78)
+0.90 (0.59–1.42)
+0.95 (0.58–1.32)
+0.92 (0.53–1.31)
+0.99 (0.50–1.49)
+VWF
+0.64 (±0.13)
+1.41 (0.83–2.23)
+1.36 (0.78–2.10)
+1.53 (0.50–2.87)
+0.82 (0.60–1.20)
+0.95 (0.44–1.44)
+1.00 (0.46–1.53)
+0.92 (0.50–1.58)
+Factor 9
+0.10 (±0.01)
+0.18 (0.17–0.20)
+0.35 (0.19–0.65)‡,§
+0.53 (0.15–0.91)†,‡
+0.73 (0.47–1.04)‡
+0.75 (0.63–0.89)‡
+0.82 (0.59–1.22)‡
+1.09 (0.55–1.63)
+Factor 10
+0.21 (±0.03)
+0.36 (0.25–0.64)
+0.41 (0.11–0.71)‡
+0.40 (0.12–0.68)‡
+0.88 (0.58–1.16)‡
+0.75 (0.55–1.01)‡
+0.79 (0.50–1.17)
+1.06 (0.70–1.52)
+Factor 11
+—
+0.23 (0.11–0.33)
+0.30 (0.08–5.2)‡,§
+0.38 (0.40–0.66)‡
+0.97 (0.52–1.50)‡,§
+0.86 (0.52–1.20)
+0.74 (0.50–0.97)‡
+0.97 (0.67–1.27)
+Factor 12
+0.22 (±0.03)
+0.25 (0.05–0.35)
+0.38 (0.10–0.66)‡,§
+0.53 (0.13–0.93)‡
+0.93 (0.64–1.29)
+0.92 (0.60–1.40)
+0.81 (0.34–1.37)‡
+1.08 (0.52–1.64)
+PK
+—
+0.26 (0.15–0.32)
+0.33 (0.09–0.89)‡
+0.37 (0.18–0.69)‡
+0.95 (0.65–1.30)
+0.99 (0.66–1.31)
+0.99 (0.53–1.45)
+1.12 (0.62–1.62)
+HMWK
+—
+0.32 (0.19–0.52)
+0.49 (0.09–0.89)‡
+0.54 (0.06–1.02)‡
+0.98 (0.64–1.32)
+0.93 (0.60–1.30)
+0.91 (0.63–1.19)
+0.92 (0.50–1.36)
+Factor 13a
+—
+—
+0.70 (0.32–1.08)‡
+0.79 (0.27–1.31)‡
+1.08 (0.72–1.43)
+1.09 (0.65–1.51)
+0.99 (0.57–1.40)
+1.05 (0.55–1.55)
+Factor 13b
+—
+—
+0.81 (0.35–1.27)‡
+0.76 (0.30–1.22)‡
+1.13 (0.69–1.56)‡
+1.16 (0.77–1.54)‡
+1.02 (0.60–1.43)
+0.98 (0.57–1.37)
+*All factors except fibrinogen (mg/mL) are presented as U/mL, where pooled normal plasma contains 1 U/mL. All data are expressed as the mean followed by the upper and lower boundaries 
+encompassing 95% of the normal population.
+†Levels for 19–27 wk and 28–31 wk are from multiple sources and cannot be analyzed statistically.
+‡Values are significantly different from those of adults.
+§Values are significantly different from those of full-­term infants.
+aPTT, activated partial thromboplastin time; HMWK, high-­molecular-­weight kininogen; INR, international normalized ratio; PK, prekallikrein; PT, prothrombin time; VWF, von Willebrand factor. 
+Data from Andrew M, Paes B, Johnston M. Development of the hemostatic system in the neonate and young infant. Am J Pediatr Hematol Oncol. 1990;12:95–104; and Andrew M, Vegh P, 
+Johnston M, et al. Maturation of the hemostatic system during childhood. Blood. 1992;80:1998–2005.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+947
+CHAPTER 51  Bleeding and Thrombosis
+Coagulation Screening Tests
+After obtaining a history and performing a physical examination, the 
+clinician must determine the need for a hemostatic evaluation (Fig. 
+51.5). The history is likely to be the most sensitive screening tool for 
+a significant bleeding disorder, although its use in a very young child, 
+especially before toddler age, is limited and attention must shift to the 
+perinatal and family history. For patients with clinical clues of a coag­
+ulation disorder, the initial screening studies should assess the clotting 
+factors and platelet function. No set of screening tests is complete and 
+capable of detecting the panorama of hemorrhagic disorders, but the 
+screen should include:
+ • CBC to evaluate hemoglobin and platelet count
+ • Prothrombin time (PT)
+ • Partial thromboplastin time (PTT)
+ • Functional fibrinogen level or thrombin time (TT)
+ • VWF testing
+If there is high suspicion for an underlying bleeding disorder, spe­
+cific screening for von Willebrand disease (VWD) and platelet func­
+tion defects should be considered even if the PT and PTT are normal. 
+There are no simple tests to screen for a thrombotic tendency.
+Prothrombin Time and Partial Thromboplastin Time
+The PT and PTT (Fig. 51.6) are measures of all the coagulation fac­
+tors except factor 13. Fibrinogen function should be measured as 
+fibrinogen activity or TT. The PTT is the screening test that checks 
+for deficiency of all clotting factors except factors 7 and 13. The 
+PTT can be prolonged either by a deficiency of a clotting factor or 
+by the presence of an agent in the plasma that delays the clotting 
+time (an inhibitor). The PT is especially sensitive to deficiencies of 
+factor 7.
+To test for an inhibitor, one part of the patient’s plasma is mixed 
+with one part of pooled normal plasma obtained from 20–50 healthy 
+adults. Pooled normal plasma provides a 100% level of each clotting 
+factor. If mixed 1:1 with plasma that is deficient in one or several fac­
+tors, the mixture should possess at least a 50% level of each factor and 
+the PTT should correct to the normal range. If an inhibitor is present, 
+the PTT usually does not correct to normal. The most common types 
+of inhibitors include anticoagulants, such as heparin, and autoanti­
+bodies directed against either specific clotting factors (factor 8 inhib­
+itors) or the phospholipid substances used in the PTT (lupus-­type 
+anticoagulants).
+The PTT is especially sensitive to deficiencies of factors 8, 9, and 11 
+(hemophilia A, B, and C, respectively), as well as 12. A prolonged PTT 
+in an asymptomatic child is most commonly caused by factor 12 defi­
+ciency or by a lupus-­type anticoagulant, neither of which cause clini­
+cally significant coagulopathy. The PTT can also yield a false result if 
+preanalytic variables are not adequately controlled:
+	1.	 When poor venipuncture technique, by adding TF to the blood, 
+activates clotting and artifactually shortens the PTT
+	2.	 When insensitive laboratory reagents fail to detect clinically signif­
+icant deficiencies (most common in mild factor 9 deficiency)
+	3.	 When the citrate concentration is not corrected for blood with a 
+high hematocrit (in neonates and in patients with cyanotic congen­
+ital heart disease), leading to a prolonged PTT
+Bleeding Time
+The bleeding time is an indirect measure of platelet number and a 
+more direct measure of platelet function, vascular integrity, and plate­
+let interaction with the vascular subendothelium. As such, the bleeding 
+time is usually abnormal in patients with thrombocytopenia, platelet 
+function abnormalities, abnormal collagen (Ehlers-­Danlos syndrome), 
+and VWD. Unfortunately, because of its insensitivity and high level of 
+variability, the bleeding time is a relatively poor tool for detecting the 
+milder forms of these hemostatic disorders and cannot be used to rule 
+out VWD and mild or moderate platelet function deficits. It is rarely 
+used in the United States.
+TABLE 51.3  Reference Values for the Inhibitors of Coagulation in Healthy Children in 
+Comparison with Adults*
+Inhibitor
+19–27 Wk 
+Gestation†
+28–31 Wk 
+Gestation†
+30–36 Wk 
+Gestation
+Full Term
+1–5 Yr
+6–10 Yr
+11–18 Yr
+Adult
+AT3
+0.24 (±0.03)‡
+0.28 (0.20–0.38)‡ 0.38 (0.14–0.62)‡,§
+0.63 (0.39–0.87)‡ 1.11 (0.82–1.39)
+1.11 (0.90–1.31)
+1.06 (0.77–1.32)
+1.0 (0.74–1.26)
+Protein C
+0.11 (±0.03)‡
+—
+0.28 (0.12–0.44)‡,§
+0.35 (0.17–0.53)‡ 0.66 (0.40–0.92)‡ 0.69 (0.45–0.93)‡ 0.83 (0.55–1.11)‡ 0.96 (0.64–1.28)
+Protein S
+—
+—
+—
+—
+—
+—
+—
+—
+Total (U/mL)
+—
+—
+0.26 (0.14–0.38)‡,§
+0.36 (0.12–0.60)‡ 0.86 (0.54–1.18)
+0.78 (0.41–1.14)
+0.72 (0.52–0.92)
+0.81 (0.61–1.13)
+Free (U/mL)
+—
+—
+—
+—
+0.45 (0.21–0.69)
+0.42 (0.22–0.62)
+0.38 (0.26–0.55)
+0.45 (0.27–0.61)
+Plasminogen 
+(U/mL)
+—
+—
+1.70 (1.12–2.48)‡
+1.95 (1.25–2.65)‡ 0.98 (0.78–1.18)
+0.92 (0.75–1.08)
+0.86 (0.68–1.03)
+0.99 (0.77–1.22)
+TPA (ng/mL)
+—
+—
+8.48 (3.00–16.70)
+9.6 (5.0–18.9)
+2.15 (1.0–4.5)‡
+2.42 (1.0–5.0)‡
+2.16 (1.0–4.0)‡
+1.02 (0.68–1.36)
+α2AP (U/mL)
+—
+—
+0.78 (0.40–1.16)
+0.85 (0.55–1.15)
+1.05 (0.93–1.17)
+0.99 (0.89–1.10)
+0.98 (0.78–1.18)
+1.02 (0.68–1.36)
+PAI–1
+—
+—
+5.4 (0.0–12.2)‡
+5.42 (1.0–10.0)
+5.42 (1.0–10.0)
+6.79 (2.0–12.0)‡
+6.07 (2.0–10.0)‡
+3.60 (0–11.0)
+α2AP, α2-­antiplasmin; AT3, antithrombin 3; PAI-­1, plasminogen activator inhibitor type 1; TPA, tissue plasminogen activator.
+*All values are expressed in U/mL, where pooled plasma contains 1 U/mL, with the exception of free protein S, which contains a mean of 0.4 U/mL. 
+All values presented as the mean by the upper and lower boundaries encompassing 95% of the population.
+†Levels for 19–27 wk and 28–31 wk are from multiple sources and cannot be analyzed statistically.
+‡Values are significantly different from those of adults.
+§Values are significantly different from those of full-­term infants.
+Data from Andrew M, Paes B, Johnston M. Development of the hemostatic system in the neonate and young infant. Am J Pediatr Hematol Oncol. 
+1990;12:95–104; and Andrew M, Vegh P, Johnston M, et al. Maturation of the hemostatic system during childhood. Blood. 1992;80:1998–2005.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+948
+SECTION 9  Hematologic Disorders
+Platelet Function Analysis
+The sensitivity and specificity of platelet function analysis are insuffi­
+cient for diagnosis, but it may have utility as a screen for severe platelet 
+function defects in very small infants where rapid results are needed 
+and size prohibits collection of large volumes of blood needed for plate­
+let aggregation testing.
+Figs. 51.7 and 51.8 provide an approach to evaluate the patient with 
+an isolated prolongation of the PT or PTT.
+Thrombin Time and Reptilase Time
+The TT and reptilase time are tests that measure the conversion of fibrin­
+ogen to fibrin. The thrombin time is sensitive to heparin effect, whereas 
+the snake venom reptilase time remains normal in the presence of hepa­
+rin. Both the thrombin time and the reptilase time are prolonged by ure­
+mia, by dysfibrinogenemia, and by low fibrinogen levels (<75 mg/dL).
+MUCOCUTANEOUS BLEEDING
+Mucocutaneous bleeding occurs within the skin or mucous mem­
+branes. Common complaints include prolonged, frequent nosebleeds; 
+gum bleeding; prolonged bleeding after tooth extraction; menorrhagia; 
+and easy bruising with or without petechiae formation. Mucocutane­
+ous bleeding is usually associated with abnormalities of platelet num­
+ber or function, of platelet cofactors such as VWF, or of the vessel wall. 
+The well-­appearing child who presents with the acute onset of pete­
+chiae and purpura, often in association with nosebleeds or bleeding 
+gums, and otherwise normal examination findings typically has acute 
+immune thrombocytopenic purpura (ITP). The majority of affected 
+children have an antecedent viral illness. After exposure to the viral 
+infection, an antibody that binds to the platelet membrane develops, 
+leading to the premature destruction of the antibody-­coated platelets 
+in the spleen.
+The peak ages for the presentation of ITP are 1–4 years of age and 
+adolescence, but ITP occurs throughout childhood and adolescence. 
+Females are more commonly affected in adolescence but not in child­
+hood, likely due to menarche occurring in the interim. The work-­up of 
+a child with thrombocytopenia should include a careful history aimed 
+at detecting symptoms (e.g., weight loss, fever, bone pain, anorexia) of 
+other pre-­existing illnesses (e.g., leukemia, systemic lupus erythema­
+tosus [SLE], endocarditis, HIV), exposures to drugs or toxins, and a 
+personal or family history of thrombocytopenia. The physical exam­
+ination must be detailed and include a search for signs of malignancy 
+(e.g., lymphadenopathy, hepatosplenomegaly), chronic illness, and 
+congenital malformations. When evaluating the CBC, the clinician 
+should ensure that the hemoglobin, white blood cell count, differential, 
+indices, and peripheral smear are normal, which would make the diag­
+nosis of a hematologic malignancy or other marrow failure syndrome 
+unlikely. The presence of large platelets on the smear or measured as 
+a high mean platelet volume suggests accelerated thrombopoiesis and 
+increased platelet destruction, consistent with ITP. The differential 
+diagnosis of thrombocytopenia is noted in Table 51.5; genetic disorders 
+are noted in Table 51.6.
+After the presumptive diagnosis of ITP, a Coombs test may be 
+considered to rule out a simultaneous autoimmune hemolytic ane­
+mia. The role of studies for platelet antibodies is unclear; there are no 
+data indicating that these studies are either diagnostic or prognostic 
+in children. If the child is male, is young, and has a history of eczema 
+or recurrent infection, immunoglobulin levels to rule out Wiskott-­
+Aldrich syndrome are indicated. Platelets are also often below average 
+size in this disorder. Similarly, in older children, especially girls as they 
+approach adolescence, an antinuclear antibody (ANA) test to rule out 
+SLE manifesting as thrombocytopenia may be considered, although it 
+TABLE 51.4  History of a Bleeding Disorder
+I.	 HISTORY OF DISORDER
+	 A.	 Onset of symptoms
+	
+1.	 Age
+	
+2.	 Acute vs lifelong
+	
+3.	 Triggering event
+	
+4.	 Timing of bleeding after injury: immediate vs delayed
+	 B.	 Sites of bleeding
+Clarify single site (potential anatomic issue) vs multiple sites (more likely 
+presentation of systemic bleeding disorder).
+	
+1.	 Mucocutaneous*
+	
+a.	 Epistaxis
+	
+(1)	 Duration, frequency, seasonal tendency
+	
+(2)	 Associated trauma (nose picking, allergy, infection)
+	
+(3)	 Resultant anemia, emergency department evaluation, 
+cautery
+	
+b.	 Oral (gingiva, frenulum, tongue lacerations, bleeding after 
+tooth brushing, after dental extractions requiring sutures/
+packing)
+	
+c.	 Bruising (number, sites, size, raised [other than extremities], 
+spontaneous vs trauma, knots within center, skin scarring)
+	
+d.	 Gastrointestinal bleeding
+	
+2.	 Deep
+	
+a.	 Musculoskeletal
+	
+(1)	 Hemarthroses, unexplained arthropathy
+	
+(2)	 Intramuscular hematomas
+	
+b.	 Central nervous system hemorrhage
+	
+c.	 Genitourinary tract
+	
+3.	 Surgical
+	
+a.	 Minor (sutures, lacerations, poor or delayed wound healing)
+	
+b.	 Major
+	
+(1)	 Tonsillectomy and adenoidectomy
+	
+(2)	 Abdominal surgery
+	 C.	 Perinatal history
+	
+1.	 Superficial (bruising, petechiae)
+	
+2.	 Deep
+	
+a.	 Circumcision
+	
+b.	 Central nervous system bleeding
+	
+c.	 Gastrointestinal bleeding
+	
+d.	 Cephalohematoma
+	
+e.	 Unexplained anemia or hyperbilirubinemia
+	
+f.	 Delayed cord separation, bleeding after cord separation
+	
+3.	 Vitamin K administration
+	
+4.	 Maternal drugs
+	 D.	 Obstetric/gynecologic bleeding
+	
+1.	 Menorrhagia
+	
+a.	 Onset, duration, amount (number of pads), frequency, 
+persistence after childbirth
+	
+b.	 Resultant anemia, iron deficiency
+	
+2.	 Bleeding at childbirth (onset, duration, transfusion requirement, 
+history of traumatic delivery, recurrences with subsequent 
+pregnancies, spontaneous abortions)
+	 E.	 Medications
+	
+1.	Aspirin and nonsteroidal antiinflammatory drugs
+	
+2.	Anticoagulants
+	
+3.	Antibiotics
+	
+4.	Anticonvulsants
+	 F.	 Diet
+	
+1.	Vitamin K
+	
+2.	Vitamin C
+II.	FAMILY HISTORY
+Draw family tree. The items just listed should be applied to immediate 
+family members, especially a history of easy bruising, epistaxis, 
+excessive bleeding after surgery, menorrhagia, excessive bleeding after 
+childbirth, or a family history of others with diagnosed or suspected 
+bleeding disorders. Attempt to deduce inheritance pattern.
+*Significant historical information is presented in boldface type.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+949
+CHAPTER 51  Bleeding and Thrombosis
+is more likely to yield positive results in children with chronic ITP. HIV 
+infection occasionally manifests as ITP. The diagnostic yield of bone 
+marrow examination in a child with normal findings on a careful phys­
+ical examination (no lymphadenopathy or hepatosplenomegaly) and a 
+completely normal CBC including a manual white blood cell differen­
+tial, other than isolated thrombocytopenia, is negligible and therefore 
+not recommended.
+Once a diagnosis of ITP is made, several therapeutic options are 
+available, including close observation and education. The family 
+should be advised that the child must avoid activities that increase 
+the risk of head injury. Treatment should be reserved for children 
+at high risk for clinical bleeding (platelet count <20,000/mm3 and 
+children with petechiae and mucosal hemorrhages). Some clinicians 
+believe that patients with mucous membrane purpura are at higher 
+risk and definitely require treatment. Treatment is not recommended 
+for patients without bleeding symptoms. The major cause of mor­
+tality in ITP is related to intracranial hemorrhage, which has been 
+observed in fewer than 0.5–1% of patients. Table 51.7 provides a per­
+spective on treatment alternatives for ITP. Options for initial therapy 
+for patients in need of treatment include intravenous immunoglobu­
+lin (IVIG) and prednisone, and some clinicians may consider anti-­D 
+immune globulin in patients with Rh-­positive blood type. Trans­
+fusion of platelets should be reserved for life-­threatening bleeding 
+because transfused platelets are rapidly destroyed. Thrombopoietin 
+receptor agonists have been approved for use in adults and children 
+with chronic ITP with bleeding symptoms not responsive to IVIG, 
+steroids, or splenectomy.
+Ten to 20% of children with ITP have persistence of thrombocyto­
+penia for more than 6 months (chronic ITP). These patients are more 
+likely to be older (adolescent) girls or to have had an insidious onset of 
+symptoms. The clinician must look carefully for predisposing causes, 
+including SLE; HIV infection; autoimmune lymphoproliferative syn­
+drome (ALPS); common variable immune deficiency (CVID); immune 
+disregulation polyendocrinopathy enteropathy, X-­linked (IPEX); or 
+medications. The treatment of chronic ITP is evolving and includes 
+repeated doses of IVIG, prolonged steroid use, and consideration of 
+rituximab, thrombopoietin receptor agonists, and/or splenectomy. 
+Because of improved medical therapy weighted against infectious and 
+Low platelet count
+Low MPV
+High MPV
+Normal MPV
+Platelet
+aggregation
+Mixing studies correct, 
+consider studying other 
+coagulation factor 
+deficiencies (factor 11 
+deficiency can present with 
+mucocutaneous bleeding) 
+Type 3 VWD
+VWF:Ag absent 
+VWF:Rco absent 
+FV3:C very low (<5%) 
+Multimers: Absent 
+VWF:Rco/VWF:Ag 
+ratio N/A 
+ITP
+Bernard-Soulier
+Other GP1b-5-9
+syndromes
+Giant platelet syndromes
+GATA 1
+Platelet type VWD
+If VWF low, type
+2BVWD  
+Wiskott-Aldrich
+syndrome
+X-linked
+thrombocytopenia  
+Drug induced, 
+Malignancy/
+metabolic
+FDP/AML
+CAMT
+Paris-Trousseau
+TAR
+THC2  
+Normal platelet count 
+(and no other abnormal 
+labs including normal 
+VWF levels) 
+CBC with differential 
+blood smear
+aPTT, PT, fibrinogen 
+If PT, aPTT
+prolonged perform 
+mixing study 
+Type 1 VWD
+VWF:Ag low
+VWF:Rco low
+FV3:C low or normal 
+Multimers: Normal 
+distribution
+VWF: Rco/VWF:Ag ratio = 1 
+Type 2 VWD
+VWF:Ag low
+VWF:Rco very low
+FV3:C low or normal
+Multimers: Loss of HMWM (or normal)
+VWF:Rco/VWF:Ag ratio normal to low 
+If normal labs and high 
+clinical suspicion of VWD 
+order VWF levels 
+Abnormally low  
+levels of VWF 
+Second wave  
+absent/↓ secretion  
+Hermansky-Pudlak  
+Chediak-Higashi
+Storage pool defect
+Signal transduction defect 
+R/O aspirin effect 
+Glanzmann’s
+thrombasthenia
+Scott syndrome
+Other causes of bleeding
+ADP receptor P2Y12
+TXA2 receptor
+ADP/ATP receptor P2X1  
+Absent
+(except ristocetin)
+Abnormal to
+ADP & TXA2  
+VWD
+Normal
+Normal
+Clinically significant mucocutaneous bleeding 
+Fig. 51.5  Guide to the staged work-­up of clinically significant mucocutaneous bleeding. ADP, adenosine 
+diphosphate; Ag, antigen; aPTT, activated partial thromboplastin time; ATP, adenosine triphosphate; CAMT, 
+congenital amegakaryocytic thrombocytopenia; FDP/AML, familial platelet disorder with predisposition to 
+acute myelogenous leukemia; GP, glycoprotein; HMWM, high-­molecular-­weight multimer; ITP, immune 
+thrombocytopenia; MPV, mean platelet volume; PT, prothrombin time; Rco, ristocetin cofactor test; R/O, rule 
+out; TAR, thrombocytopenia with absent radii syndrome; THC2, thrombocytopenia 2; TXA2, thromboxane 
+A2; VWD, von Willebrand disease; VWF, von Willebrand factor. (From Orkin SH, Fisher DE, Ginsburg D, et al., 
+eds. Nathan and Oski’s Hematology and Oncology of Infancy and Childhood. 8th ed. Philadelphia: Elsevier; 
+2015:1005, Fig. 29.1.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+950
+SECTION 9  Hematologic Disorders
+F11
+F11a
+F12
+F12a
+Kallikrein
+Prekallikrein
+HMWK
+PTT
+PT
+F9
+F9a
+Ca2+
+Ca2+
+7
+7a
+PL
+F8a
+F10
+F10a
+F5a
+F5
+F13a
+TF
+PL
+Prothrombin (F2)
+Fibrinogen (F1)
+Thrombin (2a)
+Fibrin
+Clot
+F8
+Von Willebrand factor
+Fig. 51.6  Elements of the coagulation cascade measured by the prothrombin time (PT) and the partial throm­
+boplastin time (PTT). Note that prekallikrein (PK), high-­molecular-­weight kininogen (HMWK), and factor 12 are 
+shown in this figure and not in the depiction of the coagulation cascade in Fig. 51.1, because a deficiency of PK, 
+HMWK, or factor 12 can cause a prolongation of the PTT. However, a deficiency of any of these proteins alone is 
+not associated with a clinical bleeding disorder. Ca2+, calcium; PL, platelet phospholipid surface; TF, tissue factor. 
+(Modified from Montgomery RR, Scott JP. Hemorrhage and thrombotic diseases. In: Behrman RE, Kliegman 
+RM, Jenson HB, eds. Nelson Textbook of Pediatrics. 16th ed. Philadelphia: WB Saunders; 1999:1505.)
+Prolonged
+Normal
+Assay factors 2, 5, 10
+Test for factor
+inhibitor and lupus
+anticoagulant
+Trial vitamin K, repeat PT
+Assay factor 7
+PT
+Prolonged
+Retest off medications
+Mix corrects
+Mix prolonged
+Perform 1:1 mix, repeat PT
+Normal
+STOP
+Fig. 51.7  Flow diagram for the evaluation of a patient with an isolated 
+prolongation of the prothrombin time (PT).
+PTT
+Prolonged
+Retest off medications
+Mix corrects
+Mix prolonged
+Negative
+Assay factors
+8, 9, 11,
+12, VWF
+Test for lupus
+anticoagulant;
+rule out heparin
+Perform 1:1 mix, repeat PTT
+Normal
+STOP
+Fig. 51.8  Flow diagram for the evaluation of a patient with an isolated 
+prolongation of the partial thromboplastin time (PTT). To rule out heparin 
+effect, the thrombin time is compared with the reptilase time. If the 
+thrombin time is significantly longer than the reptilase time, heparin is 
+present in the sample. VWF, von Willebrand factor.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+951
+CHAPTER 51  Bleeding and Thrombosis
+thrombotic risk, splenectomy is limited to patients with severe, refrac­
+tory chronic ITP.
+Neonatal Thrombocytopenia
+Thrombocytopenia is common, especially in sick newborns. The dif­
+ferential diagnosis of neonatal thrombocytopenia includes most of the 
+causes seen in older children and a few additional specific to the new­
+born (Fig. 51.9, in the shaded areas; see also Table 51.5). When eval­
+uating the thrombocytopenic newborn, the physician must know the 
+perinatal history including the mother’s health during this and prior 
+pregnancies, history of current or previous low platelets, or children 
+dying of hemorrhage. A maternal history of fever, viral infection (cyto­
+megalovirus, rubella), sexually transmitted infections (syphilis, HIV), 
+medications, toxemia, or collagen vascular disease (SLE) is informa­
+tive. The family history should be evaluated for bleeding disorders, 
+recurrent infections, or malignancies, especially in siblings, both as 
+neonates and at any age.
+During examination of the newborn, the most important element 
+to determine is the child’s general well-­being. The examiner should 
+look especially for signs of systemic illness, as well as lymphadenopa­
+thy, hepatosplenomegaly, mass lesions, hemangiomas, bruits, and con­
+genital anomalies, especially of the radial bones. The examiner should 
+carefully evaluate the hemoglobin, the white blood cell count, and the 
+differential for the presence of abnormal immature cells (blasts). Red 
+blood cell structure should be examined for signs of microangiopathy. 
+Small platelets (low mean platelet volume) suggest abnormal throm­
+bopoiesis, whereas large platelets are found with accelerated platelet 
+destruction (see Fig. 51.5). Thrombocytopenia can be caused by synthetic 
+failure, sequestration, or destructive processes. The destructive processes 
+are most common and are either immune or nonimmune in origin. 
+Nonimmune causes of platelet consumption—for example, DIC, sep­
+sis, congenital infections, or thrombotic events—are usually associ­
+ated with obvious clinical findings. When evaluating the ill-­appearing 
+neonate or child for thrombocytopenia, the examiner should perform 
+coagulation studies to detect fibrinogen consumption (fibrinogen level, 
+D-­dimer). Neonates with immune-­mediated platelet destruction usu­
+ally appear healthy.
+After the clinician obtains a thorough history, performs a careful 
+physical examination, and evaluates the CBC, the initial step in man­
+agement of the child with thrombocytopenia depends on the cause and 
+severity of the thrombocytopenia. In the neonate with severe throm­
+bocytopenia (platelet count <40,000/mm3) delivered vaginally, an 
+ultrasound study of the head should be done to rule out intracranial 
+bleeding. Platelet transfusion for thrombocytopenia can serve both as 
+a therapeutic tool for stopping the bleeding and as a diagnostic maneu­
+ver. In patients with decreased platelet synthesis, survival of transfused 
+TABLE 51.5  Differential Diagnosis of Thrombocytopenia in Children
+I.  Destructive Thrombocytopenias
+Primary platelet 
+consumption 
+syndromes
+Immune thrombocytopenic purpura
+Drug-­induced thrombocytopenia
+Infection-­induced thrombocytopenia (HIV)
+Immunologic
+Post-­transfusion purpura
+Autoimmune or lymphoproliferative disorders
+Neonatal immune thrombocytopenias
+Allergy and anaphylaxis
+Post-transplantation thrombocytopenia
+Chronic microangiopathic hemolytic anemia and 
+thrombocytopenia
+Heparin or vaccine associated
+Nonimmunologic
+Hemolytic uremic syndrome
+Thrombotic thrombocytopenic purpura
+Catheters, prostheses, or cardiopulmonary bypass 
+(mechanical destruction)
+Congenital or acquired heart disease
+Combined platelet 
+and fibrinogen 
+consumption 
+syndromes
+Disseminated intravascular coagulation
+Kasabach-­Merritt syndrome
+Other causes of local consumption coagulopathy
+Miscellaneous causes
+Phototherapy
+Perinatal aspiration syndromes
+Persistent pulmonary hypertension
+Rhesus alloimmunization
+Specific to the neonate
+Status post–exchange transfusion
+Polycythemia
+Metabolic inborn errors of metabolism
+Maternal HELLP syndrome
+Glomerular disease
+Preeclampsia
+II.  Impaired or Ineffective Production
+Congenital and hereditary 
+disorders
+TAR syndrome
+Other congenital thrombocytopenias with 
+megakaryocytic hypoplasia
+Fanconi aplastic anemia
+Bernard-­Soulier syndrome*
+Primary hematologic 
+processes
+May-­Hegglin anomaly*
+Wiskott-­Aldrich syndrome*
+Miscellaneous hereditary thrombocytopenias 
+(X-­linked or autosomal)*
+Mediterranean thrombocytopenia
+Associated with trisomy 13 or 18
+Metabolic inborn errors
+Holocarboxylase synthetase deficiency
+Isovaleric acidemia
+Some mitochondrial disorders
+Methylmalonic acidemia
+Ketotic glycinemia
+Acquired disorders
+Aplastic anemia
+Marrow infiltrative processes
+Drug or radiation induced
+Nutritional deficiency states (iron, folate, or 
+vitamin B12)
+III.  Sequestration
+Hypersplenism
+Hypothermia
+*These hereditary thrombocytopenias can be associated with normal or increased bone marrow megakaryocytes.
+HELLP, hypertension, elevated liver enzymes, low platelets; TAR, thrombocytopenia–absent radius. Modified from Schultz Beardsley D. Platelet 
+abnormalities in infancy and childhood. In: Nathan DG, Oski FA, eds. Hematology of Infancy and Childhood. 4th ed. Philadelphia: WB Saunders; 
+1993;2:1566.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+952
+SECTION 9  Hematologic Disorders
+TABLE 51.6  Inherited Platelet Disorders
+Platelet Defect
+Gene Defect 
+(Chromosomal 
+Location)
+Pathophysiology
+Clinical and Laboratory 
+Characteristics
+Bleeding 
+Treatment
+Defects in Platelet Adhesion
+Bernard-­Soulier 
+syndrome (BSS)
+Autosomal recessive:
+GP1BA (17p13)
+GP1BB (22q11)
+GP9 (3q21)
+Autosomal dominant:
+Ala156Val, GP1BA—Bolzano 
+variant
+Defective GPIb-­IX-­V receptor, 
+impaired adhesion to VWF
+Often severe bleeding phenotype
+Thrombocytopenia
+Large platelets
+Platelet aggregation: absent ristocetin-­
+induced response
+Flow cytometry: reduced or absent CD42a 
+(GPIX)/CD42b (GP1bα)
+GP1BA and GP1BB gene sequencing
+Supportive care
+Platelet transfusion (risk 
+of alloantibodies)
+Antifibrinolytics rF7a
+Velocardiofacial/
+DiGeorge syndrome 
+(VCFS)
+22q11.2 deletion 
+including GP1BB
+Defective GPIb-­IX-­V receptor
+Thrombocytopenia
+Large platelets and α-­granules
+Cardiac, thymus, parathyroid, facial, and 
+cognitive abnormalities
+Supportive care
+Platelet-­type von 
+Willebrand disease 
+(PT-­VWD)
+Autosomal dominant: 
+gain-­of-­function variants 
+in GP1BA
+Defective
+GPIb-­IX-­V, gain-­of-­function 
+interaction between VWF-­
+GP1bα
+Thrombocytopenia
+Large platelets
+Platelet clumping
+Decreased VWF:Ag, VWF multimers
+Platelet aggregation: low-­dose ristocetin-­
+induced platelet agglutination
+GP1BA gene sequencing
+Supportive care
+Platelet transfusion
+Antifibrinolytics rF7a
+Defects of Platelet Aggregation
+Glanzmann 
+thrombasthenia (GT)
+Autosomal recessive:
+ITGA2B (17Q21.32)
+ITGB3 (17q21.32)
+Defective integrin αIIbβ3 
+(GPIIb/IIIa, CD41/CD61)
+Impaired fibrinogen-­mediated 
+platelet aggregation
+Often severe bleeding phenotype
+Normal platelet count and morphology
+Platelet aggregation: absent response to 
+all agonists except ristocetin
+Flow cytometry: absent or reduced CD41 
+and CD61
+Supportive care rF7a 
+(considered the first 
+line)
+Platelet transfusion (risk 
+of HPA alloantibodies)
+Antifibrinolytics
+Defects in Agonist Receptors
+Thromboxane-
+­prostanoid (TP) 
+receptor defects
+Autosomal recessive:
+TBXA2R (19p13.3)
+Defective TP receptor, 
+abnormal response 
+to TXA2
+Mild bleeding phenotype
+Platelet aggregation: abnormal response 
+to arachidonic acid and U46619
+TBXA2R gene sequencing
+Supportive care
+ADP receptor defects 
+P2Y12
+Autosomal recessive:
+P2RY12 (3q23–25)
+Defective ADP receptor, 
+abnormal response to 
+ADP, de-­aggregation 
+with high-­dose ADP
+Mild bleeding phenotype
+Platelet aggregation: abnormal response 
+to ADP
+P2RY12 gene sequencing
+Supportive care
+Collagen receptor defects 
+GPVI
+Autosomal recessive:
+GP6 (19q13.4)
+Defective GPVI receptor, 
+impaired response to 
+collagen
+Mild bleeding phenotype
+Platelet aggregation: abnormal response 
+to collagen
+GP6 gene sequencing
+Supportive care
+Platelet Granule Defects (α-­Granules)
+Gray platelet syndrome 
+(GPS)
+Autosomal recessive:
+NBEAL2 (3p21)
+Defective development 
+of α-­granules, loss of α-­
+granule cargo proteins into 
+bone marrow and spleen
+Progressive myelofibrosis
+Thrombocytopenia
+Large pale platelets on blood smears
+Absent α-­granules on TEM
+NBEAL2 gene sequencing
+Supportive care
+Antifibrinolytics
+DDAVP
+Platelet transfusion
+Splenectomy
+Arthrogryposis, renal 
+dysfunction, and 
+cholestasis syndrome 
+(ARC syndrome)
+Autosomal dominant:
+VPS33B (15q26)
+VIPAS39 (14q24)
+Abnormal intracellular vesicle 
+trafficking and membrane 
+fusion
+Thrombocytopenia
+Large pale platelets on blood smears
+Absent α-­granules on TEM
+Lethal early in life
+VPS33B and VIPAS39 sequencing
+Supportive care
+Platelet transfusion
+Antifibrinolytics
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+953
+CHAPTER 51  Bleeding and Thrombosis
+TABLE 51.6  Inherited Platelet Disorders—cont’d
+Platelet Defect
+Gene Defect 
+(Chromosomal 
+Location)
+Pathophysiology
+Clinical and Laboratory 
+Characteristics
+Bleeding 
+Treatment
+Quebec platelet disorder 
+(QPD)
+Autosomal recessive:
+Tandem duplication of PLAU 
+(10q22.2)
+Increased expression and 
+storage of releasable 
+urokinase plasminogen 
+activator due to a gain-of-­
+function defect
+Delayed-­onset bleeding not responding 
+to platelet transfusion
+Variable thrombocytopenia
+Abnormal urokinase in platelets detected 
+with immunoblot or ELISA
+PLAU duplication testing
+Supportive care
+Antifibrinolytics
+Paris-­Trousseau/Jacobsen 
+syndrome (PTS)
+Autosomal dominant:
+Deletion of chromosome 
+11q23–24
+Hemizygous deletion of FLI1 
+(11q24.1–q24.3)
+Unknown
+Thrombocytopenia
+Large platelets
+Giant α-­granules on TEM
+Immature megakaryocytes in the bone 
+marrow
+Cognitive, cardiac, and facial abnormalities
+Supportive care
+Antifibrinolytics
+Platelet transfusion
+Platelet Granule Defects (δ-­Granules)
+Hermansky-­Pudlak 
+syndrome (HPS)
+Autosomal recessive
+HPS1–10 (HPS1, AP3B1, 
+HPS3, HPS4, HPS5, HPS6, 
+DTNBP1, BLOC1S3, 
+BLOC1S6, and AP3D1)
+Defective intracellular 
+biogenesis and trafficking 
+of lysosome-­related 
+organelle δ-­granules (DG) 
+and melanosomes
+Decreased to absent δ-­granules
+Lumiaggregometry: decreased/absent ATP 
+release
+Whole-­mount EM
+Gene sequencing of 10 candidate genes
+Oculocutaneous albinism
+Supportive care
+Antifibrinolytics
+Platelet transfusion
+DDAVP
+Chédiak-­Higashi syndrome 
+(CHS)
+Autosomal recessive:
+LYST (1q42–1q42.2)
+Defective vesicular protein 
+and membrane trafficking 
+resulting in giant granules
+Giant eosinophilic inclusions in neutrophils
+Decreased to absent δ-­granules
+Lumiaggregometry: decreased/absent ATP 
+release
+Hypopigmentation and immunodeficiency
+Supportive care
+Platelet Cytoskeletal Defects
+Wiskott-­Aldrich syndrome 
+(WAS)/X-­linked 
+thrombocytopenia
+X-­linked
+WAS (Xp11.23–p11.22) 
+encoding WAS protein
+Loss/defective WAS 
+protein (WASp) leading 
+to defective actin 
+remodeling by actin-
+­related protein 2/3 
+(Arp2/3) complex
+Thrombocytopenia
+Small platelets
+Recurrent infections and eczema
+Decreased/absent intracellular WASp per 
+immunoblot/ELISA
+WAS gene sequencing
+Supportive care
+Platelet transfusion
+Antifibrinolytics
+Splenectomy (not 
+recommended)
+ARPC1B deficiency
+Autosomal recessive:
+ARPC1B (7q22.1)
+Loss of ARPC1B in 
+hematopoietic cell Arp2/3 
+complex
+Small platelets
+Inflammatory disease, recurrent infections, 
+small vessel vasculitis, abnormal platelet 
+function
+Decreased/absent intracellular ARPC1B 
+per immunoblot
+ARPC1B gene sequencing
+Supportive care
+Antifibrinolytics
+Platelet transfusion
+MYH9-­related disease 
+(MYH9-­RD)
+Autosomal dominant:
+MYH9 (22q12–13) encoding 
+nonmuscle myosin heavy 
+chain IIA
+Defective nonmuscle myosin 
+IIA motor protein
+Thrombocytopenia
+Large platelets
+Döhle-­like inclusions in neutrophils
+Myosin IIA aggregates in neutrophils—
+immunofluorescence microscopy
+Variable degree of renal disease, 
+sensorineural hearing loss, presenile 
+cataract
+Supportive care
+Platelet transfusion
+Antifibrinolytics
+THPO receptor agonists
+ADP, adenosine diphosphate; DDAVP, desmopressin; ELISA, enzyme-­linked immunosorbent assay; EM, electron microscopy; HPA, human platelet 
+antigen; r7a, recombinant activated factor 7; TEM, transmission electron microscopy; THPO, thrombopoietin; TXA2, thromboxane A2; VWF, von 
+Willebrand factor.
+From Al-­Huniti A, Kahr WH. Inherited platelet disorders: diagnosis and management. Transfus Med Rev. 2020;34(4):277–285, Table 1.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+954
+SECTION 9  Hematologic Disorders
+platelets should be normal (multiple days), whereas in thrombo­
+cytopenic states caused by platelet destruction, transfused platelets 
+should be cleared rapidly (detected with a 1-­hour post-­transfusion 
+platelet count). For this reason, platelet transfusions are usually con­
+traindicated in thrombocytopenic states caused by accelerated platelet 
+destruction, as in ITP and hemolytic uremic syndrome (except in the 
+event of life-­threatening bleeding such as intracranial hemorrhage). 
+The yield and survival of the transfused platelets should be monitored 
+with serial platelet counts after transfusion.
+Antibody-­mediated thrombocytopenia in the neonate is caused 
+by transfer of maternal immunoglobulin G (IgG) antibodies that react 
+with the neonate’s platelets. A mother with active ITP or a history of 
+previous ITP is at risk for delivering a thrombocytopenic baby. There is 
+no definitive, noninvasive method to determine the newborn’s risk of 
+thrombocytopenia, although the actual risk for severe bleeding during 
+delivery appears low. In contrast, children born to mothers who are 
+sensitized to paternal alloantigens present on the fetal platelets have 
+a higher risk for perinatal hemorrhage and symptomatic thrombo­
+cytopenia. This disorder, neonatal alloimmune thrombocytopenia 
+(NAIT), is the platelet equivalent of maternal Rh isoimmunization 
+and differs from Rh disease in that first-­born children are commonly 
+affected. The importance of this diagnosis is that it is commonly associ­
+ated with prenatal intracranial hemorrhage with a resultant high rate of 
+morbidity and mortality (15%). Therefore, recognition of the diagnosis 
+in the first pregnancy can have a major impact on the management 
+of subsequent pregnancies. Transfusion of washed maternal platelets 
+that lack the paternal alloantigen toward which the maternal antibody 
+is directed will correct the platelet count and prevent further bleed­
+ing. Random donor platelets are rapidly destroyed. Newborns with 
+NAIT can be easily differentiated from thrombocytopenic newborns of 
+mothers with ITP on the basis of the mother’s platelet count. Mothers 
+with ITP are thrombocytopenic unless they have had a splenectomy. 
+Mothers of infants with NAIT have normal platelet counts.
+Although the initial diagnosis of NAIT is usually made by study­
+ing the reaction of maternal serum against paternal platelets, prenatal 
+diagnosis is performed with molecular biologic techniques to detect 
+the allelic differences between the mother and the fetus by analysis of 
+various fetal DNA sources. After prenatal diagnosis, treatment of the 
+mother with IVIG has been shown to raise the fetal platelet count and 
+prevent fetal bleeding. In addition, postnatal treatment of the neonate 
+with IVIG and corticosteroids may be helpful after restoration of a nor­
+mal platelet count by transfusion of washed maternal platelets. All blood 
+products administered to the neonate with thrombocytopenia should be 
+irradiated to prevent graft versus host disease mediated by the recipient’s 
+reaction to potential rare donor lymphocytes that persist in the platelet 
+product despite leukofiltration, because some patients may have a con­
+genital immunodeficiency syndrome manifested by thrombocytopenia.
+Child Abuse
+The most common cause of remarkable bruising and bleeding with 
+normal hemostatic screening studies in infancy is child abuse. Child 
+abuse may mimic a bleeding disorder and it is important to obtain 
+screening studies in the evaluation of potential child maltreatment.
+Chronic/Insidious Onset of Mucocutaneous Bleeding
+When symptoms of skin and mucous membrane bleeding are lifelong, 
+the most common cause is VWD. Congenital platelet function defects 
+are almost as common, while congenital thrombocytopenic syndromes 
+and abnormalities of the vessel wall are less common. VWD, the defi­
+ciency of VWF, is the most common hereditary bleeding disorder, 
+with a prevalence of approximately 1/1,000 in the milder forms. The 
+inheritance of VWD is usually autosomal dominant. VWF is a large, 
+TABLE 51.7  Common Treatment Alternatives for Childhood Acute Immune Thrombocytopenic 
+Purpura (ITP)
+Drug
+Route of 
+Administration
+Pros
+Cons
+Cost in USD (Assuming 
+Typical 15 kg Toddler)
+IVIG
+IV
+Rapid onset of action
+Does not rely on patient/family giving 
+medication at home
+Effective in 75–80% of patients
+IV required
+Either inpatient or prolonged (4–6 hr) visit 
+to clinic
+Does not alter long-­term outcome
+$3,000 for 1-­mg/kg dose
+Prednisone
+Oral (can also be 
+given IV)
+Outpatient administration
+Rapid onset of action
+Effective in 75–80% of patients
+Does not require placement of an IV
+Short course likely minimal side effects
+Steroid side effects (GI, mood swings, 
+growth issues with long-­term use)
+May need multiple courses
+No effect on long-­term outcome
+2-­wk course of 2 mg/kg/day: 
+$15
+Rituximab
+IV
+Durable remission in 40–60%
+IV administration
+May cause reactivation of hepatitis
+Four doses of 375 mg/m2, 
+approximately $5,000– $15,000
+Splenectomy
+Surgery
+Curative in 80% of patients
+Expensive
+Invasive
+Impairs host defense against encapsulated 
+organisms
+Reserved for chronic ITP and/or serious 
+bleeding complications
+$10,000–$20,000
+Thrombopoietin 
+agonists
+Oral (options also 
+come as IV, SQ)
+Noninvasive
+Outpatient treatment
+Associated with elevation in liver enzymes
+Require frequent monitoring
+Not curative, most patients require ongoing 
+administration
+1-­mo course of 25 mg/day, 
+$3,000
+GI, gastrointestinal; IV, intravenous; IVIG, intravenous immunoglobulin; SQ, subcutaneous; USD, US dollars.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+955
+CHAPTER 51  Bleeding and Thrombosis
+multimeric protein that functions as the bridge between platelets and 
+damaged vessel walls; therefore, deficient or dysfunctional VWF causes 
+delayed formation of the platelet plug (see Fig. 51.3). In addition, VWF 
+serves as a carrier protein for factor 8. A profound deficiency of VWF 
+is associated with low levels of factor 8, so that the patient with severe 
+VWD has the clinical manifestations of both VWD and hemophilia.
+The presentation of VWD is highly variable. Mucocutaneous bleed­
+ing or no symptoms are the most common findings. Because neona­
+tal VWF levels are often elevated after vaginal delivery, the onset of 
+clinical symptoms for mild and moderate VWD is usually during the 
+toddler stage or later. The only presenting complaint may be abnormal 
+preoperative screening coagulation studies. The laboratory diagnosis 
+of the disease is particularly challenging because there is no single test 
+that optimally measures VWF function.
+The PTT and bleeding time are only abnormal in about half of 
+patients VWD. A von Willebrand screen, including VWF antigen (to 
+measure total protein) and activity (to measure protein function) is rec­
+ommended to fully assess for VWD. The need for additional work-­up is 
+defined by the clinical clues, including the patient’s personal history of 
+bleeding, the family history, and the potential for surgery (Fig. 51.10).
+The diagnosis of VWD is further complicated by the observation 
+that VWF is a labile protein and levels can be increased by stress, med­
+ication, trauma, pregnancy, and difficult venipuncture. VWF levels are 
+also elevated following vaginal delivery in some infants with VWD. 
+This can be helpful in terms of ability to perform circumcision in some 
+males with potential VWD, but problematic in terms of making an 
+immediate diagnosis. It remains unclear whether there is a physiologi­
+cally different hemostatic level of VWF for different blood groups. Age 
+has been shown to influence VWF levels in adults, but this has not 
+been adequately investigated in children. Furthermore, there are mul­
+tiple variants of VWD; the clinician should perform repeated studies if 
+there is a high index of suspicion or abnormal positive screening tests.
+VWD can be classified as type 1 (classic disease with mild or mod­
+erate quantitative deficiency), type 2 (a dysproteinemia or qualitative 
+deficiency), or type 3 (severe disease: virtual absence of VWF [near-­
+complete quantitative deficiency] as well as low levels of factor 8). The 
+treatment of the disease is dependent on the type and the response 
+to 1-­deamino(8-­d-­arginine) vasopressin (DDAVP). DDAVP is a syn­
+thetic vasopressin analog that induces the release of VWF and fac­
+tor 8. Levels of these factors rise three-­ to fivefold after a dose of 0.3 
+WELL
+ILL
+Large platelets
+Normal hemoglobin
+Normal WBC
+Small platelets
+Congenital anomalies
+Elevated red cell MCV
+SYNTHESIS
+CONSUMPTION
+SYNTHESIS
+CONSUMPTION
+Immune
+ITP
+2° to SLE, HIV
+Drug-induced
+Maternal ITP
+NATP
+Non-immune
+  Type 2B VWD
+  Platelet-type, pseudo-VWD
+Aquired
+  Medications
+  Toxins
+  Radiation
+Decreased fibrinogen
+Large platelets
+Small platelets
+Hepatosplenomegaly
+Malignancy
+Storage disease
+Hemophagocytic
+  lymphohistiocytosis
+Microangiopathy
+Hemolytic uremic syndrome
+TTP
+DIC
+Necrotizing enterocolitis
+Respiratory distress
+Thrombosis
+UAC
+Sepsis
+Viral infection
+Sequestration
+Hemangioma
+Hypersplenism
+Congenital
+TAR
+Wiskott-Aldrich syndrome
+X-linked
+Amegakaryocytic
+Fanconi anemia
+Bernard-Soulier syndrome
+Fig. 51.9  Differential diagnosis of childhood thrombocytopenic syndromes. The syndromes are initially sep­
+arated by their clinical appearance. Clues leading to the diagnosis are presented in italics. The mechanisms 
+and common disorders leading to these findings are shown in the lower part of the figure. Disorders that 
+commonly affect neonates are listed in the shaded boxes. DIC, disseminated intravascular coagulation; ITP, 
+idiopathic immune thrombocytopenic purpura; MCV, mean corpuscular volume; NATP, neonatal alloimmune 
+thrombocytopenic purpura; SLE, systemic lupus erythematosus; TAR, thrombocytopenia–absent radius (syn­
+drome); TTP, thrombotic thrombocytopenic purpura; UAC, umbilical artery catheter; VWD, von Willebrand 
+disease; WBC, white blood cell; 2°, secondary.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+956
+SECTION 9  Hematologic Disorders
+μg/kg. For most cases of VWD, DDAVP is the treatment of choice. 
+A therapeutic trial with measurements of VWF before and both 1 
+hour and 4 hours after DDAVP administration should be performed 
+to document the efficacy of DDAVP before surgery. The late time­
+point is useful to identify clearance defects, such as type 1C, which 
+may demonstrate an initial response but lack the sustained response 
+critical for clinical use of DDAVP. Patients with rare variant forms 
+of VWD (type 2A, type 2B, and platelet type) may have no response 
+or an adverse response to DDAVP; therefore, while some screening 
+evaluations such as an activity-­to-­antigen ratio <0.6, for example, can 
+raise suspicion for type 2 disease, full studies to identify the subtype 
+are needed before a trial of DDAVP. These studies correlate functional 
+levels of VWF with the amount of protein measured antigenically 
+(VWF antigen), the multimeric size of the protein (VWF multimers), 
+and the aggregation response of the patient’s platelet-­rich plasma to 
+high and low concentrations of ristocetin or VWF binding to platelet 
+GPIb (VWF activity).
+Most patients with mild and moderate type 1 VWD have a satis­
+factory response to intranasal or intravenous DDAVP; hemostasis for 
+most surgical procedures can be provided with daily doses of DDAVP 
+on consecutive days, but use beyond 3 days is not recommended due 
+to limited effect after this time as endothelial stores of VWF and factor 
+8 will have been exhausted. For severely affected patients or those with 
+variant forms of the disease noted previously (type 2A, type 2B, platelet 
+type), treatment should be individualized. Some patients with type 2A 
+respond to DDAVP. Severely affected patients with VWD and those 
+with the 2B variant should receive a clotting factor concentrate con­
+taining a full complement of normal VWF multimers (Humate-­P and 
+Wilate are the currently approved products for children, and Vonvendi 
+[recombinant VWF concentrate] is approved for use in adults) in doses 
+similar to those outlined for factor 8 in Table 51.8.
+Platelet Function Defects
+For patients with mucocutaneous bleeding but a normal platelet 
+count and normal VWF studies, platelet aggregation studies should 
+be performed to evaluate for a primary or secondary platelet function 
+defect, especially if abnormality is detected on a screening platelet 
+function assay (PFA). Many medications may induce an acquired 
+abnormality of platelet number and/or function. A careful history 
+to elicit exposure to medications and to determine whether clinical 
+symptoms correlate with exposure to specific drugs is critical. Com­
+mon medications that alter platelet number or function are aspirin, 
+nonsteroidal antiinflammatory drugs, alcohol, penicillin in high 
+doses, and valproic acid.
+Most primary platelet function defects cause relatively mild muco­
+cutaneous bleeding symptoms (see Table 51.6). In these disorders, 
+there is most commonly an abnormality of the storage granules or 
+release mechanism within the platelet, causing delayed or diminished 
+response to agonists that induce platelet aggregation, such as collagen. 
+Platelet function defects, like most other hemostatic defects, are accen­
+tuated by medications that impair platelet function. In rare instances, 
+a patient demonstrates impressive petechiae and hematomas at birth 
+because of an absence of one of the essential platelet membrane recep­
+tors for the adhesive proteins VWF or fibrinogen. These disorders, 
+Glanzmann thrombasthenia (deficiency of glycoprotein αIIbβ3, 
+the fibrinogen receptor) and Bernard-­Soulier syndrome (deficiency 
+of glycoprotein Ib, the von Willebrand receptor), represent the most 
+severe types of platelet function defects. The platelet count is normal 
+Strong clinical suspicion 
+for VWD 
+CBC
+VWF:Ag
+VWF:RCo*
+FV3:C
+VWF multimers
+↓ VWF:Ag
+Normal ratio of
+VWF:RCo*/VWF:Ag
+Normal multimers
+↓ Ratio of
+VWF:RCo*/VWF:Ag
+(often with abnormal 
+multimers)
+2A VWD
+↓ VWF:PB
+Absent LD-RIPA
+2N VWD
+↓ VWF:F8B
+Type 1C VWD
+↑ Ratio of
+VWFpp/VWF:Ag
+Type 1 VWD
+Normal ratio of
+VWFpp/VWF:Ag
+2M VWD
+2B VWD
+↑ VWF:PB
+↑ LD-RIPA
+± thrombocytopenia
+↓ Ratio of
+FV3:C/VWF:Ag
+↓ Ratio of
+VWF:RCo*/VWF:Ag
+Normal multimers
+Type 3 VWD
+Absent VWF:Ag
+Absent VWF:RCo*
+Undetectable 
+multimers
+FV3:C 2-10 IU/dL
+Platelet-type VWD
+Normal or ↓ VWF:PB
+↑ LD-RIPA
+± thrombocytopenia
+Fig. 51.10  Desmopressin (DDAVP, 0.3 μg/kg intravenously) was administered to 40 patients with type 1 von 
+Willebrand disease (VWD). Plasma samples were obtained before infusion and at 1 and 4 hours after infusion. 
+The left-­hand panel illustrates the mean and 1–standard deviation range for these 40 individuals. The right-­
+hand panels illustrate the consistency of the response in these 40 individuals for both von Willebrand factor 
+antigen (VWF:Ag) and ristocetin cofactor (VWF:RCo) activity. LD-­RIPA, low-­dose ristocetin-­induced platelet 
+aggregation; PB, platelet binding. *Or VWF:GPIbM. (Courtesy J. P. Scott and R. R. Montgomery.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+957
+CHAPTER 51  Bleeding and Thrombosis
+in Glanzmann thrombasthenia thrombocytopenia, but patients with 
+Bernard-­Soulier syndrome usually have thrombocytopenia with 
+remarkably large platelets.
+Milder thrombocytopenia syndromes have been well characterized 
+due to advances in genetics; a defect in the myosin heavy chain 9 gene 
+(MYH9) causes congenital macrothrombocytopenia, associated in 
+some cases with deafness, ocular abnormalities, or nephritis. Congen­
+ital amegakaryocytic thrombocytopenia is caused by a defect in the 
+thrombopoietin receptor c-­Mpl, while X-­linked thrombocytopenia is 
+caused by a defect in GATA-­1. Patients with mild or moderate platelet 
+function defects often respond to DDAVP (though the exact mecha­
+nism of this response remains unknown), but more severe bleeding 
+may necessitate platelet transfusions.
+Chronic Thrombocytopenic Syndromes
+Patients with long-­standing thrombocytopenia usually present with 
+mucocutaneous bleeding. Mechanisms of the thrombocytopenia include 
+impaired marrow synthesis, sequestration, and increased destruction 
+(see Fig. 51.9). These can be acquired or congenital. The congenital 
+thrombocytopenic syndromes usually manifest at the time of birth or 
+early in infancy. These syndromes may be associated with congenital 
+anomalies (thrombocytopenia–absent radius syndrome and Fanconi 
+anemia) or be part of a complex hereditary syndrome (Wiskott-­Aldrich 
+syndrome with small platelets, eczema, and immunodeficiency) in addi­
+tion to thrombocytopenia. Small platelets are a frequent finding in many 
+of the syndromes associated with decreased platelet production. During 
+the physical examination of patients with suspected congenital thrombo­
+cytopenia, the clinician must search not only for the signs of bleeding but 
+also for subtle congenital anomalies, including abnormal growth param­
+eters, the presence of skin hyperpigmentation or café-­au-­lait spots, and 
+anomalies of the limbs, axial skeleton, and urinary tract.
+The acquired causes of thrombocytopenia resulting from decreased 
+production usually have an insidious onset of symptoms and are often 
+associated with other abnormalities in the blood count. The aplastic syn­
+dromes (congenital aplastic anemia and acquired aplastic anemia) are 
+associated with the gradual onset of thrombocytopenia, usually in asso­
+ciation with a falling granulocyte count and anemia. Platelets are small, 
+and the mean corpuscular volume is usually elevated.
+Infiltration of the marrow by malignant cells or storage cells inter­
+feres with normal thrombopoiesis and commonly results in thrombo­
+cytopenia. Common malignancies associated with thrombocytopenia 
+include acute lymphoblastic leukemia, lymphomas, Langerhans cell his­
+tiocytosis, and metastatic solid tumors (neuroblastoma). Abnormalities 
+of other blood elements, as well as findings of adenopathy, hepatospleno­
+megaly, or masses, are clues to the presence of an infiltrative disorder.
+Disorders of the vessel walls may present either acutely or chronically. 
+Vasculitic disorders often manifest with lesions of the skin and mucous 
+membranes that appear hemorrhagic and are associated with clinical 
+symptoms related to involvement of other organ systems (gastrointes­
+tinal, renal, central nervous system). Paradoxically, patients with these 
+disorders usually have normal coagulation studies and normal platelet 
+counts. Henoch-­Schönlein purpura is an example; it manifests with a 
+purpuric rash, including both petechiae and larger palpable purpuric 
+lesions of the lower extremities and buttocks, often found in association 
+with arthritis, cramping abdominal pain, and focal glomerulonephritis.
+Petechiae and ecchymoses are also common symptoms of disorders 
+of the collagen matrix. Patients with Ehlers-­Danlos syndrome have lax 
+joints, hyperelastic skin, and abnormal wound healing. These patients 
+frequently present with ecchymoses and rarely with petechiae. Bleed­
+ing time is usually prolonged, but other ex vivo hemostatic assays are 
+usually normal, and so the diagnosis is made on the basis of clinical 
+findings and, in some cases, genetic evaluation.
+DEEP BLEEDING
+Bleeding into the tissues of the muscles or joints is characteristic of 
+hemophilia. The presentation of the patient with hemophilia varies 
+with severity, age, and exposure to trauma. Only 30% of boys with 
+hemophilia bleed excessively at circumcision, and neonatal intracra­
+nial bleeding is rare despite the trauma of a vaginal delivery. After the 
+neonatal period, children with hemophilia usually present as toddlers 
+with either intramuscular hematomas or hemarthroses. In the toddler 
+stage, the most commonly affected joints are the ankles and elbows; 
+the knees, hips, and shoulders are affected later. The affected children, 
+who are usually boys due to the X-­linked genetic nature of this disease, 
+bruise easily and hematomas frequently develop over areas of com­
+mon trauma (the forehead, arms, and legs, especially pretibial). Other 
+common bleeding sites include the frenulum and sites of venipuncture. 
+Sites of life-­threatening bleeding include the central nervous system 
+(the most common cause of death from hemorrhage); the mouth and 
+throat, resulting in airway obstruction; and the retroperitoneal area or 
+gastrointestinal tract, leading to exsanguination.
+Red flags for the diagnosis of hemophilia are:
+ • Persistent bleeding after circumcision
+ • Hemarthrosis/intramuscular hematoma
+ • Bleeding frenulum
+The deficiency of factor 8 (hemophilia A) or factor 9 (hemophilia B) 
+causes bleeding because delayed thrombin formation results in a large, 
+friable clot. Often there is an initial hemostatic plug that breaks down 
+hours after the injury (secondary bleeding). Because factors 8 and 9 are 
+necessary for normal wound healing, patients with inadequate replace­
+ment or untreated hemophilia frequently have poorly healed wounds.
+Hemophilia A occurs in 1/10,000 live births and hemophilia B 
+in about 1/40,000. The PTT is prolonged and should correct on 1:1 
+mix with normal plasma. Specific assays for factors 8 and 9 should be 
+TABLE 51.8  Characteristics of Factors 
+8 and 9 and Respective Modes of Treatment 
+for Bleeding Episodes Caused by Hemophilia 
+A or B
+Factor 8
+Factor 9
+Yield
+1.5–2%/U/kg 
+infused
+0.7–1%/U/kg infused
+Half-­life
+8–12 hr
+18–24 hr
+Goal therapeutic level:
+Life and limb-­threatening, 
+acute hemarthrosis 
+treatment
+80–100%
+80–100%
+Minor bleeds (gingival 
+bleeding, epistaxis)
+40–50%
+30–50%
+Dose computation*
+[(Level desired—
+baseline level) × 
+weight (kg)] × 0.5
+[(Level desired—
+baseline level) × 
+weight (kg)] × 1.3
+Therapeutic alternatives
+Desmopressin†
+Plasma-­derived 
+factor 8 
+concentrate
+Plasma-­derived factor 
+9 concentrate
+Prothrombin complex 
+concentrate‡
+*Assumes use of a standard half-­life recombinant factor replacement 
+product.
+†After adequate response has been demonstrated.
+‡Repeat doses have been associated with increased risk for thrombosis.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+958
+SECTION 9  Hematologic Disorders
+performed to identify the deficient factor. Severity is determined by 
+the level of the deficient clotting factor. Severe hemophilia is defined 
+by the World Health Organization as <1% factor activity, moderate as 
+1–5% activity, and mild as >5% activity. These factor levels correlate 
+approximately with clinical symptoms: Patients with severe deficiency 
+bleed spontaneously; patients with moderate deficiency bleed with 
+minor trauma; and patients with mild deficiency bleed only after sig­
+nificant trauma, and their condition may go undiagnosed for many 
+years. Because hemophilia A and B are transmitted as X-­linked traits, 
+the family history may be informative if there is a history of male 
+maternal relatives with a bleeding disorder. Approximately 33% of 
+affected patients have new gene variants and therefore have a negative 
+family history. Bleeding complications have occurred in female carri­
+ers, especially at surgery; thus, all obligate carriers should have factor 
+levels measured to determine if perioperative hemostasis management 
+is indicated.
+Treatment of hemophilia requires prompt replacement or correc­
+tion of the deficient factor with the safest available material. Table 51.8 
+provides dosing information and therapeutic alternatives for factors 8 
+and 9 deficiency. Treatment of bleeding episodes is first aimed at stop­
+ping the hemorrhage, and then should be continued until the wound 
+has healed. Recombinant factor 8 or 9 concentrate is a commonly used 
+treatment product, with purified plasma-­derived factor as an alterna­
+tive choice with some evidence that suggests a lower risk for inhibitor 
+formation in previously untreated patients with this latter approach. 
+Extended half-­life factor products have been developed and may 
+improve quality of life by reducing the frequency of infusions but still 
+allow for peak levels that may be protective against bleeding during 
+sports or other activities. A shift was seen with the approval of emi­
+cizumab, a subcutaneously administered bispecific antibody therapy 
+that can be administered as rarely as monthly and has been recently 
+approved for use in children and adults with hemophilia A with and 
+without inhibitors. This product provides a steady-­state level of a fac­
+tor 8 mimetic that binds factors 9a and 10 similarly to the tenase com­
+plex in the intrinsic system. For patients with mild hemophilia A who 
+respond to DDAVP with adequate levels, DDAVP is the treatment of 
+choice. Prophylaxis with factor concentrates has revolutionized the 
+care of children with hemophilia by preventing chronic arthropathy 
+and muscular atrophy. Patients with hemophilia should be monitored 
+at comprehensive treatment centers that are experienced in the medi­
+cal, social, physical, and financial impact of hemophilia care.
+The common complications of hemophilia treatment can be divided 
+into those of immunologic origin and those caused by infectious 
+organisms. In 15–25% of patients with hemophilia A and a smaller 
+percentage of patients with hemophilia B, inhibitors to clotting fac­
+tor replacement material develop. These inhibitors, usually IgG anti­
+bodies, lead to rapid inactivation and clearance of infused replacement 
+material. The presence of an inhibitor should be suspected and tested 
+for in any patient with hemophilia who does not respond appropri­
+ately to factor replacement. The treatment of patients with inhibitors is 
+problematic and should be relegated to experts in hemophilia care. The 
+management of acute bleeding episodes may require administration of 
+an activated clotting factor concentrate to “bypass” the inhibitor.
+Infectious complications of hemophilia therapy have been cur­
+tailed by donor screening, sophisticated viral inactivation processes, 
+and chemical purification techniques used in the preparation of 
+plasma-­derived replacement material. Recombinant factor concen­
+trates represent the culmination of these efforts. Older patients treated 
+before 1983 with concentrates were exposed to HIV, hepatitis C, and 
+sometimes hepatitis B. Most patients exposed to HIV became infected 
+and manifested the spectrum of signs and symptoms of HIV infec­
+tion. Viral inactivation techniques in conjunction with intense donor 
+screening for hepatitis C antibody have greatly decreased the risk for 
+hepatitis C exposure. Nevertheless, chronic non-­A, non-­B hepatitis is 
+a common finding in older patients with hemophilia who were treated 
+with plasma-­derived factor concentrates.
+The need for intravenous access to provide factor infusions creates 
+another complication with the use of indwelling central venous cath­
+eters to facilitate factor delivery to young children with poor venous 
+access. While some patients can be treated with less frequent dosing 
+through peripheral veins, some patients undergo surgery for place­
+ment of a central venous catheter (CVC). Although these catheters 
+undoubtedly increase adherence to prophylactic treatment, they can 
+serve as a nidus for infection or thrombosis or lead to complications 
+due to surgery required for insertion or removal. The complicated 
+decision-­making around CVC use is one factor driving the consider­
+ation of emicizumab, which does not require IV access.
+A new frontier in hemophilia therapy is on the horizon with the 
+development of gene therapy and gene-­editing techniques, of which 
+several are currently in phase II and III clinical trials. Long-­term real-­
+world safety and efficacy have yet to be shown definitively, primarily 
+due to the relatively short duration of the trials to date, but there is real 
+potential for a possible “cure” for hemophilia with this approach.
+Surgical Bleeding
+Aside from technical causes, most surgical bleeding results from a fail­
+ure to recognize a pre-­existing coagulopathy. VWD and primary or 
+secondary platelet dysfunction are the most common causes of bleed­
+ing after ear, nose, and throat surgery. Significant hemorrhaging after 
+general surgery is often a manifestation of previously undiagnosed 
+mild or moderate hemophilia or vitamin K deficiency.
+When elective surgery is planned, the decision to perform preopera­
+tive hemostatic screening is influenced by the patient’s age (and therefore 
+previous exposure to trauma), personal and family histories of bleeding, 
+and type of surgery. Certain surgeries, such as tonsillectomy, scoliosis 
+repair, and central nervous system surgery, provide major challenges 
+to hemostasis, having a high frequency of bleeding complications. In 
+contrast, most general surgical procedures, such as hernia repair, rarely 
+involve clinical bleeding. The diagnostic yield of preoperative studies 
+before tonsillectomy and adenoidectomy remains controversial.
+GENERALIZED BLEEDING
+Generalized bleeding is a manifestation of a major disorder of hemo­
+stasis, usually caused by a deficiency of multiple factors in association 
+with deficient or dysfunctional platelets. Generalized bleeding occurs 
+most commonly in the context of DIC in seriously ill patients.
+DIC is a generalized consumption of clotting factors, anticoagulant 
+proteins, and platelets triggered by a life-­threatening illness and usually 
+accompanied by ischemia, hypoxia, and shock (Table 51.9). DIC may 
+be either a hemorrhagic or a thrombotic disorder, or both, as the clini­
+cal manifestations of this generalized coagulopathy are highly variable. 
+Laboratory studies usually demonstrate a prolonged PT, decreased 
+fibrinogen level, and decreased platelet level (these are the most reli­
+able indicators of DIC), in addition to elevated D-­dimer levels and a 
+prolonged PTT.
+Several mechanisms can trigger acute DIC, including widespread 
+endothelial damage induced directly or indirectly by infectious organ­
+isms and release of procoagulant material after trauma. Virtually any 
+life-­threatening illness or injury can trigger DIC. In acute DIC, acti­
+vation of the clotting mechanism leads to consumption of clotting fac­
+tors (1, 2, 5, 8), anticoagulant proteins (PC, PS, AT, plasminogen), and 
+platelets. In the syndrome known as purpura fulminans, microvascular 
+thromboses develop in the skin, causing painful purpuric lesions that 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+959
+CHAPTER 51  Bleeding and Thrombosis
+progress to localized necrotic lesions. Table 51.10 presents laboratory 
+findings in DIC in comparison with those in other acquired coagu­
+lopathies that potentially could be confused with DIC. Because DIC is 
+virtually always seen in a child with a life-­threatening illness, the clini­
+cal diagnosis is usually made on the basis of the child’s clinical appear­
+ance in association with laboratory abnormalities. Clotting factor and 
+anticoagulant protein levels are confirmatory but seldom necessary 
+to reach a diagnosis of DIC. The only diagnosis difficult to differen­
+tiate from DIC in the laboratory is that of severe hepatic disease with 
+impending liver failure. The patient with severe liver disease is mark­
+edly jaundiced and the thrombocytopenia is relatively mild.
+The treatment of DIC focuses on the underlying cause of the DIC, 
+on the altered homeostasis that sustains the coagulopathy, and on the 
+bleeding or thrombotic complications that ensue. Shock itself plays 
+a critical role in DIC because shock reduces the reticuloendothelial 
+clearance of activated clotting factors and complexes. Reduced hepatic 
+blood flow causes decreased synthesis of depleted clotting and antico­
+agulant proteins.
+To summarize the treatment of DIC:
+	1.	 Treat the initiating and propagating events.
+	2.	 Optimize cardiorespiratory status by improving perfusion and cor­
+recting acidosis.
+TABLE 51.9  Causes of Disseminated Intravascular Coagulation
+Infection
+Meningococcemia (purpura fulminans)
+Other gram-­negative bacteria (Haemophilus species, Salmonella species, 
+Escherichia coli)
+Gram-­positive bacteria (group B streptococci, staphylococci)
+Rickettsiae (Rocky Mountain spotted fever)
+Virus (SARS-­CoV-­2, cytomegalovirus, herpes, hemorrhagic fevers)
+Malaria
+Fungus
+Tissue Injury
+Central nervous system trauma (massive head injury)
+Multiple fractures with fat emboli
+Crush injury
+Profound shock or asphyxia
+Hypothermia or hyperthermia
+Massive burns
+Malignancy
+Acute promyelocytic leukemia
+Acute monoblastic or myelocytic leukemia
+Widespread malignancies (neuroblastoma)
+Venom or Toxin
+Snake bites
+Spider bites, bee stings
+Scorpion
+Microangiopathic Disorders
+“Severe” thrombotic thrombocytopenic purpura or hemolytic uremic syndrome
+Giant hemangioma (Kasabach-­Merritt syndrome)
+Gastrointestinal Disorders
+Fulminant hepatitis
+Severe inflammatory bowel disease
+Hereditary Thrombotic Disorders
+Antithrombin deficiency
+Homozygous protein C deficiency
+Neonatal Disorders
+Maternal toxemia
+Group B streptococcal infections
+Abruptio placentae
+Severe respiratory distress syndrome
+Necrotizing enterocolitis
+Congenital viral disease (cytomegalovirus, herpes)
+Erythroblastosis fetalis
+Miscellaneous Disorders
+Severe acute graft rejection
+Acute hemolytic transfusion reaction
+Severe collagen vascular disease
+Kawasaki disease
+Heparin-­induced thrombosis
+Infusion of “activated” prothrombin complex concentrates
+Hyperpyrexia/encephalopathy, hemorrhagic shock syndrome
+SARS-­CoV-­2, several acute respiratory syndrome–­coronavirus-­19.
+Modified from Montgomery RR, Scott JP. Hemostasis: disease of the fluid phase. In: Nathan DG, Oski FA, eds. Hematology of Infancy and 
+Childhood. 4th ed. Philadelphia: WB Saunders; 1993;2:1639.
+TABLE 51.10  Differential Diagnosis of Coagulopathies That Can Be Confused with 
+Disseminated Intravascular Coagulation
+Prothrombin 
+Time
+Partial Thromboplastin 
+Time
+Fibrinogen
+Platelets
+Clinical Keys
+DIC
+Increased
+Increased
+Decreased
+Decreased
+Shock
+Liver failure
+Increased
+Increased
+Decreased
+Normal or decreased
+Jaundice
+Vitamin K deficiency
+Increased
+Increased
+Normal
+Normal
+Malabsorption, GI or liver disease
+Sepsis without shock
+Increased
+Increased
+Normal
+Normal
+Fever
+DIC, disseminated intravascular coagulation; GI, gastrointestinal.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+960
+SECTION 9  Hematologic Disorders
+	3.	 Replace deficient platelets, clotting factors, and anticoagulant pro­
+teins (Table 51.11) if needed. Specific indications for replacement 
+are variable and depend on the patient’s clinical condition and 
+severity of bleeding.
+The following are rough guidelines for treatment:
+ • Fresh-­frozen plasma, 10–15 mL/kg every 6–12 hours, to provide 
+clotting factors in physiologic balance with anticoagulant proteins
+ • Platelets, ½–1 single donor apheresis unit for platelet count 
+<50,000/mm3
+ • Cryoprecipitate, 1 bag/5 kg for fibrinogen level <100 mg/dL
+ • Prothrombin complex concentrate (indicated for urgent reversal of 
+acquired coagulation factor defect from vitamin K antagonist ther­
+apy in adults), dosing based on pretreatment international normal­
+ized ratio (INR)
+ • Anticoagulant therapy for major vessel thrombosis
+The efficacy of anticoagulant therapy in DIC has not been proved in 
+controlled prospective studies. Heparin has been used for the treatment 
+of purpura fulminans, acute promyelocytic leukemia, and thromboses 
+that develop in conjunction with DIC. Most patients with DIC have a 
+coagulopathy that consumes procoagulant proteins and causes clinical 
+oozing or bleeding; in a small percentage of patients, however, throm­
+bosis develops. In these patients, anticoagulant therapy may decrease 
+morbidity and should be considered for administration in a manner 
+similar to that for those patients who have major vascular thrombosis 
+(Table 51.12), though the risk assessment evaluations as well as type 
+and dose of anticoagulant for thromboprophylaxis in children is cur­
+rently an area of intense study. Deficient clotting factors and platelets 
+should be transfused to prevent further development of thrombosis or 
+bleeding during anticoagulation.
+Neonatal Purpura Fulminans
+The differential diagnosis of a neonate who presents with multiple 
+purpuric lesions over the buttocks, trunk, extremities, and face (nose, 
+ears) that change from dark red to purple and black over a few min­
+utes in association with abnormal neurologic findings or an abdominal 
+mass includes sepsis with DIC and a generalized viral infection. A key 
+finding in such a neonate for a homozygous PC deficiency is the pres­
+ence of painful petechiae and purpura (purpura fulminans). After viral 
+and bacterial cultures, diagnostic studies should include a CBC and 
+coagulation screening for DIC, as well as measurements of PC, PS, AT, 
+and plasminogen.
+To confirm this diagnosis, the clinician must differentiate DIC from 
+congenital PC deficiency. DIC is characterized by the consumption of 
+clotting factors, anticoagulant proteins, and platelets. Although PC lev­
+els fall in DIC, patients with congenital PC deficiency have strikingly 
+low levels of PC. Anticoagulant proteins are routinely consumed in sit­
+uations of widespread activation of the clotting mechanism. Therefore, 
+mildly depressed levels of PS, AT, and plasminogen would be expected 
+when there is generalized intravascular coagulation. In congenital PC 
+deficiency, the PC level is strikingly lower than that of the other anti­
+coagulant proteins, which increases the likelihood that the deficiency 
+of PC represents the primary cause of the coagulopathy. To determine 
+whether the deficiency is hereditary, the next step is to obtain blood 
+samples from the parents to measure levels of the deficient protein or 
+proteins. In homozygous deficiencies, the levels of both parents should 
+be reduced. Deficiency of PC, PS, or AT usually manifests as venous 
+thromboembolic disease in adulthood and is inherited as a codominant 
+trait. Congenital severe, symptomatic PC deficiency is usually inher­
+ited in an autosomal recessive manner from asymptomatic parents.
+Therapy must be instituted promptly to replace the deficient antico­
+agulant protein with fresh frozen plasma. Fresh frozen plasma contains 
+all of the clotting factors and anticoagulant proteins in an unconcen­
+trated form. PC has a short half-­life and may need to be infused every 
+6–12 hours to maintain measurable levels. This, unfortunately, may 
+lead to problems with fluid and protein overload if repeated doses of 
+plasma are necessary. PC concentrate is now available as specific ther­
+apy for patients with PC deficiency. The patient should also undergo 
+anticoagulation with heparin to limit further thromboses. A striking 
+improvement after administration of PC, either as plasma or as con­
+centrate, is strong evidence of the diagnosis. Warfarin therapy has been 
+effective in managing such patients on a chronic basis.
+Other Causes of Generalized Bleeding
+A coagulopathy is a common complication of severe liver disease with 
+synthetic dysfunction, resulting from deficient production of mul­
+tiple clotting factors and anticoagulant proteins in association with 
+increased D-­dimer formed as a result of hyperfibrinolysis. This may 
+contribute to inhibition of platelet function.
+TABLE 51.11  Commonly Used Hemostatic Agents*
+Component
+Contents
+Usual Dose
+Comments/Disadvantages
+FFP (unit)
+1 U/mL of each clotting factor
+10–15 mL/kg
+Large volume
+Infectious risk
+Cryoprecipitate (1 bag)
+100 units factor 8/bag
+150 mg fibrinogen/bag
+Factor 13, fibronectin
+0.2 bag/kg
+Infectious risk
+Platelets (unit)
+5.0–7.0 × 1010 platelets in 30–60 mL of plasma
+½–1 single donor apheresis unit
+Infectious risk
+Factor concentrates (unit)
+Units as labeled
+Factor 8, 20–50 U/kg
+Factor 9, 30–130 U/kg
+Recombinant
+Desmopressin
+4 μg/mL
+0.3 μg/kg/dose
+Increases factor 8 and VWF
+Improves platelet function
+Also used in uremia, liver disease
+Risk for hyponatremia (rare if fluid 
+restriction observed)
+AT concentrate
+Units as labeled
+(Desired AT − baseline AT) × weight 
+(kg)/1.4
+Plasma derived or recombinant 
+available
+*Key points to transfusion: (1) Determine deficiency state. (2) Use appropriate dose and material. (3) Measure response 1–2 hr and 24 hr after transfusion.
+AT, antithrombin; DDAVP, 1-­deamino(8-­d-­arginine) desmopressin; FFP, fresh frozen plasma; VWF, von Willebrand factor.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+961
+CHAPTER 51  Bleeding and Thrombosis
+Uremia results in a diffuse bleeding diathesis, with mucosal bleeding 
+(epistaxis, gastrointestinal bleeding) as a major manifestation. The major 
+underlying mechanism in uremic bleeding appears to be increased nitric 
+oxide generation, leading to decreased platelet function. Many patients 
+with bleeding caused by uremia or liver disease respond to DDAVP.
+Vitamin K deficiency manifests as generalized bleeding into the 
+skin, gastrointestinal tract, and central nervous system. Children at 
+highest risk are breast-­fed neonates, malnourished individuals, those 
+receiving broad-­spectrum antibiotics, those with cholestatic liver dis­
+ease and subsequent vitamin K malabsorption, and those who have 
+ingested rat poison (warfarin). The treatment of patients with vitamin 
+K deficiency is parenteral vitamin K. The response is usually rapid, but 
+in emergency situations, transfusion of fresh frozen plasma corrects 
+the coagulopathy faster. Differentiation of some of these syndromes 
+from DIC is presented in Table 51.10.
+THROMBOSIS
+Thromboembolic disease in pediatrics has a bimodal age distribution. 
+Venous and arterial thrombi are common in newborns, especially in 
+premature neonates, because of the combination of low levels of anti­
+coagulant proteins, decreased blood flow, elevated blood viscosity 
+because of high hematocrit, and, in particular, the placement of intra­
+vascular catheters for monitoring and nutrition. The second peak of 
+thromboembolic disease, usually venous in character, is in adolescence, 
+when patients with primary deficiencies of anticoagulant proteins typi­
+cally present and when secondary disorders (e.g., vasculitis, pregnancy, 
+malignancy, surgery, major trauma, inflammatory bowel disease, and 
+infection) induce a higher frequency of venous thrombosis.
+Venous Thromboembolic Disease
+Diagnostic Approach
+Venous thromboembolic disease classically manifests with a warm, 
+swollen, tender extremity or affected organ. The differential diagnosis 
+in such cases includes trauma, infection, stasis without thrombosis, 
+lymphedema, edema, and neoplasm. In children and adolescents, 
+thrombi may develop within major internal organs with distinctive 
+clinical manifestations, including sagittal sinus thrombosis with resul­
+tant increased intracranial pressure; hepatic vein thrombosis with 
+the Budd-­Chiari syndrome; portal vein thrombosis associated with 
+splenomegaly and varices; and renal vein thrombosis with a resul­
+tant abdominal mass, hematuria, and proteinuria. Long-­term central 
+venous access is associated with a significant risk for asymptomatic 
+venous thrombosis. Pulmonary emboli may manifest as “atypical” 
+pneumonia resulting in chest pain, tachycardia, tachypnea, short­
+ness of breath, and/or hypoxemia in the absence of fever. The hypox­
+emia may occur in the presence of minimal findings on routine chest 
+radiographs.
+The clinician should obtain a careful history for antecedent trauma, 
+infection, or other predisposing causes of thromboembolic disease 
+(Table 51.13). The abdomen and extremities should be carefully exam­
+ined for mass lesions leading to venous stasis. The presence of a bruit or 
+hemihypertrophy of the affected limb is a clue to an arteriovenous mal­
+formation. In addition, masses within the bone, abdominal tumors, and 
+lymphatic obstruction should be considered. Initial laboratory studies 
+should include a CBC, platelet count, and evaluation for DIC, as well 
+as cultures of the blood if the patient is febrile. During the process of 
+a localized thrombosis, there may be consumption of clotting factors, 
+but rarely is the consumption significant enough in older children and 
+adults to induce abnormal results on routine coagulation screening 
+tests (platelets, PT, PTT, fibrinogen). Tests for fibrin breakdown (D-­di­
+mer) may be positive. Unfortunately, these tests are nonspecific and not 
+necessarily diagnostic of vascular thrombosis. Studies in adults have 
+indicated that lack of elevated D-­dimer has a strong negative predic­
+tive value for pulmonary embolus, especially when combined with a 
+clinical algorithm for risk assignment such as the Wells criteria (Table 
+51.14). The diagnostic approach to a patient with suspected venous 
+thrombosis is presented in Fig. 51.11.
+TABLE 51.12  Comparison of Antithrombotic Agents
+Fibrinolytic Therapy
+Standard Heparin
+Low-­Molecular-­Weight 
+Heparin
+Warfarin
+Direct Oral 
+Anticoagulants 
+(DOACs)
+Indication
+Recent onset of life-­ or limb-­
+threatening thrombus
+Thrombus of 
+indeterminate age
+Thrombus of indeterminate age
+Long-­term oral 
+anticoagulation
+Long-­term oral 
+anticoagulation
+Dose
+rTPA, 0.1–0.2 mg/kg/hr IV
+50–75 U/kg bolus, 
+then 20–25 U/kg/hr 
+continuous IV infusion
+1–1.25 mg/kg SQ every 12 hr 
+(1.5 mg/kg if <2 mo of age)
+0.1–0.2 mg/kg/day PO
+Varies depending on 
+medication
+Adjustment
+Increase dose for lack of 
+clinical effect
+Adjust dose by 5–10% 
+every 6 hr until desired 
+level or PTT achieved
+Check level after second or third 
+dose
+No further monitoring required 
+once in goal range
+Daily until stable INR
+None indicated
+Course
+1–72 hr
+5–14 days
+5 days–mo
+Weeks to months to years Weeks to months to years
+Monitor by:
+“Lytic state” with D-­dimer
+PTT, 2–2.5× control 
+value
+Low-­molecular-­weight heparin 
+level, 0.5–1.0
+INR, 2.0–3.0
+Mechanism
+Activation of plasminogen to 
+plasmin
+Accelerates AT-­dependent 
+inactivation of factors 2a 
+(thrombin) and 10
+Accelerates AT-­dependent 
+inactivation of factor 10
+Impairs vitamin 
+K–dependent 
+carboxylation of factors 
+2, 7, 9, 10
+Risk for 
+bleeding
+Medium/high
+Low
+Low
+Low
+AT, antithrombin; INR, international normalized ratio; IV, intravenously; PO, per os (orally); PTT, partial thromboplastin time; rTPA, recombinant tissue-­
+type plasminogen activator; SQ, subcutaneous.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+962
+SECTION 9  Hematologic Disorders
+Specific Diagnostic Studies
+Compression ultrasonography is generally used to assess for the pres­
+ence of a lower extremity thrombosis and many episodes of upper 
+extremity thrombosis. While ultrasound with Doppler flow studies to 
+look at flow of red blood cells through arteries or veins may be suffi­
+cient for diagnosis of renal or hepatic thrombosis as well, consideration 
+should be given to other modalities, including CT scan, echocardio­
+gram, and venography. MRI and magnetic resonance venography can 
+be useful in diagnosis of venous dural sinus thrombosis or evaluation 
+of proximal extent of a lower extremity into the large vessels of the 
+pelvis and/or abdomen.
+TABLE 51.13  Hypercoagulable States/Risk 
+Factors for Thrombosis
+Primary Disorders (Congenital)
+Factor 5 Leiden (activated protein C resistance)
+Prothrombin 20210 variant
+Protein C deficiency
+Protein S deficiency
+Antithrombin deficiency
+Plasminogen deficiencies
+Homocystinuria
+Dysfibrinogenemia
+Elevated plasminogen activator inhibitor (PAI-­1)
+Elevated factor 8
+Absence of inferior vena cava
+Secondary Disorders (Acquired)
+Coagulopathies
+Lupus anticoagulant (antiphospholipid syndrome)
+Nephrotic syndrome
+Estrogen-­containing contraceptives
+Malignancy
+Therapy with activated prothrombin complex concentrates
+Pregnancy
+Autoimmune disorders
+Other medications such as tamoxifen, thalidomide, asparaginase, 
+corticosteroids
+HIV/AIDS
+Platelet Disorders
+Diabetes mellitus
+Myeloproliferative disorders
+Thrombocythemia
+Paroxysmal nocturnal hemoglobinuria
+Heparin or vaccine-­induced thrombocytopenia
+Flow and Vessel Disorders
+Polycythemia-­hyperviscosity
+Marfan syndrome
+Vasculitis
+COVID-­19 including MIS-C
+Vessel grafts/prosthetic valves
+Vascular stasis
+Trauma
+Indwelling catheters
+Surgery
+Immobilization
+Iliac vein compression syndrome (May-­Thurner syndrome)
+Thoracic outlet obstruction (Paget-­Schroetter syndrome)
+MIS-C, multisystem inflammatory syndrome in children.
+Modified from Schafer A. The hypercoagulable states. Ann Intern 
+Med. 1985;102:814; and from Scott JP, Flood V, Raffini L. Hemorrhagic 
+and thrombotic diseases. In: Kliegman RM, St. Geme JW III, Blum 
+NJ, et al., eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia: 
+Elsevier; 2020:2604.
+TABLE 51.14  Diagnosis of Pulmonary 
+Embolism: The Wells Criteria
+Wells Criteria
+Score
+Clinical signs and symptoms of deep vein thrombosis (DVT)
+3
+Alternative diagnosis less likely
+3
+Heart rate >100
+1.5
+Immobilization for 3 or more consecutive days in the previous week
+1.5
+Definite history of pulmonary embolism or DVT
+1.5
+Hemoptysis
+1
+Recent history of malignancy
+1
+A Wells score of 0–1, low risk; 2–6, moderate risk; >6, high risk.
+From Meaney JFM, Doran SP. Current status of imaging for 
+interventional procedures. In: Adam A, Dixon AK, Gillard JH, et al., 
+eds. Grainger and Allison’s Diagnostic Radiology. 7th ed. Philadelphia: 
+Elsevier; 2056: 2021.
+STOP
+Suspect Venous Thrombosis
+Negative D-dimer
+Low index of suspicion
+Normal ultrasound
+Abnormal
+Yes
+Helical CT scan or
+V-Q scan
+1. Begin treatment
+2. Chest pain, hypoxia, tachycardia, 
+pulmonary symptoms
+3. Work-up for hypercoagulability 
+PT, PTT, fibrinogen, platelet count,
+D-dimer, ultrasound, consider 
+hypercoagulable states/risk factors 
+(see Table 51.13)
+Fig. 51.11  Flow diagram for the approach to a patient with venous 
+thromboembolic disease. The international normalized ratio (INR) cor­
+rects the PT for institutional differences in reagents and instruments. 
+When a patient is taking a stable warfarin dosage, the INR is calculated 
+by a ratio of the patient’s PT to the control PT raised to a correction 
+factor (the International Sensitivity Index) that allows for comparison 
+of different PT reagents and machines in different laboratories. For all 
+patients receiving chronic warfarin therapy, their anticoagulant therapy 
+should be measured as the INR. The INR level should be maintained 
+between 2.0 and 3.0 for effective, safe anticoagulant therapy. An INR 
+exceeding 3.0 has been associated with increased risk for bleeding 
+without improved therapeutic effects for patients with venous throm­
+boembolic disease. PT, prothrombin time; PTT, partial thromboplastin 
+time; V-­Q, ventilation-­perfusion.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+963
+CHAPTER 51  Bleeding and Thrombosis
+If pulmonary embolism is suspected, a spiral CT scan is the diag­
+nostic study of choice. CT scan is indicated in any patient with a venous 
+thrombosis and cardiac and/or respiratory symptoms, including tachy­
+cardia, tachypnea, and hypoxia. Pulmonary embolism may be present 
+without significant respiratory distress and should be considered in 
+patients with chest pain or hemoptysis, particularly following surgery 
+and immobilization.
+Thrombophilia Testing
+In children, the diagnosis of venous thrombosis in the setting of risk 
+factors, such as surgery, immobilization, or catheter placement, does 
+not generally warrant any additional work-­up. Adult guidelines spe­
+cifically recommend against thrombophilia testing in thrombosis in 
+the setting of major transient risk factors. An unprovoked, or recurrent, 
+thrombosis merits work-­up for a congenital or acquired thrombophilic 
+condition. Some clinicians may also pursue this work-­up for thrombi 
+in unusual anatomic sites, with extremely large thrombus burden, or in 
+patients with family history of thrombosis.
+The most severe inherited thrombophilias are deficiencies of anti­
+coagulants PC, PS, and AT. Although rare, these are associated with 
+a higher relative risk for thrombosis than the more common throm­
+bophilias. Levels of PC, AT, and plasminogen may be depleted/con­
+sumed after development of deep vein thrombosis, pulmonary emboli, 
+or both; low levels at the time of thrombosis do not necessarily imply a 
+congenital deficiency. If low levels are found, consideration should be 
+given to performing studies on the parents to establish the inheritance 
+of the deficiency because all these are inherited as autosomal codom­
+inant traits. Alternatively, or in addition, the patient’s levels should be 
+re-­evaluated several months after the acute event; the clinician should 
+remember that warfarin reduces functional levels of all the vitamin K–
+dependent proteins, including PC and PS.
+Less severe, but more common, inherited thrombophilias include 
+factor 5 Leiden and the prothrombin gene variant. These occur in up 
+to 5% of the U.S. population and have a lower relative risk for thrombo­
+sis. Testing of asymptomatic family members is not generally required, 
+although affected females should probably be counseled to avoid estrogen-­
+containing oral contraceptives due to a higher risk for thrombosis.
+The lupus anticoagulant (LA) is one of several antiphospholipid 
+antibodies (others including anticardiolipin and β-­2-­glycoprotein-­Ib 
+antibodies) that acts as an acquired thrombophilia. This causes a pro­
+longed PTT that fails to correct on mixing with normal plasma because 
+of the presence of an antibody that reacts with the phospholipid reagent 
+in the PTT. The lupus anticoagulant does not bind in vivo to the platelet 
+membrane; thus, the whole blood clotting time is normal. Paradox­
+ically (considering the name), the LA is associated with venous and 
+arterial thromboembolic disease and spontaneous abortions but is usu­
+ally not a cause of clinical bleeding. If these study findings are negative, 
+the thrombin time should be measured or a comparison of functional 
+and antigenic levels of fibrinogen should be done to detect a dysfibrin­
+ogenemia. The presence of an LA occurs frequently in patients with 
+SLE, but it is by no means exclusive to this disease. Indeed, approxi­
+mately 5% of healthy children may develop transient, self-­resolving LA 
+after infection, trauma, or surgery.
+Arterial Thrombosis
+Arterial thrombi are rare in older children and adolescents and are 
+frequently a manifestation of a systemic disorder resulting in vascular 
+damage or embolic disease such as sickle cell anemia, Kawasaki dis­
+ease, bacterial endocarditis, vasculitis syndromes, homocystinuria, 
+or cocaine use. The presence of an intraarterial catheter is an obvi­
+ous nidus for thrombosis. Neck trauma that is often mild can cause 
+carotid or vertebral artery dissection or aneurysms. These dissections 
+or aneurysms can result in emboli to the brain. A history of neck 
+trauma should be sought in older children who present with arterial 
+stroke.
+ANTICOAGULANT THERAPY
+Parenteral Therapy
+Unfractionated Heparin
+Unfractionated heparin (UFH) is the most commonly used agent for 
+the initial treatment of venous or arterial thrombosis and is adminis­
+tered either intravenously (IV) or subcutaneously. Heparin functions 
+as an anticoagulant by binding to AT and accelerating the AT-­
+dependent inactivation of thrombin and factor 10a, as well as of fac­
+tors 9a and 11a. Although most studies of heparin pharmacokinetics 
+have been performed in adults, there are important differences in the 
+pharmacologic features of heparin in children and especially neo­
+nates. Thirty-­nine percent of children achieve a prolongation of the 
+PTT within the target range after a bolus dose of 50 U/kg. Children 
+younger than 1 year require an average of 28 U/kg/hr to maintain a 
+therapeutic level of the PTT. In contrast, most children older than 1 
+year are satisfactorily maintained on 20 U/kg/hr of heparin. A rep­
+resentative treatment protocol may begin with an initial IV bolus of 
+50–75 U/kg of heparin, with 20–25 U/kg/hr for a minimum of 5 days 
+to maintain a PTT of approximately 2–2.5 times the control value. 
+Reports in adults suggest that the heparin level (UFH-­calibrated 
+anti-­Xa assay) is superior for monitoring heparin therapy compared 
+to the PTT. The heparin level or PTT should be checked every 4–6 
+hours after a dose change until a satisfactory level is attained, and 
+then at least every 6 hours after that. Studies have documented an 
+increased risk for progressive or recurrent thrombi in patients who 
+fail to achieve adequate anticoagulant levels promptly. Sometimes 
+this delay can be seen in patients with concomitant bleeding con­
+cerns that preclude the use of an up-­front bolus, or those with sig­
+nificant clinical inflammation that may increase levels of circulating 
+heparin-­binding proteins. Anti-­Xa levels are especially useful in pre­
+mature and full-­term newborns who may have a “normal” prolonged 
+PTT. A therapeutic range of 0.3–0.7 U/dL has been demonstrated to 
+be safe and effective.
+Low-­molecular-­weight heparin (LMWH) provides an alternative 
+to standard UFH therapy. Pediatric experience with LMWH given 
+subcutaneously is similar to that in adults. LMWH given to infants 
+and children with thromboses appears to be as effective as standard 
+heparin, with a similar or reduced risk for bleeding. LMWH requires 
+much less laboratory monitoring. Reasonable age-­based starting 
+doses of the LMWH enoxaparin in pediatrics are approximately 1.75 
+mg/kg (for patients younger than 1 month), 1.64 mg/kg (1 month to 
+1 year), 1.5 mg/kg (1 to 6 years), and 1.0 mg/kg (older than 6 years 
+of age). Similar to UFH, a LMWH-­calibrated anti-­Xa assay can be 
+used to adjust dosing as needed to achieve a level between 0.5 and 
+1.0 U/dL. Dalteparin, another LMWH, is the only other anticoagu­
+lant approved by the U.S. Food and Drug Administration as of this 
+writing.
+Total length of therapy for provoked clots typically extends for 
+3 months, while therapy for unprovoked clots may extend to 6–12 
+months or even indefinitely, depending on the presence of other pro­
+thrombotic conditions and personal/family thrombotic history.
+Heparin and LMWH may induce thrombocytopenia (heparin-­
+induced thrombocytopenia [HIT]). Type I HIT is a nonimmunologic 
+heparin-­induced platelet sequestration, while type II HIT is immune 
+mediated (heparin platelet factor antibody) and associated with throm­
+bosis (deep venous, pulmonary embolism, necrotizing cutaneous 
+lesions).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+964
+SECTION 9  Hematologic Disorders
+Fibrinolytic Therapy
+Fibrinolytic therapy is indicated for serious and potentially life-­
+threatening thrombosis because it provides a more rapid lysis of clots 
+than standard anticoagulant treatment with heparin and is clinically 
+effective in both arterial and venous clots. Because bleeding compli­
+cations are many times higher than those with heparin in older indi­
+viduals, the clinical severity of the clot must justify the use of lytic 
+therapy, such as a life-­ or limb-­threatening extremity clot or a pulmo­
+nary embolus resulting in cardiac compromise. For smaller thrombi or 
+those in nonvital locations, heparin is safe and effective. Lytic therapy 
+is best used early in the evolution of the thrombus. If the clot has been 
+long-­standing, it is unlikely that fibrinolytic therapy will be efficacious.
+The presence of any intracranial process, recent major surgery, or 
+recent significant bleeding is an absolute contraindication to fibrino­
+lytic therapy and a relative contraindication to heparin treatment. In 
+patients with a normal cranial sonogram (or CT) and complete occlu­
+sion of the aorta or evidence of compromise of major organ function, 
+fibrinolytic therapy has been safely and successfully administered 
+with very careful monitoring. Table 51.12 outlines dose and monitor­
+ing studies for two commonly used fibrinolytic agents: recombinant 
+TPA and urokinase. Fibrinolytic therapy appears to result in a more 
+rapid return of pulmonary artery flow after pulmonary emboli and 
+may decrease the likelihood and/or severity of postphlebitic syndrome 
+after deep vein thrombosis, though this is a starkly understudied area 
+in pediatrics.
+Input from an interventional radiologist may be useful to discuss 
+various options, such as systemic vs local (catheter-­directed) throm­
+bolysis and any potential role for mechanical lysis.
+Warfarin
+Warfarin has long been the anticoagulant of choice for long-­term oral 
+therapy, though direct oral anticoagulants (DOACs) are becoming 
+more well studied in children. Warfarin acts by blocking the vitamin 
+K–dependent post-­translational modification of factors 2, 7, 9, and 10 
+and of PC and PS. The usual warfarin starting dose is 0.1–0.2 mg/kg/day. 
+Younger children appear to require higher doses to achieve a therapeutic 
+level of the INR. Due to the changes in warfarin metabolism that may 
+occur because of concomitant medications or varying amounts of vita­
+min K in a diet, frequent blood testing may be needed to maintain an 
+adequate INR. If warfarin therapy is started early in the course of heparin 
+therapy for thrombotic disease, effective oral anticoagulant effect is often 
+achieved by day 5, at which time levels of all the vitamin K–dependent 
+factors should be depressed by warfarin. Early in the course of treatment 
+with warfarin, the PT is affected first because factor 7 has the shortest 
+half-­life of the vitamin K–dependent procoagulants and factor 7 levels 
+fall briskly after warfarin treatment. The next levels that fall are PC and 
+PS, followed by the other clotting factors. Therefore, in the first several 
+days warfarin must be coadministered with UFH or LMWH so as to 
+avoid a temporary hypercoagulable state. The aim of warfarin therapy 
+for venous thromboembolic disease is to achieve a stable INR of approx­
+imately 2.0–3.0, though specific range may vary based on clinical indica­
+tion. For example, for prevention of embolization from prosthetic valves, 
+a higher INR may be preferable. Patients with PC or PS deficiency are 
+at risk for warfarin-­induced skin necrosis when warfarin therapy is ini­
+tiated, particularly if high doses are used. These individuals should be 
+given heparin before warfarin is started, and they should not receive a 
+loading/high dose of warfarin.
+Warfarin may be reversed by administration of either IV or oral 
+vitamin K. Although IV vitamin K may work slightly faster, response 
+rates at 24 hours are identical and IV vitamin K carries the associated 
+risk for overcorrection and prolonged subtherapeutic INRs. Therefore, 
+oral administration is preferable for non–life-­threatening bleeding.
+Direct Oral Anticoagulant Therapy
+DOACs appear to be at least as effective as warfarin and possibly safer 
+(Table 51.15). It should be noted that some specific diagnoses may still 
+require warfarin, including patients with antiphospholipid antibody 
+syndrome and some patients with cardiac issues.
+   	 S U MMA RY  A N D  R E D  F L A G S
+Bleeding and thrombotic problems are often familial but may also be 
+acquired. A family history and personal history that quantitate bleeding 
+episodes are of utmost help in planning an evaluation. Red flags include 
+anemia; signs of end-­organ bleeding or vascular occlusion, particularly 
+the central nervous system; signs of a systemic disorder (pancytopenia, 
+hypotension, rash, weight loss, chronic fever, liver–renal–pulmonary 
+system involvement); and signs of hemorrhagic shock.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+TABLE 51.15  Direct Oral Anticoagulants (DOACs)
+Dabigatran
+Rivaroxaban
+Apixaban
+Edoxaban
+Betrixaban
+Factor target
+2a
+10a
+10a
+10a
+10a
+Half-­life (hr)
+12–17
+5–13
+8–14
+10–14
+20–30
+Renal clearance (%)
+80
+33
+25
+35–50
+5–7
+Drug metabolism
+P-­glycoprotein
+P-­glycoprotein 
+and CYP34A
+P-­glycoprotein 
+and CYP34A
+P-­glycoprotein
+P-­glycoprotein
+Drug reversal
+Idarucizumab
+Andexanet alfa
+Andexanet alfa
+Andexanet alfa
+Andexanet alfa
+From Kliegman RM, St. Geme JW III, Blum NJ, et al., eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:2606, Table 506.3.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+964.e1
+BIBLIOGRAPHY
+General
+Andrew M. The relevance of developmental hemostasis to hemorrhagic 
+disorders of newborns. Semin Perinatol. 1997;21:70–85.
+Burk CD, Miller L, Handler SD, et al. Preoperative history and coagulation 
+screening in children undergoing tonsillectomy. Pediatrics. 1992;89:
+691–695.
+Mann KG, Brummel-­Ziedens K. Blood coagulation. In: Orkin SH, Nathan DG, 
+Ginsburg D, eds. Nathan and Oski’s Hematology of Infancy and Childhood. 
+7th ed. Philadelphia: Saunders; 2009.
+Rydz N, James PD. Why is my patient bleeding or bruising? Hematol Oncol 
+Clin North Am. 2012;26:321–344.
+Scott JP, Flood V, Raffini L. Hemorrhagic and thrombotic diseases. In: 
+Kliegman RM, St.Geme III JW, Blum NJ, et al., eds. Nelson Textbook of 
+Pediatrics. 21st ed. Philadelphia: Elsevier; 2020.
+Coagulopathy
+Jain S, Acharya SS. Management of rare coagulation disorders in 2018. 
+Transfusion Apheresis Sci. 2018;57:705–712.
+Kaufman RJ, Powell JS. Molecular approaches for improved clotting factors for 
+hemophilia. Blood. 2013;122:3568–3574.
+Leissinger C, Gringeri A, Antmen B, et al. Anti-­inhibitor coagulant complex 
+prophylaxis in hemophilia with inhibitors. N Engl J Med. 2011;365:1684–1692.
+Malfait F, De Paepe A. Bleeding in the heritable connective tissue disorders: 
+mechanisms, diagnosis, and treatment. Blood Rev. 2009;23:191–197.
+Montgomery RR, Gill JC, Di Paola J. Hemophilia and von Willebrand disease. 
+In: Orkin SH, Nathan DG, Ginsburg D, eds. Nathan and Oski’s Hematology 
+of Infancy and Childhood. 7th ed. Philadelphia: Saunders; 2009.
+Pipe SW, Goldenberg NA. Acquired disorders of hemostasis. In: Orkin SH, 
+Nathan DG, Ginsburg D, eds. Nathan and Oski’s Hematology of Infancy and 
+Childhood. 7th ed. Philadelphia: Saunders; 2009.
+Robertson J, Lillicrap D, James PD. Von Willebrand disease. Pediatr Clin North 
+Am. 2008;55:377–392.
+Sharathkumar AA, Carcao M. Clinical advances in hemophilia management. 
+Pediatr Blood Cancer. 2011;57:910–920.
+Sutor AH, von Kries R, Cornelissen EA, et al. Vitamin K deficiency 
+bleeding (VKDB) in infancy. ISTH Pediatric/Perinatal Subcommittee. 
+International Society on Thrombosis and Haemostasis. Thromb Haemost. 
+1999;81(3):456–461. ISSN: 0340-­6245.
+Wada H, Thachil J, Di Nisio M, et al. Guidance for diagnosis and treatment 
+of disseminated intravascular coagulation from harmonization of the 
+recommendations from three guidelines. J Thromb Haemost. 2013;11:761–
+767.
+Platelets
+Daly ME. Transcription factor defects causing platelet disorders. Blood Rev. 
+2017;31:1–10.
+Dupuis A, Gachet C. Inherited platelet disorders: management of the bleeding 
+risk. Trans Clinique et Biolo. 2018;25:228–235.
+Israels SJ, Kahr WAH, Blanchette VS, et al. Platelet disorders in children: a 
+diagnostic approach. Pediatr Blood Cancer. 2011;56:975–998.
+Kuter DJ. The biology of thrombopoietin and thrombopoietin receptor 
+agonists. Int J Hematol. 2013;98:10–23.
+Lambert MP, Poncz M. Inherited platelet disorders. In: Orkin SH, Nathan DG, 
+Ginsburg D, eds. Nathan and Oski’s Hematology of Infancy and Childhood. 
+7th ed. Philadelphia: Saunders; 2009.
+Neunert C, Terrell DR, Arnold DA, et al. The American Society of 
+Hematology 2019 guidelines for immune thrombocytopenia. Blood Adv. 
+2019;3(23):3829–3866.
+Peterson JA, McFarland JG, Curtis BR, et al. Neonatal alloimmune 
+thrombocytopenia: pathogenesis, diagnosis, and management. Br J 
+Haematol. 2013;161:3–14.
+Thrombosis
+Agnelli G, Becattini C. Acute pulmonary embolism. N Engl J Med. 
+2010;363:266–274.
+Giannakopoulos B, Krilis SA. The pathogenesis of the antiphospholipid 
+syndrome. N Engl J Med. 2013;368:1033–1044.
+Goldenberg NA, Bernard TJ. Venous thrombosis in children. Hematol Oncol 
+Clin North Am. 2010;24:151–166.
+Heizer JW, Schardt TQ, Murphy ME, et al. Unfractionated heparin dosing 
+requirements in the presence of inflammation during the first six months 
+of life. Thromb Res. 2019;177:17–22.
+Holzhauer S, Goldenberg NA, Junker R, et al. Inherited thrombophilia 
+in children with venous thromboembolism and the familial risk of 
+thromboembolism: an observational study. Blood. 2012;120:1510–1515.
+Khan S, Dickerman JD. Hereditary thrombophilia. Thrombosis J. 2006;4:15.
+Klaaasen ILM, van Ommen CH, Middeldorp S. Manifestations and clinical 
+impact of pediatric thrombophilia. Blood. 2015;125:1073–1077.
+Leys D, Lucas C, Gobert M, et al. Cervical artery dissections. Eur Neurol. 
+1997;37:3–12.
+Murin S, Marelich GP, Arroliga AC, et al. Hereditary thrombophilia and venous 
+thromboembolism. Am J Respir Crit Care Med. 1998;158:1369–1373.
+Raffini L, Trimarchi T, Beliveau J, et al. Thromboprophylaxis in a pediatric 
+hospital: a patient-­safety and quality-­improvement initiative. Pediatrics. 
+2011;127:e1326–e1332.
+Stevens SM, Woller SC, Bauer KA, et al. Guidance for the evaluation 
+and treatment of hereditary and acquired thrombophilia. J Thromb 
+Thrombolysis. 2016;41:154–164.
+Yang JYK, Chan AKC. Pediatric thrombophilia. Pediatr Clin N Am. 
+2013;60:1443–1462.
+Therapy
+Brandão LR, Albisetti M, Halton J, et al. Safety of dabigatran etexilate for the 
+secondary prevention of venous thromboembolism in children. Blood. 
+2020;135(7):491–504.
+Fung LS, Klockau C. Effects of age and weight-­based dosing of enoxaparin 
+on anti-­factor xa levels in pediatric patients. J Pediatr Pharmacol Ther. 
+2010;15(2):119–125.
+Goel R, Vedantham S, Goldenberg NA. Antithrombotic therapies: 
+anticoagulation and thrombolysis. Pediatr Clin N Am. 2013;60:1463–1474.
+Monagle P, Lensing AWA, Thelen K, et al. Bodyweight-­adjusted rivaroxaban for 
+children with venous thromboembolism (EINSTEIN-­Jr): results from three 
+multicentre, single-­arm, phase 2 studies. Lancet Haematol. 2019;6(10):e500–e509.
+Monagle P, Chan AKC, Goldenberg NA, et al. Antithrombotic therapy 
+in neonates and children: antithrombotic therapy and prevention of 
+thrombosis. 9th ed. American College of Chest Physicians evidence-­based 
+clinical practice guidelines. Chest. 2012;141:e737S–e801S.
+Monagle P, Cuello CA, Augustine C, et al. American Society of Hematology 
+2018 guidelines for management of venous thromboembolism: treatment 
+of pediatric venous thromboembolism. Blood Adv. 2018;2(22):3292–3316.
+Roach ES, Golomb MR, Adams R, et al. Management of stroke in infants 
+and children: a scientific statement from a special writing group of 
+the American Heart Association Stroke Council and the Council on 
+Cardiovascular Disease in the Young. Stroke. 2008;39:2644–2691.
+van Es N, Coppens M, Schulman S, et al. Direct oral anticoagulants compared 
+with vitamin K antagonists for acute venous thromboembolism: evidence 
+from phase 3 trials. Blood. 2014;124:1968–1975.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

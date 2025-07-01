@@ -1,0 +1,4292 @@
+1015
+The immune system functions to prevent and impede the local estab­
+lishment or systemic dissemination of bacteria, viruses, fungi, and 
+protozoa. This highly complex system has to recognize the pathogen, 
+initiate inflammation, and generate antibodies and T-­cell responses 
+with the goal of clearing the pathogen while retaining immunologic 
+memory toward the pathogen. Furthermore, it must accomplish this 
+task without excessive inflammation or the development of autoimmu­
+nity, both of which can lead to tissue damage. A common symptom of 
+the immune response to infection is fever.
+The differential diagnosis for patients with recurrent fevers is for­
+midable in view of the complexity of the immune system, as well as the 
+multitude of causes of fever. Fever can occur with any inflammatory 
+stimulus, whether that be infections, autoimmune disorders, malig­
+nancy, or due to rare genetic variants that lead to spontaneous inflam­
+mation or autoimmunity, known as autoinflammatory disorders or 
+immune disregulation disorders, respectively. Fever is a challenging 
+issue for providers and causes considerable angst in families. It is help­
+ful to have a consistent stepwise approach to a patient with recurrent 
+fevers, keeping the differential diagnosis of fevers in mind.
+Evaluation of fever should always start with a history and phys­
+ical exam to look for an infectious source. Fevers without a clear 
+­infectious source should raise the possibility of an autoimmune 
+disorder or malignancy as fevers in these disorders can be episodic; 
+however, other symptoms are usually present that persist following res­
+olution of the fever. Recurrent or persistent rashes, arthritis, weight 
+loss, or abdominal pain may initiate a work-­up for autoimmune dis­
+eases such as inflammatory bowel disease or juvenile arthritis or could 
+represent an immune disregulation disorder. Basic lab testing to look 
+for progressive hematologic abnormalities may lead to a work-­up for 
+malignancy. Inflammatory markers, including ESR or CRP, can be 
+useful between febrile episodes, as normalization of inflammatory 
+markers between fever episodes is unusual in ongoing autoimmune 
+diseases or malignancies.
+Recurrent infections need to be assessed by their severity and loca­
+tion, the responsible organisms, and the age of the patient. A young 
+child with intermittent viral upper respiratory or gastrointestinal infec­
+tions or recurrent ear infections is the norm, and reassurance and fol­
+low-­up are all that is necessary with the expectation that these episodes 
+will improve and eventually resolve over time. Recurrent bacterial 
+infections may initiate a more in-­depth immune work-­up to evaluate 
+for a primary immune deficiency, particularly if these are persistent 
+or occur in unusual sites or with unusual organisms. Although there 
+are no established rules regarding immunologic work-­up of a patient 
+with infections, an evaluation should be considered for at least one of 
+the following: (1) more than two systemic bacterial infections (sepsis, 
+meningitis, osteomyelitis); (2) two or more serious respiratory infec­
+tions (pneumonia) or bacterial infections (cellulitis, draining otitis 
+media, lymphadenitis) per year; (3) the presence of an infection at 
+an unusual site (hepatic or brain abscess); (4) infections with unusual 
+pathogens (Aspergillus pneumonia, disseminated candidiasis, or infec­
+tion with Serratia marcescens, Nocardia species, or Burkholderia cepa­
+cia); (5) infections of unusual severity (pneumonias complicated by 
+empyema or abscesses); and (6) recurrent mycobacterial infections or 
+invasive infections with atypical mycobacteria. Persistent and recur­
+rent fever episodes without infectious sources that don’t resolve over 
+time could represent an autoinflammatory disorder, and genetic testing 
+could be pursued.
+HISTORY AND PHYSICAL EXAMINATION
+History
+The history must determine the frequency of fevers, associated symp­
+toms, presence of an infection, and whether the patient returns to a 
+normal state of health in between these episodes. Resolution of fever 
+but persistence of other symptoms or lab abnormalities (e.g., ane­
+mia, ESR, CRP) should raise the possibility of autoimmune disease or 
+malignancy. Regarding recurrent fevers with infections, the clinician 
+must determine (1) the frequency, location, severity, and complica­
+tions of the infections; (2) the accuracy of how infections were docu­
+mented; (3) the presence or absence of a symptom-­free interval; (4) the 
+microbiologic features of any isolate; and (5) the response to antibiotic 
+therapy. A single chronic infection may wax and wane with intermit­
+tent, inadequate treatment and may manifest as a series of infections. 
+Furthermore, a detailed history can elucidate other risk factors for 
+recurrent infections. Many nonimmune disorders are characterized by 
+an increased susceptibility to infection that must also be considered 
+(Table 54.1). Approximately 30% of children with recurrent sinopul­
+monary symptoms can be categorized as atopic (genetic predisposi­
+tion to develop allergic diseases). These subjects have normal growth 
+and development, and episodes of recurrent illness may be afebrile, 
+respond poorly to antibiotics, and be accompanied by upper respira­
+tory symptoms such as coughing, sneezing, or wheezing. There may be 
+a family history of atopic disease, and the patient’s past medical history 
+may include episodic wheezing, protracted cough after upper respira­
+tory tract infection (URI), hay fever, allergies to foods, or eczema. The 
+physical examination of allergic school-­aged children may reveal typi­
+cal characteristics including the following: dark circles under the eyes; 
+open mouth with dry lips; coated tongue; evidence of nasal obstruc­
+tion; transverse nasal crease; boggy, pale nasal mucosa; mucus in the 
+pharynx; posterior pharyngeal “cobblestoning”; and postnasal drip.
+Malnutrition and specific vitamin deficiencies may alter immune 
+cell function. Protein-­losing states due to gastrointestinal (e.g., inflam­
+matory bowel disease, protein-­losing enteropathy) or renal disease (e.g., 
+nephrotic syndrome) may lead to hypocomplementemia, hypogam­
+maglobulinemia, and recurrent infections. Chronic treatment with 
+corticosteroids and other immunosuppressants can result in acquired 
+Recurrent Fever, Immune Deficiency, 
+and Autoinflammatory Disorders
+James W. Verbsky and John M. Routes
+54
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1016
+SECTION 10  Infectious Diseases/Immune/Inflammation
+TABLE 54.1  Secondary Causes of Recurrent Infections
+Predisposing Causes
+Organism and Type of Infection
+Alteration of Mucocutaneous Barriers
+Indwelling Catheter
+Central venous catheter (Broviac, Hickman)
+Staphylococcus aureus; Staphylococcus epidermidis; and Bacteroides, Candida, Pseudomonas species: bacteremia, fungemia
+Urinary catheter
+Escherichia coli, Enterococcus species, Staphylococcus saprophyticus: pyelonephritis
+Tenckhoff catheter (continuous ambulatory 
+peritoneal dialysis)
+S. epidermidis, S. aureus, Escherichia coli, Pseudomonas aeruginosa, Candida species: peritonitis
+Cerebrospinal fluid shunts
+S. epidermidis, S. aureus, diphtheroid, Bacillus species: meningitis
+Aspirated pulmonary foreign body
+S. aureus, anaerobes: pneumonia, pulmonary abscess, empyema
+Burns
+P. aeruginosa, S. epidermidis, Candida species: cutaneous lesions, sepsis
+Inhalation Therapy: Contaminated 
+Solutions
+P. aeruginosa, Serratia marcescens, Legionella species: pneumonia
+Surgical Wounds
+Abdominal
+Gram-­negative bacteria, S. aureus, S. epidermidis, Candida species: peritonitis
+Nongastrointestinal
+S. aureus, S. epidermidis, streptococci, gram-­negative bacteria: wound abscess, sepsis
+Fistula-­Sinus Communications
+Neurocutaneous fistula
+S. aureus, S. epidermidis, E. coli: meningitis
+Neuroenteric fistula
+Gram-­negative bacteria: meningitis
+Otic, facial sinus–meningeal sinus tract
+Pneumococcus: meningitis
+Facial sinus fracture (CSF rhinorrhea)
+Pneumococcus: meningitis
+Intravenous Drug Abuse
+S. aureus, P. aeruginosa, streptococci: endocarditis, osteomyelitis: hepatitis B, C, D viruses: AIDS
+Prosthetic Devices
+Cardiac valves
+S. epidermidis, streptococci, S. aureus, diphtheroid, Candida species: endocarditis
+Pacemaker
+S. epidermidis, S. aureus, Candida species: subcutaneous pocket or endocardial infection
+Chronic Disease
+Malnutrition
+Measles; tuberculosis; herpes simplex virus; bacterial, parasitic, and viral diarrhea; gram-­negative bacteria: sepsis, 
+pneumonia
+Cystic fibrosis
+S. aureus, H. influenzae, mucoid P. aeruginosa, Burkholderia cepacia; pneumonia
+Diabetes mellitus
+Urinary tract infections, Mucor, and other fungi: sinus-­orbital infection
+Nephrotic syndrome
+Pneumococcus, E. coli: peritonitis
+Uremia
+S. aureus, gram-­negative bacteria, fungi: sepsis, soft tissue infection
+Cirrhosis, ascites
+Pneumococcus, E. coli: peritonitis
+Prolonged broad-­spectrum antibiotic therapy
+Candida species, Enterococcus species, multidrug-­resistant gram-­negative or gram-­positive bacteria: sepsis
+Spinal cord injury
+Gram-­negative or gram-­positive bacteria: pneumonia, pyelonephritis, pressure sores, abscesses, osteomyelitis
+Sickle cell anemia
+Pneumococcus: sepsis, meningitis, osteoarticular infection
+Salmonella species, S. aureus: osteomyelitis
+Congenital heart disease
+S. aureus, Streptococcus viridans group: endocarditis
+Urinary tract anomaly
+E. coli, S. saprophyticus, Enterococcus species: pyelonephritis
+Kartagener syndrome (dysmotile cilia)
+H. influenzae, Moraxella catarrhalis, Pneumococcus: pneumonia, sinusitis
+Eczema/atopic disease
+S. aureus, Streptococcus species, varicella, herpes simplex, molluscum: cutaneous infection, cellulitis
+Protein-­losing enteropathy (lymphangiectasia)
+Pneumococcus: sepsis, peritonitis
+Giardia species: diarrhea
+Periodontitis
+Fusobacterium species: cellulitis, facial space infection
+Splenic Dysfunction (e.g., Sickle 
+Cell Anemia/Asplenia)
+S. pneumoniae: sepsis, meningitis
+H. influenzae type b: sepsis, meningitis
+N. meningitidis: sepsis, meningitis
+Capnocytophaga canimorsus
+Babesiosis
+Malaria
+Group B Streptococcus
+Enterococcus
+Bacteroides
+Salmonella
+CSF, cerebrospinal fluid.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1017
+CHAPTER 54  Recurrent Fever, Immune Deficiency, and Autoinflammatory Disorders
+immunodeficiency with hypogammaglobulinemia, lymphopenia, and 
+recurrent infections.
+Perinatal History
+The clinician should determine if there was exposure to maternal viral 
+infection during gestation (HIV, cytomegalovirus [CMV], herpes sim­
+plex virus, rubella) or a history of prematurity, blood transfusions, 
+respiratory distress syndrome, or other pertinent neonatal illnesses. 
+Infants previously placed on ventilators may develop chronic obstruc­
+tive lung disease (bronchopulmonary dysplasia), predisposing them 
+to recurrent pulmonary infections. Most perinatal HIV infections 
+are seen in children whose mother or mother’s partner has engaged 
+in high-­risk behavior (i.e., multiple sex partners or use of intravenous 
+drugs). Attention should be paid to the time of umbilical cord separa­
+tion since infants with a history of delayed umbilical cord separation 
+and recurrent episodes of sepsis or pneumonia should be evaluated for 
+leukocyte adhesion deficiency.
+Anatomic Abnormalities
+Recurrent infections in primary immune deficiencies typically affect 
+different anatomic locations. Structural or anatomic defects often result 
+in recurrent infections that are generally localized to the affected organ 
+system. Approximately 10% of children with recurrent infections have 
+an underlying chronic disease or a structural defect that predisposes 
+them to recurrent infections (see Table 54.1).
+Eustachian tube abnormalities or cleft palate results in recurrent or 
+chronic otitis media; congenital heart disease results in an increased 
+risk of endocarditis; and posterior urethral valves, vesicoureteral 
+reflux, or ureteral pelvic junction obstruction results in recurrent uri­
+nary tract infections. Recurrent pneumonia may result from congenital 
+malformations (trachea-­esophageal fistulas, cystic adenomatoid mal­
+formation, or sequestration), from aspiration of a foreign body (peanut, 
+small toys) or chronic aspiration (gastroesophageal reflux, swallowing 
+disorders, neurologic diseases), and from bronchopulmonary dyspla­
+sia. Repeated pneumonias in dependent lobes warrant evaluation for 
+recurrent aspiration. Chronic illnesses that result in recurrent pulmo­
+nary infections include cystic fibrosis, primary ciliary dyskinesia, or 
+α1-­antitrypsin deficiency. Recurrent sinus infections can occur due 
+to anatomic defects of the sinuses (polyps, stenotic os). Endotracheal 
+intubation predisposes the patient to recurrent pulmonary infections 
+with nosocomial organisms. Right middle lobe syndrome and seques­
+tered lung can appear as recurrent pneumonia in the same anatomic 
+location.
+Any direct communication to the cerebrospinal fluid that bypasses 
+the blood-­brain barrier predisposes patients to a central nervous sys­
+tem infection. Basilar skull fractures and dermal sinus tracts or fistulas 
+may communicate with the subarachnoid space or neural tissue. Other 
+conditions predisposing patients to opportunistic infections of the cen­
+tral nervous system include penetrating foreign body, cerebrospinal 
+fluid shunts, myelomeningocele, and encephalocele. Local infections 
+of the sinuses or of the middle ear may spread to contiguous structures 
+to form cerebral abscesses or subdural-­epidural empyema. Intravenous 
+drug use, bacterial endocarditis, and heart disease with right-­to-­left 
+shunt are associated with an increased risk of central nervous system 
+infections.
+ASPLENIA
+The spleen plays a particularly important role in preventing invasive 
+infections, especially during the first year of life before specific immu­
+nity to certain bacteria has developed. The spleen is able to bind and 
+phagocytose encapsulated bacteria and produces natural antibodies 
+against polysaccharides that cross react with the cell walls of bacterial 
+pathogens, thereby providing a critical role in preventing sepsis in 
+immunologically immature subjects from encapsulated bacteria. The 
+spleen is also an important location for the phagocytosis of comple­
+ment and antibody opsonized bacteria, and a key location for the pro­
+duction of antibodies.
+Functional asplenia occurs in children with sickle cell disease, ini­
+tially as a result of vascular occlusion by the sickle cells in the splenic 
+circulation. Congenital absence of the spleen may occur alone or as 
+part of an asplenia syndrome with congenital heart disease. Hetero­
+taxy and disorders of left-­right patterning can result in polysplenia in 
+which the spleens are not functional. Genetic variants in NKX2 and 
+ribosomal protein SA have been found in a small number of patients 
+with congenital asplenia. Trauma and surgical splenectomy are also 
+important causes of asplenia.
+Individuals without spleens (anatomic or functional) are subject to a 
+severe form of sepsis that is rapid in onset and can lead to sudden death 
+if it is not recognized and treated promptly. Pneumococci are responsi­
+ble for more than 50% of such infections; infections with Haemophilus 
+influenzae, Staphylococcus aureus, group A streptococci, gram-­negative 
+enteric bacilli, and meningococci also occur (see Table 54.1).
+The diagnosis of anatomic or functional asplenia is suggested by the 
+presence of red blood cell inclusions, particularly Howell-­Jolly bodies 
+on peripheral blood smear. Failure of uptake of technetium 99–sulfur 
+colloid, which is normally taken up by the entire reticuloendothe­
+lial system, and lack of erythrocyte pitting are also noted in asplenic 
+patients. Lack of a spleen by ultrasonography of the abdomen is sug­
+gestive of asplenia, but accessory splenic tissue may still be present. 
+Functional tests of splenic tissue are a better indicator of asplenia.
+The risk of fulminant infection in patients who have undergone 
+splenectomy (from surgery or trauma) or in those with functional 
+asplenia or congenital asplenia is highest in the first few years. The risk 
+is lower in older children and in adults, probably because they have 
+developed opsonizing antibodies through previous exposure. The 
+management of functional or anatomic asplenia lies mainly in preven­
+tion. When splenectomy becomes necessary, partial protection against 
+life-­threatening infections can be obtained by immunizing patients 
+with conjugated and polyvalent pneumococcal, H. influenzae type b, 
+and meningococcal vaccines. Booster immunization may be needed 
+because of waning immunity with time. Prophylactic antibiotics may 
+be given continuously in a single daily dose for 1–3 years or up to the 
+age of 16 years (some authorities suggest longer periods or even for 
+life) after splenectomy. Parents of older asplenic children are advised to 
+have their children seen by a physician or to administer the antibiotics 
+at the first sign of a febrile illness.
+Family History
+Specific patterns of inheritance have been determined for a variety 
+of immunologic defects resulting in immune deficiency or autoin­
+flammatory disorder. Genetic defects of immunity can be inherited 
+as X-­linked, autosomal recessive, or autosomal dominant disorders. 
+Monogenic primary immunodeficiencies and autoinflammatory dis­
+orders may exhibit reduced penetrance (some people with the genetic 
+abnormality do not exhibit a clinical phenotype) and variable expres­
+sivity (different signs and symptoms with the same genetic defect). A 
+family history of unexplained infant deaths or serious infection should 
+be sought, particularly in male infants since a number of important 
+immune deficiencies are X-­linked. Evidence of consanguinity should 
+also be established as many serious primary immune deficiencies are 
+autosomal recessive. Since allergic diseases can appear as recurrent 
+infections, a family history of atopy is important. A child who has one 
+allergic parent or two allergic parents will develop an atopic disease 
+in 25% and 50% of cases, respectively. Some autoinflammatory disor­
+ders are more prevalent in subjects from certain geographic regions 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1018
+SECTION 10  Infectious Diseases/Immune/Inflammation
+(e.g., familial Mediterranean fever), and many have an autosomal 
+dominant inheritance pattern, and therefore a family history of fevers 
+should be sought.
+Environmental History
+Respiratory and dermatologic findings are a result of exposure to envi­
+ronmental allergens and toxins. Specific bacteriologic and parasitic 
+exposures are associated with certain pets (i.e., Salmonella organisms 
+and iguanas or turtles; psittacosis and birds; Bartonella organisms in 
+kittens). A travel history may suggest exposure to unusual organisms 
+that are regionally endemic, such as certain parasites and specific insect 
+or animal bites, or to contaminated water. A move to a new house or 
+to a new nursery school or exposure to a new babysitter, pet, or house­
+keeper may suggest possible allergic and infectious risks.
+Physical Examination
+The physical examination may provide important clues to the diag­
+nosis of a primary immune deficiency or autoinflammatory disorder. 
+Longitudinal evaluation of height and weight is crucial in identifying 
+infants with failure to thrive or acute weight loss. Some immune defi­
+ciencies are associated with skeletal dysplasia or growth deficiency 
+in addition to failure to thrive. Chronic upper respiratory infections 
+are suggested by scarred tympanic membranes, postnasal drip, and 
+cervical adenopathy. Transverse nasal creases, circles under the eyes, 
+and posterior pharyngeal “cobblestoning” suggest respiratory allergy. 
+Recurrent cough, wheezing, digital clubbing, and chest deformity are 
+suggestive of pulmonary disease. Recurrent aphthous stomatitis can be 
+a sign of a serious systemic disorder such as immune deficiency, an 
+autoinflammatory disorder, autoimmunity, or inflammatory bowel dis­
+ease. Auscultation of the apex of the heart in the right side of the thorax 
+(dextrocardia) may be accompanied by ciliary motility abnormalities 
+or asplenia. Lymphadenopathy, hepatosplenomegaly, pallor, wasting, 
+and recent weight loss are suggestive of systemic disease. Absence of 
+lymph tissue (tonsils and lymph nodes) is suggestive of a B-­cell defi­
+ciency, while absence of thymic tissue on chest radiograph in an infant 
+is suggestive of T-­cell deficiency. Parotid enlargement with lymphade­
+nopathy and hepatosplenomegaly is suggestive of HIV infection. Skin 
+abnormalities including alopecia, eczema, pyoderma, pustules, livedo, 
+and telangiectasia can be important clues to immunodeficiency or 
+autoinflammatory disorders. Evidence of hematologic disease, such 
+as pallor, petechiae, and jaundice, can be associated with immunode­
+ficiencies. Generalized lymphadenopathy and splenomegaly may be 
+suggestive of HIV disease, a phagocyte disorder with recurrent infec­
+tions, or a lymphoproliferative disorder.
+Diagnostic Categories
+The information obtained from the history and physical examination is 
+usually sufficient to make a tentative classification:
+The patient who is probably healthy
+The atopic or allergic patient
+The patient with a nonimmunologic defect in host defense
+The patient with hereditary autoinflammatory or fever syndrome
+The patient with a primary immunodeficiency
+The patient with an immune disregulation disorder
+The Patient Who Is Probably Healthy
+Many healthy children have repeated minor infections or have a rela­
+tively brief history of repeated infections or a single prolonged illness 
+from which recovery has been delayed. Most URIs last <7 days, and 
+duration of >14 days is unusual. Most children younger than 1 year who 
+have a large family or who attend daycare develop respiratory or gas­
+trointestinal infections about 6 times during the first year of life. The 
+onset of the recurrent infection may coincide with entry into daycare, 
+preschool, or kindergarten. The healthy child has normal growth and 
+development before the illness and usually a normal physical examina­
+tion finding. When a discrepancy exists between the severity of an illness 
+as reported by the parent and the child’s physical appearance, it is often 
+prudent to delay a detailed evaluation until more objective findings are 
+documented by repeat examinations during acute episodes. Laboratory 
+testing might include a CBC, inflammatory markers (i.e., ESR, CRP) to 
+exclude rheumatic disorders or occult infections, and measurement of 
+serum immunoglobulin levels (IgG, IgA, IgM, IgE) and vaccine-­specific 
+titers as a screen. Cultures and imaging of the affected area may provide 
+additional data. With reassurance of the parents, these children recover 
+spontaneously. Simple measures, rather than a complex set of labora­
+tory studies, are often the only treatment required.
+THE PATIENT WITH HEREDITARY INFLAMMATORY 
+DISORDERS
+Autoinflammatory syndromes, formerly known as periodic fever 
+syndromes, are a heterogeneous and ever-­increasing group of rare 
+inflammatory disorders that manifest with recurrent fevers and/or 
+inflammatory episodes (Table 54.2). Recurrent fevers or inflammation 
+can often be mistaken for recurrent infections. Patients exhibit charac­
+teristic physical findings during these episodes, such as fever, various 
+rashes, lymphadenopathy, aphthous stomatitis, arthritis, and serositis 
+with abdominal, chest, or testicular pain. Not all of the features of a 
+particular autoinflammatory syndrome may be present in young chil­
+dren, and these features may develop over time. These episodes can be 
+periodic or sporadic, but the characteristic features occur with each 
+episode (Table 54.3). Laboratory evaluation may show elevated white 
+blood cell (WBC) counts and elevated inflammatory markers during 
+the episode that typically resolve between episodes. Importantly, 
+infectious evaluations are often repeatedly negative, and the patient 
+is typically well between febrile episodes. Diagnosis of these disorders 
+requires genetic testing; there are large panels of immunologically rele­
+vant genes that can be ordered to test for these disorders.
+Familial Mediterranean Fever
+Familial Mediterranean fever (FMF) is caused by variants in the MEFV 
+gene that encodes the protein pyrin (see Table 54.2). Although FMF is 
+considered an autosomal recessive disorder, a substantial percentage 
+of patients with clinical FMF have only one demonstrable variant in 
+MEFV. FMF is characterized by short episodes of fever (i.e., 1–3 days), 
+serositis/peritonitis, prominent arthritis, and erythematous rash (Fig. 
+54.1). Early in life fever may be the only symptom. More classic features 
+typically appear within 3 years. The arthritis is typically monoarticu­
+lar, and aspirates of affected joints are sterile with a predominance of 
+neutrophils. In some cases, splenomegaly and systemic vasculitis can 
+ensue. The most serious long-­term comorbidity with FMF is amyloi­
+dosis, which occurs frequently in patients who are not compliant with 
+colchicine prophylaxis. Pyrin interacts with the inflammasome, a mac­
+romolecular complex involved in the processing of interleukin-­1β (IL-­
+1β), and variants that result in FMF result in greater IL-­1 production. 
+Daily colchicine prophylaxis prevents many of the long-­term compli­
+cations of this disorder.
+Pyogenic Arthritis, Pyoderma Gangrenosum, and Acne 
+Syndrome
+Pyogenic arthritis, pyoderma gangrenosum, and acne (PAPA) is an 
+autosomal dominant inherited syndrome caused by variants in PST­
+PIP1 (see Table 54.2), which leads to hyperphosphorylation of PST­
+PIP1 and increased interaction with pyrin, leading to increased 
+IL-­1β production. PAPA begins in childhood with episodes of sterile 
+monoarticular arthritis, and later in life pyoderma gangrenosum–like 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1019
+CHAPTER 54  Recurrent Fever, Immune Deficiency, and Autoinflammatory Disorders
+TABLE 54.2  Autoinflammatory Disorders
+Disease
+Genetic Defect/
+Presumed 
+Pathogenesis
+Inheritance
+Functional Defects
+Associated Features
+Familial Mediterranean fever
+MEFV (leads to gain of 
+pyrin function, resulting in 
+inappropriate IL-­1β release)
+AR, rarely AD
+Reduced phosphorylation of mutated 
+pyrin by protein kinases, resulting in 
+activation of pyrin, inflammasome 
+activation, and ASC-­induced IL-­1 
+processing and inflammation
+Recurrent fever, serositis, and 
+inflammation responsive to 
+colchicine. Predisposes to vasculitis 
+and inflammatory bowel disease
+Mevalonate kinase deficiency 
+(hyper-­IgD syndrome)
+MVK
+AR
+Affecting cholesterol synthesis and 
+defective prenylation of proteins such 
+as RhoA, which inhibits pyrin activation
+Periodic fever and leukocytosis 
+with high IgA and IgD levels, 
+lymphadenopathy
+Familial cold autoinflammatory 
+syndrome
+NLRP3; NLRP12
+AD
+Same as above
+Nonpruritic urticaria, arthritis, chills, fever, 
+and leukocytosis after cold exposure
+Muckle-­Wells syndrome
+NLRP3 (leads to constitutive 
+activation of the NLRP3 
+inflammasome)
+AD
+Defect in cryopyrin, increased IL-­1 
+processing by inflammasome
+Urticarial-­like rash from birth, aseptic 
+meningitis with hearing loss or eye 
+involvement, joint abnormalities, 
+amyloidosis
+Neonatal-­onset multisystem 
+inflammatory disease 
+(NOMID) or chronic infantile 
+neurologic cutaneous and 
+articular syndrome (CINCA)
+NLRP3 (see above)
+AD
+Same as above
+Similar to above but severe and early 
+onset
+Deficiency of IL-­1 receptor 
+antagonist (DIRA)
+LOF variants in IL1RN
+AR
+Loss of IL-­1 receptor antagonist
+Pustular rash, osteopenia, lytic bone 
+lesions, and prominent systemic 
+inflammation
+TNF receptor–associated 
+periodic syndrome (TRAPS)
+TNFRSF1A
+AD
+Variants of 55-­kDa TNF receptor leading 
+to intracellular receptor retention or 
+diminished soluble cytokine receptor 
+available to bind TNF
+Recurrent fever, serositis, rash, and 
+ocular or joint inflammation
+Pyogenic sterile arthritis, 
+pyoderma gangrenosum, and 
+acne (PAPA) syndrome
+PSTPIP1, binds pyrin and 
+activates inflammasome
+AD
+Disordered actin reorganization leading 
+to compromised physiologic signaling 
+during inflammatory response
+Destructive arthritis, inflammatory skin 
+rash, myositis
+Blau syndrome
+GOF variants in NOD2 (also 
+called CARD15) lead to 
+NF-­κB activation
+AD
+Variants in nucleotide binding site 
+of CARD15, possibly disrupting 
+interactions with lipopolysaccharides 
+and NF-­κB signaling
+Uveitis, granulomatous synovitis, 
+camptodactyly, rash, and cranial 
+neuropathies, 30% develop Crohn 
+disease
+Majeed syndrome (chronic 
+recurrent multifocal 
+osteomyelitis and congenital 
+dyserythropoietic anemia)
+LPIN2 (increased expression 
+of the proinflammatory 
+genes)
+AR
+Undefined
+Chronic recurrent multifocal 
+osteomyelitis, transfusion-­dependent 
+anemia, cutaneous inflammatory 
+disorders
+Deficiency of adenosine 
+deaminase 2 (DADA2)
+LOF variants in CECR1 (ADA2)
+AR
+Unclear mechanism of action
+Fevers, CNS strokes, vasculitis, rash, 
+cytopenias, hypogammaglobulinemia
+AFEC (autoinflammation with 
+infantile enterocolitis)
+GOF variants in NLRC4
+AD
+Spontaneous activation of the inflamma­
+some with IL-­1 and IL-­18 production
+Fevers, vomiting, secretory diarrhea, 
+duodenitis, splenomegaly, and rash
+Acardia
+Goutières syndrome
+LOF variant in TREX1, a 3’ 
+repair exonuclease
+AR or AD
+Defects lead to accumulation of 
+intracellular nucleic acids and an 
+interferon response
+Leukoencephalopathy with 
+calcifications, cerebral atrophy, 
+hepatosplenomegaly, anemia
+STING-­associated 
+vasculopathy of 
+infancy (SAVI)
+GOF variants in TMEM173 
+(STING)
+AD
+Spontaneous activation of STING 
+induces interferon production
+Fever; vasculitic rash with infarction on 
+fingers, face, ears, nose; pulmonary 
+disease
+Chronic atypical neutrophilic 
+dermatosis with lipodystrophy 
+and elevated temperature 
+(CANDLE)
+LOF variants of PSMB8, 
+others
+AR
+Defective proteasome function leads to 
+interferon production
+Fevers, purpuric skin rash, neutrophilic 
+dermatosis, lipodystrophy, 
+developmental delay, basal ganglion 
+calcification
+A20
+LOF variants in TNFAIP3
+AD
+Haploinsufficiency results in enhanced 
+NF-­κB activation
+Oral and genital ulcerations, uveitis, 
+fevers; mimics familial Behçet disease
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1020
+SECTION 10  Infectious Diseases/Immune/Inflammation
+ulcerative skin lesions and cystic acne (Fig. 54.2). The episodes of 
+arthritis are the most common presentation, start in early childhood, 
+and typically affect one to three joints at a time. The joint effusions are 
+typically neutrophil-­rich and sterile. Treatment of the arthritis with 
+surgical drainage or treatment with intraarticular or systemic steroids 
+has shown benefit in resolving arthritis. Several reports demonstrated 
+TABLE 54.2  Autoinflammatory Disorders—cont’d
+Disease
+Genetic Defect/
+Presumed 
+Pathogenesis
+Inheritance
+Functional Defects
+Associated Features
+Otulipenia
+LOF variants in FAM105B 
+(otulin)
+AR
+Enhanced NF-­κB activation
+Recurrent fevers, joint swelling, painful 
+nodular red rash, GI inflammation/
+diarrhea, failure to thrive
+Autoinflammation with episodic 
+fever and lymphadenopathy 
+(AIEFL)
+LOF variants of RIPK1
+AD
+Activation of proinflammatory cytokines 
+and chemokines such as IL-­6, TNF, 
+and IFNγ
+Recurrent fever beginning in early infancy, 
+lymphadenopathy and occasional 
+hepatosplenomegaly, no rash or ulcers
+AD, autosomal dominant; AR, autosomal recessive; GOF, gain of function; IFN, interferon; Ig, immunoglobulin; IL, interleukin; LOF, loss of function; 
+NF-­κB, nuclear factor-­κB; TNF, tumor necrosis factor.
+TABLE 54.3  Features of Autoinflammatory 
+Syndromes That May Narrow Diagnosis
+Clinical Features
+Autoinflammatory Syndrome
+Age of Onset
+Birth
+NOMID, DIRA, FCAS
+Infancy
+HIDS, FCAS
+Toddler/late childhood
+PFAPA syndrome
+Onset in adulthood
+TRAPS, DITRA
+Ethnicity and Geography
+Armenians, Turks, Italians, 
+Sephardic Jews
+FMF
+Arabs
+FMF, DITRA
+Dutch, French, German
+HIDS, MWS
+United States
+FCAS
+Triggers
+Vaccines
+HIDS
+Cold exposure
+FCAS
+Stress, menses
+FMF, TRAPS, MWS, DITRA
+Minor trauma
+MWS, TRAPS, HIDS
+Exercise
+FMF, TRAPS
+Pregnancy
+DITRA
+Duration of Episode
+<24 hr
+FCAS, FMF
+1–3 days
+FMF, MWS, DITRA
+3–7 days
+HIDS, PFAPA syndrome
+>7 days
+TRAPS
+Constant episode
+NOMID, DIRA
+Interval Between Episodes
+3–6 wk
+PFAPA syndrome, HIDS
+>6 wk
+TRAPS
+Unpredictable
+All others
+DIRA, deficiency of the IL-­1 receptor antagonist; DITRA, deficiency of 
+the IL-­36 receptor antagonist; FCAS, familial cold autoinflammatory syn­
+drome; FMF, familial Mediterranean fever; HIDS, hyperimmunoglobulin 
+D syndrome; MWS, Muckle-­Wells syndrome; NOMID, neonatal-­onset 
+multisystem inflammatory disease; PFAPA, periodic fever, aphthous 
+stomatitis, pharyngitis, and cervical adenitis; TRAPS, tumor necrosis 
+factor receptor–associated periodic syndrome.
+Adapted from Hashkes PJ, Toker O. Autoinflammatory syndromes. 
+Pediatr Clin N Am. 2012;59:447–470.
+From Zitelli and Davis’ Atlas of Pediatric Physical Diagnosis. 7th ed. 
+Philadelphia: Elsevier; 2018:273, Table 7.11.
+Fig. 54.1  Familial Mediterranean fever. Erythematous rash on the dor­
+sal aspect of the foot and pretibial area of an affected child. (From Paller 
+AS, Mancini AJ, eds. Hurwitz Clinical Pediatric Dermatology. 5th ed. 
+Philadelphia: Elsevier; 2016:584, Fig. 25-­24.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1021
+CHAPTER 54  Recurrent Fever, Immune Deficiency, and Autoinflammatory Disorders
+successful treatment with an IL-­1 receptor antagonist (anakinra) or 
+other IL-­1 blockers (rilonacept, canakinumab).
+Cryopyrin-­Associated Periodic Syndromes
+Cryopyrin-­associated periodic syndromes (CAPSs) are a spectrum of 
+autoinflammatory disorders that are inherited in an autosomal dom­
+inant manner due to variants in the NLRP3 gene (see Table 54.2). 
+NLRP3 encodes cryopyrin, a protein that is part of the inflammasome. 
+Variants that cause CAPS prevent autoinhibition of the cryopyrin pro­
+tein, resulting in spontaneous activation of the inflammasome and 
+excessive production of IL-­1β.
+CAPS consists of three diseases: familial cold autoinflammatory 
+syndrome (FCAS), Muckle-­Wells syndrome (MWS), and neonatal-­
+onset multisystem inflammatory disorder (NOMID), which repre­
+sent a spectrum of disorders that present with recurrent or continual 
+systemic inflammation, rash, fevers, arthritis, neurologic deficits, and 
+amyloidosis. FCAS is the mildest form of this disorder that presents 
+with fevers, an evanescent rash, headache, conjunctivitis, and joint 
+pain after generalized cold exposure. Although the rash can have 
+some visual features of urticaria, it is macular without signs of mast 
+cell degranulation, and is histologically characterized by a neutrophilic 
+infiltrate. MWS presents similarly to FCAS, but cold exposure is not 
+necessary for symptoms to occur (Fig. 54.3). Unlike FCAS, chronic 
+meningitis occurs with papilledema and sensorineural hearing loss, 
+joint pain and swelling is more severe, and untreated, amyloidosis 
+develops over time. NOMID is the most severe variant of CAPS. Like 
+MWS, all patients with NOMID exhibit a rash at or shortly after birth 
+(Fig. 54.4). Neurologic symptoms, such as aseptic meningitis, head­
+ache, cerebral atrophy, uveitis, hearing loss, and intellectual disability, 
+are common and severe. In NOMID and MWS, chronic inflammation 
+of the joints leads to a chronic arthropathy with epiphyseal and patel­
+lar overgrowth. FCAS, MWS, and NOMID exhibit laboratory evidence 
+of an acute-­phase response with leukocytosis, neutrophilia, anemia, 
+thrombocytosis, and elevated ESR and CRP levels.
+IL-­1 inhibitors (anakinra, rilonacept, canakinumab) are now the 
+treatment of choice for these disorders based on their ability to induce 
+rapid and sustained clinical response. Laboratory abnormalities typ­
+ically normalize in days, and the rash responds rapidly. Importantly, 
+IL-­1 blockade improves long-­term morbidity such as hearing loss, joint 
+deformity, and amyloidosis.
+Hyperimmunoglobulin D Syndrome
+Hyperimmunoglobulin D syndrome (HIDS) is an autoinflammatory 
+disorder caused by variants in the mevalonate kinase (MVK) gene (see 
+Table 54.2). MVK is an enzyme involved in the biosynthesis of cho­
+lesterol and isoprenoids. Patients with HIDS have low but detectable 
+MVK enzyme activity resulting in elevated levels of mevalonic acid 
+in the urine, particularly during attacks. Complete absence of MVK 
+results in mevalonic aciduria, an inborn error of metabolism, which is 
+also associated with fevers. It is unclear how variants in MVK lead to 
+an autoinflammatory disease.
+The clinical manifestations of HIDS occur at an early age with 
+recurrent fevers with lymphadenopathy, abdominal pain, arthralgia 
+and arthritis, and painful migratory erythematous macules. These epi­
+sodes may last 4–7 days and are often triggered by stress, trauma, or 
+vaccination. Serum IgD and IgA levels are usually elevated but may be 
+normal. Acute-­phase reactants are elevated during attacks. Although 
+high-­dose corticosteroids and tumor necrosis factor-­α (TNF-­α) antag­
+onists have been used with variable success, IL-­1β inhibitors appear 
+more effective at preventing the inflammatory episodes. Amyloidosis 
+may occur but is relatively rare.
+Deficiency of the Interleukin-­1 Receptor Antagonist
+Deficiency of the IL-­1 receptor antagonist (DIRA) is an autosomal 
+recessive disorder due to variants in the IL-­1 receptor antagonist gene 
+(IL-­1RN) (see Table 54.2). IL-­1 receptor antagonist (IL-­1RA) is a decoy 
+protein that binds to the IL-­1 receptor but does not result in signal­
+ing, and the absence of IL-­1RA in patients with DIRA leads to cellular 
+hyperresponsiveness to IL-­1β.
+The clinical manifestations of DIRA occur within the first 2 weeks 
+of life and include pustular rash, osteopenia, lytic bone lesions, and 
+prominent systemic inflammation. All patients develop cutaneous 
+pustulosis, and biopsies of the skin lesions revealed a neutrophilic 
+predominance (Fig. 54.5). Respiratory distress, aphthous ulcers, hep­
+atomegaly, and failure to thrive occur, with approximately one-­third 
+of infants expiring prior to diagnosis and effective treatment. Bone 
+is prominently involved, with osteopenia, multiple osteolytic lesions, 
+and rib widening. Laboratory abnormalities reflect an acute-­phase 
+response with elevated ESR and CRP, leukocytosis, anemia, and 
+thrombocytosis.
+Fig. 54.2  Pyogenic sterile arthritis, pyoderma gangrenosum, and acne 
+(PAPA) syndrome. This 11-­year-­old boy had small inflammatory papules 
+of acne, which rapidly became purulent plaques (as shown) and then 
+ulcerated to form pyoderma gangrenosum, leaving residual scars. He 
+also had arthritis. His disease was brought under control with golim­
+umab (tumor necrosis factor inhibitor) and isotretinoin. (From Paller AS, 
+Mancini AJ, eds. Hurwitz Clinical Pediatric Dermatology. 5th ed. Phila­
+delphia: Elsevier; 2016:589, Fig. 25-­29.)
+Fig. 54.3  Urticarial rash is the most common skin manifestation seen 
+in Muckle-­Wells syndrome. (From Barron K, Kastner DL. Periodic fever 
+syndromes and other inherited autoinflammatory diseases. In: Petty 
+RE, Laxer RM, Lindsley CB, et al, eds. Textbook of Pediatric Rheumatol­
+ogy. 8th ed. Philadelphia: Elsevier; 2020, Fig. 39.4.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1022
+SECTION 10  Infectious Diseases/Immune/Inflammation
+Anakinra, a recombinant IL-­1RA, is highly effective in the treatment 
+of DIRA. Anakinra essentially replaces the IL-­1RA that patients with 
+DIRA cannot synthesize. The longer-­acting anti–IL-­1 agents canaki­
+numab and rilonacept also work with the advantage of less frequent 
+dosing compared to anakinra but are considerably more expensive.
+TNF Receptor–Associated Periodic Syndrome
+TNF receptor–associated periodic syndrome (TRAPS) is an autoso­
+mal dominant disease associated with missense variants in the extra­
+cellular domain of the TNF receptor 1 (TNFR1) gene (TNFRSF1A) 
+(see Table 54.2). The clinical manifestations of TRAPS include recur­
+rent and often prolonged fevers, abdominal pain, and arthralgias. A 
+migratory rash with underlying fascial inflammation and myalgia 
+can be seen, as well as conjunctivitis and periorbital edema (Fig. 
+54.6). Increased serum levels of CRP, ESR, leukocytosis, and throm­
+bocytosis are evident during and in between attacks. Initial insights 
+into the pathophysiology of this disorder came when patients with 
+TRAPS exhibited low serum levels of soluble TNFR1, suggesting that 
+shedding of TNF receptors acts as a natural antagonist to TNF-­α. In 
+support of this, the TNF-­α antagonist etanercept has been shown to 
+reduce the severity of symptoms in some cases of TRAPS. However, 
+not all patients with TRAPS have low serum TNFR1 levels, and TNF-­
+α inhibition is not completely effective. Reports have also shown the 
+beneficial effects of IL-­1 inhibition and the anti–IL-­6 receptor anti­
+body tocilizumab.
+Deficiency of Adenosine Deaminase 2
+Deficiency of adenosine deaminase 2 (DADA2) is an autosomal reces­
+sive disorder due to loss of function of CECR1, which encodes adeno­
+sine deaminase 2 (ADA2) (see Table 54.2). The clinical manifestations 
+of DADA2 begin in childhood with intermittent fevers, recurrent 
+lacunar strokes, organomegaly, hypogammaglobulinemia, and sys­
+temic vasculitides. Pure red cell aplasia, immune thrombocytopenia, 
+neutropenia, and bone marrow failure have been observed. The lacu­
+nar strokes begin before the age of 5 years and typically occur during 
+inflammatory episodes. A livedo-­like rash is a prominent feature with 
+biopsies showing a predominance of neutrophils and macrophages as 
+well as vasculitis in medium-­sized vessels. Some of these patients are 
+diagnosed with early-­onset polyarteritis nodosa. Treatment with glu­
+cocorticoids, TNF-­α inhibitors, and IL-­1 blockers has been utilized 
+with some benefit. Hematopoietic stem cell transplantation is increas­
+ingly the treatment of choice for this disorder.
+Interferonopathies
+Another group of disorders that result in spontaneous inflamma­
+tion are known as interferonopathies (Fig. 54.7 and Table 54.4). 
+Interferonopathies are genetic defects that result in the spontaneous 
+B
+A
+Fig. 54.4  Neonatal-­onset multisystem inflammatory disorder. A, An urticaria-­like rash is usually present at 
+birth or during the first months of life. B, The rash is nonpruritic and papular. (Courtesy Dr. Raphaela Gold­
+bach-Mansky, NIAID, NIH.)
+Fig. 54.5  Deficiency of interleukin-­1 receptor antagonist. This young 
+male with failure to thrive and multifocal lytic lesions of bone showed 
+numerous plaques of erythematous pustules. (From Paller AS, Mancini 
+AJ, eds. Hurwitz Clinical Pediatric Dermatology. 5th ed. Philadelphia: 
+Elsevier; 2016:587, Fig. 25-­25.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1023
+CHAPTER 54  Recurrent Fever, Immune Deficiency, and Autoinflammatory Disorders
+STING
+TRAP
+ADAR1
+PSMB8
+TREX1
+SAMHD1
+RNASEH2A
+RNASEH2C
+RNASEH2B
+RIG-I
+C1q
+Skin involvement
+CNS involvement
+PSMA3
+PSMB4
+ISG15
+USP18
+POLA1
+STING
+PSMB4
+PSMA3
+TREX1
+SAMHD1
+RNASEH2A
+RNASEH2B
+RNASEH2C
+PSMB8
+MDA5
+ADAR1
+TRAP
+C1q
+MDA5
+ISG15
+USP18
+Lung
+inflammation
+Lung
+infection
+Gastrointestinal
+involvement
+Bilateral
+striatal
+necrosis
+SKIV2L
+Lupus
+POLA1
+Developmental
+delay
+Malignancy
+Glaucoma
+Skin
+vasculopathy
+Spastic
+paraparesis
+Fig. 54.7  Specific and overlapping features of monogenic type 1 interferonopathies. In the broadest sense, 
+central nervous system (CNS) and skin disease are the most common features of the type 1 interferonop­
+athies. Discrete neurologic phenotypes associated with variants in AGS-­associated genes include “non­
+syndromic” spastic paraparesis (RNASEH2B, ADAR1, and IFIH1) and bilateral striatal necrosis (ADAR1). 
+Glaucoma is a common feature of AGS and is also seen in the Singleton-Merten syndrome phenotype asso­
+ciated with gain-­of-­function variants in IFIH1 and DDX58 (RIG-­I). Systemic lupus erythematosus (lupus) is 
+most frequently associated with variants in ACP5 and C1q. Malignancy has only been reported in the context 
+of SAMHD1. Lung inflammation is so far restricted to patients with variants in TMEM173 (STING). The phe­
+notypes associated with variants in POLA1 and SKIV2L appear distinct. (From Rodero MP, Crow YJ. Type 1 
+interferon-­mediated monogenic autoinflammation: the type I interferonopathies, a conceptual overview. J 
+Exp Med. 2016;21:2527–2538 [Fig. 2, p. 2531].)
+C
+A
+B
+D
+E
+Fig. 54.6  Cutaneous findings associated with tumor necrosis factor receptor–associated periodic syndrome 
+(TRAPS) may consist of macular areas of erythema on the torso (A) or on an extremity (B). C, Sagittal views of 
+the proximal thighs of a TRAPS patient demonstrating edematous changes within muscle compartments (black 
+arrows), here and extending to the skin (white arrows). D, Peritoneal inflammation can lead to adhesions. E, 
+Periorbital edema is commonly observed in TRAPS patients during a flare. (From Barron K, Kastner DL. Periodic 
+fever syndromes and other inherited autoinflammatory diseases. In: Petty RE, Laxer RM, Lindsley CB, et al, eds. 
+Textbook of Pediatric Rheumatology. 8th ed. Philadelphia: Elsevier; 2020, Fig. 39.2.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1024
+SECTION 10  Infectious Diseases/Immune/Inflammation
+production of type 1 interferons, which leads to inflammation and 
+characteristic features. The genetic defects occur in genes that process 
+or detect intracellular nucleic acids, a sign of viral infections, resulting 
+in the production of type 1 interferon and subsequent systemic inflam­
+mation. Since interferons signal through Janus kinases, which results 
+in inflammation, targeted therapies with Janus kinase inhibitors have 
+shown promise.
+STING-­Associated Vasculopathy
+STING-­associated vasculopathy of infancy (SAVI) is an autoinflam­
+matory disorder that presents with intermittent low-­grade fevers; 
+rashes on the cheeks, nose, or digits; myositis; arthritis; and evidence 
+of interstitial lung disease (see Table 54.2). The vascular involvement 
+can be significant resulting in ulceration of the distal extremities with 
+tissue infarcts (Fig. 54.8). Autosomal dominantly inherited variants in 
+the signaling molecule STING, which senses altered intracytoplasmic 
+double-­stranded DNA levels, lead to its spontaneous activation and 
+the production of type 1 interferon. Currently there is no treatment, 
+although Janus kinase inhibitors are available based on in vitro studies 
+and case reports.
+Chronic Atypical Neutrophilic Dermatosis with 
+Lipodystrophy and Elevated Temperature
+Misfolded or damaged proteins are degraded by the proteasome, and 
+defects in the proteasome lead to buildup of dysfunctional or misfolded 
+TABLE 54.4  Mutated Gene, Protein Function, Pattern of Inheritance, and Main Symptoms of 
+Known Type 1 Interferonopathies
+Disease
+Gene
+Protein Function
+Inheritance
+Symptoms
+Aicardi-­Goutières syndrome 
+(AGS) type 1
+TREX-­1
+3’-­5’ DNA exonuclease
+AR and AD
+Classical AGS
+AGS2
+RNASEH2B
+Components of RNase H2 complex. 
+Removes ribonucleotides from 
+RNA-­DNA hybrids
+AR
+Classical AGS
+AGS3
+RNASEH2C
+Classical AGS
+AGS4
+RNASEH2A
+Classical AGS with dysmorphic features
+AGS5
+SAMHD1
+Restricts the availability of cytosolic 
+deoxynucleotides
+AR
+Mild AGS, mouth ulcer, deforming arthropathy, 
+cerebral vasculopathy with early-­onset stroke
+AGS6
+ADAR
+Deaminates adenosine to inosine in 
+endogenous dsRNA, preventing 
+recognition by MDA5 receptor
+AR and AD
+Classical AGS, bilateral striatal necrosis
+AGS7
+IFIH1
+Cytosolic receptor for dsRNA
+AD
+Classic or mild AGS, asymptomatic
+Retinal vasculopathy with 
+cerebral leukodystrophy (RVCL)
+TREX-­1
+3’-­5’ DNA exonuclease
+AD
+Adult-­onset loss of vision, stroke, motor impairment, 
+cognitive decline, Raynaud, and liver involvement
+Spondyloenchondrodysplasia 
+(SPENCD)
+ACP5
+Lysosomal phosphatase activity
+AR
+Spondyloenchondrodysplasia, immune disregulation, 
+and in some cases combined immunodeficiency
+STING-­associated vasculopathy 
+with onset in infancy (SAVI)
+TMEM173
+Transduction of cytoplasmic DNA-­
+induced signal
+AD
+Systemic inflammation, cutaneous vasculopathy, 
+pulmonary inflammation
+Proteasome-­associated 
+autoinflammatory 
+syndrome (PRAAS)
+PSMB8
+Part of the proteasome complex
+AR
+Autoinflammation, lipodystrophy, dermatosis, 
+hyperimmunoglobulinemia, joint contractures, 
+short stature
+ISG15 deficiency
+ISG15
+Stabilizes USP18, a negative 
+regulator of type 1 interferon
+AR
+Brain calcifications, seizures, mycobacterial 
+susceptibility
+Singleton-­Merten 
+syndrome (SMS)
+IFIH1
+Cytosolic receptor for dsRNA
+AD
+Dental dysplasia, aortic calcifications, skeletal 
+abnormalities, glaucoma, psoriasis
+Atypical SMS
+DDX58
+Cytosolic receptor for dsRNA
+AD
+Aortic calcifications, skeletal abnormalities, 
+glaucoma, psoriasis
+Trichohepatoenteric 
+syndrome (THES)
+SKIV2L
+RNA helicase
+AR
+Severe intractable diarrhea, hair abnormalities 
+(trichorrhexis nodosa), facial dysmorphism, 
+immunodeficiency in most cases
+From Volpi S, Picco P, Caorsi R, et al. Type 1 interferonopathies in pediatric rheumatology. Pediatr Rheumatol. 2016;14:35: https://doi.org/10.1186/
+s12969-­016-­0094-­4
+Fig. 54.8  Stimulator of interferon genes (STING)-­associated vasculop­
+athy with onset in infancy (SAVI) syndrome. These two unrelated boys 
+both show the acral telangiectatic vasculopathy of SAVI syndrome. One 
+of these boys died at 14 years of age because of his pulmonary disease. 
+(From Paller AS, Mancini AJ, eds. Hurwitz Clinical Pediatric Dermatol­
+ogy. 5th ed. Philadelphia: Elsevier; 2016:587, Fig. 25-­26.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1025
+CHAPTER 54  Recurrent Fever, Immune Deficiency, and Autoinflammatory Disorders
+proteins. This buildup occurs during viral infections and is sensed by 
+the cell with resultant interferon production. Chronic atypical neutro­
+philic dermatosis with lipodystrophy and elevated temperature (CAN­
+DLE) occurs due to genetic defects in the proteasome with resultant 
+type 1 interferon production (see Table 54.2). Mild infections, cold, 
+or stress affects metabolic demands, which can precipitate episodes of 
+inflammation in this disorder. Features include early-­onset recurrent 
+fevers; rashes on the fingers, toes, face, and ears; and erythematous 
+or violaceous periorbital and perioral edema. Erythematous nodules, 
+plaques, and purpuric lesions can occur, and biopsies demonstrate leu­
+kocytoclastic vasculitis with fibrinoid necrosis and panniculitis. Labs 
+are significant for elevated inflammatory markers, chronic anemia, 
+thrombocytosis, and hypergammaglobulinemia. Over time lipodys­
+trophy, aseptic meningitis, and synovitis develop. Autosomal recessive 
+loss-­of-­function variants in the PSMB8 gene, which codes for the prote­
+asome subunit β5i, is the classic defect, but genetic variants in the other 
+subunits of the proteasome may also result in CANDLE syndrome.
+NF-­κB Related Disorders
+Nuclear factor-­κB (NF-­κB) family members are sequestered in the 
+cytoplasm bound to inhibitory proteins, and when activated these pro­
+teins are degraded via the ubiquitin pathway, allowing for the nuclear 
+translocation of NF-­κB and the transcription of many inflammatory 
+proteins. De-­ubiquitinating enzymes inhibit this process, and genetic 
+variants in two of these proteins, otulin and A20, lead to autoinflam­
+matory disorders. Otulipenia, due to homozygous loss-­of-­function 
+variants in the FAM105B gene that encode otulin, may present with 
+episodes of recurrent fevers, joint swelling, painful nodular red rash, 
+gastrointestinal inflammation with diarrhea, and failure to thrive. Biop­
+sies of the rash will show a neutrophilic dermatosis and small/medium-­
+vessel vasculitis. A20 haploinsufficiency is an autosomal dominantly 
+inherited autoinflammatory disorder caused by genetic variants in the 
+TNFAIP3 gene (see Table 54.2). Patients present with systemic inflam­
+mation, oral and genital ulcers, uveitis, and fevers similar to familial 
+Behçet disease. Other autoinflammatory disorders, such as Blau syn­
+drome, have also been postulated to lead to NF-­κB activation. Blau 
+syndrome is an autosomal dominant disease caused by variants in 
+NOD2 that result in spontaneous activation of the NOD2 protein, 
+activation of NF-­κB, and production of proinflammatory cytokines. 
+Blau syndrome was originally described as a granulomatous disease 
+affecting the skin, joints, and uveal tract and should be considered in 
+any individual presenting with early-­onset sarcoidosis. Blau syndrome 
+presents with a boggy synovitis of large joints, particularly the wrists 
+and ankles, and an erythematous papular rash similar to erythema 
+nodosum. Biopsy of these lesions demonstrates noncaseating granulo­
+mas. Unlike sarcoidosis, respiratory involvement and hilar adenopathy 
+are rare, although granulomatous liver disease, cranial neuropathies, 
+and large-­vessel vasculitis can occur. Laboratory studies in Blau syn­
+drome are typically normal, although elevated ESR and angiotensin-­
+converting enzyme levels can be seen, and hypergammaglobulinemia 
+can occur. Most patients with Blau syndrome have been treated with 
+corticosteroids, although limited reports have shown effectiveness of 
+infliximab, thalidomide, and possibly anakinra.
+THE IMMUNODEFICIENT PATIENT
+Approximately 5–10% of children with recurrent infections have 
+an underlying primary immunodeficiency. Frequently, the onset of 
+infections occurs between the ages of 6 and 12 months, but delays 
+in diagnosis are not uncommon. In addition, certain immune defi­
+ciencies such as common variable immunodeficiency disease (CVID) 
+can present in adolescence or young adulthood; thus, it is critical to 
+consider immune defects in children of any age. Infections in patients 
+with primary immune deficiencies often vary in type, location, and 
+severity, although sinopulmonary infections are common. Failure 
+to thrive may occur and can be a sign of a serious immune defect. 
+Patients with primary immune defects often require repeated courses 
+of antibiotics or intravenous antibiotics or may have infections with 
+unusual organisms or exhibit unexpected complications. Such chil­
+dren may respond to antibiotics but become ill when the medications 
+are discontinued.
+In a patient with recurrent infections and recurrent fevers, it can be 
+difficult to pinpoint the cause of the infections. The immune system has 
+four primary components:
+	1.	 Antibody-­mediated immunity (humoral or B-­cell immunity) is 
+mediated by bone marrow–derived B lymphocytes and plasma cells 
+(differentiated antibody-­producing cells), which release antibodies 
+(immunoglobulins) into secretions, plasma, and interstitial spaces. 
+Antibodies work to opsonize and promote phagocytosis of organ­
+isms, prevent infection by pathogens, neutralize toxins, and lyse 
+pathogens (with the aid of complements).
+	2.	 Cell-­mediated immunity (T-­cell immunity) is mediated by 
+thymus-­derived T lymphocytes (i.e., CD4 and CD8 T cells) that are 
+activated by antigen-­presenting cells (e.g., dendritic cells, macro­
+phages) and antigens. Although T cells do not produce immuno­
+globulin, CD4 T cells are necessary for optimal B-­cell function. CD4 
+T cells also express cytokines that activate phagocytes to efficiently 
+clear intracellular pathogens. CD8 T cells lyse virally infected cells.
+	3.	 The phagocytic system consists of tissue macrophages and den­
+dritic cells, as well as blood-­borne monocytes and neutrophils. In 
+response to specific signals, phagocytes ingest and kill invading 
+microorganisms. Dendritic cells also serve as antigen-­presenting 
+cells for T cells.
+	4.	 The complement system acts synergistically with antibodies and 
+the remainder of the immune system to help clear microbial infec­
+tions both directly (complement-­mediated cytolysis) and indirectly 
+(recruitment of phagocytic cells, opsonization of microbes).
+The different arms of the immune system are interconnected, and 
+thus similar infections may occur as a manifestation of phagocyte, 
+humoral, cell-­mediated, or complement disorders that can be inherited 
+or acquired (Table 54.5). Alternatively, highly characteristic infections 
+can point to a defect in a particular arm of the immune system (Tables 
+54.6, 54.7, and 54.8). Most patients with recurrent infections do not 
+have an underlying identifiable primary immunodeficiency, but they 
+frequently have allergic rhinitis, asthma, or other risks for recurrent 
+infections (see Table 54.1). Because of the low probability of identify­
+ing a discrete immune defect, the primary physician faces the difficult 
+decision about the extent of the evaluation and which patients merit a 
+complete evaluation.
+Diagnostic Approach to the Patient with Recurrent 
+Infections
+Patients with recurrent, severe, or unusual infections involving multi­
+ple sites or organ systems should be investigated for an immunodefi­
+ciency (Fig. 54.9). Initial tests are recommended for patients suspected 
+of a primary immune deficiency, although a variety of immune defects 
+can occur despite normal screening tests. Thus, it is recommended 
+that advanced testing be performed in consultation with a clinical 
+immunologist.
+A CBC with manual differential should always be obtained in the 
+evaluation of any child suspected of immunodeficiency. A neutrophil 
+count below 500/mm3 might indicate an associated immune defect, 
+severe congenital neutropenia, cyclic neutropenia, idiopathic neutro­
+penia, marrow failure, or replacement of marrow by leukemia or a 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1026
+SECTION 10  Infectious Diseases/Immune/Inflammation
+tumor if other hematopoietic cell lines are affected (Table 54.9). Anal­
+ysis of the peripheral blood smear is important as this can detect neu­
+trophil abnormalities (e.g., abnormal granules in Chédiak-­Higashi) or 
+evidence of asplenia (i.e., Howell-­Jolly bodies).
+Serum immunoglobulin levels (IgG, IgA, IgM, IgE) are essential to 
+the work-­up of suspected primary immunodeficiency. Antibody levels 
+vary with age, with normal adult values of IgG at birth from transpla­
+cental transfer of maternal IgG, a physiologic nadir occurring between 
+3 and 6 months of age, and a gradual increase to adult values over sev­
+eral years. IgA and IgM are low at birth and levels increase gradually 
+over several years, with IgA taking the longest to reach normal adult 
+values. When IgG levels are low, albumin levels should be measured 
+because increased loss of proteins, as in protein-­losing enteropathy 
+or nephrotic syndrome, can result in hypogammaglobulinemia. High 
+immunoglobulin levels suggest intact B-­cell immunity and can be 
+found in diseases with recurrent infections, such as chronic granulo­
+matous disease (CGD), immotile cilia syndrome, cystic fibrosis, HIV 
+infection, autoimmune diseases (lupus), and other disorders leading 
+to chronic inflammation. Elevated IgE levels can be found in a num­
+ber of immune deficiencies such as hyper-­IgE syndrome but more 
+likely represent atopic disease. Undiagnosed asthma is frequently a 
+cause of prolonged or frequent URIs, which masquerades as a primary 
+immunodeficiency.
+Specific antibody titers after childhood vaccination (tetanus, 
+diphtheria, H. influenzae type b, or Streptococcus pneumoniae) reflect 
+the capacity of the immune system to synthesize specific antibodies 
+and to develop memory B cells. If titers are low, immunization with 
+a specific vaccine and obtaining titers 4–6 weeks later should be per­
+formed to confirm a response to the immunization. Poor response to 
+bacterial polysaccharide antigens is often found before 24 months of 
+age; even in older individuals the antibody response to polysaccharide 
+vaccines is typically less robust and less long-­lived than protein anti­
+gens. The development of protein-­conjugate polysaccharide vaccines 
+to S. pneumoniae and H. influenzae has dramatically reduced invasive 
+TABLE 54.5  Cause and Mechanism of Recurrent Infection in Immunodeficiency States
+Disorder
+Pathogen
+Deficiency
+Primary Immunodeficiencies
+Humoral immunodeficiency 
+syndromes (predominantly 
+B-­cell defects)
+Bacterial pathogens, enteroviruses, Giardia lamblia
+Reduced phagocytic efficiency, failure of lysis and 
+agglutination of bacteria, inadequate neutralization of 
+virus and bacterial toxins
+Cellular immunodeficiency 
+syndromes (predominantly 
+T-­cell defects)
+CMV, VZV, warts, Strongyloides stercoralis; Mycobacterium, 
+Listeria, Nocardia; Cryptococcus, Candida species; Pneumocystis 
+carinii
+Absence of or impaired delayed hypersensitivity 
+response; absence of T-­cell cooperation for B-­cell 
+synthesis of antibodies to T-­cell–specific antigens; 
+absence of T-­cell cytokines that activate mononuclear 
+phagocytes, failure of T-­cell clearance of viruses
+Complement Deficiencies
+C1, C2, C3, C4, and factor B
+Streptococcus pyogenes, Streptococcus pneumoniae, Staphyloco­ccus 
+aureus, Haemophilus influenzae, Klebsiella species
+Defective chemotaxis and opsonization of microbes
+C5–C8 and properdin deficiencies
+Neisseria meningitidis, Neisseria gonorrhoeae
+Defective membrane attack mechanism
+Phagocyte Defects
+Neutropenia (ANC < 500/mm3)
+Pyogenic bacteria or fungi, Pseudomonas species, Staphylococcus 
+aureus
+Decreased neutrophil numbers
+Chronic granulomatous disease
+Catalase-­positive organisms, e.g., S. aureus, Serratia species, 
+Burkholderia cepacia, Nocardia species, Candida species, 
+Aspergillus species
+Impaired neutrophil bactericidal activity secondary to 
+impaired production of hydrogen peroxide
+Secondary Immunodeficiencies
+AIDS
+CMV, VZV, adenovirus, HBV, Giardia lamblia, Entamoeba histolytica, 
+Mycobacterium avium–intracellulare, 
+Toxoplasma gondii, Mycobacterium tuberculosis, Cryptococcus 
+neoformans, Pneumocystis jirovecii; Campylobacter, 
+Candida, Isospora, Aspergillus, Nocardia, Strongyloides, and 
+Cryptosporidium species
+CD4 lymphopenia with reduced TH1 response
+Cancer
+VZV, HSV, Escherichia coli; Pseudomonas, Klebsiella, Listeria, 
+Cryptococcus, Pneumocystis, and Mycobacterium species
+Neutropenia, lymphopenia, impaired cellular immunity
+Immunosuppression
+HSV, VZV, CMV, EBV, hepatitis virus, Pseudomonas species, E. coli; 
+Klebsiella, Acinetobacter, Serratia, Candida, Aspergillus, Mucor, and 
+Cryptococcus species
+Dependent on agent used, leads often to impaired 
+cellular immunity and neutropenia, lymphopenia
+Transplantation
+CMV, HSV, VZV, hepatitis virus, S. aureus; Pseudomonas, Klebsiella, 
+Candida, Aspergillus, Nocardia, and Pneumocystis species; EBV
+Related to use of immunosuppressive agents
+Malnutrition
+Measles, HSV, VZV, Mycobacterium species
+Impaired T-­cell function, reduction in complement activity
+ANC, absolute neutrophil count; CMV, cytomegalovirus; EBV, Epstein-­Barr virus; HBV, hepatitis B virus; HSV, herpes simplex virus; VZV, varicella-­
+zoster virus.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1027
+CHAPTER 54  Recurrent Fever, Immune Deficiency, and Autoinflammatory Disorders
+TABLE 54.6  Characteristic Pathogens Affecting Immunocompromised Patients
+I. Humoral Defects
+	A.	 Antibody Deficiency (B-­Cell Defects)
+	
+1.	 Bacteria
+Staphylococcus aureus (sepsis, sinopulmonary infection)
+Haemophilus influenzae (sepsis, meningitis, arthritis, sinopulmonary 
+infection)
+Streptococcus pneumoniae (sepsis, meningitis, arthritis)
+Pseudomonas aeruginosa (sepsis, pneumonia)
+Mycoplasma species (arthritis, pneumonia)
+Salmonella species (enteritis)
+Campylobacter species (enteritis)
+	
+2.	 Viruses
+Enterovirus, including polio vaccine (encephalitis, paralysis, myositis, 
+arthritis)
+Rotavirus (enteritis)
+	
+3.	 Protozoa
+Giardia lamblia (enteritis)
+	B.	 Complement Deficiencies
+	
+1.	 C1, C2, C3, C4, factor B
+Streptococcus pyogenes
+S. pneumoniae, S. aureus, H. influenzae, Neisseria meningitidis, 
+Klebsiella species (sepsis, meningitis, arthritis)
+	
+2.	 C5–C8, properdin deficiency
+N. meningitidis, Neisseria gonorrhoeae (meningitis, sepsis, arthritis)
+II. Combined B-­ and T-­Cell Defects (Congenital, AIDS, 
+Immunosuppression Malignancies)
+	A.	 Bacteria
+Listeria monocytogenes (sepsis, meningitis)
+Salmonella (sepsis)
+Mycobacterium tuberculosis (pneumonia, disseminated disease)
+Atypical mycobacteria (Mycobacterium avium, Mycobacterium 
+intracellulare) (sepsis, pneumonia, disseminated disease)
+Nocardia species (pneumonia, CNS infection)
+Legionella species (pneumonia)
+	B.	 Fungi
+Cryptococcus neoformans (sepsis, meningitis)
+Histoplasma capsulatum (pneumonia, disseminated disease)
+Coccidioides immitis (pneumonia, meningitis)
+	C.	 Viruses
+Varicella-­zoster (cutaneous and CNS infection, pneumonia, hepatitis)
+Cytomegalovirus (bone marrow infection, pneumonia, retinitis, 
+esophagitis, colitis, CNS infection)
+Herpes simplex (CNS infection, pneumonia, esophagitis, hepatitis, 
+disseminated disease)
+Epstein-­Barr virus (lymphoma)
+Measles (pneumonia, encephalitis)
+Polyomavirus BK (hemorrhagic cystitis, ureteric stenosis, renal insufficiency)
+Polyomavirus JC (progressive multifocal leukoencephalopathy)
+Papilloma viruses
+	D.	 Protozoa
+Pneumocystis carinii (pneumonia, rare extrapulmonary spread)
+Toxoplasma gondii (CNS infection, myocarditis)
+Cryptosporidium species (enteritis)
+	E.	 Helminths
+Strongyloides stercoralis (enteritis, pneumonia, sepsis, meningitis)
+III. Neutropenia (Severe Chronic Neutropenia, 
+Aplastic Anemia, Myelosuppression, Myelophthisis 
+Myelosuppressive Agents, Bone Marrow Transplantation)
+	A.	 Bacteria
+Escherichia coli (sepsis, pneumonia, pyelonephritis)
+Klebsiella pneumoniae (sepsis, pneumonia)
+P. aeruginosa (sepsis, pneumonia, cutaneous lesions)
+Mixed anaerobic and aerobic enteric bacteria (typhlitis, perianal abscess)
+S. aureus (sepsis, cellulitis, soft tissue infection)
+Staphylococcus epidermidis (line infection)
+Corynebacterium JK strain (sepsis)
+α-­Hemolytic streptococci (sepsis)
+	B.	 Fungi
+Candida species (sepsis, pneumonia, ophthalmitis, liver and spleen 
+abscesses)
+Aspergillus species (sepsis, pneumonia, sinusitis, CNS infection, 
+cutaneous lesions)
+Mucor (pneumonia, sinusitis, CNS infection)
+Fusarium species (sepsis, cutaneous lesions, pneumonia)
+Alternaria species (sepsis, cutaneous lesions)
+IV. Phagocytic Dysfunction
+	A.	 Chronic Granulomatous Disease
+Bacteria (soft tissue, lymphadenitis, pneumonia, osteomyelitis)
+Catalase-­positive organisms (e.g., S. aureus, Serratia marcescens, 
+Burkholderia cepacia, Nocardia species)
+Fungi (pneumonia, liver infection, soft tissue), Candida species, 
+Aspergillus species
+	B.	 Other Phagocyte Defects (Leukocyte Adhesion Deficiency 
+Hyperimmunoglobulin E, Chédiak-­Higashi syndrome, Specific Granule 
+Deficiency, Rac-­2 Deficiency)
+Bacteria (soft tissue, pneumonia, lymphadenitis)
+Pseudomonas species, S. aureus, E. coli, Klebsiella, Enterobacter species
+Fungus (pneumonia)
+Candida infection if diabetic
+CNS, central nervous system.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1028
+SECTION 10  Infectious Diseases/Immune/Inflammation
+infections with these organisms in early childhood by improving the 
+response to vaccination. Antibody responses to the S. pneumoniae 
+serotypes found in the 23-­valent polysaccharide vaccine, but not in 
+the conjugate vaccine, can be used to test antibody responses to poly­
+saccharide antigens.
+Complement assays include the CH50 test, which measures the 
+presence of proteins in the classical pathway of complement (C1, C2, 
+C3, C4), and the AH50 test, which tests the proteins of the alterna­
+tive pathway of complement (C3, factor B, properdin). In patients with 
+deficiencies in complement protein, the CH50 levels or AH50 levels are 
+generally zero, whereas they are low but not absent in disorders leading 
+to complement consumption (e.g., systemic lupus erythematosus). If 
+both the CH50 and AH50 levels are abnormal, a defect in the common 
+TABLE 54.7  Clinical Aids to the Diagnosis 
+of Immunodeficiency
+Suggestive of B-­Cell Defect (Humoral Immunodeficiency)
+Recurrent bacterial infections of the upper and lower respiratory tracts
+Recurrent skin infections, meningitis, osteomyelitis secondary to 
+encapsulated bacteria (Streptococcus pneumoniae, Haemophilus 
+influenzae, Staphylococcus aureus, Neisseria meningitidis)
+Severe Giardia lamblia infections
+Paralysis after vaccination with live attenuated poliovirus
+Reduced levels of immunoglobulins
+Suggestive of T-­Cell Defect (Combined Immunodeficiency)
+Systemic illness after vaccination with any live virus or bacille Calmette-­
+Guérin (BCG)
+Unusual life-­threatening complication after infection with benign viruses 
+(giant cell pneumonia with measles; varicella pneumonia)
+Chronic oral candidiasis after 6 mo of age
+Chronic mucocutaneous candidiasis
+Graft versus host disease after blood transfusion
+Reduced lymphocyte counts for age
+Low level of immunoglobulins
+Absence of lymph nodes and tonsils
+Small thymus
+Chronic diarrhea
+Failure to thrive
+Recurrent infections with opportunistic organisms
+Generalized, recurrent, recalcitrant warts
+Suggestive of Macrophage Dysfunction
+Disseminated atypical mycobacterial infection, recurrent Salmonella 
+infection
+Fatal infection after BCG vaccination
+Congenital Syndromes with Immunodeficiency
+Ataxia-­telangiectasia: ataxia, telangiectasia
+Autoimmune polyglandular syndrome: hypofunction of one or more endocrine 
+organs, chronic mucocutaneous candidiasis
+Cartilage-­hair hypoplasia: short-­limbed dwarfism, sparse hair, neutropenia
+Wiskott-­Aldrich syndrome: thrombocytopenia, male gender, eczema
+Chédiak-­Higashi syndrome: oculocutaneous albinism, nystagmus, recurrent 
+bacterial infections, peripheral neuropathies
+DiGeorge syndrome (22q deletion syndrome): unusual facies, heart defect, 
+hypocalcemia
+CHARGE syndrome: coloboma, heart defects, atresia choanae, retarded 
+growth, genital hypoplasia, ear anomalies/deafness
+Short-­limb skeletal dysplasia with combined immune deficiency: metaphyseal 
+dysplasia, ADA deficiency, or Omenn syndrome
+X-­linked agammaglobulinemia with growth hormone deficiency: 
+hypogammaglobulinemia, growth hormone deficiency
+Kabuki syndrome: long palpebral fissures, prominent eyelashes, congenital 
+heart disease
+Timothy syndrome: prolonged QT, congenital heart disease, developmental 
+delay
+PTEN tumor hamartoma syndrome: multiple hamartomas, cancer
+Suggestive of Asplenia
+Heterotaxia, complex congenital heart disease, Howell-­Jolly bodies on blood 
+smear, sickle cell anemia
+ADA, adenosine deaminase.
+TABLE 54.8  Sentinel Infections and Related 
+Genes
+Infections
+Recognized Gene Defects and 
+Well-­Characterized Syndromes
+Viruses
+Herpes simplex 
+encephalitis
+TBK1, TLR3, TRAF3, TRIF, UNC93B
+Cutaneous herpes 
+simplex
+Severe T-­cell defects, DOCK8, GATA2, WAS
+EBV—chronic
+CD21, CD27, CORO1A, ITK, MAGT1, PRKCD, 
+CXCR4
+EBV—HLH
+AP3B1, LYST1, PRF1, RAB27A, SH2D1A, STX11, 
+UNC13D, XIAP
+CMV
+Severe T-­cell defects, Good syndrome, DOCK8, 
+GATA2, STIM1, WAS
+Papilloma virus
+Idiopathic CD4 lymphopenia, ATM, CD40L, EVER1, 
+EVER2, DOCK8, GATA2, IKBKG, MST1, RORH, 
+STK4, CXCR4
+Fungi
+Candida
+AIRE, CARD9, IL17F, IL17RA, STAT1
+Aspergillus
+Idiopathic CD4 lymphopenia, CYBA, CYBB, 
+DOCK8, GATA2, ITGB2, NCF1, NCF2, NCF4, 
+STAT3
+Bacteria
+Pseudomonas
+Congenital neutropenia, IRAK4, ITGB2, 
+MYD88, BTK  (neutropenia), CD40LG 
+(neutropenia)
+Salmonella
+CYBB, IFNGR1, IFNGR2, IL12B, IL12RB1
+Serratia
+CYBA, CYBB, NCF1, NCF2, NCF4
+Neisseria
+C5, C6, C7, C8A, C8B, C8G, C9, CFD, CFH, CFI, 
+CFP
+Streptococcus 
+pneumoniae
+C1QA, C1QB, C1QC, C4A + C4B, C2, C3, IRAK4, 
+MYD88
+Mycobacteria
+Mycobacteria
+CYBA, CYBB, GATA2, IFNGR1, IFNGR2, IKBKG, 
+IL12, IL12RB1, IRF8, NCF1, NCF2, NCF4, STAT1, 
+TYK2
+HLH, hemophagocytic lymphohistiocytosis.
+From Sullivan KE, Stiehm ER, eds. Stiehm’s Immune Deficiencies. 2nd 
+ed. London: Elsevier; 2020, Table 1.2.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1029
+CHAPTER 54  Recurrent Fever, Immune Deficiency, and Autoinflammatory Disorders
+pathway is likely (C5–C9). Specialized laboratories can measure the 
+presence or function of specific complement proteins.
+If the aforementioned studies are normal but a primary immune 
+deficiency is still suspected, advanced studies can be performed. One 
+such advanced study is flow cytometry to enumerate the percentage 
+and absolute numbers of T cells, B cells and markers of B-­cell matu­
+ration, and natural killer (NK)-­cell subsets. Flow cytometry can also 
+test for the presence of surface proteins that are necessary for normal 
+immunity, such as major histocompatibility complex molecules or 
+adhesion molecules. Functional T-­cell tests include T-­cell proliferation 
+assays in response to mitogens (phytohemagglutinin or concanavalin 
+A) or antigens (tetanus toxoid or Candida). These in vitro assays assess 
+the capacity of T cells to proliferate in response to a nonspecific stim­
+ulus (mitogens) or antigen-­specific memory T cells (antigens). T-­cell 
+proliferation in response to specific antigens requires a prior expo­
+sure to that unique antigen. Delayed-­type hypersensitivity skin tests 
+to protein antigens such as tetanus, diphtheria, Candida, or mumps 
+demonstrate the presence and function of both antigen-­specific T cells 
+and antigen-­presenting cells. If delayed-­type hypersensitivity skin test 
+results are negative, one may consider a booster vaccination and retest­
+ing 4 weeks later.
+Tests for neutrophil function include the dihydrorhodamine 123 
+(DHR) or nitroblue tetrazolium (NBT) test. The DHR assay is the most 
+commonly used and preferred test for the diagnosis of CGD. In the 
+DHR test, oxygen radicals generated by the enzyme nicotinamide ade­
+nine dinucleotide phosphate (NADPH) oxidase in activated neutro­
+phils generate H2O2, which oxidizes DHR, resulting in the emission of 
+light that is detected by flow cytometry. In all forms of CGD, NADPH 
+If normal, consult with clinical 
+immunologist, consider the 
+following 
+• History and physical exam 
+• CBC with differential counts 
+• Cultures/Imaging 
+• IgG, IgA, IgM, IgE levels 
+• Diphtheria, tetanus titers 
+• Pneumococcus, Haemophilus titers 
+• CH50, AH50 
+Suspect phagocyte 
+defect 
+Suspect humoral defect 
+Suspect combined 
+defect 
+• Dihydrorhodamine for 
+  CGD 
+• Flow cytometry for T 
+  cells (CD4, CD8), B 
+  cells, NK cells 
+• Flow cytometry for T 
+  cells (CD4, CD8), B 
+  cells, NK cells 
+• Flow cytometry for 
+  LAD1 (CD11/CD18) or 
+  LAD2 (CD15) 
+• Enumerate 
+  percentage of naïve, 
+  memory, and switched 
+  memory B cells 
+• Enumerate 
+  percentage of 
+  memory vs naïve T 
+  cells (CD45 isoform 
+  expression) 
+• Consider neutrophil 
+  chemotaxis assays 
+• Functional B cell 
+  studies 
+• T cell mitogen studies 
+• IL-12 receptor/IFN
+  receptor expression 
+  and function 
+Fig. 54.9  Initial work-­up and follow-­up studies of patients with suspected immune deficiency. Consultation 
+with a clinical immunologist is recommended to guide advanced testing and interpret results. CGD, chronic 
+granulomatous disease; Ig, immunoglobulin; LAD, leukocyte adhesion defect; NK, natural killer; IL, interleu­
+kin; IFN, interferon.
+TABLE 54.9  Neutropenia-­Associated 
+Immune Deficiencies
+Phenotype
+Gene Defect
+Severe congenital neutropenia
+HAX1
+ELANE
+G6PC3
+WAS
+VPS45
+Moderate neutropenia
+GSPT1
+PNP
+CXCR4
+Dyskeratosis congenital genes
+VPS13B
+SBDS
+TAZ
+RMRP
+LAMTOR2
+Intermittent neutropenia
+BTK
+CD40L
+Hemophagocytic disorders
+LYST
+RAB27A
+AP3B1
+SH2D1A
+XIAP
+From Sullivan KE, Stiehm ER, eds. Stiehm’s Immune Deficiencies. 2nd 
+ed. London: Elsevier; 2020, Table 1.7.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1030
+SECTION 10  Infectious Diseases/Immune/Inflammation
+oxidase in neutrophils is either poorly functional or nonfunctional. 
+Therefore, neutrophils that are activated in patients with CGD cannot 
+generate oxygen radicals and therefore they have an abnormal DHR 
+test (no increase in light emitted from activated neutrophils).
+Genetic testing to ascertain or confirm the diagnosis of a pri­
+mary immunodeficiency is often essential to make the diagnosis of 
+a primary immunodeficiency. Defining a genetic cause of a primary 
+immunodeficiency is important in deciding on the optimal course 
+of treatment, determining the natural history and prognosis of the 
+disease, genetic counseling, and prenatal diagnosis. Genetic pan­
+els, which include genes known to be implicated in specific types 
+of immunodeficiencies such as phagocytic defects, humoral defi­
+ciencies, or severe combined immunodeficiency, are frequently per­
+formed. More extensive genetic testing, such as exome sequencing, 
+may be used in particularly complicated cases or when genetic panels 
+fail to yield a diagnosis.
+HUMORAL IMMUNE DISORDERS
+Immune disorders that result in impaired immunoglobulin production 
+can result in recurrent infections, typically of the sinopulmonary tract 
+(pneumonia, sinusitis, otitis media), although more disseminated infec­
+tions can occur (meningitis, sepsis, cellulitis) (Table 54.10). These indi­
+viduals do not typically have infections with opportunistic pathogens 
+such as Cryptosporidium, Pneumocystis, or fungi that are characteristic 
+of combined immune deficiencies (T-­cell-­ or cell-­mediated defects).
+X-­Linked Agammaglobulinemia
+X-­linked agammaglobulinemia (XLA; Bruton agammaglobulinemia) 
+is caused by variants in the gene that encodes Bruton tyrosine kinase 
+(BTK) and accounts for approximately 85% of all inherited forms of 
+agammaglobulinemias (see Table 54.10). BTK is a cytoplasmic tyrosine 
+kinase that is essential for pre–B-­cell differentiation into mature B cells. 
+TABLE 54.10  Humoral Immune Deficiencies
+Disease
+Genetic Defect/Presumed 
+Pathogenesis
+Inheritance
+Serum IgG
+Associated Features
+Severe Reduction in All Serum Immunoglobulin Isotypes with Profoundly Decreased or Absent B Cells
+BTK deficiency
+BTK, a cytoplasmic tyrosine kinase 
+activated by cross-­linking of the BCR
+XL
+All isotypes decreased in majority 
+of patients; some patients have 
+detectable immunoglobulins
+Severe bacterial and enteroviral 
+infections
+μ Heavy chain 
+deficiency
+IGHM; essential component of the 
+pre-­BCR
+AR
+All isotypes decreased
+Severe bacterial and enteroviral 
+infections
+λ5 Deficiency
+IGLL1; part of the surrogate light chain in 
+the pre-­BCR
+AR
+All isotypes decreased
+Severe bacterial and enteroviral 
+infections
+Igα deficiency
+CD79A; part of the pre-­BCR and BCR
+AR
+All isotypes decreased
+Severe bacterial and enteroviral 
+infections
+Igβ deficiency
+CD79B; part of the pre-­BCR and BCR
+AR
+All isotypes decreased
+Severe bacterial and enteroviral 
+infections
+BLNK deficiency
+BLNK; a scaffold protein that binds to 
+BTK
+AR
+All isotypes decreased
+Severe bacterial and enteroviral 
+infections
+PI3 kinase 
+deficiency
+PIK3R1; a kinase involved in signal 
+transduction in multiple cell types
+AR
+All isotypes low
+Severe bacterial infections
+Severe Reduction in at Least Two Serum Immunoglobulin Isotypes with Normal or Low Number of B Cells
+Common variable 
+immunodeficiency 
+disorders
+Unknown
+Variable
+Low IgG and IgA and/or IgM
+Clinical phenotypes vary: Most have 
+recurrent infections, some have 
+polyclonal lymphoproliferation, 
+autoimmune cytopenias, and/or 
+multisystemic granulomatous disease
+ICOS deficiency
+ICOS; a costimulatory molecule expressed 
+on T cells
+AR
+Low IgG and IgA and/or IgM
+Recurrent infections; autoimmunity, 
+gastroenteritis, granuloma in some
+CD19 deficiency
+CD19; transmembrane protein that 
+amplifies signal through BCR
+AR
+Low IgG and IgA and/or IgM
+Recurrent infections; may have 
+glomerulonephritis
+CD81 deficiency
+CD81; transmembrane protein that 
+amplifies signal through BCR
+AR
+Low IgG, low or normal IgA and IgM Recurrent infections; may have 
+glomerulonephritis
+CD20 deficiency
+CD20; a B-­cell surface receptor involved 
+in B-­cell development and plasma cell 
+differentiation
+AR
+Low IgG, normal or elevated IgM 
+and IgA
+Recurrent infections
+CD21 deficiency
+CD21; also known as complement 
+receptor 2 and forms part of the CD19 
+complex
+AR
+Low IgG; impaired 
+antipneumococcal response
+Recurrent infections
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1031
+CHAPTER 54  Recurrent Fever, Immune Deficiency, and Autoinflammatory Disorders
+Affected children exhibit severe reductions in serum immunoglobu­
+lins and a serious risk for recurrent and sometimes life-­threatening 
+infections. Expression of the BTK gene also occurs in myeloid cells and 
+appears to be essential in preventing apoptosis in neutrophils due to 
+cellular stress early in life. This biological function of BTK may account 
+for the neutropenia associated with this condition, which typically 
+occurs with serious infection at the time of initial presentation.
+Although some affected children are asymptomatic until the age of 2 
+years, most show symptoms between 6 and 9 months of age when mater­
+nal transplacental acquired antibodies disappear. Affected individuals 
+develop recurrent infections (recurrent otitis media, sinusitis, pneumo­
+nia, meningitis) with pyogenic bacteria, such as pneumococci, staphylo­
+cocci, streptococci, and Haemophilus species. They also have an unusual 
+susceptibility to infection by enteroviruses, which can lead to chronic 
+diarrhea, hepatitis, pneumonitis, and persistent meningo-­encephalitis. 
+Most live attenuated viral or bacterial vaccines are contraindicated in 
+patients with XLA. The live attenuated polio vaccine is particularly prob­
+lematic and has caused paralysis in some XLA patients. XLA patients 
+have marked hypoplasia of lymphoid tissue (adenoids, tonsils, lymph 
+nodes) with absence of germinal centers and rare plasma cells. The diag­
+nosis should be considered if the serum IgG, IgM, and IgA levels are <5% 
+of age-­adjusted control values in a patient with normal T-­cell function. 
+In most patients, the number of B cells in the peripheral blood is severely 
+reduced or absent. Treatment includes aggressive antibiotic manage­
+ment of infections and replacement immunoglobulin therapy, although 
+chronic pulmonary and gastrointestinal diseases may still occur.
+A variety of genetic defects involved in B-­cell development also lead 
+to agammaglobulinemia, including μ heavy chain, λ5, Igα, Igβ, PI3KR1, 
+and BLNK (see Table 54.10). These are inherited in an autosomal reces­
+sive manner and exhibit similar clinical and laboratory phenotype.
+Common Variable Immunodeficiency
+CVID is a heterogeneous immunodeficiency characterized by 
+hypogammaglobulinemia developing after an initial period of normal 
+immune function, most commonly in the second and third decades of 
+life (see Table 54.10). The etiology of CVID in the majority of cases is 
+unknown, although a minority of patients have variants in the genes 
+encoding for ICOS (“inducible costimulator” on activated T cells), 
+TACI (transmembrane activator and calcium-­modulating cyclophilin 
+ligand interactor), CD19, CD21, CD81, or BAFF-­R (see Table 54.10).
+Patients with CVID are susceptible to frequent respiratory tract 
+infections due to pneumoniae, H. influenzae type b, and Mycoplasma. 
+Bronchiectasis due to recurrent pyogenic lung infections is a frequent 
+complication. Gastrointestinal infections with Giardia, Campylobacter, 
+Salmonella, Helicobacter, and enteroviruses are common. Bacterial 
+overgrowth in the gut may lead to diarrhea, steatorrhea, malabsorp­
+tion, and protein-­losing enteropathy. Patients exhibit normal-­sized or 
+enlarged tonsils and lymph nodes and frequently have splenomegaly.
+In addition to the infectious complications of CVID, noninfectious 
+complications of CVID are common and the most common cause of 
+death. Autoimmune hemolytic anemia and autoimmune thrombocy­
+topenia occur frequently. Multisystemic granulomatous disease occurs 
+in approximately 20–30% of patients, with noncaseating granulomas 
+occurring most frequently in the lung, liver, spleen, and skin. When the 
+granulomatous inflammation affects the lungs, it causes an interstitial 
+lung disease known as granulomatous and lymphocytic interstitial 
+lung disease (GLILD). GLILD is frequently misdiagnosed as sarcoid­
+osis and may lead to significant pulmonary fibrosis causing respiratory 
+failure. Enteropathy is another serious complication of CVID and can 
+be confused with celiac disease and lead to chronic diarrhea, protein 
+loss, and poor nutrition. Patients with CVID are also at increased risk 
+for inflammatory bowel disease. Nodular regenerative hyperplasia of 
+the liver is the most common liver disease in CVID, is characterized 
+initially by an increased alkaline phosphatase and relatively normal 
+alanine transaminase (ALT) and aspartate transaminase (AST), and 
+is frequently complicated by clinically significant portal hypertension 
+early in the course of the disease. Patients with CVID are at high risk 
+to develop B-­cell lymphomas, which are Epstein-­Barr virus (EBV) neg­
+ative. The etiology of these noninfectious complications of CVID is 
+unknown. GLILD, gastrointestinal tract disease, in particular enterop­
+athy, liver disease, and B-­cell lymphomas are independent risk factors 
+for early mortality in CVID.
+TABLE 54.10  Humoral Immune Deficiencies—cont’d
+Disease
+Genetic Defect/Presumed 
+Pathogenesis
+Inheritance
+Serum IgG
+Associated Features
+Severe Reduction in at Least Two Serum Immunoglobulin Isotypes with Normal or Low Number of B Cells—cont’d
+TACI deficiency
+TNFRSF13B (TACI); a TNF receptor family 
+member found on B cells and is a 
+receptor for BAFF and APRIL
+AD or AR or 
+complex
+Low IgG and IgA and/or IgM
+Variable clinical expression
+BAFF receptor 
+deficiency
+TNFRSF13C (BAFF-­R); a TNF receptor 
+family member found on B cells and is a 
+receptor for BAFF
+AR
+Low IgG and IgM
+Variable clinical expression
+AID deficiency
+AICDA gene
+AR
+IgG and IgA decreased; IgM normal 
+or increased
+Bacterial infections, enlarged lymph 
+nodes, and germinal centers
+UNG deficiency
+UNG
+AR
+IgG and IgA decreased; IgM normal 
+or increased
+Bacterial infections, enlarged lymph 
+nodes, and germinal centers
+Selective IgA 
+deficiency
+Unknown
+Variable
+IgA decreased/absent
+Usually asymptomatic; may have 
+recurrent infections with poor 
+antibody responses to carbohydrate 
+antigens; may have allergies or 
+autoimmune disease; a very few 
+cases progress to CVID, and others 
+coexist with CVID in the family
+AD, autosomal dominant; AR, autosomal recessive; BCR, B-­cell receptor; CVID, common variable immunodeficiency disease; Ig, immunoglobulin; 
+TNF, tumor necrosis factor; XL, X-­linked.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1032
+SECTION 10  Infectious Diseases/Immune/Inflammation
+The diagnosis of CVID requires that age-­adjusted serum IgG lev­
+els be <2 standard deviations (SD) below normal values together with 
+low serum IgA levels (mg/dL) and/or low serum IgM levels. Specific 
+antibody production following immunization with polysaccharide 
+antigens (e.g., unconjugated pneumococcal vaccine) is low or absent, 
+and responses to protein antigens (e.g., tetanus and diphtheria) may be 
+impaired. T-­cell numbers and function are highly variable, and B-­cell 
+numbers are usually normal but may be low. It is important to exclude 
+XLA, X-­linked lymphoproliferative disease, or hyper-­IgM syndrome as 
+well as other causes of hypogammaglobulinemia, such as hypogam­
+maglobulinemia associated with thymoma, hypogammaglobulinemia 
+secondary to protein-­losing enteropathy or other protein-­losing states, 
+or hypogammaglobulinemia secondary to medications (rituximab, 
+systemic corticosteroids), before making the diagnosis of CVID.
+Transient Hypogammaglobulinemia of Infancy
+The fetus is capable of producing IgM or IgG by the 20th week of ges­
+tation when adequately stimulated (intrauterine infection), but under 
+normal conditions neonatal levels of IgG are a reflection of prior 
+maternal immunity via transplacental passage of maternal IgG. Signif­
+icant antibody production does not normally begin until the second or 
+third month of life; elevated IgA and IgM in a newborn can be a sign 
+of an intrauterine or perinatal infection. Because maternal antibodies 
+have a half-­life of approximately 30 days, the term infant may develop 
+a variable physiologic hypogammaglobulinemia between the ages of 4 
+and 9 months. In transient hypogammaglobulinemia of infancy, the 
+immunoglobulin nadir at 6 months of age is accentuated, with immu­
+noglobulin levels <200 mg/dL. Immunoglobulin levels remain dimin­
+ished throughout the first year of life and usually increase to normal, 
+age-­appropriate levels, generally by 2–4 years of age. If the hypogam­
+maglobulinemia is profound in extent or duration, recurrent viral and 
+pyogenic infections can occur. The diagnosis is supported by normal 
+levels of both B and T cells and normal antibody responses to protein 
+antigens such as diphtheria and tetanus toxoids. The transient nature 
+of this disorder cannot be confirmed, however, until immunoglobulin 
+levels return to normal ranges. Most patients do not require immune 
+globulin replacement therapy.
+Immunoglobulin A Deficiency
+Selective IgA deficiency is defined as serum IgA levels <10 mg/dL 
+with normal levels of other immunoglobulins. The diagnosis cannot 
+be confirmed until the patient is at least 4 years of age when IgA levels 
+should reach adult levels. Selective IgA deficiency is the most common 
+immune disorder, occurring in approximately 1 in 500 individuals. 
+Most patients with selective IgA deficiency are asymptomatic. In oth­
+ers, it is associated with recurrent sinopulmonary infections, food 
+allergy, autoimmune disease, or celiac disease. IgA deficiency rarely 
+occurs in families and can exhibit either autosomal recessive or autoso­
+mal dominant inheritance with variable penetrance. Antibody replace­
+ment therapy is not indicated for IgA deficiency. In patients with IgA 
+deficiency and increased infections, other reasons for recurrent infec­
+tion should be sought (atopic disease). Blood products often contain 
+IgA, and IgA-­deficient patients may develop antibodies against IgA. 
+Therefore, IgA-­deficient patients may be prone to anaphylactic reac­
+tions upon administration of blood products containing IgA; this is a 
+relatively rare complication of IgA deficiency.
+Specific Antibody Deficiency
+Specific antibody deficiency syndrome is characterized by recurrent 
+sinopulmonary infections with normal immunoglobulin levels and 
+normal lymphocyte numbers and subsets, but a decreased ability to 
+make specific antibodies in response to polysaccharide vaccines, such 
+as to the 23-­valent pneumococcal vaccine. Children younger than 2 
+years of age may not respond well to polysaccharide vaccines, so inter­
+preting these results must include consideration of the age of the child. 
+The pathogenesis of this disorder is unknown. Lack of specific anti­
+body titers to polysaccharide vaccines and recurrent sinopulmonary 
+infections with encapsulated bacteria may necessitate the use of pro­
+phylactic antibiotics or uncommonly replacement antibody therapy. 
+Specific antibody deficiency many times resolves as the child becomes 
+older.
+Hyperimmunoglobulin M Syndrome
+Hyperimmunoglobulin M (hyper-­IgM) syndrome results from a fail­
+ure of B cells to undergo class switching from IgM to IgA, IgG, or 
+IgE. The failure to efficiently class switch can result in recurrent infec­
+tions. Hyper-­IgM syndrome was first described as a result of defects in 
+CD40 ligand or CD40, although these disorders are actually combined 
+immunodeficiency disorders and are discussed later. Deficiencies 
+in activation-­induced cytidine deaminase (AID) and uracil DNA-­
+glycosylase (UNG), two enzymes involved in class switch recombina­
+tion, can result in hyper-­IgM syndrome without cell-­mediated defects 
+(see Table 54.10). Quantitative immunoglobulins in AID and UNG 
+deficiency demonstrate a low IgG and IgA and a normal or elevated 
+IgM. The clinical manifestations are similar to other significant anti­
+body deficiencies.
+COMBINED IMMUNODEFICIENCY DISORDERS
+T cells are required to activate macrophages and to optimally activate B 
+lymphocytes, and thus disorders of T lymphocytes result in defects in 
+both cell-­mediated and humoral immunity and are termed combined 
+immune deficiencies. Patients with combined defects in T-­ and B-­cell 
+function have infections with the usual community-­acquired patho­
+gens as well as opportunistic or unusual pathogens, and infections may 
+be more severe or in unusual anatomic sites compared to normal indi­
+viduals (see Tables 54.5, 54.6, and 54.7). In many cases they may have 
+other associated problems such as autoimmune problems, malignan­
+cies, or failure to thrive.
+Severe Combined Immunodeficiency
+Severe combined immunodeficiency (SCID) is a primary immunode­
+ficiency caused by variants in one of several genes whose function is 
+essential for the normal development of T cells (Table 54.11). In all 
+forms of SCID there are profound abnormalities in T cells and subse­
+quently B-­cell function is abnormal. Clinical manifestations of SCID 
+generally begin within the first 4 months of life with the waning of 
+maternal antibody and include failure to thrive; severe bacterial, viral, 
+or fungal infections; and intractable diarrhea. Infections with oppor­
+tunistic pathogens such as Pneumocystis jiroveci and Cryptosporidium 
+are common. Infections with Candida frequently involve the mucous 
+membranes (mouth, esophagus, vagina), face, and diaper area, which 
+are difficult to treat. Chronic viral infections including pneumonitis 
+caused by adenovirus or CMV, disseminated varicella, and measles 
+infections occur. Chronic infection following immunization with live 
+viral vaccines (measles, mumps, rubella, varicella, rotavirus) are fre­
+quent. Fatal, disseminated mycobacterial infection following bacille 
+Calmette-­Guérin (BCG) vaccination is frequently seen in parts of the 
+world that use the BCG vaccine.
+Patients with SCID may have skin disease similar to eczema due to 
+graft versus host disease (GVHD) from engraftment of maternal lym­
+phocytes or Omenn syndrome. Omenn syndrome, a variant form of 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1033
+CHAPTER 54  Recurrent Fever, Immune Deficiency, and Autoinflammatory Disorders
+SCID, is characterized by erythroderma and desquamation, lymphade­
+nopathy, hepatosplenomegaly, marked eosinophilia, elevated serum 
+IgE, and impaired T-­cell function. Omenn syndrome is caused by 
+hypomorphic variants that preserve limited function in SCID-­causing 
+genes, usually RAG1, RAG2, or Artemis (DCLRE1C). Patients with 
+Omenn syndrome have T cells in the periphery, but these T cells are 
+typically expanded oligoclonal Th2 cells that secrete high levels of IL-­4 
+and IL-­5, which lead to the clinical phenotype. Omenn syndrome is 
+fatal unless corrected by bone marrow transplantation. Patients with 
+SCID are extremely susceptible to fatal GVHD from T lymphocytes in 
+blood transfusions, and these patients should always receive irradiated 
+blood products. Fatal CMV infections may also develop in patients 
+with SCID receiving blood products from CMV-­positive donors. 
+Therefore, all blood products in these patients should be from CMV-­
+negative donors.
+Patients with SCID exhibit severe deficits in immunoglobulin syn­
+thesis and the responses to specific antigens are impaired. B cells may 
+be absent or increased, but a profound decrease in naive T cells is always 
+present. The number of T cells in the peripheral blood is generally fewer 
+than 10% of normal (<200 cells/mm3), and T cells show decreased pro­
+liferative responses to mitogens, decreased cytotoxicity, and decreased 
+immunoregulatory activity. SCID is uniformly fatal without definitive 
+treatment, which is hematopoietic stem cell transplantation (HSCT) or 
+in some cases gene therapy. Newborn screening for SCID using the 
+T-­cell receptor excision circle (TREC) assay occurs in all of the United 
+States and in an increasing number of countries. TRECs are formed 
+during DNA recombination of the T-­cell receptor, are biomarkers of 
+naive T cells, and can be enumerated on the dried blood spots obtained 
+for routine newborn screening tests. The TREC assay is highly sensi­
+tive at detecting SCID in newborns before life-­threatening infectious 
+TABLE 54.11  Severe Combined Immunodeficiency (SCID)
+Disease
+Genetic Defect/
+Pathogenesis
+Inheritance
+Circulating 
+T Cells
+Circulating 
+B Cells
+Serum Ig
+Associated Features
+γc Deficiency
+IL-­2RG: defect in γ chain of receptors 
+for IL-­2, -­4, -­7, -­9, -­15, -­21
+XL
+Markedly 
+decreased
+Normal or 
+increased
+Decreased
+Markedly decreased NK cells
+JAK3 deficiency
+JAK3: defect in Janus-­activating 
+kinase 3
+AR
+Markedly 
+decreased
+Normal or 
+increased
+Decreased
+Markedly decreased NK cells
+IL7Rα deficiency
+IL7RA: defect in IL-­7 receptor α chain
+AR
+Markedly 
+decreased
+Normal or 
+increased
+Decreased
+Normal NK cells
+CD45 deficiency
+PTPRC: defect in CD45
+AR
+Markedly 
+decreased
+Normal
+Decreased
+Normal γ/δ T cells
+CD3δ deficiency
+CD3D: defect in CD3δ chain of T-­cell 
+antigen receptor complex
+AR
+Markedly 
+decreased
+Normal
+Decreased
+Normal NK cells, no γ/δ T cells
+CD3ε deficiency
+CD3E: defect in CD3ε chain of T-­cell 
+antigen receptor complex
+AR
+Markedly 
+decreased
+Normal
+Decreased
+Normal NK cells, no γ/δ T cells
+CD3ζ deficiency
+CD3Z: defect in CD3ζ chain of T-­cell 
+antigen receptor complex
+AR
+Markedly 
+decreased
+Normal
+Decreased
+Normal NK cells, no γ/δ T cells
+SCID Characterized by Lack of T and B Cells (DNA Recombination Defects)
+RAG 1 deficiency
+RAG1: defective VDJ recombination; 
+defect of recombinase-­activating 
+gene (RAG) 1
+AR
+Markedly 
+decreased
+Markedly 
+decreased
+Decreased
+RAG 2 deficiency
+RAG2: defective VDJ recombination; 
+defect of recombinase-­activating 
+gene (RAG) 2
+AR
+Markedly 
+decreased
+Markedly 
+decreased
+Decreased
+DCLRE1C 
+(Artemis) 
+deficiency
+ARTEMIS: defective VDJ 
+recombination; defect in Artemis 
+DNA recombinase repair protein
+AR
+Markedly 
+decreased
+Markedly 
+decreased
+Decreased
+Radiation sensitivity
+DNA PKcs 
+deficiency
+PKRDC: defective VDJ recombination; 
+defect in DNA PKcs recombinase 
+repair protein
+AR
+Markedly 
+decreased
+Markedly 
+decreased
+Decreased
+Radiation sensitivity, 
+microcephaly, and 
+developmental defects
+Reticular 
+dysgenesis, AK2 
+deficiency
+AK2: defective maturation of lymphoid 
+and myeloid cells (stem cell defect)
+AR
+Markedly 
+decreased
+Decreased or 
+normal
+Decreased
+Granulocytopenia and deafness
+Adenosine 
+deaminase 
+(ADA1) 
+deficiency
+ADA1: defective ADA activity
+AR
+Absent from birth 
+or progressive
+Decreased or 
+normal
+Decreased
+Decreased NK cells, often with 
+costochondral junction defects, 
+neurologic features; partial 
+ADA activity may result in 
+delayed or milder presentation
+AR, autosomal recessive; Ig, immunoglobulin; NK, natural killer cell; XL, X-­linked.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1034
+SECTION 10  Infectious Diseases/Immune/Inflammation
+complications occur. Early detection and treatment of newborns with 
+SCID using the TREC assay improves long-­term survival to >90%.
+X-­linked recessive SCID, which is caused by variants in the com­
+mon gamma chain of the IL-­2 receptor gene (IL2RG), is the most com­
+mon form of SCID (see Table 54.11). The IL2RG protein is shared by 
+several interleukin receptors (IL-­2, IL-­4, IL-­7, IL-­9, IL-­15, and IL-­21). 
+The lack of T and NK cells is due to defective signaling through the IL-­7 
+and IL-­15 receptors, respectively. IL-­21 is required for efficient B-­cell 
+function. Female carriers can be identified because lymphocytes and 
+NK cells exhibit nonrandom inactivation of the X chromosome.
+Autosomal recessive SCID is less common than X-­linked SCID and 
+is caused by many different genetic defects that can be broken down 
+based on the cell types that are lacking. A lack of T cells but not B cells is 
+seen in genetic defects in T-­cell signaling proteins including JAK3, IL7R, 
+and CD3 subunits (see Table 54.11). A lack of T and B cells is seen in 
+defects in genes that affect DNA recombination, which is required to 
+generate T-­ and B-­cell receptors, including RAG1, RAG2, and DCLRE1C 
+(artemis) (see Table 54.11). Adenosine deaminase (ADA) deficiency, 
+an autosomal recessive trait, results in an inability to catalyze the con­
+version of adenosine and deoxyadenosine to inosine and deoxyinosine, 
+respectively. Deficiency of ADA results in the accumulation of deoxyade­
+nosine and deoxyadenosine triphosphate, which is toxic to lymphocytes, 
+resulting in loss of T, B, and NK cells. Regardless of the genetic cause of 
+SCID, all patients have extremely low numbers of naive T cells and all 
+exhibit the typical clinical features in terms of susceptibility to infection, 
+failure to thrive, and 100% mortality without definitive treatment.
+COMBINED IMMUNE DEFICIENCIES
+Combined immunodeficiencies are genetic defects that result in defec­
+tive T-­cell function with or without intrinsic B-­cell abnormalities 
+(Table 54.12). Because T-­cell function is abnormal, B-­cell function is 
+also compromised leading to a combined immunodeficiency, albeit less 
+severe than SCID.
+TABLE 54.12  Combined Immune Deficiencies
+Disease
+Genetic Defect/ 
+Presumed 
+Pathogenesis
+Inheritance
+Circulating 
+T Cells
+Circulating 
+B Cells
+Serum Ig
+Associated Features
+CD40L deficiency
+CD40LG (also called TNFSF5 
+or CD154)
+XL
+Normal
+B-­cell numbers 
+may be normal 
+or increased
+IgG and IgA 
+decreased; 
+IgM normal or 
+increased
+Bacterial and opportunistic 
+infections, neutropenia, 
+autoimmune disease
+CD40 deficiency
+CD40 (also called TNFRSF5)
+AR
+Normal
+B-­cell numbers 
+may be normal 
+or increased
+IgG and IgA 
+decreased; 
+IgM normal or 
+increased
+Bacterial and opportunistic 
+infections, neutropenia, 
+autoimmune disease
+Purine nucleoside 
+phosphorylase (PNP) 
+deficiency
+PNP, absent PNP, and T-­cell 
+and neurologic defects 
+from elevated toxic 
+metabolites, especially 
+dGTP
+AR
+Progressive 
+decrease
+Normal
+Normal or 
+decreased
+Autoimmune hemolytic 
+anemia, neurologic 
+impairment
+ZAP70 deficiency
+ZAP70 intracellular signaling 
+kinase, acts downstream 
+of TCR
+AR
+Decreased CD8, 
+normal CD4 
+cells
+Normal
+Normal
+Autoimmunity in some cases
+MHC class I deficiency
+TAP1, TAP2, or TAPBP 
+(tapasin) genes giving 
+MHC class I deficiency
+AR
+Decreased CD8, 
+normal CD4
+Normal
+Normal
+Vasculitis; pyoderma 
+gangrenosum
+MHC class II 
+deficiency
+MHC class II proteins (CIITA, 
+RFX5, RFXAP, RFXANK 
+genes)
+AR
+Normal number, 
+decreased CD4 
+cells
+Normal
+Normal or 
+decreased
+Failure to thrive, diarrhea, 
+respiratory tract infections, 
+liver/biliary tract disease
+AD 
+hyperimmunoglobulin 
+E syndrome (HIES) 
+(Job syndrome)
+Dominant negative 
+heterozygous variants in 
+STAT3
+AD; often de 
+novo defect
+Normal Th-­17 
+and T follicular 
+helper cells 
+decreased
+Normal; 
+switched and 
+nonswitched 
+memory B cells 
+are reduced; 
+BAFF level 
+increased
+Elevated IgE; 
+specific antibody 
+production 
+decreased
+Distinctive facial features 
+(broad nasal bridge), eczema, 
+osteoporosis, and fractures; 
+scoliosis, delay of shedding 
+primary teeth, hyperextensible 
+joints, bacterial infections 
+(skin and pulmonary 
+abscesses, pneumatoceles) 
+due to Staphylococcus 
+aureus, candidiasis, aneurysm 
+formation
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1035
+CHAPTER 54  Recurrent Fever, Immune Deficiency, and Autoinflammatory Disorders
+Hyper-­IgM syndrome is characterized by normal or increased 
+concentrations of IgM and IgD but decreased levels or absence of 
+IgG, IgA, and IgE (see Table 54.12). The most common form of these 
+disorders is X-­linked hyper-­IgM syndrome, which is due to a variant 
+in the gene encoding the T-­cell surface protein CD40 ligand (CD40L). 
+A rarer, autosomal recessive form of this disorder is caused by vari­
+ants in the CD40 gene, which is expressed on the surface of B cells 
+and antigen-­presenting cells (see Table 54.12). The CD40/CD40L 
+pathway is essential for B-­cell isotype switching, which allows a B 
+cell to maintain antigen specificity while altering immunoglobulin 
+function. Isotype class switching requires specific cytokines and the 
+interaction between CD40 ligand on CD4 T cells and CD40 on B 
+cells. All patients with hyper-­IgM syndrome due to genetic defects 
+in CD40L or CD40 have increased susceptibility to sinopulmonary 
+infections with pyogenic bacteria. These individuals are also suscep­
+tible to opportunistic infections including P. jiroveci (carinii) and 
+Cryptosporidium parvum. Signaling via CD40 on B cells accounts 
+for the defects in antibody production and class switching, while 
+defective CD40 signaling in phagocytes and antigen-­presenting cells 
+accounts for the susceptibility to opportunistic pathogens. In addi­
+tion, as many as 50% of patients with CD40L deficiency will exhibit 
+neutropenia.
+Signal transduction via CD40 activates several signaling molecules 
+and transcription factors, including NF-­κB, and two enzymes, AID and 
+UNG, which are also required for class switching. Damaging variants 
+in AID or UNG cause a failure of immunoglobulin isotype switching 
+without opportunistic infections since these proteins function only in 
+isotype class switching and not cell-­mediated immunity.
+The hyper-­IgM phenotype is seen in a number of primary immune 
+deficiencies including an X-­linked immunodeficiency associated with 
+ectodermal dysplasia resulting from defects in the gene encoding the 
+NF-­κB essential modulator (NEMO). NF-­κB signaling is important 
+for function of both innate and adaptive immune systems. Therefore, 
+patients with defects in NEMO have a combined immunodeficiency 
+and are susceptible to a wide spectrum of viruses and bacteria, in par­
+ticular pyogenic bacteria (e.g., S. pneumoniae, H. influenzae) and atyp­
+ical mycobacteria.
+Gain-­of-­function variants in the catalytic domain of PI3 kinase 
+(PIK3CD) can also lead to elevated IgM levels, and initial patients 
+with this disease were misdiagnosed as having hyper-­IgM syndrome. 
+PIK3CD is expressed in B cells and T cells, and therefore gain-­of-­
+function variants in PIK3CD lead to the constitutive activation of PI3 
+kinase, resulting in impaired T-­cell and B-­cell function. These patients 
+present with recurrent sinopulmonary infections and have an increased 
+susceptibility to infection with herpes viruses. Autoimmunity, lymph­
+oproliferation (including an increased incidence of EBV-­induced 
+lymphoproliferative disease and B-­cell lymphomas), and structural 
+lung disease (bronchiectasis) commonly occur.
+Purine Nucleoside Phosphorylase Deficiency
+Purine nucleoside phosphorylase (PNP) is an enzyme that follows 
+adenosine deaminase in the purine salvage pathway and catalyzes the 
+conversion of inosine and guanosine to hypoxanthine and guanine, 
+respectively (see Table 54.12). PNP deficiency, which is inherited as 
+an autosomal recessive disorder, leads to the intracellular buildup of 
+deoxyguanosine triphosphate (deoxy-­GTP), which is toxic to rapidly 
+TABLE 54.12  Combined Immune Deficiencies—cont’d
+Disease
+Genetic Defect/ 
+Presumed 
+Pathogenesis
+Inheritance
+Circulating 
+T Cells
+Circulating 
+B Cells
+Serum Ig
+Associated Features
+DOCK8 deficiency
+DOCK8—regulator of 
+intracellular actin 
+reorganization
+AR
+Decreased 
+impaired 
+T-­lymphocyte 
+proliferation
+Decreased, low 
+CD27+ memory 
+B cells
+Low IgM, 
+increased IgE
+Low NK cells with impaired 
+function, hypereosinophilia, 
+recurrent infections; severe 
+atopy, extensive cutaneous 
+viral and bacterial 
+(Staphylococcus) infections, 
+susceptibility to cancer
+Omenn syndrome
+RAG1, RAG2, artemis, IL7RA, 
+RMRP, ADA, LIG4, IL2RG, 
+AK2, or associated with 
+DiGeorge syndrome; some 
+cases have no defined 
+gene variant
+Variable
+Present; restricted 
+T-­cell repertoire, 
+and impaired 
+function
+Normal or 
+decreased
+Decreased, except 
+increased IgE
+Erythroderma, eosinophilia, 
+adenopathies, 
+hepatosplenomegaly
+ITK deficiency
+ITK encoding IL-­2-­inducible 
+T-­cell kinase required for 
+TCR-­mediated activation
+AR
+Progressive 
+decrease
+Normal
+Normal or 
+decreased
+EBV-­associated B-­cell 
+lymphoproliferation, 
+lymphoma, normal or 
+decreased IgG
+Activated PI3K-­δ
+PIK3CD
+AD; gain of 
+function
+High IgM, low 
+IgA or IgG. 
+Reduced IgG2 
+and impaired 
+antibody to 
+pneumococci and 
+Haemophilus
+Respiratory infections, 
+bronchiectasis; 
+autoimmunity; chronic 
+EBV and EBV-­induced 
+lymphoproliferative disease
+CMV infection
+AD, autosomal dominant; AR, autosomal recessive; CMV, cytomegalovirus; dGTP, deoxyguanosine triphosphate; EBV, Epstein-­Barr virus; Ig, immu­
+noglobulin; IL, interleukin; MHC, major histocompatibility complex; NK, natural killer; TCR, T-­cell receptor; XL, X-­linked.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1036
+SECTION 10  Infectious Diseases/Immune/Inflammation
+dividing cells. Although PNP is ubiquitously expressed, PNP defi­
+ciency affects T cells and not B cells and leads to T-­cell lymphopenia 
+with preserved numbers of B cells. Although serum immunoglobulins 
+are usually normal, specific antibody production is impaired. A low 
+serum uric acid level is suggestive of PNP deficiency. Patients with PNP 
+deficiency are predisposed to infection with common and opportunis­
+tic pathogens. Autoimmunity and neurologic manifestations are also 
+common. The only curative treatment for PNP deficiency is HSCT.
+Hyperimmunoglobulin E Syndrome
+Classic hyperimmunoglobulin E syndrome (HIES), also known as Job 
+syndrome, is an autosomal dominant disorder caused by variants in 
+signal transducer and activator of transcription 3 (STAT3), an import­
+ant signaling molecule required for the signaling of several cytokines 
+such as IL-­6 and IL-­10 (see Table 54.12). Classic HIES is characterized 
+by markedly elevated levels of serum IgE, early-­onset severe eczema­
+tous dermatitis, recurrent bacterial infections (skin, respiratory tract, 
+bone), and chronic candidiasis (thrush, onychomycosis). Other associ­
+ated features include coarse facial features, manifested by a broad nasal 
+bridge, prominent nose, dental abnormalities, and irregular propor­
+tional cheeks and jaw. The eczematous rash is typically papular and 
+pruritic, involving the face and extensor surfaces of arms and legs, and 
+may start at birth or soon thereafter. The skin abscesses typically due to 
+S. aureus are remarkable for their absence of surrounding erythema or 
+warmth, leading to the term cold abscesses. By 5 years of age, all patients 
+have had a history of recurrent skin abscesses and recurrent pneumo­
+nias with pneumatoceles, along with chronic otitis media and sinusitis. 
+Patients may also develop septic arthritis, cellulitis, or osteomyelitis. 
+Fungal infections with Candida albicans and Aspergillus species occur. 
+Serum IgE levels typically exceed 2,500 IU/mL. Usually, patients with 
+HIES have normal concentrations of IgG, IgA, and IgM, and frequently 
+have eosinophilia. The clinical manifestations of DOCK8 deficiency 
+display considerable overlap with classic HIES, with high IgE levels, 
+eczema, and recurrent infections (see Table 54.12). However, patients 
+with DOCK8 deficiency typically lack pneumato­celes and bone and 
+tooth abnormalities. The optimal treatment of classic HIES is largely 
+supportive and includes antimicrobial therapy and, in selected patients, 
+replacement antibody. In contrast, HSCT is curative for DOCK8 
+deficiency.
+IMMUNODEFICIENCIES WITH SYNDROMIC 
+FEATURES
+Several genetic defects that affect the immune system also affect other 
+organ systems and thus represent a clinical syndrome (Tables 54.7 
+and 54.13). A careful history and exam can lead a clinician to the 
+diagnosis. Most of these conditions present with combined T-­ and 
+B-­cell defects.
+Wiskott-­Aldrich Syndrome
+Wiskott-­Aldrich syndrome (WAS) is an X-­linked recessive disorder 
+caused by variant in the gene that encodes the WAS protein, or WASP. 
+WASP controls the assembly of actin filaments and intracellular ves­
+icle transport in lymphocytes and megakaryocytes. WAS is char­
+acterized by abnormalities in lymphocyte, platelet, and phagocyte 
+function (see Table 54.13). Classic WAS is characterized by the triad 
+of recurrent infections involving encapsulated bacteria and opportu­
+nistic pathogens, hemorrhage secondary to thrombocytopenia and 
+platelet dysfunction, and atopic dermatitis. Variants in the WAS gene 
+can also cause X-­linked neutropenia and X-­linked thrombocytope­
+nia. The clinical manifestations of WAS begin in early infancy with 
+pneumonia, otitis media, meningitis, and bleeding. Patients are sus­
+ceptible to recurrent and severe infections with encapsulated bacteria 
+and viruses (herpes simplex virus, varicella, EBV, CMV). Fungal and 
+pneumocystis infections may occur as well. Autoimmunity is com­
+mon and includes cytopenias, vasculitis, arthritis, and inflammatory 
+bowel disease. Patients are also susceptible to malignancy, in partic­
+ular lymphoreticular malignancies. In classic WAS there is thrombo­
+cytopenia with abnormally small platelets. Deficiency of this protein 
+results in elevated levels of IgE and IgA, decreased IgG and/or IgM, 
+poor responses to polysaccharide antigens, and waning T-­cell func­
+tion. One-­third of patients with WAS die as a result of hemorrhage, 
+and two-­thirds die as a result of recurrent infection caused by bacte­
+ria, CMV, P. jiroveci, or herpes simplex virus. In classic WAS, HSCT is 
+the treatment of choice and long-­term survival is excellent in patients 
+with appropriately human leukocyte antigen (HLA)-­matched donors.
+Ataxia-­Telangiectasia
+Ataxia-­telangiectasia (AT) is an autosomal recessive disorder charac­
+terized by neurologic dysfunction, endocrine abnormalities, oculocu­
+taneous telangiectasia, immunodeficiency, and radiation sensitivity 
+with a high rate of malignancy (see Table 54.13). The defective gene is 
+the AT mutated gene (ATM) that encodes for a phosphatidylinositol 
+3-­kinase involved in sensing DNA damage and DNA repair. Cerebel­
+lar ataxia is usually the first clinical manifestation, occurring when 
+the child begins to walk. The patient’s neurologic status often wors­
+ens, and choreoathetosis and oculomotor abnormalities develop. Tel­
+angiectasias first appear in the bulbar conjunctivae between 2 and 5 
+years of age and later spread to areas of trauma. Endocrine abnormal­
+ities, such as insulin-­resistant diabetes mellitus and hypogonadism, 
+are common. There is a 15% risk of malignancy, with non-­Hodgkin 
+lymphoma being the most common. Patients with AT are extremely 
+sensitive to ionizing radiation, and radiographic studies should be 
+avoided if possible. Radiation sensitivity accounts for the high inci­
+dence of chromosomal translocations involving chromosomes 7 and 
+14 at the site of T-­cell receptor genes and immunoglobulin heavy-­
+chain genes.
+The degree of immunodeficiency in AT is quite variable and may 
+include abnormalities in T cells and B cells. Respiratory tract disease 
+is an important cause of morbidity and mortality and includes sin­
+opulmonary infection with encapsulated organisms, interstitial lung 
+disease, and lung disease associated with neuromuscular deficits 
+including recurrent aspiration. Opportunistic respiratory tract infec­
+tions are uncommon. There is no curative therapy for AT, although 
+antimicrobial prophylaxis and intravenous immunoglobulin (IVIG) 
+replacement are used to prevent infections.
+DiGeorge Syndrome (22q Deletion Syndrome) and Other 
+Thymic Defects
+22q Deletion syndrome is a disorder caused in the majority of cases by 
+microdeletion at chromosome 22q11.2, although a deletion at a second 
+locus at chromosome 10p13 results in a similar clinical picture. 22q 
+Deletion syndrome, also known as velocardiofacial syndrome, is char­
+acterized by a constellation of clinical features that include dysmor­
+phic facies, hypoparathyroidism, congenital heart defects, and T-­cell 
+lymphopenia (see Table 54.13). The clinical anomalies are caused by 
+maldevelopment of structures derived from the first through the sixth 
+branchial pouches during embryogenesis, resulting in variable hypo­
+plasia of the thymus, parathyroid glands, face, ears, aortic arch, and 
+heart. Congenital heart defects include truncus arteriosus, ventricular 
+septal defect, interrupted aortic arch, and tetralogy of Fallot. Hypocal­
+cemia with tetany is often the initial problem in the first and second 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1037
+CHAPTER 54  Recurrent Fever, Immune Deficiency, and Autoinflammatory Disorders
+months after birth. Facial abnormalities include microstomia, hyper­
+telorism, and low-­set ears.
+The degree of immunodeficiency is highly variable and related to 
+the extent of residual thymic function. In complete DiGeorge syndrome, 
+which occurs in <1% of patients, severe T-­cell deficiency leads to a dis­
+order resembling SCID with failure to thrive, and recurrent infections 
+with opportunistic organisms (P. jiroveci, viruses, and fungi). In contrast, 
+many other patients with 22q deletion syndrome exhibit relatively nor­
+mal immune function or relatively minor immunodeficiency. Autoim­
+munity, including autoimmune cytopenias, is common. The total T-­cell 
+count may vary from severely depressed to normal. No correlation has 
+been shown between the severity of congenital defects and the severity 
+of immunodeficiency, and immune function often improves with age.
+The diagnosis is established by chromosomal microarray or flu­
+orescent in situ hybridization to detect the usual deleted region in 
+chromosome 22q11.2. Approximately 10% of patients have hypogam­
+maglobulinemia with a minority requiring antibody replacement 
+therapy. Importantly, due to intrinsic defects in the thymus, patients 
+with 22q deletion syndrome cannot be treated with HSCT, although 
+transfer of mature T cells during transplant may confer some immune 
+function.
+CHARGE syndrome (coloboma, heart anomaly, choanal atresia, 
+retardation of growth, genital and ear anomalies) can be rarely seen 
+with features of DiGeorge syndrome when thymic aplasia is present. 
+Variants in CHD7 are the most common known cause of CHARGE 
+syndrome, although variants in SEMA3E are found in a minority of 
+patients (see Table 54.13). The degree of immunodeficiency is related to 
+the extent of thymic hypoplasia and T-­cell numbers and can be highly 
+variable. Similar to DiGeorge syndrome, some variants of CHD7 are a 
+cause of SCID with a profound T-­cell lymphopenia.
+TABLE 54.13  Combined Immune Deficiencies with Syndromic Features
+Disease
+Genetic Defect/ 
+Presumed 
+Pathogenesis
+Inheritance
+Circulating 
+T Cells
+Circulating 
+B Cells
+Serum Ig
+Associated Features
+Wiskott-­Aldrich 
+Syndrome 
+(WAS)
+WAS; cytoskeletal and 
+immunologic synapse 
+defect affecting 
+hematopoietic stem 
+cell derivatives
+XL
+Progressive 
+decrease, 
+abnormal 
+lymphocyte 
+responses to 
+anti-­CD3
+Normal
+Decreased IgM: 
+antibody to 
+polysaccharides 
+particularly 
+decreased; often 
+increased IgA and 
+IgE
+Thrombocytopenia with small platelets; 
+eczema; lymphoma; autoimmune 
+disease; IgA nephropathy; 
+bacterial and viral infections. XL 
+thrombocytopenia is a mild form of 
+WAS, and XL neutropenia is caused 
+by missense variants in the GTPase 
+binding domain of WAS protein
+Ataxia-­
+telangiectasia
+ATM; disorder of cell 
+cycle checkpoint; and 
+DNA double-­stranded 
+break repair
+AR
+Progressive 
+decrease
+Normal
+Often decreased 
+IgA, IgE, and 
+IgG subclasses; 
+increased IgM 
+monomers; 
+antibodies variably 
+decreased
+Ataxia; telangiectasia; pulmonary 
+infections; lymphoreticular and 
+other malignancies; increased 
+α-­fetoprotein and increased 
+radiosensitivity
+Cartilage-­hair 
+hypoplasia
+RMRP (RNase MRP RNA) 
+involved in processing 
+of mitochondrial RNA 
+and cell cycle control
+AR
+Varies from severely 
+decreased 
+(SCID) to normal; 
+impaired 
+lymphocyte 
+proliferation
+Normal
+Normal or reduced; 
+antibodies variably 
+decreased
+Short-­limbed dwarfism with 
+metaphyseal dysostosis, sparse hair, 
+bone marrow failure, autoimmunity, 
+susceptibility to lymphoma and other 
+cancers, impaired spermatogenesis, 
+neuronal dysplasia of the intestine
+CHARGE 
+syndrome
+Variable defects of the 
+thymus and associated 
+T-­cell abnormalities 
+often due to deletions 
+or variants in CHD7, 
+SEMA3E, or as-­yet-­
+unknown genes
+De novo defect 
+(majority) or 
+AD
+Decreased or 
+normal; some 
+have <1,500 CD3 
+T cells/μL
+Normal
+Normal or decreased
+Coloboma, heart anomaly, choanal 
+atresia, retardation, genital and ear 
+anomalies
+22q Deletion 
+syndrome 
+(includes 
+DiGeorge 
+anomaly)
+Contiguous gene defect 
+in 90% affecting 
+thymic development; 
+may also be due to 
+heterozygous variant 
+in TBX1 (chromosome 
+22q11.2 deletion or 
+TBX1 haploinsufficient 
+syndrome)
+AD; often de 
+novo
+Decreased or 
+normal; 5% have 
+<1,500 CD3 T 
+cells/μL
+Normal
+Normal or decreased
+Hypoparathyroidism, conotruncal 
+malformation; abnormal facies; 
+large deletion (3 Mb) in 22q11.2 (or 
+rarely a deletion in 10p)
+AD, autosomal dominant; AR, autosomal recessive; Ig, immunoglobulin; XL, X-­linked.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1038
+SECTION 10  Infectious Diseases/Immune/Inflammation
+Cartilage-­Hair Hypoplasia
+Cartilage-­hair hypoplasia (CHH) is an autosomal recessive disease 
+caused by variants in the ribonuclease mitochondrial RNA-­processing 
+(RMRP) gene. CHH is characterized by metaphyseal dysostosis, 
+sparse and thin hair, and variable immunodeficiency (see Table 54.13). 
+Lymphocyte counts over time become low in all patients due to low 
+numbers of T cells. Proliferative responses to mitogens are gener­
+ally depressed, and immune function may deteriorate with time. The 
+immunodeficiency can range from mild to severe, but in many affected 
+patients it is relatively mild. Patients benefit most from replacement 
+immunoglobulin. Patients may have moderate to severe neutropenia, 
+making them susceptible to both viral and bacterial infections.
+COMPLEMENT SYSTEM DEFICIENCIES
+The complement system consists of plasma and membrane proteins 
+that function in the innate immune response as well as facilitating 
+adaptive immunity. Complement proteins can kill pathogens with or 
+without antibodies, opsonize pathogens to facilitate their uptake by 
+phagocytes, or mediate inflammation. The complement system can 
+be activated through three pathways—the classical, alternative, or lec­
+tin pathways—that involve the sequential activation of complement 
+factors resulting in an amplified response. Disorders of the comple­
+ment system predispose to recurrent infection, autoimmunity, and 
+angioedema (Table 54.14 and Fig. 54.10).
+TABLE 54.14  Complement Defects
+Disease
+Genetic Defect/Presumed 
+Pathogenesis
+Inheritance
+Functional Defect
+Associated Features
+C1q deficiency
+C1QA, C1QB, C1QC: classical 
+complement pathway components
+AR
+Absent CH50 hemolytic activity; defective 
+activation of the classical pathway, 
+diminished clearance of apoptotic cells
+SLE, infections with encapsulated 
+organisms
+C1r deficiency
+C1R: classical complement 
+pathway component
+AR
+Absent CH50 hemolytic activity; defective 
+activation of the classical pathway
+SLE, infections with encapsulated 
+organisms
+C1s deficiency
+C1S: classical complement 
+pathway component
+AR
+Absent CH50 hemolytic activity; defective 
+activation of the classical pathway
+SLE, infections with encapsulated 
+organisms
+C4 deficiency
+C4A, C4B: classical complement 
+pathway components
+AR
+Absent CH50 hemolytic activity; defective 
+activation of the classical pathway, 
+defective humoral immune response to 
+carbohydrate antigens in some patients
+SLE, infections with encapsulated 
+organisms
+C2 deficiency
+C2: classical complement pathway 
+component
+AR
+Absent CH50 hemolytic activity; defective 
+activation of the classical pathway
+SLE, infections with encapsulated 
+organisms, atherosclerosis
+C3 deficiency
+C3: central complement component
+AR, gain-­of-­
+function AD
+Absent CH50 and AH50 hemolytic activity; 
+defective opsonization, defective humoral 
+immune response
+Infections; glomerulonephritis, aHUS 
+with gain-­of-­function variants
+C5 deficiency
+C5: terminal complement 
+component
+AR
+Absent CH50 and AH50 hemolytic activity; 
+defective bactericidal activity
+Neisserial infections
+C6 deficiency
+C6: terminal complement 
+component
+AR
+Absent CH50 and AH50 hemolytic activity; 
+defective bactericidal activity
+Neisserial infections
+C7 deficiency
+C7: terminal complement 
+component
+AR
+Absent CH50 and AH50 hemolytic activity; 
+defective bactericidal activity
+Neisserial infections
+C8 α–γ deficiency
+C8A, C8G: terminal complement 
+components
+AR
+Absent CH50 and AH50 hemolytic activity; 
+defective bactericidal activity
+Neisserial infections
+C8b deficiency
+C8B: terminal complement 
+component
+AR
+Absent CH50 and AH50 hemolytic activity; 
+defective bactericidal activity
+Neisserial infections
+C9 deficiency
+C9: terminal complement 
+component
+AR
+Reduced CH50 and AH50 hemolytic activity; 
+deficient bactericidal activity
+Mild susceptibility to neisserial 
+infections
+C1 inhibitor 
+deficiency
+C1NH: regulation of kinins and 
+complement activation
+AD
+Spontaneous activation of the complement 
+pathway with consumption of C4/C2; 
+spontaneous activation of the contact 
+system with generation of bradykinin from 
+high-­molecular-­weight kininogen
+Hereditary angioedema
+Factor B
+CFB: activation of the alternative 
+pathway
+AD
+Gain-­of-­function variant with increased 
+spontaneous AH50
+aHUS
+Factor D deficiency
+CFD: regulation of the alternative 
+complement pathway
+AR
+Absent AH50 hemolytic activity
+Neisserial infections
+Properdin deficiency
+CFP: regulation of the alternative 
+complement pathway
+XL
+Absent AH50 hemolytic activity
+Neisserial infections
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1039
+CHAPTER 54  Recurrent Fever, Immune Deficiency, and Autoinflammatory Disorders
+The three pathways for complement activation are initiated by 
+different mechanisms. The classical pathway is activated by antigen-­
+antibody complexes. The alternative pathway may be activated by C3b 
+generated through the classical pathway or by spontaneous hydroly­
+sis of C3 on microbial surfaces. The lectin pathway is initiated by the 
+interaction of mannose-­binding lectin with microbial carbohydrate. 
+Activation of the classical pathway by an antigen-­antibody complex is 
+initiated by the binding of C1q to the Fc portion of an antibody mole­
+cule in the immune complex. C1r autoactivates and cleaves C1s, which 
+cleaves C4 and then C2, forming the C3 convertase C4b2b. C4b2b is 
+activated by the lectin pathway when mannose-­binding protein binds 
+to sugar residues on the surface of pathogens, and mannose-­binding 
+protein–associated proteases (MASPs) cleave C4 and C2. The alterna­
+tive pathway is always active at a low level and is amplified when active 
+C3 binds to a surface that lacks regulatory proteins. C3b generated 
+from C3 binds to factor B, which is cleaved by factor D to form the 
+alternative pathway C3 convertase C3bBb. Properdin binds to and sta­
+bilizes the C3 convertase. The C3 convertase can cleave C3, resulting 
+in further C3b deposition and activation of the alternative pathway, 
+which acts as an amplification loop by generating more C3b, or it can 
+form the C5 convertase, which initiates the formation of a membrane 
+attack complex (MAC). The MAC is a complex of C5b, C6, C7, C8, and 
+several C9 molecules that is common to all three pathways. The MAC 
+generates pores in the cell membrane, leading to lysis of the cells.
+C3a and C5a, produced by cleavage of C3 and C5, respectively, 
+release histamine from mast cells and basophils, leading to increased 
+vascular permeability and smooth muscle contraction. In addition, 
+C5a has chemotactic activity, attracting phagocytes to the site of com­
+plement activation, and it can cause degranulation of phagocytic cells. 
+C3b acts as an opsonin when attached to the surface of a pathogen by 
+binding to phagocytes.
+The complement system is under tight regulation because it has 
+potent inflammatory activity and the potential to cause significant 
+damage to host cells, and therefore there are a number of complement 
+regulatory proteins. C1 inhibitor regulates the cascade by blocking 
+active sites on C1r, C1s, and the MASP. Factor I destabilizes C3 con­
+vertase complexes and degrades the active fragments. Other inhibitors 
+include membrane proteins, such as decay accelerating factor (DAF), 
+CR1, membrane cofactor protein (MCP), and plasma proteins such as 
+C4 binding protein. Formation of the MAC can be blocked by cell sur­
+face CD59. Deficiency of any of these regulatory proteins can result 
+in an inflammatory response, tissue damage, or excessive complement 
+consumption. Deficiency in the expression of CD59 results in paroxys­
+mal hemoglobinuria. Deficiencies in the complement regulatory pro­
+teins (factor H, factor I, and MCP) result in atypical hemolytic uremic 
+syndrome and membranoproliferative glomerulonephritis type II, and 
+have been linked to age-­related macular degeneration (see Table 54.14).
+Although protein deficiencies or abnormalities have been identified 
+for components in the classical complement pathway, the severity and 
+the type of infection vary because of the considerable overlap between 
+the two pathways (see Table 54.14). Disorders of complement proteins 
+can result from inherited deficiency or can be secondary to increased 
+consumption. Deficiencies of early components of the classical path­
+way (C1, C2, or C4) are not usually associated with severe infections, 
+although patients with C2 deficiency may present with recurrent respi­
+ratory tract infections with encapsulated bacteria. Patients with C1, 
+C2, or C4 deficiency are susceptible to autoimmune diseases, especially 
+systemic lupus erythematosus. The exact mechanism of this suscepti­
+bility is not known but is thought to arise from the role of these early 
+TABLE 54.14  Complement Defects—cont’d
+Disease
+Genetic Defect/Presumed 
+Pathogenesis
+Inheritance
+Functional Defect
+Associated Features
+Factor I deficiency
+CFI: regulation of the alternative 
+complement pathway
+AR
+Spontaneous activation of the alternative 
+complement pathway with consumption of 
+C3
+Infections, neisserial infections, 
+aHUS, preeclampsia, 
+membranoproliferative 
+glomerulonephritis
+Factor H deficiency
+CFH: regulation of the alternative 
+complement pathway
+AR
+Spontaneous activation of the alternative 
+complement pathway with consumption of 
+C3
+Infections, neisserial infections, 
+aHUS, preeclampsia, 
+membranoproliferative 
+glomerulonephritis
+MASP1 deficiency
+MASP1: cleaves C2 and activates 
+MASP2
+AR
+Deficient activation of the lectin activation 
+pathway, cell migration
+Infections, candida infections
+AD, autosomal dominant; aHUS, atypical hemolytic uremic syndrome; AR, autosomal recessive; SLE, systemic lupus erythematosus; XL, X-­linked.
+Recurrent pyogenic infections
+Autoimmune disease
+Disseminated neisserial infections*
+Family history
+CH50 normal
+AH50 normal
+Suspect no
+deficiency or
+MBL, MASP
+deficiency
+Suspect factor
+B, D, or P
+deficiency
+Suspect C1q,
+r, s, C2, or C4
+deficiency
+Suspect C3,
+C5, C6, C7, C8,
+factor H or I
+deficiency†
+AH50 normal
+CH50 <5%
+AH50 <5%
+AH50 <5%
+Inherited complement deficiency
+Fig. 54.10  Flow chart for the evaluation of inherited complement defi­
+ciencies using hemolytic screening assays for the classical (CH50) 
+and alternative (AH50) pathways. For each assay, the entire activation 
+pathway, including the membrane attack complex, is required for lysis. 
+MASP, MBL-­associated serine protease; MBL, mannose-­binding lectin. 
+*Gonococcal and meningococcal. † C9 deficiency may have up to 30% 
+normal CH50 with low AH50. (From Kliegman RM, St. Geme JW III, 
+Blum NJ, et al., eds. Nelson Textbook of Pediatrics. 21st ed. Philadel­
+phia: Elsevier; 2020:1152, Fig. 160.1.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1040
+SECTION 10  Infectious Diseases/Immune/Inflammation
+components of complement in clearing immune complexes. Defi­
+ciency of C3, the major opsonin, due to a genetic defect or secondary 
+to excessive consumption or protein loss (e.g., nephrotic syndrome, 
+systemic lupus erythematosus) predisposes patients to infections, espe­
+cially with encapsulated organisms. Deficiency of one of the terminal 
+components that compose the MAC or properdin predisposes patients 
+to invasive infections (e.g., meningitis, septicemia) with Neisseria 
+meningitidis and Neisseria gonorrhoeae. Complement deficiency may 
+be found in 40% of patients presenting with recurrent neisserial infec­
+tions, particularly with meningococcal disease caused by uncommon 
+serogroups (see Table 54.14).
+C1 inhibitor deficiency causes hereditary angioedema, an auto­
+somal dominant disorder that results in disregulation of the clas­
+sical complement pathway. After minor trauma, affected patients 
+develop local angioedema without urticaria, pain, or erythema. The 
+angioedema may be severe and untreated leads to significant morbidity 
+and mortality. Angioedema involving the larynx or upper airways can 
+be life-­threatening, and involvement of the bowel leads to abdominal 
+pain, vomiting, and diarrhea. Lack of inhibition of plasma kallikrein by 
+C1 inhibitor and disregulated production of bradykinin is the cause of 
+the angioedema. Treatment of hereditary angioedema includes admin­
+istration of C1 inhibitor, administration of a pharmacologic inhibitor 
+of plasma kallikrein (ecallantide), or administration of a bradykinin 
+β2-­antagonist (icatibant).
+Diagnosis of Complement Deficiencies
+The CH50 test is a widely available test of classical complement path­
+way function based on an antibody-­dependent hemolytic assay. The 
+CH50 test depends on the function of all nine complement proteins, 
+C1 through C9. The AH50 test, which activates the alternative path­
+way, depends on the alternative pathway components and C5–C9. An 
+abnormal CH50 but not AH50 is consistent with defects in C1, C2, 
+or C4. Alternatively, an abnormal AH50 but normal CH50 indicates 
+a defect in properdin or factor B. Abnormal results of both tests indi­
+cate a deficiency in a terminal component common to both pathways 
+(C3, C5–C9). If the CH50 or AH50 levels are abnormal, individual 
+components can be analyzed in specialized laboratories. In heredi­
+tary angioedema, C4 levels are generally low, but C3 levels are nor­
+mal. Determination of C1 inhibitor levels and/or function is needed 
+to definitively diagnose hereditary angioedema. Low C3 and C4 levels 
+are seen when the classical pathway is activated (e.g., systemic lupus 
+erythematosus), whereas activation of the alternative pathway charac­
+teristically results in low C3 levels and normal C4 levels.
+Specific treatment of complement deficiencies with component 
+replacement is not available. Frequent courses of antibiotics or pro­
+phylactic antibiotics have been utilized. Immunization of patients and 
+close contacts with pneumococcal and meningococcal vaccines may 
+be useful, but infections may still occur in immunized complement-­
+deficient patients. Replacement of complement proteins by plasma 
+transfusion has been used in some patients with C2 deficiency, factor 
+H deficiency, or factor I deficiency. MCP deficiency presenting with 
+atypical hemolytic uremic syndrome is treated with renal transplanta­
+tion since it is a membrane protein.
+PHAGOCYTIC DISORDERS
+Neutrophils are important in protecting the skin, mucous membranes, 
+and the lining of the respiratory and gastrointestinal tracts. They form 
+the first line of defense against microbial invasion. During the critical 
+first 2–4 hours after tissue invasion by pathogenic organisms, the arrival 
+of phagocytic cells at the site of infection is crucial for the containment 
+of the infection, limiting the size of the local lesion, and preventing 
+dissemination. Monocytes/macrophages are also important in cell-­
+mediated immunity, and in response to T-­cell cytokines (interferon-­γ 
+[IFNγ]), these cells become effective killers of intracellular pathogens.
+Neutrophils develop in the bone marrow from hematopoietic stem 
+cells, and upon leaving the bone marrow mature neutrophils are found 
+in the circulation or roll along the endothelium (known as the margi­
+nating pool). Adhesion molecules are necessary for neutrophils to roll 
+and adhere to vascular endothelium and extravasate from the blood 
+into sites of infection, where they phagocytose and kill pathogens, 
+especially those coated by complement or antibodies. Chemotactic 
+factors, including the complement fragment C5a, IL-­8, leukotriene 
+B4, and bacterial formylated peptides (fMLP), mobilize neutrophils to 
+enter tissues and sites of infections. Once in tissues these cells ingest 
+the offending organisms (phagocytosis) and activate biochemical path­
+ways important in intracellular microbial killing (degranulation and 
+oxidative metabolism). The respiratory burst consists of the de novo 
+synthesis of highly toxic and often unstable derivatives of molecular 
+oxygen. Degranulation is the process by which lysosomal granules, 
+containing preformed polypeptide antibiotics and proteases, fuse with 
+the phagocytic vacuoles containing the ingested microbes.
+Patients with neutrophil disorders are susceptible to a variety of 
+bacterial infections and certain fungi. Infections associated with neu­
+trophil disorders include infections of mucosal surfaces (e.g., respira­
+tory tract infections, rectal and vaginal infections, gingivostomatitis), 
+abscesses in the skin and viscera, lymphadenitis, poor wound healing, 
+delayed umbilical cord separation, or absence of pus.
+Disorders of Neutrophil Numbers
+Neutropenia is defined as an absolute neutrophil count (ANC) <1,500/
+mm3 for children 1 year of age or older, although African American 
+children can have lower neutrophil numbers. The susceptibility to 
+infection is minimally increased until the ANC is <1,000/mm3. Most 
+patients do well with an ANC >500/mm3. At these levels, localized 
+infections are more common than generalized bacteremia. Serious 
+bacterial infections are more common with an ANC <200/mm3. Neu­
+tropenia may be congenital and caused by variants in several genes 
+(Tables 54.9 and 54.15) or acquired (e.g., autoimmune neutropenia, 
+drug reactions, marrow replacement with cancer cells).
+Inherited Forms of Neutropenia
+Severe congenital neutropenia (Kostmann syndrome) is an auto­
+somal recessive disorder caused by variants in the HCLS-­associated 
+protein X-­1 (HAX1) gene and is characterized by severe persistent neu­
+tropenia (ANC <500 cells/mm3) and recurrent bacterial infections (see 
+Table 54.15). Affected patients often have increased plasma concentra­
+tions of granulocyte colony-­stimulating factor (G-­CSF) as well as cir­
+culating eosinophils and monocytes. In severe congenital neutropenia, 
+the neutrophil counts increase in response to exogenous G-­CSF despite 
+the elevated level of G-­CSF at baseline.
+Autosomal dominant inherited variants in the elastase 2 gene 
+(ELA2) are the most common cause of cyclic neutropenia, although 
+the disorder may present as persistent neutropenia as well. In the cyclic 
+form of neutropenia, there are periodic episodes of profound neutrope­
+nia (ANCs <200 cells/mm3), generally lasting 3–6 days and occurring 
+in 21-­day cycles (see Table 54.15). During the episodes of neutropenia, 
+individuals develop aphthous ulcers, gingivitis, stomatitis, and celluli­
+tis. Death from overwhelming infection with Clostridium perfringens 
+occurs in about 10% of patients.
+Severe congenital neutropenia, which may be either persistent or 
+cyclic, is also seen in Shwachman-­Diamond syndrome, an autosomal 
+recessive syndrome of pancreatic insufficiency accompanying bone 
+marrow dysfunction. Metaphyseal dysostosis and dwarfism may occur. 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1041
+CHAPTER 54  Recurrent Fever, Immune Deficiency, and Autoinflammatory Disorders
+TABLE 54.15  Phagocyte Disorders
+Disease
+Genetic Defect/
+Presumed 
+Pathogenesis
+Inheritance
+Affected Cells
+Affected Function
+Associated Features
+Severe congenital 
+neutropenia 1 
+(ELANE deficiency)
+ELANE: misfolded protein 
+response, increased apoptosis
+AD
+N
+Myeloid differentiation
+Susceptibility to MDS/leukemia
+SCN2a (GFI1 
+deficiency)
+GFI1: loss of repression of 
+ELANE
+AD
+N
+Myeloid differentiation
+B/T lymphopenia
+SCN3 (Kostmann 
+disease)
+HAX1: control of apoptosis
+AR
+N
+Myeloid differentiation
+Cognitive and neurologic defects in 
+patients with defects in both HAX1 
+isoforms, susceptibility to MDS/
+leukemia
+SCN4 (G6PC3 
+deficiency)
+G6PC3: abolished enzymatic 
+activity of glucose-­6-­
+phosphatase, aberrant 
+glycosylation, and enhanced 
+apoptosis of N and F
+AR
+N + F
+Myeloid differentiation, 
+chemotaxis, O− 
+production
+Structural heart defects, urogenital 
+abnormalities, inner ear deafness, 
+and venous angiectasias of trunks 
+and limbs
+SCN5
+VPS45: controls vesicular 
+trafficking
+AR
+N + FM
+Myeloid differentiation, 
+migration
+Extramedullary hematopoiesis, bone 
+marrow fibrosis, nephromegaly
+Cyclic neutropenia
+ELANE: misfolded protein 
+response
+AD
+N
+Differentiation
+Oscillations of other leukocytes and 
+platelets
+X-­linked neutropenia/ 
+myelodysplasia
+WAS: regulator of actin 
+cytoskeleton (loss of 
+autoinhibition)
+XL, gain of 
+function
+N + M
+Mitosis
+Monocytopenia
+Leukocyte adhesion 
+deficiency type 1 
+(LAD1)
+ITGB2: adhesion protein (CD18)
+AR
+N + M + L + NK
+Adherence, chemotaxis, 
+endocytosis, T/NK 
+cytotoxicity
+Delayed cord separation, skin ulcers, 
+periodontitis, leukocytosis
+Leukocyte adhesion 
+deficiency type 2 
+(LAD2)
+SLC35C1 GDP-­fucose transporter
+AR
+N + M
+Rolling, chemotaxis
+Mild LAD type 1 features plus hh-­blood 
+group plus mental and growth 
+retardation
+Leukocyte adhesion 
+deficiency type 3 
+(LAD3)
+KINDLIN3: Rap1-­activation of 
+β1–3 integrins
+AR
+N + M + L + NK
+Adherence, chemotaxis
+LAD type 1 plus bleeding tendency
+Rac 2 deficiency
+RAC2: regulation of actin 
+cytoskeleton
+AD
+N
+Adherence, chemotaxis, 
+O− production
+Poor wound healing, leukocytosis
+X-­linked chronic 
+granulomatous 
+disease (CGD)
+CYBB: electron transport protein 
+(gp91phox)
+XL
+N + M
+Severe NADPH oxidase 
+activity with decreased 
+superoxide production, 
+impaired pathogen 
+killing by phagocytic 
+cells.
+Recurrent bacterial infection, 
+susceptibility to fungal infection, 
+inflammatory gut manifestations; 
+McLeod phenotype in patients 
+with deletions extending into the 
+contiguous Kell locus
+Autosomal recessive 
+CGD – p22 phox 
+deficiency
+CYBA: electron transport protein 
+(p22phox)
+AR
+N + M
+Same as X-­CGD
+Recurrent bacterial infection, 
+susceptibility to fungal infection, and 
+inflammatory gut manifestations
+Autosomal recessive 
+CGD – p47 phox 
+deficiency
+NCF1: adapter protein (p47phox)
+AR
+N + M
+Same as X-­CGD
+Recurrent bacterial infection, 
+susceptibility to fungal infection, and 
+inflammatory gut manifestations
+Autosomal recessive 
+CGD – p67 phox 
+deficiency
+NCF2: activating protein 
+(p67phox)
+AR
+N + M
+Same as X-­CGD
+Recurrent bacterial infection, 
+susceptibility to fungal infection, and 
+inflammatory gut manifestations
+Autosomal recessive 
+CGD – p40 phox 
+deficiency
+NCF4: activating protein 
+(p40phox)
+AR
+N + M
+Killing (faulty O− 
+production)
+Inflammatory gut manifestations only
+IL-­12 and IL-­23 
+receptor β1 chain 
+deficiency
+IL-­12RB1: IL-­12 and IL-­23 
+receptor β1 chain
+AR
+L + NK
+IFN-­γ secretion
+Susceptibility to Mycobacteria and 
+Salmonella
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1042
+SECTION 10  Infectious Diseases/Immune/Inflammation
+A gain-­of-­function variant in the WAS protein has also been associated 
+with an X-­linked form of severe congenital neutropenia. Severe con­
+genital neutropenia may be associated with SCID in reticular dysgen­
+esis, a disorder of hematopoietic stem cells affecting all bone marrow 
+lineages due to variants in the AK2 gene.
+The mainstay of treatment of all congenital neutropenias is recombi­
+nant human granulocyte colony-­stimulating factor (rhG-­CSF). Approxi­
+mately 10% of patients with the diagnosis of severe congenital neutropenia 
+and Shwachman-­Diamond syndrome develop myelodysplasia/acute 
+myelogenous leukemia. No cases of malignant transformations have been 
+observed in patients with either cyclic or idiopathic neutropenia.
+Acquired Neutropenia
+Isoimmune neutropenia occurs in neonates as the result of transpla­
+cental transfer of maternal antibodies to fetal neutrophil antigens. The 
+mother produces antibodies to specific neutrophil antigens on the sur­
+face of fetal leukocytes that are inherited from the father and are not 
+present on maternal cells. Isoimmune neonatal neutropenia, similar to 
+isoimmune anemia and thrombocytopenia, is a transient process that 
+resolves as maternal antibodies wane. Cutaneous infections are com­
+mon, and sepsis is rare. Early treatment of infection while the infant is 
+neutropenic is the major goal of therapy. Intravenous immune globulin 
+may decrease the duration of neutropenia. Autoimmune neutropenia 
+usually develops in children 5–24 months of age. Neutrophil autoan­
+tibodies may be IgG, IgM, IgA, or a combination of these. Usually, the 
+condition spontaneously resolves in 6 months to 4 years. Although 
+intravenous immune globulin and corticosteroids have been used, 
+most patients respond to G-­CSF.
+Disorders of Neutrophil Adhesion and Chemotaxis
+Leukocyte adhesion deficiency type 1 (LAD-­1) is an autosomal reces­
+sive inherited disorder resulting from variants in the gene encoding 
+the β2 integrin CD18. CD18 is the common β-­subunit of lympho­
+cyte function-­associated antigen-­1 (LFA-­1) (CD11a/CD18), Mac-­1 
+(CD11b/CD18), and P150,95 (CD11c/CD18), proteins that are 
+expressed on lymphocytes, monocytes/macrophages, and neutrophils, 
+respectively. Diminished or absent surface expression of these proteins 
+accounts for a profound impairment of neutrophil and monocyte cell 
+migration and phagocytosis. The severity of the immunodeficiency is 
+dependent on the level of expression of CD18. Infants affected with 
+this disorder may present in early infancy with failure of separation of 
+the umbilical cord (often 2 months after birth) with attendant ompha­
+litis and sepsis (see Table 54.11). Cutaneous, respiratory, gingival, and 
+mucosal infections are common, and sepsis may lead to death in early 
+childhood. Due to a failure of neutrophils to adhere normally to vas­
+cular endothelium (marginate), ANCs are usually >20,000/mm3 even 
+when patients are not infected. The diagnosis of LAD-­1 can be made 
+measuring the amount of LFA-­1 on the surface of lymphocytes by flow 
+cytometry. Hematopoietic stem cell transplantation is curative.
+Leukocyte adhesion deficiency type 2 (LAD-­2) is an autosomal 
+recessive congenital disorder of glycosylation (type iic) caused by vari­
+ants in the SLC35C1 gene. The SLC35C1 gene encodes a GDP-­fucose 
+transporter, and variant in this gene results in the absence of sialylated 
+Lewis X blood group on the surface of neutrophils and other leukocytes, 
+resulting in failure to roll and subsequently adhere to vascular endothe­
+lium. Patients with LAD-­2 manifest with growth retardation, dysmorphic 
+features, and neurologic deficits in addition to the increased suscep­
+tibility to infection. LAD-­3 is a rare disorder caused by defects in the 
+KINDLIN-­3 protein resulting in defective neutrophil adhesion as well 
+as platelet defects. Patients with LAD-­3 present similarly to those with 
+LAD-­1 with recurrent severe infections as well as a bleeding disorder.
+Depressed neutrophil chemotaxis has been observed in a wide 
+variety of clinical conditions (see Table 54.15). In addition to LAD-­1 
+and LAD-­2, defective migration of neutrophils has been described in 
+hyper-­IgE syndrome due to STAT3 variants and with variants in the 
+RAC2 gene (see Table 54.15). RAC2 is the predominant GTPase in 
+human neutrophils, and it is integral to the function of the actin cyto­
+skeleton. Deficiency in RAC2 is associated with decreased neutrophil 
+chemotaxis, superoxide generation, and decreased degranulation in 
+response to formylated peptides.
+Disorders of Neutrophil Function
+Chronic granulomatous disease (CGD) is a disorder of phagocytes 
+due to variants in any one of the subunits of the enzyme NADPH 
+oxidase (see Table 54.15). NADPH oxidase consists of five subunits 
+(gp91phox, p22phox, p47phox, p67phox, and cytochrome B-­245/Eros) and is 
+responsible for the generation of the respiratory burst, which involves 
+the catalytic conversion of molecular oxygen to superoxide (O2–) that 
+is essential for the killing of a variety of bacterial and fungal pathogens 
+by neutrophils and macrophages. Variants in the gene encoding the 
+gp91phox protein are inherited in an X-­linked manner and account for 
+approximately 65% of CGD. All other forms of CGD are inherited in an 
+autosomal recessive manner.
+Although the clinical manifestations are variable, several clinical 
+features suggest the diagnosis of CGD. The onset of clinical signs and 
+symptoms may occur from early infancy to young adulthood, and the 
+attack rate and severity of infections are dependent on the amount 
+of residual oxidase activity generated by NADPH oxidase in affected 
+TABLE 54.15  Phagocyte Disorders—cont’d
+Disease
+Genetic Defect/
+Presumed 
+Pathogenesis
+Inheritance
+Affected Cells
+Affected Function
+Associated Features
+IL-­12p40 deficiency
+IL-­12B: subunit p40 of IL-­12/IL-­23 AR
+M
+IFNγ secretion
+Susceptibility to Mycobacteria and 
+Salmonella
+IFNγ receptor 1 
+deficiency
+IFNGR1: IFNγR ligand binding 
+chain
+AR, AD
+M + L
+IFNγ binding and 
+signaling
+Susceptibility to Mycobacteria and 
+Salmonella
+IFNγ receptor 2 
+deficiency
+IFNGR2: IFNγR accessory chain
+AR
+M + L
+IFNγ signaling
+Susceptibility to Mycobacteria and 
+Salmonella
+STAT1 deficiency 
+(AD form)
+STAT1 (loss of function)
+AD
+M + L
+IFNγ signaling
+Susceptibility to Mycobacteria
+AD, autosomal dominant; AR, autosomal recessive; B/T, B and T cells; IFN, interferon; IL, interleukin; L, lymphocyte; M, monocyte/macrophage; 
+MDS, myelodysplasia syndrome; N, neutrophil; NK, natural killer cell; XL, X-­linked.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1043
+CHAPTER 54  Recurrent Fever, Immune Deficiency, and Autoinflammatory Disorders
+individuals. Affected patients may have recurrent lymphadenitis, bac­
+terial hepatic abscesses, or osteomyelitis. Infections also occur in the 
+lungs, middle ear, gastrointestinal tract, skin, and urinary tract. Patients 
+characteristically exhibit lymphadenopathy, hypergammaglobulinemia, 
+hepatosplenomegaly, dermatitis, failure to thrive, anemia, chronic diar­
+rhea, and abscesses. Granulomas are prominent and may obstruct the 
+pylorus or ureters or lead to inflammatory bowel disease. The most 
+common pathogen is S. aureus, and infection with S. marcescens, B. 
+cepacia, Aspergillus sp., C. albicans, or Salmonella sp. can occur. The 
+diagnosis of CGD is made by either the DHR test or the NBT dye test.
+The treatment of CGD is rapidly evolving. CGD is traditionally 
+treated with prophylactic trimethoprim-­sulfamethoxazole, itracon­
+azole, long-­term continuous IFNγ therapy, and prompt treatment of 
+acute infections. Steroids and antibiotics are used to treat granulo­
+matous complications of the gastrointestinal, urinary, and respiratory 
+tracts. Definitive treatment of CGD by HSCT in properly HLA-­matched 
+patients has achieved excellent outcomes (>90% survival) even for 
+patients at high risk for transplant-­associated morbidity and mortality.
+DISORDERS OF MACROPHAGE FUNCTION
+The IFNγ/IL-­12 axis is crucial to host defense against intracellular 
+pathogens, including mycobacteria, Listeria, and Salmonella species. 
+Dendritic cells and macrophages produce IL-­12 in response to bacte­
+rial pathogens that in turn stimulate the secretion of IFNγ by T cells 
+and NK cells. IFNγ binds to receptors on macrophages, stimulating the 
+production of TNF-­α and inducible nitric oxide synthetase, promoting 
+antigen presentation, and augmenting the respiratory burst and bacte­
+ricidal activities of macrophages.
+The classic members of this group of disorders involve variants 
+in the IFNγ receptor, the IL-­12 receptor, or IL-­12. The IFNγ receptor 
+contains two chains: IFNγ receptor 1 (IFNγ-­R1), which binds ligand, 
+and IFNγ receptor 2 (IFNγ-­R2), which is necessary for ligand-­induced 
+signaling. Complete absence of IFNγ-­R1 or IFNγ-­R2 is inherited in an 
+autosomal recessive manner and causes the most severe disease, mani­
+festing early in infancy often with disseminated atypical mycobacterial 
+infection, recurrent Salmonella infection, or fatal infection after BCG 
+vaccination. Partial IFNγ-­R1 or IFNγ-­R2 defects typically have milder 
+disease and present often in early childhood, but nonetheless with 
+increased susceptibility to nontuberculous mycobacterial disease. 
+Patients with partial IFNγ-­R1 deficiency are especially prone to osteo­
+myelitis due to atypical mycobacteria. Variants leading to a deficiency 
+in the production of the p40 subunit of IL-­12 or in the expression of 
+the IL-­12Rβ1 receptor are inherited in an autosomal recessive manner. 
+These patients have an increased susceptibility to serious infection with 
+environmental mycobacteria, BCG, and Salmonella sp. Unexpectedly, 
+these patients are also susceptible to skin and, rarely, invasive infec­
+tions with C. albicans. Variants in STAT1, which mediates the signal 
+transduction following the binding of IFNγ with the IFNγ receptor, 
+also causes susceptibility to mycobacterial infections and is inherited in 
+an autosomal recessive pattern. In addition, these patients are suscep­
+tible to a variety of viral pathogens since STAT1 is required for signal 
+transduction of IFNα/β in addition to IFNγ.
+IMMUNE DISREGULATION SYNDROMES
+Immune disregulation disorders are genetic defects in the regulation 
+of the adaptive immune system (T and B cells) resulting in early-­onset 
+inflammatory bowel disease, eczema, autoimmune cytopenias, and 
+other autoimmune or inflammatory complications. Abnormalities of 
+immune regulation are frequently important components of the clin­
+ical manifestations in patients with primary immune deficiencies, 
+which have been described previously in this chapter. Unlike autoin­
+flammatory disorders, these disorders are not episodic and are asso­
+ciated with autoimmune manifestations. Additionally, the clinical 
+phenotype includes varying degrees of susceptibility to infection.
+Hemophagocytic Lymphohistiocytosis
+Hemophagocytic lymphohistiocytosis (HLH) is caused by variants 
+in the gene encoding perforin or genes encoding other proteins 
+involved in the cytotoxic function of NK cells and CD8 cells, such as 
+Munc13-­4, syntaxin11, and syntaxin11 binding protein (Table 54.16). 
+TABLE 54.16  Disorders of Immune Regulation
+Disease
+Genetic Defect
+Inheritance
+Affected cells
+Functional Defect
+Associated Features
+Perforin deficiency 
+(FHL2)
+PRF1; perforin induces 
+pores in target cell 
+membrane
+AR
+CTL and NK cells
+Decreased to absent NK and 
+CTL cytotoxicity, normal 
+degranulation
+Fever, hepatosplenomegaly 
+(HSMG), hemophagocytic 
+lymphohistiocytosis (HLH), 
+cytopenias
+UNC13D/Munc13-­4 
+deficiency (FHL3)
+UNC13D; required to prime 
+vesicles for fusion
+AR
+CTL and NK cells
+Decreased to absent NK and 
+CTL cytotoxicity, abnormal 
+degranulation
+Fever, HSMG, HLH, cytopenias
+Syntaxin 11 
+deficiency (FHL4)
+STX11, required for 
+secretory vesicle fusion 
+with the cell membrane
+AR
+CTL and NK cells
+Decreased to absent NK and 
+CTL cytotoxicity, abnormal 
+degranulation
+Fever, HSMG, HLH, cytopenias
+STXBP2/Munc18-­2 
+deficiency (FHL5)
+STXBP2, required for 
+secretory vesicle fusion 
+with the cell membrane
+AR
+CTL and NK cells
+Decreased to absent NK and 
+CTL cytotoxicity, abnormal 
+degranulation
+Fever, HSMG, HLH, cytopenias
+Chédiak-­Higashi 
+syndrome
+LYST, impaired lysosomal 
+trafficking
+AR
+CTL and NK cells, 
+others
+Decreased to absent NK and 
+CTL cytotoxicity, abnormal 
+degranulation
+Partial albinism, recurrent 
+infections, fever, HSMG, HLH, 
+giant lysosomes, neutropenia, 
+cytopenias, bleeding tendency, 
+progressive neurologic dysfunction
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1044
+SECTION 10  Infectious Diseases/Immune/Inflammation
+TABLE 54.16  Disorders of Immune Regulation—cont’d
+Disease
+Genetic Defect
+Inheritance
+Affected cells
+Functional Defect
+Associated Features
+Griscelli syndrome, 
+type 2
+RAB27A encoding a 
+GTPase that promotes 
+docking of secretory 
+vesicles to the cell 
+membrane
+AR
+CTL and NK cells, 
+others
+Decreased to absent NK and 
+CTL cytotoxicity, abnormal 
+degranulation
+Partial albinism, fever, HSMG, HLH, 
+cytopenias
+SH2D1A deficiency 
+(XLP1)
+SH2D1A encoding 
+an adaptor protein 
+regulating intracellular 
+signaling
+XL
+CTL and NK cells, 
+others
+Partially defective NK-­cell and 
+CTL cytotoxic activity
+Clinical and immunologic features 
+triggered by EBV infection: 
+HLH, lymphoproliferation, 
+aplastic anemia, lymphoma, 
+hypogammaglobulinemia, absent 
+iNK T cells
+XIAP deficiency (XLP2)
+XIAP encoding an inhibitor 
+of apoptosis
+XL
+Many
+Increased T-­cell susceptibility 
+to apoptosis to CD95 and 
+enhanced activation-­induced 
+cell death (AICD)
+EBV infection, splenomegaly, 
+lymphoproliferation, HLH, colitis, 
+IBD, hepatitis, low iNK T cells
+IPEX, immune 
+disregulation, 
+polyendocrinopathy, 
+enteropathy, X-­linked
+FOXP3, encoding a T-­cell 
+transcription factor
+XL
+T-­regulatory cells
+Lack of (and/or impaired 
+function of) CD4+ CD25+ 
+FOXP3+ regulatory T cells 
+(Tregs)
+Autoimmune enteropathy, 
+early-­onset diabetes, 
+thyroiditis, hemolytic anemia, 
+thrombocytopenia, eczema, 
+elevated IgE, IgA
+CD25 deficiency
+IL2RA, encoding IL-­2Rα 
+chain
+AR
+T cells, T-­regulatory 
+cells
+No CD4+ C25+ cells with 
+impaired function of Tregs, 
+absent in vitro proliferative 
+responses
+Lymphoproliferation, autoimmunity; 
+impaired T-­cell proliferation
+STAT5b deficiency
+STAT5B, signal transducer, 
+and transcription factor, 
+essential for normal 
+signaling from IL-­2 and 
+IL-­15, key growth factors 
+for T and NK cells
+AR
+Many
+Impaired development and 
+function of γδ T cells, Tregs, 
+and NK cells, low T-­cell 
+proliferation
+Growth hormone–insensitive 
+dwarfism, dysmorphic features, 
+eczema, lymphocytic interstitial 
+pneumonitis, autoimmunity
+LRBA deficiency
+LRBA (lipopolysaccharide-­
+responsive beigelike 
+anchor protein)
+AR
+T cells, T-­regulatory 
+cells
+Decreased CTLA4 cell surface 
+expression
+Recurrent infections, 
+hypogammaglobulinemia, 
+inflammatory bowel disease, 
+autoimmunity; EBV infections
+CTLA4
+Variants or deletions in 
+CLTA4
+AD
+T cells, T-­regulatory 
+cells
+Decreased CTLA4 cell surface 
+expression
+Recurrent infections, 
+autoimmune cytopenias, 
+hypogammaglobulinemia, lung 
+disease, brain inflammation
+APECED (APS-­1), 
+autoimmune 
+polyendocrinopathy 
+with candidiasis 
+and ectodermal 
+dystrophy
+AIRE, encoding a 
+transcription regulator 
+needed to establish 
+thymic self-­tolerance
+AR
+T cells, T-­regulatory 
+cells
+AIRE/1 serves as checkpoint 
+in the thymus for negative 
+selection of autoreactive T 
+cells and for generation of 
+Tregs
+Autoimmunity: hypoparathyroidism, 
+hypothyroidism, adrenal 
+insufficiency, diabetes, 
+gonadal dysfunction, and other 
+endocrine abnormalities; chronic 
+mucocutaneous candidiasis, dental 
+enamel hypoplasia, alopecia areata, 
+enteropathy, pernicious anemia
+ALPS-­FAS
+TNFRSF6, encoding 
+CD95/Fas cell surface 
+apoptosis receptor
+AR
+Apoptosis defect FAS 
+mediated, increased CD4− 
+CD8− TCRα/β double-­
+negative (DN) T cells
+Splenomegaly, adenopathies, 
+autoimmune cytopenias, 
+increased lymphoma risk, IgG and 
+IgA normal or increased, elevated 
+FasL and IL-­10, vitamin B12
+ALPS-­FASLG
+TNFSF6, Fas ligand for 
+CD95 apoptosis
+AR
+Lymphocytes
+Apoptosis defect FAS 
+mediated, increased DN T 
+cells
+Splenomegaly, adenopathies, 
+autoimmune cytopenias, SLE; 
+soluble FasL is not elevated
+ALPS–caspase 10
+CASP10, intracellular 
+apoptosis pathway
+AD
+Lymphocytes
+Defective lymphocyte 
+apoptosis, increased DN T 
+cells
+Adenopathies, splenomegaly, 
+autoimmunity
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1045
+CHAPTER 54  Recurrent Fever, Immune Deficiency, and Autoinflammatory Disorders
+Disease
+Genetic Defect
+Inheritance
+Affected cells
+Functional Defect
+Associated Features
+ALPS–caspase 8
+CASP8, intracellular 
+apoptosis, and activation 
+pathways
+AR
+Lymphocytes
+Defective lymphocyte apoptosis 
+and activation, increased DN 
+T cells
+Adenopathies, splenomegaly, 
+bacterial and viral infections, 
+hypogammaglobulinemia
+FADD deficiency
+FADD encoding an adaptor 
+molecule interacting 
+with FAS, and promoting 
+apoptosis
+AR
+Lymphocytes
+Defective lymphocyte 
+apoptosis, increased DN T 
+cells
+Functional hyposplenism, bacterial 
+and viral infections, recurrent 
+episodes of encephalopathy and 
+liver dysfunction
+Early-­onset 
+inflammatory bowel 
+disease
+Variants in IL-­10 (results 
+in increase of many 
+proinflammatory 
+cytokines)
+AR
+Monocyte/
+macrophage, 
+activated T cells
+IL-­10 deficiency leads to 
+increase of TNFγ and other 
+proinflammatory cytokines
+Enterocolitis, enteric fistulas, 
+perianal abscesses, chronic 
+folliculitis
+Early-­onset 
+inflammatory bowel 
+disease
+IL-­10RA (see above)
+AR
+Monocyte/
+macrophage, 
+activated T cells
+Variants in IL-­10 receptor alpha 
+leads to increase of TNFγ 
+and other proinflammatory 
+cytokines
+Enterocolitis, enteric fistulas, 
+perianal abscesses, chronic 
+folliculitis
+Early-­onset 
+inflammatory bowel 
+disease
+IL-­10RB (see above)
+AR
+Monocyte/
+macrophage, 
+activated T cells
+Variants in IL-­10 receptor beta 
+leads to increase of TNFα 
+and other proinflammatory 
+cytokines
+Enterocolitis, enteric fistulas, 
+perianal abscesses, chronic 
+folliculitis
+AD, autosomal dominant; AR, autosomal recessive; CTL, cytotoxic T lymphocyte; EBV, Epstein-­Barr virus; IBD, inflammatory bowel disease; Ig, 
+immunoglobulin; IL, interleukin; iNK, invariant natural killer; NK, natural killer cell; SLE, systemic lupus erythematosus; TCR, T-­cell receptor; TNF, 
+tumor necrosis factor; XL, X-­linked.
+TABLE 54.16  Disorders of Immune Regulation—cont’d
+HLH is a life-­threatening disorder of infants and is characterized by 
+high fever, rash, hyperferritinemia, coagulopathy, and hematologic 
+cytopenias. HLH is typically triggered in response to viral infections, 
+in particular EBV and CMV. The various molecular defects that 
+underlie HLH all result in ineffective clearance of viral infections by 
+NK cells and CD8 T cells, resulting in prolonged antigen exposure 
+and protracted activation of CD8 T cells and NK cells. CD8 T cells 
+and NK cells produce large amounts of IFNγ that activate macro­
+phages, resulting in phagocytosis of bone marrow elements and 
+end-­organ damage. This disorder is fatal if not treated aggressively 
+with combined immunosuppressive medications and chemotherapy. 
+HSCT is the only curative treatment.
+Chédiak-­Higashi syndrome (CHS), an abnormality of secondary 
+granules, is an autosomal recessive disorder caused by a variant in the 
+LYST gene, which encodes a cytoplasmic protein thought to be involved 
+in organellar protein trafficking resulting in fusion of the primary and 
+secondary granules in neutrophils. Despite normal ingestion of particles 
+and normal production of superoxide, neutrophils and macrophages 
+in patients with CHS have delayed killing of microorganisms. Large 
+azurophilic lysosomal granules are present in all granule-­bearing cells 
+including neutrophils and melanocytes. A smear of peripheral blood 
+can demonstrate these giant granules in neutrophils, which are virtually 
+pathognomonic of CHS when other features are present.
+Recurrent infections affect the skin, respiratory tract, and mucous 
+membranes and are caused by both gram-­positive and gram-­negative 
+bacteria as well as by fungi. S. aureus is the most common organism. 
+Despite normal platelet counts, patients with CHS have prolonged 
+bleeding times due to a platelet storage pool abnormality. Patients usu­
+ally have partial oculocutaneous albinism. Most patients progress to 
+an accelerated phase associated with EBV infection and characterized 
+by a lymphoproliferative syndrome with generalized lymphohistio­
+cytic infiltrates, fever, jaundice, hepatomegaly, lymphadenopathy, and 
+pancytopenia (see Table 54.16). Neuropathy, which can be sensory or 
+motor, and ataxia may be present.
+X-­Linked Lymphoproliferative Disease Type 1 and Type 2
+X-­linked lymphoproliferative disease type 1 (XLP-­1) is caused by a 
+variant in the gene called SH2D1A, which encodes for an adapter pro­
+tein involved in signal transduction of T cells and NK cells. XLP-­2 is 
+a similar disorder caused by variants in XIAP. XLP-­1 is characterized 
+by fulminant infection with EBV with immunodisregulation and/
+or lymphoma. Boys with this disease may be relatively normal until 
+infected with EBV, which is acutely fatal in 80% of patients and due to 
+the development of HLH. Boys who survive the initial EBV infection 
+develop hypogammaglobulinemia and are at high risk for developing 
+aplastic anemia and B-­cell lymphomas. XLP-­2 presents similarly with 
+HLH following EBV infection but can also present with early-­onset 
+colitis. Definitive therapy of both forms of XLP is HSCT.
+Immune Disregulation, Polyendocrinopathy, 
+Enteropathy, X-­Linked and Related Disorders
+The maintenance of peripheral tolerance is critically dependent on 
+T-­regulatory cells, CD4+ T cells that prevent autoimmunity and exces­
+sive immune responses. These cells are generated in the thymus to 
+self-­antigens, express the transcription factor Foxp3, and constitutively 
+express high levels of the IL-­2 receptor (CD25). T-­regulatory cells 
+express numerous immunosuppressive molecules including cytotoxic 
+T-­lymphocyte antigen 4 (CTLA4), which inhibits T-­cell activation, and 
+IL-­10 and transforming growth factor-­β (TGF-­β).
+Immune disregulation, polyendocrinopathy, enteropathy, X-­linked 
+(IPEX) is caused by variants in the FOXP3 gene, an X-­linked transcrip­
+tion factor essential for the production and function of T-­regulatory cells 
+(see Table 54.16). In males with a null variant in FOXP3, the clinical 
+manifestations begin at birth or soon thereafter, and consist of inflamma­
+tory gastrointestinal tract disease, failure to thrive, autoimmune diabetes 
+mellitus, thyroiditis, Addison disease, severe food allergies, eczema, and 
+autoimmune cytopenias. Hypomorphic variants in Foxp3 that encode a 
+protein with residual functional activity lead to a later onset and milder 
+clinical phenotype, but allergic disease and failure to thrive are common. 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1046
+SECTION 10  Infectious Diseases/Immune/Inflammation
+Patients with this disorder are aggressively immunosuppressed to be sta­
+bilized, but bone marrow transplantation is the only curative therapy.
+CD25 Deficiency
+CD25 (α chain of the high-­affinity IL-­2 receptor) deficiency is an auto­
+somal recessive disorder due to variants in the IL2RA gene (see Table 
+54.16). T-­regulatory cells constitutively express CD25 and respond to 
+IL-­2 generated by T cells during an immune response for their immu­
+noregulatory functions. CD25 deficiency results in a syndrome sim­
+ilar to IPEX with severe enteropathy, diabetes mellitus, autoimmune 
+hemolytic anemia, eczema, and lymphoproliferation. Importantly, 
+patients with CD25 deficiency exhibit several unique features not seen 
+in IPEX, namely chronic herpetic viral infections (e.g., CMV, EBV) and 
+an increased susceptibility to infections.
+Signal Transducer and Activator of Transcription 
+Protein 5B Deficiency
+STAT5b deficiency is an autosomal recessive disorder due to variants in 
+the STAT5b gene, one of two STAT5 proteins involved in IL-­2 signaling 
+(see Table 54.16). Similar to CD25 deficiency, STAT5b deficiency results 
+in T-­regulatory cell dysfunction leading to a syndrome of immune defi­
+ciency with autoimmunity. These infants also suffer from autoimmune 
+diseases such as autoimmune thrombocytopenia and hemolytic anemia, 
+eczema, and arthritis. Unlike IPEX or CD25 deficiency, growth failure 
+occurs in STAT5b since this signaling protein is required for growth 
+hormone signaling. Additionally, patients with STAT5b deficiency also 
+develop pulmonary disease that pathologically resembles interstitial 
+lymphocytic pneumonia, although whether this represents an autoim­
+mune phenomenon or a response to infectious episodes is unclear.
+Cytotoxic T-­Lymphocyte Antigen 4 Deficiency
+CTLA4 deficiency is an autosomal dominant inherited disorder due 
+to variants of the gene encoding for the CTLA4 protein (see Table 
+54.16). Not all patients who have damaging variants in CTLA4 develop 
+a clinical phenotype (i.e., reduced penetrance), and the onset of the 
+disease and clinical manifestations are variable (variable expressivity). 
+The clinical manifestations of CTLA4 deficiency may occur in early 
+childhood or adulthood. The most common clinical manifestations 
+include enteropathy; granulomatous and lymphocytic lung infiltration; 
+lymphocytic infiltration of the bone marrow, brain, kidney, or liver; 
+respiratory tract infections; splenomegaly; lymphadenopathy; and 
+immune cytopenias. Patients frequently have hypogammaglobulin­
+emia, which explains their propensity to infection, and may appear to 
+have CVID at presentation. Autoimmune thyroiditis and psoriasis also 
+occur. Treatment of CTLA4 deficiency includes the use of replacement 
+immunoglobulin therapy for patients with hypogammaglobulinemia 
+and recombinant CTLA4 for the autoimmune manifestations.
+A phenotypically similar disorder is caused by variants in the 
+lipopolysaccharide-­responsive vesicle trafficking, beach and anchor 
+containing (LRBA) gene, which regulates the expression of CTLA4 on 
+the surface of T cells. CTLA4 is essential for the function of T-­regula­
+tory cells, which explains the common autoimmune and autoinflam­
+matory features of both LRBA deficiency and CTLA4 deficiency. HSCT 
+is increasingly being performed with good outcomes if performed 
+early, prior to end-­organ damage.
+Autoimmune Polyendocrinopathy–Candidiasis–
+Ectodermal Dystrophy
+Autoimmune polyendocrinopathy–candidiasis–ectodermal dystrophy 
+(APECED) is an autosomal recessive disorder caused by variants in 
+the gene encoding the autoimmune regulator (AIRE) gene (see Table 
+54.16). AIRE is a transcription factor that is essential for expression 
+of peripheral tissue antigens in the thymus, allowing for deletion of 
+self-­reactive T cells in the thymus (i.e., negative selection) and for the 
+production of T-­regulatory cells with the correct antigen specificity. 
+The clinical manifestation of APECED includes chronic or recurrent 
+Candida infections of the mucous membranes, skin, and nails; auto­
+immune hypoparathyroidism; and Addison disease. Other autoim­
+mune disorders, such as vitiligo, thyroiditis, and pernicious anemia, 
+may occur. The insidious and variable onset of the endocrinopathies 
+requires the need for frequent evaluation for autoimmune endocrine 
+disorders. The propensity to develop fungal infections is explained by 
+autoantibodies to certain immune cytokines, such as IL-­17, that are 
+critical to the defense of fungal infections.
+Autoimmune Lymphoproliferation Syndrome
+Autoimmune lymphoproliferation syndrome (ALPS) is a group of 
+disorders most commonly caused by variants in the FAS gene or less 
+commonly the FAS ligand (FASL) gene (see Table 54.16). Other genetic 
+causes of ALPS have been described. FAS is a protein that is involved 
+in the normal apoptotic pathway of lymphocytes, and defective apop­
+tosis due to defects in FAS or FASL underlies the autoimmune mani­
+festations of this disorder. The clinical manifestations of ALPS include 
+lymphoproliferation (i.e., splenomegaly and lymphadenopathy) and 
+autoimmune manifestations, particularly autoimmune thrombocyto­
+penia and autoimmune hemolytic anemia, and an increased suscepti­
+bility to lymphoma. Autoimmune manifestations are usually responsive 
+to immunosuppressive medication.
+   	 S U MMA RY  A N D  R E D  F L A G S
+Fevers and recurrent benign infections are common, especially in 
+large families or in daycare settings, in which children may manifest 
+6–10 URIs or gastroenteritis episodes a year. These infections usually 
+last <1 week. The child continues to grow and develop normally and 
+their activities are not restricted. Screening tests to evaluate immune 
+function are typically normal. Red flags to consider disorders of the 
+immune system include absent lymphoid tissue, failure to thrive, 
+digital clubbing, chronic diarrhea, prolonged infections, infections 
+with unusual organisms, repeated serious infections, bronchiectasis, 
+eczematous dermatitis, a family history of early childhood deaths (pre­
+sumably from infection), and other diseases associated with increased 
+risks for infection (sickle cell anemia, malignancy, asplenia). In these 
+cases, immunologic work-­up, genetic testing, and consultation with a 
+clinical immunologist can lead to a diagnosis and definitive treatment.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1046.e1
+BIBLIOGRAPHY
+Overview, History, Exam, and Diagnostic Approach
+Bonilla FA, Khan DA, Ballas ZK, et al. Practice parameter for the diagnosis 
+and management of primary immunodeficiency. J Allergy Clin Immunol. 
+2015;136:1186–1205.
+Buckley RH. Primary immunodeficiency diseases due to defects in 
+lymphocytes. N Engl J Med. 2000;343:1313.
+Picard C, Al-­Herz W, Bousfiha A, et al. Primary immunodeficiency 
+diseases: an update on the classification from the International 
+Union of Immunological Societies Expert Committee for primary 
+immunodeficiency, 2015. J Clin Immunol. 2015;35:696–726.
+Puck JM. Primary immunodeficiency diseases. J Am Med Assoc. 
+1997;278:1835.
+Sullivan KE, Stiehm ER, eds. Stiehm’s Immune Deficiencies. London: Academic 
+Press; 2014.
+Complement System Deficiency
+Colten HR, Rosen FS. Complement deficiencies. Annu Rev Immunol. 
+1992;10:809.
+Frank MM. Complement disorders and hereditary angioedema. J Allergy Clin 
+Immunol. 2010;125(2 suppl 2):S262–S271.
+Ratnoff WD. Inherited deficiencies of complement in rheumatic diseases. 
+Rheum Dis Clin North Am. 1996;22:75.
+Phagocyte Disorders
+Borregaard N, Boxer LA. Disorders of neutrophil function. In: Kaushansky K, 
+Lichtman M, Beutler E, et al., eds. Williams Hematology. 8th ed. New York: 
+McGraw-­Hill; 2010:951.
+Boztug K, Klein C. Genetics and pathophysiology of severe congenital 
+neutropenia syndromes unrelated to neutrophil elastase. Hematol Oncol 
+Clin North Am. 2013;27(1):43–60.
+Bustamante J, Boisson-­Dupuis S, Abel L, et al. Mendelian susceptibility to 
+mycobacterial disease: genetic, immunological, and clinical features of inborn 
+errors of IFN-­gamma immunity. Semin Immunol. 2014;26(6):454–470.
+Dale DC, Person RE, Bolyard AA, et al. Mutations in the gene encoding 
+neutrophil elastase in congenital and cyclic neutropenia. Blood. 
+2000;96:2317.
+Gately MK, Renzetti LM, Magram J, et al. The interleukin-­12/interleukin-­ 
+12-­receptor system: role in normal and pathologic immune responses. 
+Annu Rev Immunol. 1998;16:495.
+Harris ES, Weyrich AS, Zimmerman GA. Lessons from rare maladies: 
+leukocyte adhesion deficiency syndromes. Curr Opin Hematol. 
+2013;20(1):16–25.
+Kuhns DB, Alvord WG, Heller T, et al. Residual NADPH oxidase and survival 
+in chronic granulomatous disease. N Engl J Med. 2010;363(27):2600–2610.
+Lekstrom-­Himes JA, Gallin JI. Immunodeficiency diseases caused by defects in 
+phagocytes. N Engl J Med. 2000;343:1703.
+Winkelstein JA, Marino MP, Johnston Jr RB, et al. Chronic granulomatous 
+disease. Report on a national registry of 368 patients. Medicine (Baltim). 
+2000;79:155.
+Asplenia
+Bolze A, Mahlaoui N, Byun M, et al. Ribosomal protein SA haploinsufficiency 
+in humans with isolated congenital asplenia. Science. 2013;340(6135):
+976–978.
+Koss M, Bolze A, Brendolan A, et al. Congenital asplenia in mice and humans 
+with mutations in a Pbx/Nkx2-­5/p15 module. Dev Cell. 2012;22(5):
+913–926.
+Price VE, Blanchette VS, Ford-­Jones EL. The prevention and management of 
+infections in children with asplenia or hyposplenia. Infect Dis Clin North 
+Am. 2007;21(3):697–710.
+Spelman D. Prevention of overwhelming sepsis in asplenic patients: could do 
+better. Lancet. 2001;357:2002.
+Humoral Immune Defects
+Angulo I, Vadas O, Garcon F, et al. Phosphoinositide 3-­kinase delta gene 
+mutation predisposes to respiratory infection and airway damage. Science. 
+2013;342(6160):866–871.
+Bates CA, Ellison MC, Lynch DA, et al. Granulomatous-­lymphocytic lung 
+disease shortens survival in common variable immunodeficiency. J Allergy 
+Clin Immunol. 2004;114:415–421.
+Conley ME, Dobbs AK, Farmer DM, et al. Primary B cell immunodeficiencies: 
+comparisons and contrasts. Annu Rev Immunol. 2009;27:199–227.
+Lucas CL, Kuehn HS, Zhao F, et al. Dominant-­activating germline mutations 
+in the gene encoding the PI(3)K catalytic subunit p110delta result in T cell 
+senescence and human immunodeficiency. Nat Immunol. 2014;15(1):88–97.
+Resnick ES, Moshier EL, Godbold JH, et al. Morbidity and mortality 
+in common variable immune deficiency over 4 decades. Blood. 
+2012;119(7):1650–1657.
+Yel L. Selective IgA deficiency. J Clin Immunol. 2010;30(1):10–16.
+Yong PF, Thaventhiran JE, Grimbacher B. “A rose is a rose is a rose,” but CVID 
+is Not CVID common variable immune deficiency (CVID): what do we 
+know in 2011? Adv Immunol. 2011;111:47–107.
+Combined Immune Deficiencies
+Fischer A, Hacein-­Bey Abina S, Touzot F, et al. Gene therapy for primary 
+immunodeficiencies. Clin Genet. 2015;88:507–515.
+Gennery AR, Slatter MA, Rice J, et al. Mutations in CHD7 in patients with 
+CHARGE syndrome cause T-­B + natural killer cell + severe combined 
+immune deficiency and may cause Omenn-­like syndrome. Clin Exp 
+Immunol. 2008;153(1):75–80.
+Kavadas FD, Giliani S, Gu Y, et al. Variability of clinical and laboratory 
+features among patients with ribonuclease mitochondrial RNA processing 
+endoribonuclease gene mutations. J Allergy Clin Immunol. 2008;122:
+1178–1184.
+Leung DYM, Geha RS. Clinical and immunologic aspects of the 
+hyperimmunoglobulin E syndrome. Hematol Oncol Clin North Am. 
+1988;2:81.
+Pai SY, Logan BR, Griffith LM, et al. Transplantation outcomes for severe 
+combined immunodeficiency, 2000-­2009. N Engl J Med. 2014;371(5):434–446.
+Routes JM, Grossman WJ, Verbsky J, et al. Statewide newborn screening for 
+severe T-­cell lymphopenia. J Am Med Assoc. 2009;302(22):2465–2470.
+Shearer WT, Dunn E, Notarangelo LD, et al. Establishing diagnostic criteria 
+for severe combined immunodeficiency disease (SCID), leaky SCID, 
+and Omenn syndrome: the Primary Immune Deficiency Treatment 
+Consortium experience. J Allergy Clin Immunol. 2014;133(4):1092–1098.
+Autoinflammatory and Immune Disregulation Disorders
+Filipovich AH, Chandrakasan S. Pathogenesis of hemophagocytic 
+lymphohistiocytosis. Hematol Oncol Clin North Am. 2015;29(5):895–902.
+Kuehn HS, Ouyang W, Lo B, et al. Immune dysregulation in human 
+subjects with heterozygous germline mutations in CTLA4. Science. 
+2014;345(6204):1623–1627.
+Lo B, Zhang K, Lu W, et al. Patients with LRBA deficiency show CTLA4 
+loss and immune dysregulation responsive to abatacept therapy. Science. 
+2015;349(6246):436–440.
+Oliveira JB, Bleesing JJ, Dianzani U, et al. Revised diagnostic criteria 
+and classification for the autoimmune lymphoproliferative syndrome 
+(ALPS): report from the 2009 NIH International Workshop. Blood. 
+2010;116(14):e35–e40.
+Park H, Bourla AB, Kastner DL, et al. Lighting the fires within: the cell biology 
+of autoinflammatory diseases. Nat Rev Immunol. 2012;12(8):570–580.
+Schubert D, Bode C, Kenefeck R, et al. Autosomal dominant immune 
+dysregulation syndrome in humans with CTLA4 mutations. Nat Med. 
+2014;20(12):1410–1416.
+Verbsky JW, Chatila TA. Immune dysregulation, polyendocrinopathy, 
+enteropathy, X-­linked (IPEX) and IPEX-­related disorders: an evolving web 
+of heritable autoimmune diseases. Curr Opin Pediatr. 2013;25(6):708–714.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

@@ -1,0 +1,2205 @@
+1047
+SECTION 11  Endocrine and Metabolic Disorders
+Puberty is defined by both biologic and social standards. Puberty is the 
+time when there is an increase in sex steroid production, resulting in 
+physical changes such as breast development in females and testicular 
+enlargement in males, as well as maturation of processes required for 
+future fertility. Puberty, also known as adolescence, is the time when 
+children make the transition to adult patterns of behavior, which 
+involve maturity, responsibility, and sexuality.
+NORMAL PUBERTAL DEVELOPMENT
+Terminology
+Various terms are used to discuss puberty (Table 55.1). Bone age refers 
+to the degree of epiphyseal calcification, width, and proximity to adja­
+cent metaphyses and is a marker of physical maturity that normally cor­
+responds to chronologic age. Dental age generally correlates with bone 
+age. Bone age is derived by comparing a radiograph of the left hand 
+and wrist to gender-­appropriate standards in Greulich and Pyle’s bone 
+age atlas. In infants and toddlers, a more accurate assessment of bone 
+age can be determined from a radiograph of the hemi-­skeleton, with 
+primary attention to epiphyses of the long bones. Delayed or advanced 
+bone age occurs in many conditions; bone age is strongly influenced 
+by sex steroid production. The timing of the onset of puberty is usually 
+more closely linked to the bone age than to the chronologic age when 
+the two are significantly discordant. Regardless of chronologic age, lin­
+ear growth ceases when the bone age reaches 15 years in females and 
+18 years in males.
+Anatomy
+Puberty is controlled by the production of gonadotropin-­releasing 
+hormone (GnRH) in the anterior hypothalamus. GnRH-­containing 
+cell bodies project axons to the median eminence, where they termi­
+nate on the hypothalamic portal vessels. This system is referred to as 
+the GnRH pulse generator. After GnRH reaches the anterior pituitary 
+gland via the portal vasculature, it stimulates the production of both 
+follicle-­stimulating hormone (FSH) and luteinizing hormone (LH) by 
+the gonadotroph cells. In females, both FSH and LH are required for 
+estrogen production by ovarian granulosa cells. The regulated secre­
+tion of FSH and LH is also required for follicle growth, ovulation, and 
+maintenance of the corpus luteum. In males, FSH regulates spermato­
+genesis by Sertoli cells within the seminiferous tubules, and LH acti­
+vates Leydig cells to produce testosterone (Fig. 55.1). Androgens cause 
+development of male internal and external reproductive organs and 
+secondary sexual characteristics in both sexes by binding to receptor 
+proteins in the cells of target tissues. Sex steroids also exert a negative 
+feedback effect on the pituitary gland and hypothalamus.
+Physiology
+Perinatal Period and Infancy
+Maternal estrogens stimulate breast development in both male and 
+female fetuses. Maternal estrogens also stimulate uterine developmen­
+tal and endometrial growth; at birth, withdrawal of the high levels of 
+maternal estrogen and placental progesterone causes the infant endo­
+metrium to regress or even slough and manifests as vaginal bleeding.
+At birth, levels of LH and FSH in both sexes rise markedly and 
+remain elevated for several months. In the female, FSH stimulates ovar­
+ian granulosa cells to produce 17β-­estradiol sufficient to maintain pre­
+natal breast development for up to 8 months of life. Estrogen-­induced 
+vaginal cornification is generally evident as abundant vaginal discharge 
+at birth and is maintained as long as estrogens are produced. Ovarian 
+size from birth to 3 months ranges from 0.7 to 3.6 cm3, decreasing to 
+2.7 cm3 by 12 months and to 1.7 cm3 by 24 months; this size persists 
+until the onset of puberty. Ultrasound studies of the ovaries in normal 
+infants show many microcysts.
+Male breast development regresses rather quickly after birth. Ele­
+vated LH levels after birth stimulate Leydig cell production of testos­
+terone for 6–12 months, leading to further genital development. Penis 
+length increases from 3–5 cm in the full-­term newborn to 4.5–6 cm by 
+2–3 years.
+Childhood
+By 2 years of age, serum gonadotropin levels decrease, and thus serum 
+sex steroid levels also decrease, frequently to levels undetectable by 
+conventional assays.
+Beginning approximately at ages 6–7 years in females and 7–8 years 
+in males, adrenal androgen production begins to increase and can 
+be detected by the presence of increasing concentrations of the weak 
+adrenal androgen dehydroepiandrosterone (DHEA) and its sulfated 
+derivative, DHEA sulfate (DHEAS). Despite these serum levels, there 
+is initially no secondary sexual (pubic or axillary) hair development.
+Adolescence
+Beginning on average at about 10.5 years in females and 11.5 years in 
+males, there is the return of activity of the hypothalamic GnRH pulse 
+generator, leading to increased serum levels of FSH and LH. The kiss­
+peptin (KISS1 gene)/G-­protein-­coupled receptor (GPR54) (also called 
+KISS1 receptor) system stimulates the GnRH neurons and is involved 
+Disorders of Puberty
+Peter M. Wolfgram and Bethany Auble
+55
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1048
+SECTION 11  Endocrine and Metabolic Disorders
+in the feedback regulation of the hypothalamic-­pituitary-­gonadal 
+axis by gonadal steroids. The trigger mechanism for this resurgence is 
+unknown, but it may be linked to attainment of a critical body mass or 
+fat mass. Leptin, a hormone produced by fat cells, may be the connec­
+tion between weight (fat mass) and pubertal events. In early puberty, 
+the activity of the hypothalamic GnRH pulse generator is mostly 
+evident overnight (sleep-­entrained), with pulses increasing in number 
+and amplitude and eventually occurring every 60–90 minutes. Over 
+time, this process begins to occur during the daytime; there is always 
+greater gonadotropin secretion at night. Because of the longer half-­life 
+of sex steroids, serum levels of estradiol and testosterone show little, 
+if any, diurnal variation. Testosterone levels may be slightly higher in 
+the morning with advancing puberty. There is central sensitivity to the 
+negative feedback effects of sex steroids, leading to significant eleva­
+tions of gonadotropins when sex steroid production is impaired. The 
+function of the hypothalamic GnRH pulse generator can be accelerated 
+in the setting of obesity, and LH and FSH secretion can revert to the 
+prepubertal pattern in the setting of significant weight loss, as occurs in 
+females with anorexia nervosa.
+Usually within 6 months of the onset of this heightened GnRH 
+pulse generator activity in females, there is also increasing production 
+of androgens by the adrenal glands, the major source of androgens in 
+females. In males, the testes are the main source of androgens, although 
+male adrenarche also begins about 6 months after gonadarche.
+Sex Steroid Effects
+In response to FSH, both testes and ovaries enlarge, starting gonadarche. 
+Ovarian granulosa cells produce 17β-­estradiol, which causes estro­
+gen effects that generally occur in a fixed order (Table 55.2). Growth 
+increase is one of the early effects of estrogen. Growth is stimulated 
+by estrogen-­stimulated increased production of growth hormone and 
+insulin-­like growth factor 1. Estrogens along with growth hormone 
+and thyroid hormones increase bone mineralization and growth.
+In response to LH, testicular Leydig cells produce testosterone, 
+which is converted to dihydrotestosterone (DHT), leading to androgen 
+effects that generally occur in the same order (Table 55.3).
+Note that growth is not stimulated early in puberty by rising testos­
+terone; in fact, during the phase when testosterone levels are beginning 
+to rise, growth is usually slowed perceptibly from a prepubertal height 
+velocity of perhaps 5 cm/yr to a velocity as slow as 4 cm/yr for 12–18 
+months. As levels of testosterone increase closer to 400 ng/dL and testis 
+volume increases to between 10 and 12 mL, males make the transition 
+to rapid growth. Rapid growth for males thus occurs for about 2 years 
+in middle puberty, and slower growth continues for 2–3 more years.
+Testosterone
+Estrogen
+LH
+FSH
+GnRH
+Hypothalamus
+Pituitary
+Testis
+Ovary
+Progesterone
+Fig. 55.1  Normal hypothalamic-­pituitary-­gonadal axis. FSH, follicle-­
+stimulating hormone; GnRH, gonadotropin-­releasing hormone; LH, 
+luteinizing hormone. (Courtesy of Sex Development: Genetics and Biol­
+ogy: An initiative of the Research Program in Disorders of Sex Devel­
+opment, funded by the NHMRC Australia. http://www.dsdgenetics.org/
+index.php?id=48.)
+TABLE 55.2  Estrogen Effects
+Vaginal and urethral cornification
+Breast development, often asymmetric
+Linear growth
+Fat development
+Uterine development
+Menarche: 2–2.5 yr after breast buds
+TABLE 55.1  Puberty Terminology
+Gonadarche: maturation of the gonads under the control of the 
+hypothalamus (GnRH) and pituitary gland (FSH and LH)
+Thelarche: presence of breast development in girls
+Gynecomastia: presence of breast development in boys
+Adrenarche or development of androgen-­regulated pubarche: 
+secondary sexual characteristics, including pubic hair, axillary hair, apocrine 
+(underarm) odor, and acne, in both sexes
+Menarche: time of the first menstrual period
+Spermarche: time when a boy is first able to produce sperm
+FSH, follicle-­stimulating hormone; GnRH, gonadotropin-­releasing hor­
+mone; LH, luteinizing hormone.
+TABLE 55.3  Androgen Effects
+Psychologic changes
+Skin and hair oils, sweat odors
+Areolar growth and pigment
+Sexual skin pigment and folding
+Phallic growth
+Voice change
+Sexual hair growth
+Hairline recession
+Statural growth
+Muscle mass/strength
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1049
+CHAPTER 55  Disorders of Puberty
+Benign adolescent gynecomastia occurs in as many as 40–60% of 
+normal males; enough estrogen relative to the amount of testosterone 
+is produced so that breast development occurs. Gynecomastia usually 
+starts in early to middle puberty (peak age, 13 years), before adult male 
+concentrations of testosterone are achieved. It typically starts on one 
+side and resolves within 2 years. Gynecomastia is more common in 
+obese males, although true breast tissue in this setting is often difficult 
+to distinguish from fat tissue (lipomastia).
+Chronology of Puberty
+Females
+Females begin puberty at an average age of 10.5 years (range, 8–13 
+years; mean ± 2.5 standard deviations [SD]). There are data suggesting 
+that female puberty begins at an earlier age and that African-Ameri­
+can females begin puberty about 1 year earlier than White females, but 
+this is not universally accepted. In 85% of females, the first clinically 
+detectable sign of puberty is breast development (thelarche), although 
+ovarian enlargement, which is not clinically detectable in a strict sense, 
+occurs first. Breast buds appear as small nodules either directly under­
+neath the nipples or slightly off center, causing the areolae and nipples 
+to be pushed out and sometimes cause minor, transient discomfort or 
+itching as the skin around the nipple is stretched. Breast development 
+may be unilateral and asymmetric in its earliest stages. Pubic hair usu­
+ally begins to develop within the next 6 months; in approximately 15% 
+of females, pubic hair precedes breast development. Such discordance 
+has no clinical significance. The female adolescent growth spurt com­
+mences near the onset of thelarche, generally spanning a 2-­year period 
+between the ages of 11 and 13 years. Axillary hair generally begins, 
+on average, between 12 and 13 years. Menarche, a rather late event in 
+female puberty, occurs on average between 12.2 and 12.8 years, typi­
+cally 2–2.5 years following thelarche. Menarche is often preceded by a 
+whitish, non–foul-­smelling vaginal discharge (physiologic leukorrhea) 
+for up to 6 months. At the time of menarche, an adolescent female 
+has reached 96.5% of her adult height potential. However, more linear 
+growth may remain in clinical situations in which menarche occurs at 
+a younger bone age than is typical for the average adolescent female. 
+Menstrual cycles for the first 2 years after menarche are often anovula­
+tory and irregular in frequency.
+Males
+Males begin puberty at an average age of 11.5 years (range, 9–14 years; 
+mean ± 2.5 SD). The first clinically detectable sign of puberty is testic­
+ular enlargement, a fact generally unknown to patients and their par­
+ents. From birth to the start of puberty, male testicular volumes range 
+between 1 and 2 mL as determined by using an orchidometer, a series 
+of ellipsoid models of varying volumes (Fig. 55.2). Stretched penile 
+length (measured with a rigid tape measure on the dorsum of the penis 
+from the pubic symphysis to the tip of the nonerect penis without con­
+sidering any foreskin tissue) averages about 3.5 cm (range, 2.8–4.2 cm) 
+at birth and grows by an average of 2.5 cm until the start of puberty. 
+The onset of male puberty is considered to have begun when at least 
+one of the two testicles reaches 4 mL in volume. It takes approximately 
+5–6 years for the testicles to reach the average adult volume of 18 mL. 
+Approximately 75–80% of the adult testicle consists of seminiferous 
+tubules; testosterone-­producing Leydig cells make up the remainder.
+Within 6 months after the start of testicular enlargement, pubic hair 
+can be found; pubic hair precedes testicular enlargement in approxi­
+mately 15%. The presence of pubic hair is incorrectly considered the 
+first evidence of puberty in males by both patients and parents. Pubic 
+hair is followed by the development of axillary hair at approximately 14 
+years of age. During this time, penile enlargement also occurs, reach­
+ing a mean adult length of 12.4 ± 1.6 cm at 20 years of age. The male 
+adolescent growth spurt typically occurs between the ages of 13 and 15 
+years, commencing when the testicular volumes reach 12 mL. By age 
+15 years, a male has attained 98% of his final adult height. The ability of 
+adolescent males to produce sperm, as evidenced by detection of sper­
+matozoa in urine samples, begins between 13.5 and 15 years.
+Clinical Staging of Puberty
+Standardized staging of pubertal development in both sexes allows for 
+comparison between children, as well as longitudinal monitoring of 
+individual children (Fig. 55.3).
+Breast development in females, genitalia in males, and pubic hair 
+in both sexes are scored according to five-­stage systems referred to as 
+Tanner stages 1–5. Axillary hair in both sexes is rated by a three-­stage 
+system referred to as stages 1–3. Puberty itself is not staged because 
+different components of puberty may occur at different stages.
+Females
+For breast development, Tanner stage 1 refers to no breast develop­
+ment; Tanner stage 2, to the presence of just breast buds (one or two); 
+Tanner stage 3, to the beginning of formation of the peripheral mound 
+with elevation of the breast; Tanner stage 4, to a further increase in 
+breast size, with the formation of the so-­called “double contour,” in 
+which the areola and papilla are both raised off the surface of the whole 
+breast; and Tanner stage 5, to adult size, with a return to the single 
+contour in which the surface of the areola is again flush with that of the 
+breast. It may be difficult to differentiate between Tanner stages 3 and 
+5 because the only difference between these two stages is breast size 
+(determined mostly by fat content). Thus, small breasts, especially in 
+an older adolescent female, should not necessarily be construed as Tan­
+ner stage 3, especially if she has already menstruated, which typically 
+occurs when the breasts have reached Tanner stage 4 and/or if women 
+in the family typically have small breasts.
+Males
+For external genitalia, Tanner stage 1 refers to the prepubertal state (tes­
+tes <4 mL in volume); Tanner stage 2, to slight enlargement of the testes 
+and scrotum; Tanner stage 3, to lengthening of the penis and further 
+Fig. 55.2  Prader orchidometer is a series of plastic or wooden ovoid-­
+shaped pieces attached by a string representing different testicular vol­
+umes (1 mL, 2 mL, 3 mL, 4 mL, 5 mL, 6 mL, 8 mL, 10 mL, 12 mL, 15 mL, 
+20 mL, and 25 mL). (From Zitelli BJ, McIntire, SC, Nowalk AJ, eds. Zitelli 
+and Davis’ Atlas of Pediatric Physical Diagnosis. 7th ed. Philadelphia: 
+Elsevier; 2018:348, Fig. 9.5.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1050
+SECTION 11  Endocrine and Metabolic Disorders
+enlargement of the testes and scrotum; Tanner stage 4, to continued 
+penile growth in both length and width with development of the glans; 
+and Tanner stage 5, to adult appearance. An alternative, simplified, and 
+equally accurate approach involves only sizing of the testicles, whereby 
+4 mL represents the start of puberty, 12 mL correlates with the start of 
+the growth spurt, and 18 mL is the average adult size. In some cases, the 
+appearance of pubic hair does not occur until the testicular volumes 
+reach 12–15 mL. Testicular volumes may differ at all stages between 
+sides but not usually by more than one size on a standard orchidome­
+ter. It is important not to confuse a hydrocele with an enlarged testis.
+Females and Males
+Tanner staging of pubic hair is similar in both sexes. Tanner stage 1 is 
+defined by having no pubic hair. Tanner stage 2 is characterized by the 
+presence of a few, countable strands of curly, coarse, pigmented hair 
+along the labia minora in females or at the base of the penis and/or 
+on the scrotum in males. Lighter and softer hair (lanugo) in the pubic 
+region is not pubic hair. On occasion, especially in individuals from 
+ethnic populations from Mediterranean countries or Northern India, 
+there may be an extension of coarse body hair (hypertrichosis) to the 
+pubic region that can be difficult to discern from pubic hair. Tanner 
+stage 3 refers to the presence of coarser, darker, and curlier hairs, the 
+number of which is no longer countable, which have spread more lat­
+erally. Tanner stage 4 refers to a thick, fully triangular pattern of hair 
+growth, without spread to the thighs. Finally, Tanner stage 5 refers to 
+the adult pattern in which there is spread of hair to the medial thighs. 
+The designation Tanner stage 6 is used to describe hair growing up the 
+linea alba, referring to the so-­called male escutcheon.
+Axillary hair is the simplest component of puberty to quantify. Stage 
+1 refers to the absence of any hair. Stage 2 refers to a countable number 
+of curly, coarse, pigmented strands in at least one armpit. Stage 3 refers 
+to the adult complement, which is merely more hair than is present in 
+stage 2. For the individual with shaved axillae, it is safe to assume either 
+stage 2 or stage 3 hair is present.
+Family Patterns
+The timing of puberty is affected by familial patterns; both parents’ his­
+tories are important in assessing the child with early or late puberty. 
+The following information is useful for establishing the parental effect:
+ 
+• Age of their mother’s menarche
+ 
+• Age their father began shaving on a daily basis
+ 
+• Age when their parents stopped growing
+PRECOCIOUS PUBERTY
+Definition
+The onset of puberty, at least in females, may be occurring earlier than 
+in the past; therefore, the definition of precocious puberty has been 
+modified to refer to the appearance of any feature of puberty before 8 
+years of age in females and before 9 years of age in males. Some experts 
+would argue that the definition of precocious puberty in African-Amer­
+ican and Hispanic females would be younger than 7 years, but the strict 
+definition remains younger than 8 years. The family pattern must also 
+be considered; an early onset of puberty is frequently familial.
+Normal Variants
+Idiopathic Isolated Premature Thelarche
+This common condition is the development of breast tissue in females 
+before 8 years of age in White children and 7 years of age in African-
+American children, with no other manifestations of puberty (Fig. 55.4). 
+Elevated serum estrogen levels for age have been difficult to demon­
+strate, although higher levels than in age-­matched normal females have 
+been measured by an ultrasensitive estradiol assay. Development of 
+breast tissue commonly begins between 2 and 3 years of age; it may be 
+present from birth. The observed tissue may be asymmetric, unilateral, 
+or bilateral. When asymmetric or unilateral, parents are typically con­
+cerned about the possibility of malignancy, an extremely rare occur­
+rence in childhood. The early breast tissue frequently regresses without 
+intervention, but it may persist. If it persists, the degree of development 
+I
+I
+II
+II
+III
+III
+IV
+IV
+V
+V
+3
+4
+10
+16
+25
+<2,5
+2,5-3,2
+3,6
+4,1-4,5
+>4,5
+Fig. 55.3  Tanner stages. (Illustrations by Michał Komorniczak.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1051
+CHAPTER 55  Disorders of Puberty
+does not usually exceed Tanner stage 3. The bone age, if determined, 
+is not frequently advanced, and there is no associated growth spurt. If 
+these simple clinical criteria are met, no hormonal studies or additional 
+radiologic procedures are necessary.
+Physiologic breast enlargement also occurs in neonates from pla­
+cental transfer of estrogens. Most marked in the first weeks of life, it 
+usually regresses by 1–2 months.
+Idiopathic Isolated Precocious Adrenarche
+This common, normal variant is characterized by the development of 
+pubic hair, axillary hair and odor, and/or a small amount of acne in 
+White females before the age of 8 years, in African-American females 
+before the age of 7 years, and in males before the age of 9 years. It 
+appears to result from early production of adrenal androgens. Pre­
+cocious adrenarche occurs much more commonly in females than 
+in males and develops most often in obese and/or African-American 
+females and in brain-­injured children. There is no associated evidence 
+of virilization (no growth spurt, no significant advancement of bone 
+age, no increase in muscle bulk, no voice deepening, and no tempo­
+ral hair recession). In females, there is no associated clitoromegaly and 
+no evidence of estrogen-­mediated components of puberty; in males, 
+there is no phallic or testicular enlargement. If a child presents at a 
+very young age, it is generally presumed that an organic cause (such 
+as congenital adrenal hyperplasia) will be found. However, in infant 
+males with isolated scrotal hair, typically no cause is found, and the 
+hair subsequently falls out. In most cases of idiopathic precocious adre­
+narche (benign premature adrenarche), serum levels of DHEA and/or 
+DHEAS are consistent with the reference range of Tanner staging of the 
+hair growth, and the 8:00 a.m. 17-­hydroxyprogesterone level is normal. 
+If these criteria are met, no additional laboratory studies are indicated. 
+This pubertal variant was considered benign and self-­limited, but data 
+suggest that at least in females with associated low birthweight, it may 
+suggest an increased risk for polycystic ovary disease.
+Isosexual Central Precocious Puberty
+Central sexual precocity results from activation of the hypothalamic-­
+pituitary-­gonadal axis at an earlier-­than-­normal age (Figs. 55.1 and 
+55.5). Isosexual development refers to pubertal changes appropriate for 
+the sex of the child, such as breast budding in females and testicular 
+enlargement in males. This is to be distinguished from contrasexual 
+development, in which the pubertal features in females are mediated 
+by male hormones (clitoromegaly) and those in males are mediated by 
+female hormones (breast development).
+Causes of isosexual precocious puberty are listed in Tables 55.4 and 
+55.5 and Figs. 55.5 and 55.6. The majority of cases in females, who are 
+at least 10-­fold more likely to be affected than males, are idiopathic, 
+whereas only a small percentage of affected males have no definable 
+cause. Ovarian size, as seen on an ultrasound, is generally a reflec­
+tion of ovarian estrogen production. In true central puberty, pituitary 
+gonadotropins cause both ovaries to increase in size.
+In true male central puberty, testes enlarge and androgen produc­
+tion increases. The size of testis enlargement sufficient to determine 
+puberty is debatable. In general, prepubertal testes are <4 mL in vol­
+ume and 2 cm in length. If on examination both testes are enlarged and 
+androgen signs are present, it is likely puberty is underway and testis-­
+derived testosterone levels are increasing. If basal pituitary gonado­
+tropins are increasing, or if LH levels increase markedly after GnRH 
+stimulation, the diagnosis is central precocious puberty.
+Hypothalamic hamartomas, which may be associated with ecto­
+pic secretion of GnRH or transforming growth factor-­α, are common 
+causes of precocious puberty. Approximately 3% of children with neu­
+rofibromatosis type 1 develop central precocity, usually caused by a 
+hypothalamic optic glioma.
+Central precocious puberty in the setting of untreated or under­
+treated peripheral causes of puberty, such as virilizing congenital 
+Fig. 55.4  Two-­year-­old twin sisters with idiopathic isolated premature 
+thelarche manifested by isolated breast development to Tanner stage 3.
+Fig. 55.5  A 3-­year-­old girl (left) with isosexual central precocious 
+puberty characterized by both breast and pubic hair development, and 
+tall stature, contrasted to a normal 5-­year-­old prepubertal girl (right).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1052
+SECTION 11  Endocrine and Metabolic Disorders
+adrenal hyperplasia, is caused by premature activation of the GnRH 
+pulse generator, presumably as a result of continuous central nervous 
+system exposure to high levels of androgens (or androgens aromatized 
+to estrogens). Precocious puberty with thelarche and menarche in the 
+setting of long-­standing severe untreated primary hypothyroidism 
+(Van Wyk–Grumbach syndrome) can occur, although the mechanism 
+is not clear. It is clinically distinguished by the usual manifestations of 
+hypothyroidism, including delayed growth and bone age, rather than 
+the advanced bone age present with other causes of precocious puberty.
+Incomplete Isosexual Precocity (Precocious 
+Pseudopuberty)
+Precocious pseudopuberty refers to gonadal or adrenal sex steroid secre­
+tion not resulting from activation of the hypothalamic-­pituitary-­gonadal 
+axis (pituitary independent). It is caused by excessive production of or 
+exposure to either androgens or estrogens (see Table 55.4).
+Androgen Exposure or Overproduction
+Anabolic steroids have been taken by males and females to improve 
+muscle development and athletic performance. In males, if anabolic 
+steroids are taken at the age of puberty, secondary sexual development 
+will progress, but the testes will remain small. In females, anabolic ste­
+roids can produce clitoral enlargement (particularly in diameter), acne, 
+and hirsutism, as well as emotional lability.
+Females. Ovarian tumors producing androgens (thecoma) and 
+sometimes also estrogen may be palpable on physical examination 
+and are usually easily seen on a pelvic ultrasound. Arrhenoblastoma, a 
+virilizing ovarian tumor, is rare in children. Gonadoblastomas, which 
+TABLE 55.4  Classification of Sexual Precocity
+TRUE PRECOCIOUS PUBERTY OR COMPLETE ISOSEXUAL 
+PRECOCITY (GnRH-­DEPENDENT SEXUAL PRECOCITY OR 
+PREMATURE ACTIVATION OF THE HYPOTHALAMIC GnRH 
+PULSE GENERATOR)
+Idiopathic true precocious puberty
+CNS tumors
+Optic glioma associated with neurofibromatosis type 1
+Hypothalamic astrocytoma
+Other CNS disorders
+Developmental abnormalities including hypothalamic hamartoma of the tuber cinereum
+Encephalitis
+Static encephalopathy
+Brain abscess
+Sarcoid or tubercular granuloma
+Head trauma
+Hydrocephalus
+Arachnoid cyst
+Myelomeningocele
+Vascular lesion
+Cranial irradiation
+True precocious puberty after late treatment of congenital virilizing adrenal 
+hyperplasia or other previous chronic exposure to sex steroids
+True precocious puberty due to gain-­of-­function pathologic variants in KISS1R/KISS1 genes
+Central precocious puberty due to loss of function in MKRN3 or DLK1 genes 
+(Figs. 55.6 and 55.7)
+INCOMPLETE ISOSEXUAL PRECOCITY (HYPOTHALAMIC 
+GnRH INDEPENDENT)
+Males
+Gonadotropin-­secreting tumors 
+hCG-­secreting CNS tumors (e.g., chorioepitheliomas, germinoma, teratoma)
+hCG-­secreting tumors located outside the CNS (hepatoma, teratoma, 
+choriocarcinoma)
+Increased androgen secretion by adrenal gland or testis
+Congenital adrenal hyperplasia (CYP21 and CYP11B1 deficiencies)
+Virilizing adrenal neoplasm
+Leydig cell adenoma
+Familial testotoxicosis (sex-­limited autosomal dominant pituitary gonadotropin-­
+independent precocious Leydig cell and germ cell maturation)
+Cortisol resistance syndrome
+Females
+Ovarian cyst
+Estrogen-­secreting ovarian or adrenal neoplasm
+Peutz-­Jeghers syndrome
+Both Sexes
+McCune-­Albright syndrome
+Hypothyroidism
+Iatrogenic or exogenous sexual precocity (including inadvertent exposure to 
+estrogens in food, drugs, or cosmetics)
+VARIATIONS OF PUBERTAL DEVELOPMENT
+Premature thelarche
+Premature isolated menarche
+Premature adrenarche
+Adolescent gynecomastia in boys
+Macro-orchidism
+CONTRASEXUAL PRECOCITY
+Feminization in Males
+Adrenal neoplasm
+Chorioepithelioma
+CYP11B1 deficiency
+Late-­onset adrenal hyperplasia
+Testicular neoplasm (Peutz-­Jeghers syndrome)
+Increased extraglandular conversion of circulating adrenal androgens to 
+estrogen
+Iatrogenic (exposure to estrogens)
+Virilization in Females
+Congenital adrenal hyperplasia
+CYP21 deficiency
+CYP11B1 deficiency
+3β-­HSD deficiency
+Virilizing adrenal neoplasm (Cushing syndrome)
+Virilizing ovarian neoplasm (e.g., arrhenoblastoma)
+Iatrogenic (exposure to androgens)
+Cortisol resistance syndrome
+Aromatase deficiency
+CNS, central nervous system; CYP11B1, 11-­hydroxylase; CYP21, 21-­hydroxylase; GnRH, gonadotropin-­releasing hormone; hCG, human chorionic 
+gonadotropin; 3β-­HSD, 3β-­hydroxysteroid dehydrogenase 4,5-­isomerase.
+Modified from Grumbach MM. True or central precocious puberty. In: Kreiger DT, Bardin CW, eds. Current Therapy in Endocrinology and 
+Metabolism, 1985–1986. Toronto, Canada: BC Decker; 1985:4–8.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1053
+CHAPTER 55  Disorders of Puberty
+TABLE 55.5  Differential Diagnosis of Sexual Precocity
+Disorder
+Plasma 
+Gonadotropins
+LH Response 
+to GnRH
+Serum Sex Steroid 
+Concentration
+Gonadal Size
+Miscellaneous
+Gonadotropin Dependent
+True precocious 
+puberty
+Prominent LH 
+pulses (premature 
+reactivation 
+of GnRH pulse 
+generator)
+Pubertal LH 
+response initially 
+during sleep
+Pubertal values of 
+testosterone or estradiol
+Normal pubertal testicular 
+enlargement or ovarian 
+and uterine enlargement
+MRI of brain to rule out CNS 
+tumor or other abnormality; 
+skeletal survey for McCune-­
+Albright syndrome (by US)
+Incomplete Sexual Precocity (Pituitary Gonadotropin Independent)
+Males
+Chorionic 
+gonadotropin-­
+secreting tumor 
+in males
+High hCG, low LH
+Prepubertal LH 
+response
+Pubertal value of 
+testosterone
+Slight to moderate 
+uniform enlargement 
+of testes
+Hepatomegaly suggests 
+hepatoblastoma; CT scan of 
+brain if chorionic gonadotropin-­
+secreting CNS tumor suspected
+Leydig cell tumor in 
+males
+Suppressed
+No LH response
+Very high testosterone
+Irregular, asymmetric 
+enlargement of testes
+Familial testotoxicosis
+Suppressed
+No LH response
+Pubertal values of 
+testosterone
+Testes symmetric and 
+>2.5 cm but smaller 
+than expected for 
+pubertal development; 
+spermatogenesis occurs
+Familial; probably sex-­limited, 
+autosomal dominant trait
+Virilizing congenital 
+adrenal hyperplasia
+Prepubertal
+Prepubertal LH 
+response
+Elevated 17-­OHP in 
+CYP21 deficiency 
+or elevated 
+11-­deoxycortisol in 
+CYP11B1 deficiency
+Testes prepubertal
+Autosomal recessive; may be 
+congenital or late-­onset form, 
+may have salt loss in CYP21 
+deficiency or hypertension in 
+CYP11B1 deficiency
+Virilizing adrenal 
+tumor
+Prepubertal
+Prepubertal LH 
+response
+High DHEAS and 
+androstenedione values
+Testes prepubertal
+CT, MRI, or US of abdomen
+Premature 
+adrenarche
+Prepubertal
+Prepubertal LH 
+response
+Prepubertal testosterone, 
+DHEAS, or urinary 
+17-­ketosteroid values 
+appropriate for pubic 
+hair stage 2
+Testes prepubertal
+Onset usually after 6 yr of age; 
+more frequent in CNS-­injured 
+children
+Females
+Granulosa cell tumor 
+(follicular cysts may 
+present similarly)
+Suppressed
+Prepubertal LH 
+response
+Very high estradiol
+Ovarian enlargement on 
+physical examination, 
+CT, or US
+Tumor often palpable on physical 
+examination
+Follicular cyst
+Suppressed
+Prepubertal LH 
+response
+Prepubertal to very high 
+estradiol
+Ovarian enlargement on 
+physical examination, 
+CT, or US
+Single or recurrent episodes 
+of menses and/or breast 
+development; exclude McCune-­
+Albright syndrome
+Feminizing adrenal 
+tumor
+Suppressed
+Prepubertal LH 
+response
+High estradiol and DHEAS 
+values
+Ovaries prepubertal
+Unilateral adrenal mass
+Premature thelarche
+Prepubertal
+Prepubertal LH, 
+pubertal
+Prepubertal or early 
+estradiol response
+Ovaries prepubertal
+Onset usually before 3 yr of age
+Premature 
+adrenarche
+Prepubertal
+Prepubertal LH 
+response
+Prepubertal estradiol; 
+DHEAS or urinary 
+17-­ketosteroid values 
+appropriate for 
+pubic hair stage 2
+Ovaries prepubertal
+Onset usually after 6 yr of age; 
+more frequent in brain-­injured 
+children
+Late-­onset virilizing 
+congenital adrenal 
+hyperplasia
+Prepubertal
+Prepubertal LH 
+response
+Elevated 17-­OHP in 
+basal or corticotrophin-­ 
+stimulated state
+Ovaries prepubertal
+Autosomal recessive
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1054
+SECTION 11  Endocrine and Metabolic Disorders
+are not always virilizing, typically occur in phenotypic females who 
+have Y chromosome material. Granulosa cell tumors usually cause 
+estrogen overproduction but occasionally cause virilization due to 
+excessive androgen production.
+Adrenal tumors can be detected with ultrasonography, CT, or 
+MRI. Androgens produced by adrenal tumors are not suppressed by 
+dexamethasone. Excessive adrenal androgens may also be produced 
+as a result of late-­onset or nonclassical congenital adrenal hyperpla­
+sia, but the androgen production can be suppressed by dexameth­
+asone. The enzymatic deficiency in late-­onset congenital adrenal 
+hyperplasia is mild, inasmuch as it does not cause ambiguity of geni­
+talia at birth; however, it is associated with an accelerated growth rate 
+and advanced bone age and may be clinically recognized any time 
+after birth.
+Males. If both testes are slightly increased in volume and 
+testosterone levels are increased but LH and FSH levels are low, there 
+are two possibilities: either the testes are being stimulated by human 
+chorionic gonadotropin (hCG), which acts like LH and does not 
+increase testicular volume, as with FSH, or the testes are functioning 
+autonomously. hCG levels must be determined, and if they are 
+Disorder
+Plasma 
+Gonadotropins
+LH Response 
+to GnRH
+Serum Sex Steroid 
+Concentration
+Gonadal Size
+Miscellaneous
+In Both Sexes
+McCune-­Albright 
+syndrome
+Suppressed
+Suppressed
+Sex steroid pubertal or 
+higher
+Ovarian enlargement 
+(visible on US); slight 
+testicular enlargement
+Skeletal survey for polyostotic 
+fibrous dysplasia and skin 
+examination for café-­au-­lait 
+spots
+Primary 
+hypothyroidism
+LH prepubertal; FSH 
+may be slightly 
+elevated
+Prepubertal FSH may 
+be increased
+Estradiol may be pubertal
+Testicular enlargement; 
+ovaries cystic
+TSH and prolactin elevated; 
+T4 low
+CNS, central nervous system; CYP, P450 cytochrome isoenzyme; DHEAS, dehydroepiandrosterone sulfate; FSH, follicle-­stimulating hormone; GnRH, 
+gonadotropin-­releasing hormone; hCG, human chorionic gonadotropin; LH, luteinizing hormone; 17-­OHP, 17-­hydroxyprogesterone; T4, thyroxine; 
+TSH, thyroid-­stimulating hormone; US, ultrasonography.
+TABLE 55.5  Differential Diagnosis of Sexual Precocity—cont’d
+?
+?
+?
+?
+?
+LEPR
+GWAS ~92%
+variance
+unknown
+>60%
+unknown
+Precocious
+puberty
+GnRH
+deficiency
+(CHH, KS)
+>40%
+unknown
+Healthy population
+Delayed
+puberty
+>90%
+unknown
+NEGR1
+DLK1
+MKRN3
+TACR3
+LGR4
+GnRHR
+FGFR1
+GnRH
+HS6ST1
+IGSF10
+EAP1
+KISS1R
+KISS1
+NSMF
+ANOS1
+FTO
+Fig. 55.6  Established genetic basis of common genetic variants of pubertal timing from genome-­wide associ­
+ation studies (GWAS), conditions of GnRH deficiency (CHH and KS), precocious puberty, and delayed puberty 
+and their overlap. Activating and inactivating pathologic variants in KISS1 and KISS1R cause the opposite 
+phenotypes, precocious puberty and CHH, respectively. Bold circles highlight those genes whose pathologic 
+gene variants have been identified in familial delayed puberty. CHH, congenital hypogonadotropic hypogo­
+nadism; KS, Kallmann syndrome. (From Howard SR. The genetic basis of delayed puberty. Front Endocrinol 
+(Lausanne). 2019;10:423 [published 2019 Jun 26], Fig. 5.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1055
+CHAPTER 55  Disorders of Puberty
+increased, tumors producing hCG must be identified and removed; 
+such tumors may include hepatoma, germinoma, hepatoblastoma, 
+teratoma, and chorioepithelioma.
+If both testes are producing testosterone autonomously without 
+gonadotropin stimulus, the condition of testotoxicosis is probable. Chil­
+dren with this autosomal dominant disorder have signs of puberty by 4 
+years of age (Fig. 55.8). Testosterone production and Leydig cell hyper­
+plasia occur in the setting of prepubertal serum LH levels, because of 
+a gain-­of-­function pathologic variant in the gene for the LH receptor, 
+resulting in its constitutive activation. Affected males are fertile. Females 
+who carry this pathologic variant do not develop precocious puberty.
+If one testis is enlarged, a Leydig cell adenoma in that testicle is 
+probably producing excess testosterone; the tumor must be removed. 
+The high levels of testosterone suppress LH and FSH secretion, so the 
+other testicle remains small. Depending on age, a testicular prosthesis 
+may be inserted to replace the removed testicle.
+If androgen signs are developing steadily but neither testis has 
+enlarged, the androgen is presumed to be either from the adrenal 
+glands or from an exogenous source. Inappropriate adrenal production 
+of androgens results from tumors or abnormalities in steroid synthe­
+sis enzymatic activity. An adrenal tumor would have affected growth 
+whenever the gland started to function, but not necessarily beginning 
+at birth. A defect in steroid synthesis caused by an enzymatic deficiency 
+(usually 21-­hydroxylase) may be congenital, as in congenital adrenal 
+hyperplasia, and the excess androgen production resulting from the 
+enzymatic deficiency would have been produced from the time of birth, 
+leading to increased growth velocity from early life. Children with con­
+genital adrenal hyperplasia may have severe adrenal crises during an ill­
+ness or surgery. A late-­onset or nonclassical form of adrenal hyperplasia 
+may also occur. A tumor can be identified by CT, ultrasonography, or 
+MRI and must be removed.
+Estrogen Overproduction
+The most common cause of premature progressive breast development 
+is simple premature thelarche. In this case, a pelvic ultrasound study 
+may show prepubertal ovaries varying from 1 to 3 mL in volume with 
+many small estrogen-­producing follicular cysts. Some cysts may be 
+larger (persistent follicular cysts). Estradiol is produced by the gran­
+ulosa cells lining the follicles and causes vaginal discharge and breast 
+development. Estradiol may cause uterine development as well but 
+generally does not cause increased growth velocity. LH and FSH levels 
+are low, and if estradiol is measured, it might be elevated but minimally 
+so. The follicular cysts regress spontaneously (90% of the time) within 
+a few weeks to months, and the vaginal cornification is lost within 1 
+week of cyst regression. The breast tissue then softens but can remain 
+for months and may never completely regress. Typically, premature 
+thelarche due to persistent follicular cysts is usually benign and self-­
+limited. However, 10% of the cysts may persist and enlarge, with some 
+follicular cysts becoming large enough to threaten ovarian torsion and 
+to necessitate surgical treatment.
+Granulosa cell tumors are usually isolated occurrences but may 
+occur as part of Peutz-­Jeghers syndrome (oral melanosis and intestinal 
+Normal allele imprinted
+Mutant allele expressed
+Clinical phenotype present
+Normal allele imprinted
+Normal allele expressed
+No clinical phenotype
+Mutant allele imprinted
+Normal allele expressed
+No clinical phenotype
+A. Carrier Male
+B. No Pathologic Variant
+C. Affected Female
+50% risk
+Fig. 55.7  Imprinting pattern of maternally imprinted, paternally expressed genes MKRN3 and DLK1. A, 
+Maternal allele is imprinted or silenced; mutant paternal allele is expressed, resulting in phenotype of central 
+precocious puberty. B, Maternal allele is normally imprinted and normal paternal allele is expressed, result­
+ing in normal puberty. C, Maternal allele containing pathologic variant is imprinted; normal paternal allele 
+is expressed, resulting in no pathologic phenotype (i.e., normal puberty). (Modified figure courtesy Ross 
+McGowan, Department of Zoology, University of Manitoba.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1056
+SECTION 11  Endocrine and Metabolic Disorders
+polyps). Aromatase is the enzyme that is responsible for conversion of 
+androgen to estrogen; aromatase excess is an autosomal dominant dis­
+order that can lead to increased estradiol levels.
+McCune-­Albright syndrome. This disorder (Fig. 55.9) consists of the 
+clinical triad of polyostotic fibrous dysplasia, hyperpigmented macules 
+(café-­au-­lait spots) with irregular borders (“coast of Maine”), and 
+multiple autonomous endocrinopathies (most commonly gonadotropin-­
+independent precocious puberty, but also hyperthyroidism, acromegaly, 
+and hypercortisolemia) (Table 55.6). Precocious puberty occurs much 
+more commonly in females than in males. Patients have a somatic 
+mutation in their GNAS1 gene that occurs early in embryogenesis and 
+results in somatic mosaic constitutive activation of adenylyl cyclase 
+in affected tissues. This activation leads to the autonomous function 
+of involved tissues, resulting, in the case of affected endocrine glands, 
+in unregulated production of hormone. Precocity in females, often 
+heralded by menstrual bleeding, frequently occurs before 2 years of 
+age. The ovaries are enlarged and have many follicular cysts; the patient 
+has elevated levels of estradiol. Later, when the GnRH pulse generator 
+is activated subsequent to unabated sex steroid exposure, the patient 
+may transition from gonadotropin-­independent to central precocious 
+puberty.
+Neurofibromatosis type 1. Neurofibromatosis type 1 can present 
+with precocious puberty secondary to a hypothalamic tumor. Pseudo-­
+thelarche/gynecomastia can present due to a plexiform neurofibroma 
+deep to the areola with either asymmetric (more common) or bilateral 
+apparent breast tissue growth. Management is dependent on the rate of 
+growth and degree of tissue involvement. Surgery is typically delayed 
+until normal breast tissue has matured, but with the introduction of 
+MEK inhibitor therapy, consideration for reducing a large tumor 
+burden prior to surgery could be considered.
+Vaginal Bleeding
+The usual progression of puberty in females dictates that breast and 
+uterine development begin about 2 years before the menses. When the 
+rate of pubertal progression is accelerated, menses may start as early as 
+1–1.5 years after thelarche; if the rate is slow, menses may start perhaps 
+3–4 years after thelarche. In any case, vaginal bleeding is always a much 
+later sign than breast development, and whenever vaginal bleeding 
+occurs too early—especially if it ever occurs before breast development 
+starts—it must be investigated thoroughly.
+Gynecomastia
+Breast tissue frequently develops in males during mid-­puberty, when the 
+production of estrogen from testosterone in the testes temporarily over­
+balances the testosterone effects. Only rarely does breast tissue develop in 
+prepubertal males, inasmuch as young males do not respond to transient 
+gonadotropin stimulation with estrogen production. Differential diagno­
+sis includes estrogen-­producing tumors (gonadal or adrenal), exogenous 
+estrogen, hCG-­producing tumors, aromatase excess, certain types of male 
+pseudohermaphroditism, and Klinefelter syndrome. Certain medications 
+and illicit drugs are associated with gynecomastia. A prolactinoma should 
+be considered, especially in the setting of galactorrhea.
+Evaluation of gynecomastia in prepubertal males may include 
+karyotyping and measurement of gonadotropins, estradiol, testoster­
+one, hCG, TSH, and prolactin level. Imaging is dictated by the results.
+Diagnostic Approach to Precocious Puberty
+In the initial evaluation of the child with precocious puberty, the clini­
+cian attempts to determine:
+ 
+• Whether the process is a normal variant or pathologic
+ 
+• The rate of progression of the pubertal changes
+Fig. 55.8  A boy with familial testotoxicosis associated with significant penile enlargement, moderate pubic 
+hair growth, and mild to moderate testicular enlargement over a 1.75-­year period. Left, At 2 years of age. 
+Right, At 3.75 years of age.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1057
+CHAPTER 55  Disorders of Puberty
+Fig. 55.9  A 12-­year-­old girl with McCune-­Albright syndrome with a café-­au-­lait spot with an irregular border 
+(“coast of Maine”) on the back (left) and representative lesion of fibrous dysplasia involving the left humerus 
+(right).
+TABLE 55.6  Clinical Manifestations of McCune-­Albright Syndrome in 158 Reported Patients*
+Manifestation
+% OF PATIENTS
+Mean Age at Diagnosis 
+(yr) and Range
+Comments
+Total 
+(n = 158)
+Male 
+(n = 53)
+Female 
+(n = 105)
+Fibrous dysplasia
+97
+51
+103
+7.7 (0–52)
+Polyostotic more common than monostotic
+Café-­au-­lait lesion
+85
+49
+86
+7.7 (0–52)
+Variable size and number of lesions, irregular 
+border (coast of Maine)
+Sexual precocity
+52
+8
+74
+4.9 (0.3–9)
+Common initial manifestation
+Acromegaly/gigantism
+27
+20
+22
+14.8 (0.2–42)
+17/26 of patients with adenoma on MRI/CT
+Hyperprolactinemia
+15
+9
+14
+16.0 (0.2–42)
+23/42 of acromegalic patients with PRL
+Hyperthyroidism
+19
+7
+23
+14.4 (0.5–37)
+Euthyroid goiter is common
+Hypercortisolism
+5
+4
+5
+4.4 (0.2–17)
+All primary adrenal
+Myxomas
+5
+3
+5
+34 (17–50)
+Extremity myxomas
+Osteosarcoma
+2
+1
+2
+36 (34–37)
+At site of fibrous dysplasia, not related to 
+prior radiation therapy
+Rickets/osteomalacia
+3
+1
+3
+27.3 (8–52)
+Responsive to phosphorus plus calcitriol
+Cardiac abnormalities
+11
+8
+9
+(0.1–66)
+Arrhythmias and CHF reported
+Hepatic abnormalities
+10
+6
+10
+1.9 (0.3–4)
+Neonatal icterus is most common
+*Evaluations include clinical and biochemical data; other rarely described manifestations include metabolic acidosis, nephrocalcinosis, developmental 
+delay, thymic and splenic hyperplasia, and colonic polyps.
+CHF, congestive heart failure; PRL, prolactin.
+Modified from Ringel MD, Schwindinger WF, Levine MA. Clinical implications of genetic defects in G proteins: the molecular basis of McCune-­
+Albright syndrome and Albright hereditary osteodystrophy. Medicine (Baltimore). 1996;75:171–184.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1058
+SECTION 11  Endocrine and Metabolic Disorders
+ 
+• Whether the process originates centrally or peripherally
+Initial evaluation should include:
+ 
+• Medical history: prenatal and birth history, growth patterns; 
+excessive responses to illness (adrenal crisis); exposure to exoge­
+nous sex steroids; history of intracranial insults (hydrocephalus, 
+meningitis, or encephalitis)
+ 
+• Review of symptoms: growth records, head size since birth, vision 
+problems, headache, age at onset of androgen signs (behavior 
+changes, need for increased hair washing because of oiliness, need 
+for deodorant), age at onset of estrogen signs (vaginal discharge or 
+breast budding), café-­au-­lait spots (“coast of Maine” in McCune-­
+Albright syndrome or “coast of California” in neurofibromatosis)
+ 
+• Family history: timing of maternal and paternal growth and 
+pubertal development; siblings and cousins with early develop­
+ment; neurofibromatosis
+ 
+• Physical examination: vital signs, height, weight, head circum­
+ference, tooth age, café-­au-­lait spots, neurofibromata, pubic and 
+axillary hair, body odor, skin and hair oils, visual fields, optic 
+discs, breast development, vaginal cornification/discharge, 
+penis/clitoris size, scrotal/labial development, testicular vol­
+ume, pubic hair stages, facial asymmetry or bone abnormalities 
+(fibrous dysplasia of McCune-­Albright syndrome), neurologic 
+status, affect or mood, intellectual ability
+The first test is usually a determination of bone age; if the bone age 
+is not significantly advanced (within 1 year or 2 SD) and not associated 
+with an increase in height velocity, the results suggest a normal variant, 
+a slowly progressive process, or a process of relatively short duration. 
+If the bone age is significantly advanced, an evaluation is mandatory 
+(Table 55.7). Clinical and laboratory findings in sexual precocity are 
+listed in Table 55.5.
+For females with breast development, pelvic ultrasonography and 
+determination of central precocity are the initial diagnostic tests. Because 
+of the pulsatile secretion of serum gonadotropins, random measure­
+ments of LH and FSH even by ultrasensitive immunochemiluminescent 
+assay (ICMA) are occasionally low and appear prepubertal even in the 
+setting of central activation. If this occurs and there is clinical suspicion 
+nonetheless of maturation of the GnRH pulse generator, a GnRH stimu­
+lation test should be performed. With central precocity, as with normal 
+puberty, endogenous GnRH that “primes” the pituitary gonadotrophs is 
+being produced, so that after administration of a single pharmacologic 
+dose of GnRH (Leuprolide), there is copious release of LH. If, on the 
+other hand, the precocity has a peripheral basis, the high levels of circu­
+lating estradiol, through central negative feedback, prevent the gonad­
+otrophs from releasing LH in response to the exogenous GnRH bolus.
+If a female with advanced bone age presents only with contrasexual 
+androgenic effects (specifically, evidence of virilization), measurement 
+of gonadotropins and estradiol is not indicated as an adrenal cause 
+should be considered. Measurement of serum 17-­hydroxyprogesterone 
+is the diagnostic test for 21-­hydroxylase deficiency, the most common 
+enzyme abnormality associated with nonclassical or late-­onset adrenal 
+hyperplasia. On occasion, an adrenocorticotropic hormone (ACTH) 
+stimulation test may need to be performed to determine the specific 
+enzymatic deficiency. Screening for Cushing syndrome with a 24-­hour 
+urine collection with measurement of free cortisol (and creatinine to 
+document completeness of the collection) or midnight salivary cortisol 
+may also be indicated if the appropriate “cushingoid” body habitus is 
+present. Linear growth is attenuated with Cushing syndrome, which is 
+in contrast to most other causes of precocious puberty. Given the typi­
+cal lack of ovarian involvement in the pathology of virilization in girls, 
+MRI of the head is not usually indicated.
+For males, the testicular examination guides the evaluation by sug­
+gesting whether there is a testicular or adrenal source of the androgens. 
+Testotoxicosis and hCG-­producing tumors cause some testicular 
+enlargement but less than expected for the degree of virilization.
+Treatment of Precocious Puberty
+General Issues
+Not all cases of precocious puberty necessitate treatment. Cases of 
+idiopathic precocious thelarche and adrenarche should be monitored, 
+because their manifestations are not typically progressive and there is 
+no significant early onset of the other components of puberty or short 
+stature. In addition, not all children with central precocious puberty 
+require treatment, inasmuch as a significant number of cases are either 
+slowly progressive and/or transient. Unless there is rapid progression 
+and/or significant psychosocial difficulties, most children with cen­
+tral precocity should be observed for a 3-­ to 6-­month period before 
+therapy is initiated. The reasons that favor treatment include preser­
+vation of acceptable final height, prevention of psychologic trauma 
+TABLE 55.7  Diagnostic Approach to 
+Precocious Puberty
+Females with Breast Development, with or Without 
+Androgen Effects
+Random serum FSH and LH measurement by ICMA; estradiol measurement
+GnRH stimulation test (if random FSH and LH levels are uninformative)
+Pelvic ultrasonography
+Prepubertal ovaries: ultrasonography (or other radiologic imaging) to image 
+adrenal glands and question about exogenous sources
+One enlarged ovary: either functioning ovarian cyst or solid granulosa cell 
+tumor
+Bilaterally enlarged ovaries for age: GnRH test to distinguish between central 
+precocity (usual) or McCune-­Albright syndrome (rare)
+Head MRI with contrast medium (if central precocity is confirmed 
+biochemically and is progressive)
+Females with Contrasexual Androgen Effects (Virilization)
+Serum total testosterone (provides an index of the severity of the process)
+17-­Hydroxyprogesterone (for CAH)
+ACTH stimulation test (for CAH) (optional)
+Midnight salivary cortisol or 24-­hr urine free cortisol and creatinine (for 
+Cushing syndrome)
+Abdominal/pelvic MRI (if testing suggests either an adrenal or ovarian tumor)
+Males with Isosexual Precocity
+Prepubertal testes: ultrasonography (or other radiologic imaging) of the 
+adrenal glands; question about exogenous sources
+One enlarged testis: ultrasonography (or other radiologic imaging) of this 
+testis for an androgen-­producing tumor
+Bilaterally enlarged testes for age: GnRH test to distinguish between central 
+precocity and other causes (familial testotoxicosis, hCG-­producing tumor, 
+CAH with adrenal rests, or hypothyroidism)
+If central precocity is confirmed biochemically, head MRI with contrast
+Tests to Consider, in Either Sex, Depending on Clinical 
+Presentation
+Serum hCG
+Prolactin
+T4 and TSH
+ACTH, adrenocorticotropic hormone; CAH, congenital adrenal hyperpla­
+sia; FSH, follicle-­stimulating hormone; GnRH, gonadotropin-­releasing 
+hormone; hCG, human chorionic gonadotropin; ICMA, immunochemilu­
+minescent assay; LH, luteinizing hormone; T4, thyroxine; TSH, thyroid-­
+stimulating hormone.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1059
+CHAPTER 55  Disorders of Puberty
+(menstruation at an early age), reversal of mature physical appear­
+ance to decrease the risk of pregnancy in females (because other peo­
+ple assume that affected children are older than they appear), and 
+reduction of aggressiveness and preoccupation with sexuality. Serious 
+psychologic effects of early puberty are not usually encountered. If a 
+decision is made to initiate treatment, the goal of therapy is to inhibit 
+secretion and/or effects of estrogens in females and androgens in males 
+(Table 55.8).
+Central Precocious Puberty
+The goal of therapy is to inhibit secretion of gonadotropins and reduce 
+production of sex steroids by the administration of GnRH agonist 
+analogs with a prolonged duration of action (Table 55.9). This causes 
+downregulation of pituitary GnRH receptors, preventing the response 
+to endogenous GnRH and thus decreasing LH and FSH secretion. Sev­
+eral doses of GnRH are necessary to produce the antagonistic response 
+because the treatment initially stimulates the axis and only later results 
+in downregulation of pituitary GnRH receptors. Accurate verification 
+of adequate suppression of the axis typically requires repeat GnRH 
+testing, although random LH-­ICMA levels may be sufficient.
+Therapy is stopped around 11 years in females and 12 years in males 
+so that puberty can resume and be concordant with peers. Successful 
+GnRH agonist treatment is associated with a stabilization of andro­
+gen effects in males and estrogen effects in females; there is no effect 
+on androgen-­mediated events in females as androgens are predomi­
+nately produced by the adrenal glands. Complete reversal of physical 
+changes to the prepubertal state is unusual. Height velocity and the rate 
+of bone age maturation should slow; on some occasions, height veloc­
+ity becomes subnormal. This is not necessarily problematic as long 
+as bone age maturation slows commensurately. Final height is opti­
+mized with earlier initiation of therapy. Once GnRH analog therapy 
+is discontinued, reactivation of the hypothalamic-­pituitary-­gonadal 
+axis occurs within 12 months. Long-­term fertility data in individuals 
+treated with GnRH analogs as children continue to grow, but studies 
+suggest successful childbearing in women and normal testicular func­
+tion in young adult men following GnRH therapy.
+Large tumors in the hypothalamic-­pituitary region are surgically 
+removed, and both the tumor and the surgery can precipitate cen­
+tral precocious puberty. However, hypothalamic hamartomas are 
+benign and tend to grow very slowly; therefore, surgery is usually not 
+recommended.
+Precocious Pseudopuberty (Incomplete Isosexual Precocity)
+Treatment is directed at the underlying cause (Table 55.10). The preco­
+cious puberty of McCune-­Albright syndrome is treated with inhibitors 
+(testolactone or anastrozole) of aromatase, the enzyme that converts 
+androgen to estrogen. The results of this approach are variable, and 
+sometimes a GnRH agonist must be added if central puberty is also 
+present. Ketoconazole is an effective therapy for familial testotoxicosis 
+(due to a constitutively active LH receptor) because it has the desirable 
+and reversible side effect of interfering with sex steroid synthesis; spi­
+ronolactone is an androgen receptor blocker.
+DELAYED OR ABSENT PUBERTY
+Delayed puberty is the failure of development of any pubertal feature 
+by 13 years of age in females or by 14 years of age in males. A lower 
+cutoff may be appropriate in a child with a strong familial pattern of 
+early puberty.
+Differential Diagnosis
+Delay or absence of puberty is caused by:
+ 
+• Constitutional (self-­limited) delay: a variant of normal
+ 
+• Hypogonadotropic hypogonadism: low gonadotropin levels as 
+a result of a defect of the hypothalamus and/or pituitary gland 
+(Tables 55.11 and 55.12 and Fig. 55.10)
+ 
+• Hypergonadotropic hypogonadism: high gonadotropin levels 
+as a result of a lack of negative feedback because of a primary 
+gonadal problem (see Tables 55.11 and 55.12). Girls may have 
+isolated absence of adrenarche with normal breast development 
+(see later discussion).
+Constitutional (Self-­Limited) Delay of Growth and Puberty
+This is the most common cause of delayed puberty and is thought to be 
+a normal variant. It is usually diagnosed in males, probably as a result 
+TABLE 55.8  Objectives for the Management 
+and Treatment of True Precocious Puberty
+Detection and treatment of an expanding intracranial lesion
+Arrest of premature sexual maturation until the normal age at onset of puberty
+Regression of secondary sexual characteristics already present
+Attainment of normal mature height; suppression of the rapid rate of skeletal 
+maturation
+Prevention of emotional disorders and handicaps and alleviation of parental 
+anxiety; promotion of understanding by counseling, early sex education, and 
+acceleration of social age
+Reduction of risk of sexual abuse and early sexual debut
+Prevention of pregnancy in girls
+Preservation of future fertility
+Diminishment of the increased risk of breast cancer associated with early 
+menarche
+From Grumbach MM. True or central precocious puberty. In: 
+Krieger DT, Bardin CW, eds. Current Therapy in Endocrinology and 
+Metabolism, 1985–1986. Toronto, Canada: BC Decker; 1989:4–8.
+TABLE 55.9  GnRH Analogs Used to Treat 
+Precocious Puberty
+Leuprolide acetate (Lupron Depot) given as an intramuscular injection every 
+1–3 mo*
+Leuprolide acetate (Lupron) given as a daily subcutaneous injection
+Nafarelin acetate (Synarel) given b.i.d. by an intranasal route
+*Preferred because of infrequent dosing.
+b.i.d., twice a day; GnRH, gonadotropin-­releasing hormone.
+TABLE 55.10  Treatment of Precocious 
+Pseudopuberty (Incomplete Isosexual 
+Precocity)
+Tumors
+Surgical removal
+Chemotherapy and/or radiation as indicated
+Illicit or unintentional administration of exogenous estrogens or androgens 
+should be uncovered and eliminated
+Familial testotoxicosis: ketoconazole or spironolactone and testolactone
+Adrenal hyperplasia: exogenous glucocorticoid
+Hypothyroidism: levothyroxine
+McCune-­Albright syndrome: testolactone or anastrozole
+GnRH agonist therapy may need to be added to any of the above medical 
+therapies if central puberty becomes superimposed at an early age
+GnRH, gonadotropin-­releasing hormone.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1060
+SECTION 11  Endocrine and Metabolic Disorders
+TABLE 55.11  Classification of Delayed Puberty and Sexual Infantilism
+Idiopathic (Constitutional or Self-­Limited) Delay in Growth 
+and Puberty (Delayed Activation of Hypothalamic LRF Pulse 
+Generator)
+Hypogonadotropic Hypogonadism: Sexual Infantilism 
+Related to Gonadotropin Deficiency
+CNS Disorders
+Tumors
+Craniopharyngiomas
+Germinomas
+Other germ cell tumors
+Hypothalamic and optic gliomas
+Astrocytomas
+Pituitary tumors (including MEN-­1, prolactinoma)
+Other Causes
+Langerhans histiocytosis
+Postinfectious lesions of the CNS
+Vascular abnormalities of the CNS
+Radiation therapy
+Congenital malformations, especially associated with craniofacial anomalies
+Head trauma
+Lymphocytic hypophysitis
+Isolated Gonadotropin Deficiency
+Kallmann syndrome
+With hyposmia or anosmia
+Without anosmia
+LHRH receptor pathologic variant
+Congenital adrenal hypoplasia (DAX1 pathologic variant)
+Isolated LH deficiency
+Isolated FSH deficiency
+Prohormone convertase 1 deficiency (PCI)
+Idiopathic and Genetic Forms of Multiple Pituitary Hormone 
+Deficiencies Including PROP1 Pathologic Variant (see Table 
+55.12 and Figs. 55.6 and 55.10)
+Miscellaneous Disorders
+Prader-­Willi syndrome
+Bardet-­Biedl syndrome
+CHARGE syndrome
+Functional gonadotropin deficiency
+Adrenal hypoplasia congenita
+Chronic systemic disease and malnutrition
+Septo-­optic dysplasia
+Sickle cell disease
+Hartsfield syndrome
+Cystic fibrosis
+Gordon Holmes syndrome
+AIDS
+Solitary median maxillary incisor syndrome
+Miscellaneous Disorders—cont’d
+Chronic gastroenteric disease
+Börjeson-­Forssman-­Lehmann syndrome
+Chronic renal disease
+Malnutrition
+Anorexia nervosa
+Bulimia
+Psychogenic amenorrhea
+Impaired puberty and delayed menarche in female athletes and ballet dancers 
+(exercise amenorrhea)
+Hypothyroidism
+Diabetes mellitus
+Cushing disease
+Hyperprolactinemia
+Marijuana use
+Gaucher disease
+Hypergonadotropic Hypogonadism
+Males
+The syndrome of seminiferous tubular dysgenesis and its variants (Klinefelter 
+syndrome)
+Other forms of primary testicular failure
+Chemotherapy
+Radiation therapy
+Testicular steroid biosynthetic defects
+Sertoli cell–only syndrome
+LH receptor pathologic variant
+Anorchia and cryptorchidism
+Trauma/surgery
+Females
+The syndrome of gonadal dysgenesis (Turner syndrome) and its variants
+XX and XY gonadal dysgenesis
+Familial and sporadic XX gonadal dysgenesis and its variants
+Familial and sporadic XY gonadal dysgenesis and its variants
+Aromatase deficiency
+Other forms of primary ovarian failure
+Premature menopause
+Radiation therapy
+Chemotherapy
+Autoimmune oophoritis
+Galactosemia
+Glycoprotein syndrome type 1
+Resistant ovary
+FSH receptor pathologic variant
+LH/hCG resistance
+Polycystic ovarian disease
+Trauma/surgery
+Noonan or pseudo-­Turner syndrome
+Ovarian steroid biosynthetic defects
+CNS, central nervous system; CHARGE, coloboma, heart malformations, choanal atresia, growth retardation, genital anomalies, ear anomalies; FSH, 
+follicle-­stimulating hormone; hCG, human chorionic gonadotropin; LH, luteinizing hormone; LHRH, luteinizing hormone–releasing hormone; LRF, 
+luteinizing hormone–releasing factor; MEN, multiple endocrine neoplasia.
+of ascertainment bias of referral patterns. The cause is unknown, but 
+approximately 50% of affected patients have a first-­degree relative with 
+delayed puberty and/or late growth. This tendency can occur in a child 
+of the same gender as the affected parent or in a child of the opposite 
+gender. An affected child typically presents in early adolescence when 
+peers are beginning to develop and having growth spurts, but the 
+patient is not. The patient’s height is usually at or below the 3rd percen­
+tile (see Chapter 56). In the classic case, the affected child had a normal 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1061
+CHAPTER 55  Disorders of Puberty
+length at birth, a slowdown in height velocity between 6 months and 2 
+years of age that resulted in short stature, and a normal or near-­normal 
+height velocity thereafter along the child’s current height percentile. 
+The physical examination findings are unremarkable, and, depending 
+on the age, the child may have delayed puberty. The cardinal diag­
+nostic result is a bone age that is moderately delayed in comparison 
+with chronologic age. There may also be a history of delayed dentition. 
+Without intervention, final adult height usually reaches or approxi­
+mates the target height range. However, children with constitutional 
+delay may have a blunted pubertal growth spurt in relation to their 
+peers, and therefore may not reach their genetic target height range.
+Hypogonadotropic Hypogonadism
+A variety of central nervous system insults may disrupt production 
+of gonadotropins. The GnRH pulse generator may be disrupted by an 
+interfering substance, such as excess prolactin (with or without hypo­
+thyroidism), or by stress, chronic illness, malnutrition, or excessive 
+physical activity. The hypothalamic arcuate nucleus may be damaged 
+by trauma, radiation, infection, infiltration, increased intracranial 
+pressure, or surgery. The most common mass lesions are craniophar­
+yngiomas, gliomas, and cysts. Congenital conditions or malformations 
+may have allowed enough GnRH for infantile development but not 
+enough for pubertal needs.
+TABLE 55.12  Molecular Basis for Developmental Disorders Associated with Hypogonadotropic 
+Hypogonadism
+Gene
+Phenotype
+Complex Phenotype
+Isolated Hypogonadotropic Hypogonadism
+Kallmann Syndrome or Normosmic Idiopathic Hypogonadotropic Hypogonadism (with the Same Variant Gene) (See 
+Table 55.13)
+KAL1 (Xp22.3)
+X-­linked Kallmann syndrome
+Anosmia/hyposmia, renal agenesis, dyskinesia
+FGFR1 (8p11.2)
+Autosomal dominant Kallmann syndrome (± recessive)
+Anosmia/hyposmia, cleft lip/palate
+FGF8 (ligand for FGFR1) (10q25)
+NSMF (9p34.3)
+Autosomal dominant/oligogenetic Kallmann syndrome
+PROK2 (3p21.1)
+Autosomal recessive Kallmann syndrome
+PROKR2* (20p12.3)
+CHD7 (8p12.1)
+Autosomal dominant (some)
+CHARGE syndrome; includes hyposmia
+Normosmic Isolated Hypogonadotropic Hypogonadism
+GNRH1 (8p21-­11.2)
+Autosomal recessive
+GNRHR* (4q13.2-­3)
+Autosomal recessive (± dominant)
+GPR54* (19p13.3)
+Autosomal recessive
+SNRPN
+Prader-­Willi syndrome, obesity
+Lack of function of paternal 15q11-­q13 
+region or maternal uniparental disomy
+LEP (7q31.3)
+Autosomal recessive
+Obesity
+LEPR (1p31)
+Autosomal recessive
+Obesity
+NR0B1 (X21.3-­21.2)
+X-­linked recessive
+Adrenal hypoplasia
+TAC3 (12q13-­12)
+Autosomal recessive
+TACR3 (4q25)
+Autosomal recessive
+Multiple Pituitary Hormone Deficiencies
+PROP1
+POU1F1
+Autosomal recessive GH, PRL, TSH, and LH/FSH (less 
+commonly, later-­onset ACTH deficiency)
+HESX1
+Autosomal recessive and heterozygous pathologic variants
+Septo-­optic dysplasia
+Multiple pituitary deficiencies including diabetes insipidus, 
+but LH/FSH uncommon
+LHX3
+Autosomal recessive GH, PRL, TSH, FSH/LH
+Rigid cervical spine
+PHF6
+X-­linked; GH, TSH, ACTH, LH/FSH
+Börjeson-­Forssman-­Lehmann: intellectual 
+disability; coarse facies
+*A G protein–coupled receptor.
+ACTH, corticotrophin; FGF, fibroblast growth factor; FSH, follicle-­stimulating hormone; GH, growth hormone; GnRH, gonadotropin-­releasing hor­
+mone; LH, luteinizing hormone; PRL, prolactin; TSH, thyroid-­stimulating hormone.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1062
+SECTION 11  Endocrine and Metabolic Disorders
+Kallmann syndrome. This is the combination of an impaired or 
+absent sense of smell and gonadotropin deficiency. Other features 
+include color blindness, atrial septal defects, and renal structural 
+anomalies (unilateral renal agenesis). The X-­linked form is caused by a 
+mutation of the KAL gene; there are autosomal recessive and autosomal 
+dominant forms (Table 55.13).
+LH and FSH deficiencies may also be isolated or caused by mul­
+tiple pituitary hormone deficiencies. The latter condition may be a 
+result of pituitary damage from trauma, radiation, infection, sickle cell 
+disease, compression by infiltrate or tumor, or autoimmune processes. 
+In differentiating primary pituitary deficiency from that secondary 
+to hypothalamic deficiency, the clinician should remember that all 
+pituitary hormones except prolactin are stimulated by hypothalamic 
+releasing hormones; prolactin is inhibited by hypothalamic prolactin 
+inhibitory factor. Therefore, if all pituitary hormones, including pro­
+lactin, are deficient, the problem is in the pituitary gland. If prolactin 
+levels are present or even elevated but the other pituitary hormones 
+are deficient, the problem is above the pituitary gland in the stalk or 
+hypothalamus. In the case of isolated LH and FSH deficiencies, the 
+primary abnormality may lie within the pituitary or hypothalamic 
+neurons producing GnRH; however, increasingly there is evidence of 
+primary abnormalities being further upstream. In particular, defects in 
+molecules required for proper migration of GnRH neurons (including 
+the KAL gene) or lack of necessary signaling to GnRH-­producing neu­
+rons (e.g., defects in kisspeptin or neurokinin B and their receptors) 
+can result in LH and FSH deficiency through inappropriate GnRH 
+secretion.
+Hypergonadotropic Hypogonadism: Males
+If the testes are small, they may have been damaged by torsion, sickle 
+cell disease, infection, autoimmune disease, chemotherapy, or radia­
+tion and may not be able to respond to LH and FSH stimulation. If the 
+bone age is >10 years and the hypothalamus has probably matured, the 
+serum LH and FSH may then be high.
+When the testis size is prepubertal and LH is present but testoster­
+one is not increasing, there may be a problem with the LH receptor.
+Klinefelter syndrome. This occurs in 1:500 males and is often 
+associated with a 47,XXY karyotype; common features include cognitive 
+delays, adolescent gynecomastia (often pronounced), and small, firm 
+testes. The testes rarely exceed 5 mL in volume (approximately 25% 
+of the average adult volume). Patients, often tall and thin with an 
+eunuchoid habitus, may have delayed puberty. Virilization may be 
+incomplete, the phallus is often smaller than average, and infertility 
+nears 100%. These children will need testosterone treatment to fully 
+attain secondary sexual characteristics.
+Hypergonadotropic Hypogonadism: Females
+In this condition, the ovary may be unable to synthesize estrogen (an 
+inherited metabolic defect, possibly associated with excess adrenal 
+mineralocorticoid and hypertension), the ovary may not be formed 
+normally (dysgenesis), or the ovary may have been damaged by any of 
+the factors listed for testicular damage and by galactosemia.
+The ovary may be intact but may not be stimulated by gonado­
+tropins. Gonadotropins are present but not effective if there is an FSH 
+receptor problem.
+Olfactory tract
+ANOS1
+FGFR1/FGF8
+PROKR2/PROK2
+CHD7
+NSMF
+HS6ST1
+SEMA3A
+GNRH1
+KISS1/KISS1R
+TAC3/TACR3
+LEP/LEPR
+GNRHR
+Neuronal migration
+and differentiation
+(1) Developmental defects
+    of GnRH neurons
+(2) Impaired GnRH secretion
+(3) GnRH resistance
+(4) Gonadotropin deficiency
+GnRH+
+neuron
+GnRH-
+receptor
+LH
+FSH
+α
+α
+β
+β
+LH
+FSH
+β
+β
+GnRH
+Fig. 55.10  Pathologic variants in single genes at many levels of the hypothalamic-­pituitary-­gonadal axis can 
+cause hypogonadotropic hypogonadism. FSH, follicle-­stimulating hormone; GnRH, gonadotropin-­releasing hor­
+mone; LH, luteinizing hormone. (Modified from Beate K, Joseph N, de Roux N, Wolfram K. Genetics of isolated 
+hypogonadotropic hypogonadism: role of GnRH receptor and other genes. Int J Endocrinol. 2012;2012:147893, 
+Fig. 1.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1063
+CHAPTER 55  Disorders of Puberty
+Turner syndrome. The two most common features of Turner 
+syndrome are short stature (involving the limbs to a greater degree 
+than the trunk) and ovarian insufficiency (Fig. 55.11). Lymphedema 
+and a webbed neck are diagnostic features present in a neonate. 
+Additional features include a shield chest, increased carrying angle 
+(cubitus valgus), short fourth metacarpal, hypoplastic nails, renal 
+anomalies, and left-­sided heart defects (coarctation of the aorta, 
+bicuspid aortic or mitral valves, etc.). Approximately 50% of affected 
+females have no stigmata except short stature and thus are typically 
+identified later. About 20% may have spontaneous puberty with 
+functioning ovaries for at least a short period of time, which is in 
+large part dependent on the child’s karyotype, but the infertility rate 
+is >99%.
+Females with Delayed or Absent Adrenarche
+If a female has advanced breast development but no androgen 
+signs, she may have a deficiency of androgen receptors, as occurs 
+in androgen insensitivity syndrome (testicular feminization). 
+In females, the androgens come predominantly from the adre­
+nal glands (adrenarche). If the bone age has not passed 8 years, 
+when DHEAS generally increases, adrenarche may simply be 
+delayed (delayed adrenarche). If bone age is advanced, however, 
+there is a deficiency in androgen production. In addition, there 
+may be an inherited problem in androgen synthesis from an 
+enzyme deficiency or the adrenal glands may be damaged sec­
+ondary to autoimmune, infectious, or hypoxic injury. In these 
+latter conditions, other signs of adrenal insufficiency would be 
+evident.
+TABLE 55.13  Genetic Heterogeneity of Kallmann Syndrome
+Location
+Phenotype
+Inheritance
+OMIM
+Gene
+1q32.1
+Hypogonadotropic hypogonadism 13 with or without anosmia
+AR
+614842
+KISS1
+2q14.3
+Hypogonadotropic hypogonadism 15 with or without anosmia
+AD
+614880
+HS6ST1
+3p14.3
+Hypogonadotropic hypogonadism 18 with or without anosmia
+AR/AD/Digenic
+615267
+IL17RD
+3p13
+Hypogonadotropic hypogonadism 4 with or without anosmia
+AD
+610628
+PROK2
+4q13.2
+Hypogonadotropic hypogonadism 7 with or without anosmia
+AR
+146110
+GNRHR
+4q24
+Hypogonadotropic hypogonadism 11 with or without anosmia
+AR
+614840
+TACR3
+4q27
+Hypogonadotropic hypogonadism 25 with or without anosmia
+AD
+618841
+NDNF
+5q31.3
+Hypogonadotropic hypogonadism 17 with or without anosmia
+AD
+615266
+SPRY4
+7q21.11
+Hypogonadotropic hypogonadism 16 with or without anosmia
+AD
+614897
+SEMA3A
+7q31.32
+Hypogonadotropic hypogonadism 22 with or without anosmia
+AR
+616030
+FEZF1
+8p21.3
+Hypogonadotropic hypogonadism 20 with or without anosmia
+AD
+615270
+FGF17
+8p21.2
+Hypogonadotropic hypogonadism 12 with or without anosmia
+AR
+614841
+GNRH1
+8p11.23
+Hypogonadotropic hypogonadism 2 with or without anosmia
+AD
+147950
+FGFR1
+8q12.2
+Hypogonadotropic hypogonadism 5 with or without anosmia
+AD
+612370
+CHD7
+9q34.3
+Hypogonadotropic hypogonadism 9 with or without anosmia
+AD
+614838
+NSMF
+10q24.32
+Hypogonadotropic hypogonadism 6 with or without anosmia
+AD
+612702
+FGF8
+10q26.12
+Hypogonadotropic hypogonadism 14 with or without anosmia
+AD
+614858
+WDR11
+11p14.1
+Hypogonadotropic hypogonadism 24 with or without anosmia
+AR
+229070
+FSHB
+12q13.3
+Hypogonadotropic hypogonadism 10 with or without anosmia
+AR
+614839
+TAC3
+12q21.33
+Hypogonadotropic hypogonadism 19 with or without anosmia
+AD
+615269
+DUSP6
+19p13.3
+Hypogonadotropic hypogonadism 8 with or without anosmia
+AR
+614837
+KISS1R
+19q13.33
+Hypogonadotropic hypogonadism 23 with or without anosmia
+AR
+228300
+LHB
+20p12.3
+Hypogonadotropic hypogonadism 3 with or without anosmia
+AD
+244200
+PROKR2
+20p12.1
+Hypogonadotropic hypogonadism 21 with or without anosmia
+AD
+615271
+FLRT3
+Xp22.31
+Hypogonadotropic hypogonadism 1 with or without anosmia
+XLR
+308700
+ANOS1
+AD, autosomal dominant; AR, autosomal recessive; OMIM, Online Mendelian Inheritance in Man (www.OMIM.org); XLR, X-­linked recessive.
+Fig. 55.11  A 16-­year-­old girl with Turner syndrome (45,XO), character­
+ized by short stature, absence of thelarche, webbed neck, and increased 
+carrying angles.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1064
+SECTION 11  Endocrine and Metabolic Disorders
+Diagnostic Approach to Delayed Puberty
+A normal growth rate with delayed, but not absent, puberty and a fam­
+ily history of “late blooming” suggests the diagnosis of constitutional 
+delay of growth and puberty, which is the most commonly encountered 
+cause (see Tables 55.11 and 55.12). A bone age that correlates with the 
+patient’s pubertal status confirms the clinical impression; no other test­
+ing is necessary.
+Initial evaluation should include:
+ 
+• Medical history: trauma, illness, medications (e.g., stimulants, 
+chemotherapy), radiation, infection, malnutrition, autoimmune 
+problems, sickle status, stresses, growth records, galactosemia
+ 
+• Review of symptoms: vision problems, headache, vomiting, 
+inability to detect odors (hyposmia or anosmia), age at onset of 
+androgen signs, age at onset of estrogen signs, small genitalia at 
+birth, signs of primary adrenal insufficiency such as hyperpig­
+mentation, need for deodorant, need to wash hair more frequently
+ 
+• Family history: timing of maternal and paternal growth and puber­
+tal development; siblings and cousins with delayed development
+ 
+• Physical examination: signs of chronic disease, temperature, 
+blood pressure, height, weight, head circumference, dental age, 
+tanning (hyperpigmentation), pubic and axillary hair, adult 
+body odor, skin and hair oils, visual fields, optic discs, ability 
+to detect odors, breast development, vaginal cornification/dis­
+charge, penis size, scrotal development, testicular volume, pubic 
+hair stages, neurologic status, affect or mood, intellectual ability, 
+dysmorphic features
+Initial laboratory evaluation screens for chronic disease include 
+CBC, chemistry profile, and sedimentation rate, as well as free thyroxine 
+and thyroid-stimulating hormone (hypothyroidism) and prolactin level 
+(hyperprolactinemia). If growth is slow, the clinician should measure 
+insulin-­like growth factor-­1 level (a marker of basal growth hormone 
+activity) and consider growth hormone testing. The clinician should 
+measure testosterone levels in males and estradiol levels in females.
+Measurements of random FSH and LH and results of a GnRH 
+stimulation test may differentiate between hypogonadotropic hypogo­
+nadism and primary gonadal failure (Figs. 55.12 and 55.13). Elevated 
+Delay in onset of secondary sexual
+development after 13.5 years in males
+Serum gonadotropins
+Elevated
+Karyotype
+Normal
+46,XY
+Growth pattern
+Sense of smell
+MRI
+Bone age delayed
+Mass
+Absence of
+olfactory bulb
+and/or sulcus
+Primary
+testicular
+failure
+Klinefelter
+syndrome
+(onset of puberty
+often normal but
+poor progression
+follows)
+Constitutional delay
+in growth and
+puberty
+CNS
+tumor
+Kallmann
+syndrome
+(cryptorchidism
+and/or
+microphallus
+make this
+more likely)
+Isolated
+gonadotropin
+deficiency
+(cryptorchidism
+and/or
+microphallus
+make this
+more likely)
+Normal
+Anosmia or
+hyposmia
+Normal
+Normal without
+growth spurt
+Consistently short
+for chronologic
+age but appropriate
+for bone age
+Late-onset growth
+failure especially
+with concurrent
+diabetes insipidus
+47,XXY
+Low
+Fig. 55.12  Flow chart for the evaluation of delayed puberty in males. A brain MRI with absent olfactory bulb 
+and/or sulcus is consistent with Kallmann syndrome, while a normal MRI suggests isolated gonadotropin 
+deficiency. CNS, central nervous system. (From Melmed S, Polonsky KS, Larsen PR, et al., eds. Williams 
+Textbook of Endocrinology. 13th ed. Philadelphia: Elsevier; 2016:1156.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1065
+CHAPTER 55  Disorders of Puberty
+gonadotropin levels support a diagnosis of primary gonadal failure. 
+Chromosomal karyotyping is then performed (Klinefelter syndrome in 
+males and Turner syndrome in females). GnRH stimulation testing, with 
+measurement of serum LH levels over 3–4 hours, is often employed. Its 
+rationale is based on the fact that a child in puberty has a significant rise 
+in serum LH over baseline. Unfortunately, the GnRH test is not helpful 
+in distinguishing between constitutional delay and hypogonadotropic 
+hypogonadism because in both cases, the LH response is blunted sec­
+ondary to lack of endogenous GnRH priming of the gonadotrophs. 
+However, the child with constitutional delay eventually develops an 
+appropriate pubertal response to GnRH stimulation testing.
+If Kallmann syndrome is being considered, an MRI scan may show 
+abnormalities in the olfactory region. If a 46,XX female has unexplained 
+ovarian failure, ovarian antibodies (21-­hydroxylase antibodies) are 
+obtained and müllerian-­inhibiting substance or anti-­müllerian hor­
+mone (AMH) can also be utilized in females to assess ovarian follicle 
+reserve and potential fertility. An hCG stimulation test to evaluate abil­
+ity to produce testosterone and a serum level of müllerian-­inhibiting 
+substance (secreted by Sertoli cells) are useful for determining whether 
+functional testicular tissue is present.
+Treatment of Delayed Puberty
+If delayed puberty is physiologic, there is no medical necessity for 
+initiating sex steroid replacement. “Watchful waiting” is usually the 
+appropriate course of action. Adolescent males with constitutional 
+delay of growth and puberty who are short, underdeveloped, and 
+Delay in onset of secondary sexual
+development after 13 years in females
+Serum gonadotropins
+Elevated
+Karyotype
+Normal
+46,XX
+Growth pattern
+Sense of smell
+MRI
+Bone age delayed
+Signs of increased
+intracranial
+pressure or visual
+abnormalities
+Primary ovarian
+failure–autoimmune
+or other etiology
+Tumer syndrome (may
+or may not have somatic
+stigmata of Tumer
+syndrome but short stature
+is extremely common)
+Absence or abnormality
+of one X chromosome or
+mosaicism with 45,X
+cell line
+Anosmia or
+hyposmia
+Normal
+Karyotype
+Normal secondary sexual
+development with primary amenorrhea
+Normal without
+growth spurt
+Consistently short
+for chronologic
+age but appropriate
+for bone age
+Late-onset growth
+failure especially
+with concurrent
+diabetes insipidus
+46,XY
+Low
+Mass
+Absence of
+olfactory bulb
+and/or sulcus
+Constitutional
+delay in growth
+and puberty
+CNS
+tumor
+Kallmann
+syndrome
+Isolated
+gonadotropin
+deficiency
+Syndrome
+of
+androgen
+resistance
+Anatomic
+defect or
+abnormality
+in LH
+pulsatility
+Normal
+Normal
+Fig. 55.13  Flow chart for the evaluation of delayed puberty in females. A brain MRI with absent olfactory 
+bulb and/or sulcus is consistent with Kallmann syndrome, while a normal MRI suggests isolated gonadotropin 
+deficiency. CNS, central nervous system; LH, luteinizing hormone. (From Melmed S, Polonsky KS, Larsen PR, 
+et al., eds. Williams Textbook of Endocrinology. 13th ed. Philadelphia: Elsevier; 2016:1157.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1066
+SECTION 11  Endocrine and Metabolic Disorders
+psychologically affected frequently benefit from a short course of tes­
+tosterone therapy. This is usually given as long-­acting intramuscular 
+testosterone at a dosage of 50–100 mg every 4 weeks for typically 6 
+months. Treatment is generally begun at about 13 years of age and, 
+if possible, when the testes are about 6–8 mL in volume. These doses 
+stimulate height and weight gain, allow adequate virilization (increased 
+pubic and axillary hair growth and penile enlargement), and do not 
+typically suppress pituitary FSH and LH secretion, thereby allowing 
+simultaneous endogenous pubertal progression (testicular enlarge­
+ment). This narrows the physical gap between the patient and peers 
+without causing undue advancement of bone age. Acne is the principal 
+side effect, and the final adult height is not altered. It is the hope that at 
+the conclusion of treatment, the male will continue to grow and develop 
+rapidly with the testosterone treatment perceived as a “jump starter” 
+of endogenous puberty. A short course of low-­dose anabolic steroids, 
+such as oxandrolone or fluoxymesterone, can also be employed in pre­
+pubertal and pubertal males, and low-­dose estradiol has been used in 
+prepubertal and pubertal females with constitutional delay.
+Treatment of hypogonadism is aimed at mimicking normal physi­
+ology with stepwise replacement of testosterone in males and estrogen 
+and progesterone in females. For males with hypogonadism, low-­
+dose parenteral testosterone is initiated at 50 mg every 4 weeks, with 
+increases in 50-­mg increments made over a 2-­ to 3-­year period. Most 
+adult men receive 200 mg every 2 weeks, which is based on the daily 
+adult male testosterone production rate of 6 mg. Some adult men are 
+treated with 300 mg every 2 weeks. Adult men can use testosterone 
+by patch, which is often associated with local irritation, or by alcohol-­
+based gel, but typically in growing adolescents, intramuscular testos­
+terone is prescribed.
+For females, daily estrogen therapy is given for 1 year. This can be 
+either in the form of conjugated estrogens (Premarin) at 0.3 mg daily 
+for the first 6 months and 0.625 mg daily for the second 6 months, 
+or with an analogous schedule of ethinyl estradiol replacement or 
+through a weekly applied 17β-­estradiol patch. This duration does not 
+place the uterus at undue risk for hyperplasia and malignancy, but after 
+2 years of therapy (or if spotting occurs prior), progesterone should 
+be added. Options to consider when adding progesterone include con­
+tinuing the purely estrogen-­containing pills (conjugated estrogens or 
+ethinyl estradiol) or the 17β-­estradiol patches in conjunction with oral 
+medroxyprogesterone acetate (Provera) or switching the patient over 
+to conventional oral contraceptives. If the patient is not put on a con­
+ventional oral contraceptive, the estrogen (pill or patch) is prescribed 
+on days 1–23 of the calendar month with addition of medroxyproges­
+terone acetate on days 10–23. With this approach, withdrawal bleeding 
+generally occurs between day 23 and the end of the month, although 
+there can be some variability in the timing between patients.
+Patients of either sex with hypogonadotropic hypogonadism are 
+potentially fertile, but sex steroid therapy alone is ordinarily not suffi­
+cient to initiate gametogenesis, although there are rare cases in males in 
+which testosterone replacement alone has stimulated spermatogenesis. 
+The general approach to fertility induction in either sex involves the 
+addition of either cyclic gonadotropin therapy or pump-­driven GnRH 
+therapy at the age of desired conception. Finally, if hypogonadotropic 
+hypogonadism is present as one component of hypopituitarism, it is crit­
+ical to adequately replace all deficient hormones. In contrast, patients 
+with primary hypogonadism have intrinsic gonadal damage and are 
+normally infertile.
+   	 SUMMARY  AND R ED F L AGS
+Early, late, or asynchronous puberty can indicate underlying pathology. 
+Red flags related to puberty are listed in Table 55.14. Important find­
+ings not to miss are listed in Table 55.15.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+TABLE 55.14  Red Flags Related to Puberty
+Pubertal changes in African-American females beginning before age 6 yr 
+(excluding isolated thelarche from birth to 2 yr of age)
+Pubertal changes in White females beginning before age 7 yr (excluding 
+isolated thelarche from birth to 2 yr of age)
+Pubertal changes in all males beginning before 9 yr of age
+Absence of pubertal changes in females by 13 yr of age
+Absence of pubertal changes in males by 14 yr of age
+Neurologic signs and symptoms (headaches, visual disturbances)
+Vaginal bleeding before breast development
+Significantly asymmetric gonadal size in either sex (males, by clinical 
+examination; females, by pelvic ultrasonography)
+Testicular underdevelopment
+Females with advancing breast development but no androgen signs
+Galactorrhea
+Pelvic mass
+TABLE 55.15  Things Not to Miss with 
+Regard to Puberty
+Dysmorphic features
+Unusual thinness or obesity
+Cutaneous findings
+Penis or clitoris diameter and length
+Size of testes in patients with gynecomastia
+Associated endocrine deficiencies or excesses
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1066.e1
+BIBLIOGRAPHY
+Normal Pubertal Development
+Bourguignon JP. The neuroendocrinology of puberty. Growth Gen Horm. 
+1995;11:1.
+Caprio M, Fabbrini E, Isidori AM, et al. Leptin in reproduction. Trends 
+Endocrinol Metab. 2001;12:65.
+Conte FA, Grumbach MM, Kaplan SL. A diphasic pattern of gonadotropin 
+secretion in patients with the syndrome of gonadal dysgenesis. J Clin 
+Endocrinol Metab. 1975;40:670.
+Dedes I. Kisspeptins and the control of gonadotrophin secretion. Syst Biol 
+Reprod Med. 2012;58(3):121–128. https://doi.org/10.3109/19396368.2011.6
+51555. Epub 2012 Feb 29.
+Herman-­Giddens ME, Slora EJ, Wasserman RC, et al. Secondary sexual 
+characteristics and menses in young girls seen in office practice: a study 
+from the Pediatric Research in Office Settings network. Pediatrics. 
+1997;99:505.
+Kaiserman KB, Nakamoto JM, Geffner ME, et al. Minipuberty of infancy and 
+adolescent pubertal function in adrenal hypoplasia congenita. J Pediatr. 
+1998;133:300.
+Kaplowitz PB, Oberfield SE. Reexamination of the age limit for defining 
+when puberty is precocious in girls in the United States: implications 
+for evaluation and treatment. Drug and therapeutics and executive 
+committees of the Lawson Wilkins Pediatric Endocrine Society. Pediatrics. 
+1999;104:936.
+Nakamoto JM. Myths and variations in normal pubertal development. West J 
+Med. 2000;172:182.
+Nedresky D, Singh G. Physiology, luteinizing hormone. [Updated 2019 Apr 
+8]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 
+2021 Jan­. [Figure, Hypothalamic-­Pituitary-­Gonadal Axis from http://www.
+dsdgenetics.org/index.php?id=48.] Available from: https://www.ncbi.nlm.
+nih.gov/books/NBK539692/figure/article-­24535.image.f1/.
+Novello L, Speiser PW. Premature adrenarche. Pediatr Ann. 2018 Jan 
+1;47(1):e7–e11. https://doi.org/10.3928/19382359-­20171214-­04.  PubMed 
+PMID: 29323690.
+Pyle SI, Waterhouse AM, Greulich WW. A Radiographic Standard of Reference 
+for the Growing Hand and Wrist. Prepared for the United States National 
+Health Examination Survey. Chicago: Cleveland Press of Case Western 
+Reserve University, Year Book Medical Publishers; 1971.
+Rosenfield RL, Bachrach LK, Chernausek SD, et al. Current age of onset of 
+puberty. Pediatrics. 2000;106:622.
+Tanner Scale. https://healthjade.net/tanner-­scale/ Health Jade Team, https://
+healthjade.net/tanner-­scale/.
+Precocious Puberty
+Blanco-­Garcia M, Evain-­Brion D, Roger M, et al. Isolated menses in 
+prepubertal girls. Pediatrics. 1985;76:43.
+Carel JC, Eugster EA, Rogol A. Consensus statement on the use of 
+gonadotropin-­releasing hormone analogs in children. Pediatrics. 
+2009;123:4.
+Clemons RD, Kappy MS, Stuart TE, et al. Long-­term effectiveness of depot 
+gonadotropin-­releasing hormone analogue in the treatment of children 
+with central precocious puberty. Am J Dis Child. 1993;147:653.
+Fenton C, Tang M, Poth M. Review of precocious puberty, part I: 
+gonadotropin-­dependent precocious puberty. Endocrinololgist. 
+2000;10:107.
+Feuillan PP, Jones JV, Barnes K, et al. Reproductive axis after discontinuation 
+of gonadotropin-­releasing hormone analog treatment of girls with 
+precocious puberty: long term follow-­up comparing girls with 
+hypothalamic hamartoma to those with idiopathic precocious puberty. J 
+Clin Endocrinol Metab. 1999;84:44.
+Ibáñez L, Dimartino-­Nardi J, Potau N, et al. Premature adrenarche—normal 
+variant or forerunner of adult disease? Endocr Rev. 2000;21:671.
+Kosugi S, Van Dop C, Geffner ME, et al. Characterization of heterogeneous 
+mutations causing constitutive activation of the luteinizing hormone 
+receptor in familial male precocious puberty. Hum Mol Genet. 1995;4:183.
+Léger J, Reynaud R, Czernichow P. Do all girls with apparent idiopathic 
+precocious puberty require gonadotropin-­releasing hormone agonist 
+treatment? J Pediatr. 2000;137:819.
+Jung H, Carmel P, Schwartz MS, et al. Some hypothalamic hamartomas 
+contain transforming growth factor alpha, a puberty-­inducing growth 
+factor, but not luteinizing hormone-­releasing hormone neurons. J Clin 
+Endocrinol Metab. 1999;84:4695.
+Merke DP, Cutler Jr GB. Evaluation and management of precocious puberty. 
+Arch Dis Child. 1996;75:269.
+National Organization for Rare Diseases. Precocious puberty. https://
+rarediseases.org/rare-­diseases/precocious-­puberty/.
+Online Mendelian Inheritance in Man (OMIM). Precocious puberty, central, 1; 
+CPPB1 https://www.omim.org/entry/176400.
+Roberts SA, Kaiser UB. Genetic etiologies of central precocious puberty and 
+the role of imprinted genes. Eur J Endocrinol. 2020;183:R107–R117.
+Schwindinger WF, Levine MA. McCune-­Albright syndrome. Trends 
+Endocrinol Metab. 1993;4:238.
+Tang M, Fenton C, Poth M. Review of precocious puberty, part II: 
+gonadotropin-­independent precocious puberty. Endocrinololgist. 
+2000;10:397.
+Delayed or Absent Pubertal Development
+Achermann JC, Jameson JL. Advances in the molecular genetics of 
+hypogonadotropic hypogonadism. J Pediatr Endocrinol Metab. 2001;14:3.
+Argente J. Diagnosis of late puberty. Horm Res. 1999;51(suppl 3):95.
+Brook CGD. Treatment of late puberty. Horm Res. 1999;51(suppl 3):101.
+Hagen CP, Aksglaede L, Sorensen K, et al. Serum levels of anti-Mullerian 
+hormone as a marker of ovarian function in 926 healthy females from 
+birth to adulthood and in 172 Turner syndrome patients. J Clin Endocrinol 
+Metab. 2010;95:11.
+Howard SR. Genes underlying delayed puberty. Mol Cell Endocrinol. 
+2018;476:119–128.
+Howard SR. The genetic basis of delayed puberty. Front Endocrinol. 
+2019;10:423.
+Howard SR, Dunkel L. Delayed puberty – phenotypic diversity, molecular 
+genetic mechanisms, and recent discoveries. Endocrine Rev. 2019;40:1285–
+1317.
+Topaloglu AK, Reimann F, Guclu M, et al. TAC3 and TACR3 mutations 
+in familial hypogonadotrophic hypogonadism reveal a key role for 
+neurokinin B in the central control of reproduction. Nat Genet. 2009;41:3.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

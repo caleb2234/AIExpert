@@ -1,0 +1,941 @@
+473
+The etiology of intellectual developmental disabilities includes a 
+wide spectrum of disorders that may present at different periods of 
+development (infantile, juvenile, adult) and with different trajec­
+tories (Fig. 28.1). Some are static encephalopathies (cerebral palsy, 
+hypoxic-­ischemic encephalopathy), while others are progressive, 
+resulting in intellectual, neurologic, and/or developmental regres­
+sion (Table 28.1).
+Dominant etiologic categories include:
+ • Storage diseases including leukoencephalopathies
+ • Inborn errors of metabolism including mitochondrial disorders
+ • Genetic and idiopathic epilepsy encephalopathies
+ • Cerebrovascular diseases
+ • Trauma
+Progressive neurocognitive regression is an uncommon but 
+important presentation to recognize, diagnose, and potentially treat. 
+The cardinal feature is usually first stagnation and then loss of devel­
+opmental milestones in young children or loss of abilities, especially 
+cognitive, in older children. The deficits can be slow or rapidly pro­
+gressive and may or may not be accompanied by other neurologic 
+signs and symptoms. Early recognition and treatment, when possible, 
+may prevent permanent neurologic deficits. Distinguishing delayed 
+development from arrested development or loss of skills can be chal­
+lenging, especially on first presentation when there are insufficient 
+data to predict the overall trajectory. The recognition of subtle fea­
+tures depends on both parental reporting and careful developmental 
+screening by primary care providers. Overt symptomatology or rapid 
+decline is unlikely to go unnoticed and requires urgent evaluation in 
+all cases. The differential diagnosis of neurodegenerative conditions 
+is broad and includes genetic, neurologic, infectious, immunologic, 
+endocrine, traumatic, and idiopathic conditions. Initial referral to 
+multiple specialists may be needed.
+DIAGNOSTIC APPROACH
+Distinguishing delayed development from arrested development 
+can be challenging, especially on first presentation when there are 
+insufficient data to predict the overall trajectory. Normal develop­
+ment can include brief, transient plateaus or minor losses of skills 
+that occur prior to a significant leap forward in overall development 
+or during concurrent illness. In such cases careful observation and 
+close follow-­up will be reassuring. There are certain key elements 
+to consider when taking a history or examining a patient that may 
+trigger deeper exploration for the possibility of regression or intel­
+lectual disability (ID) (Tables 28.2 and 28.3). Careful neurocogni­
+tive assessment is essential when there are subtle or ill-­defined but 
+concerning losses of skills or arrest of development. Referral for 
+neuropsychologic evaluation is essential to correctly establish the 
+specific areas of weakness or change and establish a baseline for the 
+developmental diagnosis.
+Developmental regression should be considered as a separate diag­
+nostic entity, unique from global developmental delay (GDD) or ID 
+(see Chapter 27) even though there are overlapping conditions. Iden­
+tifying true regression, rather than failure of development, may be 
+challenging and require close follow-­up over a period of time. Once 
+regression is identified, evaluation is warranted.
+If the arrest in development is more abrupt, global, or associ­
+ated with other neurologic signs and symptoms, urgent evaluation 
+is indicated. This may include referral to neurology and/or medi­
+cal genetics, both basic labs (comprehensive metabolic panel, thy­
+roid studies, blood counts) and specific laboratory studies based on 
+accompanying symptoms, brain MRI, and EEG (Table 28.4 and Figs. 
+28.2 and 28.3). A specific subset of metabolic disorders can pres­
+ent with regression and various treatment options are available; it 
+is thus important to recognize and diagnose these potentially treat­
+able disorders (Tables 28.5 and 28.6). An exception to this rule is the 
+loss of social and communication skills that precedes a diagnosis of 
+autism in ∼30% of cases. Neuropsychologic evaluation is required 
+to determine whether the regression is part of the autistic spectrum 
+(see Chapter 32).
+More than 300 neurodegenerative disorders have been described 
+including genetic, neurologic, infectious, immunologic, endocrine, 
+traumatic, and idiopathic conditions; additional classification 
+based on progression and age is noted in Table 28.7 and in Figure 
+28.2. Neurodegenerative disorders are often categorized as involv­
+ing white matter, gray matter, basal ganglia, or the entire central 
+nervous system. White matter diseases (e.g., adrenoleukodystro­
+phy) affect long tracts and manifest with loss of motor skills, spas­
+ticity, disturbed gait, areflexia (if peripheral nerve is also involved), 
+or ataxia, whereas gray matter diseases (e.g., ceroid lipofuscino­
+ses) manifest with seizures and abnormalities of cognition, vision, 
+and hearing. Many disorders commonly classified as “white mat­
+ter” or “gray matter” manifest with a mixed picture of signs and 
+symptoms. Diseases that involve primarily the basal ganglia (deep 
+gray matter), such as Huntington disease, manifest with cognitive 
+deterioration, behavioral changes, rigidity, dystonia, ataxia, dysar­
+thria, seizures, and incoordination. When these diseases progress, 
+neurologic signs and symptoms may become more widespread and 
+less specific.
+Progressive disorders may be the result of metabolic or storage dis­
+eases or due to a genetic syndrome (Rett syndrome). In contrast, static 
+encephalopathies are usually the result of structural abnormalities due 
+to abnormal development or trauma (see Tables 28.6 and 28.7).
+Neurocognitive and 
+Developmental Regression
+Michael Muriello
+28
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+474
+SECTION 6  Developmental and Psychiatric Disorders
+GENETIC EVALUATION
+The genetic considerations for ID are detailed in Chapter 27. Next-­
+generation sequencing (NGS) technology provides broad screening 
+panels within a group of phenotypes (e.g., X-­Linked Intellectual 
+Disability [XLID] panel). Genomic sequencing (whole exome 
+sequencing [WES] and whole genome sequencing [WGS]) is trans­
+forming the diagnostic process for children with neurodegenera­
+tive disorders. Consideration for genome or exome sequencing as 
+a first-­line approach in the presence of neurologic regression is 
+becoming the standard of care. If there is progressive neurodevel­
+opmental regression, exome/genome sequencing should be con­
+sidered early in the diagnostic evaluation because many treatable 
+disorders have improved outcomes with earlier initiation of therapy 
+(i.e., mucopolysaccharidoses, Krabbe disease). This is especially 
+true for young patients or more rapidly progressive neurodegener­
+ative disease processes. Rapid genome/exome sequencing can pro­
+vide results in as little as 5–10 days but is typically reserved for the 
+intensive care setting.
+Metabolic Tests
+Inborn errors of metabolism (IEMs) should be suspected in children 
+with acute or episodic neurologic abnormalities in whom there is unex­
+plained altered mental status, vomiting, an unusual smell to the urine or 
+body odor, metabolic acidosis, elevated lactate, hypoglycemia, or renal 
+stones. IEMs may manifest as episodic acute encephalopathy (from an 
+organic acidemia or hyperammonemia) or as a chronic progressive 
+encephalopathy (with associated cardiomyopathy, spasticity, hyperre­
+flexia, or liver dysfunction), often as a result of mitochondrial disorders 
+or storage diseases (Tables 28.8 and 29.9). Routine neonatal screening 
+for metabolic disorders may identify infants with IEMs that are asso­
+ciated with GDD. However, not all children with IEMs manifest soon 
+after birth, and normal results do not eliminate the possibility that an 
+IEM is present. Targeted biochemical lab testing can be performed when 
+a specific disease is considered (7-­dehydrocholesterol for Smith-­Lemli-­
+Opitz syndrome, very-­long-­chain fatty acids for peroxisomal disorders, 
+thyroxine [T4]/thyroid-­stimulating hormone [TSH] for hypothyroidism, 
+creatinine kinase for Duchenne muscular dystrophy, glycosaminogly­
+cans and oligosaccharides for lysosomal storage disorders such as Hunter 
+or Hurler disease) (see Fig. 28.3). In general, few IEMs result in GDD/ID 
+in the absence of other neurologic symptoms (see Table 28.8). To date, 89 
+IEMs (and more, other disorders) have been identified that are amenable 
+to treatment of the underlying defect and/or pathogenetic mechanism 
+(Table 28.10). Of these, 54 (60%) can be identified by blood (plasma 
+amino acids, homocysteine, copper, ceruloplasmin) and urine (creatine 
+metabolites, glycosaminoglycans, oligosaccharides, organic acids, and 
+pyrimidines) tests. The remaining 35 (40%) are identified by specific 
+tests and molecular analysis. A digital app (TIDE BC) is freely available 
+(http://www.treatable-­id.org) and provides an information portal about 
+these diseases and their treatments. Although the yield from metabolic 
+studies in “nonsyndromic” GDD/ID is relatively low (0.2–2.5%), IEMs 
+are amenable to treatment, so metabolic testing should be considered in 
+all cases of unexplained GDD/ID.
+Normal
+Birth
+Developmental
+achievement
+Adulthood
+Nonprogressive
+insult (later life)
+Nonprogressive
+insult (early life)
+Developmental
+regression
+Fig. 28.1  Potential developmental trajectories. (From Holland J, Brown 
+R. Developmental regression: assessment and investigation. Paediatr 
+Child Health. 2017;27[6]:253–259 [Fig. 1, p. 253].)
+TABLE 28.1  Criteria for Regression
+Any child who fulfills all the following three criteria:
+ • Progressive deterioration for more than 3 mo with
+ • Loss of already attained intellectual/developmental abilities and
+ • Development of abnormal neurologic signs
+Excluding: static intellectual loss, e.g., after encephalitis, head injury, or 
+near drowning
+Including:
+ • Children who meet the case definition even if specific neurologic diagno­
+ses have been made
+ • Metabolic disorders leading to neurologic deterioration
+ • Seizure syndromes (epileptic, encephalopathies) if associated with pro­
+gressive deterioration
+ • Pre-­existing developmental delay with acute deterioration
+Modified from Holland J, Brown R. Developmental regression: assess­
+ment and investigation. Paediatr Child Health. 2017;27(6):253–259 
+(Box 1, p. 254).
+TABLE 28.2  Elements in History That Are 
+Red Flags for Regression
+General
+ • Age at presentation: certain disorders present within specific age 
+ranges
+ • Trigger: some disorders manifest more symptoms during intercurrent 
+illness
+ • Nature of progression of symptoms (slow, sharp, or stepwise decline)
+ • Other neurologic symptoms (movement disorders, gait disturbances, 
+behavioral changes, ataxia, seizures, signs of increased intracranial 
+pressure)
+ • Seizures, if present: type, nature, frequency, and response to treatment
+ • Endocrine disorders: adrenal dysfunction in peroxisomal disorders 
+(Zellweger)
+Developmental History
+ • Milestones: rate achieved, change in progression
+Family Health History
+ • Family history of neurodegenerative disorders
+ • Consanguinity
+ • Ancestry (e.g., Tay-­Sachs in Jewish and Amish communities)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+475
+CHAPTER 28  Neurocognitive and Developmental Regression
+TABLE 28.3  Elements on Physical Examination That Are Red Flags for Regression
+Head Circumference
+ • Macrocephaly (white matter disorders, hydrocephalus): especially if crossing centiles
+ • Microcephaly (gray matter disorders)
+Dysmorphic Features
+ • Coarse facial features in mucopolysaccharidosis
+ • Tall forehead, depressed nasal bridge, micrognathia in peroxisomal biogenesis disorders
+Ophthalmology
+ • Ptosis (mitochondrial disorders, myasthenia syndromes, Menkes syndrome)
+ • Retinal degeneration (gray matter disease)
+ • Optic atrophy (white matter disease)
+ • Cherry-­red spots (GM1/2 [Tay-­Sachs] gangliosidosis, Krabbe leukodystrophy, metachromatic leukodystrophy)
+Neurology
+ • Long tract signs in raised intracranial pressure
+ • Abnormal tone (spasticity, dystonia, hypotonia)
+ • Movement disorder (ataxia, chorea)
+Skin
+ • Café-­au-­lait spots in neurofibromatosis, Chediak-­Higashi syndrome, Gaucher disease, Hunter syndrome
+ • Hypopigmented macules and Shagreen patch in tuberous sclerosis
+ • Abnormal “kinky” hair in Menkes syndrome
+ • Severe, intractable eczema in biotinidase deficiency
+Visceromegaly
+ • Hepatosplenomegaly is a frequent manifestation of a number of storage disorders
+Other
+ • Skeletal manifestations: dysostosis multiplex in lysosomal disorders, stippling in peroxisomal disorders
+ • Cardiac valvular disease in lysosomal storage disorders
+TABLE 28.4  Tiered Approach to Evaluating Regression*
+Blood
+Genetic testing: genomic approach—exome/genome or large gene panel on exome backbone if more targeted
+Full blood count, urea and electrolytes, liver function test, bone profile, thyroid function test, ESR, ammonia, lactate, uric acid
+Very long-­chain fatty acids
+Biotin
+Copper and ceruloplasmin
+Amino acids
+Free carnitine and acylcarnitine profile
+Lysosomal enzyme assay in leukocytes
+Vitamin B12 and E levels
+Heavy metals: lead, mercury
+Cerebrospinal Fluid
+Amino acids (with plasma amino acids simultaneously)
+Lactate and pyruvate
+Glucose (with plasma levels simultaneously)
+Neurotransmitters and neuroinflammatory markers (N-­methyl-­D-­aspartate receptor antibodies)
+Urine
+Organic acids
+Glycosaminoglycans and oligosaccharides through mass spectrometry
+BRAIN MRI with consideration for targeted spectroscopy
+TISSUE BIOPSY and analysis as indicated
+Muscle for mitochondrial testing
+Liver for assessment of copper, iron, or electron microscopy
+*This evaluation is often coincident with the evaluation for intellectual disability (see Chapter 27).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+476
+SECTION 6  Developmental and Psychiatric Disorders
+Progressive
+neurodevelopmental
+regression
+Consider exome
+sequencing
+Abnormal brain
+MRI
+White matter
+abnormalities
+Brain malformations
+Leukodystrophies
+Peroxisomal
+Mitochondrial
+Organic acidemias
+CTX
+Infection
+Other
+Neoplastic
+Infectious
+Trauma
+Inflammatory
+Specific genetic syndromes
+CDG
+Lysosomal storage
+Wilson disease
+Mitochondrial
+CTX
+Atrophy
+Zellweger
+CDG
+Lysosomal storage
+Specific genetic syndromes
+CDG
+Peroxisomal
+Lysosomal storage
+Lysosomal storage
+CDG
+Wilson disease
+Gaucher
+Peroxisomal
+No diagnostic
+findings
+Genome sequencing
+and/or
+additional metabolic
+and CSF studies
+Dysmorphic
+features
+Macrocephaly
+Ocular
+signs/symptoms
+Optic atrophy
+Abnormal eye
+movements
+Cherry red
+spot
+Canavan
+CDG
+Mitochondrial
+Neurotransmitter defects
+CDG
+Gaucher
+Niemann-Pick
+Mitochondrial
+Sphingolipidoses
+Leukodystrophies
+Cytopenias
+Infection
+Autoimmune
+Gaucher
+Barth syndrome
+Cobalamin defects
+Niemann-Pick A/B
+Alexander disease
+Sphingolipidoses
+Canavan disease
+Glutaric aciduria
+Mitochondrial
+Rett syndrome
+Mitochondrial
+GLUT1
+Cerebral folate deficiency
+Microcephaly
+Hepatomegaly
+Consider EEG
+CSF studies
+Other metabolic
+labs
+Brain MRI
+Biochemical studies
+Genetic evaluation
+Abnormal neurologic
+signs/symptoms
+Fig. 28.2  Evaluation of children with progressive cognitive, developmental, and neurologic deterioration. CDG, congenital disorders of glycosylation; CSF, 
+cerebrospinal fluid; CTX, cerebrotendinous xanthomatosis. (Modified from Fenichel GM. Clinical Pediatric Neurology: A Signs and Symptoms Approach. 
+2nd ed. Philadelphia: WB Saunders; 1993:138.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+477
+CHAPTER 28  Neurocognitive and Developmental Regression
+Urine organic acids (n=22)
+• MHBD deficiency
+• mHMG-CoA synthase deficiency
+• I.o. Proprionic acidemia (&ACP)
+• SCOT deficiency
+• SSADH deficiency
+• Tyrosinemia type II (&PAA)
+• Glutaric acidemia type II
+• HMG-CoA lyase deficiency
+• Holocarboxylase synthetase deficiency
+• Homocystinuria
+• I.o. Isovaleric acidemia (&ACP)
+• 3-methylcrotonyl glycinuria (&ACP)
+• 3-methylglutaconic aciduria
+• I.o. Methylmalonic acidemia (&ACP)
+• β-ketothiolase deficiency
+• Cobalamin A deficiency
+• Cobalamin B deficiency
+• Cobalamin C deficiency (& tHcy)
+• Cobalamin D deficiency (& tHcy)
+• Cobalamin F deficiency (& tHcy)
+• Ethylmalonic encephalopathy (&ACP)
+• Glutaric acidemia type I
+• Hunter syndrome (MPS II)
+• Hurler syndrome (MPS I)
+• Sanfilippo syndrome (type a, b, c, d)
+• Sly syndrome (MPS VI)
+• AGAT deficiency
+• GAMT deficiency
+• α-Mannosidosis
+• Aspartylglucosaminuria
+• Pyrimidine 5’nucleotidase
+  superactivity
+• Molybdenum cofactor type A
+  deficiency
+• I.o. Argininosuccinic aciduria
+• I.o. Citrullinemia
+• I.o. Citrullinemia type II
+• I.o. CPS deficiency
+• I.o. Argininemia
+• HHH syndrome
+• Maple syrup urine disease
+  (variant)
+• I.o. MTHFR deficiency (&tHcy)
+• I.o. NAGS deficiency
+• Homocystinuria (&UOA)
+• I.o. MTHFR deficiency (&PAA)
+• Cobalamin C deficiency (&UOA)
+• Cobalamin D deficiency (&UOA)
+• Cobalamin E deficiency
+• Cobalamin F deficiency (&UOA)
+• Cobalamin G deficiency
+• I.o. OTC deficiency
+• Phenylketonuria
+• PDH complex deficiency
+• Tyrosinemia type II (&UOA)
+• Creatine
+  transporter defect
+Urine tests
+Plasma amino acids (n=13)
+Plasma total homocysteine (n=9)
+Blood tests
+Urine glycosaminoglycans (n=7)
+Urine creatine metabolites (n=3)
+Urine oligosaccharides (n=2)
+Urine purines & pyrimidines (n=2)
+Fig. 28.3  Bar graph depicting the yield of “metabolic screening tests.” For the mucopolysaccharidoses, enzyme activity should be measured as a next 
+step: Hurler (iduronidase); Hunter syndrome (iduronate-­2-sulfatase); Sanfilippo syndrome (IIIa = heparan-­N-­sulfatase, IIIb = N-­acetyl-­glucosaminidase, IIIc = 
+acetyl CoA glucosamine N-­acetyl transferase, IIId = N-­acetyl-­glucosamine-­6-­sulfatase); Sly syndrome (β-­glucuronidase). ACP, plasma acylcarnitine profile; 
+HHH, hyperornithinemia-­hyperammonemia-­homocitrullinuria; MPS, mucopolysaccharidosis; PAA, plasma amino acids; tHcy, total homocysteine; UOA, 
+urine organic acids. (From van Karnebeek CDM, Stockler S. Treatable inborn errors of metabolism causing intellectual disability: a systematic literature 
+review. Mol Genetic Metab. 2012;105:368–381 [Fig. 1, p. 374].)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+478
+SECTION 6  Developmental and Psychiatric Disorders
+TABLE 28.5  Select “Intrinsic” Conditions Associated with Developmental Regression
+Age at Onset (yr)
+Conditions
+Comments
+<2, with hepatomegaly
+Fructose intolerance
+Vomiting, hypoglycemia, poor feeding, failure to thrive (when given fructose)
+(see Chapter 17)
+Galactosemia
+Lethargy, hypotonia, icterus, cataract, hypoglycemia (when given lactose)
+Glycogenosis (glycogen storage disease) types I–IV
+Hypoglycemia, cardiomegaly (type II)
+Mucopolysaccharidosis types I and II
+Coarse facies, stiff joints
+Niemann-­Pick disease, infantile type
+Gray matter disease, failure to thrive
+Tay-­Sachs disease
+Seizures, cherry-­red macula, edema, coarse facies
+Zellweger (cerebrohepatorenal) syndrome
+Hypotonia, high forehead, flat facies
+Gaucher disease type II
+Extensor posturing, irritability
+Carbohydrate-­deficient glycoprotein syndromes
+Dysmyelination, cerebellar hypoplasia
+<2, without hepatomegaly
+Krabbe disease
+Irritability, extensor posturing, optic atrophy, and blindness
+Rett syndrome
+Females with deceleration of head growth, loss of hand skills, hand 
+wringing, impaired language skills, gait apraxia
+Maple syrup urine disease
+Poor feeding, tremors, myoclonus, opisthotonos
+Phenylketonuria
+Light pigmentation, eczema, seizures
+Menkes kinky hair disease
+Hypertonia, irritability, seizures, abnormal hair
+Subacute necrotizing encephalopathy of Leigh
+White matter disease
+Cerebro-oculofacioskeletal syndrome (of Pena and Shokeir)
+Reduced white matter, failure to thrive
+Canavan disease
+White matter disease
+Pelizaeus-­Merzbacher disease
+White matter disease
+2–5
+Niemann-­Pick disease types III and IV
+Hepatosplenomegaly, gait difficulty
+Wilson disease
+Liver disease, Kayser-­Fleischer ring; deterioration of cognition is late
+Gangliosidosis type II
+Gray matter disease
+Ceroid lipofuscinosis
+Gray matter disease
+Mitochondrial encephalopathies (e.g., myoclonic epilepsy 
+with ragged red fibers [MERRF])
+Gray matter disease
+Ataxia-­telangiectasia
+Basal ganglia disease
+Huntington disease (chorea)
+Basal ganglia disease
+Hallervorden-­Spatz syndrome
+Basal ganglia disease
+Metachromatic leukodystrophy
+White matter disease
+Adrenoleukodystrophy
+White matter disease, behavior problems, deteriorating school 
+performance, quadriparesis
+5–15
+Adrenoleukodystrophy
+Same as for adrenoleukodystrophy in 2–5 yr olds
+Multiple sclerosis
+White matter disease
+Neuronal ceroid lipofuscinosis, juvenile and adult 
+(Spielmeyer-­Vogt and Kufs disease)
+Gray matter disease
+Schilder disease
+White matter disease, focal neurologic symptoms
+Refsum disease
+Peripheral neuropathy, ataxia, retinitis pigmentosa
+Sialidosis type II, juvenile form
+Cherry-­red macula, myoclonus, ataxia, coarse facies
+Subacute sclerosing panencephalitis
+Diffuse encephalopathy, myoclonus; may occur years after measles
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+479
+CHAPTER 28  Neurocognitive and Developmental Regression
+TABLE 28.6  Select “Extrinsic” Conditions Associated with Developmental Regression
+Neoplasms and their therapy
+Leukemia
+Tumors
+Langerhans cell histiocytosis
+Hemophagocytic lymphohistiocytosis
+Increased intracranial pressure
+Hydrocephalus, including ventricular shunt malfunctions
+Subdural hematoma or effusion
+Infections
+Encephalitis, including HIV infection, toxoplasmosis
+Meningitis
+Endocrine disorders
+Vitamin B12 and E deficiencies
+Hypothyroidism
+Chronic lead poisoning
+Adrenocortical insufficiency
+Autoimmune encephalitis (e.g., N-­methyl-­D-­aspartate receptor [NMDAR] 
+encephalitis)
+Collagen vascular disease (e.g., systemic lupus erythematosus)
+“Pseudo” regression
+ • Child abuse
+ • Behavioral disorders
+ • Bullying
+ • Medication, recreational drug effects
+TABLE 28.7  Causes of Developmental Regression
+Onset Before Age 2 yr
+AIDS
+Encephalopathy*
+Autism Spectrum Disorder
+Disorders of Amino Acid Metabolism
+Guanidinoacetate methyltransferase deficiency*
+Homocystinuria
+Maple syrup urine disease (intermediate and thiamine response forms)*
+Phenylketonuria
+Hyperammonemic disorders
+Disorders of Lysosomal Enzymes
+Ganglioside storage disorders
+ • GM1 gangliosidosis
+ • GM2 gangliosidosis (Tay-­Sachs disease, Sandhoff disease)
+Gaucher disease type II (glucosylceramide lipidosis)*
+Globoid cell leukodystrophy (Krabbe disease)
+Glycoprotein degradation disorders
+I-­cell disease
+ • Mucopolysaccharidoses*
+ • Type I (Hurler syndrome)*
+ • Type III (Sanfilippo disease)
+Niemann-­Pick disease type A (sphingomyelin lipidosis)
+Sulfatase deficiency disorders
+ • Metachromatic leukodystrophy (sulfatide lipidoses)
+ • Multiple sulfatase deficiency
+Carbohydrate-­Deficient Glycoprotein Syndromes
+Hypothyroidism*
+Mitochondrial Disorders
+Alexander disease
+Mitochondrial myopathy, encephalopathy, lactic acidosis, stroke
+Progressive infantile poliodystrophy (Alpers disease)
+Subacute necrotizing encephalomyelopathy (Leigh disease)
+Trichopoliodystrophy (Menkes disease)
+Neurocutaneous Syndromes
+Chediak-­Higashi syndrome
+Neurofibromatosis*
+Tuberous sclerosis*
+Other Disorders of Gray Matter
+Infantile ceroid lipofuscinosis (Santavuori-­Haltia disease)
+Infantile neuroaxonal dystrophy
+Lesch-­Nyhan disease*
+Progressive neuronal degeneration with liver disease
+Infantile spasms (West, Lennox-­Gastaut)
+Epileptic encephalopathies (monogenetic, idiopathic)
+Rett syndrome
+Aicardi-­Goutieres syndrome
+Other Disorders of White Matter
+Aspartoacylase deficiency (Canavan disease)
+Galactosemia: transferase deficiency*
+Neonatal adrenoleukodystrophy
+Pelizaeus-­Merzbacher disease
+Progressive cavitating leukoencephalopathy
+Progressive Hydrocephalus*
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+480
+SECTION 6  Developmental and Psychiatric Disorders
+Onset After Age 2 yr
+Disorders of Lysosomal Enzymes
+Gaucher disease type III (glucosylceramide lipidosis)
+Globoid cell leukodystrophy (late-­onset Krabbe disease)
+Glycoprotein degradation disorders
+Aspartylglycosaminuria
+Mannosidosis type II
+GM2 gangliosidosis (juvenile Tay-­Sachs disease)
+Metachromatic leukodystrophy (late-­onset sulfatide lipidoses)
+Mucopolysaccharidoses types II and VII
+Niemann-­Pick type C (sphingomyelin lipidosis)
+Infectious Disease
+AIDS encephalopathy*
+Congenital syphilis*
+Subacute sclerosing panencephalitis
+Other Disorders of Gray Matter
+Ceroid lipofuscinosis
+ • Juvenile
+ • Late infantile (Bielschowsky-­Jansky disease)
+Other Disorders of Gray Matter—cont’d
+Huntington disease
+Biotin-­thiamine-­responsive basal ganglia disease
+Mitochondrial disorders
+ • Late-­onset poliodystrophy
+ • Mitochondrial neurogastrointestinal encephalomyopathy (MNGIE)
+ • Myoclonic epilepsy and ragged-­red fibers
+Progressive neuronal degeneration with liver disease
+Xeroderma pigmentosum
+Wilson disease
+Neurodegeneration with brain iron accumulation (NBIA)
+Pantothenate kinase neurodegeneration
+Other Disorders of White Matter
+Adrenoleukodystrophy
+Alexander disease
+Cerebrotendinous xanthomatosis
+Progressive cavitating leukoencephalopathy
+Epileptic aphasia
+ • Landau-­Kleffner syndrome
+Febrile infection-related epilepsy syndrome (FIRES)
+*The most common conditions and the ones with disease-­modifying treatments.
+Modified from Pina-­Garza JE. Fenichel’s Clinical Pediatric Neurology: A Signs and Symptoms Approach. 7th ed. Philadelphia: Saunders; 2013.
+TABLE 28.7  Causes of Developmental Regression—cont’d
+TABLE 28.8  Features Suggestive of 
+Inherited Neurometabolic Disorders
+Encephalopathy
+Systemic Features
+Intellectual disability
+Developmental regression
+Cerebral palsy
+Spastic diplegia
+Spastic quadriplegia
+Depressed sensorium
+Lethargy
+Irritability
+Stupor
+Coma
+Dementia
+Hypotonia
+Seizures
+Myoclonus
+Infantile spasms
+Extrapyramidal symptoms
+Dystonia
+Opisthotonos
+Choreoathetosis
+Microcephaly
+Macrocephaly
+Speech problems
+Eye-­related problems
+Abnormal movements
+Apraxia
+Cherry-­red spot
+Nystagmus
+Optic atrophy
+Tapetoretinal degeneration (hereditary)
+Urinary odor
+Intrauterine growth restriction
+Failure to thrive
+Poor sucking
+Vomiting repeatedly
+Weak cry
+Cardiomyopathy
+Hepatomegaly
+Fatty liver
+Fibrosis/cirrhosis
+Hepatosplenomegaly
+Renal tubular acidosis
+Susceptibility to infections
+Bone marrow depression
+Neutropenia
+Thrombocytopenia
+Pancytopenia
+Seborrhea
+Alopecia
+Abnormal hair
+Pili torti
+Trichorrhexis nodosa
+Modified from Chaves-­Carballo E. Detection of inherited neurometabolic dis­
+orders. A practical clinical approach. Pediatr Clin North Am. 1992;39:801–820.
+TABLE 28.9  Key Features in Select 
+Metabolic Disorders
+ • Sphingolipidoses (Tay-­Sachs disease, Niemann-­Pick disease, GM1 
+gangliosidosis) are associated with a cherry-­red retinal spot, hepato-­ and/
+or splenomegaly, intellectual disability (ID), dystonia, and seizures.
+ • Glycoprotein degradation disorders (e.g., mannosidosis, fucosidosis) may 
+variably manifest with coarse facies, ID, hepatosplenomegaly, and vacuolated 
+lymphocytes.
+ • Mucopolysaccharidoses (e.g., the Hurler, Hunter, and Sanfilippo 
+syndromes) may manifest with coarse facies, ID, hepatosplenomegaly, 
+dysostosis multiplex, and corneal clouding.
+ • Neuronal ceroid lipofuscinosis may manifest with ID, vision loss, 
+ataxia, and myoclonic seizures.
+ • Peroxisomal disorders (Zellweger syndrome, X-­linked adrenoleukodys­
+trophy, Refsum disease) variably manifest with ID, encephalopathy, sei­
+zures, blindness, dysmorphic features, deafness, and adrenal insufficiency 
+in males (X-­ALD).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+481
+CHAPTER 28  Neurocognitive and Developmental Regression
+TABLE 28.10  Conditions in Which Early Treatment May Significantly Improve the Course 
+of the Disease
+Condition
+Treatment
+Galactosemia
+Lactose-­free diet
+Fructosemia
+Fructose-­free diet
+Phenylketonuria
+Phenylalanine-­free diet
+Maternal phenylketonuria
+Phenylalanine-­free diet during pregnancy
+Maple syrup urine disease
+Diet restricted in branched-­chain amino acids + dialysis or exchange transfusion
+Hypoglycemia from any cause
+Prevent hypoglycemia and/or provide glucose
+Lead intoxication
+Separate child from source of lead; chelation therapy
+Hypothyroidism
+Thyroid replacement
+Recurrent otitis media
+Antibiotic prophylaxis, pressure-­equalizing tubes
+Malnutrition
+Adequate nutrition
+Increased intracranial pressure (e.g., hydrocephalus, neoplasm)
+Shunt ventricles or cystic structure
+Congenital HIV infection
+Prenatal/postnatal treatment with AZT (zidovudine)
+Congenital toxoplasmosis
+Prenatal treatment with spiramycin, pyrimethamine, and sulfonamide
+Dopa-­responsive dystonia
+Responds to levodopa; may be misdiagnosed as cerebral palsy
+Biotinidase deficiency
+Oral biotin
+Biotin-­thiamine-­responsive basal ganglia disease
+Biotin, thiamine
+Wilson disease
+Copper chelation; liver transplant
+Cerebral folate disorder
+Folinic acid
+Creatine disorders
+Creatine monohydrate
+Vitamin B12 deficiency
+Vitamin B12
+Cerebral glucose transporter defect
+Ketogenic diet
+Metachromatic leukodystrophy
+BMT
+Niemann-­Pick disease
+BMT, liver transplantation, implanted amniotic epithelial cells
+Adrenoleukodystrophy
+BMT
+Glycogen storage disease type IV
+Liver transplantation
+Menkes disease
+Parenteral copper histidinate
+Lesch-­Nyhan syndrome
+Allopurinol + bone marrow transplantation
+Krabbe disease
+BMT
+α-­Mannosidosis
+ERT: velmanase alfa
+Aspartylglucosaminuria
+BMT
+Gaucher disease type III
+ERT: Ceredase; SRT: Cerdelga; PCT: Mucosolvan
+Hunter syndrome (MPS II)
+ERT: Elaprase
+Hurler syndrome (MPS I)
+ERT: Aldurazyme
+Sanfilippo syndrome A (MPS IIIa)
+SRT: Genistein
+Sanfilippo syndrome B (MPS IIIb)
+SRT: Genistein
+Sanfilippo syndrome C (MPS IIIc)
+SRT: Genistein
+Sanfilippo syndrome D (MPS IIId)
+SRT: Genistein
+Sly syndrome (MPS VII)
+ERT: Mepsevii
+Neuronal ceroid lipofuscinosis type II
+ERT: Brineura
+BMT, bone marrow transplant; ERT, enzyme replacement therapy; MPS, mucopolysaccharidosis; PCT, pharmacologic chaperone therapy; SRT, sub­
+strate reduction therapy.
+   	 S U MMA RY  A N D  R E D  F L A G S
+Developmental regression is important to differentiate from ID as it 
+implies an active or ongoing process resulting in neurologic degen­
+eration. Red flags for potentially life-­threatening metabolic disorders 
+include vomiting, intractable seizures, unexplained lethargy, or altered 
+mental status. Tables 28.2 and 28.3 provide further clues for the treat­
+ing provider. Recognition of treatable disorders allows for timely inter­
+vention and will impact long-­term outcomes (http://www.treatable-­id.
+org).
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+481.e1
+BIBLIOGRAPHY
+Adams AV, Mooneyham GC, Van Mater H, et al. Evaluation of diagnostic 
+criteria for Hashimoto encephalopathy among children and adolescents. 
+Pediatr Neurol. 2020;107:41–47.
+Barbagallo M, Vitaliti G, Pavone P, et al. Pediatric autoimmune encephalitis. J 
+Pediatr Neurosci. 2017;12:130–134.
+Barone R, Pellico A, Pittalà A, Gasperini S. Neurobehavioral phenotypes of 
+neuronopathic mucopolysaccharidoses. Ital J Pediatr. 2018;44:121.
+Bey AL, Gorman MP, Gallentine W, et al. Subacute neuropsychiatric syn­
+drome in girls with SHANK3 mutations responds to immunomodulation. 
+Pediatrics. 2020;145:e20191490.
+Boterberg S, Charman T, Marschik PB, et al. Regression in autism spectrum 
+disorder: a critical overview of retrospective findings and recommenda­
+tions for future research. Neurosci Biobehav Rev. 2019;102:24–55.
+Bradley CC, Boan AD, Cohen AP, et al. Reported history of developmental 
+regression and restricted, repetitive behaviors in children with autism 
+spectrum disorders. J Dev Behav Pediatr. 2016;37:451–456.
+Camfield P, Camfield C. Regression in children with epilepsy. Neurosci Biobe­
+hav Rev. 2019;96:210–218.
+Canafoglia L, Gilioli I, Invernizzi F, et al. Electroclinical spectrum of the neu­
+ronal ceroid lipofuscinoses associated with CLN6 mutations. Neurology. 
+2015;85:316–324.
+Dong X, Liu B, Yang L, et al. Clinical exome sequencing as the first-­tier test 
+for diagnosing developmental disorders covering both CNV and SNV: a 
+Chinese cohort. J Med Genet. 2020;57:558–566.
+Forsyth RJ. Neurological and cognitive decline in adolescence. J Neurol Neuro­
+surg Psychiatr. 2003;74:i9–i16.
+García-Cazorla A, Wolf NI, Serrano M, et al. Mental retardation and inborn 
+errors of metabolism. J Inherit Metab Dis. 2009;32:597–608.
+Guven A, Cebeci N, Dursun A, et al. Methylmalonic acidemia mimicking 
+diabetic ketoacidosis in an infant. Pediatr Diabetes. 2012;13:e22–e25.
+Howarth RA, Reisner A, Chern JJ, et al. Neurocognitive improvements 
+following endovascular repair of vein of Galen malformation in a child. J 
+Neurosurg Pediatr. 2015;15:197–202.
+Kayser MA. Inherited metabolic diseases in neurodevelopmental and neurobe­
+havioral disorders. Semin Pediatr Neurol. 2008;15:127–131.
+Keene D, Grenier D. Developmental regression: always a worrying signal. 
+Paediatr Child Health. 2009;14:431.
+Krueger JM, Piantino J, Smith CM, et al. A treatable metabolic cause of 
+encephalopathy: cobalamin C deficiency in an 8-­year-­old male. Pediatrics. 
+2015;135:e202–e206.
+Lalonde E, Rentas S, Lin F, et al. Genomic diagnosis for pediatric disorders: 
+revolution and evolution. Front Pediatr. 2020;8:373.
+Leduc MS, Chao H-­T, Qu C, et al. Clinical and molecular characterization 
+of de novo loss of function variants in HNRNPU. Am J Med Genet. 
+2017;173:2680–2689.
+Leuzzi V, Bianchi MC, Tosetti M, et al. Brain creatine depletion: guanidinoac­
+etate methyltransferase deficiency (improving with creatine supplementa­
+tion). Neurology. 2000;55:1407–1409.
+Loughan AR, Harrell M, Perna R, et al. Megalencephaly-­capillary malforma­
+tion polymicrogyria: a review and complex pediatric case report. Appl 
+Neuropsychol: Child. 2017;6:369–377.
+Mastrangelo M, Sartori S, Simonati A, et al. Progressive myoclonus epilepsy 
+and ceroidolipofuscinosis 14: the multifaceted phenotypic spectrum of 
+KCTD7-­related disorders. Eur J Med Genet. 2019;62:103591.
+Michelson DJ, Clark RD. Optimizing genetic diagnosis of neurodevelopmental 
+disorders in the clinical setting. Clin Lab Med. 2020;40:231–256.
+Michelson DJ, Shevell MI, Sherr EH, et al. Evidence report: genetic and 
+metabolic testing on children with global developmental delay. Neurology. 
+2011;77:1629–1635.
+Moretti P, Peters SU, del Gaudio D, et al. Brief report: autistic symptoms, 
+developmental regression, mental retardation, epilepsy, and dyskinesias in 
+CNS folate deficiency. J Autism Dev Disord. 2008;38:1170–1177.
+Nagarjunakonda S, Daggumati R, Uppala V, et al. A novel mutation in neuro­
+degeneration with brain iron accumulation - a case report. Neurol India. 
+2019;67:1341–1343.
+Pearson N, Charman T, Happé F, et al. Regression in autism spectrum dis­
+order: reconciling findings from retrospective and prospective research. 
+Autism Res. 2018;11:1602–1620.
+Périsse D, Amiet C, Consoli A, et al. Risk factors of acute behavioral regression 
+in psychiatrically hospitalized adolescents with autism. J Can Acad Child 
+Adolesc Psychiatry. 2010;19:100–108.
+Philippart M, Carrel RE, Landing BH. Tay-­Sachs disease with atypical chronic 
+course and limited brain storage: alpha-­locus hexosaminidase genetic 
+compound. Neurochem Res. 1995;20:1323–1328.
+Ramocki MB, Chapieski L, McDonald RO, et al. SCA2 presenting with cogni­
+tive regression in childhood. J Child Neurol. 2008;23:999–1001.
+Smith T, Ram D. Fifteen-­minute consultation: a practical approach to 
+developmental regression in children. Arch Dis Child Educ Pract. 
+2019;104:173–177.
+Srivastava S, Love-­Nichols JA, Dies KA, et al. Meta-­analysis and multidis­
+ciplinary consensus statement: exome sequencing is a first-­tier clinical 
+diagnostic test for individuals with neurodevelopmental disorders. Genet 
+Med. 2019;21:2413–2421.
+Tang S, Lin JP, Hughes E, et al. Encephalopathy and SCN1A mutations. Epilep­
+sia. 2011;52:e26–e30.
+van Karnebeek CDM, Richmond PA, van der Kloet F, et al. The variability 
+conundrum in neurometabolic degenerative diseases. Mol Genet Metabol. 
+2020;131(4):367–369.
+van Karnebeek CDM, Shevell M, Zschocke J, et al. The metabolic evaluation of 
+the child with an intellectual developmental disorder: diagnostic algorithm 
+for identification of treatable causes and new digital resource. Mol Genet 
+Metabol. 2014;111:428–438.
+van Karnebeek CDM, Stockler S. Treatable inborn errors of metabolism caus­
+ing intellectual disability: a systematic literature review. Mol Genet Metab. 
+2012;105:368–381.
+Venkateswaran S, McMillan HJ, Doja A, et al. Adolescent onset cognitive 
+regression and neuropsychiatric symptoms associated with the A140V 
+MECP2 mutation. Dev Med Child Neurol. 2014;56:91–94.
+Verity C, Winstone AM, Stellitano L, et al. The epidemiology of progressive 
+intellectual and neurological deterioration in childhood. Arch Dis Child. 
+2010;95:361–364.
+Vissers LELM, Gilissen C, Veltman JA. Genetic studies in intellectual disability 
+and related disorders. Nat Rev Genet. 2016;17:9–18.
+Wang W, Corominas R, Lin GN. De novo mutations from whole exome se­
+quencing in neurodevelopmental and psychiatric disorders: from discovery 
+to application. Front Genet. 2019;10:258.
+Warmerdam HAG, Termeulen-­Ferreira EA, Tseng LA, et al. A scoping review 
+of inborn errors of metabolism causing progressive intellectual and neuro­
+logic deterioration (PIND). Front Neurol. 2020;10:1369.
+Zhang D, Bedogni F, Boterberg S, et al. Towards a consensus on developmental 
+regression. Neurosci Biobehav Rev. 2019;107:3–5.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

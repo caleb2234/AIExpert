@@ -1,0 +1,3014 @@
+Chapter Title One Line
+Chapter Author
+450
+SECTION 6  Developmental and Psychiatric Disorders
+DEFINITIONS
+Intellectual disability (ID) has replaced the older term mental retar­
+dation (MR), reflecting a more enlightened and progressive attitude 
+toward individuals with disabilities, both physical and cognitive. ID is 
+characterized by significant limitations in intellectual functioning and 
+in adaptive behavior that begin before age 18 years and are expressed 
+in conceptual, social, and practical adaptive skills. The impairments of 
+ID extend beyond what is measured on a standardized test of intelli­
+gence and must take into account the context of an individual’s typical 
+environment and their cultural and linguistic backgrounds. Adaptive 
+functioning includes three broad domains: conceptual, social, and 
+practical. The conceptual domain involves academic competence, the 
+acquisition of practical knowledge, and judgment in novel situations. 
+The social domain involves awareness of others’ thoughts and feel­
+ings, empathy, friendships, and social judgment. The practical domain 
+involves the ability to manage one’s own affairs, including school and 
+work responsibilities, money management, and recreation (Table 27.1). 
+Although ID is a lifelong condition, it is recognized that “with appro­
+priate personalized supports over a sustained period, the life function­
+ing of the person with intellectual disability generally will improve.” In 
+a long-­term study comparing ID and non-­ID siblings, those with mild 
+ID (intelligence quotient [IQ] between 64 and 75) were just as likely to 
+find stable employment, to have similar total family incomes, to have 
+stable marriages, and to raise children as their siblings. However, they 
+reported higher rates of psychologic distress and lower rates of par­
+ticipation in formal organizations. Table 27.2 provides descriptions of 
+typical adult functioning in individuals with varying degrees of ID.
+The term developmental disability includes a diverse group of life­
+long physical and mental impairments that negatively affect an individ­
+ual’s ability to function as well as their peers. These conditions begin 
+during childhood (before 22 years of age) and interfere with mobility, 
+acquisition of self-­care ability, communication skills, social skills, gen­
+eral learning ability, and independent living. The specific types of con­
+ditions and categories of disabilities vary widely. The National Institute 
+for Child Health and Development (NICHD) includes the following 
+conditions: neurologic disorders: cerebral palsy, muscular dystrophy, 
+epilepsy, genetic syndromes, autism, and degenerative disorders; sensory 
+disorders: blindness and deafness; metabolic disorders: phenylketonuria 
+(PKU); and cognitive disorders: intellectual impairment, learning dis­
+abilities, and attention-­deficit/hyperactivity disorder (ADHD). Develop­
+mental disabilities may be isolated, as in a child with impaired vision, or 
+may be multiple, as in a child with delays in motor, cognitive, language, 
+and social functioning. There may be considerable overlap in specific dis­
+orders in terms of the affected functions (Fig. 27.1). In young children, 
+developmental delays may result from a wide range of causes, including 
+early environmental understimulation, chronic physical illness, neuro­
+muscular disorders, central nervous system (CNS) abnormalities, and 
+genetic syndromes (Tables 27.3 and 27.4). Some etiologies are fully or 
+partly amenable to early educational and medical interventions, while 
+others may lead to permanent intellectual impairment or progressive 
+deterioration of functioning. Therefore, until a young child has had the 
+benefit of early intervention services and has matured to the point where 
+formal cognitive, language, and adaptive measures are stable and predic­
+tive of future functioning, the descriptive term global developmental 
+delay (GDD) is preferred.
+EPIDEMIOLOGY
+Intellectual Disability
+The overall prevalence of ID varies from 1% to 3%, depending on the cri­
+teria used and the age of the individual at the time of evaluation. Stan­
+dardized tests of intelligence have a mean of 100 and standard deviation of 
+15 points. Statistically, 2.5% of individuals should have an IQ score below 
+2 standard deviations (70 points) and fit the cognitive criterion for ID. 
+However, because the standard error of measurement is approximately 5 
+points, extending the IQ score upward to 75 points would almost dou­
+ble the prevalence of ID. This might be countered by secondary criteria 
+involving deficits in adaptive behaviors, since many children with IQ 
+scores in the mildly low range (55–70) will not qualify for a diagnosis of ID 
+because they have adequate adaptive functioning. Many studies have doc­
+umented a higher rate of mild ID in economically disadvantaged children 
+that stems from a few highly significant sociodemographic risk factors.
+Developmental Disability
+Developmental disabilities affect approximately one in six children in 
+the United States (16.9%). The prevalence rates vary by specific con­
+dition: ADHD (9.54%), learning disability (7.86%), autism (2.49%), 
+and ID (1.17%) are the most common, while epilepsy, deafness, cere­
+bral palsy, and blindness each affect <1%. Males have more than twice 
+the prevalence of any developmental disability, and children insured 
+by Medicaid have a prevalence of disability that is approximately 1½ 
+times greater than those with private insurance. The overall prevalence 
+of disability increased by 9.5% between 2009–2011 and 2015–2017, 
+Intellectual Developmental Disorders 
+(Developmental Delay)
+Mark Simms
+27
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+451
+CHAPTER 27  Intellectual Developmental Disorders (Developmental Delay)
+mostly due to a 122.3% increase in autism (from 1.12% to 2.49%). In 
+addition, the prevalence of ID increased 25.8% (from 0.93% to 1.17%).
+Table 27.3 lists the prevalences of selected conditions.
+DIAGNOSIS
+Identification of a specific cause for delayed development in a child is 
+important and may provide insight into prognosis, recurrence risk, ther­
+apies, counseling, and linkage with a supportive group. Identification of 
+the child’s functional abilities, strengths and weaknesses, overall physical 
+health, and environmental factors is critical for optimizing the child’s 
+health, development, and functioning. In addition, the origin of develop­
+mental disability is not apparent in many children, or there may be mul­
+tiple possible causal factors or multiple disabilities present. For example, 
+23% of children with developmental disabilities have two disabilities, 
+and 6% have three or more. Even if a specific diagnosis cannot be made, 
+early identification of developmental delay can lead to a program of early 
+intervention or remediation that may improve the child’s ultimate func­
+tioning. To identify those disorders that are amenable to intervention, 
+an international consortium has developed both a web-­based tool and 
+a mobile application (app) to assist practitioners in the evaluation and 
+management of children with ID (http://www.treatable-­id.org/).
+IDENTIFICATION
+Children who experience significant complications in the perinatal period 
+or who are born with obvious congenital anomalies are at risk for develop­
+mental disabilities. In addition, newborn screening programs may identify 
+children with rare but significant problems who require early treatments 
+and interventions. Children with no apparent risk factors or obvious phys­
+ical or neurologic symptoms may be identified through a process of sur­
+veillance and screening during routine child health care visits.
+Developmental Risk Factors
+Young children’s development may be adversely affected by biologic 
+and/or sociocultural risk factors (Table 27.5). Many risk factors can 
+be graded according to severity (e.g., degree of prematurity, intracra­
+nial hemorrhage, intrauterine growth restriction), but it is often the 
+cumulative effect of multiple factors that ultimately determines a child’s 
+developmental outcome, even when one or more “severe” risks are pres­
+ent. It has been shown that low 5-­minute Apgar scores, in the absence 
+of other symptoms of neonatal encephalopathy, may correlate poorly 
+with long-­term neurologic dysfunction. Sociocultural risks also can 
+have profound effects on development and may interact with biologic 
+TABLE 27.1  Diagnosis of Intellectual 
+Disability
+Diagnostic Criteria
+All Three Criteria Must Be Met
+	A. Deficits in intellectual function, such as reasoning, problem solving, 
+planning, abstract thinking, judgment, academic learning, and learning 
+from experience, confirmed by both clinical assessment and individualized 
+standardized testing.
+	B. Deficits in adaptive functioning that result in failure to meet devel­
+opmental and sociocultural standards for personal independence and 
+social responsibility. Without ongoing support, the adaptive deficits limit 
+functioning in one or more activities of daily life, such as communication, 
+social participation, and independent living, across multiple environments, 
+such as home, school, work, and community.
+	C. Onset of intellectual and adaptive deficits during the developmental 
+period.
+Assumptions
+	1.	Assessments performed on the child are sensitive to differences in culture, 
+language, communication, and behavior.
+	2.	The demands and constraints of the child’s environment (home, neighbor­
+hood, school) must be considered.
+	3.	Even children with limitations have strengths that should be considered.
+Data from American Psychiatric Association. Diagnostic and Statistical 
+Manual of Mental Disorders (DSM-­V). 5th ed. Arlington, VA: American 
+Psychiatric Association; 2013.
+TABLE 27.2  Severity of Intellectual Disability and Adult Age Functioning
+Level
+Mental Age as an Adult*
+Adult Adaptation
+Mild
+9–11 yr
+Reads at fourth-­ to fifth-­grade level; simple multiplication/division; writes simple letters, lists; completes job 
+applications; basic independent job skills (arrive on time, stay at task, interact with coworkers); uses public 
+transportation, may qualify for driver’s license; keeps house, cooks using recipes
+Moderate
+6–8 yr
+Sight-­word reading; copies information, e.g., address from card to job application; matches written number to 
+number of items; recognizes time on clock; communicates; some independence in self-­care; housekeeping 
+with supervision or cue cards; meal preparation, can follow picture recipe cards; job skills learned with much 
+repetition; uses public transportation with some supervision
+Severe
+3–5 yr
+Needs continuous support and supervision; may communicate wants and needs, sometimes with augmentative 
+communication techniques
+Profound
+<3 yr
+Limitations of self-­care, continence, communication, and mobility; may need complete custodial or nursing care
+*International Statistical Classification of Diseases and Related Health Problems. 10th revision. World Health Organization; 2010.
+From Schum RL. Grand Rounds Presentation at Children’s Hospital of Wisconsin; 2003.
+Language disorder
+Intellectual disability
+Autism
+Fig. 27.1  Relationship of autism, language disorders, and intellectual 
+disability. (Modified from Simms MD, Schum RL. Preschool children 
+who have atypical patterns of development. Pediatr Rev. 2000;21:147–
+158.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+452
+SECTION 6  Developmental and Psychiatric Disorders
+risk factors to create a greater effect than any single factor alone (so-­
+called “double jeopardy”).
+Developmental Protective Factors
+During the process of developmental surveillance, the clinician should 
+identify and acknowledge the influence of protective and supportive 
+factors that may contribute to positive outcomes. Barring catastrophic 
+circumstances, child-­rearing conditions that support and enrich early 
+development may compensate for biologic deficits. Sociocultural fac­
+tors, such as small family size, higher level of parental education, and 
+fewer changes in residence, have a more powerful positive effect than 
+many biologic risks and seem to be important predictors of develop­
+mental functioning beyond infancy. The brains of infants and young 
+children are remarkably resilient and normal cognitive and language 
+outcomes are often seen, even in the face of perinatal stroke or sim­
+ilar focal brain injuries. Neural plasticity also extends to situations of 
+extreme environmental deprivation, providing interventions occur 
+early enough. In addition, preschool early intervention programs that 
+are designed to mitigate the factors that place children at risk for poor 
+outcomes have been shown to have significant short-­ and long-­term 
+educational, behavioral, and economic benefits.
+SCREENING FOR SPECIFIC ABNORMALITIES
+Deficits in vision, hearing, and language can have devastating effects 
+on development; early intervention to ameliorate these problems can 
+improve outcomes. All children should be screened on a regular basis for 
+these conditions.
+Visual Deficits
+Children at high risk for development of deficits in vision (see Chapter 
+43) include those with strabismus (especially after 4 months of age), 
+hydrocephalus, congenital infection, neonatal encephalopathy, con­
+genital anomaly of the CNS, prematurity with exposure to oxygen, and 
+TABLE 27.3  Prevalence of Select Conditions Associated with Developmental Delay
+Condition
+Prevalence/100,000
+Comments
+Cerebral palsy
+250–270
+Represents many causes
+Significant hearing loss
+150
+In neonatal period
+Down syndrome
+98–125
+Prevalence at birth
+Fragile X syndrome
+117
+Predominantly in boys
+Meningomyelocele
+60–100
+Prevalence at birth
+Klinefelter syndrome
+100
+15% have intelligence quotient (IQ) <80
+Fetal alcohol syndrome
+60–800
+Present at birth
+Congenital HIV infection
+5–50
+Preventable with maternal and neonatal therapy
+Blindness
+41–88
+Syndromic, genetic, prematurity risks
+Infantile hydrocephalus
+64
+Prevalence at birth
+Neurofibromatosis
+33
+5% have intellectual disability
+Trisomy 18
+30
+Prevalence at birth
+Trisomy 13
+20
+Prevalence at birth
+Turner syndrome
+20
+IQ may be normal
+Prader-­Willi syndrome
+13–20
+In childhood
+Galactosemia
+14
+In infancy
+Phenylketonuria
+6–12
+In infancy
+Anophthalmia
+6
+Consider other anomalies
+Rett syndrome
+4–5
+In females 2–18 yr of age
+Histidinemia
+3
+At birth
+Acrocephalosyndactylia (Apert syndrome)
+1–2
+Present at birth
+TABLE 27.4  Identification of Cause in 
+Children with Significant Intellectual 
+Disability
+Cause
+Examples
+% of 
+Total
+Chromosomal 
+disorder
+Trisomies 21, 18, 13
+Deletions 1p36, 4p, 5p, 11p, 12q, 17p
+Microdeletions
+Klinefelter, 47,XXX, and Turner syndromes
+∼20
+Genetic syndrome
+Fragile X, Prader-­Willi, Angelman, and Rett 
+syndromes
+∼20
+Nonsyndromic auto­
+somal mutations
+Variations in copy number; de novo mutations 
+in SYNGAP1, GRIK2, TUSC3, oligosaccharyl 
+transferase, and others
+∼10
+Developmental brain 
+abnormality
+Hydrocephalus ± meningomyelocele; 
+schizencephaly, lissencephaly
+∼8
+Inborn errors of 
+metabolism or 
+neurodegenerative 
+disorder
+Phenylketonuria, Tay-­Sachs disease, 
+various storage diseases
+∼7
+Congenital infections HIV, toxoplasmosis, rubella, cytomegalovirus, 
+syphilis, herpes simplex, Zika virus
+∼3
+Familial intellectual 
+disability
+Environment, syndromic, or genetic
+∼5
+Perinatal causes
+Hypoxic-­ischemic encephalopathy, meningitis, 
+intraventricular hemorrhage, periventricular 
+leukomalacia, fetal alcohol syndrome
+4
+Postnatal causes
+Trauma (abuse), meningitis, hypothyroidism
+∼4
+Unknown
+20
+From Kliegman RM, St. Geme J. Nelson Textbook of Pediatrics. 21st 
+ed. Vol 1. Philadelphia: Elsevier; 2020:284, Table 53.1.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+453
+CHAPTER 27  Intellectual Developmental Disorders (Developmental Delay)
+family history of a childhood onset of visual impairment. All neonates 
+should routinely undergo an evaluation of their fundi for the presence 
+of a red reflex, which can be obscured by cataract or tumor, as well 
+as inspection of the globe, which may be enlarged by congenital glau­
+coma. Infants with nystagmus who do not follow (tract) visually by 
+3 months of age, who have dissociation between visual behavior and 
+motor behavior, or whose parents express concern about their vision 
+should undergo a formal ophthalmologic evaluation.
+Preschool children should undergo periodic evaluations of extraoc­
+ular movements to rule out strabismus and amblyopia; the evaluation 
+should include visual inspection of the child’s eyes, the Hirschberg light 
+test, and the cover-­uncover test. As early in the child’s development as 
+possible, specific tests of monocular and binocular vision such as Allen 
+cards (3–5 years), the Snellen chart (>5 years), or the Titmus test (>4 
+years) should be performed.
+Loss of Hearing
+Early detection of hearing loss is critical for optimizing the language 
+development of these children. Universal newborn hearing screening 
+programs (UNHSPs) can detect infants born with moderate, severe, 
+or profound bilateral hearing impairment. Although the prevalence 
+of congenital deafness is low in the general population (1–3/1,000 
+infants), it is higher in infants who require neonatal intensive care 
+services (2–4/100 infants). More than half of babies with permanent 
+congenital hearing impairment do not have prospectively identifi­
+able risk factors and would be missed without UNHSPs. They would 
+not receive hearing intervention within the first 6 months of life, a 
+period that is critical for speech, language, and later learning devel­
+opment. Hearing loss can be acquired during infancy or childhood 
+from infection (cytomegalovirus [CMV], meningitis), trauma (par­
+ticularly basal skull and temporal bone fractures), ototoxic drugs 
+(aminoglycosides, furosemide), or damaging noise levels. A number 
+of genetic syndromes are associated with deafness (Waardenburg, 
+Alport, Pendred, and Jervell and Lange-­Nielsen), and progressive 
+or late-­onset hearing loss can occur in neurofibromatosis, Usher 
+syndromes, Hunter syndrome, Friedreich ataxia, or Charcot-­Marie-­
+Tooth syndrome (Table 27.6). Children with one or more “risk fac­
+tors” should have hearing screening again at 24–30 months, even if 
+they passed the newborn screening test. In addition, parental con­
+cern about hearing loss has a sensitivity of approximately 44%. If 
+parents express concern about their child’s ability to hear and if the 
+child has had recurrent episodes of otitis media, mastoiditis, or one 
+of the perinatal or familial risk factors, a formal audiometric screen­
+ing should be performed. Table 27.7 lists the latest acceptable age 
+(“limit ages”) for the appearance of skills related to hearing; absence 
+of these milestones may indicate a disorder of hearing. Deaf infants 
+may smile, coo, and babble; however, their vocalizations usually cease 
+after 8 months of age.
+Speech and Language Disorders
+Disorders of speech and language development, prevalent in 3–20% 
+of preschool children, are the most common reason for referral to 
+early intervention programs and are correlated with subsequent 
+learning problems. Speech refers to the mechanics of oral commu­
+nication (sound production); language includes the understanding, 
+TABLE 27.6  Risk Indicators Associated with 
+Permanent Congenital, Delayed-­Onset, and/or 
+Progressive Hearing Loss in Children
+	 1.	Caregiver concern* regarding hearing, speech, language, or developmen­
+tal delay
+	 2.	Family history* of permanent childhood hearing loss
+	 3.	Neonatal intensive care stay of >5 days or any of the following, regard­
+less of length of stay: ECMO,* assisted ventilation, exposure to ototoxic 
+medications (gentamicin and tobramycin) or loop diuretics (furosemide/
+Lasix), and hyperbilirubinemia that requires exchange transfusion
+	 4.	In utero infections such as CMV,* herpes, rubella, syphilis, Zika virus, 
+and toxoplasmosis
+	 5.	Craniofacial anomalies, including those that involve the pinna, ear canal, 
+ear tags, ear pits, and temporal bone anomalies
+	 6.	Physical findings, such as a white forelock, that are associated with 
+a syndrome known to include sensorineural or permanent conductive 
+hearing loss
+	 7.	Syndromes associated with hearing loss or progressive or late-­onset 
+hearing loss,* such as neurofibromatosis, osteopetrosis, and Usher 
+syndromes; other frequently identified syndromes include Waardenburg, 
+Alport, Pendred, and Jervell and Lange-­Nielsen
+	 8.	Neurodegenerative disorders* such as Hunter syndrome or sensory 
+motor neuropathies such as Friedreich ataxia and Charcot-­Marie-­Tooth 
+syndrome
+	 9.	Culture-­positive postnatal infections associated with sensorineural 
+hearing loss,* including confirmed bacterial and viral (especially herpes 
+viruses and varicella) meningitis
+	10. Head trauma, especially basal skull/temporal bone fracture* that 
+requires hospitalization
+	11. Chemotherapy*
+	12. Recurrent or persistent otitis media for at least 3 mo
+CMV, cytomegalovirus; ECMO, extracorporeal membrane oxygenation.
+*Risk indicators that are of greater concern for delayed-­onset hearing 
+loss.
+From American Academy of Pediatrics, Joint Committee on Infant 
+Hearing. Pediatrics. 2007;120(4):898–921.
+TABLE 27.5  Risk Factors for 
+Developmental Disabilities
+Biologic
+Sociocultural
+Male
+Maternal age above 30 yr old
+Multiple pregnancies
+High birth order
+Preterm birth
+Low birthweight (<750 g)
+Intrauterine growth restriction
+Small head circumference
+Brain malformations
+Holoprosencephaly
+Schizencephaly
+Lissencephaly
+Neonatal complications
+Neonatal encephalopathy
+Intracranial hemorrhage
+Symptomatic hypoglycemia
+Severe hyperbilirubinemia
+Congenital infections
+Acquired central nervous system 
+infections
+Iron and iodine deficiencies
+Brain injury
+Malnutrition
+Low parental education
+Maternal depression
+Maternal substance abuse
+Low socioeconomic status
+Lack of prenatal care
+Inadequate environmental stimulation
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+454
+SECTION 6  Developmental and Psychiatric Disorders
+processing, and production of communication (words). Speech 
+problems may include articulation (pronunciation) deficits (pho­
+nologic or apraxic speech disorders), fluency disorders (stutter­
+ing), or unusual voice quality. Language delays may be confined 
+to expression with normal receptive abilities or may involve both 
+expressive and receptive abilities. Language delays may be a feature 
+of GDD/ID, autism spectrum disorders (ASDs), or hearing impair­
+ment, or may be the result of an isolated disorder (specific language 
+impairment).
+Children with speech and language delays often experience emo­
+tional and social adjustment difficulties related to their inability to 
+communicate effectively with parents and peers. In general, children 
+with normal comprehension of language and normal nonverbal cog­
+nitive abilities have an excellent prognosis, while those with receptive 
+delays are at risk for language-­based learning disabilities (reading com­
+prehension and writing disorders) (Table 27.8).
+Prenatal and Newborn Screening Programs
+Prenatal Screening
+Prenatal screening has undergone significant changes with the advent 
+of next-­generation sequencing (NGS) technologies. The traditional 
+screening takes the form of biochemical and ultrasound tests, which 
+may detect fetuses at high risk for chromosome anomalies and neu­
+ral tube defects. In the first trimester (11–14 weeks’ gestation), mea­
+surement of maternal serum levels of human chorionic gonadotropin 
+(hCG) and pregnancy-­associated plasma protein A (PAPP-­A) and a 
+sonogram measurement of the fluid underneath the skin along the 
+back of the fetus’s neck (nuchal translucency) may identify Down 
+syndrome, trisomy 13, or trisomy 18. In the second trimester (15–22 
+weeks’ gestation), a quad screen (α-­fetoprotein, hCG, estriol, and 
+inhibin A levels) may identify Down syndrome and neural tube 
+defects (spina bifida, encephalocele). An abnormal result on these 
+screenings is typically followed by high-­resolution ultrasonography, 
+chorionic villus sampling or amniocentesis, genetic testing (chromo­
+some analysis or microarray), and genetic counseling. NGS technol­
+ogies allow for noninvasive prenatal screening (NIPS) on maternal 
+blood samples, also called cell-­free fetal DNA prenatal screening. 
+These technologies identify possible chromosomal and microdele­
+tion disorders through maternal blood screening. If an abnormality 
+is detected, a confirmatory test is still required through more invasive 
+techniques such as amniocentesis. In addition, prenatal genetic car­
+rier screening can be performed for a large number of disorders; at 
+present, these are the only standard of care for individuals at high risk 
+for certain genetic conditions (e.g., Tay-­Sachs).
+Newborn Screening
+Uniform newborn screening is highly successful in identifying chil­
+dren with rare but serious conditions who can benefit from early 
+intervention. All 50 states, U.S. territories, and the U.S. military 
+routinely test for inborn errors of metabolism (IEMs), congeni­
+tal hypothyroidism, congenital adrenal hyperplasia, severe T-­cell 
+immunodeficiency (SCID), cystic fibrosis, and hemoglobinopa­
+thies. Test samples should be collected between 24 and 48 hours of 
+age, but results may be influenced by a variety of maternal and infant 
+factors. Tests for congenital adrenal hyperplasia are sensitive to the 
+weight of the infant and the use of steroids. Screening for hypothy­
+roidism (thyroid-­stimulating hormone [TSH]) may be falsely low 
+in premature or low birthweight infants. The use of antibiotics and 
+total parenteral nutrition (TPN) may interfere with interpretation 
+of newborn metabolic screening tests. While all states screen for 
+a “core panel” of 29 conditions, they vary in testing for other con­
+ditions. An additional 26 conditions have been recommended for 
+inclusion in the U.S. Health and Human Services Recommended 
+Uniform Screening Panel. Normal newborn screening test results 
+do not eliminate the possibility that a clinically symptomatic child 
+could have one of the disorders in the state’s panel.
+IDENTIFICATION OF CHILDREN WITH 
+DEVELOPMENTAL DISABILITIES IN PRIMARY 
+HEALTH CARE SETTINGS
+Not all developmentally disabling conditions can be identified at or 
+shortly after birth through newborn screening programs. Many disor­
+ders may not manifest until children are preschool or school age, and 
+some infrequent disorders cause regression or deterioration of func­
+tion beginning at different ages (Table 27.9). Therefore, identification 
+of children with developmental disabilities is a continuous process that 
+should take place throughout childhood.
+TABLE 27.7  Latest Acceptable Age for Skills 
+Related to Hearing*
+Age (mo)†
+Activity
+3
+Not startling to loud sounds
+6
+Not smiling to voice; not vocalizing
+9
+Does not localize speech or other sounds
+12
+Not babbling multiple sounds and syllables
+18
+No words
+24
+<50% of speech understandable
+*A child who does not demonstrate the activity by the stated age should 
+have formal audiometry performed.
+†Corrected for gestational age.
+Modified from the Arizona Speech, Language, Hearing Association.
+TABLE 27.8  Speech-­Language Screening 
+for Pediatricians
+Refer for a Speech-­Language Evaluation If:
+At Age
+Receptive
+Expressive
+15 mo
+Does not look/point at 5–10 
+objects/people named by a 
+parent
+Not using three words
+18 mo
+Does not follow simple directions 
+(“Get your shoes”)
+Not using Mama, Dada, or 
+other names
+24 mo
+Does not point to pictures or body 
+parts when they are named
+Not using 25 words
+30 mo
+Does not verbally respond or nod/
+shake head to questions
+Not using unique two-­word 
+phrases, including noun-­
+verb combinations
+36 mo
+Does not understand prepositions 
+or action words; does not follow 
+two-­step directions
+Vocabulary <200 words; 
+does not ask for things 
+by name; echolalia to 
+questions; regression of 
+language after acquiring 
+two-­word phrases
+From Schum RL. Language screening in the pediatric office setting. 
+Pediatr Clin North Am. 2007;54:425–436.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+455
+CHAPTER 27  Intellectual Developmental Disorders (Developmental Delay)
+Parents, caretakers, or teachers who have concerns about the child’s 
+behavior or failure to meet age-­appropriate developmental expecta­
+tions often identify children with developmental disabilities. Multiple 
+studies have found parental concern to identify correctly 74–80% of 
+preschool-­age children (0–6 years old) with cognitive delays, speech 
+and language delays, and learning disabilities. Conversely, the absence 
+of parental concern correctly identified 70–80% of children without 
+a significant disability. Thus, reliance on parental concern alone as a 
+means of identification matches acceptable standards for more formal 
+developmental screening tests. However, sole reliance on parental con­
+cerns will miss a substantial number of children with developmental 
+concerns, especially those with more subtle disabilities, for a variety of 
+reasons. Parents may be unaware of their child’s delays, they may lack 
+the confidence to raise their concerns to the health care provider, or 
+the provider may dismiss these concerns and not pursue further inves­
+tigation. Children without obvious physical impairments may not be 
+identified until they enter a formal school program. Complicating mat­
+ters further, children with developmental disabilities may experience 
+significant behavioral or emotional difficulties that “mask” (or distract 
+from) their underlying developmental difficulties.
+Developmental Screening
+Developmental screening involves the routine application of a brief 
+standardized tool when there is no obvious concern. Physicians often 
+rely on their own clinical judgment, which detects fewer than 30% of 
+children with significant developmental disabilities, or on informal and 
+nonstandardized lists of developmental milestones. A more practical 
+and widely accepted alternative is the use of parent-­completed devel­
+opmental questionnaires, such as the Ages and Stages Questionnaire 
+(ASQ) or the Parents’ Evaluations of Developmental Status (PEDS) that 
+can be scored by nonphysician staff and interpreted by the health care 
+provider.
+Developmental Surveillance
+Developmental surveillance is a “flexible, continuous process whereby 
+knowledgeable professionals perform skilled observations of children 
+throughout all encounters during child health care.” The goal of devel­
+opmental surveillance is to identify children who may benefit from 
+further diagnostic evaluations and early intervention services. To be 
+effective, surveillance requires clinicians to be knowledgeable about 
+child development and to recognize both variations of and deviations 
+from normal patterns. Identification of children in need of further 
+evaluation is believed to be improved by incorporating into the pro­
+cess developmental risk factors based on the child’s medical history 
+and family history, as well as social and environmental circumstances. 
+Additionally, clinicians are encouraged to include the observations and 
+impressions of preschool teachers, public health nurses, and other pro­
+fessionals involved in the child’s care.
+A combination of both developmental surveillance at every well-­
+child visit and standardized developmental screening at the 9-­, 18-­, and 
+30-­month visits is recommended (Fig. 27.2). At any point in this pro­
+cess, children who elicit concern about their development should be 
+referred for further diagnostic evaluations and for early intervention 
+and educational programs.
+COMPREHENSIVE DEVELOPMENTAL ASSESSMENT
+Children identified with developmental delays should receive a com­
+prehensive, multidisciplinary evaluation including assessments of neu­
+rodevelopmental, cognitive, and communication functioning. These 
+assessments should focus both on the child’s strengths and functional abil­
+ities and on weaknesses and disabilities. Based on the findings from these 
+evaluations, further subspecialty consultations (e.g., neurology, genetics, 
+physical medicine and rehabilitation, ophthalmology, occupational and 
+physical therapy, speech therapy) can be arranged, and a plan for spe­
+cific laboratory investigations developed. The goals of the evaluations are 
+to identify a specific etiologic diagnosis, prognosis, recurrence risk, and 
+interventions to promote the child’s optimal development. Parents may 
+also benefit from associating with a disease-­specific support group.
+Neurodevelopmental Pediatric Assessment
+History
+Pediatric evaluation of a child with GDD or ID consists of a complete 
+history and physical examination. Schedule the evaluation as a separate 
+visit with sufficient uninterrupted time (at least 45–60 minutes) to focus 
+on issues related to the child’s behavior and development. Unless the 
+child’s and family’s histories are well known to the provider, parents can 
+be asked to complete detailed history questionnaires and developmental 
+and behavioral rating scales, and to provide any additional information 
+from outside sources (e.g., prior medical records, consultation reports, 
+educational evaluations) prior to this visit that will contribute to assem­
+bling a complete record of the child’s care. Previsit preparation may help 
+parents to refresh their memory regarding their child’s development and 
+to focus their questions and concerns during the evaluation.
+Many disabilities have their origin in the prenatal period, so the 
+pregnancy and birth history are reviewed carefully for possible develop­
+mental risk factors (Table 27.10). Difficulty in conception or history of 
+recurrent pregnancy loss may suggest the presence of an inherited chro­
+mosome anomaly. Maternal illnesses (toxoplasmosis, other [syphilis, 
+varicella-­zoster, Zika virus, parvovirus B19], rubella, CMV, and herpes 
+[TORCH] infections; HIV infection) preceding or continuing through 
+pregnancy or exposure to potentially harmful or teratogenic substances 
+(tobacco, alcohol, illicit drugs, radiation exposure, or medications) 
+should be noted. Other pregnancy complications such as intrauterine 
+growth restriction (which may reflect chronic placental insufficiency, 
+uterine anatomic abnormality, or fetal genetic anomaly); bleeding (espe­
+cially in the third trimester), which can be caused by placenta previa, 
+placental abruption, or hemolysis, elevated liver enzymes, and low plate­
+lets (HELLP) syndrome; hypertension (especially leading to eclampsia); 
+complications of maternal diabetes; or limited prenatal care may be asso­
+ciated with poor fetal outcomes. In the perinatal period, signs of fetal 
+distress during labor (heart rate and movement abnormalities associated 
+TABLE 27.9  Common Presentations of 
+Intellectual Disability by Age
+Age
+Area of Concern
+Newborn
+Dysmorphic syndromes (multiple congenital 
+anomalies), microcephaly
+Major organ system dysfunction (e.g., feeding, 
+breathing)
+Early infancy (2–4 mo)
+Failure to interact with the environment
+Concerns about vision and hearing impairments
+Later infancy (6–18 mo)
+Gross motor delay
+Toddlers (2–3 yr)
+Language delays or difficulties
+Preschool (3–5 yr)
+Language difficulties or delays
+Behavior difficulties, including play
+Delays in fine motor skills: cutting, coloring, 
+drawing
+School age (>5 yr)
+Academic underachievement
+Behavior difficulties (e.g., attention, anxiety, mood, 
+conduct)
+From Kliegman RM, St. Geme J. Nelson Textbook of Pediatrics. 21st 
+ed. Vol 1. Philadelphia: Elsevier; 2020:287, Table 53.4.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+456
+SECTION 6  Developmental and Psychiatric Disorders
+with uterine contractions), low Apgar scores, neonatal seizures, or the 
+need for extensive neonatal resuscitation may be the result of acute fetal 
+CNS injury or pre-­existing congenital abnormalities that first manifest 
+at the time of birth. The method of delivery and the reason(s) for non­
+vaginal delivery may reflect on fetal status at the time of birth. Neona­
+tal physical measurements (weight, length, and head circumference) 
+when compared with gestational age are helpful in determining whether 
+the child experienced intrauterine growth restriction. Severe medical 
+complications in the neonatal period such as the presence of neonatal 
+encephalopathy syndrome including seizures and multiorgan com­
+promise, intraventricular hemorrhage, neonatal infections, prolonged 
+requirement for mechanical ventilation, need for extracorporeal mem­
+brane oxygenation (ECMO), the presence of complex cardiac anomalies, 
+and necrotizing enterocolitis may be associated with increased risk of 
+developmental disabilities (Table 27.11). Conversely, an infant who did 
+not require care in a neonatal intensive care unit (NICU) or prolonged 
+stay in the hospital following birth likely experienced no significant 
+perinatal developmental risk factors. When available, reviewing medi­
+cal records from the neonatal period may be helpful in clarifying what 
+transpired at the time of the infant’s birth.
+The social and economic circumstances of the family may reveal fac­
+tors that place the infant at risk for developmental disabilities. The cli­
+nician should ask about the highest educational levels achieved by both 
+parents, marital status or stability of the parents’ relationship, parental 
+mental health concerns, history of “high-­risk behaviors” (illicit drug 
+use), housing status, and presence of a parental support system (close 
+friends and extended family members) to help with care of the infant.
+The first weeks and months of life are a “transition period” for both 
+the infant and the family. Children with developmental disabilities may 
+begin to manifest symptoms in this period with difficulties nursing, exces­
+sive colic, poor weight gain, onset of seizures, or delayed achievement of 
+motor milestones. Review of prior growth records may help differentiate 
+Pediatric patient at
+preventive care visit
+Perform
+surveillance
+Administer
+screening tool
+Administer
+screening tool
+Is this a 9-, 18-,
+or 24-30-mo
+visit?
+Schedule early
+return visit
+Developmental
+and medical
+evaluations
+Related evaluation and follow-up visits
+Stop
+Decision
+Action/process
+Start
+Make referrals for:
+Developmental and
+medical evaluations
+and
+early developmental
+intervention/early
+childhood services
+Are the screening
+tool results positive/
+concerning?
+Is a
+developmental
+disorder
+identified?
+Visit
+complete
+Identify as a child with
+special health care
+needs
+Initiate chronic condition
+management
+Schedule next
+routine visit
+Visit
+complete
+Visit
+complete
+3
+2
+1
+4
+5a
+5b
+6b
+6a
+Yes
+Are the screening
+tool results positive/
+concerning?
+Yes
+No
+No
+No
+8
+7
+9
+10
+No
+Increasing Developmental Concern
+Yes
+Yes
+Yes
+Does surveillance
+demonstrate
+risk?
+Visit
+complete
+Schedule early
+return visit
+Fig. 27.2  Developmental surveillance and screening algorithm within a pediatric preventive care visit. Num­
+bers refer to steps in the algorithm. (From Council on Children with Disabilities, et al. Identifying infants and 
+young children with developmental disorders in the medical home: an algorithm for developmental surveil­
+lance and screening. Pediatrics. 2006;118:407.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+457
+CHAPTER 27  Intellectual Developmental Disorders (Developmental Delay)
+TABLE 27.10  Information to Obtain About a Child with Suspected Developmental Disabilities
+Item
+Possible Significance
+Parental Concerns
+Parents are quite accurate in identifying developmental problems
+Current Levels of Developmental Functioning
+Used to monitor child’s progress
+Temperament
+May interact with disability or be confused with developmental delay
+Prenatal History
+Alcohol ingestion
+Fetal alcohol syndrome; an index of caretaking risk
+Illegal drug, toxin, medication exposure
+Developmental toxin (e.g., phenytoin); may be an index of caretaking risk
+Radiation exposure
+Damage to the CNS
+Nutrition
+Inadequate fetal nutrition
+Prenatal care
+Index of the social situation
+Injuries, hyperthermia
+Damage to the CNS
+Smoking
+Possible CNS damage
+Maternal PKU
+Maternal PKU effect
+Maternal infections
+Toxoplasmosis, rubella, CMV, HIV, herpesvirus infections, Zika virus
+Perinatal History
+Gestational age, birthweight
+Biologic risk from prematurity and small for gestational age
+Labor and delivery
+Hypoxia or index of abnormal prenatal development
+Apgar scores
+Hypoxia, cardiovascular impairment
+Specific perinatal adverse events; see Table 27.11
+Increased risk for CNS damage
+Neonatal History
+Illness: seizures, respiratory distress, hyperbilirubinemia, metabolic disorder; 
+see also Table 27.11
+Increased risk for CNS damage
+Malformations
+May represent syndrome associated with developmental delay
+Family History
+Consanguinity
+Autosomal recessive condition more likely
+Mental functioning
+Increased hereditary and environmental risks
+Illnesses (e.g., metabolic disease)
+Hereditary illness associated with developmental delay
+Family member died young or unexpectedly
+May suggest inborn errors of metabolism or storage disease
+Family member requires special education
+Hereditary causes of developmental delay
+Social History
+Resources available (e.g., financial, social support)
+Necessary to maximize child’s potential
+Educational levels of parents
+Family may need help to provide stimulation
+Mental health problems
+May exacerbate child’s conditions
+High-­risk behaviors (illicit drug use, sexual promiscuity)
+Increased risk for congenital infection; index of caretaking risk
+Other stressors (e.g., marital discord)
+May exacerbate child’s conditions or compromise care
+Other History
+Sex of the child
+Important for X-­linked conditions
+Developmental milestones
+Index of developmental delay, regression may indicate a progressive condition
+Head injury
+Even moderate trauma may be associated with developmental delay or learning 
+disabilities
+Serious infections (e.g., meningitis)
+May be associated with developmental delay
+Toxic exposure (e.g., lead)
+May be associated with developmental delay
+Physical growth
+May indicate malnutrition; obesity, growth failure caused by genetic disorder
+Recurrent otitis media
+Associated with hearing loss and abnormal speech development
+Visual and auditory functioning
+Sensitive index of impairments in vision and hearing
+Nutrition
+Malnutrition during infancy may lead to delayed development
+Chronic conditions such as renal or cyanotic cardiac
+May be associated with delayed development
+CMV, cytomegalovirus; CNS, central nervous system; PKU, phenylketonuria.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+458
+SECTION 6  Developmental and Psychiatric Disorders
+between a congenital or acquired disorder. A history of recurrent illness, 
+family/social or environmental stress, trauma (especially to the CNS), or 
+epilepsy may be associated with poor development. True regression, the 
+loss of previously acquired skills, should be distinguished from failure of 
+development (see Chapter 28). Newly emerging skills may fluctuate until 
+they are firmly established. In cases of true regression, multiple areas of 
+functioning are affected and do not re-­emerge over time.
+Ages of achievement of common milestones in motor, language, 
+cognitive, and social development should be reviewed. Parents of 
+infants and toddlers may have more accurate recollections of their 
+child’s milestones than parents of older children. In some cases, parents 
+may recall comparing their child’s milestones to another child’s (sib­
+ling, relative, neighbor) or may only recall their child’s “major” mile­
+stones, such as ages at which the child began walking independently, 
+waving “bye-­bye,” using first words, or talking in sentences.
+A three-­generation family pedigree should be reviewed to identify 
+other individuals with conditions similar to the child’s, developmen­
+tal/learning disabilities, or early deaths. Consanguinity may increase 
+the risk of a recessive disorder. A family’s ethnic ancestry may suggest 
+potential etiology, since a number of conditions occur at increased fre­
+quency among certain ethnic groups (e.g., Tay-­Sachs disease among 
+Ashkenazi Jews).
+Social and environmental factors such as parental physical or men­
+tal illness (including substance abuse), death of a close family mem­
+ber, divorce, domestic abuse, parental incarceration, multiple changes 
+of dwelling, placement in foster care, or having a sibling with a seri­
+ous chronic illness may have significant adverse effects on a child’s 
+development.
+It is important to know whether the child has received any type of 
+educational or therapeutic interventions and the impact those pro­
+grams have had on the child’s behavior and development.
+For young children, a description of their play interests, self-­help skills, 
+and social interactions with parents, peers, and caretakers/teachers may 
+provide valuable information about the child’s level of overall develop­
+ment. A review of common activities of daily living (ADLs), including 
+dressing, eating, toileting, and motor skills, often provides insight about 
+the integrity of the child’s cognitive, communication, and neuromotor 
+development. School experiences, academic readiness skills, educational 
+achievement, and behavior patterns at home and school often reflect 
+the cognitive and language development of school-­age children and 
+adolescents.
+Physical Examination
+The physical examination should begin with observations of the gen­
+eral appearance of the child, including overall state of health, visual 
+and auditory responsiveness to the surroundings, and interactions with 
+parents. When the child is at rest, subtle abnormalities of body pro­
+portions and movement patterns may be observed. Careful attention 
+should also be paid to physical measurements (length/height, weight, 
+and head circumference) with values plotted on standard reference 
+curves. Both poor growth and excessive growth may be associated with 
+metabolic disorders or genetic syndromes. Head circumference mea­
+surements may be abnormal (greater or less than 2 standard deviations 
+from the mean) or disproportionate for body size (head circumference 
+should correlate with length/height of the child). Although large or 
+small head size may be associated with significant pathology, a benign 
+form of familial micro-­ and macrocephaly may be ruled out if one or 
+both parents share the same trait. Dysmorphic features may suggest 
+a recognizable pattern of deformation or malformation (Table 27.12) 
+(see Chapter 29). If the child has an unusual appearance, biologic fam­
+ily members should be examined either directly or from photographs 
+to determine any resemblance. Additionally, examining serial pho­
+tographs of a child at different ages can help to identify “coarsening” 
+of facial features due to a storage disease (mucopolysaccharidosis). 
+Abnormalities of skin pigmentation may suggest the presence of a neu­
+rocutaneous disorder (phakomatosis) associated with developmental 
+disability (neurofibromatosis, tuberous sclerosis, Sturge-­Weber syn­
+drome) (see Chapter 60). A Wood’s lamp examination may be helpful 
+if a depigmented lesion is identified (ash-­leaf spots in tuberous sclero­
+sis). Measurements of facial features, such as inner canthal distance, 
+palpebral fissure length, auricular size and position, and development 
+of the philtrum and upper lip, may be associated with structural anom­
+alies of craniofacial development caused by genetic or teratogenic 
+exposure (fetal alcohol syndrome). The oral structures should be 
+examined for the presence of cleft palate (velocardiofacial syndrome, 
+Stickler syndrome), macroglossia (Beckwith-­Wiedemann syndrome), 
+or recessed jaw (Pierre-­Robin sequence). Anomalies of the neck may 
+indicate vertebral abnormalities (Klippel-­Feil syndrome) or genetic 
+disorders (Turner syndrome, Noonan syndrome, Down syndrome). 
+Cardiac anomalies are associated with a large number of syndromes. 
+The abdominal exam may reveal evidence of an enlarged liver (asso­
+ciated with glycogen storage diseases, sphingolipidoses, or mucopoly­
+saccharidoses). Examination of the back should include the “forward 
+bend test” for scoliosis, and the presence of dimpling or a hirsute area 
+in the lower spine that could represent an occult form of spinal dys­
+raphism (tethered cord or other spinal cord anomaly). Anomalies of 
+the extremities (limb proportions, hands, feet, and nails) are associated 
+TABLE 27.11  Findings That May Be Used 
+to Identify Neonates at Increased Risk for 
+Developmental Delay
+Item
+Comment
+Apgar scores
+<3 at 5 min or <5 at 10 min, and HIE
+Abnormal EEG
+Neonatal seizures
+Hypoglycemia, hypoxia, intracranial hemorrhage, 
+or infection confer high risk
+Intracranial
+Grade III or higher; PVL hemorrhage
+Hydrocephalus
+Especially with other anomalies, thin cortical 
+mantle, or parenchymal lesions
+Central nervous system
+Seen on CT scan or ultrasonography system 
+anomalies
+Prematurity
+<32 wk
+Small for gestational age
+<3rd percentile (intrauterine growth restriction)
+Dysmorphic
+Three or more minor or one or more major 
+features
+Chromosomal
+Trisomies, fragile X, XO anomaly
+Ventilation required
+Longer than 2 wk
+Small head
+<3rd percentile circumference
+Meningitis/encephalitis
+Bacterial (group B streptococci, Escherichia coli)
+Viral (herpes simplex)
+Hypoglycemia
+Symptomatic
+Congenital infection
+Cytomegalovirus, toxoplasmosis, syphilis, 
+rubella, herpes simplex, varicella-­zoster, HIV
+Hyperbilirubinemia
+Requiring exchange transfusions
+Associated medical 
+problems
+Such as retinopathy of prematurity, heart dis­
+ease, bronchopulmonary dysplasia, necrotizing 
+enterocolitis
+HIE, hypoxic-­ischemic encephalopathy; PVL, periventricular leukomalacia.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+459
+CHAPTER 27  Intellectual Developmental Disorders (Developmental Delay)
+Item
+Possible Significance
+General appearance
+May indicate significant delay in development or 
+obvious syndrome
+Stature
+Short stature
+Malnutrition; many genetic syndromes are 
+associated with short stature (e.g., Turner, 
+Noonan)
+Obesity
+Prader-­Willi syndrome
+Large stature
+Sotos syndrome
+Head
+Macrocephaly
+Alexander syndrome, Canavan disease, Sotos 
+syndrome, gangliosidosis, hydrocephalus, 
+mucopolysaccharidosis, subdural effusion
+Microcephaly
+Virtually any condition that can restrict 
+brain growth (e.g., malnutrition, Angelman 
+syndrome, Cornelia de Lange syndrome, fetal 
+alcohol effects)
+Face
+Coarse, triangular, round, 
+or flat face; hypotelorism 
+or hypertelorism; slanted 
+or short palpebral fissure; 
+unusual nose, maxilla, and 
+mandible
+Specific measurements may provide clues to 
+inherited, metabolic, or other diseases such 
+as fetal alcohol syndrome, cri du chat (5p−) 
+syndrome, or Williams syndrome
+Eyes
+Prominent
+Crouzon, Seckel, and fragile X syndromes
+Cataract
+Galactosemia, Lowe syndrome, prenatal rubella, 
+hypothyroidism
+Cherry-­red spot in macula
+Gangliosidosis (GM1), metachromatic leuko­
+dystrophy, mucolipidosis, Tay-­Sachs disease, 
+Niemann-­Pick disease, Farber lipogranuloma­
+tosis, sialidosis type III
+Chorioretinitis
+Congenital infection with cytomegalovirus, 
+toxoplasmosis, Zika virus, or rubella
+Corneal cloudiness
+Mucopolysaccharidosis types I and II, Lowe 
+syndrome, congenital syphilis
+Ears
+Low-­set or malformed pinnae
+Trisomies such as Down syndrome, Rubinstein-­
+Taybi syndrome, CHARGE syndrome, 
+cerebro-oculofacioskeletal syndrome, fetal 
+phenytoin effects
+Hearing
+Loss of acuity in mucopolysaccharidosis; 
+hyperacusis in many encephalopathies
+Heart
+Structural anomaly or 
+hypertrophy
+CHARGE syndrome, velocardiofacial syndrome, 
+glycogenosis type II, fetal alcohol effects, 
+mucopolysaccharidosis type I; chromosomal 
+anomalies such as Down syndrome; maternal 
+PKU; chronic cyanosis may impair cognitive 
+development
+Item
+Possible Significance
+Liver
+Hepatomegaly
+Fructose intolerance, galactosemia, glycogeno­
+sis types I–IV, mucopolysaccharidosis types I 
+and II, Niemann-­Pick disease, Tay-­Sachs dis­
+ease, Zellweger syndrome, Gaucher disease, 
+ceroid lipofuscinosis, gangliosidosis
+Genitalia
+Macro-orchidism
+Fragile X syndrome
+Hypogenitalism
+Prader-­Willi, Klinefelter, and CHARGE syn­
+dromes
+Extremities
+Hands, feet; dermatoglyphics, 
+creases
+May indicate a specific entity such as 
+Rubinstein-­Taybi syndrome or may be associ­
+ated with chromosomal anomaly
+Joint contractures
+Signs of muscle imbalance around the joints; 
+e.g., with meningomyelocele, cerebral palsy, 
+arthrogryposis, muscular dystrophy; also 
+occurs with cartilaginous problems such as 
+mucopolysaccharidosis
+Skin
+Café-­au-­lait spots
+Neurofibromatosis, tuberous sclerosis, 
+chromosomal aneuploidy, ataxia-­
+telangiectasia, multiple endocrine neoplasia 
+type 2b
+Fanconi anemia, Gaucher disease
+Syndromes: basal cell nevus, McCune-­Albright, 
+Silver-­Russell, Bloom, Chediak-­Higashi, 
+Hunter, Bannayan-­Riley-­Ruvalcaba, Maffucci
+Seborrheic or eczematoid 
+rash
+PKU, histiocytosis
+Hemangiomas and telangi­
+ectasia
+Sturge-­Weber syndrome, Bloom syndrome, 
+ataxia-­telangiectasia
+Hypopigmented macules, 
+streaks, adenoma seba­
+ceum
+Tuberous sclerosis, hypomelanosis of Ito
+Hair
+Hirsutism
+De Lange syndrome, mucopolysaccharidosis, fetal 
+phenytoin effects, cerebro-oculofacioskeletal 
+syndrome, trisomy 18, Wiedemann-­Steiner 
+syndrome (hypertrichosis cubiti)
+Neurologic
+Asymmetry of strength and tone
+Focal lesion, hemiplegic cerebral palsy
+Hypotonia
+Prader-­Willi, Down, and Angelman syndromes; 
+gangliosidosis; early cerebral palsy; muscle 
+disorders (dystrophy or myopathy)
+Hypertonia
+Neurodegenerative conditions involving white 
+matter, cerebral palsy, trisomy 18
+Ataxia
+Ataxia-­telangiectasia, metachromatic leukodys­
+trophy, Angelman syndrome
+TABLE 27.12  Physical Examination of a Child with Suspected Developmental Disabilities
+CHARGE, coloboma, heart defects, atresia choanae, retarded growth, genital anomalies, ear anomalies (deafness); PKU, phenylketonuria.
+From Kliegman RM, St. Geme J. Nelson Textbook of Pediatrics. 21st ed. Vol 1. Philadelphia: Elsevier; 2020:285, Table 53.2.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+460
+SECTION 6  Developmental and Psychiatric Disorders
+with a wide range of birth defects and syndromes. The presence of mul­
+tiple malformations may be an important key to identifying a specific 
+developmental disorder or syndrome. Although minor physical anom­
+alies may be associated with developmental delay, most children with 
+minor anomalies develop normally (Table 27.13).
+The neuromotor examination should include observation of muscle 
+bulk and presence or absence of muscle atrophy associated with myopathy. 
+The assessment of cranial nerves includes evaluation for visual responsive­
+ness, pupillary reactivity, presence of red reflexes, fullness of eye move­
+ments, and evidence of strabismus. Ptosis, asymmetry of facial expression, 
+or abnormal tongue movement (deviation or fasciculation) suggests 
+muscle weakness or partial paralysis. Muscle strength may be assessed by 
+observing the child move about and manipulate objects. In the first year of 
+life, motor milestones include the ability to sit independently, crawl, cruise, 
+and walk. By 18 months, children should be able to squat and recover. The 
+Gowers maneuver is helpful in assessing strength of the quadriceps mus­
+cles (see Chapter 35). Decreased muscle tone may be reflected in poor pos­
+ture or hypermobile joints. Decreased stretch reflex responsiveness may be 
+due to lower motor neuron disease or myopathy. In infants, the persistence 
+of primitive reflexes or the absence of protective postural reflexes is sug­
+gestive of neuromotor dysfunction. In older children, the presence of 
+increased stretch reflexes, clonus, and positive Babinski reflexes are signs 
+of upper motor neuron dysfunction associated with spasticity. Normal gait 
+requires intact and coordinated motor and sensory ability. Unsteady gait 
+or tremor may be a sign of muscle weakness or abnormal cerebellar func­
+tion or basal ganglia disease. Asymmetry of gait may reflect hemiplegia. 
+Observing the child reaching for objects, extending the arms outstretched, 
+or performing the finger-­to-­nose test may reveal tremors or difficulty with 
+eye-­hand coordination.
+FORMAL NEURODEVELOPMENTAL ASSESSMENTS
+Psychologic Evaluation
+Evaluation by a child psychologist can provide an assessment of a 
+child’s strengths and weaknesses across a broad range of cognitive 
+areas. For infants and young children, global measures of develop­
+ment are the most valuable, since the structure of intelligence develops 
+from relatively “general” and homogeneous ability to more complex 
+TABLE 27.13  Examples of Minor Anomalies and Associated Syndromes*,†
+Head
+Flat occiput: Down syndrome, Zellweger syndrome; prominent 
+occiput: trisomy 18
+Delayed closure of sutures: hypothyroidism, hydrocephalus
+Craniosynostosis: Crouzon syndrome, Pfeiffer syndrome
+Delayed fontanel closure: hypothyroidism, Down syndrome, 
+hydrocephalus, skeletal dysplasias
+Face
+Midface hypoplasia: fetal alcohol syndrome, Down syndrome
+Triangular facies: Russell-­Silver syndrome, Turner syndrome
+Coarse facies: mucopolysaccharidoses, Sotos syndrome
+Prominent nose and chin: fragile X syndrome
+Flat facies: Apert syndrome, Stickler syndrome
+Round facies: Prader-­Willi syndrome
+Eyes
+Hypertelorism: fetal hydantoin syndrome, Waardenburg syndrome
+Hypotelorism: holoprosencephaly sequence, maternal phenylketon­
+uria effect
+Inner canthal folds/Brushfield spots: Down syndrome; slanted 
+palpebral fissures: trisomies
+Prominent eyes: Apert syndrome, Beckwith-­Wiedemann syndrome
+Lisch nodules: neurofibromatosis
+Blue sclera: osteogenesis imperfecta, Turner syndrome, hereditary 
+connective tissue disorders
+Ears
+Large pinnae/simple helices: fragile X syndrome
+Malformed pinnae/atretic canal: Treacher Collins syndrome, 
+CHARGE syndrome
+Low-­set ears: Treacher Collins syndrome, trisomies, multiple disorders
+Nose
+Anteverted nares/synophrys: de Lange syndrome; broad nasal 
+bridge: fetal drug effects, fragile X syndrome
+Low nasal bridge: achondroplasia, Down syndrome
+Prominent nose: Coffin-­Lowry syndrome, Smith-­Lemli-­Opitz 
+syndrome
+Mouth
+Long philtrum/thin vermilion border: fetal alcohol effects
+Cleft lip and palate: isolated or part of a syndrome
+Micrognathia: Pierre-­Robin sequence, trisomies, Stickler syndrome
+Macroglossia: hypothyroidism, Beckwith-­Wiedemann syndrome
+Teeth
+Anodontia: ectodermal dysplasia
+Notched incisors: congenital syphilis
+Late dental eruption: Hunter syndrome, hypothyroidism
+Talon cusps: Rubinstein-­Taybi syndrome
+Wide-­spaced teeth: de Lange syndrome, Angelman syndrome
+Hair
+Hirsutism: Hurler syndrome
+Low hairline: Klippel-­Feil sequence, Turner syndrome
+Sparse hair: Menkes disease, argininosuccinic acidemia
+Abnormal hair whorls/posterior whorl: chromosomal aneuploidy 
+(e.g., Down syndrome)
+Abnormal eyebrow patterning: Cornelia de Lange syndrome
+Neck
+Webbed neck/low posterior hairline: Turner syndrome, Noonan 
+syndrome
+Chest
+Shield-­shaped chest: Turner syndrome
+Genitalia
+Macro-orchidism: fragile X syndrome
+Hypogonadism: Prader-­Willi syndrome
+Extremities Short limbs: achondroplasia, rhizomelic chondrodysplasia
+Small hands: Prader-­Willi syndrome
+Clinodactyly: trisomies, including Down syndrome
+Polydactyly: trisomy 13, ciliopathies
+Broad thumb: Rubinstein-­Taybi syndrome
+Syndactyly: de Lange syndrome
+Transverse palmar crease: Down syndrome
+Joint laxity: Down syndrome, fragile X syndrome, Ehlers-­Danlos 
+syndrome
+Phocomelia: de Lange syndrome
+Spine
+Sacral dimple/hairy patch: spina bifida
+Skin
+Hypopigmented macules/adenoma sebaceum: tuberous scle­
+rosis
+Café-­au-­lait spots and neurofibromas: neurofibromatosis
+Linear depigmented nevi: hypomelanosis of Ito
+Facial port-­wine hemangioma: Sturge-­Weber syndrome
+Nail hypoplasia or dysplasia: fetal alcohol syndrome, trisomies
+*Increased incidence of minor anomalies has been reported in cerebral palsy, intellectual disability, learning disabilities, and autism.
+†The presence of three or more minor anomalies implies a greater chance that the child has a major anomaly and a diagnosis of a specific syndrome.
+CHARGE, coloboma, heart defects, atresia choanae, retarded growth, genital anomalies, ear anomalies (deafness).
+Modified from Levy SE, Hyman SL. Pediatric assessment of the child with developmental delay. Pediatr Clin North Am. 1993;40:465–477.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+461
+CHAPTER 27  Intellectual Developmental Disorders (Developmental Delay)
+and differentiated functions over time. Few tasks on measures used 
+for preschool children reflect “pure” abilities in any particular skill. 
+Rather, tasks for infants reflect the child’s ability to utilize a combi­
+nation of cognitive, language, and motor skills to respond. However, 
+tests vary in their ability to separate these component functions. The 
+Bayley Scales of Infant and Toddler Development-­3rd Edition (Bayley 
+III) is a widely used tool for assessing children 0–42 months of age. 
+There are several normed measures of verbal and nonverbal abilities 
+that can be used with children older than 2 years of age. Many fac­
+tors can contribute to the child’s performance. Observing how the 
+child responds to a task can be as informative as the accuracy of the 
+response. It is generally recognized that intelligence testing prior to 
+age 6 years is not highly predictive of test results at older ages, but the 
+evaluation provides a measure of the child’s abilities at that point in 
+time. In addition, a psychologist is able to observe the child’s behav­
+ior, attention span, organizational skills, persistence, and frustration 
+tolerance during the evaluation. These informal observations may 
+help to determine the presence or absence of emotional or behavioral 
+problems that stem from, or coexist with, the child’s developmental 
+disabilities.
+Results of psychologic tests are not indicative of specific etiolo­
+gies (genetic or acquired biologic conditions) and cannot determine 
+whether a child has suffered a “brain injury,” even in the context of 
+a potentially traumatic event. Serial cognitive measures, particularly 
+when there is premorbid information that has changed over time, may 
+suggest the effects of trauma or a progressive disease process.
+Speech-­Language and Oral Motor Evaluation
+The ability to understand and communicate with others has a very 
+strong influence on a child’s emotional, behavioral, and social func­
+tioning. Communication abilities may or may not reflect the child’s 
+intellectual ability. A speech-­language pathologist can evaluate a wide 
+range of communication and oral motor skills in children. Even prior 
+to the use of words, infants display “preverbal” communication abilities 
+(gestures) and may recognize a number of spoken words. Older chil­
+dren may suffer from delays in understanding of language (language 
+disorders) or from disorders of speech sound production (apraxia, 
+dysarthria). Many children with neurologic disabilities have oral 
+motor coordination disorders (dysphagia) that interfere with chew­
+ing and swallowing and place them at risk for poor weight gain and/
+or pulmonary aspiration. Drooling management is also a problem for 
+many children with oral motor coordination delays. While it is more 
+common for receptive language ability to exceed expressive language 
+ability, children with Williams syndrome and with spina bifida/hydro­
+cephalus may display conversational skills that exceed their cognitive 
+deficits (“cocktail conversation”). In both conditions, “basic” language 
+abilities (vocabulary and grammar) are relatively well developed, while 
+“higher-­level” language functions (semantic knowledge and pragmatic 
+aspects of communication) are deficient.
+DIAGNOSTIC STRATEGY
+Once a comprehensive profile of the child’s strengths and weaknesses 
+has been identified through neurodevelopmental, psychologic, and 
+speech-­language evaluations, the next step is to establish a develop­
+mental diagnosis.
+Cognitive, language, and motor abilities typically develop in a coor­
+dinated fashion. Discrepancies in development between different areas 
+of function may point to a specific area of concern or suggest possi­
+ble clinical diagnoses (Table 27.14). Many disorders can be identified 
+by their characteristic pattern of development over time (e.g., infan­
+tile hypotonia evolving into hyperphagia and obesity in Prader-­Willi 
+syndrome, regression/microcephaly/hand-­wringing behavior in Rett 
+syndrome). In general, motor milestones do not correlate well with 
+intellectual ability, since most children with ID walk at a normal age. 
+Language abilities, when well developed, are usually an excellent indi­
+cator of intellectual function. Problem-­solving skills (referred to as 
+“adaptive” or “visual-­motor” skills) often correlate with nonverbal cog­
+nitive abilities. Finally, psychosocial milestones often reflect language 
+ability. A child with delays in all areas likely has a cognitive deficit, 
+while a child whose communication skills are at variance with nonver­
+bal cognitive abilities likely has a language disorder.
+Delays isolated to a single, specific area such as expressive language 
+are more likely to be transient than are generalized delays. If the child’s 
+development has regressed, a progressive encephalopathy may be pres­
+ent (see Chapter 28).
+Genetic Considerations
+More than 800 genes have been implicated in GDD/ID as well as 
+more than 1,000 additional “candidate” genes. Of these, more than 
+400 are autosomal recessive, 180 are autosomal dominant, and 140 
+are X-­linked. Many genes are associated with “syndromic” GDD/ID 
+(i.e., cases in which abnormalities are identified on examination such 
+as micro-­ or macrocephaly, dysmorphic features, congenital anoma­
+lies, failure to thrive, short stature, abnormal neurologic examina­
+tion, seizures, structural brain abnormalities, sensory deficits [vision 
+or hearing]). Variability of clinical features is the rule, rather than the 
+exception, for most syndromes that cause GDD/ID. Of the more than 
+200 genes that have been associated with “nonsyndromic” GDD/ID, at 
+least 30 are also associated with syndromic GDD/ID and at least 60 are 
+also associated with other neurologic (i.e., epilepsy) or neuropsychiat­
+ric (i.e., autism, schizophrenia) disorders.
+A distinction should be made between a clinical diagnosis that is 
+based on descriptions and measurements of various functional abilities 
+and an etiologic diagnosis that attributes the problem(s) to a specific 
+cause. For most developmental disabilities, a specific etiology cannot 
+be established with absolute certainty. Clinical diagnoses such as cere­
+bral palsy or ID can result from multiple etiologies, and, conversely, the 
+same etiology can manifest in a variety of ways. As medical diagnostic 
+TABLE 27.14  Differential Diagnosis of Atypical Patterns of Development
+Intellectual 
+Disability
+Developmental 
+Language Disorder
+Specific Language 
+Impairment
+Autism Spectrum 
+Disorder
+Social Pragmatic 
+Communication Disorder
+Cognitive ability
+Delayed
+Normal/delayed
+Normal
+Normal/delayed
+Normal
+Language ability
+Delayed
+Disordered
+Disordered
+Disordered
+Normal
+Social ability
+Normal
+Normal
+Normal
+Abnormal
+Abnormal
+Family history
+Negative
+Speech/language
+Speech/language
+Affective disorder
+Social deficits
+Modified from Simms MD, Schum RL. Preschool children who have atypical patterns of development. Pediatr Rev. 2000;21:147–158.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+462
+SECTION 6  Developmental and Psychiatric Disorders
+technologies have improved, the number of individuals for whom an 
+etiologic diagnosis can be established has increased. Even when a spe­
+cific etiologic diagnosis cannot be determined, an accurate clinical diag­
+nosis is often helpful in designing treatment recommendations because 
+most treatments are based on an educational-­developmental model 
+and are successful for a range of underlying etiologies.
+Although most parents will pursue further evaluations when they 
+are concerned about their child’s development, not all are willing or 
+able to have their child undergo medical diagnostic testing procedures 
+when they are very young. Instead, parents typically want to know 
+what they can do to help their child “catch up” with their peers. This 
+concept is often reinforced by referring to the problem as a develop­
+mental “delay.” Unless there are signs of regression or failure to thrive 
+that would make diagnostic testing urgent, “watchful waiting” while 
+the child enters a program of interventions is an accepted strategy. If, 
+despite these measures, developmental concerns persist, families may 
+be more willing to obtain further diagnostic testing. It is often helpful 
+to share with parents that the probability of establishing a medical diag­
+nosis with current technology is 30–40%, unless specific syndromes 
+or disorders are suspected from the history and physical examination. 
+While in most situations a specific diagnosis will not result in a cure 
+for the underlying disorder, if a specific etiology can be established, it 
+may result in effective treatments and preventive measures for other 
+medical concerns associated with the diagnosis. Medical treatment 
+for the circadian rhythm dysfunction associated with Smith-­Magenis 
+syndrome can be very successful in improving sleep patterns and day­
+time behaviors. In addition, children can be monitored on an expectant 
+basis for complications that occur frequently with specific disorders 
+(Wilms tumor in Beckwith-­Wiedemann syndrome).
+LABORATORY TESTING
+When a specific diagnosis is suspected based on the history and physical 
+examination, a “targeted” approach to confirm that condition (single-­
+gene tests, specific metabolic studies, neuroimaging) is warranted (Tables 
+27.15 and 27.16). If no clinical diagnosis is suspected, current guidelines 
+for comprehensive evaluation recommend a “tiered approach” (Fig. 27.3).
+Genetic Tests
+The first-­tier test for all children with “nonspecific” GDD/ID is a chro­
+mosomal microarray (CMA). If a specific diagnosis is not established by 
+CMA, referral for consultation with a geneticist should also be arranged.
+NGS with broad screening panels within a group of phenotypes 
+(e.g., X-­Linked Intellectual Disability [XLID] panel) and whole exome 
+sequencing (WES) are transforming the diagnostic process for children 
+with disabilities. While the diagnostic yield of CMA in unexplained ID 
+is 10–15%, diagnosis in approximately 36% of affected children with 
+GDD/ID can be achieved with WES. The diagnostic rate is higher for 
+syndromic GDD/ID and lower for isolated ASD (see Fig. 27.3). Some 
+genomic sequencing (exome/genome) labs are able to report large 
+chromosomal deletions and duplications (if they span multiple exons), 
+complementing CMA testing.
+There are disease-­causing variants that are not detected by WES 
+or CMA. Karyotype will detect balanced translocations if there is no 
+loss or gain of chromosomal material. Fragile X repeat expansions are 
+not covered on either technology. The yield of testing for fragile X is 
+low unless there are typical clinical features (long face with large ears, 
+prominent forehead and prominent jaw; hypotonia, joint laxity) or a 
+suggestive family history (X-­linked intellectual disability with antici­
+pation, premature ovarian failure, or adult-­onset neurologic disease). 
+Whole genome sequencing is an emerging option for cases unsolved 
+by WES and increases the diagnostic rate by up to 10% by detecting 
+variants missed by both WES and CMA (small deletions/duplications, 
+intronic and intergenic single nucleotide variants, structural variants, 
+and some repeat expansions). There is always the possibility of finding 
+variants of uncertain significance that have not yet been associated with 
+GDD/ID or that may not cause any medical problems. In this case, it 
+may be necessary to test both parents to determine if the variant was 
+inherited or de novo. If the variant is de novo in the child, it is more 
+likely to be significant. If the same variant is found in an unaffected 
+parent, it is more challenging to interpret the significance of the vari­
+ant. There are numerous examples of unaffected parent carriers with 
+chromosomal deletions (reduced penetrance) and wide variability in 
+phenotypic expression within affected families who have the same vari­
+ant (variable expressivity). Including parents in WES (Trio sequencing) 
+TABLE 27.15  Chromosomal Abnormalities in Which Developmental Delay Is a Major Feature
+Condition
+Incidence
+Comments
+Trisomy 21
+1/700
+Down syndrome
+Fragile X syndrome
+1/800
+Macro-orchidism, hyperactivity, autistic-­like behavior
+47,XXY (Klinefelter syndrome)
+1/1,000
+Small testes, problems in language skills
+47,XXX
+1/1,000
+Females with learning and language problems may have 48,XXXX
+45,X (Turner syndrome)
+1/2,000
+Females with short stature, broad neck, gonadal dysgenesis; 
+visuospatial deficits common
+Prader-­Willi syndrome (abnormality of contiguous genes on chromosome 15; 
+inherited from deletions of paternal chromosomes—monoparental disomy)
+1/5,000
+Hypotonia in infancy, obesity, short stature, mild intellectual 
+disability
+Angelman syndrome (chromosome anomaly similar to that in Prader-­Willi 
+syndrome; inherited from maternal deletion in chromosome 15—
+monoparental disomy)
+Unknown
+Ataxia, prognathism, absence of speech, severe intellectual 
+disability, inappropriate laughter
+Trisomy 18
+1/8,000
+Multiple congenital anomalies, severe developmental delay
+Trisomy 13
+1/20,000
+Multiple congenital anomalies, severe developmental delay
+5p– (cri du chat syndrome)
+1/100,000
+High-­pitched cry, small stature, speech and language delays
+4p– (Wolf-­Hirschhorn syndrome)
+1/100,000
+Midline deficiencies, profound intellectual disability, seizures
+11p– (Wilms tumor, aniridia)
+1/100,000
+Ambiguous genitalia, aniridia, cataracts
+17p– (Miller-­Dieker syndrome)
+1/100,000
+Lissencephaly, microcephaly, seizures, cryptorchidism
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+463
+CHAPTER 27  Intellectual Developmental Disorders (Developmental Delay)
+is preferred and improves diagnostic outcomes, increasing yield and 
+decreasing variants of uncertain significance. No patient who remains 
+undiagnosed after genomic sequencing should be lost to follow-­up 
+because WES/whole genome sequencing data can be reanalyzed every 
+1–2 years until a diagnosis is made.
+Metabolic Tests
+Inborn errors of metabolism may present with progressive neuro­
+logic impairment (see Chapter 28). There is, however, great vari­
+ability, and consideration for broad metabolic screening should 
+always be considered if a causative etiology for ID/GDD remains 
+unresolved. The current standard for static encephalopathy includes 
+screening plasma amino acids, serum acylcarnitines, and urine 
+organic acids. There are certain specific clinical presentations that 
+should raise the question for treatable metabolic disorders (such 
+as language impairment in the context of seizures associated with 
+creatine transport disorders).
+Neuroimaging
+Ultrasonography
+An ultrasound study of the head performed before the anterior fon­
+tanel closes can provide a general anatomic picture of the brain, 
+including a view of the posterior fossa. This technique is insensitive 
+to lesions involving the subdural space, and its success depends more 
+on the skill of the interpreter than that of the other imaging studies. 
+It does not expose the child to radiation, nor is sedation required in 
+most instances. Its primary uses include identifying and monitoring 
+TABLE 27.16  Suggested Evaluation of the Child with Intellectual Disability/Global 
+Developmental Delay
+Test
+Comments
+In-­depth history
+Includes pre-­, peri-­, and postnatal events (including seizures); developmental attainments; and three-­generation pedigree in 
+family history
+Physical examination
+Particular attention to minor or subtle abnormalities; neurologic examination for focality and skull abnormalities
+Behavioral phenotype
+Vision and hearing evaluation
+Essential to detect and treat; can mask as developmental delay
+Gene microarray analysis
+A 7.8% yield overall (10% in syndromic and 6.5% in nonsyndromic intellectual disability)
+Better resolution than karyotype. May identify up to twice as many abnormalities as karyotyping. Excellent in detecting 
+de novo microdeletions or microduplications
+Karyotype
+Yield: 4% in global developmental delay/intellectual disability
+Best for inversions and balanced insertions, reciprocal translocations, and polyploidy
+Fragile X screen
+Combined yield: 2%
+Preselection on clinical grounds can increase yield to 7.6%
+X-­linked candidate intellectual 
+disability genes
+May explain up to 10% of intellectual disability
+Yield may be as high as 42% if there is a definite family history and as high as 17% from a possibly linked kindred
+Exomic gene sequencing
+Detects inherited and de novo point mutations, especially in nonsyndromic severe intellectual disability
+Neuroimaging
+MRI preferred. Positives increased by abnormalities of skull contour or microcephaly and macrocephaly, or focal neurologic 
+examination. Overall, has a higher yield than CT
+Identification of specific etiologies is rare. Most conditions that are found do not alter the treatment plan. Need to weigh risk 
+of sedation against possible yield
+Thyroid (T4, TSH)
+Near 0% in settings with a universal newborn screening program
+Serum lead
+If there are identifiable risk factors for excessive environmental lead exposure
+Metabolic testing
+Yield: 0.2–4.6% based on clinical indicators and tests performed
+Urine organic acids, plasma amino acids, ammonia, lactate, and a capillary blood gas. Focused testing based on clinical 
+findings is warranted
+Tandem mass spectrometry newborn screening has allowed for identification of many disorders in the perinatal period and 
+has decreased yield in older children. Other disorders have emerged; e.g., congenital disorders of glycosylation and disor­
+ders of creatine synthesis and transport
+MECP2 for Rett syndrome
+1.5% of females with severe intellectual disability
+0.5% of males
+EEG
+May be deferred in absence of history of seizures
+Repeated history and physical 
+examination
+Can give time for maturation of physical and behavioral phenotype. New technology may be available for evaluation
+MECP2, methyl CpG-­binding protein 2; T4, thyroxine; TSH, thyroid-­stimulating hormone.
+Modified from Michelson DJ, Shevell MI, Sherr EH, et al. Evidence report: genetic and metabolic testing on children with global developmental 
+delay: report of the Quality Standards Subcommittee of The American Academy of Neurology and The Practice Committee of Child Neurology. 
+Neurology. 2011;77:1629–1635; Curry CJ, Stevenson RE, Aughton D, et al. Evaluation of mental retardation: recommendations of a consensus 
+conference: American College of Medical Genetics. Am J Med Genet. 1997;12:72:468–477; Shapiro BK, Batshaw ML. Mental retardation. In: Burg 
+FD, Ingelfinger JR, Polin RA, et al., eds. Gellis and Kagan’s Current Pediatric Therapy. 18th ed. Philadelphia: Saunders; 2005, used with permission; 
+and Shevell M, Ashwal S, Donley D, et al. Practice parameter: evaluation of the child with global developmental delay. Neurology. 2003;60:367–
+380.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+464
+SECTION 6  Developmental and Psychiatric Disorders
+intraventricular hemorrhage and hydrocephalus; these functions are 
+useful, especially in the preterm infant.
+Computed Tomography Scans
+CT provides more detail than ultrasonography, including details of 
+bone structures and the subdural space. Using contrast material will 
+further delineate structures such as tumors or differentiate white from 
+gray matter. However, CT exposes the child to radiation, and most 
+young children require sedation to undergo this procedure.
+Magnetic Resonance Imaging
+MRI provides the greatest detail of the nonbone aspects of the CNS. 
+The scanning time is longer than for CT, and most young children 
+require sedation. The contrast material used, gadolinium, is generally 
+safer than the contrast agents used for CT. MRI is superior to CT in the 
+evaluation of the posterior fossa. MRI is used for imaging the spinal 
+cord. MRI can differentiate abnormalities of gray and white matter, as 
+well as deep and cortical gray matter lesions. Special techniques include 
+magnetic resonance angiography, which can identify blood flow, and 
+cerebrospinal fluid flow imaging, which can identify flow in conditions 
+such as Chiari malformation. Magnetic resonance spectroscopy identi­
+fies metabolites in the brain such as lactate, N-­acetylaspartate, and cho­
+line. Conditions such as phenylketonuria, maple syrup urine disease, 
+and Canavan disease have distinctive patterns on spectroscopy.
+Indications for Various Imaging Modalities
+Many studies have identified abnormalities in the brains of children 
+with developmental delay on MRI that were not evident on CT. These 
+abnormalities include delayed myelination, focal lesions, and hypoplas­
+tic white matter. In approximately 33% of children with developmental 
+delay, the MRI is abnormal. This increases if the child has microcephaly 
+or associated neurologic findings such as focal motor deficits, seizures, 
+or a pattern of regression/degeneration. Neuroimaging in children 
+with GDD may reveal evidence of cerebral injury, brain malforma­
+tion, or markers of cerebral dysgenesis. Injury may be due to hypoxic-­
+ischemic encephalopathy (“watershed” or deep gray matter lesions in 
+term infants and periventricular leukomalacia common in premature 
+infants) or signs of intrauterine infection. Malformations may result 
+from disorders of ventral induction (holoprosencephaly, agenesis of 
+the corpus callosum, septo-­optic dysplasia), migrational abnormali­
+ties (lissencephaly, schizencephaly, pachygyria, polymicrogyria, band 
+heterotopias), and aberrant white matter development (demyelinat­
+ing/dysmyelinating syndromes). At times, neuroimaging may provide 
+information about the possible timing of the event (whether injury 
+or dysgenesis). Serial imaging studies may help to distinguish a static 
+from a progressive course and aid in prognosis. However, in many 
+instances, abnormal findings may not be sufficient for determining the 
+specific underlying cause of the disability. Furthermore, there may be 
+Clinical Signs and Symptoms
+First Tier Tests to Consider
+Diagnoses
+A. Known perinatal risk
+factors
+B. Dysmorphic features
+D. Absence of known risk
+factors; normal neurologic
+examination; nondysmorphic
+“nonspecific global
+developmental delay”
+C. Abnormal neurologic
+examination
+Microarray
+Fragile X
+Brain MRI
+Microarray
+Brain MRI
+Metabolic tests†
+Microarray
+Radiologic and/or
+metabolic tests*
+Microarray
+Brain MRI
+1. Chromosome anomaly
+2. CNS malformation
+1. CNS malformation
+2. Chromosome anomaly
+3. Metabolic disorder
+1. Chromosome anomaly
+2. Birth defect syndrome
+3. Metabolic disorder
+1. Antenatal diseases
+(malformations/fetal infections)
+2. Perinatal diseases
+Results
+Normal
+Abnormal
+Refer for expert consultation
+and genetic counseling and
+management
+Refer for further genetic
+evaluation
+Fig. 27.3  Evaluation of infants with developmental delay without regression. *Mucopolysaccharide screen­
+ing. †Urine organic acids; plasma amino acids; acylcarnitine profile. CNS, central nervous system.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+465
+CHAPTER 27  Intellectual Developmental Disorders (Developmental Delay)
+a very weak correlation between neuroimaging findings and the child’s 
+clinical picture. As an unintended consequence, neuroimaging studies 
+may reveal incidental findings that are unrelated to the child’s devel­
+opmental delay, for example, nonspecific findings such as mild ven­
+triculomegaly and enlargement of the subarachnoid spaces, or patchy 
+areas of white matter gliosis of uncertain origin (Table 27.17). In many 
+instances, these are benign variations of normal or clinically insignifi­
+cant anomalies. In some cases, these findings may require consultation 
+with a pediatric neurosurgeon, but it is important to avoid unnecessary 
+additional tests or interventions whenever possible.
+Other Tests
+Most neurometabolic disorders can be identified through serum, 
+plasma, and urine tests in conjunction with neuroradiologic inves­
+tigations. However, other tests can be helpful for identifying specific 
+diseases. Analysis of cerebrospinal fluid for elevated protein levels may 
+help in the diagnosis of a disease affecting white matter; the presence 
+of measles antibody can help identify subacute sclerosing panenceph­
+alitis. On occasion, cerebrospinal fluid evaluation of lactate, pyruvate, 
+and amino acids may be helpful. Peripheral nerve conduction tests and 
+electromyography may help confirm that the condition is associated 
+with peripheral neuropathy. Diminished deep tendon reflexes and pro­
+longed nerve conduction times are noted in Krabbe disease, Refsum 
+disease, metachromatic and adrenal leukodystrophy, and infantile neu­
+roaxonal dystrophy (see Chapter 35).
+Skin and muscle biopsies may identify conditions in which abnor­
+mal material is stored in cells, such as neuronal ceroid lipofuscinosis. 
+Brainstem auditory evoked response is useful as an evaluation of hear­
+ing in infants and is used to evaluate brainstem functioning. Visual 
+evoked response can be useful in determining the integrity of the visual 
+pathways; however, it cannot determine visual acuity.
+Discussing a Developmental Diagnosis with Parents
+When a specific developmental diagnosis is established, it should be 
+shared with the family in an objective but sensitive manner. Facts about 
+the condition and prognostic information should be presented with an 
+explanation of the margin of uncertainty around any disorder. Each 
+child is unique; therefore, making a prognosis for an individual child 
+solely based on data is risky. When appropriate, parents should be reas­
+sured that they did not do anything to cause the child’s disease, since 
+feelings of guilt in this situation are universal. All parents want some 
+measure of hope and assurance that they will have help from compe­
+tent professionals who will care for their child.
+When the child is an infant or toddler, a frank discussion about the 
+child’s profile of developmental strengths and weaknesses relating skills to 
+a “developmental age” may help parents to align their expectations to the 
+child’s functional abilities. All parents want to help their child grow and 
+develop to their potential, and the clinician should make a plan for fol­
+low-­up to evaluate the child’s progress. For children under age 3 years, fol­
+low-­up in 6 months will provide a time frame in which significant change 
+can be observed. For older children, yearly intervals are appropriate.
+SPECIFIC CONDITIONS
+Cerebral Palsy
+Cerebral palsy (CP) is the leading cause of motor disability in chil­
+dren. CP is a clinical diagnosis characterized by significant impairment 
+of movement and posture that begins in infancy or early childhood. 
+Worldwide, CP affects 1–5 in every 1,000 live births. The cause is often 
+brain dysgenesis or injury (prenatal or perinatal from hypoxic-­ischemic 
+encephalopathy, intraventricular hemorrhage, or periventricular leu­
+komalacia). There is an inverse relationship between birthweight and 
+CP, ranging from 51–73/1,000 in very low birthweight (<1,500 g) neo­
+natal survivors to 1–2/1,000 in normal birthweight (>2,500 g) infants. 
+The effects of improvements in neonatal intensive care have both 
+increased the survival of low birthweight and premature infants and 
+have decreased the incidence of CP among survivors. However, more 
+than half of children diagnosed with CP were born at term or near 
+term, and there has not been a decrease in CP prevalence over time. 
+In a large population-­based study in Western Australia, approximately 
+76% of children with CP were born at term after an uncomplicated 
+perinatal course without evidence of neonatal encephalopathy. One 
+study identified clinically significant copy number variants in 31% of 
+children with no obvious etiology (so-­called “cryptogenic” CP). Thus, 
+the etiology of CP appears to be multifactorial with a largely prenatal 
+onset including genetic, environmental, inflammatory, and infectious 
+influences on fetal development.
+Although the underlying pathology is nonprogressive, the clinical 
+manifestations may change over time. An infant with CP may initially 
+present as hypotonic but then develop spasticity, and functional dis­
+ability may increase if joint contractures or scoliosis develops. CP is 
+associated with a wide range of other disabilities, including sensory 
+impairment (hearing and vision), dysphagia, epilepsy, and ID (40–65%).
+Some IEMs present with features of CP (“CP mimics”) and are 
+amenable to treatment that can improve the neurologic outcome. A 
+number of symptoms should raise the “index of suspicion” that an IEM 
+may be responsible for the clinical picture of CP (Tables 27.18 and 
+27.19 and Fig. 27.4).
+Important “mimics” include pediatric-­onset hereditary spastic 
+paraplegia syndromes (Table 27.20) and dopa-­responsive (Segawa dis­
+ease) and other monoamine-­related dystonias (Fig. 27.5).
+Autism Spectrum Disorder
+(See Chapter 32.)
+Fragile X Syndrome
+Fragile X (FRAXA) syndrome is the most commonly diagnosed 
+genetic cause of ID in males. It affects 1 in 4,000 males and 1 in 8,000 
+TABLE 27.17  Types of Abnormalities 
+Identified by Neuroimaging
+ • Malformations of cortical development:
+ • Midline defects: holoprosencephaly; callosal agenesis; cerebellar 
+hypoplasia
+ • Migration defects: lissencephaly; bands; schizencephaly; pachygyria/
+microgyria
+ • Hydrocephalus, hemimegalencephaly
+ • Neurocutaneous syndromes: tuberous sclerosis; neurofibromatosis
+ • Trauma: hypoxic-­ischemic encephalopathy; stroke
+ • Metabolic and neurodegenerative disorders:
+ • Cortical gray matter: lysosomal enzyme defects (lipidoses: GM1 ganglio­
+sidosis, neuronal ceroid lipofuscinosis) and mucolipidoses
+ • Corpus striatum (caudate and putamen): mitochondrial disorders, 
+organic acidopathies, aminoacidopathies, Wilson disease, juvenile 
+Huntington disease
+ • Globus pallidus: Hallervorden-­Spatz disease, methylmalonic acidemia, 
+hyperbilirubinemia
+ • White matter (leukoencephalopathies): peroxisomal disorders (adreno­
+leukodystrophies), lysosomal leukodystrophies (metachromatic, globoid 
+cell); other white matter diseases (Pelizaeus-­Merzbacher, Canavan, 
+Alexander, Cockayne, Aicardi Goutières syndrome)
+ • Congenital infection: cytomegalovirus; HIV; toxoplasmosis
+ • Neoplastic disorders
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+466
+SECTION 6  Developmental and Psychiatric Disorders
+females. FRAXA syndrome is found in all racial and ethnic groups. 
+The disorder is the result of an inheritable unstable DNA in the FMR1 
+gene of the X chromosome. Normal individuals may have fewer than 
+40 triplet repeats. Females with between 55 and 200 repeats are said 
+to have FMR1 premutation, since the number of repeats is likely to 
+expand in cells that become eggs. Males with >200 repeats are clin­
+ically symptomatic and will likely have a moderate degree of ID. In 
+addition, speech and language delays, attention difficulty, anxiety 
+disorder, and autism are associated with FRAXA syndrome. Full-­
+mutation females may have a mild degree of ID. Because character­
+istic physical symptoms of FRAXA are difficult to identify in infants 
+and young children, routine molecular testing for the FMR1 gene 
+may identify 2–6% of males and 2–4% of females with nonspecific 
+ID. In older children and adults, characteristic physical features and 
+a distinct “behavioral phenotype” may suggest a diagnosis of FRAXA 
+syndrome (Table 27.21).
+Inborn Errors of Metabolism and Storage Diseases
+IEMs may manifest in variable ways but should always be considered 
+in the differential diagnosis if there is an atypical progression or lack of 
+response to proven interventions (see Chapter 28).
+Congenital Infections
+Bacteria, parasites, or viruses acquired before, during, or after birth 
+may cause CNS infection and injury. The diagnosis is based on the 
+clinical manifestations (Table 27.22) and polymerase chain reaction 
+(PCR), culture, or serologic evidence of infection (Table 27.23).
+Postnatal Infections
+CNS infection during infancy or childhood may cause encephalitis 
+or meningoencephalitis with resultant ID. Bacterial (pneumococcus, 
+Mycobacterium tuberculosis, meningococcus) and viral (herpes sim­
+plex type 1 or 2, eastern or western equine encephalitis virus, West 
+Nile virus, St. Louis encephalitis virus, HIV; in rare cases, mumps, 
+enteroviruses, or California encephalitis virus) cases occur in infancy 
+and early childhood and variably have neurodevelopmental sequelae. 
+Secondary problems caused by the infection such as hearing or visual 
+loss must also be considered. Late sequelae or prior viral infection such 
+as measles or rubella panencephalitis may appear 10–20 years after 
+the initial CNS disease and manifest as dementia, poor school perfor­
+mance, and progressive encephalopathy.
+TREATMENT
+The treatment of a child with a developmental or intellectual disabil­
+ity includes routine health maintenance, treatment of the underlying 
+condition (if possible), treatment of associated conditions (such as 
+hyperactivity, seizures, or drooling), relief of symptoms, anticipatory 
+guidance to prevent secondary conditions, and environmental, educa­
+tional, and family support. The overriding goal is to optimize the func­
+tional status and prognosis of the child.
+Health maintenance for children with developmental disabilities 
+should be the same as that provided for all children, including immu­
+nizations, regular monitoring of physical growth and development, 
+and screening for conditions such as anemia, tuberculosis, and lead 
+intoxication. Use of standardized growth charts will reflect the child’s 
+individual pattern over time. Specific growth charts are available for 
+some conditions, including Down syndrome, Prader-­Willi syndrome, 
+and FRAXA syndrome. Nutritional recommendations are available for 
+children with CP.
+Very few conditions that lead to developmental delay can be 
+“cured.” However, medical treatment of associated conditions can 
+help reduce pain and discomfort. For example, many children with 
+CP have drooling and spasticity. Drooling can be controlled by the 
+use of glycopyrrolate, scopolamine patch, or surgery to the salivary 
+glands. Spasticity can be managed with oral baclofen, periodic injec­
+tions of botulinum toxin, tizanidine, or dorsal root rhizotomy. Behav­
+ioral or psychiatric problems may benefit from counseling, support, 
+or psychopharmacologic medications. These medications can be used 
+TABLE 27.18  Clinical Features That Should 
+Prompt Evaluation for Genetic and Metabolic 
+Conditions in a Patient Presenting with 
+Symptoms of Cerebral Palsy
+Absent history of any perinatal risk factor for brain injury
+Family history of sibling with similar neurologic symptoms
+Motor symptom onset after an initial period of normal development
+Developmental regression
+Progressive neurologic symptoms
+Paroxysmal motor symptoms or marked fluctuation of motor symptoms
+Clinical exacerbation in the setting of a catabolic state (e.g., febrile illness)
+Isolated generalized hypotonia
+Prominent ataxia
+Signs of peripheral neuromuscular disease (reduced or absent reflexes, 
+sensory loss)
+Eye movement abnormalities (e.g., oculogyria, oculomotor apraxia, or parox­
+ysmal saccadic eye-­head movements)
+From Pearson TS, Pons R, Ghaoui R, et al. Genetics of cerebral palsy. 
+From Pearson TS, Pons R, Ghaoui R, et al. Genetic mimics of cerebral 
+palsy. Mov Disord. 2019;34:625–636 (Table 1, p. 628).
+TABLE 27.19  Brain MRI Findings 
+Suggestive of Selected Genetic CP Mimics
+Finding
+Selected Conditions
+Hypomyelination
+PLP1-­related dysmyelinating disorders
+H-­ABC (TUBB4A mutation)
+AGS (may also have basal ganglia and WM calci­
+fication)
+GM1 gangliosidosis
+Demyelination
+Krabbe disease
+Metachromatic leukodystrophy
+Thin corpus callosum
+HSP (i.e., SPG4, SPG11, SPG15, and others)
+Globus pallidus lesions T2-­hypointense: NBIA (SN also involved in BPAN, 
+MPAN), fucosidosis
+T2-­hyperintense: MMA, PDH deficiency, creatine 
+deficiency syndromes
+Focal atrophy or 
+hypoplasia
+Glutaric aciduria type 1 (frontotemporal), 
+H-­ABC (cerebellum ± putamen), 
+Joubert syndrome (cerebellum)
+AGS, Aicardi-­Goutières syndrome; BPAN, β-­propeller protein-­associated 
+neurodegeneration; CP, cerebral palsy; H-­ABC, hypomyelination with 
+atrophy of the basal ganglia and cerebellum; HSP, hereditary spastic 
+paraplegia; MMA, methylmalonic aciduria; MPAN, mitochondrial mem­
+brane protein-­associated neurodegeneration; NBIA, neurodegeneration 
+with brain iron accumulation; PDH, pyruvate dehydrogenase; WM, 
+white matter.
+From Pearson TS, Pons R, Ghaoui R, et al. Genetic mimics of cerebral 
+palsy. Mov Disord. 2019;34:625–636 (Table 2, p. 628).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+History/exam inconsistent with CP
+due to perinatal brain injury
+MRI brain +/– spinal cord
+Consider multi-gene panel or WES based on
+phenotype, clinical and family history
+Infantile developmental delay,
+mixed motor syndrome
+Spasticity
+Dystonia/chorea
+Initial biochemical and genetic studies to consider
+Ataxia
+Abnormal
+Normal/nonspecific
+Directed genetic testing
+based on specific findingsa
+• Serum TSH
+• Serum uric acid
+• Serum amino acids
+• Serum lactate, pyruvate
+• Serum acylcarnitines
+• Serum biotinidase activity
+• Urine organic acids
+• CSF studiesb
+• SNP-CGH microarray
+• Serum ammonia
+• Serum lactate
+• Serum amino acids
+  (including arginine, serine)
+• Urine organic acids
+• Serum biotinidase activity
+• Genetic testing for HSP
+• SNP-CGH microarray
+• Serum AFP
+• Serum lactate, pyruvate
+• Serum biotinidase
+  activity
+• Urine organic acids
+• Mitochondrial genetic
+  analysis, CoQ10 level
+• SNP-CGH microarray
+• Serum TSH
+• Serum uric acid
+• Serum AFP
+• Serum lactate, pyruvate
+• Serum acylcarnitines
+• Urine organic acids
+• Urine purines, pyrimidines
+• Urine creatine, GAA
+• CSF studiesb
+• Genetic testing for NKX2.1
+• SNP-CGH microarray
+Fig. 27.4  General diagnostic approach to the patient with an infantile-­onset, apparently nonprogressive 
+motor disorder. Studies are grouped by predominant clinical presentation; it may be appropriate to consider 
+investigations from more than one group depending on the specific clinical context. aSee examples in Table 
+27.19. bCSF studies: glucose (+serum glucose), lactate, pyruvate, neurotransmitter metabolites (biogenic 
+amines + γ-­aminobutyric acid), pterins, 5-­methyltetrahydrofolate. AFP, α-­fetoprotein; CP, cerebral palsy; CSF, 
+cerebrospinal fluid; GAA, guanidinoacetate; HSP, hereditary spastic paraplegia; SNP-­CGH, single-­nucleotide 
+polymorphism-­comparative genomic hybridization; TSH, thyroid-­stimulating hormone. (From Pearson TS, Pons 
+R, Ghaoui R, et al. Genetic mimics of cerebral palsy. Mov Disord. 2019;34:625–636 [Fig. 1, p. 627].)
+TABLE 27.20  Clinical and Neuroimaging Findings in Hereditary Spastic Paraplegias (HSPs) 
+with Pediatric Onset*
+HSP Form
+HSP Type
+Inheritance
+Gene
+Childhood 
+Onset
+Disease Characteristics†
+Neuroimaging Findings 
+(Brain)
+Pure
+SPG3A
+Aut. dom
+ATL1
++++
+None
+Normal
+Pure
+SPG4
+Aut. dom
+SPAST
+++
+None
+Leukoencephalopathy, thin 
+corpus callosum
+Pure
+SPG6
+Aut. dom
+N1PA1
++
+None
+Normal
+Pure
+SPG10
+Aut. dom
+KIFSA
++++
+Neuropathy
+Normal
+Pure
+SPG12
+Aut. dom
+RTN2
++++
+None
+Normal
+Pure
+SPG31
+Aut. dom
+REEP1
+++
+None
+Normal
+Complicated
+SPG1
+X-­linked
+L1CAM
++++
+Intellectual disability, adducted thumb
+Thin corpus callosum
+Complicated
+SPG2
+X-­linked
+PLP1
+++
+Intellectual disability, epilepsy
+Normal
+Complicated
+SPG7
+Aut. rec
+SPG7
++
+Optic atrophy, neuropathy, cerebellar ataxia
+Cerebellar atrophy
+Complicated
+SPG11
+Aut. rec
+Kl AA 1840
++++
+Intellectual disability, neuropathy
+Leukoencephalopathy, thin 
+corpus callosum
+Complicated
+SPG15
+Aut. rec
+ZFYVE26
++++
+Intellectual disability, retinopathy, cerebellar 
+ataxia
+Leukoencephalopathy, thin 
+corpus callosum
+Complicated
+SPG17
+Aut. rec
+BSCL2
++
+Neuropathy
+Normal
+*Onset before 18 yr of age.
+†Other than the classic HSP symptoms, including spastic paraparesis, atrophy of the distal lower extremities, and neurogenic bladder dysfunction.
+Aut. dom, autosomal dominant; Aut. rec, autosomal recessive; +, occasional; ++, common; +++, characteristic.
+From Lee RW, Poretti A, Cohen JS, et al. A diagnostic approach for cerebral palsy in the genomic era. Neurol Med. 2014;16:821–844 (Table 5, p. 
+832); and Kliegman RM, St. Geme J. Nelson Textbook of Pediatrics. 21st ed. Vol 2. Philadelphia: Elsevier; 2020:3171, Table 616.2.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+468
+SECTION 6  Developmental and Psychiatric Disorders
+to reduce arousal symptoms and to improve affect, perceptual func­
+tioning, cognitive processing, communication, and behavior (Table 
+27.24). Attention must be paid to the use of medications in specific 
+conditions. Valproic acid is more likely to cause hepatotoxicity in GM2 
+gangliosidosis, spinocerebellar degeneration, Friedreich ataxia, Lafora 
+body disease, Alpers disease, and myoclonic epilepsy with ragged red 
+fibers. Parents and capable children should be informed about the 
+medication prescribed, including side effects. Some written guide­
+lines for parents and youth are available for psychopharmacologic 
+medications.
+Anticipatory guidance for parents of children with developmental 
+disabilities involves the same categories used in all children but may be 
+modified because of the unique features of the child’s condition. For 
+example, parents of children with CP should be aware of the possibil­
+ity that their child may be at risk for poor weight gain and aspiration 
+pneumonia because of oral motor dysphagia; strabismus, spinal scolio­
+sis, and deformities (contractures) of the foot, knee, and hip because of 
+muscle spasticity; osteoporosis; decubitus ulcers; epilepsy; and learn­
+ing difficulties.
+Although there are many different causes, children with develop­
+mental disabilities and their families share many common charac­
+teristics, including chronicity of the condition (with no cure in most 
+instances); inability to participate in peer activities; parental feelings 
+of guilt and loss of the “ideal” child; increased expense to care for a 
+disabled child; lost economic opportunities (such as the inability of a 
+parent to return to work because they must care for the child at home); 
+need for personal care (because the child cannot be left alone or with a 
+sitter); confusing systems of health care, insurance coverage, and gov­
+ernmental agencies and rules; and social isolation.
+The monoamine neurotransmitter disorders
+Vitamin B6
+deficiency
+Cofactor deficiency
+Enzyme deficiency
+Defective monoamine
+transport
+DTDS
+TH-D
+AADC-D
+Phenylalanine
+level normal
+PLP-DE
+P-DE
+AD GTPCH-D
+SR-D
+AR GTPCH-D
+PTPS-D
+DHPR-D
+Phenylalanine
+level abnormal
+BH4 deficiency
+Primary monoamine
+neurotransmitter disorders
+Secondary monoamine neurotransmitter
+defects in neurologic disorders
+Monoamine neurotransmitter
+disorders of unknown origin
+Disorders of selective serotonin
+deficiency
+DNRD
+ldiopathic focal dystonia
+PKD
+Mitochondrial diseases
+Rett syndrome
+Epileptic encephalopathies
+Pontocerebellar hypoplasia
+Perinatal asphyxia
+Disorders of folate metabolism
+Phenylketonuria
+Lesch-Nyhan disease
+Opsoclonus-myoclonus
+Leukodystrophies
+Neuropsychiatric disorders
+Dystonic disorders
+Neuromuscular disorders
+Spontaneous periodic hypothermia
+and hyperhidrosis
+Pelizeaus-Merzbacher
+HIE
+PKAN
+Cerebral palsy
+Autistic spectrum disorder
+Nonspecific developmental delay
+Fig. 27.5  Classification of the monoamine neurotransmitter disorders. AADC-­D, aromatic L-­amino acid decarbox­
+ylase deficiency; AD GTPCH-­D, autosomal dominant GTP cyclohydrolase 1 deficiency; AR GTPCH-­D, autosomal 
+recessive GTP cyclohydrolase 1 deficiency; BH4, tetrahydrobiopterin; DHPR-­D, dihydropteridine reductase defi­
+ciency; DNRD, dopa-­nonresponsive dystonia; DTDS, dopamine transporter deficiency syndrome; HIE, hypoxic 
+ischemic encephalopathy; P-­DE, pyridoxine-­dependent epilepsy; PKAN, pantothenate kinase-­associated neu­
+rodegeneration; PKD, paroxysmal kinesigenic dyskinesia; PLP-­DE, pyridoxal-­phosphate–dependent epilepsy; 
+PTPS-­D, 6-­pyruvoyltetrahydropterin synthase deficiency; SR-­D, sepiapterin reductase deficiency; TH-­D, tyrosine 
+hydroxylase deficiency. (From Kurian MA, Gissen P, Smith M, et al. The monoamine neurotransmitter disorders: 
+an expanding range of neurological syndromes. Lancet Neurol. 2011;10:721–731, Fig. 1.)
+TABLE 27.21  Scoring System for Screening 
+Individuals for Fragile X Syndrome*
+Category
+Score
+Criteria
+Family history
+2
+Intellectual disability in sibling, maternal uncle, 
+aunt, nephew, niece, first cousin
+1
+Any other affected relative
+0
+No family history of retardation
+Personality
+2
+Shyness, lack of eye contact followed by friendli­
+ness, verbosity, and echolalia
+1
+Some of these characteristics
+0
+No characteristic
+Ears
+2
+Large and protruding
+1
+Large, not protruding
+0
+Other
+Face
+2
+Long jaw, high and wide forehead
+1
+Only one finding
+0
+No findings
+Body habitus
+2
+Slim, tall, rounded shoulders, hyperextensible 
+fingers, lack of body hair, or obese with female 
+fat distribution, striae, soft skin, lack of body 
+hair (in males)
+2
+Slim or obese (females)
+1
+Only some features
+0
+No features
+*A score of 5 or greater has a sensitivity of 0.88 and specificity of 0.98 
+in comparison with chromosome analysis.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+469
+CHAPTER 27  Intellectual Developmental Disorders (Developmental Delay)
+Environmental support may be needed and may take the form 
+of family therapy, financial counseling, and referral to a disease-­
+oriented volunteer support group or in a “Big Brothers/Big Sisters” 
+program. Formal support includes early intervention for children 
+from birth to 3 years of age, preschool intervention through the 
+school district for children 3–5 years of age, and special education 
+services provided under the Individuals with Disabilities Education 
+Act (IDEA) and Section 504 of the Rehabilitation Act for school-­
+age children. Families may also need assistance in transitioning 
+their adolescent child from school to a work or independent liv­
+ing situation. At each stage in the child’s life, the clinician should 
+review the services the child is receiving and determine whether 
+the family might benefit from additional support. The mnemonic 
+“MD’s DD BASICS” provides a list of content areas for review at 
+each visit (Table 27.25). Checklists to monitor the care of children 
+with specific problems such as Down syndrome are also available 
+(Table 27.26).
+PITFALLS AND HAZARDS IN DEVELOPMENTAL 
+DIAGNOSIS
+The identification of “risk factors” does not imply a specific etiology or 
+diagnosis. It is important to avoid a logical fallacy (post hoc attribu­
+tion) and not base a diagnosis on a specific cause unless there is posi­
+tive evidence to confirm that cause. A history of a low 5-­minute Apgar 
+score with no other symptoms of neonatal encephalopathy is not likely 
+to be the cause of a child’s subsequent developmental disability.
+Dysmorphic and physically disabled children are often assumed 
+to have GDD/ID, and, conversely, children with normal facial 
+appearance and motor skills may not be identified early as having 
+TABLE 27.22  Maternal Infections Affecting the Fetus or Newborn
+Infection
+Mode(s) of Transmission
+Neonatal Outcome
+Bacteria
+Group B streptococcus
+Ascending cervical
+Sepsis, pneumonia
+Escherichia coli
+Ascending cervical
+Sepsis, pneumonia
+Listeria monocytogenes
+Transplacental
+Sepsis, pneumonia
+Mycoplasma hominis
+Ascending cervical
+Pneumonia
+Chlamydia trachomatis
+Vaginal passage
+Conjunctivitis, pneumonia
+Syphilis
+Transplacental, vaginal passage
+Congenital syphilis
+Neisseria gonorrhoeae
+Vaginal passage
+Ophthalmia (conjunctivitis), sepsis, meningitis
+Mycobacterium tuberculosis
+Transplacental
+Prematurity, fetal demise, congenital tuberculosis
+Virus
+Rubella
+Transplacental
+Congenital rubella
+Cytomegalovirus
+Transplacental, breast milk (rare)
+Congenital cytomegalovirus or asymptomatic
+HIV
+Transplacental, vaginal passage, breast milk
+Congenital or acquired immunodeficiency syndrome
+Hepatitis B
+Vaginal passage, transplacental, breast milk
+Neonatal hepatitis, chronic hepatitis B surface antigen carrier state
+Hepatitis C
+Transplacental and vaginal passage
+Rarely neonatal hepatitis. −5% chronic carrier state possible
+Herpes simplex type 2 or 1
+Intrapartum exposure
+Neonatal herpes simplex virus
+Neonatal encephalitis, disseminated viremia, or cutaneous infection
+Varicella-­zoster
+Transplacental:
+Early
+Congenital anomalies
+Late
+Neonatal varicella
+Parvovirus
+Transplacental
+Fetal anemia, hydrops
+Coxsackievirus B
+Fecal-­oral
+Myocarditis, meningitis, hepatitis
+Rubeola
+Transplacental
+Abortion, fetal measles
+West Nile
+Transplacental (rare)
+Possible perinatal
+Uncertain, possible rash, encephalitis
+Zika
+Transplacental
+Congenital microcephaly, intracranial calcifications, brain abnormalities, 
+retinal lesions
+Chikungunya
+Transplacental (rare), perinatal
+Neonatal encephalitis
+Dengue
+Transplacental, perinatal
+Neonatal sepsis-­like symptoms
+Parasites
+Toxoplasmosis
+Transplacental
+Congenital toxoplasmosis
+Malaria
+Transplacental
+Abortion, prematurity, intrauterine growth restriction
+Fungi
+Candida
+Ascending, cervical
+Sepsis, pneumonia, rash
+From Kliegman RM, St. Geme J. Nelson Textbook of Pediatrics. 21st ed. Vol 1. Philadelphia: Elsevier; 2020:879, Table 114.3.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+470
+SECTION 6  Developmental and Psychiatric Disorders
+GDD/ID. Cognitive development is usually unaffected in a num­
+ber of striking dysmorphic syndromes (e.g., Treacher Collins syn­
+drome, achondroplasia).
+Children with physical disabilities, language disorders, ADHD, 
+or anxiety disorder may be misdiagnosed as having an intellec­
+tual disorder unless appropriate measures are used to account for 
+these comorbid conditions. A child with mild cerebral palsy may 
+score low on tasks that require motor responses. In this situation, a 
+motor-­free cognitive test should be used to judge intellectual ability. 
+Similarly, a child with low language abilities may show a wide dis­
+crepancy between subnormal verbal scores and average nonverbal 
+scores, making a “composite IQ” score invalid. Alternatively, a non­
+verbal test of cognitive ability can be used. Evaluation of children 
+with behavioral and/or emotional challenges should include appro­
+priate accommodations, such as frequent breaks during testing or 
+extending testing over several sessions, to ensure that the results 
+reflect the child’s innate ability and not the impact of other, extra­
+neous, factors.
+Identifying a child as being “at risk” for developmental delay may alter 
+the family’s perceptions, making the child vulnerable. This might lead 
+to constraints on the child’s experiences and diminished expectations of 
+TABLE 27.23  Laboratory Tests in the Diagnosis of Specific Perinatal Infections
+Infectious Agent
+Acceptable Specimen(s) from 
+Infant Unless Otherwise Indicated Laboratory Test
+Chlamydia trachomatis
+Conjunctiva, nasopharyngeal swab, tracheal 
+aspirate
+Culture using special transport media
+Nucleic acid amplification tests (NAATs) are not U.S. Food and Drug Adminis­
+tration approved for specimens from neonates*
+Genital mycoplasmas (Mycoplasma 
+hominis, M. genitalium, Ureaplasma 
+urealyticum)
+Tracheal aspirate, blood, or cerebrospinal 
+fluid (CSF)
+Culture using special transport media
+Real-­time polymerase chain reactions (PCRs)
+Neisseria gonorrhoeae
+Conjunctiva, blood, CSF, or synovial fluid
+Finding gram-­negative intracellular diplococci on Gram stain is suggestive
+Culture on special media establishes the diagnosis
+Syphilis (Treponema pallidum)
+Serum (mother)
+Serum CSF
+Rapid plasma reagin (RPR), and, if reactive, a specific treponemal test† RPR
+Venereal Disease Research Laboratories (VDRL)
+Cytomegalovirus (CMV)
+Urine, saliva, blood, or CSF
+PCR for detection of CMV DNA
+Obtain within 2–4 wk of birth
+Enteroviruses
+Blood, nasopharyngeal swab, throat swab, 
+conjunctival swab, tracheal aspirate, urine, 
+stool, rectal swab, or CSF
+PCR
+Cell culture (sensitivity depends on serotype and cell lines used)
+Hepatitis B
+Serum (mother)
+Serum
+Hepatitis B surface antigen (HBsAg)
+If mother’s HBsAg is positive, at age 9 mo, test the infant for HBsAg and 
+hepatitis B surface antibody
+Herpes simplex viruses 1 and 2
+Conjunctiva, skin vesicle scraping, whole 
+blood, or mouth vesicles
+CSF
+“Surface cultures” (mouth, nasopharynx, 
+conjunctiva, and anus)
+PCR or cell culture
+PCR
+PCR or cell culture
+HIV
+Serum (mother)
+Whole blood
+Fourth-­generation HIV antigen/antibody test HIV DNA PCR
+Candida species
+Blood, skin biopsy, or CSF
+Culture
+Zika virus
+Blood, urine, CSF
+NAAT and serum immunoglobulin M (IgM)
+NAAT may be falsely negative
+Immunoglobulin G (IgG) antibodies may reflect maternal exposure
+Antibodies may cross-­react with other flaviviruses
+*Published evaluations of NAATs for these indications are limited, but sensitivity and specificity are expected to be at least as high as those for culture.
+†Treponemal tests include the T. pallidum particle agglutination (TP-­PA) test, T. pallidum enzyme immunoassay (TP-­EIA), T. pallidum chemilumines­
+cent assay (TP-­CIA), and fluorescent treponemal antibody absorption (FTA-­ABS) test.
+From Kliegman RM, St. Geme J. Nelson Textbook of Pediatrics. 21st ed. Vol 1. Philadelphia: Elsevier; 2020:1012, Table 131.6.
+TABLE 27.24  Psychopharmacologic Agents 
+That May Be Useful in the Treatment of 
+Children with Developmental Disabilities
+Medication
+Possible Indications
+Carbamazepine
+Mania, bipolar disorder, impulsivity, aggression, 
+seizures, trigeminal neuralgia
+Clomipramine
+Obsessive-­compulsive disorder, depression
+Clonazepam
+Mania, bipolar disorder, seizure
+Clonidine, guanfacine
+Manic episodes, attention-­deficit/hyperactivity 
+disorder, aggression
+Sertraline, other SSRIs, 
+risperidone, olanzapine, 
+aripiprazole
+Obsessive-­compulsive disorder, depression, 
+anxiety
+Aggressive, self-­injurious behavior
+Methylphenidate
+Attention-­deficit/hyperactivity disorder: dextro­
+amphetamine
+Aggression, impulsivity
+Valproic acid
+Bipolar disorder, especially rapidly cycling
+SSRIs, selective serotonin reuptake inhibitors.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+471
+CHAPTER 27  Intellectual Developmental Disorders (Developmental Delay)
+performance. When a child is born with a single risk factor, such as pre­
+maturity, the parents may be afraid to place demands on the child, cre­
+ating a vicious cycle of “learned helplessness” and immature behaviors.
+Parents of children who are informed that their child is not normal 
+often grieve for their “lost” (typically developing) child. This process of 
+grieving involves stages that include denial, sadness, anger, and guilt. 
+One parent may be experiencing persistent anger while another is still 
+sad or depressed. This difference in stages may make communication 
+between them exceedingly difficult. Grieving may occur at times other 
+than the initial diagnosis, for example, on the first day of kindergarten. 
+These feelings may be expressed in nonfunctional ways, such as denial 
+that leads to unending shopping for professionals who will “cure” the 
+child or anger that is expressed at the clinician, thereby thwarting efforts 
+at building a trusting and supportive relationship. However, many 
+authorities believe that these emotions are essential steps that allow the 
+parents to release the old dreams and secure new ones. The goal of the 
+therapeutic clinician is to accept the parents at whatever stage they are 
+in and to help them understand the normalcy of the stages.
+TABLE 27.25  Providing Primary Care to 
+Children with Developmental Disabilities 
+Using the Mnemonic “MD’S DD BASICS”
+MD’S DD 
+BASICS
+Things to Check
+Potential Consultant(s)
+Motor
+Ambulation, seating, posi­
+tion, spine
+Orthopedist, physiatrist, PT, 
+OT
+Diet
+Weight, fat stores, diet, 
+feeding problems
+Nutritionist/dietitian, speech 
+pathologist, OT
+Seizures
+Seizure record; drug levels 
+and side effects
+Neurologist
+Dermatology
+Skin breakdown
+Nursing, plastic surgeon
+Dentistry
+Teeth, gums
+Dentist
+Behavior
+Aggression, self-­injury, 
+sleep, pica, interfering 
+behavior
+Psychologist, psychiatrist
+Advocacy
+Finances, family support, 
+program aid
+Social worker
+Sensory
+Vision, hearing
+Ophthalmologist, audiologist
+Infections
+Immunizations, environ­
+ment, lungs, urine
+Infection control nurse
+Constipation
+Stools, gastroesophageal 
+reflux
+Gastroenterologist
+Sexuality
+Menses, sexual activity, 
+masturbation, contra­
+ception, prevention of 
+sexually transmitted 
+diseases
+Gynecologist, habilitation 
+program
+OT, occupational therapist; PT, physical therapist.
+Modified from Sulkes S. MD’s DD BASICS: identifying common prob­
+lems and preventing secondary disabilities. Pediatr Ann. 1995;24:245–
+254.
+TABLE 27.26  Medical Checklist for a Child 
+with Down Syndrome
+Age
+Condition
+Monitoring
+Birth to 2 mo
+Etiology, recurrence 
+risk
+Chromosome analysis and genetic 
+counseling
+Hypothyroidism
+TSH, T3, and T4
+Congenital heart 
+defect
+Pediatric cardiology evaluation, 
+including echocardiography
+Family stress
+Referral to Down Syndrome Asso­
+ciation
+2–12 mo
+Refractive errors, 
+cataracts
+Pediatric ophthalmologic evaluation
+Hearing loss; recur­
+rent otitis media
+Auditory brainstem evoked response
+Delayed develop­
+ment
+Formal developmental evaluations
+1–12 yr
+Delayed develop­
+ment
+Enrollment in early intervention 
+program
+Hypothyroidism
+Annual TSH
+Hearing loss
+Auditory testing: annually between 1 
+and 3 yr and every 2 yr between 3 
+and 13 yr
+Refractive error
+Ophthalmologic examination every 
+2 yr
+Atlantoaxial insta­
+bility
+Cervical spine roentgenography at 2 
+and 12 yr
+Routine care
+Dental examination at 2 yr, then every 
+6 mo (prophylaxis for subacute 
+bacterial endocarditis, if indicated)
+12–18 yr
+Hypothyroidism
+TSH annually
+Decreased hearing
+Auditory testing every 2 yr
+Refractive error
+Ophthalmologic examination every 
+2 yr
+Mitral valve prolapse
+Echocardiography
+T3, triiodothyronine; T4, thyroxine; TSH, thyroid-­stimulating hormone.
+   	 S U MMA RY  A N D  R E D  F L A G S
+Developmental disabilities are common. Identifying children with 
+developmental delay involves both specific attention to children with 
+biologic and/or sociocultural risks and routine developmental sur­
+veillance and screening during well-­child visits. All children with 
+suspected developmental delay should receive a formal multidisci­
+plinary assessment that includes a systematic diagnostic approach 
+with a “tiered” strategy for laboratory and neuroimaging evalua­
+tions. Developmental regression, vomiting, seizures, or lethargy 
+suggests the presence of a potentially life-­threatening metabolic 
+disorder. Parents need to understand that it is not always possible 
+to identify a single defined disease process responsible for their 
+child’s developmental disability. Even if a specific etiology is not 
+found, comprehensive clinical assessments can identify the child’s 
+profile of strengths and weaknesses. Children with developmental 
+disabilities will require meticulous monitoring over time and coor­
+dination of care to optimize their functional status. All children 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+472
+SECTION 6  Developmental and Psychiatric Disorders
+with developmental disabilities will benefit from early intervention, 
+therapeutic, and special education services to help maximize their 
+developmental potential and to promote independence and personal 
+autonomy.
+Red flags include developmental regression (see Chapter 28), dys­
+morphology, developmental delay associated with vomiting or lethargy 
+(consider IEMs), failure to thrive, seizures, and recognition of a treat­
+able cause of delay or CP (http://www.treatable-­id.org/).
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+472.e1
+BIBLIOGRAPHY
+Aase JM. Diagnostic Dysmorphology. New York: Plenum Medical Book; 1990.
+Akins RS, Krakowiak P, Angkustsiri K, et al. Utilization patterns of conven­
+tional and complementary/alternative treatments in children with autism 
+spectrum disorders and developmental disabilities in a population-­based 
+study. J Dev Behav Pediatr. 2014;35:1–10.
+American Academy of Pediatrics Committee on Fetus and Newborn and 
+American College of Obstetricians and Gynecologists Committee on Ob­
+stetric Practice. The Apgar score. Pediatrics. 2006;117:1444–1447.
+American Academy of Pediatrics Task Force on Newborn and Infant Hearing. 
+Newborn and infant hearing loss: detection and intervention. Pediatrics. 
+1999;103:527–530.
+American Psychiatric Association. Diagnostic and Statistical Manual of Mental 
+Disorders (DSM-­V). 5th ed. Arlington, VA: American Psychiatric Associa­
+tion; 2013.
+Aylward GP. The relationship between environmental risk and developmental 
+outcome. J Dev Behav Pediatr. 1992;13:222–229.
+Badawi N, Felix JF, Kurinczuk JJ, et al. Cerebral palsy following term new­
+born encephalopathy: a population-­based study. Dev Med Child Neurol. 
+2005;47:293–298.
+Ballantyne AO, Spilkin AM, Hesselink J, et al. Plasticity in the developing 
+brain: intellectual, language and academic functions in children with 
+ischaemic perinatal stroke. Brain. 2008;131:2975–2985.
+Baron IS, Leonberger KA. Assessment of intelligence in the preschool period. 
+Neuropsychol Rev. 2012;22:334–344.
+Battaglia A, Carey JC. Diagnostic evaluation of developmental delay/mental 
+retardation: an overview. Am J Med Genet. 2003;117C:3–14.
+Battaglia A, Doccini V, Bernardini L, et al. Confirmation of chromosom­
+al microarray as a first-­tier clinical diagnostic test for individuals with 
+developmental delay, intellectual disability, autism spectrum disorders and 
+dysmorphic features. Eur J Paediatr Neurol. 2013;17:589–599.
+Berry SA. Newborn screening. Clin Perinatol. 2015;42:441–453.
+Bick J, Zhu T, Stamoulis C, et al. Effect of early institutionalization and foster 
+care on long-­term white matter development: a randomized clinical trial. 
+JAMA Pediatr. 2015;169:211–219.
+Blasco PA. Pitfalls in developmental diagnosis. Pediatr Clin North Am. 
+1991;38:1425–1438.
+Centers for Disease Control and Prevention. Economic costs associated with 
+mental retardation, cerebral palsy, hearing loss, and vision impairment, 
+United States, 2003. MMWR Morb Mortal Wkly Rep. 2004;53(03):57–59.
+Centers for Disease Control and Prevention. Prevalence of autism spectrum 
+disorder among children aged 8 years—autism and developmental dis­
+abilities monitoring network, 11 sites, United States, 2010. MMWR Morb 
+Mortal Wkly Rep. 2014;63(SS02):1–21.
+Chan E. The role of complementary and alternative medicine in attention-­
+deficit hyperactivity disorder. J Dev Behav Pediatr. 2002;23:S37–S45.
+Council on Children with Disabilities, Section on Developmental Behavioral 
+Pediatrics, Bright Futures Steering Committee, et al. Identifying infants 
+and young children with developmental disorders in the medical home: 
+an algorithm for developmental surveillance and screening. Pediatrics. 
+2006;118:405–420.
+Curry CJ, Stevenson RE, Aughton D, et al. Committee of the ACMG. Evalua­
+tion of mental retardation: recommendations of a consensus conference. 
+Am J Med Genet. 1997;72:468–477.
+Day RE, Schutt WH. Normal children with large heads—benign familial mega­
+lencephaly. Arch Dis Child. 1979;54:512–517.
+De Leersnyder H, Bresson JL, de Blois MC, et al. Beta-­1-­adrenergic antagonists 
+and melatonin reset the clock and restore sleep in a circadian disorder, 
+Smith-­Magenis syndrome. J Med Genet. 2003;40:74–78.
+Dudova I, Kasparova M, Markova D, et al. Screening for autism in preterm 
+children with extremely low and very low birth weight. Neuropsychiatr Dis 
+Treat. 2014;10:277–282.
+Dworkin PH. British and American recommendations for developmental 
+monitoring: the role of surveillance. Pediatrics. 1989;84:1000–1010.
+Editorial. Developmental surveillance. Lancet. 1986;1:950–­951.
+Escalona SK. Babies at double hazard: early development of infants at biologic 
+and social risk. Pediatrics. 1982;70:670–676.
+Fletcher JM, Barnes M, Dennis M. Language development in children with 
+spina bifida. Semin Pediatr Neurol. 2002;9:201–208.
+Frankenburg WK, Dodds JB. The Denver Developmental Screening Test. J 
+Pediatr. 1967;71:181–191.
+Gesell A, Amatruda C. Developmental Diagnosis. New York: Paul Hoeber; 
+1941.
+Glascoe FP. Early detection of developmental and behavioral problems. Pediatr 
+Rev. 2000;21:272–280.
+Glascoe FP. The value of parents’ concerns to detect and address developmen­
+tal and behavioural problems. J Paediatr Child Health. 1999;35:1–8.
+Graham JM. Smith’s Recognizable Patterns of Human Deformation. 3rd ed. 
+Elsevier; 2007.
+Harlor AD, Bower C. The Committee on Practice and Ambulatory Medicine, 
+et al. Clinical report—hearing assessment in infants and children: recom­
+mendations beyond neonatal screening. Pediatrics. 2009;124:1252–1263.
+Henderson LB, Applegate CD, Wohler E, et al. The impact of chromosomal 
+microarray on clinical management: a retrospective analysis. Genet Med. 
+2014;16:657–664.
+Hickson GB, Altemeier WA, O’Connor S. Concerns of mothers seeking care in 
+private pediatric offices: opportunities for expanding services. Pediatrics. 
+1983;72:619–624.
+Hreidarsson SJ, Shapiro BK, Capute AJ. Age of walking in the cognitively 
+impaired. Clin Pediatr (Phila). 1983;22:248–250.
+Huffman LC, Sutcliffe TL, Tanner ISD, et al. Management of symptoms of 
+children with autism spectrum disorders: a comprehensive review of 
+pharmacologic and complementary-­alternative medicine treatments. J Dev 
+Behav Pediatr. 2011;32:56–68.
+Idring S, Magnusson C, Lundberg M, et al. Parental age and the risk of autism 
+spectrum disorders: findings from a Swedish population-­based cohort. Int 
+J Epidemiol. 2014;43:107–115.
+James HE, Perszyk A. Concepts on childhood microcrania: a clinical overview 
+for the neurosurgeon who is evaluating a child with a small head. Pediatr 
+Neurosurg. 2011;47:354–358.
+Johnson CP, Myers SM. Council on Children with Disabilities. Identification 
+and evaluation of children with autism spectrum disorders. Pediatrics. 
+2007;120:1183–1215.
+Jones KL, Jones MC, del Campo M. Smith’s Recognizable Patterns of Human 
+Malformation. 7th ed. Elsevier; 2013.
+Karoly LA, Kilburn MR, Cannon JS. Proven Benefits of Early Interventions. 
+Rand Corporation; 2005. www.rand.org/content/dam/rand/pubs/research_
+briefs/2005/RAND_RB9145.pdf.
+Kemper KJ, Vohra S, Walls R. The use of complementary and alternative medi­
+cine in pediatrics. Pediatrics. 2008;122:1374–1386.
+Kuzniewicz MW, Wi S, Qian Y, et al. Prevalence and neonatal factors 
+associated with autism spectrum disorders in preterm infants. J Pediatr. 
+2014;164:20–25.
+Lathi RB, Hazard FK, Heerema-­McKenney A, et al. First trimester miscarriage 
+evaluation. Semin Reprod Med. 2011;29:463–469.
+Leach EL, Shevell M, Bowden K, et al. Treatable inborn errors of metabolism 
+presenting as cerebral palsy mimics: systematic literature review. Orphanet 
+J Rare Dis. 2014;9:197.
+Lee RW, Poretti A, Cohen JS, et al. A diagnostic approach for cerebral palsy in 
+the genomic era. NeuroMolecular Med. 2014;16:821–844.
+Linver MR, Brooks-­Gunn J, Kohen DE. Family processes as pathways from 
+income to young children’s development. Dev Psychol. 2002;38:719–734.
+Luckasson R, Borthwick-­Duffy S, Buntinx WHE, et al. Mental Retardation: 
+Definition, Classification, and Systems of Supports. 9th ed. Washington, DC: 
+American Association on Mental Retardation; 1992.
+Maher CO, Piatt JH, Section on Neurologic Surgery. Incidental findings on 
+brain and spine imaging in children. Pediatrics. 2015;135:e1084–e1096.
+Martin GR, Beekman RH, Mikula EB, et al. Implementing recommended screen­
+ing for critical congenital heart disease. Pediatrics. 2013;132:e185–e192.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+Bibliography
+472.e2
+Michelson DJ, Shevell MI, Sherr EH, et al. Evidence report: genetic and 
+metabolic testing on children with global developmental delay. Neurology. 
+2011;77:1629–1635.
+Miller DT, Adam MP, Aradhya S, et al. Consensus statement: chromosom­
+al microarray is a first-­tier clinical diagnostic test for individuals with 
+developmental disabilities or congenital anomalies. Am J Hum Genet. 
+2010;86:749–764.
+Moeschler JB, Shevell M, Committee on Genetics, American Academy 
+of Pediatrics. Clinical report. Comprehensive evaluation of the child 
+with intellectual disability or global developmental delays. Pediatrics. 
+2014;134:e903–e918.
+Montgomery TR. The dysmorphology examination. In: Accardo PJ, ed. Capute 
+and Accardo’s Neurodevelopmental Disabilities in Infancy and Childhood. 
+3rd ed. Vol. 1. Baltimore: Paul H. Brookes; 2008:311–320.
+Moster D, Lie RT, Markestad T. Joint association of Apgar scores and early 
+neonatal symptoms with minor disabilities at school age. Arch Dis Child 
+Fetal Neonatal Ed. 2002;86:F16–F21.
+Murphy CC, Yeargin-­Allsopp M, Decoufle P, et al. The administrative 
+prevalence of mental retardation in 10-­year-­old children in metropolitan 
+Atlanta, 1985 through 1987. Am J Public Health. 1995;85:319–323.
+Nelson HD, Bougatsos C, Nygren P. Universal newborn hearing screening: 
+systematic review to update the 2001 US Preventive Services Task Force 
+recommendations. Pediatrics. 2008;122:e266–e276.
+Newborn Screening Authoring Committee. Newborn screening expands: 
+recommendations for pediatrician and medical homes—implications for 
+the system. Pediatrics. 2008;121:192–217.
+Nordenbaek C, Jorgensen M, Kyvik KO, et al. A Danish population-­based 
+twin study on autism spectrum disorders. Eur Child Adolesc Psychiatry. 
+2014;23:35–43.
+Pakula AT, Van Naarden Braun K, Yeargin-­Allsopp M. Cerebral palsy: classifi­
+cation and epidemiology. Phys Med Rehabil Clin N Am. 2009;20:425–452.
+Palfrey JS, Singer JD, Walker DK, et al. Early identification of children’s special 
+needs: a study in five metropolitan communities. J Pediatr. 1987;111:651–
+659.
+Pimperton H, Blythe H, Kreppner J, et al. The impact of universal newborn 
+hearing screening on long-­term literacy outcomes: a prospective cohort 
+study. Arch Dis Child. 2016;101:9–15.
+Purser HRM, Thomas MSC, Snoxall S, et al. Definitions versus categorization: 
+assessing the development of lexico-­semantic knowledge in Williams 
+syndrome. Int J Lang Commun Disord. 2011;46:361–373.
+Rapin I, Segalowitz SJ. On the nature and scope of child neuropsychology. In: 
+Segalowitz SJ, Rapin I, eds. Handbook of Neuropsychology. 2nd ed. Vol. 8, 
+Part I. Child neuropsychology. New York: Elsevier; 2002:1–6.
+Riggs ER, Wain KE, Riethmaier D, et al. Chromosomal microarray impacts 
+clinical management. Clin Genet. 2014;85:147–153.
+Rodriguez DP, Poussaint TY. Neuroimaging of the child with developmental 
+delay. Top Magn Reson Imaging. 2007;18:75–92.
+Sand N, Silverstein M, Glascoe FP, et al. Pediatricians’ reported practices 
+regarding developmental screening: do guidelines work? Do they help? 
+Pediatrics. 2005;116:174–179.
+Schaefer GB, Bodensteiner JB. Radiological findings in developmental delay. 
+Semin Pediatr Neurol. 1998;5:33–38.
+Schaefer GB, Sheth RD, Bodensteiner JB. Cerebral dysgenesis: an overview. 
+Neurol Clin. 1994;12:773–788.
+Schalock RL, Luckasson RA, Shogren KA, et al. The renaming of mental 
+retardation: understanding the change to the term intellectual disability. 
+Intellect Dev Disabil. 2007;45:116–124.
+Scheiner AP, Sexton ME. Prediction of developmental outcome using a perina­
+tal risk inventory. Pediatrics. 1991;88:1135–1143.
+Segel R, Ben-­Pazi H, Zeligson S, et al. Copy number variations in cryptogenic 
+cerebral palsy. Neurology. 2015;84:1660–1668.
+Seltzer MM, Floyd F, Greenberg J, et al. Life course impacts of mild intellectual 
+deficits. Am J Ment Retard. 2005;110:451–468.
+Shevell M, Ashwal S, Donley D, et al. Practice parameter: evaluation of the 
+child with global developmental delay. Neurology. 2003;60:367–380.
+Silove N, Collins F, Ellaway C. Update on the investigation of children with 
+delayed development. J Paediatr Child Health. 2013;49:519–525.
+Smith RD. The use of developmental screening tests by primary-­care pediatri­
+cians. J Pediatr. 1978;93:524–527.
+Soden SE, Saunders CJ, Willig LK, et al. Effectiveness of exome and genome 
+sequencing guided by acuity of illness for diagnosis of neurodevelopmental 
+disorders. Sci Transl Med. 2014;6(265):265ra168.
+Srour M, Shevell M. Genetics and the investigation of developmental delay/
+intellectual disability. Arch Dis Child. 2014;99:386–389.
+Stevenson RE, Schwartz CE. X-­linked intellectual disability: unique vulnerabil­
+ity of the male genome. Dev Disabil Res Rev. 2009;15:361–368.
+Stiles J. Neural plasticity and cognitive development. Dev Neuropsychol. 
+2000;18:237–272.
+Tarini BA, Zikmund-­Fisher BJ, Saal HM, et al. Primary care providers’ initial 
+evaluation of children with global developmental delay: a clinical vignette 
+study. J Pediatr. 2015;167:1404–1408.
+Tarpey PS, Smith R, Pleasance E, et al. A systematic, large-­scale resquencing 
+screen of X-­chromosome coding exons in mental retardation. Nat Genet. 
+2009;41(5):535–543.
+Thorpe HS, Werner EE. Developmental screening of preschool children: a 
+critical review of inventories used in health and educational programs. 
+Pediatrics. 1974;53:362–370.
+Valente EM, Ferraris A, Dallapiccola B. Genetic testing for paediatric neuro­
+logical disorders. Lancet. 2008;7:1113–1126.
+Van Karnebeek CD, Jansweijer MC, Leenders AG, et al. Diagnostic investiga­
+tions in individuals with mental retardation: a systematic literature review 
+of their usefulness. Eur J Hum Genet. 2005;13:6–25.
+Van Karnebeek CDM, Scheper FY, Abeling NG, et al. Etiology of mental retar­
+dation in children referred to a tertiary care center: a prospective study. Am 
+J Ment Retard. 2005;110(4):253–267.
+Van Karnebeek CDM, Shevell M, Zschocke J, et al. The metabolic evaluation of 
+the child with an intellectual developmental disorder: diagnostic algorithm 
+for identification of treatable causes and new digital resource. Mol Genet 
+Metab. 2014;111:428–438.
+Van Karnebeek CDM, Stockler S. Treatable inborn errors of metabolism caus­
+ing intellectual disability: a systematic literature review. Mol Genet Metab. 
+2012;105:368–381.
+Yeargin-­Allsopp M, Drews CD, Decoufle P, et al. Mild mental retardation in 
+black and white children in metropolitan Atlanta: a case-­control study. Am 
+J Public Health. 1995;85:324–328.
+Zablotsky B, Black LI, Maenner MJ, et al. Prevalence and trends of devel­
+opmental disabilities among children in the United States: 2009-2017. 
+Pediatrics. 2019;144:e20190811.
+Zouvelou V, Yubero D, Apostolakopoulou L, et al. The genetic etiology in 
+cerebral palsy mimics: the results from a Greek tertiary care center. Eur J 
+Paediatr Neurol. 2019;23:427–437.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

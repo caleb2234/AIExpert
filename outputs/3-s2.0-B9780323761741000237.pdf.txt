@@ -1,0 +1,1362 @@
+398
+Hematuria is a common issue faced by primary physicians who care 
+for children. While it can cause great anxiety in the patient and family 
+when it presents as gross hematuria, rarely does hematuria alone her­
+ald a serious illness during childhood. Indeed, despite thorough evalu­
+ation, no cause can be found in a large percentage of children who have 
+hematuria. Nearly 40% of children who present with gross hematuria 
+and 80% of patients with persistent, isolated microscopic hematuria 
+have no identifiable cause despite a thorough investigation. This raises 
+the question of how much investigation should be performed on a child 
+who presents with hematuria, particularly if it is isolated microscopic 
+hematuria, because the evaluation can be costly and at times invasive.
+How extensive an evaluation is appropriate depends much on 
+the context. Those children who present with gross hematuria or 
+microscopic hematuria with associated signs or symptoms deserve a 
+thorough evaluation. These two groups contain those more likely to 
+have an identifiable cause and include the subset that has an acute or 
+potentially serious illness that can progress to significant morbidity or 
+sequelae if not identified and treated. Associated symptoms and signs 
+that indicate the need for prompt evaluation include other urinary or 
+systemic symptoms that led to testing the urine for blood, and findings 
+of hypertension, edema, poor growth, fever, or other systemic signs at 
+presentation.
+The more difficult question is how much testing is required of 
+an apparently healthy child discovered to have isolated microscopic 
+hematuria on routine screening urinalysis. Thorough testing of such 
+a child with no symptoms, a normal physical examination, and no 
+significant family history of kidney disease rarely identifies a cause of 
+hematuria. A screening urinalysis in children, with the potential atten­
+dant costly and usually uninformative additional investigation, is not 
+recommended for early school-­aged children. It is reasonable to screen 
+children who have a significant family history of kidney disease, partic­
+ularly if there is a family history of hereditary nephritis.
+GROSS HEMATURIA
+Gross hematuria, defined as blood in the urine visible to the naked eye, 
+is a dramatic symptom that is usually brought to medical attention, 
+unless an older child with the symptom is too frightened to bring it to 
+the attention of the parents. Carefully defining the appearance of the 
+urine can be the first and a major clue to the origin of the blood. Hema­
+turia emanating from a nonglomerular, lower urinary tract source can 
+present as frankly bloody urine varying in color from dark red, cherry, 
+or pink-­tinged urine. On occasion, lower tract hematuria can result in 
+passing blood clots. Seeing blood in the urine only on initiation or at 
+termination of voiding is an additional clue that the source is from the 
+lower tract. Blood seen at the urethral meatus or only on initiation of 
+voiding suggests a urethral source. In contrast, hematuria originating 
+from a glomerular source more often presents with description of other 
+color changes in the urine, such as brown-­, cola-­, tea-­, or, on occasion, 
+even green-­colored urine.
+The first step when presented with this symptom is to perform a 
+urinalysis. If no hemoglobin is found on macroscopic urinalysis, 
+then causes of urine discoloration other than hematuria need to be 
+considered (Table 23.1). One common presentation that can be par­
+ticularly frightening to a parent is finding a pink or red-­tinged wet 
+diaper, thought to be blood in the urine. This most often is from a sim­
+ple benign entity commonly called red diaper syndrome, caused by 
+precipitation of urate crystals in the diaper. A macroscopic urinalysis 
+negative for heme indicates this to be the most likely cause, and in an 
+otherwise healthy infant, no further investigation is warranted.
+If red blood cells (RBCs) are found in the urine of a child with a 
+history suggestive of gross hematuria, then evaluation for potential 
+causes is needed (Tables 23.2 and 23.3 and Fig. 23.1). The first step is a 
+thorough history and physical examination.
+History
+Development of pain with the onset of hematuria usually indicates 
+a lower urinary tract source. Irritative symptoms, such as dysuria, 
+urgency, or frequency, can be seen in bleeding from the bladder from a 
+variety of causes. Although not a typical feature of urinary tract infec­
+tion (UTI), the most common identifiable cause of gross hematuria is 
+a UTI and is usually accompanied by significant dysuria or abdom­
+inal pain, and sometimes fever. Severe and episodic or colicky flank 
+or abdominal pain should raise suspicion for urolithiasis, which may 
+have accompanying dysuria as the stone is being passed. Urinary tract 
+obstruction, such as posterior urethral valves in males or ureteropelvic 
+junction obstruction in either gender, may remain occult until infection 
+or trauma causes hematuria. In the former, the only preceding symp­
+toms may be a male who voids only infrequently, commonly strains to 
+void, or has ongoing urinary incontinence beyond the toddler years. 
+Bleeding from renal tumors is an uncommon cause of gross hematu­
+ria in children but should be considered particularly in the setting of 
+associated abdominal pain, a palpable mass, or passing of blood clots.
+Gross hematuria due to glomerular disease is rarely accompanied 
+by significant pain, though some may report mild abdominal pain or 
+flank discomfort. An exception is immunoglobulin A (IgA) vasculi­
+tis (Henoch-­Schönlein purpura [HSP]), a common pediatric systemic 
+vasculitis, which can have variable, including severe, gastrointestinal 
+disease. Clues to underlying glomerular disease may be a recent history 
+of pharyngitis, streptococcal skin infection, or other febrile illnesses, 
+indicating possible acute postinfectious glomerulonephritis. Patients 
+with glomerulonephritis or renal insufficiency may report shortness 
+of breath, edema, or weight gain from fluid retention. They may also 
+have a headache or visual changes secondary to severe hypertension. 
+Abdominal pain, diarrhea, hematochezia, rash, and arthralgias are 
+symptoms indicative of a systemic vasculitis, such as IgA vasculitis 
+Hematuria
+Scott K. Van Why and Cynthia G. Pan
+23
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+399
+CHAPTER 23  Hematuria
+(HSP). Recurrent, painless gross hematuria is often seen in young 
+patients with IgA nephropathy in association with concurrent respira­
+tory illness. Recurrent fever, weight loss, alopecia, mouth ulcers, chest 
+pain, fatigue, and arthritis suggest systemic lupus erythematosus (SLE). 
+Hemoptysis or cough is seen in pulmonary-­renal syndromes caused by 
+antineutrophil cytoplasmic antibody (ANCA)-­associated disease, and 
+on occasion in lupus and HSP.
+The patient’s medical history may be most informative. Stressed 
+neonates from birth asphyxia, infection, or volume depletion can 
+develop renal vein thrombus that presents as gross hematuria. Patients 
+with African ancestry should be queried for personal or family history 
+of sickle cell hemoglobinopathy since gross hematuria from renal pap­
+illary necrosis can occur in those with sickle cell disease as well as in 
+children with simple sickle cell trait. Medication history can uncover a 
+cause of gross hematuria from drug-­induced interstitial nephritis, seen 
+with several antibiotics, anticonvulsants, or nonsteroidal antiinflam­
+matory drugs; the latter can also cause papillary necrosis. Cyclophos­
+phamide can cause a severe hemorrhagic cystitis, which usually has 
+concomitant prominent bladder symptoms.
+A history of frequent or severe bleeding from other sites, such as 
+heavy menses, prolonged nosebleeds, hemarthroses, or significant 
+bleeding associated with surgical procedures, suggests an undiag­
+nosed bleeding disorder. Exposure history to tuberculosis should be 
+obtained, as well as a travel history, as parasitic infections such as schis­
+tosomiasis of the bladder, uncommon in Western societies, is com­
+mon in other parts of the world. Questions specific to other potential 
+sources of blood in the urine include those directed at a foreign body 
+from self-­instrumentation of the urethra, trauma, sexual abuse, and 
+menstruation. Extreme sports activities such as running a marathon or 
+long-­distance cycling can cause gross hematuria.
+Review of the family history is important to uncover hereditary 
+nephritis, hereditary cystic kidney disease, or potential benign famil­
+ial hematuria. A family history of kidney disease leading to end-­stage 
+renal failure, especially if in men in multiple generations and if not 
+clearly due to diabetes mellitus, would suggest Alport syndrome, the 
+most common cause of hereditary nephritis. Alport syndrome is pre­
+dominantly an X-­linked recessive disorder that may cause gross hema­
+turia in childhood, although more often it is microscopic. When gross 
+hematuria occurs in Alport syndrome, it is often triggered by any infec­
+tious process such as a common cold. The gross hematuria then subse­
+quently clears, but microscopic hematuria is a persistent finding. The 
+early clinical features of hereditary nephritis can be exactly the same 
+as benign familial hematuria but then evolve to develop other features. 
+Early in the course of the disease, there is no associated proteinuria, but 
+that feature develops later, often in childhood as the nephropathy pro­
+gresses. Hearing loss is a common but variable feature of Alport syn­
+drome that tends to run in affected families. Female family members 
+who are carriers usually have persistent and isolated hematuria that 
+does not progress, but on occasion may develop progressive nephritis.
+Benign familial hematuria and familial thin basement membrane 
+nephropathy are also responsible for both microhematuria and gross 
+hematuria. The primary difference in family history that separates 
+benign familial hematuria from progressive hereditary nephritis is that 
+TABLE 23.1  Urine Discoloration from 
+Sources Other Than Hematuria
+Pink, Red, Cola-­Colored, Burgundy
+Disease Associated
+Hemoglobinuria*
+Myoglobinuria*
+Porphyrinuria
+Associated with Drug or Food Ingestion
+Aminopyrine
+Anthocyanin
+Azo dyes
+Beets
+Blackberries
+Chloroquine
+Deferoxamine mesylate
+Iron sorbitol
+Methyldopa
+Nitrofurantoin
+Phenazopyridine
+Phenolphthalein
+Pyridium
+Red food coloring
+Rifampin
+Rhodamine B
+Rhubarb
+Sulfasalazine
+Urates
+Dark Brown, Black
+Disease Associated
+Alkaptonuria
+Methemoglobinemia
+Homogentisic aciduria
+Tyrosinosis
+Melanin
+Bile pigments
+Associated with Food or Drug Ingestion
+Alanine
+Resorcinol
+Cascara
+Thymol
+*Heme tests positive.
+TABLE 23.2  Laboratory Testing in Suspected Glomerulonephritis*
+Symptoms
+Suspected Glomerulonephritis
+Laboratory
+History of preceding pharyngitis, URI, or impetigo
+Acute postinfectious GN
+C3, C4 complement (low C3, normal C4)
+Arthralgia, purpura, pedal edema, abdominal pain, 
+hematochezia
+IgA vasculitis (Henoch-­Schönlein purpura)
+Skin biopsy
+Arthritis, rash, fever, oral ulcers, weight loss, alopecia, 
+weakness, central nervous system symptoms, other 
+systemic symptoms
+Systemic lupus erythematosus
+C3, C4 (both low)
+ANA, anti-­dsDNA (both high)
+Family history of renal failure, hearing loss, hematuria
+Familial nephritis—Alport syndrome
+Audiogram, slit-­lamp exam, genetic testing
+Recurrent, painless gross hematuria
+IgA nephropathy
+None (kidney biopsy)
+Hemoptysis, cough, fevers
+Goodpasture syndrome
+Anti-­GBM Ab
+Rash, sinus disease, hemoptysis, systemic symptoms
+ANCA-­associated vasculitis
+ANCA
+*All patients: serum creatinine, electrolytes, CBC, random urine protein:creatinine ratio, 24-­hr urine collection for protein.
+Ab, antibody; ANA, antinuclear antibody; ANCA, antineutrophil cytoplasmic antibody; anti-dsDNA, anti–double-­stranded DNA antibody; anti-­GBM, 
+anti–glomerular basement membrane antibody; GN, glomerulonephritis; IgA, immunoglobulin A; URI, upper respiratory infection.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+400
+SECTION 5  Genitourinary Disorders
+members of sequential generations of the family with benign familial 
+hematuria, either male or female, have persistent isolated hematuria 
+that never progresses to significant renal disease. The genetics of benign 
+familial hematuria due to thin basement membrane nephropathy has 
+been defined and includes gene variants that are identical to those seen 
+in some patients with autosomal recessive forms of progressive heredi­
+tary nephritis. Patients with thin basement membrane nephropathy, or 
+benign familial hematuria, may be carriers of genes that cause autoso­
+mal recessive Alport syndrome.
+Patients with autosomal dominant polycystic kidney disease 
+(ADPKD) may present initially with gross hematuria from sponta­
+neous bleeding into the macrocysts. Because the course of ADPKD 
+can vary widely from one generation to the next, with some members 
+having very mild disease with minimal clinical features until late adult­
+hood, the family history of the disease may not be apparent on presen­
+tation. Early onset of hypertension, during youth or young adulthood 
+in a parent of an affected child, may be the only clue to a family mem­
+ber being affected by ADPKD.
+Gross hematuria is a presenting complaint in 15% of children with 
+urolithiasis. Kidney stone disease can be familial, and in some cases 
+related to specific genes, as in X-­linked recessive nephrolithiasis (Dent 
+disease) or primary hyperoxaluria. Therefore, family history of early-­
+onset nephrolithiasis, especially in siblings, should be sought in chil­
+dren presenting with gross hematuria and symptoms or imaging that 
+indicate kidney stone disease as the cause. A family history of a bleed­
+ing disorder such as hemophilia or platelet disorders should be sought.
+Physical Examination
+The initial focus of the physical examination should be for evidence of 
+systemic disease for which the hematuria is one manifestation, and for 
+potential sequelae of renal disease. Accurate measurement and atten­
+tion to blood pressure, recognizing age differences in blood pressure, is 
+critical. Hypertension may be the sole feature on physical examination 
+that indicates underlying acute glomerulonephritis, or chronic kidney 
+disease from several causes. The finding of edema in this context is 
+highly suggestive of underlying renal parenchymal disease, either 
+acute or chronic, with likely accompanying renal insufficiency. Poor 
+growth or failure to thrive may indicate chronic renal disease. Pallor, 
+fever, rashes, or musculoskeletal findings suggest systemic vasculitis 
+with renal involvement from diseases such as HSP, SLE, or, less often, 
+ANCA-­associated disease. Examination of the abdomen may reveal 
+abdominal or flank masses that could be tumors, cystic kidneys, or 
+urinary obstruction. The most common renal tumor in childhood, 
+typically seen in young children (ages 1–4 years), is Wilms tumor, 
+though other types occur. Hydronephrosis or enlarged cystic kidneys 
+may be palpable. Suprapubic tenderness may indicate bladder infec­
+tion, stone, or other less common causes of bladder pathology as the 
+source of blood. The genitalia should be inspected for blood at the ure­
+thral meatus that suggests a urethral source, tears or lacerations due 
+to abuse or accidents such as from straddle injuries, or to look for a 
+foreign body.
+Evaluation
+Laboratory Tests
+Macroscopic and microscopic examination of the urine is the first essen­
+tial step in laboratory evaluation. If no heme is found on macroscopic 
+examination, then other causes of urine discoloration need to be con­
+sidered (see Table 23.1 and Fig. 23.1). If the urine is heme positive on 
+macroscopic examination but no red cells are found on microscopic 
+examination of the urine sediment, then myoglobinuria or hemoglobin­
+uria need to be considered as the possible source, since rhabdomyolysis 
+TABLE 23.3  Causes of Gross Hematuria in 
+Children
+GLOMERULAR
+Primary
+Acute postinfectious glomerulonephritis
+IgA nephropathy*
+Mesangial proliferative glomerulonephritis
+Membranoproliferative glomerulonephritis
+Familial nephritis (Alport syndrome)
+Benign familial hematuria—thin basement membrane disease
+Rapidly progressive glomerulonephritis
+Systemic
+IgA vasculitis (Henoch-­Schönlein purpura)
+Systemic lupus erythematosus
+Hemolytic uremic syndrome
+ANCA-­associated vasculitis
+Goodpasture disease (rare in childhood)
+Bacterial endocarditis
+INTERSTITIAL DISEASE
+Pyelonephritis
+Acute interstitial nephritis
+Polycystic kidney disease (autosomal dominant)
+VASCULAR
+Trauma
+Sickle cell disease and trait
+Renal artery/vein thrombosis
+Arteriovenous malformation
+Nutcracker syndrome
+Sports-­ and exercise-­induced hematuria
+Hemangioma/hamartoma
+NEOPLASTIC
+Wilms tumor
+Renal cell carcinoma
+Uroepithelial tumors
+Rhabdoid tumors
+Congenital mesoblastic nephroma
+Angiomyolipoma
+URINARY TRACT
+Cystitis
+Bacterial
+Viral (adenovirus)
+Parasitic (schistosomiasis)
+Tuberculosis
+Cyclophosphamide
+Urethritis
+Urolithiasis
+Idiopathic hypercalciuria without urolithiasis
+Trauma
+Hydronephrosis, severe
+Foreign body
+BLEEDING DISORDERS
+Hemophilia A or B
+Platelet disorder
+Thrombocytopenia
+Coagulopathy, congenital or acquired
+*Common cause of asymptomatic gross hematuria.
+ANCA, antineutrophil cytoplasmic antibody; IgA, immunoglobulin A.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+401
+CHAPTER 23  Hematuria
+Confirm RBC on
+urinalysis
+Urine microscopy
+Other causes of urine color change:
+Myoglobinuria, hemaglobinuria (heme +)
+Medications, foods, food coloring (heme –)
+Red urine (pink, bright or dark)
+Clots
+Dysuria
+Frequency
+Urgency
+Flank/abdominal pain
+CVA tenderness
+Likely lower urinary tract source:
+Common:
+UTl/pyelonephritis/cystitis (bacterial, viral,
+parasitic, drug induced)
+Trauma (e.g., urethral, meatal irritation)
+Other:
+Coagulopathy
+Cysts
+Malignancy (e.g., Wilms tumor)
+Hypercalciuria
+Hyperuricosuria
+Sickle cell disease/trait
+Stones (obstructing/nonobstructing)
+Urinary tract obstruction (e.g., UPJ obstruction)
+Vascular (e.g., renal vein thrombosis, “nutcracker”
+syndrome)
+Diagnostic testing considerations:
+Laboratory:
+Urine culture
+(in select cases: Testing for viral/parasitic
+pathogens)
+Urine calcium:creatinine ratio
+(in select cases: 24-hr urine collection for stone
+forming factors including calcium, phosphate,
+uric acid, oxalate, cystine)
+In select cases:
+Basic metabolic panel
+Complete blood count
+Coagulation testing (PT/PTT)
+Imaging: Renal bladder ultrasound with Doppler
+(in select cases, CT or MRI)
+Cystoscopy (in select cases)
+Consultations:
+Pediatric nephrology/urology evaluation
+Diagnostic testing considerations:
+Laboratory:
+Basic metabolic panel
+Complete blood count
+Albumin (if nephrotic)
+Complement component C3 and C4
+Streptococcal antibodies (e.g., ASLO,
+Streptozyme)
+Antinuclear antibodies (select cases:
+anti-DNA Ab or ANCAs)
+Urine protein:creatinine ratio
+Imaging:
+Renal bladder ultrasound with
+Doppler
+Renal biopsy (select cases)
+Parental urine testing (select cases)
+Genetic testing (select cases, e.g.,
+suspected Alport)
+Consultations:
+Pediatric nephrology evaluation
+Likely upper urinary tract source
+Common:
+Postinfectious GN
+lgA nephropathy
+Vasculitis (e.g., HSP/SLE nephritis)
+Other GNs:
+Rapidly progressive GN
+MPGN
+TBMN/Alport syndrome
+Interstitial nephritis
+Red-, brown-, cola-, or tea-colored urine
+Painless
+Hypertension
+Proteinuria
+Impaired renal function
+Dysmorphic RBC
+RBC casts
+Systemic symptoms (e.g., fever, rash, joint
+pain)
+Yes
+No
+Fig. 23.1  Gross hematuria work-­up. Abs, antibodies; ANCAs, antineutrophil cytoplasmic antibodies; CVA, cerebrovas­
+cular accident; GN, glomerulonephritis; HSP/SLE, Henoch-­Schönlein purpura/systemic lupus erythematosus; IgA, immu­
+noglobulin A; MPGN, membranoproliferative glomerulonephritis; PT/PTT, prothrombin time/partial thromboplastin time; 
+RBC, red blood cell; TBMN, thin basement membrane disease; UPJ, ureteropelvic junction; UTI, urinary tract infection. 
+(From Brown DD, Reidy KJ. Approach to the child with hematuria. Pediatr Clin N Am. 2019;66:15–30 [Fig. 2, p. 18].)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+402
+SECTION 5  Genitourinary Disorders
+and acute hemolysis are both potential life-­threatening diseases that 
+require immediate attention. If urine is heme positive but no red cells 
+are seen and there is no evidence for rhabdomyolysis or acute hemolytic 
+disease, then other reasons for the findings need to be considered. Urine 
+test strips can on occasion be falsely positive for blood if the urine is 
+infected with peroxidase-­producing bacteria. More likely is that red cells 
+were present but lysed in urine that either was very dilute or was held 
+for an extended time before microscopic examination was performed. 
+Finding red cell casts in a resuspended pellet of spun urine (centrifuged 
+3–5 minutes at 1,500–2,000 rpm) under high-­power field is a clear indi­
+cation that the source of hematuria is glomerular. While the specificity 
+of this finding in localizing the source to the glomerulus is high, the 
+sensitivity of finding red cell casts in the hands of clinical labs is low. 
+When red cell casts have been found in the urine sediment by experi­
+enced nephrologists, clinical laboratory reports of finding RBC casts in 
+the urine of the same patients is very low. Unless the urine is thoroughly 
+examined by an experienced clinician, the lack of RBC casts in a lab 
+report does not lower the chance the patient might have a glomerular 
+source of the hematuria. Another finding on microscopic examination 
+of the urine sediment that suggests a glomerular source is the presence 
+of a significant number of dysmorphic red cells (see Fig. 23.1). This find­
+ing requires careful inspection of erythrocyte morphology and is best 
+done with a phase-­contrast microscope. Clinical labs do not report the 
+number of dysmorphic red cells present, in part because differentiat­
+ing dysmorphic RBCs from simple crenated RBCs (a result of osmotic 
+shrinkage of RBCs) takes an experienced eye. Keeping these caveats in 
+mind, if an experienced clinician finds RBC casts or a significant num­
+ber of dysmorphic RBCs in a patient with hematuria, subsequent testing 
+can be focused on identifying potential glomerular causes of hematuria, 
+avoiding unnecessary, costly, or potentially invasive imaging procedures.
+An additional feature of urinalysis that may help guide to the source 
+of the red cells is the presence of proteinuria. Gross hematuria from 
+lower tract bleeding can result in urine positive for protein, particularly 
+if any lysis of urinary red cells occurs, but usually is <2+ proteinuria by 
+dipstick reading. Anything >2+ proteinuria should raise suspicion of glo­
+merular disease, especially if the hematuria is only microscopic. Bacteria 
+and significant pyuria suggest pyelonephritis or cystitis, but pyuria can 
+also be a feature of acute suppurative glomerulonephritis. Quantifica­
+tion of the gross hematuria using a “urocrit,” with a result >1%, can 
+indicate lower tract bleeding.
+All patients with suspected glomerulonephritis or suspected 
+chronic kidney disease should have prompt assessment of their renal 
+function with a serum creatinine and a CBC. Serologic studies for 
+immune-­mediated glomerulonephritis should be performed including 
+complement levels (C3, C4), antinuclear antibody, and anti–double-­
+stranded DNA antibody. ANCA and anti–glomerular basement mem­
+brane antibody titers should also be obtained if vasculitis or pulmonary 
+renal syndromes are suspected (see Table 23.2 and Fig. 23.1).
+The diagnosis of most cases of postinfectious glomerulonephritis 
+can be made clinically. The diagnosis of HSP is also made clinically, 
+but skin biopsy of purpuric lesions demonstrating vasculitis with pre­
+dominantly IgA deposits can be supportive evidence. A kidney biopsy 
+is often needed to define other forms of glomerulonephritis, especially 
+primary, idiopathic glomerulopathies (Fig. 23.2). In addition, even if 
+the diagnosis of vasculitis (Fig. 23.3 and Table 23.4) is made based on 
+clinical and serologic criteria, staging of the severity of renal disease 
+with renal pathology, such as in SLE, HSP, or ANCA-­positive disease, 
+is important for guiding therapy. High levels of proteinuria are often 
+an indication to obtain a kidney biopsy to provide a diagnosis or stage 
+the severity of the lesion in several forms of glomerulonephritis. The 
+degree of proteinuria can be assessed with a 24-­hour urine collection or 
+with a spot urine protein:creatinine ratio (see Chapter 22).
+A urine culture is indicated in patients with any bladder symptoms, 
+fever, flank pain, or abdominal pain. Gross hematuria can also be seen 
+with nonbacterial infections such as tuberculosis, adenovirus, or schis­
+tosomiasis. In immunocompromised patients, BK polyomavirus can 
+cause prominent cystitis.
+Idiopathic hypercalciuria can be a cause of gross hematuria. It is 
+characterized by excessive urinary calcium excretion in the absence of 
+hypercalcemia or other known causes of hypercalciuria (Table 23.5). 
+The hematuria is thought to be secondary to calcium oxalate and phos­
+phate crystals adhering to urothelium. The risk of developing kidney 
+stones is not known. Although often asymptomatic, hypercalciuria is 
+also implicated in causing urinary symptoms including abdominal and 
+flank pain. Therefore, in a patient who has any such symptom concom­
+itant with gross hematuria, especially if UTI and anatomic causes of 
+hematuria are ruled out, urinary calcium should be measured.
+Hypercalciuria is defined by a 24-­hour urine for calcium excretion 
+>4 mg/kg/day. A spot urine calcium:creatinine ratio of >0.22 is con­
+sidered abnormal in the older child and adolescent, but normal val­
+ues may be significantly higher in younger children, especially those 
+younger than 7 years of age.
+Imaging and Cystoscopy
+Renal imaging with noninvasive ultrasonography is recommended in 
+all cases of gross hematuria, unless strong evidence for glomerulone­
+phritis is found on clinical grounds as detailed earlier. Ultrasound is 
+excellent in children to investigate potential urologic and congenital 
+abnormalities, as well as certain genetic diseases including polycystic 
+kidney disease and those causing nephrocalcinosis, such as Dent dis­
+ease. The ultrasound should include imaging of the bladder, which can 
+identify rare bladder tumors, as well as find evidence of obstructive 
+urologic disease. Ultrasound can also provide some evidence for renal 
+parenchymal disease. Enlarged, echogenic kidneys with poor corti­
+comedullary differentiation may be seen in significant glomerular or 
+interstitial nephritis. Nephrolithiasis or calcinosis may be found on 
+ultrasound, as well as hydronephrosis secondary to urinary obstruc­
+tion from lower tract kidney stones. Urolithiasis may be missed on 
+ultrasound; if the history and examination are highly suggestive of a 
+stone as the source of the hematuria, a CT scan is then necessary.
+CT imaging is most useful to identify kidney stones (using the heli­
+cal technique) and is the primary indication to perform this study. CT 
+also provides detailed images of the bladder, pelvis, and retroperito­
+neum when looking for masses. Angiogram of the kidney may be nec­
+essary to identify an arteriovenous malformation of the kidney.
+Cystograms generally have no major role in the evaluation of 
+gross hematuria unless there is ultrasound evidence of bladder out­
+let obstruction from unrecognized urethral valves, or an unusual mass 
+such as a urothelial tumor, rhabdomyosarcoma, or fibromatous polyp. 
+Cystoscopy is rarely indicated in the usual evaluation of hematuria in 
+children. However, if passing blood clots is part of the presentation, or 
+if renal and bladder ultrasound shows a bladder mass or an obstruc­
+tive lesion, cystoscopy may then be definitive in diagnosing bladder 
+and ureteral sources of bleeding and provides an opportunity to obtain 
+tissue for diagnosis. Cystoscopy may also be helpful to look for unilat­
+eral bleeding from one ureter, which can be seen with renal papillary 
+necrosis, or more uncommon lesions such as vascular malformations 
+or polyps of the bladder or ureter, all of which can be difficult to define 
+by radiologic methods.
+MICROSCOPIC HEMATURIA
+While thorough evaluation of gross hematuria is always warranted, 
+how far to proceed with the evaluation of microscopic hematuria can 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+403
+CHAPTER 23  Hematuria
+be a difficult question. Much depends on the context in which the 
+microscopic hematuria was identified. Thorough evaluation of micro­
+scopic hematuria identified on a screening urinalysis at a well-­child 
+visit rarely reveals an etiology. One exception is when there is a fam­
+ily history of renal disease known or suggestive to be from heredi­
+tary nephritis. In that context, particularly if in a pattern indicative of 
+Alport disease where there can be associated hearing loss, performing 
+a screening urinalysis to determine whether a child may be affected is 
+reasonable. The lack of any hematuria in an older child effectively rules 
+out that child having hereditary nephritis. If microscopic hematuria is 
+found, additional noninvasive study can help define whether a child 
+has Alport disease, including audiometry to evaluate for subclinical 
+high-­frequency hearing deficit and examination by an ophthalmolo­
+gist who can identify retinal or lens abnormalities that are character­
+istic of Alport disease. If no hearing or ophthalmologic abnormalities 
+are found, and if proteinuria accompanies microscopic hematuria in a 
+child from a family affected by hereditary nephritis, further investiga­
+tion may include collagen IV gene sequencing or kidney biopsy.
+When microscopic hematuria is found on urinalysis performed 
+because of symptoms or signs, further evaluation is then indicated. 
+If the presentation was with urinary symptoms or abdominal or 
+flank pain, urine culture and imaging of the urinary tract, first with 
+ultrasound to include the bladder, is the first step. If those tests are 
+not revealing, and particularly if abdominal or flank pain is colicky, 
+abdominal CT scan with kidney stone protocol is then indicated. If 
+imaging studies are normal and urine culture is negative, evaluation for 
+idiopathic hypercalciuria may then be pursued.
+Abnormalities on physical examination that led to a urinalysis being 
+performed should drive further evaluation for underlying intrinsic 
+kidney disease. Specifically, if hypertension, edema, or failure to thrive 
+triggered the urinalysis, blood tests to assess kidney function and CBC 
+should be performed. If acute glomerulonephritis is suspected because 
+of prodromal illness, hypertension, or edema, blood complement C3 
+and C4 levels should also be measured. If other symptoms or signs sug­
+gest possible systemic vasculitis, testing for lupus or ANCA-­associated 
+disease should then be considered. If the patient has had poor growth 
+suggesting a chronic process, or supportive evidence for acute nephri­
+tis is lacking, renal ultrasound may identify small kidneys indicating 
+a chronic nephropathy, obstructive nephropathy, or cystic kidney dis­
+ease as the etiology.
+MORE COMMON CAUSES OF HEMATURIA
+Postinfectious Glomerulonephritis
+Gross hematuria appearing 5 days to 4 weeks after a febrile illness sug­
+gests a diagnosis of acute postinfectious glomerulonephritis (PIGN), 
+Immunoglobulin- and complement-mediated glomerulonephritis
+Anti-GBM disease
+Immune complex GN
+C3 glomerulopathy
+ANCA disease
+ANCA GN
+Anti-GBM
+GN
+Goodpasture’s
+syndrome
+MPA
+DDD
+C3 GN
+GPA
+EGPA
+Immune
+complex MPGN
+Membranous
+GN
+Lupus
+nephritis
+IgA
+vasculitis
+IgA
+nephropathy
+Postinfectious
+acute GN
+Fibrillary
+GN
+Other immune
+complex GN
+Linear GBM
+immunoglobulin
+IF staining
+Granular IF staining
+for immunoglobulin
+and C3
+Granular IF staining
+for C3 and little or
+no immunoglobulin
+Paucity of IF staining
+for immunoglobulin
+and complement
+No
+systemic
+vasculitis
+Vasculitis
+with no
+granulomas,
+or asthma
+Dense
+deposits
+in GBMs
+No dense
+deposits
+in GBMs
+No lung
+hemorrhage
+Lung
+hemorrhage
+Vasculitis with
+granulomas,
+no asthma
+Vasculitis
+with
+granulomas
+and asthma
+Thick
+capillaries and
+hypercellularity
+Thick
+capillaries, no
+hypercellularity
+Systemic
+lupus
+erythematosus
+Dominant
+IgA and
+vasculitis
+Dominant
+IgA and no
+vasculitis
+Acute strep
+or staph
+infection
+~20 nm
+fibrils
+Other
+features
+Fig. 23.2  Algorithm for the diagnostic classification of glomerulonephritis that is known or suspected of being 
+mediated by antibodies and complement. Note that the integration of light microscopy, immunofluorescence 
+(IF) microscopy, electron microscopy, laboratory data, and clinical manifestations is required to diagnose glo­
+merulonephritis (GN) precisely. ANCA, antineutrophil cytoplasmic autoantibody; DDD, dense deposit disease; 
+EGPA, eosinophilic granulomatosis with polyangiitis; GBM, glomerular basement membrane; GPA, granulo­
+matosis with polyangiitis; MPA, microscopic polyangiitis. (From Yu ASL, Chertow GM, Luyckx VA, et al., eds. 
+Brenner & Rector’s The Kidney. 11th ed. Philadelphia: Elsevier; 2020:1072, Fig. 31.35.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+404
+SECTION 5  Genitourinary Disorders
+the most common form of acute nephritis in childhood. The typical 
+child with PIGN is school age. The classical findings are hematuria, oli­
+guria, edema, some level of renal insufficiency, and hypertension. It is 
+not uncommon for PIGN to be asymptomatic, and hypertension may 
+not be a feature at initial presentation. The child with suspected PIGN 
+requires close follow-­up including monitoring for the development of 
+hypertension, since severe symptomatic hypertension is a common 
+sequela of acute PIGN.
+PIGN is a self-­limited disease that in the vast majority of cases 
+resolves without the development of chronic kidney disease or estab­
+lished hypertension. Microscopic hematuria is present in virtually all 
+cases; gross hematuria is present in about 30%. The urine is commonly 
+described as smoky or tea-­ or cola-­colored. The gross hematuria usu­
+ally disappears in 3–5 days; proteinuria disappears in several weeks, 
+and microscopic hematuria resolves in months to 1 year. Group A 
+streptococcal (GAS) infection is the most well-­defined cause, described 
+in up to 80% of patients with PIGN, with the triggering infection being 
+either pharyngeal or impetiginous. Other infectious agents have also 
+been implicated in causing PIGN, including several other bacteria and 
+viruses.
+The criteria for diagnosis of PIGN relies on defining the clinical pic­
+ture, supported by finding glomerular hematuria (red cell casts or many 
+Small-vessel
+vasculitis
+Medium-vessel
+vasculitis
+Polyarteritis nodosa
+Kawasaki disease
+Large-vessel
+vasculitis
+Giant cell arteritis
+Takayasu arteritis
+Circulating antineutrophil
+cytoplasmic antibodies
+(ANCA) associated
+Microscopic polyangiitis (MPA)
+GPA (Wegener)
+EGPA (Churg-Strauss)
+Drug-induced ANCA-associated
+  vasculitis
+Inflammatory
+  bowel disease
+  vasculitis
+Paraneoplastic
+Lymphoproliferative
+  neoplasm–induced
+  vasculitis
+Myeloproliferative
+  neoplasm–induced
+  vasculitis
+Immune-complex associated
+Cryoglobulinemic vasculitis
+IgA vasculitis (HSP)
+Anti-GBM (glomerular basement
+  membrane) disease
+Infection-induced immune
+  complex vasculitis
+  (e.g., hepatitis B and C)
+Serum sickness vasculitis
+Lupus vasculitis
+Rheumatoid vasculitis
+Hypocomplementemic
+  urticarial vasculitis
+Behçet disease
+Drug-induced immune-complex
+  vasculitis
+Vasculitis
+Fig. 23.3  Major categories of noninfectious vasculitis. Not included are vasculitides that are known to be caused 
+by direct invasion of vessel walls by infectious pathogens, such as rickettsial vasculitis and ­neisserial vasculitis. 
+EGPA, eosinophilic granulomatous polyangiitis; GPA, granulomatous polyangiitis; HSP, ­Henoch-­Schönlein pur­
+pura; IgA, immunoglobulin A. (From Feehally J, Floege J, Tonelli M, et al., eds. Comprehensive ­Clinical Nephrol­
+ogy. 6th ed. Philadelphia: Elsevier; 2019:292, Fig. 25.2.)
+TABLE 23.4  Organ System Involvement in Small-­Vessel Vasculitis
+Organ System
+FREQUENCY OF INVOLVEMENT (%)
+Microscopic 
+Polyangiitis
+GPA (Wegener)
+EGPA (Churg-­
+Strauss)
+IgA Vasculitis (HSP)
+Cryoglobulinemic 
+Vasculitis
+Kidney
+90
+80
+20
+50
+55
+Skin/cutaneous
+40
+40
+40
+90
+90
+Lungs
+50
+90
+90
+<5
+<5
+Ear, nose, throat
+35
+90
+70
+<5
+<5
+Musculoskeletal
+60
+60
+50
+75
+70
+Neurologic
+30
+50
+40
+10
+40
+Gastrointestinal
+50
+50
+40
+60
+30
+EGPA, eosinophilic granulomatosis with polyangiitis; GPA, granulomatosis with polyangiitis; HSP, Henoch-­Schönlein purpura; IgA, immunoglobulin A.
+From Feehally J, Floege J, Tonelli M, et al., eds. Comprehensive Clinical Nephrology. 6th ed. Philadelphia: Elsevier; 2019:294, Table 25.2.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+405
+CHAPTER 23  Hematuria
+dysmorphic RBCs) in the urine sediment by an experienced examiner, 
+and a simple serologic pattern. Practitioners will commonly perform 
+serologic testing for streptococcal infection, an old habit that is not typ­
+ically informative. Serology positive for antistreptococcal antibodies at 
+presentation is neither necessary nor sufficient to confirm, nor does the 
+absence of such antibodies rule out, the diagnosis of PIGN. Evidence of 
+recent streptococcal infection can be helpful and may be provided by 
+positive culture for GAS in the correct time frame preceding onset of 
+nephritis. Most important is testing C3 serum complement level at pre­
+sentation. In nearly all cases of PIGN, C3 level is low at presentation, 
+then returns to normal by 6–12 weeks after presentation, as the nephri­
+tis spontaneously resolves. If the serum C3 level does not return to nor­
+mal, other causes of nephritis need to be considered, including lupus 
+nephritis, membranoproliferative glomerulonephritis (MPGN), or C3 
+nephropathy. The complement pattern in active lupus nephritis often 
+is a low C4 along with the low C3 level. In MPGN or C3 nephropathy, 
+C4 is usually normal with persistently low C3. If C3 level is normal at 
+presentation of glomerulonephritis, other etiologies need to be consid­
+ered, including several idiopathic forms that may only be diagnosed by 
+kidney biopsy (see Tables 23.2 and 23.3).
+Therapy for PIGN is symptomatic, with particular attention to 
+hypertension. Early treatment of the streptococcal infection does not 
+prevent development of nephritis. The acute complications from PIGN 
+are principally from hypertension and may include seizures, hyperten­
+sive encephalopathy, and heart failure. The prognosis of PIGN is excel­
+lent. Mortality is low at ∼0.5%. While some level of renal insufficiency 
+is typical, fulminant renal failure is uncommon. Complete recovery 
+occurs in over 95% of patients, with an occasional patient developing 
+rapidly progressive, crescentic glomerulonephritis or indolent chronic 
+glomerulonephritis that progresses to end-­stage kidney disease. 
+Recurrent hematuria and proteinuria can occur in patients who have 
+a nonspecific upper respiratory tract illness within several months fol­
+lowing the episode of PIGN, but it is unusual for the other features of 
+acute nephritis (hypertension and renal insufficiency) to recur.
+Immunoglobulin A Nephropathy
+Recurrent episodes of painless gross hematuria are a common presen­
+tation of childhood IgA nephropathy. This form of glomerulonephritis 
+is common in both children and adults, with the mean age of presenta­
+tion in children being 9–10 years. Episodes of gross hematuria are trig­
+gered by upper respiratory illnesses, but in contrast to PIGN where the 
+illness precedes onset of hematuria, in IgA nephropathy the illness is 
+concurrent with onset of gross hematuria. Serum complement is nor­
+mal. Serum IgA levels have been found to be elevated in only 8–16% of 
+affected children so are not helpful in the diagnosis. Confirmation of 
+the diagnosis is possible only by renal biopsy demonstrating immune 
+deposits of primarily IgA in glomeruli, principally in the mesangium. A 
+wide range of histologic glomerulopathy can be found in IgA nephrop­
+athy, ranging from mild mesangial proliferation to crescentic, rapidly 
+progressive glomerulonephritis. Most cases of IgA nephropathy have 
+a benign pattern, with recurrent episodes of gross hematuria during 
+illnesses, followed by complete resolution of gross hematuria within 
+days. Between episodes, the urine may be free of blood or may show 
+persistent microscopic hematuria but lack of proteinuria. This benign 
+pattern commonly does not progress nor require treatment. However, 
+the disease is quite variable between patients, with some developing 
+acute nephritic symptoms, acute renal failure, nephrotic syndrome, 
+or progression to end-­stage kidney disease in up to 10% of affected 
+­children. Other disorders are also associated with IgA nephropathy 
+(Table 23.6). No specific therapy exists for IgA nephropathy, but an 
+extended course of steroid therapy can be beneficial for patients with 
+more severe forms of IgA nephropathy, including those with acute 
+nephritic syndrome or nephrotic-­range proteinuria.
+Hereditary Nephritis
+A family history of renal disease with progression to renal failure, 
+restricted to male members of the family on the maternal side, suggests 
+a diagnosis of Alport syndrome, a predominantly X-­linked recessive 
+nephropathy (Table 23.7). Affected patients uniformly have some level 
+of hematuria beginning at an early age, even in infancy. The majority 
+of affected children develop hematuria in the school-­age years. Initially 
+the hematuria is an isolated finding, but as the disease progresses pro­
+teinuria develops. Often there is accompanying development of pro­
+gressive deafness. Female members of the family who carry the gene 
+usually have isolated microscopic and sometimes periodic macroscopic 
+hematuria that does not progress to the other features of the syndrome. 
+However, occasionally such individuals can develop progressive dis­
+ease similar to male family members. The disease is caused by a patho­
+genic variant in the COL4A5 gene on the X chromosome that codes for 
+type IV collagen found in normal glomerular basement membranes; 
+genetic testing can help confirm the diagnosis. Renal biopsy provides 
+a definitive diagnosis, which shows characteristic electron microscopic 
+appearance of attenuation, disruption, and lamellation of the glomeru­
+lar basement membrane. However, these findings may not occur until a 
+later age when the nephropathy has progressed. Early findings may sim­
+ply be thin glomerular basement membranes, which can be confused 
+with the more benign entity, thin basement membrane nephropathy. No 
+specific therapy exists, but treatment with an angiotensin-­converting 
+enzyme (ACE) inhibitor early in the course of the disease after protein­
+uria develops can slow the progression of the nephropathy.
+There is also an autosomal recessive variant of hereditary nephri­
+tis that has been associated with variants in genes that code for other 
+TABLE 23.5  Causes of Hypercalciuria
+Physiologic Stimuli to Calcium Excretion
+Sodium excretion
+Acidosis
+Hypophosphatemia
+Increased Filtered Load
+Hypercalcemia (hyperparathyroidism, dietary, vitamin D excess)
+Excess calcium administration
+Impaired Renal Tubular Reabsorption of Calcium
+Loop diuretics
+Selective tubular defects
+Bartter syndrome
+Hereditary hypophosphatemic rickets with hypercalciuria
+Syndrome of hypercalciuria, normocalcemia, growth retardation, polyuria, 
+and proteinuria (Dent disease)
+Renal tubular acidosis
+Fanconi syndrome
+Idiopathic Hypercalciuria
+Absorptive
+Renal leak
+Hypercalciuria of Unknown Cause
+Medullary sponge kidney
+Diabetes mellitus
+Syndrome associated with total parenteral nutrition
+From Milliner DS, Stickler GB. Hypercalcemia, hypercalciuria, and 
+renal disease. In: Edelmann CM, ed. Pediatric Kidney Disease. 2nd ed. 
+Boston: Little, Brown; 1992:1661–1687.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+406
+SECTION 5  Genitourinary Disorders
+chains of collagen found in the glomerular basement membrane. Pro­
+gression of the nephropathy is similar to that of patients with the clas­
+sical form of Alport disease. Individuals who carry a disease-­causing 
+variant in only one of these autosomal recessive genes may have simple, 
+benign, thin basement membrane nephropathy that does not progress.
+Some patients with a more common form of familial hematuria 
+demonstrate persistent microscopic and recurrent gross hematuria 
+without development of significant proteinuria or deterioration of 
+renal function. This is called thin basement membrane nephrop­
+athy (benign familial hematuria) (see Table 23.7). Evidence of this 
+cause of hematuria can be obtained when urinalyses are performed on 
+other family members, finding isolated microscopic hematuria in other 
+members of the family. Renal biopsy demonstrates normal light and 
+immunofluorescent microscopic findings. Electron micrographs show 
+TABLE 23.6  Diseases Reported in Association with IgA Nephropathy: Common, Reported, 
+and Rare
+Disease Group
+Common
+Reported
+Rare
+Rheumatic and autoimmune disease
+Ankylosing spondylitis
+Rheumatoid arthritis
+Reiter syndrome
+Uveitis
+Behçet syndrome*
+Takayasu arteritis†
+Myasthenia gravis
+Sicca syndrome
+Gastrointestinal disease
+Celiac disease
+Ulcerative colitis
+Crohn disease
+Whipple disease
+Hepatic disease
+Alcoholic liver disease
+Nonalcoholic cirrhosis
+Schistosomal liver disease
+Lung disease
+Sarcoid
+Pulmonary hemosiderosis
+Skin disease
+Dermatitis herpetiformis
+Malignancy
+IgA monoclonal gammopathy
+Bronchial carcinoma
+Renal carcinoma
+Laryngeal carcinoma
+Mycosis fungoides
+Sézary syndrome
+Infection
+HIV, hepatitis B (in endemic areas)
+Brucellosis
+Leprosy
+Miscellaneous
+Wiskott-­Aldrich syndrome‡
+*Behçet syndrome: systemic vasculitis typified by orogenital ulceration and chronic uveitis.
+†Takayasu arteritis: systemic vasculitis involving the aorta and its major branches, most often found in young women.
+‡Wiskott-­Aldrich syndrome: X-­linked disorder in which increased serum IgA is associated with the triad of recurrent pyogenic infection, eczema, and 
+thrombocytopenia.
+Rare associations have been made in one or two reported cases only. In a disease as common as immunoglobulin A (IgA) nephropathy, it is therefore 
+uncertain whether these are truly related.
+From Feehally J, Floege J, Tonelli M, et al., eds. Comprehensive Clinical Nephrology. 6th ed. Philadelphia: Elsevier; 2019:272, Fig. 23.1.
+TABLE 23.7  Genetic and Possibly Genetic Glomerular Diseases Initially Presenting with 
+Isolated Hematuria
+Disease/Syndrome
+Zygosity
+Gene
+End-­Stage Renal Disease
+Estimated Lifetime Risk
+X-­linked Alport (male)
+Hemizygous
+COL4A5
+>90%
+X-­linked Alport (female)
+Heterozygous
+COL4A5
+15%
+AR Alport
+Homozygous
+COL4A3/COL4A4
+>90%
+AR Alport
+Heterozygous
+COL4A3/COL4A4
+10%
+AD TBMN
+Heterozygous
+COL4A3/COL4A4
+14%
+HANAC
+Heterozygous
+COL4A1
+n/d
+Epstein/Fechtner
+Heterozygous
+MYH9
+30%
+CFHR5 nephropathy (male)
+Heterozygous
+CFHR5
+80%
+CFHR5 nephropathy (female)
+Heterozygous
+CFHR5
+20%
+IgA nephropathy (hematuria only)
+–
+–
+Very low within 20 yr of diagnosis
+AD, autosomal dominant; AR, autosomal recessive; HANAC, hereditary angiopathy, nephropathy, aneurysms, and muscle cramps; IgA, immunoglob­
+ulin A; n/d, not described; TBMN, thin basement membrane nephropathy;
+Modified from Gale DP. How benign is hematuria? Using genetics to predict prognosis. Pediatr Nephrol. 2013;28:1183–1193 (Table 1, p. 1184).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+407
+CHAPTER 23  Hematuria
+uniformly thin basement membranes. It appears to be an autosomal 
+dominant disorder; it is often associated with heterozygous variants of 
+collagen genes (COL4A3, COL4A4, COL4A5) that are associated with 
+autosomal recessive hereditary nephritis. This raises the possibility 
+that benign familial hematuria is the hypomorphic state of progressive 
+hereditary nephritis. Indeed, some patients develop abnormal renal 
+function during adolescence and adulthood.
+Polycystic Kidney Disease
+Autosomal dominant polycystic kidney disease (ADPKD) is a com­
+mon disorder that mainly affects adults, but development of cysts may 
+well begin in childhood, and in rare cases renal cysts may be present 
+at birth. Usually, the cysts are asymptomatic in childhood unless there 
+is early and substantial cystic disease. Gross hematuria may be the 
+first manifestation of this disorder and occurs in 50% of patients. It 
+may occur spontaneously or be brought on by minimal trauma. The 
+usual manifestations of the disease in adults (hematuria, hypertension, 
+abdominal mass, and uremia) are seldom seen in children. Further­
+more, adults tend to have associated problems not commonly seen in 
+affected children, including acute and chronic pain (60%), UTI, and 
+nephrolithiasis (20%). With the widespread use of ultrasonography 
+and CT for routine evaluation of acute abdominal pain, it is more com­
+mon to detect early evidence of the disease as an incidental finding, 
+sometimes presenting as a single renal cyst during childhood. Diag­
+nosis requires finding multiple bilateral renal cysts. Because the pri­
+mary gene that causes ADPKD lies near the gene that causes tuberous 
+sclerosis, the two diseases occasionally coexist as a contiguous gene 
+deletion syndrome. Renal involvement in patients with tuberous scle­
+rosis may be isolated to renal angiomyolipomas or may also manifest 
+polycystic kidney disease as well, either of which can be a source of 
+gross hematuria.
+In contrast to ADPKD, autosomal recessive polycystic kidney dis­
+ease (ARPKD) typically has early onset and evidence of renal disease 
+is often found on prenatal ultrasound. If not discovered in the perinatal 
+period, it may present later in infancy or early childhood as an abdom­
+inal mass with hypertension. Typically, the kidneys are significantly 
+enlarged and have a cystic appearance different from ADPKD. How­
+ever, it is not always possible to distinguish early-­onset ADPKD from 
+ARPKD on radiologic grounds.
+Nephrolithiasis can occur at any age and may cause the symptoms 
+of renal colic, manifested as intense, episodic flank pain that often radi­
+ates to the groin. In young infants, nephrolithiasis and thus renal colic 
+is rare, and may manifest as generalized irritability or abdominal pain. 
+Gross hematuria has been reported in ∼25% of patients with nephro­
+lithiasis. The physical examination may be unrevealing; the urinaly­
+sis may contain crystals in addition to RBCs. A high-­resolution CT 
+scan is the best study to confirm the presence of a stone. Children with 
+nephrolithiasis should have an evaluation for a metabolic cause of their 
+kidney stones. This begins with a 24-­hour urine collection for calcium, 
+urate, citrate, oxalate, cystine, and creatinine. The determination of cre­
+atinine excretion is important to ensure that an adequate collection has 
+been obtained (a minimum of 10–15 mg/kg/24 hr, depending on age 
+and body habitus of the child). If an abnormality is found, specific ther­
+apy may prevent or delay subsequent complications, which can include 
+frequently recurring stones and acute or chronic renal failure.
+Hypercalciuria (defined as urinary calcium levels >4 mg/kg/day) 
+is the most common metabolic abnormality found in children with 
+nephrolithiasis. Furthermore, hypercalciuria without an overt stone 
+can manifest as gross hematuria with abdominal or flank pain. Hyper­
+calciuria can be idiopathic or secondary to another disease, such as 
+renal tubular acidosis. Therapy depends on the cause of the hypercalci­
+uria or the specific type of stone.
+Urinary tract infection is the most common identifiable cause 
+of gross hematuria, with as many as 25% of children presenting with 
+gross hematuria having a documented symptomatic UTI. Urine cul­
+ture is essential for a diagnosis of UTI and should be performed in 
+all children with gross hematuria, especially if any urinary symptoms 
+accompany.
+UNCOMMON CAUSES OF HEMATURIA IN 
+CHILDHOOD
+Coagulation abnormalities and hemoglobinopathies are rarely found 
+in patients with gross hematuria. Sickle cell disease is the most likely 
+cause in this category, and gross hematuria is one of the few manifesta­
+tions of the carrier state that may develop in those with sickle cell trait. 
+A combination of low oxygen tension, reduced blood flow, low pH, 
+and high osmolality in the renal medulla makes a hostile environment 
+that induces sickling and sludging of erythrocytes there. This results in 
+areas of infarction and hemorrhage and can progress to renal papillary 
+necrosis. While the gross hematuria often is asymptomatic, if papillary 
+necrosis ensues or hemorrhage from the renal medulla is substantial 
+with passage of clots, acquired ureteral obstruction can cause signifi­
+cant associated flank or abdominal pain. Therapy is hydration and rest.
+Renal vascular thrombosis, particularly renal vein thrombosis, 
+may present with isolated gross hematuria. Two groups of children are 
+at highest risk for this problem. The first group is sick neonates. Renal 
+vascular thrombosis in this group can originate from events associated 
+with perinatal stress that cause hypotension and decreased perfusion 
+to the kidney, umbilical vascular catheters, trauma, hypercoagulable 
+states, dehydration, or disseminated intravascular coagulation. Infants 
+of diabetic mothers are more prone to renal vein thrombosis, possibly 
+because of polycythemia or other associated perinatal stress. The throm­
+bosis in the neonate can be in the renal artery but most often is in the 
+renal vein. Along with gross hematuria, accompanying clinical features 
+may include a palpable enlarged kidney on the affected side, hyperten­
+sion, and thrombocytopenia. The second group of children who are 
+susceptible to renal vascular thrombosis are those with nephrotic syn­
+drome, with the well-­described associated hypercoagulable state (see 
+Chapter 22). The diagnosis of renal vein thrombosis can be suspected 
+from the patient’s history and can be confirmed with a Doppler flow 
+study of the renal vasculature. Several treatment approaches have been 
+advocated. In many cases, careful attention to hydration and hemo­
+dynamic status in the neonate, or administration of albumin in the 
+patient with nephrotic syndrome, stabilizes the patient with no further 
+progression of the thrombus. With large thrombi that propagate to the 
+vena cava or affect both kidneys, anticoagulation is considered. Renal 
+vein thrombi, even with isolated supportive care, often resolve without 
+late renal sequelae. However, late sequelae of hypertension and renal 
+atrophy can occur. The less common renal artery thrombi more often 
+result in significant renal injury and atrophy.
+Renal and bladder tumors are rare causes of gross hematuria in 
+children. Wilms tumor, the most common pediatric renal malignancy, 
+usually manifests as a flank or abdominal mass but on occasion can 
+present with gross hematuria. Renal carcinoma is exceedingly rare in 
+childhood but can occur in older children and also may present as gross 
+hematuria. Each of these tumors can be readily detected radiographi­
+cally through ultrasonography or CT, which is why imaging of the uri­
+nary tract to include the bladder is an important part of the evaluation 
+of all children with gross hematuria unless the source of the blood has 
+clearly been defined to be of glomerular origin. Benign polyps in the 
+urinary tract are a rare cause of hematuria and are usually small. They 
+may not be found by imaging and thus may require cystoscopy and 
+ureteroscopy to discover.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+408
+SECTION 5  Genitourinary Disorders
+Cyclophosphamide treatment can cause hemorrhagic cystitis, 
+which can have accompanying severe bladder symptoms and hemor­
+rhage. This results from prolonged contact of the toxic metabolites of 
+cyclophosphamide with the bladder epithelium. Prevention is primar­
+ily with increased hydration to ensure high urine flow, and the use of 
+mesna in patients receiving high-­dose cyclophosphamide, a drug that 
+prevents bladder mucosa toxicity from the metabolites.
+High-­intensity or long-­duration physical exertion (marathons) can 
+cause gross hematuria. Its pathophysiology is not known, but several 
+mechanisms proposed include bladder or kidney trauma, hemolysis, 
+dehydration, peroxidation of red cells, and renal ischemia.
+Bleeding from arteriovenous malformations of the kidney, ure­
+ter, or bladder can manifest as asymptomatic gross hematuria, which 
+often appears bright red. The blood can be localized to the bladder, 
+one kidney, or ureter with cystoscopy. Endoscopic laser treatment can 
+eliminate the source of bleeding. When bleeding from a vascular mal­
+formation is severe and not amenable to laser treatment, angiography 
+and surgery are considered.
+Nutcracker syndrome occurs when the left renal vein is com­
+pressed between the superior mesenteric artery and aorta, causing a 
+rise in pressure and development of collateral veins with varicosities 
+in the renal pelvis, ureter, and gonadal vein. It presents with left flank 
+pain, hematuria, and occasionally a varicocele in males. Diagnosis can 
+be difficult, but Doppler studies of the left renal vein, magnetic reso­
+nance angiography, and CT may identify this entity.
+Symptoms of urethritis with gross hematuria and a negative urine 
+culture in boys suggest urethrorrhagia or idiopathic urethritis. The 
+most common complaint is blood-­stained underwear. Ultrasound 
+including the bladder should be performed to rule out other lesions 
+discussed earlier. Cystoscopy does not show a treatable lesion and may 
+be contraindicated because of the possibility of producing a stricture. 
+Low-­dose, long-­term antibiotic treatment may help in some cases. 
+Alternately, exploring for symptoms of dysfunctional elimination syn­
+drome and treating with bowel and bladder regimens may resolve the 
+problem. The condition appears to be benign and self-­limited, so reas­
+surance is the best approach.
+Infections that are unusual in Western societies but more common 
+in other parts of the world can present with gross hematuria. Schis­
+tosoma haematobium causes bladder lesions, containing eggs and a 
+surrounding granuloma that may hemorrhage. Urinary symptoms of 
+suprapubic pain, dysuria, or urgency are common. Chronic inflamma­
+tion of the ureters may result in urinary obstruction. Diagnosis is made 
+by biopsy of lesions found in the liver, rectum, or bladder, or by the 
+detection of characteristic eggs in feces or urine.
+Mycobacterium tuberculosis infection can involve the kidneys, 
+resulting in formation of tuberculomas that may cavitate, rupture, and 
+disseminate the bacterium throughout the urinary tract. Tuberculosis 
+of the genitourinary tract most often occurs in young adults and is 
+characterized by tubercles at the ureteral orifices.
+Adenovirus is a common respiratory infection in children, which 
+can cause a hemorrhagic cystitis. This complication occurs most often 
+in immunocompromised patients but on occasion can also affect nor­
+mal, healthy children.
+   	 R E D  F L A G S
+Blood visible in the urine commonly raises great concern in a child and 
+the parents, and sometimes in the physician, but rarely heralds a seri­
+ous disease. Parents frequently are concerned that hematuria is a man­
+ifestation of a malignancy, so this should be addressed initially with 
+reassurance that it is very rare for the cause of hematuria in a child to be 
+a tumor. The history of recent or current illness and the family history, 
+as well as associated signs or symptoms, can usually direct the appro­
+priate evaluation. The focus of testing initially should be on confirming 
+the presence of hematuria, ruling out urinary infection with culture, 
+assessing renal function with blood tests, and exploring urinary tract 
+anatomy with ultrasound. Invasive studies, such as cystoscopy or renal 
+biopsy, are rarely indicated.
+Features of the evaluation that require prompt attention include 
+absence of RBCs in the urine (which raises the concern for possible 
+hemoglobinuria or myoglobinuria), hypertension, azotemia, pain, 
+weight loss, fevers, or a palpable mass. The presence of significant pro­
+teinuria suggests glomerular disease, which would require further eval­
+uation by a nephrologist for consideration of renal biopsy.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+408.e1
+BIBLIOGRAPHY
+Allen CW, Alexander SI. Adenovirus associated haematuria. Arch Dis Child. 
+2005;90:305–306.
+Bergstein J, Leiser J, Andreoli S. The clinical significance of asymptomatic 
+gross and microscopic hematuria in children. Arch Pediatr Adolesc Med. 
+2005;159:353–355.
+Bignall II ONR, Dixon BP. Management of hematuria in children. Curr Treat 
+Options Pediatr. 2018;4(3):333–349.
+Brown DD, Reidy KJ. Approach to the child with hematuria. Pediatr Clin N 
+Am. 2019;66:15–30.
+DeFoor W, Minevich E, Sheldon C. Unusual bladder masses in children. 
+­Urology. 2002;60:911vii–911x.
+Edvardsson VO, Goldfarb DS, Lieske JC, et al. Hereditary causes of 
+­kidney stones and chronic kidney disease. Pediatr Nephrol. 2013;28:1923–
+1942.
+Feld LG, Meyers KEC, Kaplan MB, et al. Limited evaluation of microscopic 
+hematuria in pediatrics. Pediatrics. 1998;102(4):1–5.
+Fernandes ET, Manivel JC, Reinberg Y. Hematuria in a newborn infant caused 
+by bladder hemangioma. Urology. 1996;47:412–415.
+Fine SW, Humphrey PA, Dehner LP, et al. Urothelial neoplasms in patients 
+20 years or younger; a clinicopathological analysis using the World Health 
+Organization 2004 bladder consensus classification. J Urol. 2005;174:1976–
+1980.
+Franc-­Guimond J, Houle AM, Barrieras D. The Proteus syndrome associated 
+with life threatening hematuria. J Urol. 2003;170:2418–2419.
+Gale DP. How benign is hematuria? Using genetics to predict prognosis. 
+­Pediatr Nephrol. 2013;28:1183–1193.
+Glassock RJ. Hematuria and proteinuria. In: Greenberg A, Cheung AK, 
+Coffman TM, et al., eds. Primer on Kidney Diseases. 4th ed. Philadelphia: 
+Elsevier Saunders; 2005:36–46.
+Glick RD, Hicks MJ, Nuchtern JG, et al. Renal tumors in infants less than 6 
+months of age. J Pediatr Surg. 2004;39:522–525.
+Herz D, Weiser A, Collette T, et al. Dysfunctional elimination syndrome as an 
+etiology of idiopathic urethritis in childhood. J Urol. 2005;173:2132–2137.
+Hoekelman RA. Is screening urinalysis worthwhile in asymptomatic pediatric 
+patients? Pediatr Ann. 1994;23:459–460.
+Houser M. Assessment of proteinuria using random urine samples. J Pediatr. 
+1984;104:845–848.
+Ingelfinger JR, Davis AE, Grupe WE. Frequency and etiology of gross hematu­
+ria in a general pediatric setting. Pediatrics. 1977;59:557–561.
+Jones GR, Newhouse I. Sport-­related hematuria: a review. Clin J Sport Med. 
+1997;7:119–125.
+Kaplan RE, Spring JE, Feld LG. Screening dipstick urinalysis: a time to change. 
+Pediatrics. 1997;100:919–921.
+Lischer GH, Sweat SD. 16-­year-­old boy with gross hematuria. Mayo Clin Proc. 
+2002;77:475–478.
+Matos V, van Melle G, Boulat O, et al. Urinary phosphate/creatinine, calcium/
+creatinine, and magnesium/creatinine ratios in a healthy pediatric popula­
+tion. J Pediatr. 1997;131:252–257.
+Pahari A, Walters S, Levin M. Infectious diseases of the kidney. In: Avner E, 
+Harmon W, Niaudet P, eds. Pediatric Nephrology. 5th ed. Philadelphia: 
+Lippincott, Williams & Williams; 2004:955–986.
+Parekh DJ, Pope JC, Adams MC, et al. The association of an increased urinary 
+calcium-­to-­creatinine ratio, and asymptomatic gross and microscopic 
+hematuria in children. J Urol. 2002;167:272–274.
+Rana K, Wang YY, Powell H, et al. Persistent familial hematuria in children 
+and the locus for thin basement membrane nephropathy. Pediatr Nephrol. 
+2005;20:1729–1737.
+Rasoulpour M, Banco L, Laut JM, et al. Inability of community-­based laborato­
+ries to identify pathological casts in urine samples. Arch Pediatr Adolesc 
+Med. 1996;150:1201–1204.
+Shin J, Park JM, Lee SM, et al. Factors affecting spontaneous resolution of hema­
+turia in childhood nutcracker syndrome. Pediatr Nephrol. 2005;20:609–613.
+Sternberg K, Greenfield SP, Williot P, et al. Pediatric stone disease: an evolving 
+experience. J Urol. 2005;174:1711–1714.
+Travis LB, Brouhard BH, Kalia A. An approach to the child with hematuria. 
+In: Cornfeld D, Silverman B, eds. Dialogues in Pediatrics Management. East 
+Norwalk, CT: Appleton-­Century-­Crofts; 1985.
+Zigman A, Yazbeck S, Emil S, et al. Renal vein thrombosis: a 10-­year review. 
+J Pediatr Surg. 2000;35:1540–1542.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

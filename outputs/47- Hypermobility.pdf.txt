@@ -1,0 +1,1338 @@
+877
+It is estimated that up to 25% of the population reports the presence 
+of joint hypermobility, but a quarter of the population does not have 
+an associated connective tissue disorder, nor is the increased mobility 
+deemed a health concern; nonetheless, hypermobility may be associ­
+ated with a connective tissue disorder. In addition, there is a vast spec­
+trum of comorbidities attributed to the presence of hypermobility (Fig. 
+47.1 and Table 47.1).
+EVALUATING HYPERMOBILITY
+There have been several methodologies used to accurately define the 
+presence of joint hypermobility; the most universally accepted method 
+is the Beighton score (Fig. 47.2 and Tables 47.2 and 47.3). Possible 
+reasons for the estimated high incidence of hypermobility in the gen­
+eral population is the incorrect application of the criteria listed in the 
+Beighton score or not applying the relevant age-appropriate adjust­
+ment to the score (see Table 47.3). It is important to strictly adhere 
+to the guide in Fig. 47.2 and to use a goniometer to ensure accurate 
+measurement of joint angles. Patients tend to overestimate their own 
+hypermobility; one should avoid unnecessary diagnostic evaluations 
+that might not add value to the purpose of assessing the underlying 
+etiology of the presenting symptoms. The Beighton score has typically 
+been reserved for children older than 6 years of age because it may be 
+unreliable in younger children who have a propensity for natural joint 
+hypermobility. One revision of the Beighton score that includes ankle 
+dorsiflexion has been reported as a reliable indicator for children up to 
+the age of 5 years.
+CONNECTIVE TISSUE AND ITS ROLE IN THESE 
+DISORDERS
+The structural integrity of connective tissues ensures normal artic­
+ular surfaces, normal bone structure and strength, normal tendon 
+insertion, and both macroscopic and microscopic support for mus­
+cles. The range of disorders involving primary connective tissue 
+integrity extends from bone dysplasia, muscle dystrophy, and myop­
+athy to the more well-recognized hereditary disorders of connective 
+tissue such as Ehlers-Danlos syndrome (Table 47.4). Hypermobility 
+is also a common feature seen in chromosomal aneuploidies and 
+neurodevelopmental syndromes such as Down syndrome. A review 
+of a commonly used database for matching phenotypes with syn­
+dromic traits identified >500 entries spanning these broad groups 
+within the differential diagnostic consideration for hypermobility 
+(Table 47.5).
+The functional impact of disregulating connective tissues is nei­
+ther well characterized nor well understood. There is recognition 
+that functional disorders co-segregate with disorders that impact con­
+nective tissues. Functional gastrointestinal disorders (constipation, 
+gastroparesis, bloating, and pain) as well as dysautonomia in the car­
+diovascular system (orthostatic intolerance, tachy-/bradycardias) are 
+frequently documented complaints and their presence often triggers 
+the evaluation for hypermobility or a more diffuse underlying con­
+nective tissue disorder. The range of common symptoms frequently 
+associated with hypermobility is detailed in Table 47.1 and Figs. 47.3, 
+47.4, 47.5, and 47.6.
+Hypermobility Spectrum Disorders
+The classification of hypermobility as a disease has undergone numer­
+ous changes, with the emphasis being discerning “benign famil­
+ial hypermobility” from more serious connective tissue disorders. 
+The most recent of these classifications is derived from the Interna­
+tional Consortium on the Ehlers-Danlos Syndromes meeting in 2017 
+(Table 47.6).
+This classification for hypermobile Ehlers-Danlos syndrome 
+(hEDS) has been criticized for being too restrictive because several 
+individuals who previously met clinical diagnosis based on the Ville­
+franche classification no longer meet these criteria despite a family 
+history supporting the diagnosis. There are good reasons for this 
+more restrictive diagnosis given the clinical pleiotropy of associated 
+symptoms (see Table 47.1) and lack of a defining molecular diagnosis. 
+It is widely believed that hEDS is not a single disorder but represents 
+the involvement of several gene pathways. This does not help the cli­
+nician because there are more individuals who are diagnosed with 
+hypermobility spectrum disorder (HSD) who share complex medical 
+histories. Utilization of the 5-point hypermobility questionnaire can 
+be helpful in identifying affected patients with a history of hypermo­
+bility (Table 47.7).
+The age and gender at diagnosis vary and tend to favor females 
+through puberty and young adulthood. There is often a preceding sig­
+nificant life event such as a motor vehicle crash or injury, hospitaliza­
+tion for an infection, or some other significant medical issue. It is not 
+clear how this relates to the clinical manifestation, either as a trigger 
+for closer medical inspection or a true epigenetic phenomenon that 
+initiates a cascade with an evolving phenotype.
+DIAGNOSTIC CHARACTERIZATION OF 
+HYPERMOBILITY
+The evaluation of hypermobility extends beyond the joints. A detailed 
+head-to-toe evaluation is necessary to assess for possible syndromic dis­
+orders (see Chapter 29), primary neuromuscular disorders, and other 
+chameleons or mimics that overlap with the primary hypermobility 
+Hypermobility
+Donald Basel
+47
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+878
+SECTION 8  Musculoskeletal Disorders
+spectrum disorders. The algorithm illustrated in Fig. 47.7 provides a 
+framework for approaching the diagnostic evaluation for a patient with 
+generalized joint hypermobility.
+The primary differential diagnoses for hypermobility are other 
+forms of hereditary connective tissue disorders. These are detailed in 
+Tables 47.5 and 47.8 (see also Table 29.10 for Marfan syndrome) in 
+addition to the individual syndrome-defining characteristics.
+There is a broad range of disorders to consider in the differential 
+when assessing hypermobility (Table 47.9). In the context of syndromic 
+hypermobility (i.e., in association with learning difficulties, dysmor­
+phisms, or major malformations), it is important to refer to a genetics 
+specialty service so that additional evaluation and testing can be con­
+sidered. Similarly, if muscle weakness or suspicion for a bone dysplasia 
+is suspected, those patients should be further evaluated by a specialist 
+with expertise in the field.
+CLOSING CONSIDERATIONS
+The presentation of a young adolescent with chronic fatigue, dysau­
+tonomia, or diffuse or regional pain syndromes in the presence of 
+hypermobility requires careful consideration. These nonspecific symp­
+tom complexes can overlap with hEDS, syndromic disorders such as 
+TABLE 47.1  Clues Suggestive of a 
+Hereditary Connective Tissue Disorder
+System
+Symptom/Sign
+Integument
+Striae (see Fig. 47.4)
+Easy and frequent bruising
+Skin hyperextensibility (see Fig. 47.5)
+Poor wound healing, easy scarring (see Fig. 47.6)
+Cardiovascular
+Dizzy spells
+Postural orthostatic tachycardia or orthostatic 
+intolerance
+Palpitations
+Musculoskeletal
+Joint instability/frequent ankle sprains/subluxations 
+(knee, shoulder)/congenital hip dislocation
+Temporomandibular joint pain
+Scoliosis
+Chronic fatigue; exercise intolerance
+Pes planus
+Genu recurvatum
+Chronic musculoskeletal pain syndromes (focal or 
+generalized)
+Neurologic
+Headache (orthostatic; intracranial hypotension)
+Anxiety
+Sleep disturbance
+Fibromyalgia
+Restless leg syndrome
+Chiari type I
+Delayed locomotor development
+Poor handwriting
+Cerebrospinal fluid leaks
+Gastrointestinal
+Irritable bowel syndrome (bloating, pain)
+Constipation/gastroparesis
+Abdominal migraine
+Nausea/cyclic vomiting
+Rectal prolapse
+Hernias
+Absent lingual frenulum
+Urogenital
+Uterine prolapse
+Cervical incompetence
+Frequency; stress incontinence
+Vulvodynia
+Etiology
+Hypermobility spectrum disorders
+Articular manifestations
+(mechanical
+consequences)
+Extra-articular manifestations
+(associations)
+L-HSD
+Psychological
+distress
+POTS
+GJH
+Asympt. JH
+EDS
+hEDS
+JH-related comorbidities
+Pelvic and bladder
+dysfunction
+Pleiotropy
+FGDs
+P-HSD
+G-HSD
+H-HSD
+Pathogenesis
+Fig. 47.1  Schematization of the novel terminology introduced by the 
+new nosology of Ehlers-Danlos syndrome and joint hypermobility. 
+The two-dimensional variability is represented by the vertical (patho­
+genesis) and horizontal (etiology) lines. In the middle are the relation­
+ships between the domains of asymptomatic joint hypermobilities and 
+Ehlers-Danlos syndrome. Generalized joint hypermobility and hyper­
+mobile Ehlers-Danlos syndrome are highlighted as the closest phe­
+notypes within the corresponding domains. Pleiotropy is the concept 
+bridging the two domains. Below them is the “realm” of the hyper­
+mobility spectrum disorders. Hypermobility spectrum disorders group 
+together all those phenotypes presenting joint hypermobility plus one 
+or more of its secondary manifestations but not satisfying the criteria 
+for any Ehlers-Danlos syndrome variant, also comprising the hypermo­
+bile type. Above the two domains is the wide spectrum of joint hyper­
+mobility–related comorbidities that may occur in all the phenotypes 
+lying beneath. Joint hypermobility–related comorbidities comprise an 
+expanding group of common disorders (i.e., psychological distress, 
+functional gastrointestinal disorders, cardiovascular dysautonomia, and 
+pelvic prolapses—not otherwise defined) that show a statistical associ­
+ation with joint hypermobility, but their etiopathogenesis is complicated 
+by a variety of acquired factors.
+EDS, Ehlers-Danlos syndrome (various types); FGDs, functional gastroin­
+testinal disorders; G-HSD, generalized hypermobility spectrum disorder; 
+GJH, generalized joint hypermobility; hEDS, hypermobile Ehlers-Dan­
+los syndrome; JH, joint hypermobility (various types); H-HSD, histor­
+ical hypermobility spectrum disorder; L-HSD, localized hypermobility 
+spectrum disorder; P-HSD, peripheral hypermobility spectrum disorder; 
+POTS, postural orthostatic tachycardia syndrome. (From Castori M, Tin­
+kle B, Levy H, et al. A framework for the classification of joint hypermo­
+bility and related conditions. Am J Med Genet C [Semin Med Genet]. 
+2017;175C:148–157 [Fig. 2, p. 150].)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+879
+CHAPTER 47  Hypermobility
+1. Passive dorsiflexion of the fifth metacarpo-
+phalangeal joint. Score is positive if ≥ 90°  
+2. Passive hyperextension of the elbow.
+Score is positive if ≥ 10°  
+3. Passive hyperextension of the knee.
+Score is positive if ≥ 10°  
+5. Forward flexion of the trunk, with the knees straight. Score is positive if the
+hand palms rest easily on the floor.
+Score: Negative
+Score: Positive
+4. Passive apposition of the thumb to the flexor side of the forearm, while shoulder is 90° 
+flexed, elbow extended and hand pronated. Score is positive if the whole thumb touches 
+the flexor side of the forearm.
+Score: Negative
+Score: Positive
+*Males positive if > 180° for measure 2 and 3.
+Fig. 47.2  Beighton score. The range of motion of several key small and large joints is measured to provide an 
+overview of joint hypermobility. Instability is not assessed. Scoring: 2 points for each bilateral measure in nos. 
+1 to 4 and 1 point for no. 5, equaling a total possible score of 9. Hypermobility is considered significant with 
+a score of ≥6 between the ages of 6 and 35. (Modified from Smits-Engelsman B, Klerks M, Kirby A. Beighton 
+score: a valid measure for generalized hypermobility in children. J Peds. 2011;158[1]:119–123.e4.)
+TABLE 47.2  9-Point Beighton Score of Hypermobility
+Description
+Bilateral Testing
+Scoring (Max. Points)
+Passive dorsiflexion of the fifth metacarpophalangeal joint to ≥90 degrees
+Yes
+2
+Passive hyperextension of the elbow >190 degrees in females and >180 degrees in males
+Yes
+2
+Passive hyperextension of the knee >190 degrees in females and >180 degrees in males
+Yes
+2
+Passive apposition of the thumb to the flexor side of the forearm while the shoulder is flexed 90 
+degrees, elbow is extended, and hand is pronated
+Yes
+2
+Forward flexion of the trunk, with the knees straight, so that the hand palms rest easily on the floor
+No
+1
+Total
+9
+TABLE 47.3  Age-Associated Beighton Scores for Significant Joint Hypermobility
+Age range
+< Puberty
+Puberty–50 yr
+>50 yr
+Any age with joint injury
+Positive Beighton Score
+≥6
+≥5
+≥4
+Age score – 1
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+880
+SECTION 8  Musculoskeletal Disorders
+TABLE 47.4  Classification of Ehlers-Danlos Syndrome
+Type
+Gene
+Skin Findings
+Joint Changes
+Inheritance Other Comments
+Classic
+COL5A1, COL5A2 
+(usually 
+haploinsufficiency)
+Hyperextensibility, 
+bruising, velvety skin, 
+widened atrophic 
+scars, molluscoid 
+pseudotumors, 
+spheroids
+Hypermobility and 
+its complications, 
+joint dislocations
+AD
+Mitral valve prolapse, hernias
+COL1A1-specific 
+pathogenic variant 
+c934C>T
+AD
+Blue sclerae, short stature, 
+osteopenia/fractures; may 
+have late arterial rupture
+Classic Variants
+Cardiac valvular
+Biallelic loss of function 
+for COL1A2
+Classic EDS features
+AR
+Severe cardiac valve issues 
+as adult
+Periodontal
+C1R
+C1S
+Can have classic EDS 
+features
+Can have 
+hypermobility
+AD
+Periodontitis, marfanoid 
+habitus, prominent eyes, 
+short philtrum
+Classic-like
+TNXB
+Hyperextensibility, 
+marked hypermobility, 
+severe bruising, 
+velvety skin, no 
+scarring tendency
+Hypermobility
+AR
+Parents (especially mothers) 
+with one TNXB gene variant; 
+can have joint hypermobility
+Hypermobility
+Unknown
+Mild hyperextensibility, 
+scarring textural 
+change
+Hyperextensibility, 
+chronic joint 
+pain, recurrent 
+dislocations
+AD
+Sometimes confused with joint 
+hypermobility syndrome
+Vascular
+COL3A1 Rare variants 
+in COL1A1
+Thin, translucent 
+skin, bruising, early 
+varicosities, acrogeria
+Small joint 
+hypermobility
+AD
+Abnormal type III collagen 
+secretion; rupture of bowel, 
+uterus, arteries; typical 
+facies; pneumothorax
+Kyphoscoliosis
+PLOD (deficient lysyl 
+hydroxylase)
+FKBP14
+Soft, hyperextensible 
+skin; bruising; 
+atrophic scars
+Hypermobility
+AR
+Severe congenital muscle 
+hypotonia that improves 
+a little in childhood, 
+congenital kyphoscolioses, 
+scleral fragility and 
+rupture, marfanoid habitus, 
+osteopenia, sensorineural 
+hearing loss
+Variants with Kyphoscoliosis
+Spondylocheirodysplastic 
+form
+SLC39A13, which 
+encodes the ZIP 13 
+zinc transporter
+β4GALT7 or β3GaIT6, 
+encoding galactos­
+yltransferase I or II, 
+key enzymes in GAG 
+synthesis
+Similar to kyphoscoliotic 
+form
+AR
+Spondyloepimetaphyseal 
+dysplasia; can have 
+bone fragility and severe 
+progressive kyphoscoliosis 
+without congenital hypotonia, 
+moderate short stature, loose 
+facial skin, wrinkled palms 
+with thenar and hypothenar 
+atrophy, blue sclerae, curly 
+hair, alopecia
+Brittle cornea syndrome
+ZNF469 or PRDM5
+Skin hyperextensibility
+Joint hypermobility
+AR
+Kyphoscoliosis; characteristic 
+thin, brittle cornea; ocular 
+fragility; blue sclera; 
+keratoconus
+Musculocontractural
+CHST14 (encoding 
+dermatan 
+4-O-sulfotransferase)
+DSE (encoding 
+dermatan sulfate 
+epimerase)
+Fragile, hyperextensible 
+skin with atrophic 
+scars and delayed 
+wound healing
+Hypermobility
+AR
+Progressive kyphoscoliosis, 
+adducted thumbs in infancy, 
+clubfoot, arachnodactyly, 
+contractures, characteristic 
+facial features, hemorrhagic 
+diathesis
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+881
+CHAPTER 47  Hypermobility
+TABLE 47.4  Classification of Ehlers-Danlos Syndrome—cont’d
+Variants with Kyphoscoliosis—cont'd
+Myopathic
+COL12A1
+Soft, hyperextensible
+Hypermobile small 
+joints, large joint 
+contractures (hip, 
+knees, elbows)
+AD or AR
+Characterized by muscle 
+hypotonia and weakness
+Arthrochalasis
+Exon 6 deletion of 
+COL1A1 or COL1A2
+Hyperextensible, soft 
+skin with or without 
+abnormal scarring
+Marked 
+hypermobility 
+with recurrent 
+subluxations
+AD
+Congenital hip dislocation, 
+arthrochalasis, multiplex 
+congenita, short stature
+Dermatosparaxis
+Type I collagen 
+N-peptidase 
+ADAMTS2
+Severe fragility; 
+sagging, redundant 
+skin
+AR
+Also occurs in cattle
+AD, autosomal dominant; AR, autosomal recessive; EDS, Ehlers-Danlos syndrome; GAG, glycosaminoglycan.
+From Malfait F, Francomano C, Byers P, et al. The 2017 international classification of the Ehlers-Danlos syndromes. Am J Med Genet C [Semin 
+Med Genet.] 2017;175(1)8–26; and Kliegman RM, St. Geme JW III, Blum NJ, et al., eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia: 
+Elsevier; 2020:3526–3527, Table 679-1.
+Type
+Gene
+Skin Findings
+Joint Changes
+Inheritance
+Other Comments
+TABLE 47.5  Selected Conditions Associated with Hypermobility
+Marfan Syndrome
+ • Tall and thin
+ • Arm span greater than height
+ • Lower ratio of upper body segment to lower body segment (long legs); 
+normal ratio is 0.85 in Whites and 0.92 in Blacks
+ • Arachnodactyly
+ • Pectus excavatum or carinatum
+ • Kyphoscoliosis
+ • Dislocation of the lens of the eye
+ • Aortic root dilatation
+ • Heart murmurs, midsystolic click
+ • Hernias
+ • Autosomal dominant disorder due to pathogenic variants of fibrillin gene 
+on chromosome 15
+Homocystinuria
+ • Marfanoid habitus
+ • Major risk of thrombotic events
+ • Autosomal recessive disorder usually associated with cystathionine 
+β-synthase deficiency
+Stickler Syndrome
+ • Typical facial appearance: malar hypoplasia, depressed nasal bridge, 
+epicanthal folds, micrognathia
+ • Cleft palate (Pierre Robin sequence)
+ • Severe myopia (may lead to retinal detachment)
+ • Sensorineural hearing loss
+ • Mitral valve prolapse
+ • Genetically heterogenous, autosomal dominant inheritance associated 
+with pathogenic variants in collagen type II and type XI and rare recessive 
+subtype associated with pathogenic variants in collagen type IX
+Ehlers-Danlos Syndromes
+ • Skin abnormalities: thin, hyperelastic, cigarette paper scars, easy bruising
+ • Dislocation of joints
+ • Rarely, artery aneurysms; hollow organ rupture
+ • Heterogeneous conditions; at least nine types with different inheritance patterns
+Osteogenesis Imperfecta
+ • Blue sclerae
+ • Fragile bones with multiple fractures and deformities
+ • Short stature
+ • Spinal deformity
+ • Different types; usually autosomal dominant inheritance
+ • Genetically heterogenous with end effect impacting collagen 1 function or structure
+Williams Syndrome
+ • Short stature
+ • Characteristic elfin facial appearance
+ • Hoarse voice
+ • Friendly and loquacious
+ • Developmental delay
+ • Supravalvular stenosis
+ • Occasionally hypercalcemia
+ • Initially hypermobile but later become hypomobile without pain
+ • Sporadic and inherited cases due to deletion of elastin allele on chromosome 7
+Down Syndrome (Trisomy 21)
+ • Hypotonia
+ • Developmental delay
+ • Characteristic facial appearance; epicanthal folds
+ • Short stature
+ • Endocardial cushion defects
+ • Broad hands with simian creases
+ • Brushfield (depigmented) spots of the iris
+ • Usually occurs in a sporadic fashion
+For further details about these conditions, the reader is referred to Jones KL. Smith’s Recognizable Patterns of Human Malformation. 5th ed. Phila­
+delphia: Saunders; 1997; and Beighton P. McKusick’s Heritable Disorders of Connective Tissue. 5th ed. St. Louis: Mosby; 1993.
+From LeBlanc C, Houghton K. Noninflammatory musculoskeletal pain. In: Textbook of Pediatric Rheumatology. 7th ed. Elsevier; 2016:665, Box 51-3.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+• Costochondritis
+• ? Mitral valve
+  prolapse
+• Congenital hip
+ dysplasia/clicky
+ hip
+• Hip subluxation
+• TMJ disease
+• Gorlin sign
+• Absent lingual
+  frenulum
+• Hyperlordosis
+• Low back pain
+• Spondylolysis/
+  listhesis
+• ? Degenerative 
+  spondylosis
+• Anterior knee
+  pain syndrome
+• Recurrent patellar
+  subluxation
+Pes planus
+Growing pains
+Fig. 47.3  Clinical features and symptom complexes seen in children and adolescents with joint hypermobility 
+syndrome. TMJ, temporomandibular joint. (From Murray KJ. Hypermobility disorders in children and adoles­
+cents. Best Prac Res Clin Rheumatol. 2006;20[2]:329–351 [Fig. 1, p. 333].)
+Fig. 47.4  Abnormal striae. (From Hakim AJ, Sahota A. Joint hypermobility and skin elasticity: the hereditary 
+disorders of connective tissue. Clin Dermatol. 2006;24:521–533 [Fig. 1A, p. 538].)
+Fig. 47.5  Ehlers-Danlos syndrome. Skin hyperextensibility on the arm. This sign does not demonstrate laxity 
+because on release the skin quickly returns to normal. (From Paller AS, Mancini AJ, eds. Hurwitz Clinical 
+Pediatric Dermatology. 5th ed. Elsevier; 2016:121, Fig. 6-1.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+883
+CHAPTER 47  Hypermobility
+Fig. 47.6  Large “cigarette paper” scars on the knees of a child with Ehlers-Danlos type 1. (From Weston WL, 
+Lane AT, Morelli JG, eds. Color Textbook of Pediatric Dermatology. 3rd ed. Mosby; 2002:268, Fig. 18-10.)
+TABLE 47.7  Hypermobility 5-Point Questionnaire
+	1.	Can you now (or could you ever) place your hands flat on the floor without bending your knees?
+	2.	Can you now (or could you ever) bend your thumb to touch your forearm?
+	3.	As a child, did you amuse your friends by contorting your body into strange shapes or could you do splits?
+	4.	As a child or teenager, did your shoulder or kneecap dislocate on more than one occasion?
+	5.	Do you consider yourself double-jointed?
+A yes answer to two or more questions suggests joint hypermobility with 80–85% sensitivity and 80–90% specificity.
+Adapted from Colombi M, Dordoni C, Chiarelli N, et al. Differential diagnosis and diagnostic flow chart of joint hypermobility syndrome/
+Ehlers-Danlos syndrome hypermobility type compared to other heritable connective tissue disorders. Am J Med Genet C Semin Med Genet. 
+2015;169C(1):6–22.
+TABLE 47.6  Diagnostic Criteria for the Diagnosis of Hypermobile Ehlers-Danlos Syndrome
+CRITERION 1: GJH
+Must meet Beighton Score 
+for age
+ 
+CRITERION 2: At least two features must be present
+Age
+Beighton Score
+Feature A: Systemic manifestations of CTD 
+(need ≥5)
+	 1.	 Unusually soft/velvety skin
+	 2.	 Mild skin hyperextensibility
+	 3.	 Unexplained striae distensae/rubrae
+	 4.	 Bilateral piezogenic papules of heel
+	 5.	 Recurrent/multiple abdominal hernia
+	 6.	 Atrophic scarring in ≥2 sites
+	 7.	 Pelvic floor, rectal, and/or uterine prolapse in 
+children, men, or nulliparous women
+	 8.	 Dental crowding and high or narrow palate
+	 9.	 Arachnodactyly
+	10.	 Arm span-to-height ≥1.05
+	11.	 Mitral valve prolapse
+	12.	 Aortic root dilatation with z score > +2
+Feature B: Family history (one or more first-
+degree relatives must meet criteria)
+Feature C: MSK complications (need ≥1)
+	1.	MSK pain in ≥2 limbs, recurring daily for ≥3 mo
+	2.	Chronic widespread pain for ≥3 mo
+	3.	Recurrent joint dislocations or frank joint 
+instability, in the absence of trauma (a or b)
+	 a.	≥3 atraumatic dislocations in same joint 
+or ≥2 more atraumatic dislocations in 2 
+different joints occurring at different times
+	 b.	Medical confirmation of joint instability at 
+two or more sites not related to trauma
+Prepubescent or adolescent
+Pubescent up until age 50
+Over age 50
+Patients with AJLs
+≥6
+≥5
+≥4
+BS 1 point under age 
+requirements AND 
+a positive 5PQ
+CRITERION 3: All three prerequisites must be met
+	1.	Absence of unusual skin fragility
+	2.	Exclusion of other heritable and acquired connective tissue disorders. In patients with an acquired connective tissue disorder, additional diagnosis of hEDS 
+requires meeting both features A and B of Criterion 2. Feature C of Criterion 2 cannot be counted in this situation
+	3.	Exclusion of alternative diagnoses that may also include joint hypermobility by means of hypotonia and/or connective tissue laxity
+5PQ, 5-Point Questionnaire; AJLs, acquired joint limitations; BS, Beighton score; CTD, connective tissue disorder; GJH, generalized joint hypermo­
+bility; hEDS, hypermobile Ehlers-Danlos syndrome; MSK, musculoskeletal.
+From Kohn A, Chang C. The Relationship Between Hypermobile Ehlers-Danlos Syndrome (hEDS), Postural Orthostatic Tachycardia Syndrome 
+(POTS), and Mast Cell Activation Syndrome (MCAS). Clin Rev Allergy Immunol. 2020;58(3):273–297; and Malfait F, Francomano, Byers P, et al. 
+The 2017 International Classification of the Ehlers-Danlos syndromes. Am J Med Genet C Semin Med Genet. 2017;175(1)8–26.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+884
+SECTION 8  Musculoskeletal Disorders
+Unspecific/common
+features
+No
+No
+No
+Yes
+Yes
+hEDS
+criteria
+met?
+lsolated JH
+HSD
+hEDS
+Specific subtype
+Review & follow-up
+Positive
+Sanger
+NGS panel
+Indirect tests*
+NGS panel
+SNP array
+(if+ID/ASD)
+WES
+Negative/
+uncertain
+Yes
+Clear-cut
+phenotypes
+Overlap
+phenotypes
+Unrecognizable
+syndromes
+Joint hypermobility
+Musculoskeletal
+manifestations
+Syndromic
+manifestations
+± associated comorbidities
+± associated comorbidities
+Fig. 47.7  Diagnostic approach for a patient with generalized joint hypermobility (JH). JH without associated 
+musculoskeletal and syndromic manifestation should be considered a benign and common trait. In the pres­
+ence of systemic involvement, possible scenarios include specific/common phenotypes (see Table 47.9). 
+Once all other partially overlapping conditions have been excluded, the presence of musculoskeletal mani­
+festations in the absence of appreciable systemic involvement prompts a diagnosis of HSD. If the conditions 
+for hEDS are met (see Table 47.7), then a clinical diagnosis of hEDS is made; no molecular testing required. 
+When a well-defined HCT is suspected, additional testing in the form of CVS imaging and molecular testing 
+can formalize the diagnosis. The final scenario refers to JH phenotypes with overt syndromic association in 
+the absence of a clearly identifiable Mendelian disorder. In these cases, additional testing is directed by the 
+presence of dysmorphic features, ASD, or ID. ASD, autism spectrum disorder; HCT, hereditary disorders of 
+connective tissue; hEDS, hypermobile Ehlers-Danlos syndrome; HSD, hypermobility spectrum disorder; ID, 
+intellectual disability; NGS, next-generation sequencing; SNP, single nucleotide polymorphism; WES, whole 
+exome sequencing. (From Guarnieri V, Castori M. Clinical relevance of joint hypermobility and its impact on 
+musculoskeletal pain and bone mass. Curr Osteoporos Rep. 2018;16:333–343 [Fig. 2, p. 337].)
+TABLE 47.8  Hereditary Disorders of the Connective Tissues Featuring Joint Hypermobility
+Ehlers-Danlos Syndromes
+Gene
+Inheritance
+Distinguishing Features
+Classic
+COL5A1, COL5A2, COL1A1
+AD
+Papyraceous and hemosiderotic scars; velvety, hyperextensible skin
+Classic-like
+TNXB
+AR
+Velvety, hyperextensible skin; absence of papyraceous scars
+Hypermobile
+Unknown
+AD
+Hypermobility; meets 2017 criteria; comorbid extramusculoskeletal 
+manifestations
+Vascular
+COL3A1
+AD
+Extensive easy bruising; vascular aneurysms and ruptures; sudden death
+Kyphoscoliotic
+PLOD1, FKBP14
+AR
+Congenital, progressive scoliosis; congenital hypotonia
+Dermatosparaxis
+ADAMTS2
+AR
+Extreme skin fragility; velvety, hyperextensible skin; acquired cutis laxa
+Cardiac-valvular
+COL1A2
+AR
+Severe cardiac valvular involvement; velvety, hyperextensible skin
+Arthrochalasia
+C0L1A1,C0L1A2
+AD
+Congenital hip dysplasia/subluxation
+Musculocontractural
+CHST14, DSE
+AR
+Contractures; velvety, hyperextensible skin
+Periodontal
+C1R, CIS
+AD
+Severe and early-onset periodontitis; tibial plaques
+Brittle cornea syndrome
+ZNF469, PRDM5
+AR
+Keratoconus; thin cornea
+Spondylodysplastic
+B4GALT7, B3GALT6, SLC39A13
+AR
+Congenital hypotonia; short stature; bowed limbs
+Myopathic
+COL12A1
+AD, AR
+Congenital hypotonia; proximal contractures
+Hypermobility Spectrum 
+Disorder
+Unknown
+Exclusion of other clear causes of hypermobility and does not meet 2017 
+criteria
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+885
+CHAPTER 47  Hypermobility
+TABLE 47.9  Disorders Featuring Joint Hypermobility
+OMIM
+Syndromic Disorders
+OMIM
+Chromosomal Aneuploidies
+OMIM Skeletal Dysplasias
+100050
+Aarskog syndrome
+Chromosome instability disorder, Wegner type
+100800
+Achondroplasia
+103285
+ADULT syndrome
+Chromosome 1, del 1p(p21-p32)
+102500
+Hajdu-Cheney syndrome
+112240
+Cole-Carpenter syndrome
+Chromosome 1, del 1q(q21-q25)
+105835
+Angel-shaped phalangoepiphyseal 
+dysplasia
+113310
+Fibular aplasia
+Chromosome 1, dup 1p(p21.2-p13.2)
+108300
+Stickler syndrome
+115150
+Cardiofaciocutaneous syndrome
+Chromosome 2, interstitial del 2q(q13q22)
+113500
+Dominant brachyolmia
+117550
+Sotos syndrome
+Chromosome 2, microdeletion 2q33.1
+119600
+Cleidocranial dysplasia
+129490
+Ectodermal dysplasia, hypohidrotic 
+hair/tooth type
+Chromosome 2, partial trisomy 2p
+146000
+Hypochondroplasia
+130070
+Larsen syndrome
+Chromosome 2, terminal del 2q/2q37 deletion
+150230
+Langer-Giedion syndrome
+130650
+Beckwith-Wiedemann syndrome
+Chromosome 3, interstitial del 3q
+151050
+Lenz-Majewski hyperostotic dwarfism
+135500
+Zimmermann-Laband syndrome
+Chromosome 3, microduplication 3q13.31
+156400
+Metaphyseal chondrodysplasia, Jansen 
+type
+135900
+Coffin-Siris syndrome
+Chromosome 4, microdeletion 4p16.3
+156530
+Metatropic dysplasia
+136140
+Floating-Harbor syndrome
+Chromosome 4, interstitial del 4q
+166200
+Osteogenesis imperfecta, type 1
+146510
+Pallister-Hall syndrome
+Chromosome 4, microdeletion 4q25
+177170
+Pseudoachondroplasia
+147920
+Kabuki syndrome
+Chromosome 6, del 6q27
+184260
+Odontochondrodysplasia
+158350
+Cowden syndrome
+Chromosome 6, interstitial del 6q
+184840
+Weissenbacher-Zweymuller syndrome
+161200
+Nail-patella syndrome
+Chromosome 6, microdeletion 6q14
+201250
+Acromesomelic dysplasia, Hunter-
+Thompson
+162200
+Neurofibromatosis 1
+Chromosome 7, partial dup 7p
+210600
+Seckel syndrome
+163950
+Noonan syndrome
+Chromosome 7, partial dup 7q
+216550
+Cohen syndrome
+162400
+Hereditary sensory neuropathy type 
+IA; HSAN1A
+Chromosome 8, interstitial dup 8p
+217980
+Toriello-Carey syndrome
+175050
+Juvenile polyposis, hereditary 
+hemorrhagic telangiectasia 
+syndrome
+Chromosome 8, mosaic tetrasomy 8p
+218040
+Costello syndrome
+Continued
+Ehlers-Danlos Syndromes
+Gene
+Inheritance
+Distinguishing Features
+Disorders of the TGFB Pathway
+Marfan syndrome
+FBN1
+AD
+Lens dislocation; thoracic aorta dilatation/dissection
+Loeys-Dietz syndrome
+TGFBR1, TGFBR2, TGFB2, 
+TGFB3, SMAD2, SMAD3
+AD
+Dysmorphic; thoracic aorta dilatation/dissection; middle arteriopathy
+Shprintzen-Goldberg syndrome
+SKI
+AD
+Craniosynostosis; dysmorphic; thoracic aorta dilatation/dissection
+Meester-Loeys syndrome
+BGN
+X-linked
+Mild skeletal dysplasia; dysmorphic; thoracic aorta dilatation/dissection
+Lateral meningocele syndrome
+NOTCH3
+AD
+Multiple Tarlov cysts and spinal meningoceles; dysmorphic
+Arterial tortuosity syndrome
+SLC2A10
+AR
+Arterial tortuosity; middle arteriopathy; thoracic aorta dilatation/dissection; 
+acquired cutis laxa
+Cutis Laxa Syndromes
+ALDH18Al-related cutis laxa
+ALDH18A1
+AR
+Intellectual disability; cataracts; poor growth
+De Barsy syndrome
+PYRC1
+AR
+Intellectual disability; pseudo-athetoid movements; eye anomalies; poor growth
+EFEMP2-related cutis laxa
+EFEMP2
+Emphysema; middle arteriopathy; diaphragmatic hernia
+ELN-related cutis laxa
+ELN
+AD
+Thoracic aorta dilatation/dissection
+FBLN5-related cutis laxa
+FBLN5
+AD, AR
+Emphysema; peripheral pulmonary stenosis
+Geroderma osteodysplasticum
+GORAB
+AR
+Osteopenia; fractures; poor growth
+LTBP4-related cutis laxa
+LTBP4
+AR
+Peripheral pulmonary stenosis; congenital heart defect; diaphragmatic hernia
+PYCR1-related cutis laxa
+PYCR1
+AR
+Intellectual disability; hypoplasia of the corpus callosum
+Adapted from Baban A, Castori M. Pharmacological resources, diagnostic approach, and coordination of care in joint hypermobility-related 
+disorders. Exp Rev Clin Pharmacol. 2018;11(7):689–703, Table 1. doi:10.1080/17512433.2018.1497973.
+TABLE 47.8  Hereditary Disorders of the Connective Tissues Featuring Joint 
+Hypermobility—cont’d
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+886
+SECTION 8  Musculoskeletal Disorders
+TABLE 47.9  Disorders Featuring Joint Hypermobility—cont’d
+OMIM
+Syndromic Disorders
+OMIM
+Chromosomal Aneuploidies
+OMIM Skeletal Dysplasias
+175100
+Familial adenomatous syndrome, 
+Gardner syndrome
+608156
+Chromosome 8, microdeletion 8q22.1
+223800
+Dyggve-Melchior-Clausen syndrome
+176270
+Prader-Willi syndrome
+Chromosome 9, dup 9q
+239850
+Cantu syndrome
+180849
+Rubinstein-Taybi syndrome
+Chromosome 9, microdeletion 9q22.3
+248010
+Magaepiphyseal dysplasia, McAlister-
+Coe type
+192430
+Velocardiofacial syndrome
+Chromosome 9, partial dup 9p
+250215
+Metaphyseal acroscyphodysplasia
+201200
+Acrogeria, Gottron type
+158170
+Chromosome 9, partial del 9p
+250230
+Metaphyseal chondrodysplasia, Kaitila 
+type
+190350
+Trichorhinophalangeal syndrome, 
+type 1
+Chromosome 9, trisomy 9
+250250
+Cartilage-hair hypoplasia
+218600
+Baller-Gerold syndrome
+Chromosome 10, duplication 10q
+250420
+Metaphyseal dysplasia, deafness, 
+intellectual disability
+223370
+Dubowitz syndrome
+Chromosome 10, mosaic trisomy 10
+251450
+Desbuquois dysplasia 1
+230740
+GAPO syndrome
+263520
+Short rib-polydactyly syndrome, 
+Majewski type
+241519
+Cerebral calcification, opalescent 
+teeth, phosphaturia
+Chromosome 11, microdeletion 11q13.2q13.4
+264180
+Pseudodiastrophic dysplasia
+243800
+Johanson-Blizzard syndrome
+Chromosome 11, partial dup lip
+271510
+Sponastrime dysplasia
+248800
+Marinesco-Sjögren syndrome
+Chromosome 12, del 12p
+271640
+Spondyloepimetaphyseal dysplasia, 
+joint laxity, type 1
+249310
+Megalocornea-intellectual disability, 
+type 1
+Chromosome 12, duplication 12q23q24
+2736S0
+Thanatophoric dysplasia
+249620
+Blepharophimosis-intellectual 
+disability syndrome, Ohdo type
+Chromosome 12, microdeletion 12ql3.13
+273740
+Thoraco-limb dysplasia
+256690
+Neurofaciodigitorenal syndrome
+Chromosome 12, microdeletion 12ql4
+309350
+Melnick-Needles syndrome
+257910
+Oculo-palato-cerebral syndrome
+Chromosome 12, mosaic partial dup 12q
+313420
+Spondylometaphyseal dysplasia, X-linked
+257970
+Oculo-renal-cerebellar syndrome
+Chromosome 12, partial dup 12q
+600373
+CODAS syndrome
+258360
+Onychotrichodysplasia, neutropenia, 
+intellectual disability
+Chromosome 13, dup 13q11-q13.2
+607095
+Anauxetic dysplasia
+261540
+Peters-plus syndrome
+Chromosome 13, partial dup 13q
+264800
+Pseudoxanthoma elasticum
+Chromosome 14, deletion 14q23
+Myopathies and Muscular 
+Dystrophies
+265050
+3MC syndrome
+Chromosome 14, microdeletion 14q24
+254000
+Congenital muscular dystrophy, gonadal 
+dysgenesis
+267750
+Knobloch syndrome
+Chromosome 14, partial dup 14q
+254090
+Ullrich congenital muscular dystrophy
+268050
+Mirhosseini-Holmes-Walton 
+syndrome
+Chromosome 15, interstitial del 15q(q21q25)
+256030
+Nemaline myopathy
+268400
+Rothmund-Thomson syndrome
+Chromosome 15, inv dup(15)
+618323
+Myasthenic syndrome, congenital
+269880
+SHORT syndrome
+Chromosome 15, trisomy 15
+271270
+Spinocerebellar ataxia, dysmorphic 
+facies
+613406
+Chromosome 15, microdeletion 15q24
+Metabolic Disorders/Inborn 
+Errors of Metabolism
+273750
+3M syndrome
+Chromosome 16, partial dup 16p
+210200
+3-Methylcrotonylglycinuria
+275900
+Spastic paraplegia 20 (SPG20)
+136570
+Chromosome 16, microdeletion 16p12.1
+208400
+Aspartylglucosaminuria
+300000
+Opitz G syndrome
+Chromosome 17, mosaic trisomy 17
+236200
+Homocystinuria
+300194
+Alport syndrome, intellectual 
+disability, elliptocytosis
+Chromosome 17, partial dup 17p
+252500
+Mucolipidosis 2
+300049
+Periventricular heterotopia disorder
+Chromosome 17, partial dup 17q
+253000
+Morquio syndrome
+300422
+FG syndrome
+610443
+Chromosome 17, microdeletion 17q21.31
+277400
+Methylmalonic aciduria/
+homocystinuria, cblC (MAHCC)
+300624
+Fragile X syndrome (FXS)
+601808
+Chromosome 18, partial del 18q
+277900
+Wilson disease
+303600
+Coffin-Lowry syndrome
+Chromosome 19, deletion 19p13.3
+300352
+Creatine deficiency syndrome, X-linked
+305000
+Dyskeratosis congenita syndrome
+613026
+Chromosome 19, microdeletion 19q13.11
+304150
+Occipital horn syndrome
+305600
+Focal dermal hypoplasia
+Chromosome 20, partial dup 20p
+600721
+D-2-hydroxyglutaric aciduria
+309520
+Lujan-Fryns syndrome
+190685
+Chromosome 21, trisomy 21/Down syndrome
+601803
+Pallister-Killian syndrome
+611867
+Chromosome 22, proximal 22q11 deletion
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+887
+CHAPTER 47  Hypermobility
+OMIM
+Syndromic Disorders
+OMIM
+Chromosomal Aneuploidies
+OMIM Skeletal Dysplasias
+602342
+Pierpont syndrome
+Chromosome X, duplication Xq
+602535
+Marshall-Smith syndrome
+Chromosome X, dup Xp11.22-21.1
+602501
+Megalencephaly, capillary 
+malformation, polymicrogyria
+606170
+Genitopatellar syndrome
+609442
+Fetal valproate syndrome
+613805
+Meier-Gorlin syndrome
+615879
+Tatton-Brown-Rahman syndrome
+616580
+Au-Kline syndrome
+616721
+Congenital disorders of glycosylation
+617140
+ZTTK syndrome
+618332
+Menke-Hennekam syndrome 1 
+(MKHK1)
+618371
+Turnpenny-Fry syndrome (TPFS)
+ADULT, acro-dermato-ungual-lacrimal-tooth; CODAS, cerebral, ocular, dental, auricular, skeletal anomalies; GAPO, growth retardation, alopecia, 
+pseudoanodontia, and optic atrophy; ZTTK, Zhu-Tokita-Takenouchi-Kim.
+TABLE 47.9  Disorders Featuring Joint Hypermobility—cont’d
+Noonan syndrome, myopathies, metabolic disorders including dis­
+orders of energy (mitochondrial) metabolism, or creatine uptake 
+disorders. A detailed history of exacerbating circumstances can help 
+define some of these disease mimics along with appropriate serum 
+and biochemical testing or consideration for gene sequencing. Spe­
+cialist referral is often necessary to help guide the evaluation, but it is 
+the primary care physician who recognizes and initiates many of these 
+investigations.
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+887.e1
+BIBLIOGRAPHY
+Castori M, Tinkle B, Levy H, et al. A framework for the classification of 
+joint hypermobility and related conditions. Am J Med Genet Part C. 
+2017;175C:148–157.
+De Wandele I, Rombaut L, Malfait F, et al. Clinical heterogeneity in patients 
+with the hypermobility type of Ehlers-Danlos syndrome. Res Dev Disabil. 
+2013;34:873–881.
+Hakim AJ, Sahota A. Joint hypermobility and skin elasticity: the hereditary 
+disorders of connective tissue. Clin Dermatol. 2006;24:521–533 (Fig. 1A, p. 538).
+Hope L, Juul-Kristensen B, Løvaas H, Løvvik C, Maeland S. Subjective health 
+complaints and illness perception amongst adults with joint hypermobility 
+syndrome/Ehlers–Danlos syndrome–hypermobility type—a cross-
+sectional study. Disabil Rehabil. 2019;41(3):333–340.
+Liu FC, Fuh JL, Wang YF, et al. Connective tissue disorders in patients with 
+spontaneous intracranial hypotension. Cephalalgia. 2011;31(6):691–695.
+Murray B, Yashar BM, Uhlmann WR, et al. Ehlers–Danlos syndrome, 
+hypermobility type: a characterization of the patients’ lived experience. Am 
+J Med Genet Part A. 2013;161A:2981–2988.
+Murray KJ. Hypermobility disorders in children and adolescents. Best Prac Res 
+Clin Rheumatol. 2006;20(2):329–351.
+Reinstein E, Pariani M, Bannykh S, et al. Connective tissue spectrum 
+abnormalities associated with spontaneous cerebrospinal fluid leaks: a 
+prospective study. Eur J Human Genetics. 2013;21:386–390.
+Rombaut L, Malfait F, Cools A, et al. Musculoskeletal complaints, physical activity, 
+and health-related quality of life among patients with the Ehlers-Danlos 
+syndrome hypermobility type. Disabil Rehabil. 2010;32(16):1339–1345.
+Ross J, Grahame R. Joint hypermobility syndrome. BMJ. 2011;342:c7167.
+Seckin U, Tur BS, Yilmaz O, et al. The prevalence of joint hypermobility 
+among high school students. Rheumatol Int. 2005;25:260–263.
+Evaluating Hypermobility
+McGillis L, Mittal N, Santa Mina D, et al. Utilization of the 2017 diagnostic 
+criteria for hEDS by the Toronto GoodHope Ehlers–Danlos syndrome 
+clinic: a retrospective review. Am J Med Genet. 2020;182A:484–492.
+Romeo DM, Lucibello S, Musto E, et al. Assessing joint hypermobility in 
+preschool-aged children. J Pediatr. 2016;176:162–166.
+Singh H, McKay M, Baldwin X, et al. Beighton scores and cut-offs across the 
+lifespan: cross-sectional study of an Australian population. Rheumatology. 
+2017;56:1857–1864.
+Smits-Engelsman B, Klerks M, Kirby A. Beighton score: a valid measure for 
+generalized hypermobility in children. J Peds. 2011;158(1):119–123.
+Connective Tissue and Its Role in These Disorders
+Baeza-Velasco C, Pailhez G, Bulbena A, et al. Joint hypermobility and the 
+heritable disorders of connective tissue: clinical and empirical evidence of 
+links with psychiatry. Gen Hosp Psychiatr. 2015;37:24–30.
+Beckers AB, Keszthelyi D, Fikree A, et al. Gastrointestinal disorders in joint 
+hypermobility syndrome/Ehlers-Danlos syndrome hypermobility type: a 
+review for the gastroenterologist. Neuro Gastroenterol Motil. 2017;29(8):1–10.
+Byers PH, Murray ML. Ehlers–Danlos syndrome: a showcase of conditions 
+that lead to understanding matrix biology. Matrix Biol. 2014;33:10–15.
+Courtesy Netter Images, Image ID 13192. https://netterim¬ages.com/loose-
+connective-tissue-ovalle-histology-figure-31-labeled-ovalle-histology-
+frank-h-netter-13192.html.
+De Wandele I, Rombaut L, Leybaert L, et al. Dysautonomia and its underlying 
+mechanisms in the hypermobility type of Ehlers–Danlos syndrome. Semin 
+Arthritis Rheum. 2014;44(1):93–100.
+Fikree A, Grahame R, Aktar R, et al. A prospective evaluation of undiagnosed 
+joint hypermobility syndrome in patients with gastrointestinal symptoms. 
+Clin Gastroenterol Hepatol. 2014;12(10):1680–1687.
+Nishimura T. Role of extracellular matrix in development of skeletal muscle 
+and postmortem aging of meat. Meat Sci. 2015;109:48–55.
+Saps M, Blom JJ, Velasco-Benitez CA, et al. Functional gastrointestinal 
+disorders and joint hypermobility: a school-based study. JPGN. 
+2018;66:387–390.
+Hypermobility Spectrum Disorders
+Castori M, Camerota F, Celletti C, et al. Natural history and manifestations 
+of the hypermobility type Ehlers–Danlos syndrome: a pilot study on 21 
+patients. Am J Med Genet A. 152A:556–564.
+Castoria M, Hakim A. Contemporary approach to joint hypermobility and 
+related disorders. Curr Opin Pediatr. 2017;29:640–649.
+Demmler JC, Atkinson MD, Reinhold EJ, et al. Diagnosed prevalence of 
+Ehlers-Danlos syndrome and hypermobility spectrum disorder in Wales, 
+UK: a national electronic cohort study and case-control comparison. BMJ 
+Open. 2019;9(11). https://doi.org/10.1136/bmjopen-2019-03136.
+Hakim AJ, Grahame R. A simple questionnaire to detect hypermobility: an 
+adjunct to the assessment of patients with diffuse musculoskeletal pain. Int 
+J Clin Pract. 2003;57(3):163–166.
+Hakim AJ, Grahame R. A simple questionnaire to detect hypermobility: an 
+adjunct to the assessment of patients with diffuse musculoskeletal pain. Int 
+J Clin Pract. 2003;57(3):164.
+Juul-Kristensen B, Schmedling K, Rombaut L, et al. Measurement properties 
+of clinical assessment methods for classifying generalized joint 
+hypermobility—a systematic review. Am J Med Genet Part C Semin Med 
+Genet. 2017;175C:116–147.
+Kohn A, Chang C. The relationship between hypermobile Ehlers-Danlos 
+syndrome (hEDS), postural orthostatic tachycardia syndrome (POTS), 
+and mast cell activation syndrome (MCAS). Clin Rev Allergy Immunol. 
+2020;58:273–297.
+Remvig L, Flycht L, Christensen KB, et al. Lack of consensus on tests and 
+criteria for generalized joint hypermobility, Ehlers–Danlos syndrome: 
+hypermobile type and joint hypermobility syndrome. Am J Med Genet. 
+2014;164A:591–596. Part A.
+Tinkle B, Castori M, Berglund B, et al. Hypermobile Ehlers–Danlos syndrome 
+(a.k.a. Ehlers–Danlos syndrome type III and Ehlers–Danlos syndrome 
+hypermobility type): clinical description and natural history. Am J Med 
+Genet Part C Semin Med Genet. 2017;175(1):48–69.
+Tinkle BT, Levy HP. Symptomatic joint hypermobility. The hypermobile type 
+of Ehlers-Danlos syndrome and the hypermobility spectrum disorders. 
+Med Clin N Am. 2019;103:1021–1033.
+Diagnostic Characterization of Hypermobility
+Baban A, Castori M. Pharmacological resources, diagnostic approach and 
+coordination of care in joint hypermobility-related disorders. Expet Rev 
+Clin Pharmacol. 2018;11(7):689–703.
+Colombi M, Dordoni C, Chiarelli N, et al. Differential diagnosis and diagnostic 
+flow chart of joint hypermobility syndrome/Ehlers–Danlos syndrome 
+hypermobility type compared to other heritable connective tissue 
+disorders. Am J Med Genet C. 2015;169C:6–22.
+Guarnieri V, Castori M. Clinical relevance of joint hypermobility and its 
+impact on musculoskeletal pain and bone mass. Curr Osteoporos Rep. 
+2018;16:333–343.
+Malfait F, et al. The 2017 international classification of the Ehlers–Danlos 
+syndromes. Am J Med Genet C [Semin Med Genet.] 2017;175C:8–26.
+Voermans NC, Bonnemann CG, Hamel BCJ, et al. Joint hypermobility as a 
+distinctive feature in the differential diagnosis of myopathies. J Neurol. 
+2009;256:13–27.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

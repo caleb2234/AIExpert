@@ -1,0 +1,1377 @@
+500
+An irritable infant is a challenge to the caregiver and medical provider 
+and is a common presenting complaint in early infancy. An irritable 
+infant is defined here as a patient younger than 1 year of age who, 
+according to the caregiver, cries excessively or is excessively fussy 
+without a specific defined time period. In addition, this chapter also 
+addresses issues of an irritable toddler (∼2–3 years of age). There are 
+many causes, but most irritable infants do not have significant underly­
+ing pathologic processes. However, there are serious entities that must 
+not be missed (Table 30.1).
+Medical providers should also recognize the profound anxiety and 
+stress that infant crying may place on families and other caregivers. 
+Although excessive crying generally resolves with time, the family’s 
+beliefs about the cause of the crying can have a lasting effect on the way 
+they interact with the child and their beliefs about the infant’s health. 
+Caregivers who perceived their infant’s crying as excessive or incon­
+solable described higher rates of depression, strained family relation­
+ships, and guilt about their inability to calm the infant. Excessive crying 
+may even trigger thoughts of harming the infant and is reported as 
+a common trigger for child physical abuse. Additionally, infants with 
+early cry-­fuss problems in combination with family dysfunction are 
+at higher risk for ongoing behavioral problems, highlighting the need 
+for early identification and intervention in this population. Therefore, 
+the provider’s response when evaluating an irritable infant should be 
+focused on diagnosing potentially treatable medical conditions includ­
+ing rare disorders and on addressing the caregiver’s understanding and 
+response to the crying.
+DIAGNOSTIC APPROACH
+Less than 5–10% of infants who present for medical care due to exces­
+sive crying will have a serious underlying etiology. However, a thorough 
+medical evaluation including a detailed history and physical examina­
+tion is needed to identify the minority of infants with treatable issues, 
+and in healthy infants a thorough evaluation may reassure caregivers. 
+The initial evaluation should focus on ruling out potentially emer­
+gent conditions (Fig. 30.1). The physical examination should include 
+a complete examination of all body systems with the clothing removed. 
+Table 30.2 lists elements of the history and physical examination sug­
+gestive of emergent and common diagnoses that may present with a 
+chief complaint of crying. The history should be comprehensive, given 
+the wide array of possible diagnoses to consider. The history should 
+include questions about the characteristics of the cry (the time of day, 
+duration, whether it is associated with feeds) and any changes to the 
+infant’s typical crying pattern. Infants with a sudden increase in the fre­
+quency and duration of inconsolable crying compared to their normal 
+crying pattern are more likely to have an underlying medical condition. 
+Clinicians should also ask caregivers why they think the infant is crying 
+to specifically address any fears about the infant’s health.
+In most cases, the history and/or physical examination will suggest 
+the diagnosis, which can be confirmed with the judicious use of lab­
+oratory and imaging studies. However, providers should be aware of 
+potentially serious diagnoses that may present with vague symptoms 
+of fussiness and few other signs or symptoms on physical examination, 
+including neurologic conditions and certain fractures. In very young 
+infants, the neurologic exam is a poor screening tool to detect subtle 
+neuropathology, and intracranial injury may not be accompanied by 
+external evidence of trauma. In cases of physical abuse, an accurate 
+history of injury may be concealed or unknown to the presenting care­
+giver, and the child may present for medical care after the symptoms of 
+acute injury have resolved. In addition to questions about recent symp­
+toms, medical providers assessing crying complaints should ask about 
+any remote history of bruising or other injury. A history of previous 
+neurologic symptoms, such as episodes of unexplained seizures, apnea, 
+altered mental status, developmental delay, or periods of extreme leth­
+argy, may suggest an occult head injury or other nontraumatic neuro­
+pathology. Consider head imaging and a skeletal survey in infants with 
+a history of neurologic symptoms or prior injury.
+Growth parameters, including head circumference, should be 
+obtained. Increasing head circumference percentile may point to 
+increased intracranial pressure in infants with otherwise vague symp­
+toms. Though conditions such as constipation, gastroenteritis, and 
+gastroesophageal reflux are most often benign, poor growth or devel­
+opmental delay may indicate more severe disease or that another med­
+ical condition is causing the symptoms.
+A urinary tract infection (UTI) may also present with vague 
+symptoms of irritability in infants. A UTI is one of the few conditions 
+in which laboratory or imaging may lead to a diagnosis in the absence 
+of a suggestive clinical picture. Some suggest that a urinalysis and 
+culture should be a standard screening test in infants who present 
+with crying.
+When the history and physical examination do not suggest a diag­
+nosis, additional laboratory or radiographic evaluation may be needed. 
+In particular, if the infant is ill-­appearing, has evidence of poor growth 
+or developmental delay, or is persistently inconsolable beyond the ini­
+tial assessment, laboratory and radiographic studies should be done 
+(Table 30.3). Patients may need to be monitored in the hospital until a 
+diagnosis can be established. Some tests to consider include:
+ • A CBC with differential, ESR, and/or CRP measurement (for infec­
+tion or inflammation, anemia)
+ • Analysis of cerebrospinal fluid (for meningitis or encephalitis)
+ • Blood culture
+ • Serum pH and complete metabolic panel, amylase, and lipase (for 
+electrolyte abnormalities, metabolic diseases, abdominal trauma)
+ • UA and culture (for trauma or infection)
+ • Stool guaiac (for intussusception, gastroenteritis, cow’s milk allergy)
+ • A skeletal survey (for trauma)
+The Irritable Infant
+Angela L. Rabbitt
+30
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+TABLE 30.1  Differential Diagnosis in the Irritable Infant
+Emergent/Urgent Diagnoses
+Nonemergent/Urgent Diagnoses
+Eyes, Ears, Nose, Throat
+Choanal atresia
+Otitis externa
+Corneal abrasion
+Teething
+Foreign body
+Stomatitis
+Glaucoma
+Otitis media
+Respiratory
+Airway obstruction (croup, foreign body)
+Upper respiratory tract infection
+Lower respiratory tract infection (pneumonia, bronchiolitis)
+Cardiovascular
+Congestive heart failure
+Supraventricular tachycardia
+Anomalous coronary artery
+Myocarditis
+Kawasaki disease
+Gastrointestinal System
+Incarcerated hernia
+Constipation
+Gastrointestinal obstruction (intussusception, volvulus, pyloric stenosis, Hirschsprung disease)
+Uncomplicated gastroenteritis
+Anal fissure
+Abdominal trauma
+Gastroesophageal reflux
+Peritonitis (appendicitis, spontaneous)
+Inappropriate feeding volume or technique
+Milk or soy protein allergy
+Genitourinary System
+Testicular torsion
+Ovarian torsion
+Urinary tract infection
+Orchitis
+Balanitis
+Epididymitis
+Musculoskeletal System
+Osteomyelitis
+Minor, soft tissue injury
+Diskitis
+Septic arthritis
+Fractures
+Radial head subluxation
+Leukemia, neuroblastoma
+Skin
+Cellulitis
+Impetigo
+Tourniquet syndrome (digit, genitalia)
+Dermatitis
+Insect bites
+Minor injury
+Central Nervous System
+Encephalitis
+Meningitis
+Increased intracranial pressure (trauma, hydrocephalus, intracranial hemorrhage)
+Intracranial mass
+Miscellaneous
+Drug ingestion
+Vaccine reaction
+Neonatal abstinence syndrome
+Poor caregiver-­infant interaction
+Inborn error of metabolism
+Normal crying
+Sepsis
+Sickle cell crisis
+Physical abuse
+Familial pain syndromes
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+502
+SECTION 6   Developmental and Psychiatric Disorders
+ • CT scan or MRI of the head (for intracranial hemorrhage, mass, or 
+hydrocephalus)
+ • Comprehensive urine drug screen (for ingestion)
+In the consolable infant without history or physical examination 
+findings suggestive of a serious condition, nonemergent causes of crying 
+are more likely (see Table 30.1). The most likely diagnosis in infants 
+younger than 4 months of age is above-­average crying in a normal 
+infant. However, because a definitive diagnosis has not been estab­
+lished, infants should receive a follow-­up evaluation within 24 hours 
+to ensure that a more serious illness was not missed and to address 
+any additional concerns or questions about the crying. This element is 
+especially critical if the clinician has any doubt concerning the estab­
+lishment of the correct diagnosis.
+Paradoxical irritability occurs when a parent attempts to console a 
+crying infant but in the process of holding or cuddling the child, there 
+is an exacerbation of crying. This should suggest that a painful site has 
+been touched or moved and is seen in septic arthritis, osteomyelitis, 
+meningitis, or a fracture.
+ADDRESSING CAREGIVERS’ RESPONSE TO CRYING
+The distress, frustration, and anxiety that persistent or inconsolable 
+crying may cause caregivers should be recognized and acknowledged 
+with empathy, regardless of the cause. After addressing any urgent 
+medical needs, caregivers should be educated about the normal pattern 
+of infant crying and methods to soothe the infant.
+Supportive care as
+required (airway,
+breathing, circulation)
+Careful history and physical
+exam (consider emergent
+diagnoses first)
+(Table 30.2)
+Does history or physical
+exam suggest the
+diagnosis?
+Yes
+Yes
+No
+No
+• Ill-appearing
+• Inconsolable beyond initial
+  assessment
+• History of unexplained poor
+  growth, developmental delay
+• History of previous neurologic
+  symptoms or suspicious injuries,
+  or other suspicion for abuse
+Consider ancillary
+testing if appropriate
+(see Table 30.3)
+Consider non-
+emergent diagnoses
+(see TabIe 30.1)
+Consider ancillary
+testing for emergent
+diagnoses
+(see Table 30.3)
+For all diagnoses at initial presentation or at follow-up:
+• Evaluate how caregivers are coping with the crying
+• Address any fears about possible cause of crying
+• Provide education on infant crying and soothing
+• Consider referrals to support services and family therapy or
+  infant mental health experts in high-risk families
+Schedule
+follow-up
+Infant with
+irritability
+Fig. 30.1  Initial approach to the irritable infant.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+503
+CHAPTER 30  The Irritable Infant
+TABLE 30.2  Clinical Presentation of Selected Diagnoses in Infants Presenting with Crying
+Review of Systems
+Possible Physical Exam Findings
+Diagnoses to Consider
+Eyes, Ears, Nose, Throat
+ • Pain or irritation of one eye
+ • Chronic or intermittent tearing
+ • Photophobia
+ • Tearing
+ • Foreign body seen on lid inversion
+ • Foreign body
+ • Corneal abrasion
+ • Glaucoma
+ • Corneal enlargement or clouding
+ • Ocular enlargement
+ • Optic nerve cupping
+ • Difficulty breathing and cyanosis during feeds; 
+symptoms improve with crying
+ • Inability to pass a nasogastric tube
+ • Decreased air movement through nares
+ • Choanal atresia
+ • Otorrhea
+ • Fever
+ • Ear tugging
+ • Decreased appetite
+ • Bulging or immobile tympanic membrane
+ • Abnormal color or perforated tympanic membrane
+ • Otorrhea
+ • Otitis media
+ • Otitis externa
+ • Excessive drooling
+ • Decreased appetite
+ • Inflamed gums
+ • Tooth eruption
+ • Erythema over frenulum
+ • Sores or ulcerations
+ • Teething
+ • Lacerated frenulum
+ • Herpetic stomatitis
+Respiratory
+ • Trouble breathing, cough, congestion
+ • Abnormal breath sounds
+ • Respiratory distress
+ • Airway obstruction (foreign body, croup)
+ • Pneumonia
+ • Bronchiolitis
+ • Chest trauma
+Cardiovascular
+ • Tachypnea and diaphoresis with feeds
+ • Trouble breathing
+ • Easy fatigability
+ • Pallor, cyanosis
+ • Tachycardia
+ • Respiratory distress
+ • Poor perfusion
+ • Abnormal heart sounds
+ • Abnormal breath sounds
+ • Hepatomegaly
+ • Cardiomegaly
+ • Congestive heart failure
+ • Supraventricular tachycardia
+ • Anomalous coronary artery
+ • Myocarditis
+Gastrointestinal System
+ • Constipation (hard stools, less than two per 
+week)
+ • Nonspecific exam
+ • Stool mass in left lower quadrant
+ • Anal fissure
+ • Constipation
+ • Delayed passage of meconium, poor growth, 
+vomiting
+ • Abdominal distention
+ • Tight anal canal with empty ampulla
+ • Hirschsprung disease
+ • Vomiting
+ • Poor feeding with or without poor weight gain
+ • Crying associated with feeds
+ • Diarrhea
+ • Nonspecific exam
+ • Hematochezia
+ • Atopic dermatitis
+ • Milk and/or soy protein allergy
+ • Gastroesophageal reflux disease
+ • Gastroenteritis
+ • Sudden-­onset intermittent pain
+ • Vomiting
+ • Lethargy
+ • Poor feeding
+ • Hematochezia
+ • Abdominal distention
+ • Abdominal tenderness, guarding
+ • Abdominal or pelvic mass
+ • Intestinal obstruction (volvulus, intussusception)
+ • Peritonitis
+ • History of injury
+ • No history or history of prior suspicious injury in 
+abusive trauma
+ • With or without evidence of injury on exam
+ • Nonspecific abdominal exam
+ • Abdominal trauma
+ • Forceful vomiting
+ • Hungry between episodes of emesis
+ • Dehydrated
+ • Palpable pyloric sphincter
+ • Pyloric stenosis
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+504
+SECTION 6   Developmental and Psychiatric Disorders
+TABLE 30.2  Clinical Presentation of Selected Diagnoses in Infants Presenting 
+with Crying—cont’d
+Review of Systems
+Possible Physical Exam Findings
+Diagnoses to Consider
+ • Improper formula volume or mixing
+ • Frustration with feeds
+ • Poor latch
+ • Feeding aversion
+ • Poor growth
+ • Vomiting
+ • Excess gas
+ • Nonspecific exam
+ • Inappropriate feeding volume or technique
+Genitourinary System
+ • Testicular swelling
+ • Testicular swelling, tenderness
+ • Testicular torsion
+ • Orchitis
+ • Epididymitis
+ • Previous urinary tract infection
+ • Suprapubic tenderness
+ • Fever
+ • Nonspecific exam
+ • Urinary tract infection
+Musculoskeletal System
+ • Decreased movement of an extremity
+ • Increased crying with movement
+ • Swelling, tenderness, warmth, erythema, pain or 
+crepitus with palpation or movement
+ • Fever
+ • Pseudoparalysis
+ • Fractures
+ • Soft tissue injury
+ • Osteomyelitis
+ • Septic arthritis
+ • Diskitis
+ • Malignancy
+Skin
+ • Rash
+ • Purulent drainage
+ • Itching
+ • Swelling, tenderness, warmth, erythema, rash
+ • Infection
+ • Dermatitis
+ • Insect bites
+ • Swollen appendage
+ • Well-­demarcated line separating normal tissue 
+from a distal dusky edematous appendage
+ • Ligature deeply imbedded in a groove covered by 
+edematous tissue
+ • Tourniquet syndrome
+ • Sudden onset of irritability
+ • History of injury
+ • No history of injury, history of prior suspicious 
+injury in abusive trauma
+ • Bruising, laceration, burns
+ • Abusive or nonabusive trauma
+ • Hernia
+ • Dusky or nonreducible umbilical or inguinal bulge
+ • Incarcerated hernia
+Central Nervous System
+ • Lethargy
+ • Vomiting
+ • Seizures
+ • With or without fever
+ • May present with subtle nonspecific symptoms
+ • Abnormal neurologic exam
+ • Ill-­appearing
+ • Fever
+ • Papilledema
+ • Enlarged head circumference
+ • Bulging fontanel
+ • Meningitis
+ • Encephalitis
+ • Increased intracranial pressure (hydrocephalus, 
+intracranial hemorrhage)
+ • Intracranial mass
+ • No history, or history of prior suspicious injury
+ • Prior history of symptoms of increased intracra­
+nial pressure
+ • Nonspecific exam
+ • Retinal hemorrhages (present in 85% of patients 
+with abusive head trauma)
+ • With or without other injuries
+ • Abusive or nonabusive head trauma
+Miscellaneous
+ • Medication administration
+ • Illicit drug use by caregivers
+ • Seizures
+ • Nonspecific exam
+ • Altered mental status
+ • Tachycardia
+ • Respiratory or cardiac compromise
+ • Seizures
+ • Drug ingestion
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+505
+CHAPTER 30  The Irritable Infant
+Normal infant crying progressively increases after 2 weeks and 
+peaks in the 2nd month of life, then gradually decreases by the 4th or 
+5th month. It generally peaks in the late afternoon and evening within 
+the first 6 months of life. At times it may be unrelated to the needs of 
+the infant. Therefore, even in healthy infants some episodes of fussiness 
+will not be soothed with typical caregiver attempts to soothe, such as 
+feeding, cuddling, carrying, and diapering, and may occur for up to 
+4–5 hours per day. This pattern of crying is consistent among normal 
+infants regardless of caretaking styles, cultural groups, and socioeco­
+nomic status, and has been demonstrated even in some nonhuman 
+mammalian species. The pattern may reflect a developmental stage 
+characterized by infants’ increased reactivity to their environment and 
+an immature ability to self-­regulate. Though this crying pattern seems 
+to be universal, the frequency and duration of crying varies signifi­
+cantly between infants. This variation is due to several factors, includ­
+ing infant temperament, the caregivers’ response to crying, and likely 
+other unidentified factors.
+Caregivers should be reassured that physical contact in the form of 
+carrying and feeding on demand within the first months of life will not 
+spoil the infant. Responding promptly to crying in very young infants 
+before it becomes inconsolable may reduce the amount of crying over 
+the long term by creating a more secure attachment between the infant 
+and caregiver. Room sharing, with the infant’s crib or bassinet in the 
+caregiver’s bedroom, may also decrease infant crying in the first 3 
+months of life. Conversely, in infants older than 3–4 months of age a 
+consistent daily routine of feeding and sleeping and reasonable delays 
+in caregiver responses to crying may encourage infants to develop 
+autonomous settling and improve infants’ ability to self-­regulate. 
+Soothing techniques (swaddling, pacifier use, rocking the baby in a 
+calm environment, or providing some background noise or vibration) 
+are inconsistently effective in studies assessing their efficacy to reduce 
+infant crying. However, these techniques cost nothing and are not asso­
+ciated with adverse effects. It is reasonable to recommend these tech­
+niques as an initial response to infant crying.
+Despite caregivers’ best efforts, there will be times even healthy 
+infants may not be soothed. The caregivers’ inability to soothe the 
+infant is often their primary source of negative feelings such as frus­
+tration, anger, or guilt, creating a loss of confidence in parenting skills 
+and feelings of resentment toward the infant. Infants then respond to 
+caregiver anxiety with increased crying. Caregivers may be reassured 
+by information that bouts of fussing do not necessarily indicate illness 
+or pain but may simply reflect the infant’s inability to regulate the cry­
+ing once it has started. Medical providers can also reassure caregivers 
+that most infant cry-­fuss problems are transient and not necessarily 
+predictive of ongoing behavior problems in childhood. In a prospec­
+tive, community-­based study of outcomes in infants with sleep and 
+cry-­fuss problems, only 5% of mothers reported persistent problems 
+at age 2 years.
+The clinician must be aware that parental distress from prolonged, 
+unexplained crying can lead to the use of ineffective, inappropriate, 
+or even dangerous remedies. Fennel extract may show promise as a 
+way to decrease crying, although additional study of this treatment 
+and possible negative effects is needed. If herbal teas containing fennel 
+replace infant formula, they may lead to malnutrition and electrolyte 
+abnormalities. Treatments that have been shown to have no significant 
+or reproducible effect in treating crying are acupuncture, reflexology, 
+TABLE 30.2  Clinical Presentation of Selected Diagnoses in Infants Presenting 
+with Crying—cont’d
+Review of Systems
+Possible Physical Exam Findings
+Diagnoses to Consider
+ • Maternal drug use during pregnancy
+ • Poor feeding
+ • Vomiting
+ • Sneezing, hiccups, diarrhea
+ • Poor sleep
+ • Tremors
+ • Seizures
+ • Nonspecific exam
+ • Neonatal abstinence syndrome
+ • Vomiting
+ • Poor growth
+ • Developmental delay or regression
+ • Seizures
+ • Dehydration and shock
+ • Organomegaly
+ • Abnormal neurologic exam
+ • Jaundice
+ • Dysmorphic features
+ • Abnormal odor
+ • Tachypnea
+ • Inborn error of metabolism
+ • Lethargy
+ • With or without fever
+ • Seizures
+ • Ill-­appearing
+ • Cardiorespiratory compromise
+ • Sepsis
+ • Infant or family history of sickle cell disease
+ • Trouble breathing
+ • Respiratory distress
+ • Splenomegaly
+ • Swelling and tenderness of the hands and feet
+ • Sickle cell crisis
+ • Recent immunizations
+ • Nonspecific exam
+ • Vaccine reaction
+ • Dysfunctional or chaotic home environment
+ • Significant caregiver stress
+ • Nonspecific exam
+ • Poor infant-­caregiver interaction
+ • Content between crying bouts
+ • Feeding well
+ • Normal growth and development
+ • Nonspecific exam
+ • Normal infant crying
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+506
+SECTION 6   Developmental and Psychiatric Disorders
+TABLE 30.3  Initial Ancillary Testing or Referrals to Consider for Specific Diagnoses
+Potential Diagnoses
+Ancillary Testing or Consultations to Consider
+Eyes, Ears, Nose, Throat
+Corneal abrasion or foreign body
+Fluorescein stain
+Glaucoma
+Ophthalmology consult
+Foreign body
+Radiographs and/or ENT consult
+Respiratory
+Pneumonia or bronchiolitis
+Chest radiography, pulse oximetry, nasopharyngeal viral testing
+Airway obstruction (croup, foreign body)
+Chest and/or neck radiography, pulse oximetry, ENT consult for bronchoscopy
+Cardiovascular
+Congestive heart failure
+Chest radiography, pulse oximetry, electrocardiogram, echocardiography, CBC, CMP, BNP, troponin, 
+Cardiology consult
+Supraventricular tachycardia
+Anomalous coronary artery
+Myocarditis
+Gastrointestinal System
+Incarcerated hernia
+Ultrasonography with Doppler, Surgical consult
+Gastrointestinal obstruction (intussusception, volvulus, pyloric 
+stenosis, Hirschsprung disease), peritonitis, abdominal 
+trauma
+CBC, CMP, amylase, lipase, abdominal and pelvic radiography, abdominal ultrasound, upper gastro­
+intestinal contrast study, abdominal and pelvic CT, air contrast enema for intussusception, Surgical 
+consult
+Milk and/or soy protein allergy
+Hemoccult testing
+Genitourinary System
+Testicular torsion
+Ultrasonography with Doppler, Surgical consult
+Ovarian torsion
+Pelvic ultrasonography or CT, Surgical consult
+Urinary tract infection
+UA with culture, CBC, blood culture
+Musculoskeletal System
+Osteomyelitis
+CBC, ESR, CRP, blood culture, radiography, MRI, Orthopedics and Infectious Disease consult
+Septic arthritis
+Fractures
+Skeletal survey
+Diskitis
+ESR, spine radiographs, spine MRI
+Leukemia, metastatic neuroblastoma
+CBC, bone marrow, abdominal imaging
+Skin
+Cellulitis, infection
+CBC, wound culture
+Central Nervous System
+Encephalitis
+Lumbar puncture, head CT or MRI, CBC, blood culture, EEG
+Meningitis
+Increased intracranial pressure (abusive or nonabusive 
+trauma, hydrocephalus, intracranial hemorrhage), neoplasm
+Head CT or MRI
+Miscellaneous
+Drug ingestion
+Comprehensive urine drug screen (with confirmatory testing)
+Neonatal abstinence syndrome
+Urine or meconium drug screen
+Inborn error of metabolism
+CBC with differential, ABG, CMP, serum ammonia, serum uric acid, LDH, blood glucose, aldolase, 
+creatine kinase, UA, urine reducing substances, serum amino acids, urine organic acids, serum 
+acylcarnitine profile, lactate, Genetics consult
+Sepsis
+CBC, LP, UA, urine and blood culture
+Sickle cell crisis
+CBC, reticulocyte count, chest radiography, pulse oximetry
+Physical abuse
+Injury surveillance: Skeletal survey; head CT or MRI in infants <6 mo of age or current or prior symp­
+toms of head injury; AST, ALT, amylase, lipase; comprehensive urine drug investigation screen with 
+confirmatory testing, Child Protection Team consult
+ABG, arterial blood gas; ALT, alanine aminotransferase; AST, aspartate aminotransferase; BMP, basic metabolic panel; BNP, brain natriuretic peptide; 
+CMP, comprehensive metabolic panel; EEG, electroencephalogram; ENT, Otolaryngologist; LDH, lactate dehydrogenase; LP, lumbar puncture; UA, 
+urinalysis.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+507
+CHAPTER 30  The Irritable Infant
+soy formula, simethicone, gripe water, glucose, sucrose, dimethicone, 
+fiber-­enriched formula, and the introduction of lactase enzyme into 
+the infant’s milk. Treatment with anticholinergic drugs (dicyclomine 
+hydrochloride, dicycloverine, and cimetropium bromide) was effec­
+tive in reducing infant crying but is associated with unacceptable side 
+effects. In addition, several reports have been published of hospital­
+ization or death in infants treated for excessive crying with sedating 
+medications such as dextromethorphan and diphenhydramine, dimen­
+hydrinate, and opiates. Clinicians should counsel caregivers about the 
+dangers of using these medications in young infants.
+Given the stress that crying can place on a family and the fact that 
+all families will inevitably be faced with the challenge of a fussy infant, 
+this education should be a routine part of each well-­child evaluation 
+in the 1st year of life. It should not only be given to the caregiver who 
+presents with the child for medical care, but also to all adults who will 
+be caring for the child.
+More intensive educational and behavior modification interven­
+tions directed toward families with persistently fussy infants have 
+shown promise to reduce crying, improve parent-­child relationships, 
+and positively influence behavioral development in infants. Success­
+ful programs generally assess and address caregiver needs, sources of 
+vulnerability, and infant health. They also provide respite and educate 
+families about infant crying, soothing, and ongoing emotional care. In 
+addition, multidisciplinary approaches may include family therapy or 
+referrals to perinatal and infant mental health experts who can support 
+caregiver-­infant interactions.
+SPECIFIC DIAGNOSES
+Child Maltreatment
+Caregiver perceptions of prolonged or inconsolable crying place the 
+infant at risk of abuse; caregivers may smother, slap, or shake their baby 
+in response to crying. Crying is a common stimulus for abusive head 
+trauma, and the abuse is often repeated because the head injury stops 
+the crying.
+Any injury in a noncruising infant raises concern for abusive 
+trauma and should prompt an evaluation for additional injuries. In 
+older infants and children who can independently ambulate, most 
+accidental bruising occurs over bony prominences on the anterior sur­
+face of the body. Bruising to the ears, neck, genitals, and buttocks is 
+unusual in nonabused children (Table 30.4). Abusive bruises tend to be 
+larger, often clustered, and associated with other cutaneous injury. Pat­
+terned injuries and any significant, unexplained, or poorly explained 
+injury also may suggest abuse (Figs. 30.2, 30.3, and 30.4). The purpose 
+of additional testing when infants present with suspicious findings is 
+injury surveillance and identification of medical conditions that may 
+mimic abusive trauma. The absence of additional injury does not rule 
+out abuse. Even in isolation, the presence of a suspicious injury places 
+the infant at risk for more severe ongoing abuse. In infants who were 
+ultimately diagnosed with physical abuse, almost 30% of the infants 
+had a history of previous, more minor suspicious injuries. Medical 
+providers were reportedly aware of these injuries in 40% of cases but 
+did not recognize them as concerning (Table 30.5). If there are doubts 
+about whether an injury should be considered suspicious or what tests 
+are indicated, providers should consult a child abuse specialist.
+TABLE 30.4  Location of Cutaneous Injuries
+Locations That May Raise 
+Concern for Abuse
+Common Locations of 
+Accidental Injury in Mobile 
+Infants
+Any bruising in a precruising infant
+Upper arms
+Soft parts of the trunk
+Ears
+Soft parts of the face
+Neck
+Genitals
+Buttocks
+Hands and feet
+Nose
+Shins
+Bony prominences of the trunk
+Occiput
+Forehead
+Chin
+Fig. 30.2  Lash marks from an electric cord. Such marks are distinc­
+tive. The deep lacerations, which are looped if the cord is looped, result 
+in deep tissue damage, and there is the potential for keloid formation 
+on healing. (From Johnson CF. Inflicted injury versus accidental injury. 
+Pediatr Clin North Am. 1990;37:791–815.)
+belt buckle
+belt
+coat hanger
+hand/knuckles
+fly swatter
+bite
+sauce pan
+paddles
+hair brush
+spoon
+looped cord
+board or
+spatula
+stick/whip
+Fig. 30.3  Marks from objects. (From Johnson CF. Inflicted injury versus 
+accidental injury. Pediatr Clin North Am. 1990;37:791–815.)
+hot plate
+light bulb
+curling iron
+car cigarette
+lighter
+steam iron
+knife
+grid
+cigarette
+forks
+immersion
+Fig. 30.4  Marks from burns. (From Johnson CF. Inflicted injury versus 
+accidental injury. Pediatr Clin North Am. 1990;37:791–815.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+508
+SECTION 6   Developmental and Psychiatric Disorders
+An evaluation for suspected child abuse may need to include 
+imaging studies (Table 30.6 and Fig. 30.5) as well as an eye exam by 
+an experienced ophthalmologist looking for traumatic retinal hem­
+orrhage. Retinal hemorrhages may occur in a significant number of 
+normal neonates after birth; over 75% resolve by 10 days of life, while 
+all resolve by 2 months. Retinal hemorrhages atypical for a neonate or 
+after 1–2 months suggest child abuse (Fig. 30.6).
+Medical providers are in a unique position to identify infants at risk 
+for maltreatment when they present for medical care, and to provide 
+education and resources to high-­risk families. In infants hospitalized 
+for abusive head trauma, the majority of victims’ caregivers sought 
+medical care for excessive crying prior to the abuse. Multiple phone 
+calls and visits to the pediatrician for excessive crying is a warning sign 
+that it is causing significant distress in the family. Ask caregivers how 
+the crying is affecting the family and address any feelings of guilt or 
+frustration. Clinicians can also ask how caregivers typically respond 
+to the crying. All families who present with a fussy infant should be 
+encouraged to seek support and periodic relief from the infant’s care. 
+Instruct the caregivers to safely place the infant in a crib or other safe 
+location and walk away for a short time if they feel frustrated and at risk 
+of harming the infant.
+Infantile Colic
+The definition of infantile colic varies within the medical literature. 
+The most commonly used definition is derived from Wessel’s Criteria, 
+where crying occurs for at least 3 hours a day, at least 3 days a week, 
+TABLE 30.5  Pitfalls in Child Abuse 
+Evaluation: 12 Costly Errors
+	 1.	 A desire to not make the diagnosis
+	 2.	 Failure to assemble past information on medical conditions and medical 
+encounters
+	 3.	 Too great a reliance on the information developed by others
+	 4.	 Transference-­countertransference with custodial parent (formation of 
+alliances or development of hostilities)
+	 5.	 Overinterpretation or underinterpretation of signs and symptoms
+	 6.	 Overinterpretation or underinterpretation of physical findings
+	 7.	 Failure to know about conditions mistaken for sexual abuse
+	 8.	 Faulty laboratory techniques resulting in either false-­positive or false-­
+negative reports
+	 9.	 Use of techniques easily challenged in court
+	10.	 Impatience about arriving at a diagnostic conclusion
+	11.	 Failure to understand normative data with regard to psychosexual 
+development
+	12.	 Failure to prepare adequately for court appearances
+TABLE 30.6  Skeletal Injuries from Child 
+Abuse
+High-­Specificity Findings
+ • Classic metaphyseal lesions
+ • Posterior rib fracture
+ • Scapular fracture
+ • Sternal fracture
+ • Spinous process fracture
+ • First rib fracture
+Moderate-­Specificity Findings
+ • Multiple fractures
+ • Fractures of differing age
+ • Spine fracture
+ • Complex skull fracture
+ • Physeal fractures of the long bones
+ • Digital fractures
+Low-­Specificity Findings
+ • Diaphyseal fractures of the long bones
+ • Simple skull fractures
+ • Clavicle fracture
+ • Subperiosteal new bone formation
+From Coley BD, ed. Caffey’s Pediatric Diagnostic Imaging. 13th ed. 
+Philadelphia: Elsevier; 2019:1455, Box 143.2; modified from Kleinman 
+PK. Diagnostic Imaging of Child Abuse. 2nd ed. St. Louis, MO: Mosby; 
+1998.
+A
+C
+D
+B
+Fig. 30.5  Child abuse. A, Radiograph of the proximal lower leg in a 
+23-­day-­old infant with fussiness and suspected lower extremity pain 
+reveals a classic metaphyseal lesion of the proximal tibia with a bucket-­
+handle configuration (arrows). B, Chest radiograph in a 12-­month-­old boy 
+presenting with constipation reveals multiple consecutive rib fractures, 
+seen posteriorly near the costovertebral junctions (arrows). Fractures 
+are healing, with callous formation evident. The patient had several 
+additional rib head fractures better profiled on other views obtained 
+as part of a complete skeletal survey. C, D, Radiographic views of the 
+bilateral scapulae reveal minimally displaced fractures of the acromion 
+processes (arrows) in an infant with multiple fractures of different ages 
+on skeletal survey. (From Walters MM, Ronertson RL, eds. Pediatric 
+Radiology: The Requisites. 4th ed. Philadelphia: Elsevier; 2017:2599, 
+Fig. 7.123.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+509
+CHAPTER 30  The Irritable Infant
+for at least 3 weeks in an otherwise healthy infant. Crying from colic 
+generally occurs in the evenings, usually starts between 3 and 21 days 
+of age, peaks at ∼6 weeks, and subsides by 3–4 months of age. During 
+crying bouts, parents describe that colicky infants often flex their legs 
+over the abdomen or may arch their backs with a “pained” look on 
+their face. However, many of these criteria, including the appearance 
+of pain, are also common features of normal infant crying. It is not 
+clear whether the appearance of pain in these infants is due to a true 
+organic etiology or related to caregivers’ anxiety about the duration and 
+unsoothable nature of the cry.
+The definition of colic for clinical purposes has shifted to remove 
+strict criteria regarding the duration and characteristics of crying in 
+colic. The 2016 Rome IV Criteria for Functional Gastrointestinal Dis­
+orders in Infants and Toddlers support a diagnosis of colic in an infant 
+who (1) is younger than 5 months of age when the symptoms start and 
+stop; (2) experiences prolonged periods of infant crying, fussing, or 
+irritability reported to occur without obvious cause, which cannot be 
+prevented or resolved by caregivers; and (3) has no evidence of infant 
+failure to thrive, fever, or illness.
+A single clear cause of colic remains elusive. Some suggest that the 
+crying from colic is a response to pain from gastrointestinal (GI) dys­
+function, such as milk protein or lactose intolerance, gastroesophageal 
+reflux disease, abnormal peristalsis, excessive gas, or altered GI micro­
+biota. However, objective testing for these disorders has not revealed 
+significant differences between colicky and noncolicky infants, and 
+treatments for most have been inconsistently effective. Systematic 
+reviews of complementary and alternative treatments of infant cry­
+ing have found moderately strong evidence that some probiotics may 
+reduce crying in breast-­fed infants, supporting a possible connection 
+between altered GI microbiota and crying in some cases.
+Many theorize that colic symptoms are not caused by a single con­
+dition, but rather are a common end-­point for multiple processes, 
+including infant temperament and caregivers’ responses to the crying. 
+In this view, the term “colic” is used to describe a constellation of com­
+mon symptoms rather than an underlying disease. Because of the sig­
+nificant overlap in the pattern and characteristics of crying in infants 
+diagnosed with colic and normal infants, colic may represent a point 
+further along a continuum of normal infant behavior. This perspective 
+suggests that, in healthy infants, the clinical focus should be shifted 
+from attempting to diagnose and treat a particular medical condition 
+to providing education and support to caregivers. From a practical 
+standpoint, the clinician should follow the same method of evaluation 
+that would be initiated for any crying infant regardless of whether the 
+crying meets the definition of colic. The duration and frequency of 
+crying in this population can be particularly distressing for caregiv­
+ers, and education on soothing and coping with the crying should be 
+emphasized.
+Feeding and Gastrointestinal Dysfunction
+A subset of otherwise healthy infants who present with excessive cry­
+ing will have some form of GI dysfunction. A history of crying that 
+is associated with vomiting or hematochezia or is temporally related 
+to feeds may increase the likelihood. Common causes include con­
+stipation, gastroesophageal reflux disease (GERD), eosinophilic 
+esophagitis, excessive gas, and cow’s and/or soy milk protein allergy 
+or intolerance. Congenital lactose intolerance is rare, but infants may 
+develop transient intolerance from inflammation of the intestinal villi 
+due to gastroenteritis or a milk protein allergy. In infants with hema­
+tochezia, a milk protein allergy is most likely. However, in less clear-­
+cut cases, improper feeding volume or technique can cause symptoms 
+that may be misdiagnosed as GERD or a milk protein allergy. Formula 
+changes and pharmacologic interventions may not be without unde­
+sirable consequences, including premature cessation of breast-­feeding 
+or the development of parental anxiety concerning the possibility of an 
+intrinsic abnormality in their infant.
+When GI dysfunction is suspected, and after potentially seri­
+ous medical conditions are ruled out, clinicians should first evaluate 
+feeding volume and technique. Over-­ or underfeeding may contrib­
+ute to infant irritability. Using a slow-­flow nipple can cause excessive 
+air intake in a very vigorous feeder. Appropriate burping, feeding the 
+infant in an upright position, using a formula thickener, and using bot­
+tles with collapsible bags may also help reduce fussing from excessive 
+intestinal gas or GERD. Poor attachment, latch, and oral motor dys­
+function may contribute to feeding problems, fussing, and even infant 
+aversion to feedings. Consider consultation with a lactation specialist 
+in breast-­feeding infants.
+Unfortunately, no specific laboratory test exists for diagnosing pro­
+tein allergy in relation to excessive infant crying, and the symptoms of 
+Fig. 30.6  Retinal hemorrhages. Arrows point to hemorrhages of various sizes. (From Kliegman RM, St. Geme 
+JW III, Blum NJ, et al., eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:104, Fig. 
+16.9.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+510
+SECTION 6   Developmental and Psychiatric Disorders
+GERD are often nonspecific. In fact, inflammation of the GI tract from 
+cow’s milk protein allergy may be the cause of the vomiting and symp­
+toms of pain in up to 40% of infants diagnosed with GERD. Clinicians 
+should inquire about a past medical or family history of atopy, which 
+may increase the likelihood of a cow’s milk protein allergy. Guidelines 
+caution against empiric treatment with acid-­reducing medications to 
+diagnose GERD in young infants with nonspecific symptoms due to 
+potential side effects with the overuse of these medications, and because 
+their efficacy in decreasing crying is low. There is evidence that a trial of 
+an extensively hydrolyzed or amino acid–based formula, or a milk-­ and 
+egg-­free diet in breast-­feeding mothers, may decrease crying compared 
+to controls in otherwise healthy infants with suspected GI dysfunction. 
+The introduction of soy formula may not resolve symptoms because 
+a significant number of infants with milk protein allergies are also 
+allergic to soy protein. There is also evidence that probiotics may be 
+beneficial to reduce low-­grade intestinal inflammation and crying in 
+some infants, especially breast-­fed infants and those with symptoms of 
+GERD or constipation. When potentially serious medical conditions 
+have been excluded, and the infant’s feeding volume and technique are 
+appropriate, it is reasonable to try these interventions. Changes should 
+be implemented one at a time and continued for at least 2 weeks to 
+evaluate the effects of each change. If a 2–4 week trial of hydrolyzed or 
+amino acid–based formula is beneficial, a cow’s milk–based formula 
+challenge should be planned to confirm the diagnosis of cow’s milk 
+allergy. In infants with persistent symptoms and suspicion of GERD, 
+clinicians can consider a trial of a proton pump inhibitor and/or refer­
+ral to a gastroenterologist.
+Teething
+Many complaints, ranging from fever to irritability, have been ascribed 
+to teething. The most common symptoms associated with teething 
+are irritability, excessive drooling, and loss of appetite. Some studies 
+do support the belief that teething is associated with low-­grade fever 
+and diarrhea, but this finding is not consistent. No symptom or cluster 
+of symptoms can reliably exclude other medical conditions; therefore, 
+teething should be considered a diagnosis of exclusion.
+Management consists of allowing the infant to bite on any appro­
+priate hard object, such as a teething ring. Objects that are small or 
+may break into pieces such as teething biscuits or frozen foods are not 
+recommended due to the risk of choking. Chilling the object in the 
+refrigerator may reduce gum inflammation and pain. However, plastic 
+teething rings should not be frozen or boiled unless directed by the 
+manufacturer. Extreme temperatures may damage plastic teething 
+rings and cause fluid to leak, and frozen rings may injure gums. An 
+oral systemic analgesic such as acetaminophen may provide additional 
+relief, but topical anesthetic agents are not recommended due to poten­
+tial serious side effects (methemoglobinemia) with the overuse of these 
+medications.
+Drug Reactions
+Some therapeutic medications and illicit drugs may cause infant 
+irritability when directly ingested or when transferred to the infant 
+through breast milk. Substances associated with irritability include 
+cocaine, amphetamines, opiates (from withdrawal), fluoxetine, the­
+ophylline, clemastine, and caffeine. Pseudoephedrine use in breast-­
+feeding mothers may be associated with infant irritability, but this 
+finding is not consistent among studies. However, when directly 
+ingested by infants, pseudoephedrine can cause irritability as well as 
+other more serious and life-­threatening complications. In the evalu­
+ation of the irritable infant, a careful infant and maternal drug his­
+tory are important to obtain along with a comprehensive urine drug 
+screen if indicated.
+In the neonate, irritability may also be a symptom of drug with­
+drawal or the continued effects of in utero exposure. Drugs associated 
+with neonatal abstinence syndrome (NAS) include benzodiazepines, 
+methamphetamine, heroin, methadone, buprenorphine, and other pre­
+scription opioid analgesics. Some antidepressants and anxiolytics have 
+been found to potentiate withdrawal in infants as well. Manifestations 
+include irritability, jitteriness, sneezing and congestion, emesis, seizures, 
+poor feeding, hiccups, diarrhea, sleeplessness, hyperactivity, and trem­
+ors. Caregivers often describe the crying as high-­pitched and inconsol­
+able. NAS usually begins in the 1st week of life and may last for up to a 
+month, depending on the type of substance used. This initial phase may 
+be followed by a relapsing course that includes ongoing irritability and 
+may last for several months. Newborns exposed to cocaine may display 
+similar symptoms of irritability soon after birth, but these likely repre­
+sent continued effects of the drug rather than withdrawal symptoms.
+Mild cases of NAS are often treated with behavioral management 
+such as reducing stimulation, swaddling, demand feeding, and other 
+calming techniques. Pharmacotherapy is required when supportive ther­
+apy fails, or if more serious side effects such as seizures and dehydration 
+develop. Education on coping with infant crying and methods to soothe 
+the infant, as well as close monitoring of the home environment, are par­
+ticularly important in this population due to the challenges of caring for 
+an infant with irritability from NAS and to the lack of caregiver resources 
+and coping skills often associated with maternal drug use.
+Monogenetic Pain Syndromes
+Heterozygous gain-­of-­function pathologic gene variants involving 
+various channelopathies may result in an autosomal dominant form 
+of familial painful peripheral neuropathy. Of interest, loss-­of-­function 
+gene variants in the same gene may be associated with hereditary 
+insensitivity to pain syndromes (Table 30.7).
+Familial episodic pain syndrome type 1 (FEPS) is an autosomal 
+dominant disorder due to pathologic variants in the TRPA1 gene. The 
+onset is during infancy and is characterized by arm and chest pain, 
+tachycardia, and diaphoresis, which is triggered by cold, hunger (fast­
+ing), or physical stress (exertion). Episodes last ∼1–2 hours. FEPS type 
+2 is seen predominantly in adults. FEPS type 3 is an autosomal dom­
+inant disorder due to pathologic variants in the SCN11A gene, pro­
+ducing a small-­fiber painful neuropathy seen predominantly in adults. 
+Infants may present with recurrent episodes of crying due to limb and 
+distal joint pain. Fatigue, intercurrent illnesses, and weather changes 
+are common triggers.
+Paroxysmal extreme pain disorder (PEPD) (aka familial rectal 
+pain syndrome) is an autosomal dominant, painful neuropathy due 
+to pathologic gain-­of-­function variants in the SCN9A gene. Pain may 
+begin after birth and is often stimulated by defecation or perineal irri­
+tation (wiping, rectal thermometer). Jaw pain may be initiated by cold 
+fluids, spicy foods, and emotions; ocular pain may be caused by cold 
+wind. The pain is severe, paroxysmal, and associated with harlequin 
+color change, lacrimation, rhinorrhea, and tonic stiffening episodes, 
+which may be confused with seizures, syncope, or hyperekplexia. The 
+painful episodes last seconds to a few minutes. Treatment is difficult 
+and has included carbamazepine, mexiletine, topical lidocaine, and 
+stool softeners.
+Inherited erythromelalgia (aka primary erythermalgia) (IEM) is 
+due to pathologic gain-­of-­function genetic variants in SCN9A and 
+is characterized by recurrent episodes of bilateral burning pain, ery­
+thema, and swelling primarily of the feet but also the hands. Over 
+time, the face and ears may be involved; the pain may become con­
+stant. It is more common during childhood, but episodes may begin 
+in infancy. Triggers include a warm environment or prolonged stand­
+ing. Treatment includes cooling with a fan or ice; the latter may 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+511
+CHAPTER 30  The Irritable Infant
+produce cold injury if used too often. Medical therapy is similar to 
+PEPD. The differential diagnosis includes Fabry disease (may initially 
+present in infancy with painful feet and hands) and secondary auto­
+immune causes of erythromelalgia.
+Pathologic genetic variants in SCN2A cause benign familial 
+infantile seizures, febrile seizures plus syndrome, and intractable 
+epilepsy of infancy. A gain-­of-­function genetic variant is associated 
+with neonatal seizures, episodic ataxia, myoclonus, and pain.
+STING-­associated vasculopathy infantile onset (SAVI) is a severe 
+autosomal dominant autoinflammatory disorder due to a pathologic 
+gain-­of-­function variant in TMEM173, which encodes the STING 
+protein (stimulator of interferon genes). Interferon-­driven inflamma­
+tion (interferonopathy) results in painful ulcerating lesions (digits, 
+face, nose, ears) that become eschars and necrotic. Associated features 
+include interstitial lung disease, livedo reticularis, Raynaud phenom­
+enon, and elevated ESR and CRP. The differential diagnosis includes 
+juvenile idiopathic arthritis, granulomatosis with polyangiitis, and 
+other infant-­onset autoinflammatory diseases (see Chapter 54).
+Aicardi-­Goutières syndrome is an autosomal recessive (occa­
+sionally autosomal dominant), systemic autoinflammatory interfer­
+onopathy that presents in infancy with irritability and progresses to 
+dystonia, seizures, developmental delay, and progressive microcephaly. 
+Some patients may develop systemic lupus erythematosus (SLE)-­like 
+symptoms as well as cold-­induced chilblains. Familial chilblain lupus 
+is another interferonopathy with early childhood onset of acral lesions 
+(fingers, toes, nose, cheeks, ears). This disorder is a monogenetic form 
+of cutaneous lupus with autosomal dominant inheritance (TREX1, 
+SAMHD1, STING gene variants)
+   	 S U MMA RY  A N D  R E D  F L A G S
+Although at times a simple diagnosis is easily established, the infant 
+with excessive irritability often presents a significant challenge. Estab­
+lishment of the likely diagnosis, combined with exclusion of signifi­
+cant pathophysiologic processes (see Table 30.1) and rare causes, is a 
+prerequisite to the formulation of an appropriate management plan. 
+Through a logical and stepwise approach, the clinician can usually 
+establish the cause and develop a treatment plan. When the clinician 
+cannot determine the underlying cause, close follow-­up monitoring 
+should result in optimal patient care.
+Red flags include inconsolability, paradoxical irritability, abnormal 
+level of consciousness, abnormal vital signs, evidence of trauma or 
+­anemia, prior suspicious injuries, abdominal tenderness or distention, 
+eye tearing, photophobia or conjunctival irritation, and abnormalities 
+of growth including increasing head circumference percentile. Con­
+solability by being held by the caregiver is often reassuring. In contrast, 
+paradoxical crying or irritability when being held suggests that the 
+holding process aggravates a painful process such as a fracture, osteo­
+myelitis, or meningitis.
+In all cases, clinicians should evaluate the level of distress that the 
+crying is causing caregivers and should provide education and support. 
+Families with a history of maltreatment, mental illness or drug use in 
+caregivers, caregivers with limited social support, or those who frequently 
+seek medical care or report significant distress and frustration from the 
+crying are at a higher risk for adverse outcomes. When these risk fac­
+tors are identified, a multidisciplinary approach involving education and 
+resources for the caregivers, medical care for the infant, and family ther­
+apy or referrals to perinatal and infant mental health experts can improve 
+caregiver-­infant interactions and long-­term outcomes for the child.
+TABLE 30.7  Clinical Features of Human Disorders Caused by Mutations in Ion-­Channel Genes 
+That Lead to Altered Pain Perception and Are Inherited in a Mendelian Manner
+Mutated Gene 
+(Protein)
+Type and Effect of 
+Mutation
+Main Phenotype
+Additional Features
+Inherited 
+erythromelalgia
+SCN9A (Nav1.7)
+Heterozygous, activating
+Onset by age 20 yr; episodic pain triggered by 
+warmth; feet affected more frequently than hands
+Erythema of feet
+Paroxysmal extreme 
+pain disorder
+SCN9A (Nav1.7)
+Heterozygous, activating
+Onset at birth; episodic pain; sacral region is affected 
+most frequently, face is affected more often than 
+the limbs; physical triggers include defecation
+Erythema of the sacrum; tonic 
+attacks
+Small-­fiber neuropathy
+SCN9A (Nav1.7)
+Heterozygous, activating
+Onset at any age but more common in early adult­
+hood; persistent burning pain; feet affected more 
+frequently than hands
+Could be autonomic features
+Small-­fiber neuropathy
+SCN10A (Nav1.8)
+Heterozygous, activating
+Persistent burning pain
+Could be autonomic features
+Familial episodic pain 
+syndrome type I
+TRPA1 (TRPA1)
+Heterozygous, activating
+Onset at birth or in infancy; episodic chest or arm 
+pain; triggers are hunger and cold
+—
+Familial episodic pain 
+syndrome type III
+SCN11A (Nav1.9)
+Heterozygous, activating
+Onset in 1st decade; episodic hand and foot pain; 
+triggers are intercurrent illness or exercise
+—
+Nav, sodium ion channel.
+Modified from Bennett DLH, Woods CG. Painful and painless channelopathies. Lancet Neurol. 2014;13:587–599 (Table 1, p. 590).
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+511.e1
+BIBLIOGRAPHY
+Child Maltreatment
+Adamsbaum C, Grabar S, Mejean N, et al. Abusive head trauma: judicial ad­
+missions highlight violent and repetitive shaking. Pediatrics. 2010;126:546–
+555.
+Barr RG. Crying as a trigger for abusive head trauma: a key to prevention. 
+Pediatr Radiol. 2014;44(suppl 4):S559–S564.
+Binenbaum G, Mirza-­George N, Christian CW, et al. Odds of abuse associated 
+with retinal hemorrhages in children suspected of child abuse. J Am Assoc 
+Pediatr Ophthalmol Strabismus. 2009;13(3):268–272.
+Christian CW. Committee on Child Abuse and Neglect. The evaluation of 
+suspected child physical abuse. Pediatrics. 2015;15(5):e1337–e1354.
+Fairbrother N, Barr RB, Pauwels J, et al. Maternal thoughts of harm in 
+response to infant crying: an experimental analysis. Arch Womens Ment 
+Health. 2015;18:447–455.
+Gilkerson L, Burkhardt T, Katch LE, et al. Increasing parenting self-­efficacy: 
+the Fussy Baby Network intervention. Infant Ment Health J. 2020;41:232–
+245.
+Henry KM, Feudtner C, Fortin K, et al. Occult head injuries in infants evaluat­
+ed for physical abuse. Child Abuse Negl. 2020;103:e104431.
+Maguire S, Mann M. Systematic reviews of bruising in relation to child 
+abuse—what have we learnt: an overview of review updates. Evid.-­Based 
+Child Health. 2013;8:255–263.
+Narang SK, Fingarson A, Lukefahr J. Council on Child Abuse and Ne­
+glect. Abusive head trauma in infants and children. Pediatrics. 
+2020;145(4):e20200203.
+Reijneveld SA, van der Wal MF, Brugman E, et al. Infant crying and abuse. 
+Lancet. 2004;364:1340–1342.
+Sheets LK, et al. Sentinel injuries in infants evaluated for child physical abuse. 
+Pediatrics. 2013;131(4):701–707.
+Starling SP, Patel S, Burke BL, et al. Analysis of perpetrator admissions to 
+inflicted traumatic brain injury in children. Arch Pediatr Adolesc Med. 
+2004;158(5):454–458.
+Talvik I, Alexander RC, Talvic T. Shaken baby syndrome and baby’s cry. Acta 
+Paediatr. 2008;97:782–785.
+Watts P, Maguire S, Kwok T, et al. Newborn retinal hemorrhages: a systematic 
+review. J Am Assoc Pediatr Ophthalmol Strabismus. 2013;17:70–78.
+Infantile Crying and Colic
+Bamber D, Powell C, Long J, et al. Parental and health professional evaluations 
+of a support service for parents of excessively crying infants. BMC Health 
+Serv Res. 2019;19:592.
+Barr RG, Hopkins B, Green JA. Crying as a Sign, a Symptom, and a Signal: 
+Clinical, Emotional and Developmental Aspects of Infant and Toddler Cry­
+ing. Cambridge University Press; 2000.
+Barr RG, Konner M, Bakeman R, et al. Crying in Ikung San infants: a test of 
+the cultural specificity hypothesis. Dev Med Child Neurol. 1991;33:601–610.
+Botha E, Joronen K, Kaunonen M. The consequences of having an excessively 
+crying infant in the family: an integrative literature review. Scand J Caring 
+Sci. 2019;33:779–790.
+Carnes D, Plunkett A, Ellwood J, et al. Manual therapy for unsettled, distressed 
+and excessively crying infants: a systematic review and meta-­analysis. BMJ 
+Open. 2018;8:e019040.
+Daelemans S, Peeters L, Hauser B, et al. Recent advances in understanding and 
+managing infantile colic [version 1; referees: 2 approved]. F1000Research. 
+2018;7:1426.
+Dobson D, Lucassen PLBJ, Miller JJ, et al. Manipulative therapies for infant 
+colic. Cochrane Database Syst Rev. 2012;12:CD004796.
+Douglas PS, Hill PS. The crying baby: what approach? Curr Opin Pediatr. 
+2011;23:523–529.
+Ellwood J, Draper-­Rodi J, Carnes D. Comparison of common interventions for 
+the treatment of infantile colic: a systematic review of reviews and guide­
+lines. BMJ Open. 2020;10:e035405.
+Fleisher DR. Infant colic. In: Faure C, Di Lorenxo C, Thapar N, eds. Pediatric 
+Neurogastroenterology: Gastrointestinal Motility and Functional Disorders in 
+Children. New York: Springer; 2013:347–354.
+Freedman SB, Al-­Harthy N, Thull-­Freedman J. The crying infant: diag­
+nostic testing and frequency of serious underlying disease. Pediatrics. 
+2009;123(3):841–848.
+Giesbrecht GF, Letoumeau N, Campbell T, et al. Parental use of “cry out” in a 
+community sample during the first year of infant life. J Dev Behav Pediatr. 
+2020;41:379–387.
+Hall B, Chesters J, Robinson A. Infantile colic: a systematic review of medical 
+and conventional therapies. J Paediatr Child Health. 2012;48:128–137.
+Harb T, Matsuyama M, David M, et al. Infant colic—what works: a systematic 
+review of interventions for breast-­fed infants. J Pediatr Gastroenterol Nutr. 
+2016;62:668–686.
+Hemmi MH, Wolke D, Schneider S. Associations between problems with cry­
+ing, sleeping and/or feeding in infancy and long-­term behavioral outcomes 
+in childhood: a meta-­analysis. Arch Dis Child. 2011;96:622–629.
+Hjern A, Lindblom K, Reuter A, et al. A systematic review of prevention and 
+treatment of infantile colic. Acta Paediatr. 2020. https://doi.org/10.1111/
+apa.15247.
+Mackey S, Hettiaratchy S, Dickinson J. Hair-­tourniquet syndrome—multiple 
+toes and bilaterally. Eur J Emer Med. 2005;12:191–192.
+Patrick S, Garcia J, Griffin L. The role of family therapy in mediating adverse 
+effects of excessive and inconsolable neonatal crying on the family system. 
+Fam Syst Health. 2010;28(1):19–29.
+Perry R, Hunt K, Ernst E. Nutritional supplements and other comple­
+mentary medicines for infantile colic: a systematic review. Pediatrics. 
+2011;127(4):720–733.
+Perry R, Leach V, Penfold C, et al. An overview of systematic reviews of 
+complementary and alternative therapies for infantile colic. Syst Rev. 
+2019;8:271.
+Matijasic N, Premilovac ZP. Inconsolable crying in infants: differential diagno­
+sis in the pediatric emergency department. Clin Pediatr. 2019;58(2):133–
+139.
+Olsen AL, Ammitzboll J, Olsen EM, et al. Problems of feeding, sleeping and 
+excessive crying in infancy: a general population study. Arch Dis Child. 
+2019;104:1034–1041.
+Steutel NF, Benninga MA, Langendam MW, et al. Reporting outcome mea­
+sures in trials of infant colic. J Pediatr Gastroenterol Nutr. 2014;59:341–346.
+St. James-­Roberts I. The Origins, Prevention and Treatment of Infant Crying and 
+Sleep Problems: An Evidence-­Based Guide for Healthcare Professionals and 
+the Families They Support. New York: Routledge; 2012.
+St. James-­Roberts I, Alvarez M, Hovish K. Emergence of a developmental ex­
+planation for prolonged crying in 1-­ to 4-­month-­old infants: review of the 
+evidence. J Pediatr Gastroenterol Nutr. 2013;57(suppl 1):S30–S36.
+St. James-­Roberts I, Morris S, Owen C, et al. Use of a behavioural programme 
+in the first 3 months to prevent infant crying and sleep problems. J Paediatr 
+Child Health. 2001;37:289–297. 2006;149(4):512–517.
+Wake M, et al. Prevalence, stability, and outcomes of cry-­fuss and sleep 
+problems in the first 2 years of life: prospective community-­based sample. 
+Pediatrics. 2006;117(3):836–842.
+Wessel MA, Cobb JC, Jackson EB, et al. Paroxysmal fussing in infancy, some­
+times called colic. Pediatrics. 1954;14(5):421–434.
+Zeevenhoven J, Browne PD, L’Hoir MP, et al. Infant colic: mechanisms and 
+management. Gastroenterol Hepatol. 2018;15:479–496.
+Zeevenhooven J, Koppen IJN, Benninga MA. The new Rome IV criteria for 
+functional gastrointestinal disorders in infants and toddlers. Pediatr Gas­
+troenterol Hepatol Nutr. 2017;20(1):1–13.
+Zeifman DM, St. James-­Roberts I. Parenting the crying infant. Curr Opin 
+Psych. 2017;15:149–154.
+Gastrointestinal Causes of Irritability
+Farahmand F, Najafi M, Ataee P, et al. Cow’s milk allergy among children with 
+gastroesophageal reflux disease. Gut and Liver. 2011;5(3):298–301.
+Indrio F, et al. Prophylactic use of a probiotic in the prevention of colic, regur­
+gitation, and functional constipation: a randomized clinical trial. JAMA 
+Pediatr. 2014;168(3):228–233.
+Onyeador N, Paul PS, Sandhu KB. Paediatric gastroesophageal reflux clinical 
+practice guidelines. Arch Dis Child Educ Pract Ed. 2014;99:190–193.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+511.e2
+Bibliography
+Rosen R, Vandenplas Y, Singendonk M, et al. Pediatric gastroesophageal reflux 
+clinical practice guidelines: joint recommendations of the North Amer­
+ican Society for Pediatric Gastroenterology, Hepatology, and Nutrition 
+(NASPGHAN) and the European Society for Pediatric Gastroenterology, 
+Hepatology, and Nutrition (ESPGHAN). J Pediatr Gastroenterol Nutr. 
+2018;66(3):516–554.
+Salvatore S, Vandenplas Y. Gastroesophageal reflux and cow milk allergy: is 
+there a link? Pediatrics. 2002;110(5):972–984.
+Vandenplas Y, Hauser B, Salvatore S. Functional gastrointestinal disorders in 
+infancy: impact on the health of the infant and family. Pediatr Gastroenter­
+ol Hepatol Nutr. 2019;22(3):207–216.
+Teething
+Drug Safety Communications. FDA Recommends Not Using Lidocaine to Treat 
+Teething Pain and Requires New Boxed Warning. Silver Spring, MD: US 
+Food and Drug Administration; 2014.
+Macknin ML, Piedmonte M, Jacobs J, et al. Symptoms associated with infant 
+teething: a prospective study. Pediatrics. 2000;105(4):747–752.
+Owais A, Zawaidey F, Bataineh O. Challenging parents’ myths regarding their 
+children’s teething. Int J Dent Hygiene. 2010;8:28–34.
+Medication or Drug Reactions
+Drugs and Lactation Database. Drugs and Lactation Database (LactMed) [In­
+ternet]. Bethesda (MD): National Library of Medicine (US); 2006. Available 
+from: https://www.ncbi.nlm.nih.gov/books/NBK501922/?report=classic. 
+Accessed May 1, 2020.
+Kocherlakota P. Neonatal abstinence syndrome. Pediatrics. 2014;134(2):
+e547–e561.
+Martin TC, Rocque M. Accidental and non-­accidental ingestion of methadone 
+and buprenorphine in childhood: a single center experience, 1999–2009. 
+Curr Drug Saf. 2011;6:12–16.
+Paul IM, Kate M, Kauffman RE, et al. Adverse events associated with pediatric 
+exposures to dextromethorphan. Clin Toxicol. 2017;55(1):25–32.
+Trajanovska M, Manias E, Cranswick N, et al. Use of over-­the-­counter medi­
+cines for young children in Australia. J Paediatr Child Health. 2010;46:5–9.
+Sachs HC. American Academy of Pediatrics Committee on drugs. Pediatrics. 
+2013;132(3):e796–e809.
+Yust E, Slattery A. Cold and cough medications for children: danger­
+ous and over the counter. Cough and Cold Medications for Children. 
+2012;13(4):292–299.
+Genetic Painful Neuropathies
+Bennett DLH, Woods CG. Painful and painless channelopathies. Lancet Neu­
+rol. 2014;13:587–599.
+Faber CG, Lauria G, Merkies ISJ, et al. Gain-­of-­function Nav1.8 mutations in 
+painful neuropathy. Proc Nat Acad Sci. 2012;109:19444–19449.
+Hisama FM, Dib-­Hajj SD, Waxman SG. SCN9A neuropathic pain syndromes. 
+Adam MP, Ardinger HH, Pagon RA, et al, eds. GeneReviews (Internet). 
+Seattle (WA): University of Washington, Seattle: 1993–2020.
+Kremeyer B, Lopera F, Cox JJ, et al. A gain-­of-­function mutation in TRPA1 
+causes familial episodic pain syndrome. Neuron. 2010;66:671–680.
+Lee-­Kirsch MA. The type I interferonopathies. Annu Rev Med. 2017;68:297–315.
+Liao Y, Anttonen AK, Liukkonen E, et al. SCN2A mutation associated with 
+neonatal epilepsy, late-­onset episodic ataxia, myoclonus, and pain. Neurol­
+ogy. 2010;75(16).
+Liu Y, Jesus AA, Marrero B, et al. Activated STING in a vascular and pulmo­
+nary syndrome. N Engl J Med. 2014;371(6):507–518.
+Okuda H, Noguchi A, Kobayashi H, et al. Infantile pain episodes associated 
+with novel Nav1.9 mutations in familial episodic pain syndrome in Japa­
+nese families. PloS One. 2016;11(5):e0154827.
+Raouf R, Quick K, Wood JN. Pain as a channelopathy. J Clin Invest. 
+2010;120(11):3745–3752.
+Volpi S, Picco P, Caorsi R, et al. Type I interferonopathies in pediatric rheuma­
+tology. Pediatr Rheum. 2016;14:35.
+Zhang XY, Wen J, Yang W, et al. Gain-­of-­function mutations in SCN11A cause 
+familial episodic pain. Am J Hum Genetics. 2013;93:957–966.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

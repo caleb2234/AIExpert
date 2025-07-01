@@ -1,0 +1,1382 @@
+Chapter Title One Line
+Chapter Author
+374
+SECTION 5  Genitourinary Disorders
+Dysuria is defined as painful urination and can be related to uncom­
+fortable contraction of the muscles of the bladder or when urine 
+comes into contact with the inflamed genitourinary mucosa. The dif­
+ferential diagnoses for a patient presenting with dysuria are extensive 
+(Table 21.1) and can be due to infectious or noninfectious causes. 
+The cause of dysuria varies based on age of the child or adolescent; 
+therefore, specific elements of the patient history, potential causes, 
+and diagnostic evaluation will vary with age (Fig. 21.1). With every 
+patient, the provider must elicit a history of signs and symptoms out­
+side the genitourinary tract, including fever, weight loss, generalized 
+rash, involvement of other mucosa, and joint pain or swelling. Physi­
+cal examination for every patient should include temperature, blood 
+pressure, inspection of the genitals for skin lesions or discharge, 
+abdominal palpation, pelvic examination when indicated, and neu­
+rologic examination in children with voiding dysfunction to exclude 
+spinal cord pathology. It is important to also consider less common 
+etiologies of dysuria such as genetic disorders including hyperoxal­
+uria and acute intermittent porphyria.
+NEONATES
+Neonates and infants cannot complain of dysuria; however, urinary 
+tract infections (UTIs) are prevalent in this age group and a major 
+source of morbidity. In this age group, it is difficult to distinguish 
+between upper UTI (pyelonephritis) and lower UTI (cystitis) based 
+on signs and symptoms alone. Unlike UTIs in older children, neonatal 
+UTIs are more common in male neonates compared to females. In neo­
+nates, UTIs are associated with bacteremia and/or congenital abnor­
+malities of the kidney and urinary tract. In term infants, infections 
+tend to be community acquired and present in the 2nd to 3rd week 
+after birth. UTIs can be caused by either hematogenous spread or an 
+ascending infection. In preterm infants, infections are more likely to 
+be hospital acquired.
+The symptoms suggestive of a UTI in the neonate are the same 
+as those for suspected sepsis; therefore, major presenting symptoms 
+include fever, poor feeding, weight loss, lethargy, and vomiting (see 
+Chapter 52). Neonates may also present with jaundice or abdominal 
+distention. A maternal urinary infection at or near term may increase 
+the risk for neonatal pyelonephritis. A mother whose vaginal culture is 
+positive for group B streptococci or who presents with fever, prolonged 
+rupture of the amniotic membranes (>18 hours), uterine tenderness, 
+or preterm labor is at an increased risk for delivering a premature 
+baby with pyelonephritis as part of the neonatal sepsis syndrome. 
+Family history is also important. There is a high genetic component 
+to the presence of vesicoureteral reflux (VUR); the siblings of chil­
+dren with known VUR also have a significant risk of reflux, with or 
+without infection. Children with a UTI and VUR are at increased risk 
+of pyelonephritis and renal scarring. However, the screening for VUR 
+in an asymptomatic sibling of an index case of VUR is controversial; 
+a voiding cystourethrogram (VCUG) is recommended if there is evi­
+dence of renal scarring on ultrasound or if there is a history of UTI in 
+the sibling who has not been tested. Given that the value of identifying 
+and treating VUR is unproven in the absence of a UTI, an observa­
+tional approach without screening for VUR may be taken for siblings 
+of children with VUR, with prompt treatment of any acute UTI and 
+subsequent evaluation for VUR.
+Physical examination of a neonate suspected of having a UTI 
+should include the palpation of the abdomen to identify hydrone­
+phrosis, obstructive lesions, or cystic kidneys. Urine culture should be 
+obtained by suprapubic or bladder catheterization, as bag collection 
+has a high rate of contamination with perineal flora. Because of the 
+associated risk of bacteremia, blood cultures and cerebrospinal fluid 
+(CSF) cultures should be obtained in all neonates in whom UTI is sus­
+pected. Initial empirical therapy should be started after collection of 
+urine, blood, and CSF cultures. The empirical therapy should provide 
+broad coverage against probable uropathogens and is initially admin­
+istered parenterally, as the risk of urosepsis is higher in neonates than 
+in other age groups. Common empirical therapy includes ampicillin 
+in addition to either gentamicin or a third-­generation cephalosporin. 
+Therapy is then tailored according to the specific uropathogen identi­
+fied on culture and the antimicrobial sensitivity.
+Ultrasound is the first-­line imaging method in neonates after the 
+first UTI. The main purpose of diagnostic imaging is the detection 
+of risk factors, such as anomalies of the kidney and urinary tract 
+or VUR, as well as any renal damage acquired from the infection. 
+Clinical practice guidelines do not recommend DMSA (dimercap­
+tosuccinic acid) scans as part of routine evaluation of infants with 
+their first febrile UTI because the findings rarely affect acute clinical 
+management.
+CHILDREN 2–24 MONTHS OF AGE
+Like neonates, young children 2–24 months of age cannot report 
+dysuria. Nonetheless, UTIs are common (see Chapter 52). The main 
+Dysuria
+Paula Cody
+21
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+375
+CHAPTER 21  Dysuria
+risk factor for febrile infant males is whether or not they are circum­
+cised; other individual risk factors for UTI in males include tem­
+perature >39°C, fever for at least 24 hours, and absence of another 
+source of infection. Individual risk factors for UTI in infant females 
+include age younger than 12 months, temperature of at least 39°C, 
+fever for at least 2 days, and absence of another source of infection 
+(Table 21.2).
+The method of collecting urine for testing is dependent on the risk 
+factors of the child. Culture of a urine specimen from a bag attached 
+to the perineal area has a high false-­positive rate; this method of urine 
+collection is not suitable for diagnosing UTI. However, a culture of a 
+urine specimen from a sterile bag that shows no growth is strong evi­
+dence that UTI is absent; if growth of a single uropathogen is present, 
+it may represent a UTI. Nonetheless, one approach provides several 
+recommendations in testing and treatment of UTIs in febrile infants 
+(Fig. 21.2):
+ • If a febrile infant (2–24 months) with no apparent source for fever 
+requires antibacterial therapy, a urine specimen should be obtained 
+via suprapubic aspiration or catheterization for both culture and 
+UA prior to the initiation of antibacterials.
+If immediate empiric antibiotic therapy is not indicated:
+ • Clinician should obtain urine sample for UA and culture through 
+catheterization or suprapubic aspiration.
+or
+ • Clinician can obtain a clean-­void bagged urine sample. If UA 
+results suggest UTI, then an additional urine specimen for culture 
+should be obtained via catheterization or suprapubic aspiration and 
+empiric treatment initiated.
+Diagnosing a UTI in young children generally requires both a 
+positive UA (for white cells and/or bacteria) and >50,000 CFU/mL of 
+a single urinary pathogen on urine culture from a suprapubic or cath­
+eterized urine specimen. A combination of a positive urine nitrite 
+test plus positive leukocyte esterase plus white blood cells ≥10/mm3 
+or ≥5 per high-­power field is highly suggestive of a UTI. Some labs 
+also report the microscopic presence of bacteria. Nitrite testing may 
+be negative with high urine flow rates and frequent bladder emptying 
+(bacteria need ∼4 hours to produce nitrites); leukocyte esterase may 
+be negative with certain bacteria or localized infections (abscess). 
+Negative leukocytes, nitrites, and leukocyte esterase in the presence 
+of bacteria suggest asymptomatic bacteriuria, which requires no 
+treatment.
+Sterile pyuria (leukocytes with no bacterial growth) may be seen in 
+a partially treated UTI, renal or perinephric abscess, infection proximal 
+to an obstruction (duplication), nephronia, interstitial nephritis, renal 
+tuberculosis, Kawasaki disease, MIS-­C (multisystem inflammatory 
+syndrome in children), adenovirus or JC viruses, endocarditis, sexually 
+transmitted infections (STIs), schistosomiasis, prostatitis, appendicitis, 
+epididymitis, or lupus.
+The usual choices for empirical antibacterial therapy include a 
+third-­generation cephalosporin, amoxicillin plus clavulanic acid, or 
+trimethoprim-­sulfamethoxazole. The clinician should base choice of 
+antibacterial on local antimicrobial sensitivity patterns if available 
+and should adjust according to sensitivity results of the isolated uro­
+pathogen. Most well-­appearing infants can be treated orally. Fever 
+persisting after 48 hours of appropriate antibiotic therapy raises 
+the suspicion of a complicated UTI (obstructive uropathy, abscess, 
+nephronia).
+The rationale for imaging infants with UTI is to identify abnor­
+malities of the genitourinary tract. Renal and bladder ultrasound is 
+the first-­line imaging modality to identify anatomic abnormalities. 
+VCUG to detect VUR should not be performed after the first febrile 
+UTI. It is indicated if the ultrasound reveals hydronephrosis, renal 
+TABLE 21.1  Causes of Dysuria
+Infectious causes
+Urinary tract infection (cystitis, pyelonephritis)
+Urethritis
+Herpes simplex virus infections
+Varicella infections
+Epstein-­Barr virus infections
+Hemorrhagic cystitis (adenovirus)
+Prostatitis
+Vaginitis*
+Renal tuberculosis
+Urinary schistosomiasis
+Sexually transmitted infections
+Urinary tract 
+abnormalities 
+(congenital and 
+acquired)
+Urinary calculi
+Urethral stricture
+Meatal stenosis
+Prostate enlargement
+Malignancy
+Urethral diverticulum
+Bladder diverticulum
+Idiopathic hypercalciuria
+Bladder outlet obstruction
+Urethral prolapse
+Genital tract abnor­
+malities
+Sexually transmitted infections
+Vaginitis
+Prostatitis
+Endometritis
+Endometriosis
+Labial adhesions
+Phimosis
+Paraphimosis
+Balanitis
+Foreign body
+Vulva, vaginal ulcerations
+Medications and 
+irritants
+Primary irritant dermatitis
+Chemical irritants (soaps, detergents, bubble baths, 
+feminine hygiene products, spermicides)
+NSAIDs
+Anticholinergics (amitriptyline, imipramine, and 
+antihistamines)
+Anti-­infectives (isoniazid, sulfonamides)
+Chemotherapy-­related hemorrhagic cystitis (cyclo­
+phosphamide)
+Other
+Trauma
+Stevens-­Johnson syndrome/toxic epidermal necrolysis
+Behçet syndrome
+Inflammatory bowel disease
+Toxic shock syndrome
+Reactive arthritis (in conjunction with urethritis, 
+conjunctivitis)
+Neurologic conditions that impact bladder emptying
+Pinworms
+Lichen sclerosus
+Appendicitis (if inflamed appendix or periappendiceal 
+abscess lies low in iliac fossa)
+Tumor (bladder, kidney, uterus, vagina)
+Foreign body (urethral, vaginal)
+Perianal group A streptococcus
+NSAIDs, nonsteroidal antiinflammatory drugs.
+*Vaginitis; chemical, nonspecific bacterial, Candida albicans, Tricho­
+monas vaginalis, herpes simplex, gonorrhea, group A streptococcus, 
+gram-­negative organisms.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+376
+SECTION 5   Genitourinary Disorders
+scarring, or other findings that suggest high-­grade VUR or obstruc­
+tive uropathy.
+PRESCHOOL CHILDREN
+A young child may or may not be able to verbalize dysuria; they may 
+show signs of urethral irritation including delayed toilet training (espe­
+cially during the day), secondary enuresis, dribbling, and frequent 
+squatting. Due to the large variability in the time of achievement of 
+daytime dryness (15 months–4 years), delayed toilet training may be 
+an unreliable sign of dysuria; primary diurnal enuresis should be eval­
+uated if the child is older than 48 months of age. Nocturnal enuresis is 
+rarely a sign of UTI, but urine cultures should probably be obtained in 
+children who do not stay dry at night by 5 years of age. A more signifi­
+cant symptom in young children is the acute onset of daytime enuresis 
+after a period of continence.
+UTIs are the most common cause of dysuria in preschool children. 
+It may be difficult to distinguish between pyelonephritis and cystitis in 
+these young children. Both urine and stool withholding have a role in 
+causing UTIs in young children. Bowel/bladder dysfunction is asso­
+ciated with large residual urine volumes after voiding and increased 
+UTI risk, and thus the treatment of constipation leads to a reduction in 
+UTIs. Females are at increased risk of UTI due to the ease with which 
+pathogens can migrate from the gastrointestinal tract to the periure­
+thral area and urethra, and ultimately ascend to the bladder. Improper 
+toileting habits can further increase the risk of UTI. Uncircumcised 
+males, patients with neurogenic bladders (spina bifida), patients with 
+indwelling catheters, and patients with renal or bladder anomalies 
+(e.g., cysts, obstructed hydronephrosis, double collecting systems, 
+ectopic ureter, horseshoe kidney, posterior urethral valves, VUR) are 
+at increased risk for UTI.
+Children who are toilet-­trained can give a clean-­void urine sam­
+ple. Those who are not toilet-­trained can give a urine specimen from a 
+sterile bag attached to the perineal area, although this has a high false-­
+positive rate.
+Preschool children may also have irritant urethritis due to bubble 
+baths, perfumed soaps, or detergents.
+SCHOOL-­AGED/PREPUBERTAL CHILDREN
+Dysuria in school-­aged children can be due to infectious and nonin­
+fectious causes (see Table 21.1). Most children with a UTI present with 
+dysuria, frequency, or fever. It is worthwhile to ask about any urine 
+color change, which suggests the presence of hematuria. The child 
+should be questioned about the frequency, character, and size of their 
+bowel movements. Constipation may predispose the school-­aged 
+Possible signs and symptoms
+<3 months
+Fever
+Hematuria
+and foul-
+smelling
+urine
+Vomiting
+Lethargy and
+malaise
+Poor feeding
+Faltering growth
+Irritability
+Jaundice
+Irritability
+Abdominal pain
+Incontinence if trained
+Dysuria
+Abdominal pain
+Flank-costovertebral
+angle tenderness/pain
+Loin tenderness
+Incontinence (daytime)
+Frequency
+Dysuria
+3 months –
+3 years
+>3 years
+Fig. 21.1  Possible signs and symptoms in children with a urinary tract infection. (Modified from Prajapati H. 
+Urinary tract infections in children. Pediatr Child Health. 2018;28[7]:318–323 [Table 2, p. 319].)
+TABLE 21.2  Risk Factors for UTI
+Past History
+Age 2–24 months
+Uncircumcised males <2 yr old
+Genitourinary anomalies (obstructive uropathies)
+Neurogenic bladder (spinal dysraphism, spinal cord injury, megacystic 
+disorders)
+Dysfunctional voiding
+Constipation
+Poor perineal hygiene
+History of prior UTI
+Current Illness
+Males ≤1 yr
+Females ≤2 yr and sexually active adolescents
+Fever without a focus ≥48 hr
+Fever ≥39°C
+Foul-­smelling urine
+Urine positive for nitrites
+Urine positive for leukocyte esterase
+Pyuria ≥10/mm3 WBC or ≥5 WBC/HPF
+Bacteria on microscopy
+HPF, high-­power microscopic field; UTI, urinary tract infection; WBC, 
+white blood cell.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+377
+CHAPTER 21  Dysuria
+child to a UTI; stool softeners, such as mineral oil or fiber, may be indi­
+cated. Pyelonephritis can be clinically distinguished from cystitis by 
+presence of systemic features (fever, vomiting) and signs (flank pain, 
+costovertebral angle tenderness).
+A careful inspection of the genitals is important in the diagnosis of 
+the cause of dysuria. Males may have nonspecific bacterial infection 
+of the glans penis (balanitis); uncircumcised boys can have infection 
+of both the glans and the prepuce (balanoposthitis). Both of these are 
+usually accompanied by painful swelling and inflammation. Irritants 
+can cause a nonspecific urethritis in males, with dysuria being the main 
+symptom.
+Prepubertal females can have dysuria as the presenting symptom of 
+vaginitis, along with other symptoms including vaginal discharge. In 
+prepubertal females, the vulvar mucosa is thin and susceptible to inflam­
+mation from chemicals and mechanical irritation. Because the labia are 
+not well developed, the vulvar mucosa is not anatomically shielded and is 
+thus vulnerable to irritation. Vaginitis in prepubertal females can be non­
+specific, due to irritants (soaps, detergents), or may be due to the pres­
+ence of a foreign body (Table 21.3). Whereas vulvovaginal candidiasis is 
+common in postpubertal females, the vaginal environment in prepuber­
+tal females is not typically conducive to Candida species growth, unless 
+they have an immunodeficiency or recent antibacterial use. In the major­
+ity of cases, vulvovaginitis in prepubertal females is a mixed, nonspecific 
+bacterial infection secondary to contamination by urine and feces. The 
+responsible bacteria are usually normal flora (Table 21.4). Bloody vaginal 
+discharge in young females may be caused by Shigella species or group 
+A streptococcal infections, a foreign body (e.g., toilet paper), neoplasm 
+(such as rhabdomyosarcoma), or trauma. Most cases of prepubertal non­
+specific vaginitis can be managed with hygiene; some vulvovaginitis may 
+require a course of antibacterial agents or topical estrogen vaginal cream 
+(Table 21.5).
+Several vulvar skin disorders can be confused with vulvovaginitis 
+and present with dysuria due to contact of urine with inflamed mucosa. 
+Lichen sclerosus manifests as white patches on the glabrous skin that 
+are thinned and atrophic and are easily traumatized with resultant 
+bullae (which may be blood-­filled) in the vulvar region. Seborrheic 
+dermatitis may manifest with inflammation and secondary infection 
+of the intertriginous areas; the face and scalp may be involved as well. 
+Labial or vulvar agglutination may be noted and can be secondary to 
+previous vulvovaginitis of unestrogenized epithelia.
+Urethritis caused by herpes simplex virus may occur in both males 
+and females of this age group from autoinoculation from herpes sto­
+matitis; however, presence of genital ulcers should always elicit ques­
+tioning about sexual activity and/or assault.
+Other etiologic factors that may lead to urethritis and resultant 
+dysuria include infection (fungi, pinworms, scabies), irritation (soap, 
+Obtain urine sample via catheterization
+or suprapubic aspiration for UA and Cx
+Obtain urine dipstick or
+catheterization
+Infant 2-24 months with fever
+>38°C
+Clinical suspicion of UTI in a hemodynamically stable child without an identifiable focus of infection
+Child > 2 years of age
+UA* and/or culture
+positive?
+Start antibiotics 
+Look for another source
+Obtain renal US and
+adjust antibiotics to
+culture results
+UA* and/or culture
+positive?
+Yes
+No
+Yes
+No
+Yes
+No
+Yes
+No
+Do not start antibiotics
+for UTI and look for
+another source
+Start antibiotics based
+on local antibiogram and
+adjust to culture results  
+Renal US normal?
+Complete antibiotic
+course
+Is renal US
+suggestive of
+obstructive uropathy
+or high-grade VUR?
+Obtain VCUG and
+consult Urology
+based on results
+Nephrology or
+Urology consult
+depending on
+findings
+Fig. 21.2  Algorithm for diagnosis and management of UTI in infants and young children. *UA positive for leu­
+kocyte esterase, leukocytes, nitrites, or bacteria. Cx, culture; US, ultrasonography; UTI, urinary tract infection; 
+VCUG, voiding cystourethrogram; VUR, vesicoureteral reflux.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+378
+SECTION 5   Genitourinary Disorders
+shampoo, detergent, bubble bath), systemic illness (Stevens-­Johnson 
+syndrome), and trauma (abuse, play, tight clothing, masturbation).
+ADOLESCENTS
+There are many causes for dysuria in an adolescent. A detailed sex­
+ual history is mandatory (Table 21.6). Greater than 38% of high school 
+students have engaged in sexual intercourse, with an increase to 56% 
+among 12th graders. Over 3% initiated sexual intercourse before 13 
+years of age, and 27% had a sexual encounter within the previous 3 
+months. Adolescents are likely to have multiple sexual partners over 
+relatively short periods of time, fail to recognize the symptoms of STIs, 
+and use condoms inconsistently. It is critical that the provider perform 
+a thorough history in a nonjudgmental and nonthreatening manner. 
+Interviewing the adolescent in the room alone (i.e., without a parent 
+present) for at least a portion of the visit is the standard of care for all 
+adolescent health care visits. The terms of a confidential visit should be 
+explained to the adolescent and parent; all information disclosed by 
+the adolescent remains confidential (within the confines of the state’s 
+confidentiality laws) unless they reveal a risk of rendering harm to 
+themselves or others, such as with suicidal or homicidal ideation. Ask 
+the adolescent about sexual partners, including anatomy and gender 
+identity, since one’s gender identity may not match the sexual anatomy 
+and can lead to inaccurate assumptions about types of sexual activity. 
+Questions about victimization, trafficking, and abuse are part of the 
+sexual history, regardless of age or gender.
+Urinary tract infections (UTIs) are much more common in adoles­
+cent females than adolescent males. Risk factors for recurrent UTIs in 
+females include frequency of sexual intercourse (higher frequency leads 
+to higher risk), maternal history of recurrent UTI, a new sexual partner 
+in the past year, and spermicide use in the past year. Common patho­
+gens in this age group include Escherichia coli, Proteus species, Klebsiella 
+species, Staphylococcus saprophyticus, and enterococcus. Although often 
+recommended by clinicians, no evidence supports the thought that post­
+coital urination leads to a reduction in the frequency of UTIs.
+One of the most common causes of dysuria in adolescent males 
+and females is sexually transmitted infections (STIs) (Table 21.7). 
+TABLE 21.3  Causes of Noninfectious 
+Vulvovaginitis and Dysuria
+Condition
+Historical Cues
+Poor hygiene
+Infrequent bathing, handwashing, and clothing 
+changes; soiled underwear, toilet independence
+Poor perineal aeration
+Tight clothing, nylon underwear, tights, leotards; 
+wet bathing suits, hot tubs, obesity
+Frictional trauma
+Tight clothing, sports, sand from sandbox or beach, 
+obesity, excessive masturbation or sexual abuse
+Chemical irritants
+Bubble baths, harsh or perfumed soaps or deter­
+gents, powders, perfumed and/or dyed toilet 
+paper, ammonia, perfumed and/or dyed sanitary 
+products; douches and feminine hygiene products
+Contact dermatitis
+Topical creams or ointments, exposure to poison ivy
+Vaginal foreign bodies
+Wiping habits, excessive masturbation or self-­
+exploration, sexual abuse
+Parasites, insect bites, 
+infestations
+Home environment, pets, sandboxes, travel, camp­
+ing, exposure to woods or beach
+Medications
+Topical steroid or hormone creams, antibiotics, 
+chemotherapy
+Generalized skin 
+disorders
+History of pruritus, chronic skin lesions, prior 
+diagnosis
+Anatomic anomalies
+Vesicovaginal or rectovaginal fistula, ectopic 
+ureter, spina bifida, cloacal anomalies, urogenital 
+anomalies
+Genetic disorders
+Hyperoxaluria, acute intermittent porphyria
+Neoplasms
+Discharge, bleeding, bulging abdomen, change in 
+bowel or bladder function, premature puberty
+Systemic illness 
+(Stevens-­Johnson syn­
+drome, Crohn disease, 
+toxic shock syndrome)
+Tampon use, systemic evidence of inflammatory 
+bowel disease including rash, oral ulcers, failure 
+to gain weight or height, abdominal pain
+Modified from Succato GS, Murray PJ. Pediatric and adolescent 
+gynecology. In: Zitelli BJ, Davis HW, eds. Atlas of Pediatric Physical 
+Diagnosis. 7th ed. Philadelphia: Mosby Elsevier; 2018:658–690.
+TABLE 21.4  Normal Vaginal Flora
+ • Aerobic
+ • Gram-­positive rods
+ 
+• Diphtheroids
+ 
+• Lactobacilli
+ • Gram-­positive cocci
+ 
+• Staphylococcus aureus
+ 
+• Staphylococcus epidermidis
+ 
+• Streptococcus species
+ 
+• α-­Hemolytic
+ 
+• β-­Hemolytic
+ 
+• Nonhemolytic
+ 
+• Group D
+ • Gram-­negative rods
+ 
+• Escherichia coli
+ 
+• Klebsiella and Enterobacter species
+ 
+• Proteus species
+ 
+• Pseudomonas species
+ • Anaerobic species
+ 
+• Bacteroides species
+ 
+• Clostridium species
+ 
+• Eubacterium species
+ 
+• Fusobacterium species
+Modified from Larsen B, Monif GRG. Understanding the bacterial flora 
+of the female genital tract. Clin Infect Dis. 2001;32(4):e69–e77.
+TABLE 21.5  Treatment of Nonspecific 
+Vulvovaginitis in Young Females
+ • Toilet hygiene
+ • Urinate with knees apart
+ • Wipe in an anterior-­to-­posterior direction with supervision
+ • Scent-­ and dye-­free wipes may be useful
+ • Clothing
+ • Choose white cotton underpants, may need to change underpants 
+midday if urinary dribbling
+ • Wear loose-­fitting clothing
+ • Change out of wet swimsuits immediately
+ • Bathing
+ • Take sitz baths in clear water up to 4 times a day
+ • Wash gently with unperfumed soap
+ • Do not use bubble bath or wash hair in bath
+ • Rinse perineum with clear water, dry gently with towel
+ • Management of inflammation and pruritis
+ • Premarin vaginal cream topically twice daily for 10–14 days
+ • Hydroxyzine, 0.5 mg/kg/dose orally 4 times daily as needed
+ • Diphenhydramine, 1.25 mg/kg/dose orally 4 times daily as needed
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+379
+CHAPTER 21  Dysuria
+Adolescents represent an age group at high risk for acquisition and 
+transmission of STIs. Although many STIs are asymptomatic and are 
+diagnosed by screening asymptomatic sexually active individuals, STIs 
+can present with dysuria, vaginal discharge, penile discharge, and geni­
+tal lesions (Table 21.8). The most likely time for this to happen is within 
+1 month of beginning a relationship with a new sexual partner. Diag­
+nostic testing is highlighted in Table 21.9.
+Chlamydial genital infection is the most frequently reported bacte­
+rial STI. Infections with Chlamydia trachomatis may be asymptomatic 
+or may present with dysuria, discharge, intermenstrual bleeding, or 
+dyspareunia. C. trachomatis has also been associated with Fitz-­Hugh–
+Curtis syndrome (perihepatitis) and reactive arthritis. C. trachoma­
+tis infection may lead to pelvic inflammatory disease (PID), ectopic 
+pregnancy, and infertility. C. trachomatis urogenital infection can be 
+detected in women by testing urine or collecting swab specimens from 
+the endocervix or vagina; in men, the diagnosis can be made through 
+urine or urethral swab. Nucleic acid amplification tests (NAATs) are 
+the most sensitive methods for detecting C. trachomatis. Treatment of 
+infection improves symptoms, decreases the risk of sequelae, and pre­
+vents sexual transmission of the disease (Table 21.10).
+Gonorrhea, caused by Neisseria gonorrhoeae, is the second most 
+frequently reported bacterial STI. Infections with N. gonorrhoeae may 
+be asymptomatic or may present with dysuria, discharge, intermen­
+strual bleeding, or dyspareunia. N. gonorrhoeae infection may lead to 
+PID; late complications include ectopic pregnancy and infertility. N. 
+gonorrhoeae urogenital infection can be detected in women by testing 
+urine or collecting swab specimens from the endocervix or vagina; 
+in men, the diagnosis can be made through urine or urethral swab. 
+NAATs are the most sensitive methods for detecting N. gonorrhoeae. 
+Treatment of infection improves symptoms, decreases risk of sequelae, 
+and prevents sexual transmission of the disease (see Table 21.10). 
+Treatment of gonorrhea is complicated by the ability of N. gonorrhoeae 
+to develop resistance to antibacterials.
+Trichomoniasis, caused by Trichomonas vaginalis, may be asymptom­
+atic or may present with dysuria, frothy yellow-­green vaginal discharge, 
+genital pruritus, or intermenstrual bleeding. Diagnosis of T. vaginalis is 
+usually assessed by microscopy of vaginal or urethral secretions; how­
+ever, there are more sensitive methods of detection, including a specific 
+culture, a nucleic acid probe, and an immunochromatographic capillary 
+flow dipstick. See Table 21.10 for treatment recommendations.
+Primary herpes simplex virus (HSV) infection can cause genital 
+ulcers and dysuria, as well as other conditions, including nongenital 
+lesions, cervicitis, urethritis, cystitis, proctitis, and pharyngitis. Systemic 
+complications, such as hepatitis, pneumonia, thrombocytopenia, and 
+monoarticular arthritis, may rarely occur. HSV-­infected patients can 
+present with a primary infection, which can be asymptomatic; a first clin­
+ical episode, which may not necessarily occur during the primary infec­
+tion; or a recurrent episode. Usually, the first clinical episodes are more 
+painful and prolonged than are subsequent ones. Recurrent episodes 
+occur less frequently with a genital HSV-­1 infection and with intervals 
+between episodes becoming longer, as compared to HSV-­2. Treatment 
+for initial and recurrent outbreaks of HSV is listed in Table 21.10.
+Vaginitis due to various causes can cause dysuria in adolescent 
+females. Vulvovaginal candidiasis, bacterial vaginosis, and trichomoni­
+asis are common causes of vulvovaginitis in adolescents. Other causes 
+are local chemical or allergic irritants, bacterial infections caused by 
+Streptococcus or Staphylococcus species, trauma, and secondary infec­
+tions from foreign bodies. Rare causes of vaginitis and subsequent 
+TABLE 21.6  Approach to Clinical Evaluation 
+of Sexually Transmitted Infections: Sexual 
+History
+Age at coitarche
+Gender identity and anatomy of sexual partners
+Date of most recent sexual encounter
+Duration of relationship with current partner
+Numbers of current, recent (within past 3–6 mo), and lifetime partners
+Condom usage (overall consistency)
+Contraceptive usage
+Vaginal intercourse
+Oral intercourse
+Anal intercourse
+Dyspareunia
+Involuntary sexual encounters (abuse, rape)
+Partner’s sexually transmitted infection symptoms and relevant sexual history 
+(i.e., other sex partners)
+TABLE 21.7  Sexually Transmitted Infection 
+Syndromes in Adolescents and Young Adults
+Sexually 
+Transmitted 
+Infection 
+Syndrome
+Primary Organisms
+Other Causal 
+Organisms
+Genitourinary Syndromes
+Discharge and 
+dysuria
+Chlamydia trachomatis
+Neisseria gonorrhoeae
+Trichomonas vaginalis
+Mycoplasma genitalium
+Ureaplasma urealyticum
+Mycoplasma hominis
+Herpes simplex virus 1, 2
+Proctitis, proctocoli­
+tis, and enteritis
+Chlamydia trachomatis
+Neisseria gonorrhoeae
+Treponema pallidum
+Herpes simplex virus 1, 2
+Campylobacter species
+Entamoeba histolytica
+Giardia lamblia
+Salmonella species
+Shigella species
+Cytomegalovirus
+Genital ulcer and 
+lymphadenopathy
+Herpes simplex virus 1, 2
+Treponema pallidum
+Calymmatobacterium 
+granulomatis
+Haemophilus ducreyi
+Chlamydia trachomatis 
+­lymphogranuloma 
+venereum
+Pelvic pain 
+(e.g., pelvic inflam­
+matory disease)
+Chlamydia trachomatis
+Neisseria gonorrhoeae
+Mycoplasma genitalium
+Mycoplasma hominis
+Mixed aerobic and 
+­anaerobic bacteria
+Scrotal pain (e.g., 
+epididymitis)
+Chlamydia trachomatis
+Neisseria gonorrhoeae
+Mycoplasma genitalium
+Ureaplasma urealyticum
+Pharyngeal Syndromes
+Infections of 
+­pharyngeal 
+mucosa
+Neisseria gonorrhoeae
+Herpes simplex virus 1, 2
+Treponema pallidum
+Human papillomaviruses
+Dermatologic Syndromes
+Genital warts
+Human papillomaviruses
+—
+Molluscum 
+­contagiosum
+Molluscum contagiosum 
+virus
+—
+Rash, alopecia
+Treponema pallidum
+—
+Arthritis and 
+­dermatitis ­syndrome
+Neisseria gonorrhoeae
+Chlamydia trachomatis
+—
+Jaundice, hepatitis
+Hepatitis A, B, C viruses
+—
+Scabies
+Sarcoptes scabiei
+—
+Pubic lice
+Phthirus pubis
+—
+From Long SS, Prober CG, Fischer M, eds. Principles and Practice of 
+Pediatric Infectious Diseases. 5th ed. Philadelphia: Elsevier; 2018:350, 
+Table 49-­1.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+380
+SECTION 5   Genitourinary Disorders
+TABLE 21.8  Diagnostic Characteristics of Genital Lesions
+Syndrome
+Appearance
+Number of 
+Lesions
+Pain
+Adenopathy
+Occurrence in the 
+United States
+Herpes
+Vesicles and superficial ulcers on 
+erythematous base (1–2 mm)
+Multiple
+Often
+Bilateral; inguinal; firm; movable; 
+tender
+Frequent
+Syphilis
+Papule and superficial or deep ulcer 
+(5–15 mm)
+Single
+No
+Bilateral; inguinal; firm; movable; 
+nontender
+Uncommon
+Lymphogranuloma venereum
+Ulcer (2–10 mm), resolves quickly
+Single
+Yes
+Unilateral; inguinal; fluctuant; may 
+suppurate; tender
+Uncommon
+Human papillomavirus
+Anogenital exophytic warts; may 
+resemble cauliflower or be papu­
+lar with projections
+Single or 
+multiple
+No
+None
+Frequent
+Lice or nits
+Tiny (≤1 mm) insects or eggs adher­
+ent to hair shaft; excoriations
+Multiple
+No but 
+pruritic
+None
+Common
+Chancroid
+Deep, purulent ulcers (2–20 mm)
+Multiple
+Yes
+Unilateral; inguinal; fluctuant; may 
+suppurate; tender
+Rare
+Non–sexually acquired genital 
+ulceration (common causes: 
+Epstein-­Barr virus, cytomeg­
+alovirus, Mycoplasma)
+Varied—can be shallow or deep, 
+may be necrotic, often in kissing 
+pattern on labia
+Single or multiple Yes
+Based on underlying condition
+Uncommon
+TABLE 21.9  Tests Used to Determine the Cause of Sexually Transmitted Infection Syndromes in 
+Adolescents and Young Adults
+STI Syndrome
+Office Tests Available
+Preferred Laboratory Tests
+Genitourinary Syndromes
+Discharge and dysuria
+Females: microscopic wet prep vaginal secretions, pH paper, whiff 
+test, KOH; LET; rapid tests for GC, CT, TV, BV, and HIV; UPT
+Males: Gram stain smear of urethral discharge looking for ≥5 WBCs 
+per oil immersion field and intracellular gram-­negative diplococci; 
+LET; microscopic examination of first-­void spun urine sediment with 
+≥10 WBCs per high-­power field; rapid tests for GC, CT, and HIV
+Females, males: NAATs for GC, CT, and TV; HIV test
+Proctitis, proctocolitis, 
+and enteritis
+Females, males: Gram stain smear of anorectal exudate; rapid test 
+for HIV
+Females: UPT
+NAATs for GC and CT; see HSV and syphilis under genital ulcer; 
+cultures for other gram-­negative pathogens and amoeba; HIV 
+test
+Genital ulcer and 
+­lymphadenopathy
+Females, males: darkfield examination for syphilis; rapid test for HIV
+Females: UPT
+Cultures for HSV-­1 and HSV-­2 or PCR for HSV; serology for type-­
+specific glycoprotein G to discern HSV-­1 or HSV-­2
+RPR or VDRL and confirmatory tests for syphilis if positive or 
+treponemal EIA or CIA chemiluminescence immunoassays and 
+confirmatory nontreponemal test (RPR or VDRL) if positive
+NAATs for CT; PCR genotyping or serology for LGV (complement 
+fixation or microimmunofluorescence)
+Gram stain and culture for chancroid; staining for Donovan bodies 
+on tissue biopsy; HIV test
+Pelvic pain (e.g., pelvic 
+inflammatory disease)
+Microscopic wet prep vaginal secretions, pH paper, whiff test, KOH; 
+LET; rapid tests for GC, CT, TV, BV, and HIV; UPT
+NAATs for GC, CT, and TV; HIV test
+Scrotal pain (e.g., 
+­epididymitis)
+Gram stain smear of urethral discharge looking for ≥5 WBCs per oil 
+immersion field and intracellular gram-­negative diplococci; LET; 
+microscopic examination of first-­void spun urine sediment with 
+≥10 WBCs per high-­power field on first-­void urine; rapid tests for 
+GC, CT, and HIV
+NAATs for GC and CT; HIV test
+Pharyngeal Syndromes
+Infections of pharyngeal 
+mucosa
+Rapid strep test
+NAATs or culture for GC and CT; culture or PCR for HSV-­1 and 
+HSV-­2, serology for type-­specific glycoprotein G to discern 
+HSV-­1 and HSV-­2; RPR or VDRL and confirmatory tests if 
+positive; HIV test
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+381
+CHAPTER 21  Dysuria
+dysuria include ulcerating conditions of the mucous membranes, such 
+as toxic shock syndrome and Stevens-­Johnson syndrome. Epstein-­Barr 
+virus, cytomegalovirus, Mycoplasma pneumoniae, and other systemic 
+infections can cause non–sexually acquired genital ulcerations. Non­
+infectious causes of genital ulcers that can be confused with infection 
+include inflammatory bowel disease and Behçet syndrome. Inflamma­
+tory bowel disease usually manifests with intestinal symptoms, deeper 
+ulcers, and a longer duration of ulcerative lesions. Behçet syndrome 
+may manifest with lesions of other mucous membranes as well as ocu­
+lar, central nervous system, and joint manifestations. If the clinical 
+diagnosis is not definitive, viral culture of the lesions is recommended.
+Males with dysuria may also have penile pain or dysuria as a result 
+of phimosis, paraphimosis, balanitis, urethral trauma, epididymitis, or 
+meatal stenosis. Phimosis is a scarring or narrowing of the preputial 
+opening and manifests as failure to retract the foreskin. The foreskin is 
+normally difficult to retract in neonates, but by 3 years of age, it is eas­
+ily retracted. Paraphimosis, an emergent cause of dysuria and penile 
+pain, is an incarceration of the prepuce behind the glans. Edema, pain, 
+and swelling are present. Balanitis is an infection of the prepuce caused 
+by Streptococcus species, Candida species, mixed flora, or Trichomonas 
+species; it may be recurrent and warrants circumcision.
+Evaluation for dysuria in the adolescent female should include a 
+clean-­catch (midstream) urine for dipstick, microscopic exam, and cul­
+ture. The presence of leukocytes on UA may indicate vaginitis due to 
+STIs (N. gonorrhoeae, C. trachomatis, herpes, T. vaginalis). To check for 
+gonorrhea or Chlamydia, a first-­stream urine or a swab of the vagina 
+or cervix should be obtained. Depending on sexual activity, the phar­
+ynx and rectum should also be tested to check for infections in those 
+locations. Any lesions suggestive of HSV should be cultured or tested 
+by polymerase chain reaction (PCR). The evaluation of any vaginal dis­
+charge includes description of the vaginal discharge, measurement of 
+vaginal pH, saline preparation, performance of a whiff test, and micro­
+scopic examination (Table 21.11 and Figs. 21.3, 21.4, and 21.5). Thick, 
+adherent cottage cheese–like discharge is suggestive of candidiasis; other 
+physical examination findings include erythema, edema, and excoriation 
+of the vagina. Thin, homogeneous, gray-­white, foul-­smelling discharge 
+is suggestive of bacterial vaginosis (BV). Purulent, profuse, irritating, 
+TABLE 21.9  Tests Used to Determine the Cause of Sexually Transmitted Infection Syndromes 
+in Adolescents and Young Adults—cont’d
+STI Syndrome
+Office Tests Available
+Preferred Laboratory Tests
+Dermatologic Syndromes
+Genital warts
+Characteristic lesions
+—
+Molluscum contagiosum
+Characteristic lesions
+Wright or Giemsa staining for intracytoplasmic inclusions
+Rash, alopecia
+—
+RPR or VDRL and confirmatory tests if positive
+Arthritis, dermatitis
+Males: Gram stain smear urethral discharge looking for ≥5 WBCs per 
+oil immersion field and intracellular gram-­negative diplococci; LET
+Females: Microscopic wet prep vaginal secretions for WBCs; LET; 
+rapid tests for GC, CT; and UPT
+Females, males: NAATs or culture for GC and CT from rectum or 
+pharynx
+Females: NAATs of vaginal swab
+Males: NAATs of first-­void urine
+Jaundice, hepatitis
+—
+Appropriate laboratory tests for hepatitis
+Scabies
+Microscopic examination of skin and hair
+—
+Pubic lice
+Identification of eggs, nymphs, and lice with naked eye or microscopy
+—
+BV, bacterial vaginosis; CIA, chemiluminescence immunoassay; CT, Chlamydia trachomatis; EIA, enzyme immunoassay; GC, Neisseria gonorrhoeae; 
+HSV-­1, herpes simplex type 1; HSV-­2, herpes simplex type 2; KOH, potassium hydroxide; LET, leukocyte esterase test of urine; LGV, lymphogranu­
+loma venereum; NAATs, nucleic acid amplification tests; PCR, polymerase chain reaction; RPR, rapid plasma reagin; STI, sexually transmitted infec­
+tion; TV, Trichomonas vaginalis; UPT, urine pregnancy test; VDRL, Venereal Disease Research Laboratory; WBCs, white blood cells.
+From Long SS, Prober CG, Fischer M, eds. Principles and Practice of Pediatric Infectious Diseases. 5th ed. Philadelphia: Elsevier; 2018:351, 
+Table 49-­2.
+TABLE 21.10  Recommended Treatments of 
+Selected Sexually Transmitted Infections
+Pathogen
+Recommended Regimen
+Chlamydia 
+­trachomatis
+Azithromycin, 1 g orally in a single dose
+or
+Doxycycline, 100 mg orally twice a day for 7 days
+Neisseria 
+­gonorrhoeae
+Ceftriaxone 500 mg (patient weight <300 lb) or 1 g 
+(>300 lb) intramuscularly in a single dose
+Trichomonas vaginalis Metronidazole, 2 g orally in a single dose
+or
+Tinidazole, 2 g orally in a single dose
+Herpes simplex virus
+First clinical 
+genital episode
+Acyclovir, 400 mg orally 3 times a day for 7–10 days
+or
+Acyclovir, 200 mg orally 5 times a day for 7–10 days
+or
+Famciclovir, 250 mg orally 3 times a day for 
+7–10 days
+or
+Valacyclovir, 1 g orally twice a day for 7–10 days
+Herpes simplex virus
+Episodic therapy for 
+recurrent genital 
+episodes
+Acyclovir, 400 mg orally 3 times a day for 5 days
+or
+Acyclovir, 800 mg 3 times a day for 2 days
+or
+Acyclovir, 800 mg orally twice a day for 5 days
+or
+Famciclovir, 125 mg orally twice a day for 5 days
+or
+Valacyclovir, 500 mg orally twice a day for 3 days
+or
+Valacyclovir, 1 g orally once a day for 5 days
+Modified from Centers for Disease Control and Prevention. Sex­
+ually transmitted diseases treatment guidelines 2015. MMWR. 
+2015;64(3):1–135. See full document for alternative treatments and 
+specific treatments in pregnancy and treatment for children younger 
+than 8 yr old.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+382
+SECTION 5   Genitourinary Disorders
+frothy green-­yellow discharge often accompanies trichomoniasis. The 
+Amsel criteria for diagnosis and treatment of bacterial vaginosis are 
+listed in Tables 21.12 and 21.13, respectively.
+The provider should perform a pelvic examination to exclude pelvic 
+inflammatory disease (PID) in all sexually active adolescent females 
+when vaginal discharge and/or pelvic pain are reported (Table 21.14). 
+PID is an acute infection of the upper female genital tract (endome­
+triosis, salpingitis, tubo-ovarian abscess, pelvic peritonitis). Features 
+that suggest PID (vs lower tract infection) include cervical motion ten­
+derness, uterine or adnexal tenderness, temperature >101°F, cervical 
+mucopurulent discharge or friability, abundant white blood cells on 
+saline prep of vaginal fluid, elevated erythrocyte sedimentation rate 
+and C-­reactive protein levels, and a documented cervical infection 
+with N. gonorrhea or C. trachomatis. Table 21.15 lists differential diag­
+noses for PID, and Table 21.16 details the recommended treatment 
+regimens for PID. Pregnancy testing is indicated when an adolescent 
+female presents with dysuria or any symptoms of an STI; the test results 
+may influence the treatment plan. Another important consideration in 
+sexually active adolescents is screening for HIV.
+The Centers for Disease Control and Prevention recommend gon­
+orrhea and Chlamydia testing of all males who meet the diagnostic 
+criteria for urethritis. NAATs, the most sensitive gonorrhea and Chla­
+mydia diagnostic test, can be performed on a single urine or urethral 
+TABLE 21.11  Differences in Characteristics Between Bacterial Vaginosis, Trichomoniasis, and 
+Vulvovaginal Candidiasis
+Clinical Elements
+Normal
+Bacterial Vaginosis
+Trichomoniasis
+Vaginal Candidiasis
+Symptoms
+Vaginal odor
+−
++
++/−
+−
+Vaginal discharge
+Clear-­white
+Thin, gray, homogeneous
+Green-­yellow
+White, curdlike
+Vulvar irritation
+−
++/−
++
++
+Dyspareunia
+−
+−
++
+−
+Signs
+Vulvar erythema
+−
+−
++/−
++/−
+Bubbles in vaginal fluid
+−
++
++/−
+−
+Strawberry cervix
+−
+−
++/−
+−
+Microscopy
+Saline Wet Mount
+Clue cells
+−
++
+−
+−
+Motile protozoa
+−
+−
++
+−
+KOH Test
+Pseudohyphae
+−
+−
+−
++
+Whiff test
+−
++
++/−
+−
+pH
+3.8–4.2
+>4.5
+>4.5
+<4.5
+KOH, potassium hydroxide.
+Modified from Centers for Disease Control and Prevention. Sexually transmitted diseases treatment guidelines 2015. MMWR. 2015;64(3):1–135.
+Fig. 21.3  Bacteria are clinging to the sides of a vaginal epithelial cell 
+(“clue cell”). (From Huffman JW. Genitourinary infections. In: Feigen 
+RD, Cherry JD, eds. Textbook of Pediatric Infectious Diseases. 2nd ed. 
+Philadelphia: WB Saunders; 1992:570.)
+Fig. 21.4  Trichomonas vaginalis identified in wet smears of the vaginal 
+discharge. (From Huffman JW. Genitourinary infections. In: Feigen RD, 
+Cherry JD, eds. Textbook of Pediatric Infectious Diseases. 2nd ed. Phil­
+adelphia: WB Saunders; 1992:568.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+383
+CHAPTER 21  Dysuria
+TABLE 21.12  Amsel Criteria for the 
+Diagnosis of Bacterial Vaginosis
+3 of the following 4 Amsel criteria are considered necessary to diagnose BV:
+	 1.	Vaginal discharge: thin, homogeneous, white, uniformly adherent
+	 2.	Vaginal pH >4.5
+	 3.	Positive result of whiff test: fishy odor after mixing discharge with 
+10% KOH
+	 4.	>20% clue cells on microscopic examination: bacteria-­coated squamous 
+epithelial cells, where both the periphery (cell membrane) and cyto­
+plasm have a granular, irregular, “moth-­eaten” appearance
+KOH, potassium hydroxide.
+Modified from Amsel R, Totten PA, Spiegel CA, et al. Nonspecific vag­
+initis. Diagnostic criteria and microbial and epidemiologic associations. 
+Am J Med. 1983;74:14–22.
+TABLE 21.13  Treatment Regimens for 
+Bacterial Vaginosis
+Nonpregnant Females
+Metronidazole, 500 mg orally twice daily for 7 days
+or
+Metronidazole gel, 0.75%, 1 full applicator (5 g) intravaginally once a day for 5 days
+or
+Clindamycin cream, 2%, 1 full applicator (5 g) intravaginally once a day for 
+7 days
+Pregnant Females
+Metronidazole, 250 mg orally 3 times daily for 7 days
+or
+Metronidazole 500 mg orally twice daily for 7 days
+Modified from Centers for Disease Control and Prevention. 
+­Sexually transmitted diseases treatment guidelines 2015. MMWR. 
+2015;64(3):1–135.
+TABLE 21.14  Diagnostic Criteria for Pelvic 
+Inflammatory Disease
+Minimum Criteria
+Uterine or adnexal tenderness (unilateral or bilateral)
+or
+Cervical motion tenderness
+Additional Criteria to Increase Specificity of Minimum 
+Criteria
+Abnormal cervical or vaginal mucopurulent discharge
+Presence of WBCs on saline microscopy of vaginal secretions
+Oral temperature >38.3°C (101°F)
+Elevated erythrocyte sedimentation rate or C-­reactive protein
+Laboratory evidence of Neisseria gonorrhoeae or Chlamydia trachomatis at 
+cervix
+WBCs, white blood cells.
+Modified from Centers for Disease Control and Prevention. Sex­
+ually transmitted diseases treatment guidelines 2015. MMWR. 
+2015;64(3):1–135.
+TABLE 21.15  Differential Diagnosis for 
+Pelvic Inflammatory Disease
+Ectopic pregnancy
+Ovarian cyst (with or without ovarian torsion)
+Acute appendicitis
+Endometriosis
+Pyelonephritis
+Septic or incomplete abortion
+Pelvic thrombophlebitis
+Functional pain
+Psoas-­pelvic muscle abscess
+Mesenteric adenitis
+Pelvic adhesions
+Pelvic bone osteomyelitis
+Chronic intestinal disease (e.g., inflammatory bowel disease)
+Fig. 21.5  Hyphae of Candida albicans on a wet smear of vaginal dis­
+charge. (From Huffman JW. Genitourinary infections. In: Feigen RD, 
+Cherry JD, eds. Textbook of Pediatric Infectious Diseases. 2nd ed. Phil­
+adelphia, WB Saunders; 1992:564.)
+TABLE 21.16  Treatment Regimens for 
+Pelvic Inflammatory Disease
+Parenteral Regimens (One of the Following)
+Cefotetan, 2 g IV q12h, or cefoxitin, 2 g IV q6h, both plus doxycycline, 100 mg 
+IV or PO q12h or
+Ceftriaxone 1 g IV q24h plus doxycycline 100 mg PO or IV q12h plus metroni­
+dazole 500 mg PO or IV q12 hr
+Parenteral therapy may be discontinued 24 hr after clinical improvement and 
+continue doxycycline, 100 mg PO twice daily, and metronidazole 500 mg 
+twice daily for 14 days of total therapy
+For tubo-ovarian abscess, addition of either metronidazole, 500 mg PO twice 
+daily, or clindamycin, 450 mg PO 4 times daily, to oral doxycycline provides 
+better coverage against anaerobes
+Outpatient Regimens (One of the Following)
+Ceftriaxone, 500 mg IM in a single dose, or cefoxitin, 2 g IM, with probenecid, 
+1 g PO in a single dose once, or other parenteral 3rd-­generation cephalo­
+sporin (e.g., ceftizoxime) plus doxycycline, 100 mg PO twice daily for 14 
+days, with metronidazole, 500 mg PO twice daily for 14 days
+IM, intramuscularly; IV, intravenously; PO, per os (orally); q6h, every 6 
+hr; q8h, every 8 hr; q12h, every 12 hr.
+Modified from Centers for Disease Control and Prevention. Sex­
+ually transmitted diseases treatment guidelines 2015. MMWR. 
+2015;64(3):1–135.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+384
+SECTION 5   Genitourinary Disorders
+specimen. Any lesion suspicious for HSV should be cultured. Table 
+21.8 lists the treatments for selected STIs. Epididymitis, typically pre­
+senting as unilateral testicular pain, is most frequently caused by C. tra­
+chomatis or N. gonorrhoeae or a sexually transmitted enteric organism 
+such as E. coli and Pseudomonas species. On examination, a hydrocele 
+may be present. Treatment of epididymitis is listed in Table 21.17.
+   	 S U MMA RY  A N D  R E D  F L A G S
+Dysuria in prepubertal children is usually a symptom of a UTI but may 
+also be due to other infectious or noninfectious causes of urethritis and 
+vaginitis. The differential diagnosis expands greatly in adolescents, in 
+whom an STI may be the cause. Table 21.18 demonstrates common 
+pitfalls in the appropriate evaluation of dysuria in children and adoles­
+cents. Red flags are noted in Tables 21.19 and 21.20.
+Because children younger than 2 years cannot often verbal­
+ize a specific complaint of dysuria, the diagnosis of a UTI is more 
+challenging in children this age. Awareness of specific risk factors for 
+UTI (uncircumcised status in boys, height of fever, and lack of other 
+cause for fever on examination) especially in the first year of life will 
+lead to the evaluation of those at highest risk and avoid unnecessary 
+testing in those at low risk. Combining the results of the UA with an 
+appropriately obtained urine culture allows for expeditious treatment 
+and confirmation of the particular pathogen when the culture results 
+are available.
+   
+TABLE 21.17  Treatment Regimens for 
+Epididymitis
+One of the following:
+For epididymitis most likely caused by gonococcal or chlamydial infection:
+Ceftriaxone, 500 mg intramuscularly in a single dose, plus doxycycline, 
+100 mg orally twice daily for 10 days
+For epididymitis most likely caused by enteric organism, or for patients who 
+are allergic to cephalosporins and/or tetracyclines:
+Levofloxacin, 500 mg orally once daily for 10 days*†
+*Fluoroquinolones have not been recommended for persons younger 
+than 18 yr because they damage articular cartilage in juvenile animal 
+models. Among children treated with fluoroquinolones, no joint dam­
+age attributable to therapy has been observed. Quinolones should not 
+be used to treat possible gonorrhea infections acquired in Asia or the 
+Pacific, including Hawaii, or California.
+†In men who practice insertive anal sex and are not allergic to ceftriax­
+one, add ceftriaxone 500 mg IM × 1 dose.
+Modified from Centers for Disease Control and Prevention. Sexually trans­
+mitted diseases treatment guidelines 2015. MMWR. 2015;64(3):1–135.
+TABLE 21.18  Common Pitfalls in the 
+Correct Diagnosis of Dysuria
+Neonates/Infants
+Assume that significant bacteriuria in a bagged urine specimen is a true UTI, 
+and treat before a confirmatory culture is obtained
+Fail to obtain a urine culture in a neonate older than 3 days and miss obstruc­
+tive uropathy with a secondary infection
+Toddlers and School-­Aged Children
+Trust a urine culture from a bagged urine specimen
+Accept a laboratory report of “no significant growth” on urine, without know­
+ing that the laboratory reports only >100,000 CFU/mL as “significant”
+Fail to label urine as a “catheterized specimen,” so that the laboratory can 
+plate 0.1 mL as well as 0.01 mL
+Adolescents
+Fail to ask about sexual history suggestive of vaginitis, such as a new sexual 
+partner and condom or other birth control device use
+Treat pyuria as a UTI in a sample contaminated with vaginal leukocytes
+CFU, colony-­forming unit; UTI, urinary tract infection.
+TABLE 21.19  Red Flags for Referral to a 
+Pediatric Urologist or Nephrologist After a 
+Urinary Tract Infection
+ • Poor urine stream in males (posterior urethral valves)
+ • Constant wetting not from urethra (ectopic ureter or patent urachus)
+ • Dilating VUR (grade III, IV, or V)
+ • Renal scarring detected on sonography or a DMSA scan obtained >6 mo 
+after the UTI
+ • Urinary obstruction seen on a sonogram
+ • Voiding dysfunction (enuresis, frequency, “curtsy” to stop voiding)
+ • Breakthrough UTI in the child with VUR receiving prophylaxis
+ • Elevated serum creatinine level
+ • Hypertension
+ • Antenatal hydronephrosis that is confirmed after day 3 after birth
+DMSA, dimercaptosuccinic acid; UTI, urinary tract infection; VUR, vesi­
+coureteral reflux.
+TABLE 21.20  Red Flags and Things Not to 
+Miss: Sexually Transmitted Infections
+Diagnosis of More Than One Sexually Transmitted 
+Infection in the Same Patient
+ • If patient is diagnosed with syphilis, gonorrhea, or HIV
+ • If patient reports engaging in unprotected sex with multiple partners
+ • If patient is immunocompromised
+ • If patient has a history of sexually transmitted infections
+Abdominal Pain in an Adolescent Girl
+ • Pelvic inflammatory disease
+ • Tubo-ovarian abscess
+ • Ectopic pregnancy
+ • Appendicitis
+ • Ovarian cyst (rupture or torsion)
+Fever, Rash, Malaise, Arthralgia
+ • Disseminated gonococcemia
+ • Reactive arthritis
+ • HIV infection
+Rape
+Pregnancy
+Treatment of Partners
+Asymptomatic Cervicitis
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+384.e1
+BIBLIOGRAPHY
+American Academy of Pediatrics Subcommittee on Urinary Tract Infection 
+and Steering Committee on Quality Improvement and Management. 
+Urinary tract infection. Reaffirmation of the clinical practice guideline: 
+The diagnosis and management of the initial UTI in febrile infants and 
+children 2-­24 months. Pediatrics. 2016;138(6):e20163026.
+American Urological Association Guideline Statement. Management and 
+screening of primary vesicoureteral reflux in children: AUA guideline; 
+2017. Available from: https://www.auanet.org/guidelines/vesicoureteral-­
+reflux-­guideline. Accessed May 18, 2020.
+Bonadio WA. Urine culturing technique in febrile infants. Pediatr Emerg Care. 
+1987;3:75–78.
+Centers for Disease Control and Prevention. Sexually transmitted diseases 
+treatment guidelines 2015. MMWR. 2015;64(3):1–135.
+Centers for Disease Control and Prevention. Youth risk behavior surveil­
+lance—United States, 2019. MMWR. 2019;69(SS-­01).
+Chaudhari PP, Monuteaux MC, Bachur RG. Microscopic bacteriuria detected 
+by automated urinalysis for the diagnosis of urinary tract infection. J 
+Pediatr. 2018;202:238–244.
+Emamghorashi F, Mahmoodi N, Tagarod Z, et al. Maternal urinary tract 
+infection as a risk factor for neonatal urinary tract infection. Iran J Kidney 
+Dis. 2012;6:178–180.
+Finnell SM, Carroll AE, Downs SM, et al. Technical report: diagnosis and man­
+agement of an initial urinary tract infection in febrile infants and young 
+children. Pediatrics. 2011;128(3):e749.
+Forster CS, Shaikh N, Hoberman A, et al. Uropathogens and pyuria in children 
+with neurogenic bladders. Pediatrics. 2018;141(5):e20173006.
+Gorelick MH, Shaw KN. Clinical decision rule to identify febrile young girls at 
+risk for urinary tract infection. Arch Pediatr Adolesc Med. 2000;154(4):386–
+390.
+Hoberman A, Greenfield SP, Mattoo TK, et al. Antimicrobial prophylaxis for 
+children with vesicoureteral reflux. N Engl J Med. 2014;370:2367–2376.
+Huttner A, Kowalczyk A, Turjeman A, et al. Effect of 5-­day nitrofurantoin 
+vs single-­dose fosfomycin on clinical resolution of uncomplicated lower 
+urinary tract infection in women. JAMA. 2018;319(17):1781–1789.
+Kanellopoulos TA, Salakos C, Spiliopoulou I, et al. First urinary tract infection 
+in neonates, infants, and young children: a comparative study. Pediatr 
+Nephrol. 2006;21:1131–1137.
+Karavanaki K, Koufadaki AM, Soldatou A, et al. Fever duration during treated 
+urinary tract infections and development of permanent renal lesions. Arch 
+Dis Child. 2019;104:466–470.
+Kodner CM, Thomas Gupton EK. Recurrent urinary tract infections in wom­
+en: diagnosis and management. Am Fam Physician. 2010;82:638–643.
+Kosmeri C, Kalaitzidis R, Siomou E. An update on renal scarring after uri­
+nary tract infection in children: what are the risk factors? J Pediatr Urol. 
+2019;15:598–603.
+Michel RS. Toilet training. Pediatr Rev. 1999;20(7):240–245.
+Millner R, Becknell B. Urinary tract infections. Pediatr Clin N Am. 2019;66:1–13.
+Nicolle LE, Gupta K, Bradley SF, et al. Clinical practice guideline for manage­
+ment of asymptomatic bacteriuria: 2019 update by the Infectious Diseases 
+Society of America. Clin Infec Dis. 2019;68(10):1611–1615.
+Oka H, Nagamori T, Yamamoto S, et al. Non-­invasive discrimination of 
+acute focal bacterial nephritis with pyelonephritis. Pediatr International. 
+2019;61:777–780.
+Roberts KB. Revised AAP guideline on UTI in febrile infants and young 
+children. Am Fam Physician. 2012;86(10):940–994.
+Shaikh N, Haralam MA, Kurs-­Lasky M, et al. Association of renal scarring 
+with number of febrile urinary tract infections in children. JAMA Pediatr. 
+2019;173(10):949–952.
+Shaikh N, Osio VA, Wessel CB, et al. Prevalence of asymptomatic bacteriuria in 
+children: a meta-­analysis. J Pediatr. 202;217:110–117.
+Shaikh N, Shope MF, Kurs-­Lasky M. Urine specific gravity and the accuracy of 
+urinalysis. Pediatrics. 2019;144(5):e20190467.
+St. Cyr S, Barbee L, Workowski KA, et al. Update to CDC’s Treatment Guide­
+lines for Gonococcal Infection, 2020. MMWR Morb Mortal Wkly Rep. 
+2020;69:1911–1916.
+Tullus K, Shaikh N. Urinary tract infections in children. Lancet. 
+2020;395:1659–1668.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

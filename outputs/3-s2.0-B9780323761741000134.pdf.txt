@@ -1,0 +1,2458 @@
+222
+Acute abdominal pain is usually a self-­limiting, benign condition that 
+is commonly caused by gastroenteritis, constipation, or a viral illness. 
+The challenge is to identify children who require immediate evaluation 
+for potentially life-­threatening conditions. Chronic abdominal pain is 
+also a common complaint in pediatric practices, as it makes up 2–4% 
+of pediatric visits. At least 20% of children seek attention for chronic 
+abdominal pain by the age of 15 years. Up to 28% of children complain 
+of abdominal pain at least once per week and only 2% seek medical 
+attention. The primary care physician, pediatrician, emergency physi­
+cian, and surgeon must be able to distinguish serious and potentially 
+life-­threatening diseases from more benign problems (Table 13.1). 
+Abdominal pain may be a single acute event (Tables 13.2 and 13.3), 
+a recurring acute problem (as in abdominal migraine), or a chronic 
+problem (Table 13.4). The differential diagnosis is lengthy, differs from 
+that in adults, and varies by age group. Although some disorders occur 
+throughout childhood (constipation, gastroenteritis, lower lobe pneu­
+monia, urinary tract infections), others are more common in a specific 
+age group (see Table 13.2).
+PATHOPHYSIOLOGY OF ABDOMINAL PAIN
+Abdominal pain results from stimulation of nociceptive receptors and 
+afferent sympathetic stretch receptors. The pain is classified as visceral 
+or parietal (somatic).
+Visceral Pain
+Visceral pain receptors are located on the serosa surface, in the mes­
+entery, within intestinal muscle, and within mucosa of hollow organs. 
+Pain is initiated when receptors are stimulated by excessive contrac­
+tion, stretching, tension, or ischemia of the walls of hollow viscera, 
+the capsule of a solid organ (liver, spleen, kidney), or the mesentery. 
+Increased contraction of the smooth muscle of hollow viscera may be 
+caused by infection, toxins (bacterial or chemical agents), ulceration, 
+inflammation, or ischemia. Increased hepatic capsule tension may be 
+secondary to passive congestion (heart failure, pericarditis) or inflam­
+mation (hepatitis).
+Afferent fibers involved in processing visceral pain are unmyelin­
+ated C-­fibers that enter the spinal cord bilaterally, resulting in dull, 
+poorly localized pain. Visceral pain is often of gradual onset, and 
+although localization may be imprecise, some general rules may be 
+helpful (Fig. 13.1).
+Parietal Pain
+Parietal pain arises from direct noxious (usually inflammation) stimu­
+lation of the contiguous parietal peritoneum (e.g., right lower quadrant 
+at the McBurney point, appendicitis) or the diaphragm (splenic rup­
+ture, subdiaphragmatic abscess). Parietal pain is transmitted through 
+A-­delta fibers to specific dorsal root ganglia and thus is usually sharp 
+and more intense. It can usually be exacerbated by movement or cough, 
+is accompanied by tenderness over the site of irritation, and lateralizes 
+to one of four quadrants. Because of the relative localization of the nox­
+ious stimulation to the underlying peritoneum and the more anatom­
+ically specific and unilateral innervation (peripheral-­nonautonomic 
+nerves) of the peritoneum, it is usually easier to identify the precise 
+anatomic location that is producing parietal pain (Fig. 13.2).
+ACUTE ABDOMINAL PAIN
+The clinician evaluating the child with abdominal pain of acute onset 
+must decide quickly whether the child has a “surgical abdomen” (a 
+serious medical problem necessitating treatment and admission to 
+the hospital) or a process that can be managed on an outpatient basis. 
+Even though surgical diagnoses are fewer than 10% of all causes of 
+abdominal pain in children, they can be life threatening if untreated. 
+Approximately 55% of children evaluated for acute abdominal pain 
+have a specific medical diagnosis; in another 45%, the cause is never 
+defined.
+History
+Obtaining an accurate history is critical for making an accurate diagno­
+sis but is dependent both on the ability and willingness of the child to 
+communicate and on the skill of the parent or guardian as an observer. 
+The person providing an infant’s care is the best source of information 
+about the current illness; the examining physician should try to elicit 
+as much information from the child as possible. Some children give a 
+good account of their illness when they are simply asked to describe 
+it; most children must be asked open-­ended, nonleading questions. To 
+determine the presence of anorexia, the physician must ask questions 
+about food intake, the time the food was eaten, and how that behav­
+ior compares to the child’s normal intake. The answers are often quite 
+different from the responses to the more general questions “Are you 
+hungry?” and “Have you eaten today?”
+During the history taking, the child should remain in the parent’s 
+arms, at play, or comfortably seated beside the parent, as appropriate 
+for the child’s age. While the history is obtained, there is no particular 
+reason that the child should be undressed. The clinician must resist the 
+urge to speed things up by examining the child while taking the history. 
+On occasion, when seeing a seriously ill child, the physician may need 
+to abbreviate the diagnostic process, but taking shortcuts may lead to 
+inaccurate conclusions.
+Essential Components of the History
+Time of onset of pain. Pain of fewer than 6 hours’ duration is 
+accompanied by nonspecific findings, and observation is often 
+needed to determine the nature of the illness. Pain lasting from 
+6 to 48 hours is more apt to have a cause that warrants medical 
+Abdominal Pain
+Adrian Miranda
+13
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+223
+CHAPTER 13  Abdominal Pain
+TABLE 13.1  Distinguishing Features of Abdominal Pain in Children
+Disease
+Onset
+Location
+Referral
+Quality
+Comments
+Functional: irritable bowel 
+syndrome
+Recurrent
+Periumbilical
+None
+Dull, crampy, inter­
+mittent; duration is 
+variable
+Caused by disorder of brain-­gut 
+interaction; diarrhea/constipation are 
+symptoms
+Gastroenteritis
+Acute or gradual
+Periumbilical, rectal 
+tenesmus
+None
+Crampy, dull, intermit­
+tent
+Emesis, fever, watery diarrhea or dysen­
+tery (mucus and blood)
+Esophageal reflux
+Recurrent, after 
+meals, bedtime
+Substernal
+Chest
+Burning
+Sour taste in mouth, Sandifer syndrome
+Duodenal ulcer
+Recurrent, before 
+meals, at night
+Epigastric
+Back
+Severe burning, 
+gnawing
+Relieved by food, milk, antacids; family 
+history
+Pancreatitis
+Acute
+Epigastric/hypogastric
+Back
+Constant, sharp, boring
+Nausea, emesis, marked tenderness
+Intestinal obstruction
+Acute or gradual
+Periumbilical–lower 
+abdomen
+Back
+Alternating cramping 
+(colic) and painless 
+periods
+Distention, obstipation, bilious emesis, 
+increased bowel sounds
+Appendicitis
+Acute or gradual 
+(1–2 days)
+Initially periumbilical or 
+epigastric; later localized 
+to the right lower quadrant
+Back or pelvis if 
+retrocecal
+Sharp, steady
+Nausea, emesis, local tenderness with/
+without fever; patient is motionless
+Meckel diverticulitis 
+(mimics appendicitis)
+Recurrent or 
+constant
+Generalized diffuse with 
+perforation: periumbilical–
+lower abdomen
+None
+Sharp
+Hematochezia: painless unless intussus­
+ception, diverticulitis, or perforation
+Inflammatory bowel 
+disease
+Recurrent
+Depends on site of involve­
+ment
+Dull cramping, 
+tenesmus
+Weight loss, with/without diarrhea or 
+hematochezia
+Intussusception
+Acute
+Periumbilical–lower 
+abdomen
+None
+Cramping, with painless 
+periods
+Guarded position with knees pulled up, 
+“currant jelly” stools
+Disaccharidase deficiency 
+(lactase or sucrase)
+Recurrent with 
+ingestion of 
+dairy or sugar
+Lower abdomen
+None
+Cramping
+Distention, gaseousness, diarrhea
+Eosinophilic esophagitis
+Recurrent
+Generalized or epigastric
+None
+Dull or cramping
+With or without dysphagia; history of 
+atopy
+Celiac disease
+Recurrent
+Generalized
+None
+Dull
+Constipation, poor weight gain
+Anterior cutaneous nerve 
+entrapment (ACNE)
+Acute
+Right lower abdominal wall
+Sharp pain, reproducible 
+with light palpation
+Nausea; condition more common in 
+athletes
+Abdominal migraine
+Acute
+Generalized
+None
+Dull or cramping
+Pain causes child to wake up in middle 
+of night; history of similar episodes in 
+the past that resolved abruptly
+Urolithiasis
+Acute, sudden
+Back
+Groin
+Severe colicky pain
+Hematuria; calcification on KUB x-­ray 
+study, CT scan
+Pyelonephritis
+Acute, sudden
+Back
+None
+Dull to sharp
+Fever, costochondral tenderness, 
+dysuria, pyuria, urinary frequency
+Cholecystitis/cholelithi­
+asis
+Acute
+Right upper quadrant
+Right shoulder, 
+scapula
+Severe colicky pain
+Hemolysis with/without jaundice
+KUB, kidney, ureter, and bladder.
+Data from Andreoli TE, Carpenter CJ, Plum F, et al. Cecil Essentials of Medicine. Philadelphia: WB Saunders; 1994:326; Behrman R, Kliegman R. 
+Nelson Essentials of Pediatrics. 2nd ed. Philadelphia: WB Saunders; 1994:396.
+TABLE 13.2  Causes of Acute Abdominal Pain by Age Group
+Neonate
+Necrotizing enterocolitis*
+Obstruction*
+Malrotation with volvulus*
+Idiopathic or drug (indomethacin, steroid)–induced intestinal perforation
+Infant (<2 yr)
+Intussusception*
+Incarcerated hernia*
+Urinary tract infection*
+Infant (<2 yr)—cont’d
+Gastroenteritis* †
+Intestinal obstruction
+Malrotation with volvulus
+Trauma (e.g., abuse)
+Pneumonitis (lower lobe)
+Hirschsprung disease
+Aerophagia
+Spontaneous bacterial peritonitis
+Gastroesophageal reflux
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+224
+SECTION 4   Gastrointestinal Disorders
+TABLE 13.3  Sudden Acute Excruciating 
+Abdominal Pain (Within Minutes)
+Intestinal Perforation
+Luminal Occlusion
+Peptic ulcer disease
+Appendicitis
+Diverticula
+Urolithiasis
+Cholelithiasis
+Strangulated hernia
+Vascular Occlusion
+Intraabdominal Hemorrhage
+Midgut volvulus
+Emboli
+Endocarditis
+Strangulated hernia
+Ovarian torsion
+Testicular torsion
+Ectopic pregnancy
+Ruptured aortic aneurysm
+Ruptured spleen
+TABLE 13.4  Causes of Chronic and 
+Recurrent Abdominal Pain by Age Group*
+Infant (<2 yr)
+Child (2–11 yr)
+Adolescent (12–19 yr)
+Colic†
+Inguinal hernia
+Malabsorption‡
+Milk allergy
+Hirschsprung disease
+Cystic fibrosis
+Rotational defects
+Malformations
+Esophagitis
+Constipation†
+Functional pain†
+Celiac disease
+Eosinophilic esophagitis
+Giardiasis†
+Peptic ulcer disease
+Toxins (lead)
+Pancreatitis
+Parasites
+Tumors/masses
+Diskitis/osteomyelitis
+Abdominal migraine
+Diabetes mellitus
+Volvulus
+Intraabdominal abscess§
+Choledochal cyst
+Irritable bowel syndrome†
+Psychogenic factors†
+Dysmenorrhea†
+Mittelschmerz†
+Abdominal wall pain
+Peptic ulcer disease
+Gallbladder disease
+Pelvic inflammatory disease
+Ovarian cysts
+Diabetes mellitus
+Inflammatory bowel disease
+Malignancy
+Giardiasis
+Serositis (e.g., SLE, familial 
+Mediterranean fever)
+Intraabdominal abscess§
+Hereditary angioedema
+*See also Table 13.6.
+†Most common diagnoses.
+‡Includes lactose and sorbitol (and other fruit juice polyalcohol) intolerance.
+§Hepatic, pancreatic, subphrenic, psoas, perinephric, renal, pelvic.
+SLE, systemic lupus erythematosus.
+intervention, although delays in presentation and diagnosis in 
+children are not unusual. Timing of the progression of symptoms 
+must be detailed.
+Location of pain. The location of the pain at its onset and any 
+change in location are very important (Table 13.5; see also Table 13.1). 
+Most intraperitoneal visceral pain is a response to the stimulation of 
+stretch fibers in the bowel wall and is mediated through the spinal 
+nerves. This pain is sensed as a deep, aching periumbilical pain. Pain 
+caused by inflammation of the parietal peritoneum (acute appendicitis) 
+is localized to the area of the inflamed organ or is diffuse if the 
+Child (2–11 yr)
+Appendicitis*
+Gastroenteritis* †
+Trauma*
+Henoch-­Schönlein purpura
+Abdominal migraine
+Hemolytic uremic syndrome
+Hepatitis
+Peptic ulcer disease
+Sickle cell anemia: vasoocclusive crisis
+Pancreatitis
+Pneumonia (lower lobe)
+Abdominal tumors
+Pyelonephritis/cystitis
+Testicular torsion
+Torsed cryptorchid testis
+Incarcerated hernia
+Typhlitis
+Pharyngitis/tonsillitis
+Meckel diverticulitis
+Superior mesenteric artery syndrome
+Mesenteric adenitis
+Spontaneous bacterial peritonitis
+DKA
+Streptococcal pharyngitis
+Idiopathic*
+Adolescent (12–19 yr)
+Appendicitis*
+Pelvic inflammatory disease*
+Trauma*
+Anterior cutaneous nerve entrapment syndrome
+Tubo-ovarian abscess
+Perihepatitis (Fitz-Hugh-Curtis syndrome)
+Labor (pregnancy)
+Hepatitis
+Pancreatitis (any cause)
+Ectopic pregnancy
+Crohn disease
+Ovarian cyst/mittelschmerz*
+Sickle cell crisis
+Peptic ulcer disease
+Omental torsion
+Psoas abscess or hemorrhage
+Mesenteric adenitis
+Urinary tract infection
+Muscle strain (exercise, coughing)
+DKA
+Testicular torsion
+Idiopathic*
+*Most commonly seen problem.
+†Gastroenteritis indicates intestinal infection with viral, bacterial, protozoal, or parasitic agents. Giardiasis and cryptosporidiosis are particularly com­
+mon and may produce acute or chronic pain.
+DKA, diabetic ketoacidosis.
+TABLE 13.2  Causes of Acute Abdominal Pain by Age Group—cont’d
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+225
+CHAPTER 13  Abdominal Pain
+1
+2
+3
+1
+2
+3
+Fig. 13.1  “Visceral” abdominal pain: deep, dull, diffuse. The three general localizations of midline “visceral” 
+abdominal pain are epigastric (1), periumbilical (2), and hypogastric (3). 1, Epigastric pain usually suggests 
+disease of the thorax, stomach, duodenum, pancreas, liver, or gallbladder. 2, Periumbilical pain usually implies 
+disease of the small intestine, cecum, or both. 3, Hypogastric pain usually implicates the large intestine, pelvic 
+organs, or urinary system. (From Reilly BM. Abdominal pain. In: Practical Strategies in Outpatient Medicine. 
+2nd ed. Philadelphia: WB Saunders; 1991:702.)
+1. Pleurisy
+2. Subdiaphragmatic
+abscess
+3. (Peri) hepatitis
+4. Cholecystitis
+5. Perforated duodenal
+ulcer
+1. Appendicitis
+2. Acute Crohn’s disease
+3. Ectopic pregnancy,
+tuboovarian abscess, or 
+ovarian torsion/ 
+hemorrhage
+4. Pelvic inflammatory 
+disease
+5. Cecal diverticulitis
+6. Colon cancer 
+(perforation)
+1. Sigmoid diverticulitis
+2. Pelvic inflammatory disease
+3. Ectopic pregnancy,
+tuboovarian abscess, or 
+ovarian torsion/hemorrhage
+4. Perforated sigmoid 
+carcinoma
+5. Perforated gastric ulcer
+6. Incarcerated inguinal hernia
+7. Leaking aortic aneurysm
+1. Pleurisy
+2. Splenic rupture or infarct
+3. Pancreatitis
+4. Diverticulitis
+5. Ectopic pregnancy,
+tuboovarian hemorrhage, 
+abscess, or rupture
+6. Appendicitis
+7. Ectopic pregnancy,
+tuboovarian hemorrhage,
+abscess, or rupture
+8. Perforated colon
+(cancer or diverticulum)
+6. Appendicitis
+7. Perforated colon
+(carcinoma)
+7. Acute pancreatitis 
+and/or pseudocyst
+8. Perforated duodenal
+ulcer
+9. Acute cholecystits
+10. Incarcerated inguinal 
+hernia
+11. Meckel’s diverticulitis
+12. Leaking aortic 
+aneurysm
+A
+B
+C
+D
+1
+1
+1
+1
+2
+2
+2
+2
+3
+3
+3
+3
+4
+4
+4
+4
+5
+5
+5
+5
+6
+6
+6
+6
+7
+7
+7
+7
+8
+8
+9
+10
+11
+12
+Fig. 13.2  Common and uncommon conditions that may cause “parietal” 
+pain and localized peritonitis in the various quadrants of the abdomen. A, 
+Right upper quadrant. B, Left upper quadrant. C, Right lower quadrant. D, 
+Left lower quadrant. (From Reilly BM. Abdominal pain. In: Practical Strate­
+gies in Outpatient Medicine. 2nd ed. Philadelphia: WB Saunders; 1991:703.)
+TABLE 13.5  Localization of Abdominal 
+Pain: Referred or Radiated
+REFERRED
+Extraabdominal Lesion Pain 
+Referred to Abdomen
+Intraabdominal 
+Extraperitoneal Origin
+Thorax
+Spine
+Hips
+Pelvis
+Pancreas
+Kidney
+Ureters
+Great vessels
+Pelvic organs
+Retroperitoneal space
+RADIATED
+Origin Is Primary Site with Simultaneously Perceived Pain 
+in a Secondary Site
+Cholecystitis radiates to subscapular area
+Splenic injury radiates to shoulder
+Ureteral colic (stones) radiates to testis, upper leg, or groin
+Pancreatitis radiates to back
+inflammation is extensive and involves more of the peritoneal cavity. 
+Pain resulting from obstruction of an organ is localized to the area 
+of that organ and radiates to the commonly innervated region (e.g., 
+stones in the ureter cause intense flank pain with radiation into the 
+groin). Pain that is migratory or fleeting in location is rarely suggestive 
+of a problem requiring operative intervention. Of note, many young 
+children may point to the umbilicus to localize their pain although the 
+pain may be elsewhere in the abdomen.
+Character of pain. The character of the pain is often difficult for 
+the child to describe. Some older children may be able to differentiate 
+cramping, aching, and burning sensations, but most children do not 
+do this well. Children can relate whether the pain comes and goes or 
+is continuous and unrelenting. The character of the pain is usually 
+unknown in the toddler and infant, although the parent can determine 
+whether the discomfort is constant, cramping, or intermittent. If the 
+child intermittently draws the legs up in a flexed position and cries, the 
+clinician can assume that intermittent pain is present.
+Child’s activity level. The effect of the pain on the child’s activities 
+is an important indicator of the severity of the underlying disease, 
+although it is important to note that children with chronic functional 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+226
+SECTION 4   Gastrointestinal Disorders
+abdominal pain may wake up from sleep and may miss favorite 
+activities due to pain and functional disability. Asking whether 
+motion worsens the pain helps differentiate peritoneal irritation or 
+musculoskeletal diseases from more nonspecific problems. The child 
+with acute appendicitis lies motionless, whereas the child with a renal 
+stone, gallstone, gastroenteritis, or pancreatitis may toss and turn and 
+writhe in discomfort. Localized, superficial, tender trigger points in 
+the abdominal wall may suggest abdominal wall (muscle, cutaneous) 
+pain. The localized pain results from entrapment of cutaneous terminal 
+branches of intercostal nerves (7th–12th) penetrating the rectus 
+abdominis muscle and can easily be missed without the proper history 
+or exam.
+Gastrointestinal symptoms. The 
+presence 
+or 
+absence 
+of 
+gastrointestinal symptoms may differentiate intestinal problems (acute 
+appendicitis, gastroenteritis, acute cholecystitis) from those arising 
+from other intraabdominal organs (urinary tract infection, ovarian 
+disease, abdominal wall pain).
+Anorexia and nausea are difficult symptoms for a small child to 
+describe. Often, if simply asked whether they are hungry, a child will 
+respond in the affirmative. Questions about recent food intake, normal 
+eating habits, the last normal meal, and the current desirability of a 
+favorite food often provide more accurate information about the pres­
+ence or absence of anorexia and nausea than do direct questions about 
+appetite or nausea.
+Vomiting associated with acute pain is usually related to intesti­
+nal disease, such as ileus, gastroenteritis, or acute problems of the 
+gastrointestinal tract that warrant surgery (see Chapter 15). However, 
+vomiting may occur as a response to severe nonintestinal pain such 
+as in testicular torsion; this vomiting is usually not recurring and is 
+not a prominent feature. Vomiting that occurs with acute pain in the 
+middle of the night can also be associated with abdominal migraine or 
+cyclic vomiting syndrome, particularly if the history suggests similar 
+episodes in the past that resolved spontaneously. Oftentimes, the child 
+has been misdiagnosed with multiple bouts of acute gastroenteritis 
+that occurred over the course of several weeks or months. Vomiting 
+may also be a sign of increased intracranial pressure, which may or 
+may not be accompanied by associated headache or vital sign changes 
+(bradycardia, hypertension, irregular respirations), a bulging fontanel, 
+an altered level of consciousness, or neurologic findings (third or sixth 
+cranial nerve palsies). Care should be taken to determine whether the 
+pain occurs before or after the onset of the vomiting. With acute surgi­
+cal lesions (those caused by intestinal obstruction, acute appendicitis, 
+acute cholecystitis), the pain usually occurs before or during the vom­
+iting. If the vomiting occurred before the onset of pain, the clinician 
+should suspect gastroenteritis or another nonspecific problem. The 
+appearance of the vomited material is also important. Feculent or dark-­
+green material suggests intestinal obstruction. Dark brown or frankly 
+bloody material indicates gastritis, prolapse gastropathy, or peptic ulcer 
+disease as the source of pain.
+Diarrhea occurs commonly in intestinal diseases of viral, parasitic, 
+or bacterial origin (see Chapter 14). The stool volume is large, and def­
+ecation is usually preceded by cramping pain that is alleviated by the 
+passage of the diarrheal stool. Diarrhea may also occur in the presence 
+of acute appendicitis or other pelvic infections (such as those result­
+ing from pelvic inflammatory disease, tubo-­ovarian abscess); in these 
+cases, diarrhea is caused by inflammation and irritation of an area of the 
+colon adjacent to an inflammatory mass. The diarrhea in this instance is 
+of small volume and is frequent. It is important to obtain an estimate of 
+the volume and consistency of stool. Diarrhea may also occur in lesions 
+that cause partial obstruction of the bowel, such as strictures, adhe­
+sions, and Hirschsprung disease. In this situation, the patient also has 
+some degree of abdominal distention. Constipation alone can cause 
+acute abdominal pain and may also indicate other gastrointestinal dys­
+function. Some constipated children present with a picture very similar 
+to that seen in acute appendicitis but have a large amount of stool filling 
+the entire colon. It is therefore important to obtain a good history of 
+not only bowel movement frequency but also consistency (see Chap­
+ter 19). The history and exam are sufficient to make the diagnosis of 
+constipation, and imaging is usually not necessary. Once the diagnosis 
+is made, appropriate treatment should start with a proper clean-­out 
+followed by maintenance therapy. The clinician should not be fooled by 
+the symptom of tenesmus, where the patient has a feeling of constantly 
+needing to pass stools despite having an empty colon. Tenesmus can be 
+seen in the setting of proctocolitis or inflammatory bowel disease and 
+is often misinterpreted by the patient as constipation.
+Associated symptoms. The presence of headache, sore throat, and 
+other generalized aches and pains moves the examiner away from 
+a diagnosis of an acute problem warranting surgery and strongly 
+suggests a viral flulike illness. Asking the child to point to the area 
+of worst pain sometimes results in the child pointing to the head or 
+throat. The examiner must be careful to remember the whole child 
+and not to focus on the abdomen just because that is the area of the 
+presenting complaint. Many systemic diseases directly or indirectly 
+produce abdominal pain and must be considered in the differential 
+diagnosis (Table 13.6).
+Family history and personal medical history. Viral gastroenteritis, 
+other viral syndromes, and food poisoning may affect the patient’s family 
+or schoolmates; it is important to ask about other family members, 
+classmates, or playmates who have recently had similar symptoms. 
+Certain systemic and inherited diseases, such as sickle cell anemia, 
+diabetes mellitus, celiac disease, spherocytosis, familial Mediterranean 
+fever, and porphyria, are associated with episodes of abdominal pain. 
+A strong family history of migraine headaches in a child with several 
+previous episodes of intense abdominal pain that have resolved, who 
+presents with a new “attack,” suggests the possibility of abdominal 
+migraine. The family must be asked about familial diseases and any 
+previous episodes of pain in the child. Previous intraabdominal 
+operations may result in adhesions that can cause pain, intestinal 
+obstruction, or both. A history of previous intraabdominal surgeries 
+suggests the possibility of bowel obstruction. Some specific medical 
+illnesses result in identifiable or predictable causes of abdominal pain 
+(Table 13.7).
+Physical Examination
+The physical examination begins when the clinician enters the room 
+and observes the child’s activity and demeanor while obtaining the his­
+tory. Does the child appear ill? Is the patient lethargic, rolling about in 
+discomfort, alert but lying very still, or bouncing all over the room? 
+Each of these activities conveys a message. The listless, lethargic child 
+may be in shock, dehydrated, and very ill. The child who is crying out 
+loudly and generally dominating the scene probably does not have a 
+problem that warrants surgery and may have mild pain that is self-­
+resolving. The child who seems only mildly ill but moves with great 
+care, if at all, is assumed to have an inflammatory process until it is 
+proven otherwise.
+Physical examination techniques and findings are age depen­
+dent. Younger children may have difficulty cooperating because of 
+fear or discomfort. Younger children may be more cooperative if 
+kept on their parent’s lap. Older children should be asked to get onto 
+the examination table with as little assistance as possible. If the child 
+does this easily, the probability of an acute intraabdominal inflam­
+matory process is quite low. Outer bulky clothing should be removed 
+to allow good exposure of the abdomen without the child having to 
+feel vulnerable.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+TABLE 13.7  Current or Past Aspects of Medical History That May Suggest Cause of Abdominal 
+Pain
+Historical Factor
+Cause of Pain
+Cystic fibrosis
+Pancreatitis, diabetes mellitus, meconium ileus equivalent, appendicitis, intussusception, biliary or urinary stones
+Sickle cell anemia
+Vasoocclusive crisis, cholelithiasis, hepatitis, hemolytic crisis, renal infarction, splenic sequestration
+Diabetes mellitus
+Pancreatitis, gastric neuropathy
+Cirrhosis, nephrotic syndrome
+Primary bacterial peritonitis
+SLE, other autoimmune disorders
+Vasculitis, pancreatitis, serositis, infarction
+Corticosteroids
+Gastric ulceration, pancreatitis
+NSAID
+Ileal perforation, gastric ulceration, renal-­papillary necrosis
+HIV
+Gastroenteritis, hepatitis, pancreatitis, esophagitis, lymphoma
+Mononucleosis
+Hepatitis, splenic rupture
+Henoch-­Schönlein purpura
+Mucosal hemorrhage, intussusception
+Crohn disease
+Small bowel stricture, intraabdominal or psoas abscess
+Hemolytic uremic syndrome
+Colitis
+Upper respiratory tract infection
+Pneumonia, mesenteric adenitis
+Pneumonia
+Mesenteric adenitis
+Prior surgery
+Abscess, adhesions, obstruction, stricture, pancreatitis, ectopic pregnancy
+Inborn errors of metabolism, hypertriglyceri­
+demia, hypercalcemia
+Pancreatitis
+Drugs (valproic acid)
+Pancreatitis
+Adolescent
+Ovarian torsion, sexually transmitted infection, ectopic pregnancy
+NSAID, nonsteroidal antiinflammatory drug; SLE, systemic lupus erythematosus.
+TABLE 13.6  Systemic Causes of Acute Abdominal Pain
+Metabolic, Hematologic
+Acute porphyria
+Hereditary angioedema
+Sickle cell crisis
+Hemolytic transfusion reaction
+Leukemia
+Acute hemolytic states
+Diabetic ketoacidosis
+Hemolytic uremic syndrome
+Addison disease
+Uremia
+Electrolyte disturbances
+Hyperparathyroidism-­hypercalcemia (urolithiasis, pancreatitis)
+Hypertriglyceridemia (pancreatitis)
+Fabry disease
+Musculoskeletal
+Arthritis
+Spondylodiskitis
+Thoracic nerve root dysfunction
+Trauma/child abuse
+Hernia
+Psoas abscess or hemorrhage
+Neurologic
+Abdominal epilepsy
+Abdominal migraine
+Brain tumor
+Multiple sclerosis
+Radiculopathy
+Neuropathy
+Herpes zoster
+Dysautonomia (Riley-­Day syndrome)
+Drugs, Toxins
+Heavy metal poisoning
+Lead
+Arsenic
+Mercury
+Mushroom ingestion
+Narcotic withdrawal
+Black widow spider bite
+Infectious, Inflammatory
+Acute rheumatic fever
+Infectious mononucleosis
+Rocky Mountain spotted fever
+Measles
+Mumps
+Pneumonia (lower lobe)
+Pericarditis
+Pharyngitis
+Epididymitis/orchitis
+Henoch-­Schönlein purpura
+Inflammatory bowel disease
+Hemolytic uremic syndrome
+Systemic lupus erythematosus
+Endocarditis
+Anaphylaxis
+Familial Mediterranean fever and other genetic fever syndromes
+Other
+Pneumothorax
+Pulmonary embolism
+Disorder of the brain-­gut interaction
+Aerophagia
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+228
+SECTION 4   Gastrointestinal Disorders
+The examination must be performed in a relaxed, friendly manner 
+with attention fully focused on the child. An accurate examination 
+depends on the child’s trust and cooperation. A conversation with the 
+child about family, friends, pets, school, sports, music, or other specific 
+interests of that child diverts attention (distraction) from the examina­
+tion and increases cooperation. The examiner should never surprise 
+the child and should never lie. The first surprise or untruth, such as 
+the statement “This won’t hurt,” destroys any trust that has developed.
+Vital signs are important as low-­grade fever (<38.3°C) is seen in 
+early appendicitis but is also common in many other diseases. The 
+absence of fever does not exclude the diagnosis of acute appendicitis 
+or other problems necessitating surgical intervention. Tachycardia may 
+reflect anxiety or may be caused by dehydration, shock, fever, or pain. 
+Tachypnea suggests a metabolic acidosis (shock, diabetes mellitus, or 
+toxic ingestion), an intrapulmonary process, sepsis, or fever. Blood 
+pressure may demonstrate a widened pulse pressure as seen in sepsis. 
+The vital signs must be viewed in context but may be the first clue to a 
+serious illness.
+Examination of the head, neck, chest, and extremities may precede 
+the abdominal examination. In children too young to describe the 
+location of the pain, a careful examination of the ears is important, but 
+can be performed at the end of the examination. Streptococcal pharyn­
+gitis or mononucleosis is sometimes accompanied by severe abdominal 
+pain. Affected children will present with fever, appear ill, and have ten­
+der cervical adenopathy and an obvious tonsillitis, pharyngitis, or both.
+Decreased breath sounds and/or rales in a lower-­lung lobe may 
+indicate pneumonia. Children with lower lobe bacterial pneumonia 
+may present with severe abdominal pain, high fever, tachypnea, cough, 
+and, on occasion, vomiting. This presentation could mimic that of a 
+child with peritonitis; however, the abdominal findings are not consis­
+tent with the diagnosis of an acute intraabdominal process, and exam­
+ination of the lungs should demonstrate the pneumonia.
+The abdominal examination should be performed systematically 
+and with the child as comfortable as possible. Before the examiner 
+actually touches the child’s abdomen, they should observe it, looking 
+for distention, inguinal masses, peristaltic waves, and scars from old 
+injuries or surgical incisions. Inguinal and femoral hernias are often 
+overlooked but a common cause of abdominal pain. Next, the child 
+should be asked to indicate with one finger the point of greatest pain. 
+The point may be a vague circle in the area of the umbilicus, but if the 
+child specifies a defined spot, the examiner should avoid that area until 
+the remainder of the abdomen has been palpated.
+Gentleness is essential to successful palpation of the abdomen. The 
+examiner must warm both hands and the stethoscope before touch­
+ing the patient. The stethoscope is an excellent tool for palpation of 
+the abdomen. Auscultation of the chest can simply be extended to the 
+abdomen, with the examiner assuring the child that the stethoscope 
+did not hurt on the chest. The initial examination of the abdomen with 
+the stethoscope should be just for listening, with no pressure exerted, 
+so that no discomfort results.
+Bowel sounds are usually nonspecific in most children with abdom­
+inal pain; however, in certain processes, they are helpful. High-­pitched 
+tinkling sounds or rushes are usually associated with an obstructive pro­
+cess. Bowel sounds in gastroenteritis are ordinarily very active and loud 
+but may be normal. Acute appendicitis is accompanied by normal sounds 
+in the early stages, but bowel sounds disappear with diffuse peritonitis.
+Watching the child’s reaction to the auscultation may be a valuable 
+clue to areas of true tenderness. As the examiner continues to listen 
+over the entire anterior abdomen, the pressure on the head of the 
+stethoscope increases until the examiner is, in fact, palpating with the 
+stethoscope. This often is a much more reliable method of eliciting true 
+tenderness and guarding than is the palpating hand.
+Palpation is begun as far away from the area of pain identified by 
+the child as possible. The examiner’s hand should be softly placed flat 
+(in parallel) on the child’s abdomen. Directing fingers into the abdo­
+men (perpendicular) as a method of palpation is unnecessary and 
+often frightening. The clinician should watch the child’s face, not the 
+abdomen, during the palpation. Some children are extremely stoic, and 
+only the slightest grimace betrays the discomfort they are experienc­
+ing. Attention is paid during palpation to the presence of masses. The 
+examiner should focus on finding the location of pain and the pres­
+ence or absence of guarding or rebound tenderness. Guarding refers to 
+the voluntary or involuntary (often referred to as rigidity) contraction 
+of the abdominal musculature. Fear of pain, rather than actual pain 
+elicited by palpation, is the most common cause for voluntary guard­
+ing, while involuntary guarding results from reflexive spasms of the 
+abdominal musculature in the setting of peritoneal irritation. A rigid 
+or boardlike abdomen is the result of involuntary guarding and cannot 
+be overcome by distraction. Voluntary guarding usually starts before 
+the palpation starts and can be overcome by asking the child to take 
+deep breaths, flexing the knees and hips, or by using other distractions 
+appropriate to the child’s age and temperament. When encountering 
+tenderness, the examiner should palpate only deeply enough to elicit 
+the complaint of pain and some guarding. There is no need to bring on 
+unnecessary pain by deep palpation.
+Rebound pain is an indicator of peritoneal irritation and is elicited 
+during examination of the anterior abdominal wall. It occurs when an 
+inflamed focus within the abdomen is compressed and the pressure is 
+then quickly released, resulting in sudden and sometimes severe pain. 
+The standard method to elicit rebound pain is to palpate deeply, then 
+suddenly remove the palpating hand. Although this sign aids in the 
+determination of the presence of an intraperitoneal inflammatory pro­
+cess, it is not necessary to cause extra discomfort or stress, particularly in 
+younger children; it is not recommended. Peritoneal irritation can also 
+be detected by maneuvers such as asking the child to jump or cough or 
+tapping the feet while observing for facial signs of discomfort.
+Other areas of inflammation can be detected by maneuvers that 
+move muscles adjacent to the inflammation. A positive Carnett test 
+occurs when pain is unchanged or increased when the supine patient 
+tenses the abdominal wall by lifting the head and shoulders off the 
+examining table. Carnett sign is a sensitive tool to discriminate abdom­
+inal wall pain from visceral pain. The psoas sign occurs when elevation 
+and flexion of the leg against the pressure of the examiner’s hand (or 
+passive extension of the leg toward the back) causes pain. An inflam­
+matory mass, such as an inflamed appendix, a psoas abscess, or a per­
+inephric abscess, in contact with the psoas muscle is the cause of this 
+pain. Likewise, the obturator sign is pain with flexion of the thigh at 
+right angles to the trunk and external rotation of the same leg while the 
+patient is in the supine position. This sign results from contact of an 
+inflammatory mass with the obturator muscle (Fig. 13.3).
+The flanks and back must be inspected and palpated. Percussion 
+at the costovertebral angle elicits pain in the presence of renal or 
+perinephric inflammation. Vertebral body and disk disease may be 
+detected by palpitation of the spine. The perineum and genitalia must 
+be inspected and palpated as necessary. External examination of the 
+genitalia in prepubertal girls is adequate. If a more thorough exam­
+ination or an intravaginal examination is needed in prepubertal girls, 
+it should generally be performed with the patient under anesthesia. In 
+postpubertal girls, a pelvic examination may be valuable, regardless of 
+the patient’s sexual activity history.
+The need for a rectal examination is controversial. If a diagno­
+sis is already obvious, the rectal examination may be deferred. If an 
+imaging study or colonoscopy is planned, a rectal examination may be 
+unnecessary. If constipation is suspected as the cause for pain, rectal 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+229
+CHAPTER 13  Abdominal Pain
+examination should be performed but should be the last part of the 
+physical examination and should be performed only once. The child 
+should be relaxed and should be given an honest explanation of the 
+procedure. The examiner should use plenty of lubricant and should 
+perform the rectal examination very gently. If the child strongly resists, 
+it is pointless to perform a forceful examination. This is when the rectal 
+examination may truly be deferred. Lateralizing pain, masses, and the 
+presence and character of stool in the rectum are assessed. The stool 
+should always be tested for blood except in children with gastrostomy 
+or nasogastric tubes since it will invariably be positive and can be 
+misleading.
+Clues to an organic and at times more serious cause of abdominal 
+pain are noted in Table 13.8. Furthermore, peritoneal signs, which sug­
+gest a “surgical abdomen,” most often caused by peritonitis are noted 
+in Table 13.9. In addition, the presence of shock suggests other serious 
+diseases (see Table 13.9).
+Laboratory Evaluation
+After a careful history is obtained and thorough physical examination 
+is performed, the diagnosis or a short list of possible diagnoses should 
+be apparent. Laboratory data are supportive in confirming or ruling 
+out suspected disease.
+Complete Blood Cell Count
+The hemoglobin and hematocrit levels can reveal anemia caused by 
+acute or chronic blood loss (as with ulcers, inflammatory bowel disease, 
+Meckel diverticula) or the anemia of chronic disease (as with systemic 
+lupus erythematosus, inflammatory bowel disease). The white blood 
+cell count indicates the possibility of infection or blood dyscrasias. In 
+uncomplicated acute appendicitis, the white blood cell count ranges 
+from normal values to as high as 16,000. A very high white blood cell 
+count (>18,000/mm3) indicates intestinal gangrene, perforation, peri­
+tonitis, or abscess formation, but this count may also be high in acute 
+bacterial gastroenteritis, streptococcal diseases, pyelonephritis, pelvic 
+inflammatory disease, hemolytic uremic syndrome, and pneumonia.
+The differential cell count may also be helpful. In studies of children 
+with acute appendicitis, 95% had neutrophilia, but only half had leuko­
+cytosis in the first 24 hours. If the child’s history and physical examina­
+tion findings are highly suggestive of appendicitis, a normal or mildly 
+elevated white blood cell count should not dissuade the clinician from 
+that diagnosis. However, a striking lymphocytosis may suggest gastro­
+enteritis or a systemic illness. Overreliance on the CBC alone can cause 
+delay in reaching the correct diagnosis.
+Urinalysis
+The UA is an important and useful laboratory test in the evaluation of 
+abdominal pain. The presence of ketones and a high specific gravity sug­
+gest poor food intake and dehydration. Large amounts of glucose and 
+ketones in the urine indicate diabetic ketoacidosis. A pregnancy test 
+should be performed on postpubertal girls, regardless of sexual activity 
+history. The presence of both white cells and bacteria indicates a urinary 
+tract infection; either finding alone may not be sufficient for that diag­
+nosis (see Chapter 21). White blood cells may be present in the urine 
+from irritation caused by an inflammatory mass adjacent to the bladder 
+or ureter; hematuria may be seen with nephrolithiasis (see Chapter 23).
+A
+B
+Fig. 13.3  A, The obturator sign. Pain occurs when the hip is flexed and 
+rotated. Internal rotation is most likely to cause pain as a result of pel­
+vic or retroperitoneal disease or both. B, The psoas sign. The test may 
+be performed passively or actively. The hip is passively extended, thus 
+stretching the psoas muscle (solid arrow). The hip is actively flexed usu­
+ally against resistance, thus tensing the psoas muscle (dotted arrow). 
+(From Reilly BM. Abdominal pain. In: Practical Strategies in Outpatient 
+Medicine. 2nd ed. Philadelphia: WB Saunders; 1991:714.)
+TABLE 13.8  Red Flags and Clues to an 
+Organic Cause of Abdominal Pain
+Age <4 yr old
+Localized pain in nonperiumbilical site
+Referred pain
+Sudden onset of excruciating pain
+Crescendo nature of pain
+Sudden worsening of pain
+Fever (high fever >39.4°C suggests pneumonia, pyelonephritis, dysentery, 
+cholangitis, more than perforation or abscess)
+Jaundice
+Distention*
+Dysuria
+Emesis (especially bilious)
+Anorexia
+Weight loss
+Positive family history (metabolic disorders, peptic ulcer disease)†
+Change in urine or stool color (blood, acholic) or frequency
+Vaginal discharge
+Menstrual abnormalities (amenorrhea)
+Sexual activity
+Delayed sexual development (chronic pain)
+Anemia
+Elevated erythrocyte sedimentation rate
+Elevated stool calprotectin
+Specific physical findings (hepatomegaly, splenomegaly, absent bowel 
+sounds, adnexal tenderness, palpable mass, involuntary guarding, focal or 
+diffuse tenderness, positive rectal examination results, perianal disease, 
+joint swelling, rashes)
+*Consider 5 Fs: fat, feces, flatus (aerophagia, obstruction), fluid (asci­
+tes, hydronephrosis, cysts), fetus (pregnancy or fetal-­like abnormal 
+growth [e.g., tumors]).
+†Family history is also positive for chronic pain syndromes (constipation, 
+irritable bowel, dysmenorrhea, and lactase or sucrase deficiency).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+230
+SECTION 4   Gastrointestinal Disorders
+Other Laboratory Tests
+Other laboratory tests, such as measurement of serum electrolytes, 
+amylase, and lipase; liver function studies including γ-­glutamyl trans­
+peptidase (GGT); inflammatory markers (CRP or sedimentation rate); 
+blood cultures; stool cultures; and viral tests should be ordered on the 
+basis of the differential diagnosis after a thorough history and physical 
+examination are completed.
+Imaging Evaluation
+Multitudes of imaging studies are available; none should be obtained 
+until the patient has been examined.
+Plain Radiography
+Plain radiographs, especially kidney-­ureter-­bladder (KUB) films, with 
+or without upright lateral views of the chest and abdomen, are rou­
+tinely obtained in most emergency departments as part of the evalua­
+tion of acute abdominal pain. The chest film helps assess the presence 
+of a lower lobe pneumonia, which often causes severe abdominal pain, 
+especially in small children. However, early in the disease, the phys­
+ical examination may be more helpful. Often, if the KUB-­abdominal 
+radiographic study includes the lower lobes, the chest radiographic 
+study can be deferred and performed only if the KUB demonstrates 
+lung abnormalities.
+Only approximately 10% of abdominal radiographic studies are 
+positive when they are obtained as part of the routine work-­up for 
+abdominal pain. Of those that are limited to patients with serious 
+illness, 46% of the results are positive. Plain abdominal radiographs 
+may be helpful to confirm the presence of intestinal obstruction, pneu­
+matosis intestinalis, renal or biliary tract calculi, calcified fecaliths, or 
+intestinal perforation (pneumoperitoneum–free air). These studies 
+detect bowel distention (air-­fluid levels on upright views), calcification, 
+free air, and large masses but are not helpful in detecting most other 
+diseases. If free air or intestinal obstruction is suspected, the abdominal 
+films must include a flat and upright or decubitus view of the abdomen 
+to demonstrate the air-­fluid interface.
+In acute appendicitis, a calcified appendicolith (appendiceal 
+fecalith) may be seen (Fig. 13.4). This finding automatically makes 
+the diagnosis of appendiceal dysfunction and confirms the need for 
+appendectomy. The absence of an appendicolith on KUB does not 
+rule out appendicitis. More often, the noncalcified appendicolith may 
+obstruct the appendix; ultrasonographic or CT imaging is necessary 
+to visualize this lesion. If an inflammatory mass lies near the iliopsoas 
+muscle, mild lumbar scoliosis may be present as a result of spasm of 
+the muscle.
+Radiographic studies are not always necessary. If the diagnosis is 
+already obvious, specific therapy is indicated. In some situations, other 
+types of imaging studies are more useful, and plain radiographs are not 
+prerequisite.
+Ultrasonography
+Ultrasonographic examination is ideal for children. It is usually pain­
+less, is readily available, emits no radiation, requires no intravenous 
+contrast material, and can be performed without sedation. Unfor­
+tunately, it is operator dependent and can be difficult to perform in 
+the setting of extreme pain or lack of cooperation. Lower abdominal 
+gynecologic pain in females, especially in adolescent females, can 
+be confused with appendicitis. Pelvic ultrasonography demonstrates 
+pathologic processes of the ovaries and fallopian tubes, the size of 
+the uterus, and the presence of free fluid in the pelvis. An enlarged, 
+TABLE 13.9  Peritoneal Signs of a “Surgical 
+Abdomen”
+Severe pain
+Patient’s eyes anxiously open during examiner’s palpation
+Patient is motionless
+Absent bowel sounds
+Extreme tenderness to palpation
+Voluntary guarding with gentle palpation
+Involuntary guarding: boardlike rigidity
+Rebound tenderness (do not intentionally elicit)
+Pain with movement or cough
+If Shock Is Present, Consider:
+Severe pancreatitis
+Trauma: intraabdominal hemorrhage
+Ruptured spleen (trauma, mononucleosis)
+Spontaneous bacterial peritonitis
+Intestinal perforation (appendicitis, ulcer, inflammatory bowel disease, 
+Clostridioides difficile colitis, penetrating trauma)
+Intussusception
+Urosepsis
+Associated severe gastrointestinal bleeding
+Rupture of fallopian tube from ectopic pregnancy
+Pulmonary embolism
+Aortic dissection
+Volvulus
+Child abuse
+Addisonian crisis (adrenal insufficiency)
+Fig. 13.4  The patient described the gradual onset of anorexia, nausea, 
+and vague periumbilical abdominal pain. Twenty-­four hours later, the 
+pain was much more severe in the right lower quadrant, where localized 
+peritoneal signs were apparent. The radiographic film of the abdomen 
+reveals a huge calcified density in the right lower quadrant; it proved to 
+be an appendiceal fecalith at surgery. (From Reilly BM. Abdominal pain. 
+In: Practical Strategies in Outpatient Medicine. 2nd ed. Philadelphia: 
+WB Saunders; 1991:16.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+231
+CHAPTER 13  Abdominal Pain
+inflamed appendix can also be visualized (Fig. 13.5). Any female with 
+abdominal pain in whom the diagnosis is not obvious should undergo 
+an ultrasonographic examination.
+Gallstones, a dilated thick-­walled gallbladder, or a dilated common 
+bile duct can be visualized by ultrasonography; all three support the 
+diagnosis of biliary disease. Edema and enlargement of the pancreas are 
+seen in acute pancreatitis. Ultrasonography also details the character of 
+abdominal masses, differentiating cystic from solid masses, and can be 
+helpful in demonstrating free fluid or abscesses. The anatomy of the 
+urinary tract is well defined by ultrasonography; nephromegaly may be 
+seen with pyelonephritis. The choice of ultrasonography versus CT is 
+dependent on the expertise of the regional imaging center. Abdominal 
+ultrasonography is an excellent screening method for detecting intus­
+susception and midgut volvulus. If an ileus or intestinal obstruction is 
+present, interpretation of the ultrasonographic examination becomes 
+difficult because of the multiple air-­filled loops of intestine.
+Contrast Studies
+In some situations, certain bowel lesions are best delineated with a contrast 
+medium placed in the bowel, either in an upper gastrointestinal series or 
+by enema. If a colonic obstruction is suspected, such as in Hirschsprung 
+disease, the appropriate contrast material is a barium enema. However, the 
+sensitivity and specificity of contrast enema for detection of Hirschsprung 
+disease are approximately 70% and 83%, respectively. If the suspicion is 
+high for the disease, the patient should be referred for further evaluation 
+with either suction rectal biopsy or anorectal manometry. If the presence 
+of gastrointestinal perforation is possible, regardless of the etiology, a 
+water-­soluble agent should be used instead of barium.
+Malrotation of the midgut with a volvulus in infants and older 
+children is often seen on ultrasonography but can be diagnosed by an 
+upper gastrointestinal study. In the infant who presents with an acute 
+abdomen and bilious vomiting and in the older child who manifests 
+chronic abdominal pain and intermittent vomiting, the oral barium 
+contrast study is highly reliable to rule out causes of obstruction such 
+as intestinal malrotation with midgut volvulus or other causes for ana­
+tomic obstruction (duodenal web, annular pancreas, superior mesen­
+teric artery syndrome).
+Intussusception is both diagnosed and treated by means of air or 
+barium enema; however, initial diagnosis is possible with ultrasonogra­
+phy. The sudden onset of severe, diffuse pain, along with the suggestion 
+of a soft, nontender mass in the right upper quadrant of the abdomen 
+in a previously well young child, constitutes the classical picture of 
+intussusception. Evidence of blood in the stool is usually a late finding 
+and should not be expected early in the disease process. The plain films 
+may be nonspecific, may show evidence of intestinal obstruction, or 
+may show a mass in the right upper quadrant. A high index of sus­
+picion is all that is needed to justify the air or barium enema study. 
+Sedation with morphine is helpful for comforting the child and for 
+performing a useful study. The air or barium enema often completely 
+reduces the intussusception, eliminating the need for surgical interven­
+tion. This study should always be performed in consultation with a sur­
+geon and with the child prepared to go to the operating room in case of 
+failure of reduction or perforation of the colon. Successful hydrostatic 
+reduction of the intussusception is accomplished in 50–75% of cases. 
+Contraindications for reduction enemas include perforation and signs 
+of peritonitis. It should be kept in mind that patients beyond the usual 
+age range (3 months–6 years) for intussusception often have an ana­
+tomic lead point (polyp, Meckel diverticulum, lymphoma); successful 
+hydrostatic reduction may not be possible in these situations. In the 
+presence of pneumoperitoneum, peritonitis, or unsuccessful hydro­
+static reduction, surgical intervention is indicated. Recurrences occur 
+in 5% of patients treated with reduction enemas.
+A mass from appendicitis that is pressing against the cecum or 
+thickening of the cecal wall may be seen on the barium enema study, 
+but ultrasonography and CT scanning with oral contrast media are 
+much more reliable.
+Computed Tomography
+While ultrasound is an important diagnostic tool in the evaluation 
+of acute abdominal pain in children, abdominal CT scan may also be 
+valuable. Clinicians are reluctant to perform a CT scan due to the risk 
+of radiation, especially in young children who are particularly sensitive 
+to the adverse effects of radiation exposure. CT is very useful in the 
+initial evaluation of abdominal trauma and in the determination of the 
+extent of abdominal masses. Intravenous and gastrointestinal contrast 
+must be used in CT of the abdomen to obtain the most information, 
+especially if inflammatory bowel disease is suspected. CT is usually 
+not helpful in the evaluation of chronic abdominal pain in children, 
+A
+B
+Fig. 13.5  A transverse scan of the pelvis shows free fluid pooling behind the bladder (A). The longitudinal 
+scan of the right lower quadrant (B) shows a shadowing appendicolith (curved arrow) in a thick-­walled appen­
+dix, typical of appendicitis. Straight arrows outline the appendiceal tip, which looks ready to perforate. Free 
+fluid in the pelvis always increases the suspicion of appendicitis. (From Teele R, Share J. Appendicitis and 
+other causes of intraabdominal inflammation. In: Ultrasonography of Infants and Children. Philadelphia: WB 
+Saunders; 1991:349.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+232
+SECTION 4   Gastrointestinal Disorders
+and while it may be useful to evaluate a chronic, undefined inflamma­
+tory process, MRI has superior accuracy over CT with no radiation 
+risk. MRI is not always easily accessible on an emergency basis and the 
+examination can be time consuming.
+Management
+The immediate concern in management is the differentiation of serious 
+surgical and medical problems from the more common but less serious 
+causes of acute abdominal pain. A guide to the treatment of the child 
+with acute-­onset abdominal pain is noted in Figure 13.6. A mild, non­
+specific illness may be treated on an outpatient basis, with follow-­up 
+by telephone or in the office. However, the child with abdominal pain 
+who appears ill without a specific diagnosis may warrant evaluation 
+by a pediatric surgeon. If the diagnosis is still not apparent, the child 
+should be admitted for active observation, which includes no oral food 
+or liquid, appropriate intravenous fluids, hourly vital signs, and fre­
+quent examinations. If the abdominal examination is difficult because 
+of poor cooperation, or severe pain, analgesia is appropriate. In the case 
+of appendicitis, morphine therapy does not reduce the diagnostic accu­
+racy by an experienced clinician. Analgesics may permit an adequate 
+abdominal examination but do not eliminate the tenderness caused by 
+an inflammatory process. The examination should be repeated every 
+2–3 hours. About 10% of children admitted for observation go on to 
+show obvious signs of a process warranting surgery in the first few 
+hours. In approximately 50% of the observed children, a specific non­
+surgical diagnosis becomes apparent.
+SPECIFIC CAUSES OF ACUTE ABDOMINAL PAIN
+Appendicitis
+Appendicitis is an acute inflammation of the appendix that may be ini­
+tiated by luminal obstruction by a fecalith, lymphoid hyperplasia (sec­
+ondary to viral infections), inflammation, or, in rare cases, parasites 
+(pinworm, Ascaris species). Obstruction with ongoing distal secretion 
+of mucus causes distention of the appendix, increased luminal pressure, 
+and subsequent arterial obstruction and ischemia. Mucosal ulceration, 
+fibropurulent serosal exudates, and bacterial infection lead to gangrene 
+from vascular obstruction with subsequent perforation. On occasion, 
+the greater omentum may seal over a ruptured appendix, producing a 
+right lower quadrant mass and periappendiceal abscess.
+Appendicitis may be simple (focal inflammation, no serosal exu­
+date), suppurative (obstructed, inflamed, edematous, increased local 
+peritoneal fluid with omental and mesenteric containment, or walled 
+off), gangrenous (similar to suppurative, plus gray-­green or red-­black 
+areas of gangrene, with or without microperforations, and purulent 
+peritoneal fluid), ruptured (gross perforation, usually on antimesen­
+teric side; peritonitis present), or abscessed (development of pus from 
+rupture into right ileal fossa, lateral to cecum or retrocecal, subcecal, or 
+pelvic). The bacteriologic components of appendicitis include normal 
+intestinal flora, such as enterococci, Escherichia coli, Pseudomonas spe­
+cies, Klebsiella species, and anaerobic bacteria, such as Clostridium and 
+Bacteroides species.
+Appendicitis affects approximately 60,000 children each year in the 
+United States; it primarily affects adolescents and young adults but may 
+develop at any age, even in neonates. The disease is particularly severe 
+in very young children, often because of a delay in diagnosis with 
+subsequent perforation. Appendicitis in young children is difficult to 
+diagnose because of atypical manifestations and the clinician’s inability 
+to obtain an accurate history. The thinness of the appendix and the 
+paucity of the omentum in younger children may result in rapid, unim­
+peded spread of intraabdominal infection after rupture.
+Diagnosis
+An accurate and early diagnosis is critical for avoiding perforation and 
+peritonitis and for excluding other causes of abdominal pain. Appendici­
+tis usually manifests initially with a gradual onset of periumbilical (occa­
+sionally epigastric) pain, which may begin as a dull ache but becomes 
+constant (or, less often, colicky) and of mild to moderate intensity. This 
+is then followed by anorexia, nausea, and sometimes emesis. Emesis 
+preceding the pain is more typical of gastroenteritis. On occasion, an 
+inflamed appendix irritates the colon, producing diarrhea. Furthermore, 
+the appendix may irritate the bladder, causing urinary frequency and 
+CHILD WITH ACUTE ABDOMINAL PAIN
+Nonspecific findings
+No tenderness
+No distention
+With or without fever
+With or without vomiting/diarrhea
+Nonabdominal disease
+(See Table 13.6)
+Treat appropriately
+for the specific
+disease
+“Acute Abdomen”
+Point tenderness
+Diarrhea with distention
+Bilious vomiting
+Peritoneal signs
+Bloody stools
+Palpable mass
+Uncertain
+Child ill, but
+findings do not
+fit specific
+diagnosis
+Surgical
+consultation
+Admit and
+observe
+NPO, IV fluid
+Frequent exams
+Resolves in
+24 hr
+Home
+Not better in
+24 hr
+Further
+evaluation
+Worsens
+Reconsult
+surgeon
+Immediate surgical
+consultation
+Surgeon to treat
+appropriately
+Not dehydrated,
+retaining oral
+fluids well
+Home
+Clear liquids
+Return p.r.n.
+Dehydrated
+Cannot retain
+oral fluids
+IV hydration 12–24 hr
+Bowel rest
+Home when better
+Probable
+viral illness
+Fig. 13.6  Algorithm for evaluating acute abdominal pain. IV, intravenous; NPO, nil per os (no oral intake); 
+p.r.n., as needed.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+233
+CHAPTER 13  Abdominal Pain
+dysuria. Pain may transiently stop, but as local peritonitis develops, the 
+pain will continue but shift to the right lower quadrant. The shifting of 
+pain from the periumbilical area to the right lower quadrant area may 
+take 12–36 hours but usually occurs in 2–8 hours and may not yet be 
+evident in an acute onset of <4–6 hours. McBurney point corresponds 
+to the location of the base of the appendix and is found by placing the 
+little finger of one hand in the umbilicus and the thumb on the anterior 
+superior ileal spine. The index finger, if extended perpendicularly to the 
+abdominal wall, identifies McBurney point. Unfortunately, the appen­
+dix is not always in its classic position; thus, appendicitis may produce 
+pain in the pelvis, in the retrocecal area (back or flank pain, psoas mus­
+cle spasm with limp), or elsewhere (Fig. 13.7). With these locations, the 
+psoas or obturator sign may be positive (see Fig. 13.3).
+Patients with unperforated appendicitis may present with a low-­
+grade fever (<38.5°C) and display very characteristic behaviors. They 
+can be anxious while watching where examiners place their hands, be 
+motionless, walk slowly, get on the examining table with difficulty, or 
+exhibit a nondistended but tender abdomen with voluntary guarding, 
+reduced bowel sounds, and point tenderness in any area overlying the 
+appendix. Rectal examination may reveal right-­sided or diffuse tender­
+ness and a mass.
+Perforation or extensive gangrene should be suspected in the pres­
+ence of progression for more than 36–48 hours; high fever; diffuse 
+abdominal pain and tenderness; a rigid, boardlike abdomen; leuko­
+cytosis; a right lower quadrant mass; and other signs of generalized 
+peritonitis (see Table 13.9).
+Laboratory and Radiographic Testing
+Ultrasonography has been of benefit in the diagnosis of appendici­
+tis and in excluding other important disease processes (Table 13.10). 
+Helpful ultrasonographic features suggestive of appendicitis include 
+a noncompressible appendix, an inability to visualize the appendix 
+when ruptured, the presence of periappendiceal fluid, or the pres­
+ence of an appendicolith (Figs. 13.8 and 13.9). Ultrasonography helps 
+define other disease processes, such as mesenteric adenitis (Fig. 13.10) 
+and gynecologic processes. These conditions must be considered in 
+all female patients. Ectopic pregnancy is a particularly serious condi­
+tion that must not be missed (Fig. 13.11). Gastroenteritis is one of the 
+more common conditions to be considered in the differential diagnosis 
+(Table 13.11).
+Treatment
+Appendicitis is treated mainly by surgical appendectomy and ligation 
+of the stump by open or more often laparoscopic methods, although 
+there are advantages to medical-­only management. If an abscess is 
+present in the right lower quadrant and the patient demonstrates few 
+signs of toxicity, elective nonurgent appendectomy may be delayed to 
+permit preoperative rehydration and broad-­spectrum antibiotic ther­
+apy. If the appendix is not perforated and no fecalith is present, some 
+centers treat with only broad-­spectrum antibiotics. In operative appen­
+dicitis, parenteral antibiotics are given before surgery and are contin­
+ued postoperatively only in the presence of frank contamination, such 
+as gangrenous or perforated appendicitis. The duration of antibiotic 
+therapy is determined by the presence of infectious complications. If 
+the appendix appears normal, other intraabdominal sources of pain 
+should be sought during the surgery.
+Complications of appendicitis are uncommon but include sep­
+sis, intraabdominal abscess formation, wound infections, hepatic 
+abscesses, ileus, and peritoneal adhesion formation. There is subse­
+quent risk for intestinal obstruction and tubal infertility in females.
+Pancreatitis
+Acute pancreatitis is an acute inflammatory condition of the pan­
+creas and recent studies estimate the incidence at approximately 
+1 in 10,000 children per year. Release and activation of pancre­
+atic digestive enzymes subsequently result in extensive destruction 
+(autodigestion) and necrosis of pancreatic and, if severe, adja­
+cent tissue. Proteolysis, fat necrosis, and hemorrhage are noted in 
+severe or fatal cases of pancreatitis, which is often complicated by 
+A
+B
+Fig. 13.7  The appendix. A, The appendix may be located anteriorly, medially, or retrocecally or in the pelvis. B, 
+The location of the appendix depends on the location of the cecum. Because the bowel may be quite mobile 
+in some patients, the appendix may be located in many different sites in the abdomen. In this figure, the 
+appendix is in the right upper quadrant. (From Reilly BM. Abdominal pain. In: Practical Strategies in Outpatient 
+Medicine. 2nd ed. Philadelphia: WB Saunders; 1991:728.)
+TABLE 13.10  Final Diagnoses in Cases of 
+Clinically Suspected Appendicitis
+Appendicitis
+Gastroenteritis
+Pelvic inflammatory disease
+Ovarian cyst: torsion
+Ectopic pregnancy
+Crohn disease
+Mesenteric adenitis
+Perforated peptic ulcer
+Urinary tract infection
+Meckel diverticulitis
+Pancreatitis
+Primary peritonitis
+Cholecystitis
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+234
+SECTION 4   Gastrointestinal Disorders
+Fig. 13.8  An ultrasound scan of the right lower quadrant in a 6-­year-­old 
+girl, demonstrating a thick-­walled cecum (arrows) outlined by echogenic 
+fluid. No appendix was found in spite of careful ultrasonographic search­
+ing. During surgery, the patient was found to have a perforated appen­
+dix and early periappendiceal abscess. TI, terminal ileum. (From Teele R, 
+Share J. Appendicitis and other causes of intraabdominal inflammation. 
+In: Ultrasonography of Infants and Children. Philadelphia: WB Saunders; 
+1991.)
+A
+B
+Fig. 13.9  An 11-­year-­old girl presented with fever, diarrhea, and vomiting. Ten days before admission to 
+the hospital, she was seen by a physician because of abdominal pain. She had been partially treated with 
+antibiotics for a presumed “strep throat” in the interim. When she presented to the hospital, she again had 
+pain in the right lower quadrant, especially when the ultrasound transducer was pressed over the area. A, 
+The right lower quadrant abscess (arrows) was quickly identified. The appendix could not be visualized. B, 
+In scans along the psoas, multiple lymph nodes (arrows) were apparent. The child’s appendix had ruptured 
+1 week before admission, but her symptoms had been masked by the antibiotics that she had been given. 
+(From Teele R, Share J. Appendicitis and other causes of intraabdominal inflammation. In: Ultrasonography of 
+Infants and Children. Philadelphia: WB Saunders; 1991:348.)
+Fig. 13.10  This longitudinal scan of the right lower quadrant shows 
+lymph nodes arranged in a line along the psoas muscle (P). These are 
+nodes enlarged from mesenteric adenitis. The patient did not have 
+appendicitis. (From Teele R, Share J. Appendicitis and other causes of 
+intraabdominal inflammation. In: Ultrasonography of Infants and Chil­
+dren. Philadelphia: WB Saunders; 1991.)
+multiorgan dysfunction syndrome (e.g., hypotension, acute respi­
+ratory distress syndrome, acute kidney injury, cardiogenic shock). 
+Pancreatitis is less common in children than in adults, in whom the 
+cause is often alcohol ingestion or gallstones. The etiologic factors 
+in childhood encompass a broad differential diagnosis and often 
+include passage of biliary stones, drugs (valproate), multisystem 
+diseases (hemolytic uremic syndrome, cystic fibrosis), trauma 
+(including child abuse), biliary or pancreatic anatomic anomalies, 
+infections, and metabolic conditions (hypercalcemia, hypertri­
+glyceridemia) (Table 13.12).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+235
+CHAPTER 13  Abdominal Pain
+(Patients)
+Shoulder
+(74 Patients)
+Entire abdomen
+(83 Patients)
+Lower abdomen
+(487 Patients)
+Back
+(41 Patients)
+Vagina
+(6 Patients)
+Opposite quadrant
+from ectopic
+(156 Patients)
+as ectopic
+Same quadrant
+(331 Patients)
+Total
+Patients
+654
+Hours
+23
+53
+24
+20
+2
+7
+3
+6
+22
+A
+B
+23
+(Patients)
+Days
+Weeks
+48
+68
+45
+46
+7
+1
+1
+5
+5
+16
+23
+23
+2
+6
+2
+2
+3
+3
+3
+4
+80
+150
+(Patients)
+o
+v
+e
+r
+ 
+3
+ 
+u
+n
+k
+n
+o
+w
+n
+ 
+Fig. 13.11  Ectopic pregnancy. A, Anatomic location of pain in 654 patients with ectopic pregnancy. B, Duration 
+of abdominal pain before the diagnosis of ectopic pregnancy was confirmed among 654 patients. (Modified 
+from Breen JL. A 21-­year survey of 654 ectopic pregnancies. Am J Obstet Gynecol. 1970;136:1304–1319.)
+TABLE 13.11  Comparison of Gastroenteritis and Appendicitis
+Gastroenteritis
+Appendicitis
+Pain
+Diffuse, cramps, intermittent
+Periumbilical shifting to RLQ; constant
+Exacerbated by movement, coughing
+Vomiting
+With or before pain
+Follows pain
+Diarrhea
+Frequent, large volume
+Can occur; small volume (from irritation of bowel); may be watery too
+Fever
+Variable
+Low grade, goes up with gangrene or perforation
+Course
+Intermittently improves
+Worsens with time
+Systemic symptoms
+Variable: headache, malaise, myalgia, arthralgia, sore 
+throat
+Rare
+Physical examination
+General: fussy, restless, frequent motion
+Quiet, discomfort with movement
+Abdomen: soft, mild, diffuse tenderness, hyperactive 
+bowel sounds
+Abdomen: RLQ tenderness, guarding peritoneal signs, with/without rectal 
+tenderness/mass, absent bowel sounds
+Laboratory values
+WBC count: variable, may be quite high
+CRP: variable
+WBC count: mild elevation, early left shift; becomes high only with gangrene 
+or perforation
+CRP: elevated
+Urine: nonspecific
+Urine: may have WBCs and/or RBCs if bladder irritated, ketosis if vomiting 
+is prolonged
+Imaging studies
+Abdominal films: nonspecific ileus
+Abdominal films: often nonspecific, with/without fecalith, with/without loss 
+of psoas definition, with/without scoliosis caused by inflammation in RLQ
+Ultrasonography: not indicated
+Ultrasonography: enlarged appendix, peritoneal fluid, RLQ abscess, absent 
+appendix, fecalith
+RBC, red blood cell; RLQ, right lower quadrant; WBC, white blood cell.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+236
+SECTION 4   Gastrointestinal Disorders
+TABLE 13.12  Causes of Acute Pancreatitis in Children
+Drugs and Toxins
+Alcohol
+Acetaminophen
+Azathioprine
+l-­Asparaginase
+Cimetidine
+Corticosteroids
+Didanosine
+Estrogens
+Furosemide
+Gila monster bite
+6-­Mercaptopurine
+Methyldopa
+Organophosphates
+Pentamidine
+Scorpion bites
+Spider bites
+Sulfonamides
+Tetracycline
+Thiazides
+Valproic acid
+Hereditary Pancreatitis
+SPINK1
+CFTR
+Cationic trypsinogen
+Infections
+Coxsackievirus B
+Epstein-­Barr virus
+Hepatitis A, B
+HIV
+Influenza A
+Leptospirosis
+Measles
+Mumps
+Mycoplasma
+Rubella
+Reye syndrome
+Obstructive
+Ascariasis
+Biliary sludge
+Biliary tract malformation
+Cholelithiasis
+Crohn disease
+Duplication cyst
+Pancreatic pseudocyst
+Pancreas divisum
+Postoperative
+Sphincter of Oddi dysfunction
+Tumor
+Systemic Disease
+α1-­Antitrypsin deficiency
+Cystic fibrosis
+Diabetes mellitus
+Henoch-­Schönlein purpura
+Hemochromatosis
+Hemolytic uremic syndrome
+Hyperlipidemia types I, IV, and V
+Hyperparathyroidism
+Hypothermia
+Kawasaki syndrome
+Systemic lupus erythematosus
+Malnutrition
+Organic acidemias
+Periarteritis nodosa
+Peptic ulcer
+Postpancreatic transplantation
+Refeeding after malnutrition
+Reye syndrome
+Uremia
+Traumatic
+Blunt injury
+Child abuse
+Post-­ERCP
+Surgical trauma
+Total body cast
+CFTR, cystic fibrosis transmembrane conductance receptor; ERCP, endoscopic retrograde cholangiopancreatography; SPINK1, serine protease inhib­
+itor Kazal type 1.
+Modified from Behrman RE, ed. Nelson Textbook of Pediatrics. 14th ed. Philadelphia: WB Saunders; 1992:999.
+Manifestations
+Manifestations of acute pancreatitis include intense epigastric abdom­
+inal pain that may be described as steady, boring, constant, achelike, 
+knifelike, and exacerbated by recumbency, that radiates to the back, 
+upper abdominal quadrants, or the scapula. Emesis is common, often 
+protracted, and occasionally bilious. Fever is usually low to moderate 
+grade; high fever (>39°C) suggests the presence of a primary infectious 
+process with or without secondary pancreatitis or bacterial superin­
+fection and pancreatic abscess formation. The patient often assumes 
+a hunched-­over or knee-­chest lateral fetal posture and may manifest 
+epigastric tenderness; bowel sounds may be reduced or absent. Signs 
+of peritonitis suggest more extensive necrosis, as do signs of spread­
+ing hemorrhage, such as blue-­green discoloration of the flanks (Grey 
+Turner sign) or of the periumbilical region (Cullen sign). Intravascular 
+fluid depletion, cardiogenic shock, hemorrhagic shock, hypocalcemic 
+tetany, or systemic inflammatory response syndrome with multiorgan 
+system failure may ensue. Pain may last for 3–10 days.
+The diagnosis of acute pancreatitis in children requires at least two 
+of three of the following be met: (1) abdominal pain compatible with 
+pancreatitis, (2) elevated serum amylase and/or lipase that is three times 
+the upper limit of normal, and (3) imaging consistent with pancreati­
+tis. Initial imaging should start with transabdominal ultrasonography. 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+237
+CHAPTER 13  Abdominal Pain
+Ultrasonography and CT scan are helpful in identifying the acutely 
+inflamed pancreas (Fig. 13.12), the degree of necrosis, and the later 
+development of a pancreatic pseudocyst (Fig. 13.13).
+Testing for children with a first episode of acute pancreatitis in 
+addition to a CBC, amylase, and lipase should start with liver enzymes 
+(alanine aminotransferase, aspartate aminotransferase, gamma-­
+glutamyl transferase, alkaline phosphatase, bilirubin), triglyceride 
+level, and calcium level. This is based on the most common causes and 
+those for which therapeutic options exist. The differential diagnosis of 
+hyperamylasemia is seen in Table 13.13. Adverse prognostic factors in 
+severe acute pancreatitis include the presence of leukocytosis (white 
+blood count >16,000/mm3), hyperglycemia (glucose level >200 mg/
+dL), a high lactic dehydrogenase level (>350 U/L), and a high aspar­
+tate aminotransferase level (>250 U/L) on admission and a decrease 
+in hematocrit value (>10%), an increase in BUN level (>5 mg/dL), a 
+low calcium level (<8 mg/dL), hypoxia (Pao2 <60 mm Hg), acidosis 
+(base deficit >4 mmol/L), or severe dehydration by 48 hours of hospi­
+talization. The degree of pancreatic necrosis may be determined from 
+the failure of CT scans to depict intravenous contrast parenchymal 
+enhancement; severe pancreatitis is associated with more than 50% 
+necrosis of the gland.
+Complications
+Complications of pancreatitis include local tissue necrosis with or 
+without superinfection (pancreatic abscess), fistulization (to colon), 
+left-­sided pleural effusion, gastrointestinal hemorrhage (ulceration, 
+vascular rupture, splenic rupture), shock, coagulopathy, acute kidney 
+injury, myocardial depression, acute respiratory distress syndrome, 
+hyperglycemia, hypocalcemia, subcutaneous nodules (fat necrosis), 
+hypoalbuminemia, mental changes, and retinopathy.
+Management
+The management of acute pancreatitis consists of supportive care, 
+such as nasogastric tube decompression for patients with an ileus or 
+severe emesis, administration of intravenous fluids, administration of 
+Fig. 13.12  Acute pancreatitis. CT scan through the body of the pan­
+creas demonstrates a halo of decreased attenuation around the pan­
+creas that represents a peripancreatic zone of edema and fluid (curved 
+arrows). Note the pancreatic ascites, most obvious lateral to the liver 
+(small arrows). If intravenous contrast were administered before the 
+CT scan, the inflamed pancreas would appear more dense (whiter). 
+A, aorta; IVC, inferior vena cava; K, kidney; L, liver; PV, portal vein; S, 
+spleen; ST, stomach. (From Freeny P, Lawson T. In: Putman CE, Ravin 
+CE, eds. Textbook of Diagnostic Imaging. Philadelphia: WB Saunders; 
+1988.)
+Fig. 13.13  Pseudocyst. Follow-­up CT scan (same patient as in Fig. 
+13.12) 5 months after the episode of acute pancreatitis demonstrates a 
+large pseudocyst (PC). This large pseudocyst will probably not resolve 
+spontaneously and may need drainage. (From Freeny P, Lawson T. In: 
+Putman CE, Ravin CE, eds. Textbook of Diagnostic Imaging. Philadel­
+phia: WB Saunders; 1988.)
+TABLE 13.13  Differential Diagnosis of 
+Hyperamylasemia
+Pancreatic Pathology
+Acute or chronic pancreatitis
+Complications of pancreatitis (pseudocyst, ascites, abscess)
+Factitious pancreatitis
+Complication of ERCP
+Salivary Gland Pathology
+Parotitis (mumps, Staphylococcus aureus, CMV, HIV, EBV)
+Sialadenitis (calculus, radiation)
+Eating disorders (anorexia nervosa, bulimia)
+Intraabdominal Pathology
+Biliary tract disease (cholelithiasis)
+Peptic ulcer perforation
+Peritonitis
+Intestinal obstruction
+Appendicitis
+Systemic Diseases
+Metabolic acidosis (diabetes mellitus, shock)
+Renal insufficiency, transplantation
+Burns
+Anorexia-­bulimia
+Pregnancy
+Drugs (morphine)
+Head injury
+Cardiopulmonary bypass
+CMV, cytomegalovirus; EBV, Epstein-­Barr virus; ERCP, endoscopic ret­
+rograde cholangiopancreatography.
+Modified from Kliegman RM, St. Geme JW, eds. Nelson Textbook of 
+Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:2076, Table 378.2.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+238
+SECTION 4   Gastrointestinal Disorders
+narcotics for pain, and therapy for accompanying complications (e.g., 
+shock, adult respiratory distress syndrome, and acute kidney injury). 
+Endoscopic sphincterotomy by endoscopic retrograde cholangiopan­
+creatography (ERCP) is of benefit if gallstones are present, although 
+ERCP has risks that include the induction of pancreatitis.
+After initial fluid resuscitation with either normal saline or lactated 
+ringers, maintenance intravenous fluids should be provided at 1.5–2 
+times with close monitoring of urine output.
+In children with mild acute pancreatitis, starting enteral nutrition 
+early (within 48–72 hours of presentation) has been shown to decrease 
+length of stay and decrease risk of organ dysfunction.
+There is no role for antibiotics in the management of acute pancre­
+atitis in children, except in the presence of documented infected necro­
+sis, or in children with necrotizing pancreatitis who are not improving 
+or who demonstrate a worsening clinical course.
+Cholelithiasis
+Gallstones are uncommon in children, but they complicate chronic 
+diseases, such as hemolytic anemia (sickle cell anemia, spherocytosis), 
+cholestatic jaundice in which total parenteral nutrition is given, and 
+other cholestatic diseases. Gallstones may result from prematurity or 
+drug intake (furosemide, ceftriaxone), or they may be idiopathic. Bil­
+iary obstruction (stone in cystic or common bile duct) often results in 
+jaundice; sudden onset of severe, sharp right upper quadrant pain; local­
+ized deep tenderness in the right upper quadrant (superficial tenderness 
+suggests an associated cholecystitis); and emesis. The pain is episodic 
+and colicky, but often constant and superimposed with waves of more 
+intense pain, and may radiate to the angle of the ipsilateral scapula, back, 
+or other areas of the abdomen or chest. Patients frequently move about to 
+find a comfortable position. There may be associated diaphoresis, pallor, 
+tachycardia, weakness, nausea, and lightheadedness. A round or pear-­
+shaped tender mass may be palpated in the right upper quadrant of the 
+abdomen if the gallbladder is distended. The pain may be diurnal, with 
+increased intensity at night. Many patients with single or multiple gall­
+stones without obstruction are asymptomatic.
+Acute cholecystitis is caused by inflammation of the gallbladder 
+wall as a result of duct obstruction (i.e., calculus) or nonobstructing 
+(i.e., acalculous) conditions and is manifested by fever, mild jaundice, 
+severe abdominal pain, emesis, nausea, and leukocytosis. Pain may be 
+similar to that in cholelithiasis and radiates to the right scapula, shoul­
+der, or chest. The Murphy sign is demonstrated by palpating an acutely 
+inflamed gallbladder, which causes the patient to halt respiration and 
+feel the pain. Fever of >39.5°C suggests perforation or gallbladder 
+gangrene, whereas a high direct bilirubin level (>4 mg/dL) suggests a 
+common duct stone. Pain may last for 5–10 days. Passage of stones 
+or microlithiasis (sludge) may also produce acute pancreatitis. Intoler­
+ance to fatty foods is, unfortunately, a nonspecific observation.
+Diagnosis
+The diagnosis is confirmed by ultrasonography that demonstrates acal­
+culous or calculus-­induced cholecystitis or acute duct obstruction by a 
+stone (Fig. 13.14).
+Treatment
+Some treatment of obstructing stones may include endoscopic, open, 
+or laparoscopic cholecystectomy. Some patients may go directly to 
+surgery. However, supportive therapy with proper analgesia and rehy­
+dration is of critical importance. Effective pain relief should include 
+nonsteroidal antiinflammatory drugs with an attempt to avoid opioids. 
+Antibiotic therapy should almost always be implemented in the setting 
+of acute cholecystitis, regardless of etiology. Although most cases of 
+acute, acalculous cholecystitis have a viral etiology, antibiotic therapy 
+is often prescribed to prevent further complications and should include 
+coverage against both gram-­negative and anaerobic microorganisms.
+Peptic Ulcer Disease
+Peptic ulceration is becoming recognized in children with increasing 
+frequency (see Chapter 16). Risk factors for peptic ulcer disease include 
+gastritis, a positive family history of ulcer disease, presence of Helico­
+bacter pylori, treatment with nonsteroidal antiinflammatory agents 
+and corticosteroids, cigarette smoking, and severe injury (burns, head 
+injury, shock). Manifestations include pain, gastrointestinal bleeding 
+(melena, hematemesis, anemia), emesis, and, in rare cases, perforation. 
+Nocturnal pain, pain relieved by food, and a family history of peptic 
+A
+B
+Fig. 13.14  Transverse scan with linear array transducer shows pericolic edema in a teenaged boy, who pre­
+sented with severe pain in the right upper quadrant from acute cholecystitis (A). A longitudinal scan of the 
+right upper quadrant (B) shows a stone (arrow) that was thought to be impacted in the neck of the gallbladder 
+because it did not change at all with position. The patient had severe pain with palpation over the gallbladder. 
+(From Teele R, Share J. The liver. In: Ultrasonography of Infants and Children. Philadelphia: WB Saunders; 
+1991.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+239
+CHAPTER 13  Abdominal Pain
+ulcer disease are often present in older affected children. The pain is 
+often chronic, recurrent, and located in the epigastrium; tenderness 
+may be localized to the epigastric region, but this is an inconsistent 
+finding.
+Acute perforation is uncommon in children but is characterized by 
+sudden worsening of pain or a new abrupt onset of excruciating epi­
+gastric pain. There is associated pallor, faintness, weakness, syncope, 
+diaphoresis, and a rigid abdomen.
+Abdominal Wall Pain
+Abdominal pain localized to abdominal muscles, particularly the rec­
+tus muscles, may be due to thoracoabdominal nerve entrapment as 
+the anterior branches enter the rectus channel or when the accessory 
+nerves branch within the rectus channel. The nerve, artery, and vein 
+form a neurovascular unit then may be compressed by the fibrous ring 
+or the rectus aponeurosis.
+Anterior cutaneous nerve entrapment syndrome (ACNES) may 
+present with acute or chronic pain that is usually unilateral and local­
+ized to the lateral aspect of the rectus muscle. The pain may radiate 
+across the abdomen or down the lower abdomen. Traction, increased 
+abdominal pressure, sitting, exercise (sit-­ups, crunches, straight leg 
+lifts), or twisting may aggravate the pain. Localizing (point) tenderness 
+is usually present along the lateral aspect of the rectus muscle. Treat­
+ment includes local injection of lidocaine or other anesthetic agents 
+and, if not successful, anterior neurectomy.
+CHRONIC ABDOMINAL PAIN
+Recurrent abdominal pain (RAP) in children remains one of the most 
+challenging common conditions treated by pediatricians. Intermittent 
+severe, episodic pain can be frightening to both families and care pro­
+viders because it may be an indication of serious disease. It has been 
+reported to occur in 10–15% of children between the ages of 4 and 16 
+years. In only a small minority of patients with RAP, the symptoms can 
+be explained by discernable organic disease. However, the term RAP is 
+a descriptive term and should not be used as a diagnosis. RAP may be 
+caused by several different conditions that include, but are not limited 
+to, celiac disease, inflammatory bowel disease, peptic ulcer, biliary tract 
+disease, pancreatitis, or functional pain. Pain pathways can initially be 
+influenced by the presence of pathology such as inflammation or tissue 
+damage that often persists despite the absence of identifiable pathology.
+The term functional abdominal pain refers to pain that has no ana­
+tomic, histologic, or “organic” etiology. This type of pain is the hallmark 
+of functional abdominal pain disorders (FAPDs) that are subclassified, 
+utilizing Rome IV criteria, into a number of clinically distinct entities, 
+namely irritable bowel syndrome (IBS), functional dyspepsia, abdominal 
+migraine, and functional abdominal pain not otherwise specified (FAP-­
+NOS) (Table 13.14). A common feature among patients with functional 
+gastrointestinal disorders is the heightened sensitivity to experimental 
+pain, also known as visceral hyperalgesia. A unifying theory of all func­
+tional gastrointestinal disorders is the alteration of the brain-­gut axis that 
+can present with clusters of symptoms related to abnormal signals arising 
+from the gastrointestinal tract or abnormal processing of signals in the 
+central nervous system. Without proper explanation of the term func­
+tional, most families would not understand the condition since the term 
+is very vague and nondescriptive. Thus, FAPDs should be referred to as 
+“disorders of gut-­brain interaction” given that their bio-­psychosocial 
+etiology involves complex interactions within the gut-­brain axis. Symp­
+toms are physiologic and modifiable by sociocultural and psychologic 
+influences. Functional pain can be triggered or influenced by gastroin­
+testinal infections, food, allergies, stress, and physical or sexual abuse. 
+These experiences may have a long-­lasting impact on a child and make 
+the child more susceptible to the development of FAPDs by affecting 
+intestinal motility, altered intestinal permeability, or visceral hyperalge­
+sia, which conversely impacts the development of altered or maladaptive 
+coping skills later in life. The functional nature of this pain does not mean 
+that the pain is imaginary or that it may not interfere with the child’s daily 
+activities. Patients with functional abdominal pain experience real pain 
+and should not be considered to be faking it or not experiencing it at all. 
+Psychosocial factors, along with altered gut physiology, ultimately play 
+an important role in the development of FAPDs including functional 
+abdominal pain, IBS, functional dyspepsia, and abdominal migraine.
+The diagnostic Rome criteria for each of these disorders permit 
+clinicians to make a clinical diagnosis with limited diagnostic testing. 
+Applying the criteria in the clinical setting allows the care provider 
+to validate the reality of the symptoms and develop an appropriate 
+physician-­patient relationship aimed at improving symptoms and 
+functioning. All too often, the clinician repeatedly performs unnec­
+essary diagnostic tests to rule out pathology. This often leads to dis­
+missal of the patient’s concerns or prevents an effective collaboration 
+in the patient’s care that promotes a vicious cycle of symptom anxiety 
+and health-­seeking behavior. Applying the Rome criteria along with 
+a proper history and physical examination that includes “red flags” is 
+most of the time sufficient to make a clinical diagnosis of an FAPD and 
+to initiate proper treatment (see Table 13.8).
+MAKING A DIAGNOSIS OF FUNCTIONAL 
+ABDOMINAL PAIN
+The history should be detailed and, in most instances, obtained sepa­
+rately from the parents and the child. A private conversation with each 
+often provides better insight into all factors affecting the child. In addi­
+tion to covering the historical information already detailed, the clinician 
+should pay attention to factors in the child’s environment, family, school, 
+and social interactions that may be sources of undue stress. Care provid­
+ers often have difficulty making a positive diagnosis of a functional gas­
+trointestinal disorder, particularly since there are no biologic markers. 
+The diagnostic evaluation of a child with abdominal pain begins with a 
+history to distinguish chronic from acute pain and addressing red flags. 
+The revised Rome IV criteria for childhood functional abdominal pain 
+are met if the duration of pain exceeds 2 months (episodic or continu­
+ous). Children with FAPDs may be subclassified into one of four clinical 
+diagnostic categories that include (1) functional dyspepsia (abdom­
+inal pain associated with symptoms centered in the upper abdomen), 
+(2) irritable bowel syndrome (abdominal pain associated with altered 
+bowel pattern), (3) functional abdominal pain not otherwise specified 
+(isolated paroxysmal abdominal pain not otherwise specified), or (4) 
+abdominal migraine (paroxysmal intense pain that can be associated 
+with either pallor, headache, photophobia, nausea, or vomiting) (see 
+Table 13.14). The diagnosis of abdominal migraine is sometimes easier 
+to make since symptoms are episodic and occur abruptly after periods 
+of normal well-­being. It is not uncommon to get a history of the child 
+waking up in the middle of the night with pain and vomiting and then 
+having complete resolution of symptoms after 1–2 days. The frequent 
+occurrence or change in location of pain or alternating bowel habits in 
+the same patient, however, is not uncommon. Clinicians do not always 
+feel comfortable simply relying on Rome criteria or are unaware that 
+they exist. Functional pain should be considered when abdominal pain 
+persists a month beyond the usual course of an acute illness (i.e., gastro­
+enteritis). Children often present with intermittent, periumbilical pain 
+that usually waxes and wanes and can often experience other comorbid 
+symptoms, including headaches, joint pain, dizziness, pallor, and dia­
+phoresis. Nausea occurs in as many as 50% of children with FAPDs and 
+is a major factor contributing to significant disability.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+240
+SECTION 4   Gastrointestinal Disorders
+Severity and Location of Pain
+Functional pain can vary in intensity, ranging from mild intermit­
+tent pain to severe intense pain that disrupts a child’s life, family, and 
+school attendance. Excluding organic causes of chronic abdominal 
+pain remains a challenge for pediatricians, particularly given the het­
+erogeneity of FAPD symptoms. Although the location of pain does 
+not always help differentiate between functional and organic causes, 
+periumbilical pain has been shown to be most likely associated with 
+functional pain. Substernal pain should raise the suspicion for an 
+esophageal cause, such as erosive esophagitis from gastroesophageal 
+reflux. Chronic abdominal pain in the presence of dysphagia or his­
+tory of food impaction should prompt a referral to the specialist to rule 
+out eosinophilic esophagitis. In school-­age children (9–13 years old) 
+with eosinophilic esophagitis, abdominal pain may be the only pre­
+senting symptom, whereas in younger children (4–13 years old), vom­
+iting may be a more common symptom. Epigastric pain can be caused 
+from pathology in the esophagus, stomach, duodenum, and pancreas 
+or from functional dyspepsia. Pain originating from hepatobiliary 
+structures, including the gallbladder, liver, and head of the pancreas, 
+usually is primarily in the right upper quadrant. Certain conditions 
+must be considered in patients who present with chronic pain in the 
+right lower quadrant and these include chronic appendicitis, abdom­
+inal wall pain, and Crohn disease. Identifying certain characteristics 
+or “red flags” that can assist the clinician in detecting organic disease 
+in patients with chronic abdominal pain would be important, since it 
+could limit unnecessary diagnostic testing in those with FAPDs and 
+potentially prevent a delay in the diagnosis of a specific organic dis­
+ease. Determination of fecal calprotectin is increasingly being utilized 
+as a noninvasive screen for Crohn disease. It is a marker of intestinal 
+mucosal inflammation and appears to be superior to standard serologic 
+testing such as CBC or CRP. A normal calprotectin level in children 
+would minimize the need for colonoscopy in children with chronic 
+abdominal pain.
+Approach to Treatment
+The first goal is to identify physical and psychologic stress factors that may 
+have an important role in onset, severity, exacerbations, or maintenance of 
+pain. Equally important is to reverse environmental factors that serve as 
+reinforcers of the pain behavior. Parents and the school must work together 
+to support the child. Regular school attendance is extremely important 
+and should be encouraged even in the presence of pain. It is oftentimes 
+helpful for the care provider to communicate directly to school officials 
+to explain the nature of the problem. At home, less attention should be 
+directed toward the symptoms. In the clinic, defining the problem and 
+establishing an effective physician-­patient relationship is an important part 
+of therapy. Attention should focus on improvement of daily symptoms and 
+quality of life, as well as the child’s return to normal activities. Once the 
+evaluation, including the history, physical examination, and appropriate 
+screening laboratory tests, has been completed and findings are normal, 
+a search for nonorganic sources of pain should not be continued. Instead, 
+the appropriate treatment should be initiated. The child with functional 
+pain may improve once the child and the family understand the nature of 
+the pain and a proper explanation is given by the provider. Knowing that 
+there is no serious organic disease and that the sensations are not imagi­
+nary is usually welcome information to the family. However, the conver­
+sation about functional abdominal pain should be brought up during the 
+first visit and should not be discussed only after doing extensive testing. 
+The family should understand that testing is only to confirm the absence of 
+other disorders and confirm the possibility of functional pain.
+There is a spectrum of functional pain in terms of severity. Some 
+patients have minimal severity and frequency of pain while others have 
+daily, unremitting pain that results in school absences, functional disabil­
+ity, and diminished quality of life. The total number of days missed from 
+school is a good indicator of disability and should always be asked during 
+the visit. For those with mild symptoms not interfering with daily activ­
+ities, simple treatment strategies such as stool softeners for constipation 
+often provide sufficient relief, such that the child can resume a more nor­
+mal life. Similarly, dietary manipulation with lactose, sucrose, or fructose 
+avoidance is often an important first step in the child with mild, chronic 
+abdominal pain. Carbohydrate malabsorption or intolerance from lac­
+tose, sucrose, sorbitol, or high-­fructose corn syrup (fruit juices and sodas) 
+may produce pain that responds to dietary elimination of the offending 
+sugar. These simple strategies should not be tried on the child with signif­
+icant disability and school absences, mainly because they are unlikely to 
+work and time would be lost in trying to get the child back to functioning. 
+The clinician should refrain from talking to patients and family using neg­
+ative comments such as “You will have to learn to live with this pain.” This 
+leads to considerable gloom and hopelessness and will make the condition 
+much more difficult to treat. Sometimes, despite diligent evaluation by the 
+most skilled and patient clinician, symptoms can persist. There are no U.S. 
+TABLE 13.14  Rome IV Diagnostic Criteria 
+for Functional Abdominal Pain Disorders
+Disorder
+Diagnostic Criteria
+Functional dyspepsia
+Must include at least one of the following for at 
+least 4 days per month:
+ • Postprandial fullness
+ • Early satiation
+ • Epigastric pain or burning not associated with 
+defecation
+Criteria must be fulfilled for at least 2 mo.
+Irritable bowel syn­
+drome (IBS)
+Must include all of the following:
+ • Abdominal pain at least 4 days per month asso­
+ciated with at least one of the following: related 
+to defecation, a change in stool frequency, or a 
+change in appearance of stool
+ • In children with constipation, pain continues 
+despite resolution of constipation (if pain 
+resolves, the child has functional constipation)
+Criteria must be fulfilled for at least 2 mo.
+Abdominal migraine
+Must include all of the following occurring at least 
+twice:
+ • Sudden episodes of intense, acute abdominal 
+pain lasting at least 1 hr
+ • Episodes are separated by weeks to months of 
+mild or no abdominal pain
+ • Typical pattern for each child
+ • Pain is associated with at least two of the fol­
+lowing: anorexia, nausea, vomiting, headache, 
+photophobia, or pallor
+Criteria must be fulfilled for at least 6 mo.
+Functional abdominal 
+pain not otherwise 
+specified (FAP-­NOS)
+Must include all of the following for at least 4 days 
+per month:
+ • Episodic or continuous abdominal pain not 
+solely related to physiologic events (like eating 
+or menses)
+ • Does not meet criteria for other FAPDs
+Criteria must be fulfilled for at least 2 mo.
+FAPDs, functional abdominal pain disorders.
+From Wyllie R, Hyams JS, Kay M, eds. Pediatric Gastrointestinal Liver 
+Disease. 6th ed. Philadelphia: Elsevier; 2021:57, Table 6.1.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+241
+CHAPTER 13  Abdominal Pain
+Food and Drug Administration (FDA)–approved drugs for the treatment 
+of chronic abdominal pain in children and there is little evidence of effi­
+cacy for most commonly used medications. It is important to consider that 
+the clinician must spend time educating the family regarding the suspected 
+mechanisms and how and why pharmacotherapy may or may not work. In 
+the more severe, disabled patients, patient education should be considered 
+part of a therapeutic program that includes physical reconditioning, exer­
+cise, sleep restoration, and, in many cases, thought reprocessing. The FDA 
+has approved IB-­Stim, a nonimplantable, percutaneous electrical nerve 
+field stimulation device for the treatment of adolescents with functional 
+abdominal pain associated with IBS. The auricular stimulation targets the 
+brain-­gut axis through low-­frequency electrical stimulation of auricular 
+cranial nerves and was shown to improve abdominal pain, global symp­
+toms, and functional disability compared to placebo. The novelty of this 
+approach comes at a critical time when the development of nonpharma­
+cologic and nonaddictive therapies to treat chronic pain has become a 
+major priority. Psychologic therapies such as cognitive-­behavioral therapy, 
+hypnosis, relaxation, meditation, or biofeedback have been shown to be 
+as effective as, and sometimes better than, pharmacologic therapy. Fami­
+lies should always be educated on the potential modification of the “pain 
+behavior” and potential benefits of lifestyle modifications.
+A therapeutic trial with medications should be discussed with the 
+family and should have a well-­defined duration and goals. Also, the dose 
+should be adequate to achieve the desired effect. If history and physical 
+examination suggest dyspepsia or epigastric pain without red flags, a trial 
+of acid suppression is very appropriate as an initial step. Similarly, if the 
+history and physical examination suggest constipation as the cause for 
+pain, then the proper therapy with osmotic laxatives or cathartics should 
+be initiated. Pharmacologic therapy, including anticonvulsant or antide­
+pressant agents, has not consistently proven to be effective in children 
+with functional abdominal pain. Such therapy has sometimes been effec­
+tive in young adults but is not recommended for younger children under 
+8 years of age. Amitriptyline has been used in small doses and anecdot­
+ally has been successful in alleviating functional abdominal pain. It is 
+widely used for chronic pain conditions including migraine headaches, 
+fibromyalgia, and neuropathic pain and is considered to be effective at 
+much lower doses than those used for depression.
+Cyproheptadine is an antagonist of serotonin, histamine H1, 
+and muscarinic receptors. It has been used to treat allergic rhinitis 
+and migraine headaches and anecdotally as an appetite stimulant in 
+children. Antispasmodics such as hyoscyamine or dicyclomine can 
+produce significant anticholinergic side effects including dry mouth, 
+dizziness, and blurred vision. Most antispasmodics should be used as 
+adjuvant therapy for the treatment of chronic abdominal pain and only 
+for episodic pain and not as daily treatment.
+Small intestinal bacterial overgrowth may be a cause of chronic 
+abdominal pain. Rifaximin has low systemic absorbance and localized 
+effect on intestinal flora and is approved for diarrhea-­predominant 
+IBS in adults. In adolescents with functional pain, bloating, and/or 
+diarrhea, empirical treatment with this antibiotic may be considered. 
+Although short-­term treatment appears to be well tolerated in adults, 
+multiple treatments with rifaximin may be needed, which increases the 
+concern for antimicrobial resistance.
+The dearth of successful treatment options for chronic abdominal 
+pain often results in patients opting for alternative methods. There 
+appears to be a growing desire among patients and families for a more 
+“natural” approach to therapy. It has been suggested that approximately 
+35% of adult patients with functional bowel disorders use complemen­
+tary or alternative medicine despite the perceived lack of efficacy by 
+some clinicians.
+If the symptoms are mild and not severe enough to interfere with a 
+child’s school or daily activities, using alternative therapies for which there 
+is some scientific evidence of benefit may be a good starting point. These 
+include peppermint oil, melatonin, and STW5 (Iberogast). Concentrated 
+peppermint oil is increasingly being used in the treatment of abdominal 
+pain in children. The menthol component of peppermint oil acts as a cal­
+cium channel blocker that causes relaxation of intestinal smooth muscle. 
+Peppermint oil, administered in pH-­dependent, enteric-­coated capsules, 
+has been shown to reduce abdominal pain severity over placebo in both 
+adults and children. Melatonin is likely to be effective in less severe patients 
+with functional pain with minimal comorbidities and has the added ben­
+efit of having a low side effect profile. Iberogast is a mixture of nine herbal 
+plant extracts that is being used as an alternative approach for the treat­
+ment of functional dyspepsia and IBS. The exact mechanism of this herbal 
+preparation is not known but several trials have suggested that it is effective 
+in alleviating symptoms of functional dyspepsia and IBS. The combination 
+consists of liquid extracts from chamomile flowers, bitter candytuft, angel­
+ica root, caraway fruits, milk thistle, lemon balm leaves, greater celandine, 
+licorice root, and peppermint leaves.
+   	 R E D  F L A G S
+Red flags or “alarm signals” are critical to investigate in the history and 
+physical exam of abdominal pain (see Table 13.8). The presence of red 
+flags raises the suspicion of an underlying organic disorder and includes 
+pain localized away from the umbilicus, pain related to menstrual cycle, 
+back pain, multisystem complaints, anorexia, weight loss, evidence of 
+gastrointestinal bleeding (anemia, hematemesis, melena, hematoche­
+zia, rectal bleeding, occult bleeding), profuse diarrhea, extraintestinal 
+symptoms (fever, rash, recurrent aphthous ulcers), and a positive family 
+history of inflammatory bowel disease, celiac disease, or peptic ulcers. 
+Anemia, hematochezia, and weight loss in children with chronic abdom­
+inal pain are predictive of IBD. Physical findings of linear growth decel­
+eration, localized fullness or mass effect, hepatomegaly, splenomegaly, 
+back or costovertebral angle tenderness, perianal skin tags or fistulas, 
+soiling, or occult blood in stools should be taken seriously and should 
+prevent the diagnosis of a FAPD until further work-­up is completed. 
+Biochemical analysis that raises suspicion for organic disorders includes 
+iron deficiency anemia, high sedimentation rate or CRP, hypoalbumin­
+emia, abnormal liver or kidney function tests, or elevated amylase and 
+lipase. A high stool calprotectin level suggests an inflammatory process 
+and should be obtained if there is any suspicion for Crohn disease. In 
+cases in which recurrent vomiting is a significant part of the history, an 
+upper gastrointestinal series should be obtained to rule out gastric outlet 
+disorder, malrotation, or partial small bowel obstruction. An abdomi­
+nal ultrasound should also be considered to investigate the possibility of 
+gallstones, pseudocyst, ureteropelvic junction obstruction, or a retroper­
+itoneal mass. Contrast CT scans in the evaluation of chronic functional 
+pain is seldom helpful and should not be part of the work-­up unless a 
+specific cause is being investigated.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+241.e1
+BIBLIOGRAPHY
+Agency for Healthcare Research and Quality. Diagnosis of right lower quad­
+rant pain and suspected acute appendicitis – executive Summary. Compar­
+ative effectiveness review. No. 157;2015. www.effectivehealthcare.ahrq.gov/
+ehc/products/528/2159/appendicitis-­executive-­151214.pdf.
+Apley J. The Child with Abdominal Pains. 2nd ed. Oxford: Blackwell Scientific; 
+1975.
+Harberg FJ. The acute abdomen in childhood. Pediatr Ann. 1989;18:169–178.
+Hatch EI. The acute abdomen in children. Pediatr Clin North Am. 
+1985;32:1151–1164.
+John SD. Imaging of acute abdominal emergencies in infants and children. 
+Curr Probl Pediatr. 2001;31:315–358.
+Kliegman RM, St. Geme JW III, Blum NJ, et al. (eds): Nelson Textbook of Pedi­
+atrics, Vol. 21e. Philadelphia: Elsevier; 2020.
+Acute Abdominal Pain
+Alford BA, McIlhenny J. The child with acute abdominal pain and vomiting. 
+Radiol Clin North Am. 1992;30:441–453.
+Barr RG, Levine MD, Watkins JB. Recurrent abdominal pain of childhood due 
+to lactose intolerance. N Engl J Med. 1979;300:1449–1451.
+Bonadio WA. Clinical features of abdominal painful crisis in sickle cell ane­
+mia. J Pediatr Surg. 1990;25:301–302.
+Buchert GS. Abdominal pain in children: an emergency practitioner’s guide. 
+Emerg Med Clin North Am. 1989;7:497–517.
+Byrne WJ, Arnold WC, Stannard MW, et al. Ureteropelvic junction obstruc­
+tion presenting with recurrent abdominal pain: diagnosis by ultrasound. 
+Pediatrics. 1985;76:934–937.
+Daneman A, Navarro O. Intussusception. Pediatr Radiol. 2003;33:79–85.
+Grey DWR, Dixon MD, Collin J. The closed eye sign: an aid to diagnosing 
+non-­specific abdominal pain. BMJ. 1988;297:836–837.
+Helms M, Vastrup P, Gerner-­Smidt P, et al. Short and long term mortality as­
+sociated with foodborne bacterial gastrointestinal infections: registry based 
+study. BMJ. 2003;326:357–360.
+Henrikson S, Blane CE, Koujok K, et al. The effect of screening sonogra­
+phy on the positive rate of enemas for intussusception. Pediatr Radiol. 
+2003;33:190–193.
+Jeddy TA, Vowles RH, Southam JA. “Cough sign”: a reliable test in the diagno­
+sis of intraabdominal inflammation. Br J Surg. 1994;81:279–281.
+Katz JA, Wagner ML, Gresik MV, et al. Typhlitis: an 18-­year experience and 
+postmortem review. Cancer. 1990;65:1041–1047.
+Kim MK, Strait RT, Sato TT, et al. A randomized clinical trial of analgesia in 
+children with acute abdominal pain. Acad Emerg Med. 2002;9:281–287.
+Leahy AL, Fogarty EE, Fitzgerald RJ, et al. Discitis as a cause of abdominal 
+pain in children. Surgery. 1984;95:412–414.
+Lebenthal E, Rossi TM, Nord KS, et al. Recurrent abdominal pain and lactose 
+absorption in children. Pediatrics. 1981;67:828–832.
+Moustaki M, Zeis PM, Katsikari M, et al. Mesenteric lymphadenopathy as a 
+cause of abdominal pain in children with lobar or segmental pneumonia. 
+Pediatr Pulmonol. 2003;35:269–273.
+Murphy TV, Gargiullo PM, Massoudi MS, et al. Intussusception among infants 
+given an oral rotavirus vaccine. N Engl J Med. 2001;344:564–572.
+Soltero MJ, Bill AH. The natural history of Meckel’s diverticulum and its rela­
+tion to incidental removal. Am J Surg. 1976;132:168–173.
+Thomas SH, Silen W. Effect on diagnostic efficiency of analgesia for undiffer­
+entiated abdominal pain. Br J Surg. 2003;90:5–9.
+Towne BH, Mahour GH, Woolley MM, et al. Ovarian cysts and tumors in 
+infancy and childhood. J Pediatr Surg. 1975;10:311–320.
+Peptic Ulcer Disease
+Chiang B-­L, Chang M-­H, Lin M-­I, et al. Chronic duodenal ulcer in children: 
+clinical observation and response to treatment. J Pediatr Gastroenterol 
+Nutr. 1989;8:161–165.
+Colin-­Jones DG. Acid suppression: how much is needed? Adjust it to suit the 
+condition. BMJ. 1990;301:564–565.
+Drumm B, Rhoads JM, Stringer DA, et al. Peptic ulcer disease in children: 
+etiology, clinical findings, and clinical course. Pediatrics. 1988;82:410–414.
+Gormally S, Drumm B. Helicobacter pylori and gastrointestinal symptoms. 
+Arch Dis Child. 1994;70:165–166.
+Hosking SW, Ling TKW, Chung SCS, et al. Duodenal ulcer healing by 
+eradication of Helicobacter pylori without anti-­acid treatment: randomised 
+controlled trial. Lancet. 1994;343:508–510.
+Huang JQ, Sridhar S, Hunt RH. Role of Helicobacter pylori infection and non-­
+steroidal anti-­inflammatory drugs in peptic-­ulcer disease: a meta-­analysis. 
+Lancet. 2002;359:14–22.
+Murphy MS, Eastham EJ, Jimenez M, et al. Duodenal ulceration: review of 110 
+cases. Arch Dis Child. 1987;62:554–558.
+Suerbaum S, Michetti P. Helicobacter pylori infection. N Engl J Med. 
+2002;347:1175–1186.
+Appendicitis
+Benjamin IS, Patel AG. Managing acute appendicitis. BMJ. 2002;325:505–506.
+Doraiswamy NV. Leukocyte counts in the diagnosis and prognosis of acute 
+appendicitis in children. Br J Surg. 1979;66:782–784.
+Flum DR, Morris A, Koepsell T, et al. Has misdiagnosis of appendicitis de­
+creased over time? J Am Med Assoc. 2001;286:1748–1754.
+Huang L, Yin Y, Yang L, et al. Comparison of antibiotic therapy and appen­
+dectomy for acute uncomplicated appendicitis in children: a meta-­analysis. 
+JAMA Pediatr. 2017;171(5):426–434.
+Jones DJ. Appendicitis. BMJ. 1992;305:44–48.
+Knight PJ, Vassy LE. Specific diseases mimicking appendicitis in childhood. 
+Arch Surg. 1981;116:744–746.
+Lee SL, Walsch AJ, Ho HS. Computed tomography and ultrasonography do 
+not improve and may delay the diagnosis and treatment of acute appendi­
+citis. Arch Surg. 2001;136:556–562.
+Murch SH. Diarrhoea, diagnostic delay, and appendicitis. Lancet. 
+2000;356:787.
+Neilson IR, Laberge J-­M, Nguyen C. Appendicitis in children: current thera­
+peutic recommendations. J Pediatr Surg. 1990;25:1113–1116.
+Oestreich AE, Adelstein EH. Appendicitis as the presenting complaint in cystic 
+fibrosis. J Pediatr Surg. 1982;17:191–194.
+Paulson EK, Kalady MF, Pappas TN. Suspected appendicitis. N Engl J Med. 
+2003;348:236–242.
+Tate JJT, Dawson JW, Chung SCS, et al. Laparoscopic versus open appendecto­
+my: prospective randomized trial. Lancet. 1993;342:633–637.
+Pancreatitis
+Banks PA, Bollen TL, Dervenis C, et al. Acute Pancreatitis Classification 
+Working Group. Classification of acute pancreatitis—2012: revision of 
+the Atlanta classification and definitions by international consensus. Gut. 
+2013;62:2–11.
+Beckingham IJ, Bornman PC. Acute pancreatitis. BMJ. 2001;322:595–598.
+Bornman PC, Beckingham IJ. Chronic pancreatitis. BMJ. 2001;322:660–663.
+Fernandez-­del Castillo C, Rattner DW, Warsha AL. Acute pancreatitis. Lancet. 
+1993;342:475–479.
+Kahler SG, Sherwood WG, Woolf D, et al. Pancreatitis in patients with organic 
+acidemias. J Pediatr. 1994;124:239–243.
+Lee SP, Nicholls JF, Park HZ. Biliary sludge as a cause of acute pancreatitis. N 
+Engl J Med. 1992;326:589–593.
+Mitchell RMS, Byrne MF, Baillie J. Pancreatitis. Lancet. 2003;361:1447–1455.
+Morinville VD, Husain SZ, Bai H, INSPPIRE Group, et al. Definitions of 
+pediatric pancreatitis and survey of present clinical practices. J Pediatr 
+Gastroenterol Nutr. 2012;55:261–265.
+Munoz-­Bongrand N, Panis Y, Soyer P, et al. Serial computed tomography is 
+rarely necessary in patients with acute pancreatitis: a prospective study in 
+102 patients. J Am Coll Surg. 2001;193:146–152.
+Rabeneck L, Feinstein AR, Horwitz RI, et al. A new clinical prognostic staging 
+system for acute pancreatitis. Am J Med. 1993;95:61–70.
+Steinberg W, Tenner S. Acute pancreatitis. N Engl J Med. 1994;330:1198–1210.
+Weizman Z, Durie PR. Acute pancreatitis in childhood. Pediatrics. 
+1988;113:24–29.
+Williamson RCN. Endoscopic sphincterotomy in the early treatment of acute 
+pancreatitis. N Engl J Med. 1993;328:279–280.
+Yazdani K, Lippmann M, Gala I. Fatal pancreatitis associated with valproic 
+acid. Medicine (Baltim). 2002;81:305–310.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+References
+241.e2
+Hepatobiliary Tract Disease
+Cuschieri A. Management of patients with gallstones and ductal calculi. Lan­
+cet. 2002;360:739–740.
+De Caluwe D, Akl U, Corbally M. Cholecystectomy versus cholecystolitho­
+tomy for cholelithiasis in childhood: long-­term outcome. J Pediatr Surg. 
+2001;36:1518–1521.
+Debray D, Pariente D, Gauthier F, et al. Cholelithiasis in infancy: a study of 40 
+cases. J Pediatr. 1993;122:385–391.
+Indar AA, Beckingham IJ. Acute cholecystitis. BMJ. 2002;325:639–644.
+Johnston DE, Kaplan MM. Pathogenesis and treatment of gallstones. N Engl J 
+Med. 1993;328:412–421.
+Kim SH. Choledochal cyst: survey by the surgical section of the American 
+Academy of Pediatrics. J Pediatr Surg. 1981;16:402–407.
+Krige JEJ, Beckingham IJ. Liver abscesses and hydatid disease. BMJ. 
+2001;322:537–540.
+Reif S, Sloven DG, Lebenthal E. Gallstones in children. Am J Dis Child. 
+1991;145:105–108.
+Chronic Abdominal Pain
+Applegate WV. Abdominal cutaneous nerve entrapment syndrome (ACNES): 
+a commonly overlooked cause of abdominal pain. Permanente J. 
+2002;6(3):20–27.
+Babygirija R, Sood M, Kannampalli P, et al. Percutaneous electrical nerve 
+field stimulation modulates central pain pathways and attenuates post-­
+inflammatory visceral and somatic hyperalgesia in rats. Neuroscience. 
+2017;356:11–21.
+Barr RG. Changing our understanding of infant colic. Arch Pediatr Adolesc 
+Med. 2002;156:1172–1174.
+Castile RG, Telander RL, Cooney DR, et al. Crohn’s disease in children: assess­
+ment of the progression of disease, growth and prognosis. J Pediatr Surg. 
+1980;15:462–469.
+Garrison MM, Christakis DA. Infant colic. Pediatr Case Rev. 2001;1:19–24.
+Heida A, Holtman GA, Lisman-van Leeuwen Y, et al. Avoid endoscopy in 
+children with suspected inflammatory bowel disease who have normal 
+calprotectin levels. J Pediatr Gastroenterol Nutr. 2016;62:47–49.
+Horwitz BJ, Fisher RS. The irritable bowel syndrome. N Engl J Med. 
+2001;344:1846–1850.
+Hyams JS, Di Lorenzo C, Saps M, et al. Functional disorders: children and 
+adolescents. Gastroenterology. 2016;S0016-­5085(16):00181–00185.
+Kovacic K, Hainsworth K, Sood M, et al. Neurostimulation for abdomi­
+nal pain-­related functional gastrointestinal disorders in adolescents: a 
+randomised, double-­blind, sham-­controlled trial. Lancet Gastroenterol 
+Hepatol. 2017;2:727–737.
+Levine MD, Rappaport LA. Recurrent abdominal pain in school children: 
+the loneliness of the long distance physician. Pediatr Clin North Am. 
+1984;31:969–991.
+Liebman WM. Recurrent abdominal pain in children: a retrospective survey of 
+119 patients. Clin Pediatr (Phila). 1978;17:149–153.
+Mamula P, Telega GW, Markowitz JE, et al. Inflammatory bowel disease in 
+children 5 years of age and younger. Am J Gastroenterol. 2002;97:2005–
+2010.
+Markus J, Sibbing IC, Ket JCF, et al. Treatment strategies for anterior cutaneous 
+nerve entrapment syndrome in children: a systematic review. J Pediatr 
+Surg. 2021;56:605–613.
+Murphy MS. Management of recurrent abdominal pain. Arch Dis Child. 
+1993;69:409–415.
+Oor JE, Ünlü C, Hazebroek EJ. A systematic review of the treatment for ab­
+dominal cutaneous nerve entrapment syndrome. Am J Surg. 2016;212:165–
+174.
+Silverberg M. Chronic abdominal pain in adolescents. Pediatr Ann. 
+1991;20:179–185.
+Talley NJ, Spiller R. Irritable bowel syndrome: a little understood organic 
+bowel disease? Lancet. 2002;360:555–564.
+Thiessen PN. Recurrent abdominal pain. Pediatr Rev. 2002;23:39–46.
+Wade S, Kilgour T. Infant colic. BMJ. 2001;323:437–440.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

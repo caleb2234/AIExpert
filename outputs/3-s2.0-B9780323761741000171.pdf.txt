@@ -1,0 +1,1659 @@
+306
+Hepatomegaly can occur as a feature of primary liver disease or as a result 
+of systemic disorders such as congenital anomalies, inborn errors of 
+metabolism, and perinatal or postnatal infections (Tables 17.1 and 17.2). 
+Common symptoms of hepatic dysfunction, such as fatigue, fever of 
+unknown origin, pruritus, failure to thrive, confusion, change in mental 
+status, and/or diarrhea, are nonspecific. Hepatomegaly and jaundice are 
+frequently the findings that lead to an evaluation for liver disease. Causes 
+of hepatomegaly associated with jaundice are discussed in Chapter 18.
+ASSESSMENT OF THE LIVER
+An accurate assessment of liver size is an important initial step. Con­
+siderable patience may be necessary to obtain the required information. 
+The patient should lie down in a supine position with the knees flexed. 
+The abdominal muscles should be relaxed as much as possible. The pro­
+vider should become familiar with the sensation of pressure over the 
+abdominal wall in the lower abdomen in order to detect the difference 
+palpating while transitioning over the liver edge. The examiner should 
+also be sure that the lower border of a massively enlarged liver is not 
+missed by failure to palpate below the umbilicus. The lower edge of the 
+liver should be determined by palpation just lateral to the right rectus 
+muscle. Careful palpation of the liver edge along the lower border is 
+important as enlargement of the liver can be asymmetrical in chronic 
+cirrhosis, such as in Budd-­Chiari syndrome and with liver tumors.
+The lower edge of the liver is usually palpable in normal subjects 
+with deep inspiration when it moves downward 1–3 cm. In the new­
+born, the liver edge may be palpable 2–3 cm below the right costal mar­
+gin, but that distance is usually less than 2 cm by 4–6 months of age. In 
+older children, the liver edge is usually not more than 1 cm below the 
+right costal margin except on deep inspiration. The liver may be nor­
+mally palpable in the midline several centimeters below the xiphoid.
+Palpation should always be combined with percussion of the upper 
+and lower boundaries of the liver. The upper edge of the liver is deter­
+mined through percussion passing downward from the nipple line. 
+The examiner may also define the lower edge through light percussion, 
+moving upward from the umbilicus toward the costal margin. The 
+anterior span of the liver is the difference between the highest and low­
+est points of hepatic dullness in the right midclavicular line.
+In the scratch test, the stethoscope is placed over the right lower 
+costal area. The examiner then scratches the skin of the abdomen and 
+uses auscultation to detect the lower liver edge by using the difference 
+in sound transmission over solid liver and hollow intestine.
+It is important to remember that physical examination has limita­
+tions. It may be difficult to detect the borders of the liver in patients with 
+morbid obesity, ascites, pleural effusion, or extensive surgical scars, or 
+resisting exam. Physical examination determines only the external 
+­borders of the liver and does not truly measure liver volume. A down­
+ward, tonguelike projection of the right lobe—the Riedel lobe—is a 
+normal anatomic variant that is more commonly found in girls. It is 
+a common error to express liver size and to define hepatomegaly on 
+the basis of only the liver edge felt below the right costal margin. The 
+liver may be displaced downward in patients with pulmonary disease, 
+particularly with hyperaeration of the lungs. It may be difficult in some 
+cases to distinguish masses arising from the right kidney or adrenal 
+gland from an enlarged liver.
+Liver size changes with age in proportion to the body size 
+(Table 17.3). At birth, the liver constitutes approximately 4% of body 
+weight and normally occupies a larger portion of the abdominal cavity 
+than it does later in life. Liver weight increases twofold by the end of the 
+first year of life, triples by the age of 3 years, and is increased sixfold by 
+the age of 9 years. In the adult, liver weight is approximately 12 times 
+that in the neonate.
+The consistency and surface of the liver should be noted, includ­
+ing whether the liver edge is sharp or rounded and whether the liver 
+surface is soft, hard, or irregular. The liver edge is normally soft, fairly 
+sharp, and nontender. Livers enlarged because of congestive heart fail­
+ure or because of acute infiltration by inflammatory cells or tumor are 
+firm, have a somewhat rounded edge, and have smooth surfaces. In 
+cirrhosis, the liver is hard and may have an irregular surface and edge. 
+Tenderness generally suggests an acute process, as rapid distention of 
+the liver capsule causes pain.
+Hepatomegaly may resolve rapidly when congestive heart failure is 
+controlled, biliary obstruction is relieved, diabetes is better controlled, 
+or massive liver cell necrosis leads to collapse of the liver tissue.
+History and Physical Examination
+Once the presence of hepatomegaly is established, the provider should 
+focus on the aspects of the history and physical examination that 
+will direct the diagnostic evaluation (Tables 17.4 and 17.5). Review 
+of systems should focus on growth, achievement of developmental 
+milestones, changes in mental status, vomiting, diarrhea, fevers, pru­
+ritus, easy bruising, bleeding, urine output, and abdominal distention. 
+Obtaining a detailed family and travel history is important, as many 
+conditions leading to hepatomegaly are genetic in nature or are a result 
+of infections. The possibility of intentional or accidental drug intake 
+along with herbal or over-­the-­counter supplements should always be 
+entertained. On physical examination, it is important to determine 
+the presence or absence of jaundice, splenomegaly, ascites, change in 
+mental status, tremors, neurologic abnormalities, fever, signs of mal­
+nutrition, prominent vascular patterns on the anterior abdominal wall 
+(caput medusae, spider angiomas), arterial hypertension, hypotension, 
+bruising, petechiae, hemangiomas, pallor, obesity, renal enlargement, 
+masses outside of the liver, lymphadenopathy, muscle weakness, cya­
+nosis, heart murmurs, tachypnea, tachycardia, abnormal eye exam 
+(cataracts, Kayser-­Fleischer ring), bone and joint abnormalities, and 
+dysmorphic features. A pelvic exam in sexually active females may 
+detect signs of a sexually transmitted infection, which can lead to peri-­
+hepatitis (formerly Fitz-­Hugh–­Curtis) syndrome.
+Hepatomegaly
+Grzegorz W. Telega
+17
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+307
+CHAPTER 17  Hepatomegaly
+TABLE 17.1  Causes of Hepatomegaly in Infants and Children
+Infection and Inflammation
+Viral hepatitis (hepatitis A, B, C, D, E; EBV; adenovirus, echovirus, TORCH)
+Autoimmune hepatitis
+Sepsis
+Perinatal infections
+Allograft rejection
+Graft versus host disease
+Systemic lupus erythematosus
+Juvenile idiopathic arthritis
+Primary sclerosing cholangitis
+Systemic granulomatous disorders with hepatic involvement
+Sarcoid
+Tuberculosis
+Hepatic abscess (bacterial and parasitic)
+Parasitic infection
+Visceral larva migrans
+Schistosomiasis
+Leishmoniasis
+Malaria
+Liver flukes
+Kupffer cell hyperplasia
+Macrophage activation syndrome
+Gestational alloimmune liver disease
+Biliary Obstruction
+Biliary atresia
+Choledochal cysts
+Stricture of common bile duct
+Primary sclerosing cholangitis
+Infiltration
+Extramedullary hematopoiesis
+Erythroblastosis fetalis
+Thalassemias
+Metastatic tumors
+Neuroblastoma
+Wilms tumor
+Leukemia
+Lymphoma
+Hemophagocytic lymphohistiocytosis (HLH)
+Langerhans cell histiocytosis
+Storage/Metabolic Disease
+α1-­Antitrypsin deficiency
+Wilson disease
+Infants of diabetic mothers
+Glycogen storage disease
+Galactosemia
+Tyrosinemia
+Cystic fibrosis
+Gaucher disease
+Niemann-­Pick disease
+Gangliosidoses
+Hereditary fructose intolerance
+Mitochondrial hepatic disorders including DNA depletion syndrome
+Mucopolysaccharidoses
+Amyloidosis
+Hepatic porphyrias
+Expansion of Extracellular Matrix
+Cirrhosis
+Fibrocystic disease (congenital hepatic fibrosis)
+Steatosis
+Malnutrition
+Nonalcoholic steatohepatitis (obesity)
+Cystic fibrosis
+Parenteral nutrition
+Diabetes mellitus
+Hereditary fructose intolerance
+Galactosemia
+Wolman disease
+Cholesterol ester storage disease
+Mitochondrial hepatopathies
+β-­Oxidation defects
+Medication toxicity (tetracycline, valproic acid)
+Hepatic Malignancy/Tumor (see Table 17.2)
+Primary or metastatic
+Vascular Congestion
+Congestive heart failure
+Budd-­Chiari syndrome
+Venoocclusive disease (VOD): radiation, high-­dose chemotherapy, stem cell 
+transplant, bush tea, pyrrolizidine alkaloids, familial VOD with immunode­
+ficiency
+Cystic Disease
+Fibrocystic disease
+Autosomal dominant polycystic kidney disease
+Congenital hepatic fibrosis
+Caroli syndrome
+Isolated polycystic liver disease
+EBV, Epstein-­Barr virus; TORCH, toxoplasmosis, other infections, rubella, cytomegalovirus, herpes simplex virus.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+308
+SECTION 4  Gastrointestinal Disorders
+TABLE 17.2  Hepatic Tumor Characteristics
+Clinical 
+Findings
+Age
+Radiology 
+Findings
+Laboratory 
+Findings
+Biopsy Findings
+Therapy
+Prognosis
+Hepatic heman­
+gioma (focal, 
+multifocal, and 
+diffuse)
+Screening for 
+cutaneous 
+lesions, mass, 
+or hemody­
+namic effects
+Generally, under 
+1 yr of age, up 
+to 3 yr of age
+Focal, multifocal, or 
+diffuse vascular 
+tumor; larger mass 
+with necrosis, 
+hemorrhage, and/
+or calcifications
+Decreased T3, 
+T4; normal 
+AFP
+Capillary-­like vascular 
+proliferation lined by 
+plump endothelial cells. 
+No significant cytologic 
+atypia, GLUT-­1 positive 
+in multifocal and diffuse
+Observation, 
+surgery, corti­
+costeroids or 
+propranolol
+Favorable, most 
+involute, those with 
+cardiac failure and 
+hypothyroidism often 
+require treatment
+Focal nodular 
+hyperplasia
+Bleeding, tor­
+sion, hepatic 
+mass
+Adolescents 
+10–18 yr, post-­
+chemotherapy 
+for other 
+­malignancy
+Well-­demarcated 
+mass with central 
+scar
+Normal AFP
+Central scar with portal 
+tracts and bile ductal 
+proliferation, often 
+damaged or abnormal 
+vessel associated with 
+scar, maplike pattern of 
+glutamine synthetase 
+staining
+Observation, 
+surgery
+Favorable
+Hepatic 
+­adenoma
+Hepatic mass, 
+often found 
+incidentally
+Adolescent late 
+teens
+Well-­demarcated 
+mass, heteroge­
+neous appearance, 
+intratumoral 
+hemorrhage is 
+common
+Normal AFP
+Usually solitary mass 
+consisting of benign 
+hepatocytes with iso­
+lated (unpaired) arteries, 
+serum amyloid–associ­
+ated protein positive
+Observation, 
+surgery
+Favorable, chance of 
+hemorrhage
+Mesenchymal 
+hamartoma
+Liver mass, 
+more often 
+right lobe
+Within the first 
+2 yr
+Cystic mass in right 
+lobe (75%)
+Normal to 
+slightly 
+elevated 
+AFP
+Cystic tumor with a 
+mixture of loose edema­
+tous/myxoid tissue with 
+entrapped bile ducts and 
+hepatocytes
+Surgery
+Favorable. Local recur­
+rence without com­
+plete resection, small 
+number associated 
+with undifferentiated 
+embryonal sarcoma 
+(UES)
+Hepatoblastoma
+Liver mass, 
+often with 
+weight 
+loss and 
+hematologic 
+paraneoplastic 
+syndromes
+70% by age 2 
+and 90% by 
+age 5
+Solid and nodular 
+but can show 
+cystic degenera­
+tion/hemorrhage 
+or necrosis. Some 
+with calcifications
+Elevated AFP 
+in 90% of 
+cases
+Various morphology either 
+pure epithelial or mixed 
+epithelial and mesen­
+chymal components; 
+often with necrosis and 
+hemorrhage
+Chemotherapy 
+and surgery
+Quite variable based 
+on risk factors 
+(staging, histology, 
+and AFP level)
+Hepatocellular 
+carcinoma
+Liver mass
+In endemic HBV 
+areas can be 
+under 10 yr, 
+most cases 
+after 10 yr of 
+age; HCV as 
+risk factor
+Can be solitary or 
+multifocal solid 
+lesions often with 
+necrosis and hem­
+orrhage. Fibrola­
+mellar variant with 
+central scar
+Elevated AFP 
+in two-­thirds 
+of cases
+Various pattern and 
+subtypes, loss of portal 
+tracts, loss of reticulin 
+network, mild to marked 
+cellular atypia
+Surgery, 
+transarterial 
+chemoem­
+bolization 
+(TACE), che­
+motherapy
+Unfavorable. Overall 
+5-­yr survival ∼24%. 
+Better prognosis in 
+fibrolamellar variant 
+∼80%
+Biliary tract 
+rhabdomyosar­
+coma
+Obstructive 
+jaundice
+Under 5 yr of age Hilar mass with 
+dilated biliary tree
+Obstructive 
+cholestasis, 
+normal to 
+slightly 
+elevated 
+AFP
+One of two subtypes with 
+intrabiliary growth and 
+projections with myxoid 
+stroma with cambium 
+layer
+Chemotherapy, 
+radiation 
+­therapy, and 
+surgery
+Favorable. Event-­free 
+survival of 60–90%
+Undifferentiated 
+embryonal 
+sarcoma
+Liver mass, 
+more often 
+right lobe
+5–10 yr of age
+Solid and cystic 
+areas, more often 
+in the right lobe
+Normal to 
+slightly 
+elevated 
+AFP
+Variable mesenchymal 
+components with large 
+cystic and myxoid areas 
+with hemorrhage and 
+necrosis
+Chemotherapy 
+and surgery
+Historically, unfavor­
+able, but recent stud­
+ies suggest improved 
+outcomes
+AFP, α-­fetoprotein; HBV, hepatitis B virus; HCV, hepatitis C virus; T3, triiodothyronine; T4, thyroxine.
+From Wyllie R, Hyams JS, Kay M, eds. Pediatric Gastrointestinal and Liver Disease. 6th ed. Philadelphia: Elsevier; 2021:727, Table 66.3.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+309
+CHAPTER 17  Hepatomegaly
+Pathophysiology
+The pathophysiologic mechanisms underlying the enlargement of 
+the liver are complex and heterogeneous. Hepatomegaly may reflect 
+proliferation or enlargement or malfunction of one or more com­
+ponent structures of the liver, including liver parenchyma (hepato­
+cytes), bile ducts (cholangiocytes, cysts), the reticuloendothelial 
+system (Kupffer cells), interstitial tissue (stellate cells, collagen), 
+blood (including hematopoietic cells), and blood vessels (endothe­
+lial cells). The liver also increases in size as a result of hepatic tumors, 
+benign cysts, and infiltration of inflammatory or malignant cells.
+The liver is particularly susceptible to injury not only from drugs 
+and other exogenous toxins but also from endotoxins that arise after 
+the activation of inflammatory cells and the production of cytokines. 
+Inborn errors of metabolism can be responsible for disturbances of liver 
+structure and function and can produce hepatomegaly. The liver can 
+be enlarged because of storage of glycogen, lipid, or glycolipids within 
+the hepatocyte. In glycogen storage disease, the cytoplasm of enlarged 
+hepatocytes is filled with dense pools of glycogen particles that dis­
+place other organelles. Steatosis is a frequent finding in diabetic or 
+obese patients and is characterized via ultrasound showing large lipid 
+inclusions, which may almost entirely fill the cytoplasm of hepatocytes. 
+In lysosomal storage disorders such as Gaucher disease and Niemann-­
+Pick disease, there is marked involvement of Kupffer cells with lyso­
+somal inclusions characteristic of each disorder. Inclusions may also be 
+present within hepatocytes; they contribute to hepatomegaly.
+In many cases of biliary obstruction, such as biliary atresia, there 
+may be significant hepatic enlargement, related in part to fibrosis and 
+portal tract edema. As part of the liver’s response to biliary obstruc­
+tion, there may also be marked proliferation of small bile ductules that 
+contribute to liver mass. Other conditions in which this could occur 
+include choledochal cysts and common bile duct strictures.
+The liver is the largest reticuloendothelial organ, and Kupffer cells, 
+which are intensely phagocytic cells that line the sinusoids, constitute 
+15% of all the cells in the liver. In septicemia, hepatitis, and several 
+other inflammatory conditions, hepatomegaly may result from prolif­
+eration and hyperplasia of Kupffer cells. Kupffer cells also contribute to 
+hepatomegaly in lysosomal storage disorders.
+Resident stellate cells produce collagen, leading to fibrosis and even­
+tually cirrhosis in response to injury of the liver from numerous causes, 
+including infection, drug toxicity, and biliary obstruction. Hepatocel­
+lular injury activates stellate cells leading to the production of collagen 
+and fibrosis. Fibrosis is a long-­standing process, which may evolve over 
+time leading to complete disruption of hepatic architecture and cir­
+rhosis. Although an end-­stage cirrhotic liver is usually small, it may 
+be enlarged during the early stages of evolution. Congenital hepatic 
+fibrosis is an inherited malformation of the liver characterized by the 
+presence of broad bands of fibrous tissue and numerous distorted bile 
+ducts and vascular structures. All of these abnormal components con­
+tribute to marked enlargement and hardening of the liver.
+About 15% of the liver is occupied by sinusoidal and vascular struc­
+tures. The liver is capable of rapid and massive enlargement in associ­
+ation with increased venous pressure. Distention of hepatic sinusoids 
+can be present in congestive heart failure, constrictive pericarditis, or 
+obstruction of hepatic venous outflow resulting from thrombosis or 
+endothelial damage from drug toxicity (venoocclusive disease).
+Since the liver serves as a secondary site of hematopoiesis, hepato­
+megaly can be caused by extramedullary hematopoiesis, particularly 
+in young infants. Extramedullary hematopoiesis can be the result of 
+chronic inflammation, hemolysis, hemophagocytic lymphohistiocyto­
+sis (HLH), or bone marrow failure.
+Hepatomegaly can occur as a result of cellular infiltration by inflam­
+matory cells. Lymphocytic infiltrate is present in various forms of acute 
+and chronic viral hepatitis, or in autoimmune hepatitis. Plasma cells are 
+a prominent part of the infiltrate in autoimmune disease. Macrophages 
+may be seen, particularly in reaction to liver cell necrosis. The increase 
+in liver size resulting from cellular infiltration may be balanced by loss 
+of liver cell mass from liver cell necrosis or apoptosis.
+Cellular infiltration of the liver may also occur in malignant disor­
+ders such as leukemia. A number of intraabdominal malignancies such 
+as neuroblastoma may metastasize to the liver, producing hepatomegaly.
+A variety of space-­occupying lesions can lead to hepatomegaly. 
+Cysts, either isolated or communicating with the biliary tract; tumors 
+intrinsic to the liver; and hepatic abscesses can all be associated with 
+hepatomegaly. Each must be differentiated by clinical features and 
+defined more precisely by imaging studies.
+EVALUATION OF THE CHILD WITH HEPATOMEGALY
+Laboratory Studies
+Laboratory assessment of liver function is essential (Table 17.6). 
+Because of the large functional reserve of the liver, hepatomegaly may 
+be the only clinical indication of liver disease. The onset of symptoms 
+such as jaundice and bleeding may be delayed long after laboratory 
+TABLE 17.3  Normal Liver Span in Infants 
+and Children
+Age
+Span (cm)
+Preterm infant
+4–5
+Full-­term infant
+5–6.5
+1–5 yr
+6–7
+5–10 yr
+7–9
+10–16 yr
+8–10
+TABLE 17.4  Historical Features in the 
+Diagnostic Evaluation of Hepatomegaly or 
+Hepatosplenomegaly
+Symptom
+Diagnosis
+Failure to thrive
+Glycogen storage disease (infancy) types I, III, IV, IX, X
+Hereditary fructose intolerance
+Organic acidemias
+Wolman disease
+Cystic fibrosis
+Hemophagocytic lymphohistiocytosis
+Cholestatic liver disease
+Fever
+Acute and chronic hepatitis
+Systemic illness
+Hepatic abscess
+Hemophagocytic lymphohistiocytosis
+Viral infection
+Diarrhea
+Wolman disease
+Cholestatic liver disease
+Peculiar odor
+Organic acidemias
+Hepatic failure
+Neurologic/psychi­
+atric symptoms in 
+older child
+Wilson disease
+Porphyria
+Hyperammonemia (urea cycle disorders, organic 
+acidemias)
+Drug intoxication/toxicity
+Hypoglycemia (glycogen storage disease, organic 
+acidemias, β-­oxidation defects)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+310
+SECTION 4  Gastrointestinal Disorders
+TABLE 17.5  Physical Signs in the Differential Diagnosis of Hepatomegaly
+Sign
+Differential Diagnosis
+Asymmetric hepatomegaly
+Tumor, cyst, abscess
+Abdominal mass
+Congenital hepatic fibrosis/polycystic kidneys
+Extrahepatic tumors (neuroblastoma, Wilms tumor)
+Choledochal cysts
+Adenoma
+Hepatoblastoma
+Hepatocellular carcinoma
+Hepatic bruit
+Hemangioendothelioma
+Splenomegaly
+Congenital infection
+Systemic infection (viral, bacterial, fungal)
+Cirrhosis
+Portal hypertension
+Lysosomal storage disease
+Lymphoma
+Cutaneous hemangioma or 
+telangiectasia
+Hemangioendothelioma
+Hereditary hemorrhagic telangiectasia
+Cirrhosis (vascular spiders)
+Coarse/dysmorphic facial 
+features
+Mucopolysaccharidosis
+GM1 gangliosidosis
+Glycoproteinoses (sialidosis, mucolipidosis II)
+Disorders of protein glycosylation
+Glycogen storage disease type I
+Alagille syndrome
+Zellweger syndrome
+Episodic acute encepha­
+lopathy/coma
+Disorders of fatty acid β-­oxidation
+Hyperammonemia (urea cycle disorders, organic 
+acidemias)
+Mitochondrial disorders
+Some urea cycle disorders (arginosuccinate 
+lyase deficiency)
+Drug toxicity
+Skeletal deformities
+Sialidosis (dysostosis multiplex)
+Mucopolysaccharidoses (dysostosis multiplex)
+Gaucher disease (marrow infiltration, deformi­
+ties, fractures)
+Mucolipidosis II (restricted joint mobility)
+Skin findings
+Papular acrodermatitis
+Hepatitis B
+Eczematoid rash
+Histiocytosis
+Sign
+Differential Diagnosis
+Neurodegeneration
+Mucopolysaccharidoses (types IH, II, III)
+Gaucher disease types II and III
+GM2 gangliosidosis
+Niemann-­Pick disease types A, B, C
+Glycoproteinoses
+Mucolipidoses
+Disorders of protein glycosylation
+Peroxisomal disorders (Zellweger syndrome)
+Mitochondrial disorders
+Hypotonia
+Glycogen storage disease type II
+Peroxisomal disorders (Zellweger ­syndrome)
+Mitochondrial disorders
+Mucolipidoses
+Malnutrition
+Cystic fibrosis
+Steatosis
+Virilization
+Hepatoblastoma
+Nonalcoholic fatty liver
+Eye findings
+Cataracts
+Galactosemia
+Kayser-­Fleischer rings
+Wilson disease
+Telangiectasias
+Hereditary hemorrhagic telangiectasia
+Iritis
+Primary sclerosing cholangitis
+Chorioretinitis
+Congenital or acquired infections
+Cherry red spot
+Lysosomal storage diseases
+GM2 gangliosidosis
+Niemann-­Pick disease type B
+Posterior embryotoxon
+Alagille syndrome
+Liver tenderness
+Acute hepatitis (viral, toxic, autoimmune)
+Congestion (heart failure, hepatic vein obstruc­
+tion)
+Trauma (subcapsular hematoma, fracture, 
+laceration)
+Abscess (hepatic, subphrenic)
+Cholangitis
+Perihepatitis
+evidence of disturbed liver function is evident. Patients with pro­
+gressive liver disease, such as chronic viral hepatitis, Wilson disease, 
+or α1-­antitrypsin deficiency, may be asymptomatic for years or even 
+decades. The pattern of liver test abnormalities may be helpful in sug­
+gesting whether the patient’s liver disease is primarily hepatocellular 
+or biliary in nature. Laboratory studies, particularly when followed 
+sequentially, may provide information about the synthetic, exocrine, 
+metabolic (glucose, amino acids, lipids, detoxification), and endocrine 
+(hyperaldosteronemia, vitamin D activation) liver function. Labora­
+tory data provide input into several prognostic models used in assess­
+ment of the mortality risk and in evaluation for liver transplant.
+All patients with hepatomegaly should have a complete meta­
+bolic panel (sodium, potassium, chloride, bicarbonate, creatinine, 
+BUN, aspartate aminotransferase [AST], serum alanine amino­
+transferase [ALT], albumin, glucose, lactate dehydrogenase [LDH], 
+alkaline phosphatase, total bilirubin, total protein), fractionated bili­
+rubin (conjugated and unconjugated bilirubin), CBC, UA, prothrom­
+bin time (PT), partial thromboplastin time (PTT), and fibrinogen. 
+D-­dimers should also be tested in patients with suspected sepsis or 
+thrombosis.
+Hepatocellular Injury
+Serum ALT and AST are indicators of hepatocellular injury. The amino­
+transferases may be elevated as a result of hepatocyte necrosis induced 
+by a number of infectious, inflammatory, or metabolic disorders or by 
+drug toxicity. ALT is present in much lower concentration in most tissues 
+other than the liver. AST is less specific, as it is present not only in the 
+liver but also in muscle and the brain. Some patients with a systemic viral 
+illness such as influenza may have acute rhabdomyolysis, which leads to 
+a very marked increase in serum AST. Hemolysis may also lead to an 
+elevation of this enzyme. Although in most cases of liver disease there 
+is some elevation of aminotransferase values, significant liver disease 
+(hepatic steatosis, hepatitis C infection, congenital hepatic fibrosis, and 
+many metabolic disorders) may be present even when these test results 
+are normal. Aminotransferases do not necessarily reflect liver function 
+and may have little correlation with the specific diagnosis or prognosis.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+311
+CHAPTER 17  Hepatomegaly
+Biliary Injury
+Alkaline phosphatase and γ-­glutamyltransferase (GGT) are expressed 
+in the bile ducts. Their elevation can occur in both intrahepatic and 
+extrahepatic cholestasis. Alkaline phosphatase is found in bile ducts 
+and also in several other tissues, including bone, small intestine, pla­
+centa, and kidney. Because children have a significant proportion of 
+serum alkaline phosphatase activity originating from bone, this test 
+may be of less value in the assessment of pediatric liver disease. Even 
+minor bone trauma or vitamin D deficiency can lead to elevation of 
+alkaline phosphatase. The tissue origin of alkaline phosphatase can be 
+determined by fractionation of alkaline phosphatase isoenzymes. The 
+normal newborn may have very high levels of GGT, up to 10 times the 
+upper limit of normal for adults. Values of GGT for premature babies 
+may be higher than those for term infants during the first weeks after 
+birth. In comparison with other standard serum assays, GGT may be 
+the most sensitive indicator of biliary disease, but it does not determine 
+a specific diagnosis. The highest levels of GGT are usually found in 
+biliary obstruction. GGT levels may be paradoxically normal or low in 
+progressive familial intrahepatic cholestasis types 1 and 2 and in some 
+inborn errors of bile acid metabolism.
+Exocrine Function
+Disposal of bilirubin requires conjugation with glucuronic acid in the 
+hepatocyte, excretion across the canalicular membrane, and unob­
+structed passage through the biliary tree. As a result, the serum con­
+centration of conjugated bilirubin represents a test of exocrine liver 
+function. Despite the diagnostic value of conjugated bilirubin, it is 
+important to remember that the pathophysiologic consequences of 
+cholestasis are more directly related to bile acid excretion. Insufficient 
+bile acid concentration in the intestinal lumen leads to fat malabsorp­
+tion, fat-­soluble vitamin deficiencies, and steatorrhea. Analysis of 
+serum bile acid levels, vitamin A, 25-­hydroxy vitamin D, vitamin E, 
+PT/international normalized ratio (INR), and measurement of fecal fat 
+may further define the extent of exocrine dysfunction (see Chapter 18).
+Synthetic Function
+Albumin is the principal serum protein synthesized by the liver and 
+has a half-­life in serum of approximately 20 days. A decrease in serum 
+albumin concentration may result from decreased production by the 
+liver. Serum albumin may also be low because of loss into the urine or 
+the gastrointestinal tract.
+The liver plays a central role in the production of coagulation 
+factors. The PT and PTT are easily available tests of liver synthetic 
+capacity once vitamin K deficiency has been excluded. All the clotting 
+factors except factor VIII are exclusively made by the hepatocytes. The 
+half-­life of several clotting factors is short (factor VII has a half-­life 
+of 3–5 hours), and so the PT rapidly reflects changes in hepatic syn­
+thetic function and serves as a prognostic indicator in patients with 
+fulminant hepatic failure. Caution should be used in interpreting a pro­
+longed PT or PTT in the setting of sepsis as disseminated intravascular 
+coagulation may cause abnormalities.
+Metabolic Function
+Many tissues can break down glycogen or produce glucose-­6-­phosphate 
+via the gluconeogenesis pathway for local energy production inside the 
+cell. The liver is the only organ that can release glucose into circulation. 
+Hypoglycemia may be a feature of hepatic failure, glycogen storage dis­
+eases, mitochondrial diseases, fatty acid β-­oxidation defects, pyruvate 
+metabolism defects, Krebs cycle and gluconeogenesis defects, organic 
+acidurias, or hereditary fructose intolerance. Blood glucose level deter­
+mination is essential in the evaluation of hepatomegaly, particularly in 
+patients with alterations of mental status. In most conditions, hypogly­
+cemia is associated with ketosis and lactic acidosis. Hypoglycemia in 
+the absence of or with low levels of ketones in the urine strongly sug­
+gests a fatty acid β-­oxidation defect or a mitochondrial disorder. Blood 
+gas (and anion gap), serum amino and urinary organic acids, lactate, 
+pyruvate, acylcarnitines, acylglycines, cortisol, insulin, thyroid func­
+tion, and adrenocorticotropic hormone (ACTH) as well as the ratios 
+of total and esterified to free serum carnitine concentrations should be 
+determined in follow-­up studies.
+The urea cycle is a series of enzymatic reactions converting highly 
+toxic ammonia into less toxic urea. Ammonia is a ubiquitous by-­
+product of amino acid metabolism. The urea cycle takes place exclu­
+sively in the liver. In liver disease, impairment of the urea cycle can be 
+caused by destruction of hepatocytes, metabolic block at the level of the 
+urea cycle, organic acid catabolism defects, or mitochondrial electron 
+transport defects. Shunting of portal blood in cirrhosis or in congeni­
+tal portosystemic shunts permits large amounts of ammonia and other 
+toxins to bypass the liver and reach the systemic circulation directly.
+Hepatomegaly with an acute change in mental status should raise the 
+possibility of a serious metabolic condition. Since both hypoglycemia 
+and hyperammonemia can lead to severe and irreversible brain damage, 
+correction of these abnormalities should be considered an emergency.
+The liver is the main site of biosynthesis and processing of cho­
+lesterol, lipids, and lipoproteins. Liver disease may profoundly affect 
+serum lipid and lipoprotein concentrations. In cholestatic liver disease 
+there may be extreme elevations of free cholesterol and phospholipids. 
+These abnormalities are accompanied by the presence of an abnormal 
+low-­density lipoprotein fraction called lipoprotein X. In end-­stage liver 
+disease and acute liver failure, serum cholesterol may be low.
+TABLE 17.6  Helpful Laboratory 
+Abnormalities in the Evaluation of 
+Hepatomegaly
+Vacuolated white blood cells in 
+peripheral smear
+Wolman disease
+GM1 gangliosidosis
+Neutropenia
+Glycogen storage disease type I
+Organic acidurias
+Shwachman-­Diamond syndrome
+Hemophagocytic lymphohistiocytosis
+Sepsis
+Leukemia
+Neuroblastoma
+Portal hypertension (hypersplenism)
+Hemolytic anemia
+Wilson disease
+Autoimmune hepatitis
+Hemoglobinopathy (with extramedullary 
+hematopoiesis)
+Hypophosphatemia
+Glycogen storage disease type I
+Hereditary fructose intolerance
+Hypertriglyceridemia
+Glycogen storage disease type I
+Hemophagocytic lymphohistiocytosis
+Nonalcoholic fatty liver
+Elevated creatinine
+Disorders of fatty acid β-­oxidation
+Reye syndrome
+Congenital hepatic fibrosis/autosomal 
+recessive polycystic kidney disease
+Renal tubular dysfunction
+Tyrosinemia
+Glycogen storage disease type I
+Hereditary fructose intolerance
+Wilson disease
+Galactosemia
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+312
+SECTION 4  Gastrointestinal Disorders
+Enzymatic analysis of cultured lymphocytes or hepatic tissue may 
+aid in the diagnosis. Genetic diagnosis is possible in many of these 
+disorders.
+Extrahepatic Involvement
+High levels of unconjugated bilirubin suggest the possibility of a con­
+current hemolytic disorder or may reflect inborn errors of conjugation 
+(see Chapter 18).
+Neutropenia can be associated with splenomegaly/hypersplen­
+ism from portal hypertension, glycogen storage disease type Ib, 
+Shwachman-­Diamond syndrome, HLH, sepsis, leukemia, and 
+neuroblastoma.
+Renal involvement can be reflected by elevated creatinine, inability 
+to concentrate urine, or Fanconi syndrome. This could raise suspicion 
+for autosomal recessive polycystic kidney disease, tyrosinemia, glyco­
+gen storage disease type Ib, Wilson disease, hereditary fructose intol­
+erance, or galactosemia.
+Imaging Studies
+Ultrasonography is the most useful initial imaging modality. It can 
+assess gallbladder size, detect gallstones and sludge in the bile ducts 
+and gallbladder, demonstrate ascites, and define cystic or obstruc­
+tive dilatation of the biliary tree. Extrahepatic anomalies may also be 
+detected. Mass lesions in the liver, including tumors, cysts, abscesses, 
+vascular malformations, and hematomas, can be defined. Abnormal 
+echogenicity may suggest diffuse parenchymal liver disease includ­
+ing fatty infiltration or fibrosis. Doppler studies may be used to dif­
+ferentiate between vascular and nonvascular structures and potential 
+thrombi. Portal venous flow may be decreased or reversed, which sug­
+gests portal hypertension.
+A plain film of the abdomen is not the study of choice for evaluation 
+of hepatomegaly. If performed, it may support the diagnosis of hep­
+atomegaly if seen. Air may be noted within the portal venous system, 
+a late finding in bowel infarction and necrosis, intraabdominal sep­
+sis, or complicated inflammatory bowel disease. Air may also be pres­
+ent within the biliary tree, especially in patients who have undergone 
+recent biliary tract surgery or who have an enterobiliary fistula. Coarse 
+calcifications may be found in hepatoblastoma and laminated calcifica­
+tions in hepatocellular carcinoma. Subacute abscesses and echinococ­
+cal cysts may also contain calcium and be seen on a plain film.
+CT with contrast provides useful information in differentiation of 
+liver masses. CT angiograms and/or venograms are useful in defining 
+the anatomy of vascular anomalies. Disadvantages of CT scans are the 
+frequent need for sedation, potential renal toxicity of contrast, and 
+risks from ionizing radiation.
+MRI provides additional information about liver anatomy, particu­
+larly in differentiation of liver tumors. Magnetic resonance angiography 
+(MRA) may be of value in assessing the vascularity of masses within 
+the liver. Magnetic resonance cholangiography is commonly used to 
+assess the biliary tract with visualization of details previously possible 
+only with transhepatic or endoscopic retrograde cholangiography.
+Hepatic scintigraphy can be useful for assessing the liver paren­
+chyma and biliary tree. The most frequently performed study is hepato­
+biliary scintigraphy performed with a technetium 99m (99mTc)–labeled 
+iminodiacetic acid derivative. Biliary imaging with this technique pro­
+vides information about patency of the biliary tract and gallbladder. 
+99mTc–sulfur colloid scanning may be used in assessing a patient with a 
+mass. 99mTc–sulfur colloid accumulates in Kupffer cells. Most malignant 
+tumors, hemangiomas, abscesses, and cysts lack Kupffer cells and appear 
+as “cold” spots on these scans. In contrast, a nodule taking up the iso­
+tope suggests a benign lesion containing Kupffer cells, such as a regen­
+erative nodule of cirrhosis, fatty change, or focal nodular hyperplasia.
+Liver Biopsy
+Percutaneous, transjugular, or open-­liver biopsy is one of the most 
+important diagnostic tests in evaluating a child with hepatomegaly. 
+Liver biopsy is used to establish a diagnosis and score severity of dis­
+ease in chronic viral hepatitis, drug-­induced liver disease, autoim­
+mune hepatitis, and various metabolic disorders. Abnormal material 
+in hepatocytes or Kupffer cells and viral inclusions suggest storage 
+disorders. Electron microscopy and immunohistochemical methods 
+may aid in identification and localization of these abnormalities. Liver 
+tissue may also be frozen for later biochemical or molecular analysis.
+SPECIFIC ISSUES IN THE DIAGNOSIS AND 
+TREATMENT OF HEPATOMEGALY
+The clinical challenge in the evaluation of hepatomegaly is that there 
+is a very broad differential with many relatively rare conditions. Tables 
+17.5 and 17.6 list some of the physical signs and laboratory abnormal­
+ities that may be associated with hepatomegaly. Table 17.7 lists a step­
+wise approach for devising the differential diagnosis and directing the 
+investigation. The first goal is to identify potentially life-­threatening 
+conditions, to focus on emergency measures to manage immediate 
+threats to life, and to prevent irreversible end-­organ damage. The sec­
+ond goal is to identify potentially treatable disorders requiring timely 
+interventions. Ultimately, the clinician should focus on other chronic 
+conditions to establish proper diagnosis and prognosis. Some disor­
+ders may be corrected by liver transplantation; such patients should be 
+promptly referred to a transplant center for evaluation.
+Hepatomegaly in the Infant
+Hepatomegaly in the neonate is commonly associated with liver 
+dysfunction and jaundice (see Chapter 18). In infants, jaundice is a 
+frequent presenting feature of liver disease rather than a later mani­
+festation of advanced liver disease, as in the older child or adult. The 
+majority of infants with cholestatic liver disease manifest the disease 
+during the first month of life.
+Changes in mental status, such as irritability or lethargy, poor 
+feeding, and vomiting, are frequent symptoms in metabolic disorders. 
+Urea cycle defects lead to hyperammonemia and acute encephalopa­
+thy associated with astrocyte swelling without axonal damage. Patients 
+present with a change in mental status or ataxia. Severe or prolonged 
+hyperammonemia ultimately leads to progressive irreversible brain 
+damage characterized by cortical and brainstem gliosis and neuronal 
+atrophy. Symptomatology of galactosemia and tyrosinemia depends on 
+the presence of nutritional substrates; thus irritability, lethargy, hep­
+atomegaly, ascites, edema, and coagulopathy may manifest soon after 
+feedings are initiated and evolve over the first weeks of life.
+A profound impairment of hepatic synthetic function, often in 
+excess of that expected for the degree of cholestasis, may be an early 
+indication of metabolic liver disease. Hepatic failure may be present in 
+mitochondrial disorders, including both mitochondrial DNA variants 
+and mitochondrial DNA depletion syndromes. In addition to the liver, 
+other organs (brain, heart, skeletal muscle) may be involved. Affected 
+patients often have lactic acidosis, hypoglycemia, hypertriglyceri­
+demia, and an abnormal acylcarnitine profile.
+Gestational alloimmune liver disease (GALD, formerly neonatal 
+hemochromatosis) may manifest with hepatic failure at birth. Patients 
+with GALD benefit from early treatment with plasmapheresis and 
+intravenous immunoglobulin (IVIG) but may require liver transplan­
+tation if there is no resolution of synthetic liver failure. Diagnosis of 
+GALD bears significance for future pregnancies. GALD will develop in 
+up to 80% of infants of mothers with a previous child diagnosed with 
+this condition. GALD is caused by maternal alloantibodies crossing the 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+313
+CHAPTER 17  Hepatomegaly
+TABLE 17.7  Evaluation of Patients with Hepatomegaly
+*Disease that may result in cirrhosis.
+Jaundice 
+ (+)
+See Chapter 18
+(−)
+Prominent vomiting 
+ (+)
+or altered sensorium 
+Disorders of mitochondrial fatty acid β-oxidation
+Reye syndrome
+Congenital lactic acidemias
+Disorders of gluconeogenesis
+Respiratory chain defects
+Organic acidemias
+Urea cycle defects
+Disorders of carbohydrate metabolism
+Glycogen storage disease types I and III
+Hereditary fructose intolerance*
+Fulminant hepatic failure
+Peroxisomal disorders
+Zellweger syndrome*
+Lysosomal storage disease
+Niemann-Pick disease, Gaucher disease
+GM1 gangliosidosis
+Mucopolysaccharidosis
+Wilson disease*
+Acute hepatitis
+Chronic hepatitis B, C, and D
+Chronic drug-induced hepatitis*
+Autoimmune hepatitis*
+Wilson disease*
+α1-Antitrypsin deﬁciency*
+Sclerosing cholangitis*
+Cardiovascular disease, right-sided heart failure*
+Inﬂammatory bowel disease
+Collagen vascular disease
+Hematologic disorders
+Leukemia
+Familial hemophagocytic lymphohistiocytosis*
+Sickle cell disease
+Post–bone marrow transplantation status
+Diabetes mellitus
+Systemic infection
+Cystic ﬁbrosis*
+Sarcoidosis
+Hepatic tumors
+Fatty liver*
+Hepatic cysts
+Hepatic abscess
+Congenital hepatic ﬁbrosis*
+Choledochal cyst
+Hepatic outﬂow obstruction*
+Glycogen storage disease type IV*
+Wolman disease*
+Cholesterol ester storage disease
+Niemann-Pick disease type B
+Gaucher disease (adult form)*
+Tyrosinemia*
+(−)
+Progressive neurologic 
+ (+) 
+deterioration
+(−)
+Prominent elevation of 
+ (+)
+serum aminotransferase levels 
+(−)
+Evidence of associated 
+ (+)
+systemic disease 
+(−)
+Isolated hepatomegaly 
+ (+)
+(with or without splenomegaly) 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+314
+SECTION 4  Gastrointestinal Disorders
+placenta and damaging the liver; the severity of injury can be alleviated 
+by prenatal administration of IVIG to the mother.
+A number of clinical features may provide clues about the cause 
+of hepatomegaly in newborns. An enlarged liver with a firm or hard 
+consistency is more commonly found in infants with extrahepatic bile 
+duct obstruction or neonatal hemochromatosis. Congenital infection 
+may be associated with low birthweight, hepatomegaly, microcephaly, 
+purpura, and chorioretinitis. Dysmorphic facial features may be seen 
+in association with chromosomal abnormalities and with Alagille syn­
+drome. Congenital malformations, including cardiac anomalies, poly­
+splenia, intestinal malrotation, and situs inversus, may be found in the 
+syndromic form of biliary atresia. Abnormal lateralization syndromes 
+can be associated with a midline liver, which may be palpable in the 
+hypogastrium. The spleen may also be enlarged with infection or as a 
+result of portal hypertension. Hepatomegaly, as well as a mass in the 
+right upper quadrant, may be felt in infants with a choledochal cyst.
+Infants may present with hepatomegaly, cholestasis, and sometimes 
+hepatic failure related to infection such as cytomegalovirus, herpes 
+simplex virus, enteroviruses, echovirus, coxsackievirus, or parvovirus 
+B19. Hepatomegaly and cholestasis can also be associated with bac­
+terial sepsis, syphilis, tuberculosis, and toxoplasmosis. α1-­Antitrypsin 
+deficiency can also present as hepatomegaly associated with cholestasis 
+in infants.
+Infants with storage diseases can present with isolated hepatomeg­
+aly or hepatosplenomegaly and few other symptoms in the early stages. 
+Hepatomegaly is a feature of these disorders because of a pathologic 
+accumulation of undegraded or partially degraded macromolecules. 
+The mucopolysaccharidoses, the lipid storage diseases, the mucolipi­
+doses, and glycoprotein storage disease are examples of these disorders. 
+The clinical features of lysosomal storage diseases are determined by 
+where the deficient enzyme is expressed and the rate of accumulation 
+of the abnormal material. Hepatomegaly in the neonate can occur in 
+Gaucher disease, Niemann-­Pick disease type A, and Wolman disease. 
+Neonatal hepatosplenomegaly and jaundice may occur in Niemann-­
+Pick disease type C. Progressive neurologic dysfunction may occur later. 
+Hepatosplenomegaly accompanied by coarse facial features and skele­
+tal abnormalities is present in infants with the GM2 gangliosidoses and 
+mucopolysaccharidoses. Based on clinical features and manifestations, 
+specific enzymatic activities may be determined in peripheral white 
+blood cell culture or in cultured skin fibroblasts to establish a precise 
+diagnosis. Hepatomegaly is one of the most common findings in gly­
+cogen storage disorders. A common feature of glycogen storage disor­
+ders is inefficient release of glucose from glycogen stores; this can lead 
+to hypoglycemia when fasting. Since brain energy metabolism heavily 
+depends on the availability of glucose, severe hypoglycemia can lead to 
+metabolic strokes, irreversible brain damage, and death.
+Enzyme replacement therapies are available for treating patients 
+with Gaucher disease type I, glycogen storage disease type II (Pompe 
+disease), and mucopolysaccharidoses types I, II, and VI. Glycogen 
+storage disorders can also be managed with dietary therapy maintain­
+ing euglycemia. Although of limited efficacy, bone marrow transplan­
+tation has been used in patients with several of these disorders.
+Hepatomegaly in the Child and Adolescent
+Hepatomegaly in the child or adolescent may be an isolated finding on 
+a routine physical examination or may be associated with many other 
+clinical features related to systemic disease or impaired liver function.
+Steatohepatitis
+Fatty liver disease in the child and adolescent is associated with child­
+hood obesity. An increase in serum ALT value is found in 6% of over­
+weight children and 10% of obese children. A large number of U.S. 
+adolescents may have fatty infiltration of the liver (nonalcoholic ste­
+atohepatitis or nonalcoholic fatty liver disease). Nonalcoholic steato­
+hepatitis should be suspected in any obese child with hepatomegaly 
+and/or abnormal liver test results. Many of these children have features 
+of metabolic syndrome, such as insulin resistance, arterial hyperten­
+sion, and elevated serum cholesterol and triglyceride levels. In over­
+weight children presenting with hepatomegaly and liver dysfunction, 
+nonalcoholic steatohepatitis should be the primary diagnostic consid­
+eration, but other disorders, such as autoimmune hepatitis and chronic 
+viral hepatitis, must be ruled out. Imaging studies, including ultraso­
+nography, MRI, and CT, may suggest altered composition of the liver 
+consistent with steatosis. Liver biopsy is the definitive diagnostic test 
+and should be considered in patients with persistently abnormal ami­
+notransferases. The purpose of the biopsy is to establish the diagnosis 
+of nonalcoholic steatohepatitis, rule out other conditions, and evalu­
+ate the degree of steatosis, inflammation, and fibrosis. Steatohepatitis 
+can progress to cirrhosis and chronic liver failure. Steatohepatitis is 
+associated with increased mortality from cardiovascular disease and 
+liver cancer. Obese patients with steatohepatitis should be enrolled in 
+a weight management program. Medications such as vitamin E and 
+metformin could be considered. Bariatric surgery can be considered 
+in select individuals with nonalcoholic fatty liver disease and other 
+comorbidities.
+Viral Hepatitis
+Acute viral hepatitis should be considered in the child with hepato­
+megaly and liver dysfunction. The patient may be acutely ill with sud­
+den onset of fever, anorexia, nausea, and vomiting. Jaundice may occur, 
+but many children with acute viral hepatitis are anicteric. On physical 
+examination, varying degrees of tender hepatomegaly may be defined. 
+Hepatitis is confirmed by an elevation in serum aminotransferase lev­
+els. Hepatitis may be caused by hepatotropic viruses (hepatitis A, B, 
+C, D, or E) or by other viral infections that can involve the liver, such 
+as cytomegalovirus (CMV), Epstein-­Barr virus (EBV), adenovirus, 
+enterovirus, and echovirus. Serodiagnosis of all of these infections is 
+possible. The evaluation for various forms of hepatitis should include 
+anti–hepatitis A virus immunoglobulin M (IgM), hepatitis B surface 
+antigen, anti–hepatitis B core antibody, anti–hepatitis C antibody, 
+CMV IgM or CMV PCR, and EBV serologic profile or EBV PCR. Ther­
+apy is available for hepatitis B, hepatitis C, and CMV hepatitis. Hep­
+atitis B or C has the potential to evolve to cirrhosis over many years. 
+Table 17.8 presents the main causes of chronic liver disease in children. 
+Chronic hepatitis B infection is defined by persistently elevated serum 
+levels of hepatitis B DNA. Hepatitis C is an indolent infection with the 
+potential to evolve to cirrhosis over several decades. However, some 
+children, particularly when co-­infected with HIV, may have more rap­
+idly progressive liver disease. Chronic hepatitis C infection is defined 
+by the persistent presence of hepatitis C RNA in serum. As new anti­
+viral agents are available, eradication of hepatitis C is possible in the 
+majority of patients. The novel coronavirus COVID-­19 has been asso­
+ciated with elevated liver enzymes, although additional research and 
+time are needed to determine any long-­term health effects.
+Toxins
+All patients presenting with hepatomegaly and liver dysfunction 
+should be questioned about recent exposure to medications, includ­
+ing over-­the-­counter and herbal supplements or environmental toxins. 
+Acute and chronic hepatitis can be caused by a number of different 
+medications such as isoniazid and methyldopa. Treatment of drug-­ 
+or toxin-­related liver injury is mainly supportive. Contact with the 
+offending agent should be avoided. Corticosteroids may have a role in 
+immune-­related injury, as may occur with phenytoin. N-­acetylcysteine 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+315
+CHAPTER 17  Hepatomegaly
+therapy, by stimulating glutathione synthesis, is effective in preventing 
+hepatotoxicity when administered within 16 hours after an overdose 
+of acetaminophen and appears to improve survival in patients with 
+severe liver injury even 36 hours after toxin ingestion. Liver injury in 
+most cases is completely reversible when the hepatotoxic drug is with­
+drawn. With continued use of certain drugs, such as methotrexate or 
+amiodarone, the effects of hepatotoxicity may proceed insidiously to 
+cirrhosis.
+α1-­Antitrypsin Deficiency
+Children and adolescents with α1-­antitrypsin deficiency may present 
+with manifestations of chronic liver disease or cirrhosis with evidence 
+of portal hypertension. Liver biopsy may show a chronic hepatitis with 
+varying degrees of fibrosis. The diagnosis is established by determi­
+nation of the α1-­antitrypsin phenotype (phenotypes ZZ and SZ cause 
+liver disease) and may be confirmed by liver biopsy. Periportal hepato­
+cytes demonstrate periodic acid–Schiff–positive diastase-­resistant 
+intracytoplasmic globules. Immunocytochemical studies confirm that 
+this material is the abnormal α1-­antitrypsin. It is important to manage 
+the complications of cirrhosis, cholestasis, and portal hypertension. 
+Patients with α1-­antitrypsin deficiency are at increased risk of hepato­
+cellular carcinoma. Liver transplantation is curative, though the major­
+ity of the patients with α1-­antitrypsin deficiency do not require liver 
+transplantation.
+Wilson Disease
+Wilson disease is a metabolic disorder that may manifest with hepatic 
+disease in childhood, ranging from asymptomatic hepatomegaly (with 
+or without splenomegaly) to subacute or chronic hepatitis or fulminant 
+hepatic failure. Initial manifestations of Wilson disease may include por­
+tal hypertension, ascites, edema, and esophageal hemorrhage. Wilson 
+disease can also present with extrahepatic symptoms, such as hemolytic 
+anemia, movement disorders, or mood disorders. Wilson disease is due 
+to variants in a copper-­transporting P-­type adeno­sine triphosphatase, 
+which leads to a failure of biliary copper excretion and a progressive 
+accumulation of copper in the liver and other organs. Lipid peroxida­
+tion, particularly of mitochondrial membranes, results from copper 
+overload leading to the functional alterations in the liver and the brain. 
+A low serum ceruloplasmin level suggests the diagnosis of Wilson dis­
+ease. Serum copper levels may also be elevated, and urinary copper 
+excretion is high, often up to 1,000 μg or more per day. The diagno­
+sis is confirmed with a quantitative determination of copper in a liver 
+biopsy specimen. Treatment of Wilson disease involves chelation and 
+urinary excretion of the excess copper. The most frequently employed 
+agents are penicillamine and trientine. In response to chelation therapy, 
+urinary copper excretion increases markedly, and this is associated with 
+a gradual clinical improvement. Liver transplantation may be required 
+for treatment of fulminant Wilson disease or in patients with decom­
+pensated cirrhosis.
+Autoimmune Liver Disease
+Several forms of autoimmune liver disease may also manifest with 
+hepatomegaly during childhood and adolescence. Autoimmune hep­
+atitis is defined as a continuing inflammatory process manifested by 
+elevated aminotransferases, immunoglobulin G, and autoantibodies 
+(antinuclear antibodies, smooth muscle, actin, microsomal antibod­
+ies). The severity at presentation is highly variable, ranging from lab­
+oratory abnormalities to cirrhosis and hepatic failure. In 25–30% of 
+patients with autoimmune hepatitis, particularly children, the illness 
+may have acute onset; however, in most patients, the onset is insidious 
+with few nonspecific symptoms. The patient may be asymptomatic or 
+have fatigue, malaise, behavioral changes, anorexia, and amenorrhea. 
+Months or even years may pass before a liver problem is recognized 
+with onset of jaundice or bleeding. Autoimmune hepatitis is frequently 
+associated with other autoimmune disorders, including arthritis, vas­
+culitis, nephritis, thyroiditis, celiac disease, inflammatory bowel dis­
+ease, and Coombs-­positive anemia.
+Laboratory studies in autoimmune hepatitis reveal a moderate ele­
+vation, usually <1,000 IU/L, of serum aminotransferases. Serum biliru­
+bin levels can be mildly elevated but can also be normal. Serum alkaline 
+phosphatase activity is normal or only slightly increased. A diagnosis 
+of autoimmune hepatitis may initially be suggested by marked eleva­
+tion of serum gamma globulin levels. Characteristic patterns of serum 
+autoantibodies may be present. Type 1 autoimmune hepatitis is asso­
+ciated with antiactin (smooth muscle) and antinuclear antibodies, and 
+type 2 with microsomal antibodies. In type 1 autoimmune hepatitis, 
+most patients present between 10 and 20 years of age. Type 2 usually 
+affects children between the ages of 2 and 14 years. Liver biopsy is use­
+ful in confirming the diagnosis and assessing the degree of liver dam­
+age. Cirrhosis may be present at the time of diagnosis.
+Immunosuppressive medications are necessary to treat autoim­
+mune hepatitis. Corticosteroid therapy, in combination with azathi­
+oprine, improves the clinical, biochemical, and histologic features in 
+most patients and prolongs transplant-­free survival in most patients 
+with severe disease.
+Primary Sclerosing Cholangitis
+Primary sclerosing cholangitis is an autoimmune disorder with the 
+focus of injury being the biliary tract. The disorder may be difficult 
+to distinguish from autoimmune hepatitis, and some patients have an 
+overlap syndrome with features of both disorders. Hepatomegaly is fre­
+quently present. Patients may be asymptomatic or have jaundice, pru­
+ritus, or abdominal pain. Although serum aminotransferase levels are 
+elevated, there is more striking elevation of serum alkaline phosphatase 
+and GGT activities. Inflammatory bowel disease occurs in 50–75% of 
+patients and may manifest at any time in the course of the liver disease. 
+Magnetic resonance cholangiography reveals beading and irregularity 
+of the intrahepatic and extrahepatic bile ducts. There is no definitive 
+treatment. The course of the disorder is slowly progressive and eventu­
+ally necessitates liver transplantation.
+AIDS
+Hepatobiliary manifestations are common in patients with AIDS. Hep­
+atomegaly may be present, caused by a heterogeneous group of issues 
+that includes viral hepatitis, opportunistic infections, medication-­
+induced hepatic injury, malnutrition, peliosis hepatis, AIDS chol­
+angiopathy, and neoplasms. Pathologic features that are most 
+typical of pediatric AIDS include giant cell transformation and diffuse 
+TABLE 17.8  Causes of Chronic Liver 
+Disease in Children
+Autoimmune hepatitis
+Type 1 (anti–smooth muscle antibody, antinuclear antibody positive)
+Type 2 (anti–liver-­kidney microsomal antibody)
+α1-­Antitrypsin deficiency
+Wilson disease
+Primary sclerosing cholangitis (overlap syndrome with autoimmune hepatitis)
+Viral hepatitis
+Hepatitis B
+Hepatitis C
+Hepatitis D
+Drugs
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+316
+SECTION 4  Gastrointestinal Disorders
+parenchymal lymphoplasmacytic infiltrates, the latter being associated 
+with lymphoid interstitial pneumonitis.
+Other Infections
+Hepatosplenomegaly and anicteric hepatitis have been reported with 
+cat-­scratch disease, typhoid, brucellosis, tularemia, syphilis, Lyme dis­
+ease, leptospirosis, Rocky Mountain spotted fever, Q fever, tuberculo­
+sis, and actinomycosis.
+Perihepatitis Syndrome
+Perihepatitis (formerly Fitz-­Hugh–Curtis) syndrome is associated with 
+acute salpingitis. Symptoms and signs include acute onset of severe 
+right upper quadrant abdominal pain, friction rub over the anterior 
+liver surface, and physical signs of pelvic inflammatory disease on pel­
+vic examination (see Chapter 21).
+Hepatic Abscess
+A pyogenic, fungal, or parasitic hepatic abscess is an unusual infection 
+in children. Common clinical findings are fever, abdominal pain, and 
+hepatomegaly, with or without tenderness.
+Pyogenic abscesses occur most frequently in infants who have had 
+sepsis or umbilical infections (Fig. 17.1). Cases in older children are 
+usually associated with underlying host-­defense defects, particularly 
+HIV, chronic granulomatous disease, and leukemia, or with occurrence 
+of previous blunt trauma to the liver. Pyogenic abscess may follow an 
+episode of appendicitis. Liver abscess may also occur in previously 
+healthy children. Staphylococcus aureus and enteric and anaerobic bac­
+teria are common etiologic agents. Liver function test results are com­
+monly normal. Ultrasonography or CT scan confirms the presence and 
+number of lesions. Echogenic debris or gas may be seen.
+Amebiasis occurs in clusters in the southern United States, with 
+person-­to-­person transmission in association with poor sanitation and 
+crowding. Amebic abscess follows portal invasion by the parasite (Fig. 
+17.2). The diagnosis is established by demonstrating a positive result on 
+enzyme-­linked immunosorbent assay for antibody to Entamoeba histo­
+lytica or by finding trophozoites or cysts in the stool. Toxocariasis and 
+echinococcosis are caused by abortive infection of the liver in humans 
+with the natural parasite of dogs or cats (Fig. 17.3). The diagnosis is 
+confirmed by specific serologic profiles.
+Endocrine Disorders
+Hepatomegaly and mild elevations of aminotransferase levels and bil­
+irubin are common in hypothyroidism and are occasionally observed 
+in hyperthyroidism. An enlarged liver is often found in patients with 
+poorly controlled diabetes mellitus, mainly as a result of excessive 
+glycogen deposition. An extreme, rare case of this process is repre­
+sented by Mauriac syndrome, which is characterized by dwarfism, 
+obesity, moon facies, hypercholesterolemia, and marked hepatomeg­
+aly. Patients with acromegaly can also have mild to severe hepatomeg­
+aly as part of a generalized visceromegaly associated with the disease.
+Liver Tumors
+Liver tumors are the third most common solid abdominal tumors, after 
+neuroblastoma and Wilms tumor (see Chapter 20, Table 17.2). Hepatic 
+metastatic disease can also occur with many childhood neoplasms, 
+most frequently neuroblastoma, leukemia, and lymphoma (Fig. 17.4). 
+The primary tumor location is usually known.
+Benign liver tumors account for 33% of cases of primary hepatic 
+tumors. Benign liver tumors include hemangioendotheliomas, mes­
+enchymal hamartomas, focal nodular hyperplasia (Fig. 17.5), and 
+adenomas. Malignant tumors include hepatoblastoma (Fig. 17.6), 
+hepatocellular carcinoma, and undifferentiated embryonal cell sar­
+coma. Of all hepatic neoplasms, hepatoblastoma, hepatocellular car­
+cinoma, and infantile hemangioendothelioma are the three most 
+common, accounting for 65% of cases. Most hepatic tumors are asymp­
+tomatic or may manifest with abdominal distention, abdominal pain, 
+weight loss, vomiting, or diarrhea. Any hepatic mass can present with 
+acute abdominal pain caused by hemorrhage into the tumor or perito­
+neal cavity.
+Hemangioendotheliomas are the most common benign hepatic 
+tumors. Nearly 95% of all hemangioendotheliomas manifest in the first 
+Fig. 17.1  Escherichia coli abscess in a 3-­week-­old with sepsis. A trans­
+verse color Doppler ultrasound image through the right hepatic lobe 
+shows a complex, septated cystic lesion with intense peripheral vas­
+cularity and no blood flow centrally. (From Walters MM, Robertson RL, 
+eds. Pediatric Radiology: The Requisites. 4th ed. Philadelphia: Elsevier; 
+2017:124, Fig. 5.11.)
+Fig. 17.2  Amebic abscess. Axial contrast-­enhanced CT image shows 
+a large, exophytic low-­attenuation cyst with hyperdense central debris 
+(arrow). (From Coley BD, ed. Caffey’s Pediatric Diagnostic Imaging. 
+13th ed. Philadelphia: Elsevier; 2019:835, Fig. 90.8.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+317
+CHAPTER 17  Hepatomegaly
+year of life. Congestive heart failure due to hyperdynamic circulation 
+may be present in 10–15% of cases. In addition to the liver, heman­
+giomas may be present in the skin, lungs, lymph nodes, pancreas, 
+retroperitoneum, intestine, or bone and be seen with hepatic heman­
+gioendotheliomas. Liver ultrasound shows a hyperechogenic mass fre­
+quently associated with increased vascular flow on Doppler evaluation. 
+MRI or CT with intravenous contrast can be useful to further define 
+the mass if sonographic evaluation is not conclusive.
+Mesenchymal hamartomas, which consist of multiple cysts filled 
+with serous fluid separated by myxomatous stroma, have no capsule. 
+Of mesenchymal hamartomas, 70% manifest in the first 2 years of life. 
+Hepatic adenoma is a rare benign tumor of the liver. Oral contracep­
+tives, diabetes mellitus, glycogen storage disease, portosystemic shunts, 
+and androgen therapy increase the risk of adenoma.
+Focal nodular hyperplasia (FNH) is caused by nodular regener­
+ation of the liver around a focal scar of the liver parenchyma. FNH 
+is seen predominantly in females and may occur at all ages. FNH is 
+more common in patients who have congenital portosystemic shunts 
+(Abernethy anomaly).
+The majority of patients with hepatoblastoma present before 2 
+years of age and 90% by the age of 4. Hepatocellular carcinoma 
+and, less commonly, undifferentiated embryonal sarcoma occur 
+primarily in older children. Tyrosinemia, ataxia-­telangiectasia, 
+glycogen storage disease type I, chronic hepatitis B or hepatitis C, 
+α1-­antitrypsin deficiency, autoimmune hepatitis, and cholestatic 
+cirrhosis are associated with higher risk of hepatocellular carci­
+noma. Serial screening with periodic liver sonograms is indicated 
+for patients with these diseases. If nodules are identified, the nature 
+of the mass can be clarified with CT with contrast (triphasic CT) or 
+MRI with contrast.
+Serum α-­fetoprotein (AFP) is the useful marker of malignant liver 
+tumors; 80–90% of hepatoblastomas and 60–90% of hepatocellular car­
+cinomas are positive. The serum AFP level is normal in mesenchymal 
+hamartoma, focal nodular hyperplasia, and adenoma. The diagnosis of 
+liver tumors is confirmed by needle biopsy, usually with ultrasound or 
+CT guidance.
+Hepatic Cysts
+The origin of solitary cysts is unknown. They are probably the sequelae 
+of focal intrahepatic hemorrhage. Peliosis hepatis, characterized by 
+multiple blood-­filled spaces of varying sizes within the liver paren­
+chyma, can be a complication of long-­term treatment with anabolic 
+steroids. Hepatomegaly, often with tenderness, may be present before 
+any evidence of liver biochemical abnormality is evident.
+Choledochal cysts are defined as congenital dilation or outpouch­
+ing of large bile ducts. Though the majority of choledochal cysts are 
+Fig. 17.3  An axial computed tomography image shows a liver abscess 
+(arrow) in a child with Echinococcus infection. A large, complex cystic 
+lesion is seen, with multiple daughter cysts noted. (From Walters MM, 
+Robertson RL, eds. Pediatric Radiology: The Requisites. 4th ed. Phila­
+delphia: Elsevier; 2017:125, Fig. 5.14.)
+Fig. 17.4  Metastatic neuroblastoma in a 6-­week-­old infant with hep­
+atomegaly. An axial T2-­weighted image with fat saturation through the 
+upper abdomen shows multiple T2 bright metastatic hepatic nodules, 
+with a large metastatic lesion in the left hepatic lobe (asterisk). A right 
+adrenal primary tumor is shown (arrow). (From Walters MM, Robertson 
+RL, eds. Pediatric Radiology: The Requisites. 4th ed. Philadelphia: Else­
+vier; 2017:130, Fig. 5.21.)
+A
+B
+C
+Fig. 17.5  Focal nodular hyperplasia incidentally found in a 15-­year-­old girl. A, An axial contrast-­enhanced 
+CT image shows a lobulated, heterogeneously enhancing mass. B, An axial T2-­weighted MRI with fat sat­
+uration shows a heterogeneously hyperintense mass with a hyperintense central scar (arrow). C, An axial 
+T1-­weighted MRI with fat saturation obtained 20 minutes after the intravenous injection of gadoxetic acid 
+disodium shows accumulation of contrast in hepatocytes within the lesion. (From Walters MM, Robertson 
+RL, eds. Pediatric Radiology: The Requisites. 4th ed. Philadelphia: Elsevier; 2017:128, Fig. 5.18.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+318
+SECTION 4  Gastrointestinal Disorders
+diagnosed in the first year of life, later presentation is possible. Cho­
+ledochal cysts are associated with an increased risk of ascending 
+cholangitis and cholangiocarcinoma; thus, they should be surgically 
+removed.
+Congenital hepatic fibrosis is almost universally associated with 
+autosomal recessive polycystic kidney disease (ARPKD). Approximately 
+40% of patients with congenital hepatic fibrosis have involvement of 
+large bile ducts, which can be visualized by magnetic resonance cholan­
+giogram as multiple cystic dilations of the intrahepatic bile ducts (Caroli 
+disease). Caroli disease is associated with an increased risk of ascend­
+ing cholangitis and sepsis, particularly in patients who underwent kid­
+ney transplantation for ARPKD. Recurrent cholangitis in patients with 
+ARPKD can be an indication for combined liver/kidney transplantation.
+Hepatic Venous Outflow Obstruction
+Hepatic venous outflow obstruction is classified into three categories 
+by the level of obstruction. Obstruction can occur at the level of hepatic 
+venules (sinusoidal obstruction syndrome: venoocclusive disease), 
+hepatic veins (Budd-­Chiari syndrome), or suprahepatic vena cava. 
+Hepatic venous outflow obstruction manifests with acute ascites and 
+tender hepatomegaly. Abdominal pain, distention, and splenic enlarge­
+ment may be prominent. Elevation of the aminotransferases or serum 
+bilirubin level is present in the acute stage.
+The pathologic hallmark of venoocclusive disease (VOD) is occlu­
+sion of central and sublobular hepatic veins by intimal edema and 
+fibrosis. The illness classically follows ingestion of plants that contain 
+a toxic pyrrolizidine alkaloid, which can be present in bush teas and 
+herbal medicines. Venoocclusive disease may also occur as a hepatic 
+response to irradiation and induction for bone marrow transplanta­
+tion. A familial autosomal recessive form of venoocclusive disease 
+associated with immunodeficiency usually presents at or before 1 year 
+of life. Immunodeficiency is manifest by combined hypogammaglobu­
+linemia and T-­cell defects; identifying SP11O pathologic gene variants 
+establishes the diagnosis.
+The clinical diagnosis of VOD is based on either the McDonald 
+(modified Seattle) or Jones (Baltimore) criteria. The McDonald crite­
+ria require the presence of two features from hepatomegaly with right 
+upper quadrant pain, total bilirubin of 34.2 μmol/L or more (normal 
+range <20 μmol/L), and ascites or unexplained weight gain >2% of 
+baseline. The Jones criteria require a total bilirubin of 34.2 μmol/L or 
+more and presence of at least two of the following: hepatomegaly, asci­
+tes, and weight gain >5% of baseline.
+Budd-­Chiari syndrome develops in a variety of conditions that 
+predispose to thrombosis, including intake of oral contraceptives, 
+pregnancy, trauma, tumor invasion, cirrhosis, inflammatory bowel 
+disease, collagen vascular disease, protein C deficiency, sickle cell 
+anemia, polycythemia vera, paroxysmal nocturnal hemoglobinuria, 
+and lymphoproliferative disorders. Membranous obstruction of the 
+suprahepatic vena cava is the most common cause of suprahepatic 
+outflow obstruction. However, thrombosis of the suprahepatic vena 
+cava can occur in any condition that may precipitate Budd-­Chiari 
+syndrome. Diagnostic evaluation begins with pulsed Doppler sonog­
+raphy of the hepatic vessels. CT angiogram can further define the 
+anatomy of the outflow obstruction. Liver biopsy in hepatic outflow 
+obstruction reveals a characteristic pattern of sinusoidal dilatation 
+with centrilobular congestion. Cirrhosis is a poor prognostic sign.
+   	 S U MMA RY  A N D  R E D  F L A G S
+Hepatomegaly that is persistent suggests a chronic illness, which with 
+time may produce serious morbidity or mortality, despite an initial well 
+appearance of the patient. It is important to determine whether the 
+hepatomegaly is a result of a specific liver disease or whether it is part of 
+a generalized systemic illness. Red flags include signs of acute hepatic 
+failure (coma, hemorrhage), developmental delay, failure to thrive, and 
+those noted in Table 17.9.
+A
+B
+Fig. 17.6  Hepatoblastoma in a 5-­month-­old infant with an abdominal mass. A, A composite sagittal ultrasound 
+image of the right hepatic lobe shows a complex, heterogeneously hypoechoic solid mass compressing sur­
+rounding liver parenchyma. B, A coronal T2-­weighted MRI with fat saturation shows a heterogeneous, hyper­
+intense mass extending into the porta hepatis and causing intrahepatic biliary ductal dilatation. (From Walters 
+MM, Robertson RL, eds. Pediatric Radiology: The Requisites. 4th ed. Philadelphia: Elsevier; 2017:129, Fig. 
+5.19.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+319
+CHAPTER 17  Hepatomegaly
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+TABLE 17.9  Red Flags Suggesting Serious Liver Disease in a Patient with Hepatomegaly
+History
+History of prolonged hyperbilirubinemia in infancy
+History of neurologic or psychiatric disease
+Previous blood transfusion, intravenous drug use
+Past history of hepatitis
+Delayed puberty
+Gastrointestinal bleeding
+Family history of chronic liver or kidney disease
+Physical Examination
+Hard or nodular liver
+Splenomegaly
+Ascites
+Prominent abdominal venous pattern
+Growth retardation
+Muscle wasting
+Physical Examination—cont’d
+Digital clubbing
+Palmar erythema
+Spider angiomata
+Arthritis
+Papular acrodermatitis
+Kayser-­Fleischer rings
+Encephalopathy
+Asterixis
+Laboratory Test Results
+Prolonged prothrombin time
+Hypoglycemia
+Hyperammonemia
+Decreased serum albumin
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+319.e1
+BIBLIOGRAPHY
+General Review
+Wolf AD, Lavine JE. Hepatomegaly in neonates and children. Pediatr Rev. 
+2000;21:303–310.
+Clinical Assessment of Liver Size
+Konus OL, Ozdemir A, Akkaya A, et al. Normal liver, spleen, and kidney 
+dimensions in neonates, infants, and children: evaluation with sonography. 
+AJR Am J Roentgenol. 1998;171:1693–1698.
+Naveh Y, Berant M. Assessment of liver size in normal infants and children. J 
+Pediatr Gastroenterol Nutr. 1984;3:346–348.
+Noda T, Todani T, Watanabe Y, et al. Liver volume in children measured by 
+computed tomography. Pediatr Radiol. 1997;27:250–252.
+Weisman LE, Cagle N, Mathis R, et al. Clinical estimation of liver size in the 
+normal neonate. Clin Pediatr (Phila). 1982;21:596–598.
+Younoszai MK, Mueller S. Clinical assessment of liver size in normal children. 
+Clin Pediatr (Phila). 1975;14:378–380.
+Biochemical Studies of Liver Function and Injury
+D’Agata ID, Balistreri WF. Evaluation of liver disease in the pediatric patient. 
+Pediatr Rev. 1999;20:376–390.
+Rosenthal P. Assessing liver function and hyperbilirubinemia in the newborn. 
+Natl Acad Clin Biochem Clin Chem. 1997;43:228–234.
+Neonatal Cholestasis
+Bezerra JA, Balistreri WF. Cholestatic syndromes of infancy and childhood. 
+Semin Gastrointest Dis. 2001;12:54–65.
+Fischler B, Papadogiannakis N, Nemeth A. Aetiological factors in neonatal 
+cholestasis. Acta Paediatr. 2001;90:88–92.
+Jacquemin E, Hadchouel M. Genetic basis of progressive familial intra hepatic 
+cholestasis. J Hepatol. 1999;31:377–381.
+Nio M, Ohi R, Hochman JA, et al. Biliary atresia. Semin Pediatr Surg. 
+2000;9:177–186.
+Suchy FJ. Approach to the infant with cholestasis. In: Suchy FJ, Sokol RJ, 
+­Balistreri WB, eds. Liver Disease in Children. 2nd ed. Philadelphia: Lippincott 
+Williams & Wilkins; 2001:187–194.
+Thompson RJ, Azevedo RA, Galoppo C, et al. European Society for Paediatric 
+Gastroenterology, Hepatology and Nutrition. Cholestatic and metabolic 
+liver diseases: Working Group Report of the Second World Congress of 
+Pediatric Gastroenterology, Hepatology, and Nutrition. J Pediatr Gastroen­
+terol Nutr. 2004;39(2):S611–S615.
+Wolf AD, Levine JE. Hepatomegaly in neonates and children. Pediatr rev. 
+2000;21(9):303–310.
+Zerbini MC, Gallucci SD, Maezono R, et al. Liver biopsy in neonatal cholesta­
+sis: A review on statistical grounds. Mod Pathol. 1997;10:793–799.
+Viral Hepatitis
+Chang MH. Natural history of hepatitis B virus infection in children. J Gastro­
+enterol Hepatol. 2000;15(suppl):E16–E19.
+Gollan JL, Gollan TJ. Wilson disease in 1998: genetic, diagnostic and therapeu­
+tic aspects. J Hepatol. 1998;1:28–36.
+HCV Guidance. Recommendations for testing, managing, and treating hepati­
+tis C, AASLD and IDSA. Updated August 27, 2020. Available from: https://
+www.hcvguidelines.org/unique-­populations/children.
+Hochman JA, Balistreri WF. Viral hepatitis: Expanding the alphabet. Adv 
+Pediatr. 1999;46:207–243.
+Jonas MM. Viral hepatitis. From prevention to antivirals. Clin Liver Dis. 
+2000;4:849–877.
+Metabolic Liver Disease
+McGovern MM, Mistry PK. The lysosomal storage diseases. In: Suchy FJ, Sokol 
+RJ, Balistreri WB, eds. Liver Disease in Children. 2nd ed. Philadelphia: 
+Lippincott Williams & Wilkins; 2001:687–700.
+Mitchell EL, Khan Z. Liver disease in alpha-­1 antitrypsin deficiency: current 
+approaches and future directions. Curr Pathobiol Rep. 2017;5(3):243–252.
+Rashid M, Roberts EA. Nonalcoholic steatohepatitis in children. J Pediatr 
+Gastroenterol Nutr. 2000;30:48–­53.
+Ratko TA, Marbella A, Godfrey S, et al. Enzyme-­Replacement Therapies for 
+Lysosomal Storage Diseases. Agency for Healthcare Research and Quality 
+(US); 2013 Jan. Available from: https://www.ncbi.nlm.nih.gov/books/
+NBK117223/.
+Roy A, Finegold MJ. Hepatic neoplasia and metabolic diseases in children. Clin 
+Liver Dis. 2010;14(4):731–746.
+Saudubray JM, Martin D, de Lonlay P, et al. Recognition and management of 
+fatty acid oxidation defects: a series of 107 patients. J Inherit Metab Dis. 
+1999;22:488–502.
+Sokol RJ, Treem WR. Mitochondria and childhood liver diseases. J Pediatr 
+Gastroenterol Nutr. 1999;28:416.
+Vos MB, Abrams SH, Barlow SE, et al. NASPGHAN clinical practice guideline 
+for the diagnosis and treatment of nonalcoholic fatty liver disease in chil­
+dren: recommendations from the Expert Committee on NAFLD (ECON) 
+and the North American Society of Pediatric Gastroenterology. 
+J Pediatr Gastroenterol Nutr. 2017;64:319–334.
+Autoimmune Liver Disease
+Gregorio GV, Portmann B, Karani J, et al. Autoimmune hepatitis/sclerosing 
+cholangitis overlap syndrome in childhood: a 16-­year prospective study. 
+Hepatology. 2001;33:544–553.
+Roberts EA. Primary sclerosing cholangitis in children. J Gastroenterol Hepa­
+tol. 1999;14:588–593.
+Mieli-­Vergani G, Vergani D, Baumann U, et al. Diagnosis and management 
+of pediatric autoimmune liver disease: ESPGHAN hepatology committee 
+position statement. J Pediatr Gastroenterol Nutr. 2018;66(2):345–360.
+Liver Tumors
+Ng K, Mogul DB. Pediatric liver tumors. Clin Liver Dis. 2018;22(4):753–772.
+Miscellaneous Disorders Causing Hepatomegaly
+Gentil-­Kocher S, Bernard O, Brunelle F, et al. Budd-­Chiari syndrome in chil­
+dren: report of 22 cases. J Pediatr. 1988;113:30–38.
+Rubbia-­Brandt L. Sinusoidal obstruction syndrome. Clin Liver Dis. 
+2010;14(4):651–668.
+Shneider BL, Magid MS. Liver disease in autosomal recessive polycystic kidney 
+disease. Pediatr Transplant. 2005;9(5):634–639.
+Hepatic Venoocclusive Disease
+Fan CQ, Crawford JM. Sinusoidal obstruction syndrome (hepatic veno-­
+occlusive disease). J Clin Exp Hepatol. 2014;4(4):332–346.
+Wadleigh M, Ho V, Momtaz P, et al. Hepatic veno-­occlusive disease: patho­
+genesis, diagnosis and treatment. Curr Opin Hematol. 2003;10:451–462.
+Wang T, Ong P, Roscioli T, et al. Hepatic veno-­occlusive disease with immu­
+nodeficiency (VODI): first reported case in the U.S. and identification of a 
+unique mutation in Sp110. Clin Immunol. 2012;145:102–107.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

@@ -1,0 +1,2938 @@
+Chapter Title One Line
+Chapter Author
+818
+Arthritis
+James J. Nocton
+Musculoskeletal complaints are among the most frequent reasons for 
+children to present to a primary care office, walk-­in clinic, or emer­
+gency room. While the child and parents may be focusing on what they 
+perceive to be a localized problem, complaints involving the musculo­
+skeletal system (e.g., arthralgia, myalgia, joint swelling, poorly localized 
+extremity pain, limping, or refusal to walk) may be associated with a 
+long list of potential systemic illnesses. Children or their parents rarely 
+arrive in the clinic expressing a concern for “arthritis” or “patellofemo­
+ral syndrome.” Instead, they typically describe symptoms such as pain, 
+swelling, limping, or other limitations of activity and function. These 
+children might have complaints as a result of chronic inflammatory 
+arthritis or an associated systemic rheumatic disease, a traumatic or 
+overuse condition, a mechanical or anatomic problem, or a pain syn­
+drome, among other possible explanations.
+The differential diagnosis of extremity pain is extensive (Table 44.1). 
+For many of these diagnoses, the history and physical examination are 
+sufficient to confirm a diagnosis; for others, specific laboratory tests, 
+imaging studies, or rarely tissue biopsy will additionally be required to 
+confirm a suspected diagnosis. Musculoskeletal symptoms may indi­
+cate pathologic processes isolated to a single extremity or joint, disease 
+restricted to the musculoskeletal system, or a systemic illness of which 
+the joint symptoms may be just one feature.
+Arthritis is a specific sign indicating objective inflammation of the 
+joint and can be defined as (1) swelling of the joint or (2) limitation 
+of motion combined with one of the following: tenderness, warmth, 
+or pain on motion. Arthritis should be distinguished from arthralgia 
+(Table 44.2), myalgia, neuralgia, bone pain, cutaneous pain, and allo­
+dynia, because if arthritis is present, the diagnostic possibilities are lim­
+ited to more specific categories of disease (Fig. 44.1). Arthritis is not 
+a specific disease; there are infectious, postinfectious/reactive, hema­
+tologic, metabolic, oncologic, and rheumatic causes of arthritis. The 
+cause of the arthritis is determined by establishing the characteristics of 
+the arthritis, including the number and location of the joints affected; 
+the severity, degree of disability, and chronicity of the arthritis; and the 
+pattern of any associated systemic signs and symptoms.
+HISTORY
+Although the parents and child are usually the principal historians, it 
+is helpful to determine whether other adults have seen signs or have 
+been aware of the child’s symptoms. Have daycare providers reported 
+problems to the parents? Has the school staff, coach, or physical edu­
+cation teacher noticed any problems similar to those seen at home? 
+Obtaining consistent information from several observers in different 
+settings determines the frequency and consistency of the symptoms, 
+as well as how disabling the symptoms have been, and may often help 
+to confirm the reliability of the history. If there are inconsistencies, it 
+becomes increasingly difficult to formulate a diagnosis, and informa­
+tion from the physical examination, along with potential laboratory 
+and imaging studies, may be needed to resolve these inconsistencies.
+Pain Location
+Pain directly over a joint or joints may indicate synovial inflammation 
+(arthritis), arthralgia secondary to viral infection, or mechanical joint 
+problems such as joint laxity or ligament trauma. Pain near a joint may 
+represent disease in the muscle, bone, tendon, enthesis (tendon inser­
+tion sites), or bursa, or may be referred from a nearby joint. There are 
+several possible sites of extremity pain (Fig. 44.2). Pain may involve a 
+whole limb or limbs, or isolated regions of a limb, in which case it may 
+be secondary to neuropathy, myalgia, or a regional pain syndrome. 
+Complaints of pain “all over” may suggest diffuse pain related to a sys­
+temic illness or, if chronic, an amplified or myofascial pain syndrome. 
+Intense pain localized to a single small area is seen with infection, 
+trauma, fracture, or tumor. Migrating arthritis or arthralgia is more 
+suggestive of diagnoses such as acute rheumatic fever or immune com­
+plex–mediated disease (e.g., from infection or drug reaction) and is 
+less consistent with trauma, tumors, osteomyelitis, or septic arthritis, 
+except for the migratory polyarthritis-­tenosynovitis-­dermatitis seen 
+in certain instances of disseminated Neisseria gonorrhoeae infection or 
+endocarditis.
+Pain Character
+Arthritis is an aching discomfort that is usually not severe; some chil­
+dren with arthritis may not complain of pain at all. Complete disability 
+secondary to arthritis is rare and should prompt a search for an alter­
+native explanation. Severe pain should increase the suspicion of a pain 
+syndrome or bone disease such as osteomyelitis, leukemia, metastatic 
+neuroblastoma, fracture, or bone tumors. Sporadic episodes of extreme 
+pain interspersed with pain-­free intervals are seen with pain syn­
+dromes such as growing pains, myofascial pain, and complex regional 
+pain syndrome, or in situations in which psychologic and behavioral 
+factors, such as stress, anxiety, or depression, contribute to the pain. 
+Sharp, radiating, or throbbing pain is unusual for arthritis and sug­
+gests an alternative explanation such as neuropathic pain, trauma, or 
+psychogenic pain.
+44
+SECTION 8  Musculoskeletal Disorders
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+TABLE 44.1  Conditions Causing Arthritis or Extremity Pain
+Rheumatic and Inflammatory Diseases
+Juvenile idiopathic arthritis
+Systemic lupus erythematosus
+Juvenile dermatomyositis
+Polymyositis
+Polyarteritis nodosa
+Scleroderma
+Sjögren syndrome
+Behçet disease
+Mixed connective tissue disease
+Granulomatosis with polyangiitis
+Microscopic polyangiitis
+Eosinophilic granulomatosis with polyangiitis
+Sarcoidosis
+Kawasaki disease
+Henoch-­Schönlein purpura (immunoglobulin A vasculitis)
+Hypersensitivity vasculitis
+Chronic recurrent multifocal osteomyelitis (chronic nonbacterial osteomyelitis)
+Autoinflammatory syndromes including familial Mediterranean fever
+Juvenile ankylosing spondylitis
+Inflammatory bowel disease
+Psoriasis
+Relapsing polychondritis
+Infectious Illnesses
+Septic arthritis (e.g., Staphylococcus aureus, Streptococcus pneumoniae, 
+Kingella kingae, Neisseria gonorrhoeae, Haemophilus influenzae)
+Osteomyelitis
+Lyme disease (Borrelia burgdorferi)
+Viral illness (e.g., parvovirus, rubella, mumps, Epstein-­Barr virus, hepatitis B and 
+C, Chikungunya fever, HIV, human T-­lymphotropic virus-­1 [HTLV-­1], Zika)
+Pyomyositis
+Fungal arthritis
+Mycobacterial infection
+Endocarditis
+Hematologic Disorders
+Hemophilia
+Hemoglobinopathies (including sickle cell disease)
+Thalassemia
+Immunodeficiencies
+Hypogammaglobulinemia
+Immunoglobulin A deficiency
+HIV
+Common variable immunodeficiency
+Complement deficiency
+DiGeorge syndrome
+Ataxia-­telangiectasia
+Wiskott-­Aldrich syndrome
+Congenital and Metabolic Disorders
+Gout
+Pseudogout (calcium pyrophosphate dihydrate crystal deposition disease)
+Mucopolysaccharidoses
+Fucosidoses
+Glycogen storage diseases
+Thyroid disease (hypothyroidism, hyperthyroidism)
+Hyperparathyroidism
+Vitamin C deficiency (scurvy)
+Vitamin D deficiency (rickets)
+Hereditary connective tissue disease (Marfan syndrome, Ehlers-­Danlos syndrome)
+Fabry disease
+Farber disease
+Orthopedic Disorders
+Trauma
+Tendonitis
+Patellofemoral syndrome
+Hypermobility syndrome
+Overuse syndrome
+Osteochondritis dissecans
+Avascular necrosis (including Legg-­Calvé-­Perthes disease)
+Pigmented villonodular synovitis
+Hypertrophic osteoarthropathy
+Slipped capital femoral epiphysis
+Osteolysis
+Benign bone tumors (including osteoid osteoma)
+Synovial chondromatosis
+Idiopathic multicentric osteolysis
+Neuropathic Disorders
+Peripheral neuropathies
+Carpal tunnel syndrome
+Charcot joints (neuropathic osteoarthropathy)
+Neoplastic Disorders
+Leukemia
+Neuroblastoma
+Lymphoma
+Bone tumors (osteosarcoma, Ewing sarcoma)
+Benign cartilage tumor (e.g., chondroma)
+Chondrosarcoma
+Histiocytic syndromes
+Synovial tumors
+Reactive Arthritis
+Acute rheumatic fever
+Postinfectious arthritis (meningococcus, H. influenzae b, postenteritis, 
+posturethritis)
+Serum sickness
+Transient synovitis of the hip
+Postimmunization
+Pain Syndromes
+Fibromyalgia
+“Growing” pains
+Depression (with somatization)
+Anxiety
+Stress
+Complex regional pain syndrome
+Myofascial pain syndromes
+Miscellaneous Disorders
+Plant-­thorn synovitis (Pantoea agglomerans, Nocardia sp.)
+Myositis ossificans
+Eosinophilic fasciitis
+PAPA (pyogenic arthritis, pyoderma gangrenosum, acne)
+SAPHO (synovitis, acne, hyperostosis, osteitis)
+Raynaud phenomenon
+Erythromelalgia
+Sweet syndrome
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+820
+SECTION 8  Musculoskeletal Disorders
+Pain Timing
+Arthritis usually causes consistent patterns of daily discomfort with 
+minor variability from day to day. Stiffness or pain-­related discomfort 
+occurs on awakening in the morning or after other periods of inac­
+tivity, such as prolonged sitting in class or taking a long car ride. The 
+stiffness may last for hours but generally improves with activity during 
+the day. Some forms of arthritis, such as Lyme arthritis or enthesitis-­
+related arthritis, a subtype of juvenile idiopathic arthritis (JIA), may be 
+more episodic. Lyme arthritis classically causes symptoms for days to 
+weeks, usually in a single knee, interspersed with periods of improve­
+ment. Enthesitis-­related arthritis can cause sudden swelling and dis­
+comfort in one or more joints for several weeks to months at a time, 
+followed by gradual spontaneous improvement.
+Discomfort that occurs with activities and improves with rest is 
+more suggestive of mechanical pain associated with patellofemo­
+ral syndrome, hypermobility, tendonitis, overuse, or muscle strain. 
+Affected children do not have significant symptoms in the morning or 
+after naps, and these conditions are generally not associated with signs 
+of significant inflammation such as warmth, prominent or chronic 
+swelling, or limited range of motion.
+Nocturnal pain that wakes children from sleep may be seen in 
+conditions such as leukemia, bone tumors, or infections, but may 
+also occur with less critical conditions such as growing pains, muscle 
+cramps, or psychogenic pain. Children with benign causes of nocturnal 
+pain will lack systemic symptoms, are well during the day, and have 
+normal physical examination findings, whereas those with inflamma­
+tory illnesses typically have additional signs and symptoms.
+Pain Acuity
+Most chronic arthritis is insidious in onset and affected children often 
+have symptoms for weeks to months before they seek medical atten­
+tion. If the onset is sudden and severe, the evaluation should focus on 
+excluding diagnoses that require urgent treatment, such as trauma, 
+fracture, atraumatic hemarthrosis, septic arthritis, or osteomyelitis. 
+Acute rheumatic fever, reactive arthritis, and viral-­associated arthritis 
+or myositis may also manifest suddenly.
+Children who describe having extremity pains for many months or 
+years often have mechanical causes of their discomfort such as hyper­
+mobility syndrome or patellofemoral syndrome, psychogenic pain, or 
+other relatively benign conditions such as growing pains.
+Signs of Inflammation
+The swelling and warmth of arthritis are often apparent to the child and 
+parents. Exceptions may include the shoulder and hip, in which the 
+joints are too deep for these signs to be visible, and the spinal, temporo­
+mandibular, and sacroiliac joints, in which the articular surfaces are 
+small in relation to the surrounding soft tissues. In these areas, physi­
+cal examination may reveal tenderness or limitation of motion in the 
+absence of signs of inflammation.
+Disability
+The chief complaint associated with arthritis may often be a disability 
+such as limping, trouble running or climbing stairs, or difficulty dress­
+ing. Some children have associated pain and signs of inflammation, 
+whereas others have little or no discomfort, instead presenting with an 
+isolated decrease in functional ability.
+If the chief complaint is the disability, it is helpful to localize the 
+source of the disability to the joint, the bones, the muscles, or the 
+nerves. Muscle or nerve disease manifests primarily as weakness, 
+although some children with sensory neuropathies or myositis, par­
+ticularly acute viral or bacterial myositis, will also have pain. Dermato­
+myositis and polymyositis cause symmetric proximal weakness in the 
+upper and lower extremities. The characteristic symptoms are difficul­
+ties climbing stairs, rising from the floor, taking the big step onto a bus 
+or into the family minivan, and washing or combing the hair, as well 
+as fatigue and poor endurance. Isolated lower extremity or asymmetric 
+weakness should increase suspicion of neurologic disease.
+TABLE 44.2  Distinguishing Characteristics 
+of Arthritis and Arthralgia
+Arthritis
+Arthralgia
+Prominent swelling
+Minimal or no swelling
+Morning stiffness
+No morning stiffness
+Symptoms improve with activity
+Symptoms are exacerbated by activity
+Stiffness follows rest
+Pain constant or improves with rest
+Limited range of motion
+Normal or excessive range of motion
+Warmth of joint
+No warmth
+Symptoms usually daily, consistent 
+with minor variation
+Symptoms variable, constant, or 
+intermittent
+HISTORY AND PHYSICAL EXAMINATION
+ARTHRITIS
+NO ARTHRITIS
+Common
+ Septic arthritis
+ Reactive arthritis
+ Rheumatic disease
+Uncommon
+ Malignancy
+ Metabolic disease
+ Hemophilia
+Common
+ Orthopedic or
+     traumatic disorder
+ Viral illness
+ Pain syndrome
+Uncommon
+ Malignancy
+ Benign bone lesion
+ Metabolic disease
+Fig. 44.1  Algorithm for determining the cause of extremity pain based 
+on the presence or absence of arthritis.
+Muscle:
+inflammation
+(myositis)
+Bursa
+Tendon
+Joint space:
+joint infection
+Synovial
+membrane:
+synovitis
+(rheumatoid
+arthritis)
+Enthesis:
+enthesopathy
+(ankylosing
+spondylitis)
+Bone
+Bone
+Muscle
+Joint space:
+microcrystalline
+arthritis (gout)
+Joint
+capsule
+Cartilage:
+cartilage
+degeneration
+(osteoarthritis)
+Localized site
+(bursitis)
+Fig. 44.2  Location of musculoskeletal disease processes by site, patho­
+physiologic process, and typical disease (parentheses). (From Fries JF. 
+Approach to the patient with musculoskeletal disease. In: Wyngaarden 
+JB, Smith LH, Bennett JC, eds. Cecil Textbook of Medicine. 19th ed. 
+Philadelphia: WB Saunders; 1992:1488.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+821
+CHAPTER 44  Arthritis
+Disabilities from arthritis are caused by limited range of motion or 
+discomfort in the joint rather than weakness. Limping, particularly in 
+the mornings; unilateral toe-­walking because of inability to extend the 
+knee; and difficulty running and jumping are seen with lower extremity 
+arthritis. The child with hand or wrist arthritis has difficulty opening 
+bottles, turning doorknobs, manipulating buttons or snaps on clothing, 
+and gripping pencils or utensils.
+Medical History
+Numerous genetic syndromes and metabolic diseases are associated 
+with arthritis and arthropathy (see Table 44.1). Endocrine disorders 
+such as diabetes, hyperparathyroidism, and hypothyroidism may 
+be associated with arthropathy, periosteal inflammation, and mus­
+cle weakness, respectively. Arthritis is more frequent in patients with 
+psoriasis and inflammatory bowel disease. Bone pain is common in 
+hemoglobinopathies such as sickle cell disease. Cystic fibrosis and 
+other chronic pulmonary diseases increase the likelihood of painful 
+hypertrophic osteoarthropathy: the clinical triad of arthritis, digi­
+tal clubbing, and ossifying periostitis of the long bones. Arthritis or 
+arthralgia may occur after viral diseases or immunization, particularly 
+with immunization against rubella and hepatitis B, presumably sec­
+ondary to immune complex deposition in the joint.
+Medications
+Medications may directly cause joint or periarticular symptoms, either 
+via serum sickness–like reactions associated with immune complex 
+arthritis or swelling related to anaphylaxis. Response to medications 
+may also provide further insight into the etiology of arthritis. In most 
+children, an adequate dose of nonsteroidal antiinflammatory drugs 
+(NSAIDs) improves the discomfort of arthritis to some degree. In rheu­
+matic fever, NSAIDs often result in dramatic improvement in symptoms. 
+Conversely, the patient who continues to have severe pain despite ade­
+quate doses of antiinflammatory and analgesic medication is more likely 
+to have an infection, a fracture, a tumor, or psychogenic pain.
+Family History
+For some diseases, a positive family history increases the likelihood 
+that other individuals in the family have that disease, but the genetics 
+of the rheumatic diseases are complex, and none of the genetic asso­
+ciations are strong enough to confirm or eliminate a diagnosis based 
+solely on family history. Within the rheumatic diseases, the family his­
+tory is most helpful when diagnostic possibilities include enthesitis-­
+related arthritis, psoriatic arthritis, or lupus. Ankylosing spondylitis, 
+reactive arthritis, or inflammatory bowel disease in the family increases 
+the likelihood that the child’s arthritis is caused by one of these entities. 
+The presence of the human leukocyte antigen (HLA)-­B27 in these fam­
+ily members may increase the likelihood of enthesitis-­related arthritis 
+in the child. Approximately 30% of patients with lupus will have a first-­
+degree relative affected by lupus. Less common familial illnesses that 
+may cause rheumatic complaints include familial Mediterranean fever 
+and other autoinflammatory syndromes that cause periodic fevers, 
+mucopolysaccharidoses, fucosidoses, hemophilia, and muscular dys­
+trophies. A family history of adults with osteoarthritis or other forms 
+of degenerative arthritis is generally not helpful, since these entities 
+are relatively common in adults and rarely relevant to a child’s joint 
+symptoms.
+Social History
+Determining the extent to which the problem has limited usual activ­
+ities helps to gauge the severity of the problem. Has the child missed 
+school because of their symptoms? Has the child been able to par­
+ticipate in physical education, organized sports, and other physical 
+activities? Is the child participating in social activities with friends? 
+In some instances, the limitations are directly related to discomfort or 
+disability from arthritis, but school absences and the discontinuation 
+of sports and social activities may also be secondary to depression or 
+psychogenic pain. It is helpful to ask the parents whether the child’s 
+mood or personality has changed recently and whether there have been 
+any recent known psychosocial stressors such as problems at school 
+or with friends or discord within the family. Chronic amplified pain 
+syndromes in children are frequently associated with a history of psy­
+chosocial stress, anxiety, or depression.
+Travel history is important in considering certain infectious arthri­
+tides. The spirochete Borrelia burgdorferi, the causative agent of Lyme 
+disease, is transmitted by the bite of a deer tick that has a specific geo­
+graphic distribution. Lyme arthritis characteristically causes episodic 
+joint effusions in one or several large joints, most commonly the knee. 
+A small percentage of patients develop chronic arthritis. In the United 
+States, endemic regions include the Northeast (Connecticut, Rhode 
+Island, and Massachusetts), mid-­Atlantic (Long Island, New York City 
+suburbs, New Jersey, southeastern Pennsylvania, Delaware, and Mary­
+land), and the upper Midwest (parts of Minnesota, Illinois, and Wis­
+consin). Although these endemic areas have been gradually expanding, 
+a child who does not live in or has not traveled to these areas is unlikely 
+to have Lyme disease. Arthritis may be the only symptom of Lyme 
+disease and may not appear until up to 2 years after the tick bite; a 
+history of the classic rash (erythema migrans) is helpful but not nec­
+essary for a diagnosis of Lyme disease. Rickettsiosis and ehrlichiosis 
+tend to produce arthralgia but occasionally result in frank arthritis; 
+residing in or traveling to endemic regions should increase suspicion 
+of these vector-­borne infections. The geographic distribution of Chi­
+kungunya virus has been widening; in addition to established ende­
+micity in Africa, Asia, regions of Europe, and areas within the Indian 
+and Pacific Oceans, transmission has been documented throughout 
+North and South America and the Caribbean. Acute infection is often 
+accompanied by rash and, when present in combination with fever, 
+small and large joint polyarthritis, arthralgia, and myalgia, may mimic 
+systemic JIA. Some patients may go on to develop chronic joint symp­
+toms; inquiring about travel to endemic regions may hint at the diag­
+nosis in both the acute and chronic stages of infection. Other viruses 
+confined to a specific geographic area include Zika (South America, 
+Africa, Asia), Ross River (South Pacific), o’nyong-­nyong (Africa), and 
+Sindbis (Africa, Middle East, Philippines).
+REVIEW OF SYSTEMS
+Constitutional Symptoms
+Some rheumatic diseases, including several forms of childhood arthri­
+tis, are generalized systemic illnesses and cause fevers, poor appetite, 
+weight loss, and fatigue. The absence of these symptoms helps elim­
+inate specific illnesses as diagnostic possibilities. When fevers are 
+present, establishing the pattern of fever is important. Systemic JIA 
+typically produces one or two high temperature spikes each day, with 
+many afebrile hours in between (Fig. 44.3). More persistent fevers tend 
+to be seen with infections or Kawasaki disease. A periodic fever pat­
+tern, in which fevers occur for several days, followed by weeks without 
+fever, is seen in familial Mediterranean fever, cyclic neutropenia; the 
+syndrome of periodic fever, aphthous stomatitis, pharyngitis, and ade­
+nopathy (PFAPA); and other autoinflammatory syndromes. Systemic 
+lupus erythematosus (SLE), vasculitis, rheumatic fever, serum sickness, 
+inflammatory bowel disease, sarcoidosis, leukemia, and neuroblastoma 
+may cause fevers associated with arthritis or extremity pains. These ill­
+nesses do not cause specific patterns of fever.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+822
+SECTION 8  Musculoskeletal Disorders
+Decreased appetite is common in many arthritides, but when asso­
+ciated with documented weight loss, may indicate more severe or sys­
+temic illness. Although most children with JIA do not have significant 
+appetite changes, those with systemic JIA may have substantial appe­
+tite and growth disturbances. Severe polyarticular JIA may cause some 
+appetite changes and mild weight loss. Children with Crohn disease 
+or ulcerative colitis, both of which are often accompanied by abdom­
+inal pain and diarrhea, may demonstrate poor appetite and failure to 
+thrive. Vasculitis, SLE, scleroderma, malignancies, and chronic infec­
+tions such as tuberculosis are additional causes of significant weight 
+loss. An increase in weight should raise the suspicion of hypothyroid­
+ism or fluid retention.
+Fatigue is common with any systemic illness, and it may be present 
+in systemic or polyarticular JIA, SLE, hypothyroidism, polymyositis, 
+dermatomyositis, rheumatic fever, and chronic pain syndromes. The 
+clinician should attempt to distinguish between generalized fatigue and 
+specific muscle weakness. The presence of proximal muscle weakness, 
+often associated with fatigue and poor endurance, is characteristic of 
+polymyositis and dermatomyositis.
+Skin Changes
+Systemic JIA is nearly always accompanied by evanescent pink or 
+salmon-­colored macules, often a few centimeters in diameter or 
+smaller but sometimes coalescing to form larger patches (Fig. 44.4). 
+These may be generalized or localized to the trunk or extremities. The 
+macules usually appear with the fever spikes, are not pruritic, and may 
+resolve completely when the fever is absent. Sometimes parents do not 
+notice the rash because of its fleeting nature. Acute rheumatic fever is 
+associated with a specific rash, erythema marginatum, though only 
+in approximately 5% of cases. Erythema marginatum is also a fleet­
+ing rash, changing in distribution over time, and consists of erythem­
+atous patches with serpiginous borders that tend to migrate, usually 
+105
+F
+AM
+4 8 12 4 8 12 4 8 12 4 8 12 4 8 12 4 8 12 4 8 12 4 8 12 4 8 12 4 8 12 4 8 12 4 8 12 4 8 12 4 8 12
+PM
+6/27
+Date
+Hour
+Temperature
+Respiration pulse
+6/28
+6/29
+6/30
+7/1
+7/2
+7/3
+AM PM AM PM AM PM AM PM AM PM AM PM
+40.6
+104
+40.0
+103
+39.4
+102
+38.9
+101
+38.3
+100
+150
+130
+110
+90
+70
+50
+30
+10
+37.8
+99
+37.2
+98
+36.7
+97
+36.0
+C
+Fig. 44.3  Intermittent fever of systemic-­onset juvenile idiopathic arthritis in a 3-­year-­old girl. (From Petty 
+RE, Laxer RM, Lindsley CB, et al., eds. Textbook of Pediatric Rheumatology. 7th ed. Philadelphia: Elsevier; 
+2016:206.)
+Fig. 44.4  Systemic juvenile idiopathic arthritis rash, a salmon-­colored, 
+macular rash that is nonpruritic. The individual lesions are transient, 
+appear in crops, and may be in a linear distribution after minor trauma 
+such as scratching the surface of the skin (Koebner phenomenon). 
+(From Petty RE, Laxer RM, Lindsley CB, et al., eds. Textbook of Pediat­
+ric Rheumatology. 7th ed. Philadelphia: Elsevier; 2016:206.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+823
+CHAPTER 44  Arthritis
+over the trunk and proximal extremities. Because of these changes 
+in distribution, families often confuse both of these rashes with urti­
+caria. The malar rash of SLE is a fixed, erythematous, nonblanching 
+patch over the cheeks and nasal bridge that tends to spare the nasola­
+bial folds; SLE may also cause vasculitic rashes, as well as nonspecific 
+erythematous macular or papular lesions. Vasculitic rashes consist of 
+palpable purpura and can sometimes be ulcerative. The characteristic 
+skin lesions in dermatomyositis are pathognomonic: heliotrope rash 
+is a violaceous discoloration of the upper eyelid, often accompanied by 
+edema. The heliotrope may sometimes be accompanied by more wide­
+spread facial erythema (Fig. 44.5). Gottron papules are erythematous 
+plaques or papules that appear on the extensor surface of the metacar­
+pophalangeal and proximal interphalangeal joints of the hands (Fig. 
+44.6) in individuals with dermatomyositis. These are sometimes scaly, 
+are sometimes pale or atrophic, and can be confused with psoriasis or 
+eczema if not for the distribution. Lesions similar to the Gottron pap­
+ules occasionally appear on the extensor surfaces of the elbows and 
+knees and over the medial malleoli. In addition, erythematous patches 
+may appear on the shoulders, chest, or face (see Fig. 44.5C), where the 
+appearance can cause confusion with the malar rash of SLE.
+Erythema migrans occurs in up to 80% of cases of Lyme disease 
+in children and appears days to weeks after the tick bite. The lesion 
+expands, beginning as a small papule and then forming a large ery­
+thematous, circular patch, usually at least 5 cm in diameter and often 
+with some clearing in the center to produce a target-­like appearance 
+(Fig. 44.7). If Lyme disease is left untreated, the lesion usually lasts for 
+several weeks and then gradually resolves. If dissemination occurs, 
+some individuals develop multiple secondary lesions that appear simi­
+lar to the primary lesion.
+Various mucocutaneous findings are present in up to half of patients 
+with acute Chikungunya virus infection. Rash tends to be a generalized 
+morbilliform maculopapular eruption that spares the face and appears 
+within several days of the onset of fever, before subsiding within a 
+week. Patients may also experience areas of hyperpigmentation, often 
+in the centrofacial region and restricted to the nose, a finding termed 
+the Chick sign. Up to a third of patients with acute Chikungunya will 
+develop a chronic arthritis that may mimic JIA; therefore, inquiring 
+about a remote history of characteristic skin findings, as well as consti­
+tutional symptoms such as a brief febrile illness temporally correlated 
+with travel to regions where Chikungunya is endemic, may prompt 
+testing for prior exposure to Chikungunya.
+The history of other types of rashes or skin lesions may suggest 
+other diagnoses. Measles and parvovirus infections, for example, have 
+characteristic rashes. A history of photosensitivity is suggestive of SLE. 
+Petechiae may be seen with SLE, vasculitis, immune thrombocytope­
+nia, or leukemia. Pallor or cyanosis of the digits, hands, and feet upon 
+exposure to cold temperatures suggests Raynaud phenomenon, which 
+is most often seen in those with no underlying systemic illness but may 
+be associated with several rheumatic diseases, most commonly SLE, 
+mixed connective tissue disease (MCTD), and scleroderma. Sclero­
+derma causes tightening, thickening, and the development of a waxy 
+texture to the skin, and it frequently begins on the hands, feet, and face.
+Additional Symptoms
+Questioning the parents about cognitive difficulties, including declin­
+ing school performance or memory loss, helps screen for the possibility 
+of subtle central nervous system involvement that may be associated 
+with SLE or central nervous system vasculitis. Seizures or frank psy­
+chosis may also occur in these illnesses. Alopecia is frequently seen 
+with SLE and may also occur with hypothyroidism. Ocular symptoms, 
+such as pain or redness of the eye, may occur with uveitis or with non­
+specific orbital inflammation (also known as orbital pseudotumor) 
+potentially associated with a number of rheumatic diseases. Acute 
+anterior uveitis (involving the iris and/or ciliary body) can be seen 
+with reactive arthritis and enthesitis-­related arthritis. Chronic ante­
+rior uveitis is most common in younger children with oligoarticular or 
+polyarticular JIA and is usually asymptomatic. Sarcoidosis in children 
+Fig. 44.5  Heliotrope rash with edema of the eyelids in juvenile der­
+matomyositis. (From Petty RE, Laxer RM, Lindsley CB, et  al., eds. 
+Textbook of Pediatric Rheumatology. 7th ed. Philadelphia: Elsevier; 
+2016:359.)
+Fig. 44.6  Symmetric, scaly, erythematous plaques and papules over 
+the metacarpopharyngeal and proximal interphalangeal joints of the 
+hands in juvenile dermatomyositis. C, Atrophic, pale lesions may also 
+occur. (From Petty RE, Laxer RM, Lindsley CB, et al., eds. Textbook of 
+Pediatric Rheumatology. 7th ed. Philadelphia: Elsevier; 2016:359.)
+Fig. 44.7  Erythema migrans. Lesions begin as red macules that expand 
+to form large rings that often have a typical “bull’s-­eye” appearance. 
+(From Petty RE, Laxer RM, Lindsley CB, et al., eds. Textbook of Pediat­
+ric Rheumatology. 7th ed. Philadelphia: Elsevier; 2016:554.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+824
+SECTION 8  Musculoskeletal Disorders
+may be associated with both anterior and posterior uveitis. Ulcerations 
+of the nose or hard palate may be present in SLE. Both uveitis and oral 
+aphthous ulcerations can be seen with inflammatory bowel disease 
+and also with Behçet disease, which can also include genital aphthous 
+ulceration. Frequent sinusitis is often an early manifestation of granu­
+lomatosis with polyangiitis (GPA).
+Chest pain that is worse when the patient lies supine and improves 
+with sitting up and leaning forward may represent pericarditis, which 
+is most commonly associated with SLE and systemic-­onset JIA but may 
+occur in rheumatic fever. Dysphagia suggests esophageal dysmotility, 
+which may occur with inflammatory myopathies and scleroderma. 
+Asking whether the child needs to cut food into small pieces, needs to 
+drink an unusual amount of fluid with meals, or takes a long time to 
+complete a meal are helpful ways of assessing dysphagia. Abdominal 
+pain, vomiting, and diarrhea are nonspecific but if severe or associated 
+with melena or hematochezia, might suggest Henoch-­Schönlein pur­
+pura (HSP), also known as immunoglobulin A (IgA) vasculitis, as well 
+as inflammatory bowel disease, polyarteritis nodosa with vasculitis of 
+the intestine, or the rare intestinal vasculitis associated with SLE or 
+dermatomyositis. Testicular pain is seen with some forms of vasculitis, 
+particularly IgA vasculitis (HSP) and polyarteritis nodosa. Peripheral 
+edema, sacral edema, or periorbital edema may be present with ill­
+nesses causing glomerulonephritis, such as SLE and the antineutrophil 
+cytoplasmic antibody (ANCA)-­associated vasculitides.
+PHYSICAL EXAMINATION
+Observing the child ambulate or explore the examination room provides 
+a sense of the severity of the illness and the degree of disability. Partic­
+ularly with young children, this period of observation may give a better 
+sense of the range of motion or the degree of discomfort in the joints 
+than the formal examination, when the child may be uncooperative.
+The examination begins by reviewing the vital signs. Fever, espe­
+cially in the child with arthritis or localized extremity pain, may sug­
+gest an infectious process. Systemic-­onset JIA is the only subtype of 
+JIA associated with fever. Abnormalities in other vital signs are not 
+expected with isolated arthritis and suggest that a systemic disease may 
+be present. Tachycardia may be caused by fever, anxiety, pericarditis, or 
+myocarditis. Tachypnea suggests the presence of cardiac or pulmonary 
+disease, and hypertension increases the suspicion of renal involvement.
+In any child with joint complaints, it is critical to examine all the 
+joints, even those that are asymptomatic. Children or their parents may 
+focus on the joint that is most painful or causes the most disability 
+and are often unaware of the presence of arthritis in other joints. The 
+neck and the joints of the upper extremities are best examined with the 
+child in a sitting position. Children with inflammation in the joints of 
+the cervical spine usually have limitations in extension, lateral flexion, 
+and rotation. This is tested by asking the child to look up at the ceiling, 
+touch each ear to the ipsilateral shoulder, and touch the chin to each 
+shoulder.
+Arthritis of the temporomandibular joint is common with poly­
+articular JIA and might easily be overlooked. Children with chronic 
+arthritis of these joints develop micrognathia and often retrognathia 
+as a result of delayed mandibular growth. The oral opening is often 
+decreased in size, and there may be pain with opening and closing of 
+the jaw or tenderness to palpation directly over the joint.
+Shoulder arthritis is identified by detecting limited range of motion 
+and pain with motion. With the upper arm abducted to 90 degrees and 
+the elbow flexed to 90 degrees, the clinician can then rotate the upper 
+arm superiorly and inferiorly (external and internal rotation of the 
+humerus, respectively), noting any limitation or pain. Alternatively, the 
+patient can be asked to abduct and internally rotate the arm, reaching 
+behind the head to touch the contralateral scapula, and then to adduct 
+and internally rotate the arm, reaching behind the back and upward, 
+again touching the contralateral scapula. The acromioclavicular joints 
+and the sternoclavicular joints are occasionally affected by arthritis and 
+should be palpated, noting any swelling or tenderness.
+In the elbow, arthritis often produces detectable swelling and 
+warmth, usually identified posteriorly, proximal to the olecranon. 
+Elbow extension and flexion should also be tested, along with supi­
+nation of the forearm and hand. Many children can normally hyper­
+extend their elbows, and the degree of extension is variable; therefore, 
+it is helpful to compare the range of motion of each elbow to the con­
+tralateral side.
+The wrists are inspected for swelling and palpated for warmth and 
+tenderness. Many children with wrist arthritis develop swelling on the 
+dorsal aspect of the wrist that is usually nontender. Extension tends 
+to be more limited than flexion in wrist arthritis, and radial devia­
+tion tends to be more limited than ulnar deviation. Children with 
+wrist arthritis frequently complain of pain or withdraw their arm with 
+maneuvers to test flexion and extension of the wrist.
+The metacarpophalangeal (MCP) joint and the proximal interpha­
+langeal (PIP) and distal interphalangeal (DIP) joints should be indi­
+vidually palpated, and any swelling, tenderness, or warmth should be 
+noted (Fig. 44.8). The examiner should flex and extend the MCP joints, 
+looking for limitations. To test the range of motion of the PIP and DIP 
+joints, the child should try to supinate the hand and flex all the digits, 
+attempting to touch the fingertips to the palm. To examine the first 
+MCP and thumb interphalangeal joint, the child should try to touch 
+the tip of the thumb to the base of the fifth finger. Grip strength is 
+determined by having the child tightly squeeze two of the clinician’s 
+fingers. Arthritis of the wrist or any of the small joints of the hand 
+decreases grip strength.
+The child should next lie in a supine position, either in the parent’s 
+lap or on the examination table so that the lower extremities can be 
+examined. Each hip is taken through its range of motion, beginning 
+with flexion by trying to bring the knee as close to the chest as possible. 
+Any pain or limitation is noted. With the hip and knee each flexed to 90 
+degrees, internal and external rotation are tested by keeping the knee 
+in a fixed position and turning the lower leg laterally and medially, 
+thereby rotating the femur. The hip and knee are then extended back to 
+a neutral supine position and abduction is tested. With the child in the 
+prone position, the examiner evaluates hip extension by placing a hand 
+Fig. 44.8  The joints of the wrists and hands of a 2-­year-­old male are 
+swollen, warm, and painful with limited extension of the fingers. (From 
+Petty RE, Laxer RM, Lindsley CB, et  al., eds. Textbook of Pediatric 
+Rheumatology. 7th ed. Philadelphia: Elsevier; 2016:194.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+825
+CHAPTER 44  Arthritis
+on the child’s ipsilateral iliac crest and lifting the child’s thigh posteri­
+orly with the knee extended. Hip arthritis most often causes limitations 
+with internal rotation and extension, usually in association with pain 
+in the inguinal area.
+The knee is inspected for effusions and other obvious deformities. 
+Palpation of the knee assesses for warmth, a common finding in knee 
+arthritis; synovial swelling (producing a “spongy” feel); or an effusion 
+(often feels like a “water balloon”). Applying pressure in the suprapatel­
+lar area with one hand while palpating on either side of the patella with 
+the other allows for the detection of effusions more readily because this 
+forces excessive joint fluid that has accumulated in the suprapatellar 
+area into the synovial space lateral and medial to the patella. Small effu­
+sions may be detected by eliciting a bulge sign. This is done by milk­
+ing the medial and lateral depressions around the patella superiorly 
+to push the fluid into the suprapatellar space and then gently pushing 
+either medially or laterally just superior to the patella. This releases the 
+fluid inferiorly, causing the area medial to the patella to bulge out. The 
+popliteal fossa should be palpated, because fluid within the knee joint 
+may track posteriorly as it accumulates, producing fullness in the pop­
+liteal fossa and sometimes a frank cyst.
+Palpating around the edges of the patella causes pain in many ado­
+lescents with patellofemoral syndrome (also known as chondroma­
+lacia patellae), a common cause of knee pain in active adolescents. In 
+another maneuver that elicits pain in this syndrome, the patient relaxes 
+the quadriceps muscles while the examiner displaces the patella inferi­
+orly by pushing on the superior pole of the patella. While the examiner 
+maintains pressure on the patella, the patient contracts the quadri­
+ceps. In patients with patellofemoral syndrome, pain elicited by this 
+maneuver is referred to as a positive patellar apprehension test, while 
+a grinding sensation felt by the examiner constitutes a positive patellar 
+grind sign. The tibial tubercle and patellar tendon should be inspected 
+and palpated for swelling and tenderness associated with Osgood-­
+Schlatter disease and patellar tendonitis, respectively.
+Flexing and extending the knee tests range of motion. Most young 
+children can normally touch their heel to their buttocks and can hyper­
+extend the knee slightly. The examiner can detect subtle limitations in 
+extension by standing at the foot of the table and lifting the heels of 
+the child off the table as the child relaxes their legs in a fully extended 
+position. If one knee is limited with extension, the patella on that side 
+may appear slightly more elevated.
+Swelling in the ankles is often best seen when inspecting and pal­
+pating the posterior aspect of the ankle, where fullness on either side 
+of the ankle may be appreciated between the Achilles tendon and the 
+malleoli. Warmth is common with ankle arthritis. Testing range of 
+motion in the ankle should include both the tibiotalar ankle joint and 
+the subtalar talocalcaneal joint. Cupping the heel with one hand and 
+using the other hand to grasp the forefoot allows the examiner to move 
+the forefoot superiorly (dorsiflexion) and inferiorly (plantar flexion) to 
+evaluate the tibiotalar joint. The hand cupping the heel is then rocked 
+laterally and medially to check inversion and eversion associated with 
+motion at the subtalar joint. Holding the heel firmly with a cupped 
+hand and gently rotating the forefoot with the other hand tests the 
+joints of the midfoot. Each of the metatarsophalangeal (MTP) joints 
+is palpated along with each of the toes. The MTP joints are flexed and 
+extended noting any limitations or pain, and as with other joints, also 
+noting any asymmetry with the contralateral MTP joints. The toes are 
+inspected for the presence of swelling. The plantar fascia and the Achil­
+les tendon are palpated, and any tenderness or swelling is noted.
+The child should stand so that the examiner can evaluate the back. 
+The sacroiliac joints are palpated, any tenderness is noted, and the 
+child is asked to keep the knees extended and bend forward, touching 
+the hands to the ground if possible. The lumbar spine should curve 
+forward normally without flattening. The modified Schober measure­
+ment, which reveals whether the lumbar spine flexes normally, is done 
+by marking the lumbar spine at a point where a horizontal line con­
+necting the lateral lumbar indentations intersects the spine. Then the 
+examiner measures 10 cm above and 5 cm below that spot while the 
+child is standing. When the child bends forward, the distance between 
+the top and bottom marks should increase to at least 21 cm as the ver­
+tebral bodies separate during flexion. A shorter distance suggests lim­
+itation in mobility of the spine and potential spondylitis. Scoliosis is 
+detected by noting any asymmetric elevation of the shoulder and upper 
+back while the child bends forward.
+Hypermobility is a very common cause of pain associated with 
+sports and other activities; it tends to improve with rest. Hypermobil­
+ity, patellofemoral syndrome, frequent ankle sprains, and pes planus 
+are frequently seen together. The hypermobile child or adolescent can 
+hyperextend the knees and elbows, appose the thumb to the forearm 
+while flexing the wrist, hyperextend the MCP joints so that the dig­
+its are parallel to the forearm when the wrist is extended, and easily 
+put the palms flat on the floor while bending forward from a stand­
+ing position with the knees locked. Extreme hypermobility is seen in 
+some individuals with Ehlers-­Danlos syndrome or Marfan syndrome. 
+Obtaining a Beighton score may help the examiner more objectively 
+assess the degree of hypermobility (see Chapter 47).
+Myofascial pain syndromes are often associated with the presence 
+of specific trigger points, exquisitely tender, well-­localized points often 
+detected in the following locations: the occiput, trapezius muscles, 
+medial borders of the scapula, upper outer quadrant of the buttocks, 
+the second cervical space anteriorly, the second costochondral space 
+just distal to the lateral epicondyle on the forearm, the greater trochan­
+ter in the proximal leg, and the medial aspects of the knees. Their pres­
+ence in the older child with diffuse pain, fatigue, and difficulty sleeping 
+is highly suggestive of a myofascial pain syndrome.
+Proximal muscle strength testing and an evaluation of muscle 
+bulk should be performed in any patient complaining of weakness or 
+fatigue. The deltoids, biceps, triceps, psoas, quadriceps, and hamstrings 
+are tested. Neck flexor weakness is common in dermatomyositis and 
+polymyositis and is tested by having the child lie supine and lift only 
+their head. Most children can lift and keep the head elevated, even if 
+asked to resist pressure from the examiner’s hand against the forehead. 
+To test proximal leg strength, the child rises from a sitting position on 
+the floor. Chronic knee arthritis or hip disease leads to atrophy of the 
+ipsilateral quadriceps. Similarly, ankle arthritis causes the gastrocne­
+mius to atrophy; wrist arthritis leads to wasting of the forearm muscles; 
+and elbow contractures cause atrophy of the triceps muscle. Atrophy is 
+easily overlooked, and it is sometimes helpful to measure the circum­
+ference of the thigh, calf, or upper arm to detect asymmetry.
+The skin and mucous membranes should be examined carefully, as 
+there may be clues to the presence of systemic disease (Table 44.3). Sys­
+temic JIA, SLE, acute rheumatic fever, and dermatomyositis are associ­
+ated with characteristic rashes. Petechiae or palpable purpura suggests 
+vasculitis. Nodules are seen with acute rheumatic fever and polyartic­
+ular rheumatoid factor–positive JIA. Thickening and tightening of the 
+skin, particularly over the distal extremities and face, are suggestive 
+of scleroderma. Nasal or palatal ulcers suggest SLE, whereas aphthous 
+ulceration may be seen with inflammatory bowel disease or Behçet 
+disease, the latter particularly if on the genitals in the absence of sexu­
+ally transmitted infection. Alopecia, either localized or diffuse, may be 
+apparent to the examiner without being recognized by the patient. The 
+presence of peripheral or periorbital edema increases the suspicion of 
+glomerulonephritis.
+The remainder of the physical examination including head, eyes, 
+ears, chest, heart, and abdomen should also be performed carefully, 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+826
+SECTION 8  Musculoskeletal Disorders
+with attention to potential signs that might indicate systemic and/or 
+organ-­specific disease.
+LABORATORY STUDIES
+Laboratory testing should be considered when the diagnosis is unclear and 
+systemic disease is a concern. It is important to recognize that laboratory 
+tests are not diagnostic of JIA. Tests frequently seen in “arthritis panels” 
+such as those for antinuclear antibody (ANA), rheumatoid factor (RF), 
+ESR, and CRP are not specific for arthritis and may be abnormal in healthy 
+children or in those with infections and other coincidental diseases.
+A CBC with manual differential is useful in decreasing the suspi­
+cion of an acute infection or leukemia as the etiology of bone pain, 
+joint pain, or even frank arthritis. A normal CBC is reassuring, but it is 
+also helpful to compare the platelet count to the ESR when concerned 
+about leukemia. Because platelets are an acute-­phase reactant, they 
+should increase as the ESR increases. A normal or low platelet count in 
+a child with markedly elevated ESR increases the suspicion of leukemia 
+or another cause for platelet destruction or decreased bone marrow 
+platelet production.
+An elevated peripheral white blood cell (WBC) count is often 
+present in septic arthritis or osteomyelitis but is neither sensitive 
+nor specific for these infections. In systemic-­onset JIA, the WBC 
+count may be markedly elevated to 20,000 WBCs/mm3 or greater 
+and the hemoglobin may be as low as 6 or 7 g/dL; the platelet count 
+is typically significantly elevated. For many of the other inflamma­
+tory diseases that are associated with arthritis or extremity pain, a 
+mild to moderate normocytic anemia and a mild thrombocytosis 
+are common. SLE may be associated with anemia, leukopenia, and 
+thrombocytopenia.
+The ESR is helpful when physical examination is inconclusive for 
+signs of inflammation. In children who are uncooperative or whose 
+body habitus precludes adequate assessment, it may be difficult to 
+detect small effusions or subtle limitations in the range of motion. In 
+these instances, an elevated ESR increases the suspicion of arthritis, 
+although a normal ESR does not exclude it. In children who clearly 
+have rheumatic disease or infection, the ESR is not useful diagnosti­
+cally, but it may be useful as a means of monitoring disease activity over 
+time. CRP is often elevated in systemic-­onset JIA, polyarticular JIA, 
+and infectious arthritis but is often normal in oligoarticular arthritis. 
+Procalcitonin is typically normal in JIA and elevated in bacterial osteo­
+articular infections.
+Vasculitis or SLE may result in glomerulonephritis; proteinuria or 
+red blood cell casts can be detected on urinalysis, and the serum creat­
+inine level will be elevated if glomerulonephritis has resulted in renal 
+insufficiency. Severe proteinuria will also lead to hypoalbuminemia. 
+Kawasaki disease is associated with sterile pyuria.
+Serum aminotransferases are elevated in patients with hepatitis and 
+occasionally in patients with SLE. In those with myositis, elevations in 
+aminotransferases often occur concomitantly with increased creatine 
+kinase, lactate dehydrogenase, and aldolase levels.
+Antinuclear Antibody
+The ANA test is a sensitive screen for SLE or overlap syndromes that 
+include features of SLE, being positive in approximately 99% of these 
+patients. The ANA is not a useful screen for any other rheumatic 
+disease, including JIA, because it is neither sensitive nor specific 
+enough for these other conditions; furthermore, the ANA is positive 
+in many healthy children and adults, and it may be positive in infec­
+tions and other autoimmune and systemic illnesses (Table 44.4). There­
+fore, it does not necessarily indicate the presence of disease and should 
+only be ordered as a diagnostic screening test when there is a strong 
+suspicion of SLE or an overlap syndrome.
+Those with SLE and overlap syndromes usually have high ANA 
+titers, typically with values of 1:640 or higher, although there is no 
+level of titer elevation that is sufficiently specific or sensitive enough 
+to either diagnose or exclude the possibility of SLE, and further testing 
+will be necessary in children with features of SLE and an elevated ANA. 
+The pattern of the ANA is rarely helpful. Homogeneous and speckled 
+patterns are the most common and are not specific. A peripheral or 
+“rim” pattern is usually associated with anti–double-­stranded DNA 
+(anti-­dsDNA) antibodies and is more specific for SLE. A nucleolar 
+pattern suggests the presence of anti–Scl-­70 antibodies, which may be 
+seen in patients with scleroderma.
+Rheumatoid Factor
+The RF test is not sensitive or specific for JIA. Only approximately 5% 
+of children with JIA have a positive RF result, usually in teenagers with 
+polyarticular arthritis. RF is an immunoglobulin M antibody directed 
+against immunoglobulin G. In children with polyarthritis, the presence 
+of RF is a poor prognostic factor; these children have a high likelihood 
+of developing chronic, erosive arthritis. A positive test result for RF can 
+be seen with other illnesses associated with the formation of immune 
+complexes, including rheumatic diseases such as SLE or vasculitis, 
+and with infectious diseases such as bacterial endocarditis, infectious 
+mononucleosis, and hepatitis B or C. RF should not be ordered, and 
+TABLE 44.3  Skin Manifestations of 
+Rheumatic Disease
+Physical Finding
+Possible Disease
+Petechiae, purpura
+Vasculitis (may be palpable)
+Leukemia
+Meningococcemia
+Other infections
+SLE
+Erythema nodosum
+Inflammatory bowel disease
+Streptococcal infection
+Sarcoidosis
+Drug reaction
+Tuberculosis
+Fungal infection
+Gottron papules
+Dermatomyositis
+Alopecia
+SLE, hypothyroidism
+Calcification
+Dermatomyositis, scleroderma
+Subcutaneous nodules
+Polyarticular JIA, rheumatic fever
+Oral ulcers
+SLE, Behçet disease, inflammatory bowel disease, 
+reactive arthritis
+Genital ulcers
+Behçet disease
+Digital ulcers
+Vasculitis, SLE, scleroderma
+Tight, thickened skin
+Scleroderma
+Livedo reticularis
+Antiphospholipid syndrome, SLE, cutaneous 
+polyarteritis nodosa
+Nail dystrophy or pits
+Psoriasis
+Edema
+SLE, vasculitis, scleroderma, eosinophilic fasciitis, 
+serum sickness, Henoch-­Schönlein purpura
+Desquamation
+Kawasaki disease, scarlet fever
+Cyanosis
+Raynaud phenomenon, hypertrophic 
+osteoarthropathy
+JIA, juvenile idiopathic arthritis; SLE, systemic lupus erythematosus.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+827
+CHAPTER 44  Arthritis
+will not be helpful diagnostically, in individuals who do not have poly­
+arthritis on physical examination.
+Additional Antibody Testing
+If the history and physical examination findings suggest SLE and an 
+individual has an elevated ANA, additional autoantibody testing is 
+helpful (see Table 44.4). Anti-­dsDNA antibodies and anti-­Smith anti­
+bodies are highly specific for SLE. Antiribonucleoprotein (anti-­RNP) 
+antibodies may be seen in patients with SLE; anti-­RNP antibodies 
+along with an elevated ANA and without anti-­dsDNA or anti-­Smith 
+antibodies suggest the specific overlap syndrome mixed connective 
+tissue disease, which has a combination of clinical features seen with 
+SLE, dermatomyositis, and scleroderma. Anti–Sjögren syndrome type 
+A (anti-­SSA; also known as anti-­Ro) and anti–Sjögren syndrome type 
+B (anti-­SSB; also known as anti-­La) antibodies are occasionally seen 
+in patients with SLE but are not specific. They are seen in Sjögren syn­
+drome, an illness producing chronic inflammation of the salivary and 
+lacrimal glands and resulting in xerostomia and xerophthalmia. These 
+antibodies may also be seen in asymptomatic, healthy individuals.
+Anticardiolipin antibodies, one of several antiphospholipid anti­
+bodies, may be present in SLE, but they are also seen in asymptomatic 
+individuals and in those with the antiphospholipid antibody syndrome, 
+in which clinical manifestations are a result of the hypercoagulable state 
+associated with these antibodies. These manifestations include venous 
+and arterial thromboses and recurrent spontaneous abortions. Many 
+patients with SLE have a false-­positive Venereal Disease Research 
+Laboratory (VDRL) test result because this test also detects antiphos­
+pholipid antibodies. A positive direct Coombs test result, indicative of 
+an autoimmune hemolytic anemia, is common in patients with SLE, 
+although rarely is the hemolysis clinically significant.
+GPA and the other ANCA-­associated vasculitides are the only types 
+of vasculitis that can be diagnosed on the basis of serologic testing. 
+Antiproteinase 3 antibodies, identified on immunofluorescence testing 
+as cytoplasmic-­staining or c-­ANCA, are 95% sensitive and specific for 
+GPA. The antimyeloperoxidase antibody (corresponding to peripheral-­
+staining or p-­ANCA on immunofluorescence testing) is much less spe­
+cific; it may be present in those with other vasculitides and also in those 
+with a variety of infectious and inflammatory illnesses.
+Viral infections such as human parvovirus B19, Epstein-­Barr virus, 
+Chikungunya, and rubella may be associated with arthralgia or arthritis, 
+and testing for antibodies to these viruses may be helpful in some situa­
+tions. For diagnosing Lyme disease, the enzyme-­linked immunosorbent 
+assay (ELISA) is a very sensitive, but not specific, screening test. A posi­
+tive ELISA should therefore be confirmed by Western blot (Table 44.5).
+Complement
+The complement proteins C3 and C4 are often depressed in patients 
+with active SLE, which indicates consumption secondary to the for­
+mation of immune complexes. Low levels of complement can be seen 
+occasionally with some vasculitides and in other illnesses in which 
+immune complexes form, such as bacterial endocarditis. The CH50 is a 
+functional assay that measures the activity of the entire classical path­
+way of complement. If any single complement protein is sufficiently 
+depressed, this may cause a decrease in the CH50. The CH50 is less 
+sensitive and less specific than testing for the individual complement 
+components.
+TABLE 44.4  Autoantibodies in Children
+Test
+Characteristics
+Antinuclear antibody 
+(ANA)
+99% sensitive in SLE; very nonspecific; present 
+in healthy children, endocarditis, autoimmune 
+hepatitis, JIA, Hashimoto thyroiditis, 
+lymphoma, psoriatic arthritis, dermatomyositis, 
+scleroderma, mononucleosis
+Anti–double-­stranded 
+DNA (dsDNA)
+Up to 80% sensitive for SLE; highly specific 
+(nearly 100%)
+Anti-­Smith (Sm)
+Up to 50% sensitive in SLE; nearly 100% specific
+Anti-­SSA (Anti-­Ro)
+Up to 50% sensitive in SLE; seen in 
+asymptomatic children; present in Sjögren 
+syndrome and scleroderma; can be associated 
+with neonatal lupus
+Anti-­SSB (Anti-­La)
+Up to 15% sensitive in SLE; seen in similar 
+conditions as anti-­SSA; can be associated with 
+neonatal lupus
+Antiribonucleoprotein 
+(RNP)
+Up to 40% sensitive in SLE; also seen in mixed 
+connective tissue disease
+Antihistone
+Drug-­induced SLE-­like syndromes
+Rheumatoid factor (RF)
+30% of SLE patients; 5% of JIA; also seen in 
+infections
+Antiproteinase 3 
+(c-­ANCA)
+90–95% sensitive and specific for granulomatosis 
+with polyangiitis
+Antimyeloperoxidase 
+(p-­ANCA)
+75% sensitive for microscopic polyangiitis; seen 
+in other vasculitides, inflammatory bowel 
+disease, other inflammatory diseases
+Anti-­RBC membrane 
+(Coombs positive)
+Up to 50% sensitive in SLE; nonspecific, seen 
+also in Evans syndrome, isolated hemolytic 
+anemia
+Anticardiolipin
+Seen in SLE; nonspecific, seen in asymptomatic 
+children and in those with antiphospholipid 
+syndrome
+ANCA, antineutrophil cytoplasmic antibody; JIA, juvenile idiopathic 
+arthritis; RBC, red blood cell; SLE, systemic lupus erythematosus; SSA 
+and SSB, Sjögren syndrome type A and type B.
+TABLE 44.5  Criteria for Diagnosing Lyme 
+Disease
+Characteristic clinical presentation
+ • Early localized disease: erythema migrans at the site of a recent tick bite, 
+possible constitutional symptoms (malaise, headache, mild neck stiffness, 
+myalgia, arthralgia), possible fever
+ • Early disseminated disease: multiple erythema migrans lesions at sites 
+distinct from initial lesion, cranial nerve palsies (particularly cranial nerve 
+VII), lymphocytic meningitis, polyradiculitis, constitutional symptoms, 
+carditis
+ • Late disease: arthritis, polyneuropathy, encephalomyelitis
+Exposure in an endemic area*
+Positive Lyme EIA, confirmed by positive Western blot
+Western blots are considered positive if the following are present:
+For IgM, two of the following three bands must be present:
+23, 39, 41 kD
+For IgG, 5 of the following 10 bands must be present:
+18, 21, 28, 30, 39, 41, 45, 58, 66, 93 kD
+*Mid-­Atlantic and southern New England coastal regions, northwestern 
+Wisconsin, and eastern Minnesota are considered the most endemic 
+regions in North America. Even within these regions, the incidence of 
+infection can vary widely.
+EIA, enzyme immunoassay; Ig, immunoglobulin; kD, kilodaltons.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+828
+SECTION 8  Musculoskeletal Disorders
+DIAGNOSTIC IMAGING
+Radiographs
+Plain radiographs of bones and joints may be useful to evaluate for 
+potential infections, trauma, leukemia, or solid bone tumors. Acute 
+osteomyelitis usually causes periosteal elevation, which may be seen on 
+radiographs after approximately 1 week of illness. Chronic osteomyelitis 
+causes abscesses of the bone that are often evident on plain radiographs. 
+Fractures, including stress fractures and small avulsion fractures, are 
+occasionally detected even when the clinical information is not strongly 
+suggestive. Leukemia can cause lucency within the metaphyses of the 
+long bones. Solid tumors, including osteosarcoma, Ewing sarcoma, and 
+the benign osteoid osteoma, may all be identified on plain radiographs. 
+Because knee pain may reflect referred pain from the hip, any child with 
+unexplained knee or thigh pain should also have pelvis and hip radio­
+graphs performed, including a “frog-­leg” view. The young, limping child 
+may have Legg-­Calvé-­Perthes disease as a result of avascular necrosis of 
+the femoral head. A slipped capital femoral epiphysis is classically seen in 
+overweight patients in their early teens (see Chapter 45).
+In the child with arthritis, soft tissue swelling or effusions within the 
+joint may be identified on plain radiographs; however, normal radio­
+graphs do not exclude the possibility of joint inflammation. Chronic 
+arthritis may demonstrate bone erosions and juxta-­articular osteope­
+nia. Radiographs can be useful in monitoring the course of the disease 
+and can sometimes help guide management.
+In children with suspected SLE, a chest radiograph may reveal an 
+enlarged cardiac silhouette, suggestive of a pericardial effusion or the 
+presence of pleural effusions. If GPA is a consideration, a chest radio­
+graph may reveal bilateral cavitating pulmonary nodules. Pulmonary 
+hemorrhage, with bilateral alveolar infiltrates, can be seen with GPA, 
+SLE, microscopic polyangiitis (MPA), and rarely IgA vasculitis.
+Ultrasound
+Ultrasonography is a portable, convenient, noninvasive, and efficient 
+tool for imaging joints, tendons, and soft tissues. It may be useful in 
+identifying synovitis, tenosynovitis, and joint effusions when the phys­
+ical examination is difficult or inconclusive. When used with Doppler, 
+ultrasonography can also identify sites of increased blood flow, which 
+might be an indication of active inflammation.
+Magnetic Resonance Imaging
+MRI is useful when plain radiographs either are unrevealing or have 
+poorly defined abnormalities. MRI, a sensitive test for septic arthritis, 
+osteomyelitis, suppurative myositis, and avascular necrosis, can also 
+reveal small joint effusions that are not apparent on physical exam­
+ination. MRI helps distinguish hemarthrosis from other forms of 
+joint swelling and detects ligamentous and meniscal tears. MRI pro­
+vides better visualization and characterization of tumors than plain 
+radiographs. If myositis is suspected, MRI may reveal increased signal 
+within the muscle as a result of inflammation and can help determine 
+a potential biopsy site. MRI is relatively sensitive for arthritis, allowing 
+very good visualization of synovial tissue.
+Bone Scan
+A bone scan is useful when plain radiographs are unremarkable and 
+when the source of pain cannot be adequately localized. It is a sensi­
+tive test for inflammation in the bones and joints, and it can often help 
+distinguish arthritis from osteomyelitis, fractures, and tumors. Bone 
+scans, like plain radiographs, are not as sensitive for osteomyelitis if 
+obtained very early in the disease process, and a second scan should 
+be considered if the initial study is negative. A bone scan may detect 
+osteoid osteomas that are not apparent on plain radiographs. Complex 
+regional pain syndrome (CRPS) may be associated with an abnormal 
+bone scan, often demonstrating asymmetric increased uptake on the 
+affected side.
+Additional Imaging Studies
+Echocardiography is useful when acute rheumatic fever is a consid­
+eration. Clinically silent valvulitis with resulting insufficiency, as seen 
+in the context of rheumatic fever, may be detected only by echocar­
+diography. The echocardiogram may also detect pericardial effusions 
+in patients with SLE and coronary artery aneurysms in patients with 
+Kawasaki disease.
+Conventional angiography, CT with angiography, and magnetic 
+resonance angiography are useful for the diagnosis of medium-­ or 
+large-­vessel vasculitis such as polyarteritis nodosa or Takayasu arte­
+ritis. High-­resolution CT of the chest without contrast is helpful in 
+visualizing pulmonary nodules in patients with GPA and in detecting 
+basilar lung fibrosis in those with scleroderma.
+Joint Fluid Aspiration
+Synovial fluid analysis in childhood is most helpful for confirming 
+or excluding three possible problems: (1) infectious arthritis, (2) 
+hemarthrosis (either secondary to trauma or a bleeding diathesis), 
+and very rarely (3) crystal diseases such as gout or pseudogout. A 
+fourth condition, the rare entity of pigmented villonodular syno­
+vitis, is suggested by the aspiration of a “chocolate brown” synovial 
+fluid from the knee.
+Among these possibilities, only infection is a common consider­
+ation in childhood and is typically suspected based on the history 
+and physical examination findings. The child with septic arthritis is 
+often febrile and has acute joint pain, swelling, warmth, and occa­
+sionally erythema, most commonly in a single joint (Table 44.6), 
+over a period of hours to days. When septic arthritis is suspected, 
+arthrocentesis is necessary, and the joint fluid is sent for cell count, 
+protein quantification, glucose measurement, Gram stain, and 
+microbiologic studies, including bacterial culture and polymerase 
+chain reaction (PCR) testing for Kingella kingae (Table 44.7). Addi­
+tional microbiologic assays might include fungal culture and myco­
+bacterial testing if suspected. Some infectious arthritides develop 
+more indolently, such as gonococcal arthritis, tuberculous arthri­
+tis, and opportunistic infections in immunocompromised hosts. 
+Adolescents with monoarticular arthritis (Table 44.8) or with acute 
+polyarthritis should undergo joint aspiration if they have risk fac­
+tors for gonococcal disease. Likewise, if there has been exposure to 
+tuberculosis or if a child is immunocompromised, joint fluid aspi­
+ration should be considered.
+If the child has sustained trauma and it is unclear from the history 
+and physical examination whether a joint effusion is inflammatory or 
+hemorrhagic, joint fluid analysis may be helpful. Similarly, if there is 
+history of a bleeding disorder in the family or in the child, joint aspi­
+ration should be considered (see Table 44.7), as should assessment of 
+coagulation parameters if the child does not have an established history 
+of a bleeding disorder but one is suspected based on presentation or 
+family history.
+Gout and pseudogout are unusual in childhood. Conditions that 
+result in elevated serum uric acid levels predispose a child to gout, 
+and if children with these conditions develop arthritis, the joint 
+fluid should be analyzed for crystals. These conditions include leu­
+kemia, tumor lysis syndrome, renal failure, Down syndrome, Lesch-­
+Nyhan syndrome, and type I glycogen storage disease (von Gierke 
+disease).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+829
+CHAPTER 44  Arthritis
+Invasive Testing
+If weakness is present, an electromyogram (EMG) and a nerve conduc­
+tion study may distinguish myopathies and myositis from neuropathies. 
+Children with inflammatory myositis have a characteristic, albeit nondi­
+agnostic, abnormal EMG. Peripheral neuropathies confirmed by nerve 
+conduction studies may suggest the presence of a vasculitis or SLE.
+Biopsies are most helpful in confirming the presence of vasculitis 
+(Table 44.9) and to determine the extent of renal disease in a child with 
+SLE. Kawasaki disease, GPA, MPA, eosinophilic granulomatosis with 
+polyangiitis (EGPA), Takayasu arteritis, polyarteritis, and IgA vasculitis 
+are vasculitides that may be diagnosed on the basis of either clinical cri­
+teria alone (Kawasaki disease, IgA vasculitis), a combination of clinical 
+criteria and arteriography (Takayasu arteritis, polyarteritis), or clinical 
+criteria and serologic profiles (antiproteinase 3 and antimyeloperoxi­
+dase antibodies in GPA, MPA, and EGPA). Biopsies of affected tissue 
+are often necessary to confirm a diagnosis for many of the vasculitides. 
+The most accessible affected tissue is acquired for biopsy first. If there 
+are no cutaneous lesions easily accessible for biopsy, muscle and nerve 
+samples may be taken for biopsy when EMG and nerve conduction 
+studies reveal the presence of myositis or neuropathy. If neither of these 
+sites is affected, then the risks and benefits of biopsy of affected organs 
+should be evaluated.
+Synovial biopsy is rarely useful in the evaluation of arthritis. Biopsy 
+may help to distinguish sarcoid arthropathy from JIA; sarcoid arthrop­
+athy is suspected when the young child has erythema nodosum, uve­
+itis, and arthritis, as well as particularly “boggy” synovial effusions. 
+In rare cases, synovial tumors, chronic indolent infections, or foreign 
+bodies may be detected by biopsy.
+JUVENILE IDIOPATHIC ARTHRITIS
+JIA is not a single disease, but rather a group of chronic diseases that 
+share arthritis as a primary manifestation. JIA is categorized into sev­
+eral different subtypes, each with characteristic clinical and laboratory 
+TABLE 44.6  Frequency of Infected Joints in Children with Septic Arthritis (%)
+Joint
+Fink and Nelson 
+(N = 591)
+Welkon et al. 
+(N = 95)
+Speiser et al. 
+(N = 86)
+Wilson and Di Paola 
+(N = 61)
+Overall
+Knee
+40
+46
+30
+29
+39
+Hip
+23
+25
+29
+40
+25
+Ankle
+13
+15
+17
+21
+14
+Elbow
+14
+5
+11
+3
+12
+Shoulder
+4
+4
+2
+3
+4
+Wrist
+4
+—­
+1
+1
+3
+PIP, MCP, MTP
+1
+—­
+10
+—
+2
+Other
+1
+5
+—­
+1
+1
+MCP, metacarpophalangeal; MTP, metatarsophalangeal; PIP, proximal interphalangeal.
+Data from Petty RE, Laxer RM, Lindsley CB, et al., eds. Textbook of Pediatric Rheumatology. 7th ed. Philadelphia: Elsevier; 2016:534; Fink CW, 
+Nelson JD. Septic arthritis and osteomyelitis in children. Clin Rheum Dis. 1986;12(2):423–435; Speiser JC, Moore TL, Osborn TG, et al. Changing 
+trends in pediatric septic arthritis. Semin Arthritis Rheum. 1985;15(2):132–138; Wilson NI, Di Paola M. Acute septic arthritis in infancy and 
+childhood. 10 years’ experience. J Bone Joint Surg. 1986;68(4):584–587; Welkon CJ, Long SS, Fisher MC, et al. Pyogenic arthritis in infants and 
+children: a review of 95 cases. Pediatr Infect Dis. 1986;5(6):669–676.
+TABLE 44.7  Characteristics of Synovial Fluid
+Appearance
+Viscosity
+Cells per mm3
+% PMNs
+Crystals
+Microbiology
+Normal
+Transparent
+High
+<200
+<10%
+Negative
+Negative
+JIA
+Translucent
+Low
+2,000–50,000
+Variable
+Negative
+Negative
+Reactive arthritis
+Translucent
+Low
+2,000–50,000
+Variable
+Negative
+Negative
+Gout
+Translucent to cloudy
+Low
+200 to >50,000
+>90%
+Needle-­shaped, 
+negatively birefringent 
+monosodium urate 
+monohydrate crystals
+Negative
+Bacterial arthritis*
+Cloudy
+Variable
+50,000 to >100,000
+>90%
+Negative
+Usually positive
+PVNS
+Hemorrhagic or 
+“chocolate brown”
+Low
+Variable
+Variable
+Negative
+Negative
+Hemarthrosis
+Hemorrhagic
+Low
+Variable
+Variable
+Negative
+Negative
+Lyme disease
+Xanthochromic or 
+cloudy
+Variable
+500 to >100,000 
+(average 25,000)
+Predominantly PMNs
+None
+Negative
+*Includes spirochetal, gonococcal, and mycobacterial infections.
+JIA, juvenile idiopathic arthritis; PMNs, polymorphonuclear neutrophils; PVNS, pigmented villonodular synovitis.
+Modified from El-­Gabalawy HS. Synovial fluid analyses, synovial biopsy, and synovial pathology. In: Kelley’s Textbook of Rheumatology. 9th ed. 
+Philadelphia: Saunders; 2013:755, Table 53-­1.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+830
+SECTION 8  Musculoskeletal Disorders
+findings. The diagnosis of JIA is based on history and physical exam­
+ination. The classification criteria define JIA and the subtypes, but it 
+is important to note that these criteria are intended to be useful for 
+research purposes and are less useful diagnostically (Table 44.10). 
+According to these criteria, JIA is defined as inflammatory arthritis of 
+unknown etiology beginning before age 16 years and persisting for at 
+least 6 weeks. These criteria also specify that the determination of the 
+subtype of JIA should be made based on the findings present 6 months 
+after the onset of disease. Several noninflammatory conditions can 
+closely mimic JIA and are listed in Table 44.11.
+Oligoarticular Juvenile Idiopathic Arthritis
+This is the most common form of JIA, affecting approximately half of all 
+children with JIA. Oligoarticular JIA can be further classified depend­
+ing on whether fewer than four joints are affected for the entire course 
+of the disease (“persistent”) or if more than four joints are affected after 
+the first 6 months of disease (“extended”). Persistent oligoarticular JIA 
+is the most common form and most often manifests as monoarticular 
+arthritis of the knee. This subtype affects primarily young children 
+with an average age of onset of 2 years. Affected children have morning 
+stiffness, mild discomfort, swelling, and warmth of the affected joint 
+or joints but usually remain functional and are systemically well. The 
+arthritis has a good prognosis and in some cases may eventually remit. 
+Most children with this subtype of JIA have a positive ANA test result 
+and are at high risk for associated chronic anterior uveitis.
+Polyarticular Juvenile Idiopathic Arthritis
+There are two subtypes of polyarticular JIA: RF positive and RF nega­
+tive. RF-­positive disease is most likely the same disease as adult-­onset 
+rheumatoid arthritis and tends to affect older children and adolescents. 
+RF-­negative polyarticular JIA is much more common and affects all 
+ages. The arthritis in these subtypes is symmetric and affects both small 
+and large joints. Involvement of the small joints of the hands and feet, 
+as well as the wrists, is very common. Chronic anterior uveitis may 
+occur; it is more common in younger patients, especially if ANA test 
+results are positive. The prognosis for those with polyarticular JIA is 
+less favorable, with many children continuing to have some signs and 
+symptoms of arthritis into adulthood.
+Enthesitis-­Related Arthritis
+The term spondyloarthropathy encompasses a group of diseases that 
+potentially affect the spine and includes ankylosing spondylitis, pso­
+riatic arthritis, inflammatory bowel disease–associated arthritis, and 
+reactive arthritis. These diseases are grouped together because they 
+share common clinical features such as male predominance, enthesi­
+tis, dactylitis, peripheral oligoarticular disease, axial arthritis, acute 
+symptomatic anterior uveitis, and an association with HLA-­B27. 
+Within the current JIA classification criteria, psoriatic arthritis is 
+TABLE 44.8  Differential Diagnosis of 
+Monoarticular vs Polyarticular Arthritis and 
+Arthralgia
+Usually Monoarticular
+Often Polyarticular
+Common
+Infectious arthritis
+ • Bacterial
+ • Mycobacterial
+ • Fungal
+Avascular necrosis
+Hemarthrosis
+Coagulopathy
+Trauma/overuse
+Oligoarticular JIA
+Congenital hip dysplasia
+Osteochondritis dissecans
+Complex regional pain syndrome
+Stress fracture
+Osteomyelitis
+Metastatic tumor (neuroblastoma, 
+leukemia)
+Polyarticular JIA
+Psoriatic arthritis
+Reactive arthritis
+Enthesitis-­related arthritis
+ • Ulcerative colitis
+ • Crohn disease
+Serum sickness
+Henoch-­Schönlein purpura
+Systemic lupus erythematosus
+Viral arthritis
+Immune complex–mediated post-­
+bacteremia (Neisseria meningitidis, 
+Haemophilus influenzae)
+Hypermobility
+Hemoglobinopathies
+Rare
+Pigmented villonodular synovitis
+Plant thorn synovitis
+Familial Mediterranean fever
+Synovioma
+Synovial metastasis
+Intermittent hydrarthrosis
+Pancreatic fat necrosis
+Gaucher disease
+Behçet disease
+Regional migratory osteoporosis
+Amyloidosis
+Synovial osteochondromatosis
+Undifferentiated connective tissue 
+disease
+Relapsing polychondritis
+Whipple disease
+Sarcoidosis
+Systemic JIA
+Pulmonary hypertrophic 
+osteoarthropathy
+Chondrocalcinosis-­like syndromes 
+caused by ochronosis, 
+hemochromatosis, Wilson disease
+Acute rheumatic fever
+Dialysis arthropathy
+Crystal-­induced arthropathies
+JIA, juvenile idiopathic arthritis.
+Modified from McCune WJ. Monoarticular arthritis. In: Kelley WN, 
+Harris ED, Ruddy S, et al., eds. Textbook of Rheumatology. 4th ed. Vol 
+1. Philadelphia: WB Saunders; 1993:369.
+TABLE 44.9  Classification of Childhood 
+Vasculitis
+ • Predominantly large-­vessel vasculitis
+ • Takayasu arteritis
+ • Predominantly medium-­vessel vasculitis
+ • Childhood polyarteritis nodosa
+ • Cutaneous polyarteritis
+ • Kawasaki disease
+ • Predominantly small-­vessel vasculitis
+ • Granulomatous
+ 
+• Granulomatosis with polyangiitis
+ 
+• Eosinophilic granulomatosis with polyangiitis
+ • Nongranulomatous
+ 
+• Microscopic polyangiitis
+ 
+• IgA vasculitis (Henoch-­Schönlein purpura)
+ 
+• Isolated cutaneous leukocytoclastic vasculitis
+ 
+• Hypocomplementemic urticarial vasculitis
+ • Other vasculitides
+ • Behçet disease
+ • Vasculitis secondary to infection (including hepatitis B–associated 
+polyarteritis nodosa), malignancy, and medication (including 
+hypersensitivity vasculitis)
+ • Isolated vasculitis of the central nervous system
+ • Cogan syndrome
+ • Unclassified
+IgA, immunoglobulin A.
+Modified from Ozen S, Ruperto N, Dillon MJ, et al. EULAR/PReS 
+endorsed consensus criteria for the classification of childhood 
+vasculitis. Ann Rheum Dis. 2006;65:936–941.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+831
+CHAPTER 44  Arthritis
+classified separately, and the other spondyloarthropathies are desig­
+nated as enthesitis-­related arthritis (ERA) because of the recognition 
+that these forms of arthritis do not always affect the spine, especially 
+during childhood. In addition to chronic arthritis, the JIA classifi­
+cation criteria designate a patient as having ERA if they have two 
+of the following criteria: persistent sacroiliac joint tenderness and/
+or inflammatory lumbosacral pain, positive HLA-­B27 antigen, acute 
+symptomatic anterior uveitis, presence of symptoms in a male over 6 
+years of age, and, finally, a first-­degree relative with a history of anky­
+losing spondylitis, ERA, sacroiliitis with inflammatory bowel disease, 
+reactive arthritis, or acute anterior uveitis. This subtype of JIA affects 
+older children and has a variable prognosis, with an increased risk of 
+spondylitis over time.
+Psoriatic Arthritis
+The JIA criteria designate a patient with psoriatic arthritis if they have 
+chronic arthritis accompanied either by a personal diagnosis of pso­
+riasis or by a combination of two other clinical criteria (dactylitis, 
+nail pitting/onycholysis, or psoriasis in a first-­degree relative). Psori­
+atic arthritis in children may occur at any age and has an initial peak 
+incidence between ages 2 and 3 years that appears clinically simi­
+lar to oligoarticular JIA and a later peak incidence between ages 10 
+and 12 years that appears clinically similar to ERA. The early-­onset 
+form of psoriatic arthritis is more likely to affect females than boys, 
+more often has associated dactylitis and a positive ANA, and is less 
+often associated with a positive HLA-­B27. In contrast, the later-­onset 
+form is more likely to occur in boys, is more often associated with 
+TABLE 44.10  Classification Criteria for 
+Juvenile Idiopathic Arthritis
+General Definition of Juvenile Idiopathic Arthritis
+ • Arthritis that begins before the 16th birthday and persists for at 
+least 6 wk
+ • Other known causes of arthritis are excluded
+Categories
+Systemic Arthritis
+ • Arthritis in one or more joints with or preceded by fever of at least 2-­wk 
+duration that is documented to be daily (“quotidian”) for at least 3 days, 
+and accompanied by one or more of the following:
+ • Evanescent (nonfixed) erythematous rash
+ • Generalized lymph node enlargement
+ • Hepatomegaly and/or splenomegaly
+ • Serositis
+Oligoarthritis
+ • Arthritis affecting one to four joints during the first 6 mo of disease
+ • Subcategories:
+ • Persistent oligoarthritis: affecting not more than four joints throughout 
+the disease course
+ • Extended oligoarthritis: affecting a total of more than four joints after 
+the first 6 mo of disease
+Polyarthritis (RF Negative)
+ • Arthritis affecting five or more joints during the first 6 mo of disease
+ • Negative test for RF
+Polyarthritis (RF Positive)
+ • Arthritis affecting five or more joints during the first 6 mo of disease
+ • Two or more positive tests for RF, separated by at least 3 mo during the 
+first 6 mo of disease
+Psoriatic Arthritis
+ • Arthritis and psoriasis or suspicion of underlying psoriasis as 
+evidenced by:
+ • Formal diagnosis of psoriasis, or
+ • At least two of the following:
+ 
+• Dactylitis
+ 
+• Nail pitting or onycholysis
+ 
+• Psoriasis in a first-­degree relative
+Enthesitis-­Related Arthritis
+ • Arthritis and enthesitis, or
+ • Arthritis or enthesitis with at least two of the following:
+ • History of sacroiliac joint tenderness and/or inflammatory lumbosacral 
+pain
+ • Positive HLA-­B27 antigen
+ • Onset of arthritis in a male over 6 yr of age
+ • Acute (symptomatic) anterior uveitis
+ • History of ankylosing spondylitis, enthesitis-­related arthritis, sacroiliitis 
+with inflammatory bowel disease, reactive arthritis, or acute anterior 
+uveitis in a first-­degree relative
+Undifferentiated Arthritis
+ • Arthritis that fulfills criteria in no category or in two or more of the above 
+categories
+HLA, human leukocyte antigen; RF, rheumatoid factor.
+Criteria from Petty RE, Southwood TR, Manners P, et al. International 
+League of Associations for Rheumatology classification of juvenile 
+idiopathic arthritis: second revision, Edmonton, 2001. J Rheumatol. 
+2004;31:391–392.
+TABLE 44.11  Noninflammatory Mimics of 
+Juvenile Idiopathic Arthritis
+Disease
+Distinguishing Features
+Idiopathic multicentric 
+osteolysis
+Usually young children; restricted movement in 
+wrists and ankles followed by rapid progressive 
+resorption of carpal and tarsal bones; plain 
+radiography with early extensive osteolytic 
+changes
+Mucopolysaccharidosis
+Joint stiffness and contractures in the absence 
+of systemic inflammation; characteristic facial 
+features; multiorgan involvement
+Fucosidosis
+Polyarticular arthritis; developmental delay; joint 
+findings may precede systemic features, such as 
+visceromegaly, angiokeratomata, growth delay, 
+recurrent infections
+Camptodactyly–
+arthropathy–coxa 
+vara–pericarditis 
+syndrome
+Camptodactyly of the fifth fingers; swelling of 
+interphalangeal joints, wrists, and knees without 
+associated inflammation; lack of joint pain and 
+morning stiffness; lack of systemic inflammation; 
+progressive coxa vara; occasionally pericarditis
+Progressive 
+pseudorheumatoid 
+dysplasia
+Presentation in early childhood with progressive 
+flexion contractures and stiffness of the 
+interphalangeal joints, metaphyseal bony 
+overgrowth of the metacarpals and phalanges, 
+gradual but progressive involvement of remainder 
+of axial skeleton and disproportionate short 
+stature
+Pachydermodactyly
+Asymptomatic thickening and swelling of the 
+skin and soft tissues around the proximal 
+interphalangeal joints of the hands
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+832
+SECTION 8  Musculoskeletal Disorders
+a negative ANA and positive HLA-­B27, and is more likely to mani­
+fest with enthesitis and axial arthritis. Psoriasis usually precedes the 
+development of arthritis, but in some, arthritis can precede the skin 
+disease, sometimes by many years. Up to 30% of patients with pso­
+riasis will have associated arthritis, and patients with nail involve­
+ment are more likely to develop arthritis. The severity of the arthritis 
+does not typically correlate with the severity of the skin disease, and 
+the prognosis is variable, with some having only occasional episodic 
+arthritis in a few joints and others having severe, chronic arthritis in 
+multiple joints.
+Systemic Juvenile Idiopathic Arthritis
+Systemic JIA (SJIA) affects children of all ages but is most commonly 
+seen between the ages of 1 and 5 years. In SJIA, any number of joints 
+may be affected, but most patients eventually develop polyarticular 
+involvement. Children with SJIA initially have a characteristic quo­
+tidian fever pattern, consisting of one or two high fever spikes each 
+day with rapid return to normal or lower-­than-­normal temperature. 
+An evanescent pink macular rash appears with the fever and may 
+resolve completely as the child’s fever abates (see Figs. 44.3 and 44.4). 
+Constitutional symptoms such as fatigue, poor appetite, and weight 
+loss are common. Generalized lymphadenopathy and hepatospleno­
+megaly are also common; pericarditis or pleural effusions may occur. 
+These children feel and appear ill during the fever spikes but may 
+appear much improved once the fever abates. Peripheral leukocyto­
+sis of 20,000 WBCs/mm3 or greater, anemia, and thrombocytosis are 
+characteristic laboratory findings. Tests of ANA and RF are usually 
+negative, and uveitis is very rare. In most patients, the fevers and 
+rashes eventually subside and chronic arthritis persists as an isolated 
+manifestation.
+Patients with SJIA are at risk for macrophage activation syndrome, 
+a life-­threatening complication of uncontrolled immune activation 
+resulting in persistent, unremitting fever; petechial/purpuric rashes in 
+some; hepatosplenomegaly; and potentially multiorgan dysfunction. 
+Laboratory examination demonstrates elevated CRP and markedly ele­
+vated ferritin with a paradoxically falling ESR due to consumption of 
+fibrinogen. Cytopenias, particularly thrombocytopenia, are observed, 
+as are hypertriglyceridemia and hypoalbuminemia. Hemophagocyto­
+sis is observed in various tissues, most commonly in the bone marrow 
+and cerebrospinal fluid. Diagnostic criteria for macrophage activation 
+syndrome are presented in Table 44.12. If clinical suspicion for mac­
+rophage activation syndrome remains high despite serum laboratory 
+markers failing to satisfy diagnostic criteria, cerebrospinal fluid or 
+bone marrow investigation for hemophagocytosis should strongly be 
+considered.
+Diagnosis
+The diagnosis of JIA and the determination of the subtype of JIA is 
+based on clinical features (see Table 44.10). The differential diagnosis 
+is broad (Tables 44.13 and 44.14; see Table 44.1). When there is iso­
+lated monoarthritis of the knee and a child has been in an endemic 
+area, Lyme disease should be considered (Table 44.15). Residing in or 
+traveling to endemic areas, particularly if associated with a sugges­
+tive prodromal illness, should prompt investigation for other infec­
+tious arthritides (Table 44.16). Laboratory tests and imaging studies 
+are used when necessary to exclude other illnesses. The RF and ANA 
+tests are used to classify the subtype of JIA and to determine the risk 
+of uveitis, but these tests are not sensitive or specific enough to be 
+helpful as either screening tests or diagnostic tests for JIA. Oph­
+thalmologic slit-­lamp evaluations are necessary at specific intervals 
+to screen for anterior uveitis, because usually the uveitis is asymp­
+tomatic and can progress to affect visual acuity before it causes other 
+signs and symptoms.
+SYSTEMIC LUPUS ERYTHEMATOSUS
+In SLE, clinical manifestations are the result of increased production of 
+both specific and nonspecific autoantibodies, with subsequent immune 
+complex formation and deposition throughout the body. The cause of 
+SLE is unknown; it is more common in females, Black individuals, 
+and persons with a first-­degree relative with SLE. In childhood, the 
+peak onset is during the early teen years and rarely occurs in children 
+younger than 5 years. The potential clinical manifestations of SLE are 
+numerous, and the illness demonstrates significant interindividual 
+variability. Children with SLE have more severe disease than adults, 
+with a greater incidence of renal involvement.
+Diagnosis
+SLE is suggested by the common manifestations of fever, malar 
+rash (Fig. 44.9), photosensitivity, and arthritis. The arthritis is most 
+often symmetric and polyarticular and frequently involves the small 
+joints of the hands and feet. In contrast to JIA, the arthritis is typi­
+cally nondeforming and does not result in erosions. The European 
+League Against Rheumatism (EULAR) and the American College of 
+Rheumatology (ACR) classification criteria for SLE can be a guide to 
+diagnosis (Fig. 44.10). Other clinical manifestations of SLE are listed 
+in Table 44.17.
+The ANA test is extremely sensitive, positive in more than 95% of 
+children with SLE, and usually in a high titer; however, it is not spe­
+cific. Testing for anti-­dsDNA antibodies, anti-­Smith antibodies, anti-­
+RNP antibodies, and anti-­SSA and anti-­SSB antibodies should be 
+performed in all children suspected of having SLE (see Table 44.4). 
+Anti-­dsDNA antibodies and anti-­Smith antibodies are highly specific 
+for SLE. Leukopenia, lymphopenia, thrombocytopenia, and autoim­
+mune hemolytic anemia, frequently with a positive direct Coombs 
+test, are common. Urinalysis is mandatory to screen for nephritis, and 
+proteinuria should increase the suspicion of associated glomerulone­
+phritis. The complement proteins C3 and C4 are low in children with 
+active SLE. Monitoring C3 and C4 levels helps guide therapy; the levels 
+should increase to normal as the illness is better controlled.
+Monogenic causes of SLE should be suspected in young children 
+(younger than 5 years), in families with a history of SLE, and in patients 
+with difficult-­to-­treat SLE. The most common genes associated with 
+SLE are part of the type 1 interferonopathy group (Table 44.18). Mim­
+ics of SLE are noted in Table 44.19.
+TABLE 44.12  European League Against 
+Rheumatism/American College of Rheumatology 
+Classification Criteria for Macrophage Activation 
+Syndrome Complicating Systemic Juvenile 
+Idiopathic Arthritis (2016)
+A febrile patient with known or suspected juvenile idiopathic arthritis is 
+classified as having macrophage activation syndrome if the following 
+criteria are met:
+Ferritin >684 ng/mL and any two of the following:
+ • Platelet count <181 × 109/L
+ • Aspartate aminotransferase >48 units/L
+ • Triglycerides >156 mg/dL
+ • Fibrinogen <360 mg/dL
+Laboratory abnormalities should not be otherwise explained by the patient’s 
+condition, such as concomitant immune-­mediated thrombocytopenia, 
+infectious hepatitis, visceral leishmaniasis, or familial hyperlipidemia.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+833
+CHAPTER 44  Arthritis
+TABLE 44.13  Differential Diagnosis of Juvenile Idiopathic Arthritis: Rheumatic Disease
+Rheumatic Fever
+Juvenile Idiopathic 
+Arthritis
+Systemic Lupus 
+Erythematosus
+Kawasaki Disease
+Dermatomyositis
+Sex predilection
+None
+Dependent on subgroup
+Females > males
+None
+Girls 3:2
+Age at onset
+3 yr or older
+1 yr or older
+Usually >8 yr
+4 yr or younger
+2 yr or older
+Joint manifestations
+Transient migratory 
+arthritis of primarily 
+large joints
+Oligoarticular or 
+polyarticular; chronic 
+(≥6 wk)
+Arthralgia; transient 
+arthritis; chronic 
+arthritis
+Pain and swelling 
+of hands and feet; 
+arthritis occasionally
+Joint contractures; arthritis 
+occasionally
+Extra-­articular 
+manifestations
+Fever
+Cardiac disease
+Chorea
+Rash
+Nodules
+Dependent on subgroup:
+Systemic JIA: fever, rash, 
+lymphadenopathy
+Oligoarticular, 
+polyarticular, psoriatic 
+JIA: chronic iridocyclitis
+Often multisystem 
+disease, including 
+nephritis
+Fever
+Conjunctivitis
+Oral changes
+Polymorphous rash
+Lymphadenopathy
+Coronary vasculitis
+Rash
+Muscle weakness
+Myalgia
+Gut vasculitis
+Respiratory muscle weakness
+Diagnostic studies
+Prior streptococcal 
+infection
+Evidence of carditis on 
+echocardiogram or ECG
+May have ANA, RF
+ANA
+Autoantibodies
+Low complement
+Anti-­dsDNA antibody
+Coronary dilatation 
+or aneurysm on 
+echocardiogram
+Elevated muscle enzymes
+Myopathic electromyography
+Abnormal muscle biopsy
+Pathogenesis
+Poststreptococcal
+Unknown
+Immune complexes
+Unknown
+Unknown
+Diagnosis
+Clinical (Jones criteria)
+Clinical (JIA criteria)
+Clinical plus laboratory 
+(EULAR/ACR criteria)
+Clinical (Kawasaki 
+criteria)
+Clinical: rash plus myositis
+Muscle biopsy
+Natural history
+Arthritis—transient
+Carditis may cause 
+permanent damage
+Chronic: arthritis may be 
+destructive
+Chronic or recurrent
+May be fatal
+Self-­limited
+Coronary vasculitis
+May be fatal
+Chronic
+May be fatal
+ANA, antinuclear antibody; anti-­dsDNA, anti–double-­stranded DNA; JIA, juvenile idiopathic arthritis; RF, rheumatoid factor; EULAR/ACR, European 
+League Against Rheumatism/American College of Rheumatology.
+Modified from Behrman RE, ed. Nelson Textbook of Pediatrics. 14th ed. Philadelphia: WB Saunders; 1992:620.
+TABLE 44.14  Differential Diagnosis of Juvenile Idiopathic Arthritis: Nonrheumatic Disease
+Septic Arthritis
+Lyme Disease
+Osteomyelitis
+Viral 
+Arthritis
+Childhood 
+Malignancy
+Structural, 
+Genetic
+Growing 
+Pains, 
+Psychogenic
+Sex predilection
+None
+None
+None
+Females > 
+males
+None
+Dependent on 
+condition
+Growing pains: 
+boys > girls
+Psychogenic: 
+girls > boys
+Age at onset
+Any
+>2 yr
+Any
+More common 
+in older 
+children and 
+adults
+Any
+Any
+Growing pains: 
+2–8 yr
+Psychogenic: 
+≥6 yr
+Joint 
+manifestations
+85% monoarticular; 
+joints swollen, red, 
+hot, painful
+Oligoarticular; 
+episodic, 
+recurrent
+Sterile joint 
+effusion adjacent 
+to infected bone
+Transient 
+arthritis; often 
+polyarticular
+Severe bone/joint 
+pain, night pains
+Local bone/
+joint pain or 
+dysfunction
+None or features 
+of complex 
+regional pain 
+syndrome
+Extra-­articular 
+manifestations
+Fever
+SIRS
+Other signs dependent 
+on causative 
+organism
+Flulike illness
+Erythema migrans
+Meningitis
+Cranial nerve 
+palsies
+Heart block
+Fever
+SIRS
+Bone pain
+Dependent on 
+causative 
+organism
+Signs of underlying 
+malignancy; 
+no high fever, 
+rash, or morning 
+stiffness
+Dependent on 
+underlying 
+condition
+Dysmorphism
+Structural 
+abnormalities
+Growing pains: 
+none
+Psychogenic: 
+atypical
+Diagnostic 
+studies
+Cultures: synovial 
+fluid, blood, 
+genital if Neisseria 
+gonorrhoeae 
+suspected
+Serologic: 
+antibody 
+to Borrelia 
+burgdorferi
+Blood and bone 
+culture
+Bone scan
+Viral culture/
+PCR
+Rise in antibody 
+titers
+Hematologic 
+abnormalities
+Abnormal 
+radiograph or 
+scan
+Demonstration 
+of abnormal 
+structure or 
+metabolic 
+abnormality
+Normal
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+834
+SECTION 8  Musculoskeletal Disorders
+DERMATOMYOSITIS
+Dermatomyositis is characterized by perivascular inflammation in 
+muscles and skin. Dermatomyositis is more common in females and 
+can occur at any age, with an average age at onset of 8 years. The 
+main manifestations include characteristic skin findings and proxi­
+mal muscle weakness, specifically involving the neck flexors, deltoids, 
+biceps, triceps, quadriceps, psoas, and hamstrings. These symptoms 
+are occasionally accompanied by mild muscle pain, fatigue, or poor 
+endurance. Early symptoms may include difficulties rising from the 
+floor, climbing stairs, climbing in and out of a motor vehicle, and 
+combing the hair; however, these symptoms are often subtle and not 
+recognized early in the course of the disease. Some children with der­
+matomyositis may have arthralgia or arthritis that is usually mild and 
+transient.
+Skin manifestations include Gottron papules, which are scaly, 
+erythematous plaques or papules that appear over the MCP and PIP 
+joints on the hands (see Fig. 44.6). Similar lesions are seen on the 
+extensor surfaces of the elbows and knees and over the medial malle­
+oli. The distribution of the rash is an early clue to the diagnosis. The 
+periungual capillaries may become grossly dilated and may develop 
+Septic Arthritis
+Lyme Disease
+Osteomyelitis
+Viral 
+Arthritis
+Childhood 
+Malignancy
+Structural, 
+Genetic
+Growing 
+Pains, 
+Psychogenic
+Pathogenesis
+Direct synovial 
+infection; immune 
+complex deposition 
+in gonococcal and 
+meningococcal arthritis
+Synovial and 
+systemic 
+infection with B. 
+burgdorferi
+Hematogenous 
+infection of bone
+Viral infection 
+of synovium; 
+immune 
+complex 
+deposition in 
+some
+Primary bone or 
+periarticular 
+tumor; bony 
+metastasis
+Idiopathic or 
+genetic
+No organic disease
+Diagnosis
+Demonstration of 
+organisms in joint 
+fluid
+Clinical and 
+serologic
+Demonstration of 
+organisms in blood/
+bone; MRI of bone 
+scan (early); plain 
+radiographs (late)
+Clinical; 
+serologic; 
+positive viral 
+culture or PCR 
+from synovial 
+fluid
+Bone marrow; 
+tissue biopsy
+Recognition of 
+condition or 
+syndrome; 
+positive genetic 
+or biochemical 
+assay
+Clinical
+Natural history
+Joint destruction
+Self-­resolving
+Bone/joint 
+destruction
+Self-­resolving
+Joint 
+manifestations 
+may wax/wane
+Chronic
+Growing pains: 
+benign
+Psychogenic: may 
+become chronic 
+and disabling
+PCR, polymerase chain reaction; SIRS, systemic inflammatory response syndrome.
+Modified from Behrman RE, ed. Nelson Textbook of Pediatrics. 14th ed. Philadelphia: WB Saunders; 1992:619.
+TABLE 44.14  Differential Diagnosis of Juvenile Idiopathic Arthritis: Nonrheumatic Disease—cont’d
+TABLE 44.15  Manifestations of Lyme 
+Disease by Stage
+Early Localized Infection (occurs 3–30 days after tick bite)
+Erythema migrans (EM) in 80–90% of patients; single lesion, occasionally 
+associated with fever, malaise, neck pain or stiffness, arthralgia, and myalgia
+Systemic symptoms noted above in the absence of EM during summer months
+Borrelial lymphocytoma (rare, seen primarily in Europe)
+Early Disseminated Infection (occurs weeks to months 
+after tick bite)
+Profound malaise and fatigue common
+Multiple EM lesions with systemic symptoms similar to early localized infection
+Migratory polyarthralgia and myalgia
+Carditis (<3% of untreated patients)
+Varying degrees of atrioventricular nodal block
+Mild myopericarditis
+Neurologic (<10% of untreated patients)
+Cranial neuropathies (especially facial nerve palsy)
+Lymphocytic meningitis
+Radiculoneuropathies
+Encephalomyelitis
+Late Disease (occurs months to years after tick bite)
+Arthritis (<10% of patients)
+Acute monoarticular or migratory oligoarticular inflammatory arthritis, 
+usually involving the knee
+Chronic postinfectious arthritis (<10% of patients with arthritis)
+Neurologic (very rare)
+Peripheral neuropathies
+Encephalomyelitis (primarily seen in Europe)
+Acrodermatitis chronica atrophicans (primarily seen in Europe)
+Modified from Bockenstedt LK. Lyme disease. In: Firestein GS, Budd 
+RC, Gabriel SE, et al., eds. Kelley’s Textbook of Rheumatology. 9th ed. 
+Philadelphia: Saunders; 2013, Chapter 110, Table 110-­1.
+TABLE 44.16  Infectious Mimics of 
+Systemic Juvenile Idiopathic Arthritis
+Nocardia
+Brucella canis
+Coxiella burnetii
+Scrub typhus
+Rickettsial diseases
+Ehrlichiosis
+Chikungunya virus
+Zika virus
+Dengue virus
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+835
+CHAPTER 44  Arthritis
+thromboses that can be visualized either with the naked eye or with 
+mild magnification. Heliotrope rash is a violaceous discoloration 
+of the upper eyelids that is often accompanied by mild edema (see 
+Fig. 44.5) and is pathognomonic for dermatomyositis. Some chil­
+dren develop more extensive erythroderma that may appear over the 
+shoulders, termed the shawl sign, or in a V-­neck distribution on the 
+anterior upper chest. With severe disease, some patients also develop 
+skin ulcerations.
+Diagnosis
+The diagnosis is suggested by the rash and proximal muscle weakness 
+detected on physical examination. Muscle enzymes are elevated in 
+most, but not all, children with dermatomyositis. There may be eleva­
+tions in only one or a few enzymes and therefore testing for aspartate 
+aminotransferase, alanine aminotransferase, lactate dehydrogenase, 
+creatine kinase, and aldolase should be performed. The child with a 
+characteristic rash, definite proximal muscle weakness, and elevated 
+muscle enzyme levels does not require additional testing for diagno­
+sis. If weakness is questionable, or if the rash is not characteristic, an 
+EMG can confirm the presence of muscle inflammation. MRI is a sen­
+sitive test for muscle inflammation and may be a less invasive method 
+of evaluation. If there is any doubt regarding the diagnosis, a muscle 
+biopsy is performed. The site for biopsy is determined by weakness on 
+physical examination or localization by EMG or MRI. The quadriceps 
+or the deltoids are the most commonly accessed biopsy sites. Involve­
+ment of the muscle may be spotty, and a normal finding on muscle 
+biopsy does not exclude dermatomyositis. Typical findings on biopsy 
+include perivascular inflammation and perifascicular atrophy. Biopsy 
+can help exclude other muscle diseases such as muscular dystrophies 
+and metabolic myopathies.
+SCLERODERMA
+Scleroderma is classified into systemic sclerosis and localized sclero­
+derma (Table 44.20). Localized scleroderma, which includes morphea 
+and linear scleroderma, is limited to the skin and subcutaneous tissues, 
+is much more common in childhood, and rarely progresses to involve 
+internal organs. Systemic sclerosis can be life threatening, as it has the 
+potential to involve internal organs and cause severe and widespread 
+skin disease. Arthralgia is relatively common with scleroderma, but 
+significant synovitis is unusual.
+Morphea
+Morphea is a patch of hardened skin that appears spontaneously on 
+any part of the body. The skin becomes firm, stiff, atrophic, and discol­
+ored. Hair is absent. Initially, the lesion appears violaceous, but then it 
+fades to a yellowish-­brown or dusky appearance in most individuals. 
+The patches are nontender, and children are otherwise asymptomatic. 
+The natural history of morphea lesions is to gradually fade and soften 
+after an initial period of expansion. Biopsy reveals excessive amounts 
+of collagen in the dermis with absent hair follicles and diminished vas­
+cular structures.
+Linear Scleroderma
+Linear scleroderma is histologically similar to morphea, though lesions 
+consist not of isolated patches, but rather of bands that may extend 
+through an entire limb, through part of the limb, or across the scalp 
+and face, a finding termed a coup de sabre lesion. Cosmetically and 
+functionally, linear scleroderma is much more severe than morphea, as 
+the impacted areas may involve the face or limit limb use. Growth of 
+the limb may be affected, and involvement of the digits can cause sig­
+nificant functional difficulty. Coup de sabre lesions may be associated 
+with neurologic abnormalities such as seizures; children with these 
+lesions should have a careful neurologic examination and brain MRI 
+as part of their evaluation.
+Systemic Sclerosis
+Systemic sclerosis typically begins with severe Raynaud phenome­
+non, followed by thickening and tightening of the skin over the digits 
+and hands and then the face, and then by varying degrees of progres­
+sive skin changes over the extremities and trunk. Difficulty opening 
+the mouth and decreased facial expression are signs of facial involve­
+ment. As the skin over the hands tightens and hardens, pigment 
+changes may occur, and flexion contractures of the small joints may 
+develop. Renal disease, pulmonary fibrosis, pulmonary hypertension, 
+esophageal and gut dysmotility, and cardiac disease may all occur. 
+Anti–Scl-­70 antibodies (antitopoisomerase I) are present in approx­
+imately 30–40% of patients with systemic sclerosis and are very 
+specific. There are no other helpful serologic tests. High-­resolution 
+CT of the chest, esophagography, and echocardiography should be 
+performed to screen for organ involvement and repeated at peri­
+odic intervals. The course of systemic sclerosis is variable; patients 
+with rapid progression tend to have a less favorable outcome. The 
+CREST syndrome (calcinosis, Raynaud phenomenon, esophageal 
+dysmotility, sclerodactyly, and telangiectasias) has less severe cutane­
+ous involvement than systemic sclerosis; however, these patients can 
+develop life-­threatening pulmonary hypertension. CREST syndrome 
+is associated with anticentromere antibodies.
+RHEUMATIC FEVER
+Acute rheumatic fever is a poststreptococcal illness, resulting 
+from a cross-­reactive immune response to group A streptococcal 
+Fig. 44.9  The malar rash of systemic lupus erythematosus crosses 
+the nasal bridge and spares the nasolabial folds, a distribution that is 
+referred to as a “butterfly rash.” (From Petty RE, Laxer RM, Lindsley 
+CB, et al., eds. Textbook of Pediatric Rheumatology. 7th ed. Philadel­
+phia: Elsevier; 2016:299.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+836
+SECTION 8  Musculoskeletal Disorders
+If absent, do not classify as SLE
+If present, apply additive criteria
+Entry criterion
+Antinuclear antibodies (ANA) at a titer of ≥1:80 on HEp-2 cells or an equivalent positive test (ever)
+Additive criteria
+Do not count a criterion if there is a more likely explanation than SLE.
+Occurrence of a criterion on at least one occasion is sufficient.
+SLE classification requires at least one clinical criterion and ≥10 points.
+Criteria need not occur simultaneously.
+Within each domain, only the highest weighted criterion is counted toward the total score.§
+Total score:
+Classify as systemic lupus erythematosus with a score of 10 or more if entry criterion fulfilled.
+Clinical domains and criteria
+Constitutional
+   Fever
+Antiphospholipid antibodies
+   Anti-cardiolipin antibodies OR
+   Anti-β2GP1 antibodies OR
+   Lupus anticoagulant
+Complement proteins
+   Low C3 OR low C4
+   Low C3 AND low C4
+SLE-specific antibodies
+   Anti-dsDNA antibody* OR
+   Anti-Smith antibody
+Hematologic
+   Leukopenia
+   Thrombocytopenia
+   Autoimmune hemolysis
+Neuropsychiatric
+   Delirium
+   Psychosis
+   Seizure
+Mucocutaneous
+   Non-scarring alopecia
+   Oral ulcers
+   Subacute cutaneous OR discoid lupus
+   Acute cutaneous lupus
+Serosal
+   Pleural or pericardial effusion
+   Acute pericarditis
+Musculoskeletal
+   Joint involvement
+Renal
+   Proteinuria >0.5g/24h
+   Renal biopsy class II or V lupus nephritis
+   Renal biopsy class Ill or IV lupus nephritis
+2
+2
+6
+5
+6
+4
+8
+10
+6
+2
+2
+4
+6
+3
+4
+4
+3
+4
+2
+3
+5
+Weight
+Immunology domains and criteria
+Weight
+Fig. 44.10  Classification criteria for systemic lupus erythematosus (SLE). *In an assay with ≥90% specificity 
+against relevant disease controls. §Additional criteria items within the same domain will not be counted. (From 
+Aringer M, Costenbader K, Daikh D, et al. 2019 European League Against Rheumatism/American College of 
+Rheumatology classification criteria for systemic lupus erythematosus. Arthritis Rheum. 2019;71[9]:1400–
+1412.)
+pharyngitis (see Chapters 2 and 9). It is most common in children 
+older than 5 years and occurs more often after infection with cer­
+tain serotypes of group A streptococci. There may also be genetic 
+reasons that predispose some children and adults to the illness. 
+Signs and symptoms of rheumatic fever typically develop 1–3 weeks 
+after streptococcal pharyngitis. Clinical manifestations have been 
+grouped according to the Jones criteria, which separate major from 
+minor criteria (Table 44.21).
+The arthritis of rheumatic fever is usually very painful and is dis­
+proportionate to the degree of swelling on physical examination. It is 
+usually a migratory arthritis of the large joints, rarely affecting the fin­
+gers, spine, or toes, tending to last in one joint for several days and then 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+837
+CHAPTER 44  Arthritis
+migrating to a different joint. The duration of joint symptoms is rarely 
+longer than 3–4 weeks in untreated patients. If patients are treated with 
+NSAIDs, the arthritis usually responds dramatically within 1–2 days. 
+When rheumatic fever is a consideration and the diagnosis is unclear, 
+it may be helpful to avoid NSAID use early in the course to avoid diag­
+nostic confusion.
+In the absence of carditis, rheumatic fever may be difficult to dis­
+tinguish from early SJIA, Kawasaki disease, and viral-­induced fever, 
+rash, and joint pain. The diagnosis is clinical. The Jones criteria were 
+developed as a diagnostic aid and include echocardiographic evidence 
+of valvulitis and, in populations with a higher risk of rheumatic fever, 
+monoarthritis or polyarthralgia as less stringent major criteria (see 
+Table 44.21). The presence of two of the major criteria or of one major 
+and two minor criteria plus evidence of recent streptococcal infec­
+tion is consistent with acute rheumatic fever. Either a positive throat 
+culture or elevations of the antistreptococcal antibodies (i.e., anti–
+streptolysin O, anti–DNase B) are the standard indicators of potential 
+recent streptococcal infection. Fulfilling these criteria is not specific 
+for rheumatic fever, especially when the evidence of recent strep­
+tococcal infection is based on mildly elevated serologic test results. 
+Conversely, there are children with isolated chorea or classic rheu­
+matic carditis who have rheumatic fever without necessarily fulfilling 
+the Jones criteria. When a diagnosis of rheumatic fever is considered 
+in a child with joint symptoms, it is important to distinguish arthritis 
+from arthralgia and to evaluate the nature of the arthritis when pres­
+ent. If the arthritis is nonmigratory and is not exquisitely tender, or if 
+it involves unusual joints such as those in the hands, feet, or spine or 
+lasts longer than 1 week in a single joint, then alternative diagnoses 
+are more likely.
+Careful consideration of the diagnosis is especially important 
+because of future implications regarding prognosis and treatment. 
+Children with rheumatic fever may develop carditis with future epi­
+sodes of streptococcal pharyngitis; each episode of carditis can produce 
+additional heart valve damage. Therefore, prophylactic antibiotic treat­
+ment is recommended to minimize streptococcal infections, even for 
+patients who do not have carditis with the initial attack.
+IGA VASCULITIS/HENOCH-­SCHÖNLEIN PURPURA
+IgA vasculitis is an acute self-­limited systemic vasculitis of children char­
+acterized by palpable purpura and often arthritis, gastrointestinal symp­
+toms, and nephritis. It occurs most commonly between the ages of 3 and 
+15 years. The presence of palpable purpura is essential for the diagnosis 
+of HSP. Typically, the rash presents as petechiae that coalesce into larger 
+purpura on dependent areas such as the buttocks and legs. The rash is 
+often edematous and on occasion can become ulcerative. Arthritis occurs 
+in up to 80% of children with HSP, is typically acute with significant pain 
+and limitation of range of motion, and usually resolves within days to a 
+week. Large joints tend to be affected and the arthritis is nonmigratory. 
+In most cases, the rash of HSP precedes the development of arthritis, but 
+occasionally, the arthritis may occur a few days before the rash. Other 
+features that might suggest a diagnosis of HSP are gastrointestinal symp­
+toms, nephritis, or angioedema. Gastrointestinal symptoms result from 
+gut vasculitis causing intestinal edema and potentially ischemia and 
+infarction of the gut. Gastrointestinal disease often presents as episodic 
+abdominal pain from intussusception or with abdominal angina (post­
+prandial abdominal pain related to intestinal ischemia). Rarely, hemato­
+chezia or currant jelly–like stools can result from intestinal necrosis. In 
+up to a third of cases, abdominal pain will precede the rash. Nephritis 
+may occur at any time up to 6 months after the initial presentation and 
+may manifest with hypertension or with proteinuria, hematuria, or casts 
+on urinalysis. As such, serial urinalysis is recommended until 6 months 
+after the initial presentation to screen for the development of nephri­
+tis. Angioedema can occur on the dorsum of the hands or feet, scalp, 
+forehead, eyelids, and scrotum. The acute manifestations of HSP usually 
+resolve in 1–2 weeks and may recur episodically for several weeks after. 
+Nephritis is potentially the most concerning complication that requires 
+longer monitoring and prompt referral to a pediatric nephrologist if uri­
+nary abnormalities persist.
+MYALGIA
+In the child with extremity pain, muscle pain needs to be distinguished 
+from joint pain, bone pain, and the less common neuropathic pain. If the 
+complaint is localized to the muscles, the differential diagnosis is narrowed 
+considerably. Intermittent benign bilateral myalgia of the calves or thighs is 
+one of the more common muscle pain presentations encountered in young 
+children. These pains occur in an active child who has normal physical 
+examination findings without evidence of weakness or systemic illness. 
+Symptoms typically occur in the evening and resolve with massage or mild 
+analgesics such as acetaminophen or ibuprofen, usually within an hour. 
+The frequency of pain can vary and in some children may escalate period­
+ically. Additional evaluation or treatment is unnecessary in most children, 
+and eventually the pains resolve completely.
+TABLE 44.17  Additional Manifestations of 
+Systemic Lupus Erythematosus
+Target Organ Potential Clinical Manifestations
+Constitutional
+Fatigue, anorexia, weight loss, fever, lymphadenopathy
+Musculoskeletal
+Arthritis, myositis, tendonitis, arthralgia, myalgia, 
+avascular necrosis, osteoporosis
+Skin
+Malar rash, discoid (annular) rash, photosensitive rash, 
+cutaneous vasculitis (petechiae, palpable purpura, digit 
+ulcers, gangrene, urticaria), livedo reticularis, periungual 
+capillary abnormalities, Raynaud phenomenon, alopecia, 
+oral and nasal ulcers, panniculitis, chilblains, alopecia
+Renal
+Hypertension, proteinuria, hematuria, edema, nephrotic 
+syndrome, renal failure
+Cardiovascular
+Pericarditis, myocarditis, conduction system 
+abnormalities, Libman-­Sacks endocarditis
+Neurologic
+Seizures, psychosis, cerebritis, stroke, transverse 
+myelitis, depression, cognitive impairment, headaches, 
+migraines, pseudotumor, peripheral neuropathy 
+(mononeuritis multiplex), chorea, optic neuritis, cranial 
+nerve palsies, acute confusional states, dural sinus 
+thrombosis, aseptic meningitis, anxiety disorder
+Pulmonary
+Pleuritis, interstitial lung disease, pulmonary hemorrhage, 
+pulmonary hypertension, pulmonary embolism
+Hematologic
+Immune-­mediated cytopenias (hemolytic anemia, 
+thrombocytopenia, or leukopenia), anemia of chronic 
+inflammation, hypercoagulability, thrombotic 
+thrombocytopenic microangiopathy
+Gastroenterology Hepatosplenomegaly, pancreatitis, vasculitis affecting the 
+bowel, protein-­losing enteropathy, peritonitis
+Ocular
+Retinal vasculitis, scleritis, episcleritis, papilledema, dry 
+eyes, optic neuritis
+Modified from Sadun RE, Ardoin SP, Schanberg LE. Systemic lupus 
+erythematosus. In: Kliegman RM, St. Geme JW, Blum NJ, et al., 
+eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia: Elsevier; 
+2020:1275, Table 183.1.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+838
+SECTION 8  Musculoskeletal Disorders
+TABLE 44.18  Reviewed Proteins and Genes Associated with Monogenic Forms of Systemic 
+Lupus Erythematosus
+Protein
+Gene
+Inheritance
+Mechanism
+Female-­to-­Male 
+Patient Ratio
+Associated Symptoms
+C1q
+C1QA, C1QB, 
+C1QC
+Autosomal recessive
+Complement deficiency
+1:1
+SLE (cutaneous, renal, CNS, 
+arthritis, ANA), young age onset, 
+recurrent bacterial infections
+C1r/s
+C1R, C1S
+Autosomal recessive
+Complement deficiency
+1:1
+SLE (fever, cutaneous, arthritis, 
+renal, ANA, ENA), recurrent 
+infections, encapsulated 
+bacteria, Hashimoto thyroiditis
+C2
+C2
+Autosomal recessive
+Complement deficiency
+7:1
+SLE (cutaneous, arthritis), young 
+age onset, type 1 diabetes
+C4
+C4A, C4B
+Autosomal recessive
+Complement deficiency
+1:1
+SLE (severe photosensitive rash, 
+renal, ANA, Ro), young age onset
+TREX1
+TREX1
+Autosomal dominant (FCL), autosomal 
+recessive and dominant (AGS)
+Abnormal DNA clearance leading 
+to IFN activation
+Likely 1:1
+FCL, AGS, SLE
+MDA5
+IFIH1
+Autosomal dominant
+Activation of IFN production
+Likely 1:1
+AGS, SLE, FCL, IgA deficiency
+SAMHD1
+SAMHD1
+Autosomal recessive and dominant
+Abnormal DNA or RNA clearance 
+leading to IFN production
+Likely 1:1
+AGS, SLE, FCL, photosensitivity
+RNaseH2
+RNASH2
+Autosomal dominant and recessive
+Abnormal RNA clearance leading 
+to IFN production
+Likely 1:1
+AGS, SLE
+ADAR1
+ADAR1
+Mainly autosomal dominant
+Abnormal RNA clearance leading 
+to IFN production
+Likely 1:1
+AGS, SLE
+STING
+TMEM173
+Autosomal dominant
+Activation of IFN production
+1:1
+SAVI, FCL, SLE
+DNase I
+DNASE1
+Autosomal dominant
+Abnormal DNA clearance-­break 
+intolerance
+Female
+SLE (dsDNA), adolescent onset, 
+Sjögren syndrome
+DNase 
+1-­like-­3
+DNASE1L3
+Autosomal recessive
+Abnormal DNA clearance-­break 
+intolerance
+1:2
+SLE (hypocomplementemia, 
+dsDNA, cANCA, renal), HUVS
+AGS, Aicardi-­Goutières syndrome; ANA, antinuclear antibody; ANCA, antineutrophil cytoplasmic antibody; CNS, central nervous system; dsDNA, 
+double-­stranded DNA; ENA, extractable nuclear antigen antibody; FCL, familial chilblain lupus; HUVS, hypocomplementemic urticarial vasculitis 
+syndrome; IFN, interferon; IgA, immunoglobulin A; SAVI, STING-­associated vasculopathy with onset in infancy; SLE, systemic lupus erythematosus.
+From Hiraki LT, Silverman ED. Genomics of systemic lupus erythematosus: insights gained by studying monogenic young-­onset systemic lupus 
+erythematosus. Rheum Dis Clin N Am. 2017;43:415–434 (Table 1, p. 417).
+TABLE 44.19  Mimics of Systemic Lupus 
+Erythematosus
+Drug induced (medication or biologic agents)
+Kikuchi disease (histiocytic necrotizing lymphadenopathy)
+Evans syndrome (autoimmune hemolytic anemia and thrombocytopenia)
+Castleman disease (multicentric)
+Lymphoma
+Type 1 interferonopathy
+Autoimmune lymphoproliferative syndrome (ALPS)
+Prolidase deficiency
+Graft versus host disease
+Parvovirus B19
+Endocarditis
+TABLE 44.20  Classification of Scleroderma
+Systemic Sclerosis
+ • Diffuse cutaneous: systemic fibrosis, including widespread skin 
+involvement (face, trunk, and both proximal and distal extremities) and 
+internal organ involvement (lungs, kidneys, gastrointestinal tract, heart)
+ • Limited cutaneous (includes CREST syndrome): skin fibrosis limited to the 
+distal extremities, face, and neck; internal organ involvement occurs late, 
+if at all, with pulmonary hypertension often being the most significant 
+development
+ • Overlap: features of a second rheumatic disease
+Localized Scleroderma
+ • Morphea: a single, discrete patch of fibrotic skin; no organ involvement
+ • Generalized morphea: multiple discrete patches of fibrotic skin; no organ 
+involvement
+ • Linear scleroderma: band of fibrosis on the face (coup de sabre) or along an 
+extremity, sometimes extending the entire length; no organ involvement
+ • Mixed
+ • Pansclerotic: severe joint contractures
+CREST, calcinosis, Raynaud phenomenon, esophageal dysmotility, 
+sclerodactyly, and telangiectasias.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+839
+CHAPTER 44  Arthritis
+As myalgia may accompany polymyositis and dermatomyositis, 
+every child complaining of muscle pain should undergo careful muscle 
+strength testing. Myalgia may also be seen with vasculitis and SJIA. 
+Many children with acute-­onset diffuse myalgia have a transient viral 
+illness, and pain usually resolves within several days; however, infec­
+tion with influenza can cause an exquisitely painful myositis of the 
+gastrocnemius muscles with difficulty ambulating. This condition is 
+usually distinguished easily from a chronic inflammatory muscle dis­
+ease by the sudden onset and localization to these specific muscles. The 
+creatine kinase level may be very elevated. Myoglobinuria may ensue 
+and potentially affect renal function; therefore, affected children should 
+undergo urinalysis to determine if myoglobinuria is present. Myoglo­
+bin in the urine will yield positive results for heme in the absence of 
+erythrocytes on microscopic examination. The myositis associated 
+with influenza and other viruses typically resolves within 1 week and 
+treatment is symptomatic.
+COMPLEX REGIONAL PAIN SYNDROME
+Complex regional pain syndrome is rare in childhood and poorly 
+understood (see Chapter 33). After a seemingly minor injury, affected 
+children develop intense pain in an extremity or part of an extremity. 
+Additional symptoms include intermittent autonomic changes such 
+as discoloration, coolness, and localized excessive sweating. The pain 
+leads to progressive disability of the extremity, occasionally resulting 
+in fixed posturing of a hand, foot, or limb. Severely affected children 
+become disabled, are unable to ambulate at times, and are often unable 
+to attend school. Psychosocial comorbidity is common. The treatment 
+is analgesia, intense physical and occupational therapy, education, and 
+psychologic counseling. Some children improve dramatically within a 
+few days of instituting therapy, whereas in others, the pain and disabil­
+ity persist, and the process lasts indefinitely. In some instances, sympa­
+thetic nerve blockade is helpful.
+   	 S U MMA RY  A N D  R E D  F L A G S
+The differential diagnosis of arthritis is extensive. Thorough history 
+and physical examination, especially repeated over time, are essential 
+in establishing a diagnosis and initiating a treatment plan. Potential 
+diagnostic pitfalls are noted in Table 44.22. Red flags include man­
+ifestations suggestive of septic arthritis (fever, single joint involve­
+ment, erythema, extreme tenderness, leukocytosis), malignancy 
+(severe polyarthralgia, night pain, nonarticular bone pain, absence 
+of obvious swelling or stiffness, positive radiographic changes, and 
+cytopenias), and Lyme disease. The presence of associated systemic 
+signs and symptoms are an indication that the joint complaints are 
+potentially part of a systemic rheumatic disease such as SLE, JIA, 
+MAS, or rheumatic fever.
+A variety of noninflammatory conditions may mimic JIA; further­
+more, several infectious entities may produce arthritis and systemic 
+TABLE 44.21  Jones Criteria for Diagnosis 
+of Rheumatic Fever
+All patient populations must demonstrate evidence of a preceding GAS 
+infection
+Initial ARF: two major manifestations OR one major plus two minor 
+manifestations
+Recurrent ARF: two major OR one major and two minor OR three minor 
+manifestations
+Major Criteria
+Carditis: clinical (audible murmur) or subclinical (echocardiographic evidence 
+of valvulitis)
+Subcutaneous nodules
+Erythema marginatum
+Chorea
+Low-­risk populations*: polyarthritis
+Moderate-­ and high-­risk populations: polyarthritis, monoarthritis, or 
+polyarthralgia†
+Minor Criteria
+Fever (≥38.5°C)
+Peak ESR ≥30 mm/hr and/or CRP ≥3.0 mg/dL‡
+Prolonged P-­R interval, after accounting for age variability (unless carditis is 
+a major criterion)
+Low-­risk populations: polyarthralgia
+Moderate-­ and high-­risk populations: monoarthralgia
+*Low-­risk populations are those with an ARF incidence ≤2/100,000 
+school-­aged children or an all-­age rheumatic heart disease prevalence 
+of ≤1/1000 population per year.
+†Polyarthralgia should only be considered as a major manifestation in 
+moderate-­ to high-­risk populations after exclusion of other causes. As in 
+past versions of the criteria, erythema marginatum and subcutaneous 
+nodules are rarely “stand-­alone” major criteria. Additionally, joint man­
+ifestations can only be considered in either the major or minor catego­
+ries, but not both in the same patient.
+‡The CRP value must be greater than the upper limit of normal for the 
+laboratory. Because ESR may evolve during the course of ARF, peak 
+ESR values should be used.
+ARF, acute rheumatic fever; GAS, group A streptococcal.
+Modified from Gewitz MH, Baltimore RS, Tani LY, et al. Revision of the 
+Jones criteria for the diagnosis of acute rheumatic fever in the era of 
+Doppler echocardiography. Circulation. 2015;131:1806–1818.
+TABLE 44.22  Potential Pitfalls in Diagnosis
+Do
+	1.	Examine all joints.
+	2.	Order radiographs of both affected and contralateral joints.
+	3.	Ask parents to photograph swelling and rashes.
+	4.	Explore the complete history including the psychosocial history in all 
+patients.
+	5.	Perform a thorough physical examination.
+	6.	Consider the presence of MAS in patients with JIA or SLE.
+Do Not
+	1.	Indiscriminately order ANA tests, RF tests, or Lyme antibody tests 
+in patients who do not have clinical features consistent with SLE, 
+polyarthritis, or Lyme disease, respectively.
+	2.	Confuse arthralgia (joint pain) with arthritis (inflammation).
+	3.	Treat with prednisone before a diagnosis is clear, or before malignancy 
+has been excluded.
+	4.	Assume laboratory test results are accurate; repeat tests if necessary.
+	5.	Be impatient; many illnesses associated with arthritis take time to either 
+resolve or evolve; patience is often required to make an accurate diagnosis.
+ANA, antinuclear antibody; JIA, juvenile idiopathic arthritis; MAS, mac­
+rophage activating syndrome; RF, rheumatoid factor; SLE, systemic 
+lupus erythematosus.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+840
+SECTION 8  Musculoskeletal Disorders
+symptoms that mimic SJIA. The child with a history of injury and 
+the acute onset of extremity pain may have a fracture or traumatic 
+hemarthrosis, which requires prompt evaluation and management. 
+Any child with extremity pain, including children with arthritis, may 
+have leukemia or neuroblastoma. Systemic symptoms, such as fatigue 
+and poor appetite with weight loss, may accompany the pain and 
+increase suspicion of malignancy. Deep bone pain caused by marrow 
+invasion may not be accompanied by any obvious physical findings. 
+A normal or slightly low platelet count with an elevated ESR increases 
+the suspicion of malignancy. If leukemia is suspected, a CBC should 
+be obtained, a peripheral smear reviewed, and a bone marrow aspira­
+tion performed. This is particularly important if treatment with ste­
+roids or other immunosuppressive medications is being considered. 
+Steroids may alleviate inflammation and discomfort but may also 
+place a child with leukemia at risk for relapse with steroid-­resistant 
+disease.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+840.e1
+BIBLIOGRAPHY
+General
+Firestein GS, Budd RC, Gabriel SE, et al., eds. Kelley and Firestein’s Textbook of 
+Rheumatology. 10th ed. Philadelphia: Elsevier; 2017.
+Freira S, Fonseca H, Dias Ferreira P, et al. SAPHO syndrome in an adolescent: 
+a clinical case with unusual severe systemic impact. J Adolesc Health. 
+2014;55:304–306.
+Hochberg MC, Gravallese EM, Silman AJ, et al., eds. Rheumatology. 7th ed. 
+Philadelphia: Elsevier; 2019.
+Martinez-­Rios C, Jariwala MP, Highmore K, et al. Imaging findings of sterile 
+pyogenic arthritis, pyoderma gangrenosum and acne (PAPA) syndrome: 
+differential diagnosis and review of the literature. Pediatr Radiol. 
+2019;49:23–36.
+Petty RE, Laxer RM, Lindsley CB, et al., eds. Textbook of Pediatric 
+Rheumatology. 7th ed. Philadelphia: Elsevier; 2016.
+Juvenile Idiopathic Arthritis
+Al-­Mayouf SM. Noninflammatory disorders mimic juvenile idiopathic 
+arthritis. Intern J Pediatr Adolesc Med. 2018;5(1):1–4.
+Chu H, Song J, Kim DY. Pachydermodactyly: a benign cutaneous 
+condition that may be misdiagnosed as a joint disorder. J Rheumatol. 
+2016;43(8):1615–1616.
+Crayne CB, Beukelman T. Juvenile idiopathic arthritis. Pediatr Clin N Am. 
+2018;65:657–674.
+Fathalla BM, Goldsmith DP. Pachydermatodactyly mimics polyarticular 
+juvenile idiopathic arthritis. J Pediatr. 2009;155:931–933.
+Giancane G, Consolaro A, Lanni S, et al. Juvenile idiopathic arthritis: diagnosis 
+and treatment. Rheumatol Ther. 2016;3(2):187–207.
+Grom A, Horne A, De Benedetti F. Macrophage activation syndrome in the era 
+of biologic therapy. Nat Rev Rheumatol. 2016;12(5):259–268.
+Hersh AO, Prahalad S. Immunogenetics of juvenile idiopathic arthritis: a 
+comprehensive review. J Autoimmun. 2015;64:113–124.
+Kumar S, Vaidyanathan B, Gayathri S, et al. Systemic onset juvenile idiopathic 
+arthritis with macrophage activation syndrome misdiagnosed as Kawasaki 
+disease: case report and literature review. Rheumatol Int. 2013;33:1065–
+1069.
+Ravelli A, Minoia F, Davì S, et al. 2016 classification criteria for macrophage 
+activation syndrome complicating systemic juvenile idiopathic 
+arthritis: a European League Against Rheumatism/American College of 
+Rheumatology/Paediatric Rheumatology International Trials Organisation 
+collaborative initiative. Ann Rheum Dis. 2016;75(3):481–489.
+Shenoi S. Juvenile idiopathic arthritis – changing times, changing terms, 
+changing treatments. Ped Review. 2017;38(5):221–232.
+Systemic Lupus Erythematosus
+Calixto OJ, Franco JS, Anaya JM. Lupus mimickers. Autoimmun Rev. 
+2014;13:865–872.
+Chasset F, Richez C, Martin T, et al. Rare diseases that mimic systemic lupus 
+erythematous (lupus mimickers). Joint Bone Spine. 2019;86:165–171.
+Hiraki LT, Silverman ED. Genomics of systemic lupus erythematosus: insights 
+gained by studying monogenic young-­onset systemic lupus erythematosus. 
+Rheum Dis Clin N Am. 2017;43:415–434.
+Lahita RG. Systemic Lupus Erythematosus. 5th ed. London: Elsevier; 2011.
+Lee-­Kirsch MA. The type I interferonopathies. Annu Rev Med. 2017;68:297–
+315.
+Martin A, Costenbader K, Daikh D, et al. 2019 European League Against 
+Rheumatism/American College of Rheumatology classification criteria for 
+systemic lupus erythematosus. Arthritis Rheumatol. 2019;71(9):1400–1412.
+Onengiya H, Shima Y, Brunner H. Childhood-­onset systemic lupus 
+erythematosus: a review and update. J Pediatr. 2018;196:22–30.
+Shenoi S, Ou J-­N, Ni C, et al. Comparison of biomarkers for systemic juvenile 
+idiopathic arthritis. Pediatr Res. 2015;78(5):554–559.
+Volpi S, Picco P, Caorsi R, et al. Type 1 interferonopathies in pediatric 
+rheumatology. Pediatr Rheumatol. 2016;14:35.
+Wynne E, Wynne K, Cleary M, Brogan PA. Fucosidosis mimicking juvenile 
+idiopathic arthritis. Rheumatol Adv Pract. 2018;2(2):rky040.
+Infectious Arthritis
+American Academy of Pediatrics. Lyme disease. In: Kimberlin DW, Brady 
+MT, Jackson MA, et al., eds. Red Book: 2018 Report of the Committee on 
+Infectious Diseases. 31st ed. Elk Grove Village, IL: American Academy of 
+Pediatrics; 2018:515–523.
+Day MJ, Breitschwerdt E, Cleaveland S, et al. Surveillance of zoonotic 
+infectious disease transmitted by small companion animals. Emerg Infect 
+Dis. 2012;18(12).
+Gutierrez KM. Infectious and inflammatory arthritis. In: Long SS, Prober CG, 
+Fischer M, eds. Principles and Practice of Pediatric Infectious Diseases. 5th 
+ed. Philadelphia: Elsevier; 2018.
+Kapur N, Adib N, Grimwood K. Nocardia brasiliensis infection 
+mimicking juvenile idiopathic arthritis in a 4-­year-­old girl. Pediatrics. 
+2013;132(5):e1424–e1427.
+Miner JJ, Aw-­Yeang H-­X, Fox JM, et al. Chikungunya viral arthritis in the 
+United States: a mimic of seronegative rheumatoid arthritis. Arthritis & 
+Rheumatol (Hoboken, NJ). 2015;67(5):1214–1220.
+Singal A. Chikungunya and skin: current perspective. Indian Dermatol Online 
+J. 2017;8(5):307–309.
+Sood SK. Lyme disease in children. Infect Dis Clin North Am. 2015;29(2):281–294.
+Steere A, Strle F, Wormser G, et al. Lyme borreliosis [published correction 
+appears in Nat Rev Dis Primers. 2017 Aug 03;3:17062]. Nat Rev Dis 
+Primers. 2016;2:16090.
+Dermatomyositis
+Dimachkie MM, Barohn RJ, Amato A. Idiopathic inflammatory myopathies. 
+Neurol Clin. 2014;32(3):595–628.
+Rider L, Nistala K. The juvenile idiopathic inflammatory myopathies: 
+pathogenesis, clinical and autoantibody phenotypes, and outcomes. J Intern 
+Med. 2016;280(1):24–38.
+Scleroderma
+Torok KS. Pediatric scleroderma-­systemic and localized forms. Pediatr Clin 
+North Am. 2012;59(2):381–405.
+Torok KS, Li S, Jacobe H, et al. Immunopathogenesis of pediatric localized 
+scleroderma. Front Immunol. 2019;10:908.
+Van den Hoogen F, Khanna D, Fransen J, et al. 2013 classification criteria 
+for systemic sclerosis: an American College of Rheumatology/European 
+League Against Rheumatism collaborative initiative. Arthritis Rheum. 
+2013;65:2737–2747.
+Other Causes of Arthritis and Extremity Pain
+Gewitz MH, Baltimore RS, Tani LY, et al. Revision of the Jones criteria for the 
+diagnosis of acute rheumatic fever in the era of Doppler echocardiography. 
+Circulation. 2015;131(20):1806–1818.
+Nocton J. Usual and unusual manifestations of systemic and central nervous 
+system vasculitis. Pediatr Clin North Am. 2017;64(1):185–204.
+Weissmann R, Uziel Y. Pediatric complex regional pain syndrome: a review. 
+Pediatr Rheumatol Online J. 2016;14(1):29.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

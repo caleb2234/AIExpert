@@ -1,0 +1,3418 @@
+740
+ALTERED MENTAL STATUS
+Altered mental status (AMS) refers to a broad range of nonspecific 
+symptoms indicating a change in brain function from a patient’s baseline 
+and can include confusion, alteration in consciousness, disorientation, 
+decreased awareness, amnesia, and change in behavior. Accurate diagno­
+sis and management rely on rapidly characterizing the change in mental 
+status and prioritizing the identification of life-­threatening causes. AMS 
+can be divided into hyperactive states (increased psychomotor activity, 
+labile mood, behavioral disturbances) and hypoactive states (decreased 
+psychomotor activity, alteration in consciousness). Hypoactive states 
+often correspond to a decrease in level of consciousness, which must be 
+managed as a life-­threatening emergency until proven otherwise.
+Altered level of consciousness refers to decreases in arousal and 
+responsiveness to the environment. Intact consciousness requires two 
+components: wakefulness and awareness both of self and of the envi­
+ronment. Abnormal states of consciousness present along a spectrum 
+and range from lethargy to obtundation to stupor and finally coma 
+(Table 41.1). Coma is the lack of any awareness of self and environment 
+despite painful or other external stimulation. Delirium, in contrast, fol­
+lows a fluctuating course of alertness and attention; waxing and waning 
+periods of irritability, agitation, lack of contact with the environment, 
+disorientation, and confusion may be observed. Periods of lucidity may 
+alternate with the delirious state, and patients may proceed rapidly 
+from delirium to lethargy or coma. Both delirium and coma represent 
+final common pathways of multiple processes that lead to global central 
+nervous system (CNS) failure. Any alteration in the level of conscious­
+ness, whether delirium, lethargy, obtundation, stupor, or coma, must be 
+managed as a life-­threatening emergency until proven otherwise.
+ALTERED STATES OF CONSCIOUSNESS
+Arousal and awareness form the foundation for normal cognitive 
+function and consciousness. Arousal is determined in the brainstem’s 
+ascending reticular activating system (ARAS), which is also known as 
+the “sleep center” of the brain. Awareness and behavior are generated 
+in the cortex of the bilateral cerebral hemispheres. The cortex is the 
+central processing center that interprets neuronal input and generates 
+awareness. Diffuse injury to the cerebral hemispheres, injury to the 
+ARAS, or both create an alteration in consciousness. Because the ARAS 
+is located near several brainstem reflexes, injury to the ARAS is often 
+accompanied by dysfunction of these reflexes including altered pupil­
+lary light reflex (controlled by cranial nerves II and III) and altered eye 
+movement reflexes (oculocephalic and oculovestibular reflexes, which 
+are controlled by cranial nerves III, VI, and VIII and the medial lon­
+gitudinal fasciculus). Conversely, intact pupillary light, oculocephalic, 
+and oculovestibular reflexes suggest dysfunction of both cerebral 
+hemispheres. ARAS dysfunction is usually a result of structural causes, 
+while diffuse cerebral dysfunction is usually caused by medical causes 
+such as toxic or metabolic encephalopathies.
+Classification Systems
+Standardized language is necessary to properly diagnose and treat alter­
+ations in consciousness because terms such as lethargy, obtundation, 
+stupor, and coma are qualitative descriptions. Rating scales permit dif­
+ferent observers to follow the progression of the patient’s mental status 
+over time and facilitate effective communication of clinical informa­
+tion. The most widely used grading system is the Glasgow Coma Scale 
+(GCS) (Table 41.2), which has been modified for children younger 
+than 5 years of age based on their age-­appropriate developmental 
+abilities (Table 41.3). This 15-­point scale evaluates three areas of CNS 
+function: eye opening, verbal response, and motor response. A score of 
+15 indicates full function, whereas a score of 3 indicates no function. 
+The first area of assessment is eye opening, in which the arousability 
+and alertness of the patient are evaluated. Spontaneous eye opening 
+indicates intact arousal mechanisms but does not imply awareness. 
+The second area, verbal response, requires a high degree of integra­
+tion within the CNS. Oriented responses indicate awareness of person, 
+place, and time. The third area, motor functioning, reflects mentation 
+as well as the integrity of the major CNS pathways. For purposes of 
+gauging global brain function, the best motor response from any limb 
+is taken as the score. Variation in response from one side of the body 
+to the other is indicative of an asymmetric brain lesion. Spinal cord 
+lesions resulting in paralysis or significant orthopedic injuries to the 
+extremities prevent evaluation of the motor portion of the GCS.
+The GCS can provide a general assessment of consciousness but 
+is not intended to take the place of a complete neurologic evaluation 
+(Table 41.4). The GCS is an objective measure of the patient’s level 
+of consciousness and should be used serially over time to monitor 
+improvement or worsening of consciousness. Interventions are often 
+based on the score; for example, most patients with a score of 8 or less 
+should undergo endotracheal intubation. Deterioration of a patient’s 
+score by 2 or more points indicates a need for urgent re-­evaluation 
+of the patient and the possible need for further interventions such as 
+endotracheal intubation and diagnostic studies such as a brain CT scan.
+The GCS has also been shown to correlate with prognosis in patients 
+presenting with decreased levels of consciousness. In traumatic brain 
+injury, it may take days to weeks for patients with initial scores of 3–5 
+to become conscious as opposed to a few days in patients with scores 
+of ≥6. Children presenting after near-­drowning with an initial score of 
+≥6 have good outcomes. Patients presenting with a score of ≤5 have a 
+high probability of mortality or profound neurologic sequelae. A score 
+of 3 on transfer to an intensive care unit after near-­drowning has been 
+associated with a nearly 100% rate of poor outcome.
+Although the GCS is a widely applied tool for assessment, it does 
+not assess brainstem function and fails to discriminate between low 
+Altered Mental Status
+Tracey H. Liljestrom
+41
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+741
+CHAPTER 41  Altered Mental Status
+scores in intubated patients. The Full Outline of Unresponsiveness 
+(FOUR) Scale is another tool to assess consciousness and evaluates 
+eye response, motor response, brainstem reflexes, and respiratory 
+effort on a 4-­point scale. The FOUR score eye and motor responses 
+are defined similarly to the GCS (see Table 41.2). The assessment of 
+brainstem response focuses on the pupillary and corneal reflexes. The 
+respiratory assessment includes ways to score for an intubated patient 
+along with respiratory effort. Because the FOUR score includes brain­
+stem responses and differentiates between intubated and nonintubated 
+patients, this scale is better able to discriminate between patients with 
+a GCS score of 3. Regardless of the scoring system used, reporting the 
+score for each element can improve the precision of the assessment of 
+the level of consciousness to guide management decisions.
+Other scales have been developed to measure the level of conscious­
+ness in specific disease states, such as poisonings and hepatic failure. 
+The Reed classification of coma has been used in the setting of poison­
+ing or intoxication (Table 41.5) and is used to evaluate increasing depths 
+of coma encountered with CNS-­depressant drugs. The cardiovascular 
+system is included in this classification because toxic ingestions may 
+depress myocardial contractility or cause vasodilation. Neurologic 
+function in a patient with hepatic encephalopathy is staged according 
+to the scoring system of symptoms, signs, and EEG (Table 41.6).
+Differential Diagnosis
+The differential diagnosis in AMS is extensive. When AMS is asso­
+ciated with decreased level of consciousness, the differential can be 
+broadly categorized as structural brain disease, nonstructural or med­
+ical disease, and psychogenic causes. Structural etiologies can result in 
+either focal or nonfocal neurologic signs and include traumatic head 
+injuries, hydrocephalus, tumors, intracranial hemorrhages, and cere­
+bral vascular accidents. Nonstructural etiologies usually are associated 
+with nonfocal neurologic exams and result in a decreased level of 
+consciousness through diffuse neuronal injury. Nonstructural etiolo­
+gies include infections, metabolic encephalopathies, toxic ingestion, 
+hypoxic-­ischemic events, inflammatory brain diseases, and seizures 
+(Table 41.7). The age of the patient can help the clinician differentiate 
+the likely causes of coma, although there is considerable overlap (Table 
+41.8). Patients with delirium must be differentiated from an acute psy­
+chotic event (Table 41.9) (see Chapter 31). In addition, in patients who 
+are awake but presenting with AMS, performing an appropriate mental 
+status exam may help evaluate the degree of impairment and potential 
+etiology (Table 41.10). The mental status exam is most abnormal with 
+medical (encephalopathy, encephalitis) causes of altered behavior and 
+mental status. In primary psychiatric disorders, the neurologic exam is 
+nonfocal and level of wakefulness often remains intact despite changes in 
+behavior, orientation, and/or responses.
+Simultaneous Diagnosis and Management Approach
+Many causes of AMS are life-­threatening medical emergencies. Rapid 
+assessment and diagnosis are therefore crucial and must happen simul­
+taneously alongside management of identified life-­threatening etiol­
+ogies. The approach to the child with AMS can be divided into four 
+parts: (1) stabilization, (2) rapid clinical assessment, (3) reversal of 
+immediately treatable toxic or metabolic causes, and (4) detailed inves­
+tigation including determination of the level of CNS function and of 
+the cause of the coma (Fig. 41.1).
+Stabilization
+Initial stabilization for all patients includes assessment of the patient’s 
+airway, breathing, and circulation (ABCs). The first step in manage­
+ment is evaluating the patient’s airway and responding appropriately 
+to ensure patency. This may involve positioning, suctioning, or intu­
+bating. This is closely tied to the assessment of breathing and the respi­
+ratory drive via auscultation, observation, respiratory rate, and pulse 
+oximeter. Obtunded, stuporous, or comatose patients usually require 
+intubation unless their mental status is improving or can be readily 
+reversed. Intubation in these patients allows the airway to be secured, 
+treatment of hypoventilation or hypoxia (which may be contributing 
+to the patient’s AMS), and protection of the airway if a gag reflex is 
+not present. Manipulation of the neck, particularly extension, should 
+be avoided when an airway is being stabilized or secured, unless the 
+cervical spine has already been cleared via history or imaging.
+After a patient’s airway and breathing are stabilized, the next step 
+in management is assessment and stabilization of circulation. Initial 
+assessment includes heart rate, blood pressure, presence and volume 
+of peripheral pulses, capillary refill time, and adequacy of end-­organ 
+perfusion. Shock is defined as inadequate supply of oxygen to meet 
+metabolic needs in the body’s tissues. If shock leads to hypoperfusion 
+of the brain, AMS and decreased levels of consciousness result (see 
+Chapter 10). Assessment of vital signs may also suggest the presence 
+of increased intracranial pressure (bradycardia, hypertension, irregular 
+respirations) or a toxidrome.
+Rapid Clinical Assessment
+After initial stabilization of the airway, breathing, and circulation, atten­
+tion should turn to rapid clinical assessment with the goal of quickly 
+identifying life-­threatening and reversible causes of AMS. The rapid clin­
+ical assessment should include a focused history from available friends, 
+family, witnesses, first responders, and the medical record as applicable, 
+and a focused physical exam with a targeted neurologic examination.
+Rapid History
+Initially, history gathering should focus on rapid detection of possi­
+ble life-­threatening causes of AMS. Pertinent questions include recent 
+TABLE 41.1  States of Altered 
+Consciousness or Unresponsiveness
+Coma: a state of unarousable unresponsiveness; even strong exteroceptive 
+stimuli fail to elicit recognizable psychologic responses; unresponsive to pain
+Stupor: spontaneous unarousability interruptible only by vigorous, direct 
+external stimulation; responsive only to pain
+Hypersomnia, pathologic drowsiness, obtundation: terms applied to an 
+increase above the patient’s normal sleep/wake ratio, often accompanied 
+during wakefulness by reduced attention and interest in the environment; 
+responsive to pain and other stimuli
+Delirium: an acute or subacute reduction in awareness, attention, ori­
+entation, and perception (“clouding of consciousness”), fluctuating and 
+accompanied by abnormal sleep/wake patterns and often psychomotor 
+disturbances, which can be hypo-­ or hyperactive
+Syncope: brief loss of consciousness caused by global failure of cerebrovas­
+cular perfusion
+Dementia: a sustained or permanent multidimensional or global decline in 
+cognitive functions
+Vegetative state: a sustained, complete loss of cognition, with sleep/wake 
+cycles and other autonomic functions remaining relatively intact; can either 
+follow acute, severe bilateral cerebral damage or develop gradually as the 
+end stage of a progressive dementia
+Locked-­in state: preservation of intellectual activity accompanied by severe 
+or total incapacity to express voluntary responses as a result of damage 
+to or dysfunction of descending motor pathways in the brain or peripheral 
+motor nerves; most, but not all, such patients can use vertical eye move­
+ments to signal by code
+Modified from Plum F. Neurology/disturbances of consciousness and 
+arousal. In: Wyngaarden JB, Smith LH, Bennett JC, eds. Cecil Text­
+book of Medicine. 19th ed. Philadelphia: WB Saunders; 1992:2049.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+TABLE 41.2  Glasgow Coma Scale Versus Full Outline of Unresponsiveness Score
+Glasgow Coma Scale (GCS)
+Full Outline of Unresponsiveness (FOUR)
+Eye Opening:
+Eye Response:
+1
+Does not open eyes
+4
+Eyelids open and comply with verbal stimuli
+2
+Opens eyes in response to noxious stimuli
+3
+Eyelids open but not tracking
+3
+Opens eyes in response to voice
+2
+Eyelids closed but open to loud noise
+4
+Opens eyes spontaneously
+1
+Eyelids closed but open to noxious stimuli
+0
+Eyelids remain closed
+Verbal Response:
+Motor Response:
+1
+No verbal response
+4
+Thumbs up, fist or peace sign
+2
+Incomprehensible sounds
+3
+Localize to pain
+3
+Inappropriate words
+2
+Flexion to pain
+4
+Confused and disoriented fluid speech
+1
+Extension to pain
+5
+Oriented with normal speech
+0
+No response to pain or myoclonus
+Motor Response:
+Brainstem Reflexes:
+1
+No movements
+4
+Pupil and corneal reflexes present
+2
+Extension to noxious stimuli
+3
+One pupil wide and fixed
+3
+Flexion to noxious stimuli
+2
+Pupil or corneal reflex absent
+4
+Withdrawal to pain
+1
+Pupil and corneal reflexes absent
+5
+Localizes to pain
+0
+Absent pupil, corneal, and cough reflex
+6
+Obeys commands
+Respirations:
+4
+Regular breathing pattern
+3
+Cheyne-­Stokes respirations
+2
+Irregular breathing
+1
+Intubated but breathing above the vent
+0
+Breathing at vent rate or apnea
+TOTAL SCORE 3–15
+TOTAL SCORE 0–16
+TABLE 41.3  Pediatric Glasgow Coma Scale
+Activity
+Best Response
+Score
+Eye opening
+Spontaneously
+4
+To speech
+3
+To pain
+2
+None
+1
+Verbal
+Oriented
+5
+Words
+4
+Vocal sounds
+3
+Cries
+2
+None
+1
+Motor
+Obeys commands
+5
+Localizes pain
+4
+Flexion to pain
+3
+Extension to pain
+2
+None
+1
+Normal Total Score Based on Age
+Birth–6 mo
+9
+7–12 mo
+11
+1–2 yr
+12
+2–5 yr
+13
+>5 yr
+14
+Modified from Simpson D, Reilly P. Pediatric coma scale. Lancet. 1982;2:450.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+743
+CHAPTER 41  Altered Mental Status
+history preceding the change in mental status, timing of onset and pro­
+gression of AMS, and the patient’s medical history such as diabetes, sei­
+zures, substance abuse, or immunocompromise. Questions regarding 
+any traumatic injuries over the previous few days should be asked, and 
+even if trauma is denied, concern for nonaccidental trauma should be 
+raised if the story is inconsistent or nonspecific for the presenting clini­
+cal scenario. History should also include fevers or other signs or symp­
+toms of infection as well as signs of increased intracranial pressure such 
+as vomiting, ptosis, and headaches. Infants with rising increased intra­
+cranial pressure may present with irritability, lethargy, increasing head 
+circumference, and poor feeding. A dietary history in infants presenting 
+with a depressed level of consciousness is paramount and may raise sus­
+picion of hypoglycemia (from fasting or emesis) or hyponatremia (from 
+ingestion of free water). Exposure to drugs or toxins should be suspected 
+in any patient with a sudden onset of unexplained symptoms (coma, sei­
+zures) or a gradual onset of symptoms preceded by a period of confu­
+sion or delirium. The caregivers should be asked directly about possible 
+access to medications, recreational drugs, and environmental toxins.
+Rapid Physical Exam
+After quickly collecting the available historical information, the next 
+phase in management is completing a focused physical exam including 
+a rapid neurologic assessment, which should take no more than a few 
+minutes.
+General Physical Exam
+The general physical exam should include assessment of vital signs 
+with emphasis on the cardiovascular, respiratory, and head and neck 
+exams as well as a general assessment. Special attention should be paid 
+to identify any physical exam findings that may suggest a specific tox­
+idrome. The absence of a history of trauma or physical findings sug­
+gestive of a rapidly progressive intracranial process does not preclude a 
+traumatic or an anatomic cause of coma. Traumatic injuries can result 
+in life-­threatening illnesses at any age, including in newborns. The 
+head and neck should be carefully inspected, and the skull palpated for 
+evidence of trauma (Table 41.11). In infants, a bulging fontanel sug­
+gests raised intracranial pressure, which may have various causes. A 
+TABLE 41.4  The Neurologic Examination in Coma
+	1.	Guarantee vital functions.
+	2.	Feel the scalp for hematomas (overlying fracture lines); be sure the neck is not fractured; test gently for stiff neck.
+	3.	Test language. Test arousability by words, loud sounds, noxious stimuli. If vocalizations occur, check quickly for appropriate phrases, actual words, and presence 
+or absence of aphasia.
+	4.	Perform a neuro-­ophthalmologic examination.
+Funduscopy (if difficult, can be deferred until patient is stabilized)
+Papilledema (increased intracranial or venous sinus pressure)
+Hemorrhages (subarachnoid hemorrhage; hypertensive encephalopathy; hypoxic-­hypercarbic encephalopathy)
+Pupils
+Light reaction: Use bright flashlight and, if necessary, a magnifying glass to be certain of findings. Absence means potentially fatal deep sedative poisoning or 
+acute or chronic structural brainstem damage.
+Equality: 15% of normal patients have mild anisocoria, but new or >2 mm dilatation means parasympathetic (third nerve) palsy.
+Extraocular movements: Absence acutely means deep drug poisoning, severe brainstem damage, polyneuropathy, or botulism.
+Dysconjugate deviation: At rest, this means an acute third, fourth, or sixth nerve palsy or internuclear ophthalmoplegia. Tonic conjugate deviation toward a paralytic arm 
+and leg means forebrain seizures or a contralateral pontine destructive lesion; such deviation away from the paralytic arm and leg means forebrain gaze paralysis.
+Spontaneous eye movements: In comatose patients, nystagmus, bobbing, and independently moving eyes all mean brainstem damage.
+Oculocephalic (away from direction of head turning) or oculovestibular (toward cold caloric irrigation) responses: Absence of responses means drug overdose or 
+severe brainstem disease; dysconjugate responses with equal pupils mean internuclear ophthalmoplegia; responses with unequal pupils mean third nerve disease.
+	5.	Examine the motor systems.
+Strength
+Unilateral weakness or motionlessness of arm and leg means contralateral supraspinal upper motor neuron lesion, most often cerebral; if of arm, leg, and face, 
+contralateral cerebral lesion. Occasionally, arm and leg weakness reflects contralateral brainstem lesion.
+Weakness or motionlessness of all four extremities implies metabolic disease; less likely is brainstem disease (tone and reflexes increased) or peripheral disease 
+(tone and reflexes decreased).
+Attempt to Elicit Reflex Posturing
+Arm flexed, leg extended: contralateral deep cerebral-­thalamic lesion
+Arm and leg extended: thalamic or mesencephalic lesion
+Arms extended and legs flexed or flaccid: pontine lesion
+Legs flexed, arms flaccid: pontomedullary or spinal lesion
+Compare side-­to-­side reflexes and examine plantar responses.
+	6.	Seek seizure activity or abnormal movements: (1) generalized, (2) focal, (3) multifocal, and (4) myoclonic.
+Control (1) immediately, (2) and (3) deliberately; if (4) is present, treat underlying disease.
+Acute tremor, asterixis, multifocal myoclonus: Seek metabolic cause.
+	7.	Inspect breathing.
+Regular hyperpnea: metabolic acidosis; pulmonary infarction; congestive failure or alveolar infiltration; sepsis; salicylism; hepatic coma
+Cyclically irregular (Cheyne-­Stokes): low cardiac output plus bilateral cerebral or upper brainstem dysfunction
+Irregular gasping, slow or weak: lower, brainstem dysfunction (including hypoglycemia, drug effects); less often, peripheral ventilatory paralysis
+	8.	Proceed with laboratory tests and emergency management as described in text.
+Modified from Plum F. Neurology/sustained impairments of consciousness. In: Wyngaarden JB, Smith LH, Bennett JC, eds. Cecil Textbook of 
+Medicine. 19th ed. Philadelphia: WB Saunders; 1992:2057.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+744
+SECTION 7  Neurosensory Disorders
+bulging fontanel in the absence of a febrile illness should raise the sus­
+picion of trauma, including abusive head trauma. Retinal hemorrhages 
+are often present on funduscopic examination in children with abusive 
+head trauma. In addition to abusive head trauma, a child may have a 
+subarachnoid hemorrhage (ruptured aneurysm, arteriovenous malfor­
+mation) or hydrocephalus without any of the aforementioned signs or 
+symptoms of raised intracranial pressure. An ear exam should be per­
+formed to evaluate hemotympanum. Hemotympanum, clear drainage 
+from the nose or ear, Battle sign (bruising behind the ear), and raccoon 
+eyes may indicate a basilar skull fracture (see Table 41.11).
+Hyperventilation can be observed in midbrain structural lesions 
+but also in toxic-­metabolic encephalopathies as a primary response 
+to stimulation of the respiratory center (salicylates, theophylline, 
+hyperammonemia, hepatic coma) or as a compensatory response to 
+a metabolic acidosis. This pattern is also seen with raised intracranial 
+hypertension. Hypoventilation with a normal rhythm, particularly if 
+associated with a symmetrically depressed motor examination, usually 
+implies global CNS depression secondary to drug ingestion such as 
+opioids or benzodiazepines (Fig. 41.2).
+Neurologic Exam
+After completing a brief general physical exam and noting impaired 
+consciousness, a rapid neurologic assessment is required. Level of 
+consciousness should be assessed using a validated scoring system such 
+at the GCS or FOUR scores. In children with altered level of conscious­
+ness, the neurologic assessment should focus on identifying lateralizing 
+or focal findings, assessing for signs of increased intracranial pressure, 
+and recognizing brainstem dysfunction. Intrinsic to this assessment 
+is differentiating between bilateral cerebral hemisphere dysfunction, 
+ARAS dysfunction, or both. Bilateral cerebral hemisphere involvement 
+may be further divided into unilateral lesions with mass effect versus 
+diffuse bilateral injury. If the ARAS is affected, additional evidence of 
+brainstem dysfunction is usually present.
+Motor System and Focal Findings
+The presence of focal findings can be determined by comparison of either 
+side of the child’s body. Careful attention should be paid to asymmetry of 
+tone and movement between extremities, asymmetry of the face either at 
+rest or with movement, and asymmetry of reflexes, such as the pupillary 
+and deep tendon reflexes. Examination of the motor system includes 
+observation first of body position, then spontaneous movements, and 
+finally response to noxious stimuli (Fig. 41.3). Throughout the exam, the 
+examiner should note asymmetry between sides and muscle tone.
+A normal body position usually denotes an intact brainstem, as do 
+spontaneous, nonposturing movements. Hemiparesis or hemiplegia 
+implies a structural lesion in the contralateral hemisphere or subcor­
+tical region or an ipsilateral spinal cord injury. The presence of hyper­
+tonia or hyperreflexia suggests previous corticospinal tract disease 
+or an acute brainstem injury at the midbrain-­pontine level. It can also 
+be observed in patients with severe metabolic derangements, such as 
+hepatic coma, hypoglycemia, anoxia, and uremia. Hypotonia implies 
+bilateral hemispheric dysfunction or a medullary or spinal cord lesion. 
+In patients with severe depression of brain function, motor function 
+can be assessed only after the application of a noxious stimulus, such as 
+a sternal rub or increasing subungual pressure to the fingernails or toe­
+nails. If the response to a noxious stimulus includes verbalization, eye 
+opening, or a normal motor response (e.g., localization of the stimulus, 
+withdrawal of the limb, or movement away from the stimulus), this 
+indicates that the ascending sensory pathways to the cerebral hemi­
+spheres are intact, and descending motor pathways are functioning.
+Signs of Increased Intracranial Pressure
+Indications of clinically significant intracranial hypertension can be 
+assessed through the pupillary responses (Fig. 41.4), vital signs, and 
+motor responses (Tables 41.12 and 41.13). The cranial vault contains 
+brain, blood, and cerebrospinal fluid (CSF), and an increase in volume in 
+one area necessitates a decrease in volume in another area. This increase 
+in volume may occur secondary to space-­occupying lesions, edema, 
+intracranial hemorrhage, or hydrocephalus. The volume compensation 
+mechanisms within the cranial vault are limited, and if volume cannot 
+TABLE 41.5  Reed Classification of Coma
+Grade 0*
+Asleep
+Can be aroused
+Will answer questions
+Grade 1*
+Comatose
+Withdraws from painful stimuli
+Intact reflexes
+Grade 2*
+Comatose
+Does not withdraw from painful stimuli
+No respiratory, circulatory depression
+Intact reflexes
+Grade 3†
+Comatose
+Reflexes absent 
+No respiratory, circulatory depression
+Grade 4†
+Comatose
+Reflexes absent 
+Respiratory or circulatory problems
+*Good prognosis.
+†Very serious, may need measures to enhance elimination.
+Modified from Ellenhorn MJ, Barceloux DE. Medical Toxicology: Diagnosis 
+and Treatment of Human Poisoning. New York: Elsevier Science; 1988:17.
+TABLE 41.6  Stages of Hepatic Encephalopathy
+ 
+I
+II
+III
+IV
+Symptoms
+Periods of lethargy, euphoria; 
+reversal of day-­night sleeping; 
+may be alert
+Drowsiness, inappropriate 
+behavior, agitation, wide 
+mood swings, disorientation
+Stupor but arousable; confused, 
+incoherent speech
+Coma:
+IVa responds to noxious stimuli;
+IVb no response
+Signs
+Trouble drawing figures, performing 
+mental tasks
+Asterixis, fetor hepaticus, 
+incontinence
+Asterixis, hyperreflexia, extensor 
+reflexes, rigidity
+Areflexia, no asterixis, flaccidity
+EEG
+Normal
+Generalized slowing, Q waves Markedly abnormal triphasic waves
+Markedly abnormal bilateral slowing, 
+delta waves, electrocortical silence
+From Kliegman RM, St. Geme JW III, Blum NJ, et al., eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:2135, Table 391.1.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+745
+CHAPTER 41  Altered Mental Status
+TABLE 41.7  Etiologic Classification of Altered Mental Status in Children
+Infectious
+Metabolic/
+Systemic
+Toxic*
+Traumatic*
+Anatomic
+Hypoxic-­
+Ischemic
+Epileptic
+Vascular
+Inflammatory
+Psychologic
+Viral
+Aseptic menin­
+gitis*
+Encephalitis*
+? Reye syndrome
+? Hemorrhagic 
+shock and 
+encephalopathy 
+syndrome
+Postinfectious 
+encephalomy­
+elitis
+Systemic infec­
+tion with shock
+Bacterial
+Meningitis*
+Brain abscess
+Epidural empy­
+ema
+Subdural empy­
+ema
+Systemic infec­
+tion with shock
+Toxic shock 
+syndrome
+Rickettsial 
+infection
+Fungal
+Fungal meningitis
+Fungal brain 
+abscess
+Protozoan
+Meningitis
+Abscess
+Postimmunization 
+encephalopathy
+Hypoglycemia*
+Inborn errors of metab­
+olism*
+Hyperammonemia
+Hepatic failure
+Renal diseases
+Uremic encephalopathy
+Hypertensive encepha­
+lopathy
+Dialysis encephalopa­
+thy (dysequilibrium 
+syndrome)
+Hyperosmolar states
+Hypernatremia
+Hyperglycemia–diabe­
+tes mellitus*
+Hypo-­osmolar states
+Hyponatremia*
+Rapid decrease in 
+osmolality in hyperos­
+molar states
+Adrenal insufficiency
+Hyperthyroidism and 
+hypothyroidism
+Hypoparathyroidism
+Hypercalcemia
+Hypocalcemia
+Hypermagnesemia
+Hypomagnesemia
+Hypophosphatemia
+Hypercapnia
+Hypoxia*
+Shock*
+Vitamin deficiency and 
+toxicity states
+Nicotinic acid
+Pantothenic acid
+Pyridoxine
+Thiamine
+Vitamin B12
+Sympathomimetics
+Anticholinergics
+Phenothiazines
+PCP
+LSD
+Marijuana
+Cocaine
+Heavy metals (lead, 
+arsenic, mercury)
+Salicylates
+Organophosphates 
+and carbamates
+Antihistamines
+Industrial solvents 
+(inhaled)
+Alcohols
+Opioids
+Sedative-­hypnotics
+Barbiturates
+Carbon monoxide
+Tricyclic antidepres­
+sants
+Carbamazepine
+Cyanide
+Methaqualone
+Burn encephalop­
+athy
+Selective serotonin 
+reuptake inhib­
+itors
+Serotonin-­
+norepinephrine 
+reuptake inhibitor
+Monoamine oxidase 
+inhibitors
+Penicillins
+Carbapenems
+Methotrexate
+Valproate
+Vigabatrin
+Levetiracetam
+Cyclosporine
+Tacrolimus
+Concussion*
+Cerebral contusion
+Epidural hematoma
+Subdural hematoma
+Brainstem
+Epidural contusion
+Diffuse axonal shear 
+injury
+Cerebral edema*
+Intraparenchymal 
+hemorrhage
+Intraventricular hem­
+orrhage (neonate)*
+Obstructive hydro­
+cephalus
+Post-­traumatic 
+seizure
+Fat embolism
+Tumor
+Hydrocephalus
+Hydrocephalus 
+with shunt 
+malfunction
+Subdural hema­
+toma
+Epidural hema­
+toma
+Brain abscess
+Subdural empy­
+ema
+Epidural empyema
+Cerebral edema
+Intracranial 
+hemorrhage
+Cerebrovascular 
+accident/stroke
+Cardiac arrest
+Cardiac arrhyth­
+mia
+Severe shock
+Near-­drowning
+Neonatal 
+asphyxia*
+Hypoxemic respi­
+ratory failure
+Carbon monoxide 
+poisoning
+Cyanide toxicity
+Anaphylaxis
+Asthma
+Postictal state*
+Status epilepti­
+cus*
+Absence status
+Complex partial 
+seizure
+Epilepsy-
+encephalopa­
+thy syndromes
+Embolism
+Spontaneous 
+intraparenchy­
+mal hemor­
+rhage
+Subarachnoid 
+hemorrhage
+Venous sinus 
+thrombosis
+Vasculitis
+Lupus erythema­
+tosus
+Hypertensive 
+encephalop­
+athy
+Acute 
+confusional 
+migraine*
+Autoimmune 
+encephalitis
+ADEM
+NMO
+Multiple sclerosis
+Rasmussen enceph­
+alitis
+Neurosarcoidosis
+Hashimoto encepha­
+lopathy
+HLH
+Conversion disor­
+ders*
+Catatonia
+Intensive care unit 
+delirium
+Psychogenic nonepi­
+leptic seizures
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+746
+SECTION 7  Neurosensory Disorders
+TABLE 41.7  Etiologic Classification of Altered Mental Status in Children—cont’d
+Infectious
+Metabolic/
+Systemic
+Toxic*
+Traumatic*
+Anatomic
+Hypoxic-­
+Ischemic
+Epileptic
+Vascular
+Inflammatory
+Psychologic
+Intussusception 
+encephalopathy
+Methemoglobinemia
+Acidosis
+Alkalosis
+Porphyria
+Reye syndrome
+Mitochondrial encepha­
+lopathies
+*Common.
+ADEM, acute disseminated encephalomyelitis; HLH, hemophagocytic lymphohistiocytosis; LSD, lysergic acid diethylamide; NMO, neuromyelitis optica; PCP, phenylcyclohexyl piperidine (phen­
+cyclidine HCl).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+747
+CHAPTER 41  Altered Mental Status
+TABLE 41.8  Common Causes of Altered Mental Status by Age
+Neonate
+Infant
+Child
+Adolescent
+Hypoglycemia
+Meningitis
+Meningitis
+Meningitis
+Birth asphyxia
+Bacterial
+Bacterial
+Bacterial
+Congenital anomalies of the central 
+nervous system
+Viral
+Trauma
+Viral
+Encephalitis
+Viral
+Encephalitis
+Systemic infection with shock
+Abuse/shaken baby syndrome
+Trauma
+Intentional ingestion
+Cardiogenic shock
+Asphyxia
+Ingestion
+Recreational drug/alcohol use
+Congenital infection
+Brief resolved unexplained event
+Reye syndrome
+Suicide gesture or attempt
+Bacterial meningitis
+Intentional suffocation
+Systemic infection with shock
+Often involves multiple agents
+Inborn errors of metabolism
+Systemic infection with shock
+Seizure
+Trauma
+Hypocalcemia
+Ingestion
+Near-­drowning
+Seizures
+Intraventricular hemorrhage
+Inborn errors of metabolism
+Hypoglycemia
+Diabetic ketoacidosis
+Seizures
+Hypoglycemia
+Intussusception
+Systemic infection with shock
+Birth trauma
+Hyponatremia
+Acute demyelinating encephalomyelitis
+Toxic shock syndrome
+Hypocalcemia
+Diabetic ketoacidosis
+Reye syndrome
+Encephalitis
+Spontaneous intracranial hemorrhage
+Postimmunization encephalopathy
+Psychologic
+Hemorrhagic shock and encephalopathy 
+syndrome
+Lupus
+Intussusception encephalopathy
+Seizures
+TABLE 41.9  Special Problems in the Differential Diagnosis of Delirium*
+Clinical Feature Delirium
+Dementias
+Schizophrenia
+Depression
+Course
+Acute onset; hours, days, or more
+Insidious onset†; months or years; 
+progressive
+Insidious onset, 6 mo or more; 
+acute psychotic phases
+Insidious onset, at least 2 wk, 
+often months
+Attention
+Markedly impaired attention and 
+arousal
+Normal early; impairment later
+Normal to mild impairment
+Mild impairment
+Fluctuation
+Prominent in attention arousal; 
+disturbed day/night cycle
+Prominent fluctuations absent; lesser 
+disturbances in day/night cycle
+Absent
+Absent
+Perception
+Misperceptions; hallucinations, 
+usually visual, fleeting; param­
+nesia
+Perceptual abnormalities much less 
+prominent‡; paramnesia
+Hallucinations, auditory with 
+personal reference
+May have mood-­congruent 
+hallucinations
+Speech and 
+language
+Abnormal clarity, speed, and 
+coherence; disjointed and dysar­
+thric; misnaming; characteristic 
+dysgraphia
+Early anomia; empty speech; abnormal 
+comprehension
+Disorganized, with a bizarre 
+theme
+Decreased amount of speech
+Other cognition
+Disorientation to time, place; 
+recent memory and visuospatial 
+abnormalities
+Disorientation to time, place; multiple 
+other higher cognitive deficits
+Disorientation to person; 
+concrete interpretations
+Mental slowing; indecisive­
+ness; memory retrieval 
+difficulty
+Behavior
+Lethargy or delirium; nonsystem­
+atized delusions; emotional 
+lability
+Disinterested; disengaged; disinhib­
+ited; delusions and other psychiatric 
+symptoms
+Systematized delusions; para­
+noia; bizarre behavior
+Depressed mood; anhedonia; 
+lack of energy; sleep and 
+appetite disturbances
+EEG
+Diffuse slowing; low-­voltage fast 
+activity; specific patterns
+Normal early; mild slowing later
+Normal
+Normal
+*The characteristics listed are the usual ones and are not exclusive.
+†Patients with vascular dementia may have an abrupt decline in cognition.
+‡Patients with dementia with diffuse cortical Lewy bodies often have a fluctuating mental status and hallucinations.
+From Mendez MF, Padilla CR. Delirium. In: Daroff RB, Jankovic J, Mazziotta JC, et al., eds. Bradley’s Neurology in Clinical Practice. 7th ed. Phila­
+delphia: Elsevier; 2016:32, Table 4.2.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+748
+SECTION 7  Neurosensory Disorders
+be decreased in another area, intracranial pressure increases. The first 
+signs of increasing intracranial pressure are often headache and vom­
+iting followed by decreased consciousness, which is then followed by 
+posturing, and finally vital sign changes followed by death. Sixth cranial 
+nerve palsy or inability to abduct the eye can be an early sign of increased 
+intracranial pressure caused by stretching of the sixth cranial nerve. Pap­
+illedema is also associated with increased intracranial pressure but takes 
+≥12 hours to develop and therefore may be absent in acute increased 
+intracranial pressure. As intracranial pressure continues to increase, it 
+eventually leads to brain herniation and the vital sign changes of Cush­
+ing triad: hypertension, bradycardia, and irregularities of respiration.
+Brain herniation can occur at several different locations. The most 
+common type of herniation is transtentorial herniation, which can be 
+divided into uncal and central herniation. Uncal herniation occurs when 
+the uncus (the inner part of the temporal lobe) herniates over the tento­
+rium. This puts pressure on the midbrain, which contains the third cra­
+nial nerve. Pressure on the third cranial nerve impairs its parasympathetic 
+fibers, leading to ipsilateral pupillary dilatation. Therefore, a unilaterally 
+fixed and dilated pupil in a patient who is not awake represents uncal 
+herniation. Central herniation occurs when central brain structures 
+(diencephalon and temporal lobes) herniate through the tentorium cer­
+ebelli. Pressure on the hypothalamus at first causes small reactive pupils, 
+which then progress to pupils that are fixed at midposition. Other types 
+of herniation include subfalcine herniation, in which the cingulate gyrus 
+herniates under the falx cerebri and presents with unilateral or bilateral 
+weakness and can progress to central herniation. Tonsillar herniation 
+or foramen magnum herniation results from the cerebellar tonsils being 
+forced through the foramen magnum causing compression on the medulla 
+oblongata and the cervical spinal cord leading to downbeat nystagmus, 
+bradycardia, bradypnea, and hypertension. These signs can sometimes be 
+worsened with neck flexion and improved with neck extension.
+Brainstem Functioning
+Brainstem function is evaluated by observing the child’s respiratory 
+pattern, pupillary reflexes, corneal reflexes, and eye movement reflexes. 
+Dysfunction of brainstem reflexes implies disruption of the ARAS and 
+is a red flag indicating a serious and life-­threatening disease process.
+Breathing Patterns
+Significant brainstem dysfunction is usually associated with an abnor­
+mal breathing pattern (see Fig. 41.2). Cheyne-­Stokes respiration is 
+a pattern of breathing in which periods of hyperpnea alternate with 
+shorter apneic phases, observed in the presence of bilateral hemi­
+spheric or diencephalic dysfunction. It may also precede transtento­
+rial herniation. The hyperpneic periods have a characteristic smooth, 
+crescendo-­decrescendo pattern. Central neurogenic hyperventilation 
+is encountered with midbrain dysfunction; patients with this problem 
+are tachypneic and hyperpneic. Apneustic breathing is associated with 
+damage in the middle to lower pontine region. This pattern is charac­
+terized by a prolonged pause at full inspiration. Clusters of breaths sepa­
+rated by periods of apnea may be observed in patients with low pontine 
+to upper medullary lesions, whereas medullary lesions result in ataxic 
+or irregular breathing, slow regular breathing, or agonal respiration.
+Pupillary Light Reflexes
+Pupillary light reflexes are generally preserved in metabolic enceph­
+alopathy, whereas their absence strongly suggests a structural lesion. 
+The only exception to the latter is certain drug effects, particularly with 
+potent anticholinergic compounds, such as glutethimide, atropine, 
+or scopolamine, which produce fixed and dilated pupils. The balance 
+between sympathetic and parasympathetic stimulation, which results 
+in pupillary dilatation and constriction, normally determines pupillary 
+size and reactivity. A unilaterally dilated and fixed pupil is a sign of 
+uncal herniation with entrapment of the oculomotor nerve. Parasym­
+pathetic fibers innervating the eye accompany the oculomotor nerve. 
+Sympathetic fibers originate from at least four hypothalamic nuclei so 
+that diencephalic dysfunction results in small, reactive pupils. Hypo­
+thalamic damage often results in ipsilateral miosis associated with 
+Horner syndrome (miosis, ptosis, and anhidrosis).
+Injury to nuclei located in the midbrain disrupts both sympathetic 
+and parasympathetic pathways, resulting in midsized, fixed pupils. 
+Damage to the midbrain tectal regions also produces midposition or 
+slightly large, fixed pupils. In contrast to nuclear damage, however, 
+accommodation may be intact, so that pupillary size fluctuates spon­
+taneously. Pontine lesions, principally hemorrhage, interfere with 
+descending sympathetic fibers, causing symmetrically small pupils for 
+which a magnifying glass may be needed to detect a light reflex. Lateral 
+medullary lesions may also produce Horner syndrome, whereas cen­
+tral herniation results in fixed, dilated pupils. Figure 41.4 summarizes 
+pupillary findings in comatose patients.
+TABLE 41.10  MMC (Mini-­Mental State 
+Examination for Children)
+Function
+Tests
+Score
+Orientation
+Name, surname, age, sex
+0-­1-­2-­3-­4
+Name of parents, state, city, place
+0-­1-­2-­3-­4
+Age, month, day of month, day of week
+0-­1-­2-­3-­4
+Object naming
+Pen, watch, glasses
+0-­1-­2-­3
+Digit span—
+forward
+5-­3
+0-­1-­2-­3-­4
+4-­7-­2
+5-­9-­3-­1
+2-­7-­5-­9-­4
+Digit span—
+backward
+3-­6
+0-­1-­2-­3
+2-­9-­5
+4-­1-­9-­7
+Recall
+Pen, watch, glasses
+0-­1-­2-­3
+Naming body 
+parts
+Naming body part indicated by the 
+examiner: hand, foot, knee, nose, ear
+0-­1-­2-­3-­4-­5
+Command
+“Take the paper in your right hand, 
+fold it in half, and put it on the floor” 
+(“Pegue o papel com a mão, dobre-­o 
+ao meio e coloque-­o no chão”)
+0-­1-­2-­3
+Verbal string 
+repetition
+“No ifs, ands, or buts” (“Nem aquí, nem 
+lá, nem acolá”)
+0-­1
+Reading
+“Read this and do what it says” (”Close 
+your eyes”)
+0-­1
+Writing
+“Write your name”
+0-­1
+Constructional 
+praxis
+“Copy the drawings. Do it as best you 
+can” (vertical line at age 3 yr, cross at 
+age 4 yr, circle at age 5 yr, square at 
+age 6 yr, and diamond at age 7 yr)
+0-­1
+Maximum total score
+37
+Adapted version of the MMSE (Mini-­Mental State Examination).
+From Moura R, Andrade PMO, Fontes PLB, et al. Mini-­Mental State 
+Exam for Children (MMC) in children with hemiplegic cerebral palsy. 
+Dement Neuropsychol. 2017;11(3):287–296. https://www.ncbi.nlm.nih.
+gov/pmc/articles/PMC5674673/table/t5/?report=objectonly
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+749
+CHAPTER 41  Altered Mental Status
+Eye Movement Reflexes
+Evaluation of eye movements is helpful in differentiating hemispheric from 
+brainstem causes of coma. Frontal regions of the cerebral hemispheres are 
+responsible for voluntary eye movements, the quick phase of nystagmus, 
+and control over brainstem reflexes that determine eye movements. Bilat­
+eral hemispheric depression may result in roving eye movements if brain­
+stem function is intact. Because stimulation of a frontal gaze center causes 
+conjugate deviation of the eyes to the opposite side, tonic lateral deviation 
+of the eyes implies a seizure emanating from the contralateral hemisphere. 
+Eye deviation may also result from an ipsilateral hemispheric injury with 
+unopposed stimulation from the undamaged hemisphere or from a con­
+tralateral pontine lesion. The degree of eye deviation is usually more dra­
+matic with hemispheric damage than with brainstem damage.
+Not improved
+ABC
+Diagnosis
+Treatment
+Examination
+Imaging
+Disposition
+Patient presents with depressed consciousness
+Assess airway, breathing, circulation
+Administer:
+Dextrose if hypoglycemic
+Naloxone if opioid toxicity suspected
+Thiamine if malnourished
+Complete physical
+and neurologic examinations
+Secure airway if not improved
+Administer antibiotics if infection suspected
+CT + CTA
+Measure glucose
+Obtain IV access
+Maintain SpO2~97%
+Initiate cardiac monitoring
+Obtain ECG, portable CXR, POC labs
+Consult specialist
+Treat cause
+Provide neuroprotective care
+Structural cause
+No structural cause 
+Differential diagnosis: 
+- Toxic - labs, antidote/dialysis?
+- Seizure - EEG, anticonvulsant?
+- PRES - MRI, antihypertensive?
+- Infection - LP, antibiotics?
+- Nutrition - thiamine, glucose?
+- Endocrine - thyroid studies, steroids?
+Treat and observe
+Improved
+Admit to ICU
+CT
+No brainstem signs
+Brainstem signs
+Fig. 41.1  Algorithm for diagnostic and management approach to depressed consciousness and coma. ABC, 
+airway, breathing, circulation; CTA, computed tomography angiography; CXR, chest x-­ray; ICU, intensive care 
+unit; IV, intravenous; LP, lumbar puncture; POC, point of care; PRES, posterior reversible encephalopathy syn­
+drome; Spo2, oxygen saturation. (From Walls RM, Hockberger RS, Gausche-­Hill M, eds. Rosen’s Emergency 
+Medicine Concepts and Clinical Practice. 9th ed. Philadelphia: Elsevier; 2018:130, Fig. 13.2.)
+TABLE 41.11  Signs of Head Trauma 
+Possibly Associated with Intracranial Disease
+General
+Signs of Basilar Skull 
+Fracture
+Lacerations
+Hemotympanum
+Hematomas
+CSF rhinorrhea
+Ecchymosis
+CSF otorrhea
+Swelling
+“Raccoon eyes”
+Palpable crepitations
+Battle sign
+Step-­off of skull
+CSF, cerebrospinal fluid.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+750
+SECTION 7  Neurosensory Disorders
+If the patient’s eyes are not moving, then reflex eye movements are 
+tested by the oculocephalic and oculovestibular responses (Fig. 41.5). 
+These maneuvers involve the same major neuronal pathways. Afferent 
+fibers from the labyrinth, cerebellum, and cervical muscles reach the 
+vestibular nuclei (cranial nerve VIII) in the medulla. Fibers from the 
+vestibular nuclei then course to the ipsilateral abducens nuclei (cranial 
+nerve VI). Fibers from the abducens nuclei then decussate in the mid-­
+pons and ascend in the medial longitudinal fasciculus to reach the con­
+tralateral oculomotor nuclei (cranial nerve III). Intact reflexes indicate 
+the absence of cortical input on an intact brainstem.
+The oculocephalic reflex is elicited by rotating the child’s head from 
+side to side and observing the eye movements. This reflex should not be 
+checked unless a cervical spine injury has been ruled out. If brainstem 
+function is intact, the eyes deviate in a direction opposite to the head 
+movement. Both left and right lateral rotation should be tested. This 
+reflex is then tested in a vertical plane by rapidly flexing and extending 
+the neck. A positive response is upward gaze when the neck is flexed 
+and downward deviation when the head is extended.
+The oculovestibular reflex is tested by instilling ice water into the 
+ear canal. The ear canal must be visualized to ensure that there is no 
+obstruction and that the tympanic membrane is intact. The head is then 
+placed at a 30-­degree angle from the horizontal so that the semicircular 
+canal is vertical, and up to 120 mL of ice water is then injected slowly 
+into the external ear canal over a few minutes through an angiocatheter. 
+After a minimum of 5 minutes, the other ear may be tested; this interval 
+allows time for the oculovestibular system to re-­equilibrate. A positive 
+response in an awake patient is nystagmus with the slow component 
+toward the irrigated ear and the fast component away from the stimu­
+lus. With bilateral hemispheric depression, the fast phase of nystagmus 
+dissipates, and the eyes are tonically deviated toward the irrigated ear.
+Both the oculocephalic and oculovestibular reflexes are absent in 
+patients with low brainstem lesions because neurotransmission between 
+One minute
+A
+B
+C
+D
+E
+Fig. 41.2  Abnormal respiratory patterns. A, Cheyne-­Stokes respiration. B, Central neurogenic hyperventila­
+tion. C, Apneusis. D, Cluster breathing. E, Ataxic breathing. Shaded areas show location of brain pathology 
+associated with abnormal respiratory pattern.
+A
+B
+C
+D
+Fig. 41.3  Motor response to noxious stimuli. A, Localization. B, Decor­
+ticate posturing. C, Decerebrate posturing. D, Opisthotonos posturing.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+751
+CHAPTER 41  Altered Mental Status
+the vestibular and abducens nuclei is interrupted. In patients with 
+damage to the medial longitudinal fasciculus, the ipsilateral eye fails to 
+adduct on irrigation of the contralateral ear canal. However, the oppo­
+site eye abducts normally. With a lesion in the left medial longitudinal 
+fasciculus, the right eye abducts, but the left eye does not, in response 
+to irrigating the right ear canal. This reaction is caused by disruption 
+of fibers between the abducens and the contralateral oculomotor nuclei 
+(see Fig. 41.5).
+Corneal Reflex
+In addition to assessing ocular motility, the examiner should test the cor­
+neal reflex and determine the presence or absence of a blink. The absence 
+of a blink in response to a loud noise or bright light implies dysfunc­
+tion of the pontine reticular formation secondary to either metabolic 
+or structural causes. Unilateral absence of a blink implies a facial nerve 
+lesion. The afferent limb of the corneal reflex is carried by the trigemi­
+nal nerve (cranial nerve V). The normal effector response involves both 
+upward deviation of the eye (oculomotor nerve) and closure of the eyelid 
+(facial nerve). A normal reflex suggests that the integrity of pathways 
+between the midbrain and the pons has not been violated.
+Body Position
+In patients with decreased level of consciousness, the body’s position in 
+response to noxious stimuli can indicate hemispheric verses brainstem 
+dysfunction. Decorticate posturing occurs when the upper extrem­
+ities are held flexed at the elbow, wrist, and fingers and implies hemi­
+spheric dysfunction with an intact brainstem. Decerebrate posturing 
+occurs when arms are internally rotated and adducted at the shoulder, 
+extended at the elbow, pronated at the forearm, and flexed at the fingers 
+(see Fig. 41.3). Opisthotonos with clenched teeth is a severe form of 
+decerebration. Decerebrate posturing usually suggests brainstem com­
+pression or a severe structural injury to the midbrain-­pontine region. 
+It can also occur in association with severe metabolic diseases, such as 
+hepatic coma, anoxia, and hypoglycemia. Less commonly, decerebrate 
+Small reactive
+DIENCEPHALIC
+Small reactive
+III NERVE (UNCAL)
+Dilated, fixed
+PONS
+Pinpoint
+MIDBRAIN
+Midposition, fixed
+TECTAL
+Large “fixed,” hippus
+METABOLIC
+Fig. 41.4  Pupils in comatose patients.
+TABLE 41.12  Signs of Incipient Downward 
+Herniation
+Central
+Uncal
+Arousal
+Impaired early, before other 
+signs
+Impaired late, usually with 
+other signs
+Breathing
+Sighs, yawns, sometimes 
+Cheyne-­Stokes respiration
+No early change
+Pupils
+First, small reactive (hypo­
+thalamus); then one or both 
+approach midposition
+Ipsilateral pupil dilates, 
+followed by somatic third 
+nerve paralysis
+Oculocephalic 
+responses
+Initially sluggish, later tonic 
+conjugate
+Unilateral third nerve 
+paralysis
+Motor signs
+Early hemiparesis opposite 
+to hemispheric lesion 
+followed late by ipsilateral 
+motor paresis and extensor 
+plantar response
+Motor signs late, sometimes 
+ipsilateral to lesion
+From Plum F. Neurology/sustained impairments of consciousness. In: 
+Wyngaarden JB, Smith LH, Bennett JC, eds. Cecil Textbook of Medi­
+cine. 19th ed. Philadelphia: WB Saunders; 1992:2050.
+TABLE 41.13  Characteristics of 
+Supratentorial Lesions Leading to Coma
+Initiating symptoms usually cerebral-­focal: aphasia; focal seizures; contra­
+lateral hemiparesis, sensory change, or neglect; frontal lobe behavioral 
+changes; headache
+Dysfunction moves rostral to caudal: e.g., focal motor → bilateral motor → 
+altered level of arousal
+Abnormal signs usually confined to a single or an adjacent anatomic level (not diffuse)
+Brainstem functions spared unless herniation develops
+From Plum F. Neurology/sustained impairments of consciousness. In: 
+Wyngaarden JB, Smith LH, Bennett JC, eds. Cecil Textbook of Medi­
+cine. 19th ed. Philadelphia: WB Saunders; 1992:2050.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+752
+SECTION 7  Neurosensory Disorders
+posture may represent delayed cortical demyelination after a hypoxic-­
+ischemic injury. Pontomedullary or spinal cord damage is associated 
+with a flaccid response to noxious stimulation.
+Determining the Level of CNS Dysfunction
+The origin of coma (hemispheric vs brainstem) and its cause (met­
+abolic vs structural) can be elucidated by synthesizing the findings 
+from examining pupillary size and reactivity, eye movements, motor 
+responses, and respiratory pattern. Putting together the elements 
+of the neurologic exam can help distinguish between global bilat­
+eral hemispheric dysfunction more likely to be caused by toxic-­
+metabolic insults versus structural insults as well as suggest the level 
+of CNS dysfunction (Table 41.14). Focality or asymmetry in the 
+neurologic exam, signs of increased intracranial pressure, and signs 
+of brainstem involvement all suggest a structural cause to the AMS.
+Absent or asymmetric corneal reflexes or abnormal oculocephalic 
+or oculovestibular reflexes suggest serious brainstem involvement. Nor­
+mal brainstem responses combined with withdrawal to pain suggest a 
+supratentorial abnormality. Roving but conjugate eye movements sug­
+gest an intact brainstem, whereas vertical malalignment suggests the 
+brainstem is affected. Asymmetric pupils in an altered patient indicate 
+herniation from increased intracranial pressure.
+Reversal of Immediately Treatable Toxic or Metabolic 
+Causes
+If the etiology for altered consciousness is not immediately apparent 
+from the rapid clinical assessment, emphasis should shift to a system­
+atic review of the reversible causes. A blood glucose level should be 
+obtained as soon as possible on all children presenting with AMS. 
+Hypoglycemia is a medical emergency that must be treated immedi­
+ately because sustained hypoglycemia may result in permanent neu­
+rologic damage. Hypoglycemia in an altered child can be treated with 
+intravenous dextrose, glucagon injection, or glucose gel applied to 
+the oral mucosa. If obtaining a blood glucose level is delayed for any 
+reason, empiric treatment for hypoglycemia should be given. In the 
+absence of a central line, the percent dextrose solution used may vary; 
+however, the absolute dose of glucose remains the same. Depending on 
+the underlying etiology of the hypoglycemia, some patients will require 
+a continuous infusion of glucose and electrolytes to prevent rebound 
+hypoglycemia after the dextrose bolus. Regardless, any child found to 
+Brainstem
+intact
+MLF
+(bilateral)
+Low
+brainstem
+lesion
+Cold H2O
+Cold H2O
+Cold H2O
+Hot H2O
+Cold H2O
+Cold H2O
+Cold H2O
+Hot H2O
+Cold H2O
+Cold H2O
+Cold H2O
+Hot H2O
+Fig. 41.5  Ocular reflexes. MLF, medial longitudinal fasciculus.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+753
+CHAPTER 41  Altered Mental Status
+have hypoglycemia will need close monitoring of their blood glucose 
+levels until stabilized (see Chapter 57).
+Reversible ingestions should be considered next. Naloxone should 
+be administered to children who have marked depression of con­
+sciousness without an obvious cause, particularly if hypoventilation is 
+observed and opioid ingestion is suspected. Miosis is not a necessary 
+finding because ingestion of multiple agents, including narcotics, may 
+not result in small, constricted pupils. Organophosphates, clonidine, 
+Lomotil, cholinesterase inhibitors (for myasthenia gravis), and val­
+proate may cause miosis. Meperidine does not produce miosis. Dis­
+eases producing miosis include cluster headaches, Horner syndrome, 
+Lyme disease, and uveitis. Large ingestions of narcotics may necessitate 
+larger single doses of naloxone because of the competitive nature of 
+its antagonistic effect. Even if initial improvement is noted, patients 
+may require multiple doses or even a continuous infusion of naloxone 
+because its half-­life is shorter than that of many opioids. Benzodiaze­
+pine ingestion can also cause depressed levels of consciousness and can 
+be reversed with flumazenil. Flumazenil, a specific competitive antag­
+onist of benzodiazepines, should only be given if acute benzodiazepine 
+overdose is suspected as administration of flumazenil to a patient with 
+chronic benzodiazepine use or who has ingested multiple agents such 
+as tricyclic antidepressants, which may precipitate seizures.
+When there are clinical signs or symptoms of infection present, the 
+patient should be evaluated for signs of sepsis as well as CNS infection 
+such as meningitis, encephalitis, or a parameningeal infection. Sepsis 
+is a medical emergency; blood cultures should be obtained, and antibi­
+otics started within an hour of recognition. If meningitis or encepha­
+litis is suspected, a lumbar puncture should be performed, an opening 
+pressure obtained, and CSF sent for Gram stain, culture, protein, glu­
+cose, and rapid identification of pathogens by polymerase chain reac­
+tion (PCR). Contraindications to a lumbar puncture are listed in Table 
+41.15. Antibiotics should not be delayed in order to perform a lum­
+bar puncture. Suspicion for meningitis or encephalitis increases with 
+the presence of a fever, bulging fontanel, nuchal rigidity, and Kernig 
+or Brudzinski signs. Prior administration of antibiotics does not affect 
+meningeal irritation. Most (85%) children with meningitis have AMS 
+(53% lethargic, 22% stuporous, 10% comatose). If a contraindication 
+to a lumbar puncture exists or if CSF is unable to be obtained, the 
+child should be stabilized, receive empirical antimicrobial therapy, 
+and undergo head CT imaging. The patient should undergo lumbar 
+puncture as soon as it is no longer contraindicated. If a patient presents 
+with sudden nuchal rigidity not preceded by a prodromal illness, a sub­
+arachnoid hemorrhage should be suspected, and a CT scan performed 
+before the lumbar puncture.
+If history is concerning for seizures and the physical exam reveals 
+concern for ongoing seizure, such as continued rhythmic jerking of 
+extremities or tonic deviation of the eyes, then a benzodiazepine such 
+as intravenous lorazepam or intranasal midazolam should be given 
+empirically and the patient monitored for effects.
+If signs of increased intracranial pressure are present, treatment 
+should be initiated with raising the head of the bed 30 degrees and 
+hypertonic saline or mannitol should be given. If signs of imminent 
+herniation are present, hyperventilation either manually through a 
+bag-­mask or with a ventilator in intubated patients can be initiated as 
+a temporizing intervention until more definitive treatment is available. 
+Emergent head CT and neurosurgical consultation should be obtained. 
+In addition to an elevated head position, other neuroprotective prin­
+ciples include avoiding constrictive items around the neck; avoiding 
+hypoxia or hyperoxia; avoiding hypotension, hypoglycemia, hypergly­
+cemia, and hyperthermia; and preventing and treating seizures.
+Reasons to obtain an emergent head CT include focal neurologic 
+findings, concern for trauma, or other signs or symptoms consistent 
+with a structural cause of AMS. If the cause of AMS continues to 
+remain unknown and particularly if the exam is consistent with non­
+structural causes, initial laboratory investigation should be obtained 
+including CBC, electrolytes, magnesium, calcium, and phosphorus, 
+BUN, creatinine, liver function tests including serum bilirubin and 
+ammonia, lactic acid, arterial or venous blood gas, urine and serum 
+toxicology screens, urine analysis with urine ketones and urine reduc­
+ing substances, and appropriate cultures (blood, urine, CSF).
+TABLE 41.14  Neurologic Findings That Help 
+to Localize Site of Structural Brain Disease by 
+Location of Lesion
+Bilateral hemi­
+spheric
+Spontaneous eye movements (roving, dipping,* ping-­
+pong, nystagmoid jerks)
+Upward or downward eye deviation
+Intact oculovestibular reflexes
+Intact pupillary and corneal reflexes
+Variable motor responses
+Adventitious limb movements (subtle manifestations 
+of seizures, myoclonus, asterixis)
+Brainstem displace­
+ment from a hemi­
+spheric mass
+Anisocoria or unilateral fixed and dilated pupil (pre­
+dominant lateral displacement)
+Midposition fixed pupils (predominant downward 
+displacement)
+Extensor or flexor posturing
+Central hyperventilation (diencephalic)
+Brainstem dis­
+placement from a 
+cerebellar mass
+Direction-­changing or vertical nystagmus from the 
+cerebellar lesion
+Ocular bobbing†
+Absent corneal reflexes with intact pupillary reflexes
+Extensor or flexor posturing
+Facial or abducens nerve palsy
+Skew deviation (vertical misalignment of eyes)
+Internuclear ophthalmoplegia
+Intrinsic brainstem 
+lesion
+Vertical nystagmus or bobbing
+Miosis (with pontine lesions)
+Internuclear ophthalmoplegia
+Variable pupillary and corneal reflexes (can both be 
+absent)
+Absent oculocephalic and oculovestibular responses
+Extensor or flexor posturing
+Ataxic breathing (pontomedullary damage)
+*Slow eye movement down followed by rapid return up to the mid­
+plane.
+†Rapid eye movement up followed by slow return down to the mid­
+plane.
+From Edlow JA, Rabinstein A, Traub SJ, et al. Diagnosis of reversible 
+causes of coma. Lancet. 2014;382:2064–2076.
+TABLE 41.15  Contraindications to Lumbar 
+Puncture
+Clinically important cardiorespiratory compromise in a neonate or young infant
+Signs of raised intracranial pressure (pupillary changes, ptosis, hypertension, 
+bradycardia, posturing, cranial nerve VI palsy, retinal changes)
+Skin or soft tissue infection overlying area where lumbar puncture is to be 
+performed
+Focal neurologic findings
+Suspected brain abscess (illness duration longer than expected for meningi­
+tis; focality)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+754
+SECTION 7  Neurosensory Disorders
+DETAILED INVESTIGATION
+Once the patient has been stabilized and life-­threatening causes of AMS 
+have been excluded, the coma can be considered stable if (1) focal neu­
+rologic findings are not present, (2) there is no evidence of significant 
+brainstem dysfunction, (3) intracranial pressure is not raised, (4) there 
+is no evidence of head trauma or CNS infection, and (5) the child does 
+not have a rapidly reversible toxic or metabolic cause. At this point a 
+detailed physical examination and expanded laboratory evaluation can 
+be undertaken to confirm the level of CNS function and the cause of 
+the coma.
+Further history should be reviewed that was not able to be obtained 
+earlier including detailed family history, social history, and further 
+exposures including sources of carbon monoxide, animal exposures or 
+bites, travel history, toxins or medications in the house, and pill counts 
+if applicable. Collateral information should be reviewed if not avail­
+able earlier. A detailed physical examination may provide further clues 
+to the cause of the coma (Table 41.16), and careful attention should 
+be paid to ensure full exposure and a thorough physical exam. If not 
+already performed, attention should be paid to the skin, thyroid, and 
+abdominal exam. In addition to the neurologic exam described previ­
+ously focused on emergent findings, further detailed neurologic exam­
+ination should also be performed.
+Once further history is gathered and a detailed physical exam is per­
+formed, further laboratory and electrophysiology studies and imaging 
+may be warranted based on the clinical scenario (Tables 41.17 and 41.18). 
+In addition to the labs mentioned previously, second-­line studies may 
+include thyroid function tests; cortisol; carboxyhemoglobin; coagula­
+tion studies; ammonia; lactic acid; inflammatory markers; and antibody 
+testing. An osmolal gap, as well as an anion gap, should be calculated. 
+The osmolal gap is the difference between the measured and calculated 
+serum osmolality (normal is <5–10 mOsm/kg H2O) (Table 41.19). Both 
+serum and urine toxicology screens should be sent when suspecting 
+ingestions; however, the results must be interpreted cautiously. Because 
+toxicology screens are not standardized, a “negative” result does not rule 
+out an undetermined ingestion and clinicians should be familiar with 
+what is tested on their local toxicology screens. Screening for certain 
+agents, such as methanol and ethylene glycol, needs to be requested spe­
+cifically. Depending on the compound, both false negatives and false 
+positives may be a concern. ECG should be considered particularly if 
+concerned for electrolyte derangement or intoxication in order to assess 
+for cardiac conduction abnormalities. Other laboratory testing may 
+include heavy metal levels, porphyria testing, and testing for inborn 
+errors of metabolism (plasma amino acids, plasma carnitine, plasma 
+pyruvate, urinary amino acids, and urinary organic acids and acylcarni­
+tine profile). In infants and young children, a positive stool guaiac may 
+suggest intussusception, which can occasionally present with decreased 
+level of consciousness (encephalopathy), and further work-­up with 
+abdominal ultrasound for confirmation should be pursued.
+Further infectious work-­up may include fungal and mycobacterial 
+cultures and antigen or serologic studies for specific infectious etiol­
+ogies such as enterovirus, herpes simplex virus, Epstein-­Barr virus 
+(EBV), cytomegalovirus (CMV), HIV, Borrelia burgdorferi, Bartonella 
+henselae, Rickettsia, arboviral encephalitides, rabies, cryptosporid­
+ium, mycobacterium tuberculous, syphilis, histoplasmosis, and myco­
+plasma. In the appropriate endemic areas or in returning travelers, the 
+clinician should also consider testing for dengue, malaria, Japanese 
+encephalitis, viral hemorrhagic fevers, and parasitic meningitis, par­
+ticularly if eosinophils are present in the CSF (≥10 eosinophils/mL3 or 
+pleocytosis with ≥10% eosinophils).
+For patients who remain altered without a clear etiology, lumbar 
+puncture should be performed if not done already. CSF should be sent 
+for cell count and differential, glucose, protein, Gram stain, bacterial 
+culture, and herpes simplex virus PCR. Other CSF testing should be 
+obtained based on risk factors and clinical scenario. In immunocom­
+promised patients, fungal and mycobacterial cultures should be sent as 
+well as additional testing for cryptococcal antigen, histoplasma anti­
+gen, human herpes virus 6, and CMV. Multiplex or individual PCR and 
+antibody testing of the CSF for bacterial and viral pathogens should be 
+considered.
+If concerned for an autoimmune process, the appropriate antibod­
+ies such as antinuclear antibody (ANA) and antineutrophil cytoplas­
+mic antibodies (ANCAs) should be obtained, and complement levels 
+and autoimmune antibody testing of the CSF should be performed.
+If not already performed, brain imaging should be considered. Head 
+imaging should only be obtained after the patient has been stabilized 
+and the risks of transporting an acutely ill child for the study have been 
+weighed against the diagnostic benefit. CT scan offers the quickest 
+modality for head imaging and the modality of choice when concerned 
+for a structural cause of coma. Head CT will reveal intracranial bleed­
+ing, hydrocephalus, cerebral edema, herniation, and abnormal fluid 
+collections. Limitations of head CT scan include exposure to radiation, 
+limited evaluation of the posterior fossa, and decreased sensitivity to 
+changes in the brain parenchyma. If the etiology of the altered level 
+of consciousness is not found on head CT, an MRI of the brain should 
+be obtained, which is more sensitive for acute stroke, demyelination, 
+lesions in the posterior fossa, epileptic foci, and changes associated 
+with infectious or autoimmune encephalitis. Limits of an MRI include 
+longer imaging time, which often necessitates sedation of infants and 
+young children. If there is concern for stroke, sinus venous thrombo­
+sis, or other vascular abnormality, appropriate vascular imaging should 
+be obtained such as CT or magnetic resonance angiography and/or 
+venography (MRA and MRV, respectively). For otherwise stable neo­
+nates and young infants, head ultrasound can be obtained as an initial 
+head imaging modality and can be used to identify intracranial hemor­
+rhage, subdural collections, edema, and signs of increased intracranial 
+pressure.
+Other important investigations include EEG monitoring over time 
+to detect nonconvulsive status epilepticus in patients with decreased 
+level of consciousness. EEG is indicated if there is concern for sec­
+ondary seizures due to trauma, structural lesions, encephalitis, or 
+encephalopathy. If there is concern for catatonia, consultation with 
+psychiatry should be obtained and a trial of lorazepam with monitoring 
+for improvement in mental status can be considered (see Chapter 31).
+TRAUMA
+Traumatic brain injury (TBI) accounts for approximately half of the 
+incidence of childhood coma and is the leading cause of pediatric 
+trauma death. Falls and motor vehicle crashes account for the most 
+common mechanisms of injury, and the risk of TBI tends to increase 
+throughout childhood. Severe TBI can lead to AMS through a vari­
+ety of mechanisms including diffuse axonal injury, brain contusion, 
+intraparenchymal brain hemorrhage, subdural hemorrhage, epidural 
+hemorrhage, and subarachnoid hemorrhage. The mechanism of brain 
+injury is caused both by the primary injury and by secondary injury 
+caused by edema, hypoxia, hypoperfusion, increased intracranial pres­
+sure, and metabolic derangements such as acidosis and hypoglycemia. 
+After initial stabilization, a patient presenting with any known trauma 
+and AMS should have a head CT and the appropriate neurosurgical 
+consultation and intervention. Even without a clear history of trauma, 
+TBI should be suspected in patients presenting with AMS and other 
+signs of trauma including bruising, lacerations, fractures, raccoon eyes, 
+Battle sign (bruising posterior to the ear), and hemotympanum.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+755
+CHAPTER 41  Altered Mental Status
+TABLE 41.16  Physical Examination and Diagnosis of Coma
+System
+Sign
+Disorder
+Skin
+Dry
+Dehydration, myxedema, adrenal insufficiency, anticholinergic poisoning
+Moist, sweating
+Syncope, hypoglycemia, hyperthyroidism
+Pigment
+Addison disease, porphyria
+Nevi
+Tuberous sclerosis with seizures
+Petechiae
+Bacteremia, bacterial endocarditis, idiopathic thrombocytopenia purpura
+Ecchymosis
+Coagulopathy, intracranial hemorrhage
+Cyanosis
+Hypoxia, congenital heart disease with cerebral embolism, methemoglobinemia
+Pallor
+Shock, hemorrhage, severe anemia
+Erythema
+Carbon monoxide, atropine, or mercury intoxication: toxic shock syndrome, heat stroke
+Butterfly rash
+Lupus erythematosus, tuberous sclerosis, dermatomyositis
+Desquamation
+Vitamin A intoxication, scarlatina, Kawasaki disease
+Jaundice
+Hepatic disease, hemolytic anemia
+Nail changes
+Splinter hemorrhage–endocarditis
+Candida infection, hypoparathyroidism, Addison disease
+Periungual fibroma (tuberous sclerosis)
+Breath odor
+Fruity
+Diabetic ketoacidosis; amyl nitrate, alcohol, isopropyl alcohol poisoning
+Feculent
+Hepatic encephalopathy
+Garlic
+Selenium toxicity, arsenic poisoning, organophosphate poisoning
+Almonds
+Cyanide poisoning
+Wintergreen
+Methyl salicylate poisoning
+Ammoniacal
+Uremia
+Acrid (pearl-­like)
+Paraldehyde, chloral hydrate poisoning
+Scalp
+Contusions
+Trauma
+Vasodilation
+Sagittal sinus thrombosis
+Eyes
+Chemosis
+Cavernous sinus thrombosis
+Periorbital ecchymosis
+Blow-­out orbital fracture
+Subhyaloid hemorrhage
+Subarachnoid hemorrhage
+Vasospasm (retina)
+Hypertensive encephalopathy
+Miosis
+Opioids, organophosphates, clonidine, Horner syndrome
+Mydriasis
+Anticholinergic agents, antihistamines
+Retinal hemorrhages
+Trauma, child abuse
+Ears
+Hemorrhage
+Basilar skull fracture
+Purulent otitis media
+Brain abscess, lateral sinus thrombosis
+Nose
+Cerebrospinal fluid rhinorrhea
+Basilar skull fracture
+Mouth
+Bitten tongue and buccal mucosa
+Seizure disorder
+Pigmentation
+Addison disease
+Lead lines
+Plumbism (lead intoxication)
+Neck
+Rigid
+Meningitis, pneumonia, subarachnoid hemorrhage, encephalitis
+Thyroid
+Enlarged
+Myxedema, thyrotoxicosis, Hashimoto encephalopathy
+Heart
+Murmur
+Subacute endocarditis, brain abscess
+Abdomen
+Hepatomegaly
+Leukemia, hepatic failure, heart failure
+Splenomegaly
+Leukemia, lymphoma, hepatic failure
+Extremities
+Fracture
+Trauma, fat embolism
+Ecchymosis
+Trauma, hemorrhagic diathesis, shock, vasculitis
+Osler nodes
+Endocarditis
+Muscle rigidity
+Neuroleptic malignant syndrome, serotonin syndrome
+Modified from Tait VF, Dean JM, Hanley DF. Evaluation of the comatose child. In: Rogers MC, ed. Textbook of Pediatric Intensive Care. 2nd ed. 
+Baltimore: Williams & Wilkins; 1992:741.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+756
+SECTION 7  Neurosensory Disorders
+Most pediatric patients presenting with head injury will have minor 
+injuries. Patients with AMS or loss of consciousness do not fall within 
+the low-­risk category and require further observation and head imag­
+ing. In addition to the more severe forms of TBI, mild TBI can also 
+lead to AMS in the form of confusion, disorientation, or lethargy. In 
+mild injury (GCS score 13–15), the neurologic exam is nonfocal, and 
+there are no physical exam findings concerning for skull fracture. The 
+definition of mild TBI includes one or more of the following: confu­
+sion or disorientation; post-­traumatic amnesia for <24 hours; loss of 
+consciousness for <30 minutes; transient seizure or focal neurologic 
+signs or symptoms; and GCS score 13–15 at 30 minutes or longer after 
+the injury. Concussion is defined as trauma-­induced brain dysfunc­
+tion without structural injury on neuroimaging and symptoms include 
+headache, dizziness, confusion, drowsiness, nausea, amnesia, irritabil­
+ity, and transient loss of consciousness.
+Infants with head trauma may have evidence of intracranial hyper­
+tension: bulging fontanel, decerebrate posturing, and tachypnea. The 
+clinical picture in a young infant may be confused with meningitis. In 
+the absence of a febrile illness, trauma should be suspected, and the 
+patient should be treated as if there is a rapidly progressive intracranial 
+process. Infants are at increased risk for abusive head trauma, formerly 
+referred to as shaken baby syndrome or nonaccidental trauma. The 
+first 2 years of life present a high-­risk period with an estimated inci­
+dence of 16–33 cases/100,000 children affected. Injury occurs by many 
+different mechanisms including blunt force, acceleration/deceleration, 
+penetrating trauma, or asphyxiation. Infants with abusive head trauma 
+often present with nonspecific concerns and without clear history of 
+trauma. Presenting symptoms can include lethargy (77%), respiratory 
+depression or seizure (43–50%), developmental delay (12%), or non­
+specific findings such as irritability, decreased oral intake, and vomit­
+ing (15%). The key to diagnosis is to maintain a high index of suspicion 
+(see Chapter 30).
+PRIMARY BRAIN DISEASES
+Diseases that primarily affect the brain leading to AMS can be divided 
+into those causing structural lesions and those causing diffuse injury to 
+the brain. Overlap does occur: A CNS infection may cause both diffuse 
+disease and structural damage such as encephalitis or meningitis com­
+plicated by a brain abscess.
+Structural Brain Disease
+Various forms of primary structural brain diseases can lead to AMS. 
+Symptoms associated with structural brain disease vary depending 
+on the location of the lesion. If level of consciousness is affected, then 
+either the bilateral cerebral hemisphere or ARAS is involved as dis­
+cussed earlier. In space-­occupying structural lesions, this most com­
+monly occurs through increased intracranial pressure. Such lesions 
+include intracranial hemorrhages, tumors, hydrocephalus, and vascu­
+lar abnormalities. Structural brain lesions can also cause more subtle 
+changes in mental status such as behavior changes depending on their 
+location within the brain.
+Intracranial Hemorrhage and Thrombosis
+The vast majority of intracranial hemorrhages in children result from 
+TBI, but more rare causes include hemorrhagic conversion of ischemic 
+stroke, ruptured aneurysms, vascular malformations, brain tumors, 
+CNS infections, vasculitis, vasculopathies, and moyamoya disease. The 
+risk of intracranial hemorrhage is increased in the context of bleeding 
+disorders and evaluation for a congenital or acquired bleeding disorder 
+should be undertaken in patients with otherwise unexplained intracra­
+nial bleeding.
+Arteriovenous malformations (AVMs) are the most dangerous 
+vascular malformation with approximately 50% of children having 
+hemorrhage as their initial presentation. Other symptoms can include 
+seizure or focal neurologic deficit. Brain AVMs most often present with 
+intraparenchymal bleeding but can also cause intraventricular or sub­
+arachnoid bleeding depending on the location of the AVM. Cavernous 
+malformations (cavernous angiomas or cavernomas) can also present 
+with hemorrhage, seizures, and progressive neurologic deficits and can 
+be sporadic or familial. Diagnosis is usually made on neuroimaging 
+including angiography.
+Ischemic stroke is rare in children and is most often related to an 
+underlying pathology that increases the risk of stroke. Such pathologies 
+include congenital heart disease, prothrombotic clotting disorders, sickle 
+cell disease, leukemias and lymphomas, infection, trauma, and certain 
+genetic predispositions. Ischemic stroke most often presents with focal 
+neurologic findings and is much less likely to present with decreased 
+level of consciousness than hemorrhagic strokes. In the minority of 
+ischemic strokes, decreased level of consciousness may be seen as an 
+effect of the predisposing condition, location within the brainstem, or 
+secondary effects of large strokes such as edema (see Chapter 37).
+In addition to arterial thrombosis, cerebral sinus venous thrombo­
+sis (CSVT) can also cause AMS. Risk factors include genetic conditions 
+predisposing to thrombophilia, oral contraceptives, malignancy, infec­
+tion, and head injury. In childhood, CSVT has its highest incidence 
+TABLE 41.17  Laboratory Evaluation of 
+Metabolic Brain Disease
+Test
+Reason for Test
+Immediate
+Glucose
+Hypoglycemia, DKA, hyperosmolar coma
+Na+
+Sodium dysregulation, osmolar abnor­
+malities
+Electrolytes
+Electrolyte imbalances, including Mg2+
+Ca2+
+Hypercalcemia or hypocalcemia
+BUN
+Uremia
+Arterial blood pH, Pco2, Po2, 
+oxygen saturation
+Acidosis, alkalosis, hypoxia, CO, or 
+methemoglobin
+Lumbar puncture
+Infection, hemorrhage, meningeal carci­
+nomatosis
+CBC with differential
+Infection, anemia
+Later
+Liver function tests, ammonia 
+level
+Hepatic encephalopathy, Reye syndrome, 
+urea cycle defect
+Lactic acid
+Sepsis, inborn errors of metabolism
+Drug levels
+Overdose
+Blood and CSF culture
+Sepsis, encephalitis, meningitis
+Hormone levels including TFTs 
+and cortisol
+Myxedema coma, thyroid storm, adrenal 
+crisis
+Coagulation profile
+Intravascular coagulation, coagulation 
+disorders
+EEG
+Seizure disorder
+CO, carbon monoxide; CSF, cerebrospinal fluid; DKA, diabetic ketoaci­
+dosis; Pco2, partial pressure of carbon dioxide; Po2, partial pressure of 
+oxygen; TFTs, thyroid function tests.
+Modified from Plum F. Neurology/sustained impairments of conscious­
+ness. In: Wyngaarden JB, Smith LH, Bennett JC, eds. Cecil Textbook 
+of Medicine. 19th ed. Philadelphia: WB Saunders; 1992:2053.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+757
+CHAPTER 41  Altered Mental Status
+in the neonatal period, presenting with diffuse brain injury leading to 
+decreased level of consciousness and seizures. Neonatal risk factors 
+include perinatal complications including birth hypoxia and maternal 
+infection, dehydration, and head and neck disorders. Older children 
+may have a wider variability in presentation with headache being the 
+most common symptom. More severe presentations can lead to venous 
+infarction and hemorrhage, which can result in seizures, focal defi­
+cits, and encephalopathy leading to confusion and decreased level of 
+consciousness.
+INTRACRANIAL TUMOR
+Intracranial tumors, including both malignant and nonmalignant 
+tumors, can present with subacute changes in mental status both from 
+increased intracranial pressure and from effects at the location of the 
+tumor itself. Mechanisms for acute AMS in the context of a CNS tumor 
+include intracranial bleeding and seizures. Primary malignant CNS 
+tumors are the second most common type of childhood malignancies 
+and the leading cause of cancer mortality in children. The most com­
+mon symptoms of CNS tumors are consistent with increased intracra­
+nial pressure and focal findings that are dependent on the location of 
+the tumor. In infants and young children this includes macrocephaly, 
+irritability, bulging fontanel, splayed sutures, and developmental delay. 
+For older children, headache, ataxia, behavioral changes, and decreased 
+school performance can be seen. Nausea and vomiting occur at all ages. 
+Neuroimaging is required for diagnosis and is indicated in any patient 
+presenting with decreased level of consciousness with signs or symp­
+toms of increased intracranial pressure or focal neurologic signs.
+Hydrocephalus
+Hydrocephalus can also lead to AMS, both acutely and more slowly 
+depending on the timing of onset of the hydrocephalus. Obstructive 
+hydrocephalus refers to accumulation of CSF secondary to blockage 
+within the ventricular system and is the most common form of hydro­
+cephalus seen in children. Communicating hydrocephalus refers to 
+decreased absorption of CSF in the subarachnoid space. Both forms 
+of hydrocephalus most commonly present with signs of increased 
+intracranial pressure. Changes in mental status may include behavioral 
+changes such as irritability, aggressive behavior, indifference, and, in 
+TABLE 41.18  Neuroimaging and Electrophysiologic Techniques and Findings in Disorders of 
+Consciousness
+Technique
+Measurement
+Strengths
+Limitations
+Vegetative State
+Minimally 
+Conscious State
+Comatose
+FDG-­PET
+Metabolic
+Relatively direct measure 
+of neuronal energy use 
+(glucose uptake)
+Ionizing (limited 
+repeated measures)
+Voxel-­based: hypome­
+tabolism in lateral and 
+medial frontoparietal 
+cortices
+Metabolic dysfunction 
+in left hemisphere
+fMRI
+CBF
+High-­resolution structural 
+imaging of gray-­white 
+matter (DTI) and 
+functional imaging 
+(spectroscopy, resting, 
+passive, and active CBF 
+paradigms)
+Sensitive to movement 
+artifacts requiring 
+sedation/anesthesia
+Incompatible with fer­
+romagnetic material 
+(deprivation, pumps, 
+electrodes)
+Activation fMRI: low-­
+level cortical activa­
+tion DMN—partially 
+preserved
+Activation fMRI: near-­ 
+normal high-­level 
+cortical activation
+EEG/ERPs
+Electrical
+Repeatable, portable, and 
+inexpensive
+Muscle, eye, and dysau­
+tonomia artifacts
+Challenging source 
+reconstruction
+EEG: slow-­wave activity 
+through night and 
+periods of REM sleep
+ERP-­poor outcome 
+with absence of a 
+cortical response 
+to electrical stim­
+ulation of median 
+nerves
+EEG-­TMS
+Electrical
+Stereotaxic stimulation 
+connectivity studies
+Stimulation areas are 
+limited by muscle 
+artifacts
+TMS triggers a simple, 
+local EEG response 
+similar to deep sleep/
+anesthesia
+Complex activations in 
+distant cortical areas
+CBF, cerebral blood flow; DMN, default model network; DTI, diffuse tensor imaging; ERPs, event-­related potentials; FDG,18F-­fluorodeoxyghicose; 
+fMRI, functional magnetic resonance imaging; REM, rapid eye movement; TMS, transcranial magnetic stimulation.
+From Parrillo JE, Dellinger RP. Critical Care Medicine: Principles of Diagnosis and Management in the Adult. 5th ed. Philadelphia: Elsevier; 2019.
+TABLE 41.19  Toxins and Disease States 
+Causing Elevated Anion and/or Osmolal Gaps
+Anion Gap
+Osmolal Gap
+Ethanol
+Ethanol
+Ethylene glycol
+Ethylene glycol
+Methanol
+Methanol
+Toluene
+Acetone
+Iron
+Propylene glycol
+Isoniazid
+Ethyl ether
+Salicylates
+Isopropyl alcohol
+Paraldehyde
+Mannitol
+Strychnine
+Trichloromethane
+Renal failure
+Renal failure
+Diabetic ketoacidosis
+Diabetic ketoacidosis
+Lactic acidosis
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+758
+SECTION 7  Neurosensory Disorders
+young children, developmental delay. As the hydrocephalus progresses, 
+lethargy and drowsiness may be seen as pressure is placed on the mid­
+brain and brainstem. Physical exam in infants may reveal macroceph­
+aly, frontal bossing, and prominent scalp veins. Neurologic exam may 
+reveal spasticity secondary to stretching of the fibers from the motor 
+cortex, extraocular muscle paresis secondary to compression of the 
+third or sixth cranial nerves, and in severe cases inability to gaze upward 
+leading to the sclera being visible caudal to the iris (“setting-­sun” sign). 
+Diagnosis is made with neuroimaging revealing ventriculomegaly in 
+the context of increased intracranial pressure. Ventriculomegaly with­
+out increased intracranial pressure is more likely to represent reduced 
+brain volume in the proper clinical setting. Etiologies of hydrocephalus 
+are diverse and include both congenital and acquired causes. Shunt 
+malfunction remains high on the differential for children with a his­
+tory of hydrocephalus and shunt placement who present with signs of 
+increased intracranial pressure, particularly AMS.
+Nonstructural or Medical Primary Brain Disease
+Seizures
+In generalized and focal seizures with altered awareness (previously 
+complex partial seizures), the seizure itself presents with altered 
+awareness and decreased responsiveness. This is followed by a postic­
+tal period characterized by decreased level of consciousness. In Todd 
+paralysis, the postictal period is associated with focal neurologic defi­
+cits that resolve spontaneously with recovery from the postictal period. 
+While seizures are most often short-­lived, status epilepticus (ongoing 
+or frequent seizure activity) can cause prolonged altered level of con­
+sciousness. Particularly in the setting of nonconvulsive status epilepticus, 
+diagnosis may be delayed. Children younger than 2 years of age are very 
+unlikely to present with tonic-­clonic and absence seizures and more 
+likely to present with sudden loss of muscle tone (focal or generalized), 
+posturing, abrupt change in behavior, and clonic jerking of extremi­
+ties or eyelids. Seizures in neonates can be subtle and a high index of 
+suspicion must be maintained for infants with abnormal movements. 
+Mimics of seizures vary depending on the age of the patient. In neo­
+nates, jitteriness (whether benign or associated with drug withdrawal, 
+hypoglycemia, hypocalcemia, or hypoxic-­ischemic encephalopathy), 
+benign neonatal sleep myoclonus, and apnea may all be mistaken for 
+seizure and often require EEG to differentiate. The differential in older 
+infants includes breath-­holding spells, Sandifer syndrome, dystonia, 
+and sleep-­related rhythmic movement disorders. With the exception 
+of hypoglycemia, hypocalcemia, and hypoxic-­ischemic encephalopa­
+thy, these mimics are not associated with prolonged periods of AMS. 
+AMS in infants with concern for seizure indicates a serious under­
+lying pathology. The differential in older children includes migraine 
+syndromes, psychogenic nonepileptic seizures, syncope, movement 
+disorders, and sleep disorders. EEG monitoring can help distinguish 
+epileptic seizures from other events in difficult-­to-­distinguish cases. 
+Prolonged altered level of consciousness in these patients is a red flag 
+for more severe underlying pathology and should prompt a thorough 
+work-­up as indicated earlier (see Chapter 39).
+Central Nervous System Infections
+CNS infection represents the most common cause of nontraumatic 
+decreased level of consciousness, accounting for approximately a third 
+of nontraumatic cases. Children presenting with decreased level of 
+consciousness without a clear etiology should undergo lumbar punc­
+ture with CSF studies to evaluate for infection unless a contraindication 
+to a lumbar puncture exists. CNS infections range from meningitis, 
+encephalitis, and brain abscesses to empyema of the epidural or sub­
+dural spaces. In some patients, a combination of these may be present. 
+CSF studies may be falsely reassuring in infections that do not commu­
+nicate with the CSF such as in an intraparenchymal brain abscess or 
+epidural abscess or in encephalitis. Intracranial abscesses often require 
+neuroimaging with contrast for diagnosis. Causative pathogens of CNS 
+infections are broad and include numerous viruses, bacteria, fungus, 
+and protozoa (see Chapter 42). While CNS infection should remain at 
+the top of the differential for patients presenting with fever and AMS, 
+the less common causes include drug ingestions that cause hyperther­
+mia (amphetamines, cocaine, salicylates, selective serotonin reuptake 
+inhibitors, anticholinergics), heat stroke, and autoimmune-­mediated 
+disorders.
+Inflammatory Diseases of the Central Nervous System
+A variety of immune-­mediated and inflammatory disorders can affect 
+the CNS and cause AMS. These include autoimmune encephalitis, 
+demyelinating disease, and CNS vasculitis. All of these disorders are 
+rare but important to recognize as early detection and treatment in 
+many can reduce morbidity and mortality.
+Autoimmune encephalitis is a common cause of encephalitis 
+and AMS characterized by brain inflammation mediated by autoan­
+tibodies most commonly against cell-­surface antigens of neurons or 
+intracellular proteins. Common presenting symptoms include new-­
+onset subacute behavioral changes, psychiatric disturbances, cognitive 
+decline, seizures, abnormal movements, and, as the disease progresses, 
+decreased level of consciousness and coma. Some autoimmune enceph­
+alitis syndromes are associated with specific triggers including tumors 
+(paraneoplastic) or preceding infections, although childhood-­onset 
+autoimmune encephalitis is less likely than adult onset to be associated 
+with an underlying tumor.
+Anti-­NMDA (N-­methyl-­d-­aspartate) receptor encephalitis is the 
+most common autoimmune encephalitis in children and adolescents. 
+A prodrome of headache, fever, and viral-­like symptoms progress 
+over a few days to psychiatric symptoms (anxiety, bizarre behavior, 
+hallucinations, delusions, disorganized thinking), insomnia, memory 
+deficits, seizures, dyskinesias, and language dysfunction, which can 
+progress to decreased level of consciousness and coma sometimes 
+associated with catatonic features and autonomic instability. Although 
+anti-­NMDA receptor encephalitis has been described in children as 
+young as 8 months of age, the incidence is higher in adolescence and 
+has been associated with underlying teratomas as well as preceding 
+herpes simplex virus (HSV) encephalitis. While half of patients will 
+have a normal MRI, the other half will have a transient nonspecific T2 
+or fluid-­attenuated inversion recovery (FLAIR) signal hyperintensities 
+in multiple cortical and subcortical areas. EEG most commonly shows 
+focal and diffuse slowing with variable epileptiform activity. Diagnosis 
+is confirmed with detection of anti-­NMDA receptor antibodies in the 
+CSF. Anti-­NMDA receptor antibodies can also be detected in serum 
+with lower sensitivity.
+Many other autoantibodies have been described in children with 
+autoimmune encephalitis with variable clinical presentations (Table 
+41.20). The differential for autoimmune encephalitis includes infection 
+encephalitis, acute disseminated encephalomyelitis (ADEM), angiitis 
+of the CNS, toxic-­metabolic disturbances, CNS tumors, primary psy­
+chiatric disease, seizure disorders, inborn errors of metabolism, and 
+mitochondrial cytopathies. Neurologic findings, even if subtle, in 
+patients presenting with psychiatric symptoms should be considered 
+a red flag and prompt further investigation, including for autoimmune 
+encephalitis (see Chapter 31). Autoimmune encephalitis should be 
+considered in patients with a history of a viral encephalitis who present 
+with a recurrence of encephalitis because viral encephalitis has been 
+associated with later development of autoantibodies and autoimmune 
+encephalitis.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+759
+CHAPTER 41  Altered Mental Status
+Certain demyelinating disorders can also lead to encephalopathy 
+and AMS. ADEM is an autoimmune disorder mediated through auto­
+antibodies to myelin as well as T-­cell-­mediated damage. Immune dys­
+function is often triggered by an antecedent infection, most often viral, 
+with many pathogens being implicated as possible triggers including 
+coronavirus, coxsackievirus, CMV, EBV, HSV, HIV, influenza, measles, 
+rubella, varicella zoster, West Nile virus, B. burgdorferi, chlamydia, 
+mycoplasma, rickettsia, and β-­hemolytic Streptococcus. ADEM pre­
+dominantly affects children ages 5–8 years and has a male predomi­
+nance. Neurologic symptoms typically present 4–13 days after the initial 
+triggering infection and include irritability, confusion, decreased level 
+of consciousness, hemiparesis, cerebellar ataxia, optic neuritis, myelop­
+athy, and seizures. At presentation, patients often have fever, headache, 
+vomiting, and meningismus followed by the progression of neurologic 
+findings. In severe cases, encephalopathy, difficult-­to-­control seizures, 
+and/or respiratory failure from paralysis of the diaphragm may neces­
+sitate intensive care admission and mechanical ventilation. ADEM 
+is a self-­limited disorder with resolution of symptoms in 2–4 weeks. 
+Diagnosis is aided with neuroimaging with MRI showing large (>1–2 
+cm) tumefactive T2 lesions of similar age with variable enhancement 
+in either the brain or spine. CSF may be normal or may show signs of 
+inflammation with CSF pleocytosis usually <100 cells/mL or increased 
+protein. The criteria for diagnosis include the first multifocal episode 
+of CNS demyelinating disease with encephalopathy that cannot be 
+explained by other etiologies with absence of new clinical or MRI find­
+ings 3 months or more after onset.
+The differential for demyelinating encephalopathies includes neu­
+romyelitis optica (NMO) and pediatric multiple sclerosis. NMO can 
+occasionally present with encephalopathy similar to that seen in ADEM, 
+although it more commonly presents with optic neuritis, transverse 
+myelitis, or focal brainstem findings. Diagnosis requires signs of optic 
+neuritis, longitudinal lesions of the spinal cord involving at least three 
+vertebral segments, brain imaging not meeting criteria for multiple 
+sclerosis, and the detection of aquaporin-­4 (AQP4)-­immunoglobulin 
+G (IgG) serum antibodies. Brain imaging in a patient with NMO will 
+typically have less defined hemispheric lesions.
+Pediatric multiple sclerosis (MS) is defined as onset of MS prior to 
+age 18 years with demyelinating lesions separated over time and space. 
+TABLE 41.20  Summary of Inflammatory Brain Disorders
+Disorder
+Associated Antibody
+Signs and Symptoms
+Key Findings
+Antibody-­
+mediated 
+autoimmune 
+encepha­
+litis
+Anti-­NMDA receptor 
+encephalitis
+Anti-­NMDAR
+Psychiatric disturbance
+Movement disorders
+Cognitive decline
+Speech dysfunction
+Seizures
+Movement disorders
+Anti-­NMDAR antibodies
+Associated with teratomas and preceding 
+HSV encephalitis
+Anti-­GABAAR enceph­
+alitis
+Anti-­GABAAR
+Refractory seizures
+Confusion
+Behavioral changes
+Movement disorders
+MRI with multifocal, extensive cortical and 
+subcortical T2 hyperintensities
+Anti-­GABABR enceph­
+alitis
+Anti-­GABABR
+Seizures
+Memory loss
+Confusion
+Limbic encephalitis
+MRI normal or with increased signal in 
+medial temporal lobes
+Anti-­GlyR enceph­
+alitis
+Anti-­Gly receptor
+Stiff-­person syndrome
+Limbic encephalitis
+Seizures
+Movement disorders
+Brainstem involvement
+MRI is normal or with nonspecific findings
+Anti-­mGlu R5 recep­
+tor encephalitis
+Anti-­mGlu R5
+Confusion
+Psychiatric disturbance
+Encephalopathy
+Associated with Hodgkin lymphoma
+Anti-­dopamine D2 
+receptor enceph­
+alitis
+Anti-­D2 receptor antibodies
+Lethargy
+Dystonia
+Parkinsonism
+Psychiatric disturbance
+MRI with increased signal in basal ganglion
+Demye­
+linating 
+disorders
+ADEM
+Anti-­MOG
+Polyfocal neurologic deficits
+Encephalopathy
+MRI with large white matter lesions
+No new clinical symptoms or MRI changes 
+for 3 mo
+NMO
+Anti-­AQP4
+Anti-­MOG
+Optic neuritis
+Myelitis
+Less likely to cause encephalopathy
+Spinal cord lesions involving at least three 
+vertebral segments
+Multiple sclerosis
+n/a
+At least two monofocal or polyfocal neuro­
+logic deficits separated in time and space
+Less likely to cause encephalopathy
+Oligoclonal bands in the CSF
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+760
+SECTION 7  Neurosensory Disorders
+In children, MS is most likely to follow a relapsing-­remitting course. 
+Although much less likely than ADEM, episodes of MS may present 
+with encephalopathy, but MS requires additional episodes of demye­
+lination separated in time that are not associated with encephalopa­
+thy and with new lesions on MRI for diagnosis. Pediatric MS typically 
+presents in adolescence with monofocal neurologic deficits. However, 
+cases in those younger than 10 years have also been described and are 
+more likely to have initial episodes with polyfocal dysfunction and 
+encephalopathy, making distinction from ADEM challenging. Lumbar 
+puncture is performed to evaluate for other diseases and is more likely 
+to reveal oligoclonal bands in MS than ADEM or other monophasic 
+demyelinating diseases. Detection of anti–myelin oligodendrocyte gly­
+coprotein (anti-­MOG) antibody may suggest an alternative diagnosis 
+of ADEM or NMO, and detection of AQP4-­IgG is most consistent with 
+NMO.
+CNS vasculitis can be both primary (independent) or secondary to 
+a systemic disease; presentation depends on the size of the blood vessels 
+affected. Large-­vessel vasculitis is more likely to present with sudden-­
+onset focal neurologic deficits and ischemic stroke, although occasion­
+ally patients can present with more diffuse neurologic complaints such 
+as decreased cognition and change in behavior. Small-­vessel vasculitis 
+is more likely to present with encephalopathy, extensive focal deficits, 
+and status epilepticus and can be difficult to distinguish from other 
+inflammatory brain conditions such as autoimmune encephalitis (see 
+Table 41.20). Childhood primary angiitis of the central nervous sys­
+tem (cPACNS) is divided into three subtypes: angiography-­positive, 
+nonprogressive cPACNS; angiography-­positive, progressive cPACNS; 
+and 
+angiography-­negative, 
+brain 
+biopsy–positive, 
+small-­vessel 
+cPACNS. Diagnosis of large-­vessel vasculitis is made on imaging with 
+MRI that reveals ischemic lesions in large-­vessel distributions in com­
+bination with MRA demonstrating irregular unilateral stenosis or 
+dilatation in the distal internal carotid artery and proximal segments 
+of the anterior cerebral artery and/or middle cerebral artery. Nonpro­
+gressive cPACNS usually shows unilateral distribution of lesions, while 
+progressive cPACNS is more likely to show bilateral lesions in multiple 
+vascular territories. For small-­vessel cPACNS, MRI reveals gadolinium 
+enhancement of lesions and meninges or inflammatory lesions in the 
+subcortical or cortical areas usually without ischemic lesions, but it can 
+also be normal. MRA is normal. Many patients require angiography or 
+brain biopsy to confirm the diagnosis.
+Secondary causes of vasculitis in children include infections (both 
+active and postinfectious), systemic rheumatic disease (systemic 
+lupus erythematous, ANCA-­associated vasculitis, scleroderma, der­
+matomyositis, Behçet disease), inflammatory diseases (inflammatory 
+bowel disease, hemophagocytic lymphohistiocytosis, Kawasaki dis­
+ease), malignancy (especially CNS lymphoma), and drugs (cocaine, 
+TABLE 41.20  Summary of Inflammatory Brain Disorders—cont’d
+Disorder
+Associated Antibody
+Signs and Symptoms
+Key Findings
+Other 
+inflamma­
+tory brain 
+conditions
+Rasmussen enceph­
+alitis
+n/a
+Refractory seizures
+Unilateral cortical deficits
+Cognitive decline
+Progressive unilateral hemispheric and brain­
+stem atrophy with contralateral cerebellar 
+atrophy
+Hemophagocytic lym­
+phohistiocytosis
+n/a
+Seizures
+Decreased consciousness
+Focal motor deficits
+Systemic symptoms:
+Fever
+Hepatomegaly
+Splenomegaly
+Lymphedema
+Associated with systemic inflammation
+Pancytopenia
+Low fibrinogen
+High ferrin
+High triglycerides
+Hashimoto encepha­
+lopathy
+Antithyroid antibodies
+Decreased consciousness
+Seizures
+Myoclonus
+Tremor
+Hyperreflexia
+May be euthyroid, hypothyroid, or 
+hyperthyroid
+Granulomatous 
+inflammatory brain 
+disease
+n/a
+Facial nerve palsy
+Seizures
+Cognitive dysfunction
+Encephalopathy
+Hydrocephalus
+Myelopathy
+May be associated with symptoms of 
+sarcoidosis elsewhere (uveitis, cough, renal 
+disease, polyarthritis)
+MRI may have meningeal enhancement or 
+white matter lesions
+cPACNS
+n/a
+Large vessel:
+Unilateral, focal neurologic deficits
+Ischemic stroke
+Small vessel:
+Encephalopathy
+Seizures
+Fever
+Fatigue
+MRA in large vessel reveals stenosis/dilata­
+tion of large vasculature
+Imaging is normal in small vessel and diagno­
+sis often requires biopsy
+ADEM, acute disseminated encephalomyelitis; AQP4, aquaporin-­4; cPACNS, childhood primary angiitis of the central nervous system; GABAAR, 
+gamma-­aminobutyric acid A receptor; GABABR, gamma-­aminobutyric acid B receptor; GlyR, glycine receptor; mGlu R5, metabotropic glutamate 
+receptor 5; MOG, myelin oligodendrocyte glycoprotein; NMDA, N-­methyl-­d-­aspartate; HSV, herpes simplex virus; NMO, neuromyelitis optica.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+761
+CHAPTER 41  Altered Mental Status
+amphetamine). These secondary causes of CNS vasculitis are associ­
+ated with systemic signs and symptoms. Work-­up typically includes 
+inflammatory markers, CBC with differential, ANA, ANCA, extract­
+able nuclear antigens (ENAs), anti–­double-­stranded deoxyribonucleic 
+acid (anti-­dsDNA), complement components 3 and 4, von Willebrand 
+factor (vWF) antigen, lumbar puncture with oligoclonal bands, neuro­
+nal antibodies, tests for infection, and cytology.
+TOXIC ENCEPHALOPATHY
+Toxic compounds are common causes of altered consciousness in 
+children. More than 90% of poisonings in young children are unin­
+tentional and involve a single substance, many of which are prescrip­
+tion medications. Children in certain age groups are at greater risk of 
+being poisoned; 44% and 59% of all cases of poisonings reported to 
+poison control centers occur in children younger than 3 and 6 years 
+of age, respectively. Of these ingestions, opioid, sedative-­hypnotic, and 
+cardiovascular medication ingestions are the most common. Inten­
+tional ingestions are far more common in adolescents. In addition, 
+some medications, even when taken as prescribed, can have adverse 
+reactions that cause AMS and encephalopathy including valproate, 
+vigabatrin, levetiracetam, methotrexate, corticosteroids, cyclosporine, 
+tacrolimus, penicillins, cephalosporins, quinolones, macrolides, and 
+metronidazole. The clinician’s index of suspicion should be dependent 
+not only on the age of the patient but also on the history of the present 
+illness; a poisoning should be suspected in a previously healthy child 
+who presents with a sudden onset of unexplained symptoms (seizures, 
+mental status changes, vomiting, hematemesis) or a gradual onset of 
+symptoms preceded by a period of confusion or delirium. Medications 
+and toxins within the house as well as recent medication changes should 
+be reviewed. A correct diagnosis is usually established by integrating 
+information from the history, physical examination, and ancillary tests 
+and then identifying a toxidrome, a symptom complex associated with 
+a given class of ingested drug. The most important aspects of the phys­
+ical examination to identify a toxidrome are the level of consciousness, 
+the pupillary examination, and the vital signs.
+Level of Consciousness
+Table 41.21 lists common agents responsible for different changes in 
+mental status. Toxic exposures may also occur via routes other than 
+the oral route; organophosphates may be absorbed through the skin, 
+whereas other compounds, such as carbon monoxide, are inhaled.
+Pupillary Examination
+When the pupils are evaluated for size and reactivity, the presence of 
+nystagmus should also be noted (Table 41.22). Most drugs cause hor­
+izontal nystagmus; however, phenytoin may produce upbeat nystag­
+mus, whereas phencyclidine (PCP) may cause rotary nystagmus.
+Vital Signs
+Although fever is typically indicative of infection or a metabolic distur­
+bance, such as the hemorrhagic shock and encephalopathy syndrome, 
+many toxic compounds may induce hyperthermia (Table 41.23). The 
+most common causes of fever in intoxicated children include anticho­
+linergic compounds, antihistamines, salicylates, and sympathomimetic 
+agents. Less common causes of fever include agents producing the sero­
+tonin syndrome and neuroleptic malignant syndromes. Hypothermia 
+may also be a sign of drug exposure (Table 41.24). Sedative-­hypnotic 
+agents, including ethanol, are common causes of hypothermia.
+Bradycardia or tachycardia may result directly from the autonomic 
+effect of a drug or may be a reflex response to a change in blood pressure. 
+Intoxication with a β blocker, calcium channel blocker, α2-­adrenergic 
+agonist (clonidine), or cholinergic agonist (organophosphate) charac­
+teristically manifests with bradycardia with or without hypertension. In 
+mild clonidine ingestions or in the early stage of clonidine intoxication, 
+the patient may be hypertensive as a result of the partial α1-­agonist effect 
+of the drug. Bradycardia may be a reflex response to the precipitation 
+of hypertension by a vasoconstrictor agent, such as an ergotamine, or 
+an α-­adrenergic agonist, such as phenylpropanolamine. A β-­adrenergic 
+agonist or anticholinergic agent intoxication usually manifests with 
+tachycardia as part of the symptom complex. Intoxication with drugs 
+TABLE 41.21  Changes in Level of Consciousness Observed with Specific Drug Intoxications
+Coma
+Agitation
+Confusions and/or 
+Hallucinations
+Seizures
+Anticholinergics
+Antihistamines
+Cholinergic agents
+Sedative-­hypnotics
+Alcohols
+Opiates
+Neuroleptics
+Tricyclic antidepressants
+Phencyclidine
+Salicylates
+Heavy metals
+Hypoxia
+Carbon monoxide
+Cyanide
+Sympathomimetics
+Methylxanthines
+Phencyclidine
+Salicylates
+Alcohol
+Anticholinergics
+Psychotropics
+Lysergic acid diethylamide
+Mescaline
+Marijuana
+Antihistamines
+Cocaine
+Amphetamines
+Methylxanthines
+Tricyclic antidepressants
+Cholinergic agents
+Neuroleptics
+Salicylates
+Camphor
+Isoniazid
+Phenytoin
+Antihistamines
+TABLE 41.22  Effect of Drugs on Pupillary 
+Findings
+Dilated
+Constricted
+Nystagmus
+Sympathomimetics
+Anticholinergics
+Cocaine
+Tricyclic antidepressants
+Glutethimide
+LSD
+Opiates
+Phenothiazines
+Cholinergic agents
+Benzodiazepines
+PCP
+Clonidine
+Barbiturates
+Alcohol
+Phenytoin
+Carbamazepine
+PCP
+Glutethimide
+LSD, lysergic acid diethylamide; PCP, phenylcyclohexyl piperidine 
+(phencyclidine HCl).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+762
+SECTION 7  Neurosensory Disorders
+that possess both α-­ and β-­adrenergic agonist properties may manifest 
+with both tachycardia and hypertension, whereas several classes of com­
+pounds may cause hypotension with a reflex tachycardia. Examples of 
+the latter include direct vasodilators or α-­adrenergic blockers (hydral­
+azine, phenothiazines, tricyclic antidepressants) and compounds that 
+cause third-­space fluid losses (acute iron intoxication). The anticho­
+linergic properties of the phenothiazines and tricyclic antidepressants 
+contribute to the tachycardia seen with these agents. Cholinergic com­
+pounds, such as organophosphates and carbamates, may cause tachycar­
+dia instead of bradycardia because acetylcholine is the neurotransmitter 
+found at nicotinic receptors in the sympathetic chain ganglion.
+Tachypnea or hyperpnea may result from a central effect of a drug 
+(salicylates, methylxanthines) or from a metabolic acidosis (salicylates, 
+alcohols, lactic acid) in addition to structural CNS lesions or cardiopul­
+monary compromise. Slow or shallow breathing should always raise the 
+suspicion of drug ingestion, particularly with CNS depressants, such as 
+narcotics and sedative-­hypnotics. Hypoventilation may also be a present­
+ing symptom of a clonidine overdose as a result of its opiate-­like effects. 
+In addition, organophosphate or carbamate intoxications may manifest 
+with hypoventilation secondary to weakness of the respiratory muscles.
+Odors emanating from the breath or clothing may offer invalu­
+able clues as to the diagnosis. Not only do certain metabolic diseases, 
+such as diabetic ketoacidosis and hepatic failure, produce character­
+istic breath odors but also so do a number of chemical compounds, 
+including cyanide (bitter almonds); isopropyl alcohol, methanol, and 
+salicylate (acetone); methyl salicylate (wintergreen); arsenic, thallium, 
+and organophosphates (garlic); and turpentine (violets). Inspection of 
+the skin and mucous membranes may also be helpful (Table 41.25).
+Although a single sign or symptom may be attributable to many 
+classes of drugs, combinations of symptoms (toxidrome) enable the 
+clinician to narrow down the number of possible agents. Sympathomi­
+metic agents, anticholinergics, and tricyclic antidepressants all cause 
+mydriasis and tachycardia. If these symptoms occur in a patient with a 
+prolonged QRS interval on an ECG, the most likely cause is a tricyclic 
+compound, whereas if the former symptoms occur in a diaphoretic, 
+tremulous patient, a sympathomimetic agent would be suspected. 
+Table 41.26 outlines toxidromes of common classes of compounds 
+ingested by children.
+Management of most ingestions includes prevention of further 
+absorption and supportive therapy. Activated charcoal is one method 
+for decreasing absorption of stomach contents. Gastric decontamina­
+tion should be withheld if a nontoxic substance is ingested, if a nontoxic 
+quantity of a toxic compound is ingested, if absorption is likely to be 
+complete, or if a caustic agent is ingested. Under these circumstances, 
+gastric decontamination carries risks but no benefits. Induction of 
+emesis is contraindicated in patients with a depressed mental status or 
+who are at risk for a sudden deterioration of their mental status.
+Very few specific antidotes exist for substances that are ingested. If an 
+antidote exists, its use depends on the patient’s prognosis if it were not 
+administered. Not all children require treatment with N-­acetylcysteine 
+after acetaminophen poisoning. If the patient is asymptomatic and has a 
+serum acetaminophen concentration in a nontoxic range when plotted 
+on the Rumack-­Matthew nomogram, N-­acetylcysteine therapy is not 
+indicated. Table 41.27 is a partial list of available antidotes. Although 
+not a true antidote, sodium bicarbonate is included as an antidote for 
+salicylate and tricyclic antidepressant ingestions because its use can 
+reduce symptoms by reducing tissue distribution of these compounds.
+Some drugs lend themselves to procedures aimed at enhancing 
+drug elimination from the body. These procedures include changing 
+urinary pH (alkalinization to enhance salicylate excretion), using mul­
+tiple doses of charcoal (theophylline, phenobarbital, carbamazepine), 
+and performing extracorporeal drug removal (peritoneal or hemodi­
+alysis, charcoal hemoperfusion, exchange transfusion). Either patient-­
+related or drug-­related criteria should be met before the institution of 
+extracorporeal drug removal (Table 41.28). When the management 
+approach is not known, a resource such as a poison control center or a 
+clinical pharmacologist should be consulted.
+METABOLIC ENCEPHALOPATHIES
+Metabolic derangements cause AMS through global cerebral dys­
+function in the absence of primary brain disease, either structural 
+or nonstructural. These disorders are important to quickly recognize 
+as many are reversible if treated early but may lead to permanent 
+effects or death if treatment is delayed. Derangement of this neuronal 
+TABLE 41.23  Compounds and Conditions 
+Inducing Hyperthermia
+Muscular Hyperactivity or Rigidity
+Agents producing serotonin syndrome
+Agents producing neuroleptic malignant syndrome
+Amoxapine
+Amphetamines
+Cocaine
+Ethanol or sedative-­hypnotic withdrawal
+Lithium
+LSD
+MAO inhibitors
+Phencyclidine
+Tricyclic antidepressants
+Increased Metabolic Rate
+Dinitrophenol
+Pentachlorophenol
+Salicylates
+Thyroid hormone
+Impaired Heat Dissipation or Thermoregulation
+Anticholinergic agents
+Antihistamines
+Antipsychotic agents
+Tricyclic antidepressants
+Other/Unknown Mechanisms
+Metal fume fever
+LSD, lysergic acid diethylamide; MAO, monoamine oxidase.
+Modified from Olson KR, Pentel PR, Kelley MT. Physical assessment 
+and differential diagnosis of the poisoned patient. Med Toxicol. 
+1987;2:40. Permission granted by AIDS International, Inc.
+TABLE 41.24  Compounds and Conditions 
+Inducing Hypothermia
+Ethanol
+Sedative-­hypnotic agents (e.g., barbiturates, benzodiazepines)
+Hypoglycemia
+Isopropyl alcohol
+Opiates
+Phenothiazines
+Tricyclic antidepressants
+Adapted from Olson KR, Pentel PR, Kelley MT. Physical assessment 
+and differential diagnosis of the poisoned patient. Med Toxicol. 
+1987;2:41. Permission granted by AIDS International, Inc.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+763
+CHAPTER 41  Altered Mental Status
+homeostasis results in neuronal dysfunction, which first affects com­
+plex brain functions such as consciousness. If untreated, progression of 
+neuroinflammation through cytokine release can lead to neuronal cell 
+death, prompting further inflammation and compromise to the blood-­
+brain barrier leading to brain edema, herniation, and death. Metabolic 
+encephalopathy is often characterized by lack of focal neurologic defi­
+cits and preserved pupillary reactions (Table 41.29).
+Hypoxia causes AMS in the immediate short term as well as caus­
+ing hypoxic-­ischemic encephalopathy (HIE) if a hypoxic insult is not 
+immediately reversed. Treatment of hypoxia should happen immedi­
+ately during the initial stabilization of the patient to prevent further 
+injury. The hypoxic insult is often obvious from the prior history. Peri­
+natal insults are a common cause of neonatal HIE, while drowning and 
+airway obstruction may precipitate HIE in older children. Other incit­
+ing events include cardiopulmonary arrest, severe hypotension from 
+any etiology, or severe disruption of hemoglobin’s oxygen-­carrying 
+capacity such as in carbon monoxide poisoning.
+Sepsis from any source can also cause an encephalopathy likely 
+through multiple mechanisms including hypotension, hypoperfu­
+sion, and direct effects of the immune response on the blood-­brain 
+barrier and brain parenchyma. When sepsis causes encephalopathy 
+in the absence of CNS infection or direct effects from other end-­
+organ failure, the term sepsis-­associated encephalopathy (SAE) is 
+used. SAE can range from delirium and agitation to lethargy and 
+coma. EEG can be normal, but as level of consciousness decreases, 
+theta waves appear followed by the delta waves, generalization of tri­
+phasic waves, and burst-­suppression patterns. Treatment is geared 
+toward treating the underlying infection and metabolic derange­
+ments caused by sepsis.
+TABLE 41.25  Skin Manifestations of 
+Intoxication
+Manifestation
+Toxin/Condition
+Bullous lesions
+Barbiturates, carbon monoxide, sedative-­
+hypnotics, opioids
+Diaphoresis
+Cholinergic agents (organophosphates), sympath­
+omimetics, mercury, arsenic, salicylates
+Dry skin (and mucous 
+membranes)
+Anticholinergics, antihistamines, narcotics
+Diffuse erythema
+Anticholinergics, carbon monoxide, cyanide, boric 
+acid, mercury
+Cyanosis
+Hypoxia, methemoglobinemia, ergotamines
+Needle tracks
+Opiates, phencyclidine, amphetamine
+Jaundice
+Acetaminophen
+TABLE 41.26  Toxidromes of Common Classes of Drugs
+Drug Class
+Level of Consciousness
+Pupils
+Vital Signs
+Other
+Sympathomimetics (amphetamines, 
+cocaine, ephedrine, methylphenidate 
+[Ritalin])
+Agitation; psychosis
+Dilated
+↑ HR; ↑ BP; ↑ T
+Tremors, sweating, arrhythmias; seizures
+Anticholinergics (antihistamines, 
+scopolamine, atropine, jimson weed, 
+nightshade, phenothiazines, tricyclics)
+Confusion; hallucinations
+Dilated
+↑ HR; ↑ T; ±↑ BP
+Flushed; dry skin and mucous mem­
+branes; urinary retention; decreased 
+bowel sounds
+Opiates
+Euphoria; coma
+Pinpoint
+↓ RR; ±↓ HR; ±↓ BP
+Shallow respirations; dry mucous 
+membranes
+Cholinergic syndrome (organophosphates; 
+carbamates, bethanechol, Amanita 
+mushrooms)
+Coma
+Miosis
+↓ or ↑ HR; ↓ or ↑ BP
+Salivation, lacrimation, urination, defe­
+cation, bronchorrhea; muscle twitching 
+before flaccidity; seizures
+Sedative-­hypnotics (alcohol, barbiturates, 
+benzodiazepines)
+Coma
+± Miosis
+↓ RR (shallow); hypo­
+thermia; ↓ BP
+Ataxia; nystagmus; slurred speech
+Neuroleptics (phenothiazines, butyrophe­
+nones)
+Coma
+Miosis (except 
+thioridazine 
+[Mellaril])
+↑ HR; ↓ BP; ↓ or ↑ T
+Dystonic reactions; ataxia; neuroleptic 
+malignant syndrome; prolonged Q-­T 
+interval
+Tricyclic antidepressants
+Confusion; agitation; coma
+Dilated
+↑ HR; ↓ or ↓ BP; ↑ T; 
+↓ RR
+Quinidine-­like effect: prolonged QRS or 
+Q-­T interval and ventricular arrhyth­
+mias; seizures; anticholinergic effects 
+(see above)
+Salicylates
+Disorientation; hyperexcitability; 
+coma (severe)
+—
+↑ T; ↓ or ↑ RR + depth
+Vomiting; tinnitus; metabolic acidosis; 
+hypokalemia
+Carbon monoxide
+Lethargy; coma
+—
+—
+Headache, nausea, flulike syndrome, 
+dizziness, blurred vision
+Theophylline
+Agitation
+—
+↑ HR; ↓ BP; ±↑ RR; ± ↑ T
+Protracted vomiting; tremors, seizures, 
+arrhythmias
+Phencyclidine
+Delirium; combativeness; catato­
+nia; coma
+Miosis
+—
+Rotary nystagmus; seizures
+SSRIs
+Drowsiness; agitation; delirium; 
+coma
+Dilated or unre­
+active
+↑ HR; ↑ T; ↓ BP
+Nausea, vomiting, tremor, rigidity, myo­
+clonus, hyperreflexia, diaphoresis
+BP, blood pressure; HR, heart rate; RR, respiratory rate; SSRI, selective serotonin reuptake inhibitor; T, temperature.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+764
+SECTION 7  Neurosensory Disorders
+Hypoglycemia is a common cause of metabolic encephalopathy in 
+children; evaluation and treatment should happen concurrently with 
+rapid stabilization and assessment of the child presenting with AMS. 
+Children with AMS secondary to hypoglycemia may present with con­
+fusion, delirium, or coma. Occasionally, focal neurologic deficits may 
+be present that resolve with treatment of the hypoglycemia. The most 
+common cause of hypoglycemia is ketotic hypoglycemia in the setting 
+of ill or fasting infants and young children with decreased oral intake 
+and glycogen stores (see Chapter 57).
+Electrolyte derangements of various kinds can present with AMS 
+and include both elevated and decreased serum levels of sodium, cal­
+cium, and magnesium (see Chapter 59).
+A variety of endocrinopathies can also present with AMS. The 
+most common of these is diabetic ketoacidosis (DKA), which occurs 
+in children with underlying diabetes mellitus (DM), most commonly 
+type 1, but occasionally in type 2. Symptoms include nausea, vom­
+iting, abdominal pain, Kussmaul breathing, and decreased level of 
+consciousness. Even without a history of DM, a child’s initial presen­
+tation of DM may be in DKA, which also increases the risk of cerebral 
+edema, an uncommon but dangerous complication of DKA. Children 
+with DM type 2 may present with hyperosmolar hyperglycemic state 
+(HHS) indicated by severe hyperglycemia without ketoacidosis. The 
+hyperosmolarity of HHS leads to a decreased level of consciousness 
+and coma and carries a higher risk of mortality than DKA. Other rare 
+endocrine disorders that present with AMS include myxedema coma 
+in the setting of severe hypothyroidism. Clinical signs include hypo­
+thermia, bradycardia, hypoventilation, and hypoxia, and it is often trig­
+gered by infection, burns, or medications in untreated or undertreated 
+hypothyroidism. Thyroid storm or severe hyperthyroidism can lead 
+to agitation, irritability, psychosis, seizures, and, in rare cases, coma. 
+Other symptoms consistent with hyperthyroidism are usually present 
+and include tremor, tachycardia, hypertension, hyperthermia, and car­
+diac arrhythmias. Adrenal crisis can also lead to confusion, behavioral 
+changes, psychosis, and decreased level of consciousness progressing 
+to coma. Associated systemic signs include hypotension, nausea, vom­
+iting, abdominal pain, fever, hyponatremia, and hyperkalemia. Adre­
+nal crisis is often triggered by stress-­including dehydration, trauma, 
+surgery, infection, or sudden cessation of exogenous steroid treatment 
+in the setting of Addison disease, congenital adrenal hypoplasia, or 
+chronic exogenous steroid use.
+End-­organ failure, particularly of the liver or kidneys, can also 
+lead to AMS and decreased level of consciousness. Hepatic enceph­
+alopathy occurs in the setting of both acute and chronic hepatic fail­
+ure (see Chapter 18). In the setting of chronic liver failure, hepatic 
+encephalopathy can be triggered by infection, excessive protein intake, 
+TABLE 41.28  Indications for Extracorporeal 
+Drug Removal*
+Patient Related
+Severe intoxication refractory to medical management (e.g., refractory 
+seizures)
+Impairment of normal excretion routes that may lead to prolonged intoxication
+Drug Related
+Ingestion and probable absorption of a potentially lethal dose determined 
+after gut decontamination
+Documentation of a potentially lethal drug level
+Presence of a significant quantity of a compound that is metabolized to a 
+toxic metabolite (e.g., methanol)
+*Patient-­ and drug-­related criteria for extracorporeal drug removal. Only 
+one criterion needs to be met.
+TABLE 41.29  Characteristics of Metabolic 
+Encephalopathy
+Confusion, lethargy, delirium often precede or replace coma
+Motor signs, if present, usually symmetric
+Bilateral asterixis, myoclonus appear
+Pupillary reactions usually preserved; tonic caloric reflex often present
+Sensory abnormalities usually absent; hypothermia common
+Abnormal signs reflect incomplete brain dysfunction at multiple anatomic levels
+From Plum F. Neurology/sustained impairments of consciousness. In: 
+Wyngaarden JB, Smith LH, Bennet JC, eds. Cecil Textbook of Medi­
+cine. 19th ed. Philadelphia: WB Saunders; 1992:2052.
+TABLE 41.27  Specific Toxins and Their Antidotes
+Toxin
+Antidote
+Acetaminophen
+N-­Acetylcysteine
+Anticholinergics
+Physostigmine
+Arsenic
+Dimercaprol
+Benzodiazepines
+Flumazenil
+β Blockers
+Glucagon*
+Calcium channel blockers†
+Calcium
+Carbamate insecticides
+Atropine
+Carbon monoxide
+Oxygen
+Cyanide
+Amyl nitrite or sodium nitrate plus 
+sodium thiosulfate
+Digitalis
+Digoxin-­specific antibody fragments
+Ethylene glycol
+Ethanol or fomepizole
+Heparin
+Protamine
+Toxin
+Antidote
+Iron
+Deferoxamine
+Lead
+EDTA; dimercaprol; dimercaptosuc­
+cinic acid; penicillamine
+Mercury
+Dimercaprol
+Methanol
+Ethanol or fomepizole
+Opiates
+Naloxone
+Nitrites
+Methylene blue
+Organophosphates
+Atropine; pralidoxime
+Phenothiazines‡
+Diphenhydramine or benztropine
+Salicylates
+Sodium bicarbonate
+Tricyclic antidepressants
+Sodium bicarbonate
+Warfarin
+Vitamin K
+*May reverse cardiac toxicity.
+†Usually requires saline infusion as well for bradyarrhythmias or conduction abnormalities.
+‡Dystonic reactions only.
+EDTA, ethylenediaminetetraacetic acid.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+765
+CHAPTER 41  Altered Mental Status
+gastrointestinal bleeding, or nonadherence to medications. Initial signs 
+include sleep disturbance, confusion, and asterixis, which can prog­
+ress to lethargy, seizures, coma, and posturing. Hepatic encephalopa­
+thy in acute liver failure is a poor prognostic sign without transplant. 
+Advanced kidney failure, whether acute or chronic, can lead to uremic 
+encephalopathy, which presents with lethargy, confusion, hallucina­
+tions, and occasionally coma. Other symptoms include tremor, myoclo­
+nus, asterixis, seizures, and tetany. Treatment with hemodialysis usually 
+resolves symptoms. Encephalopathy that occurs during or immediately 
+after dialysis may represent dialysis disequilibrium syndrome and is 
+thought to be related to rapid removal of urea leading to cerebral edema.
+Hypertensive encephalopathy occurs in the setting of severe hyper­
+tension and causes headache, nausea, vomiting, seizures, and AMS, 
+which improve with treatment of the hypertension. Hypertension may 
+also be associated with reversible posterior leukoencephalopathy 
+syndrome (RPLS) (also known as posterior reversible encephalopa­
+thy syndrome [PRES] or hypertensive encephalopathy), which is also 
+an acute encephalopathy characterized by cortical and white matter 
+changes on T2 and FLAIR MRI that usually improves with treatment of 
+hypertension. Predisposing factors include renal disease, uremia, and 
+preeclampsia/eclampsia. Other causes of RPLS have been described 
+including autoimmune disorders, chemotherapy, immunosuppressive 
+therapy, and infection.
+Inborn Errors of Metabolism
+Inborn errors of metabolism are complex and encompass many condi­
+tions. Table 41.30 provides a partial list of inborn errors of metabolism 
+that may manifest in the neonate with deterioration in consciousness, 
+seizures, hypotonia, and/or apnea. Many of these conditions relate to 
+defective enzymes that lead to accumulation of a toxic product. New­
+born screening has increased the number of infants diagnosed and 
+effectively treated during the asymptomatic phase of a disease. The 
+clinical manifestations of metabolic disease in the neonate can be non­
+specific (Table 41.31). The infants are often thought to have sepsis and 
+are evaluated and treated for presumptive infection. The presence of 
+a documented infection does not preclude metabolic disease because 
+some of these infants are prone to infection (e.g., galactosemia and 
+Escherichia coli sepsis). A family history of a previous infant dying from 
+an unexplained illness or other children in the family with neurologic 
+disorders may provide clues to a metabolic cause. Laboratory abnor­
+malities that may be seen in metabolic disease are listed in Table 41.32.
+Infants with urea cycle defects often manifest AMS, coma (recur­
+rent), and emesis. They cannot metabolize waste nitrogen to urea; this 
+leads to accumulation of ammonia in the blood. These disorders are 
+inherited as autosomal recessive traits, except for ornithine transcar­
+bamylase deficiency, which is X-­linked. The keys to the diagnosis of 
+inborn errors of metabolism in the neonate are a high degree of sus­
+picion, the appropriate screening studies (see Table 41.32), and, if the 
+results are positive, a more detailed laboratory evaluation under the 
+guidance of a specialist in metabolic diseases (Table 41.33).
+Metabolic encephalopathy resulting from inborn errors of metab­
+olism may also manifest in older children or adolescents. The onset 
+of symptoms may be triggered by changes in dietary intake, fasting, 
+dehydration, illness, medications, childbirth, trauma, or surgery. 
+TABLE 41.30  Select Inborn Errors of Metabolism Associated with Neurologic and Laboratory 
+Manifestations in Neonates
+DETERIORATION IN CONSCIOUSNESS
+Metabolic Acidosis
+Organic acidemias
+Disorders of pyruvate metabolism
+Fatty acid oxidation defects
+Fructose-­1,6-­bisphosphatase deficiency
+Glycogen storage diseases
+Mitochondrial respiratory chain defects
+Disorders of ketone metabolism
+Hypoglycemia 
+Fatty acid oxidation defects
+Disorders of gluconeogenesis
+Disorders of fructose and galactose metabolism
+Glycogen storage diseases
+Disorders of ketogenesis
+Organic acidemias
+Hyperinsulinemic hypoglycemias
+Mitochondrial respiratory chain defects
+Neonatal intrahepatic cholestasis caused by citrin deficiency
+Pyruvate carboxylase deficiency
+Carbonic anhydrase VA deficiency
+Hyperammonemia 
+Urea cycle disorders
+Organic acidemias
+Fatty acid oxidation disorders
+Disorders of pyruvate metabolism
+GLUD1-­related hyperinsulinemic hypoglycemia
+Carbonic anhydrase VA deficiency
+SEIZURES AND HYPOTONIA
+Antiquitin deficiency (pyridoxine-­dependent epilepsy)
+Pyridoxamine 5’-­phosphate oxidase (PNPO) deficiency (pyridoxal phosphate-­
+responsive epilepsy)
+Folate metabolism disorders
+Multiple carboxylase deficiency (holocarboxylase synthetase deficiency and 
+biotinidase deficiency)
+Urea cycle disorders
+Organic acidemias
+Fatty acid oxidation disorders
+Disorders of creatine biosynthesis and transport
+Disorders of neurotransmitter metabolism
+Molybdenum cofactor deficiency and sulfite oxidase deficiency
+Serine deficiency disorders
+Glycine encephalopathy
+Asparagine synthetase deficiency
+Mitochondrial respiratory chain defects
+Zellweger spectrum disorders
+Congenital disorders of glycosylation
+Purine and pyrimidine metabolism defects
+NEONATAL APNEA
+Glycine encephalopathy
+Asparagine synthetase deficiency
+Urea cycle disorders
+Organic acidemias
+Disorders of pyruvate metabolism
+Fatty acid oxidation defects
+Mitochondrial respiratory chain defects
+From Kliegman RM, St. Geme JW III, Blum NJ, et al., eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:690, Table 102.3.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+766
+SECTION 7  Neurosensory Disorders
+Additionally, less severe forms of disorders that classically present in 
+infancy such as urea cycle disorders or organic acidemias may also 
+present in older children with episodes of vomiting, lethargy, seizures, 
+or psychomotor abnormalities. Recurrent hypoglycemia, frequent 
+hospitalizations for dehydration, metabolic decompensation out of 
+proportion to the severity of acute illness, recurrent vomiting, devel­
+opmental delay, poor growth or failure to thrive, cramping after exer­
+cise, and protein or carbohydrate (fructose) aversions may all signal 
+concern for inborn errors of metabolism. Like in infants, work-­up is 
+influenced by the presenting signs and symptoms and often requires 
+consultation with a specialist in inborn errors of metabolism.
+   	 S U MMA RY  A N D  R E D  F L A G S
+AMS is a common symptom related to a wide variety of underlying 
+pathologies and particularly when associated with a decreased level 
+of consciousness indicates a serious manifestation of potentially life-­
+threatening but at times reversible disorders. Initial diagnosis and 
+management are focused on stabilization, rapid clinical assessment, 
+and treatment of immediately reversible causes such as hypoglyce­
+mia. Red flags indicating structural causes include signs of increased 
+intracranial pressure, focal neurologic deficits, and signs of brainstem 
+dysfunction. Red flags indicating life-­threatening toxic-­metabolic 
+causes include signs of intracranial infections, sepsis, and hemody­
+namic instability. Common causes vary by age, but toxic ingestion, 
+trauma, seizures, infections, and metabolic disturbances, including 
+inborn errors of metabolism, must be considered. Finding one etiology 
+of AMS does not preclude other contributing comorbid conditions as 
+many initial causes of AMS may progress to others. For example, severe 
+head trauma may lead to seizures and dysregulation of sodium and 
+increase the risk for subsequent infection. The location and etiology of 
+AMS may have characteristic patterns or manifestations (Table 41.34).
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+TABLE 41.31  Clinical Manifestations of 
+Inborn Errors of Metabolism in the Neonatal 
+Period
+Lethargy
+Coma
+Seizures
+Increased or decreased muscle tone
+Poor suck and feeding
+Vomiting
+Diarrhea
+Apnea
+Tachypnea and/or hyperpnea
+Respiratory failure
+Jaundice
+Unusual odors
+Cardiomegaly
+Hepatomegaly
+TABLE 41.32  Laboratory Evidence of 
+Metabolic Disease
+Acidosis,* alkalosis
+Hypoglycemia
+Hyperammonemia
+Elevated lactate levels
+Elevated liver enzyme levels
+Direct hyperbilirubinemia
+Urine-­reducing substance
+Urine ketones present in excess or absent when expected to be present
+*High anion gap if increased organic acids (ketoacids, lactic acid) are 
+produced. Normal anion gap if associated renal tubular acidosis (type I 
+glycogen storage disease, galactosemia) is present.
+TABLE 41.33  Laboratory Evaluation of 
+Suspected Inborn Errors of Metabolism
+Plasma ammonia
+Arterial blood gas
+Plasma amino acids
+Plasma carnitine
+Plasma pyruvate and lactate
+Urinary amino acids
+Urinary organic acids and acylcarnitine profile
+TABLE 41.34  Characteristics and 
+Categories of Coma
+Supratentorial Mass Lesion Affecting Diencephalon/
+Brainstem
+ • Initial focal cerebral dysfunction
+ • Dysfunction progresses rostral to caudal
+ • Signs reflect dysfunction at one level
+ • Signs often asymmetric
+Subtentorial Structural Lesion
+ • Symptoms of brainstem dysfunction or sudden-­onset coma
+ • Brainstem signs precede or accompany the coma
+ • Cranial nerve and oculovestibular dysfunction
+ • Early onset of abnormal respiratory patterns
+Metabolic-­Toxic Coma
+ • Confusion or stupor precede motor signs
+ • Motor signs usually symmetric
+ • Pupil responses generally preserved
+ • Myoclonus, asterixis, tremulousness, and generalized seizures common
+ • Acid-­base imbalance common, with compensatory ventilatory changes
+Psychogenic Coma
+ • Eyelids squeezed shut
+ • Pupils reactive or dilated, unreactive (cycloplegics)
+ • Oculocephalic reflex unpredictable, nystagmus on caloric tests
+ • Motor tone normal or inconsistent
+ • No pathologic reflexes
+ • Awake-­pattern EEG
+From Vincent JL, Abraham E, Moore FA, et al., eds. Textbook of Criti­
+cal Care. 7th ed. Philadelphia: Elsevier; 2017:241, Box 48-­3.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+766.e1
+BIBLIOGRAPHY
+Coma Scales
+Akavipat P. Endorsement of the FOUR score for consciousness assessment in 
+neurosurgical patients. Neurol Med Chir (Tokyo). 2009;49:565–571.
+Borgialli D, Mahajan P, Hoyle J, et al. Performance of the pediatric Glasgow 
+Coma Scale score in the evaluation of children with blunt head injury. 
+Acad Emerg Med. 2016;23(8):878–884.
+Durham SR, Clancy RR, Leuthardt E, et al. CHOP Infant Coma Scale (“Infant 
+Face Scale”): a novel coma scale for children less than two years of age. J 
+Neurotrauma. 2000;17:729–737.
+Fenichel GM. Altered states of consciousness. In: Fenichel GM, ed. Clinical 
+Pediatric Neurology: A Signs and Symptoms Approach. 4th ed. Philadelphia: 
+WB Saunders; 2001:47.
+Kevric J, Jelinek GA, Knott J, et al. Validation of the Full Outline of Unrespon­
+siveness (FOUR) Scale for conscious state in the emergency department: 
+comparison against the Glasgow Coma Scale. Emerg Med J. 2011;28:486–
+490.
+Kochar GS, Gulat S, Lodha R, et al. Full Outline of Unresponsiveness score 
+versus Glasgow Coma Scale in children with nontraumatic impairment of 
+consciousness. J Child Neurol. 2014;29:1299–1304.
+Lieh-­Lai MW, Theodorou AA, Sarnaik AP, et al. Limitations of the Glasgow 
+Coma Scale in predicting outcome in children with traumatic brain injury. 
+J Pediatr. 1992;120:195.
+Simpson D, Reilly P. Pediatric coma scale. Lancet. 1982;2:450.
+Stead LG, Wijdicks EF, Bhagra A, et al. Validation of a new coma scale, the 
+FOUR score, in the emergency department. Neurocrit Care. 2009;10:50–54.
+Tatman A, Warren A, Williams A, et al. Development of a modified paediatric 
+coma scale in intensive care clinical practice. Arch Dis Child. 1997;77:519–
+521.
+Wang MY, Griffith P, Sterling J, et al. A prospective population-­based study of 
+pediatric trauma patients with mild alterations in consciousness (Glasgow 
+Coma Scale score of 13-­14). Neurosurgery. 2000;46:1093–1099.
+Wijdicks E, Bamlet WR, Maramattom BV, et al. Validation of a new coma 
+scale: the FOUR score. Ann Neurol. 2005;58:585–593.
+Diagnosis and Management of Altered Level of Consciousness and 
+Coma
+Allen C, Kriss Burger R. Psychiatric and behavioral causes of altered mental 
+status. Pediatr Ann. 2019;48(5):201–204.
+American Psychiatric Association. Diagnostic and Statistical Manual of Mental 
+Disorders. 5th ed. Washington DC: American Psychiatric Publishing; 2013.
+Avner J. Altered states of consciousness. Pediatr Rev. 2006;27(9):331–338.
+Button K, Capraro A, Monuteaux M, et al. Etiologies and yield of diagnostic 
+testing in children presenting to the emergency department with altered 
+mental status. J Pediatr. 2018;200:218–224.
+Dalmau J, Lancaster E, Martinez-­Hernandez E, et al. Clinical experience and 
+laboratory investigations in patients with anti-­NMDAR encephalitis. Lan­
+cet Neurol. 2011;10:63–74.
+Edlow JA, Rabinstein A, Traub SJ, et al. Diagnosis of reversible causes of coma. 
+Lancet. 2014;384:2064–2076.
+Elmonem MA, Belanger-­Quintana A, et al. The impact of COVID-­19 pan­
+demic on the diagnosis and management of inborn errors of metabolism: a 
+global perspective. Mol Genet Metab. 2020;7:241–244.
+Kirkham FJ. Non-­traumatic coma in children. Arch Dis Child. 2001;85:303–
+312.
+Liao YJ, So YT. An approach to critically ill patients in coma. West J Med. 
+2002;176:184–187.
+Malas N, Brahmbhatt K, McDermott C, et al. Pediatric delirium: evaluation, 
+management, and special considerations. Curr Psychiatry Rep. 2017;19:65.
+Ness JN. Neuromyelitis optica and acute disseminated encephalomyelitis. In: 
+Kliegman R, Stanton BS, St. Geme J, et al., eds. Nelson Textbook of Pediat­
+rics. 20th ed. Philadelphia: Elsevier; 2016:2922–2925.
+Schunk J. Pediatric head injury. Pediatr Rev. 2012;33(9):398–411.
+Wong CP, Forsyth RJ, Kelly TP, et al. Incidence, etiology, and outcome of non-­
+traumatic coma: a population based study. Arch Dis Child. 2001;84:193–199.
+Prognosis
+Cheliout-­Heraut F, Rubinsztajn R, Ioos C, et al. Prognostic value of evoked po­
+tentials and sleep recordings in the prolonged comatose state of children. 
+Preliminary data. Neurophysiol Clin. 2001;31:283–292.
+Christophe C, Fonteyne C, Ziereisen F, et al. Value of MR imaging of the brain 
+in children with hypoxic coma. AJNR Am J Neuroradiol. 2002;23:716–723.
+Forsyth RJ, Wong CP, Kelly TP, et al. Cognitive and adaptive outcomes and 
+age at insult effects after non-­traumatic coma. Arch Dis Child. 2001;84:200–
+204.
+Mandel R, Martinot A, Delepoulle F, et al. Prediction of outcome after 
+hypoxic-­ischemic encephalopathy: a prospective clinical and electrophysi­
+ologic study. J Pediatr. 2002;141:45–50.
+Robinson LR, Micklesen PJ, Tirschwell DL, et al. Predictive value of somato­
+sensory evoked potentials for awakening from coma. Crit Care Med. 
+2003;31:960–967.
+Wohlrab G, Boltshauser E, Schmitt B. Neurological outcome in comatose 
+children with bilateral loss of cortical somatosensory evoked potentials. 
+Neuropediatrics. 2001;32:271–274.
+Toxicology
+Abbruzzi G, Stork CM. Pediatric toxicologic concerns. Emerg Med Clin North 
+Am. 2002;20:223–247.
+Bond GR, Woodward RW, Ho M. The growing impact of pediatric pharma­
+ceutical poisoning. J Pediatr. 2012;160:265–270.
+Bryant S, Singer J. Management of toxic exposure in children. Emerg Med Clin 
+North Am. 2003;21:101–119.
+Hoffman RJ, Nelson L. Rational use of toxicology testing in children. Curr 
+Opin Pediatr. 2001;13:183–188.
+Jones A. Recent advances in the management of poisoning. Ther Drug Monit. 
+2002;24:150–155.
+Liebelt EL, DeAngelis CD. Evolving trends and treatment advances in pediatric 
+poisoning. J Am Med Assoc. 1999;282:1113–1115.
+McGuigan ME. Poisoning potpourri. Pediatr Rev. 2001;22:295–302.
+Mokhlesi B, Leiken JB, Murray P, et al. Adult toxicology in critical care: part I: 
+general approach to the intoxicated patient. Chest. 2003;123:577–592.
+Powers KS. Diagnosis and management of common toxic ingestions and inha­
+lations. Pediatr Ann. 2000;29:330–342.
+Trauma
+American Academy of Pediatrics. Committee on Child Abuse and Neglect: 
+shaken baby syndrome: rotational cranial injuries—technical report. Pedi­
+atrics. 2001;108:206–210.
+Duhaime AC, Christian CW, Rorke LB, et al. Nonaccidental head injury in 
+infants—the “shaken-­baby syndrome.” N Engl J Med. 1998;338:1822–1829.
+Gedeit R. Head injury. Pediatr Rev. 2001;22:118–124.
+Hackbarth RM, Rzeszutko KM, Sturm G, et al. Survival and functional 
+outcome in pediatric traumatic brain injury: a retrospective review and 
+analysis of predictive factors. Crit Care Med. 2002;30:1630–1635.
+Morrissey K, Fairbrother H. Severe traumatic brain injury in children: an 
+evidence-­based review of emergency department management. Pediatr 
+Emerg Med Pract. 2016;13(10):1–22.
+Narang S, Clarke J. Abusive head trauma: past, present and future. J Child 
+Neurol. 2014;29:1747–1756.
+Ng SM, Toh EM, Sherrington CA. Clinical predictors of abnormal comput­
+ed tomography scans in paediatric head injury. J Paediatr Child Health. 
+2002;38:388–392.
+Prasad MR, Ewing-­Cobbs L, Swank PR, et al. Predictors of outcome following 
+traumatic brain injury in young children. Pediatr Neurosurg. 2002;36:64–74.
+Society for Pediatric Radiology. Consensus statement on abusive head trauma 
+in infants and young children. Pediatri Radiol. 2018;48(8):1048–1065.
+White JR, Farukhi Z, Bull C, et al. Predictors of outcome in severely head-­
+injured children. Crit Care Med. 2001;29:534–540.
+Primary Brain Disease
+Armangue T, Petit-­Pedrol B, Dalmau J. Autoimmune encephalitis in children. 
+J Child Neurol. 2012;27(11):1460–1469.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+766.e2
+Bibliography
+Benseler SM, Silverman E, Aviv RI, et al. Primary central nervous system 
+vasculitis in children. Arthritis Rheum. 2006;54:1291–1297.
+Brenton J, Goodkin H. Antibody mediated autoimmune encephalitis in child­
+hood. Pediatr Neurology. 2016;60:13–23.
+Chávez-­Bueno S, McCracken Jr GH. Bacterial meningitis in children. Pediatr 
+Clin North Am. 2005;52:795–810.
+Curtis S, Stobart K, Vandermeer B, et al. Clinical features suggestive of 
+meningitis in children: a systematic review of prospective data. Pediatrics. 
+2010;126:952–960.
+Dalmau J, Graus F. Antibody-­mediated encephalitis. N Engl J Med. 
+2018;378:840–851.
+deVeber G, Andrew M, Bjornson B, et al. Cerebral sinovenous thrombosis in 
+children. N Engl J Med. 2001;345(6):417–423.
+Dubey D, Pittock S, Kelly C, et al. Autoimmune encephalitis epidemiology and 
+a comparison to infectious encephalitis. Ann Neurol. 2018;83(1):166–177.
+Han M, Zunt J. Neurologic aspects of infections in international travelers. 
+Neurol. 2005;11(1):30–44.
+Kim J. Introduction to cerebral cavernous malformation: a brief review. BMB 
+Rep. 2016;49:255–262.
+Kirkpatrick M, Engleman H, Minns RA. Symptoms and signs of progressive 
+hydrocephalus. Arch Dis Child. 1989;64:124–128.
+Krupp L, Tardieu M, Amato M, et al. International Pediatric Multiple Sclerosis 
+Study Group criteria for pediatric multiple sclerosis and immune-­mediated 
+central nervous system demyelinating disorders: revisions to the 2007 
+definitions. Mult Scler. 2013;19(10):1261–1267.
+Lancon J, Killough K, Tibbs R, et al. Spontaneous dural sinus thrombosis in 
+children. Pediatr Neurosurg. 1999;30(1):23–29.
+Lehman RK, Mink J. Altered mental status. Clin Pediatr Emerg Med. 
+2008;9:68–75.
+Linabery A, Ross J. Trends in childhood cancer incidence in the US (1992-­
+2004). Cancer. 2008;112(2):416–432.
+Martin NG, Iro MA, Sadarangani M, et al. Hospital admissions for viral 
+meningitis in children in England over five decades: a population-­based 
+observational study. Lancet Infect Dis. 2016;16:1279–1287.
+Matricardi S, Farello G, Savasta S, et al. Understanding childhood neuroim­
+mune diseases of the central nervous system. Front Pediatr. 2019;7:511.
+Mooney MA, Zabramski JM. Developmental venous anomalies. Handb Clin 
+Neurol. 2017;143:279–282.
+Pradilla G, Ardila GP, Hsu W, et al. Epidural abscesses of the CNS. Lancet 
+Neurol. 2009;8:292–300.
+Metabolic Encephalopathies
+Bhattacharyya S, Darby RR, Raibagkar P, et al. Antibiotic-­associated encepha­
+lopathy. Neurology. 2016;86:963–971.
+Espay AJ. Neurologic complications of electrolyte disturbances and acid-­base 
+balance. Handb Clin Neurol. 2014;119:365–382.
+Glass H. Hypoxic-­ischemic encephalopathy and other neonatal encephalopa­
+thies. Continuum Child Neuro. 2018;24:57–71.
+Gofton TE, Young GB. Sepsis-­associated encephalopathy. Nat Rev Neurol. 
+2012;8:557–566.
+Gross BA, Jankowitz BT, Friedlander RM. Cerebral intraparenchymal hemor­
+rhage: a review. J Am Med Assoc. 2019;321(13):1295–1303.
+Hamed SA. Neurologic conditions and disorders of uremic syndrome of 
+chronic kidney disease: presentations, causes, and treatment strategies. 
+Expert Rev Clin Pharmacol. 2019;12(1):61–90.
+Molnar L, Fulesdi B, Nemeth N, et al. Sepsis-­associated encephalopathy: a 
+review of literature. Neurol India. 2018;66(2):352–361.
+Shabab T, Khanabdali R, Moghadamtousi SZ, et al. Neuroinflammation path­
+ways: a general review. Int J Neurosci. 2017;127(7):624–633.
+Umpierrez G, Korytkowski M. Diabetic emergencies—ketoacidosis, hyper­
+glycaemic hyperosmolar state and hypoglycaemia. Nat Rev Endocrinol. 
+2016;12(4):222–232.
+Inborn Errors of Metabolism
+Burton BK. Inborn errors of metabolism in infancy: a guide to diagnosis. 
+Pediatrics. 1998;102:E69.
+Ellaway CJ, Wilcken B, Christodoulou J. Clinical approach to inborn errors 
+of metabolism presenting in the newborn period. J Paediatr Child Health. 
+2002;38:511–517.
+Vernon HJ. Inborn errors of metabolism advances in diagnosis and therapy. 
+JAMA Pediatr. 2015;169:778–782.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

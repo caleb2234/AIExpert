@@ -1,0 +1,910 @@
+1106
+POLYURIA AND URINARY INCONTINENCE
+Urinary incontinence is a normal developmental stage. When present 
+beyond a certain age defined by parental and societal expectations, 
+it can cause concern and anxiety in the patient and family. Urinary 
+incontinence can also be a symptom of significant pathologic pro­
+cesses. The challenge to the clinician is identifying the child with an 
+organic disorder among the many who are proceeding along a normal 
+developmental track.
+VOIDING PHYSIOLOGY
+Urinary continence is dependent on normal bladder function and nor­
+mal urine production. Normal development of bladder function results 
+in the storage and release of urine in a socially and physically accept­
+able way. During storage, the detrusor muscle is relaxed, and the capac­
+ity of the bladder allows urine to be held for several hours. Micturition 
+is then voluntary, with coordinated detrusor contraction and sphincter 
+relaxation, resulting in complete bladder emptying. The bladder capac­
+ity in children learning to be toilet trained is variable, being dependent 
+on their own sensation of bladder fullness. The maximum functional 
+bladder capacity may differ greatly among children when measured by 
+home diaries. Cystometry, a method of measuring bladder volume, can 
+be estimated by the following formula:
+	
+Cystometric bladder capacity  (ounces) = (2 × age  [years]) + 2	
+In children 2 years of age or older:
+	Cystometric bladder capacity  (ounces) = age  (years)
+2
++ 6
+	
+Although the innervation of the bladder is predominantly auto­
+nomic, bladder function is under control of cortical function. Thus, a 
+complex integration of visceral and somatic innervation is necessary 
+for normal voiding, which perhaps explains the wide spectrum in the 
+ages for urinary continence. Parasympathetic neural activity provides 
+the primary input during micturition, leading to relaxation of the 
+urethral smooth muscle and initiating detrusor contractions. Pelvic 
+nerves conducting parasympathetic activity form a reflex arc with the 
+centrally located pontine micturition center. The thoracolumbar sym­
+pathetic branch, via hypogastric and pelvic sympathetic nerves, inner­
+vates the detrusor to relax and the urinary sphincter to contract during 
+urine storage.
+Urinary continence thus relies on the abilities to (1) store urine 
+without leakage, (2) release urine voluntarily and completely, and (3) 
+interrupt micturition voluntarily. The third ability is indicative of fully 
+coordinated cortical-­autonomic function.
+TOILET TRAINING
+The age at which toilet training is achieved is influenced by cultural 
+factors as well as psychosocial factors. The achievement of daytime uri­
+nary continence follows the attainment of bowel control. There is evi­
+dence that the age of daytime and nighttime continence has increased 
+worldwide in the past century. Data suggest a change in parental atti­
+tudes toward the toilet training process and their expectations. Among 
+social factors reported, children of single parents are successfully toilet 
+trained at an earlier age, whereas enrollment in daycare does not have 
+a significant influence. There is no consensus on age of readiness for 
+toilet training in Western society. Nearly two dozen signs of readiness 
+have been reported, but no evidence-­based studies are available to indi­
+cate which readiness signs and how many are needed for a child to suc­
+cessfully toilet train. Consistent predictive factors include that females 
+are toilet trained earlier than males and Black children are trained ear­
+lier than White children. Techniques for toilet training are varied and 
+range from the child-­oriented approach to single-­day training inten­
+sive methods to the use of daytime wet alarms.
+URINE VOLUME AND SOLUTE DIURESIS
+Polyuria is the overproduction of urine. Polyuria is a symptom that is 
+fixed and therefore occurs during both the daytime and the nighttime. 
+“Nocturnal polyuria,” a symptom proposed in a subset of patients with 
+primary nocturnal enuresis, is discussed separately. Overproduction of 
+urine indicates a defect in one of several mechanisms regulating water 
+and solute homeostasis. Identification of children with incontinence 
+caused by polyuria is essential for diagnosing a variety of disorders 
+(Table 58.1).
+Urine production varies depending on the intake of fluids and 
+solute, activity, caloric expenditure, and the environment. The vol­
+ume reflects the maintenance of normal fluid and electrolyte balance 
+(1) through the regulation of plasma osmolality by vasopressin and 
+through the thirst mechanism and (2) by the regulation of extracellular 
+volume and solute (mainly sodium) homeostasis by the kidney. The 
+sensation of thirst occurs when plasma osmolality rises above a thresh­
+old of 280–290 mOsm/L. Release of vasopressin, a peptide produced 
+by the hypothalamus, parallels the sensation of thirst and then acts on 
+receptors in the collecting ducts of the kidney to diminish water excre­
+tion and to concentrate the urine. Hypovolemia is also a stimulant for 
+vasopressin. Once serum osmolality is restored to normal, vasopressin 
+release is inhibited, and renal water excretion increases. Maintenance 
+of extracellular fluid volume depends on sodium homeostasis and 
+directly affects urine volume. It involves the interaction of several 
+systems, including (1) the renin-­angiotensin system, (2) the atrial 
+natriuretic peptide, and (3) the sympathetic nervous system.
+Polyuria and Urinary Incontinence
+Cynthia G. Pan
+58
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1107
+CHAPTER 58  Polyuria and Urinary Incontinence
+Among patients with primary nocturnal enuresis, there is a subset 
+of patients with “nocturnal polyuria,” in which larger volumes of more 
+dilute urine are produced than in patients who remain dry. Respon­
+siveness to the administration of vasopressin analogs, such as des­
+mopressin acetate (1-­deamino[8-­d-­arginine] vasopressin [DDAVP]), 
+differentiates such patients into responders and nonresponders.
+History
+The history should begin with determining if urinary incontinence is 
+limited to primary nocturnal enuresis versus daytime urinary inconti­
+nence (DUI). The next step is to inquire whether it is primary or sec­
+ondary. Primary nocturnal enuresis is considered a separate disorder 
+and unlikely to have organic etiology, whereas the determination of 
+secondary nocturnal enuresis or secondary DUI should call for careful 
+evaluation. Questions to determine whether the patient has polyuria 
+are important as the presence of polyuria suggests a variety of meta­
+bolic, systemic, and kidney diseases. The absence of polyuria directs 
+more focus on the lower urinary tract (Table 58.2; see also Table 58.1).
+Polyuria
+Polyuria, the excessive production of urine, can result from the absence 
+of release of antidiuretic hormone (ADH), failure of the kidney to 
+respond to ADH, or an osmotic diuresis. This can lead to urinary 
+incontinence, especially in young children. Polyuria always results in 
+polydipsia. It is often easier to query parents as to whether the vol­
+ume of fluid intake by the child is excessive rather than to obtain an 
+estimate of the volume of urine output. The first clue to polydipsia in 
+infants is irritability and “hunger” after a successful feeding of formula 
+or breast milk. In young children, favoring water over solids or milk, 
+as well as seeking water in unusual places (e.g., toilets), can be a sign of 
+polydipsia. Waking to seek fluids at night in a consistent pattern is also 
+a sign of polydipsia. Parental stories of bed linens being soaked despite 
+a “double diaper” or training pull-­on diaper are remarkable, especially 
+when recounted by experienced parents.
+An osmotic diuresis leading to polyuria may be an early sign of 
+diabetes mellitus. The previously dry child may develop secondary 
+nocturnal or even daytime enuresis. Associated symptoms include 
+polydipsia and polyphagia with poor weight gain and fatigue. Chil­
+dren with central diabetes insipidus (CDI) and the genetic forms of 
+nephrogenic diabetes insipidus (NDI) produce very large amounts of 
+hypotonic urine. Along with polyuria and enuresis, these children may 
+have a history of frequent hospitalizations for dehydration, often pro­
+voked by relatively minor illnesses. The dehydration is often associated 
+with moderate or severe hypernatremia. Failure to thrive may develop 
+because of a preference for low-­calorie-­containing fluids over solid 
+foods. The secondary causes of NDI may include a partial defect in 
+the mechanism for renal concentrating, and urinary incontinence may 
+be the only symptom (see Table 58.2). Conversely, other children may 
+also have growth retardation because of associated chronic renal failure 
+or the associated metabolic abnormalities (e.g., metabolic acidosis in 
+renal tubular acidosis [RTA] or rickets in Fanconi syndrome, metabolic 
+alkalosis in Bartter syndrome). Polydipsia can also result from a behav­
+ioral problem and result in polyuria, but patients will demonstrate nor­
+mal urinary concentrating ability using appropriate testing.
+Voiding History
+In the presence of enuresis but the absence of polyuria, a voiding his­
+tory helps to determine whether additional evaluation is warranted. Is 
+the urinary incontinence nocturnal only, or is daytime incontinence also 
+present? Does the patient have stool incontinence? Voiding frequency is 
+sometimes difficult to ascertain in a school-­age child, and an assignment 
+to keep a diary of voiding can be given on the first visit. This should 
+include information on both bladder and bowel habits, specifically urine 
+volumes and when urinary incontinence occurs. Voiding postpone­
+ment, or urine holding patterns, with overflow incontinence is most 
+easily identifiable with a diary. Incontinence can be a symptom of a uri­
+nary tract infection (UTI) (see Chapter 21). Associated symptoms may 
+include dysuria, frequency, and urgency. Other urinary symptoms such 
+as dysuria, urgency, dampness in the underwear, or other signs of UTI 
+TABLE 58.1  Causes of Urinary Incontinence
+With Polyuria
+Diabetes mellitus
+Primary polydipsia (psychogenic, behavioral)
+Central diabetes insipidus
+Nephrogenic diabetes insipidus
+Primary
+Genetic
+Secondary
+Obstructive uropathy: concurrent (anatomic, neurogenic) 
+or postobstructive
+Polyuric phase of acute kidney injury
+Chronic renal failure
+Juvenile nephronophthisis
+Fanconi syndrome (e.g., cystinosis)
+Hypokalemia
+Hypercalcemia
+Bartter syndrome
+Gitelman syndrome
+Sickle cell disease
+Renal tubular acidosis
+Medications (e.g., lithium)
+Interstitial nephritis
+Without Polyuria
+Primary nocturnal enuresis*
+Dysfunctional voiding syndromes
+Neuropathic bladder
+Anatomic defects of the urinary tract
+*Some cases may be characterized by nocturnal polyuria.
+TABLE 58.2  Secondary and Acquired 
+Forms of Nephrogenic Diabetes Insipidus–Like 
+Disorders
+Acquired
+Chronic pyelonephritis
+Tubulointerstitial nephritis
+Chronic renal failure secondary to obstructive uropathy
+Drug-­induced tubulopathy
+Hypokalemia
+Hypercalcemia
+Congenital
+Renal tubular acidosis
+Nephrocalcinosis
+Cystinosis
+Sickle cell nephropathy
+Juvenile nephronophthisis
+Renal dysplasia
+Cystic kidney disease
+Bartter syndrome
+Storage, metabolic diseases (tyrosinemia, Fabry disease)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1108
+SECTION 11  Endocrine and Metabolic Disorders
+can all be signs of voiding dysfunction. Asking parents for specific obser­
+vations—such as (1) the sudden urge to void followed by incontinence 
+or (2) maneuvers to prevent urine leakage, such as squatting and press­
+ing the heel of the foot into the perineum—elicits clues to a hyperactive 
+detrusor muscle. Incontinence may occur with giggling, with physical 
+stress while jumping, or with activities that require Valsalva maneuvers.
+Secondary enuresis is defined as enuresis occurring after a dry 
+period of at least 6 consecutive months and can be the first sign of an 
+acquired renal or metabolic disease. Fecal soiling or constipation may 
+be an accompanying sign of voiding dysfunction, but it should first 
+raise suspicion for an occult spinal lesion such as spina bifida or a teth­
+ered cord. In addition, continuous dribbling, a poor urinary stream, or 
+recurrent infections may be a sign of anatomic or neuropathic lesions 
+(see Table 58.1).
+Primary Nocturnal Enuresis
+The patient with nocturnal enuresis (bedwetting) is typically without 
+any major daytime symptoms. Enuresis is considered primary when 
+the patient has not had any dry periods for >6 months. Toilet train­
+ing for daytime control is often achieved easily. The frequency of wet 
+nights should be ascertained to gauge the magnitude of the problem. 
+Approximately 5–10% of 7-­year-­old children are affected and for some 
+the problem persists into adolescence and even adulthood. A family 
+history of nocturnal enuresis increases a patient’s risk for nocturnal 
+enuresis. If both parents have a history of enuresis, the rate of occur­
+rence in offspring may be as high as 70–80%. If the father had primary 
+nocturnal enuresis, the child has a fivefold to sevenfold increase in 
+risk. The pathophysiologic mechanism is multifactorial; explanations 
+include defects in osmoregulation (nocturnal polyuria), nocturnal 
+detrusor over-­reactivity, and disorders of sleep or arousal states.
+Behavioral Issues
+Social stressors should be ascertained because psychologic factors are 
+important in the occurrence of secondary enuresis. There are reports of 
+other psychiatric issues, such as attention-­deficit/hyperactivity disor­
+der, autism, and conduct disorders, associated with a higher incidence 
+of daytime and nighttime incontinence. It has been widely accepted, 
+however, that many affected children are often emotionally well 
+adjusted. Nonetheless, care should be taken not to underestimate the 
+sequelae of both enuresis and DUI in the older school-­age child, who 
+may feel “abnormal” among peers. Evaluation of the patient should 
+always include inquiring how the patient and other family members 
+are reacting to the problem and whether it may be interfering socially, 
+with school issues, and with quality of life.
+Finally, primary nocturnal enuresis may be a sleep disorder or a 
+disorder of arousal. Patients with severe nocturnal enuresis may have 
+defects in arousal to auditory stimuli. Inquiry into symptoms of sleep 
+apnea should also be made, such as snoring or restless sleep, as it may 
+lead to altered arousal states, leading to nocturnal enuresis in patients 
+with sleep apnea (see Chapter 6).
+Physical Examination
+In all affected patients, their growth should be evaluated, because fail­
+ure to thrive can be seen in many of the metabolic disorders that pro­
+duce polyuria. The presence of hypertension suggests underlying renal 
+or urologic abnormalities. Careful evaluation of the lower back may 
+reveal cutaneous abnormalities such as hair tufts, pits, dimpling, or vas­
+cular malformations, which are possible signs of spina bifida occulta or 
+tethered cord. A significant deviation of the gluteal cleft may also sug­
+gest the possibility of spinal dysraphism. The abdominal examination 
+is important for detecting a distended bladder, suprapubic tenderness, 
+or significant stool retention. A neurologic examination should include 
+assessment of lower extremity deep tendon reflexes, observation of 
+the gait, and evaluation of perineal sensation and anal sphincter tone, 
+again screening for the possibility of a neuropathic bladder. Anatomic 
+abnormalities leading to incontinence should be sought by inspection 
+of the genitalia. In females, the examination includes a search for fused 
+labial folds and dribbling urine from an ectopic ureter. In males, the 
+phallus should be inspected for the presence of epispadias or unde­
+scended testicles.
+Diagnosis
+The presence or absence of polyuria helps guide the necessary labora­
+tory and radiologic testing (Figs. 58.1 and 58.2). An immediate UA is 
+critical for differentiating the glycosuria of diabetes mellitus from the 
+low specific gravity (osmolality) of diabetes insipidus or the proteinuria 
+and/or hematuria of chronic renal disease.
+A water deprivation test to examine urine concentrating capacity 
+of patients when diabetes insipidus is suspected should be done in a 
+hospital setting, with close observation of and attention to urine and 
+serum osmolarity, urine output, and weight loss. In patients with sig­
+nificant polyuria, dehydration and hyperosmolarity are easily precipi­
+tated with several hours of water deprivation. For patients with a less 
+suspect history of polyuria, a first morning void after an overnight fast 
+should be sufficient for checking urine osmolarity or specific gravity.
+In some patients, the problem can be better defined with a home 
+voiding diary, which outlines how often and how much they are void­
+ing and when urinary incontinence, constipation, or encopresis occurs.
+Laboratory Assessment
+Routine laboratory examination in patients with monosymptomatic 
+nocturnal enuresis includes a UA and then is diagnosed by taking a 
+good history and performing a complete physical examination. In 
+patients with DUI or secondary nocturnal enuresis, or when polyuria 
+or polydipsia is present, a screening UA, followed by appropriate blood 
+chemistry studies, is important for evaluating for diabetes mellitus 
+or electrolyte disorders such as metabolic acidosis (RTA), metabolic 
+alkalosis (Bartter syndrome), hypercalcemia, and hypokalemia. Hyper­
+natremia can be seen in the severe forms of diabetes insipidus. UTI 
+should be sought in most patients with incontinence by obtaining a UA 
+and urine culture. A UA also helps screen for occult, chronic glomer­
+ular or tubular renal disease. Hematuria or proteinuria can be a sign 
+of renal disease, although its absence does not exclude this possibility. 
+Glycosuria, when associated with normal serum glucose, can indicate 
+tubulointerstitial disease, where proximal tubular injury results in a 
+lowered threshold for glucose reabsorption.
+Imaging and Cystometry
+Radiologic imaging is not necessary in most patients with primary 
+nocturnal enuresis. In select patients with secondary enuresis, day­
+time symptoms, or a suspect history or UA, renal ultrasonography may 
+provide information regarding acquired or congenital renal diseases. 
+Images of the bladder can reveal urologic abnormalities, including 
+poor bladder emptying or thickened bladder wall. A voiding cysto­
+urethrogram is indicated only in patients with a questionable urinary 
+stream, continuous dribbling (aberrant ectopic ureter), or suspected 
+spinal cord lesions with lower extremity neurologic signs. MRI of the 
+lower spine should be reserved for patients with cutaneous signs, neu­
+rologic or orthopedic symptoms of the lumbar-­sacral spine, or complex 
+spinal bone deformities seen on plain radiographs (Table 58.3 and Figs. 
+58.3 and 58.4). All patients with CDI must undergo cerebral MRI with 
+specific focus on the hypothalamic-­pituitary region.
+Cystometry examination is useful for a select group of patients 
+with a history of dysfunctional voiding symptoms whose response to 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1109
+CHAPTER 58  Polyuria and Urinary Incontinence
+therapy is poor. Bladder instability is characterized by involuntary con­
+tractions at more than 15 cm of water pressure during filling. Small 
+bladder capacity is almost always a functional problem, not anatomic.
+Differential Diagnosis
+Primary Nocturnal Enuresis
+Primary nocturnal enuresis (bedwetting) is considered abnormal in 
+most social contexts after the age of 5 years. In the Diagnostic and Sta­
+tistical Manual of Mental Disorders, fifth edition (DSM-­5), primary 
+enuresis is defined as wetting clothes or the bed at least twice a week 
+for more than 3 consecutive months. Most affected patients have no 
+daytime symptoms. It is a common problem, but only a small propor­
+tion of patients seek medical advice. The incidence of pure primary 
+nocturnal enuresis without other symptoms is twice as common 
+among males as among females.
+Daytime Urinary Incontinence
+DUI is defined as involuntary, intermittent leakage during the day in 
+children older than 5 years of age with a frequency of once a month 
+and persisting for >3 months. This occurs when there is an imbalance 
+or lack of coordination of activity between the detrusor muscle activ­
+ity (bladder contracture) and the bladder neck or external sphincter 
+With Polyuria
+Abnormal
+Normal
+Severe defect
+Labs: Electrolytes, Ca+, blood glucose, serum creatinine
+Partial defect
+Urinary
+concentrating
+ability
+Metabolic
+disorders
+Diabetes mellitus
+Hypercalcemia
+Hypokalemia
+Central diabetes insipidus
+Nephrogenic diabetes insipidus
+Sickle cell nephropathy
+Juvenile nephronophthisis
+Interstitial nephritis
+Medication
+RTA
+Bartter syndrome
+Cystinosis
+Chronic renal failure
+Polyuric phase of AKI
+Renal
+disorders
+Fig. 58.2  Diagnosis of enuresis with polyuria. AKI, acute kidney injury; RTA, renal tubular acidosis.
+Without Polyuria
+Daytime voiding symptoms
+or secondary enuresis
+Primary
+nocturnal enuresis
+UTI
+Anatomic defect
+Neuropathic bladder
+Anatomic defect
+MRI spine
+VCUG
+Renal U/S
+MRI spine
+VCUG
+Renal U/S
+Renal U/S
+VCUG
+Abnormal
+Normal
+Physical exam
+Voiding dysfunction
+Neuropathic bladder
+Anatomic defect
+Cystometry
+Physical exam
+Nocturnal enuresis
+U/A  (+)
+UTI
+U/A  (–)
+Abnormal
+Normal
+U/A  (–)
+U/A  (+)
+Fig. 58.1  Diagnosis of enuresis without polyuria. U/S, ultrasonography; UTI, urinary tract infection; VCUG, 
+voiding cystourethrogram; +, positive; −, negative.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1110
+SECTION 11  Endocrine and Metabolic Disorders
+activity (bladder outlet control). This poor coordination can, over 
+time, cause a wide spectrum of disorders, including incontinence. The 
+severity depends on the balance of forces among the detrusor activity, 
+bladder neck, and external sphincter. In the extreme case, high bladder 
+pressures produce acquired urologic abnormalities, including hydrone­
+phrosis, vesicoureteral reflux (VUR), and renal damage. Dysfunctional 
+voiding can be classified as mild, moderate, or severe. Early recognition 
+can lead to proper management and avoidance of long-­term sequelae.
+Mild voiding dysfunction. Daytime urinary frequency is 
+characterized by frequency and urgency as often as every 15–20 
+minutes. This is usually associated with incontinence or mild pain 
+and occurs in children aged 3–8 years. The condition is also usually 
+self-­limiting. A thorough history should be documented, a careful 
+physical examination conducted, and UA performed to rule out other 
+pathologic processes.
+Moderate voiding dysfunction. There are two extremes in the 
+spectrum of moderate dysfunctional voiding. Over time, voiding 
+postponement, or urine holding, as infrequent as once every 8–12 hours, 
+results in incontinence and recurrent UTIs. This can be a consequence 
+of behaviors developed when the young child is learning voluntary 
+contraction of the external sphincter muscle while toilet training. It 
+may also develop when a child goes to school or camp and does not 
+want to use an unfamiliar toilet or be in an embarrassing situation. 
+The child learns additional maneuvers to void infrequently, such as 
+squatting and pressing the heel of the foot in the perineum. This turns 
+into dysfunctional voiding when over time the child is unable to relax 
+the external sphincter in coordination with detrusor activity during 
+voiding. This results in incomplete and inefficient bladder emptying.
+The overactive bladder, or urge syndrome, is also a common abnor­
+mality in DUI. Low-­quantity, frequent voiding leading to incontinence 
+is secondary to delayed resolution of uninhibited bladder contractions 
+that normally resolve as the child matures. This asynchronous activ­
+ity between detrusor muscle and sphincter contraction leads to higher 
+intravesical pressures. Urgency and urge incontinence are the most 
+common symptoms, but recurrent UTIs and VUR may result as well. 
+Complications may include thickening, trabeculations, or diverticula 
+of the bladder. High bladder pressure can also cause hydroureter and 
+hydronephrosis.
+Severe dysfunctional voiding. This is often referred to as the 
+non-­neurogenic neurogenic bladder (Hinman syndrome), a syndrome 
+representing the extreme end of the spectrum of dysfunctional voiding. 
+Inappropriate voluntary contraction of the external sphincter during 
+voiding produces high intravesical pressure and a functional outlet 
+obstruction, leading to abnormal bladder function, hydronephrosis, and 
+possibly renal failure. With time, the voiding pattern becomes habitual, 
+and the anatomic changes in the bladder impede the ability to void 
+normally. Biofeedback and clean intermittent straight catheterization 
+may restore bladder emptying and function and prevent renal failure.
+Special considerations. Giggle incontinence is most often seen 
+in females and is characterized by incontinence after laughter. It too 
+is usually self-­limiting. Stress incontinence follows athletic activities 
+such as running or jumping and landing; it is common with activities 
+such as gymnastics and cheerleading. Timely bladder emptying before 
+exercise is effective in preventing this problem. Urethrovaginal reflux 
+can lead to postvoid dribbling and can occur in young females who 
+develop habits of incomplete voiding or can result from urine that is 
+collected in the vagina during voiding. Sitting with the knees slightly 
+apart or sitting on the toilet facing backward eliminates this problem. 
+Anatomic issues such as meatal anomalies and labial adhesion can also 
+be a cause of this form of incontinence.
+Neuropathic Bladder
+The neuropathic bladder most often occurs in patients with spina 
+bifida, an open or closed congenital spinal cord fusion defect. This 
+results in distortion of normal neural tissues in the spinal cord or nerve 
+TABLE 58.3  Cutaneous Lesions Associated 
+with Occult Spinal Dysraphism
+Imaging Indicated
+Subcutaneous mass or lipoma
+Hairy patch
+Dermal sinus or cyst
+Atypical dimples (deep, >5 mm, >25 mm from anal verge)
+Vascular lesion, e.g., hemangioma or telangiectasia
+Skin appendages or polypoid lesions, e.g., skin tags, tail-­like appendages
+Scarlike lesions (aplasia cutis)
+Imaging Uncertain
+Hyperpigmented patches
+Deviation of the gluteal fold
+Imaging Not Required
+Simple dimples (<5 mm, <25 mm from anal verge)
+Coccygeal pits
+From Williams H. Spinal sinuses, dimples, pits and patches: what lies 
+beneath? Arch Dis Child Educ Pract Ed. 2006;91:ep75–ep80.
+B
+C
+A
+D
+Fig. 58.3  Clinical aspects of congenital median lumbosacral cutaneous lesions. A, Midline sacral heman­
+gioma in a patient with an occult lipomyelomeningocele. B, Capillary malformation with a subtle patch of 
+hypertrichosis in a patient with a dermal sinus. C, Human tail with underlying lipoma in an infant with lipomy­
+elomeningocele. D, Midline area of hypertrichosis (faun tail) overlying a patch of hyperpigmentation. (A–C, 
+From Kos L, Drolet BA. Developmental abnormalities. In: Eichenfield LF, Frieden IJ, Esterly NB, eds. Neonatal 
+Dermatology. 2nd ed. Philadelphia: WB Saunders; 2008; D, from Spine and spinal cord: developmental disor­
+ders. In Schapira A, ed. Neurology and Clinical Neuroscience. Philadelphia: Mosby; 2007.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1111
+CHAPTER 58  Polyuria and Urinary Incontinence
+roots. The range of anomalies includes meningocele, lipomeningocele, 
+primary tethered cord, dermoid cyst, syrinx, and sacral agenesis (see 
+Fig. 58.4). Closed defects can be initially asymptomatic and manifest 
+during toilet training years with incontinence, recurrent UTIs, or 
+orthopedic problems in later childhood. Many children who present 
+with symptoms have a cutaneous finding over the lumbosacral spine 
+noted since birth. The severity of the symptoms does not seem to pre­
+dict the severity of the bladder dysfunction or renal damage. Despite 
+lesser neurologic deficits in closed spina bifida, affected patients have 
+demonstrated bladder dysfunction as severe as that observed in open 
+spina bifida. Acute spinal injury (trauma), compression (tumor), or 
+infection (transverse myelitis) may produce similar bladder conditions 
+such as acute urinary retention.
+Anatomic Defects
+Posterior urethral valves and urethral obstruction. This is the most 
+common form of urinary obstruction leading to kidney failure in male 
+infants and children. It is a result of persistence of fetal folds in the 
+posterior urethra, which act as a valve to create urinary obstruction. 
+Poor urinary stream and bladder distention are the most common 
+urinary complaints, but dribbling and incontinence are also observed. 
+UTI can be the presenting problem, and when it is diagnosed in young 
+males, especially infants, posterior urethral valves should always be 
+sought.
+Eagle-­Barrett, or prune-­belly, syndrome is another important 
+cause of urethral obstruction. Early obstruction during embryogenesis 
+leads to hydronephrosis, hydroureter, abdominal distention, abdom­
+inal musculature deficiency, and excessive skin folds, thus giving the 
+wrinkly “prune” appearance of the abdomen in severe cases. A spec­
+trum of renal dysplasia and chronic kidney disease can result in both 
+conditions.
+Renal duplication. This is a result of duplication of the ureteric 
+bud during embryogenesis, causing a double collecting system, or two 
+ureters. Duplicated ureters can open separately inside the bladder, 
+but in rare cases, an ectopic ureter can end in the vagina, urethra, or 
+vestibule, leading to dribbling and incontinence.
+Vesicoureteral reflux. VUR is the retrograde flow of urine from 
+the bladder into the ureters and kidney. Normal insertion of the ureter 
+into the bladder submucosal wall forms a flap-­valve mechanism that 
+prevents urine backup during filling and contraction. Congenital VUR 
+is secondary to shorter ureteric segments in the bladder wall. Urine 
+flow mechanics are disrupted by the constant filling of the bladder 
+with urine that has flowed backward and then returns to the emptied 
+bladder. The inability to completely empty the bladder eliminates an 
+important defense against UTIs. Secondary VUR can be associated 
+with dysfunctional voiding. Dyssynergia between detrusor contraction 
+and sphincter relaxation may result in VUR and recurrent UTIs. 
+Urethral obstruction leading to high intravesical pressure also leads to 
+VUR, poor bladder emptying, and thus UTIs and incontinence.
+Metabolic Disorders
+Hypercalcemia. This is an uncommon electrolyte disorder in 
+children but can be observed in primary hyperparathyroidism, vitamin 
+D intoxication, immobilization, Williams syndrome, malignancy, 
+and idiopathic hypercalcemia of infancy. Polyuria is a symptom 
+of hypercalcemia and is a result of its inhibitory effect on Na+, K+-­
+ATPase function in renal tubules. This leads to renal sodium and 
+water losses and thus to polyuria and volume contraction. In chronic 
+hypercalcemia, increased calcium excretion over time can lead to 
+nephrocalcinosis, tubular damage, and poor urinary concentrating 
+ability, thus enhancing polyuria.
+Hypokalemia. This is another electrolyte disorder that induces 
+polyuria. In children, it occurs as a result of diuretic use, aldosterone 
+excess states, Cushing syndrome, and intrinsic renal disorders that 
+affect potassium handling. The latter includes disorders such as RTA, 
+Bartter syndrome, or renal injury from nephrotoxic medications. 
+Hypokalemia interferes with water reabsorption in the collecting duct 
+of the kidneys.
+Diabetes mellitus. Polyuria and urinary incontinence can be the 
+first symptoms of diabetes mellitus and are secondary to hyperglycemia 
+and the osmotic diuresis resulting from chronic glycosuria. The renal 
+threshold for reabsorption of glucose is exceeded when the blood 
+glucose level is higher than approximately 180 mg/dL. If oral intake of 
+fluid decreases, as occurs when diabetic ketoacidosis causes anorexia 
+and emesis, significant dehydration and shock frequently develop.
+Central Diabetes Insipidus
+In CDI, the lack of circulating ADH prevents concentration of the 
+urine, leading to high quantities of dilute urine. The defect can be com­
+plete or partial, and thus the degree of polyuria is variable. In complete 
+CDI, the massive polyuria can lead to severe dehydration and hyperna­
+tremia. CDI can be secondary to congenital malformations of the pitu­
+itary gland, intracranial surgery, head trauma, or tumor involving the 
+nuclei of the hypothalamus (where ADH is produced) or the neurohy­
+pophysial axis itself. There is also an idiopathic form and familial forms 
+of CDI. Abnormalities in the AVP gene are the most common famil­
+ial form inherited in most patients as an autosomal dominant trait; 
+X-­linked or autosomal recessive inheritance has also been reported. In 
+the idiopathic form, infiltrative diseases such as Langerhans cell his­
+tiocytosis (Letterer-­Siwe syndrome) should be sought. A significant 
+Fig. 58.4  Dermal sinus tract—similar to a lipomyelomeningocele but 
+with an additional fibrous tract (red arrow) extending from a superficial 
+skin dimple to the placode. (From Martin RJ, Fanaroff AA, Walsh MC, 
+eds. Fanaroff’ & Martins’s Neonatal-­Perinatal Medicine. 11th ed. Phila­
+delphia: Elsevier; 2020:1075, Fig. 58.4.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1112
+SECTION 11  Endocrine and Metabolic Disorders
+proportion of young children initially diagnosed with idiopathic CDI 
+have been found to have histiocytosis in subsequent years. Treatment 
+is with ADH or its analogs.
+Renal Concentrating Defects
+Renal tubular acidosis. In distal (type 1) RTA, the most common 
+form of RTA, there is a defect in the tubular secretion of hydrogen 
+ions and decreased formation of NH4+ cations in the urine. In 
+children, the presentation includes failure to thrive, polyuria, and 
+polydipsia. Hypokalemia is a common finding and can be profound, 
+leading to weakness. Hypercalciuria and low urine citrate excretion 
+combine to produce nephrocalcinosis. The autosomal recessive form 
+of the disease is frequently associated with hearing loss. There are 
+also autosomal dominant forms of the disease. Distal RTA may 
+be secondary to medications (e.g., amphotericin) or a variety of 
+conditions, including interstitial nephritis, obstructive uropathy, 
+nephrocalcinosis, renal transplantation, sickle cell disease, and 
+systemic lupus erythematosus (see Chapter 59).
+Proximal RTA is less common and is a primary defect in bicarbon­
+ate reabsorption in the proximal tubule. When associated with other 
+proximal tubular defects, such as salt wasting, phosphate wasting, 
+glycosuria, and aminoaciduria, it is referred to as Fanconi syndrome. 
+Manifesting in infancy to early adulthood, cystinosis is the most com­
+mon cause of proximal RTA in children. This autosomal recessive 
+disorder results from a defect in cystine transport and results in the 
+lysosomal accumulation of cystine throughout the body. The infantile 
+form usually manifests in the first year of life. Without intervention, 
+this form results in end-­stage renal failure. Acidosis, rickets, polyuria, 
+and severe failure to thrive are hallmarks of the disease. Early interven­
+tion with oral cysteamine to bind cysteine has dramatically improved 
+the outcome in affected patients. Proximal RTA is a feature of several 
+other genetic disorders manifesting in childhood (such as galactose­
+mia, tyrosinemia, hereditary fructose intolerance, glycogen storage 
+disease type I, Lowe syndrome, Wilson disease, osteopetrosis) or inges­
+tion of toxins (e.g., heavy metals) (see Chapter 59).
+Sickle cell disease. Hemoglobin S is a genetic defect in hemoglobin 
+A that results in red blood cells that deform under low oxygen tension 
+(see Chapter 49). The renal medulla is a site with high osmolality, 
+low oxygen tension, and relative acidosis, all conditions that promote 
+sickling. This results in occlusion of blood vessels and damage to the 
+renal medulla, the primary site where the urine is concentrated. The 
+resultant decreased ability to concentrate leads to a higher incidence of 
+nocturnal enuresis in affected patients.
+Nephronophthisis. Juvenile nephronophthisis is an autosomal 
+recessive disorder that leads to end-­stage renal failure between 
+preadolescence and early adulthood. Patients have high urine output 
+because of poor renal concentrating ability and renal salt wasting. 
+Patients may have primary or secondary nocturnal enuresis. The salt 
+wasting causes salt craving, and patients prefer salty foods or even eat 
+salt directly from the saltshaker. A small percentage of these patients 
+have retinitis pigmentosa, which may cause blindness at birth or later 
+in life. Patients may present with symptoms of chronic renal failure.
+Nephrogenic diabetes insipidus. The congenital form of NDI 
+is often diagnosed before toilet training, but it can lead to urinary 
+incontinence in later childhood. Infants may present with poor growth, 
+severe dehydration, seizures, and central nervous system injury or 
+death. In families in which the diagnosis has already been made, early 
+intervention in infants can prevent these symptoms and lead to an 
+excellent outcome. Ninety percent of patients have the X-­linked form 
+of the disease, which is caused by a gene variant ADH receptor. Female 
+carriers may be mildly affected. The autosomal recessive and autosomal 
+dominant forms of NDI are caused by variants in aquaporin, the water 
+channel that allows uptake of water in the collecting duct. Treatment is 
+with indomethacin, sodium restriction, and thiazide diuretics.
+Treatment
+Primary Nocturnal Enuresis
+Establishing whether the primary nocturnal enuresis is the only symp­
+tom (monosymptomatic) or whether there are associated symptoms 
+such as DUI, constipation, sleep disorders, or behavioral issues is nec­
+essary before a treatment strategy is developed.
+Many families whose child has monosymptomatic nocturnal enure­
+sis simply want reassurance that there is not an organic explanation. It 
+is also helpful to let the family and child know that almost all patients 
+“outgrow” primary nocturnal enuresis. Positive reinforcement for dry 
+nights, dispelling any negative attitudes, and avoiding blame enhance 
+the child’s self-­esteem. If treatment is sought, the enuresis alarm has a 
+high success rate, but patient selection is important. These devices are 
+designed to awaken patients when micturition begins and result in the 
+development of increased bladder capacity. Its effect may not be seen 
+for up to 12 weeks, and therefore the family and patient must be highly 
+motivated. Older patients who are ready to take charge of the problem 
+and who do not have difficulty waking are the best candidates.
+Pharmacologic therapy for primary nocturnal enuresis includes 
+the use of DDAVP, an ADH analog. There is probably a subpopulation 
+of patients with enuresis who have “nocturnal polyuria,” which led to 
+the drug’s popularity, but there is evidence that this is independent of 
+vasopressin secretion. DDAVP is most effective in children with a pos­
+itive family history of primary nocturnal enuresis, with normal blad­
+der capacity, and who are older than 7 years. Its safety profile has been 
+excellent, but patients should be given careful instruction on restrict­
+ing fluid intake after the bedtime dose. There are occasional reports of 
+hyponatremic seizures in children who drink excessively while taking 
+DDAVP.
+Patients with small bladder capacity and diurnal symptoms tend 
+not to respond to DDAVP; these patients may benefit from anticho­
+linergic therapy, such as oxybutynin. Combination therapy involving 
+a bed alarm plus DDAVP or DDAVP plus anticholinergic therapy may 
+be helpful in select patients.
+Imipramine, a tricyclic antidepressant, has been shown to be effec­
+tive, but its side effects and toxicity have limited its use for this benign 
+condition. Patients with enuresis and other behavioral problems who 
+take selective serotonin reuptake inhibitors have reported improvement 
+in the enuresis. This may be an appropriate option in this population.
+Daytime Urinary Incontinence
+Treatment of mild functional forms of DUI should begin with non­
+pharmacologic management, or urotherapy, that is individualized to 
+patient symptoms. Patients should receive education on bowel and 
+bladder function, and also be instructed to void on a regular schedule, 
+even if they do not feel the urge to void. This encourages voiding when 
+the patient is relaxed and will lead to fewer contractions of the external 
+sphincter during micturition. They may also benefit from counseling 
+on posture, fluid intake, and diet. Keeping a diary of the voiding sched­
+ule involves the child in management and makes them more aware of 
+bladder and bowel habits. Aggressive management of constipation (see 
+Chapter 19) improves good bladder emptying and decreases bladder 
+instability. These nonpharmacologic approaches to urotherapy are 
+often enough to treat the majority of neurologically and anatomically 
+intact children.
+When DUI continues despite nonpharmacologic methods, phar­
+macologic therapy is used as an adjunct. Anticholinergic therapy is 
+the mainstay of drug treatment, especially in the child with an overac­
+tive bladder or urge syndrome, blocking receptors in the bladder and 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1113
+CHAPTER 58  Polyuria and Urinary Incontinence
+suppressing bladder contractility. Oxybutynin should be started at a 
+low dosage and titrated to its maximum dosage if necessary. The min­
+imum effective dosage should be used to minimize side effects (dry 
+mouth, flushing, constipation, concentration problems, and blurred 
+vision). Use of the extended-­release form of oxybutynin bypasses the 
+first-­pass metabolism and is reported to result in better tolerance. The 
+use of α-­adrenergic antagonists (e.g., doxazosin, tamsulosin, tera­
+zosin) is currently reserved for off-­label use in the treatment of non-­
+neurogenic bladder dysfunction, reducing bladder outlet resistance.
+Patients with recurrent UTIs who develop urine-­holding patterns 
+that lead to overflow incontinence may benefit from a trial of antibi­
+otic prophylaxis. This may keep the child free of infection and may 
+prevent the painful urination that reinforces exaggerated external 
+sphincter contraction and urine holding. Botulinum toxin is a neuro­
+toxin that inhibits acetylcholine release at the presynaptic junction and 
+is approved for sphincteric injections. It is not approved for voiding 
+dysfunction in children. The off-­label use in children with neuropathic 
+bladders and treatment-­resistant non-­neurogenic bladders has shown 
+reports of favorable outcomes.
+Biofeedback is reserved for patients with moderate to severe dys­
+functional voiding. Patients can learn to increase bladder capacity and 
+inhibit detrusor contractions through this method. Neuromodulation 
+using transcutaneous electrical nerve stimulation (TENS) has shown 
+promise in reducing incontinence episodes and urgency in random­
+ized controlled trials. More evidence is needed, but it remains an 
+adjunct therapy in children.
+Polyuria
+The treatment of polyuria depends on the cause. In certain disorders, 
+such as diabetes mellitus, hypokalemia, or hypercalcemia, the underly­
+ing disorder can be corrected. The high urine output in CDI decreases 
+markedly with the use of DDAVP. In contrast, there is no effective ther­
+apy for reducing urine output in patients with disorders such as juve­
+nile nephronophthisis or obstructive uropathy.
+The hereditary forms of NDI cause massive polyuria. A combina­
+tion of sodium restriction and a thiazide diuretic can decrease this 
+high urine output by producing a subtle volume depletion that results 
+in less water being delivered to the collecting duct. The addition of 
+indomethacin or other nonsteroidal antiinflammatory drugs can, by 
+reducing renal blood flow, further decrease urine output in patients 
+with NDI. The use of indomethacin also reduces the high urine output 
+in Bartter syndrome. Despite therapy, patients with Bartter syndrome 
+and NDI continue to have high urine output, and the family should be 
+counseled that a delay in achieving nighttime continence is expected.
+Neuropathic Bladder and Anatomic Disorders
+The treatment of these disorders depends on the specific defect. In 
+patients with neuropathic bladders resulting from spina bifida, chronic 
+intermittent catheterization of the bladder may be the only way to 
+achieve continence. Uninhibited bladder contractions may necessitate 
+anticholinergic therapy as an adjunct.
+Anatomic disorders such as posterior urethral valves or VUR may 
+still necessitate medical therapy or biofeedback after corrective surgery. 
+Urodynamic testing can be very helpful in this population to define the 
+problem leading to incontinence.
+   	 S U MMA RY  A N D  R E D  F L A G S
+Most children with urinary incontinence do not have an organic 
+problem. The work-­up consists of a thorough history and physical 
+examination with laboratory analysis when indicated. Red flags that 
+indicate the need for diagnostic tests are shown in Table 58.4.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+TABLE 58.4  Red Flags
+Polyuria
+Polydipsia
+Failure to thrive
+Poor urinary stream
+Encopresis
+Secondary enuresis
+Abnormal gait, including toe walking
+Recurrent urinary tract infections
+Cutaneous lesions over lumbosacral spine
+Diminished lower extremity reflexes
+Abnormal genitalia
+Palpable bladder
+Hypertension
+Headache
+Visual disturbances
+Obstructive sleep apneas
+Recurrent fevers
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1113.e1
+BIBLIOGRAPHY
+Voiding Physiology
+Blum NJ, Taubman B, Nemeth N. Relationship between age at initiation of 
+toilet training and duration of training: a prospective study. Pediatrics. 
+2003;111(4 Pt 1):810–814.
+Brazelton TB. A child-­oriented approach to toilet training. Pediatrics. 
+1962;29:21–128.
+Kaefer M, Zurakowski D, Bauer SB, et al. Estimating normal bladder capacity 
+in children. J Urol. 1997;158:2261–2264.
+Kaerts N, Van Hal G, Vermandel A, et al. Readiness signs used to define the 
+proper moment to start toilet training: a review of the literature. Neurourol 
+Urodyn. 2012;31(4):37–440.
+Mattsson S, Gladh G, Lindström S. Relative filling of the bladder at daytime 
+voids in healthy school children. J Urol. 2003;170(4 Pt 1):1343–1346.
+Nevéus T. Nocturnal enuresis—theoretic background and practical guidelines. 
+Pediatr Nephrol. 2011;26(8):1207–1214.
+Signs and Symptoms
+Combs AJ, Van Batavia JP, Chan J, et al. Dysfunctional elimination 
+syndromes—how closely linked are constipation and encopresis with 
+specific lower urinary tract conditions? J Urol. 2013;190:1015–1020.
+Herndon CD, Joseph DB. Urinary incontinence. Pediatr Clin North Am. 
+2006;53(3):363–377.
+Issenman RM, Filmer RB, Gorski PA. A review of bowel and bladder control 
+development in children: how gastrointestinal and urologic conditions 
+relate to problems in toilet training. Pediatrics. 1999;103:1346–1352.
+Diagnostics
+Drzewiecki BA, Bauer SB. Urodynamic testing in children: indications, 
+technique, interpretation and significance. J Urol. 2011;186(4):1190–1197.
+Hoebeke P, Bower W, Combs A, et al. Diagnostic evaluation of children with 
+daytime incontinence. J Urol. 2010;183(2):699–703.
+Patel HP. The abnormal urinalysis. Pediatr Clin N Am. 2006;53(3):325–337.
+Wraige E, Borzskowski M. Investigation of daytime wetting: when is spinal 
+cord imaging indicated? Arch Dis Child. 2002;87(2):151–155.
+Specific Disorders
+Alexopoulos EI, Malakasioti G, Varlami V, et al. Nocturnal enuresis is 
+associated with moderate-­to-­severe obstructive sleep apnea in children 
+with snoring. Pediatr Res. 2014;76(6):555–559.
+Barakat LP, Smith-­Whitley K, Schulman S, et al. Nocturnal enuresis in 
+pediatric sickle cell disease. J Dev Behav Pediatr. 2001;22:300–305.
+Bockenhauer D, Bichet DG. Pathophysiology, diagnosis and management of 
+nephrogenic diabetes insipidus. Nat Rev Nephrol. 2015;11:576–588.
+Dabrowski E, Kadakia R, Zimmerman D. Diabetes insipidus in infants and 
+children. Best Pract Res Clin Endocrinol Metabol. 2016;30:317–328.
+Dinneen MD, Duffy PG, Barratt TM, et al. Persistent polyuria after posterior 
+urethral valves. Br J Urol. 1995;75:236–240.
+Elder JS, Diaz M. Vesicoureteral reflux—the role of bladder and bowel 
+dysfunction. Nat Rev Urol. 2013;10(11):640–648.
+Johnston LB, Borzyskowski M. Bladder dysfunction and neurological disability 
+at presentation in closed spina bifida. Arch Dis Child. 1998;79:33–38.
+Readett DR, Morris J, Serjeant GR. Determinants of nocturnal enuresis in 
+homozygous sickle cell disease. Arch Dis Child. 1990;65:615–618.
+Rodriguez-­Soriano J, Vallo A. Renal tubular acidosis. Pediatr Nephrol. 
+1990;4:268–275.
+Von Gontard A, Equit M. Comorbidity of ADHD and incontinence in 
+children. Eur Child Adolesc Psychiatry. 2015;24:127–140.
+Treatment
+Buckley BS, Sanders CD, Spineli L, et al. Conservative interventions 
+for treating functional daytime urinary incontinence in children. 
+Cochrane Database Syst Rev. 2019;9(9):CD012367. https://doi.
+org/10.1002/14651858.CD012367.pub2.
+Chang S, Van Laecke E, Bauer S, et al. Treatment of daytime urinary 
+incontinence: a standardization document from the International 
+Children’s Continence Society. Neurourol Urodyn. 2017;36:43–50.
+Feldman AS, Bauer SB. Diagnosis and management of dysfunctional voiding. 
+Curr Opin Pediatr. 2006;18(2):139–147.
+Glazener CM, Evans JH. Desmopressin for nocturnal enuresis in children. 
+Cochrane Database Syst Rev. 2002;(3):CD002112.
+Kuwertz-­Bröking E, Von Gontard A. Clinical management of nocturnal 
+enuresis. Pediatr Nephrol. 2018;33:1145–1154. https://doi.org/10.1007/
+s00467-­017-­3778-­1.
+Metcalfe PD, Luerssen TG, King SJ, et al. Treatment of occult tethered cord 
+for neuropathic bladder: results of sectioning the filum terminale. J Urol. 
+2006;176(4 Pt 2):1826–1829.
+Robson WL. Clinical practice: evaluation and management of enuresis. N Engl 
+J Med. 2009;360(14):1429.
+Vermandel A, Weyler J, De Wachter S, et al. Toilet training of healthy young 
+toddlers: a randomized trial between a daytime wetting alarm and timed 
+potty training. J Dev Behav Pediatr. 2008;29(3):191–196.
+Wiener JS, Mischca TS, Hampton J, et al. Long-­term efficacy of simple 
+behavioral therapy for daytime wetting in children. J Urol. 2000;164:786–
+790.
+Yamanishi T, Yasuda K, Murayama N, et al. Biofeedback training for detrusor 
+overactivity in children. J Urol. 2000;164:1686–1690.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

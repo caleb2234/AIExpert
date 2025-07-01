@@ -1,0 +1,2941 @@
+242
+Diarrhea is the passage of unusually loose or watery stools, typically 
+at least three times in a 24-­hour period, and should be considered in a 
+child who is passing stools more frequently than usual with a consis­
+tency looser than what is considered normal for that individual. Diar­
+rhea is classified broadly by the duration of symptoms. Acute diarrhea 
+is usually a self-­limited illness that lasts for 2 weeks or less. Chronic 
+diarrhea persists for more than 2 weeks. The etiologies of acute and 
+chronic diarrhea differ by age (Table 14.1).
+Diarrhea is further classified by pathophysiology, which typi­
+cally involves one or more of the following mechanisms: (1) osmotic 
+diarrhea, characterized by an increased intraluminal osmotic load 
+leading to passive diffusion of fluid into the gastrointestinal lumen; 
+(2) secretory diarrhea, characterized by increased active secretion 
+of fluid into the gastrointestinal lumen beyond the capacity to be 
+reabsorbed; and (3) altered gastrointestinal tract motility. Differen­
+tiating osmotic from secretory diarrhea allows for a more directed 
+diagnostic evaluation (Table 14.2). Osmotic diarrhea may be related 
+to the malabsorption of carbohydrate, fat, or protein or to the pres­
+ence of nonabsorbable substances in the gastrointestinal lumen. The 
+characteristics of the stool may provide information that allows for 
+the identification of the malabsorbed substance, particularly for iso­
+lated carbohydrate and fat malabsorption (Table 14.3). Secretory 
+diarrhea is characterized by an excess of crypt cell fluid and elec­
+trolyte secretion that exceeds the absorptive capabilities of the villi 
+and is classified by the presence or absence of normal villi. Inflam­
+matory diarrhea of both infectious and noninfectious etiologies 
+usually involves both osmotic and secretory components. Finally, 
+surgical bowel resection may decrease the surface area available for 
+the resorption of both fluid and solutes, leading to both secretory and 
+osmotic diarrhea. The causes of diarrhea based on pathophysiology 
+are presented in Table 14.4.
+ACUTE DIARRHEA
+History
+Acute diarrhea in children is most often infectious (Table 14.5), 
+although it may be secondary to noninfectious inflammatory pro­
+cesses, toxins, or medications. The etiology of acute diarrhea is sug­
+gested by both the history and characteristics of the stool (Fig. 14.1 
+and Table 14.6). Fever or blood in the stool suggests an infectious 
+cause. Watery diarrhea is typical of viral gastroenteritis, as well as 
+some bacterial and parasitic infections. Dysentery, characterized by 
+severe diarrhea and the presence of blood and mucus in the stool, 
+suggests bacterial colitis. Vomiting and diarrhea developing within 
+hours of food ingestion suggests exposure to preformed toxins in 
+the food, rather than the acquisition of an enteric pathogen from 
+the food, which is characterized by a predominantly diarrheal illness 
+developing within days of exposure (Fig. 14.2). A recent history of 
+travel suggests traveler’s diarrhea, more than 80% of which is caused 
+by bacterial species that are endemic to the area of travel, to which 
+the patient has not been previously exposed. Recent travel may also 
+suggest parasitic or helminthic infection. Exposure to health care 
+settings suggests nosocomial diarrhea. Patients with a history of 
+immunodeficiency or malnourishment may be more likely to have 
+an infection with atypical or opportunistic organisms or to have a 
+more protracted and severe course. Hematuria or oliguria may sug­
+gest hemolytic uremic syndrome (HUS) as a complication of infec­
+tion with Escherichia coli 0157:H7 or Shigella. Other extraintestinal 
+manifestations may also provide a clue to the diagnosis (Table 14.7).
+Physical Examination
+Physical examination should focus on assessing the level of hydration 
+and the need for fluid resuscitation (Table 14.8). The general examina­
+tion may reveal nonenteric infections that could present with diarrhea, 
+such as otitis media, pneumonia, or sepsis. Abdominal tenderness or 
+masses suggest appendicitis, intussusception, or, less commonly, toxic 
+megacolon. Generalized toxicity or shock may occur with HUS or with 
+sepsis, such as from invasive Salmonella or staphylococcal toxic shock 
+syndrome.
+Viral Diarrhea
+Rotavirus Infection
+Rotavirus is the most frequent cause of severe diarrhea in unvaccinated 
+infants and young children. The introduction of an effective vaccine 
+has decreased the incidence, with most infections occurring in unvac­
+cinated children under 3 years of age. In countries with a higher base­
+line socioeconomic status, it is typically seen in winter months, with 
+prevalence decreasing substantially in summer months. Transmission 
+is by the fecal-­oral route and the incubation period ranges from 1 to 3 
+days. Patients typically present with the acute onset of fever and vom­
+iting followed 1–2 days later by watery diarrhea. Symptoms generally 
+persist for 3–8 days. In moderate to severe cases, dehydration, electro­
+lyte abnormalities, and acidosis may occur. In immunocompromised 
+children, persistent infection and chronic diarrhea can develop, with 
+persistently positive diagnostic assays. Chronic infection is to be dif­
+ferentiated from postinfectious malabsorption seen in some immuno­
+competent children, in whom the small intestinal mucosa may require 
+3–8 weeks to recover its absorptive ability. Diagnosis is confirmed by 
+nucleic acid amplification assays, enzyme immunoassay (EIA), immu­
+nochromatography, or latex agglutination assay for group A rotavirus 
+antigen detection in the stool.
+Norovirus Infection
+Norovirus is a single-­stranded RNA virus of the Calciviridae family 
+and is the leading cause of epidemic outbreaks of acute gastroenteritis, 
+as well as the most common cause of foodborne illness and foodborne 
+Diarrhea
+Bhaskar Gurram
+14
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+243
+CHAPTER 14  Diarrhea
+TABLE 14.1  Differential Diagnosis of Acute and Chronic Diarrhea by Age
+Infants
+Children
+Adolescents
+ACUTE
+Common
+Infectious gastroenteritis
+Food poisoning
+Antibiotic-­associated diarrhea
+Food poisoning
+Systemic infection
+Infectious gastroenteritis
+Food poisoning
+Antibiotic-­associated diarrhea
+Hyperthyroidism
+Infectious gastroenteritis
+Systemic infection
+Medication induced (e.g., antibiotics, laxatives)
+Food protein–induced enterocolitis syndrome (FPIES)
+Food poisoning
+Overfeeding
+Rare
+Hirschsprung-­associated enterocolitis
+Neonatal opioid withdrawal
+CHRONIC
+Disorders of Absorption and Transport of 
+Nutrients and Electrolytes
+Primary lactase deficiency
+Secondary (e.g., postinfectious) lactase deficiency
+Congenital sucrose-­isomaltase deficiency
+Trehalase deficiency
+Congenital chloride diarrhea
+Congenital sodium diarrhea
+Acrodermatitis enteropathica
+Glucose-­galactose malabsorption
+Fanconi-­Bickel syndrome
+Lysinuric protein intolerance
+Chylomicron retention disease
+Abetalipoproteinemia
+Enterokinase deficiency
+Maltase-­glucoamylase deficiency
+Primary bile acid diarrhea
+Familial diarrhea syndrome
+Diarrhea-­associated DGAT1 variants
+Defects in Enterocyte Structure
+Congenital tufting enteropathy
+Microvillus inclusion disease
+Trichohepatoenteric syndrome (syndromic diarrhea)
+Neuro-­Enteroendocrine Diarrhea
+Enteric anendocrinosis
+Mitchell-­Riley syndrome
+Proprotein convertase 1/3 deficiency
+X-­linked lissencephaly
+Secretory tumors (e.g., neuroblastoma)
+Defects in Intestinal Immune-­Related 
+Homeostasis
+Cow’s milk or soy milk protein colitis
+Eosinophilic gastroenteritis and colitis
+Early-­onset enteropathy with colitis
+IPEX syndrome
+IPEX-­like disorders
+XIAP deficiency
+Autoimmune enteropathy
+Other primary immune deficiency disorders (e.g., SCID)
+Pancreatic Insufficiency
+Cystic fibrosis
+Shwachman-­Diamond syndrome
+Johansson-­Blizzard syndrome
+Pearson syndrome
+Disorders of Absorption and Trans­
+port of Nutrients and Electrolytes
+Lactose intolerance
+Secondary (e.g., postinfectious) lactase defi­
+ciency
+Congenital sucrose-­isomaltase deficiency
+Primary bile acid diarrhea
+Familial diarrhea syndrome
+Disorders of Intestinal Motility
+Toddler’s diarrhea
+Irritable bowel syndrome
+Infectious Etiologies
+Giardiasis
+Cryptosporidium
+Defects in Enterocyte Structure
+Trichohepatoenteric syndrome (syndromic 
+diarrhea)
+Neuro-­Enteroendocrine Diarrhea
+Proprotein convertase 1/3 deficiency
+X-­linked lissencephaly
+Secretory tumors (e.g., neuroblastoma, VIPoma)
+Defects in Intestinal Immune-­Related 
+Homeostasis
+Celiac disease
+Inflammatory bowel disease
+Eosinophilic gastroenteritis and colitis
+Early-­onset enteropathy with colitis
+XIAP deficiency
+Autoimmune enteropathy
+Pancreatic Insufficiency
+Cystic fibrosis
+Chronic pancreatitis
+Disorders of Absorption and Transport of 
+Nutrients and Electrolytes
+Lactose intolerance
+Laxative abuse
+Disorders of Intestinal Motility
+Irritable bowel syndrome
+Pseudoobstruction and bacterial overgrowth
+Infectious Etiologies
+Giardiasis
+Cryptosporidium
+Neuro-­Enteroendocrine Diarrhea
+Primary adrenal insufficiency
+Defects in Intestinal Immune-­Related 
+Homeostasis
+Inflammatory bowel disease
+Celiac disease
+Eosinophilic gastroenteritis and colitis
+Pancreatic Insufficiency
+Chronic pancreatitis
+DGAT1, diacylglycerol O-­acyltransferase 1; IPEX, immune disregulation, polyendocrinopathy, enteropathy, X-­linked; SCID, severe combined immu­
+nodeficiency; VIP, vasoactive intestinal peptide; XIAP, X-­linked inhibitor of apoptosis.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+244
+SECTION 4   Gastrointestinal Disorders
+disease outbreaks in the United States. Young children have the high­
+est incidence of infection. Transmission is via the fecal-­oral route or 
+through contaminated food or water. Norovirus gastroenteritis typ­
+ically presents with the abrupt onset of vomiting accompanied by 
+watery diarrhea, abdominal cramps, nausea, and vomiting. Systemic 
+manifestations, including myalgia, fatigue, and headache, may accom­
+pany gastrointestinal symptoms. Diagnosis is confirmed by nucleic 
+acid amplification assays that detect viral RNA from the stool. Noro­
+virus can cause persistent infection in immunocompromised patients 
+and is difficult to clear without reconstitution of the immune system.
+Bacterial Diarrhea
+Most bacterial diarrheal illnesses are foodborne and affect infants and 
+young children more frequently than adults. Bacterial infections of the 
+intestine cause diarrhea via direct invasion of the intestinal mucosa, 
+followed by intraepithelial cell multiplication or invasion of the lamina 
+propria. Cellular invasion may be followed by the production of cyto­
+toxin, which disrupts cell function, and/or the production of entero­
+toxin, which alters cellular electrolyte and water balance. Bacterial 
+adherence to the mucosal surface may result in flattening of the micro­
+villi and disruption of normal cell functioning. Symptomatic differen­
+tiation from viral causes of diarrhea may be difficult, and sequelae or 
+extraintestinal manifestations of infections are varied (see Table 14.7).
+Salmonella Infection
+Nontyphoidal Salmonella organisms are estimated to cause 1 million 
+annual gastrointestinal infections in the United States. The attack rate is 
+highest in infancy; the incidence of symptomatic infections is lower in 
+patients older than 6 years. Salmonella infection may cause an asymp­
+tomatic intestinal carrier state that is rare in children, enterocolitis 
+with diarrhea, or bacteremia without gastrointestinal manifestations 
+but with subsequent local infections, such as meningitis or osteomy­
+elitis. Salmonella infection is usually spread through contaminated 
+water supplies or food (e.g., meat, chicken, eggs, raw milk, and fresh 
+produce). Most infections in the United States are sporadic rather than 
+epidemic. Although an infected food handler may contaminate food 
+sources, farm animals or pets are more often the vector. Cats, turtles, 
+lizards, snakes, and iguanas may also harbor Salmonella organisms. 
+Outbreaks may occur among children in institutional settings; out­
+breaks in daycare centers are rare.
+After a 12-­ to 72-­hour incubation period, gastroenteritis devel­
+ops and is characterized by the sudden onset of diarrhea, abdominal 
+cramps and tenderness, and fever. The diarrhea is watery, with stools 
+containing polymorphonuclear leukocytes and, on occasion, blood. 
+The peripheral blood white blood cell count is usually normal. Symp­
+toms slowly resolve within 3–5 days, although excretion of the organ­
+ism may persist for several weeks. The organism is readily isolated from 
+culture of the stool or a rectal swab or may be identified via multiplex 
+PCR assays that detect multiple bacterial, viral, and parasitic enteric 
+pathogens.
+Shigella Infection
+Most Shigella infections in the United States occur in young children 
+aged 1–4 years, with a peak seasonal incidence in late summer and early 
+autumn. It may also be the most common bacterial cause of diarrhea 
+outbreaks in daycare settings. The organism is transmitted via the fecal-­
+oral route, most often by the hands. During a 12-­ to 72-­hour incubation 
+period, patients may develop a nonspecific prodrome characterized 
+by fever, chills, nausea, and vomiting. A predominantly rectosigmoid 
+colitis develops and results in abdominal cramps and watery diarrhea. 
+In more severe infections (bacillary dysentery), blood and mucus 
+are passed in small, very frequent stools (see Table 14.6). High fever 
+in young infants may induce febrile seizures, and some patients may 
+develop HUS. Bacterial culture of the stool or a rectal swab, or the use 
+of multiplex PCR assays, allows for differentiating this organism from 
+other pathogens. If positive, antibiotic treatment is usually indicated.
+Campylobacter Infection
+Many animal species, including poultry, farm animals, and household 
+pets, serve as reservoirs for Campylobacter jejuni. Transmission occurs 
+through ingestion of contaminated food, especially undercooked food, 
+and through person-­to-­person spread via the fecal-­oral route. The dis­
+ease is common in infants and adolescents, and both daycare and college 
+outbreaks have been reported. Asymptomatic carriage is uncommon. 
+Campylobacter infection symptoms may range from mild diarrhea to 
+frank dysentery. The organism causes diffuse, invasive enteritis that 
+involves the ileum and colon. Fever, cramping, abdominal pain, and 
+bloody diarrhea are characteristic and may mimic symptoms of acute 
+appendicitis or inflammatory bowel disease (IBD). Fever and diarrhea 
+usually resolve after 5–7 days; prolonged illness or relapse occasion­
+ally occurs. Campylobacter infection is also known to cause meningitis, 
+abscesses, pancreatitis, and pneumonia. Guillain-­Barré syndrome has 
+been reported after Campylobacter infection. Identification is via stool 
+or rectal swab bacterial culture or via multiplex PCR assay. If positive, 
+antibiotic treatment is indicated.
+Yersinia Infection
+Infection with either Yersinia enterocolitica or Yersinia pseudotubercu­
+losis may cause various clinical syndromes, including gastroenteritis, 
+TABLE 14.2  Differentiating Osmotic from 
+Secretory Diarrhea
+Osmotic
+Secretory
+Stool volume
+Small (<200 mL/24 hr)
+Large (>200 mL/24 hr)
+Response to fasting
+Diarrhea improves
+Diarrhea continues
+Stool sodium
+<70
+>70
+Stool osmotic gap*
+>50
+<50
+Stool pH
+<5
+>6
+*Stool osmotic gap = 290 − 2 (stool Na+ + stool K+).
+TABLE 14.3  Distinguishing Isolated Carbohydrate from Isolated Fat Malabsorption
+Isolated Carbohydrate Malabsorption
+Isolated Fat Malabsorption
+Stool character
+Loose and watery, non–foul-­smelling
+Bulky large stool, foul-­smelling, oil droplets visible
+Perianal rash/skin erosion
+Present
+Present
+Signs of fat-­soluble vitamin deficiency
+Variable
+Present
+Stool pH
+Acidic (usually <6)
+Alkaline
+Stool reducing/nonreducing substances
+Present
+Absent
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+245
+CHAPTER 14  Diarrhea
+mesenteric adenitis, pseudoappendicitis, and postinfectious reac­
+tive arthritis. The organism is present in animals and may be spread 
+to humans by consumption of undercooked meat (especially pork), 
+unpasteurized milk, and other contaminated foods. Person-­to-­person 
+spread also occurs. Young children are particularly susceptible to 
+disease, and the frequency of infections increases during the summer 
+months.
+The organisms may be identified via multiplex PCR assay or may be 
+cultured from rectal swab or stool specimens, but selective media are 
+required, and the organism may not be identified via culture for sev­
+eral weeks. The microbiology laboratory should be notified if Yersinia 
+infection is suspected. Neonates, immunocompromised patients, and 
+patients with bacteremia or extraintestinal infection should receive 
+antibacterial therapy; treatment decreases the duration of fecal excre­
+tion and can additionally be considered in immunocompetent patients 
+with moderate to severe symptoms.
+Escherichia coli Infection
+Although E. coli make up the predominant normal flora in the colon, 
+some strains are pathogenic. Diarrhea caused by E. coli can be watery, 
+inflammatory, or bloody, depending on the strain involved. These diar­
+rheagenic E. coli strains are classified into five major groups on the 
+basis of serogrouping or pathogenic mechanisms: (1) enteropathogenic 
+E. coli (EPEC), an important cause of diarrhea in infants; (2) entero­
+toxigenic E. coli (ETEC), a cause of diarrhea in infants and a cause of 
+traveler’s diarrhea; (3) enteroinvasive E. coli, a cause of watery ETEC-­
+like illness or, less commonly, a dysentery-­like illness; (4) enterohe­
+morrhagic E. coli, a cause of hemorrhagic colitis and HUS; and (5) 
+enteroaggregative E. coli, a cause of persistent diarrhea.
+Enteric infections with E. coli are acquired via the fecal-­oral route. 
+Enterohemorrhagic strains are the only diarrhea-­producing E. coli strains 
+common in the United States and have been associated with foodborne 
+epidemic outbreaks transmitted in some cases by undercooked meat.
+EPEC is a well-­established cause of infantile diarrhea, especially in 
+countries with a lower baseline socioeconomic status. Asymptomatic 
+carriage is common. At least two separate mechanisms are responsible 
+for diarrhea: adherence to intestinal epithelial cells leading to villous 
+injury and mucosal inflammation, and production of a toxin similar 
+to that of Shigella organisms. Chronic infection resulting in failure to 
+thrive may also occur.
+ETEC is the major cause of traveler’s diarrhea; occasional nosocomial 
+outbreaks have also occurred in hospitalized infants. At least three dif­
+ferent types of E. coli enterotoxins (heat-­labile, heat-­stable toxin A, and 
+heat-­stable toxin B) have been identified. Definitive diagnosis requires 
+enterotoxin identification, and this method is not widely available.
+Enterohemorrhagic E. coli produces a Shiga-­like cytotoxin and 
+causes diarrhea, hemorrhagic colitis, and, in about 20% of infected per­
+sons, hemolytic uremic syndrome (HUS). Both epidemic and sporadic 
+cases have been recognized. Infection is more common in the summer 
+and fall. A particular serotype, E. coli 0157:H7, has been linked to the 
+development of HUS in young children. The most common manifesta­
+tions of enterohemorrhagic E. coli infection begin with severe abdominal 
+cramps and watery diarrhea, followed by grossly bloody stools and eme­
+sis. Fever is uncommon. Fecal leukocytes are absent or few. Other man­
+ifestations include asymptomatic infection and watery diarrhea without 
+progression to hemorrhagic colitis. E. coli 0157:H7 is cleared from the 
+stool in 5–12 days. If HUS develops, symptoms become noticeable in 
+the week after the onset of diarrhea and consist of oliguric renal failure, 
+microangiopathic hemolytic anemia, thrombocytopenia, and diarrhea. 
+There is no role for antimicrobial therapy in enterohemorrhagic E. coli 
+disease. Antibiotics neither shorten the duration of disease nor prevent 
+progression to HUS; they may predispose to HUS.
+Clostridioides difficile Infection
+Clostridioides difficile (previously termed Clostridium difficile) causes 
+acute and chronic diarrhea in children when the normal colonic flora is 
+disrupted. Pseudomembranous colitis is the most severe form of this 
+TABLE 14.4  Differential Diagnosis of 
+Diarrhea by Pathophysiology
+Osmotic Diarrhea
+	1.	Carbohydrate malabsorption
+ • Lactose intolerance
+ • Osmotic laxatives (lactulose, polyethylene glycol 3350)
+ • Antacids (magnesium hydroxide)
+ • Ingestion of excessive amounts of nonabsorbable sugar or sugar alco­
+hols (sorbitol in chewing gum, diet candy, sucralose)
+ • Dietary ingestion of excessive fructose (high-­fructose corn syrup, 
+ingestion of high-­fructose–containing fruits in excessive amounts)
+ • Disaccharidase deficiency (sucrose-­isomaltase deficiency, glucose-­
+galactose malabsorption, maltase-­glucoamylase deficiency, congenital 
+lactase deficiency, trehalase deficiency)
+ • Gastrocolic fistula, jejunoileal bypass, short-­bowel syndrome
+	2.	Fat malabsorption
+ • Pancreatic insufficiency
+ • Defective handling of bile acids (e.g., primary bile acid malabsorption, 
+cholestasis)
+ • Defective mucosal lipid handling (e.g., intestinal lymphangiectasia, 
+abetalipoproteinemia, chylomicron retention disease)
+	3.	Protein malabsorption
+ • Primary enterokinase deficiency
+ • Hartnup disease
+Secretory Diarrhea
+	1.	Normal villous architecture
+ • Chloride-­losing diarrhea (Cl− − HCO−
+3  exchanger defect)
+ • Sodium-­losing diarrhea (Na+ − H+ exchanger defect)
+ • Familial diarrhea syndrome (gain-­of-­function variant of guanylate 
+cyclase 2C)
+ • Neurogenin-­3 pathogenic variants
+	2.	Villous atrophy
+ • Microvillus inclusion disease
+ • Tufting enteropathy
+ • Acrodermatitis enteropathica
+ • Trichohepatoenteric syndrome (phenotypic or syndromic diarrhea)
+ • Congenital disorders of glycosylation defects
+	3.	Autoimmune polyglandular syndrome type 1
+	4.	Neuroendocrine tumors
+Inflammatory (Combination of Secretory and Osmotic)
+	1.	Infectious
+	2.	Celiac disease
+	3.	Inflammatory bowel disease
+	4.	Autoimmune enteropathy and infantile-­onset inflammatory bowel disease
+ • Interleukin-­10 and interleukin-­10 receptor defects
+ • Hyperimmunoglobulin D from mevalonate kinase deficiency presenting 
+as severe neonatal colitis
+ • IPEX/IPEX-­like syndrome
+	5.	Postinfectious enteropathies
+	6.	Eosinophilic gastroenteritis
+	7.	Idiopathic
+Decreased Surface Area for Absorption
+	1.	Short-­bowel syndrome
+IPEX, immune disregulation, polyendocrinopathy, enteropathy, X-­linked.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+246
+SECTION 4   Gastrointestinal Disorders
+infection, occurring as a result of a severe inflammatory response to the 
+C. difficile toxins. Transmission occurs through person-­to-­person con­
+tact and through environmental contamination via the spores formed 
+by C. difficile, which retain viability for up to 1 week on dry surfaces.
+The prevalence of carrier status for C. difficile in healthy, asymp­
+tomatic outpatients is as high as 50% in healthy infants but is usually 
+less than 5% in patients over 5 years of age. C. difficile and its toxin have 
+been identified in the feces of healthy infants in concentrations similar 
+to those found in adults with pseudomembranous colitis. The apparent 
+resistance of infants to C. difficile and its toxin is related to the devel­
+opmental absence of the toxin-­binding site in the immature intestine. 
+Asymptomatic carriage rates in hospitalized patients may be as high 
+as 20%. Infection is highly associated with recent antibiotic exposure, 
+particularly to broad-­spectrum antibiotics, which disrupt the endog­
+enous colonic flora that inhibits the growth of C. difficile. Other risk 
+factors for C. difficile diarrhea include IBD, cystic fibrosis, use of proton 
+pump inhibitors, indwelling enteral feeding tubes, and immunocom­
+promised status.
+TABLE 14.5  Common Gastrointestinal Pathogens and Their Key Epidemiologic Features
+Organism
+Key Epidemiologic Features
+Viruses
+Adenovirus
+Serotypes 40 and 41 among the leading causes of infantile gastroenteritis globally
+Astrovirus
+Outbreaks in closed populations
+Norovirus
+Most common cause of medically attended gastroenteritis in United States: winter vomiting illness; environmentally 
+hardy
+Rotavirus
+Most common global cause of gastroenteritis in young children, particularly in settings without rotavirus vaccination
+Sapovirus
+Mainly affects infants and toddlers
+Bacteria
+Aeromonas spp.
+Widely distributed in aquatic environments; may cause diarrhea or extraintestinal infection
+Bacillus cereus
+Vomiting illness; rare fatal cases with hepatic necrosis; testing for toxin available
+Campylobacter jejuni
+Associated with poultry; common cause of traveler’s diarrhea in Asia; associated with postinfectious arthritis and 
+Guillain-­Barré syndrome
+Clostridioides difficile
+Leading cause of mortality from gastrointestinal infection in United States: community acquired and antibiotic associ­
+ated
+Clostridium botulinum
+Vomiting illness due to preformed toxin ingestion; infant botulism due to germination of spores presents with progres­
+sive weakness
+Enteroaggregative Escherichia coli
+Persistent diarrhea in young children, associated with malnutrition
+Enterohemorrhagic E. coli (STEC)
+Associated with hemolytic uremic syndrome in children
+Enteroinvasive E. coli
+Associated with dysentery
+Enteropathogenic E. coli
+Acute watery diarrhea
+Enterotoxigenic E. coli
+Most common cause of traveler’s diarrhea
+Listeria
+Associated with raw dairy products; pregnancy complications with systemic illness
+Nontyphoidal Salmonella spp.
+Intestinal carriage can be prolonged
+Plesiomonas shigelloides
+May cause watery diarrhea, dysentery, or extraintestinal infection
+Shigella spp.
+Most common global cause of dysentery
+Staphylococcus aureus
+Vomiting due to preformed staphylococcal enterotoxin ingestion
+Vibrio cholerae
+Outbreaks of watery diarrhea associated with lack of sanitation and humanitarian crises
+Vibrio parahaemolyticus
+Associated with shellfish consumption
+Yersinia enterocolitica
+Zoonosis; able to grow in refrigerated food; associated with postinfectious polyarthritis
+Yersinia pseudotuberculosis
+Appendicitis-­like syndrome
+Protozoa
+Cryptosporidium hominis/parvum
+Major cause of childhood diarrhea in children in low-­income countries; daycare centers
+Cyclospora cayetanensis
+Opportunistic infection; associated with foodborne outbreaks
+Cystoisospora belli
+Tropical and subtropical areas; opportunistic infection
+Entamoeba histolytica
+May cause liver abscess
+Giardia lamblia
+Associated with drinking from contaminated streams; daycare centers
+Microsporidium
+Ubiquitous in the environment; opportunistic infection
+Parasites
+Anisakis simplex
+Vomiting illness after consuming raw fish
+STEC, Shiga toxin–producing enterohemorrhagic E. coli (original, alternative definition of enterohemorrhagic E. coli).
+Modified from Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Douglas, and Bennett’s Principles and Practices of Infectious Diseases. 9th ed. Phil­
+adelphia: Elsevier; 2020:1332, Table 96.1.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+247
+CHAPTER 14  Diarrhea
+TABLE 14.6  Clinical Syndromes Associated with Community-­Acquired Gastrointestinal 
+Infection
+Clinical Syndrome
+Signs and Symptoms
+Pathogenic Mechanism
+Example Pathogens
+Acute watery diarrhea*
+Loose stools, often with mucus but not blood
+Occasional vomiting and anorexia
+Low-­grade fever
+Malaise
+Local infection in the gut
+Norovirus genogroups I, II, and IV; enteric ade­
+novirus types 40 and 41; rotavirus; enterotoxi­
+genic Escherichia coli; enteropathogenic 
+E. coli; Cryptosporidium; Clostridium perfrin­
+gens; Bacillus cereus
+Dysentery (acute bloody 
+diarrhea)
+Loose stools with gross blood and mucus
+Fever
+Abdominal cramps and, in some cases, 
+tenesmus
+May be clinically toxic
+Local invasion of the gut
+Shigella, enteroinvasive E. coli, Campylobacter 
+jejuni, Entamoeba histolytica, nontyphoidal Sal­
+monella, Yersinia enterocolitica, Aeromonas, 
+Plesiomonas, Clostridioides difficile
+Profuse purging
+Copious watery stools resembling “rice water”
+Low-­grade fever
+Overt signs of dehydration
+Toxin mediated
+Vibrio cholerae O1 and O139, enterotoxigenic 
+E. coli
+Persistent diarrhea
+Similar to acute diarrhea, but symptoms persist 
+for at least 14 days
+Local infection in the gut and/or 
+immune compromise of host
+Giardia lamblia, Cryptosporidium hominis/
+parvum, Cystoisospora belli, Cyclospora caye­
+tanensis, enteropathogenic E. coli, enteroag­
+gregative E. coli
+Acute vomiting
+Sudden onset of nausea and vomiting
+Little or no diarrhea
+Local infection in the gut or 
+intoxication
+Norovirus, food poisoning due to Staphylococcus 
+aureus, Bacillus cereus
+Enteric fever
+Fever
+Lymphadenopathy
+Local invasion of the gut with 
+systemic spread
+Salmonella enterica serovar Typhi, S. enterica 
+serovar Paratyphi A, B, or C
+*Etiologic agents that can cause dysentery can also cause acute watery diarrhea.
+From Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Douglas, and Bennett’s Principles and Practices of Infectious Diseases. 9th ed. Philadelphia: 
+Elsevier; 2020:1335, Table 96.3.
+Symptoms: emesis,
+   low-grade/absent
+   fever; mild, crampy,
+   periumbilical pain;
+   watery diarrhea
+Causes: Non-
+   inflammatory diarrhea
+• Enteric viruses
+• Enterotoxin-producing
+  bacteria
+• Giardia and other
+  protozoa
+• Strongyloides
+Upper Intestinal Tract
+Symptoms: fever,
+  moderate to severe
+  abdominal pain,
+  tenesmus
+Causes: Inflammatory
+  diarrhea
+• Shigella spp.
+• Enteroinvasive E. coli
+• Campylobacter jejuni/coli
+• Yersinia enterocolitica
+• Enterohemorrhagic E. coli
+• Clostridioides difficile
+• Entamoeba histolytica
+Lower Intestinal Tract
+Symptoms: nausea,
+  emesis
+Causes:
+• Enteric viruses
+• Chemical
+   contaminants
+• Toxins
+Stomach
+Fig. 14.1  Localizing gastrointestinal tract 
+signs and symptoms and possible causes 
+of illness. (From Long SS, Prober CG, 
+Fischer M, eds. Principles and Practice 
+of Pediatric Infectious Diseases. 5th ed. 
+Philadelphia: Elsevier; 2018:54, Fig. 55.2.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+248
+SECTION 4   Gastrointestinal Disorders
+C. difficile infection should be considered in patients in whom 
+diarrhea develops during or within several weeks of antibiotic therapy. 
+Illness associated with this organism varies from a mild, self-­limited, 
+nonbloody diarrhea to severe hemorrhagic colitis, protein-­losing 
+enteropathy, toxic megacolon, colonic or cecal perforation, peritoni­
+tis, sepsis, shock, and death. In rare cases, manifestations of C. diffi­
+cile infection include fever or abdominal pain without diarrhea.
+The colitis is caused by potent toxins produced by the organism: 
+toxin A, a lethal enterotoxin that causes hemorrhage and fluid secretion 
+in the intestines, and toxin B, a cytotoxin detectable by its cytopathic 
+effects in tissue culture. Both toxins play a role in disease pathogenesis, 
+although toxin B may be more important.
+Recommendations for diagnosis of C. difficile infection are to con­
+sider a two-­step method to exclude false-­positive testing, particularly in 
+the setting of asymptomatic carriage in infants and younger children: 
+nucleic acid amplification testing to identify microbial toxin genes and an 
+enzyme immunoassay for toxins in stool. Testing is typically performed 
+only on patients with diarrhea who are not concurrently taking laxatives 
+or promotility agents that could otherwise explain the diarrhea; testing 
+may be considered for patients without loose stools if C. difficile–induced 
+ileus or toxic megacolon is suspected. Sigmoidoscopy or colonoscopy 
+reveals pseudomembranes in up to 50% of cases, typically in association 
+with more severe disease. Treatment is dependent on the severity of the 
+disease and whether the infection is primary or recurrent. Antibacterials 
+include metronidazole, oral vancomycin, and, in adults, fidaxomicin.
+Aeromonas Infection
+Aeromonas species are gram-­negative bacilli that are found in a vari­
+ety of freshwater sources and that are capable of causing a wide array 
+• Staphylococcus aureus (dairy, produce,
+   meats, eggs, and salads contaminated
+   with staphylococcal enterotoxins)
+• Bacillus cereus (cooked rice or other
+   prepared foods left out at room
+   temperature and contaminated with
+   enterotoxin)
+• Noroviruses
+• Anisakiasis (parasitic nematode found in
+   raw seafood)
+• Clostridium perfringens
+   (meat, poultry, and
+   gravy)
+• ETEC and enteric
+   viruses (contaminated
+   food and water)
+• Cryptosporidium parvum
+   (bovine fecal contamination
+   of water, unpasteurized
+   milk, or fresh produce)
+• Cyclospora cayetanesis
+   (berries, fresh basil)
+• Intestinal tapeworms
+   (undercooked beef,
+   pork, and fish)
+• Nontyphoidal salmonellosis
+   (meat, poultry, fresh produce,
+   peanut butter, eggs)
+• Campylobacter (poultry)
+• Enterohemorrhagic toxigenic
+   Escherichia coli (e.g., 0157:H7
+   EHEC or STEC) (ground beef,
+   unpasteurized juice, raw fruits
+   and vegetables)
+• Shigella (salads, poultry, dairy
+   products, raw vegetables)
+• Vibrio parahemolyticus (raw
+   shellfish)
+• Yersinia (undercooked pork,
+   unpasteurized milk or
+   fecally contaminated water)
+Suspecting a
+foodborne illness
+Vomiting is the
+predominant
+ symptom (usually
+within 6 hr)
+Diarrhea is the
+predominant symptom
+(1–7 days)
+Watery
+diarrhea
+Diarrhea with
+blood and mucus
+and fever
+Fig. 14.2  Differentiating causes of foodborne illness. EHEC, enterohemorrhagic Escherichia coli; ETEC, 
+enterotoxigenic E. coli; STEC, Shiga toxin–producing E. coli.
+TABLE 14.7  Extraintestinal Manifestations 
+of Enteric Pathogens
+Manifestation
+Related Enteric Pathogens
+Erythema nodosum*
+Yersinia spp., Campylobacter spp., Salmo­
+nella spp.
+Glomerulonephritis*
+Shigella spp., Campylobacter spp., Yersinia spp.
+Guillain-­Barré syndrome*
+Campylobacter spp.
+Hemolytic anemia*
+Campylobacter spp., Yersinia spp.
+Hemolytic uremic syndrome*
+STEC
+Immunoglobulin A nephropathy*
+Campylobacter spp.
+Reactive arthritis*
+Salmonella spp., Shigella spp., Yersinia spp., 
+Campylobacter spp., Cryptosporidium spp.
+Postinfectious irritable bowel 
+syndrome
+Campylobacter spp., Salmonella spp., 
+Shigella spp., STEC, Giardia intestinalis
+Meningitis
+Listeria monocytogenes, Salmonella spp. 
+(infants ≤3 mo at high risk)
+Intestinal perforation
+Salmonella spp. (including Typhi), Shigella 
+spp., Campylobacter spp., Yersinia spp.
+Encephalopathy, seizure
+Shigella spp.
+Toxic megacolon
+Shigella spp., Clostridioides difficile
+Aortitis, osteomyelitis
+Salmonella spp.
+STEC, Shiga toxin–producing Escherichia coli.
+*Immune-­mediated extraintestinal manifestations.
+Modified from Long SS, Prober CG, Fischer M, eds. Principles and 
+Practice of Pediatric Infectious Diseases. 5th ed. Philadelphia: Elsevier; 
+2018:54, Table 55.3.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+249
+CHAPTER 14  Diarrhea
+of disease, including a mild, self-­limited diarrheal illness in children. 
+Occasionally, Aeromonas may cause dysentery or a protracted diarrheal 
+illness. The most common manifestation is a watery, nonbloody, non­
+mucoid diarrhea seen during the late spring, summer, and early fall. 
+More severe infections may resemble ulcerative colitis, with chronic 
+bloody diarrhea and abdominal pain.
+Plesiomonas Infection
+Plesiomonas shigelloides is a Vibrio-­like organism found in soil and 
+warmer (>8°C) fresh or brackish water that is sometimes implicated in 
+childhood diarrhea. It has been linked to consumption of raw shellfish 
+or contaminated water, exposure to reptiles and tropical fish, and travel 
+to endemic areas. The organism is most frequently found in subtropical 
+or tropical climates though has a wide geographic distribution. After an 
+incubation period of 1–2 days, patients typically develop watery diar­
+rhea and vomiting, although some may develop dysentery. Diagnosis 
+is via stool culture. Symptoms may last up to 2 weeks, although the 
+disease is typically self-­limited in immunocompetent individuals.
+Parasitic Diarrhea
+Giardiasis
+Giardia intestinalis is a flagellated protozoan that can cause diarrhea, 
+malabsorption, abdominal pain, and weight loss. It spreads through con­
+taminated food and water, as well as through person-­to-­person contact 
+via the fecal-­oral route. The latter mode of transmission is responsible for 
+outbreaks of diarrhea in daycare centers and residential facilities. Infec­
+tion is often asymptomatic. Symptomatic illness usually develops 1–3 
+weeks after exposure and may mimic acute gastroenteritis with low-­grade 
+or no fever, nausea, vomiting, and watery diarrhea. In some patients, a 
+chronic illness develops, characterized by intermittent, foul-­smelling 
+diarrhea, abdominal bloating, nausea, abdominal pain, and weight loss. 
+Up to 40% of patients may develop secondary lactase deficiency follow­
+ing infection. Diagnosis is via EIA or direct fluorescent antibody (DFA) 
+tests, which offer superior sensitivity and specificity compared to micros­
+copy. If microscopy is performed, three separate samples of fresh stool 
+should be examined for cysts or trophozoites, because excretion of the 
+organism is only intermittent. Treatment is typically indicated in the 
+presence of symptoms, to prevent institutional outbreaks, or to prevent 
+spread to immunocompromised individuals.
+Entamoeba histolytica Infection
+Entamoeba histolytica is acquired in warm climates via the ingestion 
+of cysts in fecally contaminated food or water. Infected individuals 
+are often asymptomatic. Amebic dysentery may occur, but hepatic 
+abscess and other focal infections are uncommon. Because cysts 
+are shed in the stool on an intermittent basis, examination of sev­
+eral fecal specimens may be required for identification. Stool anti­
+gen detection assays allow for differentiation between E. histolytica 
+and the more prevalent though less pathogenic E. dispar, which may 
+also be detected on microscopy. Treatment is indicated to prevent 
+the development of extraintestinal manifestations or spread to other 
+individuals.
+Cryptosporidium Infection
+This intracellular protozoan causes watery diarrhea in both immu­
+nocompetent and immunocompromised hosts and is an important 
+cause of severe diarrhea in individuals infected with HIV. Cryp­
+tosporidium has also been recognized as an occasional cause of 
+self-­limited diarrhea in travelers, as well as in children in daycare 
+centers and persons in residential institutions. The mechanisms 
+by which these organisms cause diarrhea are unknown. Nucleic 
+acid amplification assays and EIA tests are available for diagnosis. 
+Identification via microscopy requires specialized staining tech­
+niques that should be requested if Cryptosporidium infestation is 
+suspected.
+Other Causes of Acute Diarrhea
+Parenteral Secondary Diarrhea
+Acute diarrhea that accompanies infections outside of the gastroin­
+testinal tract is termed parenteral diarrhea. Upper respiratory tract 
+and urinary tract infections may be associated with increased bowel 
+movement frequency or stool water. The mechanism is unclear but may 
+involve alterations in bowel motility, changes in diet, or the effects of 
+antibiotic treatment.
+Medications
+Various nonlaxative prescription and over-­the-­counter medications 
+may cause acute diarrhea (Table 14.9). The most implicated agents are 
+antibiotics, acting through mechanisms other than C. difficile.
+TABLE 14.8  Assessment of Degree of Dehydration
+General Appearance
+Mild
+Moderate
+Severe
+Infants/young children
+Thirsty; alert; restless
+Thirsty; restless or listless
+Drowsy or lethargic; limp, cold, sweaty, cyanotic
+Older children
+Thirsty; alert; restless
+Thirsty; alert (usually)
+Usually conscious (but at reduced level), apprehensive; 
+cold, sweaty, cyanotic extremities; wrinkled skin on 
+fingers/toes; muscle cramps
+Signs and Symptoms
+Tachycardia
+Absent
+Present
+Present
+Palpable pulses
+Present
+Present (weak)
+Decreased
+Blood pressure
+Normal
+Orthostatic hypotension
+Hypotension
+Cutaneous perfusion
+Normal
+Normal
+Reduced/mottled
+Skin turgor
+Normal
+Slight reduction
+Reduced
+Fontanel
+Normal
+Slightly depressed
+Sunken
+Mucous membranes
+Moist
+Dry
+Very dry
+Tears
+Present
+Present/absent
+Absent
+Respirations
+Normal
+Deep, may be rapid
+Deep and rapid
+Urine output
+Normal
+Oliguria
+Anuria/severe oliguria
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+250
+SECTION 4   Gastrointestinal Disorders
+Food Poisoning (Table 14.10; see Fig. 14.2)
+Staphylococcal food poisoning results from ingestion of preformed 
+enterotoxin, produced in contaminated food that has incubated at or 
+above room temperature for a suitable period. Staphylococcal food 
+poisoning is suggested by the sudden onset of vomiting that is followed 
+by explosive diarrhea, usually within 4–6 hours after ingestion of the 
+contaminated food. The illness is self-­limited and usually resolves 
+within 12–24 hours. The diagnosis is based on the typical historical 
+presentation. Treatment is supportive; antibiotics are not indicated.
+Bacillus cereus, a gram-­positive sporulating organism found in soil, 
+is usually associated with contamination of refried rice or vegetables. 
+Two food poisoning syndromes can occur. A short incubation period 
+disease (1–6 hours) results from ingestion of preformed toxin and is 
+characterized by nausea, vomiting, and diarrhea, similar to staphylo­
+coccal food poisoning. A long incubation period disease (8–16 hours) is 
+caused by in vivo production of an enterotoxin and is characterized by 
+abdominal pain, tenesmus, and profuse watery diarrhea. Vomiting is 
+usually absent. Both syndromes resolve spontaneously within 24 hours 
+and are managed with supportive care.
+Clostridium perfringens food poisoning has been associated with 
+ingestion of contaminated beef and poultry. The disease results from 
+the production and release of an enterotoxin into the lower bowel 8–24 
+TABLE 14.9  Medications and Substances 
+Associated with Diarrhea in Children
+Agent
+Mechanism
+Stimulant laxatives (e.g., senna, 
+bisacodyl)
+Increased intestinal secretion (phenol­
+phthalein, bisacodyl)
+Antacids
+Osmotic effect (Mg2+)
+Prokinetic agents
+Increased peristalsis (metoclopramide, 
+bethanechol, cisapride)
+Measles-­mumps-­rubella vaccine
+Unknown
+Thyroid hormone
+Increased peristalsis
+Chemotherapeutics
+Intestinal mucosal injury
+Heavy metals
+Toxic effect
+Organophosphates
+Cholinergic effects
+Diuretics
+Unknown
+Digitalis
+Unknown
+Colchicine
+Unknown
+Indomethacin
+Prostaglandin synthesis inhibition
+Theophylline
+Increased peristalsis
+TABLE 14.10  Foodborne Gastrointestinal Illnesses
+Cause
+Incubation 
+Period
+Clinical Clues
+Common Vehicle
+Diagnosis
+Heavy metals (copper, 
+zinc, cadmium, tin)
+Minutes to 2 hr
+Metallic taste, diarrhea, promi­
+nent vomiting, no fever
+Carbonated or acidic beverages in 
+metal containers
+Chemical study of implicated beverage
+Mushroom poisoning*
+Minutes to 2 hr
+Altered mental status with visual 
+disturbance (encephalopathy)
+Noncommercially obtained mushrooms
+Identify mushroom and/or toxic chemical 
+(e.g., muscarine, psilocybin)
+Fish/shellfish-­related toxins*
+Scombrotoxin 
+poisoning
+Minutes to 2 hr
+Histamine reaction: flushing, 
+headache, dizziness, burning of 
+throat and mouth
+Scombridae fish (includes tuna, mack­
+erel, and bonito species), mahi-­mahi
+Identify fish and/or chemical toxin (cig­
+uatoxin, tetrodotoxin, histamine, etc.)
+Paralytic shellfish 
+poisoning
+Minutes to 2 hr
+Paresthesia, dizziness, sometimes 
+paralysis
+Mussels, clams, oysters, scallops 
+contaminated with toxins, typically 
+from dinoflagellate algae species
+Tetrodotoxin 
+­poisoning
+Minutes to 2 hr
+Paresthesia
+Various pufferfish and angelfish 
+species. The toxin is produced by 
+symbiotic or infecting bacteria in the 
+fish species
+Ciguatoxin poisoning
+2–24 hr
+Itching, arthralgia, metallic taste, 
+paresthesia, cramps, visual 
+disturbances, “loose” painful 
+teeth
+Barracuda, red snapper, grouper, 
+amberjack
+Norovirus
+24–48 hr
+Epidemic watery diarrhea
+Contaminated ice machines, shellfish, 
+ready-­to-­eat foods
+Nucleic acid amplification assays
+Staphylococcal entero­
+toxins
+2–8 hr
+Prominent vomiting, no fever, 
+duration <24 hr
+Ham, poultry, pastries (cream-­filled), 
+mixed salads, egg salad
+Identification of preformed toxin or 
+isolation of 105 colony-­forming units of 
+organism from food
+Bacillus cereus
+Emetic form: short 
+incubation
+2–8 hr
+Prominent vomiting, no fever, 
+duration <48 hr
+Fried rice, macaroni and cheese, vege­
+tables, other ready-­to-­eat foods left 
+at room temperature. Symptoms and 
+rapidity of onset are due to presence 
+of preformed toxin
+Identification of preformed toxin or 
+isolation of 105 colony-­forming units of 
+organism from food
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+251
+CHAPTER 14  Diarrhea
+hours after ingestion of the vegetative form of the organism. Onset is 
+sudden, with abdominal pain and watery diarrhea. Fever and vomiting 
+are absent. Treatment is supportive.
+CHRONIC DIARRHEA
+The etiology of chronic diarrhea is dependent on the age of the patient 
+(see Table 14.1) and is additionally influenced by socioeconomic fac­
+tors and the clinical setting. In countries with a lower baseline socio­
+economic status, chronic diarrhea may be caused by acute infections, 
+as malnutrition can prolong the course of infectious enterocolitis. The 
+most common etiologies of chronic diarrhea in countries with a higher 
+baseline socioeconomic status are functional intestinal disorders, 
+nutrient malabsorption (e.g., cystic fibrosis), celiac disease, and IBD, 
+but persistent infections of the intestinal tract may also occur. Neona­
+tal or early-­infancy-­onset chronic diarrhea is often due to monogenic 
+disorders (Tables 14.11 and 14.12).
+History
+The history should establish the age of onset, as well as the frequency 
+and nature of the stools, including the presence of blood, nighttime 
+stooling, urgency, weight loss, and any associated systemic symptoms. 
+History should also ascertain any recent travel, other sick contacts, 
+or swimming in freshwater sources. A history of recurrent infec­
+tions, use of intravenous drugs, or other signs, symptoms, or risk 
+factors for immunodeficiency should be documented. Family history 
+should be probed for the presence of gastrointestinal disorders or 
+immunodeficiency.
+Physical Examination
+Hydration status should be assessed. Growth parameters should be 
+obtained and charted on age-­matched growth charts. The physical 
+examination should assess for signs of malnutrition, vitamin and 
+micronutrient deficiency, and dermatologic manifestations of systemic 
+diseases. Jaundice may suggest hemolysis or hepatic dysfunction. Signs 
+of fat-­soluble vitamin deficiency include bone deformities in vitamin 
+D deficiency, dry scaly skin and Bitot spots (superficial buildup of 
+keratin in the conjunctivae) in vitamin A deficiency, hyporeflexia or 
+gait abnormalities in vitamin E deficiency, and bruises or bleeding in 
+vitamin K deficiency. Joint examination may reveal arthritis associated 
+with IBD. Abdominal examination may reveal evidence suggestive of 
+neuroendocrine tumors, and perianal examination may reveal evi­
+dence of IBD (fistula, skin tags).
+Diagnostic Evaluation
+The clinician should try to focus the diagnostic evaluation on only 
+those conditions suggested by the history and physical examination. 
+Invasive diagnostic procedures should be limited to those patients 
+whose presentation contains red flags for serious disease (Table 14.13). 
+Laboratory investigation should begin with microbiologic studies 
+for bacteria and parasites in the stool. Acute infection with bacteria, 
+such as Yersinia, E. coli, and Salmonella, may develop into a chronic 
+TABLE 14.10  Foodborne Gastrointestinal Illnesses—cont’d
+Cause
+Incubation 
+Period
+Clinical Clues
+Common Vehicle
+Diagnosis
+Diarrheal form: longer 
+incubation
+8–14 hr
+Abdominal cramps, severe diar­
+rhea, no fever, duration <48 hr
+Fried rice, macaroni and cheese, vege­
+tables, other ready-­to-­eat foods left 
+at room temperature. Symptoms are 
+due to in vivo toxin production
+Identification of preformed toxin or 
+isolation of 105 colony-­forming units of 
+organism from food or stool
+Clostridium perfringens
+8–14 hr
+Abdominal cramps, severe diar­
+rhea, no fever, duration <48 hr
+Meat, poultry, gravy
+Identification of preformed toxin or 
+isolation of 105 colony-­forming units of 
+organism from food or stool
+Enterotoxigenic Esche­
+richia coli (ETEC)
+12 hr to several 
+days
+Abdominal cramps, watery 
+diarrhea may be prolonged up 
+to 7 days
+Incomplete data (rarely reported)
+Identification of enterotoxin or isolation 
+of organism from stool
+Invasive E. coli
+12 hr to days
+Prolonged febrile diarrhea and/or 
+dysentery
+Incomplete data (rarely reported)
+Isolation of organism from stool
+Vibrio cholerae
+12 hr to days
+Abdominal cramps, watery diar­
+rhea (rice-­water stools). May be 
+prolonged up to 1 wk
+Contaminated food and water (very 
+rare in United states)
+Isolation of organism from food or stool
+Vibrio parahaemolyticus 12 hr to days
+Prolonged febrile diarrhea and/or 
+dysentery
+Seafood
+Stool culture (or food culture)
+Shigella species
+12 hr to days
+Prolonged febrile diarrhea and/or 
+dysentery
+Fish, mixed salads
+Stool culture (or food culture)
+Campylobacter species
+12 hr to days
+Prolonged febrile diarrhea and/or 
+dysentery
+Unpasteurized milk, poultry or meat
+Stool culture (or food culture)
+Clostridium botulinum
+12 hr to days
+Diarrhea, constipation
+Guillain-­Barré syndrome
+Home-­canned foods, fish, honey
+Botulinum toxin in food, stool, and 
+serum
+Yersinia enterocolitica
+Uncertain
+Prolonged diarrhea and/or 
+dysentery
+Milk, pig intestine
+Stool culture
+*Potentially dangerous; observation in hospital often required.
+Modified from Reilly BM. Practical Strategies in Outpatient Medicine. 2nd ed. Philadelphia: WB Saunders; 1991:888.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+252
+SECTION 4   Gastrointestinal Disorders
+TABLE 14.11  Disorders Leading to Early-­Onset Chronic Diarrhea
+Category
+Disorder
+Gene(s) Involved
+Inheritance
+Features
+Defects in epithe­
+lial nutrient and 
+­electrolyte transport
+Congenital chloride 
+diarrhea
+SLC26A3
+AR
+ • High chloride in stools
+ • Founder effect from Saudi Arabia (Taif region) and Finland
+ • Premature with IUGR
+ • Absence of meconium
+ • Polyhydramnios and dilated loops of bowel on prenatal imaging, 
+abdominal distension after birth
+ • 24% had renal involvement (chronic kidney disease)
+ • Dental carries
+ • Some overlap with Bartter and Gitelman syndrome
+Congenital sodium 
+diarrhea
+SLC9A3
+GUCY2C
+AR
+AD
+ • Increased risk of development of IBD
+ • Polyhydramnios and dilated loops of bowel on prenatal imaging
+ • High sodium in stools
+ • Diarrhea may improve with time
+Glucose-­galactose 
+malabsorption
+SLC5A1
+AR
+ • Treatment requires avoidance of all sugars other than fructose
+Primary bile acid diarrhea
+SLC10A2
+SLC51B
+AR
+AR
+ • Associated with cholestasis, increased gamma-­glutamyl trans­
+ferase level, and fat-­soluble vitamin deficiency
+Acrodermatitis entero­
+pathica
+SLC39A4
+AR
+ • Perioral and extremity lesions, alopecia, and diarrhea
+ • Recurrent infection from immune dysfunction
+Defects in epithe­
+lial enzymes and 
+­metabolism
+Congenital lactase 
+deficiency
+LCT
+AR
+ • Rare form of inherited diarrhea
+Congenital sucrase-­
+isomaltase deficiency
+SI
+AR
+ • Bloating, diarrhea, and rarely associated with failure to thrive
+ • High prevalence in Greenland and Inuit (5%), with 0.2% preva­
+lence in Europeans
+ • Variable phenotype
+Trehalase deficiency
+TREH
+AR
+ • Up to 8% of Greenland population
+ • Similar to lactase deficiency
+Enterokinase deficiency
+TMPRSS15
+AR
+ • Deficiency of activator of pancreatic enzymes
+DGAT1 deficiency
+DGAT1
+AR
+ • Fat-­soluble vitamin deficiency
+ • Avoidance of enteral lipids seems to help
+Sieving protein-­losing 
+enteropathy
+PLVAP
+AR
+ • Protein loss of specific sizes
+ • Syndromic with hydrops, dysmorphic facies, cardiac and renal 
+abnormalities
+Abetalipoproteinemia
+MTTP
+AR
+ • Enterocytes show lipid-­filled vacuoles
+ • Steatorrhea and failure to thrive
+ • Later noted to have fat-­soluble vitamin deficiency and bleeding 
+issues
+Hypobetalipoproteinemia
+APOB
+AR
+Chylomicron retention 
+disease
+SAR1B
+AR
+Dyskeratosis congenita
+DKC1
+RTEL1
+X
+AR
+ • Nail pitting, leukoplakia, and immune defects
+Kabuki syndrome
+KMT2D
+AD
+ • Multiple congenital anomalies with varying phenotype
+Defects in epithelial 
+trafficking and 
+polarity
+Microvillus inclusion 
+disease
+MYO5B
+AR
+ • Microvilli seen on electron microscopy are periodic acid–Schiff 
+positive
+ • May be associated with Fanconi syndrome
+STX3
+AR
+ • Rare form. May be associated with neurologic findings
+Tufting enteropathy
+EPCAM
+AR
+ • Teardrop-­shaped tufts of enterocytes throughout the intestine
+Syndromic sodium-­losing 
+diarrhea
+SPINT2
+AR
+ • Phenotype similar to tufting enteropathy, but with sodium-­losing 
+diarrhea
+Trichohepatoenteric 
+syndrome
+TTC37
+AR
+ • Woolly hair, SCID-­like phenotype and hepatic defects
+SKIV2L
+AR
+Familial hemophagocytic 
+lymphohistiocytosis 
+type 5
+STXBP2
+AR
+ • Recurrence after HSCT, villous blunting
+Multiple intestinal 
+atresia
+TTC7A
+AR
+ • Variable phenotype with multiple intestinal atresia, SCID-­like 
+phenotype, and enterocolitis
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+253
+CHAPTER 14  Diarrhea
+TABLE 14.11  Disorders Leading to Early-­Onset Chronic Diarrhea—cont’d
+Category
+Disorder
+Gene(s) Involved
+Inheritance
+Features
+Enteroendocrine cell 
+dysfunction
+Enteric anendocrinosis
+NEUROG3
+AR
+ • Severe malabsorptive diarrhea, neonatal-­onset diabetes melli­
+tus, and normal intestinal biopsies
+Proprotein convertase 1/3 
+deficiency
+PCSK1
+AR
+ • Age-­dependent phenotype. Infants have TPN-­dependent 
+diarrhea and failure to thrive. Later appear to lose intestinal 
+phenotype and develop multiple endocrine abnormalities
+X-­linked lissencephaly 
+with abnormal genitalia
+ARX
+X
+ • Seizures, abnormal genitalia, survival between 6 days and 6 yr
+Mitchell-­Riley syndrome
+RFX6
+AR
+ • Lack of enteroendocrine cells
+Intractable congenital 
+diarrhea in infants
+ICR
+AR
+ • Secretory diarrhea caused by a noncoding variant with wide-­
+ranging effects on multiple intestinal genes
+Immune disregula­
+tion–associated 
+enteropathy
+Immune disregulation, 
+polyendocrinopathy, 
+enteropathy X-­linked
+FOXP3
+X
+ • Polyendocrinopathy
+Common variable 
+immune deficiency 
+(CVID) type 1
+ICOS
+AR
+ • Variable presentation. May have dietary-­induced diarrhea
+CVID type 8
+LRBA
+AR
+ADAM17 deficiency
+ADAM17
+AR
+ • Fatal in most patients
+EGFR deficiency
+EGFR
+AR
+ • Described in three patients
+CTLA-­4
+CTLA-­4
+AD
+ • Similar to LRBA. May respond to abatacept
+CD55 deficiency
+CD55
+AR
+ • Protein-­losing enteropathy and thrombosis
+X-­linked inhibitor of 
+apoptosis
+XIAP
+X
+ • Responsive to HSCT
+AD, autosomal dominant; AR, autosomal recessive; EGFR, epidermal growth factor receptor; HSCT, hematopoietic stem cell transplantation; IBD, 
+inflammatory bowel disease; IUGR intrauterine growth restriction; SCID, severe combined immunodeficiency; TPN, total parenteral nutrition; X, 
+X-­linked.
+From Elkadri AA. Congenital diarrheal syndrome. Clin Perinatol. 2020;47:87–104 (Table 2, pp 94–96).
+TABLE 14.12  Pancreatic Disorders Leading to Early-­Onset Chronic Diarrhea
+Cystic fibrosis
+AR
+Pathologic genetic variants involving 
+CFTR. More than 1,300 patho­
+logic genetic variants have been 
+described. Most common is patho­
+logic genetic variant ΔF508
+Meconium ileus in neonate
+Megacolon
+Chronic diarrhea from pancreatic insufficiency starting from 
+1 mo of age
+Failure to thrive
+Conjugated hyperbilirubinemia
+Low stool elastase
+High sweat chloride (>60 mEq/L)
+Newborn screening
+Molecular genetic testing
+Shwachman-­Diamond 
+syndrome
+AR
+SBDS gene in over 90%
+Chronic diarrhea from pancreatic insufficiency
+Bone marrow failure
+Skeletal changes
+Pancreatic lipomatosis on diagnostic imaging (ultrasound or 
+computed tomography)
+Clinical features
+Molecular genetic testing
+Johanson-­Blizzard 
+syndrome
+AR
+UBRI gene
+Chronic diarrhea from pancreatic insufficiency
+Dysmorphic features: aplastic alae nasi, extension of the 
+hairline to the forehead with upswept frontal hair, low-­set 
+ears, large anterior fontanel, micrognathia, thin lips, micro­
+cephaly, aplasia cutis (patchy distribution of hair with areas 
+of alopecia), dental anomalies, poor growth, and anorectal 
+anomalies (mainly imperforate anus)
+Clinical features
+Molecular genetic testing
+Pearson syndrome
+Sporadic: caused by de novo single, 
+large deletions of mtDNA, which 
+can range from 1,000 to 10,000 
+nucleotides
+Chronic diarrhea from pancreatic insufficiency
+Sideroblastic anemia, variable neutropenia, thrombocytope­
+nia, and vacuolization of bone marrow precursors
+Lactic acidosis and liver failure
+Clinical features
+Molecular genetic testing
+AR, autosomal recessive; CFTR, cystic fibrosis transmembrane conductance regulator; cGMP, cyclic immunoglobulin; mtDNA, mitochondrial DNA.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+254
+SECTION 4   Gastrointestinal Disorders
+illness and can be detected by routine stool cultures and multiplex PCR 
+assays. C. difficile testing should be performed, especially in the pres­
+ence of risk factors. Antigen detection and PCR-­based assays for Giar­
+dia and Cryptosporidium are more sensitive and specific than routine 
+microscopy-­based examinations and are indicated if these infections 
+are suspected.
+Except in the setting of neonatal-­onset diarrhea and factitious 
+diarrhea, stool electrolytes and osmolality are of limited use. The 
+differentiation of osmotic and secretory diarrhea is typically made 
+by a trial of fasting and determining if there is improvement in the 
+stool output: osmotic diarrhea improves or resolves upon fasting, 
+whereas secretory diarrhea does not. Stool reducing substances are 
+positive in the setting of osmotic diarrhea secondary to carbohy­
+drate malabsorption. In patients with osmotic diarrhea and negative 
+reducing substances, it is essential to determine whether steatorrhea 
+is present. If qualitative assays for fecal fat are negative, a more pre­
+cise indication of steatorrhea may be obtained by quantifying fecal 
+fat and calculating the coefficient of fat absorption, which requires 
+a 72-­hour collection of stool. Low fecal elastase suggests pancre­
+atic insufficiency. Elevated levels of stool α1-­antitrypsin (A1AT) 
+are suggestive of protein-­losing enteropathy (PLE). Elevated fecal 
+calprotectin or fecal lactoferrin are indicative of intestinal inflam­
+mation. The presence of fecal leukocytes or occult blood may indi­
+cate mucosal inflammation as well, though neither is sufficiently 
+sensitive nor specific.
+Blood tests should include a CBC to evaluate for anemia and 
+thrombocytosis, which may suggest blood loss and inflammation, 
+respectively. In the presence of anemia, red blood cell indices may 
+reveal a microcytosis potentially indicative of iron deficiency or a 
+macrocytosis suggestive of vitamin B12 or folate deficiency. A nor­
+mocytic anemia may be seen in chronic inflammatory diseases. 
+White blood cell count and differential and quantification of immu­
+noglobulins A, G, and M screen for immune deficiency disorders. 
+Elevated ESR and CRP indicate inflammation but are nonspecific. 
+Low albumin could be indicative of an inflammatory process or PLE. 
+Elevated antitissue transglutaminase immunoglobulin A (IgA) anti­
+body is sensitive and specific for celiac disease, but a low total serum 
+IgA level may result in a false-­negative test. Levels of the fat-­soluble 
+vitamins A, 25-­OH vitamin D, vitamin E, and vitamin K (reflected 
+by prothrombin time) may be measured if fat malabsorption is 
+suspected.
+The algorithmic approach to evaluating chronic diarrhea is depicted 
+in Figure 14.3A and B and is enumerated in Table 14.14.
+Disorders of Carbohydrate Malabsorption
+The brush border epithelium of the small bowel contains enzymes 
+necessary for carbohydrate digestion. These enzymes hydrolyze disac­
+charides and oligosaccharides into monosaccharides that are then 
+absorbed by transporters on the luminal surface of enterocytes. Carbo­
+hydrate malabsorption is secondary to either deficiency of a particular 
+enzyme (e.g., congenital sucrase-­isomaltase deficiency) or an abnor­
+mality in a transport protein involved with the absorption of monosac­
+charides (e.g., glucose-­galactose malabsorption). The onset of various 
+carbohydrate malabsorption syndromes can vary based on the timing 
+of the introduction of particular carbohydrates (Table 14.15).
+Patients with carbohydrate malabsorption disorders present with 
+severe watery diarrhea, which results from osmotic action exerted by 
+the malabsorbed carbohydrate in the intestinal lumen. Colonic bac­
+teria ferment the malabsorbed sugars, which generates a mixture of 
+gases (e.g., hydrogen, methane, and carbon dioxide) and short-­chain 
+fatty acids. These gases form the basis of carbohydrate-­specific breath 
+hydrogen testing, which is often used in diagnosis. The stools become 
+acidified to a pH of less than 7, which can lead to diaper dermatitis.
+Disaccharidase Deficiency
+Congenital sucrase-­isomaltase deficiency (CSID). CSID is an 
+inherited deficiency of the ability to hydrolyze sucrose, maltose, and 
+starch. Exposure to these substances leads to osmotic diarrhea, pain, 
+bloating, abdominal distension, and, at times, chronic malnutrition and 
+failure to thrive. The sucrase-­isomaltase gene is located on chromosome 
+3 (3q25.2-­q26.2) and more than 25 pathogenic variants in the gene 
+have been identified. These variants result in a variety of defects in the 
+structure and function of the enzyme, including isolated deficiencies 
+in sucrase activity or isomaltase activity. This genetic heterogeneity 
+results in phenotypic variability ranging from completely absent to 
+low-­residual sucrase activity, and from completely absent to normal 
+isomaltase activity. Because sucrase-­isomaltase is responsible for up 
+to 80% of the maltase activity in the brush border, maltase activity is 
+significantly reduced in almost all cases.
+The exact prevalence of CSID is unclear, although rates are as 
+high as 10% in the Greenland Inuit population, 7% in Canadians of 
+indigenous ancestry, and about 3% in Alaskans of indigenous ances­
+try. Estimates of the prevalence of CSID in other North American and 
+European populations generally range from 1 in 500 to 1 in 2,000.
+The classic presentation of CSID is severe watery diarrhea, failure 
+to thrive, irritability, and diaper dermatitis in a 9-­ to 18-­month-­old 
+infant who has been exposed to sucrose and starch in the form of 
+fruit juices, fruit purees, and starch-­laden foods such as crackers and 
+cookies (see Table 14.4). Intrinsic factors that contribute to the sever­
+ity of presentation during infancy include the shorter length of the 
+colon and a decreased capacity for colonic reabsorption of fluid and 
+electrolytes, more rapid small intestinal transit, a high-­carbohydrate 
+diet, and lower levels of amylase prior to 2 years of age. Some patients 
+with milder sucrase deficiency may improve with age as their colonic 
+bacteria develop an increased capacity to ferment residual sucrose 
+and the intestinal tract develops an increased capacity for reabsorp­
+tion. Patients may be misdiagnosed as having food allergies or irritable 
+bowel syndrome (IBS) or may remain undiagnosed. Symptoms may 
+abate with the restriction of carbohydrate in the diet or with the use of 
+enteral sucrase enzyme supplements.
+Diagnosis typically involves endoscopy for histologic examination 
+of small bowel morphology and measurement of disaccharidase levels 
+on biopsy specimens. Diagnosis requires the following:
+	1.	 Normal small bowel morphology
+	2.	 Absent or markedly reduced sucrase activity
+	3.	 Isomaltase activity varying from absent to full activity
+TABLE 14.13  Red Flags in the Evaluation 
+of Diarrhea
+Presence of blood in stools
+Iron-­deficiency anemia
+Persistent right upper or right lower quadrant abdominal pain
+Involuntary weight loss or growth failure
+Delayed puberty
+Presence of associated symptoms, such as unexplained fever, suggesting 
+inflammatory arthritides or other systemic diseases
+Nocturnal fecal urgency or diarrhea
+Perirectal/perianal disease
+Persistent dysphagia
+Edema, hypoalbuminemia
+Cutaneous lesions
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+255
+CHAPTER 14  Diarrhea
+Stool studies for:
+Ova and parasites
+pH
+Reducing substances
+Stool culture and/or
+   nucleic acid
+   amplification assays
+Food protein–induced 
+enterocolitis syndrome 
+(see Chapter 15)
+Bacterial 
+gastroenteritis
+Clostridioides 
+difficile
+Consider:
+Stool for blood, fecal leukocytes,
+   ova and parasites, fecal fat
+Stool culture
+Stool for Giardia antigen
+Clostridioides difficile toxin
+CBC
+ALT
+GGT
+Sweat chloride
+Stool and serum electrolytes
+Serum zinc level
+Immunoglobulins 
+Postinfectious
+enteritis
+Excessive juice 
+(sorbitol) intake
+Hirschsprung
+disease
+Postinfectious enteritis
+Protozoa (Giardia,
+Cryptosporidium) 
+Excessive juice
+(sorbitol) intake
+Carbohydrate malabsorption
+(congenital disaccharidase 
+deficiciency)
+Bacterial gastroenteritis
+Cystic fibrosis
+Protozoa (e.g., Giardia)
+Shwachman-Diamond
+   syndrome
+Hepatic disorders
+   (cholestasis)
+Immune deficiency
+Autoimmune enteropathy
+   (IPEX/IPEX-like disorders)
+Congenital chloride-losing
+   diarrhea
+Bacterial gastroenteritis
+Acrodematitis enteropathica
+Food protein–induced
+   enteropathy
+Postinfectious
+   enteritis
+Excessive juice
+   (sorbitol) intake
+Protein-calorie
+   malnutrition
+Factitious disorder by
+   proxy
+Microvillus inclusion
+   disease
+A
+CHRONIC DIARRHEA IN INFANTS <6 MONTHS OF AGE
+Blood-tinged diarrhea
+Normal
+results
+Abnormal
+results
+Normal
+results
+Abnormal
+results
+Normal
+results
+Abnormal
+results
+YES
+NO
+Weight loss or poor weight gain
+Stool culture
+± Clostridioides difficile toxin
+NO
+YES
+Fig. 14.3  A, The algorithmic approach to chronic diarrhea in infants younger than 6 months of age. ALT, ala­
+nine aminotransferase; GGT, gamma-­glutamyl transferase; IPEX, immune disregulation, polyendocrinopathy, 
+enteropathy, X-­linked.
+	4.	 Reduced maltase activity
+	5.	 Normal lactase activity, or in the setting of reduced lactase, a 
+sucrase: lactase ratio of <1.0
+Other less invasive methods of diagnosis include sucrose breath 
+hydrogen quantification and differential urinary disaccharide assess­
+ment; however, both modalities are associated with high false-­positive 
+and false-­negative rates. Furthermore, differential urinary disaccharide 
+testing requires a 10-­hour urine collection specimen, which is often 
+impractical in infants and younger children.
+Maltase-­glucoamylase deficiency. Maltase-­glucoamylase is a 
+brush border hydrolase that serves as an alternate pathway for starch 
+digestion that complements sucrase-­isomaltase activity. Congenital 
+maltase-­glucoamylase deficiency is rare, with only several cases 
+described in the literature. Genetically, maltase-­glucoamylase 
+shares approximately 59% of its sequence with sucrase-­isomaltase, 
+and the enzyme has two catalytic sites that are identical to those of 
+sucrase-­isomaltase. Symptoms are similar to those seen in CSID. 
+Diagnosis requires the demonstration of reduced glucoamylase activity 
+in the setting of normal small bowel histology and normal pancreatic 
+amylase activity.
+Congenital glucose-­galactose malabsorption (CGGM). Congenital 
+glucose-­galactose malabsorption results from defective sodium-­
+coupled transport of glucose and galactose into enterocytes. It is a rare 
+autosomal recessive disorder that results from pathogenic variants in 
+the sodium-­glucose cotransporter gene SGLT1 located on chromosome 
+22q12.3. CGGM presents as a neonatal-­onset profuse, watery diarrhea 
+that ceases immediately following the elimination of glucose and 
+galactose sources from the diet. Symptoms recur if the patient is fed 
+formula containing either of these carbohydrates, including polymers 
+such as sucrose and lactose. The disorder may lead to dehydration and 
+electrolyte abnormalities, both of which can become life threatening, 
+and patients may be hypoglycemic. Stool reducing substances are 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+256
+SECTION 4   Gastrointestinal Disorders
+positive secondary to the presence of glucose in the stools. Intestinal 
+morphology is normal. The diagnosis can be further established by 
+an abnormal glucose breath hydrogen test and SGLT1 sequencing, 
+although neither is required to confirm the diagnosis.
+Congenital lactase deficiency. A rare autosomal recessive disorder 
+leading to very low or complete absence of brush border lactase-­
+phlorizin hydrolase activity, congenital lactase deficiency usually 
+presents with diarrhea starting soon after the introduction of breast 
+milk or any lactose-­containing formula. Most infants manifest within 
+the first 10 days of life. Unless the disorder is recognized and treated 
+quickly, the condition is life-­threatening secondary to dehydration and 
+electrolyte abnormalities. Small bowel biopsies reveal normal histology 
+but low or completely absent lactase concentrations. A presumptive 
+diagnosis can be made if osmotic diarrhea in a neonate resolves by 
+introducing lactose-­free formula.
+Primary lactase deficiency (lactose intolerance). Approximately 65% 
+of the world’s population has primary lactase deficiency, although 
+prevalence varies by ethnicity. While primary lactase deficiency is 
+nearly universal in Asian and Native American populations and is as 
+high as 80% in Latino, Black, and Ashkenazi Jewish populations, as few 
+as 2% of individuals of northern European ancestry are affected. Age of 
+onset varies by ethnicity as well. Approximately 20% of Latino, Asian, 
+Consider: 
+Stool for blood, pH, reducing substances, ova and parasites
+Giardia antigen
+Cryptosporidium antigen
+Stool culture
+Clostridium difficile toxin
+Bacterial gastroenteritis
+Protozoa (Giardia)
+Clostridioides difficile
+Postinfectious enteritis
+Disaccharidase deficiencies
+Inflammatory bowel disease
+Consider:
+Stool studies for fecal leukocytes, fat, alpha-1-antitrypsin,
+   and elastase
+CBC with differential
+ALT
+GGT
+ESR
+CRP
+HIV testing
+Sweat chloride
+Antitissue transglutaminase immunoglobulin A
+Serum immunoglobulins
+Serum zinc level (if rash present)
+Excessive juice (sorbitol) intake
+Chronic nonspecific diarrhea (toddler’s
+   diarrhea)
+Postinfectious enteritis
+Lactose intolerance
+Irritable bowel syndrome
+Constipation with overflow incontinence
+Laxative abuse
+Factitious disorder or factitious disorder by proxy
+Postinfectious enteritis
+Congenital disaccharidase deficiencies
+HIV
+Cystic fibrosis
+Shwachman-Diamond syndrome
+Celiac disease
+Immune deficiency
+Autoimmune enteropathy (IPEX/IPEX-like disorders)
+Food protein–induced enteropathy
+Hepatic disorders (cholestastasis)
+Inflammatory bowel disease
+Acrodematitis enteropathica
+Protein-calorie malnutrition
+Intestinal telangectasias
+B
+CHRONIC DIARRHEA IN INFANTS >6 MONTHS OF AGE ( >2 WEEKS’ DURATION)
+Abnormal
+results
+Weight loss or
+poor weight gain
+YES
+NO
+YES
+NO
+Fig. 14.3,  cont’d  B, The algorithmic approach to chronic diarrhea in children older than 6 months of age. ALT, 
+alanine aminotransferase; GGT, gamma-­glutamyl transferase; IPEX, immune disregulation, polyendocrinop­
+athy, enteropathy, X-­linked. (Modified from Pomeranz AJ, Sabnis S, Busey SL, Kliegman RM, eds. Pediatric 
+Decision-­Making Strategies. 2nd ed. Philadelphia: Elsevier; 2016:87–89.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+257
+CHAPTER 14  Diarrhea
+and Black children younger than 5 years of age are affected, while White 
+children typically do not develop symptoms of lactose intolerance until 
+after 5 years of age. Children with clinical signs of lactose intolerance at 
+an earlier age than would be typical for their ethnicity may warrant an 
+evaluation for an alternate cause.
+Symptoms typically develop insidiously over the course of many years, 
+with most affected individuals experiencing onset of symptoms in late 
+adolescence or adulthood. Within 30 minutes to 2 hours of ingesting lac­
+tose, patients develop abdominal cramping and distension, foul-­smelling 
+flatulence, nausea, and diarrhea. While the severity of symptoms is directly 
+correlated with the quantity of ingested lactose, each individual exhibits a 
+unique dose threshold beyond which symptoms develop.
+Diagnosis is suggested historically. When lactose intolerance is sus­
+pected, a trial of a lactose-­free diet can aid in confirming the diagno­
+sis. Patients must be sure to eliminate all sources of lactose, including 
+some that may be hidden (Table 14.16). Generally, a 2-­week trial of a 
+strict lactose-­free diet producing resolution of symptoms, followed by 
+a subsequent reintroduction of dairy foods resulting in recurrence of 
+symptoms, is diagnostic. In subtler cases, hydrogen breath testing is the 
+least invasive and most helpful test to diagnose lactose malabsorption.
+Secondary lactase deficiency. Secondary lactase deficiency develops 
+when an inflammatory process, such as a viral gastrointestinal infection, 
+damages the brush border epithelium and leads to the loss of the lactase-­
+containing epithelial cells from the tips of the villi. The immature epithelial 
+cells that replace these are often lactase deficient, leading to lactose 
+malabsorption. Secondary lactase deficiency in most children with acute 
+gastroenteritis is rarely clinically significant. Most affected children can 
+safely continue breast milk or standard lactose-­containing formula without 
+any significant effects, although infants under 3 months of age may develop 
+TABLE 14.14  Diagnostic Studies in the 
+Evaluation of Chronic Diarrhea
+Initial Studies
+Stool examination for blood, leukocytes, reducing substances, and Clostridi­
+oides difficile toxin; stool examination for ova and parasites and cultures or 
+nucleic acid amplification testing for infectious pathogens
+Complete blood count
+Serum electrolytes, blood urea nitrogen, creatinine, calcium, phosphorus, 
+albumin, total protein
+Urinalysis and culture
+Stool electrolytes
+Fecal calprotectin or lactoferrin if inflammatory bowel disease suspected
+Second-­Phase Studies
+Sweat chloride test
+Breath analysis
+d-­Xylose test
+Serum carotene, folate, vitamin B12, and iron levels
+Fecal α1-­antitrypsin level
+Fecal fat studies or coefficient of fat absorption studies
+Fatty test meal, Lundh test meal
+Third-­Phase Studies
+Fat-­soluble vitamin levels: A, 25-­hydroxy D, and E
+Contrast radiographic studies: upper gastrointestinal series or barium 
+enema
+Small intestinal biopsy for histology and mucosal enzyme determination
+Bentiromide excretion test
+Specialized Studies
+Schilling test
+Serum/urine bile acid determination
+Endoscopic retrograde pancreatography
+Provocative pancreatic secretion testing
+Exome sequencing for monogenic disorders
+From Wyllie R, Hyams JS, eds. Pediatric Gastrointestinal Disease. 2nd 
+ed. Philadelphia: WB Saunders; 1999:283.
+TABLE 14.15  Typical Age of Presentation 
+of Carbohydrate Malabsorption Syndromes
+Carbohydrate Malabsorption 
+Syndrome
+Age of Symptom Onset
+Congenital glucose-­galactose malab­
+sorption
+Neonatal period
+Congenital lactase deficiency
+Sucrase-­isomaltase deficiency
+Weaning age
+Glucoamylase deficiency
+Primary lactase deficiency
+Uncommon before 2 or 3 yr of age
+Around 5 yr of age in Asian, Latino, 
+and Black populations
+Over 5 yr of age, more typically in 
+adolescence in Caucasians of 
+European descent
+TABLE 14.16  Hidden Sources of Lactose
+ • Bread and other baked goods
+ • Waffles, pancakes, biscuits, cookies, and the mixes to make them
+ • Processed breakfast foods such as doughnuts, frozen waffles and pan­
+cakes, toaster pastries, and sweet rolls
+ • Processed breakfast cereals
+ • Instant potatoes, soups, and breakfast drinks
+ • Potato chips, corn chips, and other processed snacks
+ • Processed meats such as bacon, sausage, hot dogs, and lunch meats
+ • Margarine
+ • Salad dressings
+ • Liquid and powdered milk-­based meal replacements
+ • Protein powders and bars
+ • Candies
+ • Nondairy liquid and powdered coffee creamers
+ • Nondairy whipped toppings
+ • Certain medications
+If a food label includes any of the following words, the product contains 
+lactose:
+ • Milk
+ • Lactose
+ • Whey
+ • Curds
+ • Milk by-­products
+ • Dry milk solids
+ • Nonfat dry milk powder
+From National Digestive Diseases Information Clearinghouse. Lactose 
+intolerance. 2015. http://digestive.niddk.nih.gov/ddiseases/pubs/lacto­
+seintolerance.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+258
+SECTION 4   Gastrointestinal Disorders
+clinically significant symptoms. Giardiasis, cryptosporidiosis, and other 
+parasites that infect the proximal small intestine often lead to lactose 
+malabsorption from direct injury to the epithelial cells by the parasite. 
+Secondary lactase deficiency with clinical signs of lactose intolerance can 
+be seen in celiac disease, Crohn disease, and immune-­related and other 
+enteropathies and should be considered if children with these diagnoses 
+have symptoms of lactose intolerance. Diagnostic evaluation should 
+be directed toward these entities when secondary lactase deficiency is 
+suspected and an infectious etiology is not found.
+Severe malnutrition can also produce secondary lactose intolerance 
+via small bowel atrophy. Most infants and children with malabsorp­
+tion attributable to malnutrition are able to continue to tolerate dietary 
+carbohydrates, including lactose. However, the World Health Organi­
+zation recommends avoidance of lactose in children with persistent 
+postinfectious diarrhea lasting more than 14 days, if they fail a dietary 
+trial of milk or yogurt. Treatment of secondary lactase deficiency and 
+lactose malabsorption attributable to an underlying condition gener­
+ally does not require elimination of lactose from the diet but, rather, 
+treatment of the underlying condition.
+Trehalase deficiency. Trehalose is an α(1,1)-­linked glucose dimer that 
+is produced by certain bacteria, fungi, plants, and invertebrates as an energy 
+source and as a method of surviving freezing temperatures or lack of water. 
+Potential dietary sources include mushrooms and processed foods that 
+have trehalose added to improve frozen shelf life. Symptoms are similar 
+to lactose intolerance. Deficiency is rare in most populations though is 
+estimated to affect up to 8% of the indigenous population in Greenland.
+Tables 14.11 and 14.12 list additional important causes of chronic 
+neonatal or infantile diarrhea.
+Functional Diarrhea (Chronic Nonspecific Diarrhea)
+Functional diarrhea, previously termed chronic nonspecific diar­
+rhea or toddler’s diarrhea, typically affects children between 1 and 3 
+years of age and is characterized by the passage of several watery and 
+unformed stools each day. Stools are typically relatively well formed in 
+the morning but become looser as the day progresses. The stools often 
+have undigested vegetable matter but lack blood, mucus, or excessive 
+fat. Children with functional diarrhea, if offered an unrestricted and 
+age-­appropriate diet, gain weight normally. However, in an attempt to 
+treat the diarrhea, many children are placed on restrictive diets that 
+may lack dairy, fats, and occasionally starches; such restrictions lead 
+to failure to thrive. Rome IV diagnostic criteria specify that all of the 
+following must be present:
+	1.	 Daily painless, recurrent passage of four or more large, unformed 
+stools
+	2.	 Symptoms lasting more than 4 weeks
+	3.	 Onset of symptoms between 6 and 60 months of age
+	4.	 No failure to thrive if caloric intake is adequate
+Chronic nonspecific diarrhea is thought to be a variant of IBS, and 
+a family history of IBS is common. The pathophysiology may involve 
+abnormal intestinal motility with decreased mouth-­to-­anus transit 
+time. Excessive fruit juice intake may also contribute to the diarrhea by 
+overwhelming the carbohydrate absorptive ability of the gut. Chronic 
+nonspecific diarrhea is a benign and self-­limited condition that usually 
+resolves without intervention by 3–4 years of age. Parents should be 
+reassured and encouraged to place the child on a regular, unrestricted 
+diet to provide adequate calories. The diarrhea often improves with 
+removal of prior dietary restrictions and by limiting fruit juice intake. 
+Some patients may improve with increasing the fat content of the diet 
+(e.g., switching from low-­fat milk to whole milk), which can slow gas­
+trointestinal transit time.
+Small Intestinal Bacterial Overgrowth
+The normal small intestine is colonized with relatively few bacteria, 
+typically <104 organisms/mL, with lower concentrations in the duo­
+denum and jejunum, and higher concentrations in the ileum. Various 
+conditions such as short bowel syndrome, malnutrition, pseudoob­
+struction, bowel strictures, and achlorhydria from medications such 
+as proton pump inhibitors may result in overgrowth of aerobic and 
+anaerobic bacteria in the small bowel. Symptoms of abdominal pain, 
+bloating, abdominal distension, and diarrhea arise as bile acids are 
+deconjugated and fatty acids are hydroxylated by bacteria, leading to an 
+osmotic diarrhea. The diagnosis can be made by breath hydrogen test­
+ing showing early and late rise in breath hydrogen after ingestion of lac­
+tulose. Quantitative jejunal aspirate cultures showing >105 organisms/
+mL are suggestive of small intestinal bacterial overgrowth, although 
+established cutoff ranges and specificity are imperfect.
+Irritable Bowel Syndrome
+IBS is characterized by recurrent abdominal pain and altered bowel 
+habits and typically presents in adolescence. Symptoms include abnor­
+mal stool frequency (either four or more stools per day or two or fewer 
+stools per week), abnormal stool form (either loose and watery or 
+lumpy and hard), abnormal passage of stool (e.g., straining, urgency, 
+feeling of incomplete evacuation), the passage of mucus, and bloating 
+or distension. Diagnosis requires that patients have a normal physical 
+examination and growth curve and meet both of the following criteria 
+at least once per week for at least 2 months before diagnosis:
+	1.	 Abdominal pain at least 4 days per month associated with one or 
+more of the following:
+	
+a.	 Pain related to defecation
+	
+b.	 Change in the frequency of stool
+	
+c.	 Change in the form or appearance of stool
+	2.	 After appropriate evaluation, the symptoms cannot be fully 
+explained by another medical condition
+The etiology and pathogenesis of IBS are not well understood. Vis­
+ceral hypersensitivity has been well documented in children with IBS. 
+Genetic predisposition, early stressful events, and ineffective coping 
+mechanisms are compounding factors. Additional mechanisms may 
+include infection, inflammation, intestinal trauma, allergy, and disor­
+dered gut motility.
+Celiac Disease
+Celiac disease is an immune-­mediated systemic disorder elicited by 
+exposure to gluten and related proteins in genetically susceptible indi­
+viduals. Clinical presentations vary, although the hallmarks of celiac dis­
+ease include enteropathy and the presence of disease-­specific antibodies. 
+Prevalence is as high as 1% in Western nations, with most affected indi­
+viduals presenting in childhood. A genetic predisposition is suggested 
+by familial aggregation and the high concordance in monozygotic twins, 
+which approaches 100%. A strong association with human leukocyte 
+antigen (HLA)-­DQ2.5, and to a lesser degree HLA-­DQ8, has been iden­
+tified. A family or personal history of autoimmune disease and certain 
+genetic conditions confers a higher risk (Table 14.17).
+The pathogenesis of celiac disease involves exposure to gliadin, 
+a protein component of wheat gluten, or structurally related storage 
+proteins (prolamines) found in rye and barley. Altered processing by 
+intraluminal enzymes, changes in intestinal permeability, and activa­
+tion of the innate immune response precede the development of an 
+adaptive immune response that results in systemic autoimmunity and 
+an inflammatory enteropathy characterized by villous atrophy, elon­
+gated crypts, and intraepithelial lymphocytosis.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+259
+CHAPTER 14  Diarrhea
+Celiac disease symptoms are protean and reflect its systemic 
+nature. The age of onset is variable, and a high degree of suspicion 
+is needed. Manifestations include recurrent abdominal pain, nausea 
+and vomiting, iron deficiency with or without anemia, short stature, 
+aphthous stomatitis, chronic fatigue, arthritis, raised aminotrans­
+ferase levels, and reduced bone mineral density (osteopenia). Rare 
+manifestations include ataxia; dermatitis herpetiformis, which 
+is a blistering rash with pathognomonic cutaneous IgA deposits; 
+and celiac crisis, which is a rare life-­threatening syndrome mostly 
+observed in children that is characterized by severe diarrhea, hypo­
+proteinemia, and metabolic and electrolyte imbalances. The classic 
+presentation of a toddler with chronic diarrhea, abdominal disten­
+sion, and failure to thrive is uncommon. Most patients are identified 
+via serologic screening in the context of a strong family history or 
+other risk factors.
+Serologic tests are the cornerstone of screening for celiac disease in 
+patients with risk factors or a suggestive history (Table 14.18). Estab­
+lishing the diagnosis is dependent on the levels of disease-­specific anti­
+bodies detected. Total serum IgA should be obtained to exclude IgA 
+deficiency. If total serum IgA is normal and antitissue transglutami­
+nase IgA antibodies are negative, celiac disease is unlikely. Patients with 
+positive antitissue transglutaminase IgA antibodies that are <10 times 
+the upper limit of normal should undergo upper endoscopy with mul­
+tiple biopsies. If biopsies demonstrate total or partial villous atrophy, 
+elongated crypts, and increased intraepithelial lymphocytes (>25 lym­
+phocytes/100 enterocytes), the diagnosis is confirmed. Patients with 
+positive antitissue transglutaminase IgA antibodies that are ≥10 times 
+the upper limit of normal should have antiendomysial IgA antibodies 
+and HLA testing performed. If the patient is positive for antiendomy­
+sial IgA antibodies and is positive for HLA-­DQ2 or HLA-­DQ8 testing, 
+the diagnosis is confirmed; if either or both are negative, the patient 
+should undergo biopsy.
+Patients with celiac disease experience relief in their symptoms 
+when placed on a strict gluten-­free diet. Complications associated with 
+untreated celiac disease include osteoporosis, impaired splenic func­
+tion, neurologic disorders, infertility or recurrent spontaneous abor­
+tion, ulcerative jejunoileitis, and cancer. Enteropathy-­associated T-­cell 
+lymphoma and adenocarcinoma of the jejunum are rare complications 
+of celiac disease. Refractory celiac disease is diagnosed when there 
+are persistent or recurrent malabsorptive symptoms and signs of vil­
+lous atrophy on biopsy despite strict adherence to a gluten-­free diet 
+for more than 12 months. Refractory celiac disease can be classified as 
+type 1 (characterized by the presence of normal intraepithelial lym­
+phocytes) or type 2 (characterized by abnormal intraepithelial lympho­
+cytes; clonal intraepithelial lymphocytes lacking surface markers CD3, 
+CD8, and T-­cell receptors; or both). Type 2 refractory celiac disease is 
+associated with a higher risk of ulcerative jejunoileitis and lymphoma.
+Inflammatory Bowel Disease
+IBD is divided broadly into ulcerative colitis and Crohn disease, 
+idiopathic systemic chronic inflammatory diseases whose primary 
+symptoms are related to relapsing gastrointestinal tract inflamma­
+tion. Common signs and symptoms include diarrhea, abdominal pain, 
+blood in the stools, and nutritional compromise. Ulcerative colitis 
+consists of mucosal inflammation restricted to the colon, while Crohn 
+disease consists of transmural inflammation that affects all layers of 
+the intestinal wall and may involve any portion of the gastrointestinal 
+tract from the mouth to the anus. Ulcerative colitis involves the colon 
+in a continuous fashion, typically starting in the rectum and extending 
+proximally to variable degrees. Crohn disease is characterized by skip 
+lesions, in which there are areas of normal-­appearing mucosa inter­
+spersed with inflammatory lesions.
+The prevalence of ulcerative colitis is as high as 246 per 100,000 per­
+sons, and the prevalence of Crohn disease is as high as 199 per 100,000 
+persons. Approximately 25% of all IBD is diagnosed in children and 
+adolescents.
+Clinical Presentation
+Up to 80% of children with Crohn disease will present with diarrhea. 
+Stool may contain microscopic blood although may not be grossly 
+bloody, especially in the absence of significant left-­sided colonic disease. 
+Diarrhea is more common in colonic disease and may be absent alto­
+gether in cases of isolated small bowel inflammation. In ulcerative coli­
+tis, diarrhea is a more consistent presenting feature, often insidious in 
+its development but eventually progressing to hematochezia. Nocturnal 
+diarrhea with urgency may be a sign of left-­sided colonic inflammation 
+in both entities. Gastrointestinal and extraintestinal manifestations oth­
+erwise vary between Crohn disease and ulcerative colitis (Table 14.19). 
+Extraintestinal manifestations are present in up to 23% of children at 
+diagnosis, with a higher frequency in those over 6 years of age.
+TABLE 14.17  Conditions Whose Presence 
+Confers a Higher Risk of Celiac Disease
+Condition
+Incidence of Celiac 
+Disease (%)
+First-­degree relative with celiac disease
+2–20
+Type 1 diabetes mellitus
+3–12
+Juvenile idiopathic arthritis
+1.5–2.5
+Trisomy 21
+0.3–5.5
+Turner syndrome
+6.5
+Williams syndrome
+9.5
+IgA nephropathy
+4
+IgA deficiency
+3
+Autoimmune thyroid disease
+3
+Autoimmune liver disease
+13.5
+IgA, immunoglobulin A.
+TABLE 14.18  Serologic Tests for Celiac Disease
+Test
+Sensitivity (Percent)
+Specificity (Percent)
+Comments
+Antitissue transglutaminase IgA
+>95 (73–100)
+>95 (77–100)
+Recommended screening test
+Antitissue transglutaminase IgG
+Widely variable (12.6–99.3)
+Widely variable (86.3–100)
+Useful in patients with IgA deficiency
+Antiendomysial antibody IgA
+>90.0 (82.6-­100)
+98.2 (94.7–100)
+Useful in patients with an uncertain 
+diagnosis. Expensive.
+Antideamidated gliadin peptide IgG
+>90.0 (80.1–98.6)
+>90.0 (86.0–96.9)
+Useful in patients with IgA deficiency 
+and young children
+IgA, immunoglobulin A; IgG, immunoglobulin G.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+260
+SECTION 4   Gastrointestinal Disorders
+Physical examination should establish nutritional status and 
+include an assessment of growth parameters, including the review of 
+previous growth charts. Pubertal status should also be recorded. Oral 
+cavity examination should look for aphthous ulcers that are present in 
+approximately 10% of IBD patients (more commonly in Crohn disease). 
+An eye examination should look for episcleritis, painful inflammation 
+of the outer layer of the sclera, and patients with known IBD should 
+be followed by an ophthalmologist to assess for uveitis and keratopa­
+thy. A detailed abdominal examination should document abdominal 
+distension, mass, tenderness, and hyper-­ or hypoactive bowel sounds. 
+Particular attention should be paid to assessing the perianal region for 
+any abscesses or fistulas. Skin examination should look for erythema 
+nodosum, painful raised red lesions about 1–3 cm in diameter typi­
+cally found on the shins; pyoderma gangrenosum, a severe ulcerating 
+rash; and psoriatic lesions. Two clinical features suggest a diagnosis of 
+Crohn disease over ulcerative colitis: the presence of perianal disease 
+and the presence of stricturing and fistulizing disease of the bowel. No 
+other systemic or extraintestinal manifestations reliably suggest one 
+diagnosis over the other (Table 14.20).
+Diagnosis
+IBD is a clinical diagnosis that integrates history and physical findings 
+with objective data from imaging studies, laboratory evaluation, and 
+endoscopic findings including histopathology. Diagnosis should nei­
+ther be confirmed nor excluded on any one variable or result: up to 
+54% of patients with mild ulcerative colitis and 21% of patients with 
+mild Crohn disease have normal hemoglobin, albumin, CRP, and ESR 
+levels at the time of initial diagnosis. Important mimics of IBD include 
+IBS, Behçet disease, infectious enterocolitis (particularly enterovirus 
+and Yersinia), and tuberculosis (Tables 14.21 and 14.22). As such, every 
+TABLE 14.19  Clinical Manifestations of 
+Inflammatory Bowel Disease
+Manifestation
+Comments
+Gastrointestinal
+Diarrhea with or without blood
+Isolated small bowel Crohn disease 
+may not manifest with diarrhea or 
+grossly bloody stools
+Abdominal pain
+Hematochezia
+More common in ulcerative colitis
+Anorexia, weight loss, and fatigue
+More common in Crohn disease
+Growth failure and pubertal delay
+More common in Crohn disease
+Abdominal mass
+Only in Crohn disease
+Fever and night sweats
+More common in Crohn disease
+Vomiting and nausea
+Seen in both but severe would suggest 
+intestinal obstructive process from 
+Crohn disease
+Extraintestinal
+Iritis and uveitis
+More common in Crohn disease
+Aphthous ulceration
+More common in Crohn disease
+Erythema nodosum
+More common in Crohn disease
+Pyoderma gangrenosum
+More common in ulcerative colitis
+Musculoskeletal
+ • Axial arthropathy and ankylosing 
+spondylitis
+ • Polyarticular arthritis
+ • Pauciarticular arthritis
+ • Osteoporosis
+Liver
+ • Primary sclerosing cholangitis
+ • Autoimmune hepatitis and 
+overlap syndrome
+ • Cholelithiasis
+Autoimmune pancreatitis
+Cardiovascular
+ • Myocarditis
+ • Pericarditis
+Pulmonary Crohn disease
+Commonly involves large airways, 
+but parenchymal disease, such as 
+organizing pneumonia, interstitial 
+disease, and necrobiotic nodules, 
+has been described
+Renal
+ • Nephritis
+ • Amyloidosis
+ • Urolithiasis (especially oxalate 
+stones)
+More common in Crohn disease 
+compared to ulcerative colitis
+Hematologic
+ • Iron-­deficiency anemia, anemia 
+of chronic disease, vitamin B12 
+deficiency or folate deficiency
+ • Immune thrombocytopenia
+ • Deep vein thrombosis
+TABLE 14.20  Comparison of Crohn 
+Disease and Ulcerative Colitis
+Feature
+Crohn Disease
+Ulcerative Colitis
+Malaise, fever, weight loss
+Common
+Common
+Rectal bleeding
+Sometimes
+Usual
+Abdominal mass
+Common
+Rare
+Abdominal pain
+Common
+Common
+Perianal disease
+Common
+Rare
+Ileal involvement
+Common
+None (backwash ileitis)
+Strictures
+Common
+Unusual
+Fistula
+Common
+Very rare
+Skip lesions
+Common
+Not present
+Transmural involvement
+Usual
+Not present
+Crypt abscesses
+Variable
+Usual
+Intestinal granulomas
+Common
+Rarely present
+Risk of cancer*
+Increased
+Greatly increased
+Erythema nodosum
+Common
+Less common
+Mouth ulceration
+Common
+Rare
+Osteopenia at onset
+Yes
+No
+Autoimmune hepatitis
+Rare
+Yes
+Sclerosing cholangitis
+Rare
+Yes
+*Colonic cancer, cholangiocarcinoma, lymphoma in Crohn disease.
+From Bishop WP, Ebach DR. Intestinal tract. In: Marcdante KJ, Klieg­
+man RK, eds. Nelson Essentials of Pediatrics. 7th ed. Philadelphia: 
+Saunders; 2015:437–444.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+261
+CHAPTER 14  Diarrhea
+TABLE 14.21  Differential Diagnoses of Presenting Symptoms of Crohn Disease
+Primary Presenting Symptom
+Differential Diagnosis
+Right lower quadrant abdominal pain, with or 
+without mass
+Appendicitis, infection (e.g., Campylobacter, Yersinia species, tuberculosis, or atypical mycobacteria), lymphoma, 
+intussusception, mesenteric adenitis, Meckel diverticulitis, ovarian cyst or ovarian torsion, ectopic pregnancy
+Chronic periumbilical or epigastric abdominal pain
+Irritable bowel syndrome, constipation, lactose intolerance, peptic ulcer disease, functional dyspepsia
+Rectal bleeding, no diarrhea
+Fissure, polyp, Meckel diverticulum, solitary rectal ulcer syndrome
+Bloody diarrhea
+Infection, allergic colitis, hemolytic uremic syndrome, Henoch-­Schönlein purpura, ischemic bowel, radiation 
+colitis
+Watery diarrhea
+Irritable bowel syndrome, lactose intolerance, giardiasis, Cryptosporidium infection, sorbitol, laxatives
+Perirectal disease
+Fissure, hemorrhoid (rare), streptococcal infection, condyloma (rare)
+Growth delay
+Endocrinopathy
+Anorexia, weight loss
+Celiac disease, other systemic illnesses, anorexia nervosa
+Arthritis
+Collagen vascular disease, infection
+Liver abnormalities
+Chronic hepatitis
+Oral ulcers
+Celiac disease
+TABLE 14.22  Infectious Agents Mimicking Inflammatory Bowel Disease
+Agent
+Manifestations
+Diagnosis
+Comments
+Bacteria
+Campylobacter jejuni
+Acute diarrhea, fever, fecal blood and leukocytes
+Culture or nucleic acid amplification assay Common in adolescents, may relapse
+Yersinia enterocolitica
+Acute diarrhea that can become chronic, right 
+lower quadrant pain, mesenteric adenitis–pseu­
+doappendicitis, fecal blood and leukocytes
+Culture or nucleic acid amplification 
+assay
+Common in adolescents as fever of 
+unknown origin, weight loss, abdominal 
+pain
+Extraintestinal manifestations may mimic Crohn 
+disease
+Clostridioides difficile
+Onset during or following a course of antibiotics, 
+watery → bloody diarrhea, pseudomembrane on 
+sigmoidoscopy
+Cytotoxin assay or nucleic acid amplifi­
+cation assay
+May be nosocomial
+Toxic megacolon possible
+Escherichia coli O157:H7
+Colitis, fecal blood, abdominal pain
+Culture and typing or nucleic acid 
+amplification assay
+Hemolytic uremic syndrome possible
+Salmonella
+Watery → bloody diarrhea, foodborne, fecal leuko­
+cytes, fever, pain, cramps
+Culture or nucleic acid amplification 
+assay
+Usually acute
+Shigella
+Watery → bloody diarrhea, fecal leukocytes, fever, 
+pain, cramps
+Culture or nucleic acid amplification 
+assay
+Dysentery symptoms
+Edwardsiella tarda
+Bloody diarrhea, cramps
+Culture
+Ulceration on endoscopy
+Aeromonas hydrophila
+Cramps, diarrhea, fecal blood
+Culture
+May be chronic
+May be acquired from contaminated drink­
+ing water or swimming in contaminated 
+pools or freshwater sources
+Plesiomonas shigelloides
+Diarrhea, cramps
+Culture
+Shellfish source
+Tuberculosis
+Rarely bovine, now Mycobacterium tuberculosis
+Culture, purified protein derivative, biopsy, 
+interferon gamma release assay
+Can mimic Crohn disease
+Ileocecal area, fistula formation
+Parasites
+Entamoeba histolytica
+Acute bloody diarrhea and liver abscess, colic
+Trophozoite in stool, colonic mucosal 
+flask ulceration, serologic tests
+Travel to endemic area
+Giardia lamblia
+Foul-­smelling, watery diarrhea, cramps, flatulence, 
+weight loss; no colonic involvement
+“Owl”-­like trophozoite and cysts in 
+stool; rarely duodenal intubation
+May be chronic
+Opportunistic Organisms in the Setting of Immune Deficiency
+Cryptosporidium
+Chronic diarrhea, weight loss
+Stool microscopy
+Mucosal findings not like inflammatory 
+bowel disease
+Isospora belli
+Chronic diarrhea, weight loss
+Stool microscopy
+Tropical location
+Cytomegalovirus
+Colonic ulceration, pain, bloody diarrhea
+Culture, biopsy
+More common when on immunosuppres­
+sive medications
+From Grossman AB, Baldassano RN. Chronic ulcerative colitis. In: Kliegman RM, Stanton BF, St. Geme JW III, et al., eds. Nelson Textbook of Pedi­
+atrics. 20th ed. Philadelphia: Elsevier; 2016:1823.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+262
+SECTION 4   Gastrointestinal Disorders
+patient with a history and examination suggestive of IBD should have 
+stool studies for infectious organisms and special request should be 
+made for Yersinia culture if multiplex PCR assays that include Yersinia 
+testing are not available. Patients presenting with suggestive symptoms 
+prior to 6 years of age may require an evaluation for an underlying 
+immune disregulation disorder as an additional mimic of IBD (Table 
+14.23). Stool biomarkers such as calprotectin and lactoferrin should be 
+utilized to exclude noninflammatory causes before considering endo­
+scopic procedures. The suggested diagnostic evaluation of suspected 
+IBD is presented in Table 14.24.
+TABLE 14.23  Known Defects Associated with Very Early-­Onset Inflammatory Bowel Disease 
+and Associated Extraintestinal Manifestations and Laboratory Findings
+Defects
+Gene Defect
+Extraintestinal Immune, Hematologic, or 
+Somatic Manifestations
+Laboratory Findings and Functional 
+Evaluation
+IPEX and IPEX-­Like Disorders
+IPEX
+FOXP3
+Autoimmune endocrinopathy, cytopenia, hepatitis and kidney 
+disease, eczema, food allergy, eosinophilia
+Decrease in regulatory T-cell number and function
+Decreased FOXP3 expression
+CD25 deficiency
+CD25
+Autoimmune endocrinopathy, cytopenia, eczema, gingivitis, 
+alopecia universalis, bullous pemphigoid, CMV, EBV disease
+Absent CD25 expression
+STAT5b deficiency
+STAT5B
+Autoimmune endocrinopathy, eczema, short stature, intersti­
+tial pneumonitis, alopecia universalis, bullous pemphigoid, 
+varicella and herpes zoster infections
+Variable immune abnormality
+Normal to low T, B, and NK cells
+STAT1 GOF variant
+STAT1
+Mucocutaneous candidiasis, short stature, eczema, autoim­
+mune endocrinopathy, sinopulmonary infection, hyperten­
+sion, aneurysm
+Most have normal regulatory T-cell number 
+and FOXP3 expression, abnormal STAT1 
+phosphorylation studies
+STAT3 GOF variant
+STAT3
+Multisystem autoimmunity, variable short stature, lympho­
+proliferation
+Hypogammaglobulinemia
+Decreased class-­switched memory B cells
+LRBA deficiency
+LRBA
+Multisystem autoimmunity, cytopenia, arthritis, recurrent sin­
+opulmonary infection, granuloma, hypogammaglobulinemia
+Hypogammaglobulinemia
+Decreased class-­switched memory B cells
+CTLA4 haploinsufficiency
+CTLA4
+Diarrhea, enteropathy, hypogammaglobulinemia, granulo­
+matous lymphocytic interstitial lung disease, multisystem 
+autoimmunity
+Hypogammaglobulinemia
+Decreased class-­switched memory B cells
+ADA-­2 deficiency
+ADA2
+Multiorgan disease, vasculopathy, stroke, IBD-­like GI illness, 
+autoimmune, autoinflammatory, livedo racemosa
+Cytopenias, hypogammaglobulinemia
+Defects in IL-­10 Signaling
+Defects in IL-­10 and IL-­10R
+IL-­10RA
+IL-­10RB
+IL-­10
+Perianal fistula, folliculitis, arthritis, abscess, lymphoma
+STAT3 phosphorylation by IL-­6 and IL-­10 
+studies*
+Defects in Neutrophil Function
+CGD
+CYBB
+CYBA
+NCF1
+NCF2
+NCF4
+Perianal fistula, recurrent cold abscess from catalase-­positive 
+organisms,† gastric outlet obstruction
+Decreased neutrophil oxidative burst study
+Elevated IgG
+Glycogen storage disease 1b
+SLC37A4
+Recurrent bacterial infections, hypoglycemic seizures, 
+hepatomegaly
+Neutropenia, hypoglycemia, hyperuricemia, 
+hyperlipidemia
+Leukocyte adhesion defect
+ITGB2
+Neutrophilia, recurrent bacterial infections, delayed separa­
+tion of umbilical cord, poor wound healing
+Leukocytosis
+Absent CD18 expression
+Congenital neutropenia
+G6PC3
+Cutaneous vascular malformation and cardiac defect
+Severe neutropenia
+Hyperinflammatory Disorders
+XIAP
+BIRC4
+Perianal fistula, recurrent HLH, EBV, and CMV infections, 
+hypogammaglobinemia
+Markedly elevated IL-­18
+Decreased or absent XIAP protein expression 
+by flow
+NLRC4 GOF variant
+NLRC4
+Recurrent macrophage activation, rash
+Markedly elevated IL-­18
+Mevalonate kinase deficiency
+MVK
+Recurrent fever, rash, abdominal pain, and emesis
+Elevated inflammatory markers
+Elevated IgD
+Elevated urine mevalonate
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+263
+CHAPTER 14  Diarrhea
+TABLE 14.23  Known Defects Associated with Very Early-­Onset Inflammatory Bowel Disease 
+and Its Associated Extraintestinal Manifestations and Laboratory Findings—cont’d
+Defects
+Gene Defect
+Extraintestinal Immune, Hematologic, or 
+Somatic Manifestations
+Laboratory Findings and Functional 
+Evaluation
+Familial Mediterranean fever
+MEFV
+Recurrent fever, abdominal pain, arthralgia, peritonitis
+Elevated inflammatory markers
+Familial HLH type 5
+STXBP2
+HLH, hypogammaglobinemia, sensorineural hearing loss
+Marked elevated ferritin and sIL-­2R
+Decreased CD107a degranulation
+Hermansky-­Pudlak syndrome
+HPS1
+HPS4
+HPS6
+Partial albinism, bleeding tendency, recurrent infection, and 
+immunodeficiency
+Decreased CD107a degranulation
+Defects in Epithelial Barrier Function
+TTC7A deficiency
+TTC7A
+Varying degree of intestinal atresia, T-­cell immune defect, 
+and recurrent infections
+Mild to severe T-­cell immune deficiency
+Hypogammaglobinemia
+X-­linked ectodermal immunodefi­
+ciency (NEMO deficiency)
+IKBKG
+Varying degree of ectodermal dysplasia, conical teeth, space 
+and brittle hair; recurrent bacterial, viral, and mycobacterial 
+infections
+Hypogammaglobinemia
+Decreased class-­switched memory B cells
+ADAM17 deficiency
+ADAM17
+Neonatal inflammatory skin and bowel disease, generalized 
+pustular rash
+Normal T-­cell and B-­cell numbers
+Dystrophic epidermolysis bullosa COL7A1
+Blistering disorder primarily affects the hands, feet, knees, 
+and elbows
+Unremarkable immune findings
+Kindler syndrome
+FERMT1
+Acral skin blistering, photosensitivity, progressive poikilo­
+derma, and diffuse cutaneous atrophy
+Eosinophilia
+Isolated or Combined T-­Cell and B-­Cell Immune Defects
+X-­linked agammaglobulinemia
+BTK
+Recurrent sinopulmonary infection
+Absent B cells in peripheral blood
+Absent plasma cells in tissue
+Decreased class-­switched memory B cells
+Common variable immune defect 
+(CVID)
+Heterogeneous group of defects with sinopulmonary infec­
+tions, autoimmunity, lymphoproliferation, and variable T-­cell 
+immune defect
+Hypogammaglobinemia
+Variable T-­cell lymphopenia
+X-­linked hyper IgM (CD40L)
+CD40L
+Sclerosing cholangitis, cryptosporidium diarrhea, and pneu­
+mocystis infection
+Elevated or normal IgM, neutropenia
+Absent class-­switched memory B cells
+Wiskott-­Aldrich syndrome
+WAS
+Eczema, recurrent infection, autoimmunity, vasculitis
+Microthrombocytopenia
+Variable lymphopenia, low IgM
+Decreased WAS protein
+Leaky SCID or Omenn
+RAG1, RAG2
+IL-­7Ra
+IL-­2RG
+Generalized erythroderma, hepatosplenomegaly, lymphade­
+nopathy
+Eosinophilia
+T-­cell lymphopenia
+Decreased naïve T cells
+CGD, chronic granulomatous disease; CMV, cytomegalovirus; EBV, Epstein-­Barr virus; GI, gastrointestinal; GOF, gain of function; HLH, hemophago­
+cytic lymphohistiocytosis; IBD, inflammatory bowel disease; IgD, immunoglobulin D; IgG, immunoglobulin G; IgM, immunoglobulin M; IL, interleukin; 
+IPEX, immune disregulation, polyendocrinopathy, enteropathy, X-­linked; NEMO, nuclear factor-kappa B essential modulator; XIAP, X-­linked inhibitor 
+of apoptosis.
+*STAT3 signaling following IL-­6 and IL-­10 will only identify IL-­10R A and B defects; it will not identify IL-­10 deficiency.
+†Staphylococcus aureus, Serratia marcescens, Burkholderia cepacia, Aspergillus, and Candida.
+Modified from Chandrakasan S, Venkateswaran S, Kugathasan S. Nonclassic inflammatory bowel disease in young infants. Pediatr Clin N Am. 
+2017;64:139–160 (Table 2, pp. 148–150).
+TABLE 14.24  Suggested Evaluation in Suspected Inflammatory Bowel Disease
+Test
+Common Abnormalities/Comments
+Complete blood count with differential
+Anemia, especially iron deficiency
+Comprehensive metabolic panel
+Hypoalbuminemia, elevated liver enzymes, low alkaline phosphatase (likely 
+secondary to associated zinc deficiency)
+Erythrocyte sedimentation rate
+Elevated in CD > UC
+C-­reactive protein
+Elevated in CD > UC
+Stool cultures with Yersinia; ova and parasites
+Always rule out infectious causes as the likely reason for symptoms
+Clostridioides difficile toxin assay or polymerase chain reaction assay
+Could be an isolated reason for symptoms or could be a superimposed illness
+Fecal occult blood
+Positive in vast majority of patients. No need for this test if patient has grossly 
+bloody stools
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+264
+SECTION 4   Gastrointestinal Disorders
+   	 S U MMA RY  A N D  R E D  F L A G S
+Acute diarrhea is a common childhood illness. For most children, the 
+etiologic agent is of no therapeutic significance. Exceptions are giardiasis, 
+pseudomembranous colitis, dysentery suggestive of Shigella infection, 
+amebiasis, or Campylobacter infection, all of which necessitate specific 
+treatment. Oftentimes of greater importance are the secondary compli­
+cations associated with fluid and electrolyte losses and the reduced oral 
+fluid intake, which may result in shock and its systemic complications.
+Red flags for acute diarrhea are the manifestations of dehydration 
+(see Table 14.8). Young age (younger than 6 months) is associated with 
+a greater risk of dehydration, as are 10 or more stools a day and fre­
+quent emesis and fever (see Table 14.13).
+Chronic diarrhea may be benign or may signify a more serious 
+illness associated with malabsorption, inflammation, or congenital 
+defects. Red flags include onset of diarrhea in the neonatal period, 
+weight loss, growth stunting, anorexia, fever, fatty stools, blood in 
+stools, extraintestinal manifestations associated with intestinal disease, 
+history of travel to countries with poor sanitation and water supply, 
+and specific nutritional deficiencies associated with malabsorption.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Test
+Common Abnormalities/Comments
+Fecal calprotectin (or lactoferrin)
+To distinguish inflammatory bowel disease from irritable bowel syndrome prior to 
+considering invasive procedures such as endoscopy
+Esophagogastroduodenoscopy and ileocolonoscopy
+After ruling out other causes of patient’s symptoms
+Imaging studies
+ • MRI and MRE
+ • CT abdomen
+ • Abdominal ultrasound
+Consider for evaluation of patients presenting with fistulizing or stricturing dis­
+ease. Also used for evaluation of small bowel after endoscopic procedures
+Wireless capsule endoscope
+Consider for evaluation of small bowel in very young children in whom MRE is 
+difficult or in situations where conventional endoscope and imaging tools have 
+been nondiagnostic
+CD, Crohn disease; MRE, magnetic resonance enterography; UC, ulcerative colitis.
+TABLE 14.24  Suggested Evaluation in Suspected Inflammatory Bowel Disease—cont’d
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+264.e1
+BIBLIOGRAPHY
+Corinaldesi R, Stanghellini V, Barbara G, et al. Clinical approach to diarrhea. 
+Intern Emerg Med. 2012;7:255–262.
+Das JK, Salam RA, Bhutta ZA. Global burden of childhood diarrhea and inter­
+ventions. Curr Opin Infect Dis. 2014;27:451–458.
+Granado-­Villar D, Cunill-­De Sautu B, Granados A. Acute gastroenteritis. 
+Pediatr Rev. 2012;33:487–494; quiz 495.
+Whyte LA, Jenkins HR. Pathophysiology of diarrhoea. Paediatr Int Child 
+Health. 2012;22:443–447.
+Acute Gastroenteritis
+Bányai K, Estes MK, Martella V, et al. Viral gastroenteritis. Lancet. 
+2018;392(10142):175–186.
+Belliot G, Lopman BA, Ambert-­Balay K, et al. The burden of norovirus gas­
+troenteritis: an important foodborne and healthcare-­related infection. Clin 
+Microbiol Infect. 2014;20:724–730.
+Camilleri M, Murray JA. Diarrhea and constipation. In: Kasper D, Fauci A, 
+Hauser S, et al., eds. Harrison’s Principles of Internal Medicine. 19th ed. New 
+York: McGraw-­Hill; 2015.
+Committee on Infectious Diseases, American Academy of Pediatrics. Preven­
+tion of rotavirus disease: updated guidelines for use of rotavirus vaccine. 
+Pediatrics. 2009;123:1412–1420.
+Committee on Infectious Diseases. Clostridium difficile infection in infants and 
+children. Pediatrics. 2013;131:196–200.
+Cortes JE, Curns AT, Tate JE, et al. Rotavirus vaccine and health care utiliza­
+tion for diarrhea in U.S. children. N Engl J Med. 2011;365:1108–1117.
+Cortese MM, Parashar UD, Centers for Disease Control and Prevention 
+(CDC). Prevention of rotavirus gastroenteritis among infants and children: 
+recommendations of the Advisory Committee on Immunization Practices 
+(ACIP). MMWR Recomm Rep (Morb Mortal Wkly Rep). 2009;58:1–25.
+Crim SM, Griffin PM, Tauxe R, et al. Preliminary incidence and trends of in­
+fection with pathogens transmitted commonly through food—Foodborne 
+Diseases Active Surveillance Network, 10 U.S. sites, 2006-­2014. MMWR 
+Morb Mortal Wkly Rep. 2015;64:495–499.
+Croxen MA, Law RJ, Scholz R, et al. Recent advances in understanding enteric 
+pathogenic Escherichia coli. Clin Microbiol Rev. 2013;26:822–880.
+DuPont HL. Clinical practice. Bacterial diarrhea. N Engl J Med. 2009;361:1560–1569.
+DuPont HL. The search for effective treatment of Clostridium difficile infection. 
+N Engl J Med. 2011;364:473–475.
+Guo B, Harstall C, Louie T, et al. Systematic review: faecal transplantation for 
+the treatment of Clostridium difficile-­associated disease. Aliment Pharmacol 
+Ther. 2012;35:865–875.
+Krones E, Hogenauer C. Diarrhea in the immunocompromised patient. Gas­
+troenterol Clin North Am. 2012;41:677–701.
+Louie TJ, Miller MA, Mullane KM, et al. Fidaxomicin versus vancomycin for 
+Clostridium difficile infection. N Engl J Med. 2011;364:422–431.
+Man SM. The clinical importance of emerging Campylobacter species. Nat Rev 
+Gastroenterol Hepatol. 2011;8:669–685.
+McDonald LC, Gerding DN, Johnson S, et al. Clinical practice guidelines for 
+Clostridium difficile infection in adults and children: 2017 update by the 
+Infectious Diseases Society of America (IDSA) and Society for Healthcare 
+Epidemiology of America (SHEA). Clin Infect Dis. 2018;66(7):e1–e48.
+Nash TE. Unraveling how Giardia infections cause disease. J Clin Invest. 
+2013;123:2346–2347.
+Steffen R, Hill DR, DuPont HL. Traveler’s diarrhea. J Am Med Assoc. 2015;313:71.
+Chronic Diarrhea
+Abraham C, Cho JH. Inflammatory bowel disease. N Engl J Med. 
+2009;361:2066–2078.
+Baumgart DC, Sandborn WJ. Crohn’s disease. Lancet. 2012;380:1590–1605.
+Benninga MA, Faure C, Hyman PE, et al. Childhood functional gastro­
+intestinal disorders: neonate/toddler. Gastroenterology. 2016;S0016
+-­5085(16)00182-7.
+Binder HJ. Causes of chronic diarrhea. N Engl J Med. 2006;355:236–239.
+Branski D. Disorders of malabsorption. In: Kliegman RM, Stanton BF, St. 
+Geme III JW, et al., eds. Nelson Textbook of Pediatrics. 20th ed. Philadel­
+phia: Elsevier; 2016:1831–1850.
+Bröer S. Lysinuric protein intolerance: one gene, many problems. Am J Physiol 
+Cell Physiol. 2007;293:C540–C541.
+Canani RB, Castaldo G, Bacchetta R, et al. Congenital diarrhoeal disorders: 
+advances in this evolving web of inherited enteropathies. Nat Rev Gastroen­
+terol Hepatol. 2015;12:293–302.
+Chumpitazi BP, Robayo-­Torres CC, Opekun AR, et al. Congenital sucrase-­
+isomaltase deficiency. J Pediatr Gastroenterol Nutr. 2012;55:S36.
+Danese S, Fiocchi C. Ulcerative colitis. N Engl J Med. 2011;365:1713–1725.
+Elkadri A, Thoeni C, Deharvengt SJ, et al. Mutations in plasmalemma vesicle 
+associated protein result in sieving protein-­losing enteropathy character­
+ized by hypoproteinemia, hypoalbuminemia, and hypertriglyceridemia. 
+Cell Mol Gastroenterol Hepatol. 2015;1(4):381–394. e7.
+Fasano A, Catassi C. Celiac disease. N Engl J Med. 2012;367:2419–2426.
+Fiskerstrand T, Arshad N, Haukanes BI, et al. Familial diarrhea syndrome caused 
+by an activating GUCY2C mutation. N Engl J Med. 2012;366:1586–1595.
+Ghaferi AA, Chojnacki KA, Long WD, et al. Pancreatic VIPomas: subject re­
+view and one institutional experience. J Gastrointest Surg. 2007;12:382–393.
+Gråfors JM, Casswall TH. Exclusive enteral nutrition in the treatment of chil­
+dren with Crohn’s disease in Sweden: a questionnaire survey. Acta Paediatr. 
+2011;100:1018–1022.
+Henderson P, Anderson NH, Wilson DC. The diagnostic accuracy of fecal 
+calprotectin during the investigation of suspected pediatric inflammatory 
+bowel disease: a systematic review and meta-­analysis. Am J Gastroenterol. 
+2014;109:637–645.
+Heyman MB, for the Committee on Nutrition. Lactose intolerance in infants, 
+children, and adolescents. Pediatrics. 2006;118:1279–1286.
+Husby S, Koletzko S, Korponay-­Szabó IR, et al. European Society for Pediatric 
+Gastroenterology, Hepatology, and Nutrition guidelines for the diagnosis 
+of coeliac disease. J Pediatr Gastroenterol Nutr. 2012;54:136–160.
+Hyams JS, Di Lorenzo C, Saps M, et al. Functional disorders: children and 
+adolescents. Gastroenterology. 2016;S0016-­5085(16)00181-5.
+Hyman PE, Milla PJ, Benninga MA, et al. Childhood functional gastrointesti­
+nal disorders: neonate/toddler. Gastroenterology. 2006;130:1519–1526.
+Kurolap A, Eshach-­Adiv O, Gonzaga-­Jauregui C, et al. Establishing the role 
+of PLVAP in protein-­losing enteropathy: a homozygous missense variant 
+leads to an attenuated phenotype. J Med Genet. 2018;55(11):779–784.
+Levine A, Griffiths A, Markowitz J, et al. Pediatric modification of the Mon­
+treal classification for inflammatory bowel disease: the Paris classification. 
+Inflamm Bowel Dis. 2010;17:1314–1321.
+Levine A, Koletzko S, Turner D, et al. ESPGHAN revised porto criteria for the 
+diagnosis of inflammatory bowel disease in children and adolescents. J 
+Pediatr Gastroenterol Nutr. 2014;58:795–806.
+Mouzaki M, Vresk L, Gonska T. Clinical challenges and images in GI. Gastro­
+enterology. 2014;146:912–1138.
+Saadah OI, Alghamdi SA, Sindi HH, et al. Congenital glucose-­galactose mal­
+absorption: a descriptive study of clinical characteristics and outcome from 
+Western Saudi Arabia. Arab J Gastroenterol. 2014;15:21–23.
+Schmulson MJ, Drossman DA. What is new in Rome IV. J Neurogastroenterol 
+Motil. 2017;23(2):151–163.
+Tack GJ, Verbeek WHM, Schreurs MWJ, et al. The spectrum of celiac disease: 
+epidemiology, clinical aspects and treatment. Nat Rev Gastroenterol Hepa­
+tol. 2010;7:204–213.
+Terrin G, Tomaiuolo R, Passariello A, et al. Congenital diarrheal disorders: an 
+updated diagnostic approach. Int J Mol Sci. 2012;13:4168–4185.
+Treem WR. Clinical aspects and treatment of congenital sucrase-­isomaltase 
+deficiency. J Pediatr Gastroenterol Nutr. 2012;55(suppl 2):S7–S13.
+Van Assche G, Dignass A, Reinisch W, et al. The second European evidence-­
+based consensus on the diagnosis and management of Crohn’s disease: 
+special situations. J Crohns Colitis. 2010;4:63–101.
+Wang DZ. Neurotoxins from marine dinoflagellates: a brief review. Mar Drugs. 
+2008;6(2):349–371.
+Wang J, Cortina G, Wu SV, et al. Mutant neurogenin-­3 in congenital malab­
+sorptive diarrhea. N Engl J Med. 2006;355:270–280.
+Zella GC, Israel EJ. Chronic diarrhea in children. Pediatr Rev. 2012;33:207–
+218.
+Zhang Y, Li Y. Inflammatory bowel disease: pathogenesis. World J Gastroenter­
+ol. 2014;20:91–99.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

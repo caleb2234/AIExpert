@@ -1,0 +1,1403 @@
+341
+Constipation is defined symptomatically as the infrequent passage of 
+hard stools, straining while passing a stool, or pain associated with 
+the passage of a hard stool. The range of normal defecation patterns in 
+children is widely variable, though in general, formula-fed infants may 
+have four to five stools per day in the first weeks of life, while breast-fed 
+infants usually pass softer and more frequent stools. Stool frequency in 
+both gradually decreases to one to two per day by 1 year of age. Most 
+children aged 1–4 years have one or two daily bowel movements, with 
+a range of three daily bowel movements to one bowel movement every 
+other day.
+Constipation is classified broadly either as functional or as second­
+ary to underlying conditions, such as anatomic abnormalities, meta­
+bolic disorders, neurologic dysfunction, or medication effects (Table 
+19.1). Most childhood constipation is functional. The Rome IV Criteria 
+for Functional Gastrointestinal Disorders defines functional constipa­
+tion in two age groups as noted in Tables 19.2 and 19.3.
+Changes in diet, such as formula changes or the addition of solid 
+foods, may lead to transient constipation in infants, with up to 40% 
+of constipation starting during this time period. Minor illnesses, 
+including infectious diarrhea, can subsequently result in episodic con­
+stipation as well. More long-standing constipation is often secondary 
+to inadequate intake of dietary fiber, fluid, or both. The evaluation of 
+constipation involves first determining whether the change in the fre­
+quency or consistency of stools is secondary to functional constipation 
+or is related to an underlying organic disorder. This determination is 
+based on identifying historical features and examination findings that 
+suggest an underlying disorder and prompt further investigation.
+PHYSIOLOGY OF NORMAL DEFECATION AND 
+CONSTIPATION
+Fecal continence and physiologic defecation are dependent on the anal 
+inhibitory reflex, which is in turn dependent on the proper structure 
+and function of the internal and external anal sphincters and the pelvic 
+floor. The internal anal sphincter is an involuntary muscle that is con­
+tracted at rest. When a bolus of stool distends the rectum, the internal 
+anal sphincter relaxes. This process generally results in the child sens­
+ing the need to defecate. The external anal sphincter and the puborec­
+talis muscle of the pelvic floor, under voluntary control, contract upon 
+rectal distention, respectively closing the anus and decreasing the rec­
+toanal angle, thus allowing the child to hold stool until it is socially 
+convenient to defecate. Voluntary relaxation of the puborectalis mus­
+cle and the external anal sphincter straightens the anorectal angle and 
+allows the child to stool. In situations where there is encopresis sec­
+ondary to overflow incontinence, the child typically consciously with­
+holds stool by refusing to relax the external anal sphincter in the setting 
+of a relaxed internal anal sphincter. Over time, the child is not able to 
+keep the external anal sphincter fully contracted and stool leaks out of 
+the anal canal. The presence of overflow incontinence is an important 
+indicator that the anal inhibitory reflex is likely intact, as patients with 
+anatomic or neurologic abnormalities of the distal colon and internal 
+anal sphincter, including Hirschsprung disease, are unable to reflex­
+ively relax the internal anal sphincter to allow for the passage of stool.
+Patients with chronic constipation have abnormal anorectal 
+manometry. The most consistent abnormality is blunted rectal sensa­
+tion, rendering the patient unable to sense stool in the rectum. Other 
+findings include incomplete relaxation of the internal anal sphincter 
+and paradoxical contraction of the external sphincter during attempted 
+defecation. Patients who have paradoxical anal contraction, also known 
+as functional dyssynergia, are less likely to respond to routine medical 
+therapy or may be more likely to have recurrent constipation if treat­
+ment is withdrawn unless the paradoxical contraction is addressed.
+DATA COLLECTION AND ASSESSMENT
+History
+Functional constipation may be distinguished from secondary causes 
+of constipation by assessing the age of symptom onset, the stool consis­
+tency, and the presence of associated signs or symptoms.
+The age at symptom onset differentiates disease processes that are 
+congenital versus those that are acquired. Failure to pass meconium 
+in the first 48 hours of life suggests a diagnosis of Hirschsprung dis­
+ease, though up to 50% of patients with Hirschsprung disease will pass 
+meconium prior to this. Constipation in the first month of life or a 
+history of constipation since infancy suggests organic causes, includ­
+ing and in addition to Hirschsprung disease (Table 19.4). The onset of 
+symptoms beyond infancy suggests acquired organic constipation or 
+functional constipation.
+Stool consistency in constipation can differ by etiology. Functional 
+constipation tends to produce painful, large, bulky stools, whereas con­
+stipation secondary to Hirschsprung disease or other organic etiologies 
+tends to produce harder, pebble-like, or ribbon-like stools. Stool con­
+sistency may be objectively rated via use of the Bristol stool scale (Fig. 
+19.1) and can be used to follow response to therapy.
+The assessment of associated signs and symptoms should include 
+evaluating for a history of blood in the stool, as well as for the pres­
+ence of urinary symptoms. Bright red blood on the surface of the stool 
+suggests an anal fissure indicative of straining, which is seen in approx­
+imately 25% of patients with constipation. Blood mixed in the stool 
+suggests a more remote source, and thus less likely an anal fissure. Uri­
+nary symptoms may take the form of either retention or incontinence. 
+Retention may be secondary to congenital or acquired abnormalities 
+in the neurologic regulation of bladder voiding and may be associated 
+with similar abnormalities in the regulation of defecation. Megacystic 
+megaureter intestinal hypoperistalsis syndrome is often detected in 
+utero or after birth with massive bladder distention and failure to pass 
+Constipation
+Joshua Noe
+19
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+342
+SECTION 4   Gastrointestinal Disorders
+meconium. In some patients, it is an autosomal dominant disorder due 
+to variants in the ACTG2 gene. Patients with primary chronic intestinal 
+pseudoobstruction may also have bladder distention.
+Alternately, retention may be secondary to urinary tract outflow 
+obstruction caused by a large stool burden. Incontinence may be due 
+to a large stool mass distending the rectum and placing pressure on the 
+posterior bladder wall or may indicate overflow incontinence in the 
+setting of a neurogenic bladder.
+Abdominal pain is common in constipated patients; when present, 
+it is often mild, nonspecific, and periumbilical. Older children may 
+describe discomfort in the lower abdomen and a history of pain relief 
+after passing stool. Appetite is often diminished. A diary recorded 
+over a period of several days to weeks noting the passage of stools, the 
+TABLE 19.1  Causes of Constipation in 
+Infants and Children
+Functional
+Faulty diet (poor fiber intake, excessive 
+cow’s milk, inadequate nutrition)
+Inadequate fluid intake
+Situational
+Depression
+Familial-constitutional
+Anatomic
+Anterior anal displacement
+Ectopic anus
+Anal stenosis
+Malrotation
+Colonic anomalies (rectocele, duplications)
+Stricture (postsurgical, sequelae of inflam­
+matory disorders including necrotizing 
+enterocolitis)
+Painful anorectal lesions (fissures, dermati­
+tis, abscess)
+Abnormal abdominal musculature (prune 
+belly, gastroschisis)
+Intestinal neoplasm, extraintestinal pelvic 
+mass (teratoma)
+Endocrine
+Hypothyroidism
+Panhypopituitarism
+Hypoparathyroidism
+Diabetes mellitus
+Diabetes insipidus (via dehydration)
+Genetic/Metabolic
+Hypercalcemia
+Metal intoxication (lead, arsenic, mercury)
+Dehydration
+Cystic fibrosis: DIOS
+Hypokalemia
+Acute intermittent porphyria
+Blue diaper syndrome
+Hereditary coproporphyria
+Rubinstein-Taybi syndrome
+Williams syndrome (hypercalcemia)
+Infectious
+Typhoid
+Infant botulism
+Chagas disease
+Intrinsic Intestinal Neuronal or 
+Myopathic Disorders
+Hirschsprung disease
+Intestinal neuronal dysplasia
+Hypoganglionosis
+Intestinal ganglioneuromatosis
+Pediatric intestinal pseudoobstruction 
+(neuropathic or myopathic; primary or 
+secondary)
+Megacystis megaureter intestinal hypo­
+peristalsis syndrome
+Intestinal sphincter achalasia
+Neurologic/Spinal Cord 
+Lesions
+Spina bifida and spina bifida 
+occulta
+Tethered cord
+Spinal cord tumors
+Traumatic lesions
+Myotonic dystrophy
+Cerebral palsy
+Muscular dystrophy
+Psychologic
+Anorexia nervosa
+Depression
+Medications/Toxins
+Anticonvulsants
+Antacids (aluminum and 
+calcium)
+Iron
+Lead
+Barium
+Opioids (codeine, diphenoxyl­
+ate–atropine sulfate [Lomo­
+til], loperamide [Imodium])
+Antidepressants
+Anticholinergics
+Phenothiazines
+Phenytoin
+Methylphenidate
+Pancreatic enzymes (fibrosing 
+colonopathy)
+Vitamin D intoxication
+Vincristine
+Calcium channel blockers
+Bismuth
+Clonidine
+Antihistamines
+Diuretics
+Other
+Milk protein–induced anal 
+inflammation and fissure 
+formation
+Celiac disease
+Collagen vascular disease 
+(SLE, mixed connective tissue 
+disease, scleroderma, derma­
+tomyositis)
+Amyloidosis
+DIOS, distal intestinal obstruction syndrome; SLE, systemic lupus 
+erythematosus.
+TABLE 19.2  Functional Constipation: 
+Infant/Toddler
+Diagnostic criteria Must include 1 mo of at least two of the following in 
+infants up to 4 yr of age:
+	1.	 Two or fewer defecations per week
+	2.	 History of excessive stool retention
+	3.	 History of painful or hard bowel movements
+	4.	 Presence of a large fecal mass in the rectum
+	5.	 History of large-diameter stools
+In toilet-trained children, the following additional criteria may be used:
+	6.	 At least one episode/wk of incontinence after the acquisition of toileting 
+skills
+	7.	 History of large-diameter stools that may obstruct the toilet
+TABLE 19.3  Functional Constipation: 
+Child/Adolescent
+Diagnostic criteria Must include two or more of the following at least once 
+a week for a minimum of 1 mo with insufficient criteria for diagnosis of IBS:
+	1.	 Two or fewer defecations in the toilet per week in a child with a develop­
+mental age of at least 4 yr
+	2.	 At least one episode of fecal incontinence per week
+	3.	 History of retentive posturing or excessive volitional stool retention
+	4.	 History of painful or hard bowel movements
+	5.	 Presence of a large fecal mass in the rectum
+	6.	 History of large-diameter stools that can obstruct the toilet
+After appropriate evaluation, the symptoms cannot be fully explained by 
+another medical condition.
+IBS, irritable bowel syndrome.
+TABLE 19.4  Causes of Constipation During 
+the Neonatal Period
+Meconium plug (rule out cystic fibrosis)
+Meconium ileus (rule out cystic fibrosis)
+Hirschsprung disease
+Pediatric intestinal pseudoobstruction
+Anteriorly displaced anus
+Ectopic anus
+Anal stenosis
+Imperforate anus
+Spina bifida
+Hypothyroidism
+Hypercalcemia
+Neuronal intestinal dysplasia types A and B
+Megacystis megaureter intestinal hypoperistalsis syndrome
+Medications (opioids, paralytic agents, magnesium)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+343
+CHAPTER 19  Constipation
+timing of meals, and the onset of abdominal pain can aid in the diag­
+nosis of constipation and in monitoring therapy. The personal medical 
+history and the family history may reveal illnesses and conditions asso­
+ciated with constipation (Table 19.5; see Table 19.1).
+The child’s behavior during defecation should be noted. A history of 
+straining, as an index of difficulty in defecation, can be misinterpreted 
+by parents, who often view a child’s efforts to withhold stool as efforts 
+to pass a bowel movement. Parents often describe a toddler who hides 
+in a corner, with stiffened straight legs, or who may lean into the wall or 
+hold onto a table while “straining.” More often, these actions represent 
+attempts at withholding stool. The young child, having become consti­
+pated, passes a painful stool, which, if large, may be associated with an 
+anal fissure. If a fissure is present, a small amount of blood is usually 
+passed with the stool and may create additional worry if noticed by 
+the child. The child associates the passage of stools with pain and tries 
+to prevent further painful episodes by withholding fecal matter. This 
+behavior results in the formation of even larger, harder stools, which 
+are painful to pass, thus establishing a link between pain and defeca­
+tion that perpetuates the cycle. Children with stool retention may go 
+3–5 days without defecating. Enuresis and encopresis may occur in this 
+setting. Fecal incontinence is one of the most common presentations 
+of functional constipation and can be misinterpreted by the parent as 
+diarrhea by virtue of constant smearing of stool in the gluteal cleft.
+Physical Examination
+Abnormal growth patterns should alert the physician to the possibility 
+of underlying organic disease, such as hypothyroidism or celiac disease 
+(see Table 19.5). Abdominal examination is usually benign; there may 
+be some mild tenderness in the left lower quadrant on palpation of a 
+segment of bowel that is full of stool. Stool may be palpable through the 
+abdominal wall in the sigmoid and descending colon. On occasion, a 
+large, firm fecal mass extends from the symphysis pubis to the umbili­
+cus, which may mimic findings of an abdominal malignancy.
+The spine and sacral area should be examined closely. A tuft of hair, 
+a dimple, or a palpable defect or mass in this area should prompt con­
+sideration of spina bifida occulta or a tethered spinal cord. Sensory 
+and motor function should be assessed. A normal anal wink, as elicited 
+by gentle stroking of the perianal skin with a sharp object, such as a 
+wooden tongue blade or the corner of a small package of lubricant, 
+gives evidence of intact lumbosacral innervation. A normal cremas­
+teric reflex in males also gives evidence of intact lumbosacral innerva­
+tion. The cremaster muscle, innervated by the genitofemoral nerve of 
+the lumbar plexus, typically contracts when the observer brushes a fin­
+ger along the upper surface of the inner thigh, resulting in withdrawal 
+superiorly of the ipsilateral testis.
+Type 1
+Type 2
+Type 3
+Type 4
+Type 5
+Type 6
+Type 7
+Separate hard lumps, like nuts,
+hard to pass
+Sausage-shaped but lumpy
+Like a sausage but with cracks
+on its surface
+Like a sausage or snake, smooth
+and soft
+Soft blobs with clear-cut edges,
+passed easily
+Fluffy pieces with ragged edges, a
+mushy stool
+Watery, no solid pieces,
+entirely liquid
+Fig. 19.1  The Bristol stool chart allows for qualitative comparisons of 
+stool consistency in the setting of both constipation and diarrhea.
+TABLE 19.5  Historical and Physical Findings Suggestive of Organic Etiologies of Constipation
+Symptoms or History
+Physical Findings
+Acute Signs
+Delayed passage of meconium (after 48 hr of life)
+Fever, vomiting, or diarrhea
+Rectal bleeding (unless attributable to an anal fissure)
+Severe abdominal distension
+Bilious emesis
+Chronic Signs
+Constipation present from birth or early infancy
+Ribbon stools (very narrow in diameter)
+Urinary incontinence or bladder disease
+Weight loss or poor weight gain
+Delayed growth (e.g., decreasing height percentiles)
+Extraintestinal symptoms (especially neurologic deficits)
+Congenital anomalies or syndrome associated with Hirschsprung disease (e.g., 
+Down syndrome, congenital central hypoventilation syndrome, neuroblastoma)
+Family history of Hirschsprung disease
+Severe abdominal distension
+Pelvic mass (e.g., sacral teratoma)
+Lumbosacral dimple, hair tuft or lipoma, or deviation of the gluteal cleft
+Anal scars
+Anteriorly displaced anus
+Patulous anus (i.e., low resting sphincter tone)
+Perianal fistula
+High anal canal tone with empty rectum
+Explosive expulsion of stool after digital examination of the rectum
+Absent anal wink
+Absent cremasteric reflex
+Decreased lower extremity tone or strength
+Abnormal lower extremity deep tendon reflex: absence of delay in relaxation 
+phase
+Abnormal thyroid gland
+Extreme fear during the anal inspection
+Modified from Tabbers MM, DiLorenzo C, Berger MY, et al. Evaluation and treatment of functional constipation in infants and children: evi­
+dence-based recommendations from ESPGHAN and NASPGHAN. J Pediatr Gastroenterol Nutr. 2014;58(2):258.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+344
+SECTION 4   Gastrointestinal Disorders
+The perianal area should be examined for evidence of fissures sug­
+gestive of the passage of large, hard stools. The examination is facil­
+itated if an assistant gently spreads the patient’s buttocks apart while 
+the examiner illuminates the area. Soiling in the undergarments may 
+indicate fecal impaction with overflow incontinence. The location of 
+the anus in relation to the other perineal structures should be deter­
+mined to assess for anatomic or structural anomalies, such as anterior 
+displacement of the anus (Fig. 19.2). The anus is typically situated in 
+the center of the slightly hyperpigmented skin surrounding the anal 
+sphincter. An anteriorly displaced anus is indicated by an abnormal 
+anal position index (API), which is defined as the ratio of the distance 
+between the anus and the posterior aspect of the genitals (the four­
+chette in females and scrotum in males) to the distance between the 
+coccyx and the posterior genitals (Fig. 19.3). Measurements may be 
+obtained using calipers or by placing clear plastic tape adjacent to the 
+landmarks and marking with a pen, and then subsequently measuring 
+the distance on the tape. The normal API for females is 0.45 ± 0.15, and 
+for males it is 0.54 ± 0.14.
+Digital examination is indicated in the evaluation of infantile con­
+stipation, if the cause or degree of constipation is unclear, or if there 
+are signs of organic disease. The examiner should note the patency 
+and tone of the anus. High tone and an empty rectal vault may sug­
+gest Hirschsprung disease. If the aganglionic segment is short enough, 
+withdrawal of the finger might result in an explosive release of stool as 
+the finger acts as a dilator to reach the dilated, ganglion-containing seg­
+ment. Conversely, a dilated rectal vault with a large stool impaction is 
+more suggestive of functional constipation with withholding behavior. 
+In a cooperative patient, the examiner can ask the patient to bear down 
+against their finger as if attempting to push out stool, which should 
+result in relaxation of the anal canal. Patients who have paradoxical 
+contraction of their anal canal upon this request may have functional 
+dyssynergia, a condition in which the patient’s pelvic floor fails to relax 
+upon attempted defecation.
+Diagnostic Evaluation
+Routine laboratory evaluation is usually not helpful in the evaluation of 
+constipation, though is indicated if an organic etiology is suspected on 
+the basis of the history or physical examination. Endocrinologic distur­
+bances, such as hypothyroidism, can be associated with constipation. 
+If celiac disease (see Chapter 14) is a consideration, serum anti–tis­
+sue transglutaminase immunoglobulin A (IgA) antibody levels should 
+be assessed. A total IgA level should be performed concomitantly to 
+exclude IgA deficiency confounding interpretation. If the patient does 
+have IgA deficiency, anti–tissue transglutaminase IgG levels or esoph­
+agogastroduodenoscopy with duodenal biopsies can be performed.
+Plain films of the abdomen are rarely necessary, although if 
+obtained may demonstrate stool in the large bowel. While this infor­
+mation is occasionally useful in the case of a child with complaints of 
+diarrhea whose symptoms are due to fecal impaction and overflow of 
+liquid stools, a digital rectal exam similarly can supply the information 
+needed. In addition, there is poor correlation between stool burden 
+on abdominal radiography and symptoms of constipation. However, 
+abdominal radiography may be a useful initial study in the evaluation 
+of suspected obstruction or pseudoobstruction, identifying possible 
+transition zones and/or air-fluid levels. Suspected Hirschsprung dis­
+ease is evaluated radiographically via a liquid contrast enema in chil­
+dren over 1 month of age in whom a transition zone is expected to have 
+developed; in neonates, rectal suction biopsy is the test of choice (Fig. 
+19.4). A contrast study in neonates may be useful to detect a meconium 
+plug, microcolon, meconium ileus, or congenital anomalies (ileal atre­
+sia, colonic duplication).
+Neurologic symptoms, lower extremity or midline defects of the 
+lower back or gluteal cleft, or examination findings suggestive of occult 
+spinal dysraphism or tethered cord should be investigated with MRI 
+of the spine and/or brain. MRI can be used if a disorder involving the 
+lumbosacral spine is abnormal. Children with lower extremity and 
+midline defects involving the lower back or gluteal cleft should have 
+this imaging considered. Concerns for intestinal dysmotility may be 
+evaluated with a colonic transit study, in which the patient swallows 
+either a capsule of radiopaque circular markers once on day 1 or dif­
+ferent-shaped markers on 3 consecutive days and undergoes serial 
+abdominal radiographs to determine the distribution of the markers. 
+After 3 days and by some protocols again after 7 days, any markers 
+that have not yet been evacuated in the stool should be located in the 
+rectum. The presence of markers more proximally in the gastrointesti­
+nal tract suggests enteric nervous system or neuromuscular pathology 
+(e.g., pediatric intestinal pseudoobstruction).
+A rectal motility evaluation may be helpful in the diagnosis and 
+management of chronic constipation. Anorectal manometry can be 
+used to evaluate the integrity of the muscles and the innervation of the 
+defecatory mechanism. Determining the sensory threshold provides 
+valuable diagnostic information: patients who cannot detect a balloon 
+filled with 120 mL of air usually have encopresis. Hirschsprung disease 
+is unlikely if reflexive relaxation of the internal anal sphincter occurs in 
+the presence of rectal distention. Manometry and electromyography 
+document the paradoxical contraction of the external anal sphincter 
+on attempted defecation seen in functional dyssynergia. Anorectal 
+manometry can also be used as a therapeutic modality in biofeedback 
+therapy in patients with constipation and encopresis and in patients 
+with paradoxical external anal sphincter contraction. Total colonic 
+A
+B
+C
+Internal
+sphincter
+Internal
+sphincter
+External
+sphincter
+External
+sphincter
+External
+sphincter
+Internal
+sphincter
+Fig. 19.2  A, Anterior ectopic anus. B, Normal anal anatomy. C, Anterior anal displacement.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+345
+CHAPTER 19  Constipation
+Fourchette-
+coccygeal
+distance
+Fourchette-
+anal distance
+Scroto-
+coccygeal
+distance
+Scroto-
+anal distance
+Fig. 19.3  Measuring the anal position index (API) in females and males. The API is defined as the ratio of 
+the distance between the anus and the posterior aspect of the genitals (the fourchette in females and scro­
+tum in males) to the distance between the coccyx and the posterior genitals. (From Alemrajabi M, Moradi 
+M, Jahangiri F, et al. Anal position index; can it predict pelvic organ disorders in adults? J Coloproctol. 
+2019;39[3]:237–241.)
+Presence
+of ganglion cells
+and normal AChE activity,
+but absence of recto-
+sphincteric reflex
+on anorectal
+manometry
+Presence
+of ganglion cells
+and normal AChE activity,
+but therapy-resistant
+constipation or
+functional bowel
+obstruction
+Submucosal
+hyperganglionosis
+with giant ganglia,
+ectopic ganglion cells,
+and increased
+AChE activity
+Rectal suction biopsy
+stained with AChE
+Internal
+anal sphincter
+achalasia
+Intestinal ganglio-
+neuromatosis
+Immature ganglia
+AChE
+staining
+NADPH-d
+staining
+AChE and
+NADPH-d
+staining
+Silver
+staining
+Transmission
+electron
+microscopy
+Isolated
+hypoganglionosis
+Absence of the
+argyrophil plexus
+Megacystis
+microcolon
+intestinal
+hypoperistalsis
+syndrome
+Full-thickness
+rectal biopsy
+Intestinal neuronal
+dysplasia type B
+Hirschsprung
+disease
+Absence
+of ganglion cells
+and increased
+AChE activity
+Fig. 19.4  Diagnostic algorithm for investigating chronic constipation and functional bowel obstruction in new­
+born infants and young children. AChE, acetylcholinesterase; NADPH-d, nicotinamide adenine dinucleotide 
+phosphate diaphorase.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+346
+SECTION 4   Gastrointestinal Disorders
+motility is performed by placing a catheter in the colon to monitor 
+pressures from the rectum to the cecum. Motility tracings reveal infor­
+mation about the function of the colon that is useful in diagnosis and 
+treatment, particularly if surgical options need to be explored.
+DIFFERENTIAL DIAGNOSIS
+The algorithmic approach to evaluating delayed passage of meconium 
+in neonates is presented in Figure 19.4. An algorithmic approach to 
+evaluating pediatric constipation is presented in Figure 19.5.
+Hirschsprung Disease
+Congenital aganglionic megacolon, or Hirschsprung disease, is a com­
+mon cause of neonatal intestinal obstruction, occurring in approxi­
+mately 1:5,000 to 1:15,000 live births, with a male-to-female ratio of 
+about 4:1. The disease is rare in premature births, may be familial, and 
+is associated with trisomy 21, Waardenburg syndrome, multiple endo­
+crine neoplasia type 2A syndrome, congenital central hypoventilation 
+syndrome, and piebaldism. The absence of ganglion cells in both the 
+Meissner (submucosal) plexus and the Auerbach (myenteric) plexus 
+results in an inability of the involved segment of bowel to relax in 
+response to distention from the presence of stool. In the newborn, pas­
+sage of meconium is often delayed beyond 48 hours after birth. Most 
+affected patients are diagnosed during infancy: 50% are diagnosed 
+in the first months of life, 75% by 3 months, and 80% by the end of 
+the first year. Diagnosis may be delayed into childhood and, in rare 
+cases, into adolescence or even adulthood in some patients with ultra­
+short-segment disease. These patients complain of constipation; mani­
+festations usually start in infancy. Differentiating Hirschsprung disease 
+from functional constipation may be challenging in older patients or 
+in those with short-segment disease (Table 19.6). Conditions that may 
+mimic Hirschsprung disease include other abnormalities of intestinal 
+innervation such as chronic pediatric intestinal pseudoobstruction and 
+hyperganglionosis (see Table 19.1 and Fig. 19.4).
+The lesion begins at the internal anal sphincter and extends contin­
+uously into the rectum or the rectosigmoid colon in up to 80% of cases. 
+In 10% of cases, there is total colonic aganglionosis; in another 10%, 
+there is variable involvement of the small intestine in addition to total 
+colonic disease. Delayed passage of meconium is the most common 
+manifestation in the neonate, followed by lower intestinal obstruc­
+tion (distention, bile-stained emesis), obstipation (no stools), failure 
+to thrive, or, in rare cases, intestinal perforation. Meconium plug syn­
+drome, in which a thick, inspissated cast of meconium obstructs the 
+colonic lumen, may be an initial presentation. In addition, if stool 
+is passed immediately after a rectal examination is performed in an 
+obstipated or constipated patient, Hirschsprung disease should be 
+suspected.
+A plain abdominal film occasionally reveals distention of the nor­
+mally innervated bowel proximal to the affected segment. The most 
+useful radiographic test, though, is a liquid contrast enema, which 
+may demonstrate a small-caliber rectum with a transition in the rec­
+tosigmoid to the dilated, obstructed, normal proximal colon. Patients 
+undergoing contrast enema should not undergo preparatory bowel 
+evacuation procedures, which decrease test specificity, particularly 
+in short-segment disease. A delayed lateral radiograph performed 24 
+hours after the contrast enema aids in identifying a transition zone in 
+the sigmoid colon.
+Anorectal manometry is a valuable diagnostic procedure if radio­
+graphic procedures are unrevealing. Normal internal anal sphincter 
+relaxation with transient rectal distention rules out Hirschsprung dis­
+ease. Paradoxical contraction of the internal anal sphincter suggests 
+an absence of ganglion cells and is most common in Hirschsprung 
+disease, though absence of relaxation has also been noted in prema­
+ture infants, in neonates with infection or sepsis, and in thyroid aplasia; 
+normal function is seen after appropriate therapy for these conditions. 
+The sensitivity and specificity of anorectal manometry vary somewhat 
+by age (children vs infants vs neonates), with a sensitivity that ranges 
+from 0.79 to 0.90, a specificity ranging from 0.97 to 1.00, and a positive 
+predictive value of 0.94–1.00.
+A definitive diagnosis of Hirschsprung disease requires histologic 
+confirmation of the absence of ganglion cells; such confirmation may 
+be accomplished by a simple submucosal suction biopsy, which may 
+be performed in the physician’s office. Suction biopsy excludes the 
+diagnosis if ganglion cells are present. However, there may be a 10% 
+false-negative rate. A full-thickness rectal biopsy procedure is reserved 
+for infants with bowel obstruction and for older children with abnor­
+mal rectal motilities and inconclusive suction biopsies.
+Complications of undiagnosed Hirschsprung disease include acute 
+toxic megacolon or infectious enterocolitis, most frequently caused by 
+Staphylococcus aureus or Clostridioides difficile. Therapy for these com­
+plications includes correcting electrolyte abnormalities (oftentimes 
+hypokalemia), broad-spectrum parenteral antibiotics, bowel rest, rec­
+tal tube placement, and, if needed, emergency cecostomy or colectomy. 
+Treatment for Hirschsprung disease is surgical resection of the affected 
+segment of bowel and various strategies for an ileal or colonic rectal 
+pull-through procedure.
+Pediatric Intestinal Pseudoobstruction
+Chronic intestinal pseudoobstruction is characterized by symptoms of 
+intestinal obstruction without an identifiable lumen-occluding lesion. 
+Pediatric-onset disease differs from adult-onset disease in etiology, 
+symptom onset, phenotypic features, and natural history, and is consid­
+ered a distinct entity termed pediatric intestinal pseudoobstruction 
+(PIPO) (Table 19.7). A variety of primary and secondary etiologies can 
+produce the underlying pathophysiology of PIPO, which may consist 
+of an intestinal neuropathy, an intestinal smooth muscle myopathy, 
+an intestinal mesenchymopathy in which there is dysfunction of the 
+interstitial cells of Cajal (ICC), or a combination of these mechanisms 
+(Table 19.8).
+Symptoms vary according to the pathophysiology and the extent to 
+which the gastrointestinal tract and other organ systems are involved, 
+though most affected patients experience abdominal distention, vomit­
+ing, and constipation. The majority present during the neonatal period; 
+at onset these symptoms may be nonspecific and mimic colic, feeding 
+intolerance, or other more routine causes of neonatal constipation; up 
+to 80% of patients will present by 1 year of age. The abdominal dis­
+tention, vomiting, and constipation may be episodic or exacerbated 
+by intercurrent illnesses, surgical procedures, psychologic stressors, or 
+enteral feeds. Over time, intestinal stasis may result in small intestinal 
+bacterial overgrowth with resultant worsening abdominal distention 
+and pain, and malabsorption; malnutrition may produce additional 
+manifestations, including growth failure and the sequelae of micronu­
+trient deficiencies. Certain etiologies are more likely to have associated 
+features that may suggest PIPO as the underlying cause of abdomi­
+nal symptoms; patients with an underlying intestinal smooth muscle 
+myopathy are more likely to have bladder involvement. Earlier onset 
+(<1 year)–associated intestinal malrotation, enteral feeding intoler­
+ance, and parenteral nutrition dependence are additional predictors of 
+poor outcome; mortality risk is approximately 20%.
+Congenital PIPO may be sporadic or inherited; manifestations 
+differ according to the underlying genetic abnormality (Table 19.9), 
+though variable expressivity and penetrance have been noted within 
+families with the same genetic abnormality as well. One congenital 
+form, megacystis-microcolon-intestinal hypoperistalsis syndrome, 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+347
+CHAPTER 19  Constipation
+can be suspected antenatally via the demonstration of an enlarged 
+bladder and/or an abnormally narrow colon on fetal ultrasound, with 
+gastrointestinal symptoms developing shortly after birth. The blad­
+der remains enlarged and difficult to empty, contributing to abdom­
+inal distension and often requiring catheterization. Mitochondrial 
+neurogastrointestinal encephalopathy (MNGIE) is characterized 
+by ptosis, ophthalmoplegia, peripheral neuropathy, and white mat­
+ter abnormalities, in addition to pseudoobstruction. Other genetic 
+forms have characteristic phenotypic features that suggest the specific 
+diagnosis (see Table 19.9) and the potential need for either targeted 
+Present since birth or infancy?
+Normal exam?
+No
+No
+CONSTIPATION
+Normal exam?
+Yes
+Yes
+Yes
+No
+No
+No
+Anal stenosis
+Anal displacement
+Ectopic anus
+Spina bifida,
+  etc.
+Abnormal
+Normal
+Normal
+Normal
+Abnormal
+Manometry
+Labs
+Labs
+Constipation
+management
+Appropriate therapy
+for specific lesion,
+then constipation
+management as
+needed
+Hypothyroidism
+Hypercalcemia
+Lead intoxication
+Diabetes
+Infectious
+Hypopituitarism,
+  etc.
+Constipation
+management
+Constipation
+management
+Paradoxical internal
+anal sphincter
+contraction
+Rectal suction
+biopsy
+Ganglion cells
+present
+Ganglion cells
+absent
+Constipation
+management
+Liquid contrast enema
+Transitional
+zone identified
+Full-thickness
+rectal biopsy at
+time of surgery
+for Hirschsprung
+disease
+Normal
+?Short-segment
+Hirschsprung
+disease
+Full-thickness rectal biopsy
+Ganglion cells
+present
+Surgery for
+Hirschsprung
+disease
+Ganglion cells
+absent
+Appropriate therapy
+for underlying condition,
+then constipation
+management as needed
+Fig. 19.5  Algorithmic approach to the diagnosis of constipation.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+348
+SECTION 4   Gastrointestinal Disorders
+pseudoobstruction gene panel testing or genome or exome sequenc­
+ing with copy number variant analysis. Secondary causes of PIPO are 
+diverse, though can be categorized according to pathophysiology or 
+associated disease (see Table 19.8).
+The diagnosis should be suspected in patients presenting with symp­
+toms of obstruction in whom anatomic luminal obstruction and malro­
+tation have been excluded. Abdominal radiography may show dilated 
+loops of bowel or multiple air-fluid levels. Luminal contrast studies can 
+help exclude malrotation or obstruction; water-soluble contrast is pre­
+ferred, as retained barium in the setting of delayed intestinal transit 
+may form a bezoar. CT or MRI may be considered in patients unable to 
+tolerate enteral contrast or in instances where extraluminal pathology 
+is being considered as well. Laboratory evaluation should be directed 
+at excluding secondary causes (see Table 19.8), particularly since ther­
+apy for those diseases that are amenable to treatment may reverse the 
+symptoms of PIPO; the evaluation should include a CBC, comprehen­
+sive metabolic profile, inflammatory markers, and thyroid and cortisol 
+studies. If history of phenotypic features is suggestive, then additional 
+studies may include hemoglobin-A1c; anti–tissue transglutaminase 
+IgA and total IgA; antinuclear antibody; anti-double-stranded DNA; 
+anti-Scl-70 antibodies; aldolase and creatine phosphokinase; urine 
+catecholamines; anti-Hu and type 1 anti-neuronal nuclear antibodies; 
+urinary porphyrins; serology for Chagas disease, Epstein-Barr virus 
+(EBV), cytomegalovirus (CMV), JC virus, herpes simplex virus (HSV), 
+and rotavirus; thymidine phosphorylase activity; serum lactic acid; and 
+toxicology screens as indicated based on exposure history.
+Manometry can identify the extent of gastrointestinal tract involve­
+ment and help distinguish between myopathic and neuropathic etiol­
+ogies; it may be challenging if disease is more restricted to the small 
+intestine. Normal manometry and the absence of dilated bowel loops 
+on plain radiography suggest alternate diagnoses. Histologic studies 
+can provide more conclusive evidence of pathophysiology and guide 
+prognostication and therapy. Full-thickness biopsies of the gastric 
+antrum, small intestine, and colon should be obtained. Laparoscopic 
+techniques decrease the risk of adhesions, disease exacerbation, or 
+other complications. Neuropathic disease is characterized by loss or 
+inflammatory infiltration of neurons, myopathic disease by smooth 
+muscle atrophy and fibrosis, and mesenchymopathic disease by 
+reduced, absent, or disrupted ICC networks, whereas mixed disease 
+will demonstrate features of all three mechanisms.
+Treatment is directed at correcting any underlying conditions 
+resulting in secondary PIPO and at optimizing nutrition and qual­
+ity of life while minimizing intraabdominal interventions that can 
+exacerbate symptoms or result in adhesions, infection, or other com­
+plications. Some patients may tolerate eating orally with the use of pro­
+motility agents. Others with disease affecting primarily the proximal 
+gastrointestinal tract may be able to tolerate gastric or jejunal feeds 
+via enteral feeding tubes. Most patients will be unable to meet their 
+nutritional requirements via enteral feeds alone and often require some 
+degree of parenteral nutrition support. In these patients, central line 
+complications or infections can be an additional source of morbidity 
+or mortality.
+Anterior Anal Displacement
+There are two forms of displacement of the anus (see Fig. 19.2). In 
+anterior ectopic anus, the anal canal and the internal anal sphincter 
+are displaced anteriorly in the perineum as a unit and are separated 
+from the external anal sphincter, which remains posterior in its usual 
+position. On physical examination, it may be possible to elicit an exter­
+nal sphincter anal wink in the usual location, posterior to the opening 
+of the anal canal. Rectal examination often reveals a sharp posterior 
+angulation in the anal canal. In anterior anal displacement, the entire 
+normal anal unit is located in the anterior perineum. Both entities are 
+found more commonly in females. Symptoms of constipation often 
+begin in the neonatal period and are related to the difficulty in expel­
+ling stool through a canal that is angled anteriorly. If the displacement 
+is severe enough to cause symptoms, surgical correction may be neces­
+sary to relocate the anus and relieve the obstruction.
+Anal Stenosis
+The diagnosis of anal stenosis may be delayed beyond the neonatal 
+period, especially if the degree of stenosis is not severe. Any portion 
+of the anal canal or the entire canal may be involved. The diagnosis 
+can be made by digital examination or by endoscopy. Constipation is 
+caused by fecal retention secondary to outlet obstruction. Treatment is 
+by dilatation or anorectal myectomy.
+Imperforate Anus
+Imperforate anus is usually diagnosed in the neonatal nursery. Passage 
+of meconium is delayed or is noted to take place through an abnormal 
+TABLE 19.6  Distinguishing Hirschsprung 
+Disease from Functional (Acquired) 
+Constipation
+Functional 
+Constipation
+Hirschsprung 
+Disease*
+History
+Gender of patient
+Male
+Male
+Onset of constipation
+After 2 yr of age
+At birth
+Prevalence
+1–3% of males
+1:5,000–1:15,000
+Encopresis
+Common
+Very rare
+Forced bowel training
+Usual
+None
+Stool size
+Very large
+Small, ribbon-like
+Enterocolitis
+None
+Possible
+Abdominal pain
+Common
+Rare except with obstruc­
+tion, toxic megacolon, 
+or enterocolitis
+Failure to thrive
+Uncommon
+Common
+Examination
+Abdominal distention
+Variable
+Common
+Poor growth
+Rare
+Common
+Anal tone
+Patulous
+Tight
+Rectal examination
+Stool in ampulla
+Ampulla empty
+Malnutrition
+Absent
+Possible
+Laboratory
+Contrast enema
+Massive amounts of 
+stool, no transition 
+zone
+Transition zone, delayed 
+evacuation (>24 hr)
+Rectal biopsy
+Normal
+No ganglion cells; ↑ 
+acetylcholinesterase 
+staining
+Anorectal manometry
+Distention of the 
+rectum causes 
+relaxation of the 
+internal sphincter
+No sphincter relaxation
+*Note that ultrashort-segment Hirschsprung disease may have clinical 
+features of functional (acquired) megacolon (e.g., constipation).
+Modified from Behrman RE, ed. Nelson Textbook of Pediatrics. 16th 
+ed. Philadelphia: Saunders; 2000:1140.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+TABLE 19.7  Common and Distinctive Features of Pediatric Intestinal Pseudoobstruction
+Etiology
+Majority of cases appear to be congenital (up to 80%) and primary; secondary forms rare (<10%)
+Disease subtype
+Neuropathies more common (∼70%) with myopathic forms seen in ∼30%
+Symptom onset
+In utero, from birth, or early infancy (65–80% of patients by 12 mo of age)
+Clinical features
+ • Recurrent or continuous episodes of intestinal pseudoobstruction with symptoms present from birth/early life
+ • Pain infrequently seen (approximately 30%)
+ • Urologic involvement common (36–100%)
+ • Intestinal malrotation in about 30% of cases
+ • High risk of colonic and small bowel volvulus
+Natural history
+ • Poor outcome predicted by myopathic forms of PIPO; urinary involvement; concurrent intestinal malrotation; and inability to tolerate 
+enteral feeds
+ • Risk of mortality in approximately 20% of cases
+Diagnostic approach
+ • Diagnosis relies on clinical picture and radiology together with specialized tests (e.g., intestinal manometry, histopathology)
+ • Dilated bowel loops with fluid levels commonly absent (∼40%) in patients presenting in the neonatal period
+ • Histopathology yield high and used to inform management, for example, use of parenteral nutrition in intestinal myopathies and 
+prokinetics in intestinal neuropathies
+ • Apart from specific indications little yield from investigating for secondary PIPO
+ • Need to differentiate from feeding problems and fabricated or induced illness
+Nutritional therapy
+Significant (∼80%) require parenteral nutrition to maintain normal growth and development; specialized feeds (e.g., hydrolyzed protein 
+feeds) and feeding routes (e.g., jejunal) used to promote enteral feed tolerance
+Pharmacologic therapy
+Minimal evidence from well-designed trials; most medication use is based on anecdotal evidence, case reports, or adult literature
+Surgical therapy
+Venting ostomies very commonly used to decompress and reduce pseudoobstructive events; surgery as a “bridge” to transplantation may 
+be indicated in highly elected cases
+PIPO, pediatric intestinal pseudoobstruction.
+From Mousa H, Hyman PE, Cocjin J, et al. Long-term outcome of congenital intestinal pseudoobstruction. Dig Dis Sci. 2002;47:2298–2305; 
+Faure C, Goulet O, Ategbo S, et al. Chronic intestinal pseudoobstruction syndrome: clinical analysis, outcome, and prognosis in 105 children. 
+French-Speaking Group of Pediatric Gastroenterology. Dig Dis Sci. 1999;44:953–959; Hanks JB, Meyers WC, Andersen DK, et al. Chronic primary 
+intestinal pseudo-obstruction. Surgery. 1981;89:175–182; Mann SD, Debinski HS, Kamm MA. Clinical characteristics of chronic idiopathic intestinal 
+pseudo-obstruction in adults. Gut. 1997;41:675–681; Pitt HA, Mann LL, Berquist WE, et al. Chronic intestinal pseudo-obstruction. Management 
+with total parenteral nutrition and a venting enterostomy. Arch Surg. 1985;120:614–618; Stanghellini V, Camilleri M, Malagelada JR. Chronic idio­
+pathic intestinal pseudo-obstruction: clinical and intestinal manometric findings. Gut. 1987;28:5–12; Stanghellini V, Cogliandro RF, De Giorgio R, 
+et al. Natural history of chronic idiopathic intestinal pseudo-obstruction in adults: a single center study. Clin Gastroenterol Hepatol. 2005;3:449–458; 
+Vargas JH, Sachs P, Ament ME. Chronic intestinal pseudo-obstruction syndrome in pediatrics. Results of a national survey by members of the 
+North American Society of Pediatric Gastroenterology and Nutrition. J Pediatr Gastroenterol Nutr. 1988;7:323–332; Howard L, Ashley C. Manage­
+ment of complications in patients receiving home parenteral nutrition. Gastroenterology. 2003;124:1651–1661.
+TABLE 19.8  Classification of Pediatric Intestinal Pseudoobstruction (PIPO)
+Primary PIPO
+ • Sporadic or familial forms of myopathy and/or neuropathy and/or mesenchymopathy (abnormal ICC development) that relate to disordered development, degener­
+ation, or inflammation. Inflammatory (including autoimmune) conditions include lymphocytic and eosinophilic ganglionitis and/or leiomyositis
+ • Mitochondrial neurogastrointestinal encephalomyopathy (MNGIE) and other mitochondrial diseases
+ • Neuropathy associated with multiple endocrine neoplasia type 2B
+ • Hirschsprung disease (e.g., total intestinal aganglionosis)*
+Secondary PIPO
+ • Conditions affecting GI smooth muscle:
+ • Rheumatologic conditions (dermatomyositis/polymyositis, scleroderma, systematic lupus erythematosus, Ehlers-Danlos syndrome)
+ • Other (Duchenne muscular dystrophy, myotonic dystrophy, amyloidosis, ceroidosis/brown bowel syndrome)
+ • Pathologies affecting the enteric nervous system (familial dysautonomia; primary dysfunction of the autonomic nervous system; neurofibromatosis; diabetic 
+neuropathy; fetal alcohol syndrome; postviral-related inflammatory neuropathy, e.g., cytomegalovirus, Epstein-Barr virus, varicella zoster virus, JC virus)
+ • Endocrinologic disorders (hypothyroidism, diabetes, hypoparathyroidism, pheochromocytoma)
+ • Metabolic conditions (uremia, porphyria, electrolyte imbalances, e.g., potassium, magnesium, calcium)
+ • Gastroschisis
+ • Neuropathy following neonatal necrotizing enterocolitis
+ • Other (celiac disease; eosinophilic gastroenteritis; Crohn disease; radiation injury; Chagas disease; Kawasaki disease; angioedema; drugs, e.g., opioids, anthraqui­
+none laxatives, calcium channel blockers, antidepressants; antineoplastic agents, e.g., vinca alkaloids; paraneoplastic CIPO; major trauma/surgery; chromosome 
+abnormalities)
+Idiopathic (i.e., where forms of primary or secondary PIPO classified as above do not, as yet, have a defined etiopathogenesis)
+CIPO, chronic intestinal pseudoobstruction; GI, gastrointestinal.
+*Needs to be excluded in all cases of PIPO.
+From Thapar N, Saliakellis E, Benninga MA, et al. Paediatric intestinal pseudo-obstruction: evidence and consensus-based recommendations from 
+an ESPGHAN-led expert group. J Pediatr Gastroenterol Nutr. 2018;66(6):991–1019 (Table 3, p. 999).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+350
+SECTION 4   Gastrointestinal Disorders
+TABLE 19.9  Primary Disorders Associated with Chronic Intestinal Pseudoobstruction and 
+Identified Genes
+Gene
+Syndrome
+Function
+Inheritance
+Phenotype
+Age of onset
+SOX10
+Type IV Waardenburg 
+syndrome
+Encodes a transcription 
+factor essential for the 
+development of enteric 
+neurons
+Autosomal 
+dominant
+Peripheral neuropathy with 
+hypomyelination, sensorineural 
+deafness, and pseudoobstruc­
+tion
+Neonatal period
+POLG (DNA-polymerase 
+gamma)
+Congenital myopathy 
+and gastrointestinal 
+pseudoobstruction
+Encodes for the catalytic 
+subunit of the mitochon­
+drial DNA
+Autosomal 
+recessive
+Associated with mitochondrial 
+depletion and deletions. Severe 
+hypotonia and generalized 
+muscle weakness, severe 
+abdominal distension, and 
+hypoactive bowel
+Neonatal period
+FLNA (filamin A)
+Chronic idiopathic intes­
+tinal pseudoobstruction 
+(CIIPX)
+Encodes large cytoskele­
+tal proteins
+X-linked recessive Abnormal filamin A leads to 
+cytoskeletal abnormalities and 
+potentially disrupts entericneu­
+ron structure and function. 
+Seizures and progressive 
+abdominal distension and 
+obstruction
+Neonatal period
+L1CAM (L1 cell adhe­
+sion molecule)
+Hydrocephalus with ste­
+nosis of the aqueduct 
+of Sylvius (HSAS) and 
+congenital idiopathic 
+intestinal pseudoob­
+struction
+Encodes a transmem­
+brane glycoprotein 
+involved in neurite 
+outgrowth and neuronal 
+migration
+Autosomal 
+recessive
+Defect in the differentiation of the 
+interstitial cells of Cajal leading 
+to progressive distension 
+and intermittent episodes of 
+obstruction
+Neonatal period
+ACTG2 (enteric smooth 
+muscle actin–gamma 
+2)
+Familial visceral 
+myopathy; megacys­
+tis–microcolon–intes­
+tinal hypoperistalsis 
+syndrome
+Encodes enteric smooth 
+muscle actin
+Autosomal domi­
+nant, sporadic
+Altered ACTG2 protein in the 
+muscularis propria leads to 
+impaired contractility
+Neonatal to third decade 
+in life
+MYH11 (myosin heavy 
+chain 11)
+Megacystis–microcolon–
+intestinal hypoperistal­
+sis syndrome
+Encodes myosin light 
+chain
+Autosomal 
+recessive
+Abnormal MYH11 in smooth mus­
+cle myosin leads to impaired 
+contractility
+Neonatal to third decade 
+in life
+MYLK (myosin light 
+chain kinase)
+Megacystis–microcolon–
+intestinal hypoperistal­
+sis syndrome
+Encodes a kinase required 
+for myosin activation 
+and subsequent 
+interaction with actin 
+filaments
+Autosomal 
+recessive
+Abnormal MYLK leads to impaired 
+smooth muscle cell contraction
+Neonatal to third decade 
+in life
+LMOD1 (leiomodin 1)
+Megacystis–microcolon–
+intestinal hypoperistal­
+sis syndrome
+Encodes visceral smooth 
+muscle cells
+Sporadic
+Abnormal LMOD1 leads to 
+impaired intestinal smooth 
+muscle contractility
+Neonatal to third decade 
+in life
+MYL9 (myosin regula­
+tory light chain 9)
+Megacystis–microcolon–
+intestinal hypoperistal­
+sis syndrome
+Encodes a regulatory 
+myosin light chain
+Autosomal 
+recessive
+Abnormal MYL9 leads to impaired 
+intestinal smooth muscle 
+contractility
+Neonatal to third decade 
+in life
+RET proto-oncogene 
+(receptor tyrosine 
+kinase)
+MEN2B
+Expressed in the neural 
+crest cells of the enteric 
+ganglia and encodes a 
+member of the receptor 
+tyrosine kinase family 
+of transmembrane 
+receptors
+Autosomal 
+dominant
+Gain-of-function variant associ­
+ated with intestinal ganglioneu­
+romas leading to increased cell 
+number in the myenteric plexus 
+and dysmotility
+Infancy to third decade 
+of life
+TYMP (thymidine 
+phosphorylase)
+Mitochondrial neurogas­
+trointestinal encephalo­
+myopathy (MNGIE)
+A nucleoside that main­
+tains adequate thymi­
+dine in mitochondria
+Autosomal 
+recessive
+Accumulation of thymidine in 
+mitochondrial DNA leads to 
+impaired function. Multisystem 
+mitochondrial disease with 
+progressive gastrointestinal 
+dysmotility
+Infancy to third decade 
+of life
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+351
+CHAPTER 19  Constipation
+location as a result of the presence of a fistula (e.g., rectovaginal, rec­
+tovesicular, or rectoperineal). Treatment is surgical; the actual proce­
+dure depends on the level and the extent of the defect.
+Spina Bifida and Spina Bifida Occulta
+Defecation disturbances, most frequently constipation, are common 
+in patients with spina bifida and spina bifida occulta, especially if the 
+defect involves the lumbosacral spine. The spinal and nerve root defects 
+result in poor functioning of the terminal bowel. Voluntary external 
+sphincter control and rectoanal sensation are most often diminished 
+or absent, and the degree of difficulty with defecation is related to the 
+degree and the extent of the injury.
+Most patients can achieve an acceptable level of continence via an 
+individualized bowel regimen. Dietary fiber, stool softeners, supposi­
+tories, and enema continence catheters are treatment options. Biofeed­
+back and pudendal nerve stimulation are successful in some patients. 
+In most patients, a combination of treatment modalities allows social 
+continence to be achieved and dramatically improves the patient’s 
+quality of life. Treatment of patients with spinal or nerve injury, or dys­
+function from other causes, is similar.
+Endocrine and Metabolic Diseases
+The appropriate laboratory tests should be performed to rule out the 
+various metabolic and endocrinologic conditions that may manifest 
+with constipation (see Table 19.1). Frequent among these conditions is 
+hypothyroidism, though hypothyroidism manifesting solely with neo­
+natal constipation is rare. Rather, it should be suspected in any infant 
+presenting with constipation, a history of prolonged neonatal jaundice, 
+and other suggestive findings, such as poor feeding or an enlarged fon­
+tanelle size.
+Neurologic Disease
+Children with neurologic disease may have constipation for many rea­
+sons, including poor intestinal motility, lack of dietary fiber, and poor 
+awareness of rectal vault distention with stool retention. Any illness 
+affecting the spinal cord or sacral nerves, degenerative muscle diseases, 
+cerebral palsy, and demyelinating diseases can result in constipation.
+Medication-Related Constipation
+A complete medication and environmental exposure history may 
+reveal substances that can cause constipation (see Table 19.1).
+ENCOPRESIS
+Idiopathic or functional constipation is much more common than 
+Hirschsprung disease. Long-standing constipation, including func­
+tional constipation, leads to encopresis, the deposition of stools in the 
+undergarments or other unorthodox locations that persists or occurs 
+beyond the age that is considered culturally appropriate for achieving 
+continence. In some cultures, delayed bowel training up to the age of 6 
+years is normal. It is generally accepted in the United States that healthy 
+children should be bowel trained by the age of 4 years.
+Encopresis is related to the chronic withholding of stool. As the 
+fecal mass accumulates, it causes rectal distention, increases rectal 
+compliance, and eventually results in blunted or absent sensitivity of 
+the rectum to the presence of liquid stool passing around a firm fecal 
+mass. Children with encopresis usually pass small stools and do not 
+completely empty the rectum. Periodically, they pass huge stools, 
+which may block the toilet. It is important to specifically question the 
+patient or parents regarding these massive stools because this informa­
+tion is frequently not volunteered.
+Encopresis has been incorrectly considered a symptom or mani­
+festation of psychiatric illness. It was thought that the patient retained 
+stools either consciously or subconsciously as a way to rebel against, 
+please, or anger caretakers. Although encopresis may be seen in associ­
+ation with emotional and behavioral problems, it is usually the result of 
+painful defecation followed by a pattern of stool withholding, leading 
+to chronic constipation, overflow encopresis, and possibly poor rela­
+tions with peers as a result of fecal soiling. In the few patients in whom 
+encopresis is truly a manifestation of psychiatric disease, there is often 
+no stool retention, and the prognosis for fecal continence with therapy 
+is poor.
+Idiopathic constipation with or without encopresis may compress 
+the bladder by a dilated rectum, thus causing stasis and urinary tract 
+infections.
+TABLE 19.9  Primary Disorders Associated with Chronic Intestinal Pseudoobstruction and 
+Identified Genes—cont’d
+Gene
+Syndrome
+Function
+Inheritance
+Phenotype
+Age of onset
+RAD21
+Mungan syndrome
+Part of a cohesion 
+complex that controls 
+pairing and unpairing 
+in cell replication. 
+Plays an important 
+role in epithelial and 
+neuronal survival and 
+APOB regulation in the 
+gastrointestinal tract
+Autosomal 
+recessive
+Pseudoobstruction, megaduo­
+denum, long-segment Barrett 
+esophagus, and cardiac abnor­
+malities
+First to second decade 
+of life
+SGOL1
+Chronic atrial and intesti­
+nal dysrhythmia (CAID)
+Component of the cohe­
+sion pathway
+Autosomal 
+recessive
+Accelerated cell cycle progression 
+and enhanced activation of TGF-
+β signaling leading to changes 
+in both the enteric nervous 
+system and smooth muscle
+First to fourth decade 
+of life
+APOB, apolipoprotein B; MEN2B, multiple endocrine neoplasia type 2B; TGF-β, transforming growth factor-β.
+From Gamboa HE, Sood M. Pediatric intestinal pseudo-obstruction in the era of genetic sequencing. Curr Gastroenterol Rep. 2019;21:70. https://
+doi.org/10.1007/s11894-019-0737-y
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+352
+SECTION 4   Gastrointestinal Disorders
+   	 S U MMA RY  A N D  R E D  F L A G S
+Constipation is a common concern in infants and young children. A 
+detailed history of bowel patterns identifies many children with nor­
+mal bowel movements whose parents need reassurance. The majority 
+of patients who do have constipation have functional constipation. 
+The history should include a review of all medications and a search 
+for an associated chronic disease, such as a metabolic or neurologic 
+disease. This complete history, combined with a careful physical 
+examination, including the spine and sacral area, the location of the 
+anus, and a digital rectal examination, should alert the physician to 
+the need for further evaluation. Red flags include onset in the neona­
+tal period, growth failure, prolonged jaundice in the neonatal period, 
+and symptoms of obstruction. Distinguishing features associated with 
+Hirschsprung disease are listed in Table 19.6. Pediatric intestinal pseu­
+doobstruction may initially present with nonspecific symptoms but has 
+a significant risk of morbidity and mortality.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+352.e1
+BIBLIOGRAPHY
+Alemrajabi M, Moradi M, Jahangiri F, et al. Anal position index; can it 
+predict pelvic organ disorders in adults? J Coloproctol. 2019;39(3):237–
+241.
+Alves MM, Sribudiani Y, Brouwer RWW, et al. Contribution of rare and 
+common variants determine complex diseases—Hirschsprung disease as a 
+model. Dev Biol. 2013;382:320–329.
+Bennett Jr WE, Heuckeroth RO. Hypothyroidism is a rare cause of isolated 
+constipation. J Pediatr Gastroenterol Nutr. 2012;54:285–287.
+Benninga MA, Nurko S, Faure C, et al. Childhood functional gastrointestinal 
+disorders: neonate/toddler. Gastroenterol. 2016;150:1443–1455.
+Croffie JM, Davis MM, Faught PR, et al. At what age is a suction rectal biopsy 
+less likely to provide adequate tissue for identification of ganglion cells? J 
+Pediatr Gastroenterol Nutr. 2007;44:198–202.
+Davari HA, Hosseinpour M. The anal position index: a simple method to 
+define the normal position of the anus in the neonate. Acta Paediatr. 
+2006;95:877.
+Di Lorenzo C. Pediatric anorectal disorders. Gastroenterol Clin North Am. 
+2001;30:269.
+Gamboa HE, Sood M. Pediatric intestinal pseudo-obstruction in the era of 
+genetic sequencing. Curr Gastroenterol Rep. 2019;21(12):70.
+Gidrewicz D, Potter K, Trevenen CL, et al. Evaluation of the ESPGHAN celiac 
+guidelines in North American pediatric population. Am J Gastroenterol. 
+2015;110:760–767.
+Granada C, Loveless M, Justice T, et al. Tethered cord syndrome in the 
+pediatric-adolescent gynecologic patient. J Pediatr Adolesc Gynecol. 
+2015;28(5):309–312.
+Hyams JS, Di Lorenzo C, Saps M, Shulman RJ, Staiano A, van Tilburg M. 
+Childhood functional gastrointestinal disorders: child/adolescent. Gastro­
+enterol. 2016;150:1456–1468.
+Khatib M, Baker RD, Ly EK, et al. The presenting pattern of pediatric celiac 
+disease. J Pediatr Gastroenterol Nutr. 2016;62(1):60–63.
+Lapointe SP, Rivet C, Goulet O, et al. Urological manifestations associated with 
+chronic intestinal pseudo-obstructions in children. J Urol. 2002;168(4 Pt 
+2):1768–1770.
+Lembo AJ, Ullman SP. Constipation. In: Feldman M, Friedman LS, Sleisenger 
+MH, eds. Sleisenger & Fordtran’s Gastrointestinal and Liver Disease. Phila­
+delphia: WB Saunders; 2002:181–210.
+Longstreth GF, Thompson WG, Chey WD, et al. Functional bowel disorders. 
+Gastroenterology. 2006;130:1480–1491.
+Lu PL, Mousa HM. Constipation: beyond the old paradigms. Gastroenterol 
+Clin N Am. 2018;47(4):845–862.
+Metaj M, Laroia N, Lawrence RA, et al. Comparison of breast- and formula-fed 
+normal newborns in time to first stool and urine. J Perinatol. 2003;23:624–628.
+Mohseni M, Kruse B. An unusual mimic of intermittent bowel obstruction. 
+Am J Case Rep. 2019;20:1920–1922.
+Proctor ML, Traubici J, Langer JC, et al. Correlations between radiographic 
+transition zone and level of aganglionosis in Hirschsprung’s disease: impli­
+cations for surgical approach. J Pediatr Surg. 2003;38:775–778.
+Puri P, Gosemann JH, Nakamura H. Variants of Hirschsprung disease. Semin 
+Pediatr Surg. 2012;21(4):310–318.
+Tabbers MM, Boluyt N, Berger MY, et al. Clinical practice: diagnosis and 
+treatment of functional constipation. Eur J Pediatr. 2011;170:955–963.
+Tabbers MM, DiLorenzo C, Berger MY, et al. Evaluation and treatment of 
+functional constipation in infants and children: evidence-based recom­
+mendations from ESPGHAN and NASPGHAN. J Pediatr Gastroenterol 
+Nutr. 2014;58:258.
+Tambucci R, Quitadamo P, Thapar N, et al. Diagnostic tests in pediatric 
+constipation. J Pediatr Gastroenterol Nutr. 2018;66:e89–e98.
+van den Berg MM, Benninga MA, Di Lorenzo C. Epidemiology of childhood 
+constipation: a systematic review. Am J Gastroenterol. 2006;101:2401–2409.
+Wymer KM, Anderson BB, Wilkens AA, et al. Megacystis microcolon 
+intestinal hypoperistalsis syndrome: case series and updated review of 
+the literature with an emphasis on urologic management. J Pediatr Surg. 
+2016;51:1565–1573.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

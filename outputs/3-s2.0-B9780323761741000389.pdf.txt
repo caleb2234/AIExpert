@@ -1,0 +1,1341 @@
+661
+DEFINITIONS
+Tone is defined as resistance to passive stretch while a patient is attempt­
+ing to maintain a relaxed state of muscle activity. Tone can be divided 
+into postural tone, which represents the steady flexion or extension 
+of a joint caused by the uniform resistance of muscle to passive move­
+ment, and phasic tone, which represents the catch when an extremity 
+is rapidly flexed or extended. Hypertonia describes unusually elevated 
+tone, typically the result of an upper motor neuron disease. Hypertonia 
+itself has three different clinical subtypes that may exist individually or 
+in combination (Table 38.1):
+Spasticity: hypertonia in which one or both of the following signs 
+are present: (1) resistance to externally imposed movement 
+increases with increasing speed of stretch and varies with the 
+direction of joint movement, and/or (2) resistance to externally 
+imposed movement rises rapidly above a threshold speed or 
+joint angle.
+Dystonia: movement disorder in which involuntary, sustained, or 
+intermittent muscle contractions cause twisting and repetitive 
+movements, abnormal posture, or both. The muscle contrac­
+tions are the hypertonic component.
+Rigidity: hypertonia in which all of the following are true: (1) the 
+resistance to externally imposed joint movement is present at 
+very low speeds of movement, does not depend on imposed 
+speed, and does not exhibit a speed or angle threshold; (2) 
+simultaneous co-­contraction of agonists and antagonists may 
+occur, and this is reflected in an immediate resistance to a rever­
+sal of the direction of movement about a joint; (3) the limb does 
+not tend to return toward a particular fixed posture or extreme 
+joint angle; and (4) voluntary activity in distant muscle groups 
+does not lead to involuntary movements about the rigid joints, 
+although rigidity may worsen.
+The term motor syndrome is an alternative term inclusive of the 
+different types of clinical hypertonia as well as other neurologic defi­
+cits. A motor syndrome caused by an injury before the age of 2 years is 
+often labeled cerebral palsy (CP), whereas motor syndromes caused by 
+injuries sustained after that age are described by terminology typically 
+related to the etiology.
+CP (see Chapter 27) and dystonia syndromes (see Chapter 40) are 
+the two most common etiologies of hypertonia in children.
+HISTORY
+Elements of the history that should be collected include:
+ • Onset of increased tone
+ • Preceding illnesses, traumas, surgeries, or any events prior to the 
+onset of increased tone
+ • Course of hypertonia including worsening, improvement, or no 
+changes over time since the onset
+ • Limbs or body parts affected including the part most prominently 
+affected
+ • Any times of the day when hypertonia is most or least noticeable
+ • Abnormal posture or movements
+ • Abnormal gait
+ • Worsening and alleviating factors
+ • History of brain or spinal cord injuries
+ • Drug or toxin exposure
+ • Pregnancy and birth
+ • Other medical or surgical conditions
+ • Family history of any neuromuscular disorders
+ • Environmental or medical allergies
+Physical Examination
+A general physical examination includes head and neck, cardiopulmo­
+nary, abdominal, skin, and genital examinations. Findings on any of 
+these areas may indicate a syndromic or genetic pathology. Addition­
+ally, abnormalities in these systems may have implications on treat­
+ment options for hypertonicity.
+The neurologic examination includes the following components:
+Mental state: This is age dependent and can range from observ­
+ing the patient interacting with their environment and people 
+around them in the first few years of life to formal mental state 
+testing in the older cooperative child.
+Cranial nerves examination includes pupillary reflexes, external 
+eye movements, facial sensation, face symmetry, hearing, tongue 
+and uvula on the midline, neck movements, and shoulder shrug.
+A fundoscopic examination should be performed whenever pos­
+sible. Abnormal findings in the retina can be signs of a genetic 
+or systemic pathology or an intracranial pathology leading to 
+increased intracranial pressure.
+The motor examination is the main tool to assess a patient with 
+hypertonia. Components of the motor exam include:
+Strength: The ability to examine strength is also dependent on the 
+patient’s age and cooperation and ranges from observing the 
+child moving their limbs against gravity and the examiner’s 
+resistance to the more detailed exam of different muscle groups 
+in the child who is able to follow commands. Strength is typi­
+cally graded as follows: 0: no contraction or movement; 1: mus­
+cle contraction but no movement; 2: movement at the level of 
+the bed but not against gravity; 3: movement against gravity but 
+not against resistance; 4: some movement against resistance but 
+not at the expected full level for age; and 5: normal movements 
+against resistance.
+Muscle bulk is assessed by inspection and palpation to detect any 
+subtle muscle wasting, fasciculations, or hypertrophy.
+Tone: It is important to take a thorough look at the whole mus­
+culoskeletal system in a child presenting with increased tone, 
+including the parts that are reportedly unaffected. This allows 
+Hypertonicity
+Ahmad Marashly
+38
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+662
+SECTION 7  Neurosensory Disorders
+for comparison and detection of any unreported abnormalities 
+by history. Inspection will look for size of the muscles, abnormal 
+posture, and abnormal movements.
+The child should be relaxed as much as possible and the body part 
+examined supported against gravity. The head should be maintained in 
+the midline to avoid contributions to tone from the tonic neck reflex. 
+The following steps are then performed:
+	1.	 Palpate muscles to look for contraction at rest.
+	2.	 Measure resistance to movement of the affected joint with the child 
+supine, seated, and standing.
+	3.	 Measure passive range of motion at very slow (3 seconds to com­
+plete the movement), intermediate (0.5 second to complete the 
+movement), and fast (as rapidly as possible) speeds. Note the resis­
+tance at the onset of movement, the presence or absence of a “catch” 
+occurring at some time after the onset of movement, and the joint 
+angle at which the catch occurs.
+	4.	 Perform sudden reversal in the direction of movement at slow, 
+intermediate, and fast speeds, and note the presence or absence 
+of increased resistance immediately on reversal (suggesting co-­
+contraction) or at some time after (suggesting a spastic catch), as 
+well as any velocity dependence.
+	5.	 Ask the child to move the same joint on the contralateral side and 
+observe for involuntary movement, and then test for a change in resis­
+tance to slow, passive movement. Instruct the child to move a distant 
+and unrelated joint (e.g., by opening and closing one fist) on the con­
+tralateral side and then the ipsilateral side and observe for involuntary 
+movement or a change in resistance to passive movement.
+Reflexes: The main reflexes examined are the biceps, triceps, bra­
+chioradials, ankles, and knees.
+Gait: When applicable, gait can aid in the determination of the dif­
+ferent deficit patterns related to weakness, hypertonia, or movement 
+disorders affecting the lower limbs.
+Different scaling systems have been developed to measure hyperto­
+nia including the Ashworth, modified Ashworth, and pendulum tests. 
+These tests do not distinguish between the different clinical types of 
+hypertonia but do measure severity. The Tardieu Scale compares the 
+occurrence of a catch at low and high speeds and is effective in mea­
+suring the velocity-­dependent component of hypertonia (Table 38.2). 
+Other scales are designed to specifically measure dystonia and rigidity 
+such as the Barry-­Albright Dystonia Scale. The Hypertonia Assessment 
+Tool (HAT) is a 7-­item scaling system designed to assess all three dif­
+ferent types of hypertonia for each extremity and has been shown to 
+have good reliability, validity, and inter-­rater agreement in identifying 
+spasticity and the absence of rigidity, and moderate findings for identi­
+fying dystonia (Table 38.3).
+Etiology
+Hypertonia is a result of a pathology to the upper motor neuron path­
+ways in the cortex, basal ganglia, thalamus, cerebellum, brainstem, 
+central white matter, or spinal cord. Hypertonia is not considered to be 
+a sign of a peripheral nerve or muscle pathology.
+Hypertonia is a component of many motor disorders. Clinically, 
+motor disorders are often divided into pyramidal and extrapyramidal 
+groups. However, it is increasingly recognized that the pyramidal and 
+extrapyramidal motor systems are highly interconnected and a clear 
+distinction is not always possible; rather, pathology affecting both sys­
+tems usually exists in the same patient.
+Pyramidal motor disorders result from injury to the cortical 
+projections to the brainstem (corticobulbar) and spinal cord (corti­
+cospinal) at any point along their tract resulting in a combination of 
+weakness and increased tendon reflexes.
+Extrapyramidal motor disorders result from injury to the basal 
+ganglia, cerebellum, or nonprimary motor cortical areas resulting 
+in abnormal motor control without weakness or changes in tendon 
+reflexes.
+The coexistence of pyramidal and extrapyramidal signs can make 
+determination of contributions of these systems complex because dif­
+ferent clinical types of hypertonia (spasticity, dystonia, and rigidity) 
+often coexist in the same patient to variable degrees.
+Furthermore, the ongoing growth, maturation, and prominent plas­
+ticity of the central nervous system in children add to the complexity of 
+motor syndromes, which can lead a static injury to the central nervous 
+system to manifest with a dynamically changing clinical picture.
+CEREBRAL PALSY
+The most common disorder manifesting primarily with hypertonia in 
+children is CP, resulting from an injury to the developing brain before 
+the age of 2 years.
+The different subtypes of spastic CP reflect the different variables 
+involved in determining the clinical picture including age, location, 
+and type of injury (Table 38.4).
+The overall prevalence of CP is ∼2 per 1,000 live births, with much 
+higher prevalence in preterm compared with term infants and decreas­
+ing gestational age (GA) and birthweight (BW).
+TABLE 38.2  Comparison of Ashworth and 
+Tardieu Hypertonia Scales
+Ashworth Scale
+Tardieu Scale
+0
+No increased tone
+No resistance
+1
+Slight increase in muscle tone, manifested 
+by a catch and release or by minimal 
+resistance at the end of the range of 
+motion when the affected part is moved 
+in flexion or extension
+Slight resistance
+2
+More marked increase in muscle tone 
+through most of the range of motion, but 
+affected part(s) easily moved
+Catch followed by a 
+release
+3
+Considerable increase in muscle tone, 
+passive movement difficult
+Fatigable clonus 
+(<10 sec)
+4
+Affected part(s) rigid in flexion or extension
+Infatigable clonus 
+(>10 sec)
+TABLE 38.1  Clinical Findings of the 
+Different Hypertonia Subtypes
+Clinical Finding
+Spasticity
+Dystonia
+Rigidity
+Change in resistance with 
+increasing speed of passive 
+movement
+Increases
+No effect
+No effect
+Change in resistance with rapid 
+reversal of direction
+Delayed
+Immediate
+Immediate
+Fixed posture
+Only in severe 
+cases
+Yes
+No
+Effect of voluntary activity on 
+pattern of activated muscles
+Minimal
+Yes
+Minimal
+Effect of behavioral task and 
+emotional state pattern of 
+activated muscles
+Minimal
+Yes
+Minimal
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+663
+CHAPTER 38  Hypertonicity
+Although infants born preterm are at higher risk of developing CP, 
+most CP cases are in infants born after 36 weeks’ GA. Of the overall CP 
+cases, ∼25% are very preterm (GA <32 weeks), ∼10–20% moderately 
+preterm or late preterm (GA 32–36 weeks), and ∼60% term (GA >36 
+weeks).
+An approach to neonatal hypertonia is noted in Figure 38.1.
+There are a number of genetic and metabolic disorders that present 
+with clinical features of CP (Tables 38.5 and 38.6). Hereditary spastic 
+paraplegia is discussed in Chapter 27.
+Testing
+The diagnostic approach to evaluating a child with hypertonia includes 
+excluding the disorders in Tables 38.5 and 38.6 and the approach noted 
+in Figures 38.1 and 38.2.
+Management
+Management of hypertonia depends on the clinical type and is typically 
+a combination of physical, medical, and surgical interventions deliv­
+ered through a multidisciplinary team of pediatricians, neurologists, 
+physical medicine and rehab specialists, and orthopedic surgeons. 
+Goals and extent of management also differ based on the pathology, 
+functionality, and other comorbidities as not all cases of hypertonia 
+need to be treated. In general, the following principles are observed 
+when formulating a plan for treatment:
+ 1. Distinguish type of clinical hypertonia and how it influences 
+­function.
+ 2. For intramuscular injections, identify muscles to be injected. Not 
+all spastic muscles need to be treated, because some patients rely on 
+their hypertonia to maintain certain functions.
+TABLE 38.3  Hypertonia Assessment Tool (HAT) with a Description of the Administration 
+Procedure for Each Item
+Items (in Order of 
+Administration)
+Type of 
+Hypertonia
+Administration of Item
+Scoring (Fill Each Box with 0 
+[Negative] or 1 [Positive])
+Increased involuntary movements or 
+postures of the designated limb with 
+tactile stimulus of a distant body part
+Dystonia
+With the child at rest, observe involuntary movements 
+of the designated limb as you gently rub a distant 
+body part such as the shin or forearm
+Dystonia is present if more involuntary 
+movements or postures are observed 
+in the designated limb with the tactile 
+stimulus
+Increased involuntary movements or 
+postures with purposeful movement 
+of a distant body part
+Dystonia
+Observe movements of the designated limb as the 
+child carries out purposeful movements*
+Dystonia is present if more involuntary 
+movements or postures are observed 
+in the designated limb with purposeful 
+movement
+Velocity-­dependent resistance to stretch
+Spasticity
+Move the limb as described below† and assess for a 
+change in muscle resistance between the slow and 
+the fast stretch
+Spasticity is present if there is an increase 
+in resistance between the fast stretch 
+compared with the slow stretch
+Presence of spastic catch
+Spasticity
+Note the presence of a rapid rise (spastic catch) in 
+resistance at a particular joint angle when moving 
+the limb as described during the fast stretch†
+Spasticity is present if a spastic catch is 
+noted
+Equal resistance to passive stretch during 
+bidirectional movement of a joint
+Rigidity
+Assess this item during the fast stretch of the muscle†
+Rigidity is present if the resistance felt is 
+equal with movement in both directions
+Increased tone with movement of a 
+distant body part
+Dystonia
+Perform two additional fast stretches.† During the 
+second stretch ask the child to do a purposeful 
+movement* and assess for an increase in tone
+Dystonia is present if greater tone is 
+noticed when child is carrying out the 
+purposeful movements
+Maintenance of limb position after 
+passive movement
+Rigidity
+For the arm, note the original position of the elbow; 
+move the elbow by 45 degrees into either flexion 
+or extension and observe if the elbow returns to 
+its original position. For the leg, note the original 
+position of the ankle; move the ankle into 45-­degree 
+further dorsiflexion or plantarflexion and observe if 
+the ankle returns to its original position
+Rigidity is present if the limb remains in 
+the final position of stretch rather than 
+returning (partially or fully) to the limb’s 
+original position
+Before administering the HAT, the child should be supine on the examining table. The child should be as comfortable as possible by having appropri­
+ate caregivers present, a roll placed under the knees, a comfortable room temperature, and unrestrictive clothing. Complete all items for the involved 
+extremity being examined before moving on to the next involved extremity.
+*Based on the child’s ability, ask the child to carry out two of the following for a 10-­second period: (1) count to 10 slowly; (2) open and close one hand 
+(into a fist) repeatedly (choose the hand that is not being examined); (3) open and close eyes (tight blinking) repeatedly; (4) reach for an object placed 
+at least 1 foot away; and (5) visually track a brightly colored object (e.g., red-­tipped pen) or light source (e.g., flashlight).
+†Support the limb against gravity. Move the joints of the limb through the child’s full range starting with the joint in full flexion or adduction, moving 
+to full extension or abduction, and then returning to flexion or adduction, twice slowly and twice as quickly as possible. Upper extremity: shoulder 
+adduction and abduction—begin with shoulder in full adduction; elbow flexion and extension—begin with elbow in full flexion; forearm pronation 
+and supination—begin with forearm in full pronation; wrist flexion and extension—begin with wrist in full flexion. Lower extremity: hip adduction and 
+abduction—begin with hip in full adduction; knee flexion and extension—begin with knee flexed with the hip in 90-­degree flexion; ankle dorsiflexion 
+and plantarflexion—begin with ankle in full plantarflexion.
+From Jethwa A, Mink J, Macarthus C, et al. Development of the hypertonia assessment tool (HAT): a discriminative tool for hypertonia in children. 
+Dev Med Child Neurol. 2010,52:e83–e87 (Appendix I, p. e87).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+664
+SECTION 7  Neurosensory Disorders
+ 3. Outcome of treatment depends on clear communication of goals of 
+treatment between the clinician and the patient/family.
+	4.	 Regular assessment and evaluation are needed as the clinical picture 
+and effect of treatment may change over time requiring adjusting 
+the treatment regimen, especially in growing children with ever-­
+changing functionality levels and demands.
+	5.	 Physical and occupational therapies are the main modality of man­
+agement for children with hypertonia.
+HEREDITARY HYPEREKPLEXIA
+Hyperekplexia (HPX), also known as stiff baby syndrome or startle dis­
+ease, is an inherited disorder (Table 38.7) due to dysfunction of the gly­
+cinergic neuronal receptor (see also Chapter 40). HPX manifests with 
+exaggerated startle responses to various stimuli (visual, auditory, and 
+most often tactile) leading to myoclonic jerks and stiffness. Onset is 
+often in neonates, but ambulatory children may fall if an episode occurs 
+while sitting or standing. Consciousness is retained. The head retraction 
+reflex is elicited by gently tapping the nose, glabella, lip, or chin. In addi­
+tion to the exaggerated startle reflexes, patients may present with gen­
+eralized stiffness after birth or following a startle response. The stiffness 
+resolves during sleep. Patients have normal development and a normal 
+EEG and MRI. The differential diagnosis of other disorders manifesting 
+with an abnormal startle response is noted in Table 38.8.
+STIFF PERSON SYNDROME
+Stiff person syndrome (SPS) is most commonly reported in adults as an 
+autoimmune or paraneoplastic disorder that manifests with sensitivity 
+to external stimuli, progressive truncal muscle (paraspinal) rigidity, 
+and muscle spasms.
+Variants of adult SPS include:
+ • SPS associated with myoclonus
+ • SPS associated with epilepsy and dystonia
+ • SPS with neuro-­ophthalmologic findings
+ • SPS with progressive rigidity and encephalomyelitis
+ • SPS cerebellar variant
+In children, the disorder is usually associated with immunoglobulin 
+G (IgG) anti–glutamic acid decarboxylase antibodies or anti–glycine 
+receptor antibodies and other coexisting autoimmune diseases includ­
+ing diabetes mellitus, Graves disease, autoimmune thyroiditis, vitiligo, 
+and celiac disease.
+TABLE 38.4  Clinical Features of Spastic Cerebral Palsy (CP) Subtypes
+CP Subtype
+Location of 
+Hypertonia
+Common Causes and 
+Location of Injury
+Age Group
+Clinical Features
+Spastic diplegic
+Both lower limbs 
+and upper limbs 
+­relatively or com­
+pletely ­preserved
+Periventricular leukomalacia
+Deep white matter
+Preterm infants
+Hypotonia of the lower limbs for the first 6 mo of life
+Spasticity evolves by 6 mo of age
+Flexion, adduction, and internal rotation of the hips with 
+contractures of the hip flexors and hamstring muscles and 
+to a lesser extent knees and elbows
+Reduced limb length and muscle bulk in lower extremities
+Spastic hemiplegic
+Hemibody including 
+upper and lower 
+limbs
+Neonatal stroke, congenital 
+malformations
+Cerebral cortex
+Term infants of 
+­normal birthweight
+Weakened and abnormal posturing on one body side
+Early hand dominance
+During first 1–2 yr, movement and tone on the affected 
+side typically decrease before tone and tendon reflexes 
+abnormally increase
+The arm is typically more affected than the leg
+Typical posture appears by 2 yr of age
+Arm is adducted at the shoulder and flexed at the elbow, 
+the forearm is pronated, and the wrist and fingers are 
+flexed with the hand closed
+Hip is partially flexed and adducted, and the knee and ankle 
+are flexed; the foot may remain in the equinovarus or 
+calcaneovalgus position
+Independent walking usually occurs at the appropriate age 
+or is only slightly delayed
+Spastic quadriplegic
+All limbs affected
+Congenital infections, congen­
+ital malformations, ischemic 
+hypoxic encephalopathy
+Diffuse, cortical, and white 
+matter injury
+Most commonly term 
+SGA infants, but 
+can also occur in 
+preterm infants
+Moderate or severe psychomotor delay
+All limbs are affected
+Poor head control
+Early spasticity by 2–3 mo of age
+Adduction of the thighs results in typical scissoring of 
+the legs
+By 9–10 mo of age, unable to flex the legs with poor truncal 
+balance
+Upper limbs equally or more involved than lower limbs
+Severe comorbidities including feeding difficulties, chronic 
+respiratory insufficiency, and epilepsy are common
+SGA, small for gestational age.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+665
+CHAPTER 38  Hypertonicity
+Presenting manifestations include gait disturbances due to lower 
+extremity stiffness or spasms, lumbar lordosis from paraspinal mus­
+cle involvement, and an exaggerated startle response precipitated by 
+anxiety-­provoking activities. The classic SPS phenotype is the most 
+prevalent type; variants noted in adults may also occur in children. The 
+differential diagnosis includes hyperekplexia, dystonias, progressive 
+encephalomyelitis with rigidity and myoclonus (PERM), and heredi­
+tary spastic paraplegia.
+History points:
+• Detailed family history including learning difficulties, seizures, cataracts
+• Maternal ethnicity, recent travel, tetanus vaccination status, and infection status
+• Pregnancy history including evidence of chorioamnionitis / maternal sepsis
+• Maternal cocaine use during pregnancy
+• Birth history
+• Resuscitation history
+• Other signs of central causes - stupor, seizures, other organ dysfunction
+Examination points:
+• Alert level (reduced suggesting central cause)
+• Dysmorphia (suggesting genetic condition)
+• Signs of sepsis / meningitis (photophobia, Kernig sign, neck stiffness)
+• Fontanel appearance / level (bulging suggesting raised intracranial pressure / meningitis)
+• Head circumference (microcephaly suggesting genetic cause, macrocephaly suggesting possibly raised
+   intracranial pressure)
+• Contractures
+• Jaw rigidity (suggesting tetanus)
+• Peripheral reflexes including cross overflow and jaw jerk (raised suggesting central origin, reduced or absent
+  suggesting peripheral origin)
+• Startle including on nose tapping (suggestive of hyperekplexia)
+• Myotonia
+• Eye movement abnormalities (hydrocephalus, AGS, sepiapterin reductase deficiency)
+• Paroxysmal episodes suggestive of epileptic seizures
+Parental examination
+• Myotonia / myokymia
+• Maternal Chvostek sign (hypocalcemia / hypomagnesemia)
+History and examination
+Neonatal hypertonia
+Presentation within 24 h
+Central
+Unlikely to be HIE if persistent
+Initial possible investigations:
+• Neuroimaging (cranial ultrasound first,
+  then MRI) to look for
+  hydrocephalus, intracranial hemorrhage,
+  tumor
+• ECG for seizure activity
+• Serum calcium, magnesium, biotinidase
+• Serum lactate and amino acids
+• Lumbar puncture for lactate, amino acids,
+  neurotransmitters, infection screen
+• Congenital infection screen (if suspected)
+• Genetics referral (if dysmorphic or family
+   history)
+• Trial of benzodiazepines if startles to
+   glabellar tap (hyperekplexia)
+Consider starting antibiotics if infective etiology
+possible.
+Peripheral
+• EMG
+• Serum potassium, calcium,
+  magnesium
+• Skeletal survey (if dysplasia
+  suspected)
+• Genetics review
+• Trial of carbamazepine or
+  phenytoin
+Central
+If clear history of HIE, MRI only may be
+indicated. Ensure serum lactate normalizes.
+If not, consider metabolic condition
+First line, where diagnosis unclear:
+If no diagnosis
+found, consider
+Presentation after 24 h
+Acute onset
+Subacute / gradual onset
+• MRI (if intracranial calcification likely,
+  consider CT in addition)
+• Serum magnesium, calcium, lactate, liver
+  function (including bilirubin), clotting, renal
+  function
+• aEEG and, if abnormal, 12-lead EEG
+• Congenital viral screen
+• Urine organic acids and Guthrie test for
+  maple syrup urine disease
+Possible second-line tests, depending on
+differential:
+• Paired serum and CSF lactate
+• Paired serum and CSF serine
+• CSF neurotransmitters
+• Muscle biopsy for histopathology and
+  respiratory chain enzymes
+• Skin biopsy for culture and assessment of
+  pyruvate dehydrogenase deficiency
+• CGH microarray
+• Genetic review
+• Gene test of hyperekplexia
+• Gene tests for mitochondrial disease
+• Ophthalmology review
+• Trial of L-DOPA
+• Trial pyridoxal phosphate / biotin / folinic
+  acid if refractory seizures present
+Fig. 38.1  A suggested algorithm for the investigation of neonatal hypertonia. AGS, Aicardi-­Goutières syn­
+drome; aEEG, amplitude integrated EEG; CGH, comparative genomic hybridization; CSF, cerebrospinal fluid; 
+EMG, electromyography; HIE, hypoxic-­ischemic encephalopathy. (From Hart AR, Sharma R, Rittey CD, et al. 
+Neonatal hypertonia – a diagnostic challenge. Dev Med Child. 2015;57:600–610 [Fig. 2, p. 608].)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+666
+SECTION 7  Neurosensory Disorders
+TETANUS
+Tetanus is caused by toxin produced by the spore-­forming bacteria 
+Clostridium tetani and develops after a cutaneous wound in older chil­
+dren or in neonates secondary to umbilical cord infection. Puncture 
+wounds are a high risk and include nails, splinters, intramuscular injec­
+tions, body piercing, tattoos, and bites (insect, animal, human). Burns, 
+dental abscesses, and compound fractures are additional risks for tet­
+anus. In some patients, the source of tetanus is unknown. The incu­
+bation period is ∼3–21 days. Risk factors other than wounds include 
+unimmunized status, intravenous drug users, immunosuppressed 
+patients, or neonates born to unimmunized mothers with septic cut­
+ting or contamination of the umbilical cord.
+Manifestations include risus sardonicus, painful muscle spasms, 
+opisthotonic posturing, and trismus (Tables 38.9 and 38.10). Compli­
+cations include vocal cord paralysis, autonomic storming, fractures, 
+hernias, and aspiration pneumonia. The differential diagnosis includes 
+strychnine poisoning and dystonic drug reactions.
+MYOGENIC ETIOLOGIES OF HYPERTONICITY
+Myotonia congenita is either an autosomal dominant (Thomsen dis­
+ease) or autosomal recessive (Becker disease) disorder and is charac­
+terized by generalized stiffness (myotonia, delayed relaxations) after 
+muscle contractions (Table 38.11). Pathologic variants in the chloride 
+channel gene (CLCN1) are responsible for both forms of myotonia 
+congenita. Both forms are associated with muscle hypertrophy (legs); 
+myotonia can be demonstrated with hand contraction or eye closure. 
+Transient muscle weakness occurs during exercise but with repeated 
+efforts muscle strength returns to normal (warm-­up phenomenon).
+Paramyotonic congenita (PMC) presents with myotonia affecting 
+the facial muscles and those of the neck and hands, although all skeletal 
+muscles are involved. PMC is due to pathologic variants in SCN4A. 
+Myotonia is exacerbated by exercise and cold exposure. Paradoxical 
+myotonia occurs with repeated muscle contraction because PMC does 
+not demonstrate a warm-­up phenomenon.
+Hyperkalemic period paralysis is an autosomal dominant dis­
+order (SCN4A) and manifests with episodes of weakness or paral­
+ysis but may also demonstrate muscle stiffness between attacks of 
+weakness. Hypertonicity may also be present but may instead be 
+myotonia.
+DRUG-­RELATED HYPERTONICITY
+Serotonin syndrome is characterized by mental status changes 
+(agitation, confusion, hypomania, coma), autonomic hyperactivity 
+(tachycardia, labile blood pressure, diaphoresis, diarrhea), and neu­
+romuscular dysfunction (myoclonus, hyperreflexia, clonus, rigidity, 
+tremor, shivering, mydriasis) following exposure to an inciting drug 
+(Tables 38.12 and 38.13).
+A simplified diagnostic approach requires any of the following:
+ • Tremor and hyperreflexia
+ • Spontaneous clonus
+ • Muscle rigidity, temperature >38oC, and either ocular clonus or 
+inducible clonus
+ • Ocular clonus and either agitation or diaphoresis
+ • Inducible clonus and either agitation or diaphoresis
+TABLE 38.5  Brain MRI Findings Suggestive 
+of Selected Genetic Cerebral Palsy Mimics
+Finding
+Selected Conditions
+Hypomyelination
+PLP1-­related dysmyelinating disorders
+H-­ABC (TUBB4A variant)
+AGS (may also have basal ganglia and WM 
+calcification)
+GM1 gangliosidosis
+Demyelination
+Krabbe disease
+Metachromatic leukodystrophy
+Thin corpus callosum
+HSP (i.e., SPG4, SPG11, SPG15, and others)
+Globus pallidus lesions
+T2 hypointense: NBIA (SN also involved in BPAN, 
+MPAN), fucosidosis
+T2 hyperintense: MMA, PDH deficiency, creatine 
+deficiency syndromes
+Focal atrophy or 
+­hypoplasia
+Glutaric aciduria type 1 (frontotemporal)
+H-­ABC (cerebellum ± putamen)
+Joubert syndrome (cerebellum)
+AGS, Aicardi-­Goutières syndrome; BPAN, β-­propeller protein-­associated 
+neurodegeneration; H-­ABC, hypomyelination with atrophy of the basal 
+ganglia and cerebellum; HSP, hereditary spastic paraplegia; MMA, meth­
+ylmalonic aciduria; MPAN, mitochondrial membrane protein-­associated 
+neurodegeneration; NBIA, neurodegeneration with brain iron accumula­
+tion; PDH, pyruvate dehydrogenase; WM, white matter.
+Adapted from Pearson TS, Pons R, Ghaoui R, et al. Genetic mimics of 
+cerebral palsy. Mov Disord. 2019;34(5):625–636.
+TABLE 38.6  Differential Diagnoses in 
+Spastic Paraplegia
+Childhood Onset
+Diplegic cerebral palsy
+Structural (Chiari malformation, atlantoaxial subluxation)
+Hereditary spastic paraplegia
+Leukodystrophy (e.g., Krabbe)
+Metabolic (arginase deficiency, abetalipoproteinemia)
+Levodopa-­responsive dystonia
+Infection (myelitis)
+Multiple sclerosis
+Adolescent Onset
+Cervical spine degenerative disease
+Multiple sclerosis
+Motor neuron disease
+Neoplasm (primary/secondary spinal tumor, parasagittal meningioma)
+Infection (myelitis)
+Dural arteriovenous malformation
+Chiari malformation
+Adrenoleukodystrophy
+Hereditary spastic paraplegia
+Spinocerebellar ataxias
+Vitamin deficiency (B12 and E)
+Lathyrism
+Levodopa-­responsive dystonia
+Infection (syphilis, human T-­cell leukemia virus 1, HIV)
+Copper deficiency
+From Salinas S, Proukakis C, Crosby A, et al. Hereditary spastic para­
+plegia: clinical features and pathogenetic mechanisms. Lancet Neurol. 
+2008;7:1127–1138 (Panel, p. 1128).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+667
+CHAPTER 38  Hypertonicity
+History/exam inconsistent with CP
+due to perinatal brain injury
+MRI brain +/– spinal cord
+Consider multi-gene panel or WES based on
+phenotype, clinical and family history
+Infantile developmental delay,
+mixed motor syndrome
+• Serum TSH
+• Serum uric acid
+• Serum amino acids
+• Serum lactate, pyruvate
+• Serum acylcarnitines
+• Serum biotinidase activity
+• Urine organic acids
+• CSF studies
+• SNP-CGH microarray
+Spasticity
+• Serum ammonia
+• Serum lactate
+• Serum amino acids
+  (including arginine, serine)
+• Urine organic acids
+• Serum biotinidase activity
+• Genetic testing for HSP
+• SNP-CGH microarray
+Dystonia/chorea
+• Serum TSH
+• Serum uric acid
+• Serum AFP
+• Serum lactate, pyruvate
+• Serum acylcarnitines
+• Urine organic acids
+• Urine purines, pyrimidines
+• Urine creatine, GAA
+• CSF studies
+• Genetic testing for NKX2.1
+• SNP-CGH microarray
+Ataxia
+• Serum AFP
+• Serum lactate, pyruvate
+• Serum biotinidase
+  activity
+• Urine organic acids
+• Mitochondrial genetic
+  analysis, CoQ10 level
+• SNP-CGH microarray
+Initial biochemical and genetic studies to consider
+Directed genetic testing
+based on specific findings
+Abnormal
+Normal/nonspecific
+Fig. 38.2  General diagnostic approach to the patient with an infantile-­onset, apparently nonprogressive motor 
+disorder. Studies are grouped by predominant clinical presentation; it may be appropriate to consider investi­
+gations from more than one group depending on the specific clinical context. CSF studies: glucose (+serum 
+glucose), lactate, pyruvate, neurotransmitter metabolites (biogenic amines + γ-­aminobutyric acid [GABA]), 
+pterins, 5-­methyltetrahydrofolate. AFP, α-­fetoprotein; CP, cerebral palsy; CGH, comparative genomic hybrid­
+ization; CSF, cerebrospinal fluid; GAA, α-­glucosidase; HSP, hereditary spastic paraplegia; SNP, single nucleo­
+tide protein; TSH, thyroid-­stimulating hormone; WES, whole-­exome sequencing. (From Pearson TS, Pons R, 
+Ghaoi R, et al. Genetic mimics of cerebral palsy. Mov Disord. 2019;34[5]:625–634 [Fig. 1, p. 627].)
+TABLE 38.7  GLRA1, GLRB, and SLC6A5-­Related Hereditary Hyperekplexia (HPX): Modes of 
+Inheritance and Methods of Variant Detection
+Gene
+Proportion of HPX 
+Attributed to 
+Variant of Gene
+MOI*
+PROPORTION OF PROBANDS WITH A 
+­PATHOGENIC VARIANT DETECTABLE BY METHOD†
+Sequence Analysis‡
+Gene-­Targeted Deletion/
+Duplication Analysis§
+GLRA1
+61–63%
+AD and AR
+∼95%
+See footnote||
+GLRB
+12–14%
+AD and AR
+11/12
+1/12 
+SLC6A5
+25%
+AR (rarely AD)
+24/24
+None reported
+AD, autosomal dominant; AR, autosomal recessive; MOI, mode of inheritance; PCR, polymerase chain reaction.
+*∼85% were AR and ∼15% were AD.
+†Additional affected individuals have been reported, many as case studies. For additional reported variants, see the Human Genome Mutation Data­
+base.
+‡Sequence analysis detects variants that are benign, likely benign, of uncertain significance, likely pathogenic, or pathogenic. Variants may include 
+small intragenic deletions/insertions and missense, nonsense, and splice site variants; typically, exon or whole-­gene deletions/duplications are not 
+detected.
+§Gene-­targeted deletion/duplication analysis detects intragenic deletions or duplications. Methods used may include quantitative PCR, long-­range 
+PCR, multiplex ligation-­dependent probe amplification (MLPA), and a gene-­targeted microarray designed to detect single-­exon deletions or duplica­
+tions.
+||Deletion of exons 1–7 is common in the Turkish population. Deletion of exons 1–6 and of 4–7 have also been reported.
+From Balint B, Thomas R. Hereditary hyperekplexia overview 2007 Jul 21 (Updated 2019 Dec 19). In: Adan MP, Ardinger HH, Pagon RA, et al., eds. 
+GeneReviews [Internet]. Seattle: University of Washington; 1993–2021, Table 2.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+668
+SECTION 7  Neurosensory Disorders
+TABLE 38.8  Complex Genetic Neurodevelopmental Disorders with an Excessive Startle 
+Response
+Gene
+Disorder
+MOI
+Distinguishing Clinical Features
+Reference*
+ARHGEF9
+Early-­infantile epileptic 
+encephalopathy 8
+XL
+ • Severe ID
+ • Epilepsy (often intractable focal seizures or febrile seizures)
+ • Dysmorphic features
+OMIM 300607
+ASNS
+Asparagine synthetase 
+deficiency
+AR
+ • Profound DD and progressive ­encephalopathy
+ • Microcephaly
+ • Hypotonia followed by spastic ­quadriplegia
+ • Seizures
+Asparagine synthetase defi­
+ciency
+CACNA1A
+Early-­infantile epileptic 
+encephalopathy 42
+AD
+ • Epileptic encephalopathy with myoclonic epilepsy
+ • Myoclonic seizures provoked by tactile stimuli and spontaneous and 
+reflex seizures to noise and touch
+OMIM 617106
+CLPB
+CLPB deficiency 
+(3-­methylglutaconic 
+aciduria)
+AR
+ • Congenital or infantile cataracts
+ • Neutropenia
+ • Other neurologic signs: hypotonia, spasticity, ataxia, dystonia, 
+epilepsy, or ID
+CLPB deficiency
+CRLF1
+Crisponi syndrome
+AR
+ • Dysmorphic features, camptodactyly
+ • Facial and bulbar weakness
+Cold-­induced sweating syndrome 
+including Crisponi syndrome
+CTNNB1
+CTNNB1-­related syndrome
+AD
+ • Hyperekplexia is rare in this entity (single case report)
+ • Later onset of hyperekplexia (not congenital but in childhood) and 
+atypical pattern (no generalized stiffness induced by startle)
+ • No congenital stiffness
+ • Progressive neurologic involvement with additional signs (ID, ataxia, 
+spasticity)
+ • Microcephaly
+Winczewska-­Wiktor et al. (2016)
+GPHN
+Molybdenum cofactor 
+­deficiency, complemen­
+tation group C
+AR
+ • Intractable seizures
+ • Severe psychomotor retardation
+ • Hypotonia combined w/hyperreflexia
+ • Usually lethal in infancy
+OMIM 615501
+HEXA
+Tay-­Sachs disease
+AR
+ • DD or regression
+ • Visual impairment
+ • Epilepsy
+ • Later: macrocephaly, decerebrate posturing, dysphagia, progression 
+to unresponsive vegetative state
+Hexosaminidase A deficiency
+RPS6KA3
+Coffin-­Lowry syndrome
+XL
+ • ID
+ • Facial dysmorphism, tapering digits, and skeletal deformity
+ • Besides hyperekplexia, there may be other types of stimulus-­induced 
+drop attacks (e.g., cataplexy-­like episodes)
+Coffin-­Lowry syndrome
+SCN8A
+Early-­infantile epileptic 
+encephalopathy 13
+AD
+Epileptic encephalopathy with DD and ID
+SCN8A-­related epilepsy with 
+encephalopathy
+SLC6A9
+GLYT1 encephalopathy
+AR
+ • Hypotonia > hypertonicity
+ • Arthrogryposis
+ • Respiratory failure
+ • Dysmorphic features
+ • Encephalopathy
+GLYT1 encephalopathy
+SUOX
+Isolated sulfite oxidase 
+deficiency
+AR
+ • Progressive epileptic encephalopathy
+ • Other neurologic features: opisthotonus, spastic quadriplegia, 
+­pyramidal signs
+ • Microcephaly, dysmorphic features
+Isolated sulfite oxidase defi­
+ciency
+TRAK1
+Early-­infantile epileptic 
+encephalopathy 68
+AR
+ • Hypotonia
+ • Progressive epileptic encephalopathy
+OMIM 618201
+TSEN54
+Pontocerebellar hypoplasia 
+type 2
+AR
+ • Generalized clonus (“jitteriness”)
+ • Delayed developmental (motor and cognitive) milestones
+ • Other neurologic signs: spasticity, chorea, visual impairment, epilepsy
+TSEN54-­related pontocerebellar 
+hypoplasia
+AD, autosomal dominant; AR, autosomal recessive; DD, developmental delay; ID, intellectual disability; MOI, mode of inheritance; XL, X-­linked.
+*OMIM phenotype entry or citation is provided if a related GeneReview is not available.
+From Balint B, Thomas R. Hereditary hyperekplexia overview 2007 Jul 21 (Updated 2019 Dec 19). In: Adan MP, Ardinger HH, Pagon RA, et al., eds. 
+GeneReviews [Internet]. Seattle: University of Washington; 1993–2021.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+669
+CHAPTER 38  Hypertonicity
+TABLE 38.9  Presenting Features on 
+Admission to Hospital for Non-­neonatal 
+Tetanus
+ • Trismus (93–98%)
+ • Generalized muscle tension (94–95%)
+ • Muscle stiffness (96%)
+ • Dysphagia (83%)
+ • Dyspnea (7%)
+ • Muscle spasms (46–80%)
+ • Body temperature >38.4°C (76%)
+ • Pulse ≥120 beats/min (34%)
+From Yen LM, Thwaites CL. Tetanus. Lancet. 2019;393:1657–1666 
+(Panel 3, p. 1661).
+Malignant hyperthermia (MH) occurs rapidly after exposure to an 
+inhaled anesthetic agent or succinylcholine and is characterized by tachy­
+pnea, tachycardia, lactic acidosis, muscle rigidity, rhabdomyolysis, and 
+fever. The earliest sign of MH is a rapid rise of end-­tidal co2. Susceptibil­
+ity to MH is associated with autosomal dominant pathologic variants on 
+RYR1; CACNA1S is an uncommon but reported gene. MH has also been 
+reported in patients with scoliosis and various congenital muscle disorders.
+Neuroleptic malignant syndrome is similar to MH and follows 
+the administration of neuroleptic antipsychotic agents; fever, muscle 
+rigidity, rhabdomyolysis, autonomic dysfunction, and neutral states 
+changes are also present.
+OPISTHOTONUS
+Opisthotonus manifests with acute or chronic spastic arching of the neck 
+and back due to tonic contraction of the extensor muscles of the neck, 
+back, and legs. The hyperextension can resemble decerebrate posturing. 
+There are many etiologies that may also be age related (Table 38.14).
+TABLE 38.11  Chloride Channel Myotonias
+Clinical Features
+Autosomal Dominant Myotonia Congenita 
+of Thomsen
+Autosomal Recessive Generalized Myotonia 
+of Becker
+Inheritance
+Dominant
+Recessive
+Gene defect
+Chromosome 7; variant in skeletal muscle chloride channel
+Chromosome 7; variant in skeletal muscle chloride channel
+Age of onset
+Infancy to early childhood
+Late childhood, occasionally starts earlier or begins in teens
+Myopathy
+Muscle hypertrophy frequent; no myopathy, although ­variants 
+uncommonly develop weakness
+Occasional muscle wasting and weakness can occur late; 
+­hypertrophy of muscles frequently occurs in legs
+Myotonia
+Generalized stiffness, especially after rest; improves with 
+­exercise; prominent myotonia of eye closure, but not 
+­paradoxical myotonia
+Generalized stiffness, especially after rest; transient weak­
+ness is prominent after complete relaxation for several 
+minutes; ­myotonia occurs in eyes; no paradoxical myotonia
+Provocative stimuli
+Prolonged rest or maintenance of the posture
+Prolonged rest or maintenance of the same posture
+Therapy for symptoms
+Exercise; antimyotonia therapy (e.g., mexiletine); Achilles ­tendon 
+stretching helps prevent need for heel cord–­lengthening 
+surgery
+Exercise; especially avoiding prolonged rest; antimyotonia 
+therapy (e.g., mexiletine); transient weakness does not 
+improve after mexiletine
+From Swaiman KF, Ashwal A, Ferriero DM, et al., eds. Swaiman’s Pediatric Neurology. 6th ed. Philadelphia: Elsevier; 2018:1151, Table 151-­3.
+TABLE 38.10  Classification of Tetanus Severity
+Grade 1: Mild
+ • Mild to moderate trismus
+ • Generalized spasticity
+ • No respiratory compromise
+ • No spasms
+ • Little or no dysphagia
+Grade 2: Moderate
+ • Moderate trismus
+ • Marked rigidity
+ • Mild to moderate but short spasms
+ • Moderate respiratory compromise with an increased respiratory rate 
+(>30 breaths/min)
+ • Mild dysphagia
+Grade 3: Severe
+ • Severe trismus
+ • Generalized spasticity
+ • Reflex prolonged spasms
+ • Increased respiratory rate (>40 breaths/min)
+ • Apneic spells
+ • Severe dysphagia
+ • Tachycardia (>120 beats/min)
+Grade 4: Very Severe
+ • Clinical features of grade 3 tetanus
+ • Violent autonomic disturbances involving the cardiovascular system
+ • Severe hypertension and tachycardia alternating with relative hypotension 
+and bradycardia (either of which might be persistent)
+From Yen LM, Thwaites CL. Tetanus. Lancet. 2019;393:1657–1666 (Panel 2, p. 1660).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+670
+SECTION 7  Neurosensory Disorders
+TABLE 38.12  Classes of Medications That 
+Produce Serotonin Syndrome in Psychiatric 
+Patients
+Selective serotonin reuptake inhibitors
+Monoamine oxidase inhibitors
+Atypical antipsychotics
+Heterocyclic antidepressants
+Trazodone
+Dual-­uptake inhibitors
+Psychostimulants
+Buspirone
+Mood stabilizers
+Analgesics
+Antiemetics
+Cough suppressants
+Dietary supplements
+From Goldman L, Schafer AI, eds. Goldman-­Cecil Medicine. 26th ed. 
+Philadelphia: Elsevier; 2020:2594, Table 406-­5.
+TABLE 38.13  Signs and Symptoms of Serotonin Syndrome (Review of 100 Cases)
+Sign/Symptom
+Frequency (%)
+Cognitive-­Behavioral 
+Symptoms
+51
+Confusion/disorientation
+34
+Agitation/irritability
+29
+Coma/unresponsiveness
+15
+Anxiety
+14
+Euphoria/hypomania
+13
+Headache
+13
+Drowsiness
+12
+Seizures
+11
+Insomnia
+6
+Hallucinations (visual and auditory)
+5
+Autonomic Nervous System
+Hyperthermia
+45
+Diaphoresis
+45
+Sinus tachycardia
+36
+Hypertension
+35
+Dilated pupils
+28
+Tachypnea
+26
+Nausea
+23
+Unreactive pupils
+20
+Flushing
+16
+Hypotension
+15
+Diarrhea
+8
+Ventricular tachycardia
+6
+Cyanosis
+5
+Abdominal cramps
+4
+Salivation
+4
+Sign/Symptom
+Frequency (%)
+Neuromuscular
+Myoclonus
+58
+Hyperreflexia
+52
+Muscle rigidity
+51
+Restlessness/hyperactivity
+48
+Tremor
+43
+Ataxia/incoordination
+40
+Clonus
+23
+Babinski sign (bilateral)
+16
+Nystagmus
+15
+Trismus
+7
+Teeth chattering
+6
+Opisthotonos
+6
+Paresthesias
+6
+From Shannon MW, Borron SW, Burns MJ, eds. Haddad and Winchester’s Clinical Management of Poisoning and Drug Overdose. 4th ed. Philadel­
+phia: Elsevier; 2007:571, Table 29-­3.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+671
+CHAPTER 38  Hypertonicity
+   	 R E D  F L A G S
+In the pediatric population, hypertonia is typically thought of in the 
+context of static, nonprogressive diseases caused by an early one-­time 
+insult in life. With this concept in mind, any clinical features that sug­
+gest a progressive process should be considered as red flags and prompt 
+further work-­up for rare yet potentially serious pathologies (see 
+­Chapter 28).
+Such red flags include developmental regression or loss of already 
+acquired milestones; evolving/worsening focal deficits such as 
+weakness, spasticity, vision, or hearing; marked cranial nerve involve­
+ment; extraneurologic system involvement (hepatic or kidney disease, 
+progressive skin rashes); and family history of progressive neurologic 
+diseases.
+Some progressive causes of hypertonia in children include 
+childhood-­onset Parkinson disease, Wilson disease, leukodystrophies, 
+demyelinating diseases (Alexander disease, Canavan disease, Krabbe 
+disease), mitochondrial disorders, and neuronal ceroid lipofuscinosis.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+TABLE 38.14  Etiologies of Opisthotonus
+Infections
+Tetanus
+Meningitis
+Metabolic
+Gaucher disease
+Krabbe disease
+Kernicterus
+Neurodegeneration with brain iron accumulation
+Glutaric aciduria
+Maple syrup urine disease
+Dopa-­responsive dystonia
+Toxin/Drug
+Strychnine
+Phenothiazines
+Haloperidol
+Cyanide
+Metoclopramide
+Infant alcohol withdrawal
+Anatomic
+Arnold-­Chiari malformation
+Brain tumor
+Brain hemorrhage
+Hydrocephalus
+Traumatic brain injury
+Dandy-­Walker malformations
+Other
+Cerebral palsy
+Stiff person syndrome
+Conversion disorder
+Anoxic injury
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+671.e1
+BIBLIOGRAPHY
+Definition
+Cans C. Surveillance of cerebral palsy in Europe: a collaboration of cerebral 
+palsy surveys and registers. Surveillance of Cerebral Palsy in Europe 
+(SCPE). Dev Med Child Neurol. 2000;42:816–824.
+Fink JK. Hereditary spastic paraplegia. Curr Neurol Neurosci Rep. 2006;6:65–76.
+Jan MSM. Misdiagnoses in children with dopa-­responsive dystonia. Pediatr 
+Neurol. 2004;31(4):298–303.
+Powers RK, Campbell DL, Rymer WZ. Stretch reflex dynamics in spastic elbow 
+flexor muscles. Ann Neurol. 1989;25:32–42.
+Sanger TD, Chen D, Delgado MR, et al. Definition and classification of nega­
+tive motor signs in childhood. Pediatrics. 2006;118:2159–2167.
+Sanger TD, Chen D, Fehlings DL, et al. Definition and classification of hyper­
+kinetic movements in childhood. Mov Disord. 2010;25:1538–49.
+Sanger TD, Delgado MR, Gaebler-­Spira D, et al. Task force on childhood mo­
+tor disorders. Classification and definition of disorders causing hypertonia 
+in childhood. Pediatrics. 2003;111(1):e89–e97.
+Shortland AP. Muscle tone is not a well-­defined term. Dev Med Child Neurol. 
+2018;60:637.
+History
+Evans SH, Cameron MW, Burton JM. Hypertonia. Curr Probl Pediatr Adolesc 
+Health Care. 2017;47(7):161–166.
+Lumsden DE, Cadwgan J. Fifteen-­minute consultation: a clinical approach to 
+the management of the child with hypertonia. Arch Dis Child Educ Pract 
+Ed. 2020;105(5):276–281.
+Physical Exam
+Ashworth B. Preliminary trial of carisoprodol in multiple sclerosis. ­Practitioner. 
+1964;192:540–542.
+Barry MJ, VanSwearingen JM, Albright AL. Reliability and responsiveness of 
+the Barry-Albright Dystonia Scale. Dev Med Child Neurol 999;41:404–411.
+Haas BM, Bergstrom E, Jamous A, et al. The inter rater reliability of the origi­
+nal and of the modified Ashworth scale for the assessment of spasticity in 
+patients with spinal cord injury. Spinal Cord. 1996;34:560–564.
+Haugh AB, Pandyan AD, Johnson GR. A systematic review of the Tardieu Scale 
+for the measurement of spasticity. Disabil Rehabil. 2006;28(15):899–907.
+Jethwa A, Mink J, MacArthur C, et al. Development of the Hypertonia 
+­Assessment Tool (HAT): a discriminative tool for hypertonia in children. 
+Dev Med Child Neurol. 2010;52:e83–e87.
+Hinderer SR, Dixon K. Physiologic and clinical monitoring of spastic 
+­hypertonia. Phys Med Rehabil Clin N Am. 2001;12(4):733–746.
+Marsico P, Frontzek-­Weps V, Balzer J, et al. Hypertonia assessment tool. J 
+Child Neurol. 2017;32(1):132–138.
+Monbaliu E, Ortibus E, Roelens F, et al. Rating scales for dystonia in cerebral 
+palsy: reliability and validity. Dev Med Child Neurol. 2010;52:570–575.
+Sanger TD, Delgado MR, Gaebler-­Spira D, et al. Task Force on Childhood Mo­
+tor Disorders. Classification and definition of disorders causing hypertonia 
+in childhood. Pediatrics. 2003;111(1):e89–e97.
+Sheean G, McGuire JR. Spastic hypertonia and movement disorders: patho­
+physiology, clinical presentation, and quantification. Pharm Manag PM R. 
+2009;1(9):827–833.
+Red Flags
+Evans SH, Cameron MW, Burton JM. Hypertonia. Curr Probl Pediatr Adolesc 
+Health Care. 2017;47(7):161–166.
+Potulska-­Chromik A, Hoffman-­Zacharska D, Łukawska M, et al. Dopa-­
+responsive dystonia or early-­onset Parkinson disease—genotype-­
+phenotype correlation. Neurol Neurochir Pol. 2017;51(1):1–6.
+Sanger TD, Chen D, Delgado MR, et al. Definition and classification of nega­
+tive motor signs in childhood. Pediatrics. 2006;118:2159–2167.
+Schüle R, Wiethoff S, Martus P, et al. Hereditary spastic paraplegia: clinicoge­
+netic lessons from 608 patients. Ann Neurol. 2016;79:646.
+van der Knaap MS, Bugiani M. Leukodystrophies: a proposed classification 
+system based on pathological changes and pathogenetic mechanisms. Acta 
+­Neuropathol. 2017;134(3):351–382.
+Pathophysiology and Etiology
+Hafström M, Källén K, Serenius F, et al. Cerebral palsy in extremely preterm 
+infants. Pediatrics. 2018;141:e20171433.
+Hankins GD, Speer M. Defining the pathogenesis and ­pathophysiology 
+of neonatal encephalopathy and cerebral palsy. Obstet Gynecol. 
+2003;102:628.
+Himmelmann K, Ahlin K, Jacobsson B, et al. Risk factors for cerebral palsy in 
+children born at term. Acta Obstet Gynecol Scand. 2011;90:1070.
+Hirvonen M, Ojala R, Korhonen P, et al. Cerebral palsy among children born 
+moderately and late preterm. Pediatrics. 2014;134:e1584.
+Huang CY, Wang CH, Hwang IS. Characterization of the mechanical 
+and ­neural components of spastic hypertonia with modified H reflex. 
+J ­Electromyogr Kinesiol. 2006;16(4):384–391.
+Linsell L, Malouf R, Morris J, et al. Prognostic factors for cerebral palsy and 
+motor impairment in children born very preterm or very low birthweight: 
+a systematic review. Dev Med Child Neurol. 2016;58:554.
+Meythaler JM. Concept of spastic hypertonia. Phys Med Rehabil Clin N Am. 
+2001;12(4):725–732.
+Nelson KB. The epidemiology of cerebral palsy in term infants. Ment Retard 
+Dev Disabil Res Rev. 2002;8:146.
+O’Dwyer NJ, Ada L. Reflex hyperexcitability and muscle contracture in relation 
+to spastic hypertonia. Curr Opin Neurol. 1996;9:451–455.
+Oskoui M, Coutinho F, Dykeman J, et al. An update on the prevalence of 
+­cerebral palsy: a systematic review and meta-­analysis. Dev Med Child 
+Neurol. 2013;55:509.
+Pearson TS, Pons R, Ghaoui R, et al. Genetic mimics of cerebral palsy. Special 
+Issue: Childhood Onset‐Move Disord. 2019;34(5):625–636.
+Sanger TD, Chen D, Delgado MR, et al. Definition and classification of 
+­negative motor signs in childhood. Pediatrics. 2006;118:2159–2167.
+Sellier E, Platt MJ, Andersen GL, et al. Decreasing prevalence in cerebral palsy: 
+a multi-­site European population-­based study, 1980 to 2003. Dev Med 
+Child Neurol. 2016;58:85.
+Sheean G, McGuire JR. Spastic hypertonia and movement disorders: patho­
+physiology, clinical presentation, and quantification. Pharm Manag PM R. 
+2009;1(9):827–833.
+Sheean G. The pathophysiology of spasticity. Eur J Neurol. 2002;9(suppl 
+1):3–9.
+Van Naarden Braun K, Doernberg N, Schieve L, et al. Birth prevalence of cere­
+bral palsy: a population-­based study. Pediatrics. 2016;137:1–9.
+Wu YW, Croen LA, Shah SJ, et al. Cerebral palsy in a term population: risk 
+factors and neuroimaging findings. Pediatrics. 2006;118:690.
+Wu YW, Colford Jr JM. Chorioamnionitis as a risk factor for cerebral palsy: a 
+meta-­analysis. J Am Med Assoc. 2000;284:1417.
+Other Disorders
+Bae C, Bourget D. Tetanus. 2020 May 28. In: StatPearls [Internet]. Treasure 
+Island (FL): StatPearls Publishing; 2021. PMID: 29083804 Bookshelf 
+ID: NBK459217.
+Clardy SL, Lennon VA, McKeon A. Childhood onset of stiff-­man syndrome. 
+JAMA Neurol. 2013;70(12):1531–1536.
+Cook TM, Protheroe RT, Handel JM. Tetanus: a review of the literature. Br 
+J Anesthesia. 2001;87(3):477–487.
+Jethwa A, Mink J, Macarthus C, et al. Development of the Hypertonia Assess­
+ment Tool (HAT): a discriminative tool for hypertonia in children. Dev 
+Med Child Neurol. 2010;52:e83–e87.
+National Organization for Rare Disorders. Myotonia congenita. https://raredis­
+eases.info.nih.gov/diseases/12301/myotonia-­congenita.
+Rakocevic G, Floeter MK. Autoimmune stiff person syndrome and related 
+myelopathies: understanding of electrophysiological and immunological 
+processes. Muscle Nerve. 2012;45(5):623–634.
+Shahade A, De Jesus O. Opisthotonus. In: StatPearls [Internet]. Treasure 
+Island (FL): StatPearls Publishing; 2021. PMID: 32644596. Bookshelf ID: 
+NBK559170.
+Yen LM, Thwaites CL. Tetanus. Lancet. 2019;393:1657–1666.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

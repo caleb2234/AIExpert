@@ -1,0 +1,1664 @@
+619
+RHABDOMYOLYSIS
+Rhabdomyolysis is an acute muscle injury resulting in myocyte cell 
+death with subsequent release of toxic intracellular compounds pro­
+ducing muscle and systemic symptoms. This differs from hyperCKe­
+mia, in which there is elevated creatine kinase in the serum secondary 
+to dysfunction of the myocyte sarcolemma. These diagnoses represent 
+a broad category of disease processes with a large differential diagnosis. 
+The difficulty lies in differentiating between the two processes given 
+that the treatment of the former may include hospital admission while 
+the latter often only requires supportive care.
+Diagnosis
+The surrogate biomarker for rhabdomyolysis, creatine kinase (CK), is 
+a poor substitute because it is not possible to differentiate, based upon 
+this value, between rhabdomyolysis and hyperCKemia. The generally 
+accepted definition of rhabdomyolysis includes an elevation of CK 
+either >1,000 IU/L or greater than five times the upper limit of normal 
+in a clinical context of acute muscle weakness, myalgia, and muscle 
+swelling (Fig. 36.1).
+There are exceptions; focal rhabdomyolysis may result in lower 
+CK levels with the same underlying pathologic processes. Addition­
+ally, levels above the limit of 1,000 I/U can be found in patients with 
+acute denervating diseases, in patients with hyperCKemia from intense 
+exercise, and in patients with non-­muscle-­related diseases. A diagnosis 
+of rhabdomyolysis should not be considered in patients without acute 
+clinical symptoms and acute CK changes from the baseline value. Lev­
+els over 5,000 I/U are rarely found in acute or chronic non-­muscle-­
+related diseases.
+In addition to muscle damage and pain, toxins released into the 
+circulation from the myocyte damage can lead to systemic problems 
+including cardiac arrythmias, encephalopathy, and, most commonly, 
+acute kidney injury.
+HyperCKemia
+HyperCKemia is diagnosed when the serum elevation of CK is beyond 
+the upper limits for age, gender, race, and muscle mass but in the 
+absence of associated symptoms. Given the sensitive CK fluctuations 
+with exercise, the assessment of hyperCKemia needs to be taken into 
+consideration with the patient’s hydration status, previous activity, and 
+timing from any possible inciting event. CK typically begins to increase 
+24 hours after the onset of a muscle injury or stress, peaks at around 
+24–36 hours, and, in a monophasic illness, starts to decline. The nor­
+mal half-­life of CK, in a patient without renal failure, is between 24 and 
+48 hours (Fig. 36.2).
+Careful consideration of laboratory norms for CK is essential in 
+interpreting elevated levels during an acute event because normal val­
+ues correlate to overall muscle bulk, race, and gender. Additionally, 
+frequent exercise in athletes can lead to persistently elevated CK (350–
+500 IU/L) during training. Obtaining a baseline CK level after a period 
+of rest is required. There is no risk of renal damage in hyperCKemia 
+given that there is no myoglobin released into the circulation.
+Myoglobinuria
+Myoglobinuria is the presence of elevated myoglobin levels in the 
+urine. Myoglobin is a chemical compound that carries oxygen in the 
+myocyte. Upon damage to the cell membrane, it can be released into 
+the blood at higher levels than typically seen. When levels are >0.5–1.5 
+mg/L, it saturates the serum haptoglobin and α2-­immunoglobulin and 
+the excess is filtered by the glomerulus. Myoglobin sequesters fluid, 
+leading to hypovolemia and renal vasoconstriction. It can release the 
+free iron, which may damage the renal tubules, or it may react directly 
+with the lipid membrane of the kidney, resulting in damage to the prox­
+imal tubules.
+While there are direct laboratory detection methods, the time to 
+obtain results is not rapid enough to use this value to direct treatment; 
+urine heme when not in the presence of red blood cells is frequently 
+used as a surrogate marker to indicate myoglobinuria in the appropri­
+ate acute setting and when clinically suspected. In this situation, the 
+urine red blood cell (RBC) count should be checked to determine if the 
+heme +++ results in myoglobin or hematuria. Measuring myoglobin 
+levels remains a valuable differentiator between rhabdomyolysis and 
+hyperCKemia. Normal urine myoglobin levels are <10 mg/dL (and 100 
+mg/dL in blood); elevated levels indicate rhabdomyolysis.
+The typical red-­ or tea-­colored urine described in rhabdomyoly­
+sis is not always noted and requires a urine myoglobin concentration 
+>100 mg/dL. In a patient who has been fluid resuscitated, the urinary 
+dilution can mask both the visible and laboratory detection of myo­
+globinuria. It is important to collect samples during the acute phase 
+of presentation or when fluids are weaned because the urine can then 
+become positive.
+Myositis
+Myositis is an inflammatory process in the muscle not related to under­
+lying chronic apoptotic muscle disease. In patients with myositis, there 
+is an underlying immune or rheumatologic process resulting in inflam­
+matory cells causing muscle damage, which involves the myocyte 
+membrane. This is in contrast with primary (genetic) muscle diseases 
+in which there can be signs of inflammation secondary to the apoptotic 
+process of cell death. In some cases, such as dysferlinopathies, these can 
+be mistaken for an inflammatory myopathy on the biopsy. However, 
+in isolated myositis, there is not the same release of other biomarkers 
+from the myocytes into the serum as seen in acute rhabdomyolysis. 
+Additionally, other than infectious myositis, most of these disease pro­
+cesses are subacute to chronic in nature with only rare presentations as 
+acute rhabdomyolysis.
+Rhabdomyolysis
+Matthew M. Harmelink
+36
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+620
+SECTION 7  Neurosensory Disorders
+Clinical Presentation
+History
+The first part of the history of a patient with possible rhabdomyolysis 
+is the history of the acute episode, while the second part is to evaluate 
+for an underlying etiology. The acute history will help differentiate the 
+potential for rhabdomyolysis from other causes of pain and weakness 
+(Table 36.1); once diagnosed, the etiology of the rhabdomyolysis needs 
+to be evaluated.
+A child with rhabdomyolysis may present with a variety of symp­
+toms. Most patients present with muscle pain. The remaining 20% do 
+not present with overt signs of muscle disease. Dark urine (myoglo­
+binuria) may be reported in ∼5% of patients; an even smaller number 
+develop acute renal failure.
+Patients with focal muscle swelling may develop a compartment 
+syndrome resulting in local neurovascular features and may develop 
+more systemic disease such as acute kidney injury or encephalopathy 
+with associated seizures, somnolence, and/or other cognitive changes. 
+Cardiac arrythmias may also be present.
+Given the half-­life and timing of the typical peak for both myo­
+globin and CK, the timing of the disease onset is important. Patients 
+presenting early in their course may not have an elevation of their CK, 
+whereas patients who have milder symptoms or do not present during 
+the acute episode may have normal or near-­normal lab results. Symp­
+toms of previous episodes for which the patient did not seek clinical 
+care can suggest an underlying etiology; any signs of possible muscle 
+disease including features of muscle dysfunction (weakness, cramps, 
+pain) at baseline as well as during different types of activity (anaerobic 
+vs aerobic and concentric vs eccentric exercise) as well as family history 
+and inciting events or risk factors can be helpful in differentiating these 
+diseases (Fig. 36.3).
+Because of the phenotypic variation between some of the underly­
+ing genetic disorders that can predispose a patient to rhabdomyolysis, 
+evaluation for diagnostic or subtle symptoms should be considered 
+(Table 36.2; see Fig. 36.3).
+Physical Examination
+The physical examination must assess and track the degree of muscle 
+injury, evaluate for signs of an underlying etiology, and diagnose sec­
+ondary complications of rhabdomyolysis. An in-­depth neuromuscular 
+exam is warranted with objective tracking of manual muscle testing 
+(MMT)-­scored muscle strength (Table 36.3). This helps localize the 
+injury but also assesses for pain-­limited features as compared to true 
+muscle weakness. Sequential tracking of muscle symptoms helps deter­
+mine the disease progression and should be a guiding tool for treat­
+ment and hospital discharge.
+Acutely in rhabdomyolysis, muscle weakness should not be used 
+to determine an etiologic diagnosis because the ability to differenti­
+ate between baseline weakness and current symptoms can be difficult; 
+historical features are often more helpful. Examples of functional ques­
+tions to ask can be the ability to go up and down stairs (which have dif­
+ferent predominant muscle groups), the ability to be active in sporting 
+activities, and any previous history of muscle cramping, aches, or signs 
+of myalgias. Atrophy or pseudohypertrophy, which suggests a chronic 
+process, can be helpful during the acute phase to evaluate for underly­
+ing causes.
+Diagnostic Evaluation
+Patients are typically diagnosed with rhabdomyolysis based upon 
+serum CK, which is used as a marker for muscle breakdown (see Fig. 
+36.1). However, very focal rhabdomyolysis can result in CK levels that 
+are not as elevated.
+A two-­tiered acute approach for patients with possible rhabdomy­
+olysis is recommended given that most pediatric patients have either 
+exertional or infectious etiologies (Tables 36.4 and 36.5). This allows a 
+thoughtful approach to the patient in which etiologic studies may not 
+change management. There is no strong evidence for biochemical or 
+gene sequencing in a patient with a first episode of rhabdomyolysis and 
+no family history of muscle disease.
+Muscle Biopsy
+While histopathology can be diagnostic of a known (often genetic or 
+immunologic) etiology, the yield of a biopsy during an acute episode 
+is very low. This is because the acutely damaged muscle has a similar 
+end-­stage appearance due to the diffuse injury, which often masks the 
+more subtle features of the underlying cause. In almost all cases, a mus­
+cle biopsy, if needed, should be deferred for at least 3 months after the 
+resolution of the last acute episode to ensure the highest yield.
+The muscles selected should be those known to be affected, ideally 
+with a manual muscle strength score between 3–4+ out of 5, and not 
+those with diffuse atrophy. The most common muscle studies are the 
+hamstring muscles, or the vastus lateralis, followed occasionally by the 
+biceps and gastrocnemius. Genetic testing and biochemical analysis are 
+frequently pursued prior to obtaining a muscle sample because they are 
+less invasive and less expensive.
+Hours
+0
+10
+20
+30
+40
+50
+60
+Level
+Creatine kinase
+Myoglobin
+Fig. 36.2  Timing of myoglobin and creatine kinase elevations.
+Clinical suspicion of
+rhabdomyolysis
+>1000
+<1000
+Urine Heme +++
+Urine myoglobin
+>10 mg/dL
+OR
+Serum myoglobin
+>100 mg/dL
+Pain
+Weakness
+Myalgia
+Muscle swelling
+Diagnosis of rhabdomyolysis
+Urine myoglobin
+>10 mg/dL
+Elevated
+serum CK*
+Fig. 36.1  Simplified diagnostic algorithm for rhabdomyolysis. *Some defi­
+nitions of rhabdomyolysis include CK >5x the normal range for the lab.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+621
+CHAPTER 36  Rhabdomyolysis
+TABLE 36.1  Differential Causes of Acute Muscle Weakness and Pain
+Disease
+Typical Weakness Pattern
+Pain Pattern
+Other Symptoms
+Rhabdomyolysis
+Diffuse or muscles used with exertion, 
+often larger muscles are preferred
+Same as muscle pain
+Dark or red urine
+Elevated CK
+Guillain-­Barré syndrome
+Ascending weakness
+Neuropathic pain (typically distal)
+May have areflexia, autonomic 
+symptoms
+Myasthenia gravis
+Proximal weakness with/without ocular 
+or bulbar symptoms, often fatigable
+No pain
+Pupillary-­sparing fatigable weakness
+Botulism
+Descending weakness that involves 
+pupils
+No pain
+Often GI symptoms
+Myalgia
+In area of pain
+Often muscle or joint pains, large 
+muscles preferred
+Often in association with other disease, 
+CK is often normal
+Psychogenic
+May have non-­neurologic pattern of 
+weakness, weakness that varies 
+based upon how it is examined, give-­
+way weakness
+Pain and weakness are not always 
+congruent in a physiologic distribution
+May have other features of a 
+psychogenic illness
+Normal CK during an acute episode is 
+not rhabdomyolysis
+Nonrheumatologic connective 
+tissue disease (e.g., Ehlers-­Danlos 
+syndrome)
+Often no overt weakness
+Pain is often after activity but more joint 
+related than muscle
+Normal CK during an acute episode
+May have a history of fatigue with 
+endurance activity but normal strength
+CK, creatine kinase; GI, gastrointestinal.
+Recurrent Rhabdomyolysis
+Trigger
+No
+trigger
+ANO5
+COIII(MTCO3)
+PYGM
+PFKM
+ENO3
+PGAM2
+PGK1
+PGM1
+PHKA1
+PHKB
+Aerobic/
+anaerobic.
+Symptoms
+onset within
+minutes
+Prolonged
+exercise
+Febrile
+illness
+High fat
+intake
+Irregular
+diet
+Fasting
+Heat
+Cold
+ACADVL
+CPT2
+ETFA
+ETFB
+ETFDH
+COI(MTCO1)
+COIII(MTCO3)
+HADHA
+(strenuous
+exercise)
+HADHB
+(strenuous
+exercise)
+COII(MTCO2)
+DYS
+DYSF
+FKRP
+MTCYB
+ISCU
+RYR1
+ALDOA
+ACADVL
+RYR1
+LPIN1
+SIL1
+TSEN54
+ALDOA
+ACADVL
+CPT2
+ETFA
+ETFB
+ETFDH
+COIII(MTCO3)
+DGUOK
+RYR1
+ACADVL
+CPT2
+ETFA
+ETFB
+ETFDH
+LPIN1
+ETFA
+ETFB
+ETFDH
+CPT2
+RYR1
+ACADVL
+CPT2
+Muscle
+biopsy,
+genetic test
+Serum CK,
+muscle biopsy,
+forearm
+exercise test,
+12MWT (PYGM
+− second wind),
+cycle test
+(PYGM −
+second wind),
+FBC
+Acyl-
+carnitine, skin
+biopsy,
+fasting urine
+organic acids,
+muscle
+biopsy
+Acyl-carnitine, muscle biopsy,
+genetic test
+Acyl-
+carnitine,
+skin
+biopsy,
+genetic
+test, brain
+MRI
+(TSEN54)
+Acyl-carnitine,
+skin biopsy,
+fasting urine
+organic acids,
+muscle biopsy,
+genetic test
+Acyl-carnitine, skin
+biopsy, muscle
+biopsy, genetic test
+Acyl-carnitine,
+skin biopsy
+Acyl-
+carnitine,
+skin
+biopsy,
+muscle
+biopsy,
+genetic
+test
+Acyl-
+carnitine,
+skin
+biopsy
+Acyl-
+carnitine,
+skin biopsy,
+fasting
+urine
+organic
+acids,
+genetic test
+Acyl-
+carnitine,
+skin
+biopsy
+Exertion
+Exercise (nonspecific)
+Temperature
+Infection
+General
+anesthesia,
+drugs,
+alcohol
+Emotional
+stress
+Diet
+PGM1
+CPT2
+POLG1
+RYR1
+DYS
+FKTN
+LPIN1
+CPT2
+CPT2
+Fasting
+urine
+organic
+acids
+Fig. 36.3  Examples of different triggers of rhabdomyolysis. The identification of triggers may help in guiding 
+genetic testing and may also aid in the interpretation of variants of uncertain significance identified on next-­
+generation sequencing in patients presenting with RM. 12MWT, 12-­minute walk test; CK, creatine kinase; 
+FBC, full blood count. (From Scalco RS, Gardiner AR, Pitceathly RDS, et al. Rhabdomyolysis: a genetic per­
+spective. Orphanet J Rare Dis. 2015;10:51, Fig. 2.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+TABLE 36.2  Genetic Disorders Associated with Rhabdomyolysis
+Gene
+OMIM
+Cytogenetic 
+Location
+Inheritance
+Disorder
+Muscle Structure and Function
+ATP2A1
+601003
+16p11.2
+AR
+Brody myopathy
+DMD
+300376
+Xp21.2
+XLR
+Dystrophin-­associated muscular dystrophy: Becker type
+AMPD1
+600467
+1p13.2
+AR
+Myopathy due to myoadenylate deaminase deficiency
+SCN4A
+168300
+17q23.3
+AD
+Paramyotonia congenita
+ISCU
+255125
+12q23.3
+AR
+Myopathy with lactic acidosis
+CAV3
+123320
+3p25.3
+AD
+Familial hyperCKemia
+CASQ1
+114250
+1q23.2
+AD
+Myopathy, vacuolar, with CASQ1 aggregates
+Mitochondria/Energy Metabolism
+HADHA HADHB
+600467
+2p23.3
+AR
+Mitochondrial trifunctional protein deficiency (MTPD)
+MCKAT
+602199
+Not known
+AR
+Mitochondrial medium-­chain 3-­ketoacyl-­coenzyme A thiolase (MCKAT) deficiency
+CPT2
+600467
+1p32.3
+AR
+CPT II deficiency, myopathic, stress induced
+ACADVL
+600467
+17p13.1
+AR
+VLCAD deficiency
+PYGM
+600467
+11q13.1
+AR
+McArdle disease, or glycogen storage disease type V (GSD5)
+PGAM2
+261670
+7p13
+AR
+Glycogen storage disease type X
+LDHA
+612933
+11p15.1
+AR
+Glycogen storage disease type XI
+ALDOA
+611881
+16p11.2
+AR
+Glycogen storage disease type XII
+SLC25A20
+212138
+3p21.31
+AR
+Carnitine-­acylcarnitine translocase deficiency
+POLG
+600467
+15q26.1
+AD
+Autosomal dominant progressive external ophthalmoplegia (adPEO) with mitochondrial 
+DNA (mtDNA) deletions-­1 (PEOA1) is caused by variants in the nuclear-­encoded DNA 
+polymerase-­gamma gene
+DGUOK
+617070
+2p13.1
+AR
+Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal 
+recessive 4
+MRM2
+600467
+7p22.3
+AR
+Mitochondrial DNA depletion syndrome 17
+ATP5F1D
+618120
+19p13.3
+AR
+Mitochondrial complex V (ATP synthase) deficiency
+FDX2
+600467
+19p13.2
+AR
+Mitochondrial myopathy with or without optic atrophy and reversible 
+leukoencephalopathy (MEOAL)
+MRPS14
+618378
+1q25.1
+AR
+Combined oxidative phosphorylation deficiency 38
+TSFM
+600467
+12q14.1
+AR
+Combined oxidative phosphorylation deficiency-­3 (COXPD3) 
+Metabolic
+SLC25A42
+600467
+19p13.11
+AR
+Metabolic crises with variable encephalomyopathic features and neurologic regression 
+(MECREN)
+PGK1 
+600467
+Xq21.1
+XLR
+Phosphoglycerate kinase-­1 deficiency
+Other
+CACNA1S MHS4 
+MHS6 MHS3 
+MHS2 RYR1
+600467 601887 
+610888 
+154276 
+154275 
+145600
+1q32.1 3q13.1 5p 
+7q21 17q11.2 
+19q13.2
+AD
+Malignant hyperthermia susceptibility (multiple types including King-­Denborough 
+syndrome)
+CACNA1S
+188580
+1q32.1
+AD
+Thyrotoxic periodic paralysis associated with malignant hyperthermia allele
+CTDP1
+600467
+18q23
+AR
+Congenital cataracts, facial dysmorphism, and neuropathy
+PGM1
+600467
+1p31.3
+AR
+Congenital disorder of glycosylation, type It (CDG1T)
+XK
+300842
+Xp21.1
+XL
+McLeod syndrome with or without chronic granulomatous disease
+CYP2C8 
+601129
+10q23.33
+Risk allele
+Statin-­induced rhabdomyolysis cytochrome P450-­drug metabolism, altered, CYP2C8-­related
+TRAPPC2L
+618331
+16q24.3
+AR
+Progressive encephalopathy with episodic rhabdomyolysis (PEERB)
+TANGO2
+616878
+22q11.21
+AR
+Metabolic encephalomyopathic crises, recurrent, with rhabdomyolysis, cardiac 
+arrhythmias, and neurodegeneration (MECRCN)
+SLC16A1
+245340
+1p13.2
+AD
+Erythrocyte lactate transporter defect
+QARS1
+615760
+3p21.31
+AR
+Microcephaly, progressive, seizures, and cerebral and cerebellar atrophy (MSCCA)
+LPIN1
+268200
+2p25.1
+AR
+Myoglobinuria, acute recurrent, autosomal recessive
+HRAS
+218040
+11p15.5
+AD
+Costello syndrome/congenital myopathy with excess of muscle spindles
+SIL1
+248800
+5q31.2
+AR
+Marinesco-­Sjögren syndrome
+AD, autosomal dominant; AR, autosomal recessive; ATP, adenosine triphosphate; CPT II, carnitine palmitoyl transferase II; VLCAD, very long-­chain 
+acyl-­CoA dehydrogenase; XLR, X-­linked recessive.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+623
+CHAPTER 36  Rhabdomyolysis
+Treatment
+During an acute episode of rhabdomyolysis, the mainstay of treatment 
+is use of sufficient fluids to help diurese the serum electrolytes, chemi­
+cals, and toxins. In theory, by ensuring excretion of these chemicals, the 
+nonmuscle complications can be avoided. In adults, the recommenda­
+tions are to give a fluid bolus followed by starting the patient on 1.5–2 
+times greater than maintenance fluids. No evidence-­based guidelines 
+exist for children; some recommend the titrating of fluids to maintain a 
+urine output 3–4 times normal, or 3–4 mL/kg/hour in a child. Another 
+method is to titrate the fluids to maintain a physiologic creatine kinase 
+half-­life, which, in theory, would ensure an appropriate urine output. 
+This method addresses the patient’s physiology (Fig. 36.4).
+Before discharge the patient must demonstrate appropriate oral 
+intake with continued CK clearance and no myoglobin in the urine. 
+Patients must also have improved and tolerable symptoms but are not 
+expected to have fully resolved their pain or mild weakness. Nonethe­
+less, with underlying myocyte injury, mild pain, weakness, and some 
+limited endurance are expected to last for weeks to months after reso­
+lution of the acute event.
+Renal Injury Risk
+A serious complication of rhabdomyolysis is the potential risk for 
+renal injury. Fortunately, the risk remains relatively low (∼5–10% in 
+children). While some evidence suggests that patients with rhabdomy­
+olysis and a CK <5,000 IU/dL are at lower risk of renal involvement, 
+this may reflect patients with hyperCKemia and not rhabdomyolysis. 
+In one study, no patients with initial urinary heme (myoglobin) dip­
+stick results of <2+ developed acute renal failure, compared with ∼18% 
+of patients with urinary heme (myoglobin) dipstick results of ≥2+. The 
+TABLE 36.3  Manual Muscle Testing Grading
+Kendall and Kendall
+AMA Impairment Rating Guide
+Grade 0
+No muscle contraction
+No muscle contraction
+Grade 1
+Muscle contraction palpable or seen, but no motion
+Muscle contraction palpable or seen, but no motion
+Grade 2
+Motion of the part with gravity reduced
+Motion of the part with gravity reduced
+Grade 3
+Muscle can hold the part in test position against the resistance of 
+gravity but cannot hold if even slight pressure is added
+Muscle can hold the part in the test position against gravity alone
+Grade 4
+Muscle holds test position against some pressure but breaks 
+away
+Patient can move the part through the full active range of motion against some 
+resistance
+Grade 5
+Muscle holds test position against full pressure
+Patient can move the part through the full active range of motion against full 
+resistance
+AMA, American Medical Association.
+Adapted from Conable KM, Rosner AL. A narrative review of manual muscle testing and implications for muscle testing research. J Chiropr Med. 
+2011;10(3):157–165.
+TABLE 36.4  Initial Studies for During 
+Active Episode of Presumed Rhabdomyolysis
+First Tier
+Second Tier
+CBC
+Infectious evaluation
+CMP
+ECG if indicated by electrolytes
+CK
+Metabolic studies (described in text) if suspected 
+disease on initial presentation
+UA, micro and macro
+Urine drug screen
+CK, creatine kinase; CMP, comprehensive metabolic panel.
+TABLE 36.5  Infectious Causes of 
+Rhabdomyolysis
+Viruses
+Influenza A or B
+Cytomegalovirus
+Epstein-­Barr virus
+HIV: acute retroviral syndrome
+Human herpesvirus 6
+Respiratory syncytial virus
+Coxsackieviruses
+Enterovirus
+Adenovirus
+Echovirus
+Cytomegalovirus
+Herpes simplex virus
+Varicella-­zoster virus
+West Nile virus
+Dengue virus
+Bacteria
+Group A β-­hemolytic streptococci
+Legionella species
+Salmonella
+Salmonella species
+Francisella species
+Streptococcus pneumoniae
+Staphylococcus aureus
+Enterococcus
+Pseudomonas aeruginosa
+Neisseria meningitidis
+Haemophilus influenzae
+Coxiella burnetii
+Leptospira species
+Mycoplasma species
+Escherichia coli
+Rocky Mountain spotted fever
+Other
+Malaria
+Fungal infections
+Anaplasmosis
+Trichinosis
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+624
+SECTION 7  Neurosensory Disorders
+degree of elevation of the CK does not accurately correlate with the risk 
+of rhabdomyolysis in pediatric patients.
+Compartment Syndrome
+Compartment syndrome is another serious complication because 
+the swelling can result in vascular and neurologic compression and 
+secondary ischemic injury. Frequent evaluations of distal perfusion 
+and peripheral neurologic findings are warranted until the patient 
+is convalescing. Neurovascular evaluations of the distal extremities 
+are warranted every 2–4 hours during the early phases of injury. 
+Signs of compartment syndrome include pain out of proportion 
+to the examination as well as that induced by manual passive limb 
+movement. Consultation with an orthopedic or general surgeon is 
+warranted to help evaluate the need for a fasciotomy to relieve the 
+pressure.
+HOSPITAL FOLLOW-­UP
+Following discharge, follow-­up is recommended for all patients with 
+rhabdomyolysis. For those patients who have an identified etiology, 
+follow-­up with their specialist is warranted to help with recovery as 
+well as direct any possible activity level and/or treatment changes.
+For patients without a known diagnosis, referral to a neuromus­
+cular specialist or neurologist with an interest and expertise in mus­
+cle diseases is warranted. Even though the most common cause of 
+rhabdomyolysis is exertional or infectious, exercise or periods of high 
+energy demand as seen in infection can also induce a patient with an 
+underlying disease to have rhabdomyolysis (see Fig. 36.3). If there 
+is concern for an underlying genetic or metabolic disorder, refer­
+ral to a geneticist can be helpful to further direct additional genetic 
+and/or metabolic studies. This type of testing would not typically be 
+undertaken during an acute episode of rhabdomyolysis unless a sus­
+picious history is presented and clear etiology is suspected. Obtaining 
+a baseline CK is warranted in every patient 2–3 months after dis­
+charge when they have had 48 hours of no exercise (to prevent mini­
+mal elevations from activity) to help differentiate between diseases in 
+patients warranting further evaluation or to help screen for muscular 
+dystrophies.
+DISEASES
+There are many genetic and acquired causes of rhabdomyolysis. 
+Additionally, there are potentially genetic polymorphisms that could 
+predispose certain patients to developing rhabdomyolysis but not sig­
+nificant enough to be defined as a current disease. This is important 
+for those patients with recurrent episodes but no clear genetic cause 
+(see Table 36.2).
+Exercise-Induced
+Exercise is often the inciting event that causes rhabdomyolysis for 
+patients over the age of 2 years. The type of exercise is often important: 
+prolonged aerobic vs strenuous anaerobic (see Fig. 36.3).
+History
+In exercise-­induced rhabdomyolysis, there is typically a monophasic 
+episode of rhabdomyolysis with a preceding history of a rapid increase 
+in the level of physical activity from the normal baseline. The presence 
+of red or dark urine a few hours following the activity in association 
+with muscle soreness, localized swelling, and pain, which may last sev­
+eral days, is typical. It is not uncommon to discover a history of similar 
+episodes prior to this presentation without seeking care. In the recur­
+rent episodes, concern should be raised for an underlying etiology and 
+additional testing will be guided by the history and physical findings 
+(see Fig. 36.3, Tables 36.2 and 36.6).
+Physical Examination
+The physical examination may establish a possible underlying etiology 
+as well as assess for emergent complications such as compartment syn­
+drome. The evaluation of strength may be limited by pain and weak­
+ness from the muscle damage in the acute setting, and thus the exam 
+should be used to evaluate for possible chronic changes, monitor for 
+progression of the disease process, and ensure there are no systemic or 
+neurovascular complications. In cases where the injury was induced by 
+intense focal activity, such as weight lifting, the areas of involvement 
+may be isolated.
+The presence of atrophy, pseudohypertrophy, dysmorphic features, 
+and/or unusual weakness (such as scapular winging, which would be 
+unusual in rhabdomyolysis) suggests an underlying disease.
+General Management Guidelines for Pediatric Inpatient
+Rhabdomyolysis Without Renal Complications
+1. Patient presents clinically with rhabdomyolysis signs and
+ 
+symptoms
+ 
+ a. Collect: Basic metabolic panel, creatine kinase, urinalysis
+2. Initiate fluids
+ 
+ a. Initiate IV fluids (NS) at rate of 1.5x maintenance
+                                             OR
+ 
+ b. If there is concern or known metabolic disease, start 
+ 
+  
+D10 NS at 1.5x maintenance or as per genetics/metabolic
+ 
+  
+rescue plan based upon glucose infusion rate.
+3. Initial lab evaluation
+ 
+ a. Basic metabolic panel
+ 
+  
+ i. POSITIVE by RIFLE criteria → patient is developing
+ 
+  
+  ARF → not eligible for protocol
+ 
+  
+ ii. NEGATIVE by RIFLE criteria → patient not in renal
+ 
+  
+  failure. Repeat Q12.
+ 
+ b. Urinalysis
+ 
+  
+ i. POSITIVE myoglobin: Repeat UA Q12 until negative
+ 
+  
+  for myoglobin.
+ 
+  
+ ii. NEGATIVE myoglobin: Do not draw any more UAs.
+ 
+  
+  Continue on 1.5x MIVF as above, and monitor CK
+ 
+  
+  values per below.
+ 
+ c. Creatine kinase
+ 
+  
+ i. POSITIVE: Repeat Q12 hours
+ 
+  
+ ii. NEGATIVE: Patient is not in rhabdomyolysis,
+ 
+  
+  discontinue protocol.
+4. Q12 lab evaluation
+ 
+ a. Basic metabolic panel: Repeat as in step 3
+ 
+ b. Urinalysis: Repeat as in step 3
+ 
+ c. Creatine kinase
+ 
+  
+ i. If T1/2 <36 hours, decrease IV plus PO fluid rate by 0.5x.
+ 
+  
+  Continue to repeat Q12 until patient achieves discharge
+ 
+  
+  criteria (as noted in step 5)
+ 
+  
+ ii. If T1/2 >36 hours, increase IV plus PO fluid rate by 0.5x.
+ 
+  
+  Continue to repeat Q12 until patient achieves discharge
+ 
+  
+  criteria (as noted in step 5)
+5. Eligibility for discharge; repeat step 4 until:
+ 
+ a. Patient maintains 1x maintenance fluids orally
+ 
+ b. CK T1/2 is <24 hours
+ 
+ c. Urinalysis is negative for myoglobin
+ 
+ d. Patient exhibits little to no signs or symptoms of clinical
+ 
+  
+rhabdomyolysis. 
+Fig. 36.4  Treatment algorithm for patients with rhabdomyolysis. ARF, 
+acute renal failure; CK, creatine kinase; IV, intravenous; MIVF, mainte­
+nance intravenous fluids; NS, normal saline; PO, by mouth; RIFLE, risk, 
+injury, failure, loss of kidney function, and end-­stage kidney disease; 
+T1/2, half-­life.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+625
+CHAPTER 36  Rhabdomyolysis
+TABLE 36.6  Inherited Neuromuscular Disorders Associated with Episodes of Rhabdomyolysis*
+Gene
+Disease Name
+Baseline Creatine 
+Kinase Levels
+Pattern of 
+Inheritance
+Trigger for Rhabdomyolysis
+Disorders of Glycogen Metabolism
+PYGM
+Glycogen storage disease type V, 
+McArdle disease
+High
+AR
+Aerobic and anaerobic exercise, symptom onset 
+within minutes
+PFKM
+Glycogen storage disease type VII, Tarui 
+disease
+High
+AR
+Aerobic and anaerobic exercise, symptom onset 
+within minutes
+ALDOA
+Glycogen storage disease type XII
+Normal
+AR
+Febrile illness, infection
+Mild elevation, high
+ENO3
+Glycogen storage disease type XIII
+Normal
+AR
+Aerobic and anaerobic exercise, symptom onset 
+within minutes
+High
+PGAM2
+Glycogen storage disease type X
+High
+AR
+Aerobic and anaerobic exercise, symptom onset 
+within minutes
+PGK1
+Phosphoglycerate kinase 1 deficiency
+Normal
+X-­linked
+Aerobic and anaerobic exercise, symptom onset 
+within minutes
+High
+PGM1
+Glycogen storage disease type XIV
+High
+AR
+Aerobic and anaerobic exercise, symptom onset 
+within minutes, general anesthesia
+PHKA1
+Glycogen storage disease type IX
+?
+X-­linked
+Aerobic and anaerobic exercise, symptom onset 
+within minutes
+PHKB
+AR
+Disorders of Fatty Acid Metabolism
+ACADVL
+Deficiency of very long-­chain acyl-­CoA 
+dehydrogenase
+Normal
+AR
+Fasting, prolonged exercise, cold, infections, fever
+High
+CPT2
+Carnitine palmitoyl-­transferase 
+deficiency
+Normal
+AR
+Prolonged exercise, fasting, fever, infection, high 
+fat intake, cold exposure, heat, emotional stress, 
+drugs
+ETFA
+Glutaric aciduria type II
+Normal
+AR
+Physical exercise, fasting, irregular diet or infection
+ETFB
+Multiple acyl-­coenzyme A 
+dehydrogenase deficiency
+Mildly to moderately 
+elevated
+ETFDH
+Mitochondrial Disorders
+COI (MTCO1)
+Mitochondrial disorder
+Normal
+Maternal inheritance
+Prolonged or repetitive exercise
+COII (MTCO2)
+Mitochondrial disorder
+Normal
+Maternal inheritance
+Exercise
+COIII (MTCO3)
+Mitochondrial disorder
+Normal
+Maternal inheritance
+Prolonged exercise, viral illness, unknown cause
+DGUOK
+Mitochondrial disorder
+?
+AR
+Viral illness
+FDX1L
+Mitochondrial disorder
+Normal
+AR
+?After exercise
+High
+HADHA
+Mitochondrial trifunctional protein 
+deficiency
+Normal
+AR
+Strenuous physical activity
+HADHB
+ISCU
+Iron–sulfur cluster deficiency myopathy 
+(mitochondrial disorder)
+?
+AR
+Exercise
+MTCYB
+Mitochondrial disorder
+Normal
+?Sporadic pathogenic 
+variants
+Exercise
+POLG1
+One case report of rhabdomyolysis in association with propofol 
+infusion syndrome
+AD, AR
+Propofol infusion syndrome
+Disorders of Intramuscular Calcium Release and Excitation–Contraction Coupling
+RYR1
+Malignant hyperthermia susceptibility, 
+exertional rhabdomyolysis, congenital 
+myopathy
+Normal or mildly to 
+moderately elevated 
+(usually <1,000 IU/L)
+AD, AR
+Heat, infection, alcohol, drugs, anesthetic 
+(malignant hyperthermia susceptibility), and 
+exercise
+Muscular Dystrophies
+ANO5
+Anoctaminopathy-­5
+High
+AR
+Unprovoked; no trigger has been identified
+DMD
+Duchenne muscular dystrophy, Becker 
+muscular dystrophy
+High
+X-­linked
+Exercise, anesthetic drugs
+DYSF
+Limb-­girdle muscular dystrophy 2B, 
+Miyoshi myopathy
+High
+AR
+Exercise
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+626
+SECTION 7  Neurosensory Disorders
+Diagnostic Evaluation
+Once a diagnosis of rhabdomyolysis is established (see Fig. 36.1 and 
+Table 36.4), further evaluation is assessed based on individual clini­
+cal findings. For all patients with a clear history of a single episode of 
+isolated exertional rhabdomyolysis, no additional evaluation is rec­
+ommended. For those with recurrent exertional rhabdomyolysis, the 
+evaluation should be directed for an underlying disease (see Table 36.6 
+and Fig. 36.3). A baseline CK is warranted, but if no other concerning 
+features exist, further evaluation is not warranted following an isolated 
+event.
+Treatment
+After the acute episode, it is important to develop an appropriate exer­
+cise program. Initially, for 3–4 weeks, strenuous exercise is not rec­
+ommended because the myofibers remain damaged. However, a slow 
+return to activity, after resolution of any soreness or weakness on exam, 
+can help the child recover.
+Hospital Follow-­Up
+For patients who are following up from presumed exercise-­induced 
+rhabdomyolysis, a repeat history of signs and symptoms of an under­
+lying cause is warranted. Additionally, reviewing their baseline CK is 
+important because elevations in CK would prompt the clinician to look 
+for another cause.
+INFECTIOUS
+Infection is the most common cause of rhabdomyolysis in children 
+under the age of 2 years. While there are a large variety of infections, 
+viral infections, particularly influenza and enteroviruses, are the most 
+common etiologies (see Table 36.5). Any infection producing shock or 
+hypoxia may also be associated with high CK levels.
+In infectious rhabdomyolysis, the patient often presents with other 
+symptoms indicative of their disease (fever, myalgias, rash). In some 
+patients with infections and myalgias, consideration of obtaining a CK 
+is warranted. However, for patients in the ambulatory setting who are 
+not limited in their activities, in whom the myalgias are mild, and who 
+have no urine color changes, given the low risk of rhabdomyolysis, this 
+may not be necessary. Viral myositis does not always lead to rhabdo­
+myolysis. Although there is direct virus infection in the muscle for an 
+otherwise healthy patient, the CK level is not as high as in rhabdomy­
+olysis, and myoglobinuria is not expected.
+In rare cases, there have been reports of asymptomatic patients who 
+present with rhabdomyolysis with no infectious symptoms. This is an 
+issue in the COVID-­19 pandemic where asymptomatic but infected 
+patients are common, thus making the rhabdomyolysis more likely an 
+association than causative.
+Viral rhabdomyolysis may have a longer time to convalescence 
+than other monophasic causes (e.g., exercise-­induced rhabdomy­
+olysis) given that the infection’s duration is greater than that of an 
+exertional trigger. However, treatment remains the same with the 
+goal to avoid renal complications by increasing excretion of the 
+by-­products.
+TRAUMA
+Traumatic rhabdomyolysis includes crush, blast, or electrical injuries, 
+ischemia, and/or prolonged immobility.
+There should be a documented history of trauma and/or prolonged 
+immobility. Crush injuries are more likely to be a cause of rhabdomy­
+olysis than other injuries; the injury may be focal rather than a more 
+diffuse process.
+DRUG/TOXIN
+History
+Drug-­induced rhabdomyolysis can present in a variety of manners. In 
+the setting of recreational drug use, other signs of drug use can be clues. 
+However, the list of potential causes is extensive, and each may have other 
+associated symptoms (toxidromes) (Table 36.7). Opiates, drugs with sym­
+pathomimetic properties, and drugs associated with intense (raving) 
+exertion are among the common agents producing rhabdomyolysis.
+Evaluation of drug ingestions, intentional or not, and prescrip­
+tion medications or over-­the-­counter remedies as well as herbal sup­
+plements or toxins is warranted for any patient with rhabdomyolysis 
+(Tables 36.7 and 36.8).
+Diagnostic Evaluation
+For patients presenting without an identifiable etiology for rhabdomy­
+olysis, a drug screen is warranted.
+TABLE 36.6  Inherited Neuromuscular Disorders Associated with Episodes of 
+Rhabdomyolysis—cont’d
+Gene
+Disease Name
+Baseline Creatine 
+Kinase Levels
+Pattern of 
+Inheritance
+Trigger for Rhabdomyolysis
+FKTN
+Fukuyama congenital muscular 
+dystrophy
+High
+AR
+One case following the use of halothane and 
+succinylcholine
+FKRP
+Limb-­girdle muscular dystrophy 2I
+High
+AR
+Exercise
+Miscellaneous
+LPIN1
+Phosphatidic acid phosphatase 
+deficiency
+Normal, high
+AR
+Febrile illness, anesthesia, and fasting
+SIL1
+Marinesco-­Sjögren syndrome
+Normal, high
+AR
+Febrile infection
+TSEN54
+Pontocerebellar hypoplasia type 2
+Normal, high
+AR
+Hyperthermia
+TANGO2
+Encephalocardiomyopathy
+High
+AR
+Encephalocardiomyopathy crisis
+*The table summarizes genes, disease names, baseline serum creatine kinase levels (between acute episodes of rhabdomyolysis), patterns of inher­
+itance, and triggers for rhabdomyolysis. Genes commonly associated with rhabdomyolysis episodes are indicated in bold.
+AD, autosomal dominant; AR, autosomal recessive.
+From Scalco RS, Gardiner AR, Pitceathly RDS, et al. Rhabdomyolysis: a genetic perspective. Orphanet J Rare Dis. 2015;10:51, Table 1.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+627
+CHAPTER 36  Rhabdomyolysis
+Treatment
+Treatment is based upon the exposure. While symptomatic manage­
+ment is available for some toxins and drugs, in most cases these will 
+not affect the rhabdomyolysis. When possible, removal of the exposure 
+is warranted.
+Autoimmune
+Autoimmune diseases are not common causes of rhabdomyolysis 
+but more so of subacute or chronic elevations of CK. Autoimmune 
+myositis is associated with elevated CK. The progression correlates 
+better to a slow decline of strength, often in proximal muscles. In 
+addition, the patients may have the heliotrope rash as well as telan­
+giectasias, photosensitivity, and/or extensor joint violaceous or red 
+rashes (Gottron papules). Because these can be vasculitic diseases, 
+often there are nailbed capillary changes. The best known of the 
+pediatric autoimmune myositides is dermatomyositis; other sub­
+types exist including lupus myositis and idiopathic inflammatory 
+myopathies.
+Patients often have a proximal weakness but are less likely to have 
+pain in the muscles. Additionally, atrophy can be indicative of a more 
+chronic process. Other signs of autoimmune disease such as rash, joint 
+pain, and/or systemic disease can be indicative of a more generalized 
+systemic process.
+The evaluation for autoimmune myositis differs from other causes 
+of rhabdomyolysis in that the muscle biopsy is often a key component. 
+Given the process is subacute to chronic, the typical nonspecific mus­
+cle breakdown seen in rhabdomyolysis that would contraindicate the 
+biopsy is not present. The addition of rheumatologic studies such as an 
+antinuclear antibody (ANA) as well as muscle-­specific antibodies can 
+be helpful in determining the etiology (Table 36.9).
+TABLE 36.7  Drugs with Known Associations with Rhabdomyolysis
+Recreational/Misused Drugs
+Cocaine
+Heroin
+Ethanol
+Amphetamines
+LSD
+Phencyclidine
+Mushrooms
+Ecstasy
+Neuroleptic/Antipsychotic
+Succinylcholine
+Propofol
+Valproic acid (in patients with CPT II)
+Fenfluramine
+Lithium
+Haloperidol
+Fluphenazine
+Perphenazine
+Chlorpromazine
+Cyclic antidepressants
+Selective serotonin reuptake inhibitors
+Antibiotics
+Fluoroquinolones
+Pyrazinamide
+Trimethoprim/sulfonamide
+Amphotericin B
+Itraconazole
+Daptomycin
+Isoniazid
+Pentamidine
+Others
+Amiodarone
+Arsenic trioxide
+Emetine
+ε-Aminocaproic acid (Amicar)
+Lamotrigine
+Nicotinic acid
+Vasopressin (from ischemia)
+Zidovudine
+Hemlock
+Acetaminophen
+Baclofen
+Caffeine
+Chloral hydrate
+Colchicine fibric acid derivatives (bezafibrate, clofibrate, fenofibrate, gemfibrozil)
+Quinine
+Corticosteroids
+Statins (atorvastatin, fluvastatin, lovastatin, pravastatin, rosuvastatin, 
+simvastatin, cerivastatin)
+Theophylline
+Benzodiazepines
+Antihistamines
+Phenylpropanolamine
+Ephedra
+Proton pump inhibitors
+Ritodrine
+Vincristine
+Salicylates
+TABLE 36.8  Toxins with Known 
+Associations with Rhabdomyolysis
+Buffalo and burbot fish
+Birds who eat hemlock: hemlock herbs from quail eggs
+Kidney beans
+Snake venom (coral, cobra, viper, rattlesnake)
+Insect (hornet, African bee, honey bee, and others)
+Tricholoma equestre (mushroom)
+Carbon monoxide (CO)
+Spider venom
+Heavy metals
+Pesticides
+Cyanide
+Toluene
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+628
+SECTION 7  Neurosensory Disorders
+Treatment
+The treatment of autoimmune myositis includes immunosuppressing and/
+or immunomodulating agents. Corticosteroids are initiated before tran­
+sitioning the patient to steroid-­sparing agents, often azathioprine, meth­
+otrexate, or mycophenolate mofetil, depending upon the disease process.
+MUSCLE DISEASE
+The muscle diseases include the muscular dystrophies and myopathies. 
+In the muscular dystrophies, the pathology is associated with dysfunc­
+tion in the genes that are part of the scaffolding of the muscle membrane 
+and connecting to the surrounding extracellular matrix. The myopathies 
+are often due to dysfunction in a component of the contractile apparatus. 
+The dystrophies often have hyperCKemia at baseline, whereas the myop­
+athies do not. However, there are many diseases in these categories with 
+possible overlap and differentiation can be difficult.
+The risk of malignant hyperthermia is not ubiquitous in all muscle 
+disease, but, unless a specific variant analysis is determined, it is saf­
+est to use malignant hyperthermia precautions for any anesthesia in a 
+known or suspected patient with muscle disease.
+Dystrophinopathy
+Dystrophin is an X-­linked gene that links the internal contractile apparatus 
+of the myofiber to the sarcolemma, where it connects with other struc­
+tural proteins that eventually anchor the cell to the extracellular matrix. A 
+defect in this protein results in a progressive muscle disease. There is a large 
+phenotypic variation in which the mildest males with the disease with the 
+slowest progression are able to ambulate into their adult years, while the 
+more severely affected males will lose the ability to walk by age 10–12 years 
+and die in their late teens to early 20s without treatment. Differentiation 
+of this disease is between Becker muscular dystrophy for those males who 
+continue to walk after the age of 12 years and Duchenne muscular dystro­
+phy for those who lose the ability to walk prior to 12 years of age; ∼30% 
+of males will have some cognitive deficits. Females may also present with 
+milder symptoms that range from mild cardiac disease in adult years to 
+rarely female children with similar features to the male counterpart.
+Patients with dystrophinopathy have baseline hyperCKemia (some­
+times up to 40,000 IU/L); they are also at risk for rhabdomyolysis. Rhabdo­
+myolysis may be confused with myalgias and an increase in their already 
+high CK due to muscle activity; dark urine suggests rhabdomyolysis.
+Patients rarely present with rhabdomyolysis as an initial manifes­
+tation after exercise. In the patient with an undiagnosed but possible 
+muscle disease, a family history is very important because 65% of cases 
+of dystrophinopathy are inherited. For males, this is often from asymp­
+tomatic mothers, but there may be a distant family history of a young 
+male who died of a muscle disease in the family.
+In a patient presenting with rhabdomyolysis who has, or is sus­
+pected of having, a dystrophinopathy, the males often have calf pseudo­
+hypertrophy from fatty infiltrates. While during an acute episode of 
+rhabdomyolysis it may be difficult to differentiate baseline weakness 
+from weakness from the rhabdomyolysis, the patients often present 
+with proximal muscle weakness between the ages of 3 and 5 years.
+The diagnostic evaluation of a patient with rhabdomyolysis and 
+possible underlying dystrophinopathy begins with a baseline CK as 
+an outpatient because all male patients with dystrophinopathy have 
+hyperCKemia at baseline. While other muscular dystrophies can also 
+cause hyperCKemia, dystrophinopathies have the highest incidence in 
+young males. In young females, symptomatic carriers of dystrophinop­
+athies at a young age are less common than some of the other muscle 
+diseases such as the dysferlinopathies or other limb-­girdle muscular 
+dystrophies. The use of genetic muscle disease panel testing after the 
+result of an elevated baseline CK can offer rapid diagnostic testing.
+Other Muscular Dystrophies
+Other muscular dystrophies can also present with rhabdomyolysis. In 
+these cases, the specific gene and genetic change can direct the phe­
+notype further (see Tables 36.2 and 36.6 and Fig. 36.3). The pattern of 
+muscle weakness, age of onset, and progression can vary between many 
+of these diseases and may be used to better phenotype the patients. In 
+some patients, rhabdomyolysis may be the presenting event; these dis­
+orders include fukutin-­related protein muscular dystrophy, anoctami­
+nopathy, dysferlinopathy, caveolinopathy, and calpainopathy. Exercise 
+or a febrile illness may be precipitating events.
+MYOPATHIES
+RYR1 and Malignant Hyperthermia
+RYR1-­related myopathy has a broad phenotypic presentation. In the 
+mildest cases, variants in this gene present only with malignant hyper­
+thermia when given an inciting anesthetic; other patients can present 
+TABLE 36.9  Myositis-­Specific and Myositis-­Associated Autoantibodies
+Type of Autoantibodies
+Myositis-­Specific Antibodies (MSAs)
+Myositis-­Associated 
+Antibodies (MAAs)
+Other Autoantibodies 
+Often Found in Myositis
+Autoantibody specificities
+Classic MSAs: Jo-­1, PL-­7, PL-­12, EJ, OJ, Mi-­2, SRP
+PM-­Scl, Ku, U1RNP, U1/U2RNP, 
+U3RNP
+Ro52, Ro60, Su/Ago2
+New antibodies that can be considered MSAs: KS, 
+TIF1γ/α, TIF1β, MJ/NXP-­2, MDA5/CADM-­140, SAE
+—
+—
+Association with SARDs
+PM/DM, PM/DM overlap syndrome
+PM/DM, PM/DM overlap syndrome, 
+SSc, SLE
+Various SARDs
+Detection in non-­PM/DM
+Uncommon (anti-­ARS can be in overlap syndrome and 
+idiopathic ILD)
+Not uncommon
+Often
+Association with myopathy 
+when found in non-­PM/DM
+Yes
+Yes
+No or not established
+Prevalence in general 
+population
+Almost none
+PM-­Scl, Ku, U1/U2RNP—almost 
+none; U1RNP, ∼0.1%
+Relatively common (0.5–1%)
+DM, dermatomyositis; ILD, interstitial lung disease; PM, polymyositis; SARDs, systemic autoimmune rheumatic diseases; SLE, systemic lupus erythe­
+matosus; SSc, scleroderma, systemic sclerosis. 
+From Satoh M, Tanaka S, Ceribelli A, et al. A comprehensive overview on myositis-­specific antibodies: new and old biomarkers in idiopathic 
+inflammatory myopathy. Clin Rev Allergy Immunol. 2017;52(1):1–19 (Table 1, p. 2).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+629
+CHAPTER 36  Rhabdomyolysis
+with severe respiratory and muscle weakness as a newborn infant. 
+However, at baseline there is often no hyperCKemia.
+In patients with RYR1-­myopathy-­associated rhabdomyolysis with 
+malignant hyperthermia, lactic acidosis and hyperthermia are often 
+found; this may not be the case in exertional rhabdomyolysis. Malig­
+nant hyperthermia is associated with volatile anesthetics and depolar­
+izing agents.
+For patients with exertional RYR1 rhabdomyolysis, the features are 
+similar to those with exercise-­induced rhabdomyolysis; in addition, 
+there may be features of an underlying muscle disease such as ptosis, 
+proximal muscle weakness, and/or difficulty keeping up with their 
+peers. Recurrent symptoms congruent with possible rhabdomyolysis 
+or myalgias are also possible clues in patients with otherwise normal 
+baseline examinations.
+A family history of weakness, malignant hyperthermia, or exer­
+tional myalgias is also helpful in making this diagnosis.
+For patients with malignant hyperthermia–related muscle disease, 
+immediate consideration for a broad muscle disease genetic panel 
+can be helpful. RYR1 is a large gene with a high degree of commonly 
+occurring variants. This complicates the interpretation of variants 
+identified through gene sequencing, and it is important to provide the 
+family with the most current information regarding a variant identified 
+through testing.
+The treatment of malignant hyperthermia differs somewhat from 
+that of typical rhabdomyolysis because there are continued concerns 
+about intense muscle contractions perpetuating the disease; the RYR1 
+gene is involved with calcium influx and, thus, avoiding continued 
+depolarization is needed. The first step is to avoid the inciting agent. 
+Dantrolene is beneficial with or without cooling. Avoiding β blockers 
+as well as calcium and calcium antagonists is recommended to help 
+stop perpetuate the mechanism of injury.
+GLYCOGEN METABOLISM/MCARDLE DISEASE
+There are a variety of glycogen storage diseases associated with 
+rhabdomyolysis, with the best-­known being McArdle disease, also 
+known as myophosphorylase deficiency (see Fig. 36.3 and Tables 
+36.2 and 36.6).
+Patients with McArdle disease often describe intolerance to brief 
+intense exercise but do better with moderate exercise; they will describe 
+cramping and muscle swelling. After the patient develops acute myal­
+gias, they will be able to have further activity (the “second-­wind phe­
+nomenon”) if they take a brief rest. However, this is not found in every 
+patient. Weakness in childhood is not common and is mild, if present.
+The baseline CK is often elevated above baseline even when at rest. 
+The electromyogram and nerve conduction studies can have myopathic 
+features in some, but not all, patients. Genetic testing is the standard of 
+care in diagnosing this disease.
+Carnitine Palmitoyl Transferase II Deficiency
+Carnitine palmitoyl transferase II (CPT II) deficiency is an autosomal 
+recessive disease that presents in various forms. The myopathic form 
+will have little to no symptoms prior to the onset of rhabdomyolysis. 
+Patients may have some mild myalgias with activity but will often pres­
+ent in an acute decompensation from exercise, cold, fasting, valproate 
+usage, or anesthesia. The infantile form is more severe and is a hepato-­
+cardio-­muscular systemic disorder presenting with hepatomegaly, 
+hypoglycemia, hypotonia, cardiomyopathy, and seizures.
+Patients with CPT II disease have normal CK levels at rest. This is a 
+disease of recurrence presenting with episodes of rhabdomyolysis and 
+a history of myalgias or cramping. Analysis of serum acylcarnitines 
+and total free carnitine is warranted; there is a high ratio of palmitoyl­
+carnitine (C16:0) + oleoylcarnitine (C18:1))/acetylcarnitine (C2) with 
+normal serum carnitine.
+Systemic Disease
+This category includes hypokalemic as well as thyroid storming or 
+hypothyroidism-­associated rhabdomyolysis. Given that thyroid-­
+associated rhabdomyolysis is very rare, unless other features are sug­
+gestive, it is not warranted to screen every patient who presents with 
+rhabdomyolysis without other features.
+Mitochondrial and Fatty Acid Oxidation Defects
+Mitochondrial diseases may have chronic symptoms including other 
+neurologic features, cardiac disease, and weakness (see Tables 36.2 
+and 36.6). Given the potential heterogeneous presentations of primary 
+mitochondrial diseases, a broad array of multisystem symptoms should 
+be considered as variations in presentation are significant.
+The diagnostic evaluation often begins with biochemical testing 
+and in the acute stage this is warranted. In these patients, sending 
+serum lactic acid, pyruvic acid, ammonia, very long-­chain fatty acids, 
+an acylcarnitine profile, total and free carnitine, and urine organic 
+acids is appropriate in the acute phase.
+Presumed Isolated HyperCKemia
+Elevated CK levels in an otherwise asymptomatic patient may be an 
+incidental finding (idiopathic) or an early preclinical manifestation of 
+a muscle disease. These latter disorders include muscular dystrophy 
+(especially female carriers), other mitochondrial myopathies, myoad­
+enylate deaminase deficiency, caveolinopathies, desmin-­related myop­
+athies, and inflammatory myositis. Strenuous exercise within 7 days of 
+testing may also produce elevated CK levels.
+   	 S U MMA RY  A N D  R E D  F L A G S
+Rhabdomyolysis is a pathologic process that is the end result from either 
+structural or energy depletion of myocytes. The treatment focuses on 
+protecting the kidneys and other organs from secondary damage from 
+the released intracellular substances into the serum by use of appropriate 
+hydration as well as glucose in patients with suspected metabolic disease.
+While most causes of rhabdomyolysis are due to exercise or infec­
+tion, being aware of signs that may indicate an underlying disease 
+is important and this would warrant treatment. Often, the use of 
+a baseline (at rest and postevent) CK can help differentiate between 
+groups of muscle diseases and help direct further evaluation. Recurrent 
+episodes, a personal or family history (cramping, prolonged postex­
+ercise muscle soreness), decompensation or death during surgery 
+(anesthesia), calf pseudohypertrophy, muscle wasting, being unable to 
+keep up with peers, hepatic–cardiac–central nervous system dysfunc­
+tion, and persistent elevations of CK after recovery strongly suggest an 
+underlying genetic etiology.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+629.e1
+BIBLIOGRAPHY
+American Medical Association. Guides to the Evaluation of Permanent 
+Impairment. 6th ed. 2007:510.
+Baird MF, Graham SM, Baler JS, Bickerstaff GF. Creatine-­kinase-­and 
+exercise-­related muscle damage implications for muscle performance 
+and recovery. J Nutr Metab. 2012:2012. |Article ID 960363 | https://doi.
+org/10.1155/2012/960363.
+Brancaccio P, Maffulli N, Limongelli FM. Creatine kinase monitoring in sport 
+medicine. Br Med Bull. 2007;81–82:209–230.
+Chamberlain MC. Rhabdomyolysis in children: a 3-­year retrospective study. 
+Pediatr Neurol. 1991;7(3):226–22.
+Chan EK, Kornberg AJ, Ryan MM. A diagnostic approach to recurrent myalgia 
+and rhabdomyolysis in children. Arch Dis Child. 2015;100(8):793–797.
+Chavez LO, Leon M, Einav S, et al. Beyond muscle destruction: a systematic 
+review of rhabdomyolysis for clinical practice. Crit Care. 2016;20(1):135.
+Chen CY, Lin YR, Zhao LL, et al. Clinical spectrum of rhabdomyolysis 
+presented to pediatric emergency department. BMC Pediatr. 2013;13:134.
+Conable KM, Rosner AL. A narrative review of manual muscle testing and 
+implications for muscle testing research. J Chiropr Med. 2011;10(3):157–165.
+Elsayed EF, Reilly RF. Rhabdomyolysis: a review, with emphasis on the 
+pediatric population. Pediatr Nephrol. 2010;25(1):7–18.
+Gelbart B, DeMarco R, David Hussey A, et al. Rhabdomyolysis in a tertiary 
+PICU: a 10-­year study. Pediatr Crit Care Med. 2018;19(1):e51–e57.
+Giannoglou GD, Chatzizisis YS, Misirli G. The syndrome of rhabdomyolysis: 
+pathophysiology and diagnosis. Eur J Intern Med. 2007;18(2):90–100.
+Kendall FP, Kendall McCreary E, Provance PG. Muscles—Testing and Function. 
+4th ed. Baltimore: Williams and Wilkins; 1993:179–190.
+Lahoria R, Milone M. Rhabdomyolysis featuring muscular dystrophies. J 
+Neurosci. 2016;361:29–33.
+Lalani SR, Liu P, Rosenfeld JA, et al. Recurrent muscle weakness with 
+rhabdomyolysis, metabolic crises, and cardia arrhythmia due to bi-­allelic 
+TANGO2 mutations. Am J Hum Genetics. 2016;98:347–357.
+Mannix R, Tan ML, Wright R, et al. Acute pediatric rhabdomyolysis: causes 
+and rates of renal failure. Pediatrics. 2006;118(5):2119–2125.
+Pestronk A. Neuromuscular Disease Center. 2020. Available from: https://
+neuromuscular.wustl.edu/msys/myoglob.html.
+Quinlivan R, Buckley J, James M, et al. McArdle disease: a clinical review. J 
+Neurol Neurosurg Psychiatr. 2010;81:1182–1188.
+Rider LG, Nistala K. The juvenile idiopathic inflammatory myopathies: 
+pathogenesis, clinical and autoantibody phenotypes, and outcomes. J Intern 
+Med. 2016;280(1):24–38.
+Satoh M, Tanaka S, Ceribelli A, et al. A comprehensive overview of myositis-­
+specific antibodies: new and old biomarkers in idiopathic inflammatory 
+myopathy. Clin Rev Allergy Immunol. 2017;52(1):1–19.
+Scalco RS, Gardiner AR, Pitceathly RDS, et al. Rhabdomyolysis: a genetic 
+review. Orphan J Rare Dis. 2015;10:51.
+Schneiderbanger D, Johannsen S, Roewer N, et al. Management of 
+malignant hyperthermia: diagnosis and treatment. Ther Clin Risk Manag. 
+2014;10:355–362.
+Stahl K, Rastelli E, Schoser B. A systematic review on the definition of 
+rhabdomyolysis. J Neurol. 2020;267(4):877–882. https://doi.org/10.1007/
+s00415-­019-­09185-­4.
+Szugye HS. Pediatric rhabdomyolysis. Pediatr Rev. 2020;41(6):265–275.
+Topçu Y, Bayram E, Karaoğlu P, et al. Carnitine palmitoyl transferase II 
+deficiency in an adolescent presenting with rhabdomyolysis and acute 
+renal failure. Pediatr Emerg Care. 2014;30(5):343–344.
+Topçu Y, Bayram E, Karaoğlu P, et al. Importance of acylcarnitine profile 
+analysis for disorders of lipid metabolism in adolescent patients with 
+recurrent rhabdomyolysis: report of two cases. Ann Indian Acad Neurol. 
+2014;17(4):437–440.
+Torres PA, Helmstetter JA, Kaye AM, et al. Rhabdomyolysis: pathogenesis, 
+diagnosis, and treatment. Ochsner J. 2015;15(1):58–69.
+Wu CT, Huang JL, Lin JJ, et al. Factors associated with nontraumatic 
+rhabdomyolysis and acute renal failure of children in Taiwan population. 
+Pediatr Emerg Care. 2009;25(10):657–660.
+Yang Y, Carter LP, Cook RE, et al. A case of exertional rhabdomyolysis: a cheer 
+for standardizing inpatient management and prevention. Hosp Pediatr. 
+2016;6(12):753–756.
+Yao Z, Yuan P, Hong S, et al. Clinical features of acute rhabdomyolysis in 55 
+pediatric patients. Front Pediatr. 2020;8:539.
+Zimmerman JL, Shen MC. Rhabdomyolysis. Chest. 2013;144(3):1058–1065.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

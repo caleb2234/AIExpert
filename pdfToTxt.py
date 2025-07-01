@@ -5,7 +5,6 @@ current_directory = os.getcwd()
 
 directory_in_str = current_directory + "/medbook"
 directory = os.fsencode(directory_in_str)
-    
 for file in os.listdir(directory):
     filename = os.fsdecode(file)
     if filename.endswith(".pdf"): 

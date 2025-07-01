@@ -1,0 +1,3324 @@
+630
+Stroke is a sudden focal neurologic syndrome caused by an abrupt 
+and critical interruption of the normal metabolic function of the cen­
+tral nervous system (CNS), typically due to ischemia or hemorrhage. 
+Depending on where in the CNS this interruption occurs, the symp­
+toms of stroke can be striking, such as acute lateralized weakness, 
+though at times are subtle, mimicking other and sometimes more 
+benign neurologic processes or producing clinically asymptomatic 
+lesions that are discovered only on imaging studies or detailed neu­
+ropsychological evaluation. Despite this variability in presentation, 
+stroke is a serious medical emergency and is among the 10 most com­
+mon causes of death in childhood; prompt recognition and manage­
+ment are essential, as effective interventions that can minimize the 
+sequelae of stroke are time dependent and some must be initiated 
+within hours of symptom onset. The sequelae are not trivial: In addi­
+tion to lasting lateralized weakness (paralysis, paresis), other symp­
+toms such as learning disabilities, disturbances of language, visual 
+deficits, and seizures may persist throughout adulthood. Physicians 
+should recognize both common and rare disorders that can predis­
+pose to stroke to counsel patients and their families on the risk and 
+recognition of stroke and to institute available prophylactic measures 
+to minimize that risk. Additionally, clinicians should be aware of phe­
+nomena that can mimic the symptoms of stroke to avoid unnecessary 
+investigations or interventions.
+DEFINITIONS
+Stroke is a sudden focal neurologic syndrome caused by cerebrovas­
+cular disease, which refers to any abnormality of the brain resulting 
+from a pathologic process of the blood vessels, such as occlusion of the 
+lumen by an embolus or thrombus, rupture of a vessel wall or alteration 
+in vessel wall permeability, increased viscosity, vessel inflammatory 
+disorders, or other changes in the quality of blood flow through the 
+cerebral vessels. Brain injury from stroke occurs in one of two general 
+forms:
+Ischemia consists of inadequate brain perfusion with consequent lack 
+of oxygen or other blood-­delivered substances necessary for normal 
+metabolic function.
+Hemorrhage occurs when blood is released into the extravascular cra­
+nial space, producing focal brain injury from irritation and pressure 
+exerted by the space-­occupying mass of blood.
+Rarely metabolic stroke due to mitochondrial disorders, hypoglycemia, 
+or organic acidemias may produce stroke in the absence of ischemia or 
+hemorrhage.
+Arterial ischemic stroke (AIS) typically occurs via one of three 
+mechanisms: embolism, thrombosis, or global cerebral hypoperfusion. 
+Ischemic brain injury may rarely be secondary to metabolic derange­
+ments or arterial vasospasm. Figures 37.1 through 37.4 demonstrate 
+the arterial vascular supply to the brain.
+Embolic stroke occurs when material formed within a vessel out­
+side the brain travels to and lodges in a blood vessel supplying the 
+brain, blocking cerebral perfusion. Emboli originate most commonly 
+in the heart, arising from a thrombus on a cardiac chamber wall or 
+from a vegetation on valve leaflets. Artery-­to-­artery emboli are com­
+posed of clot or platelet aggregates that originate in vessels proximal to 
+the brain that ultimately travel to and occlude flow in vessels critical for 
+cerebral perfusion. Systemic vein-­to-­cerebral artery emboli (i.e., para­
+doxical emboli) are possible in the presence of the right-­to-­left shunts 
+of cyanotic congenital heart disease or a patent foramen ovale.
+Thrombosis denotes vascular occlusion caused by a localized pro­
+cess within a blood vessel or vessels. Although atherosclerosis under­
+lies most thrombotic processes affecting adults, it is not common in 
+children. Localized luminal clot formation in cerebral vessels occurs 
+in polycythemia or in a hypercoagulable state. Alternatively, anatomic 
+abnormalities may lead to clot formation or mechanical obstruction 
+as is found in fibromuscular dysplasia, arteritis (vasculitis), or arterial 
+dissection.
+Global cerebral hypoperfusion due to systemic hypotension or 
+cardiac pump failure (resulting from congenital heart disease or its 
+surgical repair) can result in cerebral ischemic injury. With dimin­
+ished cerebral perfusion, brain injury is more diffuse than the more 
+focal injuries characteristic of thrombotic and embolic cerebral 
+events.
+Metabolic stroke occurs when a physiologic stressor produces met­
+abolic demands that exceed the ability to provide sufficient metabolic 
+substrate to the brain, provoking an energy failure state that results 
+in an acute neurologic deficit. Common stressors include prolonged 
+fasting with hypoglycemia, intercurrent illness, or seizures. Patients 
+with certain inborn errors of metabolism or mitochondrial disorders 
+are more susceptible to metabolic decompensation and therefore met­
+abolic stroke.
+Vasospasm, a contraction of the wall of intracranial arteries caus­
+ing luminal narrowing, is most often seen after subarachnoid hemor­
+rhage but may also occur in the setting of CNS infections. Narrowed 
+vessels are unable to perfuse areas of the brain sufficiently and cerebral 
+ischemia may occur.
+Intracranial hemorrhage arises in one of two patterns:
+Subarachnoid hemorrhage (SAH) occurs when blood flows out of the 
+intracranial vascular bed onto the surface of the brain to mix with 
+cerebrospinal fluid in the subarachnoid space. The most common 
+source of such intracranial bleeding in early childhood is an arte­
+riovenous malformation (AVM). Ruptured intracranial aneu­
+rysms also cause SAH, especially in older children (Table 37.1).
+Intraparenchymal hemorrhage denotes bleeding into the paren­
+chyma of the brain. The severity and spectrum of deficits caused 
+by intraparenchymal hemorrhage are determined by the extent and 
+location of bleeding in the brain (Table 37.2).
+Stroke
+Raquel Farias-­Moeller
+37
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+631
+CHAPTER 37  Stroke
+Venous stroke occurs when there is occlusion of the dural venous 
+sinuses (Table 37.3). Thrombosis may occur in cerebral veins that con­
+duct deoxygenated blood from the brain parenchyma to the dural sinus 
+system (Fig. 37.5). These sinuses—the sagittal, straight, transverse, 
+cavernous, and petrous—then convey the blood to the jugular veins. 
+Occlusion of flow anywhere in these venous conduits leads to local 
+underdrainage, which may lead to ischemia and even hemorrhage.
+THE SYMPTOMS OF STROKE
+The primary symptom of a stroke is a sudden neurologic deficit, a 
+localized interruption of the functions for which the compromised area 
+of brain tissue is responsible. The location, or focality, of the resultant 
+Anterior cerebral
+artery (ACA)
+Anterior
+communicating
+artery (ACom)
+Middle cerebral
+artery-bifurcation
+Middle cerebral
+artery-M2 segment
+Middle cerebral
+artery-M1 segment
+Carotid siphon
+Internal carotid
+artery (ICA)
+Fig. 37.1  Magnetic resonance angiogram of the intracranial portion of 
+the internal carotid artery and its main branches. (From Goldstein LB. 
+Approach to cerebrovascular diseases. In: Goldman L, Schafer AI, eds. 
+Goldman-­Cecil Medicine. 26th ed. Philadelphia: Elsevier; 2020:2388, 
+Fig. 378-­2.)
+Posterior cerebral
+artery (PCA)
+Superior cerebellar
+artery (SCA)
+Anterior inferior
+cerebellar artery
+(AICA)
+Posterior inferior
+cerebellar artery
+(PICA)
+Basilar artery
+Left vertebral
+artery
+Right vertebral
+artery
+Fig. 37.2  Magnetic resonance angiogram of the intracranial portion of 
+the vertebrobasilar system. (From Goldstein LB. Approach to cerebro­
+vascular diseases. In: Goldman L, Schafer AI, eds. Goldman-­Cecil Medi­
+cine. 26th ed. Philadelphia: Elsevier; 2020:2389, Fig. 378-­3.)
+Thalamus
+Internal
+capsule
+posterior limb
+Globus
+pallidus
+Putamen
+Caudate
+ACA
+PCA
+PCA
+deep branches
+ACA
+deep branches
+MCA
+superior division
+MCA
+deep branches
+MCA
+inferior division
+Anterior choroidal
+artery
+Internal capsule
+anterior limb
+Fig. 37.3  Anatomic distribution of blood flow from major intracranial 
+vessels in the cerebral hemispheres. ACA, anterior cerebral artery; 
+MCA, middle cerebral artery; PCA, posterior cerebral artery. (From Lem­
+kuil BP, Drummond JC, Patel PM. Central nervous system physiology: 
+cerebrovascular. In: Hemmings HC Jr, Egan TD, eds. Pharmacology and 
+Physiology for Anesthesia. 2nd ed. Philadelphia: Elsevier; 2019:175, Fig. 
+9.2A.)
+Superior
+cerebellar artery
+Posterior
+inferior
+cerebellar
+artery
+Anterior inferior
+cerebellar artery
+Basilar
+artery
+Anterior spinal
+artery
+Vertebral artery
+(paramedian
+branches)
+Fig. 37.4  Anatomic distribution of blood flow from major intracranial 
+vessels in the cerebral hemispheres and infratentorial structures. (From 
+Lemkuil BP, Drummond JC, Patel PM. Central nervous system physiol­
+ogy: cerebrovascular. In: Hemmings HC Jr, Egan TD, eds. Pharmacology 
+and Physiology for Anesthesia. 2nd ed. Philadelphia: Elsevier; 2019:175, 
+Fig. 9.2B.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+632
+SECTION 7  Neurosensory Disorders
+deficit depends on the laterality and whether the event occurred in the 
+cortex, the subcortical areas, the cerebellum, or the brainstem, as well 
+as the pathways that were interrupted (Table 37.4). The duration of the 
+neurologic deficit may vary. Focal neurologic deficits in stroke are usu­
+ally chronic and static, though with intense rehabilitation, some degree 
+of recovery is expected. Stroke recrudescence, in which a pre-­existing 
+stroke-­induced deficit can temporarily worsen during an acute stressor, 
+can occur as well. Finally, although alterations of blood flow often 
+result in permanent deficits, some cause only temporary ones: tran­
+sient ischemic attacks (TIAs) are brief episodes of focal, nonepileptic 
+neurologic deficit attributable to interruption of cerebral perfusion; the 
+onset is abrupt, and, by definition, symptoms last less than 24 hours 
+with complete recovery afterward; most TIAs last only a few minutes.
+The degree to which a neurologic deficit is symptomatic is influ­
+enced not only by the location of the lesion but also by the age and 
+developmental status of the patient. Neonates and infants often present 
+with vague symptoms that may mimic a variety of conditions, such as 
+lethargy, apnea, or feeding intolerance. Older children and adolescents 
+present similarly to adults, with distinct focal neurologic deficits; how­
+ever, more globally diffuse presentations can occur and do so more 
+commonly than in adults, and must be distinguished from mimicking 
+conditions such as migraine headache or acute disseminated enceph­
+alomyelitis. When symptoms are diffuse or there is a depressed level 
+of consciousness, detailed neurologic examination may uncover subtle 
+focal deficits that increase the suspicion of stroke. Examination may 
+also allow the clinician to determine when symptoms are attributable 
+to CNS-­based pathology other than stroke, to pathophysiology outside 
+the CNS, or to a psychogenic cause.
+Stroke symptoms, such as weakness or sensory deficits, may present 
+in isolation, but a combination of deficits is common. Similar symp­
+toms may be attributable to strokes affecting different brain territo­
+ries. Diagnostic delays in pediatric stroke can be related to the lack of 
+awareness among families and medical staff members as to the risk and 
+presentation of pediatric stroke, as well as higher incidence of stroke 
+mimics, conditions that present similarly to stroke despite being due 
+to a different etiology. These mimics vary in severity and morbidity 
+TABLE 37.1  Causes of Spontaneous Subarachnoid Hemorrhage in Young Adults
+Cerebral aneurysm rupture
+Perimesencephalic hemorrhage
+Vascular malformation rupture (arteriovenous malformation, arteriovenous 
+fistula, cavernous malformations)
+Other
+Congenital disorders
+Coarctation of the aorta
+Pseudoxanthoma elasticum
+Menkes kinky hair syndrome
+Sturge-­Weber syndrome
+Tuberous sclerosis complex
+Neurofibromatosis 1 (von Recklinghausen disease)
+Hereditary hemorrhagic telangiectasia (Rendu-­Osler disease)
+Ehlers-­Danlos syndrome
+Klinefelter syndrome
+Autosomal dominant polycystic kidney disease
+Systemic vascular disease
+Hypertension
+Cerebral embolism
+Moyamoya disease
+Cerebral venous occlusive disease
+Eclampsia
+Hematologic disorders
+Hemophilia
+Aplastic anemia
+Sickle cell anemia
+Leukemias
+Thrombocytopenic purpura
+Anticoagulant therapy
+Thrombolytic therapy
+Infectious diseases
+Infective endocarditis
+Tuberculous meningitis
+Luetic meningoencephalitis
+Fungal central nervous system infections
+Infectious mononucleosis
+Tick-­borne relapsing fever
+Autoimmune disorders
+Systemic lupus erythematosus
+Polyarteritis nodosa
+Henoch-­Schönlein purpura
+Poststreptococcal glomerulonephritis
+Kawasaki disease
+Other systemic diseases
+Heat stroke
+Conn syndrome
+Thyrotoxicosis
+Wolman disease
+Spinal endometriosis
+Neoplasms
+Gliomas
+Meningiomas
+Acoustic neuromas
+Choroid plexus papillomas
+Pituitary adenomas
+Pineocytomas
+Chordomas
+Subependymomas
+Metastatic carcinoma
+Intraspinal neoplasms
+Drugs
+Amphetamines
+Cocaine
+Ephedrine
+Monoamine oxidase inhibitors
+Oral contraceptive pills
+Phencyclidine
+Alcohol
+Miscellaneous
+α-­Galactosidase deficiency
+α1-­Antitrypsin deficiency
+Cystic fibrosis
+Klippel-­Trénaunay-­Weber syndrome
+Parry-­Romberg syndrome
+3-­M syndrome
+From Biller J. Stroke in Children and Young Adults. 2nd ed. Philadelphia: Saunders; 2009:290, Table 15-­1.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+633
+CHAPTER 37  Stroke
+TABLE 37.2  Causes of Spontaneous 
+Intracerebral Hemorrhage in Young Adults
+Vascular malformations
+AVMs
+Capillary telangiectasias
+Cavernous malformations
+Developmental venous anomalies
+Aneurysms
+Saccular
+Infective
+Traumatic
+Neoplastic
+Arterial hypertension
+Secondary
+Primary
+Bleeding diatheses
+Leukemia
+Thrombocytopenia
+Disseminated intravascular coagulation
+Polycythemia
+Hyperviscosity syndromes
+Hemophilia
+Hypoprothrombinemia
+Afibrinogenemia
+Selective factor deficiencies
+von Willebrand disease
+Sickle cell anemia
+Antiplatelet therapy
+Anticoagulant therapy
+Thrombolytic therapy
+Icelandic form of CAA
+Arteritis/arteriopathies
+Infectious vasculitides
+Multisystem vasculitides
+Isolated CNS angiitis
+Moyamoya disease
+HANAC syndrome
+Drug related
+Amphetamines
+Cocaine
+Phenylpropanolamine
+Pentazocine-­pyribenzamine
+Phencyclidine
+Heroin
+Monoamine oxidase inhibitor
+Other drugs
+Intracranial tumors
+Primary malignant or benign
+Metastatic
+Cerebral venous occlusive disease
+Miscellaneous
+Post–carotid endarterectomy
+Post–selective neurosurgical procedures
+Post–spinal anesthesia
+Postmyelography
+Cold related
+Post–painful dental procedures
+Protracted migraine
+Methanol intoxication
+AVM, arteriovenous malformation; CAA, cerebral amyloid angiopathy; 
+CNS, central nervous system; HANAC, hereditary angiopathy with 
+nephropathy, aneurysms, muscle cramps.
+From Biller J. Stroke in Children and Young Adults. 2nd ed. 
+Philadelphia: Saunders; 2009:263, Table 14-­1.
+and are often more prevalent in children than in adults. Stroke mimics 
+vary by stroke symptom and differ in etiology according to age (Table 
+37.5). The following sections describe the most common symptoms 
+with which children with stroke can present.
+Weakness
+Children with stroke most often present with unilateral weakness sec­
+ondary to injury of the corticospinal tract, which originates in the 
+motor cortex in the precentral gyrus and sends motor information 
+to the spinal cord. Hemiparesis manifests as unilateral weakness and 
+hemiplegia as unilateral paralysis, or complete loss of strength. The 
+motor cortex is organized by the region of the body it controls (Fig. 
+37.6). The localization and severity of weakness, as well as the type 
+(flaccid or spastic), depend on the location of the stroke and the timing 
+of examination.
+Localization and Severity of Weakness
+The upper motor neurons of the corticospinal tracts originate in the 
+cerebral cortex, decussate (i.e., cross sides) in the brainstem, and termi­
+nate on lower motor neurons and interneurons in the spinal cord (Fig. 
+37.7). Due to this crossing, lesions above the decussation cause con­
+tralateral motor deficits. In cortical strokes affecting upper motor neu­
+rons, the location of the injury determines which body parts are weak, 
+as well as the degree of weakness. Given the large topographic distri­
+bution of the motor cortex and different vascular territories that supply 
+it, a substantially large stroke in the motor cortex may cause weakness 
+in only a relatively small area of the body. In contrast, a very small 
+stroke in the internal capsule may cause complete hemiplegia, due to 
+the compact nature of the corticospinal tract in this area. If a stroke in 
+the brainstem causes unilateral weakness, it is typically accompanied 
+by other signs of brainstem dysfunction.
+The severity of unilateral weakness may vary from severe hemi­
+plegia to subtle hemiparesis. On examination, hemiparesis may be 
+accompanied by pronator drift, slowing of rapid alternating move­
+ments, or decreased arm swing during gait. Pronator drift is assessed 
+by asking the patient to extend the arms at the shoulder while keeping 
+the elbows straight with the palms facing up in a supinated position, 
+as if carrying a tray. The patient is then asked to close the eyes and 
+maintain the arms in this position. In pronator drift, the affected arm 
+will slowly drift down and the hand may pronate. Assessing rapid 
+alternating movements involves asking the patient to perform a series 
+of repetitive movements as quickly though dexterously as possible. 
+Movements include alternating supination and pronation of the fore­
+arm to tap the plantar and palmar surfaces of the hands against the 
+thighs, touching each of the fingers to the thumb in succession in 
+a repeating fashion, or tapping the floor by repeatedly flexing and 
+extending the ankles. The weak limb will perform these movements 
+with decreased speed and dexterity in comparison to the unaffected 
+limb. Decreased arm swing can be observed when the patient is 
+asked to ambulate; the affected arm does not swing as much as the 
+unaffected arm.
+Characterization of Weakness: Flaccid or Spastic
+Tone is the resistance of muscle to stretch; the maintenance of normal 
+tone requires intact central and peripheral nervous systems (see Chap­
+ter 35). Acutely following a stroke, weakness is usually flaccid, or hypo­
+tonic. For infants and young children, the flaccid weakness manifests 
+symptomatically as decreased or absent spontaneous movement of the 
+affected limbs, while passive movements of the affected limbs are met 
+with little to no resistance. Such deficits in older children and adoles­
+cents are noticeable to both the patient and observers alike, and muscle 
+group testing can further localize specific areas of weakness.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+634
+SECTION 7  Neurosensory Disorders
+With time, patients with weakness from stroke typically develop 
+increased tone, or spasticity, as well as clonus in the affected limbs. 
+Spasticity generally involves antigravity muscles, primarily the arm 
+flexors and leg extensors. As a result, the arms become flexed and 
+pronated, while the legs become extended and adducted, with plantar 
+flexion of the foot and inversion of the ankle. If the hand is affected, 
+cortical thumbing, consisting of adduction and flexion of the thumb, 
+may occur. Testing for spasticity involves moving the relaxed affected 
+extremity several times through its range of motion and assessing 
+for freedom of movement. The extremity is then suddenly stretched 
+through that range of motion at a higher velocity, at which point, if 
+there is spasticity, tone will notably increase and the limb will “catch,” a 
+finding referred to as the clasp-­knife response.
+In addition to developing spasticity, patients with stroke affecting 
+the corticospinal tracts develop brisk and hyperactive deep tendon 
+reflexes due to the interruption of descending inhibitory upper motor 
+TABLE 37.3  Causes of Cerebral Venous Thrombosis
+Idiopathic
+Prothrombotic state
+Protein C or S deficiency
+Antithrombin deficiency
+Factor V Leiden variant
+Activated protein C resistance
+Prothrombin G20210A variant
+Variants in thrombomodulin
+Platelet glycoprotein IIIa (β3) variant
+Heparin cofactor II deficiency
+Variants in plasminogen gene
+MTHFR C677 variant
+Dysfibrinogenemia
+Elevated plasminogen activator inhibitor
+Tissue plasminogen activator deficiency
+Increased factors VIII, IX, X; von Willebrand factor
+Variants in tissue factor pathway inhibitor
+Sickle cell disease and trait
+Reactive thrombocytosis and essential thrombocythemia
+Pregnancy and puerperium
+Postoperative state
+Antiphospholipid antibody syndrome
+Hyperhomocysteinemia
+Homocystinuria
+Cancer
+Inflammatory bowel diseases
+Dehydration
+Congestive heart failure
+Paroxysmal nocturnal hemoglobinuria
+Marasmus
+Iron-­deficiency anemia
+Nephrotic syndrome
+Thrombocytopenia
+Essential thrombocythemia
+Disseminated intravascular coagulation
+Thrombotic microangiopathies
+Polycythemia vera and secondary polycythemia
+Hyperlipidemia
+Familial histidine-­rich glycoprotein deficiency
+Drugs
+Asparaginase
+Estrogen and oral contraceptives
+Androgen
+Drugs—cont’d
+ε-­Aminocaproic acid
+Cisplatin and etoposide
+Medroxyprogesterone
+Heparin (heparin-­induced thrombocytopenia)
+Immunoglobulin G (intravenous immunoglobulin)
+Infections
+Herpes zoster virus
+Myeloidosis
+Mucormycosis
+Aspergillosis
+Pneumococcal meningitis
+Syphilis
+HIV
+Otitis media
+Mastoiditis
+Sinusitis
+Peritonsillar abscess
+Endotoxemia
+Trichinosis
+Sepsis
+Vasculitides
+Behçet disease
+Sarcoidosis
+Polyangiitis with granulomatosis
+Systemic lupus erythematosus
+Polyarteritis nodosa
+Trauma
+Head trauma
+Neurosurgical procedures
+Strangulation
+Intravenous catheters
+Cardiac pacemakers
+Others
+Osteopetrosis
+Malignant atrophic papulosis (Kohlmeier-­Degos disease)
+Chronic lung disease
+Diabetes mellitus
+Budd-­Chiari syndrome
+Arteriovenous malformation
+Sturge-­Weber syndrome
+Cerebral arterial occlusions
+Neoplasm (meningioma, metastasis, glomus tumors)
+From Biller J. Stroke in Children and Young Adults. 2nd ed. Philadelphia: Saunders; 2009:237, Table 12-­3.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+635
+CHAPTER 37  Stroke
+neuron pathways and increased activity of the γ neuron reflex loop (see 
+Chapter 35). Hyperactive reflexes are often accompanied by patho­
+logic clonus, consisting of repetitive, rhythmic muscle contractions 
+in response to tendon percussion or stretch of that muscle. Healthy 
+neonates may have several beats of physiologic clonus; clonus in older 
+infants or in children, adolescents, or adults is generally considered 
+pathologic. Greater than 10 beats upon elicitation is considered sus­
+tained clonus and is indicative of more severe hypertonia. Pathologic 
+spread of reflexes, in which antagonist or nearby adjacent muscle 
+groups contract along with the muscle whose stretch reflex is being 
+tested, is an additional sign of hypertonia. Other specific pathologic 
+reflexes may be present if the relevant portion of the corticospinal tract 
+is affected. Plantarflexion of the great toe is the physiologic response 
+to stroking the foot in an arc from the heel, along the lateral aspect 
+of the plantar surface, and across the ball of the foot to the great toe. 
+Patients with an upper motor neuron lesion affecting control of the leg 
+and foot will demonstrate the Babinski response, in which the great 
+toe dorsiflexes rather than plantarflexes. The Hoffmann sign is elicited 
+when the examiner flicks the fingernail of the patient’s middle finger 
+rapidly downward; if present, the index finger and the thumb invol­
+untarily flex.
+Sensory Deficits
+The somatosensory cortex, located in the postcentral gyrus in the 
+parietal lobe, posterior to the motor cortex, interprets sensory infor­
+mation from the periphery. The sensory cortex is organized topo­
+graphically in a manner similar to the organization of the motor 
+cortex (see Fig. 37.6) and shares the same vascular supply (see Figs. 
+37.1 and 37.3). Sensory information being received in the somato­
+sensory cortex must first travel through ascending tracts in the spinal 
+cord: the spinothalamic tracts and the dorsal columns (see Fig. 37.7); 
+the former decussate within the spinal cord near their point of ori­
+gin, whereas the latter cross the midline in the medulla. Each path­
+way conveys different sensory modalities and both ascend through 
+the brainstem, arriving at the ventral posterior lateral nucleus of the 
+thalamus. Symptoms vary by where in these pathways stroke occurs. 
+Given the shared blood supply to the motor and sensory cortices, 
+cortical strokes tend to produce combined motor and sensory symp­
+toms. Cortical strokes also tend to interrupt not just primary sen­
+sory information, but also the meaningful interpretation of sensory 
+information. In contrast to strokes within the sensory cortex, strokes 
+affecting pathways as they traverse the thalamus and other relays 
+may produce isolated sensory deficits affecting just primary sensory 
+modalities. The sensory tracts may also suffer infarction at the level 
+of the brainstem, in which case cranial neuropathies or brainstem 
+syndromes may ensue.
+The most common sensory deficit following a stroke is a loss of 
+sensation, or hypoesthesia, which may range from partial to com­
+plete numbness. Lesions of the somatosensory cortex may involve 
+more complex sensory deficits like agraphesthesia, which refers to 
+the loss of directional orientation across the surface of the skin, and 
+Superior
+sagittal
+sinus
+Cortical
+veins
+Internal cerebral
+veins
+Basal vein
+of Rosenthal
+Vein of
+Galen
+Straight
+sinus
+Torculum
+Transverse
+sinus
+Sigmoid
+sinus
+Internal
+jugular
+vein
+Inferior
+petrosal
+sinus
+Fig. 37.5  Parasagittal magnetic resonance venogram showing venous 
+structures. (From Goldstein LB. Approach to cerebrovascular diseases. 
+In: Goldman L, Schafer AI, eds. Goldman-­Cecil Medicine. 26th ed. Phil­
+adelphia: Elsevier; 2020:2393, Fig. 378-­10.)
+TABLE 37.4  Clinical Manifestations of 
+Ischemic Cerebrovascular Disease
+Occluded Artery
+Typical Major Clinical 
+Manifestations*
+Internal carotid artery
+Ipsilateral visual loss
+Ipsilateral middle cerebral artery syndrome
+Anterior choroidal artery
+Contralateral hemiparesis
+Contralateral sensory impairment
+Contralateral visual field defect
+Anterior cerebral artery
+Contralateral leg > arm paresis
+Contralateral leg > arm sensory deficit
+Middle cerebral artery
+Contralateral hemiparesis affecting face and 
+arm > leg
+Contralateral sensory deficit affecting face and 
+arm > leg
+Contralateral visual field defect
+Aphasia (dominant hemisphere)
+Contralateral hemispatial neglect (nondominant 
+or dominant hemisphere)
+Posterior cerebral artery
+Contralateral homonymous hemianopia 
+(or homonymous superior or inferior 
+quadrantanopia)
+Contralateral sensory deficits (thalamic 
+involvement)
+Basilar artery tip
+Bilateral central visual loss
+Confusion
+Basilar artery
+Ipsilateral cranial nerve deficit
+Contralateral hemiparesis
+Contralateral sensory impairment affecting arm 
+and/or leg
+Coordination deficit
+Vertebral artery, posterior 
+inferior cerebellar artery
+Ipsilateral sensory impairment over the face
+Dysphagia
+Ipsilateral Horner syndrome
+Ataxia
+Superior cerebellar artery
+Gait ataxia
+Ipsilateral limb ataxia
+Variable contralateral limb weakness
+*Note: Not all may be present.
+From Goldman L, Schafer AI, eds. Goldman-­Cecil Medicine. 26th ed. 
+Philadelphia: Elsevier; 2020:2397, Table 379-­2.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+636
+SECTION 7  Neurosensory Disorders
+which on examination manifests as the inability to recognize a num­
+ber or letter drawn on the skin. Extinction to simultaneous stimu­
+lation refers to the inability to recognize a sensory stimulus on the 
+affected side when that stimulus is presented bilaterally at the same 
+time, despite being able to recognize the stimulus on the affected side 
+when it is presented in isolation. A patient may detect light brush­
+ing of the skin of the cheek on the affected side when presented in 
+isolation though fail to detect brushing of the cheek on the affected 
+side when both cheeks are brushed simultaneously. In the subacute 
+and chronic stages of stroke a child may have lingering hypoesthe­
+sia, but also may have altered sensation, or dysesthesia. The ability 
+of children to recognize and describe sensory deficits is dependent 
+on developmental status. Children may use terms like “pins and nee­
+dles,” “burning,” “bubbles,” or just “pain” to describe dysesthesia. In 
+thalamic strokes that affect the sensory relay nuclei, dysesthesia may 
+provoke severe pain: Thalamic pain syndrome (or Dejerine-­Roussy 
+syndrome) is characterized by a profound hemi-­body sensory loss 
+that is eventually replaced by pain, paresthesia, and hyperalgesia of 
+the hemibody contralateral to the stroke.
+Language Deficits
+Children with acute stroke may present with a sudden language deficit, 
+the nature of which is determined by the location of the stroke. Bro­
+ca’s area, in the inferior frontal gyrus, is mainly responsible for speech 
+TABLE 37.5  Distinguishing Clinical and Imaging Features of Stroke Mimics
+Disorder
+Clinical Distinction from Stroke
+Imaging Distinction from Stroke
+Migraine
+Evolving or “marching” symptoms, short duration, complete 
+resolution, headache, personal or family history of migraine
+Typically normal
+Migrainous infarction is extremely rare
+Seizure*
+Positive symptoms, Todd paralysis is postseizure and time limited Normal or may identify source of seizures (e.g., 
+malformation, old injury)
+Infection
+Fever, encephalopathy, gradual onset, meningismus
+Normal or signs of encephalitis/cerebritis, which are 
+typically diffuse and bilateral. Arterial ischemic stroke 
+and cerebral sinovenous thrombosis can occur in 
+bacterial meningitis
+Demyelination
+Gradual onset, multifocal symptoms, encephalopathy
+Accompanying optic neuritis or transverse myelitis
+Multifocal lesions, characteristic appearance (e.g., 
+patchy in acute disseminated encephalomyelitis, 
+ovoid in multiple sclerosis), typical locations (e.g., 
+pericallosal in multiple sclerosis), less likely to show 
+restricted diffusion
+Hypoglycemia
+Risk factor (e.g., insulin therapy), related to meals, additional 
+systemic symptoms
+Bilateral, symmetric
+May see restricted diffusion
+Posterior dominant pattern
+Hypertensive encephalopathy 
+(posterior reversible 
+leukoencephalopathy syndrome)
+Documented hypertension, bilateral visual symptoms, 
+encephalopathy
+Posterior dominant, bilateral, patchy lesions involving 
+gray and white matter; usually no restricted diffusion
+Inborn errors of metabolism
+Pre-­existing delays/regression, multisystem disease, abnormal 
+biochemical profiles
+May have restricted diffusion lesions but bilateral, 
+symmetric, not conforming to established vascular 
+territories. Magnetic resonance spectroscopy 
+changes (e.g., high lactate in mitochondrial myopathy, 
+encephalopathy, lactic acidosis, and strokelike 
+episodes)
+Vestibulopathy
+Symptoms limited to vertigo, imbalance (i.e., no weakness); 
+gradual onset
+Normal
+Acute cerebellar ataxia
+Sudden-­onset bilaterally symmetric ataxia; postviral
+Normal
+Channelopathy
+Syndromic cluster of symptoms not localizing to single lesion; 
+gradual onset, progressive evolution
+Normal
+Alternating hemiplegia
+History of contralateral events
+Choreoathetosis/dystonia
+Normal
+Functional neurologic disorders
+Recent psychosocial stressors
+Failure of signs and symptoms to localize to a specific lesion 
+within the neural axis
+Presence of inconsistent examination findings
+Positive Hoover sign (when being evaluated for supposed lower 
+extremity weakness, the patient with a functional disorder will 
+exert downward pressure at the heel of the unaffected limb if 
+the examiner holds the heel while asking the patient to raise 
+the affected leg off the bed)
+Normal
+*Seizures, however, can also herald the onset of true stroke.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+637
+CHAPTER 37  Stroke
+production. Wernicke’s area, located in the junction of the superior 
+temporal gyrus and the parietal cortex adjacent to auditory regions, is 
+responsible for speech recognition. In most individuals these language 
+areas are located in the left hemisphere. Lesions in and around Broca’s 
+and Wernicke’s areas, or in the white matter tracts connecting these 
+areas, lead to speech disturbances, or aphasias.
+Types of Aphasias
+The examination of a patient with suspected aphasia must consider age 
+and developmental stage, as the evaluation requires pre-­existent lan­
+guage production and comprehension, as well as the ability to follow 
+commands, such as the repetition of words. Aphasias can be broadly 
+divided into expressive (nonfluent) and receptive (fluent) and can 
+be further categorized based on the ability to repeat words or phrases 
+(Table 37.6).
+The prototypical expressive aphasia is Broca aphasia, the evalua­
+tion of which typically reveals a frustrated patient who is able to com­
+prehend language while being unable to speak or repeat phrases. In 
+the most severe form, the patient is mute, whereas in the milder forms 
+the patient may produce speech with frequent paraphasic errors (e.g., 
+responding “pan” when asked to name a pen). An additional expres­
+sive aphasia is transcortical motor aphasia, in which a patient retains 
+the ability to comprehend and repeat speech but is unable to produce 
+spontaneous speech.
+The prototypical receptive aphasia is Wernicke aphasia, in which 
+comprehension of language is impaired but prosody or fluency of 
+speech is preserved. The content of speech is often nonsensical and the 
+words are often malformed; however, since the patient cannot under­
+stand their own nonsensical speech, frustration or concern with the 
+deficit is absent. With pure Wernicke aphasia repetition is impaired. 
+An additional expressive aphasia in which repetition is preserved is 
+transcortical sensory aphasia.
+Additional aphasia syndromes include global aphasia, in which 
+both production and comprehension are impaired; mixed transcortical 
+aphasia, in which both receptive and expressive language are impaired 
+but the repetition of words is preserved; and conduction aphasia, in 
+which the comprehension and production of speech are preserved but 
+the repetition of words is impaired.
+Visual Deficits
+Visual deficits vary depending on the location and extent of stroke; 
+determining the nature and degree of a visual disturbance can aid in 
+localization and assist in visual therapies (Fig. 37.8). The optic nerves 
+carry visual information from the nasal and temporal visual fields of 
+each eye. Within the optic chiasm, fibers from the nasal visual field of 
+each eye decussate and join with fibers from the temporal visual field, 
+which do not cross the midline, forming the optic tracts, such that the 
+left visual fields from both eyes are registered by the right hemisphere, 
+and the right visual fields from both eyes by the left hemisphere. The 
+optic tracts pass from the chiasm to the left and right lateral geniculate 
+nuclei of the thalami. From the lateral geniculate nucleus, information 
+travels though superior and inferior optic radiations: The superior radi­
+ations travel through the parietal lobes and contain information of the 
+inferior visual fields, while the inferior radiations travel through the tem­
+poral lobes and carry information of the superior visual fields, with both 
+arriving at the visual cortex within the corresponding occipital lobes. 
+Fibers specifically serving central vision come together tightly and syn­
+apse at the innermost folding of the calcarine gyrus in the occipital lobe.
+The vascular supply to these areas is varied. The lateral geniculate 
+nucleus is supplied by the anterior choroidal artery, a branch of the 
+internal carotid artery. The superior optic radiation is supplied by a 
+branch of the middle cerebral artery, while the inferior optic radiation 
+is supplied by the middle and posterior cerebral arteries. Lesions in 
+the calcarine gyrus have dual blood supply from the posterior cere­
+bral artery and posterior branches of the middle cerebral artery; an 
+ischemic lesion of one vascular territory often results in a contralateral 
+hemianopia with sparing of the macular or central vision. The occipital 
+cortex itself is in the territory of the posterior cerebral artery.
+Toes
+Ankle
+Hip
+Trunk
+Shoulder
+Elbow
+Wrist
+Hand
+Little
+Ring
+Middle
+Index
+Thumb
+Neck
+Brow
+Eyelid and eyeball
+Face
+Lips
+Jaw
+Tongue
+Swallowing
+Knee
+M
+A
+S
+T
+I
+C
+A
+T
+I
+O
+N 
+S
+A
+L
+I
+V
+A
+T
+I
+O
+N 
+VO
+CAL
+IZA
+TIO
+N 
+Fingers
+A  Motor
+Genitalia
+Toes
+Foot
+Leg
+Hip
+Trunk
+Shoulder
+Head
+Arm
+Neck
+Elbow
+Forearm
+Wrist
+Hand
+Little
+Ring
+Middle
+Index
+Thumb
+Eye
+Nose
+Face
+Upper lip
+Lips
+Lower lip
+Teeth, gums and jaw
+Tongue
+Pharynx
+Intra-abdominal
+Fingers
+B  Sensory
+Fig. 37.6  The topographic organization of the primary somatic sensory (A) and motor (B) areas of the cortex. 
+The relative size of each body area represented within the homunculus is indicative of the amount of cortical 
+tissue dedicated to processing sensory (A) or motor (B) information for that body area. (From Huether SE, 
+McCance KL, Brashers VL. Understanding Pathophysiology. 7th ed. Philadelphia: Elsevier; 2020, Fig. 14.9.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+638
+SECTION 7  Neurosensory Disorders
+Leg
+Leg
+Arm
+Arm
+Rostral
+midbrain
+Rostral
+pons
+Caudal
+medulla
+RF
+L4
+Ventral posterolateral (VPL)
+nucleus of the thalamus
+Cerebral peduncle
+Oculomotor nerve
+Medial lemniscus
+Posterior column nuclei
+Medial lemniscus
+Medial lemniscus
+From pain and temperature
+(and some touch) receptors
+C8
+Spinothalamic
+tract
+Lissauer’s tract
+Rostral 
+Caudal 
+P
+o
+st
+c
+e
+nt
+r
+al
+ 
+g
+y
+r
+u
+s
+Internal capsule 
+Cerebral peduncle 
+Basal pons 
+Pyramid
+Pyramidal decussation 
+Lateral corticospinal tract 
+Anterior corticospinal tract
+To skeletal muscle 
+Rostral
+midbrain
+Rostral
+pons
+Caudal
+medulla
+C8
+L4
+P
+re
+c
+e
+nt
+ra
+l 
+g
+y
+r
+u
+s
+A
+B
+Fig. 37.7  A, Corticospinal tracts. Fibers from the precentral gyrus and other nearby cortical areas descend 
+through the cerebral peduncles, pons, and medullary pyramids; most cross in the pyramidal decussation to 
+form the lateral corticospinal tract. Those that do not cross in the pyramidal decussation form the anterior 
+corticospinal tract; most of these fibers cross in the anterior white commissure before ending in the spinal 
+gray matter. Most corticospinal fibers do not synapse directly on motor neurons; they are drawn that way 
+here for simplicity. B, Spinothalamic tract. Pain, temperature, and some touch and pressure afferents end in 
+the posterior horn. Second-­ or higher-­order fibers cross the midline, form the spinothalamic tract, and ascend 
+to the ventral posterolateral (VPL) nucleus of the thalamus (and also to other thalamic nuclei not shown). 
+Thalamic cells then project to the somatosensory cortex of the postcentral gyrus, to the insula, and to other 
+cortical areas (also not shown). Along their course through the brainstem, spinothalamic fibers give off many 
+collaterals to the reticular formation (RF). The inset to the left shows the lamination of fibers in the posterior 
+columns and the spinothalamic tract in a leg–lower trunk–upper trunk–arm sequence. The inset to the right 
+shows the longitudinal formation of the spinothalamic tract. Primary afferents ascend several segments in 
+Lissauer’s tract before all of their branches terminate; fibers crossing to join the spinothalamic tract do so 
+with a rostral inclination. As a result, a cordotomy incision at any given level will spare most of the information 
+entering the contralateral side of the spinal cord at that level, and to be effective, the incision must be made 
+several segments rostral to the highest dermatomal level of pain. (A and B, From Vanderah TW, Gould DJ. 
+Nolte’s The Human Brain. 8th ed. Philadelphia: Elsevier; 2021, Figs. 10-­22 and 10-­24.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+639
+CHAPTER 37  Stroke
+Ischemic lesions of the visual pathway may involve the retina or 
+optic nerve, though the latter is rare in children, with demyelinating 
+disease being a more common etiology of optic nerve lesions in chil­
+dren and adolescents. Lesions in the retina or optic nerve affect one 
+eye and can result in scotoma (i.e., a blind spot), central blurry vision, 
+or, if severe, monocular blindness; pupillary response is often affected, 
+resulting in a relative afferent pupillary defect, in which shining a 
+light on the affected eye results in decreased pupillary constriction rel­
+ative to shining a light in the unaffected eye. Strokes affecting the optic 
+chiasm result in bitemporal hemianopias, in which vision loss affects 
+the right and left temporal visual fields, though this finding is less fre­
+quently due to stroke and is more commonly due to perichiasmatic 
+masses such as pituitary or sellar masses, craniopharyngiomas, or 
+aneurysms. Retrochiasmatic lesions are associated with contralateral 
+hemianopias (visual field defect corresponding to the opposite visual 
+field) or quadrantanopias depending on whether the optic tracts, radi­
+ations, or occipital lobes are involved (see Fig. 37.8).
+Lesions within visual processing centers in the occipital and parietal 
+lobes may produce disorders of visual cognition. Visual information 
+from the occipital lobe is transmitted superiorly to the parietal lobe for 
+spatial processing (“where” pathways) and inferiorly to the temporal 
+lobe for identification (“what” pathways). The left inferior identifica­
+tion pathways are specialized for visual word processing; lesions in the 
+TABLE 37.6  Aphasia Types and 
+Distinguishing Features
+Aphasia Type
+Fluency
+Comprehension Repetition
+Broca
+Absent
+Present
+Absent
+Transcortical motor
+Absent
+Present
+Present
+Wernicke
+Present
+Absent
+Absent
+Transcortical sensory
+Present
+Absent
+Present
+Mixed transcortical
+Absent
+Absent
+Present
+Conduction
+Present
+Present
+Absent
+Global
+Absent
+Absent
+Absent
+LGN
+(Brain viewed from above)
+Upper bank
+of calcarine sulcus
+Lower bank
+of calcarine sulcus
+Optic
+radiations
+Meyer
+loop
+Optic
+tract
+Left
+Right
+Field of vision
+Left
+superior
+quadrantanopia
+Left
+inferior
+quadrantanopia
+Left
+homonymous
+hemianopia
+Left
+superior
+quadrantanopia
+Left
+homonymous
+hemianopia
+Left
+hemianopia,
+right eye
+Bitemporal
+hemianopia
+Blind, right eye
+Visual field
+defects
+Left
+eye
+Right
+eye
+Fig. 37.8  Visual field defects produced by lesions as different places in the visual pathway. Regions of normal 
+vision are indicated in white; regions of loss of vision are indicated in black. LGN, lateral geniculate nucleus. 
+(From Corbett JJ, Chen J. The visual system. In: Haines DE, Mihailoff GA, eds. Fundamental Neuroscience 
+for Basic and Clinical Applications. 5th ed. Philadelphia: Elsevier; 2018:299, Fig. 20.16.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+640
+SECTION 7  Neurosensory Disorders
+left inferior temporal occipital region result in alexia, the inability to 
+read. The right identification pathways are specialized for processing 
+faces; lesions in the right inferior temporal or occipital regions may 
+lead to an inability to recognize faces, or prosopagnosia. When ische­
+mic lesions to the visual pathways occur bilaterally, several syndromes 
+may occur. Balint syndrome is characterized by optic ataxia (i.e., dif­
+ficulty using visual attention to guide extremity movements), ocular 
+apraxia (i.e., inability to use visual attention to guide ocular move­
+ments), and simultanagnosia (i.e., inability to visually survey a scene), 
+and is caused by lesions of the bilateral parietal-­occipital junctions due 
+to medial cerebral artery-­posterior cerebral artery watershed strokes. 
+On examination, a patient with Balint syndrome manifests optic ataxia 
+by misdirecting the finger to the target on finger-­to-­nose testing. With 
+ocular apraxia, the patient is unable to track the examiner’s finger with 
+the eyes when directed but is able to move the eyes to commands such 
+as “look left” or “look right.” When assessing for simultanagnosia, the 
+patient may be shown a drawing of one large letter or number com­
+posed of smaller versions of a different letter or number. The patient 
+may only see the small letters or numbers, but not the larger letter or 
+number they create.
+When a stroke in the bilateral occipital cortex occurs (e.g., from 
+bilateral posterior cerebral artery stroke), cortical blindness may 
+occur. With cortical blindness, the pupillary light responses are pre­
+served, but the brain cannot decode visual information. The patient 
+may be clearly visually impaired, stumble with objects or not blink 
+to threat, or even deny the blindness and confabulate what is being 
+seen. The confabulation in the setting of cortical blindness is referred 
+to as Anton syndrome. Children who have cortical blindness from 
+a remote stroke may have wandering eyes or roving eye motions, 
+which must be distinguished from the roving eye movements seen in 
+septo-­optic dysplasia or the rapid, multidirectional eye movements, 
+opsoclonus, seen in opsoclonus-­myoclonus-­ataxia syndrome. The 
+former is distinguished from cortical blindness by the presence of 
+optic nerve hypoplasia and multiple pituitary deficiencies, whereas 
+the latter is distinguished by the rapid and darting nature of the 
+eye movements, irregular myoclonic jerks, and ataxia, as well as an 
+association with tumors such as neuroblastoma as part of a parane­
+oplastic syndrome, or as a postinfectious sequela of certain viral or 
+bacterial infections.
+Coordination, Precision, and Gait Disorders
+Cerebellar strokes may present with acute changes in the quality of 
+movements consisting of incoordination (ataxia), loss of precision 
+(dysmetria), difficulty with rapid alternating movements (dysdiado­
+chokinesia), or gait disorders. Articulation of words (dysarthria) is 
+also associated with cerebellar strokes and should be distinguished 
+from aphasia. Infants and younger children may present with an 
+inability to sit unsupported or reach for objects with the precision 
+observed by caregivers prestroke. The older and cooperative child 
+may be examined via the finger-­to-­nose and heel-­to-­shin tests: 
+Patients with dysmetria and ataxia will lack coordination and pre­
+cision, missing and oscillating around the target when using the 
+affected limb. With dysarthria, comprehension and expression 
+should be intact, though it may be difficult to understand the words 
+being spoken. Cerebellar lesions may result in difficulty maintaining 
+a standing position with the feet close together; gait is wide based and 
+unsteady. Ataxia, dysmetria, and dysdiadochokinesia are ipsilateral 
+to the cerebellar hemisphere that has suffered ischemia. If these defi­
+cits are bilateral and acute, alternative diagnoses like intoxication or 
+inflammatory, infectious, or postinfectious pathologies must be con­
+sidered, including acute cerebellar ataxia, cerebellitis, or hemophago­
+cytic lymphohistiocytosis.
+Children who present with cerebellar stroke may have significant 
+headache and vomiting due to hydrocephalus from pressure in the 
+posterior fossa crowding the fourth ventricle. More severe cases may 
+result in obtundation from increased intracranial pressure. The blood 
+supply to the cerebellum is via the vertebrobasilar system through the 
+superior cerebellar arteries, the anterior inferior cerebellar arteries, and 
+the posterior inferior cerebellar arteries. These vessels also supply the 
+brainstem; cerebellar stroke is often accompanied by signs and symp­
+toms of brainstem dysfunction.
+Brainstem Syndromes
+The brainstem contains many critical gray and white matter structures, 
+such as the corticospinal tracts, the dorsal columns and spinothalamic 
+tracts, cranial nerve nuclei, connections with the cerebellum, the retic­
+ular activating system, and ascending neurotransmitter-­specific pro­
+jection pathways. The vascular supply of the brainstem corresponds to 
+its three levels, with the midbrain supplied by the superior cerebellar 
+arteries (with the exception of the superior midbrain that is supplied 
+by the posterior cerebral arteries), the pons supplied by the anterior 
+inferior cerebellar arteries, and the medulla supplied by the posterior 
+inferior cerebellar arteries. These three arteries arise from the verte­
+brobasilar system. Given the dense organization of these structures and 
+the nature of their blood supply, symptoms of brainstem stroke are var­
+ied and localization is often challenging. Presenting symptoms, such 
+as nausea or vertigo, are often vague and may mimic migraine, benign 
+positional paroxysmal vertigo, seizure, or other sometimes less emer­
+gent diagnoses, leading to diagnostic delays and significant morbidity 
+and mortality.
+Table 37.7 describes classic brainstem syndromes. The hallmark of 
+a brainstem stroke is crossed paresis, which consists of facial weak­
+ness ipsilateral to the stroke with contralateral limb hemiparesis. This 
+pattern of findings is due to the notion that all cranial nerves, with 
+the exception of cranial nerve IV, project ipsilaterally and the corti­
+cospinal tracts do not cross the midline until the cervicomedullary 
+junction, rostral to the brainstem. Depending on whether a brainstem 
+lesion is located more medially or dorsolaterally determines the nature 
+of symptoms: medial brainstem strokes are primarily motor, whereas 
+dorsolateral brainstem strokes are predominantly sensory. Dorsolat­
+eral brainstem strokes may also affect the cerebellar peduncles, leading 
+to deficits in coordination and movement precision. Ventral pontine 
+stroke from a basilar artery thrombosis or embolism may present with 
+locked-­in syndrome, in which the patient is awake and conscious but 
+unable to move or communicate except for blinking and vertical eye 
+movements. Locked-­in syndrome must be distinguished from coma by 
+determining the level of consciousness.
+Seizures
+Seizures are a common presenting symptom in pediatric stroke, occur­
+ring in the majority of neonates and ∼30% of older children. Children 
+who have had a stroke are also at risk for developing epilepsy, some­
+times years after a stroke; in some cases, seizures may be refractory 
+to treatment and may lead to adverse neurodevelopmental outcomes.
+While seizures in neonatal AIS are common, symptoms can be sub­
+tle. Pauses in breathing or even true apneic spells may not be noticed 
+if not accompanied by cyanosis or unless continuous cardiorespiratory 
+monitoring is in place; myoclonic activity may be confused for benign 
+neonatal movements. Electroencephalogram can assist in determin­
+ing whether a particular event of concern is seizure-­related. Perinatal 
+stroke is a risk factor for infantile spasms, a rare and potentially dev­
+astating epileptic syndrome characterized by developmental delays, a 
+specific electroencephalographic pattern termed hypsarrhythmia, and 
+frequent seizures. The seizures—epileptic spasms—consist of an abrupt, 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+641
+CHAPTER 37  Stroke
+brief contraction followed by a more sustained but less intense tonic 
+contraction lasting no more than several seconds. The spasms involve 
+the muscles of the neck, trunk, and extremities. Spasms may be flexor, 
+extensor, or mixed and occur in clusters typically after waking from 
+sleep. Infantile spasms are considered a relative neurologic emergency, 
+as treatment must be initiated soon after diagnosis to mitigate neuro­
+cognitive deterioration. Infantile spasms typically present months after 
+stroke and are thought to be due to maladaptive changes in regulatory 
+GABAergic pathways of brain development.
+Disorders of Consciousness
+Pediatric stroke may present with diffuse neurologic features such 
+as alteration in consciousness or coma. Disorders of consciousness 
+may arise from bilateral cerebral hemispheric, bi-­thalamic, or brain­
+stem infarctions; however, disordered consciousness may also be due 
+to increased intracranial pressure from a large unilateral infarction 
+leading to herniation and brainstem compression, in which case the 
+Cushing triad of hypertension, bradycardia, and abnormal respiration 
+may indicate the need for emergent intervention. Lastly, disordered 
+consciousness may be secondary to prolonged seizures or the effects of 
+medications given to control seizures.
+STROKE SYNDROMES BY AGE
+The risk factors and etiologies of stroke are diverse, are highly age 
+dependent, and differ based on whether the stroke is ischemic or hem­
+orrhagic, venous or arterial. The evaluation and management of stroke 
+differ depending on the age of the patient and the clinical setting. 
+Despite these differences, the evaluation of a suspected acute stroke 
+must be done emergently and should include verification of history, 
+vital signs, comprehensive physical examination including detailed 
+neurologic examination, laboratory studies, and neuroimaging. Estab­
+lishing the time at which the child was last seen normal is crucial, as 
+interventions aimed at reperfusing ischemic brain tissue are highly 
+time-­dependent. For children over the age of 2 years, examination 
+should include the Pediatric National Institutes of Health (NIH) Stroke 
+Scale (Table 37.8).
+Acute laboratory studies should be tailored according to age and 
+often include CBCs, electrolytes, basic chemistry, glucose, prothrom­
+bin time, international normalized ratio, partial thromboplastin time, 
+and toxicology screen. These essential screening laboratories aid in 
+detecting stroke mimics such as severe hypoglycemia or toxic inges­
+tion and laboratory derangements that must be urgently addressed, as 
+well as limitations to administer hyperacute therapies for stroke such as 
+thrombolytics in select patients. Once the patient has been stabilized, 
+neuroimaging usually occurs.
+Imaging modality depends on acuity, age, and clinical status. In neo­
+nates, open fontanels and decreased bone mineralization allow for head 
+ultrasonography to quickly evaluate for intraparenchymal or intraventric­
+ular hemorrhage. Outside the neonatal period, or when children present 
+to the emergency department from home, noncontrast CT of the head 
+(CTOH) is often performed first as it is widely available and fast, does not 
+require sedation, is sensitive for acute hemorrhage, and may be used to 
+rule out alternative diagnoses. In ischemic stroke, a noncontrast CTOH 
+may be normal early after symptom onset or show findings of ischemia, 
+which manifest as subtle hypodense areas. With time these hypodensities 
+TABLE 37.7  Common Brainstem Syndromes, Cardinal Symptoms, Anatomic Localization, and 
+Vascular Supply
+Syndrome
+Signs/Symptoms
+Localization
+Vascular Supply
+Weber (superior alternating 
+hemiplegia)
+Ipsilateral CN III palsy, contralateral 
+hemiparesis (including the lower face)
+Medial midbrain/cerebral 
+peduncle
+Deep penetrating artery from posterior 
+cerebral artery
+Benedikt (paramedian midbrain)
+Ipsilateral CN III palsy, contralateral involuntary 
+movements
+Ventral midbrain involving the 
+red nucleus
+Deep penetrating artery from posterior 
+cerebral artery or paramedian penetrating 
+branches of basilar artery
+Nothnagel
+Ipsilateral CN III palsy, contralateral dysmetria 
+and limb ataxia
+Superior cerebellar peduncle
+Deep penetrating artery from posterior 
+cerebral artery
+Foville (inferior medial pontine)
+Ipsilateral CN VI and VII (upper and lower facial 
+weakness) with or without contralateral 
+hemiparesis
+Caudal pontine tegmentum 
+involving the facial colliculus
+Pontine perforator branches off the basilar 
+artery
+One and a half
+Ipsilateral CN VI palsy, bilateral internuclear 
+ophthalmoplegia
+Paramedian pons involving 
+the paramedian pontine 
+reticular formation and medial 
+longitudinal fasciculi
+Paramedian pontine perforators off the 
+basilar artery
+Wallenberg (lateral medullary)
+Ipsilateral facial and contralateral body 
+hypoalgesia and thermoanesthesia, 
+ipsilateral palatal weakness, dysphagia, 
+dysarthria, nystagmus, vertigo, nausea/
+vomiting, ipsilateral Horner syndrome, skew 
+deviation singultus
+Lateral medulla
+Posterior inferior cerebellar artery
+Dejerine (medial medullary)
+Ipsilateral tongue weakness and contralateral 
+hemiparesis with or without contralateral 
+loss of proprioception and vibratory sense
+Medial medulla
+Vertebral artery or anterior spinal artery
+CN, cranial nerve.
+Data from Eckerle BJ, Southerland AM. Bedside evaluation of the acute stroke patient. In: Barrett KM, Meschia JF, eds. Stroke. Neurology in 
+Practice. Hoboken, NJ: Wiley-Blackwell; 2013:1Y15.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+TABLE 37.8  Pediatric NIH Stroke Scale: Instructions
+	1a.	Level of Consciousness (LOC): For children age 2 yr and up, the investigator must choose a response, even if a full evaluation is prevented by such obstacles 
+as an endotracheal tube, language barrier, or orotracheal trauma/bandages. A 3 is scored only if the patient makes no movement (other than reflexive posturing) 
+in response to noxious stimulation. For infants age 4 mo up to age 2 yr, multiply the score for this item by 3, and omit scoring items 1b and 1c.
+	1b.	LOC Questions: The patient is asked the month and their age. The answer must be correct; there is no partial credit for being close. Aphasic and stuporous 
+patients who do not comprehend the questions will score 2. Patients unable to speak because of endotracheal intubation, orotracheal trauma, severe dysarthria 
+from any cause, language barrier, or any other problem not secondary to aphasia are given a 1. It is important that only the initial answer be graded and that the 
+examiner not “help” the patient with verbal or nonverbal cues.
+Modified for children, age 2 yr and up. A familiar family member must be present for this item: Ask the child, “How old are you?” or “How many years old are you?” for 
+question number 1. Give credit if the child states the correct age or shows the correct number of fingers for their age. For the second question, ask the child, “Where is XX?”, 
+with XX referring to the name of the parent or other familiar family member present. Use the name for that person that the child typically uses (e.g., “mommy”). Give credit if 
+the child correctly points to or gazes purposefully in the direction of the family member. Omit this item for infants age 4 mo up to age 2 yr. See comment under item 1a.
+	1c.	LOC Commands: The patient is asked to open and close the eyes (for children older than age 2 yr, this command to open and close the eyes is 
+suitable and can be scored as for adults) and then to grip and release the nonparetic hand. For children older than age 2 yr, substitute the command to 
+grip the hand with the command “show me your nose” or “touch your nose.” Substitute another one-­step command if the hands cannot be used. Credit 
+is given if an unequivocal attempt is made but not completed due to weakness. If the patient does not respond to command, the task should be demonstrated to 
+them (pantomime) and score the result (i.e., follows no, one, or two commands). Patients with trauma, amputation, or other physical impediments should be given 
+suitable one-­step commands. Only the first attempt is scored. Omit this item for infants age 4 mo up to age 2 yr. See comment under item 1a.
+	 2.	Best Gaze: Only horizontal eye movements will be tested. Voluntary or reflexive (oculocephalic) eye movements will be scored, but caloric testing is not done. 
+If the patient has a conjugate deviation of the eyes that can be overcome by voluntary or reflexive activity, the score will be 1. If the patient has an isolated 
+peripheral nerve paresis (CN III, IV, or VI), score a 1. Gaze is testable in all aphasic patients. Patients with ocular trauma, bandages, pre-­existing blindness, or 
+other disorder of visual acuity or fields should be tested with reflexive movements and a choice made by the investigator. Establishing eye contact and then 
+moving about the patient from side to side will occasionally clarify the presence of a partial gaze palsy.
+	 3.	Visual: Visual fields (upper and lower quadrants) are tested by confrontation, using finger counting (for children older than 6 yr) or visual threat (for children age 4 mo 
+to 6 yr) as appropriate. Patient must be encouraged, but if they look at the side of the moving fingers appropriately, this can be scored as normal. If there is unilateral 
+blindness or enucleation, visual fields in the remaining eye are scored. Score 1 only if a clear-­cut asymmetry, including quadrantanopia, is found. If patient is blind from 
+any cause, score 3. Double simultaneous stimulation is performed at this point. If there is extinction, patient receives a 1 and the results are used to answer question 11.
+	 4.	Facial Palsy: Ask or use pantomime to encourage the patient to show teeth or raise eyebrows and close eyes. Score symmetry of grimace in response to 
+noxious stimuli in the poorly responsive or noncomprehending patient. If facial trauma/bandages, orotracheal tube, tape, or other physical barrier obscures the 
+face, these should be removed to the extent possible.
+	 5 and 6.	Motor Arm and Leg: The limb is placed in the appropriate position: extend the arms (palms down) 90 degrees (if sitting) or 45 degrees (if supine) 
+and the legs 30 degrees (always tested supine). Drift is scored if the arm falls before 10 sec or the leg before 5 sec. For children too immature to follow 
+precise directions or uncooperative for any reason, power in each limb should be graded by observation of spontaneous or elicited movement 
+according to the same two grading scheme, excluding the time limits. The aphasic patient is encouraged using urgency in the voice and pantomime but 
+not noxious stimulation. Each limb is tested in turn, beginning with the nonparetic arm. Only in the case of amputation or joint fusion at the shoulder or hip, or 
+immobilization by an IV board, may the score be 9, and the examiner must clearly write the explanation for scoring as a 9.
+	 7.	Limb Ataxia: This item is aimed at finding evidence of a unilateral cerebellar lesion. Test with eyes open. In case of visual defect, ensure testing is done in intact visual 
+field. The finger-­nose-­finger and heel-­shin tests are performed on both sides, and ataxia is scored only if present out of proportion to weakness. In children, substitute 
+this task with reaching for a toy for the upper extremity, and kicking a toy or the examiner’s hand, in children too young (under 5 yr) or otherwise 
+uncooperative for the standard exam item. Ataxia is absent in the patient who cannot understand or is paralyzed. Only in the case of amputation or joint fusion may 
+the item be scored 9, and the examiner must clearly write the explanation for not scoring. In case of blindness, test by touching nose from extended arm position.
+	 8.	Sensory: Sensation or grimace to pin prick when tested, or withdrawal from noxious stimulus in the obtunded or aphasic patient. For children too young or otherwise 
+uncooperative for reporting gradations of sensory loss, observe for any behavioral response to pin prick, and score it according to the same scoring 
+scheme as a “normal,” “mildly diminished,” or “severely diminished” response. Only sensory loss attributed to stroke is scored as abnormal and the examiner 
+should test as many body areas (arms [not hands], legs, trunk, face) as needed to accurately check for hemisensory loss. A score of 2, “severe or total,” should only be given 
+when a severe or total loss of sensation can be clearly demonstrated. Stuporous and aphasic patients will therefore probably score 1 or 0. The patient with brainstem stroke 
+who has bilateral loss of sensation is scored 2. If the patient does not respond and is quadriplegic, score 2. Patients in a coma (item 1a = 3) are arbitrarily given a 2 on this item.
+	 9.	Best Language: A great deal of information about comprehension will be obtained during the preceding sections of the examination. For children age 6 yr 
+and up with normal language development before onset of stroke: The patient is asked to describe what is happening, to name the items on the 
+naming sheet, and to read from the list of sentences. Comprehension is judged from responses here as well as to all of the commands in the preceding 
+general neurologic exam. If visual loss interferes with the tests, ask the patient to identify objects placed in the hand, repeat, and produce speech. The intubated 
+patient should be asked to write. The patient in a coma (question 1a = 3) will arbitrarily score 3 on this item. The examiner must choose a score in the patient 
+with stupor or limited cooperation, but a score of 3 should be used only if the patient is mute and follows no one-­step commands. For children age 2–6 yr (or 
+older children with premorbid language disability), score this item based on observations of language comprehension and speech during the 
+preceding examination. For infants age 4 mo to 2 yr, score for auditory alerting and orienting responses.
+	10.	Dysarthria: If the patient is thought to be normal, an adequate sample of speech must be obtained by asking the patient to read or repeat words from the list. If the 
+patient has severe aphasia, the clarity of articulation of spontaneous speech can be rated. Only if the patient is intubated or has another physical barrier to producing 
+speech may the item be scored 9, and the examiner must clearly write an explanation for not scoring. Do not tell the patient why they are being tested.
+	11.	Extinction and Inattention (Formerly Neglect): For children age 2 yr and up: Sufficient information to identify neglect may be obtained during the prior 
+testing. If the patient has a severe visual loss preventing visual double simultaneous stimulation, and the cutaneous stimuli are normal, the score is normal. If 
+the patient has aphasia but does appear to attend to both sides, the score is normal. The presence of visual spatial neglect or anosognosia may also be taken as 
+evidence of abnormality. Since the abnormality is scored only if present, the item is never untestable. For children age 4 mo to 2 yr, score as a 1 if there is 
+either a sensory or motor deficit; score as a 2 if there are both sensory and motor deficits on the general neurologic examination.
+CN, cranial nerve; NIH, National Institutes of Health.
+Adapted from Ichord RN, Bastian R, Abraham L, et al. Interrater reliability of the Pediatric National Institutes of Health Stroke Scale (PedNIHSS) in a 
+multicenter study. Stroke. 2011;42:613–617.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+643
+CHAPTER 37  Stroke
+become more evident. Conversely, CTOH is very sensitive for hemorrhage, 
+which is manifested by hyperintensity in the location of the bleeding. Brain 
+MRI that includes diffusion-­weighted imaging (DWI) and apparent diffusion 
+coefficient (ADC) sequences is more sensitive for the diagnosis of ischemic 
+stroke. Figure 37.9 demonstrates characteristic CT and MRI changes in 
+acute ischemic stroke, while Table 37.9 describes the typical findings in 
+stroke on MRI based on the timing of imaging. Often imaging of the intra­
+cranial and cervical vessels may be necessary and can be done with mag­
+netic resonance angiography (MRA), computed tomography angiography 
+(CTA), or a conventional angiography, depending on the circumstances of 
+the patient. Pediatric stroke algorithms are useful in determining the most 
+appropriate imaging of patients with stroke according to symptoms and 
+availability of imaging modality (Fig. 37.10).
+The outcome of stroke varies considerably by age, risk factors, eti­
+ology, and management. In general, up to 10% of affected children die, 
+and more than half of the survivors incur a functional or cognitive neu­
+rologic deficit. Predictors of poor outcome are not well understood; 
+establishing long-­term rehabilitative care, decreasing recurrence risk, 
+and screening for chronic complications of stroke, such as epilepsy and 
+intellectual disability, can improve outcomes.
+PERINATAL STROKE
+Perinatal stroke is a diverse group of cerebrovascular injuries occur­
+ring between 20 weeks of fetal life and 28 days of postnatal life. Strokes 
+affecting early brain development are estimated to have an incidence as 
+high as 1 in 1,600. The consequences of these injuries include cerebral 
+palsy, epilepsy, and cognitive and behavioral challenges. Presentation 
+may be acute or remote, strokes may be due to arterial or venous pro­
+cesses, and injury may be ischemic or hemorrhagic.
+Perinatal stroke can be divided broadly into neonatal stroke and 
+presumed perinatal stroke based on the timing of presentation. Neo­
+natal stroke presents acutely and symptomatically during the neonatal 
+period—often within the first week of life—and consists of neonatal 
+AIS, neonatal hemorrhagic stroke, and cerebral sinovenous throm­
+bosis (CSVT). Presumed perinatal stroke presents remotely outside 
+of the neonatal period, may be symptomatic or incidentally identified 
+on neuroimaging, and consists of presumed perinatal AIS, presumed 
+perinatal hemorrhagic stroke, and periventricular venous infarction. 
+Stroke diagnosed in the fetus through the use of fetal imaging or on 
+neuropathologic examination of stillborn children is referred to as in 
+utero stroke and in survivors typically presents as presumed perinatal 
+stroke.
+Neonatal Stroke
+Stroke is surprisingly common in the neonatal period. The incidence of 
+neonatal AIS is as high as 1 in 2,200 live births, similar to the incidence 
+of large-­artery AIS in adults and more than 10 times greater than the 
+incidence of AIS in children; the incidence in neonates born before 
+34 weeks’ gestation is higher than that in term neonates. Neonatal 
+A
+B
+C
+Fig. 37.9  Acute arterial ischemic stroke. CT and MRI demonstrate an arterial ischemic stroke in a 1-­day-­old 
+term infant who presented with a right focal seizure. A, An axial CT image reveals hypodensity (white arrow) 
+in the left middle cerebral artery (MCA) territory consistent with acute infarction. B, Axial MRI diffusion-­
+weighted trace image of the same patient reveals a clearly demarcated area of infarct as a region of hyperin­
+tensity (white arrow) in the left MCA territory. C, Apparent diffusion coefficient map reveals region of signal 
+hypointensity and restricted diffusion (white arrow) to match area of signal hyperintensity observed in (B). 
+(With permission from Lehman LL, Rivkin MJ. Perinatal arterial ischemic stroke: presentation, risk factors, 
+evaluation and outcome. Pediatric Neurol. 2014;51:760–768, Fig. 2.)
+TABLE 37.9  Stroke Appearance According to Timing of Acquisition of MRI
+Timing
+DWI
+ADC
+T1
+T2
+FLAIR
+Hyperacute, 0–6 hr
+Hyperintense
+Hypointense
+Acute, 6–24 hr
+Hyperintense
+Hypointense
+Hypointense
+Hyperintense
+Hyperintense
+Subacute, 1–7 days
+Hyperintense
+Isointense
+Hypointense
+Hyperintense
+Hyperintense
+Chronic, >1 mo
+Variable
+Hyperintense
+Hypointense
+Hyperintense
+Variable
+ADC, apparent diffusion coefficient; DWI, diffusion-­weighted imaging; FLAIR, fluid-­attenuated inversion recovery.
+From Tong E, Hou Q, Fiebach J, et al. The role of imaging in acute ischemic stroke. Neurosurg Focus. 2014;36:E3.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+644
+SECTION 7  Neurosensory Disorders
+hemorrhagic stroke is less common, affecting approximately 1 in 9,500 
+live births; neonatal CSVT is even less common.
+Clinical Presentation and Mimics
+Neonatal AIS is the most common type of perinatal stroke, and focal 
+motor seizures are the most frequent presenting symptom, occurring 
+in up to 90% of affected term newborns. Other presenting symptoms 
+include encephalopathy in ∼66% of affected neonates, feeding difficul­
+ties, apnea, and tone abnormalities. Lateralized findings, most typi­
+cally motor weakness or decreased tone, may be present, though their 
+absence does not exclude cerebral infarction. Furthermore, dimin­
+ished extremity movement on the side of a focal seizure may repre­
+sent postictal paralysis rather than paresis from upper motor neuron 
+injury caused by cerebral infarction. Preterm neonates with AIS are 
+commonly asymptomatic and may be incidentally diagnosed on rou­
+tine screening cerebral ultrasound. Preterm infants with AIS most fre­
+quently present with respiratory difficulties, though seizures, feeding 
+difficulty, and abnormal tone may occur as well. Presenting features 
+for neonates with AIS are summarized in Table 37.10. Neonates with 
+hemorrhagic stroke and with CSVT present similarly, with a combina­
+tion of encephalopathy, seizures, feeding and respiratory difficulties, 
+and focal neurologic deficits. Neonates with hemorrhagic stroke may 
+also have a bulging fontanelle or widening of the cranial suture lines.
+Seizures are the most common presentation of neonatal stroke, and 
+are also the most common stroke mimic. Neonatal seizures may occur 
+in the setting of hypoxic ischemic encephalopathy (HIE), cerebral mal­
+formations, meningitis, sepsis, acute metabolic derangements, inborn 
+errors of metabolism, kernicterus, neonatal abstinence syndrome, and 
+Strokelike symptoms
+29 days - 18 years
+Hyperacute*
+<6 hours from last known
+asymptomatic
+MRI
+(Preferred)
+Noncontrast CT
+Optional:
+CTA Head and Neck
+(unless thrombolysis
+considered)
+*Hyperacute: Additional imaging (sequences or modalities) to be performed as clinically warranted.
+DWI
+FLAIR
+GRE or SWI
+3D MRA TOF (Brain)
+Optional:
+pCASL
+Noncontrast CT
+Optional:
+CTA Head and Neck
+DWI
+FLAIR
+GRE or SWI
+3D MRA TOF (Brain)
+MRA Neck +/– gad
+T1
+T2
+MRV +/– gad (if CSVT
+suspected)
+Optional:
+T1 postgad
+DTI
+pCASL
+Pre / postgad VWI
+CT
+MRI
+(Preferred)
+CT
+Non-hyperacute
+Fig. 37.10  Algorithm demonstrating proposed imaging modalities according to symptomatology and 
+modality of image. CSVT, cerebral sinovenous thrombosis; CT, computed tomography (of the head); CTA, 
+computed tomographic angiography; DTI, diffusion tensor imaging; DWI, diffusion-­weighted imaging; 
+FLAIR, fluid-­attenuated inversion recovery; gad, gadolinium; GRE, gradient echo; MRA, magnetic reso­
+nance angiography; MRI, magnetic resonance imaging (of the brain); pCASL, pseudo-­continuous arterial 
+spin labeling; SWI, susceptibility-­weighted imaging; TOF, time of flight; VWI, vessel wall imaging. (From 
+Mirsky DM, Beslow LA, Amlie-­Lefond C, et al. Pathways for neuroimaging of childhood stroke. Pediatr 
+Neurol. 2017;69:11–23, Fig. 5.)
+TABLE 37.10  Symptoms Associated with 
+Perinatal Arterial Ischemic Strokes (AIS)
+Symptom
+% of Cases
+Neonatal AIS in Term Infants
+Seizures (usually focal motor)
+69–90
+Hemiparesis
+∼30
+Impaired level of consciousness
+39
+Abnormal tone
+38–46
+Respiratory difficulties
+26
+Feeding difficulties
+24
+Neonatal AIS in Preterm Infants
+Respiratory distress or apnea
+83
+Seizures
+30
+Abnormal feeding
+26
+Abnormal tone
+22
+Presumed Perinatal AIS
+Early hand preference (<2 yr of age)
+81–86
+Hand fisting
+Seizures
+14–15
+Gaze preference
+5
+From Lehman LL, Rivkin MJ. Perinatal arterial ischemic stroke: 
+presentation, risk factors, evaluation, and outcome. Pediatr Neurol. 
+2014;51:760–768.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+645
+CHAPTER 37  Stroke
+genetic epilepsy syndromes. The timing of seizures, as well as associ­
+ated findings, can assist in distinguishing etiology: Neonates with sei­
+zures secondary to stroke typically have seizure onset after 24 hours of 
+life, have focal motor activity, and remain lucid interictally. In contrast, 
+neonates with HIE typically have seizures within the first 12 hours of 
+life, have an associated antenatal event such as fetal distress or perinatal 
+asphyxia, and have encephalopathy of varying degrees. Neonates with 
+meningitis or sepsis often have associated temperature and hemody­
+namic instability and may have metabolic derangements and acid-­base 
+disturbances. Neonates with inborn errors of metabolism often have 
+hypoglycemia and acid-­base disturbances, can have hyperammonemia 
+depending on the metabolic disorder, and may have progressive 
+encephalopathy.
+Risk Factors of Neonatal Stroke
+For neonatal AIS, the low recurrence rate of <2% suggests the patho­
+physiology is related to a process unique to the perinatal state. The 
+left hemisphere is the most commonly involved area, with exclusive 
+involvement of the middle cerebral artery territory in up to 90% of 
+perinatal AIS strokes (Fig. 37.11), though the location of stroke varies 
+based on gestational age (Table 37.11). Risk factors for neonatal AIS 
+can be broadly categorized as maternal, fetal, and placental (Table 
+37.12). Placentally derived emboli may lodge in cerebral vessels. 
+Congenital heart defects involving right-­to-­left shunts through sep­
+tal defects increase the risk of embolic stroke. Congenital defects 
+of coagulation (factor VIII, protein C, protein S, antithrombin III 
+deficiency, and others) or sepsis-­induced disseminated intravascular 
+coagulation may also result in neonatal embolic stroke. Fetal head 
+trauma during labor and delivery that results in endothelial dam­
+age to cerebral vessels occasionally leads to thrombosis and resul­
+tant focal ischemia of the brain. Polycythemia and hypotension can 
+each lead to intravascular stasis and abnormalities in flow, resulting 
+in cerebrovascular thrombosis in neonates. Meningitis and enceph­
+alitis cause diffuse or localized thrombosis as a result of vascular 
+inflammation, leading to hemostasis and thrombosis. Lastly, specific 
+neonatal cardiac conditions requiring extracorporeal membrane 
+oxygenation (ECMO) may predispose the neonate to AIS. Many have 
+an unknown etiology.
+Neonatal hemorrhagic stroke or intraparenchymal hemorrhage 
+(IPH), in the absence of intraventricular hemorrhage (IVH), occurs 
+most commonly in full-­term infants. Hemorrhage into the paren­
+chyma of the cerebral hemispheres can be caused by head trauma, 
+vascular malformation (Fig. 37.12), coagulopathy, thrombocytopenia, 
+tumor, or infarction. A common cause of prenatal, intrapartum, and 
+postnatal hemorrhage is alloimmune thrombocytopenia, caused by 
+acquired antiplatelet antibodies when a mother becomes sensitized to 
+paternal antigens on fetal platelets. Maternal immune thrombocyto­
+penia may also affect the fetus, producing thrombocytopenia in utero; 
+however, the incidence of neonatal cerebral hemorrhage is much lower 
+in immune thrombocytopenia than in alloimmune thrombocytope­
+nia. Vitamin K–deficient bleeding should be considered as a cause 
+of intracranial hemorrhage for breast-­fed full-­term neonates or for 
+neonates who were not administered parenteral vitamin K shortly after 
+birth. In the absence of recognized coagulation or anatomic abnormal­
+ities, cerebral hemispheric IPH may also be due to hemorrhagic con­
+version of a previous infarction.
+In premature infants, IPH most often occurs in conjunction with 
+severe IVH (Fig. 37.13). Hemorrhage from the friable, unsupported 
+germinal matrix leads to accumulation of intraventricular blood, and 
+A
+B
+C
+Fig. 37.11  Neonatal arterial ischemic stroke. Ultrasound (US) and MRI of neonatal arterial ischemic stroke 
+in a 1-­day-­old term infant who presented with a right focal seizure. A, US reveals hyperechogenicity in the 
+left cerebral hemisphere (indicated by white arrow), concerning for ischemic injury. B, Axial MRI diffusion-­
+weighted trace image of the same patient reveals well-­defined hyperintensity (indicated by white arrow) in 
+the left middle cerebral artery (MCA) territory. C, Apparent diffusion coefficient map of the matching slice 
+observed in (B) reveals corresponding hypointensity (indicated by white arrow) in the left MCA territory. (From 
+Lehman LL, Rivkin MJ. Perinatal arterial ischemic stroke: presentation, risk factors, evaluation, and outcome. 
+Pediatr Neurol. 2014;51:760–768, Fig. 1.)
+TABLE 37.11  Location of Arterial Strokes 
+in Perinatal Arterial Ischemic Stroke Based on 
+Gestational Age
+Gestational Age
+Location of 
+Arterial Stroke
+% of Cases
+Full-­term neonate
+Cortical branch strokes
+59
+Preterm neonate (overall)
+Lenticulostriate (overall)
+39
+<28–32 wk of gestation
+Lenticulostriate
+32–36 wk of gestation
+Cortical branch infarcts
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+646
+SECTION 7  Neurosensory Disorders
+often ventricular distention. These events, in turn, cause impairment 
+of blood flow in the medullary veins located in the periventricular 
+white matter, preventing blood drainage into the greater cerebral 
+venous system. Eventually, the periventricular venous congestion 
+leads to ischemia and a resultant venous infarction. If there continues 
+to be difficulty with cerebrospinal fluid production and reabsorption 
+dynamics, the infant may develop posthemorrhagic hydrocepha­
+lus and in some instances may need cerebrospinal fluid diversion 
+procedures.
+Risk factors for neonatal CSVT include thrombophilia, infection, 
+dehydration, polycythemia, congenital heart disease, and ECMO 
+(Table 37.13). The lesions associated with cerebral venous thrombosis 
+include thrombosis in the deep or superficial veins, venous infarction, 
+and hemorrhage (Fig. 37.14). The hemorrhage that typically accompa­
+nies CSVT is a result of the increased venous and capillary hydrostatic 
+pressure due to the presence of the clot causing extravasation of fluid 
+and red blood cells.
+Evaluation and Management
+Imaging. The evaluation of the neonate with suspected stroke 
+requires neuroimaging. Head ultrasonography is typically readily 
+available and is a reliable bedside tool that is often performed initially, 
+as ultrasonography can rapidly detect areas of increased echogenicity 
+in the cerebral cortex that correspond with hemorrhage. In especially 
+severe cases of ischemia, increased echogenicity of injured subcortical 
+structures such as the thalamus and basal ganglia can also be appreciated. 
+Ischemic cortical injury involving the territory of the middle cerebral 
+artery (frontal and parietal lobe regions surrounding the central 
+sulcus) is better revealed by ultrasonography than are other vascular 
+territories. The principal advantages of cranial ultrasonography are its 
+easy portability to the patient’s bedside and lack of radiation exposure 
+to the infant; however, reliability is highly operator dependent. CT 
+is usually not recommended due to the radiation exposure as well as 
+the low sensitivity for neonatal AIS in the acute phase. However, CT 
+is sensitive for detecting hemorrhagic stroke and other forms of extra-­
+axial hemorrhagic processes.
+MRI is the imaging modality of choice to confirm the diagnosis of 
+neonatal stroke. DWI sequences on MRI can identify areas of recent 
+infarct within hours of onset, earlier than conventional T1-­ and T2-­
+weighted images. Subsequent images can show chronic changes such 
+as cerebral atrophy, paucity of white matter, delayed myelination, 
+and ventriculomegaly. MRI can be complemented with MRA of the 
+cerebral and neck arteries to assess for arterial occlusion, dissec­
+tion, anatomic abnormalities, or other lesions. If there is concern 
+for neonatal CSVT, magnetic resonance venography (MRV) should 
+be performed to detect a thrombus or absent flow in the intracranial 
+venous system.
+Laboratory Testing. Laboratory testing for the wide variety 
+of etiologic factors underlying stroke should be conducted 
+according to the presentation and symptoms. Investigations should 
+include screening for infection, liver dysfunction, coagulopathy, 
+prothrombotic states, inborn errors of metabolism, urea cycle 
+disorders, and mitochondrial abnormalities. Placenta may be 
+submitted for pathologic examination.
+Management
+Treatment for neonatal stroke is largely supportive. Neuroprotective 
+approaches are employed to maintain homeostasis in oxygen, tem­
+perature, hydration, glucose, and hemodynamics. Electroencephalo­
+gram should be performed to screen for interictal abnormalities and 
+subclinical seizures. Seizures are often self-­limited though if per­
+sistent may be controlled with antiseizure medicines. With recur­
+rence rates of neonatal AIS being low, the use of antithrombotic 
+medications is not recommended unless there is a persistent source 
+of embolism or a severe thrombophilia is documented. In neonatal 
+CSVT, anticoagulation may be considered on a case-­by-­case basis, 
+especially if there is thrombus propagation on serial imaging. For 
+neonates with hemorrhagic stroke, investigation and correction 
+TABLE 37.12  Risk Factors for Perinatal 
+Arterial Ischemic Stroke (AIS)
+Type of Risk Factor
+Risk Factors
+Term Infants with Neonatal AIS
+Maternal
+Thrombophilia
+Infertility
+Prolonged rupture of membranes
+Preeclampsia or gestational hypertension
+Smoking
+Intrauterine growth restriction
+Infection
+Maternal fever during delivery
+Smoking
+Fetal
+Thrombophilia (MTHFR variant, FVL, prothrombin 
+gene variant, protein C/S deficiency)
+Congenital heart disease
+Arteriopathy
+Twin-twin transfusion syndrome
+Hypoglycemia
+Perinatal asphyxia
+Infection (sepsis/meningitis)
+Need for resuscitation
+Apgar score of <7 at 5 min
+Placental
+Chorioamnionitis
+Placental infarcts
+Distal villous immaturity
+Placenta weighing <10th percentile
+Preterm Infants with Neonatal AIS
+Maternal
+Infection
+Gestational bleeding
+Maternal smoking
+Maternal drug use
+Fetal
+Twin-­twin transfusion syndrome
+Twin demise
+Abnormal fetal heart rate
+Hypoglycemia
+Thrombophilia (MTHFR variant, FVL)
+Presumed Perinatal AIS
+Maternal
+Preeclampsia
+Infection
+Gestational bleeding
+Gestational diabetes
+Thrombophilia
+Fetal
+Congenital heart disease
+MTHFR, methylenetetrahydrofolate reductase deficiency; FVL, factor V 
+Leiden deficiency.
+Modified from Lehman LL, Rivkin MJ. Perinatal arterial ischemic 
+stroke: presentation, risk factors, evaluation, and outcome. Pediatr 
+Neurol. 2014;51:760–768.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+647
+CHAPTER 37  Stroke
+of bleeding diatheses are crucial. Ruptured vascular lesions may 
+require prompt surgical correction. Acute decompressive craniec­
+tomy or hematoma evacuation is rarely performed though may be 
+required. Regardless of the type of stroke or timing, neonates should 
+be referred to rehabilitation therapies and be screened routinely 
+for developmental delays and learning disabilities, especially in the 
+school-­age years.
+Outcomes
+The mortality rate for neonatal AIS is low at 0.16 per 100,000 live births. 
+Stroke recurrence occurs in about 2% of neonates, most of whom have 
+thrombophilia, congenital heart disease, or an arteriopathy. Chronic 
+motor deficits occur in up to 60% of neonates with AIS; infarction in 
+the basal ganglia or posterior limb of the internal capsule in term neo­
+nates correlates with long-­term hemiparesis. Other long-­term sequelae 
+in neonatal AIS include language delays and behavioral disorders such 
+as attention deficit or hyperactivity. Almost half of neonates with AIS 
+develop epilepsy as a result of their stroke.
+Developmental outcome in full-­term infants with hemor­
+rhagic stroke depends on the location, extent, and underlying cause. 
+Fig. 37.12  Neonatal vein of Galen malformation and intraventricular hemorrhage. A 5-­day-­old female born at 
+38 weeks was noted to be drowsy with poor feeding. She had signs of cardiac failure. A CT scan (top left) 
+demonstrates vein of Galen aneurysmal malformation, which was partly treated by transarterial glue embo­
+lization without complication but with significant residual arteriovenous shunting (MR images, top row). Fol­
+lowing a second embolization procedure, there was acute clinical deterioration with signs of raised intracranial 
+pressure (middle row). CT shows acute intraventricular hemorrhage and hydrocephalus, and a left parieto-­
+occipital lobe low-­density lesion (middle, images 1–3) with adjacent subarachnoid and subdural hematoma 
+(middle, images 4 and 5). Some linear hyperdensity was believed to be due to thrombus within the persistent 
+falcine sinus (middle, images 4 and 5). Follow-­up imaging shows maturation of the focal left parieto-­occipital 
+lesion in keeping with an infarct (bottom row), which is probably venous in origin. (From Gunny RS, Lin D. 
+Imaging of pediatric stroke. Magn Reson Imaging Clin North Am. 2012;20:1–33, Fig. 18.)
+A
+B
+Fig. 37.13  Neonatal intraventricular and intraparenchymal hemor­
+rhages. A term baby delivered by cesarean section for thick meconium 
+and late decelerations, Apgar scores of 1, 6, and 8 (at 1, 5, and 10 min­
+utes), presented with neonatal seizures on the first day of life. A and 
+B, Axial head CT images show bilateral frontal, parietal, and scattered 
+occipital hemorrhages in the periventricular and subcortical white mat­
+ter, the largest in the frontal centrum semiovale. (From Gunny RS, Lin 
+D. Imaging of perinatal stroke. Magn Reson Imaging Clin North Am. 
+2012;20:1–33, Fig. 22.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+648
+SECTION 7  Neurosensory Disorders
+Posthemorrhagic hydrocephalus is predictive of abnormal outcomes, 
+including motor impairment and cognitive delay. Epilepsy develops in 
+up to 15% of affected patients. In premature infants, the simultaneous 
+occurrence of IVH with IPH carries high risk for major motor deficits 
+and marked cognitive impairment.
+Outcomes of CSVT are difficult to discern due to the high inci­
+dence of hemorrhagic complications and their attendant mortality 
+rate, which approaches 20%. Factors associated with a higher risk of 
+adverse outcome include the presence of infarcts, bilateral cerebral 
+involvement, and neurologic comorbidities. Neonates with cerebral 
+venous thrombosis and thalamic hemorrhage are at risk for develop­
+ment of late-­onset epilepsy with electrographic status epilepticus of 
+slow wave sleep, which may be associated with cognitive and behav­
+ioral sequelae.
+Presumed Perinatal Stroke
+The prevalence of presumed perinatal stroke is difficult to establish given 
+the large number of minimally symptomatic children or those with 
+delayed presentations, but it is estimated to be around 40 per 100,000. 
+TABLE 37.13  Risk Factors for Neonatal 
+Cerebral Sinovenous Thrombosis
+Type of Risk Factor
+Risk Factors (Estimated % of Cases)
+Maternal
+Preeclampsia
+Diabetes
+Fetal/neonatal
+Acute neonatal illness (61–84%)
+Dehydration
+Infection
+Meningitis
+Congenital heart disease
+Thrombophilia (same as in arterial; 15–20%)
+ECMO
+Complicated delivery
+Polycythemia
+Dehydration
+ECMO, extracorporeal membrane oxygenation.
+Fig. 37.14  Neonatal cerebral sinovenous thrombosis. A term male neonate was hypotonic at birth with poor 
+respiratory effort requiring resuscitation. Initial CT (top row) on day 2 of life shows diffuse brain edema with 
+expanded and hyperdense transverse and sagittal sinuses, torcula, and internal cerebral veins as well as 
+the cerebral cortical veins. CT performed on day 9 (middle row) shows resolution of the cerebral edema 
+and increased density of the thrombus within the transverse sinus, torcula, and superior sagittal sinus. MRI 
+on day 9 (bottom left, images 1–4) shows mild diffuse cerebral atrophy but no focal venous infarcts, with a 
+persistent thrombus and no flow on the magnetic resonance venography (stars). Follow-­up MRI on day 15 
+(bottom right, images 5 and 6) shows the evolution of thrombus signal intensity to methemoglobin. Note the 
+effect of T1 shortening within the thrombosed sagittal and transverse sinuses and torcula, mimicking flow 
+within the sinuses (arrow). (From Gunny RS, Lin D. Imaging of perinatal stroke. Magn Reson Imaging Clin 
+North Am. 2012;20:1–33, Fig. 10.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+649
+CHAPTER 37  Stroke
+The risk factors for presumed perinatal stroke are similar to those for 
+neonatal stroke.
+Clinical Presentation and Mimics
+One of the most frequent presentations of presumed perinatal stroke is 
+early hand preference with asymmetric reaching. In patients with early 
+hand preference, neurologic examination may reveal a varied spectrum 
+of impairment, from subtle decrease in hand dexterity to clear paresis 
+with spasticity in the affected limb. Periventricular venous infarctions 
+are more likely associated with lower extremity impairment, whereas 
+presumed perinatal AIS is more likely associated with upper extremity 
+weakness. Mimics of stroke-­related early hand preference include brain 
+malformations and brachial plexus injury.
+Presumed perinatal stroke frequently presents as symptomatic 
+localization-­related epilepsy. Seizure semiology is variable, ranging 
+from focal seizures without alterations in consciousness to generalized 
+seizures with or without focal onset. Seizures may be subtle and in 
+some instances may consist only of electrographic status epilepticus 
+of slow wave sleep, which may present with developmental delays or 
+regression. On some occasions, patients may present with infantile 
+spasms.
+Evaluation, Management, and Outcome
+MRI of the brain is the imaging modality of choice for presumed peri­
+natal stroke, as MRI establishes the location, extent, and severity of the 
+stroke and can identify other lesions, such as gray matter heterotopia 
+or other brain malformations that may produce similar symptoms. 
+Patients with presumed perinatal AIS may have a porencephalic cyst, 
+an area of cystic encephalomalacia in the location of a brain insult that 
+usually involves the cortex and subcortical structures. In cases of peri­
+natal periventricular infarction, MRI may demonstrate periventricu­
+lar tissue loss, gliosis, and hemosiderin deposition, which may lead to 
+variable degrees of ventricle deformation and corpus callosum tissue 
+loss (Fig. 37.15).
+Given the high rate of symptomatic epilepsy in presumed peri­
+natal stroke, especially in presumed perinatal AIS, assessing for the 
+possibility of seizures, including obtaining an EEG when the history 
+is concerning, is essential. Interictal abnormalities such as spikes or 
+sharp waves may be seen and represent a sign of hyperexcitability and 
+consequent risk for seizures. There may be areas of focal slowing or 
+lower-­amplitude waveforms that correspond to areas of focal cere­
+bral dysfunction. These focal abnormalities typically correspond to 
+the location of the stroke; however, there may be additional diffuse 
+findings such as generalized slowing of the background brain wave 
+rhythm, which represents an encephalopathic state. There may also be 
+generalized, multifocal spikes or sharp waves, which may signify the 
+development of an epileptic encephalopathy. If present, seizures may 
+be controlled with antiepileptic medications.
+Once the diagnosis of presumed perinatal stroke has been made, 
+early-­intervention rehabilitation therapies must be initiated. Patients 
+should be screened for cognitive impairment and learning disabil­
+ities even if not manifesting these complaints; deficits may include 
+Fig. 37.15  Presumed perinatal arterial ischemic stroke (AIS). MRI of a 5-­year-­old girl with long-­standing right 
+hemiplegia and intractable epilepsy secondary to a left-­sided infarct. Note the large area of cystic cavitation 
+in the left temporal (top left and middle images), frontal (top right image), and parietal lobes (top right and 
+bottom left images) in the extended left middle cerebral artery territory (with some additional anterior choroi­
+dal involvement, and atrophy of the left thalamus; bottom left image). The left hemicranium is smaller, and 
+there is some expansion of the left calvarial diploic space. There is three-­site involvement of the basal ganglia, 
+superficial cortex, and posterior limb of the internal capsule (bottom row images). There is imaging evidence 
+of Wallerian degeneration with atrophy, and signal hyperintensity suggestive of gliosis in the ventral midbrain 
+and pons (bottom middle and right images). (From Gunny RS, Lin D. Imaging of perinatal stroke. Magn Reson 
+Imaging Clin North Am. 2012;20:1–33, Fig. 5.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+650
+SECTION 7  Neurosensory Disorders
+visuospatial, executive, and attention difficulties and may require com­
+prehensive neuropsychological evaluation to identify.
+STROKE IN CHILDREN
+Stroke in older infants and children is best categorized in three different 
+groups: AIS, intracranial hemorrhage, and venous stroke. For all three 
+groups the clinical presentation is similar, but the risk factors, evaluation, 
+management, and outcomes vary significantly. The incidence of stroke 
+in children declines after the neonatal stage and remains low until mid-­
+adolescence. Biological males have a 1.25 times higher relative risk of 
+stroke when compared to biological females, even adjusting for trauma.
+Children with stroke are more likely to present similarly to adults, 
+with focal neurologic deficits; children are more likely to experience 
+delays in recognition and diagnostic evaluation. Diagnostic delays 
+are multifactorial in etiology, though contributing factors include low 
+index of suspicion for pediatric stroke as well as the higher prevalence 
+of stroke mimics in children. Prompt recognition is essential, as chil­
+dren may be candidates for hyperacute therapies such as thrombolysis 
+or thrombectomy in cases of AIS, anticoagulation in cases of venous 
+stroke, or neuroprotective care protocols regardless of etiology.
+Presenting symptoms are largely dependent on the type of stroke 
+and the brain region affected (Table 37.14). Possible mimics also vary 
+depending on the nature of the stroke; for patients who present with 
+acute unilateral weakness, common differential diagnoses include post­
+ictal hemiparesis (Todd paralysis), brain tumor, hemiplegic migraine, 
+trauma, CNS infection, and conversion disorder. Postictal hemiparesis 
+is typically preceded by clinical seizure activity, though occasionally 
+the seizure activity may be clinically inapparent or the hemiparesis may 
+have onset during the seizure itself. As opposed to the persistent unilat­
+eral weakness associated with stroke, postictal hemiparesis is typically 
+transient. Patients who present with hemiplegic migraine generally 
+have associated headache and oftentimes a family history of migraine. 
+Acute hemiparesis with migraine is believed to reflect the involvement 
+of the cerebral circulation derived from the carotid artery. When the 
+vertebrobasilar circulation is involved in migraine, symptoms such as 
+ataxia, cortical blindness, and cranial nerve dysfunction may occur as 
+well.
+Rarer mimics include CNS inflammatory conditions such as acute 
+disseminated encephalomyelitis, which is characterized by a coincident 
+encephalopathy, acute flaccid myelitis, alternating hemiplegia of child­
+hood, hypertensive encephalopathy, and strokelike migraine attacks 
+after radiation therapy (SMART) syndrome. Thorough clinical exam­
+ination, history taking, and neuroimaging can discriminate between 
+these conditions and stroke (see Table 37.5). For patients who present 
+with other focal neurologic deficits or alteration in awareness, appro­
+priate differential diagnoses must be considered according to clinical 
+context.
+TABLE 37.14  Symptoms of Strokes in Children Based on Etiology
+ARTERIAL ISCHEMIC STROKES
+HEMORRHAGIC STROKES
+CEREBRAL VENOUS THROMBOSIS*
+Symptoms/Signs
+%
+%
+Symptoms/Signs
+%
+Hemiparesis
+70–80
+35
+Headache
+75
+Facial weakness
+40–60
+35
+Altered consciousness
+55
+Speech disturbance
+30–40
+10
+Focal deficits
+40–50
+Visual changes
+5–15
+20
+Seizures
+25
+Limb ataxia
+20–25
+5
+Focal numbness
+20
+<5
+Vomiting
+10–20
+55
+Headache
+25–45
+75
+Decreased level of 
+consciousness
+20–40
+50
+Seizures
+15–30
+20
+Vertigo
+10
+NDA
+Diplopia
+3
+NDA
+Papilledema
+1
+NDA
+No lateralizing symptoms
+35
+65
+No neurologic signs
+10
+60
+GCS ≥14
+85
+60
+GCS 9–13
+15
+20
+GCS ≤8
+0
+20
+*Ichord RN, Benedict SL, Chan AK, et al. Paediatric cerebral sinovenous thrombosis: findings of the International Paediatric Stroke Study. Arch Dis 
+Child. 2015;100:174–179.
+GCS, Glasgow Coma Scale; NDA, no data available.
+Data pooled from Mallick AA, Ganesan V, Kirkham FJ, et al. Childhood arterial ischaemic stroke incidence, presenting features, and risk factors: 
+a prospective population-­based study. Lancet Neurol. 2014;13:35–43; Yock-­Corrales A, Mackay MT, Mosley I, et al. Acute childhood arterial 
+ischemic and hemorrhagic stroke in the emergency department. Ann Emerg Med. 2011;58:156–163; Wintermark M, Hills NK, deVeber GA, 
+et al. Arteriopathy diagnosis in childhood arterial ischemic stroke: results of the vascular effects of infection in pediatric stroke study. Stroke. 
+2014;45:3597–3605; Lynch J, Hirtz DG, DeVeber G, et al. Report of the National Institute of Neurological Disorders and Stroke Workshop on 
+Perinatal and Childhood Stroke. Pediatrics. 2002;109:116–123.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+651
+CHAPTER 37  Stroke
+Ischemic Stroke in Children
+Risk Factors and Etiology
+Ischemic stroke in children is associated with diverse risk factors 
+(Table 37.15); however, despite thorough evaluation, up to one third 
+of childhood AIS is classified as idiopathic. The Childhood AIS Stan­
+dardized Classification and Diagnostic Evaluation (CASCADE) crite­
+ria are used to classify stroke presentation and distribution, offering 
+excellent interrater reliability and consistency when describing pedi­
+atric stroke (Fig. 37.16).
+Arteriopathies. Arteriopathies are cerebrovascular conditions 
+associated with vessel wall abnormalities and may be unilateral or 
+bilateral, be focal or diffuse, affect small vessels or large, be transient 
+or progressive, and affect different areas within the cerebral vessels. 
+Arteriopathies may be isolated conditions or part of a systemic 
+illness.
+Moyamoya arteriopathy is characterized by endothelial prolifera­
+tion, fibrosis, and intimal thickening within the terminal portion of the 
+internal carotid arteries, leading to progressive narrowing and occlu­
+sion. Resultant proliferation of collateral vessels from the basilar skull 
+circulation creates an intricate latticework of compensatory blood flow 
+that has a characteristic appearance: moyamoya means “hazy” or “puff 
+of smoke” and reflects findings seen on conventional angiography (Fig. 
+37.17). Children usually present with acute hemiplegia as a result of 
+uncompensated occlusion of the internal carotid artery. Because the 
+anatomic abnormality is often bilateral, the hemiplegia may alternate. 
+Primary or idiopathic moyamoya demonstrates a genetic predisposi­
+tion (ACTA2, GUCY1A3, RNF213 genes) and occurs in the absence 
+of associated conditions, whereas the designation moyamoya syndrome 
+is given when the progressive distal internal carotid artery occlusion 
+is secondary to a primary disorder such as sickle cell disease, neuro­
+fibromatosis, trisomy 21, tuberculous meningitis, or fibromuscular 
+dysplasia.
+Sickle cell disease arteriopathy is a significant source of mor­
+bidity in patients with sickle cell disease. By the age of 20 years, 
+approximately 11% of children with sickle cell disease will have had a 
+symptomatic stroke; up to 40% have silent cerebral infarcts in which 
+no overt symptoms occur but changes are seen on brain imaging. 
+Children with sickle cell disease who have silent infarctions may 
+demonstrate school dysfunction or headache as the only manifesta­
+tion of neurologic involvement of the disease. Stroke recurrences are 
+common.
+The arteriopathy often involves the internal carotid or middle cere­
+bral arteries, and in some cases moyamoya syndrome or intracranial 
+hemorrhage can develop. Stroke may occur within the context of a 
+sickle cell vaso-­occlusive crisis or may be an isolated event, and typ­
+ically occurs in watershed distributions between two cerebrovascu­
+lar territories, affecting both the gray and white matter of the cortex. 
+The proposed pathophysiologic mechanisms consist of both sickling-­
+related occlusion and progressive stenosis in cerebral vessels. Sickled 
+red blood cells (RBCs) flowing through arteries and capillaries activate 
+endothelial proliferation in large vessels, ultimately leading to stenosis. 
+Angiography demonstrates large-­vessel vasculopathy in the internal 
+carotid arteries and middle cerebral arteries; microscopic examination 
+reveals endothelial proliferation, disruption of the elastic lamina, and 
+microthrombi. Additional contributing factors include increased RBC 
+adhesion, endothelial activation, inflammation, and coagulation dis­
+regulation. Children with sickle cell disease may also have SAH, though 
+the risk is less than that of infarction, occurring in fewer than 2%. The 
+clinical findings of SAH differ from those of infarction in patients with 
+sickle cell disease. Severe headache, vomiting, and alteration in mental 
+state characterize SAH in children with sickle cell disease. Meningeal 
+signs and focal neurologic deficits may be found on examination.
+Transient cerebral arteriopathy consists of focal stenosis or seg­
+mental narrowing of the vessel wall that typically affects large vessels 
+in the anterior circulation and fluctuates on serial angiographic stud­
+ies. Strokes in transient cerebral arteriopathy usually involve the basal 
+ganglia. Pathophysiology is undetermined; association with certain 
+viral infections such as varicella and herpes has been proposed. Con­
+nective tissue disorders such as Marfan, Ehlers-­Danlos, and Loeys-­
+Dietz syndromes may have associated arteriopathies that can result in 
+ischemic stroke; patients with these disorders are also at risk of stroke 
+via arterial dissection. Arterial dissections may also occur in other­
+wise healthy children in the setting of major mechanical injuries such 
+as whiplash and penetrating injuries, or even with minor trauma like 
+neck manipulation, physical effort, or contact sports. Arteriopathies 
+are also seen in rarer genetic disorders such as adenosine deaminase 
+2 deficiency; pathogenic variants in NOTCH3 and ACTA2 have been 
+implicated in pediatric stroke.
+Cardiac Disease. Congenital heart disease is a significant 
+risk factor for childhood stroke. The strokes are typically embolic; 
+children with single-­ventricle physiology face the greatest risk, but 
+other cardiac conditions such as arrhythmias, cardiomyopathy, or 
+endocarditis are also associated with stroke. Cardiac defects involving 
+right-­to-­left shunts allow emboli originating in peripheral venous 
+circulation to bypass their filtration and removal by the pulmonary 
+vascular bed. Emboli entering the heart via venous return may be 
+shunted to the peripheral arterial circulation only to lodge in the 
+cerebrovascular tree.
+Patent foramen ovale contributes significantly to stroke in chil­
+dren. Echocardiographic evaluation of patients who have had stroke 
+reveals patent foramen ovale or evidence of right-­to-­left shunting in 
+many. Transesophageal echocardiography with agitated saline assess­
+ing for evidence of direct right-­to-­left flow is an essential component of 
+the evaluation of children with embolic stroke.
+Valvular defects can cause stroke as well. Mitral valve prolapse may 
+result in small emboli being dislodged from the abnormal valve leaflets 
+and has been estimated to underlie up to 30% of strokes in patients 
+younger than 30 years. Rheumatic valvular disease of the mitral or 
+aortic valves, once a common cause of embolic stroke, has become an 
+infrequent cause of childhood stroke due to improved diagnosis and 
+treatment of group A streptococcal disease. Infectious vegetations of 
+the mitral and aortic valves in bacterial endocarditis pose a consider­
+able risk for embolic stroke, regardless of whether the valve is native, 
+prosthetic, rheumatic, or congenitally abnormal, as these vegetations 
+may dislodge and travel distally to occlude cerebral arteries or seed the 
+adventitia of a cerebral vessel and induce thrombosis or the develop­
+ment of a mycotic aneurysm. The most common organisms found are 
+streptococci and staphylococci. Mycotic aneurysms may lie dormant 
+for some time before their rupture leads to SAH or IPH and resultant 
+neurologic signs.
+Left atrial myxoma, atrial fibrillation, nonbacterial valvular lesions, 
+and polycythemia in uncorrected cyanotic heart disease may also be 
+associated with stroke.
+Another important risk factor of stroke in children with severe 
+cardiac disease is the utilization of ventricular assist devices or 
+venoarterial ECMO. As blood is circulated with the assistance of 
+these devices, fibrin deposits may be introduced into the arterial cir­
+culation and may propagate to the cerebrovascular tree. To prevent 
+thrombosis, patients using these devices are usually administered 
+systemic anticoagulation, which may increase the risk of intracranial 
+hemorrhage.
+Prothrombotic Conditions. Several disorders of coagulation can 
+render patients at risk for embolic or thrombotic stroke (see Table 
+37.15). Adverse consequences of antiphospholipid antibodies 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+652
+SECTION 7  Neurosensory Disorders
+TABLE 37.15  Risk Factors and Causes of Stroke in Children
+Arteriopathies
+Focal or transient cerebral arteriopathy
+Craniocervical arterial dissection
+Fibromuscular dysplasia
+Moyamoya disease or syndrome
+Sickle cell arteriopathy
+Primary CNS angiitis
+HANAC syndrome
+Genetic variants (see text and Table 37.17)
+Cardiovascular Disease
+Congenital
+Aortic stenosis
+Mitral stenosis
+Ventricular septal defects
+Patent ductus arteriosus
+Patent foramen ovale
+PHACE syndrome
+Acquired
+Endocarditis
+Kawasaki disease
+Cardiomyopathy
+Atrial myxoma
+Arrhythmia
+Rheumatic heart disease
+Prosthetic heart valve
+Catheterization/surgery
+ECMO
+Hematologic Abnormalities
+Hemoglobinopathies
+Polycythemia
+Leukemia/lymphoma
+Thrombocytopenia including TTP
+Disorders of coagulation
+Protein C deficiency
+Protein S deficiency
+Antithrombin III deficiency
+Factor V (Leiden) resistance to activated protein C
+Lupus anticoagulant
+Oral hormonal contraception
+Pregnancy and the postpartum state
+Disseminated intravascular coagulation
+Paroxysmal nocturnal hemoglobinuria
+Inflammatory bowel disease
+Protein-­losing enteropathy
+Nephrotic syndrome
+L-­Asparaginase
+Prothrombin G20210A variant
+MTHFR deficiency
+Lipoprotein(a) elevation
+Antiphospholipid antibody syndrome
+PNH
+Systemic Disorders
+Meningitis
+Viral
+Bacterial
+Tuberculous
+Systemic infection
+Viremia
+Bacteremia
+Local head and neck infections, including Lemierre syndrome
+Postinfectious (including varicella and other viruses)
+Drug-­induced inflammation and vasoconstriction
+Amphetamine
+Cocaine
+Ergot alkaloids
+Autoimmune disease
+Systemic lupus erythematosus
+Juvenile idiopathic arthritis
+Takayasu arteritis
+Mixed connective tissue disease
+Polyarteritis nodosa
+Primary CNS vasculitis
+Trisomy 21
+Metabolic Diseases
+Hyperhomocysteinemia/homocystinuria/elevated homocysteine levels
+Fabry disease
+Pseudoxanthoma elasticum
+Sulfite oxidase deficiency
+Mitochondrial Disorders
+MELAS
+Leigh syndrome
+Intracerebral Vascular Processes
+Ruptured aneurysm
+Arteriovenous malformation
+Migraine headache
+Post–subarachnoid hemorrhage vasospasm
+Hereditary hemorrhagic telangiectasia
+Sturge-­Weber syndrome
+Carotid or vertebral artery dissection
+Neurofibromatosis type 1
+CADASIL
+CARASIL
+Trauma and Other External Causes
+Nonaccidental trauma
+Head and neck trauma
+Oral trauma
+Placental embolism
+Neck hyperextension (carotid dissection)
+Lollipop stroke (pharyngeal trauma)
+CADASIL, cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy; CARASIL, cerebral autosomal recessive arte­
+riopathy with subcortical infarcts and leukoencephalopathy; CNS, central nervous system; ECMO, extracorporeal membrane oxygenation; HANAC, 
+hereditary angiopathy with nephropathy aneurysms, muscle cramps; MELAS, mitochondrial encephalomyopathy, lactic acidosis, strokelike episodes; 
+MTHFR, methylenetetrahydrofolate reductase; PHACE, posterior fossa brain malformations, hemangiomas of the face, neck, and scalp, arterial 
+anomalies, coarctation of the aorta and cardiac anomalies, and eye defects; PNA, paroxysmal nocturnal hemoglobinuria; TTP, thrombotic thrombo­
+cytopenic purpura.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+653
+CHAPTER 37  Stroke
+have been identified in all age groups. Antiphospholipid antibodies, 
+including lupus anticoagulant, are polyclonal antibodies found 
+in serum that bind to both neutral and negatively charged 
+phospholipids. Lupus anticoagulant and anticardiolipin antibodies 
+were first associated with thrombotic or embolic cerebrovascular 
+events in patients with systemic lupus erythematosus (SLE). The 
+antibody prolongs the partial thromboplastin time (PTT) in  vitro 
+but acts as a procoagulant in  vivo. A common finding associated 
+with coagulation testing among children with AIS is the presence 
+of anticardiolipin antibody. The presence of these antibodies in a 
+patient who concurrently smokes cigarettes, has positive antinuclear 
+antibodies, or suffers from hyperlipidemia may impart a higher risk 
+for stroke than if the patient carries the antibody alone. The antibody’s 
+presence is indicated by a prolonged PTT and a falsely positive serum 
+Venereal Disease Research Laboratory (VDRL) result. Although 
+cerebral infarction and TIAs constitute the most frequently observed 
+neurologic manifestations related to the presence of these antibodies, 
+migraine headache, seizures, and monocular visual disturbances are 
+also associated.
+Absence of specific serum proteins that act as inhibitors of coag­
+ulation may lead to stroke. Two of these proteins, protein S and 
+protein C, have been associated with thrombotic or embolic cere­
+brovascular disease. Protein C and its cofactor protein S act as anti­
+coagulants and synergistically attenuate coagulation by deactivating 
+the activated forms of factors V and VIII. Absence of (or resistance 
+to) either of these proteins disrupts the balance of coagulation 
+toward increased spontaneous clotting and can result in stroke. 
+In addition, antithrombin III opposes the action of the activated 
+forms of factors II, IX, X, XI, and XII through the irreversible for­
+mation of inactivating complexes with these factors. Deficiencies of 
+proteins S and C as well as of antithrombin III may cause arterial 
+thrombotic or embolic stroke or venous infarction. Although their 
+deficiencies are often congenital, they may be acquired through 
+liver disease or nephrotic syndrome. Factor V Leiden, prothrombin 
+20210A, and lipoprotein A are also important factors that may con­
+tribute to the pathogenesis of AIS. A screening hematologic battery 
+of tests, including prothrombin time, PTT, and specific immuno­
+logic and functional testing for the proteins suspected of being defi­
+cient, is essential for diagnosis.
+Paroxysmal nocturnal hemoglobinuria (PNH) and thrombotic 
+thrombocytopenic purpura (TTP) predispose to stroke.
+Primary classification:
+Acute
+(choose 1 only)
+Primary classification:
+Chronic
+(choose 1 only)
+Progressive
+Arteriopathy
+Stable
+Arteriopathy
+Reversible
+Arteriopathy
+Indeterminate
+Arteriopathy
+1. Small vessel
+arteriopathy of
+childhood
+(SVA)
+2. Unilateral focal
+cerebral arteriopathy
+of childhood
+(FCA)
+3. Bilateral cerebral
+arteriopathy of
+childhood
+4. Aortic/cervical
+arteriopathy
+5. Cardioembolic
+6. Other
+7. Multifactorial
+(record multiple)
+Fig. 37.16  Childhood AIS Standardized Classification and Diagnostic 
+Evaluation (CASCADE) system for classification of childhood arterial 
+ischemic stroke. (From Bernard TJ, Manco-­Johnson MJ, Lo W, et al. 
+Towards a consensus-­based classification of childhood arterial ischemic 
+stroke. Stroke. 2012;43[2]:371–377.)
+A
+B
+Fig. 37.17  Sudden onset of right hemiparesis in a 6-­year-­old boy. A, Cerebral angiogram shows the left 
+internal carotid artery (arrow) leading to a highly arborized, telangiectatic network of vessels (arrowheads) 
+characteristic for moyamoya disease. The typical middle cerebral artery vascular tree is absent. B, Cranial 
+coronal MRI scan shows region of low signal in the middle cerebral artery territory and denotes infarction 
+(curved arrows). Flow voids in the basal ganglia (straight arrows) are radiographic manifestations of the basilar 
+collateral circulation typical of this vascular anomaly.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+654
+SECTION 7  Neurosensory Disorders
+Autoimmune Conditions. Autoimmune disorders are uncommon 
+causes of stroke in children (Table 37.16). Symptoms of abrupt onset 
+with accompanying deficits referable to the CNS have long been 
+associated with systemic lupus erythematosus. A CNS vasculitis had 
+been presumed to underlie the CNS manifestations of SLE; however, 
+an autopsy study of patients who suffered from SLE revealed a virtual 
+absence of cerebrovascular inflammation. Rather, small areas of 
+infarction relate to proliferative changes in cerebral arterioles that lead 
+to luminal occlusion. Large areas of infarction are more probably related 
+to lupus anticoagulant–derived thromboembolism or to embolism 
+from the sterile cardiac valve leaflet vegetations associated with SLE 
+(Libman-­Sacks endocarditis). Additional causes of CNS illness include 
+thrombocytopenic hemorrhage, steroid-­induced pseudotumor or 
+psychosis, and CNS infection.
+True cerebral arterial vasculitis may be an isolated disease or 
+seen in association with recognizable systemic autoimmune disor­
+ders. Isolated angiitis of the CNS may affect small, medium-­sized, or 
+large vessels. Multiple regions of infarction are often found on MRI. 
+Neuropathologic evidence of polymorphonuclear leukocyte or mono­
+cyte infiltration leading to intimal proliferation and vessel wall necro­
+sis is found. The inflammation affects blood flow and predisposes to 
+thrombosis.
+Stroke may occur in the course of polyarteritis nodosa. Involve­
+ment of the CNS is found in up to 40% of such patients. Granulomato­
+sis with polyangiitis, a necrotizing vasculitis of the upper pulmonary 
+system, rarely affects the CNS; stroke is uncommon. When the CNS 
+is affected, extension of sinus or nasal inflammation into the basilar 
+skull frequently has occurred. Takayasu arteritis, involving the aorta 
+and its principal branches, has been associated with thrombotic stroke. 
+Inflammation-­induced luminal constriction leading to thrombosis is 
+thought to cause cerebral ischemia in children. Necrotizing arteritis 
+with inflammatory infiltrate has been found in both meningeal and 
+cerebral vessels of children suffering from Henoch-­Schönlein purpura. 
+Both fixed and transient deficits may occur in this disorder.
+Metabolic and Genetic Disorders. There are rare metabolic 
+and genetic conditions associated with stroke (Table 37.17). 
+Homocystinuria, a disorder of homocysteine metabolism, can 
+cause thrombotic stroke in children. Abnormal homocysteine 
+metabolism results from one of three inheritable enzymatic defects. 
+The most striking phenotype results from deficiency of cystathionine 
+synthetase, the enzyme that facilitates the catabolism of homocysteine 
+to cystathionine leading to accumulation of homocysteine. Children 
+affected by this autosomal recessive disorder have marfanoid habitus, 
+global developmental delay, lens dislocation, and thromboembolism. 
+Thromboemboli may travel to cerebrovascular beds, causing stroke. 
+Hyperhomocysteinemia injures the vascular endothelium. The 
+denuded vessel wall then becomes a site for thrombosis. The resulting 
+thrombus may remain at its site of origin or it may embolize to a distal 
+locus. Therefore, stroke may have thrombotic or embolic characteristics. 
+Both arterial and venous infarctions may result. Some patients without 
+homocystinuria but with elevated serum homocysteine levels may be 
+at risk for stroke.
+Sulfite oxidase deficiency, another autosomal recessive disorder, 
+results in the accumulation of serum sulfite. The associated phenotype 
+may result from deficiency of either the enzyme or its associated and 
+essential pterin-­containing molybdenum cofactor. Intellectual dis­
+ability, seizures, lens displacement, and acute hemiplegia result. The 
+mechanism of the strokelike episodes has not been fully elucidated. It 
+is possible that ischemic mechanisms are not involved and that direct 
+metabolic neurotoxicity accounts for the sudden onset of deficits 
+resembling those of stroke. Sulfites and S-­sulfocysteine accumulate in 
+urine.
+Fabry disease, a rare X-­linked lipid storage disease attributable 
+to ceramide trihexosidase deficiency, results in accumulation of the 
+sphingolipid trihexoside in the kidneys, vascular endothelium, and 
+corneas. Symptoms become apparent in childhood or adolescence. 
+Angiokeratomas and painful paresthesia often constitute the first 
+symptoms. Renal failure follows. Endothelial accumulation of sphin­
+golipid in vessel walls leads to cerebrovascular occlusion that results in 
+stroke. Recurrent stroke is common.
+The manifestations of mitochondrial disorders include recur­
+rent and sometimes catastrophic stroke. The syndrome of mitochon­
+drial encephalomyopathy, lactic acidosis, and strokelike episodes 
+(MELAS) manifests in childhood and results from a pathogenic vari­
+ant in mitochondrial DNA. The most common biochemical finding is 
+a deficiency of complex I of the electron transport chain. An elevated 
+serum or cerebrospinal fluid lactate level serves as its biochemical sig­
+nature, and molecular confirmation of the diagnosis can be secured 
+from blood. Although some features of MELAS are shared with other 
+mitochondrial syndromes, hemiparesis of abrupt onset is fairly specific 
+for this syndrome. An excruciating headache resembling migraine 
+may precede the strokelike episodes. Seizures and sensorineural hear­
+ing loss are almost always present at some point in the course of the 
+illness. Neuropathologic study of brains from patients with MELAS 
+has shown cystic cavities and necrosis of cortex with relative sparing 
+of white matter.
+Other metabolic disorders have been associated with stroke in 
+childhood. Urea cycle defects, especially ornithine transcarbamylase 
+deficiency manifesting in girls, can cause stroke. Deficiency of argin­
+ase, another important enzyme of the urea cycle, has been observed in 
+association with hemiparesis and diparesis of subacute onset. Finally, 
+familial lipoprotein disorders, especially those featuring a dearth of 
+high-­density lipoprotein or an abundance of triglycerides, have been 
+associated with stroke in children. In most cases, a family history of 
+hyperlipidemia is found.
+Evaluation and Management
+Table 37.18 describes the paraclinical assessment of stroke in children. 
+The evaluation of stroke should be focused on determining the etiol­
+ogy as management depends largely on it. Stroke evaluation urgency 
+depends on the acuteness of the presentation. For any patient with 
+TABLE 37.16  Autoimmune Disorders 
+Associated with Central Nervous System 
+(CNS) Involvement
+Disorder
+CNS Manifestations
+Systemic lupus erythematosus
+Migraine headache, seizures, stroke, 
+cerebellar dysfunction, transverse 
+myelopathy, aseptic meningitis, 
+psychosis
+Mixed connective tissue disease
+Seizures, stroke, cerebellar dysfunction, 
+trigeminal neuropathy
+Polyarteritis nodosa
+Migraine headache, stroke, 
+subarachnoid hemorrhage, seizures
+Granulomatosis with polyangiitis
+Migraine headache, subarachnoid 
+hemorrhage, stroke
+Takayasu arteritis
+Seizure, stroke
+Henoch-­Schönlein purpura
+Headache, stroke, seizures, chorea
+Primary CNS vasculitis
+Headache, stroke, seizure
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+655
+CHAPTER 37  Stroke
+Lipid and Other Disorders with Atherosclerosis
+Hereditary dyslipoproteinemias
+Familial hypercholesterolemia
+Familial hypertriglyceridemia
+Hyperlipoproteinemia (types III and IV)
+Familial hypoalphalipoproteinemia
+Tangier disease
+Progeria (de Lange, Deckel, Bloom, Cockayne syndromes)
+Arteriopathy, Angiopathy, Vasculitis
+Ehlers-­Danlos (type IV) syndrome
+Pseudoxanthoma elasticum
+Menkes syndrome
+Marfan syndrome
+Rendu-­Osler-­Weber syndrome (hereditary hemorrhagic telangiectasia)
+Sturge-­Weber syndrome
+Neurofibromatosis 1
+Tuberous sclerosis complex
+Polycystic kidney disease (autosomal dominant type 1, 2)
+Fibromuscular dysplasia
+von Hippel–Lindau syndrome
+Bannayan-­Zonana syndrome
+Moyamoya disease (ACTA2, GUCY1A3, RNF2B, unknown)
+Fabry disease
+CARASIL (HTRA1)
+CADASIL (NOTCH3)
+RVCL (TREX-­1)
+DADA2 (CECR1)
+COL4A1/A2 angiopathies including:
+Hereditary angiopathy nephropathy and cramps (HANAC), and
+Autosomal dominant porencephaly with infantile hemiplegia (POREN1)
+FOXC1/PITX2: Digenetic inheritance
+CARASAL (CTSA)
+HCHWA-­Dutch type
+HCHWA-­Icelandic type
+FAP
+ADA2 deficiency
+ACTA2 gene variant
+Hematologic Disorders
+Antithrombin deficiency
+Protein C and S deficiency
+Thrombomodulin deficiency
+Activated protein C resistance
+Factor V Leiden variant
+Prothrombin G20210A variant
+Sickle cell disease
+Hematologic Disorders—cont’d
+Factor V, VII, VIII, IX, X, XI, XII, XIII deficiency
+Hemoglobinopathies (hemoglobin C or S disorders)
+Prekallikrein deficiency
+C2 deficiency
+β-­thalassemia
+Disorders of fibrinogen
+Afibrinogenemia
+Hypofibrinogenemia
+Dysfibrinogenemia
+Elevated thrombin-­activatable fibrinolysis inhibitor
+Elevated factor VIII
+Elevated factor IX
+Elevated factor XI
+Disorders of the fibrinolytic system
+Hypoplasminogenemia
+Tissue plasminogen activator defects
+MTHFR gene variant
+Heparin cofactor II deficiency
+Hereditary platelet defects
+Cardiac Disorders
+Familial atrial myxomas
+Rhabdomyomas (tuberous sclerosis)
+Mitral valve prolapse
+Cardiac papillary fibroelastoma
+Hereditary cardiac conduction disorders
+Hereditary cardiomyopathies
+Inborn Errors of Metabolism
+Mitochondrial abnormalities
+MELAS
+Leigh disease
+Organic acidemia
+Methylmalonic acidemia
+Propionic acidemia
+Isovaleric acidemia
+Homocystinuria
+Glutaric aciduria type II
+Sulfite oxidase deficiency
+11β-­hydroxylase deficiency, 11β-­ketoreductase deficiency, 17α-­hydroxylase 
+deficiency
+3-­Methylcrotonyl-­CoA carboxylase 3-­hydroxy-­3-­methylglutaryl-­CoA lyase deficiency
+Other Disorders
+CCM1 (KRIT1)
+CCM2 (CCM2)
+CCM3 (PDCD10)
+ADPKD, autosomal dominant polycystic kidney disease; CADASIL, cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoen­
+cephalopathy; CARASAL, cathepsin A–related arteriopathy with strokes and leukoencephalopathy; CARASIL, cerebral autosomal recessive arteriop­
+athy with subcortical infarcts and leukoencephalopathy; CCM, cerebral cavernous malformation; DADA2, deficiency of adenosine deaminase 2; FAP, 
+familial amyloid polyneuropathy; HCHWA, hereditary cerebral hemorrhage with amyloidosis; MELAS, mitochondrial encephalopathy, lactic acidosis, 
+and strokelike episodes; RVCL, retinal vasculopathy with deficiency of adenosine deaminase 2.
+TABLE 37.17  Genetic Associations with Thrombotic, Hemorrhagic, or Vascular Stroke
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+656
+SECTION 7  Neurosensory Disorders
+acute neurologic deficit in which stroke is suspected, urgent neuro­
+imaging must follow, as well as laboratory data, pertinent history, and 
+directed examination. Patients should be screened for complications of 
+stroke, which include seizures, cerebral edema, hemorrhagic conver­
+sion, and stroke recurrence. Neuropsychological testing and rehabilita­
+tion strategies must be instituted.
+Hyperacute therapies like thrombolysis and thrombectomy, 
+which are directed at revascularizing the brain and preserving the 
+ischemic penumbra, or area of viable tissue around the periphery 
+of an infarct, have revolutionized the care of adolescents and adults 
+with stroke. The evidentiary support for the use of these therapies in 
+pediatrics is insufficient, largely because of the difficulty of studying 
+hyperacute therapies in pediatric stroke. Neuroprotective measures, 
+which include permissive hypertension and reduction of metabolic 
+demand, remain the mainstay of treatment in most pediatric stroke 
+cases.
+Strategies to prevent primary stroke or stroke recurrence vary 
+depending on the specific etiology. Patients with sickle cell disease 
+related to hemoglobin SS or hemoglobin S-­β0-­thalassemia genotypes 
+are at the highest risk for stroke, compared to other sickle cell disease 
+genotypes, and should be screened on a recurring basis for stroke risk 
+beginning in early childhood. These assessments consist of determin­
+ing the mean flow velocity in the large intracranial vessels via trans­
+cranial Doppler ultrasonography; higher velocities are suggestive of 
+vasculopathy and may portend a higher stroke risk. Those at increased 
+risk should be considered for chronic transfusion therapy to maintain 
+a lower percentage of hemoglobin S; those unable to tolerate chronic 
+transfusion may be considered for hydroxyurea therapy. These patients 
+should also have at least one MRI during the school-­aged years to 
+screen for silent cerebral infarcts. Those who have sustained strokes 
+should also be offered chronic transfusion therapy; alternative thera­
+pies include hydroxyurea or even hematopoietic stem cell transplan­
+tation, depending on disease severity, recurrence risk, and tolerance of 
+chronic transfusion.
+Anticoagulation is commonly used in cardioembolic stroke when 
+the risk for further embolism propagation is present; if due to an 
+abnormal heart rhythm, rate control is established either medically 
+or via ablation procedures. Strokes due to moyamoya disease and 
+syndrome may be prevented by revascularization through indirect 
+and/or direct bypass surgery. In some cases of arteriopathy, anti­
+thrombotic therapies may be considered. Treatment of infectious 
+endocarditis consists of parenteral anti-­infectives and, if needed, 
+valve replacement or repair. Lastly, in select cases, closure of a patent 
+foramen ovale may be performed to decrease the risk of subsequent 
+stroke.
+Outcome
+In-­hospital mortality from pediatric stroke is approximately 3%. 
+Almost half of children with AIS have neurologic deficits, with the 
+majority having hemiparesis. Cognitive impairments, as well as impair­
+ments of higher cortical and executive functioning, such as working 
+memory, processing speed, visual-­spatial and visual-­constructional 
+TABLE 37.18  Radiologic, Laboratory, and Cardiovascular Assessment of Stroke in Children
+Radiologic Assessment
+Rapid Detection of Intracranial Blood
+Cranial CT
+Cranial MRI (also detects extravascular blood but is not as rapidly obtained as 
+cranial CT images)
+Detection of Brain Parenchymal Changes Related to Stroke
+Cranial MRI, including diffusion-­weighted imaging
+Cranial CT (reveals changes later in course than MRI)
+Detection of Abnormal Vascular Structure
+Percutaneous cerebral angiogram (provides the most complete and accurate 
+demonstration of extracranial and intracranial vasculature)
+Cranial MRA
+Laboratory Assessment
+Disturbance of RBC, WBC, or Platelet Number
+Hematocrit
+Platelet count
+WBC count with differential
+Disturbance of Coagulation
+PT, PTT
+Antithrombin III level
+Protein C level, protein S level; resistance to protein C assay
+Lupus anticoagulant detection, anticardiolipin antibody, antiphospholipid antibody
+MTHFR gene variant, prothrombin 20210A gene variant analysis
+Metabolic Disturbances
+Serum electrolytes, glucose
+Serum and urine toxicology screen
+Serum amino acids*
+Urine organic acids*
+Acylcarnitine profile*
+GDF-­15*
+Serum/CSF lactate and pyruvate*
+Disturbance of Hemoglobin
+Hemoglobin concentration
+Hemoglobin electrophoresis
+Inflammatory Disturbances
+ESR
+ANA
+CSF studies: glucose, protein, cell counts, special stains, cultures
+Serum triglycerides
+Serum cholesterol; if high, obtain fasting HDL
+Gene panel or whole exome
+Cardiovascular Assessment
+ECG
+Standard and transesophageal echocardiogram
+*Consider if marked or persistent abnormalities in glucose homeostasis or acid-­base balance.
+ANA, antinuclear antibodies; CSF, cerebrospinal fluid; GDF-­15, growth differentiation factor-­15; HDL, high-­density lipoproteins; MRA, magnetic 
+resonance angiography; MTHFR, methylenetetrahydrofolate reductase; PT, prothrombin time; PTT, partial thromboplastin time; RBC, red blood cell; 
+WBC, white blood cell.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+657
+CHAPTER 37  Stroke
+skills, inhibitory control, and problem solving, may also occur and 
+should be evaluated by neuropsychological testing, so as to allow for 
+identification of specific deficits and the formulation of customized 
+rehabilitation and school accommodation plans. Up to 30% of patients 
+with childhood AIS receive some form of special education in the class­
+room, and up to 60% have emotional or behavioral difficulties.
+Hemorrhagic Stroke in Children
+Hemorrhagic stroke may occur from disordered coagulation, throm­
+bocytopenia, vascular lesions, or conversion of ischemic or venous 
+stroke (Table 37.19). Symptoms are similar to ischemic stroke though 
+may also include signs of increased intracranial pressure or even 
+impending cerebral herniation. Evaluation and management depend 
+on etiology. If hemorrhagic stroke is suspected, emergent noncontrast 
+CTOH should be obtained. Any coagulopathy or thrombocytope­
+nia should be promptly corrected. If there is concern for a vascular 
+lesion, such as arterial dissection or an aneurysm, CTA or conventional 
+angiography should be performed; if such a lesion is present, consul­
+tation with neurovascular specialists can determine the need for and 
+urgency of intervention. Occasionally patients with large intracranial 
+bleeding must undergo surgical evacuation of a hematoma to control 
+intracranial hypertension and prevent mass effect from damaging adja­
+cent brain structures. In the case of hemorrhagic transformation of an 
+ischemic or venous stroke, neuroprotection must be maximized with 
+normalization of physiologic parameters, control of hypertension, and 
+reduction of brain metabolism. Outcome largely depends on the vol­
+ume of hemorrhage and the degree of brain injury.
+Coagulopathies
+Coagulopathies like hemophilia (A and B) are X-­linked disorders 
+that may result in intracranial bleeding. Bleeding may occur in either 
+intraparenchymal or subarachnoid locations. Hemophilia A arises 
+from factor VIII deficiency. Patients with this disorder may experience 
+intracranial bleeding in association with head trauma. Spontaneous 
+intracranial bleeding not associated with head trauma also occurs. 
+The risk of spontaneous bleeding rises with the severity of factor 
+VIII deficiency. Hemophilia B derives from a deficiency of factor IX. 
+Intracranial bleeding is seen less frequently among these patients than 
+among patients with hemophilia A, though hemophilia B is encoun­
+tered much less frequently than hemophilia A, and this difference may 
+account for the less frequent observation of intracranial bleeding. Clin­
+ical symptoms depend on the intracranial location of the hemorrhage. 
+If the bleeding occurs in the subarachnoid space, symptoms of severe 
+headache, nuchal rigidity, and meningismus are found. Mental status 
+is frequently altered. If bleeding occurs within brain parenchyma, focal 
+features, including hemiparesis, may be found.
+Thrombocytopenia
+Severe thrombocytopenia rarely leads to cerebral hemorrhage, espe­
+cially if the cause is idiopathic (immune) thrombocytopenic purpura. 
+Thrombocytopenia caused by bone marrow failure (e.g., drug-­induced 
+suppression, aplastic anemia, malignancy) and TTP pose a greater risk. 
+Significant risk of intracranial hemorrhage is thought not to occur until 
+the platelet count is <20,000/mm3. Small petechial hemorrhages into 
+white matter are thought to be more common than are large paren­
+chymal hemorrhages. Causes of thrombocytopenia include idiopathic 
+immune thrombocytopenic purpura, TTP, hemolytic uremic syn­
+drome, infection, and malignancy (replacement of bone marrow or 
+drug-­induced suppression). The features of these underlying disorders 
+tend to determine the symptomatic presentation beyond intracranial 
+hemorrhage and can assist in establishing the cause (see Chapter 51).
+Vascular Malformations
+Vascular malformations may predispose children to hemorrhagic 
+stroke. Arteriovenous malformation (AVM) of the brain is the most 
+common cause of intracranial hemorrhage in preadolescent children. 
+The malformation represents a developmental anomaly that manifests 
+with hemorrhage much more frequently in children than in adults; bio­
+logical males are affected more frequently than biological females. The 
+AVM consists of dilated vascular channels, some of which reveal the 
+highly muscularized walls of arterioles. Gliotic neural tissue resides in 
+and among the vascular branches of the malformation. The most fre­
+quent presenting events associated with AVM in children are seizures 
+and hemorrhage. Most AVMs reside in the cerebral hemispheres; 10% 
+arise in the posterior fossa.
+The clinical features of AVM hemorrhage consist of those found in 
+IPH. Focal features depend on the area of the brain in which the bleed­
+ing has occurred. A higher mortality rate has been observed in children 
+than in adults harboring hemorrhagic AVMs. The risk of hemorrhage 
+from an unruptured AVM is approximately 3% per year. MRI allows for 
+better identification and localization of the malformation (Fig. 37.18).
+Intracranial aneurysms constitute the most common cause of 
+intracranial bleeding in all patients younger than 20 years and are 
+more frequent in biological males. The most common site of aneurys­
+mal bleeding in children is along the intracranial portion of the inter­
+nal carotid artery. The vertebral and basilar arteries are other common 
+sites of intracranial aneurysm in children. In addition, intracranial 
+aneurysms discovered in children tend to be larger than those found 
+in adults. Although most aneurysms constitute vascular developmental 
+anomalies, other causes exist, including mycotic aneurysms associated 
+with bacterial endocarditis (Fig. 37.19), as well as acquired cerebral 
+artery aneurysms in children infected with HIV. Intracranial aneu­
+rysms are found with increased frequency among patients suffering 
+from polycystic renal disease, those with aortic coarctation, and those 
+with Ehlers-­Danlos syndrome.
+Affected patients are usually studied with angiography after aneu­
+rysmal bleeding. Patients should be closely observed for development 
+of hydrocephalus and increased intracranial pressure. Aneurysmal 
+bleeding resulting in significant SAH can precipitate cerebral vaso­
+spasm. Vasospasm, in turn, can cause a secondary cerebral infarction. 
+Vasospasm occurs most commonly 7–10 days after the aneurysmal 
+bleeding.
+The syndrome of posterior fossa brain malformations; heman­
+giomas of the face, neck, and scalp; arterial anomalies; coarctation 
+of the aorta and cardiac anomalies; and eye defects (PHACE) is a 
+TABLE 37.19  Prevalence of the Causes of 
+Hemorrhagic Stroke in Children
+Etiology
+% of Cases
+Vascular malformations
+54
+  AVM
+30
+  Cavernous hemangioma
+12
+  Aneurysm
+10
+  Venous malformation
+0.5
+SAH
+2
+Medical etiologies
+9
+Brain tumors
+2.5
+Trauma/dissection
+1
+Undetermined
+33
+AVM, arteriovenous malformations; SAH, subarachnoid hemorrhage.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+658
+SECTION 7  Neurosensory Disorders
+constellation of disorders. CNS malformations affect the posterior 
+fossa and include Dandy-­Walker malformation, arachnoid cysts, cer­
+ebellar hypoplasia, and enlarged cisterna magna. Vascular anomalies 
+include brachiocephalic artery and aortic arch anomalies (e.g., coarcta­
+tion of aorta), cerebrovascular arterial hypoplasia, aneurysms, stenosis 
+and aberrancies, and progressive occlusive arterial disease leading to 
+stroke.
+Venous Stroke in Children
+Venous stroke occurs when a thrombus obstructs the cerebral venous 
+circulation and leads to an increase in the hydrostatic pressure of the 
+veins and capillaries proximal to the thrombus. Redistribution of blood 
+flow through the venous system allows for some degree of compensation, 
+but if the hydrostatic pressure overcomes this compensatory capacity, 
+venous stroke may occur. The annual incidence of CSVT in children 
+is estimated at seven cases per million and more often the superficial 
+sinuses are involved. The clinical manifestations depend on the area of 
+the brain that has been injured; prior to stroke, antecedent symptoms 
+include headache or blurry vision from papilledema. Due to changes 
+in pressure dissipation and the blood-­brain barrier, venous strokes may 
+turn into hemorrhagic strokes. Venous system thrombi may also obstruct 
+cerebrospinal flow and thus cause intracranial hypertension.
+Risk Factors
+The etiology for CSVT in children is often multifactorial. The most 
+common risk factor for CSVT is head and neck infections such as oti­
+tis media, mastoiditis, sinusitis, or Lemierre syndrome (see Chapter 
+48). Other risk factors include systemic illnesses such as liver disease, 
+Fig. 37.18  Cranial MRI scan of a 6-­year-­old girl with recurrent headache. A, Axial view demonstrates flow 
+voids deep in the left hemisphere near the lateral ventricle (arrowheads), consistent with arteriovenous mal­
+formation. B, Coronal view through parietal lobes also demonstrates numerous flow voids (arrowheads) indic­
+ative of arteriovenous malformation.
+A
+B
+C
+Fig. 37.19  Mycotic cerebral aneurysm hemorrhage. A, A cranial CT scan reveals a hyperdense area in the left 
+temporal lobe (arrowheads) representing intraparenchymal hemorrhage. B, Cerebral angiography in a lateral 
+view shows a lobulated structural abnormality representing the mycotic aneurysm, most probably residing 
+in the middle cerebral artery tree (arrows). C, An anteroposterior angiographic view confirms the location of 
+the aneurysm in the middle cerebral artery (straight arrows) located laterally rather than in the more medial 
+anterior cerebral artery (curved arrows). The internal carotid artery (open arrows) gives rise to both the anterior 
+and the middle cerebral arteries.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+659
+CHAPTER 37  Stroke
+nephrotic syndrome, SLE, malignancy, head trauma, or neurosurgery. 
+Rarely, CSVT occurs as a complication of iron-­deficiency anemia, β-­
+thalassemia, and sickle cell disease. Thrombophilia plays an unclear 
+role in pediatric CSVT. The association of factor V Leiden and pro­
+thrombin G20210A polymorphisms appear to have a weaker role in 
+pediatric CSVT than in adult CSVT. Conversely, dehydration is a big­
+ger risk factor for CSVT in children than it is in adults. Often several 
+risk factors are present.
+Evaluation and Management
+Emergent neuroimaging with a CT scan and corresponding CT 
+venogram or a brain MRI with a corresponding magnetic resonance 
+venogram should be obtained in instances of suspected CSVT. Once 
+venous stroke has been diagnosed, concomitant abnormalities, such 
+as dehydration or infection, must be corrected. High-­quality evi­
+dence for the role of anticoagulation in children with CSVT is lack­
+ing though may be considered, as may endovascular treatment for 
+patients with severe presentations and rapidly deteriorating neuro­
+logic function despite anticoagulation. Children should undergo 
+evaluation for CSVT etiology, which should include prothrombotic 
+assessment. If initiated, the duration of anticoagulation is usually 3–6 
+months for children, but if there is an inherent prothrombotic risk it 
+may be continued for longer.
+Outcome
+Mortality for children with CSVT is as high as 10%; recanalization 
+rates approach 70%. Recurrence rate in children is as high as 20%. 
+Functional outcomes vary depending on the region of the brain that 
+has suffered infarction. A peculiar characteristic of venous stroke is 
+that vasogenic edema may occur to a different magnitude than does 
+cytotoxic edema; as such, brain tissue damage may be less severe and 
+deficits may be reversible at higher rates than in arterial stroke. Suc­
+cessful recanalization decreases the risk of chronic headache and intra­
+cranial hypertension.
+STROKE IN ADOLESCENTS
+The causes of adolescent stroke include those discussed for preadoles­
+cent children though also include causes typically seen in adults as well 
+as other entities not commonly encountered in neonates or preadoles­
+cent children. Determination of stroke mechanism—embolic, throm­
+botic, or hemorrhagic—and whether it is arterial or venous remains 
+important. The management of adolescent stroke depends on etiol­
+ogy; for example, adolescents with cardioembolic strokes may benefit 
+from hyperacute therapies like tissue plasminogen activator and/or 
+thrombectomy.
+Fibromuscular Dysplasia
+Fibromuscular dysplasia involves arteries throughout the body. First 
+described in renal arteries, the pathologic features of fibromuscular 
+dysplasia have been found in carotid, vertebral, and intracranial arter­
+ies. Fibromuscular dysplasia involves irregularly spaced focal zones of 
+fibrous and muscular hyperplasia of the media, disruption of the elastic 
+lamina, and eventration of the media. The constricted regions of vascu­
+lar fibrosis alternate with regions of luminal dilation to create the char­
+acteristic beaded appearance on angiography. Fibromuscular dysplasia 
+is more common in primary school-­aged biological females and has 
+been found in adolescents. Findings vary by the site of dysplasia: If the 
+carotid arteries are involved, a bruit may be heard on auscultation; if 
+the renal arteries are affected, hypertension may be present. Neurologic 
+symptoms signifying cerebrovascular involvement most commonly 
+consist of TIAs and mild strokes.
+Oral Contraception, Pregnancy, and the Puerperium
+Oral hormonal contraceptives have been associated with a slight 
+increase in stroke risk in young women; comorbid procoagulant dis­
+orders, migraine headache history, and tobacco use increase this risk 
+further. Pregnancy and the postpartum period are states of hypercoag­
+ulability and increased venous stasis, both of which can result in CSVT 
+and subsequent venous stroke. Excessive maternal blood loss during 
+or shortly after delivery can result in hypoperfusion of the pituitary 
+gland with resultant hypopituitarism, a condition termed Sheehan 
+syndrome. Finally, though rare, peripartum cardiomyopathy, postpar­
+tum cerebral angiopathy, amniotic fluid embolism, and hypertensive 
+disorders of pregnancy may place patients at risk for strokes.
+Illicit Substance Use
+Several illicit substances such as cocaine, ecstasy, and lysergic acid 
+diethylamide have been associated with stroke. Cocaine has been asso­
+ciated with both ischemic and hemorrhagic stroke. The probability of 
+hemorrhagic stroke is higher in cocaine users with occult intracranial 
+aneurysms or AVMs. Irrespective of the method of cocaine adminis­
+tration, SAH may occur, as cocaine produces tachycardia, hyperten­
+sion, and vasoconstriction. The resultant sudden rise in systemic blood 
+pressure is thought to precipitate SAH. Ischemic lesions have also 
+been found, though intracranial hemorrhage appears to occur more 
+commonly than ischemic infarction. Amphetamines can also induce 
+vasospasm, cardiac arrhythmias, and cardiomyopathy and accelerate 
+atherosclerosis. Drugs injected intravenously place adolescents at risk 
+for embolism or endocarditis.
+Modifiable Risk Factors
+Adolescents and young adults with traditional cerebrovascular disease 
+risk factors (hypertension, diabetes, smoking, obesity, hyperlipidemia) 
+are at risk for stroke.
+CAUSES OF STROKE UNRELATED TO AGE
+Pharyngeal Infection
+Pharyngeal infections have been associated with stroke caused by 
+thrombotic occlusion of the carotid arteries in their cervical course. 
+In childhood, stroke resulting from carotid occlusion more commonly 
+occurs in the intracranial segment of the carotid artery. Infections of 
+the cervical region such as tonsillitis, pharyngitis, cervical lympha­
+denitis, necrotizing fasciitis, and Lemierre syndrome (see Chapter 48) 
+have been found in children experiencing acute hemiplegia. In these 
+instances, angiography has shown occlusion of the internal carotid 
+artery located in its cervical segment. Neuroimaging has demonstrated 
+ischemic infarction of the cortical region served by the middle cerebral 
+artery, which arises from the carotid circulation. It is speculated that 
+the soft tissue infection leads to an inflammatory arteritis. Vessel wall 
+inflammation and direct pressure on the artery then lead to intravas­
+cular thrombosis and occlusion. Neurologic symptoms are noted in a 
+patient with evidence of infection: fever, lethargy, sore throat or neck, 
+difficulty swallowing, or cervical lymphadenopathy.
+Head and Neck Trauma
+Head and neck trauma is an important cause of stroke in children. 
+Neurologic symptoms may be delayed more than 24 hours in their 
+appearance in relation to the time of the inciting trauma. Stroke caused 
+by carotid artery injury has been well documented. Most often, these 
+cerebrovascular events occur after head and neck trauma sustained in 
+motor vehicle accidents, bicycle accidents, fights, or falls. Hemiparesis 
+is a common symptom at presentation if the cause resides in the carotid 
+artery. Carotid angiography reveals internal carotid artery occlusion. 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+660
+SECTION 7  Neurosensory Disorders
+The site of occlusion most often exists at the level of the carotid bifurca­
+tion. Pathologically, an intimal tear is found with attendant thrombus 
+blocking the arterial lumen. In some cases, arterial dissection is found.
+Vertebral artery injury from trauma may cause stroke in children. 
+Traction injuries of the neck appear to cause vertebral artery injury. The 
+vertebral artery is most vulnerable to traumatic injury at its atlantoax­
+ial portion. The resultant strokes occur in the vertebrobasilar portion 
+of the cerebral circulation. Symptoms are referrable to the structures 
+receiving blood from this system: brainstem, cerebellum, occipital 
+lobes, and temporal lobes. Clinical symptoms of vertebrobasilar stroke 
+include difficulty swallowing, ataxia, facial weakness, tinnitus, vertigo, 
+anisocoria, extraocular movement palsies, dysmetria, cortical blind­
+ness, and mental status changes. Because both the long sensory and 
+the motor tracts course through the brainstem, symptoms of general 
+sensorimotor impairment may be found. Vertebral artery injury in 
+children has been reported in the setting of athletic endeavor or auto­
+mobile accidents. The resultant vertebrobasilar strokes are caused by 
+thrombosis or vertebral artery dissection.
+Migraine Headache
+Stroke may occur in the setting of migraine headache. The occurrence 
+of focal motor deficits during a migraine headache denotes complicated 
+migraine (see Chapter 34). Acute hemiparesis has been documented 
+during these episodes and is believed to reflect the involvement of the 
+cerebral circulation derived from the carotid artery. Symptoms such as 
+ataxia, cortical blindness, and cranial nerve dysfunction are correlated 
+with vertebrobasilar circulation involvement. Focal symptoms may be 
+fixed or may occur as TIAs.
+Angiographic studies on patients with focal deficits consistent with 
+stroke in the setting of migraine headache reveal vasoconstriction of 
+vessels in either the vertebrobasilar or the carotid circulations. The ana­
+tomic position of the constricted vessels correlated with the location of 
+the observed deficits. Ischemia provoked by vasoconstriction during 
+prolonged migraine has been hypothesized as the mechanism of stroke 
+in these patients.
+   	 S U MMA RY  A N D  R E D  F L A G S
+Acute hemiplegia most frequently represents stroke. Mimics of stroke 
+should be considered, though if clinical suspicion of stroke remains, 
+urgent neuroimaging must be performed to further categorize the 
+type of stroke, as acute management largely depends on this catego­
+rization. Following stabilization and the initiation of neuroprotective 
+strategies, contributing factors should be determined so as to discern 
+the risk of recurrence and to initiate any indicated prophylactic mea­
+sures. Stroke complications include seizures, hemorrhagic transfor­
+mation of ischemic and venous stroke, intracranial hypertension, and 
+long-­lasting functional and cognitive deficits. Rehabilitation referrals, 
+including neuropsychological evaluation, should be initiated promptly. 
+The evaluation of remote stroke is similar though does not necessarily 
+require the same degree of urgency: obtaining neuroimaging, assess­
+ing the type of stroke, discerning risk factors and etiology when able 
+to while aiming to prevent stroke recurrence, preventing and treating 
+complications, and optimizing maximal potential for recovery through 
+rehabilitation strategies.
+Red flags include status epilepticus, signs of increased intracranial 
+pressure, coma, severe acute (worst ever) headache, nuchal rigidity, 
+extracranial sites of bleeding, fever, and a family or personal history of 
+disorders predisposing to stroke.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+660.e1
+BIBLIOGRAPHY
+Stroke (General)
+Bentham JR, Pollard AJ, Milford CA, et al. Cerebral infarct and meningitis 
+secondary to Lemierre’s syndrome. Pediatr Neurol. 2004;30(4):281–283.
+Bernard TJ, Rivkin MJ, Scholz K, et al. Emergence of the primary pediatric 
+stroke center: impact of the Thrombolysis in Pediatric Stroke trial. Stroke. 
+2014;45:2018–2023.
+Beuker C, Schmidt A, Strunk D, et al. Primary angiitis of the central nervous 
+system: diagnosis and treatment. Ther Adv Neurol Disord. 2018;11:1–16.
+Bodey C, Goddard T, Patankar T, et al. Experience of mechanical 
+thrombectomy for paediatric arterial ischaemic stroke. Eur J Paediatr 
+Neurol. 2014;18:730–735.
+Boelman C, Shroff M, Yau I, et al. Antithrombotic therapy for secondary stroke 
+prevention in bacterial meningitis in children. J Pediatr. 2014;165:799–806.
+Goeggel Simonetti B, Cavelti A, Arnold M, et al. Long-­term outcome after 
+ischemic stroke in children and young adults. Neurology. 2015;84:1941–1947.
+Gumer LB, Del Vecchio M, Aronoff S. Strokes in children: a systematic review. 
+Pediatr Emerg Care. 2014;30:660–664.
+Gunny RS, Lin D. Imaging of perinatal stroke. Magn Reson Imaging Clin N 
+Am. 2012;20:1–33.
+Hand PJ, Kwan J, Lindley RI, et al. Distinguishing between stroke and mimic at 
+the bedside: the brain attack study. Stroke. 2006;37:769–775.
+Ichord RN, Bastian R, Abraham L, et al. Interrater reliability of the Pediatric 
+National Institutes of Health Stroke Scale (PedNIHSS) in a multicenter 
+study. Stroke. 2011;42(3):613–617.
+Kirton A, deVeber G. Paediatric stroke: pressing issues and promising 
+directions. Lancet Neurol. 2015;14:92–102.
+Kirton A, Shroff M, Pontigon AM, et al. Risk factors and presentations of 
+periventricular venous infarction vs arterial presumed perinatal ischemic 
+stroke. Arch Neurol. 2010;67:842–848.
+Lanni G, Catalucci A, Conti L, et al. Pediatric stroke: clinical findings and 
+radiological approach. Stroke Res Treat. 2011;2011:172168.
+Lo W, Gordon A, Hajek C, et al. Social competence following neonatal and 
+childhood stroke. Int J Stroke. 2014;9:1037–1044.
+Lynch J, Hirtz DG, DeVeber G, et al. Report of the National Institute of 
+Neurological Disorders and Stroke workshop on perinatal and childhood 
+stroke. Pediatrics. 2002;109:116–123.
+Mackay MT, Chua ZK, Lee M, et al. Stroke and non-­stroke brain attacks in 
+children. Neurology. 2014;82:1434–1440.
+Mallick AA, Ganesan V, Kirkham FJ, et al. Childhood arterial ischaemic stroke 
+incidence, presenting features, and risk factors: a prospective population-­
+based study. Lancet Neurol. 2014;13:35–43.
+Meschia JF, Worrall BB, Rich SS. Genetic susceptibility to ischemic stroke. Nat 
+Rev Neurol. 2014;7(7):369–378.
+Mittal SO, ThatiGanganna S, Kuhns B, et al. Acute ischemic stroke in pediatric 
+patients. Stroke. 2015;46:e32–e34.
+Moharir M, Deveber G. Pediatric arterial ischemic stroke. Continuum. 
+2014;20:370–386.
+Monagle P, Chan AK, Goldenberg NA, et al. Antithrombotic therapy 
+in neonates and children: antithrombotic therapy and prevention of 
+thrombosis. 9th ed. American College of Chest Physicians evidence-­based 
+clinical practice guidelines. Chest. 2012;141:e737S–e801S.
+Moraitis E, Ganesan V. Childhood infections and trauma as risk factors for 
+stroke. Curr Cardiol Rep. 2014;16:527.
+Razek A, Alvarez H, Bagg S, et al. Imaging spectrum of CNS vasculitis. 
+Radiographics. 2014;34:873–894.
+Rivkin MJ, deVeber G, Ichord RN, et al. Thrombolysis in pediatric stroke 
+study. Stroke. 2015;46:880–885.
+Rutten-­Jacobs LCA, Rost NS. Emerging insights from the genetics of cerebral 
+small-­vessel disease. Ann N Y Acad Sci. 2020;1471:5–17.
+Shellhaas RA, Smith SE, O’Tool E, et al. Mimics of childhood stroke: 
+characteristics of a prospective cohort. Pediatrics. 2006;118:704–709.
+Tibussek D, Sinclair A, Yau I, et al. Late-­onset group B streptococcal meningitis 
+has cerebrovascular complications. J Pediatr. 2015;166:1187. e1–1192.e1.
+Wintermark M, Hills NK, deVeber GA, et al. Arteriopathy diagnosis in 
+childhood arterial ischemic stroke: results of the vascular effects of 
+infection in pediatric stroke study. Stroke. 2014;45:3597–3605.
+Yock-­Corrales A, Mackay MT, Mosley I, et al. Acute childhood arterial 
+ischemic and hemorrhagic stroke in the emergency department. Ann 
+Emerg Med. 2011;58:156–163.
+Zanaty M, Chalouhi N, Starke RM, et al. Endovascular stroke intervention in 
+the very young. Clin Neurol Neurosurg. 2014;127:15–18.
+Stroke (Neonate)
+Grunt S, Mazenauer L, Buerki SE, et al. Incidence and outcomes of symptomatic 
+neonatal arterial ischemic stroke. Pediatrics. 2015;135:e1220–e1228.
+Lehman LL, Rivkin MJ. Perinatal arterial ischemic stroke: presentation, risk 
+factors, evaluation, and outcome. Pediatr Neurol. 2014;51:760–768.
+Neonatal Cerebral Venous Thrombosis
+Ichord RN, Benedict SL, Chan AK, et al. Paediatric cerebral sinovenous 
+thrombosis: findings of the International Paediatric Stroke Study. Arch Dis 
+Child. 2015;100:174–179.
+Wu YW, Miller SP, Chin K, et al. Multiple risk factors in neonatal sinovenous 
+thrombosis. Neurology. 2002;59:438.
+Intracranial Hemorrhage in the Neonate
+Bruno CJ, Beslow LA, Witmer CM, et al. Haemorrhagic stroke in term and late 
+preterm neonates. Arch Dis Child Fetal Neonatal Ed. 2014;99:F48–F53.
+Children Aged 1-­13 Years: Congenital Heart Disease
+Fox CK, Sidney S, Fullerton HJ. Community-­based case-­control study of 
+childhood stroke risk associated with congenital heart disease. Stroke. 
+2015;46:336–340.
+Sinclair AJ, Fox CK, Ichord RN, et al. Stroke in children with cardiac disease: 
+report from the International Pediatric Stroke Study Group Symposium. 
+Pediatr Neurol. 2015;52:5–15.
+Children Aged 1-­13 Years: Procoagulopathies
+Torres VM, Saddi VA. Systematic review: hereditary thrombophilia associated 
+to pediatric strokes and cerebral palsy. J Pediatr (Rio J). 2015;91:22–29.
+Children Aged 1-­13 Years: Autoimmune Disorders
+Rodrigues M, Amaral D, Barreira JL, et al. Childhood polyarteritis nodosa 
+presenting as stroke and arterial hypertension. BMJ Case Rep. 2014;pii: 
+bcr2014207866.
+Children Aged 1-­13 Years: Metabolic and Genetic Disorders 
+Causing Stroke
+Doig D, Davagnanam I, Taranath A, et al. Monogenetic stroke syndromes in 
+children and young adults. Am J Roentgenol. 2020;215(3):695–705.
+Koga Y, Povalko N, Nishioka J, et al. MELAS and L-­arginine therapy: 
+pathophysiology of stroke-­like episodes. Ann N Y Acad Sci. 2010;1201:104–110.
+Tan RYY, Markus HS. Monogenic causes of stroke: now and the future. J 
+Neurol. 2015;262(12):2601–2616.
+Sickle Cell Disease
+DeBaun MR, Gordon M, McKinstry RC, et al. Controlled trial of transfusions 
+for silent cerebral infarcts in sickle cell anemia. N Engl J Med. 
+2014;371:699–710.
+Fasano RM, Meier ER, Hulbert ML. Cerebral vasculopathy in children with 
+sickle cell anemia. Blood Cells Mol Dis. 2015;54:17–25.
+Meier ER, Fasano RM, Estrada M, et al. Early reticulocytosis and anemia are 
+associated with abnormal and conditional transcranial Doppler velocities 
+in children with sickle cell anemia. J Pediatr. 2016;169:227–231.e1.
+Meier ER, Wright EC, Miller JL. Reticulocytosis and anemia are associated 
+with an increased risk of death and stroke in the newborn cohort of the 
+Cooperative Study of Sickle Cell Disease. Am J Hematol. 2014;89:904–906.
+Steen RG, Xiong X, Langston JW, et al. Brain injury in children with sickle cell 
+disease: prevalence and etiology. Ann Neurol. 2003;54:564.
+Adolescents
+Akshintala S, Avery RA, Murnick J, et al. Isolated midbrain ischemic infarct 
+in association with hyperbetalipoproteinemia (a): a report of 2 adolescent 
+patients. J Pediatr Hematol Oncol. 2015;37:315–318.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

@@ -1,0 +1,1780 @@
+1091
+Hypoglycemia, although rare in children beyond the newborn period, 
+is an acute, life-­threatening medical emergency that may result in sei­
+zures, permanent brain injury, or even sudden death. Hypoglycemia 
+may represent a serious underlying disorder due to hormonal deficien­
+cies, metabolic defects, genetic disorders, drugs, or toxins. Therefore, to 
+evaluate hypoglycemia either in a child or newborn, a comprehensive 
+strategy for diagnosis and treatment is crucial. Hypoglycemia occurs 
+when there is a disruption in the normal response of the metabolic 
+and endocrine systems during the transition from fed to fasted state 
+resulting in an imbalance in glucose homeostasis, either excessive glu­
+cose removal from the circulation or deficient glucose delivery into the 
+circulation, or both. To make the accurate diagnosis, it is essential to 
+obtain labs at the time of hypoglycemia that includes plasma and urine 
+specimens for critical hormones, as well as metabolic products before 
+initiating treatment. However, treatment should never be delayed if 
+there is uncertainty as to what critical labs are required. Obtaining a 
+“red top” and “green top” blood collection tube will allow for most all 
+studies to be run.
+DEFINITION OF HYPOGLYCEMIA
+The precise definition of hypoglycemia, one applicable to all age groups, 
+is controversial. Historically, a working definition for significant hypo­
+glycemia was initially developed based on the clinical manifestations of 
+low blood sugars in neonates.
+Attempts have been made to define hypoglycemia by using oper­
+ational thresholds or a clinical approach. An operational threshold is 
+based on the glucose in plasma or whole blood that prompts the inter­
+vention and is defined as blood glucose <40 mg/dL (plasma glucose 
+levels <45 mg/dL); the clinical approach defines the blood glucose 
+concentration threshold at which clinical signs and symptoms appear 
+(and disappear by correcting the low glucose concentration). The wide 
+range of blood glucose concentrations at which clinically overt signs 
+may appear has led to uncertainty in definition.
+Regardless of the wide fluctuations in glucose levels (between 
+fed and fasting states), plasma blood glucose is normally maintained 
+within a very narrow range of 70–100 mg/dL. A plasma glucose value 
+below 40 mg/dL is commonly taken as the clinical definition of hypo­
+glycemia. However, subtle signs and symptoms of neuroglycopenia 
+can be documented at plasma glucose levels below 70 mg/dL and are 
+more apparent at glucose levels below 60 or 50 mg/dL. For provocative 
+tests, such as fasting studies, a glucose level of 50 mg/dL can be taken 
+as sufficiently low for judging fuel and hormonal responsiveness. The 
+response to a given level of plasma glucose can vary, depending on the 
+underlying disorder. Patients with glucose-­6-­phosphatase deficiency 
+(type 1 glycogen storage disease) may appear asymptomatic at glu­
+cose levels below 40 mg/dL because they have concomitant elevations 
+of plasma lactate and ketones, which can partially spare the glucose 
+utilization by the brain. On the other hand, children with defects in 
+fatty acid oxidation can become very ill at plasma glucose levels as high 
+as 60 mg/dL because they have no alternative fuels (ketones) to glucose 
+as a substrate for the brain, heart, and skeletal muscle.
+When comparing reported glucose values, the clinician must recog­
+nize some technical factors. Unless a free-­flow blood sample is obtained 
+from the infant with minimal pain, the glucose values are likely to be 
+unreliable. Second, whole blood glucose values are slightly lower than 
+those of plasma because of the dilution by the fluid in the red blood 
+cells. Finally, hematocrit also influences the blood glucose concentra­
+tion. This is particularly important in newborns whose hematocrit val­
+ues are higher than older infants and children. A high hematocrit level 
+results in lower blood glucose concentration; the opposite is true for 
+low hematocrit values.
+It was once common practice to accept lower standards for glucose 
+levels in newborns because of the high frequency of low plasma glu­
+cose levels on the day of birth. It should be stressed that these lower 
+values represent a purely “statistical” definition of normal; there is no 
+evidence that the neonatal brain has less need for glucose than do the 
+brains of older children or adults. Specific maturational delays in sev­
+eral of the fasting systems (metabolic, endocrine) adequately explain 
+why neonates have such a high risk of hypoglycemia during the first 
+12–24 hours after delivery. The use of different glucose standards for 
+newborns should be discouraged, and the same treatment goals for 
+hypoglycemia should be applied to newborns and older children: that 
+is, to maintain plasma glucose levels above 60 mg/dL.
+REGULATION OF BLOOD GLUCOSE 
+CONCENTRATION
+The brain is solely dependent upon glucose as a primary source of 
+energy. However, during the period of starvation, it can also use ketones 
+as an alternative (but not sole) source for energy production. Glucose is 
+derived from either the intestinal absorption of dietary carbohydrates 
+(exogenous source) or endogenous production (glycogenolysis or glu­
+coneogenesis). Within 2–3 hours after a meal, glucose absorption from 
+the intestine ceases, and the liver becomes the major source of glucose 
+for the brain and other tissues. The liver produces glucose through a 
+combination of glycogenolysis and gluconeogenesis (Fig. 57.1). Gluco­
+neogenesis provides approximately 25% of hepatic glucose production 
+in the early phases of fasting; the rate of gluconeogenesis is determined 
+largely by rates of proteolysis and remains constant throughout fasting. 
+Hepatic glycogenolysis provides most of the glucose production early 
+in a fast, but by 12 hours, liver glycogen stores become depleted. The 
+body must then begin to depend on release of fatty acids by lipolysis 
+from stores of fat in adipose tissue. Most tissues can oxidize free fatty 
+acids (FFAs) directly and thus minimize their use of glucose. The major 
+exception is the brain, which is unable to directly oxidize FFAs because 
+Hypoglycemia
+Alvina R. Kansra
+57
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1092
+SECTION 11  Endocrine and Metabolic Disorders
+FFAs cannot cross the blood-­brain barrier. Partial oxidation of FFAs 
+in the liver produces ketones (β-­hydroxybutyrate and acetoacetate), 
+which are readily oxidized by the brain, thus sparing cerebral glucose 
+consumption.
+Metabolic systems and hormones normally prevent hypoglycemia 
+during fasting (Tables 57.1 and 57.2). The integration of these systems 
+is demonstrated by the changes in plasma concentrations of the major 
+fuels and hormones during fasting (Fig. 57.2). Plasma glucose concen­
+trations gradually decline over the course of the fast as liver glycogen 
+reserves are depleted. In infants and young children, with their larger 
+ratio of brain to body mass, glucose levels fall faster than in older chil­
+dren and adults and may reach 50 mg/dL by 24–30 hours of fasting. 
+Plasma levels of lactate, a representative gluconeogenic precursor, 
+decline while fasting as hepatic gluconeogenesis is stimulated and 
+Glycogen
+Glucose-1-P
+Glucose-6-P
+Glucose
+Plasma
+glucose
+Plasma lactate,
+alanine
+Plasma free
+fatty acids
+G-6-Pase
+F-1,6-Pase
+GLUT2
+Fructose-6-P
+Fructose-1,6-P
+Triose-phosphates
+Fructose, glycerol
+Phosphoenolpyruvate
+Pyruvate
+Phosphorylase
+kinase
+Phosphorylase
+Galactose
+Debrancher
++
+Brancher
+Glycogen synthase
+PEP
+carboxykinase
+Pyruvate
+carboxylase
+Acetyl-CoA
+Carnitine cycle
+HMG-CoA synthase
+HMG-CoA lyase
+Mitochondrial
+membrane
+Plasma
+membrane
+β-Oxidation
+Electron transport
+β-Hydroxybutyrate
+acetoacetate
+Oxaloacetate
+Amino acids
+TCA cycle
+Citrate
+Fig. 57.1  Metabolic systems of fasting adaptation. Shown are the pathways of hepatic gluconeogenesis, 
+glycogenolysis, and ketogenesis. Key enzyme steps are in boldface. Enzyme steps in gluconeogenesis: 
+pyruvate carboxylase, phosphoenolpyruvate (PEP) carboxykinase, fructose-­1,6-­bisphosphatase (F-­1,6-­Pase), 
+glucose-­6-­phosphatase (G-­6-­Pase), and the plasma membrane glucose transporter 2 (GLUT2). Enzyme steps 
+in glycogenolysis: glycogen synthase, glycogen brancher enzyme, glycogen phosphorylase kinase, glycogen 
+phosphorylase, and glycogen debrancher enzyme. Steps in ketogenesis include a series of enzyme steps 
+in the carnitine cycle for transporting fatty acids across the mitochondrial membrane, enzymes of the β-­
+oxidation cycle, enzymes of electron transport, and enzymes of ketone synthesis (3-­hydroxy-­3-­methylglutaryl-­
+coenzyme A [HMG-­CoA] synthase and HMG-­CoA lyase). P, phosphate; TCA, tricarboxylic acid.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1093
+CHAPTER 57  Hypoglycemia
+protein turnover slows. Plasma FFA levels begin to rise quickly after 
+12–20 hours of fasting in response to the fall in insulin concentrations 
+as glucose levels decline. The increased availability of FFAs is accompa­
+nied by a 10-­ to 20-­fold rise in plasma ketone levels as hepatic oxidation 
+of FFAs is activated. Determining the circulating levels of these fuels 
+and hormones at the point of hypoglycemia provides the most critical 
+information for diagnosing the cause of hypoglycemia.
+CLINICAL MANIFESTATIONS
+A variety of signs and symptoms may occur in patients with hypogly­
+cemia (Table 57.3). They can be divided into two categories. Those in 
+the first category result from activation of the autonomic nervous sys­
+tem and release of the counter-­regulatory hormone epinephrine (neu­
+rogenic). Those in the second category are secondary to inadequate 
+delivery of glucose to the brain (neuroglycopenia).
+CAUSES OF TRANSIENT NEONATAL 
+HYPOGLYCEMIA
+Hypoglycemia is a common problem in newborns. Most cases are 
+transient, although the neonatal period is also the time when inher­
+ited disorders are most likely to manifest. The differential diagnosis of 
+hypoglycemia is extensive (Tables 57.4 and 57.5).
+Normal Newborns
+As many as 30% of normal, full-­term newborns and those appropriate 
+for gestational age may be unable to maintain plasma glucose levels 
+above 50 mg/dL if they fast during the first 6 hours after delivery. By 
+the second day of life, the frequency of plasma glucose concentrations 
+below 50 mg/dL decreases to <1%, which indicates a rapid maturation 
+of fasting metabolic adaptation. The poor fasting tolerance on the day 
+of birth can be explained by lack of development of key enzymes in 
+the pathways of both hepatic gluconeogenesis and ketogenesis. Tran­
+scription of these genes is delayed until after delivery but becomes well 
+activated by the end of the first 24 hours. Glucagon and cortisol may 
+be important for activation of enzymes involved in gluconeogenesis. 
+Ingestion of long-­chain fats (e.g., in colostrum) may be important for 
+triggering transcription of the two enzymes of ketogenesis. Thus, on 
+the day of birth, all newborns can be viewed as having impaired fast­
+ing adaptation. In the absence of other risk factors, hypoglycemia in 
+the first day may necessitate only feeding and follow-­up blood glucose 
+determination to ensure that further work-­up is not necessary. Breast­
+fed babies are at special risk for hypoglycemia when there are problems 
+initiating milk production.
+Newborns Small for Gestational Age and Premature 
+Infants
+Hypoglycemia is significantly more common in premature infants and 
+those small for gestational age because of decreased stores of glycogen, 
+fat, and protein. In addition, the enzymes necessary for gluconeogene­
+sis may be less developed than in normal full-­term infants.
+Infants of Diabetic Mothers
+Infants born to mothers with any type of diabetes, including gestational 
+diabetes, are at risk for hypoglycemia due to increased insulin secretion 
+before birth that persists for the first few days after delivery. This tran­
+sient neonatal hyperinsulinemia occurs because maternal hyperglyce­
+mia stimulates fetal insulin secretion and, after delivery, affected infants 
+have difficulty in downregulating insulin secretion to adapt to the with­
+drawal of the hyperglycemia. Because of the growth-­stimulating effects 
+of insulin on the fetus, infants of diabetic mothers are often large for 
+gestational age. Blood glucose levels should be monitored after birth 
+until they stabilize in the normal range. Enteral feedings should be ini­
+tiated as soon as possible to prevent fasting hypoglycemia. Hypoglyce­
+mia should be treated with intravenous glucose; the problem should 
+resolve promptly, within 1–2 days. Prolonged hyperinsulinism (HI) 
+in infants of diabetic mothers should raise the suspicion of either a 
+genetic form of HI or perinatal stress-­induced HI.
+Perinatal Stress-­Induced Hyperinsulinism
+Some infants with birth asphyxia or intrauterine growth restriction 
+may have severe problems with hypoglycemia for prolonged periods, 
+ranging from a few days to a few months after birth. This form of tran­
+sient HI has not been well characterized, but it is probably not rare. The 
+mechanism appears to be HI; oral diazoxide, which decreases insulin 
+secretion, provides good control of hypoglycemia in these infants.
+Erythroblastosis Fetalis
+An association between hypoglycemia and erythroblastosis fetalis 
+caused by Rh incompatibility occurs in infants who are anemic at birth 
+(cord hemoglobin <10 g/dL). The low blood glucose levels in these 
+TABLE 57.1  Metabolic Systems and 
+Hormones Regulating Blood Glucose
+Metabolic Systems
+Hepatic gluconeogenesis
+Hepatic glycogenolysis
+Adipose tissue lipolysis
+Fatty acid oxidation (liver and peripheral organs) and hepatic ketogenesis
+Hormonal Systems
+Insulin
+Counter-­regulatory hormones
+Glucagon
+Cortisol
+Growth hormone
+Epinephrine
+TABLE 57.2  Hormonal Regulation of Fasting Metabolic Systems
+Hormone
+Hepatic Glycogenesis
+Hepatic Glucogenesis
+Adipose Tissue Lipolysis
+Hepatic Ketogenesis
+Insulin
+Inhibits
+Inhibits
+Inhibits
+Inhibits
+Glucagon
+Stimulates
+—
+—
+—
+Cortisol
+—
+Stimulates
+—
+—
+Growth hormone
+—
+—
+Stimulates
+—
+Epinephrine
+Stimulates
+Stimulates
+Stimulates
+Stimulates
+From Sperling MA, ed. Pediatric Endocrinology. 2nd ed. Philadelphia: Elsevier; 2002.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1094
+SECTION 11  Endocrine and Metabolic Disorders
+infants have been attributed to high plasma insulin concentration. The 
+cause of these high insulin levels remains undefined. The current pre­
+vention and management of Rh sensitization have markedly reduced 
+the incidence of erythroblastosis and of fetal and neonatal anemia. 
+Nonetheless, such infants require careful monitoring of plasma glucose 
+concentration soon after birth.
+Intrapartum Maternal Glucose Administration
+Administration of excessive glucose quantities to the mother during 
+labor results in maternal as well as fetal hyperglycemia. Increased fetal 
+glucose concentration causes increased fetal insulin secretion and fetal 
+HI. If the glucose has been administered to the mother immediately 
+before the infant’s birth, the infant is born with high insulin levels. An 
+acute administration of large amounts of glucose-­containing fluids to 
+prevent hypotension in women receiving conduction anesthesia could 
+result in acute fetal hyperglycemia, HI, and metabolic acidosis due to 
+increased lactate concentration, resulting in transient HI that leads to 
+hypoglycemia in a fetus. This effect is more pronounced if the mother 
+has received glucose infusion for a prolonged period of time.
+Maternal Drug Therapy
+The various pharmacologic agents administered to the mother for the 
+treatment of medical problems that can influence blood glucose levels 
+in the newborn can be divided into two broad categories:
+	1.	 Some drugs, including oral hypoglycemic agents, can directly affect 
+blood glucose. Oral hypoglycemic agents, such as chlorpropamide, 
+metformin, and sulfonylureas, are administered by some physi­
+cians for the treatment of gestational diabetes. These drugs are 
+easily transported across the placenta, and the infant is born with 
+a certain amount of drug present in the circulation. These drugs, 
+particularly those with prolonged effects, may result in profound 
+hypoglycemia that tends to persist until the drug is removed, either 
+by its own clearance or by exchange transfusion.
+	2.	 Some drugs are administered to the mother with indirect effects 
+(the more common contributor to neonatal hypoglycemia). β-­
+Sympathomimetic agents commonly used for the prevention and 
+treatment of premature labor can result in maternal hyperglycemia 
+by increasing hepatic glucose production and decreasing glucose uti­
+lization. Maternal hyperglycemia, in turn, can initiate fetal hypergly­
+cemia and HI, which can cause hypoglycemia in the newborn.
+Beckwith-­Wiedemann Syndrome
+Beckwith-­Wiedemann syndrome (BWS) is an overgrowth and cancer 
+predisposition disorder with macrosomia, macroglossia, abdominal wall 
+defects, hemihypertrophy, and hypoglycemia in the neonatal period. 
+Most cases of BWS are sporadic, although approximately 15% have auto­
+somal dominant inheritance. BWS appears to be caused by abnormal 
+genomic imprinting involving multiple genes at chromosome 11p15.
+Approximately 50% of newborns with BWS have hypoglycemia; 80% 
+of cases are mild and transient. The remaining 20% of cases are more 
+prolonged and difficult to control. Early recognition of hypoglycemia is 
+extremely important for appropriate clinical management because there is 
+an association in BWS between hypoglycemia and intellectual impairment. 
+Any infant born with an omphalocele should be monitored for potential 
+hypoglycemia. HI is the principal mechanism of the hypoglycemia in BWS 
+Time (hr)
+0
+0
+5
+Glucose
+FFA
+Lactate
+BOB
+10
+15
+20
+25
+30
+4
+3
+2
+1
+5
+6
+Plasma fuels (mmol/L)
+Fig. 57.2  Changes in plasma levels of key fuels during fasting in a nor­
+mal child. Note that plasma glucose declines toward hypoglycemic val­
+ues by 24 hours as hepatic glycogen reserves become depleted. Plasma 
+levels of lactate, a representative gluconeogenic substrate, decline 
+gradually during the fast as hepatic gluconeogenesis is activated. Late 
+in fasting, levels of plasma free fatty acids (FFAs) increase as lipoly­
+sis is stimulated, followed by a dramatic rise in β-­hydroxybutyrate that 
+reflects the increase in the rates of hepatic fatty acid oxidation and 
+ketone synthesis. BOB, β-­hydroxybutyrate.
+TABLE 57.3  Symptoms of Hypoglycemia
+Neurogenic Symptoms Due to Activation of Autonomic 
+Nervous System*
+Sweating
+Shakiness, trembling
+Tachycardia
+Anxiety, nervousness
+Weakness
+Hunger
+Nausea, vomiting
+Pallor
+Hypothermia
+Neuroglycopenic Symptoms Due to Decreased Cerebral 
+Glucose Use
+Headache
+Visual disturbances
+Lethargy, lassitude
+Restlessness, irritability
+Difficulty with speech and thinking, inability to concentrate
+Mental confusion
+Somnolence, stupor, prolonged sleep
+Loss of consciousness, coma
+Hypothermia
+Twitching, convulsions, “epilepsy”
+Bizarre neurologic signs
+Motor disturbances
+Sensory disturbances
+Loss of intellectual ability
+Personality changes
+Bizarre behavior
+Outburst of temper
+Psychologic disintegration
+Manic behavior
+Depression
+Psychoses
+Permanent mental or neurologic damage
+*Some features may be attenuated by β-­adrenergic blocking agents.
+From Langdon DR, Stanley CA, Sperling, MA. Hypoglycemia in the 
+toddler and child. In: Sperling MA, ed. Pediatric Endocrinology. 4th ed. 
+Philadelphia: Elsevier; 2014:922.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+TABLE 57.4  Classification of Hypoglycemia in Infants and Children
+NEONATAL TRANSITIONAL (ADAPTIVE) HYPOGLYCEMIA
+Associated with Inadequate Substrate or Immature 
+Enzyme Function in Otherwise Normal Neonates
+Prematurity
+Small for gestational age
+Normal newborn
+Transient Neonatal Hyperinsulinism
+Infant of diabetic mother
+Small for gestational age
+Discordant twin
+Birth asphyxia
+Rhesus hemolytic disease
+Infant of toxemic mother
+HNF4A/HNF1A
+NEONATAL, INFANTILE, OR CHILDHOOD 
+HYPERINSULINEMIC HYPOGLYCEMIAS
+Recessive KATP channel HI
+Recessive HADH (hydroxyl acyl-­CoA dehydrogenase) variant HI
+Recessive UCP2 (mitochondrial uncoupling protein 2) variant HI
+Focal KATP channel HI
+Dominant KATP channel HI
+Atypical congenital hyperinsulinemia (no variants in ABCC8 or KCNJ11 genes)
+Dominant glucokinase HI
+Dominant glutamate dehydrogenase HI (hyperinsulinism/hyperammonemia 
+syndrome)
+Dominant variants in HNF-­4A and HNF-­1A (hepatic nuclear factors 4α and 1α) 
+HI with monogenic diabetes of youth later in life
+Dominant variant in SLC16A1 (the pyruvate transporter)—exercise-­induced 
+hypoglycemia
+Acquired islet cell adenoma
+Beckwith-­Wiedemann syndrome
+Factitious disorder: insulin administration (Munchausen syndrome by proxy)
+Oral sulfonylurea drugs
+Congenital disorders of glycosylation
+Exercise-­induced hyperinsulinemic hypoglycemia
+Counter-­Regulatory Hormone Deficiency
+Panhypopituitarism
+Isolated growth hormone deficiency
+Adrenocorticotropic hormone deficiency
+Addison disease
+Epinephrine deficiency
+Glycogenolysis and Gluconeogenesis Disorders
+Glucose-­6-­phosphatase deficiency (GSD 1a)
+Glucose-­6-­phosphate translocase deficiency (GSD 1b)
+Amylo-­1,6-­glucosidase (debranching enzyme) deficiency (GSD 3)
+Liver phosphorylase deficiency (GSD 6)
+Phosphorylase kinase deficiency (GSD 9)
+Glycogen synthetase deficiency (GSD 0)
+Fructose-­1,6-­diphosphatase deficiency
+Pyruvate carboxylase deficiency
+Galactosemia
+Hereditary fructose intolerance
+GLUT 1-­2-­3 transporter defects
+Lipolysis Disorders
+Fatty Acid Oxidation Disorders
+Carnitine transporter deficiency (primary carnitine deficiency)
+Carnitine palmitoyltransferase-­1 deficiency
+Carnitine translocase deficiency
+Carnitine palmitoyltransferase-­2 deficiency
+Secondary carnitine deficiencies
+Long-­, medium-­, short-­chain acyl-­CoA dehydrogenase deficiencies
+Disorders of ketone synthesis/utilization
+OTHER ETIOLOGIES
+Substrate-­Limited
+Ketotic hypoglycemia
+Poisoning—drugs
+Salicylates
+Alcohol
+Oral hypoglycemic agents
+Insulin
+Propranolol
+Pentamidine
+Quinine
+Disopyramide
+Ackee fruit (unripe)—hypoglycin
+Vacor (rat poison)
+Trimethoprim-­sulfamethoxazole (with renal failure)
+Liver Disease
+Reye syndrome
+Hepatitis
+Cirrhosis
+Hepatoma
+AMINO ACID AND ORGANIC ACID DISORDERS
+Maple syrup urine disease
+Propionic acidemia
+Methylmalonic acidemia
+Tyrosinemia
+Glutaric aciduria type 2
+3-­Hydroxy-­3-­methylglutaric aciduria
+Adenosine kinase deficiency
+Mitochondrial disorders
+SYSTEMIC DISORDERS
+Sepsis
+Carcinoma/sarcoma (secreting insulin-­like growth factor 2)
+Heart failure
+Malnutrition
+Malabsorption
+Anti-­insulin receptor antibodies
+Anti-­insulin antibodies
+Neonatal hyperviscosity
+Renal failure
+Diarrhea
+Burns
+Shock
+Postsurgical
+Pseudohypoglycemia (leukocytosis, polycythemia)
+Excessive insulin therapy of insulin-­dependent diabetes mellitus
+Factitious
+Nissen fundoplication (dumping syndrome)
+Falciparum malaria
+GSD, glycogen storage disease; HI, hyperinsulinemia; KATP, regulated potassium channel.
+From Sperling MA. Hypoglycemia. In: Kliegman RM, Stanton BF, St. Geme JW III, et al., eds. Nelson Textbook of Pediatrics. 20th ed. Philadelphia: 
+Elsevier; 2016:776.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1096
+SECTION 11  Endocrine and Metabolic Disorders
+and occurs in 30–60% of children. Hypertrophy and hyperplasia of the 
+islet of Langerhans have been observed. Hypoglycemia in children with 
+BWS is usually transient, lasting for a few days. In some patients, HI hypo­
+glycemia may persist longer and will require continuous feeding, medical 
+therapy, or, in rare cases, partial pancreatectomy. Medical treatment gen­
+erally includes diazoxide and octreotide, and if managed medically, the 
+hypoglycemia eventually resolves over weeks to months of care.
+CAUSES OF PERSISTENT HYPOGLYCEMIA IN 
+INFANTS AND CHILDREN
+Hyperinsulinism
+Congenital HI is the most common cause of persistent hypoglycemia 
+in infants and children. It was previously referred to as nesidioblastosis, 
+leucine-­sensitive hypoglycemia, or idiopathic hypoglycemia of infancy. 
+Most affected patients present during infancy; macrosomia may be 
+present at birth because of high fetal insulin levels, which act as a 
+growth factor in utero. Excessive insulin secretion during fasting sup­
+presses all the fasting systems, including hepatic glucose production, 
+lipolysis, and ketogenesis. Hypoglycemia is a consequence of increased 
+utilization and underproduction of glucose. Because lipolysis and keto­
+sis are inhibited, alternative fuel levels remain low, which increases the 
+risk of seizures and permanent brain injury. There are several genetic 
+defects of pancreatic β-­cell insulin secretion in children with HI (Fig. 
+57.3 and Table 57.6; see also Table 57.4). In the presence of severe hypo­
+glycemia, there is often an inappropriately normal plasma insulin level 
+but low FFA and ketone levels. The response to glucagon demonstrates 
+an increase in blood glucose levels of >30 mg/dl; the glucose infusion 
+rate is often very high (>8 mg/kg/min) (Table 57.7).
+TABLE 57.5  Syndromic Forms of Hyperinsulinemic Hypoglycemia*
+Syndrome Name
+Gene (Location)
+Genetic Etiology
+Clinical Characteristics
+Pre-­ and Postnatal Overgrowth (Macrosomia)
+Beckwith-­Wiedemann
+(11p15)
+Macroglossia, abdominal wall defects, ear lobe pits/creases, 
+hemihypertrophy, tumor risk
+Sotos
+NSD1 (5q35)
+Macrocephaly, frontal bossing, pointed chin, developmental delay, 
+tumor risk
+Simpson-­Golabi-­Behmel
+GPC3 (Xq26), GPC4 (Xp22)
+Coarse facial features, broad feet, polydactyly, cryptorchidism, 
+hepatomegaly, tumor risk
+Perlman
+DIS3L2 (2q37)
+Inverted V-­shaped upper lip, prominent forehead, developmental delay, 
+hypotonia, tumor risk
+Postnatal Growth Failure (Short Stature)
+Kabuki
+KMT2D (12q13), KDM6A (Xp11.3)
+Arched eyebrows, long eyelashes, developmental delay, fetal finger 
+pads, scoliosis, heart defects, hypotonia
+Costello
+HRAS (11p15)
+Deep palmar/plantar creases, developmental delay, coarse facial 
+features, heart abnormalities, papillomas, tumor risk
+Chromosomal Abnormality
+Mosaic Turner
+(Loss of X in some cells)
+Milder Turner syndrome phenotype (short stature, coarctation of aorta, 
+gonadal dysgenesis)
+Patau
+Trisomy 13
+Developmental delay, microphthalmia, heart and neural defects
+Congenital Disorders of Glycosylation
+Types 1a, 1b, and 1d
+PMM2 (16p13.2), MPI (15q24.1), ALG3 (3q27.1)
+Developmental delay, hypotonia, growth failure
+Contiguous Gene Deletion Affecting the ABCC8 Gene
+Usher
+11 genes
+Hearing loss, visual impairment
+Abnormalities in Calcium Homoeostasis
+Timothy
+CACNA1C (12p13.33)
+Long QT syndrome, syndactyly, developmental delay, immune 
+deficiency
+Insulin Receptor Variant
+Insulin resistance syndrome 
+(leprechaunism)
+INS (19p13)
+Hypo-­ and hyperglycemia, pre-­ and postnatal growth restriction, elfin-­
+like features, hirsutism
+Other Syndromes
+Congenital central hypoventilation 
+syndrome
+PHOX2B (4p13)
+Central hypoventilation, “box-­shaped” face, neurocristopathies 
+(Hirschsprung disease, tumor risk)
+*Various developmental syndromes have been described with the gene/s linked to the condition and the common clinical features.
+From Guemes M, Rahman SA, Kapoor RR, et al. Hyperinsulinemic hypoglycemia in children and adolescents: recent advances in understanding of 
+pathophysiology and management. Rev Endocrine Metabol Dis. 2020;21:577–597 (Table 2, p. 583).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1097
+CHAPTER 57  Hypoglycemia
+TABLE 57.6  Correlation of Clinical Features with Molecular Defects in Persistent Hyperinsulinemic Hypoglycemia in Infancy
+Type
+Macrosomia
+Hypoglycemia/
+Hyperinsulinemia
+Family 
+History
+Molecular 
+Defects
+Associated Clinical, 
+Biochemical, or 
+Molecular Features
+Response 
+to Medical 
+Management
+Recommended 
+Surgical Approach
+Prognosis
+Sporadic
+Present at birth
+Moderate/severe in first 
+days to weeks of life
+Negative
+ABCC8/KCNJ11A 
+gene variants not 
+always identified in 
+diffuse hyperplasia
+Loss of heterozygosity in 
+microadenomatous tissue
+Generally poor; may 
+respond better to 
+somatostatin than 
+to diazoxide
+Partial pancreatectomy 
+if frozen section shows 
+β-­cell crowding with 
+small nuclei—suggests 
+microadenoma
+Subtotal >95% 
+pancreatectomy if 
+frozen section shows 
+giant nuclei in β 
+cells—suggests diffuse 
+hyperplasia
+Excellent if focal 
+adenoma is removed, 
+thereby curing 
+hypoglycemia and 
+retaining sufficient 
+pancreas to avoid 
+diabetes
+Guarded if subtotal 
+pancreatectomy 
+(>95%) is performed; 
+diabetes mellitus 
+develops in 50% of 
+patients; hypoglycemia 
+persists in 33%
+Autosomal 
+recessive
+Present at birth
+Severe in first days to 
+weeks of life
+Positive
+ABCC8/KCNJ11A
+Consanguinity a feature in 
+some populations
+Poor
+Subtotal pancreatectomy
+Guarded
+Autosomal 
+dominant
+Unusual
+Moderate onset usually 
+post–6 mo of age
+Positive
+Glucokinase 
+(activating)
+Some cases gene 
+unknown
+None
+Very good to 
+excellent
+Surgery usually not required
+Partial pancreatectomy only 
+if medical management 
+fails
+Excellent
+Autosomal 
+dominant
+Unusual
+Moderate onset usually 
+post–6 mo of age
+Positive
+Glutamate 
+dehydrogenase 
+(activating)
+Modest hyperammonemia
+Very good to 
+excellent
+Surgery usually not required Excellent
+Beckwith-­
+Wiedemann 
+syndrome
+Present at birth
+Moderate, spontaneously 
+resolves post–6 mo of age
+Negative
+Duplicating/
+imprinting in 
+chromosome 
+11p15.1
+Macroglossia, omphalocele, 
+hemihypertrophy
+Good
+Not recommended
+Excellent for 
+hypoglycemia; 
+guarded for possible 
+development 
+of embryonal 
+tumors (Wilms 
+hepatoblastoma)
+Congenital 
+disorders of 
+glycosylation
+Not usual
+Moderate/onset post–3 mo 
+of age
+Negative
+Phosphomannose 
+isomerase 
+deficiency
+Hepatomegaly, vomiting, 
+intractable diarrhea
+Good with mannose 
+supplement
+Not recommended
+Fair
+From Sperling MA. Hypoglycemia. In: Kliegman RM, Stanton BF, St. Geme JW III, et al., eds. Nelson Textbook of Pediatrics. 20th ed. Philadelphia: Elsevier; 2016:778.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1098
+SECTION 11  Endocrine and Metabolic Disorders
+Recessive KATP Channel Hyperinsulinism
+This is the most severe form of congenital HI. Affected infants are usu­
+ally large for gestational age and present with symptoms of hypoglycemia 
+in the first days after birth. The hypoglycemia is often incredibly severe, 
+and treatment may require intravenous glucose infusions at 20–30 mg/
+kg/min (4–6 times normal) to maintain plasma glucose in the normal 
+range of 70–100 mg/dL. This disorder is caused by genetic defects of the 
+β-­cell plasma membrane adenosine triphosphate–dependent potassium 
+(KATP) channel (Fig. 57.4). The channel is encoded by two adjacent 
+genes located on chromosome 11p: ABCC8, which encodes the sulfo­
+nylurea receptor type 1 (SUR1) protein subunit, and KCNJ11A, which 
+encodes the potassium channel, inwardly rectifying, Kir6.2 subunit. 
+Common founder variants of ABCC8 have been identified in Ashkenazi 
+Jews and in Finland, but most affected patients have one of many “pri­
+vate” (rare and unique) variants. Medical management with diazoxide or 
+octreotide (which acts like somatostatin) may be tried (see Figs. 57.3 and 
+57.4) but is rarely effective. Most infants require surgical near-­total (98%) 
+pancreatectomy to achieve control of hypoglycemia. Approximately 50% 
+of infants with severe HI who require surgery have diffuse disease caused 
+by these recessive KATP channel variants; the remainder have focal 
+lesions that are potentially curable by partial surgical resection.
+Focal KATP Channel Hyperinsulinism
+Approximately half the infants with severe neonatal-­onset HI have focal 
+lesions of the pancreas that are potentially curable by surgical resec­
+tion. The molecular defect in these infants involves the same KATP 
+channel genes as in recessive KATP channel HI through a two-­hit 
+mechanism: loss of heterozygosity for the maternal chromosome 11p 
+and expression of a paternally derived ABCC8 or KCNJ11A variants. 
+Histologically, the focal lesions usually appear as adenomatosis. The 
+clinical features are identical to those of infants with recessive KATP 
+channel HI, including diazoxide unresponsiveness and hypoglycemia 
+that is extremely difficult to control. Methods to diagnose and local­
+ize focal pancreatic adenomatosis preoperatively include acute insu­
+lin response tests to secretagogues such as calcium and tolbutamide, 
+selective pancreatic arterial calcium stimulation of insulin release with 
+pancreatic venous sampling, and PET.
+Dominant KATP Channel Hyperinsulinism
+HI caused by a dominantly expressed variant of the ABCC8 gene, 
+rather than the usual recessive disease inheritance, is reported in one 
+family previously.
+Dominant Glutamate Dehydrogenase Hyperinsulinism
+Dominantly expressed gain-­of-­function variants of glutamate dehy­
+drogenase have been identified in children with the unusual combina­
+tion of HI plus asymptomatic hyperammonemia (HI/HA). Most cases 
+arise from de novo variants, and only 20% are familial. Hypoglycemic 
+symptoms often do not manifest in the neonatal period, and the disor­
+der may not be recognized until the affected patient is an adult. Birth­
+weights of affected infants are normal.
+In addition to hypoglycemia, affected individuals have persistent 
+but asymptomatic HA in the range of 70–150 μmol/L (see Fig. 57.3). 
+The variants affect the pathway of leucine-­stimulated insulin secretion, 
+and patients can have protein-­sensitive hypoglycemia, as well as fasting 
+hypoglycemia. Diazoxide is effective in controlling hypoglycemia.
+Dominant Glucokinase Hyperinsulinism
+This rare disorder causes mild fasting hypoglycemia as a result of a 
+dominant gain-­of-­function variant of islet glucokinase (see Fig. 57.3). 
+Birthweights of affected infants are normal, and the age at onset of 
+hypoglycemic symptoms ranges from infancy to adulthood. Diazoxide 
+therapy has been effective in controlling plasma glucose levels.
+Insulinoma
+Acquired insulinomas are the most common form of HI in adults but 
+are rare in childhood, especially in early infancy. These are usually iso­
+lated, benign tumors, but multiple adenomas may be associated with 
+familial multiple endocrine neoplasia (MEN) syndromes. In contrast 
+to focal congenital HI, insulinomas may be detectable by imaging pro­
+cedures such as CT, MRI, PET scans, or transduodenal ultrasonogra­
+phy. Surgical resection is the treatment of choice.
+Insulin Reaction, Oral Hypoglycemic Agents, and 
+Surreptitious Insulin Administration
+Insulin-­induced hypoglycemia is a common occurrence in insulin-­
+treated diabetic patients and may also occur in patients with type 2 
+diabetes who are taking oral hypoglycemic agents, such as glyburide, 
+that stimulate insulin secretion. Surreptitious insulin administration 
+should always be included in the differential diagnosis of unexplained 
+hypoglycemia and, in young children, may occur as part of factitious 
+disorder by proxy (Munchausen syndrome by proxy). Exogenous 
+human or animal insulin use can be demonstrated by assays show­
+ing elevated plasma insulin values with simultaneous suppression of 
+TABLE 57.7  Diagnostic Criteria for HH: 
+Cutoff Values for Each Analyte to Aid in 
+Diagnosis of HH
+Serum Analyte
+Result in Patients with HH
+Blood Glucose <3.0 mmol/L (54 mg/dL) and
+Insulin
+Detectable
+C-­peptide
+Detectable (≥0.5 ng/mL)
+Free fatty acids
+Low or suppressed (<1.5 mmol/l* or < 1.7 mmol/l†)
+Ketone bodies
+Low or suppressed (3-­β-­hydroxybutyrate 
+<2 mmol/l* or < 1.8 mmol/l†)
+IGFBP-­1
+Low (≤110 ng/mL†) as insulin negatively 
+regulates IGFBP-­1 expression
+Ammonia
+Normal; can be raised in HI/HA syndrome
+Hydroxybutyrylcarnitine
+Normal; raised in HH due to HADH variant
+Cortisol, growth hormone
+Raised; generally cortisol >20 μg/dL (500 nmol/L); 
+growth hormone >7 ng/mL—younger children 
+might have poor counter-­regulatory response
+Amino acids and urine 
+organic acids
+Normal; leucine, isoleucine, and valine may be 
+suppressed in HH
+Proinsulin
+>20 pmol/L
+Additional Information When Diagnosis of HH Uncertain
+Glucose infusion rate
+>8 mg/kg/min to achieve euglycemia
+IM or IV glucagon 
+administration 
+or SC octreotide 
+administration
+30 mg/dL (positive glycemic response)
+HI/HA, hyperinsulinemic hypoglycemia/hyperammonemia syndrome; 
+HADH: short-­chain L-­3-­hydroxyacil-­CoA dehydrogenase; IGFBP-­1, insu­
+lin growth factor–binding protein-­1; IM: intramuscular; IV, intravenous; 
+SC, subcutaneous.
+*Low.
+†Suppressed.
+From Guemes M, Rahman SA, Kapoor RR, et al. Hyperinsulinemic 
+hypoglycemia in children and adolescents: recent advances in 
+understanding of pathophysiology and management. Rev Endocrine 
+Metabol Dis. 2020;21:577–597 (Table 3, p. 585).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1099
+CHAPTER 57  Hypoglycemia
+plasma C peptide (use of insulin lispro may not be detectable with 
+some insulin immunoassays).
+Counter-­Regulatory Hormone Deficiencies
+Hypopituitarism
+Isolated deficiency of growth hormone, or both growth hormone and 
+adrenocorticotropin hormone deficiency, predisposes to fasting hypo­
+glycemia. In affected older infants, hypoglycemia may occur after 10–14 
+hours of fasting. Newborns with hypopituitarism sometimes present with 
+much more severe hypoglycemia, which can closely mimic the KATP 
+channel form of congenital HI, including increased glucose requirements 
+of 10–20 mg/kg/min and an inappropriate glycemic response to gluca­
+gon when patients are hypoglycemic. A liver disease resembling pro­
+gressive cholestatic jaundice may occur in these newborns and does not 
+resolve until replacement therapy is begun for the deficient hormones. 
+Hypotonia and, in affected boys, a small phallus may also be present.
+Several syndromes, such as midline craniofacial defects, septo-­optic 
+dysplasia, and Russell-­Silver dwarfism, may be associated with hypo­
+pituitarism. Infant boys characteristically have microphallus, which is 
+a useful diagnostic sign.
+Isolated Cortisol Deficiency
+Fasting hypoglycemia may occur in infants and children with adre­
+nal insufficiency of various causes, including adrenocorticotropin 
+hormone deficiency and primary adrenal insufficiency (Addison 
+disease), or because of adrenal suppression resulting from exoge­
+nous glucocorticoid administration. Hypoglycemia is uncommon 
+in the presentation of newborns with congenital adrenal hyperpla­
+sia, but once glucocorticoid replacement treatment is begun, these 
+children are also at risk for adrenal crises and hypoglycemia if not 
+given supplemental doses during intercurrent illness.
+Epinephrine Deficiency
+Catecholamine deficiency is extremely rare and has been described as 
+secondary to adrenal hemorrhage in infants small for gestational age. 
+These patients may present for the first time during childhood with 
+hypoglycemia during fasting. The diagnosis is confirmed by measure­
+ment of plasma or urinary catecholamine levels. Some affected chil­
+dren may show evidence, on abdominal films, of previous adrenal 
+hemorrhage in the form of adrenal calcification.
+Fasting hypoglycemia has been observed occasionally in children 
+treated with β-­blocking agents, such as propranolol. The mechanism 
+appears to be suppression of lipolysis because of the interference with 
+epinephrine stimulation of adipose tissue; this suppression impairs the 
+third stage of fasting adaptation. Hypoglycemia may occur after 12 or 
+more hours of fasting. Hypoglycemic attacks may be associated with 
+acute hypertension because of the unopposed α-­adrenergic effects of 
+epinephrine.
+Diazoxide
+Ca2+
+Insulin
+Insulin
+SUR
+Kir 6.2
+Tolbutamide
+Glucose
+ATP/ADP
+GK
+K+
++
++
++
++
++
+–
+–
+α-Ketoglutarate
+α-Ketoglutarate
++
+NH3
+Urea
+GTP
+GDH
+GDH
+CPS
+Glutamate
+Glutamate
+N-Acetylglutamate
+ADP
+Leucine
+Liver
+β-Cell
+Fig. 57.3  Pathways of pancreatic β-­cell insulin secretion. Increases in plasma concentrations of glucose lead 
+to increased pancreatic β-­cell glucose oxidation rates and elevations of intracellular adenosine triphosphate 
+(ATP). The increase in the ratio of ATP to adenosine diphosphate subsequently acts via the sulfonylurea 
+receptor type 1 (SUR1) component of the ATP-­sensitive potassium (KATP) channel to inhibit potassium efflux, 
+resulting in membrane depolarization and activation of a voltage-­gated calcium ion channel. The rise in intra­
+cellular calcium triggers the release of insulin from secretory granules into the plasma. Genes involved in 
+congenital hyperinsulinism include glucokinase; glutamate dehydrogenase (GDH); SUR1; and the ion pore 
+component of the KATP channel, Kir6.2. Note that leucine triggers β-­cell insulin secretion by allosterically acti­
+vating GDH to increase oxidation of glutamate, which subsequently leads to inhibition of the KATP channel. 
+As shown in the inset of liver pathways of glutamate metabolism, in the hyperinsulinism/hyperammonemia 
+syndrome, overactivity of GDH leads to excessive ammonia production from glutamate and also decreases 
+the availability of glutamate for synthesis of N-­acetylglutamate, a required allosteric activator of the first step 
+in ureagenesis. Note that SUR1 mediates both tolbutamide activation of insulin release and diazoxide inhi­
+bition of insulin release. Somatostatin inhibits insulin release at a more distal site in the pathway. ADP, ade­
+nosine diphosphate; CPS, carbamoyl phosphate synthetase; GK, glucokinase; GTP, guanosine triphosphate; 
+SUR, sulfonylurea receptor.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1100
+SECTION 11  Endocrine and Metabolic Disorders
+Metabolic Enzyme Defects
+Hepatic Gluconeogenesis
+The genetic metabolic defects in hepatic gluconeogenesis lead to fast­
+ing hypoglycemia associated with increased plasma concentrations of 
+gluconeogenic precursors, such as lactate and alanine.
+Glucose-­6-­phosphatase deficiency (glycogen storage disease type 
+1a and type 1b). This is the most common form of the glycogen storage 
+disorders, although (see Fig. 57.1) deficiency of glucose-­6-­phosphatase 
+is a gluconeogenic defect because it blocks the release of glucose from 
+both gluconeogenesis and glycogenolysis. Hypoglycemia occurs within 
+2–3 hours after a meal, once intestinal carbohydrate absorption is 
+complete. Affected infants usually do not present with symptomatic 
+hypoglycemia, because the associated elevations of lactate provide an 
+alternative fuel for the brain when the glucose level is low. Instead, 
+the manifestation is usually growth failure late in the first year. The 
+liver is massively enlarged because of fat and glycogen deposition 
+and extends into the left upper quadrant and down into the pelvis. 
+Associated abnormalities include elevations of plasma triglyceride 
+(up to 2,000–4,000 mg/dL) and hyperuricemia due to shunting of the 
+excessive glucose-­6-­phosphate via other pathways, causing excessive 
+production of lactic acid, lipid synthesis, and hyperuricemia. Treatment 
+is aimed at avoiding fasting hypoglycemia by using a combination 
+of high-­carbohydrate meals and uncooked cornstarch or continuous 
+intragastric dextrose infusions to prevent growth failure. Carbohydrates 
+that cannot be converted to glucose, such as galactose in milk, fructose 
+in fruits, and sucrose, should be limited. The type 1b variant is caused 
+by deficiency of the microsomal glucose-­6-­phosphate translocase and 
+is associated with the additional problem of neutropenia, leading to 
+mouth ulcers and skin infections. Treatment with granulocyte colony-­
+stimulating factor has been beneficial in these patients.
+Glucose transporter 2 deficiency (Fanconi-­Bickel syndrome). A 
+small number of infants have been described with a combination of 
+hepatomegaly, increased liver glycogen store, renal Fanconi syndrome, 
+and galactose intolerance. Pathogenic variants that cause this recessive 
+inherited disorder are in the gene SLC2A2, which encodes glucose 
+transporter 2 (GLUT2), a plasma membrane glucose transporter 
+expressed in liver, kidney, and pancreatic β cells. GLUT2 is necessary 
+to export free glucose from the cytosol into the plasma (see Fig. 57.1). 
+The deficiency of GLUT2 interferes with glucose release from the liver 
+not only from glycogenolysis but also from gluconeogenesis and from 
+other sugars, such as galactose and fructose.
+Fructose-­1,6-­diphosphatase deficiency. This defect blocks gluco­
+neo­genesis immediately above the triose-­phosphates (see Fig. 57.1). 
+Affected children present in the first year or the neonatal period 
+with life-­threatening attacks of hypoglycemia and lactic acidemia 
+provoked by fasting stress. Moderate fatty hepatomegaly is commonly 
+seen together with hyperuricemia. Fructose ingestion can precipitate 
+hypoglycemia and lactic acidemia. During controlled fasting, plasma 
+glucose can be maintained in the normal range until 8–12 hours, 
+because glycogenolysis remains normal. Treatment with avoidance 
+of prolonged fasting and restriction of fructose-­containing foods and 
+glycerol is effective in avoiding hypoglycemia.
+Hypoglycemia
+Send genetic testing
+Focal or
+diffuse KATP
+Initiate therapy for HI:
+diazoxide 10-15 mg/kg/day
+Focal
+18F-fluoro-L-
+DOPA
+scan
+Diffuse
+Local resection
+98% pancreatectomy
+GDH, GCK,
+HNF4A, dom
+KATP
+Obtain critical sample & glucagon stim
+testing with BG < 50 mg/dL
+2 mL/kg D10% IV bolus     continuous
+infusion of dextrose
+(–) Diazoxide
+response
+(+) Diazoxide
+response
+(+) Glucagon
+response
+Evaluate critical sample
+& start appropriate
+therapy:
+• hormonal replacement
+  (hypopituitarism)
+• frequent feedings &
+  cornstarch (GSD)
+• avoidance of fasting &
+  starting IVF during
+  illness (FAO defects)
+(–) Glucagon
+response
+Fig. 57.4  Diagnostic and treatment approach in cases of hyperinsulinism. BG, blood glucose; D, dextrose; 
+dom, dominant; FAO, fatty acid oxidation; GCK, glucokinase; GDH, glutamate dehydrogenase; GSD, glyco­
+gen storage disease; HNF4A, hepatic nuclear factor 4-­alpha; IV, intravenous; IVF, intravenous fluids; KATP, 
+adenosine triphosphate–dependent potassium channel. (From De León DD, Thornton PS, Stanley CA, et al. 
+Hypoglycemia in the newborn infant. In: Sperling MA, ed. Pediatric Endocrinology. 4th ed. Philadelphia: Else­
+vier; 2014:171, Fig. 6.8.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1101
+CHAPTER 57  Hypoglycemia
+Pyruvate carboxylase deficiency. Pyruvate carboxylase is one of 
+the four key gluconeogenic enzymes (see Fig. 57.1). It also plays an 
+important role in pyruvate oxidation because it generates oxaloacetate 
+needed to maintain tricarboxylic acid (TCA) cycle activity. The clinical 
+features are often dominated by the defect in pyruvate oxidation and 
+include those of Leigh syndrome and congenital lactic acidemia. 
+However, affected infants are also susceptible to the development of 
+symptomatic hypoglycemia after 8–10 hours of fasting.
+Hepatic Glycogenolysis
+Defects in hepatic glycogenolysis are associated with abbreviated fast­
+ing tolerance, leading to hypoglycemia and hyperketonemia. Defects 
+can occur in either the synthesis or breakdown of hepatic glycogen (see 
+Fig. 57.1). Debrancher enzyme deficiency is the most severe of these 
+defects.
+Debrancher enzyme deficiency (type 3 glycogen storage disease). 
+Children with this disorder usually present in the first year of life with 
+growth delay and massive hepatomegaly. Symptomatic hypoglycemia 
+is not common, because plasma ketone levels are usually elevated and 
+provide the brain with alternative substrate when the glucose level is low. 
+Hypoglycemia develops quickly, often within 3–6 hours after a meal. 
+Treatment with uncooked cornstarch to prolong glucose absorption is 
+useful in preventing hypoglycemia and improving growth. Problems 
+caused by hypoglycemia are ameliorated later in childhood as body 
+mass increases. However, half or more of patients with debrancher 
+enzyme deficiency are at risk for developing progressive muscle 
+weakness and/or cardiomyopathy by the second and third decades of 
+life.
+Phosphorylase/phosphorylase kinase deficiency. The manifes­
+tations of either of these two enzyme defects clinically resemble a 
+very mild form of debrancher enzyme deficiency. Affected infants 
+present with enlarged livers, often in association with impaired 
+growth. Symptomatic hypoglycemia is unusual. Fasting tests show a 
+pattern of accelerated starvation with early onset of hyperketonemia. 
+Treatment to reduce fasting intervals to less than 4–6 hours (e.g., 
+with uncooked cornstarch) is helpful in correcting the failure to 
+thrive. As in debrancher enzyme deficiency, the fasting disturbance 
+becomes less apparent as body mass increases, and the hepatomegaly 
+and growth delay may totally resolve by the end of the first decade. 
+Liver phosphorylase deficiency is recessively inherited; both recessive 
+inheritance and X-­linked inheritance have been reported for 
+phosphorylase kinase deficiency.
+Glycogen synthase deficiency. A small number of patients with 
+deficiency of glycogen synthase have been reported. They have 
+presented with episodes of symptomatic, hyperketotic hypoglycemia 
+after fasts of 10–12 hours. Mild hepatomegaly may be present because 
+of the increased deposition of triglycerides that is common in all of 
+the glycogenoses. Treatment with uncooked cornstarch at bedtime 
+may be helpful in avoiding symptomatic episodes of early-­morning 
+hypoglycemia.
+Fatty Acid Oxidation Disorders
+Genetic defects in fatty acid oxidation interfere with the ketotic phase 
+of fasting adaptation. The most common of the disorders is medium-­
+chain acyl-­coenzyme A (CoA) dehydrogenase (MCAD) deficiency. 
+Children with MCAD deficiency present with acute attacks of life-­
+threatening coma and hypoketotic hypoglycemia that are usually 
+precipitated by fasting stresses of 12 hours or longer. Attacks are 
+triggered by intercurrent illnesses that impair feeding, especially 
+gastroenteritis. The clinical features mimic Reye syndrome, with 
+coma, elevated liver transaminase levels, and mild hepatomegaly 
+with steatosis. More severe forms of fatty acid oxidation disorders 
+also involve skeletal and cardiac muscle and may manifest with 
+cardiomyopathy and chronic muscle weakness or acute episodes of 
+rhabdomyolysis. More than 12 different defects in the pathway of 
+fatty acid oxidation have been identified; all are recessively inher­
+ited. Many states have neonatal screening programs in which dual 
+tandem mass spectrometry of blood spot acyl-­carnitine profiles are 
+used to detect MCAD deficiency and several of the other fatty acid 
+oxidation disorders. This is important for presymptomatic detection 
+and treatment because the mortality rate at the first presentation may 
+be higher than 25%.
+Other Metabolic Causes of Hypoglycemia
+Glucose transporter 1 deficiency. Isolated hypoglycorrhachia 
+(low cerebrospinal fluid glucose level) in association with normal 
+concentrations of plasma glucose has been demonstrated in several 
+infants with intractable seizures in early infancy caused by a deficiency 
+of glucose transporter 1 (GLUT1). GLUT1 is the plasma membrane 
+carrier protein responsible for glucose transport across the blood-­
+brain barrier, as well as into red blood cells. Affected patients are 
+heterozygous for a GLUT1 variant and have persistently low levels of 
+spinal fluid glucose, ranging from 20 to 30 mg/dL. Seizures may begin 
+in the neonatal period and respond poorly to treatment with antiseizure 
+drugs. Progressive brain damage, microcephaly, and developmental 
+delay occur in untreated patients. Several patients have been reported 
+to respond very well to treatment with a ketogenic diet, which restricts 
+carbohydrates and keeps plasma levels of ketones elevated to 3–6 
+mEq/L.
+Hereditary fructose intolerance. Hereditary fructose intolerance 
+is caused by a recessively inherited deficiency of hepatic fructose-­
+aldolase, which transforms fructose-­1-­phosphate to the triose-­
+phosphates. Affected patients cannot metabolize dietary fructose or 
+sucrose (table sugar) in the liver or intestinal mucosa for conversion 
+to glucose. Chronic fructose intake in young infants may cause 
+liver dysfunction, acidemia, failure to thrive, hyperuricemia, and, 
+ultimately, liver failure. In affected older children, ingestion of 
+fructose causes severe abdominal pain, and these children may 
+learn by experience to avoid fructose and thus escape identification. 
+Fasting tolerance is normal, but ingestion of large amounts of fructose 
+may provoke postprandial hypoglycemia by tying up intracellular 
+phosphate and thus blocking glycogenolysis. Treatment is avoidance 
+of dietary sources of fructose.
+Galactosemia (galactose-­1-­phosphate uridyl transferase defici­
+ency). This is a serious inborn error of metabolism wherein many of 
+the long-­term consequences of the metabolic defect can potentially 
+be prevented by early intervention. For this reason, all infants born in 
+the United States are screened for galactosemia in the neonatal period. 
+Absence of galactose-­1-­phosphate uridyl transferase prevents the con­
+version of galactose to glucose and results in accumulation of galactose-­
+1-­phosphate in the liver and other tissues. It has been suggested that 
+accumulation of this metabolite inhibits the enzyme involved in the 
+conversion of glucose-­1-­phosphate to glucose-­6-­phosphate and thus 
+decreases the production of glucose from glycogen, thereby produc­
+ing hypoglycemia. Depending on the magnitude of the defect, affected 
+infants may present in the immediate neonatal period or later in infancy. 
+The patients do not tolerate galactose or lactose. Intolerance to lactose in 
+milk, the major nutrient containing galactose, is evident soon after birth 
+when feedings are initiated. The infant may present with vomiting, fail­
+ure to thrive, hepatomegaly, and indirect or direct hyperbilirubinemia. 
+In severe or untreated cases, lenticular opacities, aminoaciduria, and 
+intellectual disability may occur. In untreated patients, progressive hep­
+atomegaly, cirrhosis, and hepatic failure may develop. Affected infants 
+are at increased risk for Escherichia coli sepsis.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1102
+SECTION 11  Endocrine and Metabolic Disorders
+Any infant with persistent jaundice, hepatomegaly, and failure to 
+thrive should be tested for galactosemia. A presumptive diagnosis can 
+be made by the presence of reducing sugar (Clinitest positive) that is 
+not glucose (i.e., the glucose enzyme test result is negative) in the urine. 
+This test should be performed while the infant is being fed a galactose-­
+containing formula. The diagnosis should be confirmed by measuring 
+the enzyme activity in the red blood cells.
+Treatment consists of elimination of galactose from the diet. Despite 
+treatment, which results in prevention of hepatic disease and of intel­
+lectual disability, many affected older children demonstrate learning 
+and behavior problems.
+Reactive Hypoglycemia
+Reactive or postprandial hypoglycemia is extremely rare in the pediat­
+ric age range and, even in adults, may be overdiagnosed. Three situa­
+tions in infants and children present with reactive hypoglycemia:
+Glutamate dehydrogenase-­hyperinsulinism, hyperinsulinism/
+hyperammonemia syndrome. Affected children have fasting 
+hypoglycemia but, because of their leucine sensitivity, may also 
+develop symptomatic hypoglycemia within 30–90 minutes of 
+eating a high-­protein meal.
+Post–Nissen fundoplication hypoglycemia (late dumping syn­
+drome). Like patients who have had gastric surgery, infants who have 
+undergone Nissen fundoplication procedures for gastroesophageal 
+reflux can develop recurrent attacks of postprandial hypoglycemia. The 
+hypoglycemia may be severe enough to produce seizures and perma­
+nent brain damage. The mechanism is thought to involve rapid gastric 
+emptying that leads to a rapid rise in plasma glucose accompanied by 
+a delayed but excessive insulin response, which is followed by a pre­
+cipitous fall in plasma glucose to hypoglycemic levels 30–90 minutes 
+after a meal.
+Hereditary fructose intolerance. Patients with this disorder develop 
+acute abdominal discomfort and hypoglycemia within a short period 
+of time after an oral load of fructose (e.g., fruit, fruit juice, or sucrose).
+Ketotic Hypoglycemia
+Idiopathic ketotic hypoglycemia (IKH) is the most frequent cause of 
+hypoglycemia in children between 1 and 5 years of age and typically 
+occurs after a period of poor food intake. Due to the overlap with signs 
+of other common diseases like psychiatric disorders, migraine, gastric 
+disorders, or visual disturbances, diagnosis of IKH is often delayed. If a 
+child with normal growth and psychomotor development presents with 
+a first episode of symptomatic hypoglycemia that improves quickly with 
+glucose administration, IKH should be considered. Obtaining urinary 
+ketones to assess for ketonuria at the time of hypoglycemia is helpful 
+to make the diagnosis and other hormonal and metabolic work-­up can 
+safely be deferred. However, if the child presents with frequent recur­
+rences, extensive work-­up to assess for adrenal insufficiency or growth 
+hormone deficiency or metabolic pathway defects (glycogen storage 
+disease) should be considered. Hypoglycemic attacks secondary to 
+IKH can be prevented by supplying frequent snacks containing com­
+plex carbohydrates, so-­called “slow sugars,” particularly at bedtime.
+DIAGNOSIS OF HYPOGLYCEMIA
+Critical Samples
+Tests on the specimens of blood and urine obtained at the time of 
+hypoglycemia provide the key information for diagnosis (Tables 57.7 
+and 57.8 and Fig. 57.5). Ideally, these specimens are collected during 
+hypoglycemia, immediately before treatment is begun. It is best to col­
+lect some extra tubes of plasma and urine just before giving intrave­
+nous dextrose, to set aside for later decisions about which other tests 
+to order. Tests should include plasma glucose measurement and vari­
+ous metabolic precursors and hormones involved in glucose counter-­
+regulation, including glucose, bicarbonate, insulin, growth hormone, 
+cortisol, lactate, pyruvate, ammonia, β-­hydroxybutyrate, FFA, carni­
+tine, acyl-carnitine profile, and a urine sample for organic acid analysis 
+and ketones. Additional tests to consider include transaminases, uric 
+acid, triglycerides, and creatinine kinase levels. Fig. 57.5 shows a para­
+digm for diagnosis of different hypoglycemic disorders that is based on 
+analysis of the critical samples.
+Fasting Study
+In some cases, a formal fasting test is advised to establish the etiology 
+of hypoglycemia. This should only be done in a well-­controlled setting 
+with adequate monitoring by experienced medical and nursing staff. 
+Fasting is usually begun at 8 p.m. after bedtime snack or sometimes in 
+the morning, especially in younger patients, to make sure that there is 
+enough supervision and staff available during the time hypoglycemia 
+occurs.
+Useful “Casual Specimen” Tests
+Only a few tests are informative except at times of hypoglycemia. These 
+include plasma acyl-­carnitine profiles and plasma total and free car­
+nitine levels (for suspected fatty acid oxidation defects) and plasma 
+ammonia (for the HI/HA syndrome).
+Glucagon Stimulation
+If HI is suspected, a glucagon stimulation test at the onset of hypogly­
+cemia (50 mg/dL) may be confirmatory. A glycemic response exceed­
+ing 30 mg/dL is consistent with HI, because the normal response 
+would be to have depleted liver glycogen reserves well before reaching 
+hypoglycemia.
+Acute Insulin Response Tests for Hyperinsulinism
+β-­Cell responsiveness to different secretagogues (calcium, leucine, glu­
+cose, tolbutamide) can be used to define specific genetic forms of HI 
+and to distinguish focal from diffuse pancreatic disease preoperatively.
+Plasma Acyl-­Carnitine Profile
+Dual tandem mass spectrometry methods have been developed for 
+analyzing plasma acyl-­carnitine profiles and other metabolites in small 
+samples, such as filter paper blood spots. These assays are useful for 
+screening for most of the genetic fatty acid oxidation disorders (e.g., 
+MCAD deficiency) and should be performed before patients sus­
+pected to have such a defect begin a formal fasting test. Many states 
+incorporate these methods for neonatal screening of up to 30 differ­
+ent inborn errors of metabolism. Some fatty acid oxidation defects do 
+not cause abnormal acyl-­carnitine profiles; examples include carnitine 
+palmityl-­transferase 1 deficiency, carnitine transporter deficiency, and 
+β-­hydroxy-­β-­methylglutaryl-­CoA dehydrogenase deficiency. These 
+disorders must be investigated with additional in vivo and in vitro tests.
+Urinary Organic Acid Quantitation
+Assays of urinary metabolites by gas chromatography–mass spectrom­
+etry are also useful in identifying specific defects in fatty acid oxidation. 
+Abnormalities are most pronounced during activation of lipolysis, such 
+as at the end of a diagnostic fasting test or in the “critical sample” urine 
+collected at the time of an acute illness.
+Cultured Cells
+For in vitro diagnosis of fatty acid oxidation defects, cultured cells from 
+patients, such as skin fibroblasts or lymphoblasts, may be useful for test­
+ing overall pathway activity, for assaying activities of candidate enzymes, 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1103
+CHAPTER 57  Hypoglycemia
+TABLE 57.8  Clinical Manifestations and Differential Diagnosis in Childhood Hypoglycemia
+Condition
+Hypoglycemia
+Urinary 
+Ketones or 
+Reducing 
+Sugars
+Hepatomegaly
+SERUM
+EFFECT OF 24–36-­HR FAST ON PLASMA
+GLYCEMIC 
+RESPONSE 
+TO GLUCA­
+GON
+GLYCEMIC 
+RESPONSE TO 
+INFUSION OF
+Lipids
+Uric Acid Glucose Insulin
+Ketones Alanine
+Lactate Fed
+Fasted
+Alanine
+Glycerol
+Normal
+0
+0
+0
+Normal
+Normal
+↓
+↓
+↑
+↓
+Normal
+↑
+↓
+Not 
+indicated
+Hyperinsulinemia
+Recurrent severe
+0
+0
+Normal 
+or ↑
+Normal
+↓↓
+↑↑
+↓↓
+Normal
+Normal
+↑
+↑
+Not 
+indicated
+Ketotic 
+hypoglycemia
+Severe with 
+missed meals
+Ketonuria 
++++
+0
+Normal
+Normal
+↓↓
+↓
+↑↑
+↓↓
+Normal
+↑
+↓↓
+Not 
+indicated
+Fatty acid 
+oxidation 
+disorder
+Severe with 
+missed meals
+Absent
+0 to + Abnormal 
+liver function test 
+results
+Abnormal
+↑
+Contraindicated
+↑
+↓
+Not 
+indicated
+Hypopituitarism
+Moderate with 
+missed meals
+Ketonuria ++
+Normal
+Normal
+↓↓
+↓
+↑↑
+↓↓
+Normal
+↑
+↓↓
+↑
+↑
+Adrenal 
+insufficiency
+Severe with 
+missed meals
+Ketonuria ++ 0
+Normal
+Normal
+↓↓
+↓
+↑↑
+↓↓
+Normal
+↑
+↓↓
+↑
+↑
+Enzyme 
+deficiencies
+Severe-­constant
+Ketonuria 
++++
++++
+↑↑
+↑↑
+↓↓
+↓
+↑↑
+↑↑
+↑↑
+0
+0-­↓↓
+0
+0
+Glucose-­6-­
+phosphatase 
+debrancher
+Moderate with 
+fasting
+++
+++
+Normal
+Normal
+↓↓
+↓
+↑↑
+↓↓
+Normal
+↑
+0-­↓↓
+↑
+↑
+Phosphorylase
+Mild-­moderate
+Ketonuria ++ +
+Normal
+Normal
+↓
+↓
+↑↑
+↓↓
+Normal
+0-­↑
+0-­↓↓
+↑
+↑
+Fructose-­1, 
+6-­diphosphatase
+Severe with 
+fasting
+Ketonuria 
++++
++++
+↑↑
+↑↑
+↓↓
+↓
+↑↑
+↑↑
+↑↑
+↑
+0-­↓↓
+↓
+↓
+Galactosemia
+After milk or milk 
+products
+0 Ketones; 
+(s) +
++++
+Normal
+Normal
+↓
+↓
+↑
+↓
+Normal
+↑
+0-­↓↓
+↑
+↑
+Fructose 
+intolerance
+After fructose
+0 Ketones; 
+(s) +
++++
+Normal
+Normal
+↓
+↓
+↑
+↓
+Normal
+↑
+0-­↓↓
+↑
+↑
+Details of each condition are discussed in the text.
+0, absence; ↑ or ↓, small increase or decrease, respectively; ↑↑ or ↓↓, large increase or decrease, respectively; +, less likely; ++, likely; +++, definitively.
+From Sperling MA. Hypoglycemia. In: Kliegman RM, Stanton BF, St. Geme JW III, et al., eds. Nelson Textbook of Pediatrics. 20th ed. Philadelphia: Elsevier; 2016:780.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1104
+SECTION 11  Endocrine and Metabolic Disorders
+or as a source of DNA for variant analysis. Most enzymes in the pathway 
+are expressed in cultured cells, except for 3-­hydroxy-­3-­methylglutaryl–
+CoA synthase, which is restricted to liver, intestine, and kidney.
+Genetic Analysis
+Genetic variant identification is useful for confirmation of diagnosis and 
+genetic counseling. In a limited number of disorders, common variants 
+that can be easily screened for as a primary diagnostic test have been 
+identified. These include MCAD deficiency, glucose-­6-­phosphatase 
+deficiency, and hyperinsulinemia due to ATP-­binding cassette trans­
+porter 8 (ABCC8), ATP sensitive inward rectifier potassium channel 
+11 (KCNJ11A), mitochondrial glutamate dehydrogenase 1 (GLUD1), 
+hepatic nuclear factor 4-­alpha (HNF4A), glucokinase (GCK), mitochon­
+drial hydroxyacyl-­coenzyme A (HADH), and mitochondrial uncoupling 
+protein 2 (UCP2). Easy access to information about disease-­associated 
+variants is available through the Online Mendelian Inheritance in Man 
+(OMIM) website (http://www.ncbi.nlm.nih.gov/Omim/).
+TREATMENT OF HYPOGLYCEMIA
+The initial treatment of hypoglycemia is to promptly raise the plasma 
+glucose level to normal and maintain it in the range of 80–100 mg/dL. 
+Hypoglycemia: PG≤50 mg/dL
+Maternal & Infant
+History, Physical Exam
+Obtain critical labs if blood sugar
+<50 mg/dL from glucometer: serum glucose
+(to confirm hypoglycemia), GH, cortisol,
+insulin, FFA, β OHB, lactate, urinary ketones
+Acidosis
+High lactate
+Ketosis
+No ketosis & no FFA
+No ketones, high FFA
+Short fasting period
+-Glycogen storage disease
+• Glucose-6-phosphatase
+   deficiency (type 1 GSD)
+-Defects in glycogenolysis
+(type 3, 6, 9 GSD)
+-Normal child
+-Ketotic hypoglycemia
+-Growth hormone or
+ cortisol deficiency
+-Normal neonate
+-Ethanol ingestion
+-IDDM or insulin therapy
+-Oral hypoglycemic agents
+-SGA & birth asphyxia
+-Neonatal hypopituitarism
+-Infants of diabetic mothers
+-Congenital hyperinsulinism
+-Genetic defects in fatty acid
+oxidation
+&
+ketogenesis
+-Defects in hepatic
+gluconeogenesis
+• Fructose-1.6-
+diphosphatase deficiency
+• Pyruvate carboxylase
+deficiency
+• Phosphoenolpyruvate
+deficiency
+Moderate fasting period
+Short to moderate fasting period
+Prolonged fasting period
+No acidosis
+• Debrancher
+• Liver phosphorylase
+• Phosphorylase
+  kinase deficiencies
+Fig. 57.5  Diagnostic algorithm for determining the etiology of hypoglycemia in children. OHB, hydroxybutyr­
+ate; FFA, free fatty acid; GH, growth hormone, GSD, glycogen storage disease; PG, plasma glucose. (Mod­
+ified from Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ. Williams Textbook of Endocrinology. 
+14th ed. Elsevier; 2020:1547, Fig. 38.14.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1105
+CHAPTER 57  Hypoglycemia
+For long-­term management, the minimum goal of therapy is always to 
+keep the plasma glucose level above 60 mg/dL.
+Whenever treatment begins in a patient with new-­onset hypogly­
+cemia, every effort should be made to collect the critical samples for 
+diagnosis. One extra tube of 5 mL of plasma or serum (green-­top or 
+red-­top tube) is sufficient to measure key chemistry levels, fuels, and 
+hormones. An extra tube of 10 mL or more of urine should also be 
+collected for urinary organic acid quantitation.
+For emergency treatment of hypoglycemia, an intravenous bolus of 
+dextrose, 200 mg/kg, is given rapidly, and then a continuous intrave­
+nous infusion is begun to run at a rate equal to at least normal hepatic 
+glucose output (about 4–6 mg/kg/min). With 10% dextrose solutions, 
+this means a bolus of 2 mL/kg followed by continuous infusion at 
+maintenance rates. Infants with HI may require considerably higher 
+rates of dextrose infusion, up to 20–30 mg/kg/min. Infants with fatty 
+acid oxidation disorders should receive sufficient dextrose to ensure 
+that insulin secretion is stimulated enough to suppress lipolysis—that 
+is, 10% dextrose at 8–10 mg/kg/min—and to maintain all plasma glu­
+cose levels slightly above 100 mg/dL. Glucagon may be used to treat 
+hypoglycemia on an emergency basis, but only if the hypoglycemia is 
+known to be caused by HI; a dose of 1 mg should be used at all ages to 
+avoid undertreatment.
+   	 SUMMARY AND RED FLAGS
+Hypoglycemia has many manifestations and must be thought of as a cause 
+of nonspecific signs in newborns. It is a readily treatable cause of lethargy, 
+coma, and seizures. Other affected children have signs of catecholamine 
+excess. Untreated symptomatic hypoglycemia is life-­threatening and can 
+produce significant, irreversible central nervous system injury.
+Red flags include metabolic acidosis (inborn errors of metabo­
+lism, sepsis); a positive family history (inborn errors of metabolism, 
+hyperinsulinism, hypoglycemic agents); hypoketonuria (hyperinsu­
+linemia, fatty acid oxidation defects) and high glucose infusion rates 
+(hyperinsulinism); onset during adolescence (drugs or alcohol); hep­
+atomegaly (glycogen storage disease, other inborn errors of metab­
+olism); feeding intolerance (galactosemia); or recurrent or a family 
+history of emesis, lethargy, coma, or sudden infant death syndrome 
+(medium-­chain acyl dehydrogenase deficiency).
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1105.e1
+BIBLIOGRAPHY
+General
+Cornblath M, Hawdon JM, Williams AF, et al. Controversies regarding 
+definition of neonatal hypoglycemia: suggested operational thresholds. 
+Pediatrics. 2000;105:1141–1145.
+Drachmann D, Hoffmann E, Carrigg A, et al. Towards enhanced 
+understanding of idiopathic ketotic hypoglycemia: a literature review 
+and introduction of the patients organization, Ketotic Hypoglycemia 
+International. Orphanet J Rare Dis. 2021;16:173.
+Gandhi K. Approach to hypoglycemia in infants and children. Transl Pediatr. 
+2017;6(4):408–420.
+Kaplowitz P, Sekizkardes H. Clinical and laboratory characteristics and follow 
+up of 62 cases of ketotic hypoglycemia: a retrospective study. Int J Pediatr 
+Endocrinol. 2019:3. https://doi.org/10.1186/s13633-­019-­0066-­9.
+Online Mendelian Inheritance in Man. Available at: http://www.ncbi.nlm.nih.
+gov/Omim/.
+Scriver CR, Sly WS, Childs B, et al., eds. The Metabolic and Molecular Basis of 
+Inherited Disease. 8th ed. New York: McGraw-­Hill; 2001.
+Stanley CA, Baker L. The causes of neonatal hypoglycemia. N Engl J Med. 
+1999;340:1200–1201.
+Stanley CA, Thornton PS, Finegold DN, et al. Hypoglycemia in neonates and 
+infants. In: Sperling MA, ed. Pediatric Endocrinology. Philadelphia: WB 
+Saunders; 2002.
+Thornton PS, Finegold DN, Stanley CA, et al. Hypoglycemia in the infant 
+and child. In: Sperling MA, ed. Pediatric Endocrinology. Philadelphia: WB 
+Saunders; 2002.
+Thornton PS, Stanley CA, De Leon DD, Pediatric Endocrine Society, et al. 
+Recommendations from the Pediatric Endocrine Society for evaluation 
+and management of persistent hypoglycemia in neonates, infants, and 
+children. J Pediatr. 2015;167(2):238–245.
+Hyperinsulinism
+Aynsley-­Green A, Hussain K, Hall J, et al. Practical management of hyper­
+insulinism in infancy. Arch Dis Child Fetal Neonatal Ed. 2000;82:F98–F107.
+Collins JE, Leonard JV, Teale D, et al. Hyperinsulinaemic hypoglycaemia in 
+small for dates babies. Arch Dis Child. 1990;65:1118–1120.
+De Leon DD, Stanley CA. Congenital hypoglycemia disorders: new aspects 
+of etiology, diagnosis, treatment, and outcomes. Pediatr Diabetes. 
+2017;18(1):3–9.
+DeVivo DC, Trifiletti RR, Jacobson RI, et al. Defective glucose transport 
+across the blood-­brain barrier as a cause of persistent hypoglycorrhachia, 
+seizures, and developmental delay. N Engl J Med. 1991;325:703–709.
+Ferry Jr RJ, Kelly A, Grimberg A, et al. Calcium-­stimulated insulin secretion 
+in diffuse and focal forms of congenital hyperinsulinism. J Pediatr. 
+2000;137:239–246.
+Glaser B, Kesavan P, Heyman M, et al. Familial hyperinsulinism caused by an 
+activating glucokinase mutation. N Engl J Med. 1998;338:226–230.
+Glaser B, Thornton P, Otonkoski T, et al. Genetics of neonatal hyper­
+insulinism. Arch Dis Child Fetal Neonatal Ed. 2000;82:F79–F86.
+Grimberg A, Ferry RJ, Kelly A, et al. Dysregulation of insulin secretion in 
+children with congenital hyperinsulinism due to sulfonylurea receptor 
+mutations. Diabetes. 2001;50:322–328.
+Huopio H, Reimann F, Ashfield R, et al. Dominantly inherited hyper­
+insulinism caused by a mutation in the sulfonylurea receptor type 1. J Clin 
+Invest. 2000;106:897–906.
+MacMullen C, Fang J, Hsu BYL, et al. Hyperinsulinism/hyperammonemia 
+syndrome in children with regulatory mutations in the inhibitory GTP 
+binding domain of glutamate dehydrogenase. J Clin Endocrinol Metab. 
+2001;86:1782–1787.
+Munns CFJ, Batch JA. Hyperinsulinism and Beckwith-Wiedemann syndrome. 
+Arch Dis Child Fetal Neonatal Ed. 2001;84:F67–F69.
+Santer R, Schneppenheim R, Dombrowski A, et al. Mutations in GLUT2, the 
+gene for the liver-­type glucose transporter, in patients with Fanconi-­Bickel 
+syndrome. Nat Genet. 1997;17:324–326.
+Stanley CA. Hyperinsulinism in infants and children. Pediatr Clin North Am. 
+1997;44:363–374.
+Fatty Acid Oxidation Disorders
+Stanley CA, Hale DE. Genetic disorders of mitochondrial fatty acid oxidation. 
+Curr Opin Pediatr. 1994;6:476.
+Treem WR, Shoup ME, Hale DE, et al. Acute fatty liver of pregnancy, hemol­­
+ysis, elevated liver enzymes, and low platelets syndrome, and long chain 
+3-­hydroxyacyl-­coenzyme A dehydrogenase deficiency. Am J Gastroenterol. 
+1996;91:2293–2300.
+Ziadeh R, Hoffman EP, Finegold DN, et al. Medium chain acyl-­CoA 
+dehydrogenase deficiency in Pennsylvania: neonatal screening shows 
+high incidence and unexpected mutation frequencies. Pediatr Res. 
+1995;37:675.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

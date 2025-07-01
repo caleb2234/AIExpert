@@ -1,0 +1,1307 @@
+190
+The first step in the evaluation of a child for hypertension is to define 
+whether the child is in fact hypertensive. For children under 13 years 
+of age, the normative data for blood pressure are interpreted based on 
+gender, age, and height because all these are variables that influence 
+blood pressure norms. The current hypertension definition and staging 
+lead to seamless interfacing with the 2017 American Heart Association 
+(AHA) and American College of Cardiology (ACC) adult hypertension 
+guidelines for children over 13 years of age (Table 11.1).
+Data on blood pressure tracking from childhood to adulthood 
+demonstrate that higher blood pressure in childhood correlates with 
+hypertension in young adulthood. Autopsy and imaging studies reveal 
+that hypertension is associated with poorer markers of vascular aging, 
+which are known to predict cardiovascular events in adults.
+PRESENTATION
+Symptoms
+Hypertension can be silent or may present with symptoms related to 
+high blood pressure or the primary disease producing the hypertension 
+(e.g., pheochromocytoma, lupus). Chronic hypertension is silent in 
+most cases, but acute hypertension is typically symptomatic. A detailed 
+history and physical examination will help guide the assessment of eti­
+ology and urgency for management. Summaries are provided in Tables 
+11.2 and 11.3. Eliciting symptoms related to acute hypertension that 
+could indicate urgency is critical in the initial assessment and man­
+agement. Presentations with severe headache, vision changes, chest 
+pain, respiratory distress, abdominal pain, seizure, or acute neurologic 
+changes with elevated blood pressure should be considered emergent 
+in any age group and need immediate attention.
+In addition to symptoms secondary to the hypertension, those 
+related to potential etiology should be sought, especially since most 
+hypertension in children is not primary hypertension. Renal causes 
+are high in the differential in all children but vary according to age. 
+Potential causes for each age group (Tables 11.4 and 11.5) help guide 
+the symptoms to be elicited and focus the physical examination. Neo­
+nates may present with gross hematuria or an abdominal mass. In later 
+infancy the presentation may be similar to that in neonates, but edema 
+would suggest glomerular pathology. Infants may also present with 
+nonspecific symptoms of poor growth, weight loss, and/or fussiness. 
+Childhood and adolescent acute hypertension may present with symp­
+toms of gross hematuria, edema, rash, joint complaints, respiratory 
+symptoms, or diarrhea depending on the etiology. Urinary symptoms 
+can be a presentation of hypertension in childhood that would suggest 
+a urologic abnormality not previously discovered. In later childhood 
+and adolescence, the risk of recreational drug use increases, so symp­
+toms of lethargy, irritability, anorexia, and poor school performance 
+are relevant. Sleep problems could be related to sleep apnea or illicit 
+drug use. Episodic palpitation or flushing may be symptoms related to 
+catecholamine-­secreting tumors or hyperthyroidism. Some disorders 
+produce transient or intermittent hypertension (Table 11.6).
+Physical Examination
+Accurate blood pressure measurement is fundamental in identification 
+of hypertension. Manual, auscultatory blood pressure is the most accu­
+rate, and the normative data are based on this method of blood pres­
+sure measurement. An accurate reading depends on positioning and 
+appropriate cuff size. Sitting relaxed with uncrossed feet on the floor 
+with the back supported and using a cuff with a bladder that covers a 
+minimum of 80% midarm circumference and 40% of arm length are 
+optimal.
+In infants and those in whom Korotkoff sounds are not well heard, 
+Doppler can be used to measure blood pressure accurately, but only 
+systolic readings are obtained by that method. An oscillatory method 
+may not be accurate but is useful as a screening tool, if done with a 
+device calibrated for pediatric use. In an emergency setting a manual 
+blood pressure measurement may not be feasible initially. A well-­
+calibrated oscillatory device can be used for initial screening and fre­
+quent monitoring, and then validated with auscultatory method at the 
+earliest opportunity.
+Blood pressure measurement should be done on the right arm, 
+unless there is known atypical anatomy that can confound that assess­
+ment. If blood pressure is found there to be elevated, four extremity 
+readings should be obtained to evaluate for vascular anomalies, in 
+particular aortic coarctation, which might further be suggested by the 
+presence of a heart murmur. Lower extremity blood pressure is typ­
+ically equal or higher than upper extremity blood pressure. Finding 
+right upper extremity blood pressure >10 mm Hg above that of lower 
+extremity blood pressure is a strong indication of aortic coarctation.
+If the initial blood pressure reading is in the elevated blood pres­
+sure or stage 1 hypertension range, additional readings should be 
+obtained on different days over days to weeks to confirm the presence 
+of true hypertension. If there is concern that anxiety with clinic visits is 
+affecting blood pressure assessment, 24-­hour ambulatory blood pres­
+sure monitoring (ABPM) can be used to separate those with sustained 
+hypertension from those with “white coat hypertension.” ABPM pro­
+vides frequent readings in the home setting with diurnal information. 
+The standards used for these readings are different from the casual 
+blood pressure reading guidelines mentioned earlier.
+Other pertinent physical examination information is critical in 
+determining the urgency of the situation as well as the etiology. Abnor­
+mal fundoscopic findings such as papilledema and retinal hemorrhages 
+and focal neurologic or encephalopathic findings are indicative of 
+acute hypertensive emergency and the need for immediate therapeu­
+tic intervention along with prompt evaluation to identify the etiology. 
+The physical findings help lead to both the effects of hypertension and 
+the potential etiology. The presence of a gallop rhythm and rales on 
+Hypertension
+Scott K. Van Why and Rajasree Sreedharan
+11
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+191
+CHAPTER 11  Hypertension
+auscultation of the heart and lungs, along with edema, indicates vol­
+ume overload as the cause of severe symptomatic hypertension, pos­
+sibly from underlying glomerulonephritis. Edema, rash, and arthritis 
+would suggest hypertension secondary to renal involvement from 
+potential autoimmune disease. Diminished lower extremity pulses 
+with discrepancy between upper and lower extremity blood pressures, 
+along with a heart murmur, point to coarctation of the aorta. Abdomi­
+nal or flank bruit may be present with renal artery stenosis. Findings of 
+body habitus suggestive of Cushing syndrome, ambiguous genitalia, or 
+features of hyperthyroidism can direct evaluation to endocrine causes. 
+Physical exam findings associated with genetic syndromes that can 
+have hypertension caused by abnormal renal or vascular development 
+include coloboma, lens dislocation, ear tags, brachial cysts, café-­au-­lait 
+spots, or a webbed neck (see Table 11.3).
+ETIOLOGY
+Hypertension in children is uncommon and when present is usually 
+from an identifiable cause other than primary essential hypertension. 
+The preponderance of hypertension in adulthood is either primary 
+hypertension, formerly called “essential hypertension,” or hypertension 
+secondary to diabetic nephropathy. While the prevalence of primary 
+hypertension is rising in childhood, the cause of hypertension in chil­
+dren and adolescents usually is secondary to an identifiable cause, and 
+is most often from renal disease. Disease processes that cause hyper­
+tension in childhood typically manifest at different ages, with the major 
+differences being between infants and older children.
+INFANTILE HYPERTENSION
+Neonatal
+Causes of hypertension identified during infancy can be separated into 
+neonatal forms and those identified later during infancy (see Table 
+11.4). During the neonatal period causes of elevated blood pressure are 
+typically identified in the context of prenatal fetal imaging, premature 
+birth, or perinatal stress. The principal causes in this age group can 
+be separated between abnormalities in the vasculature or renal archi­
+tecture. With premature birth, vital signs are routinely monitored, so 
+hypertension is readily identified in this group. In apparently healthy 
+term neonates blood pressure is not routinely assessed after discharge 
+from the nursery, so hypertension is often not identified unless symp­
+toms or signs dictate, such as development of a cardiac murmur, gross 
+hematuria, presentation in extremis from severe hypertension, or pal­
+pation of an intraabdominal mass.
+The most common cause of hypertension in the neonate is hyper­
+tension associated with premature birth. In this context the majority 
+of causes are vascular related, with the preponderance secondary to 
+having had an umbilical artery catheter (UAC) for needed vascular 
+access. While rarely identifiable by any imaging study, presumptively 
+these infants sustain a focal thromboembolic insult to a kidney that 
+then drives the elevation in blood pressure. This cause of hyperten­
+sion tends to improve over time. Often antihypertensive treatment for 
+this cause can be discontinued during later infancy or early childhood. 
+However, hypertension can then recur later in childhood. Less com­
+monly, having had a UAC is associated with being found to have renal 
+TABLE 11.1  2017 American Heart Association (AHA) and American College of Cardiology (ACC) 
+Adult Hypertension Guidelines for Children over 13 Years of Age
+For Children Aged 1 to <13 yr
+For Children Aged ≥13 yr
+Normal BP
+<90th percentile
+<120/<80 mm Hg
+Elevated BP
+≥90th to <95th percentile or 120/80 mm Hg to <95th percentile (whichever is lower)
+120–129/<80 mm Hg
+Stage 1 Hypertension
+≥95th to <95th percentile + 12 mm Hg or 130–139/80–89 mm Hg (whichever is lower)
+130–139/80–89 mm Hg
+Stage 2 Hypertension
+≥95th percentile + 12 mm Hg or ≥140/90 mm Hg (whichever is lower)
+≥140/90 mm Hg
+Data extracted from Gidding SS, Whelton PK, Carey RM, et al. Aligning adult and pediatric blood pressure guideline. Hypertension. 2019;73:938–943.
+TABLE 11.2  History and Physical Exam in 
+the Evaluation of Hypertension
+History
+Hypertension-­related symptoms: headache, dizziness, 
+blurry vision, altered mental status, chest pain, 
+palpitations
+Etiology-­related symptoms: hematuria, joints, swelling 
+edema, rash, cardiac/respiratory issues, voiding 
+problems
+Past history: prematurity and related issues, intensive 
+care unit stay and related issues, urinary issues 
+including infection
+Social history: include drug and supplement history
+Family history: renal issues or blood pressure problems
+Physical exam
+ • Accurate method for casual measurement
+ • Relaxed child in exam room with uncrossed feet on 
+floor and back supported
+ • Auscultatory method
+ • Appropriate-­size cuff
+ 
+• Bladder length 80% of the midarm circumference
+ 
+• Bladder width at least 40%
+ • All-­extremity blood pressure measurements
+ • Confirm
+ • Measure on 3 different days
+ • ABPM
+ • Findings in symptomatic hypertension
+ • Focal neurologic finding
+ • Papilledema
+ • Gallop cardiac rhythm on auscultation
+ • Other findings
+ • Constitutional: obesity, syndromic features
+ • Fundus: retinal hemorrhage, arterial narrowing, 
+papilledema
+ • Skin: rash, purpura, café-­au-­lait
+ • Swelling: Edema: periorbital or extremity
+ • Cardiac: femoral radial pulse lag, murmur
+ • Abdominal mass, bruit
+ • Occasional findings
+ • Coloboma
+ • Ear tag/pit
+ • Webbed neck
+ • Genital abnormality
+ABPM, ambulatory blood pressure monitoring.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+192
+SECTION 3  Cardiac Disorders
+artery stenosis later during infancy or early childhood, presumptively 
+acquired from focal injury to the ostium of the renal artery that then 
+progresses to ostial stenosis and subsequent hypertension.
+Renal vein thrombosis occurs in infants subjected to perinatal 
+stress or volume depletion but can occur spontaneously in an other­
+wise healthy infant. The combination of gross hematuria, hypertension, 
+and low platelet count should alert the clinician to this possibility. Dop­
+pler study of the renal veins typically identifies a significant thrombus, 
+at times with associated diminished global renal perfusion.
+Congenital vascular abnormalities that cause hypertension in the 
+neonate include congenital renal artery stenosis and aortic coarctation. 
+The former is a difficult diagnosis to establish during infancy. Aortic 
+coarctation is readily identified with four-­extremity blood pressure 
+measurement and confirmation with echocardiography.
+With the routine use of prenatal fetal ultrasound, the majority of 
+renal structural causes of neonatal hypertension are identified prior to 
+birth. These are broadly categorized as congenital abnormalities of 
+the kidneys and urinary tract (CAKUT) and include cystic kidney 
+disease and abnormalities of drainage of the urinary tract. While many 
+forms of CAKUT do not cause hypertension, those associated with uri­
+nary tract obstruction are more likely to have hypertension as a man­
+ifestation. This includes any form of bladder outlet obstruction, such 
+as with neurogenic bladder or urethral valves in males, and ureteral 
+obstruction, most often at the ureteropelvic junction. A multicystic 
+dysplastic kidney on occasion can cause hypertension, but typically 
+hypertension is seen in those associated with ureteral obstruction.
+Polycystic kidney disease (PKD) manifested in infancy is rare, but 
+if seen it is almost always associated with severe hypertension. In this 
+context, the kidneys typically are readily palpable on physical exam and 
+found on ultrasound study to be massively enlarged with cysts. The cause 
+may be either autosomal recessive (ARPKD) or infantile-­onset autosomal 
+dominant (ADPKD). Imaging, including the finding of associated liver 
+abnormalities in ARPKD, may differentiate between the two diagnoses. 
+However, ARPKD and ADPKD at times may not be able to be differenti­
+ated solely on imaging findings or family history. In that instance genetic 
+testing can be helpful, especially for providing a diagnosis of ARPKD.
+TABLE 11.3  Findings to Look for on Physical Examination in Patients with Hypertension
+Physical Findings
+Potential Relevance
+General
+Pale mucous membranes, edema, 
+growth retardation
+Chronic renal disease
+Elfin facies, poor growth, retar­
+dation
+Williams syndrome
+Webbing of neck, low hairline, 
+widespread nipples, wide carry­
+ing angle
+Turner syndrome
+Moon face, buffalo hump, hirsut­
+ism, truncal obesity, striae, acne
+Cushing syndrome
+Habitus
+Thinness
+Pheochromocytoma, renal disease, 
+hyperthyroidism
+Virilization
+Congenital adrenal hyperplasia
+Rickets
+Chronic renal disease
+Skin
+Café-­au-­lait spots, neurofibromas
+Neurofibromatosis, pheochromocytoma
+Tubers, “ash-­leaf” spots
+Tuberous sclerosis
+Rashes
+Systemic lupus erythematosus, vas­
+culitis (Henoch-­Schönlein purpura), 
+impetigo with acute nephritis
+Pallor, evanescent flushing, 
+sweating
+Pheochromocytoma
+Needle tracks
+Illicit drug use
+Bruises, striae
+Cushing syndrome
+Acanthosis nigricans
+Type 2 diabetes, insulin resistance
+Eyes
+Extraocular muscle palsy
+Nonspecific, chronic, severe
+Fundal changes
+Nonspecific, chronic, severe
+Proptosis
+Hyperthyroidism
+Head And Neck
+Goiter
+Thyroid disease
+Adenotonsillar hypertrophy
+Sleep-­disordered breathing
+Webbed neck
+Turner syndrome
+Physical Findings
+Potential Relevance
+Cardiovascular Signs
+Absent of diminished femoral 
+pulses, low leg pressure relative 
+to arm pressure
+Aortic coarctation
+Heart size, rate, rhythm; murmurs; 
+respiratory difficulty, hepato­
+megaly
+Aortic coarctation, congestive heart 
+failure
+Bruits over great vessels
+Arteritis or arteriopathy
+Rub
+Pericardial effusion secondary to 
+chronic renal disease
+Pulmonary Signs
+Pulmonary edema
+Congestive heart failure, acute 
+nephritis
+Picture of bronchopulmonary 
+dysplasia
+Bronchopulmonary dysplasia–associ­
+ated hypertension
+Abdomen
+Epigastric bruit
+Primary renovascular disease or in 
+association with Williams syndrome, 
+neurofibromatosis, fibromuscular 
+dysplasia, or arteritis
+Abdominal masses
+Wilms tumor, neuroblastoma, pheo­
+chromocytoma, polycystic kidneys, 
+hydronephrosis, dysplastic kidneys
+Jaundice
+Alagille arteriohepatic dysplasia
+Neurologic Signs
+Neurologic deficits
+Chronic or severe acute hypertension 
+with stroke
+Muscle weakness
+Hyperaldosteronism, Liddle syndrome 
+(hypokalemic low renin hypertension)
+Genitalia
+Ambiguous, virilized
+Congenital adrenal hyperplasia (11β-­ or 
+17α-­hydroxylase deficiencies)
+Skeletal
+Short metacarpal (4th, 5th) bones, 
+short stature
+Autosomal dominant hypertension with 
+brachydactyly (Bilginturan disease)
+From Kliegman RM, St. Geme JW III, Blum NJ, et al, eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:2494, Table 472.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+193
+CHAPTER 11  Hypertension
+Later Infancy
+Most of the causes of hypertension in the neonatal period may also 
+present during later infancy. However, in the latter context the hyper­
+tension is not found incidentally, but rather often is found due to asso­
+ciated symptoms or signs. This is because blood pressure measurement 
+is not commonly performed in otherwise healthy-­appearing infants 
+because obtaining a valid blood pressure in an infant is challenging.
+Several of the causes of hypertension associated with premature 
+birth may persist or may not manifest until later in infancy. These 
+include intrarenal thrombotic and thromboembolic injury to the 
+kidney that may not have caused hypertension earlier in the neona­
+tal course but present later in infancy. In addition, even without any 
+evident risk factors for a thrombotic or thromboembolic cause, prema­
+ture birth alone, especially severely premature birth, is associated with 
+early-­onset hypertension. The etiology in this scenario is thought to be 
+from the complication of incompletely developed, immature kidneys at 
+birth complicated by events during the early course after birth. Events 
+predisposing to later-­onset hypertension include subclinical insults to 
+the kidneys, such as from multiple nephrotoxins and transient hypo­
+tensive events, causing occult acute kidney injury. In this setting, 
+bronchopulmonary dysplasia itself is associated with development of 
+hypertension in later infancy.
+Congenital vascular and renal architecture abnormalities that cause 
+hypertension may present later in infancy if not found as a neonate. 
+Those caused by CAKUT are found in later infancy either during 
+evaluation for urinary tract infection that can be the presenting fea­
+ture of CAKUT, from evaluation for symptomatic hypertension, or 
+when blood pressure is measured for an acute illness unrelated to the 
+underlying cause of hypertension. Polycystic kidney disease, especially 
+ARPKD in which progression often manifests as rapidly enlarging kid­
+neys during infancy, may be found by palpation of an abdominal mass. 
+Blood pressure when then measured typically is severely elevated.
+TABLE 11.4  Causes of Infantile 
+Hypertension
+Neonatal
+ • Vascular
+ • Thrombotic/thromboembolic: UAC associated or renal vein thrombosis
+ • Aortic coarctation
+ • Renal artery stenosis: congenital or acquired
+ • Congenital urinary tract malformations: obstructive
+ • Polycystic kidney disease
+Later infancy
+ • Prematurity associated
+ • History of thrombotic/thromboembolic renal insult
+ • Renal artery stenosis: congenital or acquired
+ • Immature kidneys, history of renal insults: AKI, nephrotoxins
+ • Bronchopulmonary dysplasia
+ • Congenital urinary tract malformations: obstructive
+ • Polycystic kidney disease
+ • Aortic coarctation
+ • Tumors: nephroblastoma, neuroblastoma
+ • Glomerulopathy
+ • Congenital infection
+ • Congenital/infantile nephrotic syndrome, familial FSGS, Denys-­Drash 
+syndrome
+ • Atypical HUS
+AKI, acute kidney injury; FSGS, focal segmental glomerulosclerosis; 
+HUS, hemolytic uremic syndrome; UAC, umbilical artery catheter.
+TABLE 11.5  Causes of Childhood 
+Hypertension
+Common Causes
+ • Primary obesity associated (metabolic syndrome)
+ • Parenchymal renal disease
+ • Acute and chronic glomerulonephritis
+ 
+• Postinfectious glomerulonephritis
+ 
+• Systemic vasculitis with renal involvement (SLE, HSP, ANCA vasculitis)
+ 
+• Primary, idiopathic (IgA nephropathy, FSGS, crescentic glomerulone­
+phritis)
+ • Hemolytic uremic syndrome
+ • Hereditary cystic kidney disease: PKD, MCKD, nephronophthisis
+ • Sickle cell disease
+ • Interstitial nephritis
+ • End-­stage kidney disease of unknown etiology
+ • Congenital urinary tract malformations: obstructive or cystic dysplasia, 
+either isolated or syndromic
+ • Scarred kidney: congenital Ask-­Upmark kidney or acquired from renal 
+injury (e.g., pyelonephritis)
+ • Drug induced: therapeutic and recreational
+Less Common Causes
+ • Vascular/renal artery stenosis
+ • Aortic coarctation
+ • Fibromuscular dysplasia
+ • Syndromic: Williams syndrome, neurofibromatosis, Turner syndrome, 
+middle aortic syndrome
+ • Tumor-­associated extrinsic compression: Wilms tumor, neuroblastoma, 
+lymphoma
+ • Large-­vessel vasculitis: Takayasu, moyamoya, polyarteritis nodosum
+ • Trauma-­associated perirenal hematoma
+ • Neoplasia: nephroblastoma (Wilms tumor), neuroblastoma, pheochromo­
+cytoma, infiltrative lymphoma
+ • Persistent or late-­onset hypertension from perinatal renal insult, prematu­
+rity associated
+ • Neurologic
+ • High intracranial pressure from head trauma, intracranial tumor, or 
+pseudotumor cerebri
+ • Secondary to seizure
+ • Peripheral neuropathies: Guillain-­Barré, poliomyelitis
+Rare causes
+ • Monogenic
+ • Liddle syndrome
+ • Hyperaldosteronism: familial and glucocorticoid remedial
+ • Congenital adrenal hyperplasia
+ • Gordon syndrome: pseudohypoaldosteronism
+ • Apparent mineralocorticoid excess
+ • Mineralocorticoid receptor gain-of-function mutations (Geller 
+syndrome)
+ • Dysautonomia
+ • Endocrine
+ • Thyroid disease
+ • Cushing syndrome
+ • Catecholamine-­secreting tumors
+ • Hypercalcemia: vitamin D intoxication, hyperparathyroidism, 
+malignancy associated
+ANCA, antineutrophil cytoplasmic antibody; FSGS, focal segmental glo­
+merulosclerosis; HSP, Henoch-­Schönlein purpura; MCKD, multicystic 
+dysplastic kidney; PKD, polycystic kidney disease; SLE, systemic lupus 
+erythematosus.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+194
+SECTION 3  Cardiac Disorders
+Rare causes of hypertension in infancy include intraabdominal 
+tumors, found by palpation of a mass or on imaging for gastrointestinal 
+symptoms. The two most likely tumors in this age group are nephro­
+blastoma or neuroblastoma. Both of these tumors may cause hyper­
+tension by compromising the renal vasculature. Neuroblastoma also 
+can cause hypertension by obstructing the urinary tract, depending on 
+location and size of the tumor, or by secreting catecholamines.
+Rarely, glomerulopathies may manifest in infancy leading to 
+hypertension. These include those secondary to congenital infection 
+such as syphilis and cytomegalovirus (CMV). Congenital or infantile 
+nephrotic syndrome, such as familial focal and segmental glomeru­
+losclerosis (FSGS) or the glomerulopathy of Denys-­Drash syndrome, 
+often present with hypertension. Atypical, nondiarrheal, hemolytic 
+uremic syndrome with accompanying glomerulopathy is rare but can 
+present in infancy with anemia and thrombocytopenia, renal insuffi­
+ciency, and hypertension. The lack of a diarrheal prodrome is a hall­
+mark of the disease.
+CHILDHOOD HYPERTENSION
+While much of childhood hypertension is discovered during evalua­
+tion for an acute illness or symptomatic hypertension, with progression 
+in age hypertension becomes more often found incidentally during 
+examination on a well-­child visit. Table 11.5 outlines common and less 
+common causes of hypertension that present during childhood. Several 
+of the diseases that cause hypertension during early or later childhood 
+may be present during infancy but may not progress to cause signifi­
+cant hypertension until later in the course of the disease. Examples of 
+these include hereditary cystic kidney diseases such as PKD, medul­
+lary cystic kidney disease, nephronophthisis, or any form of CAKUT 
+with an obstructive lesion. CAKUT that can cause hypertension may 
+become apparent in childhood in those who have been diagnosed with 
+a syndrome that has increased risk of associated urinary tract or renal 
+anomalies. These include Turner syndrome, branchio-­oto-­renal syn­
+drome, and coloboma-­renal syndrome. Renal injury sustained early in 
+life, in the setting of either premature birth, perinatal complications, 
+or early pyelonephritis with associated later development of renal scar, 
+may not result in manifested hypertension until later in childhood.
+Common Causes
+The younger the child, the more likely it is that there will an identifiable 
+cause of elevated blood pressure; thus, secondary hypertension will be 
+found with appropriate investigation. Primary hypertension, then, is a 
+diagnosis of exclusion. Primary hypertension in years past was a rare 
+cause of hypertension in childhood. However, the childhood obesity 
+epidemic that has ensued in the past couple of decades has unmasked 
+primary hypertension earlier in life, and lately brought it into prom­
+inence during later childhood and adolescence. When secondary 
+hypertension has been ruled out, primary hypertension is presumed 
+when blood pressure elevation in an older child is not severe, is asymp­
+tomatic, is associated with obesity, and there is family history of early-­
+onset primary hypertension.
+Acute and symptomatic hypertension in childhood is most likely 
+to be secondary to glomerular disease. Acute postinfectious glomer­
+ulonephritis is the most common cause of nephritis in childhood, and 
+often may present with symptomatic hypertension when gross hematu­
+ria is not the heralding symptom. Patients with systemic vasculitis with 
+renal involvement, including lupus, Henoch-Schönlein purpura, and 
+antineutrophil cytoplasmic autoantibody (ANCA) vasculitis, at pre­
+sentation and during flares of the disease often have significant hyper­
+tension as a prominent feature. Hemolytic uremic syndrome (HUS), 
+both toxigenic and atypical familial forms, routinely have associated 
+hypertension during the episode. The hypertension from HUS may 
+abate after the HUS episode resolves, although it may be persistent and 
+become a long-­term sequela requiring chronic treatment.
+Patients with crescentic glomerulonephritis, whether idiopathic 
+or secondary to other identifiable nephropathy, typically have signif­
+icant and often severe hypertension at presentation. Primary idio­
+pathic forms of glomerulonephritis such as immunoglobulin A (IgA) 
+nephropathy and focal segmental glomerulosclerosis (FSGS) may be 
+indolent and not have hypertension at presentation. However, if severe 
+TABLE 11.6  Conditions Associated with 
+Transient or Intermittent Hypertension in 
+Children
+Renal
+Acute postinfectious glomerulonephritis
+Henoch-­Schönlein purpura with nephritis
+Hemolytic uremic syndrome
+Acute kidney injury
+After renal transplantation (immediately and during episodes of rejection)
+Hypervolemia
+Pyelonephritis
+Renal trauma
+Leukemic infiltration of the kidney
+Drugs and Poisons
+Cocaine
+Oral contraceptives
+Sympathomimetic agents
+Amphetamines
+Phencyclidine
+Corticosteroids and adrenocorticotropic hormone
+Cyclosporine, sirolimus, or tacrolimus treatment after transplantation
+Licorice (glycyrrhizic acid)
+Lead, mercury, cadmium, thallium
+Antihypertensive withdrawal (clonidine, methyldopa, propranolol)
+Vitamin D intoxication
+Ma-­huang
+Central and Autonomic Nervous System
+Increased intracranial pressure
+Guillain-­Barré syndrome
+Burns
+Familial dysautonomia
+Stevens-­Johnson syndrome
+Posterior fossa lesions
+Porphyria
+Poliomyelitis
+Encephalitis
+Spinal cord injury (autonomic storm)
+Miscellaneous
+Preeclampsia
+Pain, anxiety
+Hypercalcemia
+After coarctation repair
+White blood cell transfusion
+Extracorporeal membrane oxygenation
+Closure of abdominal wall defect
+Modified from Kliegman RM, St. Geme JW III, Blum NJ, et al., 
+eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia: Elsevier; 
+2020:2492, Table 472.3.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+195
+CHAPTER 11  Hypertension
+and therapy for the primary process is not effective, hypertension then 
+becomes a nearly uniform feature in these patients.
+Early-­onset hypertension in patients with sickle cell disease is usu­
+ally associated with overt sickle cell nephropathy, with significant pro­
+teinuria and developing renal insufficiency that can become manifest 
+during adolescence. However, even without overt sickle cell nephropa­
+thy, this population appears to be prone to earlier-­onset hypertension. 
+The predisposition to hypertension in those with sickle cell disease 
+appears to be secondary to endothelial cell dysfunction.
+Drug-­induced hypertension is common in childhood and adoles­
+cence. Usual agents that cause hypertension include several classes of 
+therapeutic medications, illicit drugs, and other agents including sup­
+plements (see Table 11.6). The majority of these agents cause hyperten­
+sion by enhancing vasoconstriction. Any child or adolescent presenting 
+with severe and symptomatic hypertension who does not have evident 
+renal disease on initial testing and is not on a prescribed medication 
+known to cause hypertension should be evaluated for the possibility of 
+drug-­induced hypertension.
+Less Common Causes
+While less common than renal parenchymal causes of hypertension, 
+vascular causes of hypertension should always be considered in a child 
+with significant hypertension (Table 11.7). Often a child with a vascular 
+cause of hypertension presents with asymptomatic and severe hyper­
+tension with no evident renal disease based on urinalysis or blood tests. 
+Because the hypertension has been long-­standing and gradual, those 
+with aortic coarctation or renal artery stenosis typically present with 
+incidentally found severe hypertension that is asymptomatic. Renal 
+artery stenosis can be idiopathic, such as with fibromuscular dyspla­
+sia, or syndromic. Any child who carries a diagnosis of Williams syn­
+drome, Turner syndrome, or neurofibromatosis should be routinely 
+screened for hypertension, since aortic coarctation (Williams and 
+Turner syndromes) or renal artery stenotic lesions associated with 
+these syndromes are typically asymptomatic and can become manifest 
+as severe hypertension at any time during childhood.
+Renal vascular stenosis or compromise can be acquired acutely 
+and in that setting more often presents as symptomatic hypertension. 
+Tumor compression of renal vasculature from Wilms tumor, abdomi­
+nal neuroblastoma, or lymphoma can cause severe acute hypertension. 
+Large-­vessel vasculitis, such as Takayasu arteritis or moyamoya dis­
+ease, may be occult but then presents with neurologic symptoms and 
+severe hypertension.
+Neoplastic disease, separate from those that cause compromise of 
+the major renal vasculature, can directly cause hypertension. Nephro­
+blastoma or lymphoma may cause hypertension by direct infiltration 
+of normal renal parenchyma. Pheochromocytoma and neuroblastoma 
+cause hypertension through elaboration of excessive catecholamines. 
+This may result in severe and symptomatic hypertension at presenta­
+tion, especially with pheochromocytoma (Table 11.8).
+Neurologic injury or disease often has associated elevation in blood 
+pressure. Typically, the elevated blood pressure is acute and transient, 
+not resulting in long-­standing hypertension. Increased intracranial pres­
+sure from head trauma, intracranial tumor, or idiopathic intracranial 
+hypertension (pseudotumor cerebri) often results in high blood pres­
+sure, which if present speaks to the severity of the intracranial pressure 
+and need for acute intervention for the primary problem. Peripheral 
+neuropathies such as from Guillain-­Barré syndrome or poliomyelitis 
+commonly have hypertension from autonomic dysfunction in the acute 
+phase of the disease. Hypertension in this setting typically resolves with 
+recovery from the illness, but in some cases can persist.
+Blood pressure is often elevated during seizure activity and does 
+not require antihypertensive treatment or specific evaluation if seizure 
+alone is clearly the cause of the elevated blood pressure. However, since 
+hypertensive crisis caused by several underlying diseases, such as acute 
+glomerulonephritis, may present with new-­onset seizures, it must 
+always be considered whether the finding of elevated blood pressure is 
+TABLE 11.7  Causes of Renovascular 
+Hypertension in Children
+Fibromuscular dysplasia
+Syndromic causes
+Neurofibromatosis type 1
+Tuberous sclerosis
+Williams syndrome
+Marfan syndrome
+Other syndromes
+Vasculitis
+Takayasu arteritis (disease)
+Polyarteritis nodosa
+Kawasaki disease
+Other systemic vasculitides
+Extrinsic compression
+Neuroblastoma
+Wilms tumor
+Other tumors
+Other causes
+Radiation
+Umbilical artery catheterization
+Trauma
+Congenital rubella syndrome
+Transplant renal artery stenosis
+From Kliegman RM, St. Geme JW III, Blum NJ, et al., eds. Nelson 
+Textbook of Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:2495, 
+Table 472.7.
+TABLE 11.8  Features Suggestive of 
+Pheochromocytoma
+Hypertension, Persistent or Paroxysmal
+Markedly variable blood pressures (± orthostatic hypotension)
+Sudden paroxysms (± subsequent hypertension) in relation to:
+Stress: anesthesia, angiography, parturition, exercise
+Pharmacologic provocation: histamine, nicotine, caffeine, β blockers, 
+glucocorticoids, tricyclic antidepressants
+Manipulation of tumors: abdominal palpation, urination
+Rare patients persistently normotensive
+Unusual settings
+Childhood, pregnancy, familial
+Multiple endocrine adenomas: medullary carcinoma of the thyroid (MEN-­2), 
+mucosal neuromas (MEN-­2B)
+Von Hippel–Lindau syndrome
+Neurocutaneous lesions: neurofibromatosis
+Associated Symptoms
+Sudden spells with headache, sweating, palpitations, nervousness, nausea, 
+vomiting
+Pain in chest or abdomen
+Associated Signs
+Sweating, tachycardia, arrhythmia, pallor, weight loss
+From Zipes DP, et al. Braunwald’s Heart Disease: A Textbook of Car­
+diovascular Medicine. 11th ed., Vol. 1. Philadelphia: Elsevier; 2019:925, 
+Table 46.8.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+196
+SECTION 3  Cardiac Disorders
+the cause or effect of the seizure. If hypertension is the effect of the sei­
+zure, blood pressure usually returns to normal rapidly after the seizure 
+resolves. However, if blood pressure remains persistently and signifi­
+cantly elevated with resolution of seizure activity, hypertension causing 
+the seizure then becomes much more likely. In that instance treatment 
+of and evaluation for the underlying cause of symptomatic hyperten­
+sion are imperative.
+Rare Causes
+While well known to cause elevated blood pressure, endocrine causes 
+of hypertension are rare in childhood (see Table 11.5). Other than 
+catecholamine-­secreting tumors, endocrine causes of hypertension 
+do not typically present as hypertension as the principal feature. 
+More often high blood pressure is found when being evaluated for 
+other signs or symptoms attributable to the underlying endocrine 
+disorder. The hypertension resolves when the underlying disorder 
+is discovered and effectively treated. Mineralocorticoid excess from 
+monogenetic etiologies or other causes frequently produces hyper­
+tension (Table 11.9).
+Monogenic forms of hypertension (see Table 11.5) are exceedingly 
+rare and considered only when renal disease or other identifiable causes 
+of secondary hypertension have been ruled out, and the child does not 
+fit the clinical picture of primary or obesity-­associated hypertension. A 
+unifying feature of most monogenic forms of hypertension is that the 
+causative single-­gene variant effects enhanced renal sodium resorp­
+tion, which leads to volume expansion with resultant hypertension. A 
+clue that a monogenic cause of hypertension might be present is that 
+abnormalities in blood potassium may be found because several of the 
+gene variants in this group of disorders affect mineralocorticoid path­
+ways. Hyperkalemia and a metabolic acidosis are noted in pseudohy­
+poaldosteronism type 2 (familial hyperkalemic hypertension: Gordon 
+syndrome). Gordon syndrome is an autosomal dominant disorder in 
+most patients; the involved genes include KLHL3, CUL3, WNK1, and 
+WNK4. Hypokalemia is suggestive of Liddle syndrome (autosomal 
+dominant; epithelial sodium channel), Geller syndrome (autosomal 
+dominant; gain of function in mineralocorticoid receptor), glucocor­
+ticoid remedial aldosteronism, and other hyperaldosteronism-­like 
+states. In those conditions, hypokalemia is variable and a metabolic 
+alkalosis may also be present.
+EVALUATION
+In all pediatric patients found to have hypertension, the initial approach 
+is garnering a thorough history and physical examination. Not only 
+does this direct the practitioner to investigations likely to identify the 
+cause, but also it identifies those patients in whom investigation must 
+move quickly. The speed and breadth of needed evaluation are driven 
+by the severity of blood pressure elevation and whether there are asso­
+ciated signs and symptoms that indicate a potentially serious underly­
+ing disease or hypertensive crisis.
+Secondary hypertension must always be considered in all chil­
+dren who have clearly defined persistent or symptomatic hyperten­
+sion. Because of the high incidence of specific, identifiable causes of 
+hypertension in the young, even the older child or adolescent who may 
+on initial evaluation seem to fit the picture of primary hypertension 
+requires investigation to rule out more common causes of secondary 
+hypertension. Therefore, in all pediatric patients with clearly defined 
+sustained hypertension, even if mild, focused work-­up for an underly­
+ing cause is warranted. The younger the child, the more likely it is that 
+an identifiable cause of secondary hypertension is present, to where in 
+infancy nearly all cases have a cause found (Fig. 11.1).
+INVESTIGATION OF INFANTILE HYPERTENSION
+Most important in neonates/infants is the need for renal imaging. 
+Renal ultrasound with Doppler investigation of the major vessels is the 
+primary study recommended in this age group. Cystic kidney disease 
+and CAKUT are readily identified with ultrasound. In addition, the 
+tumors of infancy that can cause hypertension are also typically seen 
+on renal ultrasound.
+The Doppler study is primarily performed to rule out thrombus in 
+a major vessel of a kidney, especially in the main renal vein, but also 
+on rare occasion a major renal artery thrombus is found. Doppler study 
+of the renal arteries has low sensitivity for identifying renal artery ste­
+nosis (RAS), either acquired or congenital. Thus, if not found by Dop­
+pler study, RAS is not ruled out. A clue that there may be underlying 
+unilateral RAS is significant size discrepancy on ultrasound between the 
+kidneys, which otherwise have normal architecture and echogenicity. If 
+other entities are ruled out and RAS is suspected, an angiographic study 
+TABLE 11.9  Clinical Findings in Patients with Mineralocorticoid Excess
+Condition
+Clinical Presentation
+CAH: 11β-­hydroxylase deficiency
+Early growth spurt initially, then short adult stature; advanced bone age, premature adrenarche, 
+acne, precocious puberty in males, amenorrhea/hirsutism/virilism in females (autosomal 
+recessive)
+CAH: 17α-­hydroxylase deficiency
+Pseudohermaphroditism (male), sexual infantilism (female) (autosomal recessive)
+Apparent mineralocorticoid excess
+Growth retardation/short stature, nephrocalcinosis (autosomal recessive)
+Liddle syndrome
+Severe hypertension, hypokalemia, and metabolic alkalosis, muscle weakness (autosomal 
+dominant)
+Mineralocorticoid receptor gain-­of-­function mutation
+Early onset of hypertension (before age 20 yr), exacerbated in pregnancy
+Glucocorticoid remediable aldosteronism (GRA) (familial aldostero­
+nism type 1)
+Early onset of hypertension, presence of family history of mortality or morbidity from early 
+hemorrhagic stroke (autosomal dominant)
+Pseudohypoaldosteronism type 2 (Gordon syndrome)
+Short stature, hyperkalemic and hyperchloremic metabolic acidosis, borderline blood pressure 
+(autosomal dominant)
+Glucocorticoid resistance (children) (Chrousos syndrome)
+Ambiguous genitalia, precocious puberty; women may have androgen excess: acne, excessive 
+hair, oligo/anovulation, infertility (familial or sporadic)
+CAH, congenital adrenal hyperplasia.
+Modified from Kliegman RM, St. Geme JW III, Blum NJ, et al, eds. Nelson Textbook of Pediatrics. 21st e. Philadelphia: Elsevier; 2020:2493, Table 
+472.4.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+197
+CHAPTER 11  Hypertension
+is required to provide the diagnosis. Direct, invasive angiography to 
+evaluate for RAS carries significant risk in early infancy, so it is typically 
+deferred until late infancy or later, depending on the severity of hyper­
+tension and ability to control the hypertension with medication. The first 
+step to evaluate for RAS is noninvasive methods, either CT or magnetic 
+resonance angiography. As image resolution of the vasculature using 
+either of these methods improves with the age of the infant, the timing 
+of performing the study is commonly determined by a nephrologist in 
+consultation with an imaging specialist, with the same consideration of 
+whether the study is urgent based on the ability to control the infant’s 
+hypertension with medication.
+While imaging is the primary investigation that reveals the cause of 
+hypertension in infancy, additional studies are indicated at the start of 
+the investigation for hypertension in this group. Urinalysis should be 
+performed on a sample obtained by bag collection, which helps avoid 
+a false-­positive result for blood, which often occurs when the sample is 
+collected by catheterization. The lack of blood or protein on the urinal­
+ysis effectively rules out a rare congenital or acquired glomerulopathy 
+of infancy. CBC should also be performed as thrombocytopenia may 
+herald an occult major thrombus, such as a renal vein thrombus, or a 
+microangiopathy affecting the kidneys, such as a rare atypical HUS. 
+Finally, renal function should be assessed by measuring blood electro­
+lytes and creatinine levels.
+INVESTIGATION OF SYMPTOMATIC CHILDHOOD 
+HYPERTENSION (FIG. 11.2 AND TABLE 11.10)
+Children who present with symptomatic hypertension, whether the 
+symptoms be from the hypertension (e.g., headache, visual disturbance, 
+seizure, or other neurologic symptoms) or associated with the under­
+lying disease causing the hypertension (e.g., constitutional symptoms, 
+joint symptoms, skin lesions, gross hematuria, or edema), are likely 
+to have an acute glomerular disease. Initial investigation should be 
+prompt and focus on potential etiologies. Initial testing should include 
+blood and urine tests to screen for acute glomerulopathy. Urinalysis 
+showing blood and/or protein in the urine is indicative of likely under­
+lying glomerular disease. Urine microscopy showing red blood cell 
+(RBC) casts confirm glomerulonephritis, but unfortunately the vast 
+majority of clinical laboratories are unable to identify RBC casts when 
+present, so the lack of RBC casts does not rule out glomerulonephritis 
+(see Chapter 23). A complete metabolic panel may reveal renal insuffi­
+ciency, with high BUN and creatinine supporting further investigation 
+of renal cause for the hypertension. Low blood albumin on that panel 
+may either indicate nephrotic level of proteinuria or be secondary to 
+Documented hypertension
+Gradient between upper and
+lower blood pressures
+Yes
+Yes
+No
+No
+Coarctation
+of aorta
+Monogenetic
+Endocrine
+Renovascular lesion
+Essential hypertension
+Predominant
+white blood cells
+Reflux nephritis
+Recurrent urinary
+  tract infections
+Renal anomaly
+  (and infection)
+Postinfectious
+  nephritis
+Lupus nephritis
+Henoch Schönlein
+  purpura
+Nephrocalcinosis
+Nephrolithiasis
+Other nephritis
+Renal vein
+  thrombosis
+Thromboembolism
+Tumor
+Predominant
+red blood cells
+Abnormal urinalysis
+Fig. 11.1  Initial diagnostic algorithm in the evaluation of hypertension. 
+(Modified from Kliegman RM, St. Geme JW III, Blum NJ, et al., eds. 
+Nelson Textbook of Pediatrics. 21st ed. Philadelphia: Elsevier; 
+2020:2493, Fig. 472.1.)
+Any abnormality
+Initial testing
+Secondary testing
+1. Possible glomerulopathy
+    • Serum C3 and C4
+    • Consider ANA, anti-ds DNA, ANCA
+2. Possible bilateral PKD or CAKUT
+    • Renal ultrasound
+1. Urine toxicology
+    • Drug screen/investigation
+2. Renal ultrasound
+3. Blood and urine metanephrines
+4. T4, TSH
+Urinalysis
+Blood electrolytes and creatinine
+Complete blood count
+All normal
+Fig. 11.2  Evaluation of symptomatic hypertension. ANA, antinuclear antibody; ANCA, antineutrophil cyto­
+plasmic antibody; C3 and C4, complement levels; CAKUT, congenital abnormalities of the kidneys and urinary 
+tract; PKD, polycystic kidney disease; T4, thyroxine test; TSH, thyroid-­stimulating hormone.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+198
+SECTION 3  Cardiac Disorders
+inflammation from underlying systemic vasculitis. CBC is also indi­
+cated at presentation. Anemia along with low platelet count raises the 
+possibility of HUS but also may indicate hematologic involvement 
+from systemic lupus erythematosus, in which case leukopenia often is 
+an accompanying feature.
+If there is clear evidence on the initial blood and urine tests that 
+acute glomerulopathy is the cause of the hypertension, then renal 
+imaging is not needed. In that instance, further investigation with 
+serologic studies to determine the precise cause of the glomerulopa­
+thy is indicated. If the pattern does not fit HUS, then additional test­
+ing should include C3 and C4 blood complement levels along with 
+antinuclear antibody (ANA) panel and antineutrophil cytoplasmic 
+antibody.
+However, if the urinalysis and blood creatinine are normal, other 
+etiologies of severe and symptomatic hypertension must be pursued. If 
+neurologic symptoms are a prominent feature of the presentation and 
+brain imaging is unremarkable, drug ingestion needs to be considered. 
+Urine toxicology screen can rapidly identify common agents that cause 
+symptomatic hypertension, such as cocaine and amphetamines, but is 
+not able to identify a variety of other illicit drugs that can cause severe 
+hypertension. So, if drug ingestion is suspected and prompt return of 
+the urine toxicology screen is not informative, the urine sample should 
+also be sent for a full drug investigation. The latter testing takes much 
+longer to complete, but if that investigation is not considered and sent 
+during the acute presentation, the window to identify this cause of 
+acute symptomatic hypertension may then be missed.
+If acute glomerulopathy or toxic ingestion appears to be ruled out, 
+renal imaging is then indicated, since other forms of parenchymal renal 
+disease may present as severe hypertension at any age and on occa­
+sion have associated symptoms. Renal ultrasound in this setting readily 
+identifies congenital urinary tract abnormalities as well as cystic kid­
+ney diseases that may present primarily with hypertension, including 
+severe hypertension.
+Investigation for Asymptomatic, Less Common, and 
+Rare Causes of Childhood Hypertension (Fig. 11.3 and 
+see Table 11.10)
+If the blood creatinine and urinalysis are normal on initial screening 
+and renal ultrasound is normal, an abnormality in blood electrolytes 
+on the chemistry panel may suggest other etiologies for the significant 
+TABLE 11.10  Clinical Evaluation of Confirmed Hypertension
+Study or Procedure
+Purpose
+Target Population
+Evaluation for Identifiable Causes
+History, including sleep history, family history, risk 
+factors, diet, and habits such as smoking and 
+drinking alcohol; physical examination
+History and physical examination help focus subse­
+quent evaluation
+All children with persistent BP ≥90th percentile
+Blood urea nitrogen, creatinine, electrolytes, urinaly­
+sis, and urine culture
+R/O renal disease and chronic pyelonephritis, miner­
+alocorticoid excess states
+All children with persistent BP ≥95th percentile
+Complete blood count
+R/O anemia, consistent with chronic renal disease
+All children with signs of chronic kidney disease
+Renal ultrasound
+R/O renal scar, congenital anomaly, or disparate renal 
+size
+All children with signs or symptoms concerning for 
+secondary cause of hypertension
+Evaluation for Comorbidity
+Fasting lipid panel, fasting glucose
+Identify hyperlipidemia, metabolic abnormalities
+Overweight patients with BP at 90th–94th percentile; 
+all patients with BP ≥95th percentile; family history 
+of hypertension or cardiovascular disease; child with 
+chronic renal disease
+Drug screen
+Identify substances that might cause hypertension
+History suggestive of possible contribution by sub­
+stances or drugs
+Polysomnography
+Identify sleep-­disordered breathing
+History of loud, frequent snoring or daytime somnolence
+Evaluation for Target-­Organ Damage
+Echocardiogram
+Identify left ventricular hypertrophy and other indica­
+tions of cardiac involvement
+Patients with comorbid risk factors* and BP 90th–94th 
+percentile; all patients with BP ≥95th percentile
+Retinal exam
+Identify retinal vascular changes
+Patients with comorbid risk factors and BP 90th–94th 
+percentile; all patients with BP ≥95th percentile
+Additional Evaluation as Indicated
+Ambulatory blood pressure monitoring
+Identify white coat hypertension, abnormal diurnal BP 
+pattern, BP load
+All children with persistent BP ≥95th percentile
+Renovascular imaging: magnetic resonance or CT 
+angiography
+Identify renovascular disease
+Young children with stage 1 hypertension and any 
+child or adolescent with stage 2 hypertension
+Arteriography: digital subtraction or classic
+Plasma and urine catecholamines: MRI with PET 
+scan
+Identify catecholamine-­mediated hypertension
+Patients with signs and symptoms concerning for 
+pheochromocytoma
+BP, blood pressure; R/O, rule out.
+*Comorbid risk factors also include diabetes mellitus and kidney disease.
+From Kliegman RM, St. Geme JW III, Blum NJ, et al., eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:2495, Table 472.6.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+199
+CHAPTER 11  Hypertension
+hypertension. Low blood potassium is commonly seen when renal 
+artery stenosis is present, as the hypertension is secondary to prom­
+inent activation of the renin-­angiotensin system. In addition, several 
+of the monogenic causes of hypertension have associated abnormal­
+ity of blood potassium, especially those with low potassium level from 
+hyperaldosteronism.
+If the hypertension is severe at presentation and the more com­
+mon etiologies of secondary hypertension have been ruled out with 
+the initial investigations as noted earlier, the possibility of an underly­
+ing renovascular cause then needs to be explored. Aortic coarctation 
+should always be considered and is simply ruled out on examination 
+using four-­extremity blood pressure measurements (see “Physical 
+Examination” section previously). The first step to evaluate for a possi­
+ble renal artery stenosis is with a noninvasive abdominal CT or mag­
+netic resonance angiogram. If these are negative, an actual angiogram 
+may need to be performed (Fig. 11.4).
+Nuclear scans may identify isolated renal vascular or focal paren­
+chymal disease as the cause of hypertension. A radionucleotide renal 
+perfusion scan can identify an area of segmental poor renal perfusion 
+indicative of a scar from a previous renal insult, such as from an epi­
+sode of pyelonephritis or an occult segmental renal infarction as may 
+occur from thromboembolism or secondary to vasculitis. Unilateral 
+poor global perfusion of a kidney on a captopril renal perfusion scan 
+is indicative of unilateral renal artery stenosis. The need to use a cap­
+topril renal scan to identify likely renal artery stenosis has waned as 
+the resolution of the renal vasculature imaging by CT and magnetic 
+resonance angiograms has improved substantially to provide the 
+diagnosis.
+An echocardiogram can serve two roles in the evaluation of a 
+hypertensive patient. First, it has high sensitivity in confirming aor­
+tic coarctation in a patient who has strong evidence for coarctation 
+based on the physical examination revealing the typical discrepancy 
+between arm and leg blood pressure values. Second, an echocardio­
+gram can help assess the significance of the hypertension in patients 
+whose blood pressure is difficult to measure consistently, and can also 
+give some sense of duration of hypertension in those who present with 
+symptomatic or severe hypertension. Finding significant left ventricu­
+lar hypertrophy (LVH) on echocardiogram indicates end-­organ effect 
+from hypertension that is not acute, and may have been occult and 
+long-­standing. If LVH is present on echocardiogram and initial studies 
+have not found one of the more common causes of hypertension, it 
+then becomes imperative to pursue further diagnostic studies, includ­
+ing those for rare forms of hypertension.
+Rare causes of hypertension are pursued as symptoms suggest or 
+if hypertension is significant and otherwise unexplained. Associated 
+symptoms or signs of tachycardia and flushing suggest the possibility 
+of a catecholamine-­secreting tumor or thyroid disease. In that sce­
+nario, thyroid function tests or blood and urine catecholamine studies 
+reveal the etiology. If an endocrine cause other than thyroid disease 
+is suspected (see Table 11.5) based on clinical presentation or blood 
+electrolyte abnormality on screening studies, blood renin, aldosterone, 
+and cortisol levels are tested. If a pheochromocytoma is suspected 
+Any abnormality
+Initial testing
+Secondary testing
+All normal
+Renal ultrasound
+Urinalysis
+Blood electrolytes and creatinine
+Complete blood count
+Likely primary hypertension
+if older child who fits typical
+clinical pattern (see text)
+Normal
+Severe hypertension
+1. Possible glomerulopathy
+    • Serum C3 and C4
+    • Consider ANA, anti-ds DNA, ANCA
+2. Possible bilateral PKD or CAKUT
+    • Renal ultrasound
+1. Noninvasive renal angiography
+2. Echocardiogram
+1. Renal nuclear scan
+2. Plasma renin, aldosterone, cortisol
+3. Consider genetic analysis
+LVH
+Severe sustained hypertension
+Negative angiogram
+Normal
+Mild hypertension
+Fig. 11.3  Evaluation of asymptomatic hypertension. ANA, antinuclear antibody; ANCA, antineutrophil cyto­
+plasmic antibody; C3 and C4, complement levels; CAKUT, congenital abnormalities of the kidneys and urinary 
+tract; LVH, left ventricular hypertrophy; PKD, polycystic kidney disease.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+200
+SECTION 3  Cardiac Disorders
+(see Table 11.8), plasma-­free metanephrines are the initial test but 
+followed by a 24-­hour urinary metanephrine and catecholamine test. 
+Adrenal CT or MRI is the initial imaging study, but CT or MRI com­
+bined with PET scanning is the most accurate study for neuroendo­
+crine tumors (Figs. 11.5 and 11.6).
+Monogenic forms of hypertension are not usually explored 
+unless the clinical pattern does not fit that of primary hypertension, 
+all other potential identifiable causes are ruled out, or an abnor­
+mality on blood electrolytes, especially blood potassium level con­
+sistent with a monogenic cause of hypertension, is present. When 
+considering a monogenic form of hypertension, blood renin and 
+aldosterone levels are measured initially, since many of the single-­
+gene variants that cause hypertension impact the aldosterone path­
+way. All monogenic causes of hypertension have suppressed renin 
+levels (Fig. 11.7). However, the most effective method to make 
+a diagnosis of a monogenic form of hypertension is by genetic 
+sequencing and analysis.
+There is no specific test to make the diagnosis of primary hyper­
+tension. It is effectively a diagnosis of exclusion made in the context 
+of the typical clinical pattern. It requires ruling out common identi­
+fiable causes of hypertension in a child presenting with asymptom­
+atic and mild hypertension. The diagnosis is made, then, when the 
+following pattern is met: the patient is an older child or adolescent, 
+the patient is asymptomatic, the level of hypertension is mild, and 
+there is no evidence of significant end-­organ effect (e.g., no LVH on 
+echocardiogram). In addition, there are no abnormalities on the ini­
+tial screening studies and no history to suggest a renal injury having 
+occurred earlier in the child’s life, such as in the perinatal period. 
+There is usually a family history of early-­onset hypertension and con­
+comitant significant obesity, bordering on developing associated met­
+abolic syndrome.
+Fig. 11.4  Renal angiogram in 7-­year-­old boy with hypertension. Right 
+renal artery is visible with a string-­of-­beads appearance characteristic of 
+fibromuscular dysplasia (arrows). The aorta and left renal artery appear 
+normal. (From Kliegman RM, St. Geme JW III, Blum NJ, et al., eds. Nel­
+son Textbook of Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:2496, 
+Fig. 472.2.)
+A
+B
+Fig. 11.5  A, A 14-­year-­old girl with paroxysmal hypertension, tachycar­
+dia, and biochemical evidence of catecholamine excess with almost 
+exclusively norepinephrine secretion (fractionated 24-­hour urinary 
+normetanephrine 15,245 μg/24 hours, n.r. 88–444, and metanephrines 
+<32 μg/24 hours, n.r. 52–341). MRI of the abdomen revealed a 7.5 
+pelvic mass with high signal intensity on T2 weighted sequences and 
+areas of necrosis. B, The mass had increased uptake on 18F-­FDG PET/
+CT (SUVmax 12.4). Histology confirmed paraganglioma, and genetic 
+testing revealed SDHB mutation. (Modified from Delivanis DA, Vas­
+siliadi DA, Tsagarakis S. Adrenal imaging in patients with endocrine 
+hypertension. Endocrinol Metab Clin N Am. 2019;48:667–680 [Fig. 4, 
+p. 676].)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+201
+CHAPTER 11  Hypertension
+B
+C
+D
+F
+E
+A
+RIGHT
+LOGIQ
+E9
+Fig. 11.6  Pheochromocytoma. A young male presented with episodes of hypertension and headaches. A, 
+Ultrasound shows a heterogeneously hypoechoic right adrenal mass. B, CT shows peripheral thick rind of 
+enhancement and central necrosis. MRI showed high T2 (C) signal (light bulb sign) and peripheral enhance­
+ment on T1 weighted images (D). E, Coronal image shows the right adrenal pheochromocytoma and its rela­
+tionship with the right kidney. F, PET/CT performed for staging showed intense peripheral hypermetabolism 
+(SUVmax of 10.8) and central photopenia (necrosis). No evidence of metastatic disease was seen and the 
+patient underwent surgical resection. (From Bhargava P, Sangster G, Haque K, et al. A multimodality review 
+of adrenal tumors. Curr Prob Diag Radiol. 2019;49:605–615 [Fig. 12, p. 611].)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+202
+SECTION 3  Cardiac Disorders
+Nonmonogenic
+causes, e.g., renal
+artery stenosis
+MRA response?
+High
+High
+High
+Renin levels?
+Low
+Low
+Low
+Yes
+Yes
+No
+No
+No
+Normal
+MRA response?
+Gordon syndrome
+Type I, familial
+hyperaldosteronism
+Type II, familial
+hyperaldosteronism
+Liddle syndrome
+DOC/deoxycortisol to
+cortisol ratio
+Congenital adrenal
+hyperplasia
+Apparent
+mineralocorticoid
+excess
+Aldosterone
+levels?
+Responsive to glucocorticoids?
+Early-onset hypertension
+Fig. 11.7  Diagnostic evaluation for monogenic hypertension. DOC, deoxycorticosterone; MRA, mineralocor­
+ticoid receptor antagonist. (From Raina R, Krishnappa V, Das A, et al. Overview of monogenic or mendelian 
+forms of hypertension. Front Pediatr. 2019;7:263 [Fig. 1].)
+   	 R E D  F L A G S
+Symptoms of mental status change, severe headache, and/or blurry 
+vision associated with stage 2 hypertension require urgent evaluation 
+and management. Physical findings of papilledema on fundoscopy, 
+gallop rhythm on cardiac exam, or any neurologic finding also indi­
+cates the need for urgent evaluation and management. Associated 
+hematuria and/or generalized edema should be promptly evaluated. 
+Four-­extremity blood pressure with discrepancy between lower and 
+upper extremities or lag in pulse intensity between upper and lower 
+extremities indicates coarctation of the aorta. Symptomatic acute 
+hypertension in later childhood with normal initial testing should 
+raise concern for drug-­induced hypertension.
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+202.e1
+BIBLIOGRAPHY
+Anyaegbu EI, Dharnidharka VR. Hypertension in the teenager. Pediatr Clin N 
+Amer. 2014;61(1):131–151.
+Bhargava P, Sangster G, Haque K, et al. A multimodality review of adrenal 
+tumors. Curr Prob Diag Radiol. 2019;49:605–615.
+Brady TM, Feld LG. Pediatric approach to hypertension. Sem Nephrol. 
+2009;29(40):379–388.
+Clinical Practice Guideline for Screening and Management of High Blood 
+Pressure in Children and Adolescents. Pediatrics. 2017;140(3):e20171904. 
+https://doi.org/10.1542/peds.2017-1904.
+Delivanis DA, Vassiliadi DA, Tsagarakis S. Adrenal imaging in patients with 
+endocrine hypertension. Endocrinol Metab Clin N Am. 2019;48:667–680.
+Gidding SS, Whelton PK, Carey RM, et al. Aligning adult and pediatric blood 
+pressure guideline. Hypertension. 2019:73:938–943.
+Grinsell MM, Norwood VF. At the bottom of the differential diagnosis list: un­
+usual causes of pediatric hypertension. Pediatr Nephrol. 2009;24:2137–2146.
+Peterson CG, Miyashita Y. The use of ambulatory blood pressure monitoring 
+as standard of care in pediatrics. Front Pediatr. 2017;5:153.
+Raina R, Krishnappa V, Das A, et al. Overview of monogenic or mendelian 
+forms of hypertension. Front Pediatr. 2019;7:263.
+Robinson RF, Batisky DL, Hayes JR, et al. Significance of heritability in prima­
+ry and secondary pediatric hypertension. Am J Hypertens. 2005;18:917–
+921.
+Trautmann A, Roebuck DJ, McLaren CA, Brennan E, Marks SD, Tullus K. 
+Non-­invasive imaging cannot replace formal angiography in the diagnosis 
+of renovascular hypertension. Pediatr Nephrol. 2017;32(3):495–502. PMID: 
+27747454.
+Williams SS. Advances in genetic hypertension. Curr Opin Pediatr. 
+2007;19:192–198.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

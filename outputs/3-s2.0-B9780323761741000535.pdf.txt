@@ -1,0 +1,2378 @@
+993
+The coexistence of fever and rash suggests a relatively wide spectrum 
+of pathologic entities for diagnostic consideration. This spectrum 
+includes local or systemic infection with a wide range of microbial 
+pathogens; toxin-­mediated disorders, including those associated with 
+bacterial superantigen production; inflammatory conditions includ­
+ing vasculitides and rheumatologic diseases; and hypersensitivity dis­
+orders. While most conditions causing fever and rash are benign and 
+self-­limited, a thorough clinical evaluation is crucial to identify those 
+caused by life-­threatening diseases or those requiring specific treat­
+ment. The essential elements for accurate diagnosis include a detailed 
+history and a thorough physical examination including a careful sys­
+tematic observation of the patient for evidence of toxicity. Because this 
+approach lacks perfect sensitivity, the laboratory may play an import­
+ant role in the diagnostic process.
+FEVER AND RASH
+History
+Information about the features of the rash includes when it occurred 
+in relation to the fever, its evolution or progression, its anatomic dis­
+tribution, and whether it is pruritic or painful (Table 53.1). Degree 
+of illness should be evaluated, especially in the infant and toddler, by 
+assessing oral intake, activity level, and urine output. A description of 
+the fever pattern can be useful (see Chapter 52) and immunization sta­
+tus will help prioritize the differential diagnosis. Essential information 
+from the epidemiologic and social history should include season of the 
+year; geographic location of the patient’s residence; exposure to known 
+ill contacts; recent travel or exposure to individuals from different 
+geographic areas; exposure to pets, wildlife, or insects; recent immu­
+nizations; ingestion of raw meat or fish, unpasteurized dairy, and/or 
+potentially contaminated meat or produce; a detailed list of medica­
+tions; previous blood transfusion; and, for the adolescent patient, intra­
+venous drug use and sexual activity.
+The medical and family history should be used to assess the overall 
+health of the patient over time, as well as that of family members, to 
+determine the possibility of underlying primary or acquired immu­
+nodeficiency or diseases associated with autoimmunity or chronic 
+inflammation. A history of increased susceptibility to infection, as 
+manifested by chronic or recurrent infections after infancy such as 
+pneumonia, sinusitis, bronchitis, otitis media, diarrhea, and bacte­
+remia, is an important indicator of underlying immunodeficiency 
+disease (see Chapter 54). In addition, the occurrence of an unusually 
+severe infection or an infection with a pathogen of low virulence (e.g., 
+Pneumocystis jiroveci) should raise suspicion for an immunodefi­
+ciency state. A history of hemolytic anemia, leukopenia, thrombocy­
+topenia, or arthritis suggests an autoimmune disorder or malignancy, 
+which may also be associated with impairment in immune function 
+(see Chapter 44).
+In a thorough systems review, the clinician should assess the prob­
+ability of a subacute or chronic underlying infectious, inflammatory, 
+or malignant disease by inquiring about anorexia, nausea, vomit­
+ing, weight loss or failure to thrive, night sweats, fatigue, cough, and 
+exercise intolerance. The clinician should seek symptoms suggesting 
+multisystem disease, such as myalgias, arthralgias, headache, pre­
+cordial pain or pain with inspiration, abdominal pain, jaundice, skin 
+photosensitivity, peripheral edema, alopecia, Raynaud phenomenon, 
+and hematuria. In patients with symptoms that indicate the presence 
+of multisystem disease, a thorough survey of the functional status of 
+the central, peripheral, and autonomic nervous systems is clinically 
+relevant. Specific inquiries into visual disturbances, photophobia, dis­
+ordered mentation, neck stiffness, paresthesia, weakness, or seizure 
+activity are essential and may reveal potentially life-­threatening infec­
+tion within the central nervous system or a systemic vasculitis involv­
+ing the nervous system, such as systemic lupus erythematosus (SLE) or 
+polyarteritis nodosa.
+Examination
+The physical examination is used to refine the probability of underlying 
+serious illness, to identify rashes typical of a specific diagnosis, to look 
+for noncutaneous disease manifestations, and to identify if further test­
+ing or treatment is indicated (Tables 53.2 and 53.3; also see Chapters 
+52 and 61).
+A critical first step is an assessment of the patient’s vital signs and 
+degree of toxicity. Lethargy, irritability, altered mental status, decreased 
+activity, poor perfusion, pallor, mottled skin, decreased pulses, or cya­
+nosis indicates serious illness; resuscitation and treatment directed at 
+the most likely diagnoses should be initiated without delay. The impor­
+tance of the height of fever in predicting the risk of serious illness is 
+unclear. Underlying chronic illness and degree of toxicity are more use­
+ful for risk assessment than fever height. The presence of tachycardia 
+and tachypnea in any patient with fever and rash suggests the possibility 
+of sepsis. Tachycardia may also be seen in endocarditis or in myocar­
+ditis secondary to certain viruses, Kawasaki disease (KD), multisystem 
+inflammatory syndrome children (MIS-­C), or acute rheumatic fever. 
+Evidence of alteration in mental status suggests either sepsis associated 
+with decreased organ perfusion or primary meningoencephalitis. The 
+presence of hypotension usually indicates septic shock, but other dis­
+orders such as toxic shock syndrome (TSS), dengue hemorrhagic shock 
+syndrome, KD shock syndrome, MIS-C, hemorrhagic fever with renal 
+syndrome caused by hantavirus, and lupus myocarditis must also be 
+considered in this context. Hypertension may be noted in association 
+with vasculitic disorders involving small-­ to medium-­sized arteries, 
+such as polyarteritis and SLE.
+The clinical characteristics of the rash are often helpful in estab­
+lishing an etiologic diagnosis. A morphologic nomenclature of cuta­
+neous manifestations helps the clinician with differential diagnosis, 
+Fever and Rash
+Michelle L. Mitchell
+53
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+994
+SECTION 10  Infectious Diseases/Immune/Inflammation
+documentation, and communication (see Chapter 61). An exanthem 
+is defined as a skin eruption occurring as a sign of a generalized dis­
+ease. An enanthem is an eruption on the mucous membranes that 
+occurs in the context of generalized disease. Exanthems and enan­
+thems may be macular, maculopapular, vesicular, urticarial, petechial, 
+or diffusely erythematous. Rashes are usually classified according to 
+their most typical lesion morphology. However, morphology may 
+vary as rashes evolve; the rash of Rocky Mountain spotted fever is 
+classically described as petechial, but it may initially be maculo­
+papular. In addition, the rash of chickenpox begins as a papule that 
+progresses to vesicular that then forms crusted lesions; all stages are 
+present at the same time. Because a wide variety of infectious agents, 
+including viruses and a broad range of bacteria (including rickett­
+siae), as well as drugs and inflammatory conditions can cause exan­
+thems and enanthems, few of these eruptions are pathognomonic 
+(Tables 53.4, 53.5, and 53.6).
+Specific Skin Lesions
+Maculopapular Eruptions
+Macules are flat, nonpalpable circumscribed lesions, while papules 
+are <1 cm, circumscribed palpable lesions. Maculopapular lesions 
+may coalesce into a more confluent morbilliform (measles-­like) erup­
+tion. A rash with multiple small papules that feels like sandpaper is 
+described as scarlatiniform. Maculopapular rashes are usually seen 
+in viral illnesses, drug eruptions, and immune complex–mediated 
+disorders. The classic childhood exanthems such as measles, rubella, 
+erythema infectiosum (fifth disease, caused by parvovirus B19), and 
+roseola (exanthem subitum, caused by human herpesvirus types 
+6 and 7) produce a maculopapular rash and are usually clinically 
+TABLE 53.1  Essential Elements of the 
+History in the Clinical Assessment of Fever 
+and Rash
+Demographic Data
+Age
+Sex
+Ethnicity
+Season
+Geographic area; resident or travel to endemic areas
+Diet history (raw meats, shellfish; unpasteurized dairy, etc.)
+Ill contacts (home, daycare, school, workplace)
+Sexual contacts
+Pets (dogs, cats, reptiles, turtles, rodents, birds), wildlife, insects (especially ticks)
+Medications and drugs
+Transfusions
+Immunizations
+Occupational
+Features of Rash
+Temporal associations (onset relative to fever)
+Progression and evolution
+Location and distribution
+Pain or pruritus
+Timing and pattern of desquamation
+Associated Symptoms
+Focal (suggesting organ-­specific illness)
+Systemic (suggesting generalized or multisystem illness)
+Prior Health Status
+Medical and surgical history
+Growth and development
+Recurrent infectious illnesses
+Family History
+TABLE 53.2  Essential Elements of 
+the Physical Examination in the Clinical 
+Assessment of Fever and Rash
+Degree of Toxicity
+Vital Signs
+Fever pattern
+Tachycardia or bradycardia
+Tachypnea
+Hypotension or hypertension
+Characteristics of Rash
+Macular
+Papular
+Maculopapular
+Petechiae or purpura
+Diffuse erythroderma
+Accentuation in flexural creases
+Desquamation with stroking (Nikolsky sign) or spontaneous
+Localized erythroderma
+Expansile
+Painful
+Urticaria
+Vesicles, pustules, bullae
+Nodules
+Ulcers
+Distribution and Localization of Rash
+Generalized or localized
+Symmetric or asymmetric
+Centripetal or centrifugal
+Associated Enanthem
+Buccal mucosa
+Palate
+Pharynx and tonsils
+Genitals
+Associated Findings (Isolated or in Clusters)
+Ocular
+Cardiac
+Pulmonary
+Gastrointestinal
+Musculoskeletal; myalgia
+Neurologic
+Lymphadenopathy
+Hepatosplenomegaly
+Arthritis/arthralgia
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+995
+CHAPTER 53  Fever and Rash
+recognizable (Figs. 53.1 and 53.2; see Table 53.6). Other organisms 
+that commonly cause a maculopapular rash include enteroviruses, 
+Epstein-­Barr virus (EBV), cytomegalovirus, adenovirus, acute HIV, 
+and hepatitis B virus. Erythema migrans, the distinctive rash of 
+Lyme disease (caused by the tick-­borne spirochete Borrelia burgdor­
+feri), begins as a papule at the site of a recent tick bite and slowly 
+expands over days to weeks to form an erythematous, annular lesion, 
+sometimes with partial central clearing (Fig. 53.3). The rash of south­
+ern tick-­associated rash illness (STARI) appears similarly. Erythema 
+marginatum, a rare but major manifestation of acute rheumatic 
+fever, is also distinctive (Fig. 53.4).
+Morbilliform drug eruptions are often indistinguishable from viral 
+exanthems and typically present 7–14 days after exposure to a drug 
+(Fig. 53.5). As with most viral exanthems, the rash starts on the trunk 
+and spreads to the extremities. Examples of causative agents include 
+aminopenicillins, cephalosporins, antiepileptics, and sulfonamides. 
+Morbilliform drug eruptions usually resolve spontaneously after dis­
+continuation of the culprit drug, but sometimes they are the first sign 
+of the potentially life-­threatening syndrome drug rash with eosino­
+philia and systemic symptoms (DRESS, also known as drug-­induced 
+hypersensitivity syndrome, formerly anticonvulsant hypersensitivity 
+syndrome).
+Inflammatory diseases can also present with fever and maculo­
+papular rash. Systemic juvenile idiopathic arthritis (SJIA, Still disease) 
+classically presents with an evanescent, salmon-­colored macular rash 
+on the trunk and proximal extremities that coincide with fever spikes 
+(see Chapter 44). Many of the hereditary periodic fever syndromes 
+manifest with macular, maculopapular, or urticarial rashes associated 
+with fever (see Chapter 54).
+Petechiae and Purpura
+Extravasation of red blood cells from the vasculature into the skin pro­
+duces petechiae and purpura. These lesions do not blanch with applied 
+pressure. Petechiae are pinpoint lesions (<3 mm). Purpura are larger 
+lesions and can be either palpable or nonpalpable. While the majority of 
+patients with fever and petechiae have a benign illness, their presence, 
+especially in a child younger than 24 months, is of particular concern. 
+Between 2% and 20% of affected patients have an underlying bacterial 
+infection, and depending on the clinical setting, 0.5–10% have sepsis 
+caused by Neisseria meningitidis. Other potentially serious infections 
+signaled by a petechial rash and fever include bacterial endocarditis 
+and Rocky Mountain spotted fever. Group A streptococcal (GAS) 
+pharyngitis is the most common bacterial cause of fever and petechiae, 
+with up to 20% of patients with fever and petechiae being diagnosed 
+with GAS pharyngitis in some studies. Common viral causes include 
+enterovirus and adenovirus. Febrile children may develop petechiae 
+after coughing or vomiting; petechiae in this setting are almost always 
+located in the superior vena cava distribution above the nipple line. 
+Further, petechiae confined solely to the area above the nipple line is 
+rarely associated with invasive bacterial disease. Noninfectious causes 
+of fever and petechiae include drug eruptions and acute leukemia. Not 
+all children with fever and petechiae have thrombocytopenia.
+Diffuse purpuric lesions may be noted in a wide variety of disor­
+ders. These include infectious diseases associated with organisms with 
+a predilection for vascular endothelium, such as N. meningitidis (Fig. 
+53.6) and rickettsiae (Fig. 53.7), uncommon bacterial diseases such as 
+rat-­bite fever (Fig. 53.8) and Vibrio vulnificus or Brazilian purpuric fever 
+caused by Haemophilus aegyptius, and a number of viral hemorrhagic 
+fever diseases. Purpura is also associated with disseminated intravas­
+cular coagulation (DIC) and profound thrombocytopenia, such as in 
+idiopathic thrombocytopenic purpura (see Chapter 51). Purpura fol­
+lowed by subsequent necrosis of skin is referred to as purpura fulmi­
+nans, a severe, life-­threatening condition that has been reported after 
+relatively benign infections such as varicella or with more serious dis­
+orders (meningococcemia) (Fig. 53.9). Purpura can also occur in the 
+noninfectious vasculitides, such as Henoch-­Schönlein purpura (HSP) 
+and granulomatosis with polyangiitis. Discrete, raised purpuric lesions 
+(palpable purpura) distributed predominantly over the buttocks and 
+lower extremities are typical for this disorder. While bacteremia must 
+be considered for all febrile patients presenting with diffuse or discrete 
+purpuric lesions (see Figs. 53.6, 53.7, 53.8, and 53.9), patients with HSP 
+are generally well-­appearing but may have significant discomfort from 
+arthritis or abdominal pain.
+Vesiculobullous Eruptions
+Vesicular rashes (sharply demarcated, raised lesions containing clear 
+fluid), bullae (vesicles exceeding 1 cm in diameter), or pustules (raised 
+lesions containing cloudy fluid composed of serum and inflamma­
+tory cells) may be suggestive of focal or disseminated infection with 
+various pathogens or signal a serious drug reaction. Localized ves­
+icles may suggest infection with herpes simplex virus (HSV) type 1 
+or 2 (especially if the vesicles are grouped on an erythematous base), 
+TABLE 53.3  Rashes Involving Palms and 
+Soles
+Bacterial
+Meningococcemia
+Disseminated gonococcemia
+Endocarditis
+Rocky Mountain spotted fever
+Rat-­bite fever
+Secondary and congenital syphilis
+Murine typhus
+Pseudomonas folliculitis
+Viral
+Hand-­foot-­mouth disease
+Chickenpox
+Measles
+Chikungunya
+Parvovirus B19 (papular-purpuric gloves and socks syndrome)
+Monkeypox
+Infestation
+Scabies
+Immunologic
+Palmoplantar pustulosis (SAPHO syndrome)
+Keratoderma blennorrhagica (reactive arthritis)
+Vasculitis
+Kawasaki disease
+MIS-­C
+SLE
+Stevens-­Johnson syndrome
+Erythema multiforme
+Graft versus host disease
+Id reaction to fungi
+Guttate psoriasis
+Other
+Langerhans cell histiocytosis
+MIS-­C, multisystem inflammatory syndrome in children; SAPHO, syno­
+vitis, acne, plantar pustulosis, hyperostosis, osteitis; SLE, systemic 
+lupus erythematosus.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+TABLE 53.4  Differential Diagnosis of Fever and Rash
+Lesion
+Pathogen or Associated Factor
+Maculopapular 
+or Macular 
+Rash
+Viruses
+Measles (confluent), rubella (discrete), roseola 
+(human herpesvirus 6),* fifth disease (parvovirus),* 
+EBV,* enteroviruses,* hepatitis B virus (papular 
+acrodermatitis or Gianotti-­Crosti syndrome), HIV, 
+dengue virus, adenovirus, chikungunya virus
+Bacteria
+Rheumatic fever (group A streptococcus), scarlet 
+fever, erysipelas, Arcanobacterium haemolyticum, 
+secondary syphilis, leptospirosis, Pseudomonas, 
+meningococcal infection (early), Salmonella (typhoid 
+rose spots), Lyme disease, STARI, Mycoplasma 
+pneumoniae,* Listeria monocytogenes, Brucella 
+melitensis, Coxiella burnetii (Q fever), rat-­bite fever
+Rickettsiae
+Early Rocky Mountain spotted fever, typhus (scrub, 
+murine, endemic), ehrlichiosis (monocytic)
+Other
+Kawasaki disease,* Coccidioides immitis, drug 
+reactions, SJIA, hereditary fever syndromes, HLH, 
+toxoplasmosis, MIS-­C
+Diffuse 
+Erythroderma
+Bacteria
+Scarlet fever (group A streptococcus),* 
+other streptococci, toxic shock syndrome 
+(Staphylococcus aureus and group A 
+streptococcus),* staphylococcal scarlet fever, 
+ehrlichiosis (Ehrlichia chaffeensis), MIS-­C
+Fungi
+Candida albicans
+Urticarial Rash
+Viruses
+EBV, hepatitis B and C, HIV, enteroviruses
+Bacteria
+M. pneumoniae, group A streptococci, Shigella, 
+meningococcus, Yersinia, Borrelia burgdorferi
+Other
+Various parasites, insect bites, food-­drug allergens 
+(usually afebrile)
+Vesicular, 
+Bullous, 
+Pustular
+Viruses
+Herpes simplex,* varicella-­zoster,* 
+coxsackieviruses,* echoviruses, vaccinia, variola, 
+monkeypox, chikungunya
+Bacteria
+Staphylococcal scalded skin syndrome, 
+staphylococcal bullous impetigo, group A 
+streptococcal crusted impetigo, gonococcemia,* 
+Vibrio vulnificus, rat-­bite fever, anthrax
+Other
+Toxic epidermal necrolysis, Stevens-­Johnson 
+syndrome,* rickettsialpox
+Lesion
+Pathogen or Associated Factor
+Petechial-­
+Purpuric
+Viruses
+Atypical measles, congenital rubella, 
+cytomegalovirus, enterovirus, HIV, hemorrhagic 
+fever viruses, hemorrhagic varicella, EBV, 
+hepatitis B, adenovirus, yellow fever, parvovirus, 
+chikungunya
+Bacteria
+Sepsis (meningococcal,* gonococcal, pneumococcal,* 
+S. aureus*), endocarditis, rat-­bite fever 
+(Spirillum minus or Streptobacillus moniliformis), 
+Pseudomonas aeruginosa, group A streptococcus, 
+Capnocytophaga canimorsus, Yersinia pestis
+Rickettsiae
+Rocky Mountain spotted fever,* epidemic and 
+murine typhus, ehrlichiosis
+Other
+Vasculitis, thrombocytopenia, Henoch-­Schönlein 
+purpura,* malaria
+Erythema 
+Nodosum
+Viruses
+EBV, hepatitis B and C, HSV, HIV
+Bacteria
+Group A streptococcus, tuberculosis, Yersinia, 
+Bartonella henselae (cat-­scratch disease), 
+brucellosis, Q fever, M. pneumoniae, tularemia, 
+syphilis, mycobacteria, Chlamydia spp., 
+meningococcus, Campylobacter spp.
+Fungi
+Coccidioidomycosis, histoplasmosis, blastomycosis, 
+sporotrichosis, cryptococcosis
+Other
+Sarcoidosis, inflammatory bowel disease, estrogen-­
+containing oral contraceptives, systemic lupus 
+erythematosus, Behçet disease, lymphoma, 
+ascaris, filariasis
+Distinctive Rashes
+Ecthyma 
+gangrenosum
+P. aeruginosa (main cause), Vibrio vulnificus, 
+and various other gram-­negative bacteria; 
+Staphylococcus aureus; Streptococcus pyogenes; 
+various molds
+Erythema migrans
+Lyme disease, STARI
+Necrotic eschar
+Scrub typhus, aspergillosis, mucormycosis, 
+cutaneous anthrax, rickettsialpox and other 
+rickettsiae (early)
+Erysipelas
+Group A streptococcus (main cause), 
+Capnocytophaga canimorsus
+Koplik spots
+Measles
+Erythema marginatum
+Acute rheumatic fever (group A streptococcus)
+Erythema multiforme
+Herpes simplex virus or M. pneumoniae
+Rose spots
+Salmonella
+*Common.
+EBV, Epstein-­Barr virus; HLH, hemophagocytic lymphohistiocytosis; HSV, herpes simplex virus; MIS-­C, multisystem inflammatory syndrome in chil­
+dren; SJIA, systemic juvenile idiopathic arthritis; STARI, southern tick-­associated rash illness.
+Modified from Prince A. Infectious diseases. In: Behrman RE, Kliegman RM, eds. Nelson Essentials of Pediatrics. 2nd ed. Philadelphia: WB 
+Saunders; 1994:299.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+997
+CHAPTER 53  Fever and Rash
+varicella-­zoster virus (especially if grouped vesicles are distributed in 
+a dermatomal pattern) (Fig. 53.10), or infection with nonviral patho­
+gens, such as Rickettsia akari (the cause of rickettsialpox, a mouse 
+mite–­borne rickettsiosis found worldwide but common in New York 
+City). Localized pustules and bullae are usually suggestive of pyoder­
+mas caused by Staphylococcus aureus, but pustular lesions distributed 
+on the palms and soles in the context of fever may represent infective 
+emboli with microabscess formation (Janeway lesions), which are often 
+caused by S. aureus endocarditis.
+Vesicles distributed in a more generalized pattern, especially with 
+a concentration of lesions over the head and trunk in various stages 
+of evolution, are suggestive of primary varicella-­zoster virus infection 
+(chickenpox). A more generalized pattern with a concentration over 
+the extremities is suggestive of enteroviral infection, especially with cox­
+sackievirus A16 (hand-­foot-and-mouth disease), or A6 in even more 
+severe presentations. Orthopoxviruses such as monkeypox, like small­
+pox, cause a systemic febrile rash illness with lesions that progress from 
+papules to vesicles to pustules concentrated on the face and extremities. 
+Acute generalized exanthematous pustulosis (AGEP) is a rare cutane­
+ous hypersensitivity reaction characterized by numerous sterile pustules 
+beginning on the face and spreading to the trunk and limbs. It typically 
+presents within 24 hours after exposure to an offending drug, usually 
+a β-­lactam or macrolide antibiotic. The clinician evaluating the sexu­
+ally active patient presenting with asymmetric generalized pustules or 
+vesicopustular lesions should also consider disseminated infection with 
+Neisseria gonorrhoeae. Diffuse vesiculobullae may be noted in Stevens-­
+Johnson syndrome (SJS) or in toxic epidermal necrolysis (TEN), life-­
+threatening mucocutaneous hypersensitivity diseases usually related to 
+drugs.
+Nodules
+Nodules (discrete, raised, firm, well-­demarcated lesions without fixa­
+tion to the overlying skin) may be associated with a number of underly­
+ing infectious or inflammatory disorders, such as polyarteritis nodosa 
+and Sweet syndrome (acute febrile neutrophilic dermatosis). Red, pink, 
+or plum-­colored nodules distributed in a seemingly random manner 
+over the skin surface may represent leukemic infiltrates. The subcuta­
+neous nodules of acute rheumatic fever are usually located over bony 
+extensor surfaces near tendons and are found in <5% of patients with 
+acute rheumatic fever. They may also be found in patients with polyar­
+ticular JIA and dermatomyositis.
+Erythema nodosum (erythematous and painful nodules usually 
+distributed over the extremities) may be associated with viral infections 
+including hepatitis B and C; bacterial infectious agents including group A 
+β-­hemolytic streptococcus (most common), chlamydia, Brucella species, 
+and Yersinia species; mycobacterial infections; fungal infections, particu­
+larly Coccidioides immitis and less often Histoplasma capsulatum, Blastomy­
+ces dermatitidis, or Cryptococcus neoformans; or drug reactions, especially 
+in response to oral contraceptives and sulfonamides. Other noninfectious 
+causes include SLE, sarcoidosis, and inflammatory bowel disease.
+Ulcers
+Ulcers are depressed lesions in which the epidermis and some or all of 
+the dermis has been destroyed. In immunocompromised hosts, infec­
+tion with HSV may manifest with shallow erosive or ulcerative lesions. 
+In immunocompetent hosts, cutaneous ulcerations may be noted in 
+noninfectious disorders associated with vasculitis, such as SLE, polyar­
+teritis nodosa, and HSP.
+Pyoderma gangrenosum and ecthyma gangrenosum are painful 
+cutaneous ulcerative lesions with an erythematous, raised edge. The 
+lesions usually begin as a papule and break down rapidly with central 
+necrosis. It may be seen in immunocompromised patients, typically in 
+the setting of neutropenia, often with systemic infections with bacterial 
+pathogens (typically gram-­negative), such as Pseudomonas aeruginosa 
+or Stenotrophomonas maltophilia (ecthyma). In immunocompetent 
+patients, the lesion may manifest in the context of inflammatory 
+bowel disease (pyoderma gangrenosum), PAPA (pyogenic arthritis, 
+pyoderma gangrenosum, acne), or rheumatoid arthritis. Digital ulcer­
+ations may be noted in patients with small-­vessel vasculitis, such as 
+SLE. Oral ulcerations may be noted in those with herpes simplex or 
+coxsackievirus (hand-­foot-and-mouth disease) or as a manifestation of 
+Behçet disease, SLE, PFAPA (periodic fever, aphthous stomatitis, phar­
+yngitis, adenitis), cyclic neutropenia, or inflammatory bowel disease.
+Erythema
+Diffuse erythema (erythroderma) is associated with toxin-­mediated 
+disorders characterized by superantigen production. Bacterial super­
+antigens cause nonspecific T-­cell stimulation resulting in several acute 
+rash-­fever disorders, such as staphylococcal scalded skin syndrome 
+(SSSS; Fig. 53.11), streptococcal scarlet fever, staphylococcal or strep­
+tococcal TSS, and possibly KD.
+Localized erythema in the context of acute fever is strongly sug­
+gestive of cellulitis, erysipelas, or abscess. The presence of warmth, ten­
+derness, and associated lymphangitis is highly indicative. Organisms 
+causing cellulitis or abscess formation are usually inoculated directly 
+into the skin as a result of trauma. However, bacteremic localization is 
+well described among young children with preseptal or facial cellulitis 
+associated with Haemophilus influenzae type b (pre–H. influenzae type 
+b vaccine) or Streptococcus pneumoniae.
+Patients with SLE or dermatomyositis may present with an iso­
+lated erythematous malar rash (butterfly rash), which is exacerbated 
+by exposure to sunlight. The acute onset of intense “slapped-­cheek” 
+erythema of the face suggests erythema infectiosum, a recognizable 
+exanthem caused by parvovirus B19, and should be differentiated eas­
+ily from the malar rash of SLE, which usually manifests other char­
+acteristics, such as chronicity as well as hyperkeratosis and follicular 
+plugging. In addition, patients with erythema infectiosum tend to have 
+a maculopapular, lacelike rash over the arms, which may spread to the 
+buttocks and thighs (Fig. 53.12; see Table 53.6).
+Patients with dermatomyositis may have localized lilac-­colored 
+lesions over the eyelids (heliotrope rash), which may be associated 
+with periorbital edema. Such patients characteristically, but not invari­
+ably, have an erythematous, scaly eruption on the face, neck, knees, 
+elbows, and phalanges. When the rash is localized over the knuckles, 
+it resembles dripped wax and has been referred to as Gottron papules. 
+Patients with autoinflammatory disorders (periodic fever syndromes) 
+may present with localized erythema or fasciitis (see Chapter 54).
+Other Physical Examination Findings
+Joint Manifestations
+Pain, swelling, tenderness, and limited range of motion involving one 
+joint or multiple joints, or that migrate from joint to joint, or discrete 
+pain at the insertion of tendons, ligaments, or fascia (enthesopathy) 
+may indicate a primary infectious illness, a “reactive” (immunologically 
+mediated) disorder, or a systemic inflammatory condition. Primary 
+infectious illnesses associated with this finding include N. gonorrhoeae, 
+B. burgdorferi (Lyme disease), parvovirus, and rubella, including 
+vaccine-­associated strains. Reactive disorders, such as reactive arthritis 
+(arthritis/enthesitis, conjunctivitis, urethritis), may be associated with 
+infection caused by enteric pathogens, such as Salmonella and Shi­
+gella organisms, or genital pathogens, such as N. gonorrhoeae or Chla­
+mydia species, but may also include diseases of unknown origin, such 
+as inflammatory bowel disease, in which the rash is usually erythema 
+nodosum. A serum sickness–like reaction can be seen after treatment 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+998
+SECTION 10  Infectious Diseases/Immune/Inflammation
+         
+TABLE 53.5  Common Bacterial Exanthems
+Disease
+Cause
+Age
+Season
+Transmission
+Incubation 
+(Days)
+Prodrome
+Scarlet fever
+Group A streptococcus
+School age
+Fall, winter, 
+spring
+Direct contact, 
+droplets
+1–4
+Sore throat, headache, 
+abdominal pain, cervical 
+lymphadenopathy, fever, 
+0–2 days, acute onset
+Staphylococcal 
+scalded skin 
+syndrome (SSSS)
+S. aureus–producing 
+exfoliative toxin
+Neonates, infants, 
+young 
+children
+Any
+Colonization, 
+contact
+Unknown
+None
+Toxic shock 
+syndrome (TSS)
+S. aureus–producing toxic 
+shock syndrome toxin-­1 
+(TSST-­1) and 
+staphylococcal 
+enterotoxins (SEs)
+Group A 
+streptococcus–producing 
+Streptococcus pyogenes 
+exotoxins (SPEs)
+Adolescent females 
+if menstrual; 
+others variable
+Any
+Colonization, 
+contact
+Variable, often 
+1–5
+Myalgias, fevers, and 
+gastrointestinal symptoms
+May be secondary to wound 
+infection, trivial mucosal 
+or respiratory infection, 
+or necrotizing fasciitis or 
+myositis
+Meningococcemia
+Neisseria meningitidis
+Any (<5 yr and 
+adolescents)
+Winter, spring, 
+follows 
+influenza 
+epidemics
+Close, prolonged 
+contact
+5–15
+Fever, malaise, myalgia, 1–10 
+days
+Rocky Mountain 
+spotted fever 
+(RMSF)
+Rickettsia rickettsii
+Any (>5 yr), 
+male > 
+female
+Summer
+Carrier ticks
+3–12
+Fever, myalgia, headache, 
+malaise, ill appearance, 
+2–4 days
+Rickettsialpox
+Rickettsia akari
+Any
+Any
+Mouse mite
+7–14
+Fever, chills, headache, 
+malaise, 4–7 days
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+999
+CHAPTER 53  Fever and Rash
+         
+Features and Rash 
+Structure
+Enanthem
+Complications
+Prevention/Treatment
+Comments
+Diffuse erythema with 
+“sandpaper” feel; 
+accentuation of erythema in 
+flexural creases (Pastia lines); 
+circumoral pallor, lasts 2–7 
+days; may exfoliate
+Palatal petechiae, 
+strawberry 
+tongue
+Peritonsillar abscess, rheumatic 
+fever, glomerulonephritis
+Prevent rheumatic fever with 
+penicillin within 10 days of 
+onset of pharyngitis, treat with 
+penicillin
+Similar syndrome may be  
+noted with Arcanobacterium 
+haemolyticum in adolescents; 
+group A streptococci may also 
+produce toxic shock or true 
+bacteremic shock syndromes in 
+addition to cellulitis, lymphangitis, 
+and erysipelas; Staphylococcus 
+aureus may produce a 
+scarlatiniform rash
+Sudden onset, tender 
+erythroderma progressing 
+to diffuse flaccid bullae; 
+significant perioral, perinasal 
+peeling; eventual diffuse 
+exfoliation (positive Nikolsky 
+sign), possibly conjunctivitis, 
+purulent rhinorrhea
+Unusual
+Shock
+Treat with intravenous  
+antibacterial active against  
+S. aureus
+—
+Diffuse sunburn-­like 
+erythroderma; hypotension, 
+diarrhea, emesis, mental 
+status changes; late 
+desquamation
+Conjunctivitis
+Shock, multisystem organ 
+dysfunction/failure
+Treat with intravenous  
+antibacterial active against 
+S. aureus; penicillin if group 
+A streptococcus suspected; 
+clindamycin; possible intravenous 
+immune globulin; prevent 
+menstrual-­associated TSS by 
+frequent changes of tampon
+—
+Erythematous, nonconfluent, 
+discrete papules (early); 
+petechiae, purpura present 
+on trunk, extremities, palms, 
+soles
+Petechiae
+Shock, meningitis, pericarditis, 
+arthritis, endophthalmitis, 
+gangrene, disseminated 
+intravascular coagulation
+Contacts: rifampin; general: 
+vaccine; treat with ceftriaxone, 
+penicillin (if sensitive)
+Neisseria gonorrhoeae, 
+pneumococcus, Haemophilus 
+influenza type b, group A 
+streptococcus may produce  
+similar clinical manifestations
+Early maculopapular, then 
+petechial or, rarely, purpuric; 
+present on extremities, then 
+trunk, palms, and soles
+Petechiae variable
+Shock, myocarditis, encephalitis, 
+pneumonia
+Remove ticks as soon as possible; 
+use tick repellants; treat with 
+doxycycline
+Ehrlichia chaffeensis and other 
+rickettsiae may produce similar 
+illnesses with or without a rash
+At primary bite site, eschar; 
+secondary papulovesicles 
+in same stage throughout 
+illness; fewer vesicles 
+than in chickenpox (5–30); 
+present on trunk and proximal 
+extremities
+Occasional, 
+transient lesions 
+in the oral cavity 
+similar to that 
+seen on the body
+Usually none
+Treat with doxycycline
+Often confused with chickenpox; 
+may be more common than 
+expected, especially in crowded 
+urban settings with poor housing
+TABLE 53.5  Common Bacterial Exanthems—cont’d
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1000
+SECTION 10  Infectious Diseases/Immune/Inflammation
+         
+TABLE 53.6  Common Viral Exanthems
+Disease
+Cause
+Age
+Season
+Transmission
+Incubation 
+(Days)
+Prodrome
+Measles (rubeola)
+Measles virus
+Any
+Winter, spring
+Respiratory droplet
+10–12
+High fever, cough, 
+coryza, conjunctivitis, 
+2–4 days
+Rubella (German 
+measles)
+Rubella virus
+Infants, young 
+adults
+Winter, spring
+Respiratory droplet
+14–21
+Malaise, fever <101°F, 
+posterior auricular, 
+cervical, occipital 
+adenopathy, 0–4 days
+Roseola (exanthem 
+subitum)
+Human herpesvirus type 
+6 (HHV-­6), human 
+herpesvirus type 7 
+(HHV-­7)
+Infants/toddlers 
+(6 mo–2 yr) for 
+HHV-­6, can be 
+older children for 
+HHV-­7
+Any
+Secretions of 
+asymptomatic 
+close contacts
+9–10 (HHV-­6); 
+unknown 
+(HHV-­7)
+Irritability, high fever 3–7 
+days, cervical, occipital 
+adenopathy
+Fifth disease 
+(erythema 
+infectiosum)
+Parvovirus B19
+Prepubertal children, 
+schoolteachers
+Winter, spring
+Respiratory droplets; 
+blood transfusion, 
+placenta
+5–15
+Headache, malaise, 
+myalgia; often afebrile
+Chickenpox (varicella)
+Varicella-­zoster virus
+1–14 yr (most) but 
+can vary
+Late fall, winter, 
+early spring
+Respiratory droplet
+10–21
+Fever
+Enteroviruses
+Coxsackievirus, echovirus, 
+and others
+Often infants and 
+young children but 
+varies
+Summer, fall
+Fecal-­oral, 
+respiratory, 
+vertical, and 
+possibly fomites
+4–6
+Variable: irritable, fever, 
+sore throat, myalgias, 
+headache
+Mononucleosis
+Epstein-­Barr virus
+Children, adolescents Any
+Close contact, saliva, 
+blood transfusion
+28–49
+Fever, adenopathy, eyelid 
+edema, sore throat, 
+hepatosplenomegaly, 
+malaise; atypical 
+lymphocytosis
+Gianotti-­Crosti 
+syndrome (papular 
+acrodermatitis of 
+childhood)
+EBV, hepatitis B virus 
+(uncommon where 
+vaccination rates are 
+high), coxsackieviruses, 
+others
+1–6 yr (primarily)
+Any
+Variable; fecal, 
+sexual, blood 
+products for 
+hepatitis B
+Unknown; 
+50–180 days for 
+hepatitis B
+Usually none except for 
+specific viral disease; 
+arthritis-­arthralgia for 
+hepatitis B
+CNS, central nervous system; EBV, Epstein-­Barr virus; HBIG, hepatitis B virus immune globulin; VZIG, varicella-­zoster immune globulin.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1001
+CHAPTER 53  Fever and Rash
+Features and Rash  
+Structure
+Enanthem
+Complications
+Prevention/Treatment
+Comments
+Maculopapular (confluent), begins on 
+face, spreads to trunk; lasts 3–6 
+days
+Brown color develops; fine 
+desquamation; toxic, uncomfortable 
+appearance, photophobia; rash may  
+be absent in HIV infection
+Koplik spots on 
+buccal mucosa 
+before rash
+Febrile seizures, otitis, 
+pneumonia, encephalitis, 
+laryngotracheitis, 
+thrombocytopenia; delayed 
+subacute sclerosing 
+panencephalitis
+General: measles vaccine at 
+12–15 mo and again at 4–6 yr
+Exposure: measles vaccine if 
+within 72 hr; immune globulin  
+if within 6 days of exposure 
+(must then wait 6–8 mo to 
+vaccinate)
+World Health Organization 
+recommends treatment with 
+vitamin A in all patients with 
+measles
+Reportable to public health 
+department; epidemics 
+reported, contagious 3 days 
+before symptoms until 4 
+days after rash
+Increasing incidence as 
+vaccination rates are 
+decreasing
+Discrete, nonconfluent, rose-­colored 
+macules and papules, begins on  
+face and spreads downward; lasts 
+1–3 days
+Variable 
+erythematous 
+macules on soft 
+palate
+Arthritis, thrombocytopenia, 
+encephalopathy; fetal 
+embryopathy
+General: rubella vaccine at 
+12–15 mo and again at 4–6 yr; 
+exposure: possibly immune 
+serum globulin
+Reportable to public health 
+department; epidemics 
+reported, contagious 2 days 
+before symptoms and 5–7 
+days after rash
+Discrete macules on trunk, neck;  
+sudden-­onset rash with deferves­
+cence; lasts 0.5–2 days; some  
+patients have no rash
+Variable 
+erythematous 
+macules on soft 
+palate
+Single or recurrent febrile 
+seizures; encephalopathy; 
+dissemination (e.g., liver, CNS, 
+lung) in immunosuppressed 
+patients
+None
+No epidemics
+Local erythema of cheeks (slapped cheek 
+appearance); lacy pink-­red erythema of 
+trunk and extremities, ± pruritus; rash 
+may lag prodrome by 3–7 days; lasts  
+2–4 days, may recur 2–3 wk later
+Rare, ill-­described, 
+on buccal mucosa
+Arthritis, aplastic crisis in  
+patients with chronic hemolytic 
+anemia (e.g., sickle cell), fetal 
+anemic hydrops, vasculitis, 
+Wegner granulomatosis
+Isolation of patients with  
+aplastic crisis but not normal 
+host with fifth disease
+Epidemics reported; once rash 
+is present, the normal host 
+is not contagious; patients 
+with aplastic crisis often 
+have no rash
+Pruritic papules, vesicles in various 
+stages, 2–4 crops and then crusts; 
+distributed on trunk and then 
+face, extremities; lasts 7–10 days; 
+recurs years later in dermatomal 
+distribution (zoster, shingles)
+Oral mucosa, 
+tongue
+Staphylococcal or streptococcal 
+skin infection, arthritis, 
+cerebellar ataxia, encephalitis, 
+thrombocytopenia, Reye 
+syndrome (with aspirin), 
+myocarditis, nephritis, hepatitis, 
+pneumonia; dissemination in 
+immunocompromised
+VZIG for exposed 
+immunosuppressed patients, 
+susceptible pregnant women, 
+preterm neonates, and 
+infants at birth whose mother 
+developed varicella 5 days 
+before and 2 days after birth; 
+active immunization with live 
+attenuated vaccine at 12 mo
+Acyclovir therapy for 
+immunosuppressed and 
+possibly normal patients 
+(controversial); contagious 
+1–2 days before rash until 
+all lesions are crusted
+Hand-­foot-and-mouth: vesicles in 
+those locations; others: nonspecific, 
+usually fine nonconfluent, macular or 
+maculopapular rash, rarely petechial, 
+urticarial, or vesicular; lasts 3–7 
+days
+Yes
+Aseptic meningitis, hepatitis, 
+myocarditis, paralysis: usually  
+in younger patients
+None
+Rash may appear with fever 
+or after defervescence; rash 
+may be present in <50% 
+of enteroviral illnesses; 
+epidemics possible, 
+contagious up to 2 wks
+Maculopapular or morbilliform on 
+trunk, extremities; may be confluent; 
+often elicited by simultaneous 
+administration of ampicillin or 
+allopurinol; rash in 15% and in 50% 
+with drug-­induced form, lasts 2–7 
+days
+Variable
+Anemia, thrombocytopenia, 
+aplastic anemia, 
+hepatitis, encephalitis; 
+rarely hemophagocytic 
+lymphohistiocytosis, 
+lymphoproliferative syndrome
+None
+Cytomegalovirus and 
+toxoplasmosis also produce 
+mononucleosis-­like illness; 
+monospot or heterophile 
+tests negative
+Papules, papulovesicles, discrete or 
+confluent; face, arms, extremities, 
+often spares trunk; lasts 4–10 days
+Variable
+As per specific disease
+Hepatitis B: HBIG plus vaccine
+—
+         
+TABLE 53.6  Common Viral Exanthems—cont’d
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1002
+SECTION 10  Infectious Diseases/Immune/Inflammation
+Day of illness
+1
+104
+103
+102
+Temperature
+Temperature
+101
+100
+99
+98
+Rash
+Conjunctivitis
+Coryza
+Cough
+Koplik’s spots
+2
+3
+4
+5
+6
+7
+Measles
+8
+9
+10
+1
+104
+103
+102
+101
+100
+99
+98
+Rash
+Sore throat
+2
+3
+4
+5
+Day of illness
+6
+7
+Scarlet
+fever
+8
+9
+10
+Day of illness
+1
+104
+103
+102
+Temperature
+101
+100
+99
+98
+Rash
+Malaise
+Conjunctivitis
+Coryza
+Lymph nodes
+2
+3
+4
+5
+6
+7
+Rubella
+8
+9
+10
+Temperature
+1
+104
+103
+102
+101
+100
+99
+98
+Rash
+Irritability
+2
+3
+4
+5
+Day of illness
+6
+7
+Roseola
+8
+9
+10
+Fig. 53.1  Schematic diagrams illustrating differences among four acute exanthems characterized by macu­
+lopapular eruptions. (Modified from Gershon AA, Hotez PJ, Katz SL, eds. Krugman’s Infectious Diseases of 
+Children. 11th ed. Philadelphia: Mosby; 2004:927, Fig. 45.1.)
+Measles
+Rubella
+Scarlet fever
+1st day
+of rash
+3rd day
+of rash
+1st day
+of rash
+3rd day
+of rash
+1st day
+of rash
+3rd day
+of rash
+Koplik’s spots
+of buccal mucosa
+Rash
+discrete
+Rash
+discrete
+Confluent
+maculopapules
+Discrete
+maculopapules
+Flushed
+cheeks
+Circumoral
+pillor
+Strawberry
+tongue
+Increased
+density
+in axilla
+Positive
+blanching
+test
+(Schultz-
+Charlton)
+Increased density
+in groin
+Transverse
+lines
+(Pastia’s sign)
+Increased density
+on neck
+Fig. 53.2  Schematic drawings illustrating difference in appearance, distribution, and progression of rashes 
+of measles, rubella, and scarlet fever. (From Gershon AA, Hotez PJ, Katz SL, eds. Krugman’s Infectious Dis­
+eases of Children. 11th ed. Philadelphia: Mosby; 2004:928.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1003
+CHAPTER 53  Fever and Rash
+with antibiotics. Children with systemic inflammatory conditions 
+including KD, HSP, polyarteritis, SLE, SJIA, acute rheumatic fever, and 
+some of the hereditary periodic fever syndromes may also have joint 
+manifestations (see Chapters 44 and 54).
+Cardiac Manifestations
+Cardiac manifestations may accompany acute rheumatic fever, bacte­
+rial endocarditis, KD, MIS-­C, or SJIA (see Chapter 44). The presence of 
+tachycardia out of proportion to the severity of the fever may be indic­
+ative of sepsis or the carditis accompanying acute rheumatic fever, KD, 
+MIS-­C, viral myocarditis, or DRESS. A precordial friction rub is sug­
+gestive of pericarditis, which is noted frequently in patients with SJIA. 
+The presence of a new murmur or a changing murmur on auscultation 
+can be suggestive of bacterial endocarditis, whereas the detection of 
+the apical systolic murmur of mitral regurgitation or the diastolic mur­
+mur of aortic insufficiency can be suggestive of acute rheumatic fever 
+(see Chapter 9). A gallop rhythm on auscultation indicates underly­
+ing myocarditis, which may accompany coxsackievirus or other viral 
+infection, rheumatic disease, KD, or MIS-­C.
+Ocular Manifestations
+Isolated ocular manifestations in the setting of fever, such as conjunctival 
+injection and frank conjunctivitis, may be suggestive of infection with 
+measles or adenovirus, leptospirosis, KD, or onset of SJS, TEN, or reac­
+tive arthritis. The skin, eye, mouth form of neonatal HSV can infect the 
+eyes, causing conjunctivitis and keratitis. Anterior uveitis (redness with 
+accompanying photophobia or pain or change in vision) may indicate 
+KD, SJIA, sarcoidosis, ulcerative colitis, Behçet syndrome, or, uncom­
+monly, an infection such as leptospirosis (see Chapter 43). Retinal hem­
+orrhages seen on funduscopy may indicate bacterial endocarditis.
+Fig. 53.3  Erythema migrans—erythematous target-­like plaque of Lyme 
+disease. The primary skin lesion of Borrelia burgdorferi infection is 
+noted for centrifugal expansion, sometimes leaving a central clearing. 
+The rash of southern tick–­associated rash illness (STARI) is also similar 
+to the rash of early Lyme disease. (Courtesy James Gathany; Content 
+Providers CDC/James Gathany—this media comes from the Centers 
+for Disease Control and Prevention’s Public Health Image Library [PHIL], 
+with identification number #9875. From Borchers AT, Keen CL, Huntley 
+AC, et  al. Lyme disease: a rigorous review of diagnostic criteria and 
+treatment. J Autoimmun. 2015;57:82–115.)
+Fig. 53.4  Polycyclic red borders of erythema marginatum in a febrile 
+child with acute rheumatic fever. (From Schachner LA, Hansen RC, eds. 
+Pediatric Dermatology. 3rd ed. Philadelphia: Mosby; 2003:808.)
+A
+B
+Fig. 53.5  Morbilliform drug eruptions. A, Fine, pink macules and thin papules becoming confluent on the 
+posterior upper arm, which is a dependent area in this hospitalized patient. B, More edematous (“urticarial”) 
+pink papules; unlike true urticaria, these lesions are not transient. (From Julie V. Schaffer, MD. Fever and rash. 
+In: Bolognia JL, ed. Dermatology Essentials. Philadelphia: Elsevier; 2014;3:28–38.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1004
+SECTION 10  Infectious Diseases/Immune/Inflammation
+Neurologic Manifestations
+Neurologic findings accompanying fever and rash may be indicative of 
+specific infectious or immunologically mediated disorders. Mental sta­
+tus findings suggestive of recent-­onset psychosis may indicate cerebri­
+tis, which can accompany SLE. Significant alteration in mental status 
+accompanied by seizure or focal motor impairment or cerebellar dys­
+function may be suggestive of primary infectious encephalitis associated 
+with arbovirus, herpes simplex, measles, varicella-­zoster virus, rickettsia, 
+West Nile virus, or Mycoplasma pneumoniae infection. Nuchal rigidity, 
+the Kernig sign, or the Brudzinski sign indicates meningeal irritation, 
+which may accompany infection caused by the enteroviruses; bacteria 
+such as S. pneumoniae, N. meningitidis, or spirochetes such as B. burg­
+dorferi; fungi such as H. capsulatum; or inflammation caused by under­
+lying SLE, sarcoidosis, or KD. Cranial nerve palsies, ataxia, or peripheral 
+neuropathy may accompany infection with B. burgdorferi early in the 
+course of Lyme disease (especially Bell palsy), or it may indicate an 
+underlying vasculitis, such as SLE. Movement abnormalities, particu­
+larly chorea, may be suggestive of either SLE or acute rheumatic fever. 
+Hemophagocytic lymphohistiocytosis (HLH) is a life-­threatening syn­
+drome of excessive immune activation that can have varied neurologic 
+manifestations including seizure, mental status changes, and ataxia. The 
+rash associated with HLH is also variable and can be maculopapular, 
+erythrodermic, petechial, or purpuric. When seen in a patient with SJIA, 
+the syndrome is called macrophage activation syndrome.
+Pulmonary Manifestations
+The presence of isolated lower respiratory tract findings (decreased 
+breath sounds, rales, expiratory wheezing, respiratory distress, and 
+cyanosis) indicates underlying pulmonary infection with an organism 
+such as measles, adenovirus, M. pneumoniae, or Legionella pneumoph­
+ila. Although sarcoidosis, collagen vascular disease, and systemic vas­
+culitis (granulomatosis with polyangiitis, eosinophilic granulomatosis 
+Fig. 53.6  Widespread purpura of meningococcemia. (From Callen JP, 
+ed. Dermatological Signs of Internal Disease. 4th ed. Philadelphia: Else­
+vier; 2009:256, Fig. 28-­14.)
+Fig. 53.7  Purpuric lesions in a patient with Rocky Mountain spotted 
+fever. (From Callen JP, ed. Dermatological Signs of Internal Disease. 4th 
+ed. Philadelphia: Elsevier; 2009:258, Fig. 28-­16.)
+A
+B
+C
+Fig. 53.8  Rat-­bite fever. A, Erythematous papules on the abdomen. B, Purpuric pustules on the sole of the 
+left foot. C, Pustules on erythematous bases on the right dorsal hand. (From Miraflor AP, Ghajar LD, Subrama­
+niam S, et al. Rat-­bite fever: an uncommon cause of fever and rash in a 9-­year-­old patient. JAAD Case Rep. 
+2015;1[16]:371–374 [Fig. 1, p. 372].)
+Fig. 53.9  Purpura fulminans. Bacterial septicemia results in necrosis, 
+small-­vessel thrombosis, and disseminated intravascular coagulation 
+and is often associated with multiorgan failure. Several amputations 
+may be required. (From Dinulos GHJ. Habif’s Clinical Dermatology. 7th 
+ed. Philadelphia: Elsevier; 2021:371, Fig. 9.65.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1005
+CHAPTER 53  Fever and Rash
+with polyangiitis, HSP) may involve the lower respiratory tract, isolated 
+pulmonary findings are infrequently indicative of these disorders. The 
+acute respiratory distress syndrome can develop in any patient with 
+a serious systemic inflammatory condition such as sepsis, SJS, TEN, 
+HLH, and DRESS.
+Clusters of Findings
+Clusters of findings on examination that are of diagnostic importance 
+include the following.
+The mucocutaneous–lymph node cluster (bilateral conjunctival 
+injection, palmar-­plantar erythema/indurative edema of the hands and 
+feet, erythema of the oropharyngeal mucosa/“strawberry” tongue, cervi­
+cal lymphadenopathy) is suggestive of KD, TSS, SJS, streptococcal scarlet 
+fever, Rocky Mountain spotted fever, dengue, leptospirosis, or MIS-­C.
+The reticuloendothelial cell hyperplasia cluster (hepatospleno­
+megaly with or without generalized adenopathy) is suggestive of (1) 
+disseminated infectious disease caused by bacteria (Salmonella typhi 
+or other enteric fever pathogens), virus (cytomegalovirus, HIV-­1, 
+EBV), rickettsia (Orientia tsutsugamushi in “scrub typhus”), protozoa 
+(malaria), or fungus (H. capsulatum, C. immitis); (2) disseminated 
+malignancy including Langerhans cell histiocytosis, leukemia, and 
+lymphoma; (3) sarcoidosis; (4) HLH; or (5) rheumatologic disease.
+The mononucleosis-­like syndrome cluster (exudative pharyngitis 
+and regional adenopathy with or without splenomegaly) is suggestive 
+of infection with group A streptococcus, Arcanobacterium haemolyti­
+cum, Francisella tularensis, EBV, HIV, toxoplasmosis, cytomegalovirus, 
+coxsackievirus, or DRESS.
+Diagnostic Studies
+The history and physical examination together determine the prior 
+probability of a specific disease. In the context of a very high or very 
+low prior probability of a specific disease, laboratory testing adds very 
+little useful information. Thus, ancillary testing is most useful when the 
+prior probability of specific disease is equivocal.
+Laboratory Tests
+In an ill-­appearing child, basic laboratory testing including CBC with 
+smear, CRP, ESR, procalcitonin, chemistries, blood cultures, and possi­
+bly cerebral spinal fluid culture should be obtained. Coagulation stud­
+ies should be completed in patients with petechiae, purpura, bleeding, 
+or concern for DIC.
+A Gram stain of any ulcerative, pustular, petechial, or purpuric 
+lesion can be useful. The identification of bacteria suggests pyogenic 
+infection, which may be localized or disseminated. The presence of 
+only polymorphonuclear white blood cells in the fluid of pustular 
+lesions does not exclude bacterial infection from consideration, espe­
+cially disseminated infection with N. gonorrhoeae. Specimens of these 
+lesions or any fluid from a pustule should also be obtained for bacterial 
+culture and possibly fungal or mycobacterial culture depending on the 
+level of suspicion for these types of pathogens.
+Vesicular and bullous lesions in a febrile child with an uncertain 
+diagnosis can be unroofed, scraped at the base, and submitted for 
+microscopic examination after Tzanck preparation. The presence of mul­
+tinucleated giant cells or eosinophilic intranuclear inclusions indicates 
+infection with herpesvirus or varicella-­zoster virus. The sensitivity of the 
+Tzanck preparation for cutaneous herpes simplex infection is 64% and 
+Fig. 53.10  Skin lesions of chickenpox. Note the varying stages of devel­
+opment (macules, papules, and vesicles) present at the same time. 
+(From Paller AS, Mancini AJ. Hurwitz Clinical Pediatric Dermatology. 
+5th ed. Philadelphia: Elsevier; 2016.)
+Fig. 53.11  An infant with staphylococcal scalded skin syndrome. (From 
+Kliegman RM, Stanton BF, St Geme JW III, et al., eds. Nelson Textbook 
+of Pediatrics. 20th ed. Philadelphia: Elsevier; 2016.)
+A
+B
+C
+Fig. 53.12  A, Erythema infectiosum. Facial erythema (“slapped cheek”). The red plaque covers the cheek 
+and spares the nasolabial fold and the circumoral region. B, A macular eruption appears on the extensor 
+extremities. C, The eruption fades into a lacy netlike pattern. (From Dinulos GHJ. Habif’s Clinical Dermatol­
+ogy. 7th ed. Philadelphia: Elsevier; 2021:536, Figs. 14.19, 14.20.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1006
+SECTION 10  Infectious Diseases/Immune/Inflammation
+the specificity is 86%. Because the sensitivity of the procedure is low, a 
+negative result does not exclude the diagnosis of herpes simplex infec­
+tion. Thus, to identify the virus, a specimen of the lesion should also be 
+obtained for polymerase chain reaction (PCR), which is more sensitive 
+than culture.
+Diagnosing a systemic infectious illness may necessitate the use of 
+specific bacterial, viral, or fungal culture techniques; paired acute-­ and 
+convalescent-­phase serologic study; antigen detection systems; or molecu­
+lar techniques such as PCR or 16S (bacterial) and 28S (fungal) ribosomal 
+DNA. Culture techniques are most specific when normally sterile tissue or 
+body fluids are sampled and inoculated directly into liquid or solid media. 
+Interpretation of bacterial cultures obtained from nonsterile sites, such as 
+the tonsils and nasopharynx, is subject to increased rates of false-­positive 
+results because of recovery of organisms that colonize these areas.
+Serologic techniques are potentially useful in establishing a diagnosis 
+of a specific infection. Confirmation of infection with the rickettsiae and 
+several other atypical bacteria and viruses is probably best accomplished 
+through serologic techniques demonstrating a fourfold increase in titer, 
+but also highly suggestive with a high immunoglobulin G (IgG) at least 
+2 weeks from illness onset if a first sample is negative or not obtained. 
+Similarly, detection of a recent infection with group A streptococci may 
+be accomplished by demonstrating very elevated or rising antibody titers 
+to streptolysin O (ASO titer) or to deoxyribonuclease B (anti–DNase B).
+Antigen detection systems are useful for rapid diagnosis. A solid-­
+phase detection system, such as enzyme-­linked immunosorbent assay 
+(ELISA), has the advantage of being independent of the need for intact 
+cellular material but is affected by antigen or antibody cross-­reactivity 
+in the sample (which limits specificity) and by poor antigen-­antibody 
+affinity (which limits sensitivity). Nonetheless, ELISA is the preferred 
+technique for the serologic diagnosis of a wide spectrum of infectious 
+agents, including B. burgdorferi (Lyme disease pathogen) (as the first 
+part in a two-­tier serologic assay, the second being a Western immuno­
+blot; see Chapter 52) and hepatitis B virus.
+Latex particle agglutination is an alternative solid-­phase antigen 
+detection system that does not require intact cellular material and whose 
+advantages include rapidity of use and ease of interpretation. Latex par­
+ticle agglutination is used for the rapid identification of patients with 
+GAS pharyngitis or with invasive disease caused by encapsulated bacte­
+ria, such as S. pneumoniae, H. influenzae type b, N. meningitidis, group 
+B streptococci, and Escherichia coli BK1. Latex particle agglutination is 
+limited by factors similar to those affecting ELISA. Latex agglutination 
+tests for group A streptococci have specificities of more than 90%, which 
+facilitates their use for clinical confirmation of infection, but their sen­
+sitivities are only 60–90%, which limits their use in excluding infection.
+PCR has replaced many of the previously commonly used latex 
+agglutination assays. PCR testing is available for diagnosis of GAS 
+pharyngitis and may preclude the need for culture confirmation. Mul­
+tiplex PCRs of respiratory and diarrhea specimens provide higher sen­
+sitivity and specificity compared to antigen tests, as well as offering the 
+potential benefit of testing for multiple potential pathogens with one 
+test. Multiplex PCR testing of cerebrospinal fluid (CSF) for common 
+bacterial and viral pathogens is also available. CSF PCR testing should 
+be in addition to CSF culture given current limited experience, unclear 
+sensitivity, and specificity issues.
+PCR from blood is available for certain bacteria and viruses. For DNA 
+viruses that establish latency (e.g., cytomegalovirus and EBV), serologic 
+testing is still utilized to help diagnose primary versus past infection 
+that PCR cannot reliably differentiate between. However, PCR for these 
+viruses also offers quantitation of viral load, which is useful in the care of 
+immunocompromised hosts. Blood PCR is also used in the diagnostic 
+work-­up of rickettsiae, but due to limited sensitivity, serologic testing is 
+often needed. Neither PCR nor serology is useful in early management 
+of rickettsial infections due to the typical turnaround time, so treatment 
+needs to be determined based on clinical presentation. The identifica­
+tion of patients with noninfectious systemic illness caused by underly­
+ing rheumatologic disease, immune complex disease, or vasculitis is 
+best accomplished through serologic techniques combined with other 
+indirect laboratory evidence of active inflammation or tissue injury (see 
+Chapter 44). Diagnoses of autoinflammatory diseases are based on clin­
+ical criteria and can be confirmed with genetic testing (see Chapter 54).
+Histopathology
+Punch biopsy for light and electron microscopy and immunohistologic 
+studies should be considered for diagnostic purposes for patients pre­
+senting with fever and bullous lesions that are clearly not typical pyo­
+dermas; fever and nodular lesions; or lesions suggestive of vasculitis 
+(palpable purpura, livedo reticularis). A punch biopsy with indirect 
+immunofluorescent antibody staining may also be useful for patients 
+with petechial lesions, especially in an acral distribution, for the early 
+diagnosis (within 48 hours of antibiotic initiation) of infection with R. 
+rickettsii. This procedure has a sensitivity of 70% and a specificity of 
+100%. The low sensitivity and restricted availability (Centers for Dis­
+ease Control and Prevention [CDC] and some academic centers) of the 
+test limits its use in decision making in the acute care setting.
+Other Diagnostic Studies
+Echocardiography and ECG are part of the diagnosis of some fever and 
+rash syndromes. The 2015 revision of the Jones criteria for diagnosis 
+of acute rheumatic fever adds echocardiography to diagnose cardiac 
+involvement even when it is not clinically evident. Prolonged P-­R 
+interval on ECG remains one of the minor Jones criteria. In incom­
+plete KD and presumed MIS-­C, echocardiography is used to help guide 
+diagnosis when patients do not meet all classic criteria.
+Diagnosis and Decision Making
+Accurate diagnosis depends on careful synthesis of selected data obtained 
+from the clinical assessment. Because most children with acute episodes 
+of fever and rash have a common, self-­limited infectious disease, a spe­
+cific diagnosis can often be established simply by pattern recognition 
+alone (e.g., visual recognition of the common exanthems of childhood 
+or a specific lesion such as erythema migrans) or with minimal use of 
+adjunctive testing (a rash consistent with scarlet fever accompanied by 
+a positive PCR or latex agglutination test for group A streptococcus). In 
+some cases the spectrum of possible infectious pathogens may be broad, 
+the presenting complaints or features of the rash may be atypical, or the 
+diagnosis may not yield easily to simple pattern recognition. In these 
+situations, empirical use of the laboratory may prove useful to the cli­
+nician. It may also be preferable to “watchful waiting” and serial clinical 
+follow-­up when the patient is judged to be at risk for a treatable illness 
+associated with significant subsequent morbidity (e.g., streptococcal 
+infection leading to acute rheumatic fever) or when specific information 
+is necessary to advise parents of the risk of contagion to other children, 
+to immunocompromised contacts, or to pregnant women.
+Well-­appearing immune-­competent patients with fever and petechial 
+rash present a challenge to the clinician. Such patients with cough or eme­
+sis and petechiae only above the nipple line, and a positive streptococcal 
+antigen or PCR test, or patients with normal leukocyte, absolute neutro­
+phil, and platelet counts and a normal prothrombin time are exceedingly 
+unlikely to have an invasive bacterial illness such as meningococcemia.
+The subset of patients with fever and rash who have shock or appear 
+toxic, have unstable vital signs, or have altered mental status must have 
+a comprehensive evaluation and a diagnosis confirmed as quickly as 
+possible to detect potentially life-­threatening underlying infection. 
+Patients with thrombocytopenia and an abnormal coagulation profile 
+should be admitted for further evaluation and treatment of DIC, which 
+may have an underlying infectious or inflammatory cause. Patients 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1007
+CHAPTER 53  Fever and Rash
+with thrombocytopenia and a normal coagulation profile may have 
+infection with tick-­borne rickettsial pathogens, Ehrlichia chaffeensis, 
+EBV, an autoimmune disease such as SLE, or a primary hematologic-­
+oncologic disorder, such as idiopathic thrombocytopenic purpura 
+or leukemia, associated with an intercurrent infection; such patients 
+should be evaluated for these disorders. Patients with eosinophilia and 
+elevated transaminases may have DRESS.
+Several serious diseases present with features that resemble benign 
+processes; it is crucial to distinguish these as early in the clinical course 
+as possible so definitive treatment can be given (Table 53.7).
+Clinical Syndromes
+In certain instances, the diagnostic approach to disorders manifest­
+ing with fever and rash is wholly dependent on an aggregation of 
+signs, symptoms, and laboratory results. These disorders either have 
+many underlying causes manifesting with overlapping features or 
+have unknown causes for which no confirmatory tests have yet been 
+devised. These diseases are diagnosed by recognizing patterns and 
+sometimes by excluding other diagnoses; some are based on formal­
+ized aggregation, termed syndromic diagnosis. Although syndromic 
+diagnosis is based on explicit clinical criteria, some of the clusters of 
+TABLE 53.7  Potentially Life-­Threatening Conditions with Initial Skin Findings That Can Mimic 
+a More Common Benign Disorder
+Potentially Life-
+­Threatening Condition
+Benign Disorder That Is 
+Mimicked Early in the Course
+Clues to the Diagnosis as the Condition Evolves
+DRESS/DIHS*
+Morbilliform/urticarial drug eruption > 
+viral exanthem
+ • Facial swelling
+ • High fever
+ • Prominent lymphadenopathy
+ • Marked peripheral blood eosinophilia, atypical lymphocytes
+ • Elevated transaminases, other signs of internal organ involvement
+Stevens-­Johnson syndrome/
+toxic epidermal necrolysis
+Morbilliform/urticarial drug eruption > 
+viral exanthem
+ • Early involvement of palms and soles
+ • Duskiness of blistering (often initially in the center of lesions)
+ • Painful/tender skin
+ • Mucosal erosions (oral, nasal, ocular, genital)
+RMSF/other rickettsial spotted 
+fevers
+Viral exanthem
+ • Potential exposure to ticks (e.g., season [spring to late summer for RMSF], 
+geographic location)
+ • High fever, myalgias, headache (often for 2–5 days prior to rash)
+ • Rash begins on wrists/ankles, spreads centripetally (± palms/soles)
+ • Petechiae within erythematous macules/papules
+Meningococcemia
+Viral exanthem
+ • Petechiae → retiform purpura
+ • Fever with chills, myalgias
+ • Headache, stiff neck
+ • Leg pain, cold hands/feet, abnormal skin color
+Kawasaki disease
+Viral exanthem, morbilliform/urticarial 
+drug eruption, erythema multiforme, 
+“diaper dermatitis” (for early perineal 
+eruption)
+ • Early perineal erythema → desquamation
+ • Conjunctival injection
+ • “Chapped” lips, “strawberry” tongue
+ • Acral erythema and edema
+ • Continued high-­spiking fever >5 days
+ • Prominent unilateral lymphadenopathy
+Staphylococcal scalded skin 
+syndrome
+Seborrheic dermatitis, viral exanthem
+ • Painful/tender skin
+ • Periorificial (around mouth and eyes) edema and (later) radial scale-­crusts
+ • Confluent erythema → superficial erosions/peeling, especially in 
+intertriginous sites
+Toxic shock syndrome
+Scarlatiniform exanthem
+ • Strawberry tongue
+ • Mucositis
+ • Rapid evolution
+ • Hypotension
+Necrotizing fasciitis
+Cellulitis
+ • Tense, “woody” induration
+ • Extreme pain or (later) anesthesia
+ • Rapid evolution
+ • Erythema → dusky gray color
+ • Watery, malodorous discharge
+MIS-­C
+Viral exanthem, scarlatiniform exanthem
+ • Fever
+ • Multisystem involvement
+ • Recent SARS-­CoV-­2 infection or exposure to COVID-­19
+ • Lab studies with multiorgan involvement and elevated inflammatory markers
+*In general, begins ≥2 wk after the drug is initiated and has a relatively limited set of culprit medications.
+DIHS, drug-­induced hypersensitivity syndrome; DRESS, drug reaction with eosinophilia and systemic symptoms; RMSF, Rocky Mountain spotted 
+fever; MIS-­C, multisystem inflammatory syndrome in children; SARS-­CoV-­2, severe acute respiratory syndrome–coronavirus 2.
+Modified from Bolognia J, Schaffer JV, Duncan KO, et al. Fever and rash. In: Bolognia J, Schaffer JV, Duncan KO, et al., eds. Dermatology 
+Essentials. Oxford: Saunders; 2014:35, Table 3.1.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1008
+SECTION 10  Infectious Diseases/Immune/Inflammation
+signs, symptoms, and laboratory findings were established originally 
+for epidemiologic purposes (case definition) to facilitate exploration 
+of an underlying cause. As such, although they are usually quite spe­
+cific, these criteria may be less sensitive when they are applied in the 
+acute care setting for the purposes of clinical diagnosis.
+Kawasaki Disease
+KD is a medium-­vessel vasculitis of childhood with a predilection 
+for the coronary arteries. It is the second most common vasculitis of 
+childhood after HSP, and it is the most common cause of acquired 
+heart disease in children in the United States. Etiology is unknown, 
+but epidemiologic studies support an infectious trigger. A genetic role 
+is suspected given the 10-­ to 20-­fold increased incidence in Japan as 
+compared to the United States and United Kingdom. The majority (75–
+85%) of affected children are younger than 5 years old. Infants aged 
+younger than 6 months and children over 5 years old are at the highest 
+risk for coronary artery aneurysms.
+The fever of KD is usually high and unremitting; patients are often 
+irritable and ill-­appearing. Rash is seen in more than 80% of patients 
+with KD and is polymorphic. It is often morbilliform but may also 
+be erythema multiforme–like (fixed erythematous target lesions; Fig. 
+53.13), urticarial, scarlatiniform, or pustular. Erythema and early 
+desquamation (within 48 hours) of the perineum is common. Vesicu­
+lobullous lesions and petechiae are unexpected.
+Diagnosis is made on clinical grounds (Table 53.8 and Figs. 53.14, 
+53.15, 53.16, 53.17, and 53.18). Fewer than 75% of patients meet the 
+Fig. 53.13  Erythema multiforme in a child with Kawasaki disease. 
+(From Paller AS, Mancini AJ. Hurwitz Clinical Pediatric Dermatology. 
+5th ed. Philadelphia: Elsevier; 2016.)
+TABLE 53.8  Diagnosis of Classic Kawasaki Disease (KD)
+Classic KD is diagnosed in the presence of fever for at least 5 days (the day 
+of fever onset is taken to be the first day of fever) together with at least 
+four of the five following principal clinical features. In the presence of four 
+or more principal clinical features, particularly when redness and swelling 
+of the hands and feet are present, the diagnosis of KD can be made with 
+4 days of fever, although experienced clinicians who have treated many 
+patients with KD may establish the diagnosis with 3 days of fever in rare 
+cases:
+	1.	Erythema and cracking of lips, strawberry tongue, and/or erythema of oral 
+and pharyngeal mucosa
+	2.	Bilateral bulbar conjunctival injection without exudate
+	3.	Rash: maculopapular, diffuse erythroderma, or erythema multiforme–like
+	4.	Erythema and edema of the hands and feet in acute phase and/or 
+periungual desquamation in subacute phase
+	5.	Cervical lymphadenopathy (≥1.5 cm diameter), usually unilateral
+A careful history may reveal that one or more principal clinical 
+features were present during the illness but resolved by the time of 
+presentation.
+Patients who lack full clinical features of classic KD are often evaluated for 
+incomplete KD. If coronary artery abnormalities are detected, the diagnosis 
+of KD is considered confirmed in most cases.
+Laboratory tests typically reveal normal or elevated white blood cell 
+count with neutrophil predominance and elevated acute-­phase 
+reactants such as CRP and ESR during the acute phase. Low serum 
+sodium and albumin levels, elevated serum liver enzymes, and 
+sterile pyuria can be present. In the second week after fever onset, 
+thrombocytosis is common.
+Other clinical findings may include the following:
+Cardiovascular
+Myocarditis, pericarditis, valvular regurgitation, shock
+Coronary artery abnormalities
+Aneurysms of medium-­sized noncoronary arteries
+Peripheral gangrene
+Aortic root enlargement
+Respiratory
+Peribronchial and interstitial infiltrates on CXR
+Pulmonary nodules
+Musculoskeletal
+Arthritis, arthralgia (pleocytosis of synovial fluid)
+Gastrointestinal
+Diarrhea, vomiting, abdominal pain
+Hepatitis, jaundice
+Gallbladder hydrops
+Pancreatitis
+Nervous system
+Extreme irritability
+Aseptic meningitis (pleocytosis of cerebrospinal fluid)
+Facial nerve palsy
+Sensorineural hearing loss
+Genitourinary
+Urethritis/meatitis, hydrocele
+Other
+Desquamating rash in groin
+Retropharyngeal phlegmon
+Anterior uveitis by slit-­lamp examination
+Erythema and induration at BCG inoculation site
+The differential diagnosis includes other infectious and 
+noninfectious conditions, including the following:
+Measles
+Other viral infections (e.g., adenovirus, enterovirus)
+Staphylococcal and streptococcal toxin-­mediated diseases (e.g., scarlet 
+fever and toxic shock syndrome)
+Drug hypersensitivity reactions, including Stevens-­Johnson syndrome
+Systemic onset juvenile idiopathic arthritis
+With epidemiologic risk factors:
+Rocky Mountain spotted fever or other rickettsial infections
+Leptospirosis
+BCG, bacillus Calmette-­Guerin; CXR, chest radiography.
+From Dinulos GHJ. Habif’s Clinical Dermatology. 7th ed. Philadelphia: Elsevier; 2021:544, Table 14.3.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1009
+CHAPTER 53  Fever and Rash
+classic complete criteria at presentation; diagnosis of incomplete KD 
+may be made with less than four criteria with the addition of labo­
+ratory and echocardiographic criteria (Fig. 53.19). Application of this 
+algorithm increases sensitivity for KD to 97%. Early diagnosis is crucial 
+to decrease the risk of coronary artery aneurysms, which decreases to 
+<5% in promptly treated patients at 7-­week follow-­up.
+The differential diagnosis of KD includes scarlet fever, TSS, Rocky 
+mountain spotted fever, Stevens-­Johnson syndrome, measles, and 
+MIS-­C (Tables 53.9 and 53.10 and Fig. 53.20). MIS-­C is a poten­
+tially life-­threatening illness that has been epidemiologically linked 
+to severe acute respiratory syndrome–coronavirus 2 (SARS-­CoV-­2) 
+infection. Patients present with multiple systemic symptoms includ­
+ing fever, rash, mucocutaneous changes, conjunctivitis, gastrointesti­
+nal symptoms, and/or altered mental status. Signs include multiorgan 
+involvement, often with elevated troponin, B-­type natriuretic peptide 
+(BNP), or proBNP. There may also be acute kidney injury, elevated liver 
+enzymes, and, in severe cases, hemodynamic instability or frank shock. 
+Significant elevation of CRP has been almost uniformly present. The 
+features may overlap with TSS and KD for which some patients may 
+meet full or partial diagnostic criteria (see Table 53.9). Patients with 
+MIS-­C may have a negative nasopharyngeal test for SARS-­CoV-2 but a 
+positive antibody titer.
+Toxic Shock Syndrome
+TSS is a life-­threatening illness caused by superantigen-­producing 
+strains of group A streptococcus and S. aureus. The syndrome is 
+defined by fever, diffuse macular erythroderma with convalescent 
+desquamation, hypotension, mucositis, strawberry tongue, and 
+Fig. 53.14  Kawasaki disease. Nonpurulent conjunctival injection and 
+“cherry red” lips with fissuring and crusting are early signs of the dis­
+ease. (Courtesy Anne W. Luckey, MD.)
+Fig. 53.15  Indurative edema of the hands in Kawasaki disease. (From 
+Kliegman RM, Stanton BF, St. Geme JW III, et al., eds. Nelson Textbook 
+of Pediatrics. 20th ed. Philadelphia: Elsevier; 2016.)
+Fig. 53.16  Desquamation of the fingers in a patient with Kawasaki disease, 
+convalescent stage. (From Kliegman RM, Stanton BF, St. Geme JW III, et al., 
+eds. Nelson Textbook of Pediatrics. 20th ed. Philadelphia: Elsevier; 2016.)
+Fig. 53.17  Beau lines, a horizontal groove on the nails of a patient with 
+Kawasaki disease, convalescent stage. (From Paller AS, Mancini AJ. 
+Hurwitz Clinical Pediatric Dermatology. 5th ed. Philadelphia: Elsevier; 
+2016.)
+Fig. 53.18  A scarlet fever–like rash that desquamates in a child with 
+Kawasaki disease. (From Habif TP. Clinical Dermatology. 6th ed. Phila­
+delphia: Elsevier; 2016.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1010
+SECTION 10  Infectious Diseases/Immune/Inflammation
+multiorgan dysfunction. Menstrual staphylococcal TSS classically 
+affects menstruating teenage females secondary to vaginal coloniza­
+tion with toxic shock syndrome toxin 1 (TSST-­1)-­producing strains of 
+S. aureus. TSST-­1 and other staphylococcal exotoxins also cause TSS 
+in the setting of abscess, wound infections or burns, nasal packing, 
+or other infections. Streptococcal TSS is often associated with severe 
+cutaneous infections but has no identified source of entry in ∼50% of 
+patients. Diagnostic criteria are slightly different for each syndrome.
+Staphylococcal Toxic Shock Syndrome
+Laboratory criteria for diagnosis include negative results on the fol­
+lowing tests, if obtained: blood or CSF cultures (blood culture may be 
+positive for S. aureus) and serologies for Rocky Mountain spotted fever, 
+leptospirosis, or measles. A probable case meets the laboratory criteria 
+and four of five clinical criteria and a confirmed case meets the labora­
+tory and all five clinical criteria:
+Fever: temperature ≥102°F (≥38.9°C)
+Rash: diffuse macular erythroderma
+Desquamation: 1–2 weeks after onset of rash
+Hypotension: systolic blood pressure ≤90 mm Hg for adults or <5th 
+percentile by age for children aged younger than 16 years
+Multisystem involvement (three or more of the following organ systems):
+	1.	 Gastrointestinal: vomiting or diarrhea at the onset of illness
+	2.	 Muscular: severe myalgia or creatine phosphokinase level at least 
+twice the upper limit of normal
+	3.	 Mucous membrane: vaginal, oropharyngeal, or conjunctival 
+­hyperemia
+	4.	 Renal: blood urea nitrogen or creatinine at least twice the upper 
+limit of normal for laboratory or urinary sediment with pyuria 
+(≥5 leukocytes/high-­power field) in the absence of urinary tract 
+­infection
+	5.	 Hepatic: total bilirubin, alanine aminotransferase enzyme, or aspar­
+tate aminotransferase enzyme levels at least twice the upper limit of 
+normal for laboratory
+	6.	 Hematologic: platelets <100,000/mm3
+	7.	 Central nervous system: disorientation or alterations in conscious­
+ness without focal neurologic signs when fever and hypotension are 
+absent
+No
+Yes
+Evaluation of Suspected Incomplete Kawasaki Disease1
+Children with fever 5 days and 2 or 3 compatible clinical criteria2 OR
+Infants with fever for 7 days without other explanation3
+Assess laboratory tests
+Treat5
+CRP <3.0 mg/dL and ESR <40 mm/hr
+CRP ≥3.0 mg/dL and/or ESR ≥40 mm/hr
+Serial clinical and laboratory 
+re-evaluation if fevers persist
+Echocardiogram if typical
+peeling6 develops
+3 or more laboratory findings:
+  1)  Anemia for age
+  2)  Platelet count of ≥450,000 after the
+7th day of fever
+  3)  Albumin ≤3.0 g/dL
+  4)  Elevated ALT level
+  5)  WBC count of ≥15,000/mm3
+  6)  Urine ≥10 WBC/hpf
+OR
+Positive echocardiogram4
+Fig. 53.19  Evaluation of suspected incomplete Kawasaki disease. 1In the absence of a “gold standard” for 
+diagnosis, this algorithm cannot be evidence based but rather represents the informed opinion of the expert 
+committee. Consultation with an expert should be sought any time assistance is needed. 2Characteristics 
+suggesting that another diagnosis should be considered include exudative conjunctivitis, exudative pharyn­
+gitis, ulcerative intraoral lesions, bullous or vesicular rash, generalized adenopathy, or splenomegaly. 3Infants 
+6 months of age or younger are the most likely to develop prolonged fever without other clinical criteria for 
+Kawasaki disease; these infants are at particularly high risk of developing coronary artery abnormalities. 4Echo­
+cardiography is considered positive for purposes of this algorithm if any of three conditions are met: z score of 
+left anterior descending coronary artery or right coronary artery ≥2.5; coronary artery aneurysm is observed; 
+or three or more other suggestive features exist, including decreased left ventricular function, mitral regur­
+gitation, pericardial effusion, or z scores in left anterior descending coronary artery or right coronary artery of 
+2–2.5. 5If the echocardiogram is positive, treatment should be given within 10 days of fever onset or after 
+the 10th day of fever in the presence of clinical and laboratory signs (CRP, ESR) of ongoing inflammation. 
+6Typical peeling begins under the nail beds of fingers and toes. ALT, alanine transaminase; hpf, high-­powered 
+field; WBC, white blood cell. (Reprinted with permission from McCrindle BW, Rowley AH, Newburger JW, 
+et al. Diagnosis, treatment, and long-­term management of Kawasaki disease: a scientific statement for health 
+professionals from the American Heart Association. Circulation. 2017;135[17]:e927–e999.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1011
+CHAPTER 53  Fever and Rash
+TABLE 53.9  CDC Case Definition for MIS-­C
+All four diagnostic criteria must be met:
+	1.	Age <21 yr
+	2.	Clinical presentation should include all of the following:
+	 a.	 Fever ≥38.0°C for ≥24 hr or report of subjective fever lasting ≥24 hr
+	 b.	Laboratory evidence of inflammation, including, but not limited to, one 
+or more of the following:
+ 
+• Elevated CRP
+ 
+• Elevated ESR
+ 
+• Elevated fibrinogen
+ 
+• Elevated procalcitonin
+ 
+• Elevated d-­dimer
+ 
+• Elevated ferritin
+ 
+• Elevated lactic acid dehydrogenase (LDH)
+ 
+• Elevated interleukin-­6 (IL-­6)
+ 
+• Elevated neutrophils
+ 
+• Reduced lymphocytes
+ 
+• Low albumin
+	 c.	 Evidence of clinically severe illness requiring hospitalization
+	 d.	Multisystem (≥2) organ involvement (cardiac, renal, respiratory, 
+hematologic, gastrointestinal, dermatologic, or neurologic)
+	3.	No alternative plausible diagnoses
+	4.	Positive for current or recent SARS-­CoV-­2 infection by RT-­PCR, serology, 
+or antigen test; or COVID-­19 exposure within the 4 wk prior to the onset of 
+symptoms
+CDC, Centers for Disease Control and Prevention; MIS-­C, multisys­
+tem inflammatory syndrome in children; RT-­PCR, reverse transcriptase 
+polymerase chain reaction; SARS-­CoV-­2, severe acute respiratory syn­
+drome–coronavirus 2.
+Source: United States Centers for Disease Control and Prevention. Multi­
+system inflammatory syndrome in children (MIS-­C) associated with coro­
+navirus disease 2019 (COVID-­19). 2020. Available at https://emergency.
+cdc.gov/han/2020/han00432.asp.
+Streptococcal Toxic Shock Syndrome
+Confirmed case: isolation of group A streptococci from a normally 
+sterile site (blood; cerebrospinal, pleural, or peritoneal fluid; tissue 
+biopsy; surgical wound; etc.); or
+Probable case: isolation of group A streptococci from a nonsterile site 
+(throat, sputum, vagina, superficial skin lesion), and
+Clinical signs of severity:
+	1.	 Hypotension: systolic blood pressure ≤90 mm Hg in adults or below 
+5th percentile for age in children, and
+	2.	 Two or more of the following signs:
+ 
+• Renal impairment: creatinine ≥177 μmol/L (≥2 mg/dL) for 
+adults or ≥2 times the upper limit of normal for age; in patients 
+with pre-­existing renal disease, a twofold or greater elevation 
+over the baseline level
+ • Coagulopathy: platelets ≤100 × 109/L (≤100,000/mm3) or DIC 
+defined by prolonged clotting times, low fibrinogen level, and the 
+presence of fibrin degradation products
+ • Liver involvement: serum aspartate aminotransferase, alanine ami­
+notransferase, or total bilirubin levels ≥2 times the upper limit of 
+normal for age; in patients with pre-­existing liver disease, a twofold 
+or greater elevation over the baseline level
+ • Acute respiratory distress syndrome defined by acute onset of dif­
+fuse pulmonary infiltrates and hypoxemia in the absence of cardiac 
+failure, or evidence of diffuse capillary leak manifested by acute 
+onset of generalized edema, or pleural or peritoneal effusions with 
+hypoalbuminemia
+ • A generalized erythematous macular rash that may desquamate
+ • Soft tissue necrosis, including necrotizing fasciitis or myositis, or 
+gangrene
+Erythema Multiforme
+Erythema multiforme (EM) is a self-­limited immune reaction that 
+predominantly occurs in the setting of infection, most often HSV. M. 
+pneumoniae and rarely drugs or systemic disease are causes of EM. It 
+is characterized by the abrupt onset of fixed erythematous papules that 
+evolve into target lesions (see Fig. 53.13). The basic lesions are round 
+macular targets symmetrically distributed especially over the palms, 
+soles, and extensor surfaces of the extremities. Severe mucosal lesions 
+can also develop (EM major). Though it has potentially overlapping 
+features with SJS (Stevens-­Johnson syndrome), it is a distinct disease.
+Stevens-­Johnson Syndrome, Toxic Epidermal Necrolysis, and 
+Staphylococcal Scalded Skin Syndrome
+SJS and TEN are rare, life-­threatening mucocutaneous exfoliative der­
+matoses that are usually drug related (Table 53.11). They are thought 
+to be associated with an immune response to an antigenic complex 
+Fig. 53.20  Multisystem inflammatory syndrome in children. (From 
+Naka F, Melnick L, Gorelik M, et al. A dermatologic perspective on mul­
+tisystem inflammatory syndrome in children. Clin Dermatol. [published 
+online ahead of print, 2020 Sep. 23].)
+TABLE 53.10  Comparing and Contrasting 
+Multisystem Inflammatory Syndrome in 
+Children (MIS-­C) with Kawasaki Disease
+MIS-­C
+Kawasaki Disease
+Mean age 8–12 yr
+Mean age <5 yr
+Non-­Hispanic Blacks at higher risk
+Asians at higher risk
+Fever >24 hr
+Fever >5 days
+GI symptoms common (severe 
+abdominal pain)
+GI complaints not common
+Myocarditis/myocardial dysfunction 
+(left ventricular dysfunction)
+Myocardial function normal/mildly 
+reduced*
+Coronary artery dilation or aneurysms 
+(25–50%)
+Coronary artery abnormalities such 
+as aneurysms common if untreated
+Renal involvement more common
+Renal involvement rare
+Proinflammatory state common
+Proinflammatory state common
+Lymphopenia common
+Lymphopenia not common
+Thrombocytopenia
+Thrombocytosis
+GI, gastrointestinal.
+*Except in Kawasaki shock syndrome.
+From Naka F, Melnick L, Gorelik M, et al. A dermatologic perspective on 
+multisystem inflammatory syndrome in children. Clin Dermatol. [pub­
+lished online ahead of print, 2020 Sep. 23], Table 5.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1012
+SECTION 10  Infectious Diseases/Immune/Inflammation
+formed by the reaction of intermediate drug metabolites with host 
+tissues. SJS and TEN are characterized by diffuse cutaneous erythema 
+and full-­thickness necrosis of the epidermis with detachment of the 
+skin at the dermal-­epidermal junction. They differ in the percentage 
+of involved total body surface area (BSA); SJS involves ≤10% BSA, SJS/
+TEN overlap involves between 10% and 30% BSA, and TEN involves 
+≥30% BSA. They differ histopathologically from SSSS, which also man­
+ifests clinically with diffuse erythema and blistering in its cleavage 
+plane. In SSSS, blistering is produced more superficially by disruption 
+of the epidermal granular cell layer in response to one of two staphy­
+lococcal exfoliative toxins (ET-­A or ET-­B). This results in easy disrup­
+tion of skin with firm rubbing (Nikolsky sign). SSSS is usually seen in 
+infants and young children, whereas SJS and TEN are seen in older 
+children. The key feature that distinguishes SJS and TEN from SSSS 
+is the presence of blistering lesions, which may involve the lips, eyes, 
+nasal mucosa, genitalia, or rectum (Figs. 53.21 and 53.22). Extensive 
+ocular involvement, including corneal ulceration, uveitis, and panoph­
+thalmitis, may develop. Pulmonary and renal involvement have also 
+been reported. Representative medications frequently associated with 
+SJS and TEN include aminopenicillins, carbamazepine, phenytoin, 
+trimethoprim-­sulfamethoxazole, and nonsteroidal antiinflammatory 
+medications. Prognosis is related to the speed with which the responsi­
+ble medication is withdrawn, so a timely diagnosis is critical.
+Serum Sickness and Serum Sickness–Like Reaction
+Serum sickness is a systemic hypersensitivity condition resulting from 
+immune complex deposition in tissue and blood vessels that causes tis­
+sue damage through complement activation. It is classically associated 
+with the administration of animal serum proteins, but the availability 
+of alternative therapies, including monoclonal antibodies of human 
+origin, has decreased the incidence of true serum sickness. A serum 
+sickness–like reaction can be triggered by antibiotics or other drugs 
+(particularly cefaclor, penicillins, sulfonamides, phenytoin, carbamaz­
+epine) and presents 1–2 weeks after exposure. Symptoms include fever, 
+rash, arthralgia or arthritis, and lymphadenopathy. The rash of serum 
+sickness–like reaction is morbilliform or large fixed serpiginous and 
+cyclic urticarial plaques; it can be confused with other circular rashes 
+such as giant urticaria and EM (Fig. 53.23). Serum sickness–like reac­
+tions do not exhibit the hypocomplementemia, vasculitis, circulating 
+immune complexes, and renal lesions that are seen in serum sickness. 
+Critical to making the diagnosis is identification of exposure to a drug 
+in the preceding 1–2 weeks. A watchful waiting approach may support 
+the diagnosis, inasmuch as the syndrome should resolve within approx­
+imately 4 weeks if exposure to the purported offending agent has been 
+curtailed. Persistence of findings beyond this period indicates another 
+disorder associated with immune complex–mediated vasculitis.
+Henoch-­Schönlein Purpura (IgA Vasculitis)
+HSP is usually a self-­limited immunoglobulin A (IgA)-­mediated vas­
+culitis representing the most common vasculitis of childhood. It affects 
+vessels in the skin, joints, gastrointestinal tract, and kidneys. The clin­
+ical manifestations include a rash, which initially is urticarial and then 
+frequently evolves into a maculopapular eruption; after this eruption, 
+petechiae and then purpuric plaques distributed predominantly on the 
+buttocks and over the lower extremities develop (Fig. 53.24). These 
+Fig. 53.21  Stevens-­Johnson syndrome. Mucous membrane involve­
+ment with severe swelling and hemorrhagic crusting of the lips. (From 
+Paller AS, Mancini AJ. Hurwitz Clinical Pediatric Dermatology. 5th ed. 
+Philadelphia: Elsevier; 2016.)
+Fig. 53.22  Stevens-­Johnson syndrome. Confluent erythema, blisters, 
+and exfoliation of the epidermis are present. (From Hurwitz S. Clinical 
+Pediatric Dermatology: A Textbook of Skin Disorders of Childhood and 
+Adolescence. 2nd ed. Philadelphia: WB Saunders; 1993:528.)
+TABLE 53.11  Classification of Stevens-­
+Johnson Syndrome (SJS), Toxic Epidermal 
+Necrolysis (TEN), and Stevens-­Johnson 
+Syndrome–Toxic Epidermal Necrolysis 
+(SJS-­TEN) Overlap
+SJS
+SJS-­TEN
+TEN
+Lesional 
+morphology
+Targetoid lesions, 
+dusky red 
+macules, bullae
+Targetoid 
+lesions, dusky 
+red macules, 
+bullae
+Targetoid 
+lesions, dusky 
+erythematous 
+macules and 
+plaques, 
+detachment of 
+epidermis
+Localization of 
+skin lesions
+May be scattered 
+and isolated; may 
+be confluent, 
+especially on the 
+trunk and face
+May be scattered 
+and isolated; 
+often confluent
+Usually extensive 
+involvement 
+with widespread 
+confluence
+Involved skin
+<10%
+10–30%
+>30%
+Biopsy features More interface 
+dermatitis
+Significant 
+interface 
+dermatitis + 
+necrolysis
+Predominantly 
+necrolysis
+Mucosal 
+changes
+Prominent
+Prominent
+May be less than 
+in SJS
+Systemic 
+involvement
+Often present
+Always present
+Always present
+From Paller AS, Mancini AJ, eds. Hurwitz Clinical Pediatric 
+Dermatology. 5th ed. Philadelphia: Elsevier; 2016:478, Table 20.3.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1013
+CHAPTER 53  Fever and Rash
+plaques usually are raised from the skin surface, which gives the rash 
+its characteristic feature of “palpable purpura.” Associated findings that 
+are variably present include arthralgias and arthritis; edema of the feet, 
+hands, face, scrotum, and scalp; melena, which may accompany intus­
+susception; and an abnormal UA that demonstrates hematuria and 
+proteinuria. Fever, if present, is low grade and not a dominant feature 
+of HSP. Laboratory testing is not necessary but can be of use to the 
+clinician in excluding the infectious or hematologic causes of purpura 
+if the patient does not present with classic features. Specifically, the 
+results of both the platelet count and the coagulation profile are nor­
+mal, and blood cultures are sterile. A Gram stain of the lesion is not 
+usually needed, but the results are negative. Skin biopsy demonstrates 
+the characteristic leukocytoclastic vasculitis involving the vessels in the 
+dermis with IgA deposition.
+Other Disorders
+The diagnosis of other disorders manifesting with fever and rash is 
+also based on formal syndromic criteria. SJIA (see Chapter 44), acute 
+rheumatic fever (see Chapter 9), HLH (see Chapter 54), and SLE are 
+examples. Representative diagnoses usually necessitating tissue con­
+firmation are sarcoidosis and other vasculitides, such as polyarteritis 
+nodosa or Wegener granulomatosis.
+Management of Fever and Rash
+Treatment of patients with fever and rash includes both anticipatory 
+guidance and specific interventions. Anticipatory guidance alone usually 
+suffices for patients who have a clearly identifiable, acute, self-­limited, 
+and noninvasive infectious or hypersensitivity disorder. Parents should 
+be informed of the probable duration of illness, the expected evolution 
+of clinical manifestations, potential complications and how to recognize 
+them, and when to recontact the physician (see Tables 53.5 and 53.6).
+The use of antipyretics as supportive therapy for patients with fever 
+remains controversial. Arguments in favor of such therapy include 
+decreasing symptomatic discomfort associated with the febrile state 
+and reducing the undesirable metabolic and cardiopulmonary effects. 
+Inadvertent overdose or unwanted side effects of over-­the-­counter 
+antipyretics argue against their routine use.
+Empirical therapy with antibiotics is an appropriate strategy for 
+patients with focal cutaneous infection, such as cellulitis and erythema 
+migrans; for patients with petechial or purpuric rash who are thought 
+to have invasive infectious disorders; or for patients who appear toxic 
+or manifest signs of cardiovascular instability. If epidemiologic evi­
+dence or clinical features are suggestive of rickettsial infection, the 
+antimicrobial regimen should include doxycycline, even for children 
+younger than 8 years. Suspected neonatal HSV infection should be 
+treated with parenteral acyclovir.
+Patients for whom a diagnosis is established by pattern recog­
+nition, case finding, syndromic aggregation, biopsy, or exclusion of 
+other disorders may receive definitive interventions, as available, if the 
+treatment benefits outweigh the risks. SSSS should be treated with an 
+intravenous antistaphylococcal antibiotic. Staphylococcal TSS should 
+be treated by removing vaginal foreign material if present, or other­
+wise effectively draining the source of the infection, and administer­
+ing intravenous vancomycin; toxin and cytokine production should 
+be curtailed with a bacterial protein synthesis inhibitor such as clin­
+damycin. If methicillin-­sensitive S. aureus is confirmed by vaginal 
+or other culture, an antistaphylococcal penicillin plus clindamycin is 
+appropriate. Streptococcal TSS should be treated with surgical debride­
+ment if indicated, and parenteral penicillin and clindamycin. Intrave­
+nous immune globulin (IVIG) may be used as adjunctive therapy for 
+streptococcal TSS to neutralize bacterial exotoxins. Treatment of acute 
+rheumatic fever is directed at group A streptococcus with treatment-­
+dose penicillin followed by prophylactic doses of penicillin to decrease 
+the risk of recurrent rheumatic fever. Diseases caused by drug toxicity 
+are treated by discontinuing the offending medication. SJS and TEN 
+are treated with supportive care, often in a burn center; meticulous skin 
+and ophthalmologic care; and IVIG.
+Fig. 53.23  Serum sickness–like reaction. Urticarial wheals occurred 2 
+weeks after exposure to cefaclor. (From Paller AS, Mancini AJ, eds. 
+Hurwitz Clinical Pediatric Dermatology. 5th ed. Philadelphia: Elsevier; 
+2016:475, Fig. 20.13.)
+A
+B
+Fig. 53.24  A, Henoch-­Schönlein purpura. Palpable purpuric papules and 
+plaques. B, Palpable purpura of the buttocks, a classic site of involve­
+ment in Henoch-­Schönlein purpura. (From Paller AS, Mancini AJ, eds. 
+Hurwitz Clinical Pediatric Dermatology. 5th ed. Philadelphia: Elsevier; 
+2016:497, Figs. 21.3, 21.5.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1014
+SECTION 10  Infectious Diseases/Immune/Inflammation
+Infections with HSV or varicella-­zoster virus may be treated with 
+oral or intravenous acyclovir. Intravenous therapy is particularly 
+appropriate for immunocompromised patients. The benefits of acy­
+clovir therapy for HSV or varicella-­zoster virus in immunocompetent 
+hosts are less clear but traditionally utilized as it appears to shorten 
+the duration of symptoms, particularly if given early in the course of 
+infection.
+Pharmacologic interventions in the systemic inflammatory dis­
+orders include antiinflammatory agents such as the nonsteroidal 
+agents, corticosteroids, and immunosuppressant or modulating agents. 
+Administration of IVIG is a definitive intervention in all patients 
+with KD to reduce coronary aneurysm formation. The most effective 
+treatment regimen for patients with KD of <10 days’ duration is one 
+dose of IVIG (2 g/kg) given over 12 hours with adjunctive aspirin ther­
+apy for at least 6–8 weeks to prevent thrombotic complications. Because 
+10% of patients may have persistent fever (>48 hours) or recrudescence 
+of fever after the one-­dose IVIG regimen, repeated treatment with 
+IVIG is often necessary. Treatment of IVIG nonresponders is more 
+controversial and may consist of corticosteroids, infliximab, or other 
+immunosuppressant agents.
+Patients with MIS-­C often require admission to an intensive care 
+unit and require organ-­specific support for heart, kidney, or lung dys­
+function in addition to IVIG, methylprednisolone, and anticoagulant 
+therapy.
+   	 S U MMA RY  A N D  R E D  F L A G S
+Most childhood episodes of fever and rash represent benign, self-­
+limited viral illnesses with little or no sequelae. Diseases with poten­
+tially significant sequelae, such as meningococcemia, Rocky Mountain 
+spotted fever, acute rheumatic fever, KD, SJS, DRESS, MIS-­C, TSS, 
+and SSSS, require efficient evaluation and timely treatment. Red flags 
+include toxic appearance, unstable vital signs, meningismus, or fever 
+with petechiae or purpura.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1014.e1
+BIBLIOGRAPHY
+American Academy of Pediatrics. Lyme Disease. Report of the Committee on 
+Infectious Diseases. 31st ed. Elk Grove Village, IL: American Academy of 
+Pediatrics; 2018:515–523.
+American Academy of Pediatrics. Rickettsial Disease. Report of the Committee 
+on Infectious Diseases. 31st ed. Elk Grove Village, IL: American Academy of 
+Pediatrics; 2018:693–696.
+Avner JR. Acute fever. Pediatr Rev. 2009;30(1):5–13.
+Baker RC, Seguin JH, Leslie N, et al. Fever and petechiae in children. 
+Pediatrics. 1989;84(6):1051–1055.
+Bialecki C, Feder Jr HM, Grant-­Kels JM. The six classic childhood exanthems: 
+a review and update. J Am Acad Dermatol. 1989;21(5 Pt 1):891–903.
+Biesbroeck L, Sidbury R. Viral exanthems: an update. Dermatol Ther. 
+2013;26(6):433–438.
+Biggs HM, Behravesh CB, Bradley KK, et al. Diagnosis and management of 
+tickborne rickettsial diseases: Rocky Mountain spotted fever and other 
+spotted fever group rickettsioses, ehrlichioses, and anaplasmosis – United 
+States. MMWR Recomm Rep. 2016;65(RR-­2):1–44.
+Bolognia J, Schaffer JV, Duncan KO, et al. Fever and rash. In: Bolognia J, 
+Schaffer JV, Duncan KO, et al., eds. Dermatology Essentials. Oxford: 
+Saunders/Elsevier; 2014:28–38.
+Burns JC, Wiggins Jr JW, Toews WH, et al. Clinical spectrum of 
+Kawasaki disease in infants younger than 6 months of age. J Pediatr. 
+1986;109(5):759–763.
+Chang FY, Hwang B, Chen SJ, et al. Characteristics of Kawasaki disease 
+in infants younger than six months of age. Pediatr Infect Dis J. 
+2006;25(3):241–244.
+French LE, Prins C. Erythema multiforme, Stevens-­Johnson syndrome and 
+toxic epidermal necrolysis. In: Bolognia J, Jorizzo JL, Schaffer JV, eds. 
+Dermatology. 3rd ed. Philadelphia: Elsevier Saunders; 2012:319–333.
+Gewitz MH, Baltimore RS, Tani LY, et al. Revision of the Jones criteria for the 
+diagnosis of acute rheumatic fever in the era of doppler echocardiography: 
+a scientific statement from the American Heart Association. Circulation. 
+2015;131(20):1806–1818.
+Goodyear HM, Laidler PW, Price EH, et al. Acute infectious erythemas in 
+children: a clinico-­microbiological study. Br J Dermatol. 1991;124(5):433–438.
+Gowdie PJ, Tse SM. Juvenile idiopathic arthritis. Pediatr Clin North Am. 
+2012;59(2):301–327.
+Gubbay JB, McIntyre PB, Gilmour RE. Cellulitis in childhood invasive 
+pneumococcal disease: a population-­based study. J Paediatr Child Health. 
+2006;42(6):354–358.
+Husain Z, Reddy BY, Schwartz RA. DRESS syndrome: part I. Clinical 
+perspectives. J Am Acad Dermatol. 2013;68(5):693.e1–693.e14. Quiz 706–708.
+Husain Z, Reddy BY, Schwartz RA. DRESS syndrome: part II. Management and 
+therapeutics. J Am Acad Dermatol. 2013;68(5):709.e1–709.e9. Quiz 18–20.
+Kang JH. Febrile illness with skin rashes. Infect Chemother. 2015l;47(3):155–
+166.
+Kaye ET, Kaye KM. Fever and rash. In: Kasper D, Fauci A, Hauser S, et al., eds. 
+Harrison’s Principles of Internal Medicine. 19th ed. New York: McGraw-­Hill; 
+2015.
+Klassen TP, Hartling L, Wiebe N, et al. Acyclovir for treating varicella in 
+otherwise healthy children and adolescents. Cochrane Database Syst Rev. 
+2005;4:Cd002980.
+Ladisch S. Histiocytosis syndromes of childhood. In: Kliegman R, Stanton 
+B, St. Geme JW III, et al., eds. Nelson Textbook of Pediatrics. 20th ed. 
+Philadelphia: Elsevier; 2016:2484–2489.
+Lee Y-­C, Kuo H-­C, Chang J-­S, et al. Two new susceptibility loci for Kawasaki 
+disease identified through genome-­wide association analysis. Nat Genet. 
+2012;44(5):522–525.
+Macias ES, Pereira FA, Rietkerk W, et al. Superantigens in dermatology. J Am 
+Acad Dermatol. 2011;64(3):455–472.
+Mandl KD, Stack AM, Fleisher GR. Incidence of bacteremia in infants and 
+children with fever and petechiae. J Pediatr. 1997;131(3):398–404.
+Markowitz M, Kaplan EL. Reappearance of rheumatic fever. Adv Pediatr. 
+1989;36:39–65.
+Mathur AN, Mathes EF. Urticaria mimickers in children. Dermatol Ther. 
+2013;26(6):467–475.
+Miller HC, Stephan M. Hemorrhagic varicella: A case report and review of the 
+complications of varicella in children. Am J Emerg Med. 1993;11(6):633–638.
+Miller JM, Binnicker MJ, Campbell S, et al. A guide to utilization of the 
+microbiology laboratory for diagnosis of infectious diseases: 2018 update 
+by the Infectious Diseases Society of America and the American Society 
+for Microbiology. Clin Infect Dis. 2018;67(6):e1–e94.
+Multisystem Inflammatory Syndrome in Children (MIS-­C). Available from: 
+https://www.cdc.gov/mis-­c/hcp/index.html.
+Newburger JW, Takahashi M, Gerber MA, et al. Diagnosis, treatment, and 
+long-­term management of Kawasaki disease: a statement for health 
+professionals from the Committee on Rheumatic Fever, Endocarditis 
+and Kawasaki Disease, Council on Cardiovascular Disease in the Young, 
+American Heart Association. Circulation. 2004;110(17):2747–2771.
+Noguera-­Morel L, Hernández-­Martín Á, Torrelo A. Cutaneous drug reactions 
+in the pediatric population. Pediatr Clin North Am. 2014;61(2):403–426.
+Onouchi Y. Genetics of Kawasaki disease: what we know and don’t know. Circ 
+J. 2012;76(7):1581–1586.
+Rose HM. The clinical manifestations and laboratory diagnosis of 
+rickettsialpox. Ann Intern Med. 1949;31(5):871–883.
+Scuccimarri R. Kawasaki disease. Pediatr Clin North Am. 2012;59(2):425–445.
+Sidoroff A. Acute generalized exanthematous pustulosis. Chem Immunol 
+Allergy. 2012;97:139–148.
+Solomon AR, Rasmussen JE, Varani J, et al. The Tzanck smear in the diagnosis 
+of cutaneous herpes simplex. JAMA. 1984;251(5):633–635.
+Southern tick-­associated rash illness. Available from: https://www.cdc.gov/
+stari/index.html.
+Streptococcal toxic-­shock syndrome (STSS) (Streptococcus pyogenes) 2010 
+case definition. Available from: http://wwwn.cdc.gov/nndss/conditions/
+streptococcal-­toxic-­shock-­syndrome/case-­definition/2010/.
+Thompson MJ, Ninis N, Perera R, et al. Clinical recognition of meningococcal 
+disease in children and adolescents. Lancet. 2006;367(9508):397.
+Toxic shock syndrome (other than streptococcal) (TSS) 2011 case definition. 
+Available from: http://wwwn.cdc.gov/nndss/conditions/toxic-­shock-­
+syndrome-­other-­than-­streptococcal/case-­definition/2011/.
+Ye Q, Shao WX, Shang SQ, et al. A comprehensive assessment of the value of 
+laboratory indices in diagnosing Kawasaki disease. Arthritis Rheumatol. 
+2015;67(7):1943–1950.
+Yellen ES, Gauvreau K, Takahashi M, et al. Performance of 2004 American 
+Heart Association recommendations for treatment of Kawasaki disease. 
+Pediatrics. 2010;125(2):e234–e241.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

@@ -1,0 +1,3733 @@
+265
+DEFINITIONS
+Vomiting/emesis is a protective reflex in response to a variety of stim­
+uli that results in forceful ejection of stomach contents. The emetic 
+reflex is complex and composed of three sequential events. Initially 
+there is a prodromal phase characterized by nausea and autonomic 
+changes, followed by retching and finally vomiting or forceful expul­
+sion of gastric contents through the oral cavity. These events may occur 
+independent of each other. In some cases, nausea may not progress to 
+vomiting, while vomiting may occur without preceding nausea.
+Nausea is defined as a vague, unpleasant epigastric or abdominal 
+sensation that presents in a wavelike pattern and is associated with 
+a feeling of imminent vomiting. Nausea is accompanied by a variety 
+of autonomic changes including increases in salivation, diaphoresis, 
+pupillary dilation, tachycardia, and changes in respiration. The gastro­
+intestinal (GI) motor response during nausea comprises inhibition of 
+spontaneous contractions of the GI tract, relaxation of the proximal 
+stomach, and contraction of the esophageal longitudinal muscle, which 
+pulls the lower esophageal sphincter (LES) and proximal stomach into 
+the thoracic cavity. This is followed by a retrograde peristaltic contrac­
+tion from the small intestine to the gastric antrum called the retrograde 
+giant contraction, which propels duodenal contents into the stomach.
+Retching is defined as strong, involuntary efforts to vomit, which 
+may be seen as preparatory maneuvers to vomiting. These efforts con­
+sist of spasmodic contractions of the diaphragm and abdominal wall, 
+resulting in increased abdominal pressure and decreased intrathoracic 
+pressure, facilitating the relaxed LES and dilated proximal stomach to 
+slide further into the thoracic cavity. This enables the free flow of gas­
+tric content into the esophagus though this material may be returned to 
+the stomach by secondary (nonswallow) esophageal peristalsis result­
+ing in a to-­and-­fro movement.
+Vomiting (emesis) differs from retching in that gastric content is 
+expelled from the mouth. This is fostered by relaxation of the diaphragm 
+and reversal of intrathoracic pressure from negative to positive, leading 
+to increase of intraluminal pressure in the esophagus. It is accompanied 
+by relaxation of the upper esophageal sphincter and closure of the glottis.
+Regurgitation is considered a form of gastroesophageal reflux and 
+should be differentiated from vomiting. It is characterized by nonforceful 
+expulsion of gastric content through the oral cavity, and as such, is caused 
+predominantly by transient LES relaxations. It is generally not accompa­
+nied by prodromal symptoms or retching. Although apparently effort­
+less, it may be triggered by contractions of abdominal wall musculature 
+as occurs in rumination syndrome. This propulsion perhaps distinguishes 
+regurgitant from nonregurgitant reflux, which remains in the esophagus.
+NEUROANATOMY OF VOMITING
+The emetic reflex consists of an afferent limb (receptor and pathway), 
+central integration and control, and an efferent limb (pathway and 
+effector). The diverse afferent pathways may originate within the oro­
+pharynx, GI tract, renal system, vestibular system, or central nervous 
+system (e.g., hypothalamus, cortex). These afferent pathways can be 
+triggered by various stimuli including visceral pain and inflammation, 
+toxins, motion, pregnancy, radiation exposure, postoperative states, 
+and unpleasant emotions. Tactile stimulation to the back of the throat 
+can also stimulate emesis. Mechanoreceptors located in the muscularis 
+layer of the GI tract can trigger the emetic reflex in response to pas­
+sive distension and strong contractions as seen in cases of mechanical 
+obstruction. Chemoreceptors located in the mucosa of the stomach 
+and proximal small bowel can be stimulated by a wide array of chemi­
+cal irritants and toxins, leading to emesis. Similarly, such receptors can 
+be found in other organ systems such as the pelvic ureteral system, 
+which can induce emesis in response to distension, irritation, and other 
+insults.
+The afferent pathways originating from the GI tract are principally 
+mediated via vagal afferent fibers. Vomiting in response to drugs and 
+toxins circulating in the blood is thought to be mediated via the “che­
+moreceptive trigger zone” in the area postrema located on the dorsal 
+surface of the floor of the fourth ventricle outside the blood-­brain bar­
+rier. Substances in the blood and cerebrospinal fluid can be detected by 
+chemosensitive receptors in this area. Activation of the afferent limb of 
+the vomiting reflex may also occur through real or apparent motion of 
+the body. This occurs when the brain receives conflicting information 
+about body movement from the visual, vestibular, and propriocep­
+tive systems, referred to as “sensory mismatch.” Higher cortical areas 
+(supramedullary) can also induce vomiting in response to central ner­
+vous system diseases and emotional stress via cortical afferent nerves.
+The afferent pathways terminate centrally in the nucleus tractus sol­
+itarius (NTS) and the surrounding reticular area located in the dorso­
+lateral medulla. The NTS is the beginning of the final common pathway 
+by which all emetic pathways are thought to induce vomiting. The NTS 
+signals to the emetic central pattern generator (CPG). Contrary to past 
+beliefs, there is no isolated central “vomiting center” but rather a group 
+of loosely organized neurons scattered throughout the medulla that 
+need to be activated in an appropriate sequence by the CPG to control 
+the bodily functions associated with emesis. In the final step, the ste­
+reotypical motor response of vomiting is generated and is mediated by 
+efferent fibers in the vagal, phrenic, and spinal nerves.
+NEUROCHEMICAL BASIS OF VOMITING
+A wide variety of neurotransmitters and neuropeptides are involved in 
+the vomiting reflex. The chemoreceptor trigger zone (CTZ) in the area 
+postrema contains receptors for dopamine (D2-­receptor), serotonin 
+(5HT-­3), histamine (H1), substance P (neurokinin-­1 [NK-­1]), acetyl­
+choline (muscarinic), and opioid (μ and δ). These receptors are meant 
+to detect the presence of the associated neurotransmitter in the blood 
+and at a certain level will activate the emetic pathway.
+Vomiting and Regurgitation
+Geetanjali Bora and Katja Kovacic
+15
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+266
+SECTION 4  Gastrointestinal Disorders
+Serotonin receptors (5HT-­3) are also found in the vagal affer­
+ent fibers of the GI tract, and evidence suggests that chemothera­
+peutic agents, radiation, and noxious stimuli act directly on these 
+GI tract vagal fibers, inducing the release of serotonin. Substance 
+P and its receptor (NK-­1) are widely distributed in the central and 
+peripheral nervous system, and blockade of this receptor prevents 
+emesis due to both central and peripheral stimuli. Animal models 
+have demonstrated that physical and psychological stress can trig­
+ger the release of corticotropin-­releasing hormone, which acts via 
+the CRF-­2 receptor located in the brainstem to induce emesis and 
+mediate gastric stasis.
+DATA TO GUIDE THE DIAGNOSIS
+History and Demographics
+The child’s age is an important guide to the diagnostic possibilities 
+(Table 15.1). While most congenital anomalies of the GI tract present 
+in the neonatal period, others such as antropyloric webs, malrotation, 
+TABLE 15.1  Etiology of Vomiting by Organ System and Age at Presentation
+Cause
+Neonate (<1 mo)
+Infant (1–12 mo)
+Child (1–11 yr)
+Adolescent (>11 yr)
+Non-GI Infections
+Otitis media
++
++
+_
+Acute or chronic sinusitis
+_
++
++
+Streptococcal pharyngitis
+_
++
++
+Pneumonitis
++
++
+_
+Pyelonephritis
++
++
++
++
+Meningitis
++
++
++
++
+Sepsis
++
++
++
++
+GI Infections
+Gastroenteritis
++
++
++
+Infectious colitis
+_
++
++
+H. pylori gastritis
++
++
+Parasitic infection
++
++
+Hepatitis
+_
++
++
+Hepatic abscess
+_
++
+_
+Anatomic Defects
+Esophageal
+Congenital atresia, stricture, 
+webs
++
++
+_
+_
+Tracheoesophageal fistula
++
++
+_
+Vascular ring
++
++
++
+Gastric
+Pyloric stenosis
++
++
+_
+_
+Antral webs
++
++
++
+_
+Bezoars
++
++
+Intestinal
+Stenosis and atresia
++
++
+Webs and duplications
++
++
++
+_
+Imperforate anus
++
+Meconium ileus
++
+Obstructed inguinal hernia
++
++
++
++
+Malrotation with volvulus
++
++
++
++
+Intussusception
++
++
+_
+DIOS
++
++
++
++
+SMA syndrome
++
++
+Duodenal hematoma
+_
++
++
+Surgical adhesions
++
++
++
+Appendicitis
++
++
+Mucosal Injuries
+GERD/reflux esophagitis
++
++
++
++
+Eosinophilic esophagitis
+_
++
++
+Gastritis ± H. pylori
+_
++
++
+Peptic ulcer or duodenitis
++
++
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+TABLE 15.1  Etiology of Vomiting by Organ System and Age at Presentation—cont’d
+Continued
+Cause
+Neonate (<1 mo)
+Infant (1–12 mo)
+Child (1–11 yr)
+Adolescent (>11 yr)
+Mucosal Injuries—cont’d
+Eosinophilic gastritis
++
++
+Celiac disease
+_
++
++
+Inflammatory bowel disease
+_
++
++
+Ménétrier disease
++
++
+Chronic granulomatous 
+disease
+_
++
+_
+Nutrient intolerance (dairy, 
+soy)
++
++
+GI Motility Disorders
+Achalasia
+_
+_
+_
++
+Gastroparesis
++
++
+Paralytic ileus
++
++
++
++
+Hirschsprung disease
++
++
+_
+Intestinal pseudo-obstruction
++
++
+_
+_
+Pancreaticobiliary
+Cholecystitis
+_
+_
+_
++
+Cholelithiasis
+_
++
+Choledochal cyst
++
++
+_
+Pancreatitis
++
++
+Gallbladder dyskinesia
+_
++
+Intestinal Ischemia/Hypoperfusion
+Necrotizing enterocolitis
++
+_
+Cardiac defects
++
++
++
+_
+Mesenteric vessel thrombosis _
+_
++
++
+Endocrine
+Adrenal hyperplasia
++
++
+Addison disease
++
++
++
++
+Diabetic ketoacidosis
++
++
+Pheochromocytoma
+_
+_
+Metabolic Disorders
+Organic acidemia 
++
++
+_
+Aminoacidemia 
++
++
+_
+Fatty acid oxidation defects
+_
++
++
+Urea cycle defect 
++
++
+_
+Hereditary fructose intoler­
+ance 
+_
++
+Mitochondriopathies 
+_
++
++
+Storage disorders
+_
++
++
+Acute intermittent porphyria
+_
++
+Genitourinary Causes
+Ureteropelvic obstruction
++
++
+_
+Renal stones
++
++
+Uremia
++
++
+Pregnancy
++
+Ovarian torsion
+_
++
+Neurologic Causes
+Hydrocephalus with shunt 
+malfunction
++
++
++
++
+Arnold-Chiari defect
++
++
+_
+Posterior fossa tumors
+_
++
++
+Intracranial bleeds
++
++
++
++
+Concussions
+_
++
++
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+268
+SECTION 4  Gastrointestinal Disorders
+Cause
+Neonate (<1 mo)
+Infant (1–12 mo)
+Child (1–11 yr)
+Adolescent (>11 yr)
+Neurologic Causes—cont’d
+Pseudotumor cerebri
++
++
+Migraine headaches
++
++
+Abdominal migraine
++
++
+Vestibular disease (motion 
+sickness)
+_
++
+Cyclical vomiting syndrome
++
++
+Miscellaneous
+Rumination
++
++
+Functional vomiting
++
++
+Eating disorders
++
+Toxic ingestion
+_
++
++
+Food poisoning
+_
++
++
+Medication-induced
++
++
+Munchausen by proxy (ipecac 
+poisoning)
++
++
++, typically presents in this age group; − occasionally or rarely present; empty box signifies not present.
+DIOS, distal intestinal obstruction syndrome; GERD, gastroesophageal reflux disease; H. pylori, Helicobacter pylori; SMA, superior mesenteric artery 
+syndrome.
+Modified from Li BUK, Kovacic K. Vomiting and nausea. In: Wyllie R, Hyams JS, Kay M, eds. Pediatric Gastrointestinal and Liver Disease. 5th ed. 
+Philadelphia: Elsevier; 2016:88.
+TABLE 15.1  Etiology of Vomiting by Organ System and Age at Presentation—cont’d
+and intestinal duplications may be discovered at any age. Other 
+important etiologies of vomiting to consider in the neonatal period 
+are inborn errors of metabolism and sepsis. Older infants presenting 
+with vomiting may have less severe structural or metabolic disorders, 
+or they may have common acquired disorders such as gastroenteritis, 
+mild systemic infections, gastroesophageal reflux, or allergies. Some 
+metabolic disorders first manifest in older infants when novel dietary 
+introductions expose them to provocative foods. Gastroenteritis and 
+other infections are important considerations in these younger patients 
+with relatively naïve immune systems. Toddlers frequently experience 
+repeated episodes of gastroenteritis due to a variety of infectious organ­
+isms. Although gastroenteritis may initially present with emesis, there 
+is usually both vomiting and diarrhea and, depending on the patho­
+gen, abdominal pain. Vomiting in the absence of diarrhea should suggest 
+another etiology. However, this age group also presents with acquired 
+obstructive GI disorders such as intussusception or volvulus or with 
+vomiting caused by ingested poisons.
+Throughout childhood and adolescence, a wide variety of acquired 
+disorders become symptomatic, and more subtle congenital malfor­
+mations may also first become evident at these older ages. Metabolic 
+disorders continue to be an important but infrequent cause of recur­
+rent vomiting throughout childhood. In adolescents, pregnancy, drug 
+ingestion, chronic marijuana use, and eating disorders should be added 
+to the diagnostic considerations.
+Temporal Pattern of Vomiting
+Vomiting may be acute or recurrent. The recurrent pattern can be 
+categorized as chronic recurrent or cyclic recurrent (Fig. 15.1 and 
+Table 15.2). Differential diagnoses based on temporal pattern of vom­
+iting are extensive (Tables 15.3 and 15.4). Acute vomiting is the most 
+common pattern encountered in the pediatric population due to the 
+frequent nature of infectious triggers. Acute causes of emesis usually 
+present with multiple episodes of emesis per day, lasting for a few 
+days, and may result in dehydration. This can also be encountered 
+in association with acute GI obstructions, food poisoning, or toxin 
+ingestion as well as an acute rise in intracranial pressure as seen with 
+encephalitis or intracranial space-­occupying lesions. The recurrent 
+pattern of vomiting can be chronic, low grade, characterized by one 
+to two episodes of emesis per day. These patients are generally mildly 
+ill and not dehydrated.
+About 30% of recurrent emesis manifests with a cyclic pattern as in 
+cyclic vomiting syndrome (CVS). This presents with intermittent epi­
+sodes of high-­frequency vomiting interspersed with periods of normal 
+health. Episodes are often stereotypical and associated with pallor, list­
+lessness, and dehydration. In those with a chronic emesis pattern, the GI 
+causes exceed the non-­GI causes by 7:1. The most common etiologies 
+Days
+0
+0
+10
+20
+30
+30
+60
+Emeses/day
+Fig. 15.1  Representation of acute, chronic, and cyclic patterns of vom­
+iting. Three temporal patterns of vomiting are depicted: acute (dotted 
+purple line), chronic (solid purple line), and cyclic (solid blue line). The 
+number of emeses per day is plotted on the vertical axis over a 2-­month 
+period. The acute pattern is represented by a single episode of moderate 
+vomiting intensity; the chronic pattern by a recurrent low-­grade vomiting 
+pattern that occurs on a daily basis; and the cyclic pattern by recurrent, 
+discrete episodes of high-­intensity vomiting that occur once every sev­
+eral weeks with normal health in between. (From Mokha J. Vomiting and 
+nausea. In: Wyllie R, Hyams JS, Kay M, eds. Pediatric Gastrointestinal 
+and Liver Disease. 6th ed. Philadelphia: Elsevier; 2021:72, Fig. 8.2.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+269
+CHAPTER 15  Vomiting and Regurgitation
+TABLE 15.2  Differentiating Acute, Chronic, and Cyclic Patterns of Vomiting
+Clinical Feature
+Acute
+Chronic Recurrent
+Cyclic Recurrent
+Epidemiology
+Most common
+Two thirds of recurrent vomiting cohort
+One third of recurrent vomiting cohort
+Acuity
+Moderate-­severe, ± dehydration
+Not acutely ill or dehydrated
+Severe, dehydrated
+Vomiting intensity
+Moderate to high
+Low, 1–2 emeses/hr at the peak
+High, ∼6 emeses/hr at peak
+Recurrence rate
+No
+Frequent, >2 episodes/wk
+Infrequent, ≤2 episodes/wk
+Stereotypy
+Unique—if child has had 3 similar 
+episodes, consider cyclic pattern
+No
+Yes
+Onset
+Variable
+Daytime
+Early morning
+Symptoms
+Fever, diarrhea
+Abdominal pain, diarrhea
+Pallor, lethargy, nausea, abdominal pain
+Household contacts affected
+Usually
+No
+No
+Family history of migraine headaches
+14% positive
+82% positive
+Causes
+Viral infections
+Ratio of GI to extra-­GI causes 7:1; upper 
+GI tract mucosal injury most common 
+(esophagitis, gastritis)
+Ratio of extra-­GI to GI causes 5:1; cyclic 
+vomiting syndrome most common 
+(also hydronephrosis, metabolic)
+GI, gastrointestinal.
+From Li BUK, Kovacic K. Vomiting and nausea. In: Wyllie R, Hyams JS, Kay M, eds. Pediatric Gastrointestinal and Liver Disease. 5th ed. Philadel­
+phia: Elsevier; 2016:87.
+of chronic emesis include GI mucosal inflammation or defects such 
+as eosinophilic esophagitis, gastritis, peptic ulcer disease, and Crohn 
+disease, but psychobehavioral causes such as rumination and bulimia 
+nervosa should be kept in mind. On the contrary, the diagnostic profile 
+of cyclic vomiting is reversed with a ratio of non-­GI causes outnum­
+bering GI causes by 5:1. While CVS is the most common cause of this 
+pattern, an episodic pattern of vomiting can also be a manifestation 
+of renal (e.g., acute hydronephrosis from ureteropelvic obstruction), 
+endocrine (e.g., diabetic ketoacidosis, Addison disease), or metabolic 
+disorders (e.g., mitochondrial, fatty acid oxidation defects).
+Characteristics of Vomiting
+The contents of the vomitus narrow the diagnostic possibilities. 
+Hematemesis and bilious vomiting, in particular, are approached in a 
+manner very different from that of vomiting without these characteris­
+tics and may represent more serious underlying disorders (see Chapter 
+16). Effortless vomiting is witnessed in reflux and rumination, while 
+more forceful vomiting is often noted with upper GI tract obstruction, 
+CVS, and toxins.
+Associated Symptoms
+Temporal associations of vomiting with specific time of the day, rela­
+tion to meals, intake of specific foods, and other inciting events can 
+give important diagnostic clues (see Table 15.4). Of all the causes of 
+early morning emesis, the most worrisome is increased intracranial 
+pressure. More common causes of early morning nausea and vomit­
+ing are CVS, dysautonomia, and chronic sinusitis with postnasal drip. 
+Pregnancy should be ruled out in all sexually active females. Post-­tussive 
+emesis should direct diagnostic attention to the cause of the cough 
+itself. Food vomited many hours after its consumption is suspicious for 
+delayed gastric emptying or gastric outlet obstruction. Episodic vom­
+iting associated with abdominal pain precipitated after consumption 
+of a large quantity of fluids and resolving after diuresis can be a result 
+of intermittent hydronephrosis caused by ureteropelvic junction (UPJ) 
+obstruction.
+Associated symptoms (Table 15.5) can be crucial in differentiating 
+serious life-­threatening conditions that require urgent intervention 
+from the more benign causes of vomiting. Vomiting with neurologic 
+signs such as headache, altered sensorium, and seizures should alert 
+providers to consider intracranial or metabolic disorders. Abdominal 
+pain is a central symptom associated with vomiting and its character 
+and location can further help narrow the diagnosis (see Chapter 13). 
+Abdominal pain can be categorized as visceral, parietal, or referred 
+pain. Visceral pain is caused by excessive contraction, distension, 
+inflammation, or ischemia of the walls of hollow viscera (stomach, 
+intestines, bile duct, ureter) or the capsule of solid organs (liver, spleen, 
+kidney). Patients usually have difficulty describing visceral pain. It can 
+be dull, intermittent, vague, or colicky and is poorly localized, often 
+to the midline. Common examples are pain secondary to infectious 
+gastroenteritis, functional abdominal pain disorders, toxic irritation, 
+intestinal obstruction, etc. Parietal pain is sharp, constant, and well 
+localized to the area of the underlying problem. It signifies inflamma­
+tion of the contiguous peritoneum. It is exacerbated with movement, 
+is associated with localized tenderness on examination, and requires 
+immediate medical attention. Parietal pain is present in conditions 
+such as acute cholecystitis, pancreatitis, appendicitis, and perforation 
+of viscus. Referred pain describes pain perceived in an area remote 
+from the site of the inciting pathologic process. Abdominal pain may 
+therefore be a symptom of disease localized in the thorax, pelvis, or 
+retroperitoneum.
+When suspecting a psychosocial cause of vomiting, providers 
+should inquire about anxiety, binge eating, body image, and any recent 
+stressors. Minor head injury can also present as vomiting in children, 
+especially toddlers. There is evidence to suggest that vomiting after a 
+minor head injury may be related to intrinsic patient factors rather 
+than the severity of the injury. Vomiting that is persistent or latent in 
+onset may be more likely to signify head injury. Emesis following a 
+recent history of blunt abdominal trauma should raise the suspicion of 
+a duodenal hematoma.
+Medical, Family, and Social History
+Previous surgery, hospitalizations, and medications may provide 
+important clues. A family history of fetal or neonatal deaths suggests a 
+genetic or metabolic cause; similar illness in family members or other 
+contacts may suggest infections or common toxic exposures. Psycho­
+social stressors may be found in adolescents with bulimia, peptic ulcer 
+disease, chronic marijuana use, or intentional self-­poisonings.
+Physical Examination
+Although vomiting is a “gastrointestinal” symptom, it can be a 
+manifestation of disease in multiple systems of the body (see Table 
+15.5). Vital signs identify fever, which is important in narrowing the 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+270
+SECTION 4  Gastrointestinal Disorders
+TABLE 15.3  Causes of Vomiting by 
+Temporal Pattern
+Category
+Acute
+Chronic
+Cyclic
+Infectious
+Gastroenteritis*
+Otitis media*
+Streptococcal 
+pharyngitis
+Acute sinusitis
+Hepatitis
+Pyelonephritis
+Meningitis
+Helicobacter 
+pylori*
+Giardiasis
+Chronic sinusitis*
+Chronic sinusitis*
+Gastrointestinal
+Inguinal hernia
+Intussusception
+Malrotation with 
+volvulus
+Appendicitis
+Cholecystitis
+Pancreatitis
+Distal intestinal 
+obstruction 
+syndrome
+Anatomic obstruction
+GERD ± esophagitis*
+Eosinophilic 
+­esophagitis*
+Gastritis*
+Peptic ulcer or 
+duodenitis*
+Achalasia
+SMA syndrome
+Stricturing Crohn 
+disease
+Rumination
+Functional
+Malrotation with 
+volvulus
+Cyclic vomiting 
+syndrome*
+Genitourinary
+Pyelonephritis
+UPJ obstruction
+Pyelonephritis
+Pregnancy
+Uremia
+Acute hydronephro­
+sis ­secondary to 
+UPJ obstruction
+Endocrine, 
+metabolic
+Diabetic keto­
+acidosis
+Adrenal hyper­
+plasia
+Diabetic 
+­ketoacidosis
+Addison disease
+MCAD ­deficiency
+Partial OTC 
+deficiency
+MELAS syndrome
+Acute intermittent 
+porphyria
+Neurologic
+Concussion
+Subdural 
+­hematoma
+Encephalitis
+Migraine
+Arnold-­Chiari 
+malformation
+Subtentorial 
+neoplasm
+Abdominal 
+migraine*
+Migraine 
+­headaches*
+Arnold-­Chiari 
+malformation
+Subtentorial 
+neoplasm
+Metabolic enceph­
+alopathy
+Other
+Toxic ingestion
+Chronic ­marijuana 
+use: hypereme­
+sis syndrome
+Food poisoning
+Bulimia
+Pregnancy
+Factitious disorder 
+by proxy (e.g., 
+ipecac poisoning)
+*Most common disorders.
+GERD, gastroesophageal reflux disease; MCAD, medium-­chain acyl-­
+coenzyme A dehydrogenase deficiency; MELAS, mitochondrial myop­
+athy, encephalopathy, lactic acidosis, and strokelike episodes; OTC, 
+ornithine transcarbamylase deficiency; SMA, superior mesenteric 
+artery; UPJ, ureteropelvic junction.
+From Li BUK, Kovacic K. Vomiting and nausea. In: Wyllie R, Hyams 
+JS, Kay M, eds. Pediatric Gastrointestinal and Liver Disease. 5th ed. 
+Philadelphia: Elsevier; 2016:88.
+TABLE 15.4  Temporal Associations of 
+Chronic or Recurrent Vomiting
+Temporal 
+Associations
+Diagnosis
+Other Clues
+Time of day: early 
+morning
+Increased intracranial 
+pressure
+Sinusitis with postnasal 
+mucus
+Pregnancy
+Uremia
+Headache, papilledema
+Sinus tenderness
+Secondary amenorrhea
+During or after meals
+Any meals
+Peptic ulcer disease, reflux
+Epigastric pain, heartburn
+Specific foods
+Fructose
+Hereditary fructose 
+intolerance
+Hypoglycemia
+Galactose
+Galactosemia
+Cataracts
+High protein
+Metabolic inborn error
+Hyperammonemia, 
+acidosis
+Specific protein
+Cow, soy
+Cow’s or soy milk intolerance Stool guaiac positive
+Gluten
+Gluten-­sensitive enteropa­
+thy (celiac)
+Failure to thrive
+Various (especially 
+egg, wheat, fish, 
+nuts)
+Miscellaneous allergic, 
+eosinophilic gastroen­
+teropathies
+History of asthma, hives, 
+↑ eosinophils, family 
+history of allergies
+After fasting
+Food vomited
+Gastric stasis/obstruction
+Distention, tympany
+Clear vomitus
+Metabolic disease
+See Table 15.8
+Other precipitants
+Cough
+Post-­tussive
+Respiratory disease
+Infections
+Recurrent gastroenteritis
+Fever, diarrhea, sick 
+contacts
+Vestibular 
+stimulation
+Motion sickness
+Nystagmus
+Vertigo
+Hyperhydration
+Ureteropelvic junction 
+obstruction (“Dietl 
+crisis”)
+Spontaneous resolution 
+with normal hydration
+Menses
+Dysmenorrhea associated
+Acute intermittent 
+porphyria
+Pelvic inflammatory 
+disease
+Relief with NSAIDs
+Nonperitonitis pain, 
+distention, tachycardia, 
+constipation
+Vaginal discharge
+Medications, 
+toxins
+Local GI irritation: NSAIDs, 
+ingested poison
+CTZ stimulation: 
+­chemotherapeutics, 
+opioids, ipecac
+Steroid withdrawal: 
+­adrenal crisis
+Drug-­induced pancreatitis, 
+hepatitis
+Drug-­precipitated acute 
+intermittent porphyria
+Ipecac abuse in anorexia
+History of L-­asparaginase, 
+valproate, isoniazid, etc.
+Oral contraceptives, sulfa 
+drugs, barbiturates
+Episodic/cyclic
+See Table 15.3
+See Table 15.2
+CTZ, chemoreceptor trigger zone; GI, gastrointestinal; NSAIDs, nonste­
+roidal antiinflammatory drugs.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+271
+CHAPTER 15  Vomiting and Regurgitation
+TABLE 15.5  Associated Symptoms and Signs for Vomiting
+Associated 
+Symptom or Sign
+Diagnostic Consideration
+Systemic Manifestations
+Acute illness, dehydra­
+tion
+Infection, ingestion, cyclic vomiting, possible surgical 
+emergency
+Chronic malnutrition
+Malabsorption syndrome
+Gastrointestinal Symptoms
+Nausea
+Absence of nausea can suggest increased intracra­
+nial pressure
+Substernal
+Epigastric
+Right upper quadrant
+Left upper quadrant
+Periumbilical
+Right/left flank
+Right lower quadrant
+Left lower quadrant
+Esophagitis
+Upper GI related (reflux, gastritis, PUD), pancreatitis
+Hepatitis, cholecystitis, pancreatitis, cholelithiasis, 
+biliary colic, right lower pneumonia, right pyelo­
+nephritis
+PUD, pancreatitis, splenic enlargement, left lower 
+lobe pneumonia, left pyelonephritis
+Nonspecific, small bowel obstruction
+UPJ obstruction, renal stones, pyelonephritis, adrenal 
+hemorrhage
+Appendicitis, right tubo-ovarian disease
+Sigmoid related, left tubo-ovarian disease
+Diarrhea
+Gastroenteritis, bacterial colitis
+Constipation
+Hirschsprung disease, pseudo-­obstruction, 
+hypercalcemia, hypokalemia, lead poisoning, 
+porphyria
+Dysphagia
+Eosinophilic esophagitis, achalasia, esophageal 
+stricture
+Malodorous breath
+H. pylori
+Jaundice
+Hepatitis, cholecystitis, hepatobiliary obstruction
+Visible peristalsis
+Gastric outlet obstruction
+Surgical scars
+Surgical adhesions, surgical vagotomy
+Succussion splash
+Gastric outlet obstruction with gastric distention
+Bowel sounds
+Decreased: paralytic ileus; increased: mechanical 
+obstruction
+Severe abdominal tender­
+ness with rebound
+Perforated viscera and peritonitis
+Abdominal mass
+Pyloric stenosis, congenital malformations, Crohn 
+disease, ovarian cyst, pregnancy, abdominal 
+neoplasm
+Associated 
+Symptom or Sign
+Diagnostic Consideration
+Neurologic Symptoms
+Headache
+Allergy, chronic sinusitis, migraine, increased intra­
+cranial pressure
+Postnasal drip, congestion Allergy, chronic sinusitis
+Vertigo
+Migraine, inner ear disease
+Seizures
+Epilepsy
+Abnormal muscle tone
+Cerebral palsy, metabolic disorder, mitochondrial 
+disorder
+Abnormal funduscopic 
+exam or bulging 
+fontanel
+Increased intracranial pressure, pseudotumor cerebri
+ENT Symptoms
+Postnasal drip, congestion
+Allergy, chronic sinusitis
+Sore throat, ear pain
+Streptococcal pharyngitis, acute otitis media
+Cardiac Symptoms
+History of valvular 
+disease
+Mesenteric arterial thrombosis/emboli
+Hypotension
+Intestinal ischemia, mesenteric arterial thrombosis/
+emboli
+Hypertension
+Porphyria, some variants of cyclic vomiting syndrome
+Renal Symptoms
+Dysuria, hematuria, renal 
+hypertension
+Pyelonephritis, calculi, hydronephrosis
+Gynecologic Symptoms
+Menstrual irregularity
+Pregnancy, ectopic pregnancy
+Vaginal discharge
+Pelvic inflammatory disease
+Menses associated
+Porphyria, endometriosis, dysmenorrhea
+History of Head 
+Trauma
+Concussion, intracranial hemorrhage
+History of Abdomi­
+nal Trauma
+Duodenal hematoma
+Family History and Epidemiology
+Peptic ulcer disease
+Peptic ulcer disease, H. pylori gastritis
+Migraine headaches
+Abdominal migraine, cyclic vomiting syndrome
+Contaminated water
+Giardia, Cryptosporidium, other parasites
+Travel
+Traveler’s (Escherichia coli) diarrhea, giardiasis
+GI, gastrointestinal; H. pylori, Helicobacter pylori; PUD, peptic ulcer disease; UPJ, ureteropelvic junction.
+Modified from Li BUK, Kovacic K. Vomiting and nausea. In: Wyllie R, Hyams JS, Kay M, eds. Pediatric Gastrointestinal and Liver Disease. 5th ed. 
+Philadelphia: Elsevier; 2016:91.
+differential diagnosis. Tachypnea may signify pneumonia or a met­
+abolic acidosis, which is seen with vomiting from inborn errors of 
+metabolism or poisoning. Intense vomiting as seen with infection, 
+toxin ingestion, cyclic vomiting, or a possible surgical emergency can 
+present with signs of severe dehydration or hypovolemic shock. Pres­
+ence of failure to thrive or chronic malnutrition can be suggestive of 
+malabsorption syndromes or metabolic conditions. A thorough neu­
+rologic exam including examination of optic fundi is warranted in all 
+patients. The absence of venous pulsations or sharp optic disc margins 
+may be the only evidence of a brain tumor or other intracranial lesion 
+causing vomiting. When in doubt, a formal ophthalmologic examina­
+tion is warranted.
+Abdominal Examination
+Simple observation of operative scars may suggest the possibility of 
+obstruction from intestinal adhesions, and visible distention may rep­
+resent ascites caused by liver disease or intraluminal distention caused 
+by intestinal obstruction or ileus. The order of the examination is 
+important because auscultation performed after stimulation of intesti­
+nal motility by palpation may artifactually change the auscultatory find­
+ings. An important distinction in the vomiting child is whether bowel 
+sounds are increased, as in gastroenteritis or in bowel obstructions, or 
+absent, as in ileus caused by peritonitis or in chronic intestinal pseudo-­
+obstruction. Increased bowel sounds resulting from luminal obstruc­
+tion are often characterized by intermittent “rushes” of high-­pitched 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+272
+SECTION 4  Gastrointestinal Disorders
+sounds that are coordinated with episodes of colicky pain. Although 
+seen infrequently, visible peristalsis in infants and a succussion splash 
+in children are indications of a gastric outlet obstruction that is causing 
+gastric distension and retention of fluid. Palpate the abdomen and pel­
+vis for area of tenderness and signs of peritoneal inflammation as they 
+often represent disorders necessitating further imaging and/or surgery. 
+Also palpate for presence of organomegaly and abdominal masses. 
+Hepatosplenomegaly can be found in various metabolic or inflamma­
+tory diseases. Abdominal masses can be congenital (e.g., mesenteric 
+cyst) or acquired (e.g., neuroblastoma) and result in bowel obstruction 
+(see Chapter 20). Examine genitalia and hernia sites for ambiguous 
+genitalia, ovarian/testicular torsion, and strangulated hernias. Vague 
+periumbilical pain is quite nonspecific, but the localized, very sharp 
+pain signifying inflammation of the peritoneum requires immediate 
+attention. Initial luminal obstruction may progress to ileus as perito­
+nitis intervenes. Localization of nonperiumbilical pain or tenderness 
+helps a great deal in determining the diseased intraabdominal organ 
+(see Table 15.5).
+Rectal Examination
+A rectal examination may be helpful in the vomiting child as the 
+presence and consistency of rectal stool may be determined. A large 
+fecal impaction may possibly contribute to vomiting in some young 
+children. Pelvic masses and tenderness identified by rectal exam may 
+represent appendicitis, ovarian torsion, or pelvic inflammatory disease. 
+The stool should always be tested for blood and should be considered 
+for testing for pH, reducing substances, fat, leukocytes, and infectious 
+organisms, depending on the presentation.
+Evaluation
+The evaluation of a patient with vomiting is usually performed in a 
+primary care or emergency department setting. Initial evaluation is 
+directed at assessment of airway, breathing, and circulation as well as 
+hydration status. Clinically diagnosed dehydration without any labo­
+ratory confirmation is usually a sufficient basis to initiate rehydration 
+therapy. Look for the presence of red flag signs (Table 15.6) that suggest 
+more ominous causes of vomiting. If the physical examination reveals 
+signs of acute abdomen (bilious emesis, peritonitis, shock), obtain­
+ing abdominal imaging and seeking urgent surgical consultation are 
+indicated. Presence of brisk hematemesis warrants an urgent gastroen­
+terology consult. Altered mental status suggests toxin ingestion, inborn 
+errors of metabolism, acquired metabolic conditions such as hyperam­
+monemia, diabetic ketoacidosis, and neurologic causes.
+Laboratory Data
+Well-­appearing infants with typical regurgitant reflux usually require 
+no laboratory evaluation, except possibly a GI contrast study if they 
+do not respond readily to conservative therapy (see later discussion). 
+Similarly, a single, brief episode of mild vomiting with no suggestion 
+of dehydration or other complications may necessitate no laboratory 
+studies. Most children with presumed infectious gastroenteritis or 
+colitis do not need to undergo microbiologic stool testing to identify 
+underlying pathogens since these are self-­limiting conditions. Other 
+children, those with severe acute vomiting or with chronic or recurrent 
+vomiting, should have screening studies of blood or urine (Table 15.7). 
+Presence of glucose and ketones in urine suggests diabetic ketoacido­
+sis; red blood cells suggest a renal cause (nephritis, Henoch-­Schönlein 
+purpura, renal calculi, or trauma); and leukocytes or nitrites suggest a 
+urinary tract infection. Screening blood investigations should include 
+a total blood count, blood sugar, serum electrolytes, blood gases, liver 
+enzymes, lipase, and renal function tests. Elevated leucocyte count sug­
+gests presence of infection or inflammation; anemia could be second­
+ary to chronic malabsorption, occult GI losses, or a hemolytic process 
+such as hemolytic uremic syndrome. Typical electrolyte abnormalities 
+TABLE 15.6  Red Flag Signs in a Child 
+Presenting with Vomiting
+ • Altered level of consciousness or mental status
+ • Toxic appearance (shock, sepsis)
+ • Bilious or bloody vomiting
+ • Vomiting without diarrhea
+ • Repeated episodes of emesis with mental status changes
+ • Developmental delay
+ • Macro-­ or microcephaly
+ • Suspicion of ingestion (toxidromes)
+ • Signs of trauma/abuse
+ • Hematochezia or hematemesis
+ • Abdominal heterotaxia syndromes
+ • Prior abdominal surgery
+ • Presence of inconsolable cry or excessive irritability
+ • Severe dehydration
+ • Severe malnutrition or failure to thrive
+ • Bent-­over posture, drawing legs up to chest, pained avoidance of unneces­
+sary movement typical of peritonitis
+ • Silent abdomen
+ • Tender abdomen
+TABLE 15.7  Laboratory Work-­Up
+Laboratory Test
+Possible Significance
+CBC
+ • Anemia: blood loss, chronic malabsorption
+ • Leukocytosis: inflammatory process
+ • Eosinophilia: eosinophilic gastroenteropathy
+Electrolytes, glucose, 
+BUN, creatinine
+ • Metabolic acidosis or alkalosis, hypokalemia: 
+consequence of vomiting
+ • Hyperglycemia: diabetic ketoacidosis
+ • Hypoglycemia: dehydration, metabolic disorder
+ • Azotemia: dehydration
+Pancreatic enzymes 
+(amylase, lipase)
+ • Elevated in pancreatitis
+Liver enzymes (ALT, AST, 
+ALP, GGT)
+ • Elevated in hepatitis, biliary obstruction, 
+metabolic disease
+Metabolic work-­up (blood 
+gas, ketones, ammonia, 
+lactate, pyruvate, amino 
+acid, organic acid, 
+carnitine, acylcarnitine, 
+porphobilinogen deami­
+nase, toxicology)
+ • Ketonemia: DKA, dehydration, metabolic 
+diseases
+ • Lactic acidosis: metabolic diseases
+ • Aminoacidemia: e.g., MSUD, tyrosinemia
+ • Organic acidemia: e.g., propionic acidemia, MMA
+ • Hyperammonemia: urea cycle defect, liver failure
+ • Decreased porphobilinogen deaminase: acute 
+intermittent porphyria
+ • Toxicology: ingested poison, drug
+Urine (microscopy, 
+culture, β-­HCG, 
+reducing substance, 
+ketones, amino acid, 
+organic acid, toxicology, 
+porphobilinogen, δ-­ALA)
+ • Leukocytes: urinary tract infection
+ • Blood: urinary tract infection, renal stones
+ • Ketones: starvation, metabolic disease
+ • Reducing substances: galactosemia
+ • Porphobilinogen, δ-­ALA: acute intermittent 
+porphyria
+ALA, aminolevulinic acid; ALP, alkaline phosphatase; ALT, alanine 
+aminotransferase; AST, aspartate aminotransferase; 
+β-­HCG, 
+β-­
+human chorionic gonadotropin; DKA, diabetic ketoacidosis; GGT, γ-­
+glutamyltransferase; MMA, methylmalonic acidemia; MSUD, maple 
+syrup urine disease.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+273
+CHAPTER 15  Vomiting and Regurgitation
+occur in an infant with projectile vomiting from pyloric stenosis (hypo­
+chloremic, hypokalemic metabolic alkalosis) and congenital adrenal 
+hyperplasia or Addison disease (hyperkalemia and hyponatremia). 
+Blood and urine screening for several metabolic disorders are positive 
+only during an actual vomiting episode; therefore, when suspecting a 
+metabolic cause, attempts should be made to obtain specimens at these 
+times, which may increase the diagnostic yield. Metabolic work-­up 
+includes acid-­base, serum ammonia and lactate, serum and urine car­
+nitine (possible fatty acid oxidation defect), serum amino acids (pos­
+sible aminoacidemia), urine organic acids (possible organic acidemia), 
+and urine aminolevulinic acid and porphobilinogens (possible acute 
+intermittent porphyria) (Table 15.8).
+Radiographic and Procedure Data
+If the history and physical examination suggest the possibility of 
+abdominal disease, endoscopic evaluation or abdominal plain films 
+(including a second image such as an upright film) are usually war­
+ranted (Table 15.9). Endoscopy is particularly useful in hematemesis, 
+in suspected peptic ulcer disease, or when tissue is needed for histo­
+logic study (e.g., establishing a diagnosis of Helicobacter pylori gastritis 
+or of eosinophilic gastroenteropathy). Radiographic testing is useful 
+in most other situations. Further evaluation, such as contrast studies, 
+ultrasonography, CT, or MRI, is tailored to the suspected diagnoses. 
+In some cases, manometric evaluation is prompted by the sugges­
+tion of GI motility disorders, such as achalasia and chronic intestinal 
+pseudo-­obstruction.
+TABLE 15.8  When to Consider Metabolic 
+Work-­Up
+Nutritional abnormalities
+Failure to thrive, anorexia
+Dietary provocations
+Fructose, galactose, protein, fasting
+Neurologic ­abnormalities
+Lethargy, coma
+Tone ↑ or ↓, developmental delay
+Seizures
+Liver abnormalities
+Hepatosplenomegaly
+Jaundice
+Respiratory ­abnormalities
+Apnea
+Hyperpnea (caused by metabolic acidosis or 
+hyperammonemia)
+Odd odors (breath, 
+urine, ear wax)
+Cabbage: tyrosinemia
+Sweaty feet: isovaleric acidemia
+Musty: phenylketonuria, hepatic coma (fetor 
+hepaticus)
+Fruity: ketones (many, nonspecific)
+Maple syrup: maple syrup urine disease
+Other: 3-­methylcrotonyl-­CoA carboxylase 
+deficiency
+Multiple carboxylase deficiency
+Acyl-­CoA dehydrogenase deficiency
+Putrid: sinusitis
+Alcohol: alcohol ingestion
+Miscellaneous 
+­abnormalities
+Eye abnormalities (cataracts)
+Hair abnormalities (fragile)
+Pigmentation of skin (“tan”) and mucosa
+Adrenal calcifications
+Ambiguous genitalia
+Cardiomyopathy
+Family history of fetal or neonatal deaths; 
+consanguinity
+Screening study 
+­abnormalities
+Metabolic acidosis
+Hypoglycemia (hyperketonuric or hypoketonuric)
+Hyperkalemia (with hyponatremia)
+Hyperammonemia
+Hypertransaminasemia
+Anemia, leukocytopenia, thrombocytopenia
+Urinary non–glucose-­reducing substance
+Urinary Fanconi syndrome
+CoA, coenzyme A.
+TABLE 15.9  Other Diagnostic Tests
+Test
+Findings
+Possible 
+Significance
+Imaging
+Plain abdomen (supine, 
+upright)
+Multiple air fluid levels
+Bowel obstruction, ileus
+Distended bowel loops
+Ileus
+Double bubble
+Duodenal atresia
+Calcifications
+Biliary, renal stones, 
+appendicitis
+Free air
+Intestinal perforation
+Free fluid
+Ascites
+Foreign bodies
+Organomegaly, masses
+Contrast study (barium 
+or Gastrografin)
+	1.	Upper fluoroscopy
+	2.	Enteroclysis
+	3.	Lower fluoroscopy
+Malrotations, obstructions
+Distal obstructions
+Intussusception, obstruc­
+tions
+Therapeutic: intussus­
+ception, meconium 
+ileus, DIOS
+Ultrasonography
+Mass, cyst, abscess, 
+pyloric stenosis; 
+­hepatobiliary, 
+pancreatic, urinary, 
+gynecologic lesions
+CT/MRI abdomen
+Mass, cyst, inflammatory 
+lesions, hepatobiliary, 
+pancreatic, urinary, 
+gynecologic lesions
+MRI/CT head
+CNS lesions
+Neurogenic vomiting
+Endoscopy
+Upper
+Diagnostic
+Obstruction, hemorrhage, 
+Giardia or Helicobacter 
+pylori infection
+Therapeutic
+Hematemesis
+Lower
+Diagnostic
+Distal obstruction, 
+infection
+Obstruction, infection
+Therapeutic
+Sigmoid volvulus
+Manometry
+Esophagus
+Failure of sphincter 
+relaxation
+Achalasia
+Dysmotility
+Esophageal dysmotility
+Small bowel
+Dysmotility
+Pseudo-­obstruction
+Rectum/colon
+Failure of sphincter 
+relaxation
+Hirschsprung disease
+Dysmotility
+Pseudo-­obstruction
+CNS, central nervous system; DIOS, distal intestinal obstruction syndrome.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+274
+SECTION 4  Gastrointestinal Disorders
+Differential Diagnosis
+General Approach
+Cardinal symptoms or signs accompanying the vomiting direct the 
+differential diagnosis. When vomiting is a result of intraabdominal 
+disease, it is useful to define whether obstruction, dysmotility, inflam­
+mation, or ischemia is the mechanism. Abdominal pain, which fre­
+quently accompanies vomiting, can suggest both the type of disorder 
+and the organ involved (see Table 15.5). Symptoms referable to non-­GI 
+organ systems direct attention to those systems. For example, accom­
+panying neurologic symptoms may direct attention to central nervous 
+system disorders, metabolic disease, poisonings, or psychobehavioral 
+disease.
+Gastrointestinal Obstruction (Table 15.10)
+Esophageal Obstruction
+Esophageal strictures or obstruction produces dysphagia with welling 
+up or drooling of oropharyngeal secretions or esophageal contents 
+rather than actual vomiting; the material is undigested. Respiratory 
+symptoms from aspiration may be prominent.
+Esophageal Atresia
+Esophageal atresia is a congenital malformation defined by the discon­
+tinuity of the esophagus. Infants present at birth with a prenatal history 
+of polyhydramnios and intolerance of initial feeding. The esophageal 
+atresia is accompanied by a distal tracheoesophageal fistula (TEF) in 
+85% of cases, by a proximal fistula in a small percentage, and by no fis­
+tula in the remainder (Fig. 15.2). Esophageal atresia is associated with 
+other anomalies in 15–50% of patients; cardiac, anorectal, and genito­
+urinary defects are most common. Ten percent of all esophageal atresia 
+patients and 25% of those without a fistula have the VATER or VAC­
+TERL (vertebral, anorectal, cardiac, tracheoesophageal, renal, radial, 
+limb) association. As many as 33% of affected infants are premature. 
+Diagnosis can usually be made by plain films after passage of an opaque 
+rubber catheter, which coils in the upper pouch (Fig. 15.3). Treatment 
+is surgical.
+Congenital Esophageal Stenosis
+Congenital esophageal stenosis is defined as an intrinsic narrowing of 
+the esophagus present at birth. Infants usually tolerate breast-­feeding 
+and start to present with vomiting and regurgitation with the intro­
+duction of semisolid or solid food. A milder degree of stenosis may 
+not present until later in childhood. Stenoses are categorized into three 
+histopathologic types: tracheobronchial remnants that often contain 
+cartilage, fibromuscular stenoses, and membranous webs. Contrast 
+radiography can diagnose the first two, while endoscopy is needed to 
+diagnose webs. Tracheobronchial rings generally necessitate surgery, 
+membranous webs can be treated with endoscopic dilation, and mus­
+cular stenoses may respond to dilation or may necessitate surgery.
+Esophageal Strictures
+Esophageal strictures (Fig. 15.4) are acquired lesions that can be cate­
+gorized as inflammatory (secondary to gastroesophageal reflux disease 
+[GERD] and eosinophilic esophagitis), anastomotic (post-­TEF repair), 
+or related to corrosive injury (acid, alkali, pills, battery ingestions). The 
+clinical presentation is the same for all these conditions: patients pri­
+marily present with dysphagia, recurrent vomiting, or food impaction. 
+The strictures are best demonstrated with contrast radiography; endo­
+scopic biopsies may be important for diagnosis of the etiology. GERD 
+may be treated pharmacologically but may also require an antireflux 
+surgery (fundoplication). Endoscopic dilation of the stricture is per­
+formed repeatedly with balloons or semirigid bougies until the stric­
+tured site remains patent.
+Miscellaneous Causes
+Foreign body ingestion is a common pediatric problem with up to 75% 
+of cases in children age 4 years or younger. Coins are the most com­
+monly ingested foreign body. The esophagus, in particular the upper 
+one third, is a common site for obstruction. Patients may present with 
+drooling, vomiting, cough, and stridor, and if lodged in the esophagus, 
+urgent endoscopic removal is required.
+Extrinsic esophageal compression may result from an aberrant 
+subclavian artery, vascular ring, and mediastinal masses (lymphoma, 
+TABLE 15.10  Causes of Gastrointestinal 
+Obstruction
+Esophagus
+Congenital
+Esophageal atresia (with or without fistula)
+Isolated esophageal stenosis
+Duplication
+Vascular ring
+Acquired
+Caustic agent esophageal stricture
+Inflammatory stricture: peptic, EOE
+Achalasia
+Stomach
+Congenital
+Antral webs
+Acquired
+Pyloric atresia*
+Bezoars/foreign body
+Pyloric stenosis
+Pyloric stricture (ulcer)
+Crohn disease
+Eosinophilic gastroenteropathy
+Prostaglandin-­induced pyloric stenosis
+Chronic granulomatous disease
+Small Intestine
+Congenital
+Intestinal atresia
+Annular pancreas
+Malrotation/volvulus
+Duplications
+Meconium ileus
+Obstructed inguinal hernia
+Acquired
+Postsurgical adhesions or strictures
+Crohn disease (stricture)
+Intussusception
+Duodenal hematoma (abuse, trauma)
+Meconium ileus equivalent (DIOS)
+Superior mesenteric artery syndrome
+Colonw
+Congenital
+Meconium plug
+Hirschsprung disease
+Colonic atresia, stenosis
+Rectal stenosis
+Imperforate rectum/anus
+Malrotation/volvulus
+Small left colon syndrome (IDM)
+Acquired
+Ulcerative colitis (toxic megacolon)†
+Crohn disease (stricture)
+Postsurgical adhesions or strictures
+*Often associated with epidermolysis bullosa.
+†Produces an ileus.
+DIOS, distal intestinal obstruction syndrome; EOE, eosinophilic esopha­
+gitis; IDM, infant of diabetic mother.
+Modified from Behrman R, Kliegman R. Nelson Essentials of Pediat­
+rics. 2nd ed. Philadelphia: WB Saunders; 1994:407.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+275
+CHAPTER 15  Vomiting and Regurgitation
+germ cell tumors). Vascular rings occur when the esophagus and tra­
+chea are encircled, displaced, or compressed by the aorta or its aberrant 
+branches and can present with stridor, dysphagia, and emesis. It is often 
+an incidental finding on chest x-­ray. In symptomatic cases, even after 
+a vascular ring has been detected by plain radiography or esophagog­
+raphy, advanced cross-­sectional imaging is recommended for more 
+detailed evaluation.
+Gastric Outlet Obstruction
+Hypertrophic Pyloric Stenosis
+Hypertrophic pyloric stenosis (HPS) is the most common cause of 
+gastric outlet obstruction in infancy with an incidence rate of 1:400 
+infants. It manifests with nonbilious projectile vomiting beginning at 
+2–3 weeks of age and increasing during the next month or so, usually 
+in a first-born male child. The vomitus may rarely contain some blood, 
+and propulsive gastric waves can be seen across the abdominal wall. 
+Dehydration, poor weight gain, hypochloremic hypokalemic meta­
+bolic alkalosis, and mild jaundice are sometimes evident. A palpable 
+“olive” in the epigastrium (felt best during or after feeding) represents 
+the hypertrophied pyloric muscle. Gastric distention is seen on the 
+plain film, and a contrast study shows the “string sign” of contrast pass­
+ing through the narrowed pyloric channel. Ultrasound diagnosis is less 
+invasive and demonstrates increase of the pyloric channel length and 
+muscle thickness (Fig. 15.5). Laparoscopic pyloromyotomy is the treat­
+ment of choice. Preoperative correction of dehydration and electrolyte 
+imbalance reduces perioperative morbidity. Junctional epidermolysis 
+bullosum is associated with pyloric stenosis.
+Other Causes of Gastric Outlet Obstruction
+Eosinophilic gastroenteritis can mimic clinical signs and ultrasound 
+appearance of HPS. Clues to diagnosis are eosinophilic infiltrate of 
+endoscopic antral biopsies, peripheral eosinophilia, and an excellent 
+response to treatment with a casein hydrolysate or elemental “hypoal­
+lergenic” formula. Prolonged use of prostaglandin infusion in neonates 
+with congenital heart disease may cause transient HPS. The clinical and 
+radiologic features of HPS are relieved after stopping prostaglandin E 
+infusion.
+In older children, gastric outlet obstruction may result from chronic 
+peptic ulcer disease, chronic granulomatous disease, gastroduodenal 
+Crohn disease, anatomic abnormalities such as gastric antral web, for­
+eign bodies, and bezoars. Bezoars may be caused by hair, vegetable 
+matter, milk curds, or medications. Contrast radiography, endoscopy, 
+and, in some cases, histopathology is needed to make the diagnosis.
+Intestinal Obstruction
+The classical clinical tetrad is colicky abdominal pain, nausea and 
+vomiting, abdominal distention, and constipation-­to-­obstipation. 
+Examination may demonstrate a tympanic abdomen, hyperactive 
+bowel sounds, and signs of dehydration. Severe direct tenderness, 
+involuntary guarding, abdominal rigidity, and rebound tenderness 
+suggest advanced intestinal obstruction, as do marked leukocytosis, 
+neutrophilia, left shift, and lactic acidosis. Obstructions may be cate­
+gorized by site and type (see Table 15.10). Vomiting is a cardinal sign 
+of intestinal obstruction, being more prominent in high small bowel 
+obstruction than in low small bowel or colon obstruction. With high 
+obstructions, vomiting is not feculent, the onset is often acute, and 
+crampy pain may occur at frequent intervals, while abdominal dis­
+tention is less prominent. With low obstructions, the vomiting may 
+be feculent and less acute in onset, the interval between cramping 
+is longer, and distention is more notable. Identification of the site of 
+obstruction is aided by the plain film and by other radiographic stud­
+ies (see Table 15.9). Intraluminal lesions (e.g., tumors, intussuscep­
+tions, or extrinsic material such as feces, foreign bodies, bezoars, and 
+Esophageal atresia
+with proximal and distal TEF
+(1%)
+Esophageal atresia
+with proximal TEF
+(2%)
+Esophageal atresia
+with distal TEF
+(85%)
+Esophageal atresia
+with no TEF
+(8%)
+H-type TEF
+(4%)
+Fig. 15.2  Various types of tracheoesophageal fistulas (TEFs) with relative frequency (%).
+Fig. 15.3  Tracheoesophageal fistula. Coiled radiopaque nasogastric 
+tube in blind upper pouch.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+276
+SECTION 4  Gastrointestinal Disorders
+gallstones) can be differentiated from bowel wall lesions (strictures, 
+stenoses, atresias) and from extraluminal lesions (adhesions, congen­
+ital bands, tumors, volvulus) through imaging. Radiographic studies 
+are useful, beginning with the plain film and progressing to ultraso­
+nography or CT. Abdominal CT with oral and intravenous contrast 
+and fluoroscopy with contrast are both sensitive and specific in detect­
+ing and characterizing intestinal obstruction. However, the decision to 
+introduce contrast into an intestine that may perforate or be operated 
+on must be made with surgical and radiologic consultation. Often the 
+decision to operate can be made without certain identification of the 
+lesion, and contrast studies are unnecessary.
+Infantile bilious vomiting is an important symptom of intestinal 
+obstruction, which often signals a congenital GI anomaly, particularly 
+intestinal obstruction below the ampulla of Vater. Surgical consultation 
+is needed early in these infants because they often require emergency 
+therapy.
+Duodenal Atresia, Stenosis, and Web; Annular Pancreas
+The juxta-­ampullary duodenum is susceptible to a cluster of obstructing 
+congenital anomalies. Infants with complete duodenal obstruction, most 
+commonly atresia, present with bilious vomiting and a radiographic 
+“double-­bubble” sign (Fig. 15.6). Associated prematurity (and polyhy­
+dramnios) or anomalies, including renal, cardiac, and vertebral defects, 
+occur in approximately 75% of infants; trisomy 21 is seen in about 50%. 
+Double atresias, duplications, and malrotations are frequently seen. 
+Infants with a partial duodenal obstruction caused by a stenosis or 
+web may have such mild symptoms that they do not come to medical 
+Fig. 15.5  Pyloric stenosis. Cross-­sectional (left) and transverse (right) 
+sonograms of hypertrophic pyloric stenosis, showing increased thick­
+ness and length of pyloric muscle. pc, pyloric channel.
+Fig. 15.6  “Double-­bubble” sign (arrow) in duodenal obstruction.
+Fig. 15.4  Esophageal stricture. Radiograph of a peptic esophageal stricture (arrow) before and after treat­
+ment with dilations.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+277
+CHAPTER 15  Vomiting and Regurgitation
+attention until regurgitation produces esophagitis or until a foreign body 
+or bezoar is trapped at the obstruction. Treatment is surgical.
+Duodenal Hematoma
+Blunt abdominal trauma (seatbelt, steering wheel, bicycle handle­
+bar injury; child abuse), or even endoscopic biopsies in the context 
+of a coagulopathy, can produce an obstructing duodenal hematoma. 
+Endoscopy in the setting of stem cell transplantation or other hema­
+topoietic disease may place a patient at greater risk of such hematoma, 
+requiring special consideration of the need for duodenal biopsies 
+in these individuals. Therapy is symptomatic; jejunal feeding that 
+bypasses the obstruction or parenteral nutrition may be required as the 
+problem resolves.
+Jejunal Atresia, Ileal Atresia, and Ileal Stenosis
+Patients with these congenital lesions present with bilious vomiting 
+and more abdominal distention than those with duodenal lesions. The 
+atresias are readily suspected and diagnosed in the neonatal period. 
+Stenotic lesions may require radiography for diagnosis. Treatment is 
+surgical.
+Intestinal Strictures
+Strictures produce partial obstruction of the GI tract and may be 
+located anywhere from the esophagus to the anus. They may occur 
+postsurgically (anastomotic), may follow necrotizing enterocolitis, may 
+be caused by penetrating Crohn disease or intestinal graft versus host 
+disease, or may be sequalae of drug-­induced ulcers (nonsteroidal anti­
+inflammatory medications or high-­dose pancreatic enzymes). Some 
+patients may be treated with endoscopic dilatation, but many require 
+surgical stricturoplasty (opening the bowel longitudinally and closing 
+it transversely) or resection.
+Adhesions
+Obstructive symptoms in the child with a history of prior abdominal 
+surgery may be caused by adhesive bands.
+Duplications
+GI tract duplication cysts are rare congenital anomalies and can occur in 
+any portion of the GI tract but are more commonly encountered in the 
+small intestine. These uncommon lesions may cause vomiting by extrin­
+sic obstruction of the intestine or by intussusception. On examination, 
+an abdominal mass may be palpable. Treatment is surgical resection.
+Meconium Ileus and Distal Intestinal Obstruction Syndrome
+Approximately 20% of infants with cystic fibrosis present in the new­
+born period with failure to pass meconium, caused by meconium 
+ileus (MI). The sticky, poorly hydrated intestinal mucus plays a role. 
+It can present in two forms: simple or complex MI. In simple MI, 
+viscid meconium physically obstructs the terminal ileum and results 
+in the dilation of the proximal small intestine. In complex MI, the 
+meconium-­distended segments of ileum can give rise to complications 
+like prenatal volvulus, ischemic necrosis, or perforation and extrusion 
+of the meconium into the peritoneum. The classic “soap bubble” sign 
+may be seen on abdominal x-­ray when meconium mixes with swal­
+lowed air (Fig. 15.7).
+Simple MI may be treated with hyperosmolar contrast (Gastrogra­
+fin) enema performed under fluoroscopic guidance. Surgery is required 
+for complex MI or those simple cases resistant to enema. Virtually all 
+infants with MI have cystic fibrosis; the diagnosis should be confirmed 
+by sweat test or DNA analysis.
+Older children with cystic fibrosis who stop defecating and have 
+abdominal pain and occasional vomiting are said to have distal 
+intestinal obstruction syndrome (DIOS), formerly termed meco­
+nium ileus equivalent. Initial treatment consists of rehydration, stool 
+softening laxatives, or intestinal lavage and enemas. If not successful, 
+then Gastrografin, administered orally or as enema often at times 
+mixed with N-­acetylcysteine (mucolytic), is nearly always successful. 
+Surgery is rarely required. Close attention to fluid and electrolyte bal­
+ance is vital in all infants and children treated with a hyperosmolar 
+contrast medium. Avoiding dehydration and optimizing pancreatic 
+enzyme dosage may reduce the chance of further episodes.
+Incarcerated Hernia
+Whenever vomiting is accompanied by signs of obstruction, sites of 
+potential herniation should be examined for incarceration of a loop 
+of bowel (Fig. 15.8). Inguinal incarceration is most common, but 
+other types of hernias are femoral, obturator, spigelian, umbilical (1 in 
+1,500 incarcerate), epigastric, mesenteric, and postoperative incisional 
+hernias.
+Inguinal hernias are often reduced by gentle, firm, constant pres­
+sure that is directed through the scrotum toward the inguinal canal. 
+Sedation and the Trendelenburg position may facilitate reduction.
+Malrotation and Volvulus
+Volvulus is the twisting of a loop of bowel on the mesentery. Midgut 
+volvulus occurs most often in the context of congenital intestinal mal­
+rotation, in which the small intestine is not normally fastened in place. 
+This may only be clinically apparent on upper GI fluoroscopy when the 
+duodenum and distal small bowel are seen to fill with contrast right of 
+midline without crossing to the left upper quadrant (Fig. 15.9). More 
+than half of patients found to have malrotation present symptomati­
+cally (the rest of such cases are discovered incidentally), and about half 
+of the symptomatic patients present in the neonatal period with bilious 
+vomiting caused by volvulus. Those presenting later often do not have 
+bilious vomiting; the vomiting may be intermittent for years.
+Volvulus is an extremely hazardous obstructing lesion. The luminal 
+obstruction is closed at both ends, which leads to sepsis from rapidly 
+proliferating and translocating bacteria. There is also vascular obstruc­
+tion caused by the root of the mesentery getting twisted, which quickly 
+produces ischemia of the small intestine. Even if volvulus is diagnosed 
+and repaired promptly, massive intestinal resection may be necessary 
+secondary to underlying necrosis; this produces short bowel syndrome. 
+Because volvulus may be intermittent, it may produce episodic or 
+Fig. 15.7  Soap-­bubble appearance in meconium ileus.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+278
+SECTION 4  Gastrointestinal Disorders
+chronic intermittent vomiting or nonspecific abdominal pain before a 
+lethal event. Therefore, upper intestinal contrast radiographs should be 
+considered in all patients with intermittent vomiting, and surgery must 
+be performed if a malrotation is found (i.e., if the ligament of Treitz is 
+not to the left of the spine), even if volvulus is not present at the time 
+of the examination. In an infant in whom an ongoing volvulus is sus­
+pected, a contrast study may show a “volvulus/corkscrew” pattern (Fig. 
+15.10). In the sick infant or child in whom volvulus seems likely, sur­
+gery without contrast studies may be preferred. Surgery involves cor­
+rection of any present volvulus, functional positioning of malrotation, 
+and lysis of potentially obstructing peritoneal (Ladd) bands that cross 
+the abdomen.
+Other types of volvulus not associated with malrotation include 
+cecal, sigmoid, and transverse colonic volvulus. They are less common 
+in children and less apt to produce short bowel syndrome, but they too 
+may manifest with vomiting and result in death if untreated. Sigmoid 
+volvulus is sometimes treated nonoperatively via endoscopic release.
+Meckel Diverticulum
+Meckel diverticulum is a small intestinal diverticulum that represents 
+the fibrous remnant of the omphalomesenteric duct. Although painless 
+GI bleed is the most common presentation, it can present as intestinal 
+obstruction or inflammation (diverticulitis). It may lead to obstructive 
+vomiting by causing intussusception (Fig. 15.11) or intestinal volvulus 
+around the diverticular axis. It can get inflamed, leading to peritonitis 
+Fig. 15.10  Corkscrew sign: spiral appearance of the distal duodenum and 
+proximal jejunum in the setting of midgut volvulus on contrast studies.
+Fig. 15.11  Enteroenteric intussusception (arrows).
+Fig. 15.9  Contrast fluoroscopy (upper gastrointestinal series) demon­
+strating malrotation. Note the small bowel fills with contrast all to the 
+right of midline and does not cross over the left upper quadrant where 
+the ligament of Treitz would be normally located.
+Fig. 15.8  Diffusely dilated bowel loops in intestinal obstruction.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+279
+CHAPTER 15  Vomiting and Regurgitation
+(mimics appendicitis or peptic ulcer disease) and sometimes perfo­
+ration, which can induce vomiting. The “rule of 2s” identifies charac­
+teristic findings: diverticula are present in 2% of the population; only 
+2% are symptomatic; the male:female ratio is 2:1; the diverticula occur 
+within 2 feet of the ileocecal valve and are 2 inches long; there are 2 
+major types of heterotopic mucosa (gastric and pancreatic); and the 
+condition is confused with 2 diseases (appendicitis and peptic ulcer). 
+Treatment is surgical resection.
+Intussusception
+The normal function of the intestine is to constrict above and relax 
+below an intraluminal bolus. When such a bolus (a “lead point”) is 
+attached to the intestinal wall, the propulsive activity of the intestine 
+produces telescoping of proximal intestine (intussusceptum) into distal 
+intestine (intussuscipiens), causing both luminal obstruction and mes­
+enteric vascular compromise (see Fig. 15.11). Abdominal pain occurs 
+in nearly all children with intussusception, whereas vomiting results 
+in about 65%, and “currant-­jelly stools” (from mucosal hemorrhage) 
+occur in fewer than 20%. The pain is severe, crampy, and often con­
+temporaneous with the vomiting. Between cramps, the child may be 
+listless, may sleep, or may even play. Vomiting and bloody stools are 
+more common in younger infants and in those with longer duration 
+of symptoms. An abdominal mass is palpable in about 25% of patients.
+The lead point of a symptomatic intussusception is usually ileal, 
+producing intussusception that is ileocecal or ileocolonic. It is probable 
+that prominent ileal lymphoid nodules provide the lead point for most 
+young children presenting with intussusception, 66% of whom are 
+younger than 2 years, with a peak incidence late in the first year of life. 
+Other lead points to be considered are Meckel diverticulum, appendix, 
+enteral duplication cyst, intraluminal polyp, lymphoma, hematoma 
+from trauma, Henoch-­Schönlein purpura, or inspissated stool in cystic 
+fibrosis. Transient recurrent small bowel intussusception may also be a 
+feature of celiac disease.
+Ultrasound is the diagnostic modality of choice for intussusception 
+in children as it has a high sensitivity and specificity. In stable children 
+without signs of peritonitis, nonoperative reduction is the treatment 
+of choice, preferably with pneumatic (gas) reduction enema. Approxi­
+mately 10% of patients experience recurrences.
+Superior Mesenteric Artery Syndrome
+Superior mesenteric artery (SMA) syndrome is caused by extrinsic 
+compression of the duodenum, which is trapped between the SMA 
+anteriorly and the aorta posteriorly as the SMA crosses over the duo­
+denum in the root of the mesentery. The angle at which the SMA comes 
+out from the aorta is normally 25–60 degrees; in people with SMA syn­
+drome, this angle is reduced. Loss of the mesenteric fat pad normally 
+found between these two arteries is the most common cause of reduc­
+tion in the angle. Most affected individuals have recently undergone 
+significant weight loss (anorexia nervosa, severe burns, neoplastic dis­
+ease, malabsorptive states). Certain orthopedic surgeries (scoliosis cor­
+rection) and treatments (hip spica, full body casts) as well as abdominal 
+surgeries (total proctocolectomy and ileal J-­pouch anal anastomosis) 
+can also trigger SMA syndrome.
+Patients may present both acutely and insidiously, thus making 
+the diagnosis challenging. Adolescents are most often affected with a 
+female:male ratio of 3:2. It should be suspected in a patient with the 
+aforementioned risk factor who presents with early satiety and post­
+prandial abdominal pain, nausea, and bilious emesis. The pain is 
+described as crampy and is relieved by prone or knee-­chest positions.
+The traditional diagnostic test with barium contrast can be used to 
+visualize the common but nonspecific image showing dilated proximal 
+duodenum with breakup of barium in the distal third of the duode­
+num. CT and MRA are the most valuable tests for diagnosing SMA 
+syndrome as they are good at evaluating the aortomesenteric angle 
+and provide other anatomic information. Nutritional rehabilitation, 
+preferably by the enteral route via nasojejunal feeds, is the cornerstone 
+of therapy and generally resolves SMA syndrome. The prone position 
+may improve duodenal emptying. Surgery may be needed if there are 
+chronic symptoms despite nutritional rehabilitation.
+Constipation, Meconium Plug, and Anal Stenosis
+These distal colonic problems produce obstipation primarily, but if 
+they are severe and persistent, vomiting may result. Rectal examination 
+provides the diagnosis. Enemas, laxatives, dietary changes, and behav­
+ioral modification are useful in treating constipation, whereas surgery 
+is usually necessary to treat anal atresia or stenosis. Infants with meco­
+nium plug syndrome need clinical follow-­up to monitor for the pres­
+ence of coexistent Hirschsprung disease.
+Gastrointestinal Dysmotility
+Achalasia
+Achalasia is an uncommon esophageal dysmotility disorder character­
+ized by emesis of undigested food from the esophagus and history of 
+dysphagia to solids and liquids. Concurrent weight loss is common. The 
+etiology is unknown, but some cases are familial and in other cases it 
+may be part of the triple A syndrome (achalasia, adrenocorticotropic 
+hormone–resistant adrenal insufficiency, alacrima). In endemic areas, 
+Chagas disease should be considered. In addition, achalasia has been 
+associated with trisomy 21, congenital hypoventilation syndrome, and 
+familial dysautonomia. Contrast swallow study or esophagogram and 
+preferably esophageal manometry are needed to confirm diagnosis. The 
+classic finding on manometry is insufficient relaxation of the LES and 
+loss of esophageal peristalsis. Barium swallow demonstrates esopha­
+geal dilation, aperistalsis, poor emptying of contrast, and “bird-beak” 
+appearance (Fig. 15.12). Nifedipine, sildenafil, and botulinum toxin 
+have been reported to produce at least temporary clinical benefit in 
+many patients. However, for sustained benefit, first-­line therapy is sur­
+gical (Heller) myotomy or, in certain cases, pneumatic balloon dilation.
+Fig. 15.12  Bird-­beak appearance of distal esophagus seen in esopha­
+geal achalasia.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+280
+SECTION 4  Gastrointestinal Disorders
+Gastroesophageal Reflux
+Gastroesophageal reflux (GER) is defined as regurgitation of gastric con­
+tents into the esophagus with or without vomiting. GER is of particular 
+importance because (1) it is the most common cause of “vomiting” in 
+infants, (2) physiologic reflux must be distinguished from reflux necessi­
+tating evaluation and therapy, and (3) the practitioner must be vigilant to 
+avoid misdiagnosing other infantile vomiting diseases as reflux.
+Reflux typically is a benign feature in healthy infants as a result of 
+weak LES tone, which improves and resolves in a predictable manner 
+as a function of growth, development, acquiring upright positions, and 
+introducing some solids in the diet. In these infants, regurgitation will 
+be effortless and will not have associated failure to gain weight, feeding 
+problems, or airway symptoms.
+Gastroesophageal reflux disease (GERD) is defined as GER that 
+leads to troublesome symptoms and/or complications (Table 15.11). 
+Reflux may cause failure to gain weight resulting from regurgitation of 
+caloric feedings, odynophagia from esophagitis, or parental reluctance 
+to feed a recurrently spitting infant.
+Infants with more problematic regurgitant reflux should undergo 
+upper GI radiography and/or ultrasonography to rule out the possibility 
+of anatomic causes such as malrotation and gastric outlet obstruction 
+such as from hypertrophic pyloric stenosis. Endoscopy with biopsy is 
+warranted in infants with anorexia and irritability who have failed opti­
+mal therapies. An older child with atopic history and symptoms of reflux 
+and/or failure of acid suppression therapy needs consideration of endos­
+copy to rule out alternative causes such as eosinophilic esophagitis. A 
+pH impedance study can be considered if persistent troublesome symp­
+toms correlate with feedings/reflux events. However, such tests should 
+be performed with caution as a significant degree of reflux is physiologic 
+and there is insufficient normative data in infants and children.
+Management of regurgitant reflux in infants is outlined in Figure 
+15.13. First-­line therapy includes modifying feed volume and fre­
+quency according to age of infant to avoid overfeeding. Thickening of 
+the feeds with 1 tablespoon of dry rice cereal per ounce of formula 
+helps reduce symptoms. Breast-­feeding mothers can pump breast milk 
+and add thickeners. Positional therapy and probiotics are not univer­
+sally recommended because of a lack of data on efficacy. If symptoms 
+persist after the aforementioned measures, a 2–4-­week empiric trial of a 
+protein hydrolysate or elemental formula should be attempted for cow’s 
+milk protein allergy since there is a high degree of symptom overlap 
+with GERD. Breast-­feeding mothers will need to eliminate dairy from 
+their diet. If symptoms do not respond to the aforementioned mea­
+sures, a referral to a pediatric gastroenterologist is warranted. If timely 
+referral is not possible, a 4–8-­week, time-limited trial with an oral H2-­
+receptor antagonist or proton pump inhibitor (PPI) can be considered 
+in infants. Given increased knowledge of side effects from chronic acid 
+suppression and insufficient randomized controlled data to support its 
+use, empiric acid suppression therapy for infants is not recommended 
+based on expert consensus guidelines. As some benefit is demonstrated 
+in older children with GERD, a short (4–8-­week) diagnostic trial of 
+acid suppression therapy can be justified. It is important to avoid long-­
+term use when possible and to initiate a wean if symptoms improve. 
+Refractory GERD is defined as symptoms that do not respond to 4–8 
+weeks of acid suppression therapy and requires exclusion of alternative 
+diagnoses and evaluation of treatment efficacy.
+The rare child who does not improve and develops nutritional, 
+respiratory, or peptic complications from reflux may deserve evalua­
+tion for surgical fundoplication if all other therapies fail and excessive 
+reflux is documented by pH impedance study (Fig. 15.14).
+Infant with
+suspicion of GERD
+Tailor testing to address alarm
+signs and refer appropriately
+Yes
+No
+Not improved
+Not Improved
+Improved
+Improved
+Referral
+not possible
+Successful
+weaning
+Symptoms
+not improved
+or recur
+Referred
+Continue manangement
+Continue management and
+discuss milk protein
+reintroduction at follow-up
+Consider 4- to 8-week trial of acid
+suppression then wean if
+symptoms improved
+No further treatment
+History and physical exam
+Presence of alarm sign
+Avoid overfeeding
+Thicken feeds
+Continue breast-feeding
+Consider 2-4 weeks of a protein
+hydrolysate or amino acid– 
+based formula or, in breast-fed
+infants, elimination of cow’s
+milk in maternal diet
+Referral to pediatric GI
+Revisit the differential
+diagnoses, consider
+testing and/or short
+medication trial
+Fig. 15.13  Management of symptomatic infant with gastroesophageal 
+reflux disease (GERD). (Modified from Rosen R, Vandenplas Y, Sin­
+gendonk M, et al. Pediatric Gastroesophageal Reflux Clinical Practice 
+Guidelines: Joint Recommendations of the North American Society for 
+Pediatric Gastroenterology, Hepatology, and Nutrition and the European 
+Society for Pediatric Gastroenterology, Hepatology, and Nutrition. J 
+Pediatr Gastroenterol Nutr. 2018;66[3]:516–554, Fig. 6.)
+TABLE 15.11  Common Signs and 
+Symptoms of Gastroesophageal Reflux in 
+Infants
+Symptoms
+Signs
+General
+ • Discomfort/irritability*
+ • Failure to thrive
+ • Feeding refusal
+ • Dystonic neck posturing 
+(Sandifer syndrome)
+Gastrointestinal
+ • Recurrent regurgitation
+ • Hematemesis
+ • Dysphagia/odynophagia
+Airway
+ • Wheezing
+ • Stridor
+ • Cough
+ • Hoarseness
+General
+ • Dental erosion†
+ • Anemia
+Gastrointestinal
+ • Esophagitis
+ • Esophageal stricture†
+ • Barrett esophagus†
+Airway
+ • Apneic spells
+ • Asthma
+ • Recurrent otitis media
+ • Recurrent pneumonia with aspiration
+*If excessive irritability and pain is the single manifestation, then it is 
+unlikely to be related to gastroesophageal reflux.
+†In older children.
+Adapted from Rosen R, Vandenplas Y, Singendonk M, et al. Pediatric 
+Gastroesophageal Reflux Clinical Practice Guidelines: Joint Recom­
+mendations of the North American Society for Pediatric Gastroenterol­
+ogy, Hepatology, and Nutrition and the European Society for Pediatric 
+Gastroenterology, Hepatology, and Nutrition. J Pediatr Gastroenterol 
+Nutr. 2018;66(3):516–554.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+281
+CHAPTER 15  Vomiting and Regurgitation
+Fig. 15.14  Nissen fundoplication. Fundus is wrapped around the lower esophagus and secured with sutures. 
+This anchors the lower esophageal sphincter below the diaphragm.
+Gastroparesis
+Gastroparesis is characterized by delayed transit of gastric contents 
+into the duodenum in the absence of mechanical obstruction. It is sug­
+gested by the vomiting of food eaten hours earlier and accompanied 
+by abdominal pain and nausea. Diabetic gastroparesis, secondary to 
+autonomic neuropathy and gastric atony, is the classic example of this 
+disorder but is rare in childhood. The etiology in pediatrics is often idio­
+pathic but among the known causes, postinfectious gastroparesis is the 
+most common. Respiratory and GI viruses are implicated, most nota­
+bly rotavirus, norovirus, cytomegalovirus, Epstein-­Barr virus, and var­
+icella. Other etiologies of gastroparesis in children include autonomic 
+nervous system (ANS) disorders, connective tissue (Ehlers-­Danlos) 
+or mitochondrial disorders, muscular dystrophies, inflammatory con­
+ditions (cow’s milk protein allergy, celiac disease), critical illness, and 
+medications (e.g., anticholinergics). Certain anatomic abnormalities 
+(repaired congenital diaphragmatic hernia, intestinal malrotation) 
+are associated with gastroparesis. An upper GI contrast study should 
+be performed to rule out mechanical obstruction. The 4-­hour gastric 
+emptying scintigraphy using a radiolabeled solid meal is currently the 
+gold standard for diagnosing gastroparesis. This test needs to be used 
+with caution as there are no pediatric norms to interpret results against.
+Pharmacotherapy with prokinetic medications (e.g., erythromycin, 
+metoclopramide) along with dietary modification is the first line of 
+treatment.
+Ileus
+Paralytic ileus is defined as functional obstruction caused by paralysis of 
+intestinal muscles in response to various stimuli. The common causes of 
+paralytic ileus are postoperative state, following an episode of infectious 
+gastroenteritis, sepsis, peritonitis, or intestinal ischemia. Other causes 
+of paralytic ileus are drugs (narcotics, laxative abuse, anticholinergics), 
+electrolyte disturbances (hypokalemia, hypercalcemia), endocrinopa­
+thies (hypothyroidism), status post-­chemo-­ or radiotherapy, or injuries 
+(spinal fractures). Intestinal contents fail to progress, causing abdominal 
+pain and vomiting. Typically, the bowel sounds are decreased or absent; 
+there may be abdominal distention. Signs of ileus may follow signs of 
+intestinal obstruction; in this context, ileus is an ominous sign. Treatment 
+of ileus requires correction of any correctable provocative abnormalities 
+and nasogastric tube decompression until normal peristalsis resumes.
+Intestinal Pseudo-­obstruction
+Chronic pediatric intestinal pseudo-­obstruction (PIPO) is a rare dis­
+order defined by either continuous or intermittent symptoms of bowel 
+obstruction in the absence of a lumen-­occluding lesion (see Chapter 19). 
+It represents severe GI dysmotility where coordinated peristalsis in the 
+intestinal tract becomes altered or inefficient. Its chronicity sets it apart 
+from the far more common acute paralytic ileus. PIPO can be catego­
+rized into two broad categories: congenital and acquired, which has been 
+further subdivided histologically as myopathic vs neuropathic types.
+Most congenital subtypes are sporadic, while family history is 
+present in 20–30%. The myopathic causes (10%) include myositis or 
+muscle fibrosis secondary to collagen vascular disease (e.g., progressive 
+systemic sclerosis), various muscular dystrophies, and familial visceral 
+myopathies. The neuropathic causes (90%) include Hirschsprung dis­
+ease, Chagas disease, diabetic and other autonomic neuropathies, mul­
+tiple endocrine neoplasia, and familial visceral neuropathies.
+The disorder may involve any part of or the entire luminal GI tract 
+and occasionally (in up to 10% of patients) involves the urinary tract. 
+Common symptoms of PIPO include abdominal pain and distension, 
+nausea, vomiting, and constipation. Symptoms can worsen during 
+acute exacerbations of pseudo-­obstruction, which can be triggered by 
+viral or bacterial infections, general anesthesia, psychological stress, 
+and malnutrition. Nearly 65% of the children with PIPO present in 
+infancy, with the very severe cases presenting in the neonatal period. 
+Antenatal ultrasound may show polyhydramnios, megacystis, and dis­
+tended bowel loops.
+To accurately diagnose PIPO, imaging studies and manometry eval­
+uation are generally required. Antroduodenal and colon manometry 
+studies can evaluate the strength and coordination of contractions of the 
+gastric antrum, small bowel, and colon. The main value of manometry 
+testing is to confirm diagnosis/predict prognosis and to help differenti­
+ate between myopathic and neuropathic lesions. Histologic evaluation 
+of full-­thickness biopsies and genetic testing can aid in diagnosis. Small 
+intestinal bacterial overgrowth is a common complication of chron­
+ically dilated bowel and is associated with steatorrhea and fat-­soluble 
+vitamin and vitamin B12 deficiency and can be treated with judicious 
+use of antibiotics. PIPO patients are at increased risk of chronic mal­
+nutrition, which is contributed by recurrent vomiting, bacterial over­
+growth–induced malabsorption, and intolerance to enteral feeds.
+Promotility agents (metoclopramide, erythromycin, pyridostigmine) 
+can be helpful, but pharmacotherapy is often ineffective. Intensive nutri­
+tional rehabilitation, via both enteral and parenteral routes, remains the 
+cornerstone of therapy. Children with poor quality of life despite appro­
+priate medical management or those who have developed complications 
+of parenteral nutrition are candidates for intestinal transplantation.
+Gastrointestinal Inflammation
+Esophagitis
+Esophagitis may be associated with vomiting in the setting of eosino­
+philic esophagitis (EoE), where patients may also experience nausea 
+and/or dysphagia. With regard to reflux disease, esophagitis is second­
+ary to vomiting.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+282
+SECTION 4  Gastrointestinal Disorders
+Gastroenteritis
+Gastroenteritis is a frequent cause of acute vomiting illness in child­
+hood and frequently associated with diarrhea, abdominal pain, or 
+fever. Rotavirus, especially in infants, is notable for its prominent 
+vomiting, which often precedes the diarrhea. “Food poisoning” also 
+produces vomiting and diarrhea, often caused by bacterially derived 
+toxin. The novel coronavirus COVID-­19 has also been associated with 
+gastroenteritis. Microbiologic investigations may be considered in chil­
+dren with underlying chronic conditions or immunodeficiencies (e.g., 
+oncologic diseases, inflammatory bowel disease, etc.), in those with 
+severe symptoms or bloody diarrhea, or in those with prolonged symp­
+toms in whom specific treatment is considered.
+Treatment of acute gastroenteritis mandates attention to hydration 
+and supportive care. Oral rehydration is feasible in many children with 
+gastroenteritis, but a common error is to use clear liquids longer than 
+24 hours; this leaves nutritional needs unmet. Early refeeding in gas­
+troenteritis is most successful when the food is low in fat and lactose 
+and high in complex carbohydrates.
+Acid Peptic Disease
+Acid peptic disease includes gastritis, gastric ulcer, duodenitis, and duo­
+denal ulcer. In contrast to adults, these disorders frequently cause vom­
+iting in association with abdominal pain in pediatrics. The acidic gastric 
+contents, which normally aid in digestion, become corrosive when 
+there is an increase in acid production or a disruption of protective fac­
+tors such as a mucous layer, a pH-­neutral buffer zone, an epithelial layer, 
+and a rich gastric blood supply. Defined causes for acid peptic disease 
+include infections (H. pylori infection being the most well recognized), 
+bile reflux gastritis, medication induced (nonsteroidal antiinflamma­
+tory agents, high-­dose corticosteroids, etc.), and rare gastrin-­secreting 
+tumors (Zollinger-­Ellison syndrome). Stress ulcers occur in the context 
+of sepsis, burns, surgery, head trauma, and severe acute illness.
+The optimal diagnostic method is endoscopy, with evaluation for 
+H. pylori or elevated gastrin in appropriate cases. Acid suppression is 
+the preferred treatment. H. pylori infections are treated with evolving 
+regimens of triple antibiotics plus acid suppression drugs; eradica­
+tion rate is approximately 85% for most treatments. Zollinger-­Ellison 
+syndrome is optimally treated by tumor resection and evaluation for 
+related endocrine tumors; PPI treatment is helpful if complete tumor 
+resection is impossible. Complications of acid peptic disease include 
+GI bleeding, intestinal perforation, and gastric outlet obstruction.
+Meckel Diverticulitis
+In addition to presenting as GI bleeding or obstruction, Meckel diver­
+ticula may become inflamed and mimic appendicitis. Treatment is sur­
+gical and further information about Meckel diverticulum is discussed 
+previously.
+Mesenteric Adenitis
+Mesenteric adenitis is often found on CT scans and refers to inflam­
+mation of lymph nodes in the mesentery. It is probably caused by viral 
+(adenovirus, measles) or bacterial (Yersinia enterocolitica) infection, 
+but the symptoms are similar enough to appendicitis that the diagnosis 
+is usually not made before surgery. Ultrasonography can readily distin­
+guish mesenteric adenitis from appendicitis.
+Appendicitis
+When vomiting occurs in appendicitis, it follows the periumbilical pain 
+but may precede the localization of the pain to the McBurney point, two 
+thirds of the way between the umbilicus and the right anterior iliac spine. 
+Before perforation, there is only occasional vomiting. After perforation, 
+the fever may be higher; the child lies still with the right hip flexed, and 
+vomiting may be more frequent and feculent. In appendicitis, there is 
+later vomiting, less diarrhea, fewer bowel sounds, and more rectal or 
+rebound tenderness than in gastroenteritis. It is also associated with 
+less diarrhea, less fever, and less leukocytosis than is bacterial enteritis, 
+although Yersinia, in particular, has caused right lower quadrant pain 
+closely mimicking appendicitis. Crohn disease is usually more chronic 
+than is appendicitis but sometimes is diagnosed by surgeons at the time 
+of appendectomy based on serosal changes to the bowel.
+Inflammatory Bowel Disease
+Crohn disease, in particular, may produce vomiting on occasion, partic­
+ularly when obstructing intestinal strictures develop. Other extraintesti­
+nal manifestations of Crohn disease also, in rare cases, produce vomiting.
+Allergic Enteropathy, Eosinophilic Gastroenteropathy, and 
+Eosinophilic Esophagitis
+Vomiting is a frequent response to ingestion of allergens and may occur as 
+early as the first weeks of life in infants with allergy (non–immunoglobu­
+lin E [IgE] or IgE mediated) to cow’s milk or soy and in older children as 
+potentially allergenic foods are introduced. There may be associated diar­
+rhea and hematochezia and, in some children, urticaria or other systemic 
+signs of allergy. A strong family history of allergic disorders is suggestive. 
+Laboratory studies may show peripheral blood eosinophilia and positive 
+radioallergosorbent test (serum-­specific IgE) to individual foods.
+In infants, the simplest diagnostic test is a change to a protein hydro­
+lysate or elemental formula for at least 2 weeks. In breast-­fed infants, 
+the mother should start a strict dairy-­free diet. If the vomiting (and 
+other symptoms) resolves, it is generally not necessary to rechallenge 
+for diagnosis, but empirical treatment can be continued for several 
+months. Because infants usually outgrow these formula protein intol­
+erances between 10 and 24 months of age, a normal diet can later be 
+introduced as tolerated. Older children with vomiting that represents 
+IgE-­mediated food allergy or eosinophilic gastroenteropathy are less 
+likely to outgrow the allergy over time.
+IgE-­mediated food allergy has a rapid onset of symptoms after 
+exposure to allergic food and reaction can vary from mild to severe, 
+with anaphylaxis being the most severe form. The diagnosis of IgE-­
+mediated food allergy requires a history of classic clinical symptoms 
+and evidence of food-­specific IgE by either skin-­prick or serum-­
+specific IgE testing. Eosinophilic GI diseases, on the other hand, are a 
+group of chronic inflammatory conditions characterized histologically 
+by eosinophilic infiltration of the GI tract and varying degree of vil­
+lous injury. It is composed of EoE, eosinophilic gastritis, eosinophilic 
+gastroenteritis, or eosinophilic colitis. Diagnosis is made by endoscopy 
+with biopsies. EoE may occur independently of eosinophilic gastro­
+enteropathy and should be kept in mind, particularly with patients 
+manifesting dysphagia or reflux symptoms poorly responsive to stan­
+dard therapy. At endoscopy, the esophageal mucosa displays a ringed 
+or furrowed appearance with granularity (Fig. 15.15), with pathology 
+specimens confirming a high eosinophil cell count.
+If sensitization to particular foods is identified through radioaller­
+gosorbent (serum-­specific IgE testing) or skin testing, an elimination 
+diet is employed; patients with prohibitive numbers of food allergies 
+may require an amino acid–based diet. Steroids may be necessary for 
+children with negative investigation findings for food allergy or for 
+whom compliance with a restricted diet is problematic.
+Similarly, celiac disease (i.e., gluten enteropathy) may present with 
+chronic vomiting in association with other GI symptoms, most com­
+monly abdominal pain, bloating, and altered stool habits. Diagnosis 
+is made by serum tissue transglutaminase (TTG) and total IgA level 
+(as IgA-­deficient individuals may have a falsely normal TTG) and con­
+firmed by endoscopic duodenal biopsies.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+283
+CHAPTER 15  Vomiting and Regurgitation
+TABLE 15.12  Diagnostic Criteria for Cyclic 
+Vomiting Syndrome
+At least 5 episodes overall or a minimum of 3 episodes noted in a 6-­mo period
+Recurrent episodes of vomiting and nausea lasting 1 hr to 10 days and 
+­occurring at least 1 wk apart
+Stereotypical pattern and symptoms in the individual patient
+Vomiting during episodes occurring at least 4 times per hr for at least 1 hr
+Returning to baseline health between episodes
+Not attributable to another disorder
+From Li BUK, Kovacic K. Vomiting and nausea. In: Wyllie R, Hyams 
+JS, Kay M, eds. Pediatric Gastrointestinal and Liver Disease. 5th ed. 
+Philadelphia: Elsevier; 2016:98.
+Functional Gastrointestinal Disorders
+Functional GI disorders, also known as disorders of gut-­brain inter­
+action, are highly prevalent and among the most common conditions 
+referred to GI subspecialists. In the absence of specific biomarkers 
+or tests, functional GI disorders are diagnosed clinically when, after 
+appropriate medical evaluation, symptoms cannot be attributed to 
+another medical condition. They are thought to arise from aberrant 
+gut-­brain signaling as a result of complex interplay of various biopsy­
+chosocial factors in genetically susceptible individuals. Functional 
+nausea and vomiting disorders form a separate category defined by 
+the Rome IV expert consensus criteria. This category includes CVS, 
+functional nausea and functional vomiting, rumination syndrome, and 
+aerophagia.
+Cyclic Vomiting Syndrome
+CVS is a chronic, potentially disabling condition marked by a history 
+of three or more bouts of intense, acute nausea and vomiting that may 
+last hours or days, punctuated by entirely symptom-­free intervals last­
+ing weeks to months (Table 15.12). Work-­up, which may ultimately 
+include endoscopy and imaging studies of the GI tract, urinary tract, 
+and brain, reveals no evidence of significant underlying primary dis­
+ease. Mean age of presentation is 5 years. CVS has a distinctive pattern 
+of emesis, which is essential for diagnosis (see Fig. 15.15). The vomit­
+ing episodes are discrete, recurrent, and relentless as well as stereotyp­
+ical in each patient as to time of onset (often early morning), duration 
+(hours or days), and symptoms (pallor, listlessness). Four phases are 
+described: the prodromal phase, the emetic phase, the recovery phase, 
+and the interepisodic or asymptomatic phase. The prodromal phase is 
+characterized by nausea, pallor, diaphoresis, fatigue, insomnia, and a 
+sense of impending attack. This is the optimal time to intervene with 
+rescue therapies to prevent progression to the emetic cascade. The 
+emetic phase heralds with emesis that is frequent, is forceful, may 
+contain bile or blood, and is associated with intractable nausea, which 
+is relieved only with deep sleep. Other features include listlessness, 
+pallor, drooling, diarrhea, dizziness, and diaphoresis. About 50% of 
+cases demonstrate photophobia and phonophobia, and a majority are 
+associated with abdominal pain. CVS is associated with poor quality 
+of life with as many as 58% of children with CVS requiring intrave­
+nous fluids during episodes and an average of 10 visits to the emer­
+gency department annually. An inciting event such as an infection, 
+emotional excitement, negative stress, or lack of sleep can be identified 
+in 80% of patients.
+The pathophysiologic process of CVS remains speculative at 
+this time but, at least in a subset, may overlap with that of migraine 
+disorders. One hypothesis purports that stress-­initiated release of 
+corticotropin-­releasing hormone leads to cascading production of sub­
+stances, such as adrenocorticotropic hormone, antidiuretic hormone, 
+histamine, and catecholamines, which in turn mediates the signs and 
+symptoms. Some children may harbor subclinical defects in mitochon­
+drial fatty acid oxidation metabolism or neuronal ion channel func­
+tion that heighten their susceptibility to attacks when confronted by 
+the increased cellular energy needs created by a physiologic or emo­
+tional stressor. A baseline ANS dysfunction is also reported in the liter­
+ature. Although CVS is well recognized, the provider needs to remain 
+vigilant to other treatable, “look-­alike” organic conditions. Reported 
+cases of organic disease mislabeled as “cyclic vomiting” have included 
+intermittent intussusception or volvulus caused by enteric duplication, 
+diverticulum, or malrotation; increased intracranial pressure; toxic 
+or metabolic disease; obstructive uropathy; porphyria; and familial 
+dysautonomia. Medications potentially useful in CVS prophylaxis and 
+in treatment of acute episodes are listed in Table 15.13.
+Abdominal Migraine
+Abdominal migraine is a periodic syndrome similar to CVS and 
+included in the Rome IV functional abdominal pain disorders cate­
+gory (in addition to functional dyspepsia, irritable bowel syndrome, 
+and functional abdominal pain—not otherwise specified). Abdominal 
+A
+B
+Fig. 15.15  Endoscopic appearance of eosinophilic esophagitis, demonstrating concentric rings in proximal 
+esophagus (A) and granularity with mucosal furrowing in distal esophagus (B).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+284
+SECTION 4  Gastrointestinal Disorders
+migraine is characterized by paroxysmal episodes of intense perium­
+bilical, midline, or diffuse abdominal pain. The episodes are associated 
+with intense nausea, vomiting, anorexia, pallor, headache, or photo­
+phobia. A pathophysiologic overlap with CVS and migraine headache 
+is proposed based on similar symptom pattern and response to therapy. 
+When these abdominal symptoms coexist with head pain, a diagnosis 
+of migraine headache is made. Similarly, if the predominant symptom 
+is emesis, CVS is the most accurate diagnostic term. Although there is a 
+high degree of overlap, the predominant and most consistent symptom 
+during episodes defines the illness. Most evolve into typical migraine 
+headaches during preteen years, and by age 18 years, 75% have tran­
+sitioned their symptoms for migraine headaches. Usually, isolated 
+abdominal migraine attacks occur suddenly, last an hour to days, and, 
+as in CVS, are consistent in character within the same individual. There 
+is usually a family history of migraine, and patients are asymptomatic 
+between attacks. A personal history of car (motion) sickness may be 
+present. Therapy is similar to CVS. Abortive therapy is composed of 
+triptans, while prophylactic antimigraine medications such as propran­
+olol, cyproheptadine, or amitriptyline often help prevent attacks.
+Functional Vomiting
+Functional vomiting refers to chronic, recurrent vomiting at least once 
+per week that is not self-­induced and occurs in the absence of eating dis­
+orders, major psychiatric diseases, or other medical diseases. The absence 
+of organic causes illustrates the prominent influence that cortical and psy­
+chologic inputs may have in stimulating nausea and vomiting. The pro­
+posed features of functional vomiting include chronicity, association with 
+stress, absence of cachexia or anorexia, and commonly relief by hospital­
+ization or higher-­level care. An example would be of a child who involun­
+tarily vomits every time before a school test or on Monday mornings due 
+to heightened anxiety but is otherwise well and recovers when the stressor 
+is absent. Although a clear relationship with gastric motor disorders such 
+as gastroparesis has not been established due to lack of diagnostic tests, 
+these conditions may overlap and complicate management. Close evalua­
+tion of specific clinical features such as emesis of undigested food and sig­
+nificant postprandial distress as occurs in gastroparesis is essential prior 
+to committing to a diagnosis of functional vomiting.
+Rumination Syndrome
+Rumination syndrome is characterized by repeated, effortless food 
+regurgitation during or soon after eating (generally within 15 min­
+utes), followed by rechewing, reswallowing, or spitting out the 
+regurgitant. This syndrome can be disabling and lead to medical 
+complications (weight loss, electrolyte imbalance) and, even more 
+so, significant functional limitations and psychosocial stigma (school 
+absenteeism, avoiding social eating). The regurgitation behavior is a 
+habit/reflex that arises as a conditioned response to certain stimuli 
+(e.g., particular foods, environments, activities). It is hypothesized 
+that prior to the act of regurgitation, patients feel a premonitory urge 
+often described as a visceral sensation (e.g., abdominal pressure). To 
+relieve the urge, the patient regurgitates by contracting the abdom­
+inal wall muscles. Once the material is brought up, the premonitory 
+urge temporarily subsides, leading to relaxation of abdominal mus­
+cles. Other clinical features include general lack of retching and nau­
+sea as well as absence of symptoms during sleep. Patients sometimes 
+recognize an inciting event retrospectively (e.g., a respiratory or GI 
+infection, psychosocial stressor, or medical procedure). The disorder 
+tends to cluster more in patients with underlying anxiety, adolescent 
+girls, and children with autism spectrum disorders. In infants and 
+intellectually disabled individuals, rumination can have a positive 
+function of alleviating anxiety and is recognized as a self-­soothing 
+TABLE 15.13  Treatment of Cyclic Vomiting 
+Syndrome
+Rescue and Abortive Pharmacotherapy 
+Antimigraine
+Sumatriptan intranasal 10–20 mg or 3–6 mg SC (>5 yr), 25 
+mg PO (>17 yr) at onset of symptoms and may repeat once
+SE: chest and neck burning, coronary vasospasm, headache
+Antiemetic
+Ondansetron 0.2–0.3 mg/kg per dose q4–6h IV/PO/rectal/
+topical 
+SE: headache, drowsiness, dry mouth
+Aprepitant 3-day regimen: 125, 80, 80 mg one q.d. at onset
+Fosaprepitant 3–4 mg/kg (max 115 mg) IV day 1 followed 
+by 80 mg aprepitant on day 2, 3
+SE: fatigue, dizziness, diarrhea
+Sedatives
+Lorazepam 0.05–0.1 mg/kg per dose q6h IV/PO 
+SE: sedation, respiratory depression
+Chlorpromazine 0.5–1 mg/kg per dose q6h IV/PO
+SE: drowsiness, hypotension, seizures
+Diphenhydramine 1.25 mg/kg per dose q6h IV/PO 
+SE: hypotension, sedation, dizziness
+Analgesics 
+Ketorolac 0.5–1 mg/kg per dose q6h IV/PO
+SE: gastrointestinal bleeding, dyspepsia
+Prophylactic Pharmacotherapy
+Antimigraine
+Amitriptyline, start at 0.2 mg/kg, advance to 1–1.5 mg/
+kg q.h.s.
+First choice ≥5 yr old
+SE: QT prolongation (monitor EKG), sedation, anticholinergic
+Propranolol 0.25–1 mg/kg/day divided b.i.d or t.i.d. 
+SE: hypotension, bradycardia (monitor resting heart rate), 
+fatigue
+Cyproheptadine 0.25–0.5 mg/kg/day divided b.i.d. or q.h.s. 
+First choice <5 yr old
+SE: sedation, weight gain, anticholinergic
+Anticonvulsant 
+Topiramate titrate to 1.5–2.0 mg/kg/day divided b.i.d.
+SE: appetite suppression, cognitive dysfunction, renal stones
+Alternative: levetiracetam, valproate, carbamazepine, 
+gabapentin 
+NK-1 antagonist Aprepitant 125 mg PO twice weekly (>60 kg); 80 mg (40–60 
+kg); 40 mg (<40 kg) 
+SE: fatigue, dizziness, diarrhea
+Mitochondrial 
+supplements
+L-carnitine 50–100 mg/kg ≤2 g/day divided b.i.d.
+SE: diarrhea, fishy body odor
+Coenzyme Q10 10 mg/kg/divided b.i.d. ≤600 mg/day
+Riboflavin 10 mg/kg/day divided b.i.d. ≤400 mg/day 
+b.i.d., twice daily; IV, intravenously; max, maximum; PO, orally; q4–6h, 
+every 4–6 hr; q6h, every 6 hr; q.d., once a day; q.h.s., each bedtime; SC, 
+subcutaneously; SE, side effects; t.i.d., three times daily.
+Data from Li BU, Lefevre F, Chelimsky GG, et al. North American Soci­
+ety for Pediatric Gastroenterology, Hepatology, and Nutrition consen­
+sus statement on the diagnosis and management of cyclic vomiting 
+syndrome. J Pediatr Gastroenterol Nutr. 2008;47:379–393. Sunku B, Li 
+BUK. Cyclic vomiting syndrome. In: Guandalini S, ed. Textbook of Pedi­
+atric Gastroenterology and Nutrition. London: Taylor and Francis Group; 
+2004:289 -302; Abell TL, Adams KA, Boles RG, et al. Cyclic vomiting 
+syndrome in adults. Neurogastroenterol Motil. 2008;20:269–284; Van 
+Calcar SC, Harding CO, Wolff JA. L-carnitine administration reduces 
+number of episodes in cyclic vomiting syndrome. Clin Pediatr (Phila). 
+2002; 41:171–174; and Li BU. Cyclic vomiting syndrome. Curr Treat 
+Options Gastroenterol. 2000; 3:395–402.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+285
+CHAPTER 15  Vomiting and Regurgitation
+mechanism. Treatment may be challenging and focuses on behav­
+ioral therapy of unlearning the conditioned rumination behavior. 
+Successful therapy often requires multidisciplinary care in special­
+ized treatment centers.
+Functional Dyspepsia
+Functional dyspepsia is characterized by chronic postprandial fullness, 
+early satiety, and epigastric pain or burning. Although part of the func­
+tional abdominal pain disorders category, postprandial nausea is often 
+severe and patients may have intermittent emesis. The clinical features 
+overlap significantly with those of gastroparesis and these conditions 
+may be difficult to distinguish. However, dyspeptic patients tend to 
+have postprandial emesis in closer temporal association with the meal 
+as opposed to gastroparesis, where emesis is generally delayed.
+Gastrointestinal Ischemia and Vascular Insufficiency
+Some of the causes of GI ischemia can produce perforation, peritonitis, 
+and death quite rapidly. A high degree of suspicion is useful because 
+the signs are nonspecific.
+Vasculitis
+Inflammation of the mesenteric vessels is uncommon but may cause 
+GI complaints, including vomiting, abdominal pain, diarrhea, and GI 
+bleeding. Henoch-­Schönlein purpura is the most common pediatric 
+vasculitis. Systemic lupus erythematosus, dermatomyositis, polyarte­
+ritis nodosa, adenosine deaminase-­2 (ADA-­2) deficiency, and other 
+hypersensitivity vasculitides are occasional causes. The most diagnos­
+tic sign of Henoch-­Schönlein purpura is the palpable purpuric rash, 
+typically found on the buttocks, posterior legs, and feet in 97% of 
+patients. However, because the vomiting or hematemesis and the non­
+specific abdominal pain (found in nearly 90%) may precede the rash, 
+the diagnosis may initially be obscure. Repeated examination of the 
+skin of a child with persistent vomiting and pain is therefore useful, 
+particularly when the GI symptoms are accompanied by polyarthritis, 
+which occurs in 65% of such patients. Platelet function and coagulation 
+studies are normal; hematuria is often present. Steroids may shorten 
+the abdominal pain by 1 or 2 days, but they might also mask symptoms 
+of accompanying intussusception or perforation.
+Mesenteric Ischemia
+The mesenteric arteries may be occluded by emboli from a diseased heart 
+or from thrombi formed locally. Nonocclusive ischemia may be caused 
+by poor cardiac output, hypotension, dehydration, or endotoxemia. Mes­
+enteric venous occlusion is very rare. Severe, crampy, diffuse abdominal 
+pain may be accompanied by vomiting, diarrhea, or constipation. If no 
+interventions are taken, the crampy pain becomes continuous and gan­
+grene, peritonitis, and shock set in. Acute mesenteric arterial occlusion 
+may be preceded by chronic symptoms of “abdominal angina,” which are 
+episodes of several hours of crampy pain beginning about 20 minutes 
+after meals. Such premonitory symptoms in suggestive settings (heart 
+disease, inherited thrombophilia) should receive serious attention and 
+require mesenteric and celiac angiography and emergency surgery.
+Hepatobiliary Disorders
+Hepatitis
+The presence of acute viral hepatitis is usually suspected in patients who 
+have jaundice, but up to 50% of patients with hepatitis A are anicteric, 
+and even those in whom jaundice develops have a pre-­icteric prodrome 
+lasting up to a week. In children with acute hepatitis, therefore, the 
+presenting symptom may be vomiting, another reason for including 
+liver enzymes in the screening evaluation of the ill-­appearing vomiting 
+child. The vomiting is often accompanied by fatigue, fever, headache, 
+rhinorrhea, sore throat, and cough.
+The findings of serum antigens and antibodies to hepatitis viruses 
+establish the diagnosis. Acute hepatitis with vomiting is treated symp­
+tomatically. Management also includes watching for the ominous find­
+ings of progressive encephalopathy, ascites, and coagulopathy.
+Biliary Colic and Cholecystitis
+Biliary obstruction produces vomiting and abdominal pain in children. 
+Biliary colic is visceral pain resulting from transient obstruction of the 
+cystic duct, usually by a gallstone. Biliary colic produces several hours 
+of steady, vaguely localized pain, often in the right upper quadrant; 
+most patients also have vomiting. Episodes of biliary colic commonly 
+recur at unpredictable intervals, from weeks to months. Acute chole­
+cystitis may ensue if the obstruction persists and leads to inflamma­
+tion of the gallbladder. The pain may localize more clearly to the right 
+upper quadrant and may radiate to the back or shoulder. There may be 
+fever or mild jaundice. Serum alanine aminotransferase, aspartate ami­
+notransferase, γ-­glutamyl transpeptidase, alkaline phosphatase, and 
+bilirubin levels may be elevated. In both biliary colic and acute chole­
+cystitis, abdominal films and ultrasonography may disclose stones or 
+gallbladder thickening. Common bile duct stones may produce con­
+current elevations of liver enzymes and pancreatic enzymes. Recurrent 
+biliary colic and cholecystitis are managed by cholecystectomy, which 
+can be performed laparoscopically in many children. Endoscopic 
+removal of common bile duct stones is also possible, although it does 
+not prevent recurrence.
+Pancreatitis
+Pancreatitis is usually associated with epigastric abdominal pain, 
+which may radiate to the back and may have associated emesis. Ele­
+vated serum amylase and lipase levels usually confirm the diagnosis.
+Gynecologic and Urologic Disorders
+Pyelonephritis
+High fever, chills, nausea, vomiting, and, less often, diarrhea develop 
+rapidly. There may be symptoms of cystitis with dysuria, frequency, 
+urgency, and suprapubic pain. Costovertebral angle tenderness focuses 
+the diagnosis to the urinary tract. The UA shows pyuria and bacteriuria, 
+and the hemogram shows leukocytosis. Treatment is with antibiotics.
+Ureteropelvic Junction Obstruction and Hydronephrosis
+Ureteropelvic junction obstruction is the most common congenital 
+anomaly affecting the urinary tract and is often detected on antenatal 
+ultrasound. It is more common in males and 60–90% cases are uni­
+lateral. It is caused by intrinsic stenosis of the proximal ureter at the 
+ureteropelvic junction and less commonly by an extrinsic compression 
+(aberrant accessory renal artery).
+Congenital cases are usually diagnosed in the first year of life 
+(usually on the basis of a renal hydronephrotic mass or urinary tract 
+infection). About 10–30% of affected older children present with 
+intermittent, acute painful episodes referred to as “Dietl crisis” that 
+are characterized by flank or periumbilical pain, which is frequently 
+accompanied by vomiting. Given the episodic nature, the clinical pre­
+sentation may mimic CVS.
+Typically, symptoms commence in the evening after an increased 
+fluid intake, although the hyperhydration history is often unclear. The 
+child’s pain and vomiting usually remit spontaneously in several hours, 
+as dehydration gradually relieves the renal pelvic distention. Superim­
+posed unilateral urinary tract infection may cause additional findings 
+of fever, failure to thrive, and pyuria. Ultrasonography at the time of 
+an episode demonstrates hydronephrosis and provides the diagnosis. 
+Once hydronephrosis is confirmed, diuretic renography (radionuclide 
+scan) is ordered to assess the degree of obstruction as well as the level 
+of renal function. The treatment is surgical.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+286
+SECTION 4  Gastrointestinal Disorders
+Renal Colic
+Passage of a renal stone usually causes more pain than vomiting. Lat­
+eralized colicky pain, hematuria, and confirmatory radiologic studies 
+assist the diagnosis.
+Dysmenorrhea, Endometriosis, and Pelvic Inflammatory 
+Disease
+These gynecologic disorders manifest with lower abdominal pain but 
+only occasionally with vomiting. Association with menses or vaginal 
+discharge aids the diagnosis. Cervical motion exacerbates the pain in 
+pelvic inflammatory disease.
+Ovarian Torsion
+Torsion of a normal ovary occasionally occurs in girls of any age, prob­
+ably caused by laxity of adnexal supports. Repeated attacks of crampy, 
+lower abdominal pain culminate in a final acute episode with severe 
+retching and vomiting, an enlarged ovarian mass, and eventual signs of 
+peritonitis. Leukocytosis may be accompanied by fever. The location of 
+the pain suggests the diagnosis, and the treatment is surgical.
+Hyperemesis Gravidarum
+Hyperemesis gravidarum is a severe and prolonged form of nausea 
+and vomiting thought to be caused by increased level of circulating 
+β-­human chorionic gonadotropin (β-­HCG) during early pregnancy. 
+All pubertal adolescent females with symptoms should be tested for 
+pregnancy.
+Testicular Torsion
+Testicular torsion is a vascular emergency. It is readily diagnosed by the 
+site of pain; surgical treatment is required.
+Respiratory Disorders
+Sinusitis, Pharyngitis, and Otitis
+Sinusitis may induce chronic, unexplained vomiting. The vomiting is 
+more apt to occur in the morning and must be differentiated from seri­
+ous intracranial processes. It is usually characterized by a cough-­vomit 
+cycle. Sinus tenderness and sinus CT scans suggest the diagnosis, and a 
+successful trial of antibiotic therapy confirms it. Less often, pharyngitis 
+or otitis media may manifest acutely with nonspecific vomiting.
+Pneumonia
+Emesis along with respiratory signs/symptoms may be a manifestation 
+of pneumonia. As pneumonia can also be caused by vomiting second­
+ary to aspiration, it is important to consider the direction of causality 
+in children with pneumonia and vomiting. Aspiration of vomitus is 
+particularly likely to occur in the context of obtundation or other neu­
+rologic dysfunction.
+Central Nervous System Disorders
+Increased Intracranial Pressure
+Increased intracranial pressure (ICP) could be secondary to a brain 
+parenchymal lesion (e.g., tumor), vascular malformations, hydroceph­
+alus (e.g., Arnold-­Chiari malformation, shunt malfunction), or central 
+nervous system infection or be idiopathic (e.g., pseudotumor cerebri). 
+It presents with headaches, vomiting, diplopia, and irritability. The 
+vomiting is typically described as projectile, not associated with retch­
+ing, and occurs more commonly upon awakening.
+A careful neurologic and ophthalmologic examination may show 
+decreased visual acuity, visual field defects, papilledema, and sixth cra­
+nial nerve palsy. General exam should include measurement of blood 
+pressure, occipitofrontal head circumference, and body mass index 
+(BMI). Relevant radiologic studies (CT or MR scans) should help the 
+examiner make the diagnosis.
+Pseudotumor cerebri (meaning “false brain tumor”), also known 
+as idiopathic intracranial hypertension, is the presence of high ICP 
+in the absence of any space-­occupying lesion. It is diagnosed by the 
+presence of high opening cerebrospinal fluid (CSF) pressure on lumbar 
+puncture and an otherwise normal CSF analysis and neuroimaging. It 
+is almost always associated with papilledema. Pseudotumor cerebri is 
+more common in obese adolescent females. In most cases, the etiol­
+ogy is unidentifiable, but at times, a secondary cause may be identified. 
+Secondary causes include medication induced (tetracyclines, oral con­
+traceptive pills, chemotherapeutic agents, steroids), endocrine disor­
+ders such as hypoparathyroidism, Addison disease, growth hormone 
+therapy, and nutritional disorders such as hypo-­ or hypervitaminosis 
+A as well as refeeding syndrome. Optic atrophy and visual impairment 
+are the most serious long-­term complications. Underlying causes, if 
+identified, should be treated (weight loss, discontinuing medication). 
+Acetazolamide (carbonic anhydrase inhibitor) is an effective medica­
+tion and works by decreasing CSF production. In some cases, removal 
+of CSF by repeated lumbar puncture may be necessary to reduce ICP 
+and resolve symptoms.
+Occlusion or infection of a ventriculoperitoneal shunt may produce 
+vomiting on a neurologic basis, whereas the intraabdominal end of the 
+shunt may provoke intestinal obstruction by volvulus, adhesions, or 
+loculations. These possibilities must be kept in mind for the vomiting 
+patient with a shunt.
+Abdominal Epilepsy
+Abdominal epilepsy is an uncommon cause of recurrent abdominal 
+pain. It is characterized by paroxysmal episodes of abdominal pain, 
+diverse GI complaints (e.g., nausea, vomiting, diarrhea, bloating), 
+and central nervous system manifestations such as headache, dizzi­
+ness, confusion, or temporary blindness. Although symptoms overlap 
+strongly with those of abdominal migraines, patients with abdominal 
+epilepsy have definite EEG abnormalities (generally the temporal area) 
+and favorable response to anticonvulsant therapy.
+Vestibular Disorders, Motion Sickness
+Motion sickness is a common experience. Vestibular disorders pro­
+duce similar symptoms. Because of the symptoms of nausea, nystag­
+mus, vertigo, and dizziness, the diagnosis is usually obvious. Acute 
+unilateral vestibular neuritis is a common diagnosis in children and 
+occurs in association with respiratory viral infections and is self-­
+limited. Antihistamines and anticholinergics are particularly useful 
+for motion sickness.
+Psychobehavioral Disorders
+Eating Disorders
+Anorexia and bulimia nervosa are eating disorders associated with 
+purging behavior such as self-­induced vomiting and laxative abuse. 
+Malnutrition and electrolyte imbalance associated with eating disor­
+ders can negatively impact gastric motility and intestinal transit, which 
+in turn can bolster typical symptoms of eating disorders such as loss 
+of appetite, constipation, and bloating and therefore may benefit from 
+prokinetic agents.
+Psychiatric Disorders
+GI symptoms including recurrent vomiting are not uncommon man­
+ifestations of underlying psychiatric disorders including generalized 
+anxiety, depression, bipolar disease, obsessive-­compulsive disorder, 
+and post-­traumatic stress disorder. A careful history including trauma 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+287
+CHAPTER 15  Vomiting and Regurgitation
+and abuse screening is essential to help differentiate a psychiatric etiol­
+ogy from anxiety and stress related to an unresolved medical condition.
+Munchausen by Proxy
+Although rare, providers should remain vigilant to the possibility of Mun­
+chausen syndrome by proxy in cases of refractory vomiting along with 
+other nonspecific GI symptoms and absence of findings. This is a mental 
+health disorder in which a caregiver fabricates or causes illness in a child. 
+Given the paucity of diagnostic tests and biomarkers for many functional 
+and motility disorders of the GI tract, GI complaints are among the most 
+common complaints reported in Munchausen by proxy. Red flags include 
+an excessive number of normal investigations and procedures.
+Management
+Psychiatric and psychology consultation and therapy are often needed 
+for eating disorders, rumination, functional vomiting, and psychiatric 
+causes of recurrent emesis. Principles of behavior modification such as 
+stress reduction techniques, cognitive-­behavioral therapy, and hypno­
+therapy have proven beneficial. Biofeedback techniques such as dia­
+phragmatic breathing have a therapeutic role in rumination syndrome.
+Nasogastric or nasojejunal feedings can be used to guarantee 
+nutritional rehabilitation if voluntary oral nutrition is not readily re-­
+established. Such tube feedings may also provide the child with the 
+incentive to return to oral nutrition. Refeeding syndrome should be 
+monitored for.
+Metabolic Disorders
+Metabolic diseases that cause vomiting are difficult to diagnose because 
+they are both rare and diverse. Their diagnosis and treatment, how­
+ever, are crucial because of the potential for severe morbidity and death 
+and their amenability to treatment. They are also important because 
+of their relevance to genetic counseling as most metabolic disorders 
+are hereditary on an autosomal recessive basis. Situations that should 
+prompt consideration of metabolic diseases are listed in Table 15.8. The 
+screening studies (see Table 15.7) should be done while the child is 
+symptomatic.
+Poisonings and Drugs
+Most ingested poisons, and some absorbed by inhalation, skin contact, 
+or intravenous administration, induce vomiting, which can be seen as 
+a physiologic protection against harmful substances. Symptoms and 
+signs of some of the most common pediatric poisonings along with 
+laboratory findings and treatment are indicated in Table 15.14. Acute 
+known poisonings, either accidental or intentional, are a management 
+rather than diagnostic problem and a Poison Control Center or other 
+toxicology resources are helpful.
+Initial diagnostic evaluation can be directed by a careful search of 
+the environment for poisonous items and by toxicology screens on 
+blood, urine, vomitus, and stool; these materials should not be dis­
+carded. A few agents, such as lead, cause chronic poisoning, manifested 
+by vomiting, among other symptoms. Since it may be particularly dif­
+ficult to suspect and treat these poisonings, an index of suspicion of 
+poisoning is important in the chronically vomiting child. Cannabi­
+noid (marijuana) hyperemesis syndrome is often seen in a previously 
+well adolescent (no prior history of emesis or CVS), who is a chronic 
+(∼ daily) heavy user of marijuana. Nausea and abdominal discomfort 
+may precede the acute onset of emesis characterized by intense and 
+frequent episodes often relieved by taking multiple warm showers. It 
+resembles CVS and many patients have been misdiagnosed with CVS.
+Hematemesis
+Hematemesis is vomiting of blood, which may be obviously red or 
+have the appearance of coffee grounds (see Chapter 16). The source 
+of bleeding is usually the upper GI tract proximal to the ligament of 
+Treitz. A rapid initial assessment of the actively bleeding child is man­
+datory and includes checking circulation, airway, and breathing while 
+establishing intravenous access. A quick focused history of bleeding 
+disorders, liver disease, GI diseases, and ingestion of medications, espe­
+cially nonsteroidal antiinflammatory drugs, or foreign bodies should 
+be taken. On exam the presence of pallor and orthostatic changes could 
+point toward significant blood loss, while presence of jaundice and 
+hepatosplenomegaly suggests chronic liver disease. Endoscopic eval­
+uation and therapy are often needed for children with hematemesis. 
+Important causes of hematemesis are listed in Table 15.15.
+Overall, peptic ulcer disease secondary to H. pylori is the most com­
+mon cause of hematemesis in children. Etiologies such as stress gastri­
+tis, vascular malformation, and coagulopathies are common in all age 
+groups. In newborns, swallowed maternal blood (uterine, breast milk), 
+trauma secondary to suction of nasogastric tube, and necrotizing 
+enterocolitis need to be considered. In preschool children, peptic ulcer 
+disease, foreign body, and caustic ingestion are important causes, while 
+in older children and adolescents, premalignant lesions such as Bar­
+rett esophagus, peptic ulcers, medication-­induced gastritis/ulcers, and 
+Mallory-­Weiss tear should be considered. Variceal bleeding is uncom­
+mon but serious. Gastric vascular malformations are rare, may lead to 
+copious bleeding, and may be difficult to diagnose. Duplications are 
+lined by gastric mucosa in 30% of affected patients. If they are located 
+above the ligament of Treitz, they may cause hematemesis. Obstructive 
+lesions such as pyloric stenosis and antral webs are occasionally associ­
+ated with hematemesis. The metabolic and toxic (iron, salicylates, the­
+ophylline, corrosives, isopropyl alcohol, mushroom poisoning) causes 
+of hematemesis should be kept in mind.
+Therapy of hematemesis includes, as needed, correction of any 
+abnormalities of coagulation: stabilization of hemodynamic status and 
+direct attention to the bleeding site by hemostasis endoscopically (e.g., 
+heater probe, injection therapy) or surgically. Reduction of gastric acid 
+secretion pharmacologically is useful in virtually all cases of hematem­
+esis and carries minimal risk.
+Other Causes of Vomiting
+Chemotherapy
+Chemotherapy causes predictable vomiting, which is usually not a 
+diagnostic but a management problem. It may be complicated by antici­
+patory vomiting. The theories hypothesized for chemotherapy-­induced 
+vomiting are direct GI mucosal insult leading to release of serotonin 
+or activation of receptors located in the area postrema by the circulat­
+ing drug. Factors known to increase the incidence of chemotherapy-­
+induced vomiting include younger age, female gender, emetogenicity 
+of the chemotherapy agent, higher dose, and rate of administration.
+The cornerstone of treatment is 5HT-­3 and NK-­1 receptor antag­
+onists. Steroids, cannabinoids, and anxiolytics may also be beneficial.
+Radiation Therapy
+Like chemotherapy, radiation therapy may cause acute vomiting. It 
+is thought to be caused by release of various neurotransmitters that 
+activate the emetogenic reflex. Subacutely, diarrhea predominates as 
+a complication of radiation therapy. Months to years later, vomiting 
+may again be a result of radiation therapy, often caused by inflamma­
+tory ulcers and strictures. These lesions are difficult to treat without 
+surgery.
+Postoperative
+The incidence of postoperative nausea and vomiting (PONV) in the 
+pediatric population is as high as 33–82% depending on risk factors. 
+Symptoms are most prominent in the first 24 hours postoperatively but 
+can occur up to 7 days after surgery. Risk factors include age older than 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+288
+SECTION 4  Gastrointestinal Disorders
+TABLE 15.14  Common Poisoning Agents
+Agent
+Signs and Symptoms*
+Laboratory†
+Level
+Lavage‡
+Charcoal and 
+70% Sorbitol§
+Diuresis, 
+Hemodialysis
+Specific 
+Treatment
+Ipecac
+Acute: diarrhea
+Chronic: cardiomyopathy, muscle weakness
+Abnormal ECG
+•
+•
+Salicylates
+Tinnitus
+Hyperventilation
+Confusion, seizure, coma
+Respiratory alkalosis
+Non-­anion gap metabolic acidosis
+Uremia
+Hypoglycemia
+•
+•
+•
+Fluids
+Urinary alkalization
+Acetaminophen
+Early: abdominal pain, anorexia
+Late: jaundice, confusion, coma
+Abnormal LFT
+Coagulopathy
+Abnormal KFT
+•
+•
+•
+N-­acetylcysteine
+Iron
+Early: abdominal pain, bloody diarrhea
+Late: seizure, hypotension, ­shortness of 
+breath, jaundice
+Metabolic acidosis
+Abnormal LFT
+Coagulopathy
+•
+•
+No
+Deferoxamine
+Lead
+Abdominal pain
+Constipation
+Anorexia, fatigue
+Headache, seizure
+Learning disability
+Microcytic anemia
+KUB: radiopaque flecks
+Skeletal x-­ray: lead lines
+•
+BAL-­CaEDTA
+Succimer
+Opiates
+Pinpoint pupil
+Respiratory depression
+Hypotension
+Ileus
+Respiratory acidosis
+•
+Narcan
+Opiate withdrawal
+Irritability
+Dilated pupils
+Diaphoresis
+Seizures
+Abdominal cramps
+Methadone
+Benzodiazepines
+Organophosphate
+Salivation
+Lacrimation
+Diaphoresis
+Diarrhea
+Wheezing
+Hypotension
+Pupillary constriction
+Garlic breath
+Respiratory acidosis, metabolic 
+acidosis
+Supportive
+Atropine
+Pralidoxime
+Corrosives
+Oral pain, ulceration
+Abdominal pain
+Respiratory distress
+CXR
+No
+No
+Supportive
+Endoscopy
+Methanol
+Acetone breath
+Confusion, seizures
+Decreased vision
+Abdominal pain
+Anion gap metabolic acidosis
+Abnormal KFT
+•
+No
+Ethanol
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+289
+CHAPTER 15  Vomiting and Regurgitation
+TABLE 15.14  Common Poisoning Agents—cont’d
+Agent
+Signs and Symptoms*
+Laboratory†
+Level
+Lavage‡
+Charcoal and 
+70% Sorbitol§
+Diuresis, 
+Hemodialysis
+Specific 
+Treatment
+Ethanol
+Ataxia
+Confusion, seizures
+Cyanotic
+Hypopnea
+Hypothermia
+Hypoglycemia
+•
+•
+No
+Dextrose-­containing 
+IV fluids, supportive
+Ethylene glycol
+Confusion, seizures
+Anuria
+Dysrhythmias
+Non-­anion gap metabolic acidosis, 
+abnormal KFT, hypocalcemia
+•
+Ethanol
+Calcium gluconate
+Digitalis
+Confusion
+Bradydysrhythmias
+Hypokalemia
+Hypomagnesemia 
+Hypercalcemia
+ECG
+•
+Digibind (antibody)
+Antiarrhythmics
+Food poisoning
+Diarrhea
+Abdominal pain
+Suggestive history
+Supportive
+Seafood poisoning
+Paresthesia
+Respiratory paralysis
+Supportive
+Mushroom poisoning
+Diarrhea
+Salivation
+Lacrimation
+Diaphoresis
+Wheezing
+Respiratory acidosis, metabolic 
+acidosis
+Supportive
+For muscarine-­
+containing mush­
+rooms: atropine
+Penicillin for Amanita 
+mushrooms
+Venomous bite
+Puncture wound
+Local swelling, bruising, bleeding,
+Paresthesia, visual disturbance, coma
+Myoglobinuria
+Low platelets
+Anemia
+Coagulopathies
+Supportive
+Antivenom
+Black dot (•) indicates recommended.
+*Other than nausea and vomiting.
+†Other than laboratory suggestive of dehydration secondary to vomiting including ketosis, metabolic acidosis, and azotemia.
+‡The utility of emesis/lavage varies with the poison, the amount ingested, and the duration since ingestion. If obtunded, lavage requires endotracheal tube airway protection.
+§Avoid charcoal/sorbitol in recent bowel surgery or ileus.
+BAL-­CaEDTA, 2,3-­dimercaptopropanol–edathamil calcium disodium; CXR, chest x-­ray; IV, intravenous; LFT, liver function test; KFT, kidney function test; KUB, kidney, ureter, and bladder.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+290
+SECTION 4  Gastrointestinal Disorders
+3 years; duration of surgery >30 minutes; ear, nose, and throat (ENT) 
+and ocular surgeries (e.g., tonsillectomy, strabismus surgery); inhaled 
+anesthetic agents; higher postoperative pain; use of opioids; prolonged 
+preoperative fasting; dehydrated state; and a family history of PONV. 
+The higher the number of risk factors, the greater the chance of PONV. 
+If the susceptible child is identified from these risk factors, prophylac­
+tic therapy is generally effective. Combination therapy with dexameth­
+asone and 5HT-­3 antagonists have been found most effective.
+Porphyria
+Acute intermittent porphyria is an autosomal dominant disorder of 
+episodic abdominal pain (85–95% of patients); 40–90% of patients 
+have associated vomiting. The association of neurologic symptoms 
+such as mental status symptoms (50%), muscle weakness (50%), sen­
+sory loss (20%), and convulsions (15%); onset after puberty; and the 
+frequent association with menses or provocative drugs (sulfonamides, 
+phenobarbital) are suggestive. Elevated levels of porphobilinogen and 
+δ-­aminolevulinic acid in urine are suggestive, and decreased red blood 
+cell porphobilinogen deaminase is diagnostic.
+Familial Mediterranean Fever (Benign Paroxysmal Peritonitis, 
+Periodic Peritonitis, Polyserositis)
+Episodic attacks of abdominal pain with rapid development and 
+resolution (within 48 hours) of peritoneal signs (fever, vomiting, 
+absent bowel sounds) occurring in a child of Israeli or North African 
+descent should suggest this autosomal recessive diagnosis. Synovitis, 
+pleuritis, and an erysipelas-­like skin lesion are also characteristic. 
+The ESR is raised. Fifty percent of patients have their first attack 
+between 1 and 10 years of age; 90%, by age 20. Definitive genetic 
+testing is available for detection of the familial Mediterranean fever 
+gene.
+Dysautonomia
+Familial dysautonomia is an autosomal recessive disorder of the 
+sensory and autonomic nervous systems affecting children of Ash­
+kenazi Jewish descent. The gene for familial dysautonomia has been 
+identified, allowing for both prenatal diagnosis and identification 
+of carriers. Associated symptoms include disturbed swallowing, 
+drooling, frequent pneumonias, absence of overflow tearing, erratic 
+temperature control, skin blotching, postural hypotension, relative 
+indifference to pain, corneal anesthesia, breath-­holding spells, motor 
+incoordination, spinal curvature, and growth retardation. Glossal 
+fungiform papillae are also absent. The disease is diagnosed with 
+the intradermal histamine test or the conjunctival methacholine (or 
+pilocarpine) test. Management is complex and requires a multidisci­
+plinary team.
+Complications of Vomiting
+The complications of vomiting are outlined in Table 15.16. Their 
+importance is twofold. First, these complications must be promptly 
+treated, and second, there may be diagnostic implications.
+Metabolic Complications
+Dehydration results from decreased fluid intake because of anorexia 
+or nausea, as well as from the loss of secretions in the emesis. The elec­
+trolyte disturbance can vary depending upon the varying losses of gas­
+tric hydrogen chloride (HCl), pancreatic bicarbonate (HCO3), and GI 
+sodium chloride (NaCl). In high-­grade gastric outlet obstruction, pro­
+longed vomiting causes loss of gastric HCl and produces an increase 
+in plasma bicarbonate to compensate for loss of chloride. Potassium 
+and sodium are also lost in the vomitus and are subsequently wasted 
+by the kidneys when they accompany the renal excretion of bicar­
+bonate caused by the alkalosis. This leads to the classically described 
+hypochloremic hypokalemic metabolic alkalosis. In states of marked 
+alkalosis, urine pH is 7 or 8, and urinary sodium and potassium levels 
+are high, despite serum sodium and potassium depletion. Urine chlo­
+ride, however, remains low, reflecting the nonrenal losses of chloride. 
+Intravenous fluid therapy is often required, and must be designed with 
+an understanding of the sodium and potassium deficits. Preoperative 
+restoration of electrolyte imbalance reduces perioperative morbidity in 
+cases of gastric outlet obstruction.
+TABLE 15.15  Causes of Hematemesis
+Source of 
+Blood
+Lesion
+Clues Regarding 
+Source
+Nasopharynx, 
+respiratory
+Epistaxis
+Nosebleed history
+Hemoptysis
+Cough, other respiratory 
+symptoms
+Esophageal
+Varices
+Copious blood; splenomeg­
+aly, chronic liver disease
+Esophagitis, Barrett ulcer Heartburn
+Foreign body erosion
+Foreign body history
+Aortoesophageal fistula
+Copious blood; esophageal 
+intubation
+Duplication
+Gastroduodenal
+Mallory-­Weiss tear
+Retching and emesis before 
+hematemesis
+Peptic ulcer disease
+History: smoking, alcohol, 
+NSAIDs, H. pylori infection, 
+pain in relation to meals
+Gastritis, ulcer
+Duodenitis, ulcer
+Stress ulcer
+Critically ill patients, 
+extensive burns, increased 
+intracranial pressure.
+Vascular malformation 
+(Dieulafoy ulcer, AVM)
+Copious blood, recurrent (may 
+have a negative endoscopy)
+Aortoenteric fistula
+“Herald bleed,” arterial graft 
+or aneurysm
+Duplication
+Pyloric stenosis, web
+Vomiting containing food 
+from prior meal
+Hemobilia
+Trauma, gallstones, pain, 
+jaundice
+Coagulopathy (PT ↑, 
+PTT ↓)
+Vitamin K deficiency
+Newborn, fat malabsorption
+Inherited coagulopathies
+Specific factor deficiency
+Acquired coagulopathies
+Liver failure
+DIC
+Sepsis
+Drugs
+History of warfarin, couma­
+din intake
+Thrombocytopenia
+Hypersplenism
+Splenomegaly (Hct ↓, WBC ↓)
+Chemotherapy
+(Hct ↓, WBC ↓)
+DIC
+Sepsis
+Maternal
+Intrapartum
+Apt test
+Mastitis, cracked nipples
+Maternal history, Apt test
+Factitious
+Psychologic
+Affect, secondary gain
+Nonblood
+Red or brown food or 
+medicine
+Guaiac-­negative
+AVM, arteriovenous malformation; DIC, disseminated intravascular 
+coagulation; H. pylori, Helicobacter pylori; Hct, hematocrit; NSAIDs, 
+nonsteroidal antiinflammatory drugs; PT, prothrombin time; PTT, partial 
+thromboplastin time; WBC, white blood cell count.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+291
+CHAPTER 15  Vomiting and Regurgitation
+Nutritional Complications
+The nutritional deficits resulting from chronic vomiting and asso­
+ciated anorexia are obvious. No more than a day or two of fluid 
+therapy should take place without attention to nutritional needs. 
+Frequent, small, high-­carbohydrate feedings may minimize the 
+stimulation to vomit, but continuous nasogastric or nasojejunal 
+feedings are sometimes needed for cases of chronic vomiting. The 
+presence of metabolic or allergic disease should be considered 
+when the reintroduction of protein leads to relapse of symptoms. In 
+severely malnourished individuals, rapid reinstitution of nutrition 
+can lead to refeeding syndrome, which is characterized by meta­
+bolic disturbances such as low phosphate, potassium, and magne­
+sium, which, if severe enough, can be fatal. During refeeding the 
+insulin secretion is triggered in response to increased blood sugar, 
+thus increasing the synthesis of glycogen, protein, and fat. This pro­
+cess requires phosphate, potassium, and magnesium, the stores of 
+which are already low and get quickly depleted, leading to cardiac, 
+pulmonary, and neurologic complications. Gradual introduction of 
+calories and close monitoring of blood chemistry are therefore nec­
+essary during the early refeeding period.
+Mallory-­Weiss Tear
+This linear mucosal laceration in the juxtaesophageal gastric mucosa 
+usually occurs after prolonged forceful retching or vomiting. Invisible 
+radiographically, it is diagnosed endoscopically (if necessary). Mallory-­
+Weiss tears usually necessitate no treatment and supportive care.
+Peptic Esophagitis
+Esophagitis, similar to that resulting from gastroesophageal reflux, 
+may result from chronic vomiting from many causes. Diagnosed 
+endoscopically or histologically, it should be treated. The treatment of 
+esophagitis usually includes H2-­receptor antagonists or PPIs; proki­
+netic agents may also be needed.
+Therapy
+Therapy of vomiting starts with treatment of the cause, treatment of 
+complications, and treatment of behavioral aspects that may perpet­
+uate the vomiting. General supportive and more specific pharmaco­
+logic approaches to therapy are outlined in Tables 15.17 and 15.18. The 
+physician should be very careful about treating the vomiting symptom 
+without diagnosing and treating its cause. In several situations, diag­
+nostic procedures, such as Gastrografin enema for fecal obstructions 
+in cystic fibrosis, barium enema for intussusception, and endoscopy 
+with sclerotherapy for variceal hematemesis, are also therapeutic. As 
+noted, many causes of vomiting involve psychologic and higher corti­
+cal influences. In these cases, psychobehavioral and multidisciplinary 
+approaches are often essential to successful management. Such thera­
+pies are focused on returning the disabled child to proper functioning 
+and school attendance while eliminating secondary gain for vom­
+iting and reducing surrounding anxiety. Cognitive-­behavioral and 
+psychologic therapies may be helpful in isolation or with concurrent 
+pharmacotherapy.
+Antiemetic Drugs
+In situations of persistent vomiting, antiemetic drugs are useful to 
+reduce the metabolic and nutritional consequences and interrupt 
+vicious circles in which psychogenic factors may also participate. Since 
+multiple neurotransmitters and chemoreceptors are involved in emetic 
+TABLE 15.16  Complications of Vomiting
+Complication
+Pathophysiology
+History, Physical 
+Examination, and 
+Laboratory Studies
+Metabolic
+Fluid loss in emesis
+Dehydration, metabolic 
+acidosis
+HCl loss in emesis
+Alkalosis; hypochloremia
+Na, K loss in emesis
+Hyponatremia; hypokalemia
+Nutritional
+Emesis of calories and 
+nutrients
+Anorexia
+Malnutrition: “failure to 
+thrive”
+Mallory-­Weiss 
+tear*
+Retching → tear at lesser 
+curve of gastroesophageal 
+junction
+Forceful emesis → 
+hematemesis
+Esophagitis
+Chronic vomiting → 
+esophageal acid exposure
+Heartburn; hemoccult + 
+stool
+Aspiration
+Aspiration of vomitus, 
+especially in context of 
+obtundation
+Pneumonia; neurologic 
+dysfunction
+Shock
+Severe fluid loss in emesis 
+and/or accompanying 
+diarrhea
+Severe blood loss in 
+hematemesis
+Dehydration, metabolic 
+acidosis
+Blood volume depletion
+*Occasionally produces blood in the initial vomitus. Invisible radiograph­
+ically, it is diagnosed endoscopically (if necessary).
+HCl, hydrogen chloride; K, potassium; Na, sodium.
+TABLE 15.17  Supportive and 
+Nonpharmacologic Therapies for Vomiting 
+Episodes
+Disease
+Therapy
+All
+Treat cause: obstruction → operate; allergy → change 
+diet (± steroids); metabolic error → Rx defect; acid 
+peptic disease → H2RAs, PPIs, etc.
+Complications
+Dehydration
+IV fluids, electrolytes
+  Hematemesis
+Transfuse, correct coagulopathy
+  Esophagitis
+H2RAs, PPIs
+  Malnutrition
+NG or NJ drip feeding useful for many chronic conditions
+Meconium ileus
+Gastrografin enema
+DIOS
+Gastrografin enema; balanced colonic lavage solution 
+(e.g., GoLytely)
+Intussusception
+Barium enema; air reduction enema
+Hematemesis
+Endoscopic: injection sclerotherapy or banding of 
+esophageal varices; injection therapy, fibrin sealant 
+application, or heater probe electrocautery for selected 
+upper GI tract lesions
+Sigmoid volvulus
+Colonoscopic decompression
+Reflux
+Positioning; dietary measures (infants: rice cereal, 1 tbs/
+oz of formula)
+Psychogenic 
+components
+Psychotherapy; tricyclic antidepressants; anxiolytics (e.g., 
+diazepam: 0.1 mg/kg/t.i.d.–q.i.d. PO)
+DIOS, distal intestinal obstruction syndrome; GI, gastrointestinal; 
+H2RAs, histamine2-­receptor antagonists; IV, intravenous; NG, nasogas­
+tric; NJ, nasojejunal; PO, orally; PPIs, proton pump inhibitors; q.i.d., four 
+times a day; Rx, prescription; tbs, tablespoon; t.i.d., three times a day.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+292
+SECTION 4  Gastrointestinal Disorders
+pathways, most antiemetics can be broadly classified based on their 
+mechanism of action as follows:
+Serotonin receptor antagonists: Ondansetron and granisetron are 
+the most used drugs in this category and are available as both intra­
+venous and oral preparations. They act by blocking serotonin 5HT-­3 
+receptors at both peripheral and central levels. Side effects include pos­
+sible QTc prolongation.
+Dopamine receptor antagonists: Dopamine receptor antagonists 
+antagonize the D2-­receptor in the area postrema. Metoclopramide, 
+prochlorperazine, and promethazine are common drugs in this class. 
+Metoclopramide promotes foregut motility by other mechanisms, 
+while the latter two have additional anticholinergic and antihista­
+mine effects. Extrapyramidal symptoms (tardive dyskinesia, dysto­
+nia) are possible serious side effects. Domperidone is a peripheral 
+D2-­receptor antagonist and has antiemetic and promotility effects as 
+well.
+Anticholinergics: Scopolamine is an anticholinergic that antago­
+nizes the muscarinic receptor and is predominantly used to prevent 
+TABLE 15.18  Pharmacologic Therapies for Vomiting
+Drug Class/Generic
+Dosages 
+Mechanism
+Side Effects
+Indications
+5HT-3 Receptor* Antagonist
+ • Ondansetron
+0.15 mg/kg q6–8h IV/PO
+Action at CTZ and vagal 
+­afferents in gut
+Headache, QT prolongation 
+Chemotherapy induced, postop­
+erative, CVS 
+ • Granisetron
+10 μg/kg IV q6h
+Substituted* Benzamides
+ • Cisapride
+0.2–0.3 mg/kg t.i.d.–q.i.d. PO
+5HT-4 Rcp agonist in gut
+Diarrhea, abdominal pain, 
+headache
+GER, gastroparesis
+ • Metoclopramide
+0.1 mg/kg up to q.i.d. IM/IV/PO  D2 Rcp antagonist at CTZ, 
+5HT-4 agonist in gut
+Extrapyramidal reactions
+GER, gastroparesis, chemother­
+apy induced
+Antihistamines†
+ • Diphenhydramine
+1.25 mg/kg q6h PO/IV 
+Vestibular suppression, 
+anti-Ach effect, and H1 Rcp 
+antagonist
+Sedation, anticholinergic side 
+effects
+Motion sickness, CVS, chemo­
+therapy induced
+ • Hydroxyzine
+0.5 mg/kg q6h PO 
+Phenothiazines‡ 
+ • Promethazine
+0.25–0.5 mg/kg q4–6h
+PR/IM
+D2 receptor antagonist at CTZ, 
+H1 Rcp antagonist 
+Anticholinergic, extrapyramidal 
+side effects 
+Chemotherapy induced, CVS 
+ • Prochlorperazine 
+>10 kg: 0.1 mg/kg q6–8h PO/
+PR, max 10 mg/dose 
+Anticholinergic†
+ • Scopolamine 
+Vestibular suppression, anti-
+Ach effect on CNS 
+Sedation, anticholinergic side 
+effect 
+Prophylaxis of motion sickness 
+NK-1 Receptor Antagonists§
+ • Aprepitant 
+ • Fosaprepitant
+3-day regimen: 125, 80, 80 mg 
+1 q.d. PO/IV
+NK-1 Rcp antagonist in CTZ 
+Fatigue, dizziness, diarrhea
+Chemotherapy induced, CVS 
+Benzodiazepines†
+ • Lorazepam
+0.05–0.1 mg/kg/dose IV 
+Enhanced central GABAergic 
+inhibition inducing anxiolysis, 
+sedation
+Sedation, respiratory depres­
+sion
+Chemotherapy induced, CVS 
+adjunct 
+ • Diazepam
+0.1–0.3 mg/kg IV
+Max: <0.6 mg/kg/24 h
+Cannabinoids‡
+ • Dronabinol 
+>12 yr: 5 mg/m2/dose  q4–6h 
+PO 
+Unknown
+Disorientation, vertigo, hallu­
+cinations 
+Chemotherapy
+Corticosteroids‡
+ • Dexamethasone 
+Initial dose: 5–10 mg/m2 IV, 
+max 20 mg, then 5 mg/m2 
+q12h 
+Unknown 
+Hyperglycemia, mood lability, 
+gastritis
+Adrenal suppression, chemo­
+therapy induced 
+*High antiemetic activity.
+†Minimal antiemetic activity.
+‡Mild to moderate antiemetic activity.
+§Moderate to high antiemetic activity.
+Ach, acetylcholine; b.i.d., twice daily; CTZ, chemoreceptor trigger zone; CVS, cyclical vomiting syndrome; GER, gastroesophageal reflux; IM, intra­
+muscularly; IV, intravenously; max, maximum; PO, orally; q4–6h, every 4–6 hr; q6h, every 6 hr; q6–8h, every 6–8 hr; q.i.d., four times daily; Rcp, 
+receptor; t.i.d., three times daily.
+Modified from Li BUK, Kovacic K. Vomiting and nausea. In: Wyllie R, Hyams JS, Kay M, eds. Pediatric Gastrointestinal and Liver Disease. 5th ed. 
+Philadelphia: Elsevier; 2016:91.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+293
+CHAPTER 15  Vomiting and Regurgitation
+motion sickness. Common side effects include dry mouth, drowsiness, 
+and vision changes.
+Antihistamines: Antihistamines act on the H1-­ and H2-­receptors 
+and the most common reported side effect is drowsiness. Examples are 
+promethazine and diphenhydramine.
+NK-­1 antagonists: NK-­1 antagonists are inhibitors for the NK-­1 
+receptor, which prevents binding of substance P (a known emetogen). 
+Aprepitant (orally) and fosaprepitant (intravenously) are the com­
+monly used drugs in this category. NK-­1 antagonists were initially 
+developed for treatment of chemotherapy-­induced emesis but have 
+also proven beneficial in other etiologies such as CVS. Side effects are 
+uncommon but may include headache, dizziness, and hypersensitiv­
+ity reactions.
+Anxiolytics: Benzodiazepines are commonly used and particularly 
+helpful in anxiety-­induced emesis and when sedative effects are needed 
+as for acute/abortive therapy of CVS episodes.
+Cannabinoids: Cannabinoids are controversial antiemetics given 
+the possibility of psychedelic and addictive effects with long-­term use. 
+At this time, use is limited to chemotherapy-­induced nausea, vomiting, 
+and anorexia.
+Corticosteroids: Corticosteroids have limited use in chemothera­
+py-­ and irradiation-­induced nausea and vomiting and cases of adrenal 
+crisis. The mechanism of action as an antiemetic is not clear.
+Promotility agents: Erythromycin acts on the motilin receptors 
+located in the gastric smooth muscle, enhancing gastric motility. Cis­
+apride, a 5HT-­4-­receptor agonist, also facilitates gastric motility, but 
+due to its arrhythmogenic potential it is only available in the United 
+States via restricted, compassionate care protocols.
+In some settings, the diverse sites of action account for the useful 
+additive effects of these drugs. Optimal therapy for vomiting caused 
+by chemotherapy, for example, may include several agents to provide 
+blockade of the multiple receptor types. Serotonin and dopamine recep­
+tor antagonists are the most widely used general antiemetic agents.
+Although treatment for many functional GI and motility causes of 
+emesis is often empiric, disease-­specific therapies and guidelines are 
+available for certain syndromes. For example, treatment for CVS can be 
+divided into lifestyle modification, abortive or rescue therapy to prevent 
+progression from the prodromal to emetic phase, supportive therapy 
+during episodes, and prophylactic daily therapy to prevent future epi­
+sodes (see Table 15.13). Lifestyle changes include adequate fluid intake, 
+frequent calorie intake, and regimented sleep along with stress reduction.
+Supportive therapy includes dextrose 10% containing intrave­
+nous fluids to diminish catabolism, less stimulating environment, 
+and a combination of antiemetics and sedatives/anxiolytics to atten­
+uate symptoms. Many of these agents can also help abort an early 
+episode.
+   	 S U MMA RY  A N D  R E D  F L A G S
+Vomiting and regurgitation are commonly encountered in pediatrics 
+and can signify underlying problems with a wide array of body systems. 
+Although acute vomiting most commonly results from self-­resolving 
+infectious illnesses, the medical provider needs to carefully evaluate for 
+red flags that may herald serious emergencies and surgical conditions. 
+When emesis becomes chronic, the specific temporal pattern and asso­
+ciated signs and symptoms should direct further diagnostic work-­up. 
+Although therapy is often empiric, treatment trials should be tailored 
+to the underlying cause and the individual patient. Red flags are noted 
+in Table 15.6.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+293.e1
+BIBLIOGRAPHY
+General
+Gaines BA, Shultz BS, Morrison K, et al. Duodenal injuries in children: beware 
+of child abuse. J Pediatr Surg. 2004;39(4):600–602.
+Hornby PJ. Central neurocircuitry associated with emesis. Am J Med. 
+2001;111(Suppl 8A):106S–112S.
+Li B, Kovacic K. Vomiting and nausea. In: Wylie R, Hyams JS, Kay M, eds. 
+Pediatric Gastrointestinal and Liver Disease. 5th ed. Philadelphia: Elsevier; 
+2016:84–103.
+Martin TG, Burgess JL. Dreisbach’s Handbook of Poisoning. 13th ed. London: 
+Parthenon; 2001.
+Miranda A. Abdominal pain. In: Nelson Pediatric Symptom-­Based Diagnosis. 
+2nd ed. Elsevier; 2018:161–181.
+Nakade Y, Tsuchida D, Fukuda H, et al. Restraint stress delays solid gastric 
+emptying via a central CRF and peripheral sympathetic neuron in rats. Am 
+J Physiol Regul Integr Comp Physiol. 2005;288(2):R427–R432.
+O’Neill JA, Rowe MI, Grosfield JL, et al. Pediatric Surgery. 5th ed. St. Louis: 
+Mosby–Year Book; 1998.
+Rollins MD, Shields MD, Quinn RJM, et al. Value of ultrasound in differentiat­
+ing causes of persistent vomiting in infants. Gut. 1991;32:612–­614.
+Scriver CR, Beaudet AL, Sly WS, et al. The Metabolic and Molecular Bases of 
+Inherited Disease. 7th ed. New York: McGraw-­Hill Information Services; 
+1995.
+Singhi SC, Shah R, Bansal A, Jayashree M. Management of a child with vomit­
+ing. Indian J Pediatr. 2013;80:318–325.
+Gastrointestinal Obstruction
+Amin R, Martinez AM, Arca MJ. Diagnosis and treatment of gastric antral 
+webs in pediatric patients. Surg Endosc. 2019;33(3):745–749.
+Barone C, Carucci NS, Romano C. A rare case of esophageal dysphagia in 
+children: aberrant right subclavian artery. Case Rep Pediatr. 2016:1–4.
+Bernotavičius G, Saniukas K, Karmonaitė I, et al. Superior mesenteric artery 
+syndrome. Acta Medica Lituanica. 2016;23(3):155–164.
+Brzački V, Mladenović B, Jeremić L, et al. Congenital esophageal stenosis: a 
+rare malformation of the foregut. Nagoya J Med Sci. 2019;81(4):535–547.
+Carroll AG, Kavanagh RG, Ni Leidhin C, et al. Comparative effectiveness of 
+imaging modalities for the diagnosis and treatment of intussusception: a 
+critically appraised topic. Acad Radiol. 2017;24(5):521–529.
+Champoux A, Del Beccaro M, Nazar-­Stewart V. Recurrent intussusception: 
+risk features. Arch Pediatr Adolesc Med. 1994;148:474–478.
+Dall’Oglio L. Endoscopic management of esophageal stenosis in children: new 
+and traditional treatments. World J Gastrointest Endosc. 2016;8(4):215.
+Depaepe A, Dolk H, Lechat MF, et al. The epidemiology of tracheo-­oesophageal 
+fistula and oesophageal atresia in Europe. Arch Dis Child. 1993;68:743–748.
+Devane SP, Coombes R, Smith VV, et al. Persistent gastrointestinal symptoms 
+after correction of malrotation. Arch Dis Child. 1992;67:218–221.
+Dickerman JD, Colletti RB, Tampas JP. Gastric outlet obstruction in chronic 
+granulomatous disease of childhood. Am J Dis Child. 1986;140:567–580.
+Ford EG, Senac MO, Srikanth MS, et al. Malrotation of the intestine in chil­
+dren. Ann Surg. 1992;215:172–178.
+Gluckman S, Karpelowsky J, Webster AC, et al. Management for intussuscep­
+tion in children. Cochrane Database Syst Rev. 2017;6(6):CD006476.
+Green J, Carroll W, Gilchrist FJ. Interventions for treating distal intestinal 
+obstruction syndrome (DIOS) in cystic fibrosis. John Wiley and Sons Ltd. 
+Cochrane Database Syst Rev. 2018.
+Hansen CC, Søreide K. Systematic review of epidemiology, presentation, 
+and management of Meckel’s diverticulum in the 21st century. Medicine. 
+2018;97(35):e15154.
+Hernanz-­Schulman M. Imaging of neonatal gastrointestinal obstruction. Radi­
+ol Clin North Am. 1999;37:1163–1186.
+Hümmer-­Ehret BH, Rohrschneider WK, Oleszczuk-­Raschke K, et al. Eosino­
+philic gastroenteritis mimicking idiopathic hypertrophic pyloric stenosis. 
+Pediatr Radiol. 1998;28(9):711–713.
+Jayachandra S, Eslick GD. A systematic review of paediatric foreign body 
+ingestion: presentation, complications, and management. Int J Pediatr 
+Otorhinolaryngol. 2013.
+Macdessi J, Oates RK. Clinical diagnosis of pyloric stenosis: a declining art. 
+BMJ. 1993;306:553–555.
+Nihoul-­Fékété C, De Backer A, Lortat-­Jacob S, et al. Congenital esophageal 
+stenosis, a review of 20 cases. Pediatr Surg Int. 1987;2:86–92.
+North American Society for Pediatric Gastroenterology and Nutrition. J Pedi­
+atr Gastroenterol Nutr. 2001;32(2):S1–­S31.
+Pedersen RN, Calzolari E, Husby S, et al. Oesophageal atresia: prevalence, 
+prenatal diagnosis and associated anomalies in 23 European regions. Arch 
+Dis Child. 2015;97(3):227–232.
+Rami Reddy SR, Cappell MS. A systematic review of the clinical presentation, 
+diagnosis, and treatment of small bowel obstruction. Current Medicine 
+Group LLC. Curr Gastroenterol Rep. 2017:1.
+Rattan KN, Bansal S, Dhamija A. Gastrointestinal duplication presenting as 
+neonatal intestinal obstruction: an experience of 15 years at tertiary care 
+centre. J Neonatal Surg. 2016;6(1):5.
+Sathe M, Houwen R. Meconium ileus in cystic fibrosis. J Cystic Fibrosis. 
+2017;16:S32–S39.
+Soyer T, Yalcin S, Bozkaya D, et al. Transient hypertrophic pyloric stenosis due 
+to prostaglandin infusion. J Perinatol. 2014;34(10):800–801.
+Yen JB, Kong MS. Gastric outlet obstruction in pediatric patients. Chang Gung 
+Med J. 2006;29(4):401–405.
+Gastroesophageal Reflux
+Albanese CT, Towbin RB, Ullman I, et al. Percutaneous gastrojejunostomy 
+versus Nissen fundoplication for enteral feeding of the neurologically 
+impaired child with gastroesophageal reflux. J Pediatr. 1993;153:371–375.
+Grill BB. Twenty-­four-­hour esophageal pH monitoring: what’s the score? J 
+Pediatr Gastroenterol Nutr. 1992;14:249–251.
+Kiely EM. Surgery for gastro-­oesophageal reflux. Arch Dis Child. 
+1990;65:1591–1592.
+Orenstein SR. Update on gastroesophageal reflux and respiratory disease in 
+children. Can J Gastroenterol. 2000;14:131–135.
+Orenstein SR, Izadnia F, Khan S. Gastroesophageal reflux disease in children. 
+Gastroenterol Clin North Am. 1999;28:947–969.
+Orenstein SR, Shalaby TM, DiLorenzo C, et al. The spectrum of pediatric eo­
+sinophilic esophagitis beyond infancy: a clinical series of 30 children. Am J 
+Gastroenterol. 2000;95:1422–1430.
+Rosen R, Vandenplas Y, Singendonk M, et al. Pediatric gastroesophageal reflux 
+clinical practice guidelines: Joint Recommendations of the North Amer­
+ican Society for Pediatric Gastroenterology, Hepatology, and Nutrition 
+and the European Society for Pediatric Gastroenterology, Hepatology, and 
+Nutrition. Lippincott Williams and Wilkins. J Pediatr Gastroenterol Nutr. 
+2018;66(3):516–554.
+Motility
+Ates F, Vaezi MF. The pathogenesis and management of achalasia: current 
+status and future directions. Gut Liver. 2015;9(4):449–463.
+El-­Chammas K, Sood MR. Chronic intestinal pseudo-­obstruction. Clin Colon 
+Rectal Surg. 2018;31(2):99–107. https://doi.org/10.1055/s-­0037-­1609024.
+Kovacic K, Elfar W, Rosen JM, et al. Update on pediatric gastroparesis: a re­
+view of the published literature and recommendations for future research. 
+Neurogastroenterol Motil. 2020;32(3):e13780.
+Thapar N, Saliakellis E, Benninga MA, et al. Paediatric intestinal pseudo-­
+obstruction: evidence and consensus-­based recommendations from an 
+ESPGHAN-­led expert group. J Pediatr Gastroenterol Nutr. 2018;66(6):991–
+1019.
+van Lennep M, van Wijk MP, Omari T, et al. Clinical management of pedi­
+atric achalasia: a survey of current practice. J Pediatr Gastroenterol Nutr. 
+2019;68(4):521–526.
+Other Etiologies
+Anvari S, Miller J, Yeh CY, et al. IgE-­mediated food allergy. Clin Rev Allergy 
+Immunol. 2019;57(2):244–260.
+Avanoglu A, Tiryaki S. Embryology and morphological (mal)development of 
+UPJ. Front Pediatr. 2020;8:137.
+Barkin RM. Toxicologic emergencies. Pediatr Ann. 1990;19:629–633.
+Bray GP. Liver failure induced by paracetamol. BMJ. 1993;306:157–158.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+References
+293.e2
+Buck ML, Grebe TA, Bond GR. Toxic reaction to salicylate in a newborn 
+infant: similarities to neonatal sepsis. J Pediatr. 1993;152:955–958.
+Dutta SR, Hazarika I, Chakravarty BP. Abdominal epilepsy, an uncommon 
+cause of recurrent abdominal pain: a brief report. Gut. 2007;56(3):
+439–441.
+Forbes D. Cyclic vomiting syndrome. In: Hyman PE, ed. Pediatric Functional 
+Gastrointestinal Disorders. New York: Academy Professional Information 
+Services; 1999:5.1–5.15.
+Galli JA, Sawaya RA, Friedenberg FK. Cannabinoid hyperemesis syndrome. 
+Curr Drug Abuse Rev. 2011;4(4):241–249.
+Gordon GS, Wallace SJ, Neal JW. Intracranial tumours during the first two 
+years of life: presenting features. Arch Dis Child. 1995;73:345–347.
+Guarino A, Ashkenazi S, Gendrel D, et al. European Society for Pediatric Gas­
+troenterology, Hepatology, and Nutrition/European Society for Pediatric 
+Infectious Diseases evidence-­based guidelines for the management of acute 
+gastroenteritis in children in Europe: update 2014. J Pediatr Gastroenterol 
+Nutr. 2014;59(1):132–152.
+Harrington J, Gianos E, Stiefel M. Index of suspicion: case 3. Diagno­
+sis: Riley-Day syndrome (familial dysautonomia [FD]). Pediatr Rev. 
+2000;243(21):246–247.
+Lai SW, Rothenberg SS, Kay SM, et al. Outcomes of laparoscopic cholecys­
+tectomy for biliary dyskinesia in children. J Laparoendosc Adv Surg Tech. 
+2017;27(8):845–850.
+Li BUK, Balint JP. Cyclic vomiting syndrome: evolution in our understanding 
+of a brain-­gut disorder. Adv Pediatr. 2000;47:117–160.
+Murray HB, Juarascio AS, Di Lorenzo C, et al. Diagnosis and treatment of ru­
+mination syndrome: a critical review. Am J Gastroenterol. 2019;114(4):562–
+578.
+Olden KW, Crowell MD. Chronic nausea and vomiting: new insights and 
+approach to treatment. Curr Treat Options Gastroenterol. 2005.
+Owensby S, Taylor K, Wilkins T. Diagnosis and management of upper gastro­
+intestinal bleeding in children. J Am Board Fam Med. 2015;28(1):134–145.
+Parker A. Idiopathic intracranial hypertension (pseudotumor cerebri). In: 
+Kliegman RM, St. Geme III JW, Blum NJ, et al., eds. Nelson Textbook of 
+Pediatrics. 21st ed. Philadelphia: Elsevier; 2020;21.
+Passoni NM, Peters CA. Managing ureteropelvic junction obstruction in the 
+young infant. Front Pediatr. 2020. Frontiers Media S.A.
+Rasquin-­Weber A, Hyman PE, Cucchiara S, et al. Childhood functional gastro­
+intestinal disorders. Gut. 1999;45(II):II60–II68.
+Rowbottom L, McDonald R, Turner A, et al. An overview of radiation-­induced 
+nausea and vomiting. J Med Imaging Radiat Sci. Elsevier; 2016.
+Samuels J, Aksentijevich I, Torosyan Y, et al. Familial Mediterranean fever at 
+the millennium: clinical spectrum, ancient mutations, and a survey of 100 
+American referrals to the National Institutes of Health. Medicine (Balti­
+more). 1998;77:268–297.
+Santonicola A, Gagliardi M, Guarino M, et al. Eating disorders and gastro­
+intestinal diseases. Nutrients. 2019;11(15):3038. https://doi.org/10.3390/
+nu11153038.
+Sierra D, Wood M, Kolli S, et al. Pediatric gastritis, gastropathy, and peptic 
+ulcer disease. Pediatric Rev. 2018;39(11):542–549.
+Simon DA, Friesen CA, Schurman JV, et al. Biliary dyskinesia in children and 
+adolescents: a mini review. Front Pediatr. 2020;8:152.
+Tack J, Talley NJ, Camilleri M, et al. Functional gastroduodenal disorders. 
+Gastroenterology. 2006;130(5):1466–1479.
+Urits I, Orhurhu V, Jones MR, et al. Postoperative nausea and vomiting in pae­
+diatric anaesthesia. Turk J Anaesthesiol Reanim. 2020;48(2):88–95. https://
+doi.org/10.5152/TJAR.2019.67503.
+Waldron NH, Jones CA, Gan TJ, et al. Impact of perioperative dexamethasone 
+on postoperative analgesia and side-­effects: systematic review and meta-­
+analysis. Br J Anaesth. 2013;110(2):191–200. https://doi.org/10.1093/bja/
+aes431.
+Therapy
+Grunberg SM, Hesketh PJ. Control of chemotherapy-­induced emesis. N Engl J 
+Med. 1993;329:1790–1796.
+Hauser JM, Azzam JS, Kasi A. Antiemetic medications. [Updated 2020 May 
+23]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing.
+Israel DM, Hassall E. Omeprazole and other proton pump inhibitors: phar­
+macology, efficacy, and safety, with special reference to use in children. J 
+Pediatr Gastroenterol Nutr. 1998;27:568–579.
+Kovacic K, Sood M, Venkatesan T. Cyclic vomiting syndrome in children and 
+adults: what is new in 2018? Curr Gastroenterol Rep. 2018;20(10):46.
+Kulig K. Initial management of ingestions of toxic substances. N Engl J Med. 
+1992;326(25):1677–1681.
+Li BUK, Sunku BK. Vomiting and nausea. In: Pediatric Gastrointestinal and 
+Liver Disease. Elsevier; 2011:88–105.
+Nakade Y, Tsuchida D, Fukuda H, et al. Restraint stress delays solid gastric 
+emptying via a central CRF and peripheral sympathetic neuron in rats. Am 
+J Physiol Regul Integr Comp Physiol. 2005;288(2):R427–R432.
+Pinkerton CR, Williams D, Wootton C, et al. 5-­HT3 antagonist ondansetron—
+an effective outpatient antiemetic in cancer treatment. Arch Dis Child. 
+1990;65:822–825.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

@@ -1,0 +1,2216 @@
+841
+Most gait disturbances are benign and resolve with normal growth and 
+development. Others are pathologic in origin and necessitate treatment 
+(Table 45.1).
+GAIT CYCLE
+The normal gait cycle is described by foot placement. The gait cycle 
+begins with right heel strike; is followed by left toe-­off, left heel strike, 
+and right toe-­off; and ends with right heel strike. These five events 
+describe one gait cycle and include two phases: stance and swing. The 
+stance phase is the period of time during which one of the two feet is 
+on the ground. The swing phase is the period during which a limb is 
+being advanced forward without ground contact.
+Measuring the duration of the gait cycle makes it possible to calcu­
+late the time required for each of the five phases. During normal gait, 
+the duration of each phase is as follows: for weight acceptance, 11%; for 
+single limb stance, 39%; for weight release, 11%; and for swing phase, 
+39%. Velocity, cadence, step length, stride length, and step width may 
+be calculated from the timed and measured gait cycle.
+DEVELOPMENT OF GAIT
+Central nervous system maturation is necessary for the develop­
+ment of normal gait and accounts for the normal progression of 
+developmental milestones. The typical milestones for locomotion 
+include independent sitting at 6 months of age, crawling at about 9 
+months, walking without assistance at 12–15 months, and running 
+at 18 months. A normal 1-­year-­old child has a wide-­based stance 
+and a rapid cadence with short steps; the elbows are flexed and 
+reciprocal arm motion is not present. Foot strike occurs without an 
+initial heel strike. A 2-­year-­old child shows increased velocity, step 
+length, and diminished cadence in comparison with a 1-­year-­old 
+child. Most of the adult gait patterns are present in children by 3 
+years, with changes in velocity, stride, and cadence continuing to 7 
+years of age. The gait characteristics of a 7-­year-­old child are similar 
+to those of an adult.
+CLINICAL EVALUATION OF GAIT DISTURBANCES
+History
+The clinician should inquire about the pregnancy and delivery, the age 
+at which developmental milestones occurred, the presence of any sys­
+temic illnesses (including chronicity, fever, rash, weight loss, and other 
+organ system involvement), and whether there is a family history of 
+any congenital musculoskeletal abnormalities or syndromes. With 
+regard to the gait disturbance, it is important to inquire when it was 
+first observed, whether it is unilateral or bilateral, whether it is asso­
+ciated with any injuries or intercurrent systemic illnesses, if there is 
+associated pain or weakness, and whether there has been a history of 
+improvement or worsening with time.
+Physical Examination
+General Musculoskeletal Examination
+Although most of the findings in gait disturbances are confined to the 
+lower extremities, the upper extremities and spine may be involved 
+as part of an underlying disease process. A general assessment of all 
+extremities and the spine should be performed to identify any abnor­
+mal motion, tenderness, swelling, deformity, or increased warmth.
+The lower extremity musculoskeletal examination should begin 
+with the child ambulating in the examination room or adjacent hall­
+way. The child must be adequately undressed and be observed from a 
+distance while walking so that the trunk and lower extremities can be 
+clearly visualized. The positions of the thighs, knees, lower legs, and 
+feet should be observed during ambulation. Combining gait obser­
+vation with the history typically allows for diagnosing most of the 
+common gait disturbances such as torsional variations (in-­toeing and 
+out-­toeing), equinus gait (toe-­walking), and limping.
+Examination of the lower extremities should include measurement 
+of lower extremity lengths and assessment of the hip, knee, ankle, and 
+subtalar joints. The thighs, lower legs, and feet are inspected for evi­
+dence of asymmetry, soft tissue swelling, or injury. Palpation for ten­
+derness or areas of increased warmth is performed. The shape of the 
+foot is assessed for possible intrinsic deformity.
+Lower extremity length measurements. The most accurate method 
+of measuring lower extremity length is with radiographs; however, if 
+radiographs are not readily available, this assessment is best performed 
+by having the child stand on a firm, level surface with the examiner 
+standing behind the child and placing index fingers over the lateral 
+aspect of each of the child’s iliac crests. The presence or absence of 
+pelvic obliquity is observed, and blocks of various heights are placed 
+beneath the child’s foot on the short side until the pelvis is level. The 
+height of the blocks indicates the amount of lower extremity length 
+discrepancy. Measurements obtained by use of a tape measure can also 
+be performed but are less accurate. The most common measurements 
+using this method are from the anterior-­superior iliac spine to the 
+distal aspect of the medial malleolus. These landmarks are sometimes 
+difficult to palpate accurately, and there can be considerable error using 
+this method. The Galeazzi test can assess for femoral or tibial length 
+discrepancy or hip dislocation leading to a perceived limb length 
+disturbance (Fig. 45.1). Tibial length can also be assessed by having 
+the patient in a prone position and knees flexed to 90 degrees and then 
+observing the relative height of the feet.
+Joint assessment. The ranges of motion of the hips, knees, ankles, 
+and subtalar joints must be assessed. Hip flexion is measured, as are 
+any flexion contractures. With the hip in extension, the degrees of 
+abduction, adduction, internal rotation, and external rotation are 
+Gait Disturbances
+Alicia C. Zolkoske and Shayne D. Fehr
+45
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+842
+SECTION 8  Musculoskeletal Disorders
+measured, preferably with a goniometer, and are recorded. Hip rotation 
+is most accurately measured with the child in the prone position with 
+the knees flexed. Older children and adolescents are typically more 
+comfortable when measured in the supine position with hips and knees 
+flexed to 90 degrees. Knee flexion and extension, ankle dorsiflexion, 
+and plantar flexion, as well as subtalar motion, must be assessed and 
+recorded.
+Spinal evaluation. Spinal mobility should be assessed because 
+abnormalities such as spondylolysis, nerve root impingement, diskitis, 
+and tumors may manifest as a gait disturbance. The child’s ability to flex 
+forward and to reverse lumbar lordosis is a sign of normal mobility (see 
+Chapter 46). Areas of vertebral bone tenderness and muscle spasm are 
+determined by direct palpation.
+Neurologic Evaluation
+Many gait disturbances have a neurologic cause or association. The 
+neurologic examination should include assessment of unilateral 
+or bilateral involvement, the presence of paresthesia, and muscle 
+strength testing, sensory assessment (particularly to establish the 
+specific level or distribution of any potential sensory deficits), deep 
+tendon reflexes, and pathologic reflexes, such as the Babinski sign. 
+Abnormal rectal tone or bladder distention is concerning for a spinal 
+lesion.
+Radiographic Assessment
+The need for radiographic evaluation is based on the differential diag­
+nosis. For many gait disturbances, radiographic assessment is not 
+required. When necessary, plain radiographs of the lower extremities, 
+pelvis, or spine are obtained first, followed by special diagnostic stud­
+ies, such as anteroposterior (AP) leg length radiographs to assess for 
+discrepancy, technetium bone scan to localize occult lesions such as 
+avascular necrosis or stress fracture, and CT to characterize specific 
+lesions. MRI is helpful in the diagnosis of occult or soft tissue lesions, 
+such as infection, tumors, or metabolic bone disease, as well as other 
+pathologic structural processes of the spine, such as syrinx, tethered 
+cord, or disk anomaly.
+TABLE 45.1  Causes of Gait Disturbances
+Mechanical
+Acute injuries (accidental or nonaccidental)
+Overuse conditions (mainly sports-­related)
+Dysplastic lesions
+Limb length discrepancy
+Osseous
+Legg-­Calvé-­Perthes disease
+Osteochondritis dissecans of knee and talus
+Slipped capital femoral epiphysis
+Osteomyelitis
+Diskitis
+Osteoid osteoma or other primary bone tumor
+Articular
+Developmental hip dysplasia
+Septic arthritis
+Transient synovitis
+Rheumatic disease (JIA, SLE)
+Hemophilia-­related hemorrhage
+Ankylosis of a joint
+Neurologic
+Guillain-­Barré syndrome and other peripheral neuropathies
+Intoxication
+Cerebellar ataxia
+Brain tumor
+Lesion occupying spinal cord space
+Posterior column spinal cord disorders
+Myopathy
+Hemiplegia
+Complex regional pain syndrome
+Cerebral palsy
+Acute flaccid myelitis
+Hematologic/Oncologic
+Sickle cell pain crisis
+Leukemia, lymphoma
+Metastatic tumor
+Langerhans cell histiocytosis
+Other
+Soft tissue infection
+Myositis
+Fasciitis
+Bursitis
+Kawasaki disease
+Conversion disorder/functional disorder
+Gaucher disease
+Phlebitis
+Scurvy
+Rickets
+Peritonitis
+JIA, juvenile idiopathic arthritis; SLE, systemic lupus erythematosus.
+Galeazzi test
+Short tibia
+Short femur
+Fig. 45.1  The Galeazzi test assesses for developmental dysplasia of the 
+hip in infants and can be used to screen for femoral or tibial length dis­
+crepancy in older children and adults. With the patient in a supine posi­
+tion, the hips are flexed to 45 degrees and the knees to 90 degrees with 
+the feet flat on the examining table. Inequality in the height of the knees 
+is considered a positive Galeazzi sign and in infants is often related to 
+developmental dysplasia of the hip. The test may produce a false nega­
+tive if there is bilateral developmental dysplasia of the hip. For leg length 
+discrepancy, in instances of tibial shortening, the knee on the affected 
+side will be shifted inferiorly or caudally relative to the unaffected side 
+(left-­hand side of figure). In instances of femoral shortening, the knee 
+on the affected side is shifted cephalad (right-­hand side of figure). (From 
+Tillotson L, Fieraru G, Briant-­Evans T. Examination of the hip for MRCS 
+OSCE. Surgery [Oxford]. 2020;38:65–69, Fig. 3.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+843
+CHAPTER 45  Gait Disturbances
+Laboratory Tests
+Tests such as CBC with differential, ESR, and CRP level are indicated if 
+an infectious, rheumatic, or otherwise inflammatory condition is sus­
+pected. Rheumatoid factor and antinuclear antibody determinations 
+are less helpful in the diagnosis of rheumatic causes of gait disturbances 
+(see Chapter 44). Other tests may be indicated for the diagnosis of spe­
+cific disorders. Electromyography, nerve conduction studies, muscle 
+biopsies, and nerve biopsies are frequently necessary in the diagnosis of 
+myopathic or neuropathic disorders (see Chapter 35). Determinations 
+of creatine phosphokinase, aldolase, and aspartate aminotransferase 
+levels are important in the evaluation of striated muscle function and 
+should be ordered if an underlying myopathy or myositis is suspected.
+GAIT DISTURBANCES
+The three most common categories of gait disturbances of childhood 
+are torsional variations (in-­toeing and out-­toeing), toe-­walking (equi­
+nus gait), and limping.
+Torsional Variations
+The presence of in-­toeing or out-­toeing does not necessarily imply 
+an abnormality of the foot; rather, it indicates only the direction in 
+which the foot is pointing during ambulation. Torsional variations can 
+be located from the proximal (i.e., the hip) to the distal (i.e., the foot) 
+region in the involved extremity. Some causes, such as clubfeet, are 
+obvious, whereas others are subtle. Most torsional variations resolve 
+with normal growth and development. The common causes of in-­
+toeing and out-­toeing are listed in Table 45.2.
+Normal Developmental Alignment
+In utero positioning affects the alignment of the lower extremities of 
+infants. In the typical in utero position, the hips are flexed, abducted, 
+and externally rotated; the knees are flexed; and the lower legs are 
+internally rotated. The feet are in a supinated position against the pos­
+terolateral aspect of the opposite thigh. The musculoskeletal examina­
+tion of an infant characteristically shows 20-­ to 30-­degree hip flexion 
+contractures, 50–60 degrees of abduction, 80–90 degrees of external 
+rotation in extension, and minimal or no internal rotation. The knees 
+have 20-­ to 30-­degree flexion contractures, and internal tibial torsion is 
+present. These are normal findings. The increased external rotation of 
+the hip is caused not by femoral retroversion but rather by a posterior 
+hip capsule contracture, which begins to resolve at the time of indepen­
+dent ambulation.
+The combination of external rotation at the hip and internal rota­
+tion of the lower leg results in physiologic genu varum, a bowed 
+appearance of the lower extremities, particularly when in the weight-­
+bearing position, that reflects this physiologic torsional combination. 
+After the child attains independent ambulation, this bowed appear­
+ance improves over a 6-­ to 12-­month period with expected resolution 
+by 2 years of age in over 95% of children. Exaggerated bowing under 
+the age of 2 years, failure to progress through the anticipated develop­
+mental stages of limb alignment, asymmetry, pain, or deformity iso­
+lated to the tibia may be signs of pathologic genu varum warranting 
+further evaluation; the primary differential diagnosis of pathologic 
+genu varum consists of tibia vara (Blount disease), rickets and other 
+metabolic bone diseases, and asymmetric growth following infection 
+or trauma or in the setting of benign or malignant neoplasms. Ini­
+tial evaluation typically consists of anteroposterior radiographs of 
+the bilateral lower extremities with the knees moved into a forward-­
+facing position so as to minimize confounding from external rotation 
+at the knees. Tibia vara is characterized by pathologic disruption of 
+growth at the medial aspect of the proximal tibial physis and may be 
+described as infantile (presentation prior to age 4 years) or adolescent 
+(presentation in later childhood or adolescence); infantile tibia vara 
+is more often bilateral, whereas adolescent disease may be either uni­
+lateral or bilateral. In addition to bowing, gait observation may reveal 
+varus thrust, which consists of sudden lateral movement of the knee 
+during the stance phase. In tibia vara, the anteroposterior radiographs 
+of the bilateral lower extremities with the knees in a forward-­facing 
+position reveal medial beaking and downward sloping of the proxi­
+mal tibia metaphysis. Patients with rickets often have short stature 
+and may additionally present with pathologic fractures. Bone density 
+may be decreased on radiography, though bone mineralization may 
+appear normal as well; patients with severe rickets may have widened 
+and cupped physes and flared metaphyses. Initial serum evaluation 
+of rickets consists of determining levels of parathyroid hormone, 
+calcium, and inorganic phosphorus concentrations; investigations 
+for underlying liver or kidney disease should be undertaken as well. 
+Congenital pseudoarthrosis of the tibia and congenital pseudoar­
+throsis of the fibula are very rare forms of angular deformity of the 
+lower extremity that result in bowing; pathogenesis is believed to be 
+related to abnormalities of the periosteum. Both are associated with 
+neurofibromatosis type 1. Affected patients typically present not with 
+a pseudoarthrosis, but with anterolateral bowing of the lower leg that 
+is noted at birth. Rather, pseudoarthroses typically arise following 
+pathologic fracture and subsequent nonunion of the affected bone, 
+usually after the patient begins ambulating. Despite aggressive sur­
+gical management, nonunion and progressive deformity may persist.
+Physiologic or developmental genu valgum (“knock knees”) is 
+seen between 3 and 4 years of age. This is true genu valgum, an angular 
+phenomenon, and is not the result of torsional variations. This condi­
+tion resolves with growth and normal adult knee alignment is obtained 
+between 5 and 8 years of age. Newborns have a mean varus alignment 
+of 15 degrees that corrects to neutral alignment between 18 and 20 
+months of age. The maximum valgus of 12 degrees occurs by 3–4 years 
+of age. By 7 years of age, the valgus alignment corrects to that of a nor­
+mal adult (8 degrees in females, 7 degrees in males). Overall, 95% of 
+cases of developmental genu valgum resolve with growth, even in chil­
+dren with more pronounced findings. In some children, the condition 
+may not completely correct until adolescence or may resolve incom­
+pletely; in the absence of known trauma or underlying metabolic dis­
+ease, short stature, or infection, persistent bilaterally symmetric genu 
+valgum is considered idiopathic. The differential diagnosis of nonidio­
+pathic, bilaterally symmetric genu valgum includes rickets, other met­
+abolic diseases such as mucopolysaccharidosis, and skeletal dysplasias. 
+Pathologic genu valgum may also be unilateral; unilateral valgus defor­
+mity is often secondary to previous trauma, such as a nondisplaced 
+tibial metaphyseal fracture. Other etiologies include post-­traumatic or 
+postinfectious partial physeal arrest; conditions associated with benign 
+neoplasms, such as Ollier disease (multiple enchondromas) or multiple 
+hereditary exostosis; or asymmetric manifestations of metabolic dis­
+ease or skeletal dysplasia.
+TABLE 45.2  Common Causes of In-­Toeing 
+and Out-­Toeing
+In-­Toeing
+Out-­Toeing
+Medial (internal) femoral torsion
+Lateral (external) femoral torsion
+Medial (internal) tibial torsion
+Lateral (external) tibial torsion
+Metatarsus adductus
+Calcaneovalgus feet
+Talipes equinovarus (clubfoot)
+Hypermobile pes planus
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+844
+SECTION 8  Musculoskeletal Disorders
+Torsional Profile
+The torsional or rotational profile aids in the diagnosis and sequential 
+follow-­up of children with torsional variations (Fig. 45.2).
+Foot progression angle. The foot progression angle, which is the 
+direction of the long axis of the foot with regard to the direction in which 
+the child is walking (Fig. 45.3), should be measured. Inward rotation is 
+given a negative value and outward rotation a positive value. A normal 
+foot progression angle in children and adolescents is 10 degrees (range, 
+−3 to +20 degrees). The foot progression angle defines whether the gait 
+is normal or if there is an in-­toeing or out-­toeing gait. Recording the 
+angle allows for comparison during follow-­up evaluations.
+Hip rotation. Measuring hip rotation allows for indirect assessment 
+of femoral version. Typically, the femoral neck creates an anteriorly 
+directed angle with the transcondylar axis of the distal femur (Fig. 45.4). 
+This anterior angulation is known as femoral anteversion and decreases 
+from approximately 40 degrees at birth to 15 degrees by maturity. 
+Increased internal rotation at the hip indicates excessive anteversion; 
+increased external rotation at the hip indicates retroversion. Hip rotation 
+is assessed with the child in the prone position with the knees together 
+and flexed 90 degrees (Fig. 45.5). In this position, the hip is in neutral 
+alignment. Rotating the lower leg outwardly produces internal rotation 
+of the hip; rotating the lower leg inwardly produces external rotation 
+of the hip. A newborn hip in extension typically rotates externally 
+80–90 degrees and has a limited internal rotation of 0–10 degrees. By 1 
+20
+10
+0
+1
+3
+5
+7
+9
+11
+Age (years)
+B
+A
+13 15-19
+30’s 50’s
+2 SD
+Foot Progression Angle
+FPA
+Medial Rotation
+MR girls
+Lateral Rotation
+LR
+Thigh–Foot Angle
+TFA
+Medial Rotation
+MR boys
+2 SD
+70+
+–10
+80
+FPA
+R
+Rotational Profile
+L
+MR
+LR
+TFA
+Foot
+60
+40
+20
+1
+3
+5
+7
+9
+11
+Age (yr)
+C
+13 15-19
+30’s 50’s
+2 SD
+2 SD
+70+
+0
+80
+60
+40
+20
+1
+3
+5
+7
+9
+11
+Age (yr)
+D
+13 15-19
+30’s 50’s
+2 SD
+2 SD
+70+
+0
+40
+20
+0
+–20
+–40
+1
+3
+5
+7
+9
+11
+Age (yr)
+F
+13 15-19
+30’s 50’s
+2 SD
+2 SD
+70+
+100
+80
+60
+40
+20
+1
+3
+5
+7
+9
+11
+Age (yr)
+E
+13 15-19
+30’s 50’s
+2 SD
+2 SD
+70+
+Fig. 45.2  The torsional or rotational profile from birth to maturity. A, The rotational profile is assessed and 
+tracked at each visit. B, Mean foot progression angle (FPA) by age. C, Mean femoral medial rotation in girls 
+by age. D, Mean femoral medial rotation in boys by age. E, Mean lateral rotation by age. F, Mean thigh-­foot 
+angle. All graphs include 2 standard deviations from the mean. (From Morrissey RT, Weinstein SL, eds. Lovell 
+and Winter’s Pediatric Orthopaedics. 3rd ed. Philadelphia: Lippincott Williams & Wilkins; 1990.)
+Fig. 45.3  Foot progression angle. The long axis of the foot is compared 
+with the direction in which the child is walking. If the foot points out­
+ward, the angle is positive. If the foot points inward, the angle is neg­
+ative.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+845
+CHAPTER 45  Gait Disturbances
+year of age, there is approximately 30–40 degrees of internal rotation. 
+Hip rotation should be bilaterally symmetric. Asymmetric rotation is 
+often indicative of a hip disorder and necessitates radiographs of the 
+pelvis. The mean hip internal rotation in extension in older males is 
+50 degrees (range, 25–65 degrees), and that in females is 40 degrees 
+(range, 15–60 degrees).
+Thigh-­foot angle. With the child in the prone position and the 
+knees approximated and flexed 90 degrees, the long axis of the foot 
+in the neutral or simulated weight-­bearing position can be compared 
+with the long axis of the thigh (Fig. 45.6). Inward rotation is given 
+a negative value, whereas outward rotation is given a positive value. 
+Inward rotation is indicative of internal tibial torsion, and outward 
+rotation represents external tibial torsion. This angle must be accurately 
+measured and recorded. The mean thigh-­foot angle is 10 degrees 
+(range, −5 to +30 degrees) from middle childhood through adult life. 
+Infants have a mean thigh-­foot angle of −5 degrees (range, −35 to +40 
+degrees) as a consequence of the normal in utero position.
+Foot shape. With the child again in the prone position, the shape of 
+the foot is easily appreciated, allowing for assessment of children with 
+metatarsus adductus or a calcaneovalgus foot. The mobility of the ankle 
+and subtalar joint can also be evaluated with the child in this position.
+In-­Toed Gait
+Internal femoral torsion. Increased femoral anteversion, also 
+referred to as internal femoral torsion, is the most common cause of 
+in-­toeing in children 3 years of age or older and occurs twice as often in 
+girls as in boys. Many affected children have generalized ligamentous 
+laxity. Increased femoral anteversion is secondary to excessive or 
+persistent infantile femoral anteversion and is almost always a benign 
+condition that typically improves by 8–9 years of age. Severe anteversion 
+or lack of progressive improvement by late childhood warrants referral 
+to an orthopedic surgeon.
+Children with increased anteversion often run with a circumduc­
+tion gait secondary to internal rotation at the hip, and the parents may 
+30°
+Longitudinal axis
+of femoral neck
+Coronal plane of
+femur as expressed
+by transcondylar line
+Angle of
+anteversion
+Fig. 45.4  Femoral version. Typically, the femoral neck creates an anteri­
+orly directed angle with the transcondylar axis of the distal femur.
+Fig. 45.5  Hip rotation in extension. The child is in the prone position, with the knees flexed 90 degrees. The 
+lower leg is vertically oriented. This is considered the neutral position. Outward rotation (A) of the leg pro­
+duces internal hip rotation; inward rotation (B) produces external hip rotation.
+Fig. 45.6  Thigh-­foot angle. With the child in the prone position and the knees flexed and approximated, the 
+long axis of the foot can be compared with the long axis of the thigh. The long axis of the foot bisects the 
+heel and the third or middle toe. A, External tibial torsion produces excessive outward rotation. B, Normal 
+alignment is characterized by slight external rotation. C, Internal tibial torsion produces inward rotation.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+846
+SECTION 8  Musculoskeletal Disorders
+note that the child W-­sits rather than sitting cross-­legged (Fig. 45.7). 
+W-­sitting is of no concern developmentally, is the position of comfort 
+for the child, and does not cause or worsen in-­toeing in children. Chil­
+dren will typically stop sitting in this position after sufficient improve­
+ment in the internal torsion allows them to sit cross-­legged more 
+comfortably. Common femoral anteversion should not be viewed as a 
+reason for decreased athletic ability or as a risk factor for arthritis, bun­
+ions, or back pain. A relationship with patellofemoral pain has been 
+reported in some populations.
+Physical examination. Gait assessment reveals that the entire lower 
+extremity is inwardly rotated during ambulation. Foot progression angle 
+is typically negative and a circumduction-­type gait may be noted. Hip 
+rotation assessment characteristically reveals 80–90 degrees of internal 
+rotation in the prone, extended position (Fig. 45.8). External rotation, 
+as a consequence, is limited to 0–10 degrees. Features of generalized 
+ligamentous laxity are often present, including elbow, wrist, and finger 
+hyperextension; thumb hyperabduction; knee hyperextension; and 
+hypermobile pes planus.
+Radiographic evaluation. Radiographic evaluation of internal 
+femoral torsion is not necessary. Anteroposterior radiographs of the 
+pelvis are typically normal, but there may be the appearance of a 
+relatively vertical femoral neck angle, or coxa valga. If coxa valga is 
+noted, repeating the radiograph with the hips in 15 degrees of abduction 
+and 30–40 degrees internal rotation will typically reveal a normal 
+femoral neck angle. In more severe cases, MRI, CT, or ultrasonography 
+of the proximal and distal femur can be used to accurately measure the 
+degree of torsion.
+Internal tibial torsion. Internal tibial torsion is the most common 
+cause of in-­toeing in children younger than 2 years and is secondary to 
+normal in utero positioning. This condition is commonly seen during 
+the second year of life and may be associated with metatarsus adductus. 
+Significant improvement usually does not occur until the child begins 
+to pull up to standing and walk independently. Spontaneous resolution 
+with normal growth and development can be anticipated typically by 
+4–5 years of age. Rarely, persistent or severe internal tibial torsion in an 
+older child or adolescent may necessitate surgical derotation.
+Physical examination. The degree of tibial torsion can be assessed 
+by measuring the thigh-­foot angle (see Fig. 45.6). The measurements 
+should be recorded on each visit to the physician to document 
+improvement.
+Radiographic evaluation. Radiographic evaluation of internal 
+tibial torsion is not necessary. MRI and CT can assess the degree of 
+tibial torsion, but these are rarely required.
+Metatarsus adductus. Metatarsus adductus is the most common 
+congenital foot deformity, occurs equally in boys and girls, and is 
+bilateral in approximately 50% of cases. Metatarsus adductus has 
+hereditary tendencies and is more common in first-­born children, 
+most likely as a result of increased molding from the more rigid 
+primigravida uterus and abdominal wall. Up to 10% of children 
+with metatarsus adductus have developmental dysplasia of the hip. 
+Significant metatarsus adductus persisting or manifesting after 4 years 
+of age may require surgical correction.
+Physical examination. In metatarsus adductus, the forefoot is 
+adducted and occasionally supinated, while the hindfoot and midfoot 
+are normal. A visual line bisecting the heel should normally pass 
+through the second toe or second web space; in metatarsus adductus 
+this line intersects the forefoot more laterally. The lateral border of 
+the foot is convex, the base of the fifth metatarsal is prominent, and 
+the medial border of the foot is concave. There is usually an increased 
+interval between the first and second toes, with the great toe being 
+held in an inwardly rotated or varus position (Fig. 45.9). Ankle range 
+of motion is normal. Forefoot mobility, assessed by stabilizing the 
+Fig. 45.7  W-­sitting is the position of comfort for children with increased 
+femoral anteversion.
+Fig. 45.8  A, Clinical photograph of a 5-­year-­old girl demonstrating 
+internal femoral torsion. She has approximately 80 degrees of internal 
+rotation bilaterally. B, External rotation is limited to approximately 15 
+degrees, for a total arc of rotation of 90–95 degrees.
+Fig. 45.9  Foot shape. In the same position as for measurement of the 
+thigh-­foot angle, the shape of the foot can also be evaluated. In this 
+illustration, the left foot has normal alignment and the right foot demon­
+strates metatarsus adductus.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+847
+CHAPTER 45  Gait Disturbances
+hindfoot and midfoot in a neutral position and applying pressure 
+over the first metatarsal head with the opposite hand, can vary from 
+flexible to rigid. Most cases of flexible metatarsus adductus resolve by 
+several months of age; rigid deformities may require casting or surgical 
+correction. In the walking child with an uncorrected or partially 
+corrected metatarsus adductus, there is an in-­toed gait, abnormal shoe 
+wear, and possible discomfort from shoe pressure.
+Radiographic evaluation. Radiographs of the foot are not 
+necessary for routine, flexible metatarsus adductus. When obtained, 
+anteroposterior and lateral weight-­bearing radiographs demonstrate 
+adduction of the metatarsals at the tarsometatarsal joint and an 
+increased intermetatarsal angle between the first and second 
+metatarsals. The midfoot and hindfoot are usually normal. Radiographs 
+should be obtained if the deformity is rigid or if there are any suspected 
+abnormalities of the midfoot or hindfoot.
+Talipes equinovarus (clubfoot). Talipes equinovarus is classified as 
+either positional or congenital. Positional clubfoot is a normal foot 
+that has been held in the deformed position in utero, and which is 
+flexible on examination in the newborn nursery. Congenital clubfoot 
+represents a deformity not only of the foot but also of the entire lower 
+leg and is categorized as either idiopathic or syndromic. There is a 
+spectrum of severity, but clubfoot associated with neuromuscular 
+diagnoses or syndromes is typically rigid and more difficult to treat. 
+Clubfoot is also extremely common in patients with spinal dysraphism, 
+arthrogryposis, and chromosomal syndromes such as trisomy 18 and 
+chromosome 22q11.2 deletion syndrome.
+Congenital clubfoot, when diagnosed and treated in infancy with 
+serial casting, typically does not produce a gait disturbance. However, 
+foot contact pressures may remain high, indicating that gait is not 
+entirely normal following correction. In-­toeing secondary to persistent 
+internal tibial torsion is common after appropriate treatment. A mild 
+lower extremity length discrepancy of up to 2 cm may be seen in ado­
+lescence but usually does not produce a limp or necessitate treatment. 
+On occasion, residual muscle imbalance may cause the child to walk on 
+the lateral border of the foot, leading to discomfort and an antalgic gait 
+that may require further surgical correction.
+Out-­Toed Gait
+External femoral torsion. Femoral retroversion, also referred to 
+as external femoral torsion, is a rare disorder that usually causes no 
+significant functional impairment unless it is associated with a slipped 
+capital femoral epiphysis (SCFE). If the femoral retroversion is caused 
+by SCFE, the slip is treated surgically. On occasion, persistent femoral 
+retroversion following surgical treatment of SCFE can lead to ongoing 
+functional impairment, such as a severe out-­toed gait and difficulty 
+in approximating the knees in the sitting position, and may require 
+further surgical correction.
+Physical examination. Children with external femoral torsion 
+demonstrate limited internal rotation and excessive external rotation 
+when the hip is examined in the extended position. The hip externally 
+rotates 70–90 degrees, whereas internal rotation is only 0–20 degrees. 
+Idiopathic external femoral torsion is usually bilateral. If the deformity 
+is unilateral, especially in an obese older child or a young adolescent, 
+SCFE must be considered and evaluated.
+Radiographic evaluation. Anteroposterior and frog-­leg lateral 
+radiographs of the pelvis are necessary for any child or adolescent 
+presenting with external femoral torsion, especially one who is 
+obese, has atraumatic or referred anterior thigh or knee pain, or has 
+unilateral deformity. Approximately 20% of children with SCFE have 
+simultaneous bilateral involvement. The typical changes of SCFE 
+include widening of the physis and an abnormal relationship between 
+the capital femoral epiphysis (CFE) and the femoral neck. The femoral 
+head appears to be slipped inferiorly and posteriorly, but in actuality, 
+the femoral neck is displaced anteriorly and superiorly.
+External tibial torsion. External tibial torsion is common and is 
+secondary to a normal variation of in utero positioning in which the 
+plantar surface of the foot is against the wall of the uterus, forcing it into 
+a hyperdorsiflexed, everted position. This rotated alignment produces 
+external tibial torsion and typically an associated calcaneovalgus foot 
+(Fig. 45.10). When this alignment of the lower leg and foot is combined 
+with the exaggerated external rotation of the normal newborn hip, the 
+lower extremity appears to have severe out-­toeing and external rotation. 
+This condition follows the same clinical course as internal tibial torsion 
+in that significant improvement does not occur during the first year 
+of life. With the onset of independent ambulation, spontaneous 
+improvement begins and is typically complete by 2–3 years of age.
+Physical examination. External tibial torsion results in a positive 
+thigh-­foot angle of 30–50 degrees.
+Radiographic evaluation. Radiographic assessment for external 
+tibial torsion is not necessary.
+Calcaneovalgus foot. The calcaneovalgus foot is common in 
+newborns and is secondary to in utero positioning (see Fig. 45.10). 
+The foot is hyperdorsiflexed with varying degrees of eversion 
+and forefoot abduction. External tibial torsion is usually present. 
+Calcaneovalgus foot is typically unilateral but may occasionally be 
+bilateral. The hyperdorsiflexion of the foot usually resolves during the 
+first 3–6 months of life. On occasion, resistant feet may require passive 
+stretching, taping, or casting into a plantarflexed position. Usually, by 
+the time the child begins to pull to standing and walk independently, 
+the calcaneovalgus condition has resolved. The external tibial torsion, 
+however, persists and follows the same natural history as internal tibial 
+torsion.
+Physical examination. The involved extremity demonstrates out-­
+toeing, the dorsum of the foot can easily be brought into contact with 
+the anterior aspect of the lower leg, and the forefoot has an abducted 
+appearance. The increased dorsiflexion should not be confused with the 
+increased joint mobility of premature infants. The deformity is flexible, 
+and plantarflexion of the ankle is normal or almost normal. External 
+tibial torsion of 30–50 degrees is a common associated finding.
+Calcaneovalgus foot must be distinguished from the following 
+three conditions: (1) congenital vertical talus, (2) posteromedial 
+bowing of the tibia, and (3) neuromuscular abnormalities, such as 
+Fig. 45.10  A, A clinical photograph of a 2-­month-­old girl demonstrating 
+excessive external tibial torsion. This reverse or anterior thigh-­foot angle 
+shows approximately 50 degrees of external tibial torsion. B, A calca­
+neovalgus foot with forefoot abduction and increased hindfoot valgus 
+in the same infant. There is also hyperdorsiflexibility of the foot in the 
+ankle.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+848
+SECTION 8  Musculoskeletal Disorders
+paralysis of the gastrocnemius muscle. Differentiation is typically 
+based on physical examination findings, though radiographs may 
+be required. Congenital vertical talus results in a rocker-­bottom 
+appearance to the foot. The deformity in congenital vertical talus 
+is rigid with inability to achieve passive ankle plantarflexion, as 
+opposed to the flexible deformity seen with a calcaneovalgus foot. 
+In posteromedial bowing of the tibia, the apex of the deformity is in 
+the distal tibia, whereas the apex of the deformity in a calcaneovalgus 
+foot is located at the ankle.
+Radiographic evaluation. Simulated weight-­bearing anteroposterior 
+and lateral radiographs with forced plantarflexion of the foot may be 
+necessary to differentiate between the calcaneovalgus foot and a congenital 
+vertical talus. In a calcaneovalgus foot, the radiographs either are normal 
+or reveal an increase in hindfoot valgus. In the congenital vertical talus, 
+the hindfoot is in equinus, whereas the midfoot and the forefoot are 
+dorsally displaced, producing a rocker-­bottom appearance. The talus is 
+also noted to be out of plane with the metatarsals. Anteroposterior and 
+lateral radiographs of the tibia and fibula are necessary if there is bowing 
+of the lower leg.
+Hypermobile pes planus. Hypermobile, flexible, or pronated feet 
+are flatfeet, a common cause of concern to parents. Children with 
+this deformity are usually asymptomatic and have no limitation of 
+activities. An individual may present for concerns of out-­toeing 
+because of the overpronation of the midfoot and hindfoot, which 
+may allow the forefoot to become abducted. Flexible flatfeet are 
+also common in neonates and toddlers as a result of the associated 
+laxity in the bone-­ligament complexes of the feet and the abundant 
+fat in the area of the medial longitudinal arch. Most children with 
+flatfeet improve by 6 years of age. In the older child, flexible flatfeet 
+are usually secondary to generalized ligamentous laxity. Most older 
+children and adolescents with flexible flatfeet or hypermobile pes 
+planus are asymptomatic, though feet that are symptomatic with 
+vigorous physical activity usually respond readily to the use of 
+commercially available medial longitudinal arch supports. When 
+the child has excessive heel valgus, pronation, or abnormal shoe 
+wear that is unresponsive to a commercially or custom-­made arch 
+support, the use of a custom orthosis may be beneficial. Surgery is 
+rarely indicated.
+Physical examination. In the non–weight-­bearing position in the 
+older child with a flexible flatfoot, the normal medial longitudinal arch 
+is visible, but in the weight-­bearing position, the foot becomes pronated 
+with varying degrees of pes planus and hindfoot valgus. Instead of 
+bearing weight over the lateral column of the foot, the weight is shifted 
+medially, producing pronation. Subtalar motion is examined with the 
+ankle in the neutral position and should be normal or slightly increased. 
+Loss of subtalar motion may indicate a rigid flatfoot. Common causes 
+of rigid flatfeet include neuromuscular disorders, tarsal coalition, and 
+Achilles tendon contracture, which may present with external foot 
+progression due to associated limited subtalar motion. Rigid flatfeet 
+may also be a familial trait. Other joints, especially the elbows, hands, 
+and knees, usually demonstrate generalized ligamentous laxity in 
+patients with flexible flatfeet. Children with flexible flatfeet should be 
+evaluated for external tibial torsion.
+Radiographic evaluation. Radiographs of asymptomatic flexible 
+flatfeet are usually not indicated. Standing anteroposterior oblique 
+and lateral weight-­bearing radiographs are obtained, if necessary. 
+The most common indication is the presence of pain (Table 45.3). 
+Anteroposterior radiographs reveal an increase in the talocalcaneal 
+angle (>25 degrees) caused by the excessive hindfoot valgus. The lateral 
+view shows distortion of the normal straight-­line relationship between 
+the long axis of the talus and the first metatarsal and flattening of the 
+normal medial longitudinal arch.
+Equinus Gait (Toe-­Walking)
+Toe-­walking can be a normal finding in children up to 3 years of age. 
+Persistent toe-­walking thereafter or acquired toe-­walking at a later age 
+is considered abnormal and necessitates careful evaluation. The dif­
+ferential diagnosis for persistent or acquired toe-­walking includes the 
+following:
+	1.	 Neuromuscular disorders, such as cerebral palsy, Duchenne mus­
+cular dystrophy, or spinal cord abnormality resulting from a teth­
+ered spinal cord or diastematomyelia
+	2.	 Congenital Achilles tendon contracture (idiopathic toe-­walking)
+	3.	 Habitual toe-­walking
+	4.	 Lower extremity length discrepancy
+The differentiation of toe-­walking can usually be determined from 
+the history and the physical examination. The examiner should estab­
+lish the time at onset, the amount of time a child spends walking on his 
+or her toes, whether it can be voluntarily corrected, and whether there 
+has been improvement or worsening over time.
+Neuromuscular Disorders
+The neuromuscular disorder most likely to produce an equinus gait, 
+either unilateral or bilateral, is cerebral palsy. The most common 
+TABLE 45.3  Differential Diagnosis of Foot 
+Pain According to Age
+Age Group
+Diagnostic Considerations
+0–6 yr
+Poorly fitting shoes
+Fracture
+Puncture wound
+Foreign body
+Osteomyelitis
+Cellulitis
+Juvenile idiopathic arthritis
+Hair tourniquet
+Dactylitis
+Leukemia
+6–12 yr
+Poorly fitting shoes
+Trauma (fracture, sprain)
+Juvenile idiopathic arthritis (enthesopathy)
+Puncture wound
+Sever disease (calcaneal apophysitis)
+Accessory tarsal navicular bone
+Hypermobile flatfoot
+Tarsal coalition
+Oncologic (Ewing sarcoma, leukemia)
+12–18 yr
+Poorly fitting shoes
+Stress fracture
+Trauma (fracture, sprain)
+Foreign body
+Ingrown toenail
+Metatarsalgia
+Plantar fasciitis
+Achilles tendinopathy
+Accessory ossicles (navicular, os trigonum)
+Tarsal coalition
+Avascular necrosis of metatarsal (Freiberg infarction) or 
+navicular (Kohler disease) bones
+Plantar warts
+From Marcdante K, Kliegman R, eds. Nelson Essentials of Pediatrics. 
+7th ed. Philadelphia: Saunders; 2015.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+849
+CHAPTER 45  Gait Disturbances
+type of cerebral palsy is spastic diplegia, a disorder in which the lower 
+extremities are more involved than the upper extremities. Prematurity 
+is a common risk factor for spastic diplegia. It can be symmetric or 
+asymmetric, with one side being slightly more involved than the other. 
+Spastic diplegia tends to produce a bilateral equinus gait. Spastic hemi­
+plegia, in which only one side is involved, is usually caused by birth 
+trauma (asphyxia), perinatal stroke, or underlying congenital malfor­
+mation and results in unilateral toe-­walking.
+Acquired or late-­onset toe-­walking is usually a result of a devel­
+oping neuromuscular disorder, including hereditary and acquired 
+peripheral neuropathies. Weakness and sensory changes in periph­
+eral neuropathies tend to progress in a distal-­to-­proximal fashion (see 
+Chapter 35). Dystrophinopathies, such as Duchenne muscular dystro­
+phy, tend to produce proximal weakness first, though can also result in 
+toe-­walking (see Chapter 35). As fat and fibrous tissues replace muscle, 
+equinus and other contractures occur. There is usually a history of pro­
+gressive clumsiness and frequent episodes of falling. The diagnosis of 
+muscular dystrophy is usually made when the child is between 3 and 
+5 years of age. The diagnosis is suggested by markedly elevated cre­
+atine kinase (CK) levels and is confirmed by muscle biopsy or genetic 
+testing. In a spastic equinus gait without contracture, physical therapy 
+and orthoses (daytime, nighttime, or both) may be beneficial. If a con­
+tracture has developed, serial casting may be performed in young chil­
+dren, whereas surgical lengthening of the Achilles is usually necessary 
+in older children.
+Physical examination. The examination of a child with toe-­walking 
+secondary to cerebral palsy reveals either an Achilles contracture 
+or a spastic equinus gait without contracture, as well as abnormal 
+neurologic findings. These findings include increased muscle tone, 
+spasticity, hyperactive deep tendon reflexes, and pathologic reflexes, 
+such as a positive Babinski sign. Hamstring tightness, in addition to 
+ankle equinus, may be a subtle sign of underlying mild cerebral palsy.
+Children with peripheral neuropathy tend to have mixed motor and 
+sensory findings that develop in a distal-­to-­proximal fashion. Children 
+with Duchenne muscular dystrophy typically demonstrate pseudo­
+hypertrophy of the calves in addition to equinus contracture. They 
+have proximal muscle weakness first, and then generalized weakness, 
+and perhaps decreased or absent upper extremity and patellar tendon 
+reflexes, depending on the stage of progression. Ankle reflexes are usu­
+ally preserved.
+Radiographic evaluation. Radiographic evaluation of a child 
+with toe-­walking is rarely necessary. MRI of the brain and spine 
+is occasionally required during the evaluation of a possible 
+neuromuscular disorder.
+Other testing. Dynamic electromyography, nerve conduction 
+studies, and gait analysis studies can be helpful in distinguishing among 
+toe-­walking caused by mild cerebral palsy, neuropathy, myopathy, or a 
+congenital Achilles contracture. Serum muscle enzyme (CK, aspartate 
+aminotransferase, and aldolase) levels and muscle biopsies are required 
+for children with suspected Duchenne muscular dystrophy or other 
+myopathies. Targeted gene panels or genomic sequencing, as well as 
+functional and genetic mitochondrial studies, can assist in establishing 
+the etiology of neuromuscular disorders.
+Lower Extremity Length Discrepancy
+Lower extremity length discrepancy is a common cause for a unilat­
+eral equinus gait in older children and adolescents. Usually, mild dis­
+crepancies of less than 2 cm can be adequately compensated for during 
+normal gait with minimal, if any, limping or toe-­walking. Greater dis­
+crepancies may result in toe-­walking and may require surgical correc­
+tion. The differential diagnosis of a lower extremity length discrepancy 
+is extensive (Table 45.4).
+Physical examination. Examination of a child with a lower 
+extremity length discrepancy shows shortness of the involved 
+extremity; this can be measured by placing blocks of various heights 
+beneath the foot until the pelvis is level. The range of motion of the 
+TABLE 45.4  Causes of Lower Extremity 
+Length Discrepancy
+Shortening
+Lengthening
+Congenital
+Congenital
+Hemiatrophy*
+Skeletal dysplasias
+Short femur
+Proximal focal femoral deficiency*
+Fibular, tibial hemimelia
+Developmental dysplasia of the hip*
+Hemihypertrophy*
+Local vascular malformation
+Tumor: Developmental
+Tumor: Developmental
+Neurofibromatosis
+Multiple exostosis
+Enchondromatosis (Ollier disease)
+Osteochondromatosis
+Fibrous dysplasia (Albright syndrome)
+Punctate epiphyseal dysplasia
+Dysplasia epiphysealis hemimelica 
+(Trevor disease)
+Radiation therapy before skeletal 
+maturity (physeal arrest)*
+Resection of benign or malignant 
+neoplasm
+Neurofibromatosis
+Soft tissue hemangioma
+Arteriovenous malformation
+Hemihypertrophy with Wilms 
+tumor
+Aneurysm
+Infection
+Infection: Inflammation
+Osteomyelitis*
+Septic arthritis
+Tuberculosis
+Metaphyseal osteomyelitis
+Rheumatoid arthritis
+Hemarthrosis (hemophilia)
+Trauma
+Trauma
+Physeal injury*
+Failed joint replacement
+Osteotomy, atrophic nonunion
+Overlapping, malposition of fracture 
+fragments*
+Burns
+Metaphyseal, diaphyseal fracture
+Diaphyseal operations (bone 
+grafts, osteosynthesis, 
+periosteal stripping)
+Neuromuscular Disease
+Poliomyelitis
+Cerebral palsy*
+Myelomeningocele
+Peripheral neuropathy
+Focal cerebral lesions (hemiplegia)
+Other
+Legg-­Calvé-­Perthes disease*
+Slipped capital femoral epiphysis
+Russell Silver syndrome
+Klippel-Trenaunay-Weber syndrome
+*Common.
+Modified from Moseley C. Leg-­length discrepancy. Pediatr Clin 
+North Am. 1986;33(6):1385; Tachdjian M. Pediatric Orthopedics. 2nd 
+ed. Philadelphia: WB Saunders; 1990; reprinted and modified from 
+Behrman RE, ed. Nelson Textbook of Pediatrics. 14th ed. Philadelphia: 
+WB Saunders; 1992:1702.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+850
+SECTION 8  Musculoskeletal Disorders
+joints of the involved extremity, especially of the hips, must be assessed. 
+The neurologic examination is also important. Children with subtle 
+neurologic disorders, such as cerebral palsy, may also have a very mild 
+lower extremity length discrepancy that contributes to an equinus gait.
+Radiographic evaluation. Children with a lower extremity length 
+discrepancy require radiographic assessment. Lower extremity lengths 
+are typically measured radiographically by one of several methods, 
+including the teleoroentgenogram, orthoroentgenogram, scanogram, 
+and low-­dose biplanar radiography. Digital teleoroentgenograms and 
+orthoroentgenograms are currently preferred, but low-­dose biplanar 
+radiography is becoming more commonplace. The teleoroentgenogram 
+is a single radiographic exposure of both lower extremities in the standing 
+position. Limb length can be measured using tools within the digital 
+radiography software. Advantages include single exposure and detection 
+of angular deformities. The orthoroentgenogram consists of overlapping 
+exposures centered on the hips, knees, and ankles on a long cassette. Like 
+the teleoroentgenogram, an advantage of this type of radiograph is that it 
+shows associated angular deformities. A scanogram consists of three strip 
+exposures of the hips, knees, and ankles on a standard-­sized cassette with 
+a radiographic ruler adjacent to the extremity. This is an accurate method 
+of assessing limb length but does not demonstrate angular deformities. 
+Low-­dose biplanar radiography is a three-­dimensional imaging method 
+with superior accuracy and decreased radiation exposure but requires 
+skilled interpretation to correctly align the limbs for computer-­assisted 
+measurement. CT-­based measurement is accurate but is not commonly 
+used secondary to the amount of radiation exposure required. 
+Radiographs of the left hand and wrist for bone age are also obtained to 
+assess when skeletal maturity will occur.
+Habitual Toe-­Walking
+Habitual toe-­walking occurs in a child who is walking on their toes 
+voluntarily. Toe-­walking occurs relatively commonly in young walkers. 
+History and physical examination findings are entirely normal; this is a 
+diagnosis of exclusion. The treatment of habitual toe-­walking is obser­
+vation. As the child becomes heavier and the central nervous system 
+matures, the toe-­walking should resolve.
+Physical examination. The findings in the examination of the child 
+with habitual toe-­walking are normal. The ankle has a full range of motion, 
+and there is no evidence of an underlying neuromuscular disorder.
+Radiographic evaluation. Radiographic evaluation is not indicated.
+Idiopathic Toe-­Walking
+Idiopathic toe-­walking is defined as the presence of an equinus gait in 
+a child over 2 years of age with or without Achilles tendon contracture 
+in the absence of other etiologies, including habitual toe-­walking. The 
+birth and developmental history and the neurologic findings are usu­
+ally normal. However, mild developmental delays, especially in speech 
+and in fine and gross motor skills, are seen in some children, as are 
+possible deficits in sensory processing. A family history of Achilles 
+contracture, male predominance, and learning disabilities are com­
+mon findings. Muscle biopsy samples have shown an increase in type 
+I fibers, suggesting a neuropathic process. Serial casting typically leads 
+to resolution, though, in some children, surgical lengthening of the 
+Achilles tendon may be required.
+Physical examination. If present, Achilles tendon contracture 
+leads to an inability to dorsiflex the foot to the neutral or plantigrade 
+position. Examination of the ankle shows a 10-­ to 15-­degree fixed 
+equinus contracture. The assessment of an Achilles contracture should 
+be performed with the hindfoot held in a slightly supinated position 
+to bring the calcaneus beneath the talus. If this position is not used, 
+dorsiflexion of the foot produces hindfoot valgus with the appearance 
+of more dorsiflexion than is actually present. Dorsiflexion should 
+be assessed with knee in flexion and extension to evaluate tension 
+in the gastrocnemius. In congenital Achilles contractures, no other 
+musculoskeletal or neurologic abnormalities are present.
+Radiographic evaluation. Radiographs are not necessary unless an 
+associated abnormality within the foot is thought to be present. Should 
+this occur, anteroposterior and lateral weight-­bearing radiographs of 
+the foot should be obtained.
+Limping
+Limping is categorized as either painful (antalgic gait) or nonpain­
+ful (Trendelenburg gait), depending on the length of the stance phase. 
+With an antalgic gait, the stance phase is shortened because the child 
+decreases the time spent on the painful extremity. In a Trendelenburg 
+gait (Fig. 45.11), which indicates underlying proximal muscle weakness 
+(e.g., muscular dystrophy) or hip instability (e.g., developmental hip 
+dysplasia), the stance phase is the same for the involved and uninvolved 
+sides, but the child leans over the involved side to shift the center of grav­
+ity for balance. If the disorder is bilateral, it produces a waddling gait. 
+The differential diagnosis is extensive (Table 45.5). Most causes involve 
+the lower extremity, but spinal disorders can also produce limping or dif­
+ficulty walking, especially if there is spinal cord, nerve root, or peripheral 
+nerve involvement, as can intraabdominal pathology, such as appendici­
+tis or torsion of the testes or ovaries. Painful (antalgic) gaits are predom­
+inantly caused by trauma, infection, neoplasia, and rheumatic disorders. 
+Trendelenburg gaits are generally caused by congenital, developmental, 
+or neuromuscular disorders. Thus, antalgic gaits typically result from 
+acute disorders, whereas Trendelenburg gaits usually result from chronic 
+disorders. The type of gait, the presence or absence of systemic symp­
+toms, and the anatomic location of the symptoms can usually be deter­
+mined from the history and physical examination findings.
+Antalgic Gait
+Congenital origin: Tarsal coalition. Tarsal coalition, also called 
+peroneal spastic flatfoot, is characterized by a painful, rigid valgus 
+Fig. 45.11  Trendelenburg gait. With functional weakness of the hip 
+abductor muscles, it is difficult to support the body’s weight on the 
+affected side; the pelvis tilts down and away from the weak side, and 
+the patient leans toward the affected side.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+851
+CHAPTER 45  Gait Disturbances
+TABLE 45.5  Differential Diagnosis of Limping in Children
+Age Group
+Diagnostic Considerations
+Early walker: 
+1–3 yr of age
+Painful Limp
+Septic arthritis and osteomyelitis
+Iliopsoas abscess
+Testicular torsion
+Ovarian torsion
+Transient synovitis
+Occult trauma (“toddler’s fracture”)
+Nonaccidental trauma
+Intervertebral diskitis
+Malignancy
+Painless Limp
+Developmental dysplasia of the hip
+Neuromuscular disorder
+Cerebral palsy
+Stroke
+Lower extremity length inequality
+Child: 3–10 yr 
+of age
+Painful Limp
+Septic arthritis, osteomyelitis, myositis
+Iliopsoas abscess
+Testicular torsion
+Ovarian torsion
+Transient synovitis
+Trauma
+Discoid meniscus
+Rheumatic disorders
+Juvenile idiopathic arthritis
+Intervertebral diskitis
+Malignancy
+Age Group
+Diagnostic Considerations
+Child: 3–10 yr of 
+age—cont’d
+Painless Limp
+Developmental dysplasia of the hip
+Legg-­Calvé-­Perthes disease
+Lower extremity length inequality
+Neuromuscular disorder
+Polio
+Cerebral palsy
+Stroke
+Muscular dystrophy (Duchenne)
+Adolescent: 
+11 yr of age to 
+maturity
+Painful Limp
+Septic arthritis, osteomyelitis, myositis
+Iliopsoas abscess
+Testicular torsion
+Ovarian torsion
+Trauma
+Discoid meniscus
+Rheumatic disorder
+Slipped capital femoral epiphysis: acute; unstable
+Osgood-­Schlatter disease
+Chondrolysis
+Malignancy
+Nerve entrapment syndromes
+Painless Limp
+Slipped capital femoral epiphysis: chronic; stable
+Developmental dysplasia of the hip: acetabular dysplasia
+Lower extremity length inequality
+Neuromuscular disorder
+Nerve entrapment syndrome
+Hereditary neuropathy with liability to pressure palsies
+Stroke
+From Marcdante K, Kliegman R, eds. Nelson Essentials of Pediatrics. 7th ed. Philadelphia: Saunders; 2015.
+or pronation deformity of the midfoot and hindfoot, in association 
+with peroneal muscle spasm but without true spasticity. This condition 
+represents a congenital fusion or failure of segmentation between two 
+or more tarsal bones. However, any condition that alters the normal 
+motion of the subtalar joint may produce the clinical appearance 
+of a tarsal coalition. Thus, congenital malformation, inflammatory 
+disorders, infection, neoplasms, and trauma involving the subtalar 
+joint can manifest with pain, limping, or other symptoms similar to 
+those of a tarsal coalition.
+The most common coalitions occur between the calcaneus and 
+navicular (calcaneonavicular) and the middle or medial facet between 
+the talus and calcaneus (talocalcaneal). Coalitions can be fibrous, carti­
+laginous, or osseous. The incidence of tarsal coalition is approximately 
+1%, and it appears to be inherited as an autosomal dominant trait. 
+Approximately 60% of calcaneonavicular and 50% of talocalcaneal coa­
+litions are bilateral. Casting and orthotics may provide some relief of 
+symptoms, though surgical repair is typically required.
+Physical examination. The onset of symptoms is insidious and 
+usually occurs during late childhood or early adolescence. Although 
+mild limitation of subtalar motion and a valgus or pronated hindfoot 
+may have been present since early childhood, the onset of symptoms 
+varies with the age at which the fibrous or cartilaginous coalition begins 
+to ossify and further decrease motion. The talonavicular coalition 
+ossifies between the ages of 3 and 5 years, the calcaneonavicular 
+coalition between 8 and 12 years, and the middle facet talocalcaneal 
+coalition between 12 and 16 years of age. The pain is typically felt 
+laterally in the hindfoot and radiates proximally along the lateral 
+malleolus and distal fibula into the peroneal muscle region. Symptoms 
+are usually aggravated by sports or other vigorous activities and are 
+relieved by rest. The foot is pronated in both the weight-­bearing and 
+the non–weight-­bearing positions. Subtalar joint motion is diminished 
+or absent, and attempts at motion produce pain.
+Radiographic evaluation. The diagnosis of tarsal coalition 
+is made radiographically. The initial radiographs should include 
+anteroposterior, oblique, and lateral weight-­bearing radiographs of 
+the foot. The oblique view is helpful for identifying changes at the 
+calcaneonavicular joint. Beaking of the anterior aspect of the talus in 
+the lateral view suggests a talocalcaneal coalition. Axial views of the 
+hindfoot can be useful in the diagnosis of a middle facet talocalcaneal 
+coalition. CT has traditionally been the diagnostic procedure of choice 
+for coalition, but MRI is useful for detecting fibrous coalitions. Either 
+CT or MRI should be performed on all coalitions for surgical planning 
+because more than one coalition can be present.
+Developmental origin
+Legg-­Calvé-­Perthes disease. Legg-­Calvé-­Perthes disease (LCPD) is 
+idiopathic avascular necrosis of the CFE and its associated complications 
+in an immature, growing child. This disorder is caused by an interruption 
+of the blood supply to the CFE, occurs predominantly in males (up to 5:1), 
+and is bilateral in approximately 20% of affected children. Children with 
+LCPD have delayed skeletal or bone age, disproportionate growth, and 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+852
+SECTION 8  Musculoskeletal Disorders
+mildly short stature. Secondary osteonecrosis is seen in patients with sickle 
+cell anemia. LCPD is a local, self-­healing disorder. Prevention of femoral 
+head deformity and secondary degenerative osteoarthritis in adulthood is 
+the only indication for treatment.
+Physical examination. The symptomatic onset of LCPD typically 
+occurs between 2 and 12 years of age, at a mean age of 7 years. Younger 
+age at presentation is a positive prognostic indicator. Most of these 
+children present to care with a limp and mild or intermittent pain in the 
+anterior thigh or knee, such that this condition is often referred to as a 
+“painless limp.” Pertinent early physical findings include antalgic gait; 
+muscle spasm with mild restriction of hip motion, especially abduction 
+and internal rotation; proximal thigh atrophy; and mild short stature.
+Radiographic evaluation. The diagnosis is typically made from 
+anteroposterior and frog-­leg lateral radiographs of the pelvis (Fig. 
+45.12). The radiographic characteristics can be divided into five 
+distinct stages, depending on the interval from the onset of symptoms: 
+(1) cessation of CFE growth, (2) subchondral fracture, (3) resorption 
+or fragmentation, (4) reossification, and (5) healed, or residual. The 
+symptoms are usually most pronounced during the phase of the 
+subchondral fracture and fragmentation. A child with LCPD has the 
+potential for collapse and extrusion of the femoral head, which results 
+in a permanent deformity. If plain radiographs do not demonstrate 
+LCPD in suspected cases, a bone scan or MRI is helpful.
+Slipped capital femoral epiphysis. SCFE is the most common 
+adolescent hip disorder. It generally occurs in obese adolescents with 
+delayed skeletal maturation, or in tall and thin adolescents who have 
+had a recent growth spurt. SCFE can also occur as a complication of an 
+underlying endocrine disorder, such as hypothyroidism and pituitary 
+disorders. When SCFE occurs before puberty, a hormonal abnormality 
+or systemic disorder should be suspected. The histopathologic features 
+of SCFE indicate that mechanical factors are the ultimate cause of 
+slippage. The initial abnormality is most likely secondary to endocrine 
+changes during early adolescence. Obesity produces high shear forces 
+across a weakened and obliquely oriented CFE, resulting in slippage. 
+Surgical stabilization is required.
+Physical examination. The physical findings depend on the degree 
+of slippage and the classification. The disorder is classified as either 
+stable or unstable. In an unstable or acute SCFE, the CFE is separated 
+from the femoral neck. This is extremely painful, and the adolescent is 
+unable to stand or bear weight. In a stable or chronic SCFE, the most 
+common type, the CFE and femoral neck are in continuity, and the 
+slippage is occurring slowly by plastic deformation. The adolescent has 
+an antalgic, out-­toed gait. The hip range of motion demonstrates a lack 
+of internal rotation and an increase in external rotation; as the hip is 
+flexed, it becomes progressively more externally rotated. Limitation of 
+flexion and abduction in extension may also be present as a result of the 
+deformity of the proximal femur.
+Radiographic evaluation. The diagnosis of SCFE is confirmed 
+radiographically. Anteroposterior and frog-­leg lateral radiographs of 
+the pelvis must be obtained (Fig. 45.13). Both hips should be visualized 
+on each radiograph for simultaneous comparison. The earliest sign 
+of SCFE is widening of the physeal plate without slippage, which is 
+considered a pre-­slip condition. If slippage occurs, the CFE remains 
+in the acetabulum, whereas the femoral neck rotates anteriorly and 
+superiorly, resulting in varus orientation and retroversion of the 
+femoral head and neck. The severity of slippage can be classified by 
+the degree of displacement of the CFE on the femoral neck. Hip pain 
+and limping following surgical correction of SCFE can be related to 
+chondrolysis, rapidly progressive destruction of the articular cartilage 
+of the hip. Chondrolysis can also occur following infection of the hip 
+or may be idiopathic.
+Trauma
+Sprains, strains, and contusions. Sprains are ligamentous injuries, 
+whereas strains are musculotendinous injuries. Contusions are the 
+result of a direct injury and involve the skin and the subcutaneous 
+tissues as well as underlying muscle.
+Sprains are divided into three grades:
+Grade I: mild with only slight stretching of the ligament
+Grade II: a moderate injury with partial tearing of the ligament but 
+normal stability
+Grade III: a severe injury with ligamentous disruption and instability
+Sprains, strains, and contusions of the lower extremities are among 
+the most common injuries that produce limping. There is usually a his­
+tory of trauma, and the location is readily apparent because of soft tis­
+sue swelling, ecchymosis, and pain. Most of these injuries occur during 
+athletic activities, but they can also be the result of falls or other minor 
+injuries. In the absence of an associated physeal injury or other frac­
+ture, treatment is typically bracing and/or brief immobilization with a 
+gradual return to activity.
+Physical examination. In sprains, the physical examination 
+typically reveals that the involved ligament is tender to direct palpation. 
+There may be soft tissue swelling as well as ecchymoses. The range of 
+motion of the involved joint is typically decreased because of pain. On 
+occasion, a mild joint effusion or hemarthrosis may be present.
+Strains involve the muscles, and there is usually tenderness to pal­
+pation, soft tissue swelling, and pain with joint motion as a result of 
+stretching of the involved muscle. A palpable defect within the muscle 
+Fig. 45.12  A, An anteroposterior radiograph of the pelvis demonstrating 
+Legg-­Calvé-­Perthes disease (LCPD) of the right hip. The capital femoral 
+epiphysis (CFE) is collapsing, and there is mild widening of the medial 
+joint space. The left CFE is normal. B, A frog-­leg lateral radiograph of the 
+pelvis demonstrating limited hip abduction caused by LCPD.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+853
+CHAPTER 45  Gait Disturbances
+is uncommon except in the most severe injuries. These injuries usually 
+limit the excursion of the muscle and its associated joints.
+Radiographic evaluation. In children who sustain severe sprains, 
+strains, or contusions evidenced by limping, swelling, or deformity, 
+anteroposterior and lateral radiographs should at least be obtained. A 
+word of caution regarding sprains is necessary: In children, ligaments 
+are usually stronger than the adjacent physes. Therefore, a physeal 
+injury known as a Salter-­Harris fracture may be present and may 
+have nearly the same clinical features as a sprain (Fig. 45.14 and Table 
+45.6). Even with negative radiographs a subtle physeal injury may be 
+present. Bony tenderness over the physis is a distinguishing physical 
+exam finding of a Salter-­Harris fracture.
+Occult fractures. Occult fractures of the tibia are a relatively 
+common cause of limping or refusal to bear weight in very young 
+children. They can also occur in the femur and fibula. These fractures 
+can be the result of very innocuous trauma, such as tripping while 
+walking, stepping on a toy, or falling from a height. Frequently, the 
+injury may not have been observed, and the child cannot convey to the 
+parents what happened, confounding diagnosis.
+The most common occult fracture in early childhood is the “toddler’s 
+fracture” of the tibia. This is a spiral fracture of the distal third of the tibia 
+without an associated fibula fracture. It most commonly occurs in chil­
+dren younger than 4 years of age. Occult tibia fractures can also occur in 
+the metaphyseal regions, usually distally, but only rarely in the diaphysis. 
+Diaphyseal fractures are more commonly the result of child abuse.
+Physical examination. Physical findings in a child with an occult 
+fracture can be subtle. There is usually minimal, if any, soft tissue 
+swelling. There is mild tenderness and perhaps increased warmth on 
+A
+B
+C
+D
+Fig. 45.13  A, An anteroposterior radiograph of the right hip in a 13-­year-­old obese boy who had been limping 
+and complaining of anterior thigh and knee pain for approximately 2 months. There is a mild stable or chronic 
+slipped capital femoral epiphysis (SCFE). Klein line, a line drawn along the superior aspect of the femoral neck, 
+does not intersect the lateral portion of the capital femoral epiphysis (CFE) and thereby indicates slippage. 
+Also, the physis is wide and irregular. B, A frog-­leg lateral radiograph clearly demonstrates the slippage of 
+the CFE with respect to the femoral neck. C, An anteroposterior radiograph of the pelvis demonstrates an 
+asymptomatic mild stable or chronic left SCFE. It is always important to order radiographs of the pelvis rather 
+than individual views of the right or left hip. D, A frog-­leg lateral radiograph confirms bilateral SCFE.
+I
+II
+III
+IV
+V
+Fig. 45.14  Salter-­Harris classification of physeal fractures, types I–V.
+TABLE 45.6  Salter-­Harris Classification
+Salter-­Harris Type
+Characteristics
+I
+Separation through the physis, usually through the 
+zones of hypertrophic and degenerating cartilage 
+cell columns
+II
+Fracture through a portion of the physis but 
+extending through the metaphysis
+III
+Fracture through a portion of the physis extending 
+through the epiphysis and into the joint
+IV
+Fracture across the metaphysis, physis, and epiphysis
+V
+Crush injury to the physis
+From Baldwin KD, Shah AS, Wells L, et al. Common fractures. In: 
+Kliegman RM, St. Geme JW III, Blum NJ, et al., eds. Nelson Textbook 
+of Pediatrics. 21st ed. Philadelphia: Elsevier; 2020, Table 703-­1.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+854
+SECTION 8  Musculoskeletal Disorders
+palpation over the fracture. On occasion, the increased warmth may 
+be indicative of osteomyelitis. Stress examination of the involved bone 
+increases discomfort.
+Radiographic evaluation. Anteroposterior and lateral radiographs 
+should be obtained (Fig. 45.15). The characteristic finding of a toddler’s 
+fracture is a faint oblique fracture line crossing the distal third of the tibia. 
+More proximal fractures, or tibial spiral fractures in nonambulatory 
+children, are concerning for nonaccidental trauma and require further 
+directed evaluation or consultation. On occasion, oblique radiographs 
+may be helpful in revealing the fracture. Frequently, initial radiographs 
+reveal no abnormality. If these initial plain radiographs are normal, the 
+child has no systemic symptoms, and an occult fracture of the tibia 
+is suspected, simple immobilization in a long-­leg cast is indicated. 
+Another set of radiographs in 1–2 weeks usually reveals the fracture 
+and evidence of healing. If, however, the child has systemic symptoms, 
+such as low-­grade fever, and if osteomyelitis is thought to be present, 
+evaluation including a CBC with differential, blood culture, CRP level, 
+ESR, and an MRI should be obtained.
+Neoplasia. Benign and malignant neoplastic lesions that involve 
+bone, cartilage, or soft tissue of the spine, pelvis, and lower extremities 
+can manifest as a mass, can cause pain, and can produce an antalgic 
+gait. Leukemia or metastatic neuroblastoma of the bone marrow 
+may produce deep bone pain and limp without objective findings 
+of swelling or tenderness on physical examination. Night pain is a 
+common characteristic of both benign and malignant primary or 
+metastatic tumors. Osseous lesions can usually be diagnosed on plain 
+radiographs, whereas for those of cartilage or soft tissue, MRI or other 
+special imaging studies may be required for diagnosis.
+Benign neoplasms. The most common benign lesions that 
+produce limping include a unicameral (simple) bone cyst and osteoid 
+osteoma (Table 45.7). Other less common benign lesions that can 
+produce pain and limping include eosinophilic granuloma of the bone, 
+osteochondroma, and chondroblastoma. Chondroblastoma typically 
+involves the epiphysis.
+In unicameral bone cysts, the symptoms are usually caused by a 
+nondisplaced pathologic fracture. On occasion, a displaced fracture 
+may occur. The most common location for a unicameral bone cyst 
+is the proximal humerus, followed by the proximal femur. These 
+can occur in any of the bones of the lower extremities, including 
+the foot.
+Osteoid osteomas have a highly vascularized nidus, which incites 
+an intense, painful, inflammatory reaction that produces sclerosis 
+of the surrounding bone. The pain is typically worse at night and is 
+characteristically relieved by nonsteroidal antiinflammatory drugs 
+(NSAIDs) and aspirin, though this medication is not recommended in 
+children due to risk of Reye syndrome.
+Radiographic evaluation. Most benign neoplasms are visible 
+on anteroposterior and lateral radiographs of the symptomatic area. 
+Characteristics of benign lesions include well-­circumscribed lesions 
+without periosteal new bone formation or soft tissue mass. If a lesion 
+is suspected but not visible on plain radiographs, such as may occur in 
+an osteoid osteoma, a technetium bone scan may be helpful. Further 
+evaluation can be achieved with CT or MRI. Diagnosis is further aided 
+by surgical biopsy, which may also allow for surgical treatment.
+Malignant neoplasms. Leukemia is the most common childhood 
+malignancy and is frequently accompanied by musculoskeletal 
+complaints, such as limping, fever, bone pain, pallor, bruising, 
+and weight loss (Fig. 45.16). Common malignancies involving the 
+musculoskeletal system include osteogenic sarcoma, Ewing sarcoma, 
+and intraspinal tumors, such as astrocytomas (Table 45.8). Intraspinal 
+tumors tend to produce neurologic symptoms, such as muscle 
+weakness, as the cause of limping. The other lesions may produce a 
+mass, bone weakness, and possible pathologic fractures. Weight loss, 
+fever, and pain are common associated complaints.
+Physical examination. A careful musculoskeletal and neurologic 
+examination is necessary for any child with a suspected neoplasm. 
+In many cases, a mass, either in the involved bone or in adjacent soft 
+tissues, may be palpable. These are typically tender and warm. These 
+lesions are frequently adjacent to joints and may result in decreased 
+range of motion. Neurologic evaluation may show evidence of muscle 
+weakness or abnormal reflexes, suggestive of spinal cord or peripheral 
+nerve involvement.
+Radiographic evaluation. Anteroposterior and lateral radiographs 
+of the involved area usually reveal the presence of a neoplasm. 
+Characteristics of a malignant osseous lesion include bone destruction, 
+permeative or infiltrative appearance, periosteal new bone formation 
+(Codman triangle), and an associated soft tissue mass (see Table 45.8). 
+Radiographic abnormalities associated with acute leukemia include 
+diffuse osteopenia, metaphyseal bands, periosteal new bone formation, 
+geographic lytic lesions, sclerosis, and permeative distraction. 
+Additional studies, such as a bone scan or MRI, may be helpful in 
+localizing the lesion.
+Infection and inflammation
+Septic arthritis and osteomyelitis. Bone and joint infections 
+are common causes of limping in toddlers and children. When the 
+infection is confined to the synovium of a joint, the condition is 
+Fig. 45.15  A, An anteroposterior radiograph of the lower leg of a 
+2-­year-­old girl who had been limping on the left lower leg for approxi­
+mately 1 week. There was no history of trauma. No obvious abnormality 
+is visible in this view. B, A lateral radiograph showing a faint oblique frac­
+ture line (arrows). This is characteristic of the “toddler’s fracture.” There 
+is already early subperiosteal new bone or callus formation posteriorly.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+855
+CHAPTER 45  Gait Disturbances
+termed septic arthritis. If the primary focus of the infection is within 
+bone, even if the joint is secondarily involved, the condition is termed 
+osteomyelitis. Bacterial pathogens are the most frequent cause of 
+osteoarticular infections in children, with Staphylococcus aureus being 
+the most frequent etiology. In neonates, group B streptococcus and 
+gram-­negative bacteria are common. Beyond the neonatal period, 
+Kingella kingae is the second most frequent cause in children under 5 
+years of age. In older children and adolescents with puncture wounds 
+of the foot, Pseudomonas aeruginosa, S. aureus, and streptococci are 
+commonly implicated. Lyme arthritis should be considered in endemic 
+areas. Sexually active adolescents may develop septic arthritis as a 
+result of gonococcal infections. Patients with sickle cell anemia may 
+develop osteomyelitis as a result of Salmonella species or pneumococcal 
+infection.
+Acute hematogenous osteomyelitis most commonly involves the 
+femoral neck, the distal femoral metaphysis, and the proximal tibial 
+metaphysis. Acute septic arthritis usually involves the hip, knee, or 
+ankle. Children with these infections may be acutely ill; many may just 
+have fever, limp, and localized pain. Treatment is with surgical drainage 
+as needed and with prolonged antibacterials.
+Subacute osteomyelitis, which has very distinct manifestations, 
+occurs most commonly in the knee (Fig. 45.17). These children are 
+usually afebrile and have night pain; hematologic studies yield normal 
+findings. Radiographs show sclerotic metaphyseal lesions that occa­
+sionally cross the growth plate into the epiphysis. Culture specimens 
+are positive only occasionally and typically show S. aureus.
+Recurrent episodes of noninfectious, multifocal bone inflammation 
+are the hallmark of chronic nonbacterial osteomyelitis, sometimes 
+referred to as chronic recurrent multifocal osteomyelitis, which can 
+produce a painful limp with involvement of the hip or lower extremi­
+ties. The disorder is autoinflammatory in nature, begins in late child­
+hood or early adolescence, and affects females more frequently than 
+males. Chronic nonbacterial osteomyelitis may mimic acute hematog­
+enous osteomyelitis at onset, particularly if there is initially one focus 
+of bone inflammation. Inflammatory markers and imaging findings are 
+similar to those in acute hematogenous osteomyelitis, although micro­
+biologic studies are universally negative. The diagnosis becomes more 
+apparent as multiple episodes of bone inflammation, affecting distinct 
+anatomic sites, develop over time.
+Recurrent episodes of nonbacterial osteomyelitis are also a feature of 
+SAPHO syndrome (synovitis, acne, pustulosis, hyperostosis, osteitis), 
+a rare disorder of immune disregulation, and Majeed syndrome, an 
+autosomal recessive disorder (LPIN2 gene) characterized by recurrent 
+episodes of nonbacterial osteomyelitis, congenital dyserythropoietic 
+TABLE 45.7  Benign Bone Tumors and Cysts
+Disease
+Characteristics
+Radiographic Findings
+Treatment
+Prognosis
+Osteochondroma 
+(osteocartilaginous exostosis)
+Common; distal metaphysis of the 
+femur, proximal humerus, proximal 
+tibia; painless, hard, nontender mass
+Bony outgrowth; sessile or 
+pedunculated
+Excision, if symptomatic
+Excellent; malignant 
+transformation rare
+Multiple hereditary 
+osteochondromas
+Osteochondroma of long bones; bone 
+growth disturbances
+As above
+As above
+Multiple lesions develop until 
+skeletal maturity, after which 
+no new lesions develop; 
+malignant transformation rare
+Osteoid osteoma
+Pain relieved by aspirin; femur and 
+tibia; found predominantly in boys
+Dense sclerosis surrounds 
+small radiolucent nidus <1 cm
+As above
+Excellent
+Osteoblastoma (giant osteoid 
+osteoma)
+As above, but more destructive
+Osteolytic component; size 
+>1 cm
+As above
+Excellent
+Enchondroma
+Tubular bones of hands and feet; 
+pathologic fractures, swollen bone; 
+Ollier disease if multiple lesions 
+are present
+Radiolucent diaphyseal or 
+metaphyseal lesion; may 
+calcify
+Excision or curettage
+Excellent; malignant 
+transformation rare
+Nonossifying fibroma
+Silent; rare pathologic fracture; late 
+childhood, adolescence
+Incidental radiographic 
+finding; thin sclerotic border, 
+radiolucent lesion
+None or curettage with 
+fractures
+Excellent; heals spontaneously
+Eosinophilic granuloma
+Age 5–10 yr; skull, jaw, long bones; 
+pathologic fracture; pain
+Small, radiolucent without 
+reactive bone; punched-­out 
+lytic lesion
+Biopsy, excision rare; 
+irradiation
+Excellent; may heal 
+spontaneously
+Brodie abscess
+Insidious local pain; limp; suspected 
+as malignancy
+Circumscribed metaphyseal 
+osteomyelitis; lytic lesions 
+with sclerotic rim
+Biopsy; antibiotics
+Excellent
+Unicameral bone cyst (simple 
+bone cyst)
+Metaphysis of a long bone (femur, 
+humerus); pain, pathologic fracture
+Cyst in medullary canal, 
+expands cortex; fluid-­filled 
+unilocular or multilocular 
+cavity
+Curettage; steroid 
+injection into lesion
+Excellent; some heal 
+spontaneously
+Aneurysmal bone cyst
+As above; contains blood, fibrous 
+tissue
+Expands beyond metaphyseal 
+cartilage
+Curettage, bone graft
+Excellent
+Modified from Marcdante K, Kliegman R, eds. Nelson Essentials of Pediatrics. 7th ed. Philadelphia: Saunders; 2015.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+856
+SECTION 8  Musculoskeletal Disorders
+anemia, joint inflammation, and neutrophilic dermatosis, as well as 
+systemic inflammatory conditions such as inflammatory bowel disease 
+or psoriasis. Deficiency of interleukin-­1 receptor antagonist (DIRA) 
+presents in infancy with sterile osteitis and periostitis plus a pustular 
+rash, often without fever. Multifocal osteolytic lesions are present in 
+long bones, the clavicle, and ribs. This is an autosomal recessive disor­
+der (IL1RN gene).
+Physical examination. Children with acute bone and joint 
+infections may exhibit bacteremia and signs of infection, including 
+elevations in temperature, white blood cell count, ESR, and CRP level. 
+Some infants present only with pseudoparalysis of the affected limb. 
+When the hip joint is involved, the child holds the hip in a position of 
+flexion, abduction, and external rotation. This position unwinds the 
+hip capsule and allows it to hold the greatest volume of intracapsular 
+fluid. This initially decreases pressure, but as the pus continues to 
+accumulate, even this position fails to relieve symptoms. A hip joint 
+effusion is usually not palpable, but there may be overlying soft tissue 
+swelling and tenderness.
+Infections of peripheral joints, such as the knee, are more easily 
+diagnosed. There is typically a joint effusion and perhaps soft tissue 
+swelling, erythema, and increased warmth over the metaphysis if 
+osteomyelitis is present. Osteomyelitis typically manifests with point 
+tenderness over the involved site; with continued bone destruction and 
+rupture of pus into the periosteum, tenderness becomes more diffuse. 
+Infections can also occur about the ankle and foot. Infection of the 
+foot is less common except as a sequela to puncture wounds through 
+a tennis shoe, producing the classic P. aeruginosa or staphylococcal 
+osteomyelitis-­osteochondritis.
+Radiographic evaluation. Plain radiographs are not helpful in the 
+first 7–10 days of acute hematogenous osteomyelitis, inasmuch as they 
+are usually normal, but must be obtained in the assessment of the child. 
+After 10–14 days of active infection, bone destruction or periosteal 
+bone elevation is seen. MRI, or alternately bone scan, is both sensitive 
+and specific for osteomyelitis and septic arthritis, even early in the 
+course of the disease (Figs. 45.18 and 45.19).
+If a septic process about the hip is suspected, an ultrasound study 
+may be beneficial in demonstrating an effusion. If this is present, 
+arthrocentesis or hip aspiration is necessary. The synovial fluid analysis 
+should include a cell count, measurement of protein and glucose lev­
+els, Gram stain, cultures, and sensitivity studies. K. kingae polymerase 
+chain reaction (PCR) testing should be performed, particularly in 
+younger children. Infections of peripheral joints, such as the knee, are 
+more readily diagnosed by arthrocentesis.
+If an osteomyelitis of a metaphyseal region is suspected based on 
+imaging studies, the subperiosteal space and bone may be directly aspi­
+rated with a large-­bore needle. The material should be sent for bacte­
+rial culture, as well as for K. kingae nucleic acid amplification testing 
+in younger children, and Lyme testing in endemic areas. Any positive 
+bacterial culture results should have antibacterial susceptibility testing 
+performed so as to guide therapy. Despite these interventions, micro­
+biologic studies may frequently fail to yield results.
+Spondylodiskitis. Diskitis, inflammation of the vertebral disk 
+that is often related to infection, may produce refusal to walk and/or 
+limping via disk or bone inflammation, referred pain, or intraspinal 
+extension (see Chapter 46) (Fig. 45.20).
+Rheumatic causes. Juvenile inflammatory arthritides affecting the 
+hip, knee, or ankle joints can result in an antalgic gait (see Chapter 
+44). Immunoglobulin A vasculitis (Henoch-­Schönlein purpura) can 
+also produce arthritis or enthesitis that can result in a painful limp 
+(see Chapter 44). Autoimmune and autoinflammatory disorders 
+characterized by bone inflammation were discussed previously.
+Transient synovitis. Transient synovitis of the hip (also known as 
+toxic synovitis) is the most common cause of limping in children. It 
+can occur in all age groups, but the mean age at onset is 6 years; most 
+patients are between 3 and 8 years of age. Hip transient synovitis is 
+characterized by acute onset of monoarthritic hip pain, an associated 
+limp, and mild restriction of hip motion, especially abduction and 
+internal rotation. The pain is felt in the groin, anterior thigh, or knee. 
+Any child with atraumatic anterior thigh or knee pain must be carefully 
+evaluated for hip disease because these are the sites of referred pain. 
+Septic arthritis and osteomyelitis must be excluded.
+The cause of this disorder remains uncertain. Suspected causes include 
+active or recent systemic viral infection, trauma, and allergic hypersensi­
+tivity. Approximately 70% of affected children have had a nonspecific viral 
+upper respiratory infection 7–14 days before the onset of symptoms.
+A
+B
+Fig. 45.16  A, Anteroposterior pelvic radiograph of a 2-­year-­old girl who 
+had been limping for 4 months. There is an extensive destructive lesion 
+on the right proximal femur. B, A large soft tissue mass is demonstrated 
+on MRI scan. The preoperative diagnosis was Ewing sarcoma, but at 
+biopsy the diagnosis was acute lymphoblastic leukemia.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+857
+CHAPTER 45  Gait Disturbances
+Physical examination. The patient is usually ambulatory, and the 
+hip is not held in a position of flexion, abduction, or external rotation 
+unless a significant effusion has developed. The child walks with an 
+antalgic gait on the involved side and is usually afebrile. Laboratory 
+findings are usually within normal limits, but occasionally a minimal 
+elevation of the white blood cell count or ESR may be seen.
+Radiographic evaluation. Anteroposterior and frog-­leg lateral 
+radiographs of the pelvis are obtained to rule out the presence of 
+other lesions. The radiographs in transient synovitis are normal. On 
+occasion, ultrasonography of the hip may be useful in demonstrating a 
+small joint effusion. MRI is helpful in identifying septic joints or other 
+causes of pain when there is doubt regarding the diagnosis. Bone scans 
+as well may be helpful in difficult or unusual cases; in synovitis, these 
+results are always normal. When the diagnosis of transient synovitis 
+is in doubt, hip arthrocentesis may be necessary. The fluid that is 
+aspirated shows a low white blood cell count (typically well under 
+25,000 cells/μL), and the cultures are negative.
+Trendelenburg Gait
+Developmental anomalies
+Developmental dysplasia of the hip. Developmental dysplasia of 
+the hip (DDH) refers to the condition of increased laxity of the hip 
+joint and encompasses the following classifications: (1) acetabular 
+dysplasia, (2) hip subluxation, and (3) hip dislocation. Developmental 
+dysplasia of the hip is considered either typical, in which no underlying 
+genetic or syndromic association is identified, or teratologic. Early 
+identification and management improve the functional outcome of 
+surgical repairs. If not identified and appropriately treated, DDH 
+TABLE 45.8  Comparison of Osteogenic and Ewing Sarcoma
+Osteogenic Sarcoma
+Ewing Sarcoma
+Age
+Adolescence
+Childhood and adolescence
+Ancestry
+All
+Predominantly non-­Hispanic White
+Sex (M:F ratio)
+1.5:1
+1.5:1
+Cell
+Spindle cell, osteoid
+Nonosseous, small round cell
+Predisposing risk factors
+Retinoblastoma
+Radiotherapy
+Alkylating agents
+None
+Site
+Metaphysis, epiphysis; distal femur > proximal tibia > 
+proximal humerus
+Diaphysis, medullary cavity, cortical bone, soft tissue; femur > pelvis > tibia 
+> humerus
+Presentation
+Local pain
+Pain, fever, increased ESR, FUO, weight loss
+Roentgenogram
+Lytic, sclerotic
+Mottled, lytic
+Sunburst pattern
+Onion-­skin pattern
+Differential diagnosis
+Ewing sarcoma, osteomyelitis
+Osteomyelitis, eosinophilic granuloma, lymphoma, neuroblastoma, 
+rhabdomyosarcoma
+Metastasis
+Lung, bones
+Skip lesions in the same bone
+Lung, bones
+Treatment
+Surgery, chemotherapy
+Surgery, radiotherapy
+Limb salvage if tumor is resectable and the patient is 
+near adult height
+Chemotherapy
+Outcome
+50–60% survival
+60% survival without metastasis; 5–15% with metastasis, primary site 
+dependent
+Poor prognosis
+Onset at age <10 yr, large tumor size (>15 cm), symptoms 
+<2 mo, metastasis
+Pelvis, soft tissue tumor, increased LDH, metastasis, increased circulating 
+PMNs, decreased circulating lymphocytes
+F, female; FUO, fever of unknown origin; LDH, lactate dehydrogenase; M, male; PMN, polymorphonuclear neutrophil.
+Modified from Behrman RE, ed. Nelson Textbook of Pediatrics. 14th ed. Philadelphia: WB Saunders; 1992:1312.
+Fig. 45.17  A, Anteroposterior radiograph of the distal femur in a 
+12-­year-­old girl with limping and nighttime knee pain for 6 months. 
+There is a lucent lesion with surrounding sclerosis in the metaphysis. 
+The lesion crosses the epiphysis; this is characteristic of a subacute 
+osteomyelitis. B, Anteroposterior tomography clearly demonstrates the 
+lucent nature of the lesion and its surrounding sclerosis.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+858
+SECTION 8  Musculoskeletal Disorders
+will present with limping, toe-­walking, or both. When the problem 
+occurs unilaterally, the child walks with a mild Trendelenburg gait or 
+demonstrates toe-­walking. With bilateral involvement, the child stands 
+with an increased lumbar lordosis and has a waddling gait. There is 
+functional impairment resulting from a lack of stability and associated 
+muscle weakness, particularly in the hip abductors.
+Physical examination. The most common physical finding in 
+the older child with a developmentally dysplastic hip is limited hip 
+abduction on the involved side. There may be a mild hip flexion 
+contracture and apparent shortening of the extremity. The greater 
+trochanter lies above a line between the anterior superior iliac spine 
+and the ischial tuberosity (Nélaton line). In bilateral dislocations, the 
+A
+B
+Fig. 45.18  A, A frontal radiograph demonstrates a lytic lesion in the distal tibial metaphysis extending into 
+the epiphysis (arrows). B, A T1-­weighted fat-­saturated postgadolinium sagittal view demonstrates a thick, 
+rim-­enhancing lesion with a small amount of nonenhancing fluid consistent with early abscess formation with 
+epiphyseal extension (arrow) and a small cloaca (arrowhead) extending to the tibiotalar joint. (From Kan JH, 
+Azouz EM. Musculoskeletal infections. In: Coley BD, ed. Caffey’s Pediatric Diagnostic Imaging. 12th ed. Vol 
+II. Philadelphia: Elsevier; 2013:1472.)
+A
+B
+Fig. 45.19  Acute osteomyelitis of the distal femur in a 5-­year-­old boy. A, T2-­weighted fat-­saturated axial MRI 
+shows a large subperiosteal abscess (arrows) at the posterior aspect of the femur. Increased signal is seen 
+within the bone, and there is adjacent soft tissue edema. B, T1-­weighted fat-­saturated postgadolinium sagittal 
+MRI shows the longitudinal extent of the subperiosteal abscess with an enhancing wall (arrows). (From Kan 
+JH, Azouz EM. Musculoskeletal infections. In: Coley BD, ed. Caffey’s Pediatric Diagnostic Imaging. 12th ed. 
+Vol II. Philadelphia: Elsevier; 2013:1476.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+859
+CHAPTER 45  Gait Disturbances
+physical findings are more symmetric but there is still limitation of hip 
+abduction. Positive Trendelenburg signs are present on the involved 
+sides. The normal response to a Trendelenburg test occurs when the 
+patient stands on the uninvolved leg and the abductor muscles are able 
+to maintain balance by elevating the contralateral pelvis. A positive 
+Trendelenburg sign, resulting from weakness, is demonstrated when 
+the abductor muscles are unable to maintain pelvic balance and the 
+patient compensates by leaning to the affected side (see Fig. 45.11).
+Radiographic evaluation. The diagnosis can be made from 
+routine anteroposterior and frog-­leg lateral radiographs of the pelvis 
+(Fig. 45.21). Specialized studies, such as MRI and CT, are usually not 
+necessary. Ultrasound study is not usually necessary in an ambulatory 
+child older than 6 months of age because the CFE is ossified.
+Lower extremity length discrepancy. Lower extremity length 
+discrepancy in older children and adolescents has been discussed 
+earlier in this chapter.
+Neuromuscular Origin
+Cerebral palsy (see Chapter 38). Children with spastic hemiplegia 
+or diplegia may have an associated painless limp caused by muscle 
+spasticity and concomitant weakness of the antagonist muscles. The 
+history should focus on risk factors for cerebral palsy, prematurity, 
+and other congenital anomalies external to the central nervous system, 
+followed by a physical examination, with particular attention to the 
+neurologic system. The neurologic examination reveals evidence of 
+increased muscle tone, spasticity, hyperactive deep tendon reflexes, and 
+pathologic reflexes, such as Babinski signs.
+Nerve 
+entrapment 
+syndromes 
+(mononeuropathies). 
+Nerve 
+entrapment lower extremity mononeuropathies may produce a 
+limp or abnormal gait secondary to pain or muscle weakness (Table 
+45.9). Peroneal nerve entrapment at the level of the head of the fibula 
+is the most common entrapment mononeuropathy. The common 
+fibular (peroneal) nerve wraps around the head of the fibular bone 
+and connects to the periosteum, making it susceptible to trauma or 
+external compression (Fig. 45.22). Workers who squat (farmers, carpet 
+layers), habitual leg crossing, neuromas, Baker cysts, and ankle sprains 
+(traction injury) are risk factors. Pain, foot drop, and paresthesia are 
+common manifestations.
+A
+C
+T 12
+L 1
+T 12
+L 1
+D
+B
+E
+Fig. 45.20  A 15-­month-­old girl with an abnormal gait and concern for an intraspinal mass had diskitis/osteo­
+myelitis. Lateral spine radiographs demonstrate narrowing of the T12-­L1 intervertebral disk space (arrow in A). 
+An axial bone window from a noncontrast CT scan of the spine demonstrates irregularity to the vertebral end 
+plates (arrows in B). A sagittal T2-­weighted image (C), a sagittal fat-­saturated T1-­weighted postcontrast image 
+(D), and an axial T1-­weighted postcontrast image (E) of the thoracolumbar junction demonstrate loss of height of 
+the T12-­L1 intervertebral disk space with adjacent T2 prolongation of the adjacent end plates (arrows in C), with 
+corresponding abnormal enhancement in the same regions (arrows in D), and surrounding masslike soft tissue 
+enhancement (arrowheads in E). Note the thickening/elevation and enhancement of the posterior longitudinal 
+ligament (arrowheads in D). (From Pollock AN, Henesch SM. Infections of the spine and spinal cord. In: Coley BD, 
+ed. Caffey’s Pediatric Diagnostic Imaging. 12th ed. Vol I. Philadelphia: Elsevier; 2013:465.)
+Fig. 45.21  An anteroposterior radiograph of the pelvis of an 18-­month-­old 
+girl demonstrating a developmental dislocation of the left hip. The 
+­acetabulum is severely dysplastic, there is delayed ossification in the ­capital 
+femoral epiphysis compared to the normal right hip, and the femoral head is 
+displaced laterally and superiorly.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+TABLE 45.9  Lower Limb Mononeuropathies
+Condition
+Etiology
+Symptoms
+Testing
+Results
+Femoral neuropathy
+Trauma, retroperitoneal 
+hematoma caused by 
+anticoagulation, cardiac 
+catheterizations 
+Weak quadriceps muscle, 
+weakness of knee extension, 
+absent knee jerk, groin pain, 
+and decreased sensation over 
+medial and anterior thigh and 
+lower leg in the saphenous 
+nerve distribution
+Motor nerve conduction to 
+quadriceps
+Saphenous sensory study
+EMG of quadriceps as well as 
+other L3 and L4 muscles (e.g., the 
+adductor muscles); consider an 
+EMG screen for radiculopathy
+Reduced amplitude or absent 
+saphenous nerve response
+Reduced CMAP over rectus 
+femoris
+On EMG, fibrillations in the 
+femoral nerve–innervated 
+muscles
+Lateral femoral 
+cutaneous nerve 
+entrapment at 
+thigh (meralgia 
+paresthetica)
+Repeated low-­grade 
+trauma, obesity, 
+pregnancy, tight clothing 
+most commonly under 
+the lateral end of the 
+ilioinguinal ligament
+Pure sensory syndrome at the 
+lateral thigh including unpleasant 
+paresthesias, burning, or a dull 
+ache; no motor symptoms
+Can be aggravated by prolonged 
+standing or walking
+Lateral femoral cutaneous study
+Femoral evaluation as above should 
+be considered
+Reduced amplitude in lateral 
+femoral cutaneous nerve
+This nerve is technically challenging 
+to study and side-­to-­side 
+comparisons are useful
+Peroneal nerve 
+entrapment at the 
+head of the fibula
+Fractures, plaster casts, 
+tight stockings, improper 
+positioning, excessive 
+weight loss, farm work, 
+tumors, crossing legs for 
+a long time
+Foot drop, weakness of eversion, 
+numbness on the dorsum of 
+the foot, and pain
+SPS testing
+Motor nerve conduction below and 
+across the fibular head recorded 
+from EDB or tibialis anterior if EDB 
+is atrophied
+Exclude L5 radiculopathy by EMG
+Test an additional motor and sensory 
+nerve in the same leg
+Reduced or absent SPS response
+Conduction block across the fibular 
+head
+Conduction velocity reduced in 
+fibular head segment by >10 m/
+sec compared with leg segment
+Fibrillations in muscles innervated 
+by fibular (peroneal) nerve
+Tibial nerve 
+entrapment at tarsal 
+tunnel under flexor 
+retinaculum of 
+medial malleolus
+Compression from shoes, 
+casting, post-­traumatic 
+fibrosis, overuse, 
+ganglion cysts
+Pain in foot and ankle, wasting 
+and weakness in feet, sensory 
+impairment at toes and sole of 
+the foot
+Plantar sensory (mixed) nerve 
+conductions
+Tibial motor to AH muscle
+Another motor and sensory nerve to 
+exclude polyneuropathy
+EMG of intrinsic foot muscles
+Consider EMG screen for 
+radiculopathy or sciatic neuropathy
+Prolonged or absent latencies or 
+low amplitudes in plantar nerves
+Prolonged, absent, or small distal 
+responses across tarsal tunnel
+Fibrillations in the AH or other 
+intrinsic foot muscle innervated 
+by the tibial nerve
+Normal EDB EMG and sural sensory 
+nerve
+AH, abductor hallucis; CMAP, compound muscle action potential; EDB,extensor digitorum brevis; EMG, electromyography; SPS, superficial fibular 
+(peroneal) sensory nerve
+Modified from Cifu DX, ed. Braddom’s Physical Medicine and Rehabilitation. 6th ed. Philadelphia: Elsevier; 2021, Table 8-­19.
+TN
+SN
+CPN
+PL
+SPN
+DPN
+Fig. 45.22  The intimate relationship of the peroneal nerve to the fibular head is 
+demonstrated. CPN, common peroneal (fibular) nerve; PL, peroneus longus; SN, sci­
+atic nerve; TN, tibial nerve. (From Dong Q, Jacobson JA, Jamadar DA, et al. Entrap­
+ment neuropathies in the upper and lower limbs: anatomy and MRI features. Radiol 
+Res Pract. 2012;2012:230679, Fig. 17.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+861
+CHAPTER 45  Gait Disturbances
+Hereditary neuropathy with liability to pressure palsies is another 
+potential mononeuropathy; when the lower extremity is involved, uni­
+lateral paresthesias and motor weakness may be present. This is an 
+autosomal dominant disorder due to a deletion or pathologic variant 
+in the PMP22 gene.
+   	 S U MMA RY  A N D  R E D  F L A G S
+Conditions associated with limp must be divided into acute, painful 
+lesions and chronic, painless lesions; on occasion, presentations may 
+be mixed. Infection and trauma must be considered emergencies, as 
+should conditions that are joint or limb threatening, such as septic 
+arthritis and osteomyelitis of the hip, avascular necrosis, or SCFE. In 
+addition, signs of spinal cord involvement (see Chapter 46) suggest 
+acute processes that warrant immediate attention to prevent perma­
+nent paralysis.
+Red flags include acute hip pain, fever with limp, neurologic man­
+ifestations (including bowel and bladder dysfunction or paresthesias), 
+point tenderness, the presence of a mass, night awakening pain, and 
+signs of weight loss or hematologic abnormalities such as pallor or 
+bruising.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+861.e1
+BIBLIOGRAPHY
+General
+Badii M, Wade AN, Collins DR, et al. Comparison of lifts versus tape 
+measure in determining leg length discrepancy. J Rheumatol. 
+2014;41(8):1689–1694.
+Escott BG, Ravi B, Weathermon AC, et al. EOS low-­dose radiography: a 
+reliable and accurate upright assessment of lower-­limb lengths. J Bone Joint 
+Surg Am. 2013;95(23):e1831–e1837.
+Sutherland DH, Olshen R, Cooper L, et al. The development of gait. J Bone 
+Joint Surg Am. 1980;62(3):336–353.
+Tillotson L, Fieraru G, Briant-­Evans T. Examination of the hip for MRCS 
+OSCE. Surgery. 2020;38(2):65–69.
+Rotational Abnormalities: Femoral/Tibial Torsion
+Birch JG. Blount disease. J Am Acad Orthop Surg. 2013;21(7):408–418.
+Cobanoglu M, Cullu E, Kilimci FS, et al. Rotational deformities of the long 
+bones can be corrected with rotationally guided growth during the growth 
+phase. Acta Orthop. 2016;87(3):301–305.
+Eisenberg KA, Vuillermin CB. Management of congenital pseudoarthrosis 
+of the tibia and fibula. Curr Rev Musculoskelet Med. 2019;12(3):356–368. 
+Published online June 22.
+Erkocak OF, Altan E, Altintas M, et al. Lower extremity rotational deformities 
+and patellofemoral alignment parameters in patients with anterior knee 
+pain. Knee Surg Sports Traumatol Arthrosc. 2016;24:3011–3020.
+Kahf H, Kesbeh Y, van Baarsel E, et al. Approach to pediatric rotational limb 
+deformities. Orthop Rev (Pavia). 2019;11(3):8118.
+Koenig JK, Pring ME, Dwek JR. MR evaluation of femoral neck version and 
+tibial torsion. Pediatr Radiol. 2012;42(1):113–115.
+Lincoln TL, Suen PW. Common rotational variations in children. J Am Acad 
+Orthop Surg. 2003;11(5):312–320.
+Mooney 3rd JF. Lower extremity rotational and angular issues in children. 
+Pediatr Clin North Am. 2014;61(6):1175–1183.
+Park H, Park M, Kim SM, et al. Hemiepiphysiodesis for idiopathic genu 
+valgum: percutaneous transphyseal screw versus tension-­band plate. J 
+Pediatr Orthop. 2018;38(6):325–330.
+Ruwe PA, Gage JR, Ozonoff MB, et al. Clinical determination of femoral 
+anteversion: a comparison of established techniques. J Bone Joint Surg Am. 
+1992;74(6):820–830.
+Strecker W, Keppler P, Gebhard F, et al. Length and torsion of the lower limb. 
+J Bone Joint Surg Br. 1997;79(6):1019–1023.
+Rotational Abnormalities: Metatarsus Adductus
+Marshall N, Ward E, Williams CM. The identification and appraisal of 
+assessment tools used to evaluate metatarsus adductus: a systematic review 
+of their measurement properties. J Foot Ankle Res. 2018;11:25.
+Williams CM, James AM, Tran T. Metatarsus adductus: development 
+of a non-­surgical treatment pathway. J Paediatr Child Health. 
+2013;49(9):E428–E433.
+Rotational Abnormalities: Talipes Equinovarus (Clubfoot)
+Jeans KA, Erdman AL, Karol LA. Plantar pressures after nonoperative 
+treatment for clubfoot: intermediate follow-­up at age 5 years. J Pediatr 
+Orthop. 2015. [Epub ahead of print.]
+Roye BD, Vitale MG, Gelijins AC, et al. Patient-­based outcomes after clubfoot 
+surgery. J Pediatr Orthop. 2001;21(1):42–49.
+Rotational Abnormalities: Calcaneovalgus Foot
+Chan MC, Khan SA. Ilizarov reconstruction of chronic bilateral calcaneovalgus 
+deformities. Chin J Traumatol. 2019;22(4):202–206.
+Mosca VS. Other conditions of the foot. In: Morrissy RT, Weinstein SL, 
+eds. Pediatric Orthopaedics. 5th ed. Philadelphia: Lippincott Williams & 
+Wilkins; 2001:1178.
+Rotational Abnormalities: Hypermobile Pes Planus
+Akrali O, Tiner M, Ozaksoy D. Effects of lower extremity rotation on 
+prognosis of flexible flatfoot in children. Foot Ankle Int. 2000;21(9):772–
+774.
+Atik A, Ozyurek S. Flexible flatfoot. North Clin Istanb. 2014;1(1):57–64.
+Equinus Gait (Toe-­Walking)/Neuromuscular Disorders
+Drefus LC, Hafer JF, Scher DM. Simulated ankle equinus affects knee 
+kinematics during gait. HSS J. 2016;12(1):39–43. https://doi.org/10.1007/
+s11420-­015-­9474-­4.
+Rose J, Martin JG, Torburn L, et al. Electromyographic differentiation 
+of diplegic cerebral palsy from idiopathic toe-­walking: involuntary 
+coactivation of the quadriceps and gastrocnemius. J Pediatr Orthop. 
+1999;19(5):677–682.
+Congenital Achilles Tendon Contracture (Idiopathic Toe-­Walking)
+Eastwood DM, Menelaus MB, Dickens DR, et al. Idiopathic toe-­walking: does 
+treatment alter the natural history? J Pediatr Orthop B. 2000;9(1):47–49.
+Haynes KB, Wimberly RL, VanPelt JM, et al. Toe walking: a neurological 
+perspective after referral from pediatric orthopaedic surgeons. J Pediatr 
+Orthop. 2018;38(3):152–156.
+Oetgen ME, Peden S. Idiopathic toe walking. J Am Acad Orthop Surg. 
+2012;20(5):292–300.
+Congenital Achilles Tendon Contracture (Idiopathic Toe-­Walking): 
+Lower Extremity Length Discrepancy
+Davidson RS. Leg-­length discrepancy. In: Kliegman RM, St. Geme III JW, 
+Blum NJ, et al., eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia: 
+Elsevier; 2020:3613–3617.
+Khamis S, Carmeli E. A new concept for measuring leg length discrepancy. J 
+Orthop. 2017;14(2):276–280. https://doi.org/10.1016/j.jor.2017.03.008.
+Limping (General)
+Barkin RM, Barkin SZ, Barkin AZ. The limping child. J Emerg Med. 
+2000;18(3):331–339.
+Leet AI, Skaggs DL. Evaluation of the acutely limping child. Am Fam Physician. 
+2000;61(4):1011–1018.
+Tarsal Coalition
+Blakemore LC, Cooperman DR, Thompson GH. The rigid flatfoot. Tarsal 
+coalitions. Clin Podiatr Med Surg. 2000;17:531–555.
+Bohne WH. Tarsal coalition. Curr Opin Pediatr. 2001;13(1):29–35.
+Guignand D, Journeau P, Mainard-­Simard L, et al. Child calcaneonavicular 
+coalitions: MRI diagnostic value in a 19-­case series. Orthop Traumatol Surg 
+Res. 2011;97(1):67–72.
+Legg–Calvé–Perthes Disease
+Noonan KJ, Price CT, Kupiszewski SJ, et al. Results of femoral varus osteotomy 
+in children older than nine years with Perthes’ disease. J Pediatr Orthop. 
+2001;21:198–204.
+Thompson GH, Price CT, Roy D, et al. Legg-­Calvé-­Perthes disease: current 
+concepts. Instr Course Lect. 2002;51:367–384.
+Slipped Capital Femoral Epiphysis
+Kennedy JG, Hresko MT, Kasser JR, et al. Osteonecrosis of the femoral 
+head associated with slipped capital femoral epiphysis. J Pediatr Orthop. 
+2001;21(2):189–193.
+Septic Arthritis/Osteomyelitis
+Blyth MJ, Kincaid R, Craigen MA, et al. The changing epidemiology of acute 
+and subacute haematogenous osteomyelitis in children. J Bone Joint Surg 
+Br. 2001;83(1):99–102.
+Kim HK, Alman B, Cole WB. A shortened course of parenteral antibiotic 
+therapy in the management of acute septic arthritis of the hip. J Pediatr 
+Orthop. 2000;20(1):44–47.
+Oudjhane K, Ozouz EM. Imaging of osteomyelitis in children. Radiol Clin 
+North Am. 2001;39(2):251–266.
+Popescu B, Tevanov I, Carp M, et al. Acute hematogenous osteomyelitis in 
+pediatric patients: epidemiology and risk factors of a poor outcome. J Int 
+Med Res. 2020;48(4):300060520910889.
+Pöyhiä T, Azouz EM. MR imaging evaluation of subacute and chronic bone 
+abscesses in children. Pediatr Radiol. 2000;30(11):763–768.
+Rasool MN. Primary subacute haematogenous osteomyelitis in children. J 
+Bone Joint Surg Br. 2001;83(1):93–98.
+Rukavina I. SAPHO syndrome: a review. J Child Orthop. 2015;9(1):19–27.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+References
+861.e2
+Thakolkaran N, Shetty AK. Acute hematogenous osteomyelitis in children. 
+Ochsner J. 2019;19(2):116–122.
+Waagner DC. Musculoskeletal infections in adolescents. Adolesc Med. 
+2000;11(2):375–400.
+Transient Synovitis
+Do TT. Transient synovitis as a cause of painful limps in children. Curr Opin 
+Pediatr. 2000;12(1):48–51.
+McCarthy JJ, Noonan KJ. Toxic synovitis. Skeletal Radiol. 2008;37(11):963–965.
+Developmental Dysplasia of the Hip
+Kim HT, Kim JI, Yoo CI. Diagnosing childhood acetabular dysplasia using the 
+lateral margin of the sourcil. J Pediatr Orthop. 2000;20(6):709–717.
+Kim HT, Wenger DR. The morphology of residual acetabular deficiency 
+in childhood hip dysplasia: three-­dimensional computed tomographic 
+analysis. J Pediatr Orthop. 1997;17(5):637–647.
+LeBa TB, Carmichael KD, Patton AG. Ultrasound for infants at risk for 
+developmental dysplasia of the hip. Orthopedics. 2015;38(8):e722–e726.
+Mononeuropathies
+Craig A. Entrapment neuropathies of the lower extremity. Pharm Manag PM 
+R. 2013;5:S31–S40.
+Donovan A, Rosenberg ZS, Cavalcanti CF. MR imaging of entrapment 
+neuropathies of the lower extremity. Part 2. The knee, leg, ankle, and foot. 
+Radiographics. 2010;30:1001–1019.
+Genetic and Rare Disease Information Center (GARD). Hereditary 
+neuropathy with liability to pressure palsies. https://rarediseases.
+info.nih.gov/diseases/5221/hereditary-­neuropathy-­with-­liability-­to-­
+pressure-­palsies.
+Lönnqvist T, Pihko H. Hereditary neuropathy with liability to pressure palsies 
+(HNPP) in a toddler presenting with toe-­walking, pain and stiffness. 
+Neuromusc Dis. 2003;13:827–829.
+Nerve lesions and entrapment neuropathies of the lower limb orthopaedic 
+medicine online. https://www.orthopaedicmedicineonline.com/
+downloads/pdf/B9780702031458000934_web.pdf.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

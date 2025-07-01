@@ -1,0 +1,1959 @@
+Chapter Title One Line
+Chapter Author
+888
+SECTION 9  Hematologic Disorders
+Given the role of the lymphatic system in developing adaptive responses 
+to numerous antigenic challenges and the rate at which the immune 
+system is exposed to novel antigens early in life, enlarged lymph nodes 
+are regularly encountered both incidentally and within the context of 
+many childhood illnesses. The challenge for the clinician is determin­
+ing when a change in the size or quality of a lymph node is physiologic 
+or when such a change represents pathology. A thorough history, phys­
+ical examination, and recognition of the anatomic drainage patterns of 
+the lymphatic system will oftentimes sufficiently narrow the differential 
+diagnosis of lymphadenopathy such that complicated or invasive diag­
+nostic evaluations are unnecessary. It is equally important to consider 
+other non–lymph node disorders in the differential diagnosis (parot­
+ids, brachial cleft cysts, primary tumors).
+MECHANISM OF LYMPHADENOPATHY
+The lymphatic system is a network of vessels and tissues that collects 
+excess fluid from the cellular interstitium and returns it to the periph­
+eral circulation. This interstitial fluid is similar in composition to 
+plasma, though it may contain additional proteins, pathogens, other 
+antigens, and antigen-­presenting cells. The collected fluid, termed 
+lymph, enters the lymphatic system via specialized lymphatic capil­
+laries and passes into nearby lymph nodes via afferent lymphatic ves­
+sels. The lymph nodes contain both B and T lymphocytes lying in a 
+supportive framework within a connective tissue capsule (Fig. 48.1). 
+Additional lymphocytes may enter lymph nodes from the peripheral 
+venous circulation via postcapillary high endothelial venules. Anti­
+gens, antigen-­presenting cells, and pathogens within the lymph inter­
+act with the lymphocytes, allowing for the production of B-­ and/or 
+T-­cell immune responses in an effort to clear the antigen or pathogen. 
+Efferent lymphatic vessels then carry lymph and antigen-­sensitized 
+lymphocytes from the nodes back to the peripheral circulation via the 
+thoracic duct.
+Enlargement of lymph nodes can come about via a variety of mech­
+anisms. First, physiologic hyperplasia can occur as nodal and circu­
+lating lymphocytes proliferate within nodes in response to antigenic 
+stimulation. Second, bacteria that have been transported to the nodes 
+may stimulate the recruitment of polymorphonuclear cells and the 
+elaboration of inflammatory mediators that can lead to the edema, ery­
+thema, and tenderness characteristic of bacterial lymphadenitis or to 
+suppuration and abscess formation. Third, malignant cells may arise 
+within the node itself and proliferate, causing enlargement, or arrive 
+from distant cancerous sites and infiltrate the nodal tissue. Fourth, 
+certain immune disorders (hemophagocytic lymphohistiocytosis) or 
+immune reactions to medications can cause lymphadenopathy either 
+directly or as part of a serum sickness–like reaction. Finally, in rare 
+genetic storage diseases (e.g., Niemann-­Pick, Gaucher diseases), mac­
+rophages laden with abnormally metabolized lipids may lodge within 
+lymph nodes, causing enlargement.
+The regional drainage pattern of each lymph node group is import­
+ant in determining the cause of lymphadenopathy, particularly when 
+localized to an individual node or contiguous group of nodes (Fig. 48.2 
+and Tables 48.1 and 48.2). The cervical lymph nodes drain lymph from 
+distinct areas of the head, neck, and throat and may enlarge if a local 
+infection is present. Consequently, because otitis media and pharyngitis 
+are common infections in children, head and neck lymphadenopathy 
+is one of the more frequently encountered regional lymphadenopathy 
+patterns in small children. The axillary nodes drain lymph from the 
+arms, lateral breasts, and superficial chest and upper abdomen, and 
+isolated enlargement of these nodes may suggest pathology in these 
+areas. The inguinal nodes drain the lower extremities, genitourinary 
+system, and perineum, which may indicate lower extremity pathology 
+or the presence of a sexually transmitted infection in patients with an 
+exposure history. Supraclavicular lymphadenopathy is a concerning 
+finding and should prompt investigation for an underlying neoplasm, 
+fungal infection, tuberculosis, or sarcoidosis. Generalized lymphad­
+enopathy, defined as the presence of enlarged or abnormal lymph 
+nodes in two or more noncontiguous lymph node groups (with or with­
+out hepatosplenomegaly), is often indicative of a systemic response to 
+an infectious or otherwise inflammatory process but may also indicate 
+malignant proliferation of lymphocytes (Table 48.3).
+History
+History should be aimed at establishing the time course of the develop­
+ment of lymphadenopathy, whether the lymphadenopathy is restricted 
+to a particular anatomic region or is generalized, and if there are any 
+associated signs, symptoms, or exposures that may suggest an etiology.
+Lymphadenopathy that develops rapidly over several days is 
+more suggestive of an acutely inflammatory, often infectious process, 
+whereas more indolently developing lymphadenopathy may suggest 
+malignancy, chronic disease, or an atypical infection. The sudden onset 
+of unilateral inguinal adenopathy shortly following lower extremity 
+trauma suggests an infection in the traumatized extremity. In contrast, 
+progressive enlargement of multiple noncontiguous nodal groups over 
+the course of weeks or months that is accompanied by weight loss, 
+fevers, or night sweats suggests a systemic illness such as lymphoma or 
+Lymphadenopathy and Neck Masses
+Brett J. Bordini
+48
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+889
+CHAPTER 48  Lymphadenopathy and Neck Masses
+tuberculosis. When establishing the time period over which the lymph­
+adenopathy developed, clarifying both when the node was first noted 
+to be abnormal and the last time the node was felt to be normal is essen­
+tial, particularly if associated symptoms, overlying skin changes, and 
+tenderness are absent, since more slowly developing lymphad­enopathy 
+may not be noticed until the node or nodes are quite enlarged, or if 
+lymphadenopathy was noted only incidentally when dressing, groom­
+ing, or bathing.
+The age of the child with lymphadenopathy is similarly important 
+in the consideration of the cause (see Table 48.3). Neonatal lymphad­
+enopathy is typically indicative of exposure to an infectious agent in 
+utero, such as cytomegalovirus (CMV), syphilis, HIV, rubella, or toxo­
+plasmosis, though may less frequently be associated with congenital 
+malignancy, immune disorders, or storage diseases. In contrast, tod­
+dlers and children with adenopathy tend to have either focal infections 
+that drain into the affected nodal chain, or systemic viral infections, 
+resulting in diffusely enlarged nodes. Adolescents may acquire expo­
+sures that place them at risk for sexually transmitted infections and 
+inguinal adenopathy. Just as exposure to certain infectious agents may 
+vary with age, the risk of hematologic malignancy varies as well: Acute 
+leukemias are more common in toddlers and young children, non-­
+Hodgkin lymphoma is more common in school-­aged children, and 
+Hodgkin lymphoma is more common in adolescents.
+The past medical history and review of systems should be explored 
+for conditions that may either cause lymphadenopathy directly or place 
+the patient at increased risk for opportunistic infections, such as con­
+genital or acquired immunodeficiency. The clinician should inquire 
+about any signs or symptoms that would suggest an acute infectious 
+process or more slowly progressive constitutional symptoms that may 
+suggest malignancy or indolent infection. The quality of oral hygiene 
+practices and dentition should be assessed as odontogenic infections 
+may not readily be appreciated as a source of cervical lymphadenopa­
+thy. The use of any prescription medications, over-­the-­counter med­
+icines, or traditional remedies should be ascertained: In addition to 
+identifying medications that may directly cause lymphadenopathy, this 
+information may identify medications that may cause a serum sick­
+ness–like reaction with resultant lymphadenopathy or that may be 
+used to treat autoimmune or rheumatologic conditions that are associ­
+ated with generalized lymphadenopathy (see Table 48.3).
+After determining the timing and distribution of the lymphadenop­
+athy and placing these findings within the context of the child’s age and 
+past medical history, the clinician should inquire about any exposures 
+that may have led to the development of lymphadenopathy, focusing in 
+particular on diet, travel history, and contact with individuals, animals, 
+Superficial
+cervical
+(post. group)
+Occipital
+Retro-auricular
+Parotid
+Buccal
+Submental
+Submandibular
+Superficial cervical
+(ant. group)
+Jugulodigastric
+node
+Jugular tr.
+Jugulo-omohyoid
+node
+Transverse
+cervical nodes
+Deep cervical
+Transverse
+cervical tr.
+R. lymphatic
+duct
+Thoracic duct
+A
+B
+Fig. 48.2  The superficial (A) and deep cervical (B) lymph nodes that drain the head and neck. Ant., anterior; 
+post., posterior; R, right; superfic., superficial; tr., tributary. (From O’Rahilly RO. Gardner-­Gray-­O’Rahilly Anat­
+omy: A Regional Study of Human Structure. 5th ed. Philadelphia: WB Saunders; 1986:719.)
+Germinal
+center
+Cortex
+Afferent
+lymphatic
+vessels
+Trabecula
+Artery
+Vein
+Capsule
+Subcapsular
+sinus
+Paracortex
+Medullary
+cord
+Medullary
+sinus
+Efferent
+lymphatic
+vessel
+Fig. 48.1  Diagrammatic representation of the structure of a lymph 
+node. (From Faller DV. Diseases of the lymph nodes and spleen. In: 
+Wyngaarden JB, Smith LH, Bennett JC, eds. Cecil Textbook of Medi­
+cine. 19th ed. Philadelphia: WB Saunders; 1992:979.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+890
+SECTION 9  Hematologic Disorders
+or environments that may pose a risk for disease transmission. Contact 
+with or consumption of raw or undercooked meats, particularly pork, 
+lamb, and venison, may transmit Toxoplasma gondii, leading to toxo­
+plasmosis. Similarly, contact with agricultural animals or ingestion of 
+unpasteurized dairy products may place patients at risk for acquiring 
+certain pathogens, such as Brucella species or Mycobacterium bovis; 
+infection with either may lead to generalized lymphadenopathy. Poten­
+tial exposures in the home environment should be assessed, including 
+the risk of contaminated drinking water and whether there are concerns 
+for mold exposure, particularly in immunocompromised patients. The 
+presence of pets, either within the home or in the area, should be deter­
+mined. Cats or kittens that may scratch the child and transmit Bar­
+tonella henselae, the etiologic agent of cat-­scratch disease, are often 
+omitted from the history unless such questions are specifically asked. 
+Furthermore, some families may deny the presence of household pets 
+but forget to mention that the child plays with a pet present in a barn 
+or around the neighborhood. Travel history should determine whether 
+the child is from or has been exposed to geographic areas associated 
+with a higher risk for acquiring certain infections, such as tuberculo­
+sis in endemically affected nations or histoplasmosis in the Ohio River 
+valley. The clinician should inquire whether any family members or 
+close contacts are ill or taking medications, whether any have recently 
+traveled to or immigrated from other countries, and whether any have 
+recently been incarcerated. Adolescents should be questioned about 
+risk factors for HIV and sexually transmitted infections, such as syph­
+ilis or lymphogranuloma venereum, which may cause generalized or 
+inguinal lymphadenopathy, respectively.
+The family history should also focus on potentially heritable condi­
+tions, such as autoimmune or rheumatologic disorders, certain hema­
+tologic and soft tissue malignancies, and storage diseases that may be 
+associated with noninfectious forms of lymphadenopathy.
+TABLE 48.1  Drainage Areas of Regional 
+Nodes
+Abdominal and Pelvic
+Abdomen, lower extremity, pelvic organs
+Axillary
+Arm, breast, chest wall, hand, upper and lateral abdominal wall
+Cervical
+External ear; larynx; parotid; superficial tissues of the scalp, head, and neck; 
+thyroid; tongue; trachea
+Epitrochlear
+Forearm, hand
+Iliac
+Bladder, lower abdomen, part of the genitalia, urethra
+Inguinal
+Gluteal region, lower anal canal, lower extremity, perineum, vulva and vagina 
+in females, scrotum and penis in males, skin of the lower abdomen
+Mediastinal
+Thoracic viscera
+Occipital
+Posterior scalp
+Popliteal
+Knee joint, skin of the lateral lower leg and foot
+Preauricular
+Cheek, conjunctivae, eyelid, temporal scalp
+Submaxillary/Submental
+Buccal mucosa, gums, teeth, tongue
+Supraclavicular
+Abdomen, arms, head, lungs, mediastinum, neck, superficial thorax
+Left supraclavicular adenopathy is usually due to an intraabdominal problem
+Right supraclavicular adenopathy is usually due to an intrathoracic problem
+TABLE 48.2  Sites of Regional 
+Lymphadenopathy and Associated Diseases
+Cervical
+Oropharyngeal infection (viral, 
+group A streptococcal, or 
+staphylococcal)
+Scalp infection (tinea)
+Mycobacterial lymphadenitis 
+(tuberculous and nontuberculous 
+mycobacteria)
+Viral infection (EBV, CMV, HHV-­6, 
+measles)
+Cat-­scratch disease
+Kawasaki disease
+Multisystem inflammatory syndrome 
+in children (MIS-­C) associated 
+with COVID-­19
+Thyroid disease
+Kimura disease
+Rosai-­Dorfman (sinus histiocytosis)
+Periodic fever, aphthous stomatitis, 
+pharyngitis, cervical adenopathy 
+(PFAPA) syndrome
+Kikuchi-­Fujimoto disease
+Unicentric Castleman disease
+Anterior Auricular
+Conjunctivitis or other eye infections
+Oculoglandular tularemia, cat-­scratch 
+disease, EBV, adenovirus
+Posterior Auricular
+Otitis media
+Viral infection (especially rubella, 
+parvovirus)
+Supraclavicular
+Malignancy or infection in the 
+mediastinum (right)
+Metastatic malignancy from 
+abdomen (left)
+Lymphoma
+Tuberculosis
+Epitrochlear
+Hand infection, arm infection*
+Lymphoma†
+Sarcoidosis
+Syphilis
+EBV
+HIV
+Inguinal
+Urinary tract infection
+Sexually transmitted 
+infection (especially syphilis 
+or lymphogranuloma 
+venereum)
+Lower extremity suppurative 
+infection
+Plague
+Hilar (Not Palpable, 
+Found on Chest 
+Radiograph or CT) (see 
+Table 48.4)
+Tuberculosis†
+Histoplasmosis†
+Blastomycosis†
+Coccidioidomycosis†
+Leukemia/lymphoma†
+Hodgkin disease†
+Metastatic malignancy*
+Sarcoidosis†
+Castleman disease
+Axillary
+Cat-­scratch disease
+Arm infection
+Malignancy of chest wall
+Leukemia/lymphoma
+Brucellosis
+CMV, cytomegalovirus; EBV, Epstein-­Barr virus; HHV-­6, human herpes­
+virus 6.
+*Unilateral.
+†Bilateral.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+891
+CHAPTER 48  Lymphadenopathy and Neck Masses
+Physical Examination
+Physical examination should assess general appearance and look for 
+findings that may reveal the underlying cause of lymphadenopathy. 
+Examination of the lymphatic system should establish the size, qual­
+ity, and distribution of any abnormal lymph nodes and should assess 
+for the presence of tenderness or changes in the overlying skin or sur­
+rounding tissues.
+Size
+The threshold beyond which a particular node is considered enlarged 
+varies by nodal group. In general, nodes over 1 cm in diameter are 
+considered enlarged; exceptions include epitrochlear nodes >0.5 cm in 
+diameter and inguinal nodes >1.5 cm in diameter.
+Quality
+The quality of the nodes often yields some clues as to the cause of the 
+adenopathy. The clinician should assess consistency, mobility, shape, 
+tenderness, and whether any changes to the overlying skin or soft tis­
+sues are present. The following general patterns are worth noting:
+ • Erythematous, tender, and warm: acute bacterial infection with 
+suppurative adenitis
+ • Tender, nonerythematous, and soft: viral infection or other sys­
+temic infection
+ • Firm, hard, rubbery, and nontender: lymphoma or other infiltrating 
+tumor
+ • Hard, matted, immobile, and nontender: primary or metastatic 
+tumor; fibrotic changes following acute infection
+Distribution
+All areas in which lymphadenopathy is commonly present should be 
+palpated, including the cervical, auricular, axillary, epitrochlear, ingui­
+nal, and supraclavicular areas. If more than two noncontiguous nodal 
+groups are abnormal, without evidence of distinct focal infections 
+inciting the lymphadenopathy within each group, the lymphadenop­
+athy is generalized.
+Regional lymphadenopathy usually reflects pathologic processes 
+within the lymphatic drainage distribution of that particular nodal 
+chain (see Table 48.2). Several patterns of regional lymphadenopathy 
+should prompt further evaluation. The presence of palpable supracla­
+vicular nodes is often a red flag for a serious illness such as malignancy. 
+Supraclavicular nodes that are palpated on the right side often reflect 
+a mediastinal tumor or invasive mediastinal infection, such as histo­
+plasmosis. Supraclavicular nodes on the left side are often the result 
+of metastatic spread of an abdominal tumor. The presence of either 
+type of node mandates an urgent evaluation, including a CBC with dif­
+ferential; imaging with chest radiography, CT, MRI, or PET scan; and 
+consideration of biopsy. Epitrochlear nodes, if unilateral, commonly 
+indicate the hand or arm as a source of distal infection; however, palpa­
+ble bilateral epitrochlear lymph nodes usually reflect systemic illness, 
+such as syphilis, sarcoidosis, or lymphoma. Inguinal node enlargement 
+is common and is usually caused by the frequent occurrence of minor 
+trauma and infections in the lower extremities of children. Significantly 
+enlarged inguinal nodes may also be present with sexually transmitted 
+infections, such as syphilis, chlamydial urethritis, or lymphogranuloma 
+venereum, or with urinary tract infection, lymphoma, or abdominal 
+tumors.
+Mediastinal adenopathy (or mass) may be detected incidentally, 
+secondary to chest symptoms, or during the evaluation of peripheral 
+but generalized lymphadenopathy. The differential diagnosis is noted 
+in Table 48.4.
+Evaluation and Management Strategies
+Many previously healthy children with acute lymphadenopathy 
+require few, if any, laboratory or imaging studies. No laboratory test­
+ing may be required for well-­appearing children whose acute, local­
+ized adenopathy can be attributed to an infection in the vicinity of 
+the node; similarly, generalized lymphadenopathy clearly associated 
+with a systemic viral infection may not require further evaluation. 
+The differential diagnosis of lymphadenopathy is developed in a 
+stepwise fashion, first by determining whether the lymphadenopathy 
+is regional or generalized. Next, the time course of the lymphade­
+nopathy should be defined as acute or chronic, the latter defined as 
+being present for a period of more than 4 weeks. Finally, the qual­
+ity of the nodes and the presence of any associated signs or symp­
+toms should be ascertained, as the extent of evaluation is dictated by 
+both the characteristics of the lymphadenopathy and the presence of 
+TABLE 48.3  Differential Diagnosis of 
+Generalized Lymphadenopathy
+Neonate
+Child
+Adolescent
+Common Causes
+CMV
+Nonspecific viral infections
+Viral infections
+HIV
+EBV
+EBV
+Syphilis
+CMV
+CMV
+Toxoplasmosis
+HIV
+HIV
+Toxoplasmosis
+Measles
+Measles
+Toxoplasmosis
+Syphilis
+Rare Causes
+Chagas disease 
+(congenital)
+Congenital leukemia
+Congenital tuberculosis
+Reticuloendotheliosis
+Metabolic storage 
+disease
+Histiocytic disorders
+Listeria sepsis
+Serum sickness
+SLE, JIA
+Leukemia/lymphoma
+Tuberculosis (miliary)
+Sarcoidosis
+DRESS
+Fungal infections
+Plague
+Leptospirosis
+Brucellosis
+Langerhans cell histiocytosis
+Macrophage activation 
+syndrome
+Hemophagocytic 
+lymphohistiocytosis
+Castleman disease (very rare 
+in this age group)
+Chronic granulomatous 
+disease
+Sinus histiocytosis (Rosai-­
+Dorfman disease)
+Kikuchi Fujimoto disease
+Autoimmune 
+lymphoproliferative 
+disease (ALP)
+Rickettsial infection
+Serum sickness
+SLE, JIA
+Leukemia/lymphoma
+Tuberculosis
+Sarcoidosis
+DRESS
+Fungal infections
+Plague
+Leptospirosis
+Brucellosis
+Drug reaction (immune)
+Castleman disease
+Rickettsial infection
+CMV, cytomegalovirus; DRESS, drug reaction, eosinophilia, systemic 
+symptoms; EBV, Epstein-­Barr virus; JIA, juvenile idiopathic arthritis (as 
+Still disease); SLE, systemic lupus erythematosus.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+892
+SECTION 9  Hematologic Disorders
+associated signs and symptoms. Using this approach, a comprehen­
+sive differential diagnosis and evaluation plan can then be developed 
+(Figs. 48.3 and 48.4).
+Regional Lymphadenopathy: General Evaluation Principles
+The typical child with acute regional lymphadenopathy presents with 
+enlarged nodes, commonly in the cervical region. A thorough history 
+and careful physical examination should reveal whether nodes are 
+definitely involved, as opposed to other non-­nodal structures, such as 
+salivary glands. In many cases, no other abnormalities are found on 
+examination, systemic signs are minimal, and no further evaluation is 
+required. Acute cervical lymphadenopathy in the presence of upper 
+respiratory infectious symptoms often requires only observation. In the 
+child whose presenting features are only fever and an acutely inflamed 
+unilateral cervical lymph node, bacterial lymphadenitis should be 
+considered. Laboratory tests should include a CBC and differential as 
+well as measurement of inflammatory markers such as the ESR, CRP, 
+or procalcitonin level. A trial of oral antibiotics (with activity against 
+mouth flora, streptococci, and staphylococci) may be considered; if the 
+lymphadenopathy persists or worsens, intravenous antibiotics may be 
+indicated, as should be consideration of diagnoses other than acute 
+unilateral bacterial lymphadenitis, such as lymphadenitis from tuber­
+culosis or atypical mycobacteria. In those instances, if clinical signs or 
+exposure history are suggestive, a purified protein derivative (PPD) or 
+interferon gamma release assay should be undertaken, and if the results 
+are negative and symptoms improve on the intravenous antibiotics, it is 
+reasonable to complete the antimicrobial course orally.
+In contrast, if the lymphadenopathy continues or becomes frank 
+lymphadenitis with erythema and tenderness despite antimicrobial 
+therapy, further work-­up is indicated. Imaging the involved area is 
+helpful but not always necessary. Although ultrasonography can reveal 
+enlarged nodes or a fluid-­filled abscess or cyst, contrast-­enhanced CT 
+of the area is the best method for defining the extent of inflamed nodes 
+and whether an abscess is present (Fig. 48.5). If an abscess is found, 
+incision and drainage, followed by appropriate bacterial and mycobac­
+terial cultures and stains, are appropriate. If atypical mycobacteria are 
+suspected on the basis of a borderline positive PPD or cross-­reacting 
+gamma interferon release array result or clinical presentation, fine-­
+needle aspiration or excisional biopsy is preferred because incision and 
+drainage often lead to draining sinus tracts that are difficult to heal 
+(Fig. 48.6). Enlarged nodes that do not recede in several weeks with 
+appropriate antimicrobial therapy and without explanation (such as 
+acute Epstein-­Barr virus [EBV] infection) should also raise the suspi­
+cion of malignancy.
+The presence of additional signs or symptoms should prompt 
+consideration of alternate diagnoses. Acute cervical lymphadenopa­
+thy accompanying pharyngitis in children older than 18 months may 
+necessitate testing for group A streptococci. The additional presence of 
+hepatomegaly or splenomegaly should raise suspicion of EBV-­related 
+infectious mononucleosis, in which case a CBC with white blood 
+cell differential (to identify lymphocytosis and atypical lymphocytes) 
+(Table 48.5) and EBV titers (or a monospot heterophile antibody test in 
+older children) may be helpful.
+Supraclavicular adenopathy, acute cervical adenopathy accom­
+panied by respiratory distress, or prolonged cervical adenopathy 
+warrants anteroposterior and lateral radiographs of the neck and/or 
+chest, a CBC with white blood cell differential, and interferon gamma 
+release assay or placement of PPD tuberculin skin test. CT with con­
+trast is necessary in certain situations to fully delineate cervical ade­
+nopathy that is excessively large or that impinges on the airway, or to 
+determine whether mediastinal adenopathy is also present. Empiric 
+glucocorticoid therapy, often considered in an attempt to reduce 
+discomfort associated with inflamed nodes, usually in the head and 
+neck area, should not be administered without definitively establish­
+ing the etiology of lymphadenopathy, as such treatment can delay or 
+obscure the diagnosis of hematologic malignancy, and prior gluco­
+corticoid therapy in the setting of hematologic malignancy can por­
+tend a higher risk classification and ineligibility for certain oncology 
+treatment protocols. Exceptions may be considered in instances of 
+impending critical airway obstruction secondary to severely enlarged 
+cervical lymph nodes.
+Generalized Lymphadenopathy: General Evaluation Principles
+In the child with generalized lymphadenopathy, the cause may be 
+infectious, immunologic, or malignant. Infectious causes, such as 
+HIV, EBV, CMV, toxoplasmosis, and secondary syphilis, can gen­
+erally be determined relatively quickly through serologic or nucleic 
+acid–based testing. Noninfectious causes, such as systemic lupus ery­
+thematosus, macrophage activation syndrome, hemophagocytic lym­
+phohistiocytosis, and serum sickness, can also generally be excluded 
+by a thorough history and specific laboratory studies. Drugs may 
+cause serum sickness or produce hypersensitivity reactions, either 
+of which may result in generalized lymphadenopathy. Medications 
+associated with drug-­induced lymphadenopathy include allopurinol, 
+atenolol, captopril, carbamazepine, gold, hydralazine, penicillins, 
+phenytoin, primidone, procainamide, pyrimethamine, quinidine, 
+sulfonamides, sulindac, and tetracyclines. If the generalized lymph­
+adenopathy cannot be attributed to a definite cause, if the nodes fail 
+to recede within several weeks, and especially if there are systemic 
+symptoms, malignancy must be considered. An abnormal CBC 
+demonstrating anemia, leukopenia, or thrombocytopenia, or radio­
+logic evidence of mediastinal adenopathy or pleural disease is highly 
+suggestive of malignancy. HIV, EBV, and CMV studies (culture, poly­
+merase chain reaction [PCR], and serologic profiles) may be obtained 
+TABLE 48.4  Differential Diagnosis of 
+Mediastinal Masses
+Anterior Mediastinum
+Lymphoma
+Thymic cyst
+Thymic hyperplasia
+Benign teratoma
+Malignant germ-­cell tumor
+Thymoma
+Langerhans cell histiocytosis (from bone)
+Middle Mediastinum
+Lymphoma
+Tuberculosis
+Histoplasmosis
+Sarcoidosis
+Posterior Mediastinum
+Neuroblastoma
+Ganglioneuroma
+Neurofibroma
+Sarcoma
+Duplication cyst
+From Alexander S, Ferrando AA. Pediatric lymphoma. In: Orkin SH, 
+et al., eds. Nathan and Oski’s Hematology and Oncology of Infancy and 
+Childhood. 8th ed. Philadelphia: Elsevier; 2015;2:1627, Box 53-­2.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+893
+CHAPTER 48  Lymphadenopathy and Neck Masses
+for some children. Because the diagnoses of leukemia (through bone 
+marrow aspiration, biopsy), lymphoma (through bone marrow aspi­
+ration, biopsy), systemic lupus erythematosus (through antinuclear 
+antibody, double-­stranded DNA antibodies), and cat-­scratch disease 
+(through biopsy and/or B. henselae serologic profile) require more 
+invasive and expensive tests, the physician should first consider all 
+aspects of the history and physical examination before ordering lab­
+oratory studies. Because serious disseminated infections, such as 
+tuberculosis and histoplasmosis, can manifest in a similar manner, 
+fine-­needle aspiration or biopsy of an involved node or bone marrow 
+aspiration is crucial. Excision of a node is preferred in some cases to 
+obtain adequate tissue for pathologic study, stains, or cultures.
+Small, nontender nodes
+Associated URI, skin
+or dental Infection
+Generalized
+(See Fig. 48.4)
+Adenitis 
+No
+Yes
+Warm, tender nodes
+± Fever
+± Erythema
+Chronic >4 weeks
+Signs and symptoms indicating
+  possible malignancy:
+  Supraclavicular location
+  Fixed and/or matted quality
+  Progressive, painless enlargement
+  Signs of airway obstruction
+  Prolonged constitutional symptoms
+    (fevers, night sweats, weight loss)
+LYMPHADENOPATHY
+Location
+Localized or regional
+Acute onset
+(<7 days)
+Pharyngitis
+Suppurative or
+  abscess
+Unilateral
+Reactive
+adenopathy
+Consider:
+Imaging
+CBC
+Blood culture
+Incision and drainage
+Aspiration
+Staphylococcus
+  aureus
+Group A -hemolytic
+  streptococcus
+Anaerobes
+Pasturella multocida
+Yersinia pestis
+LGV
+Syphilis
+Kawasaki disease
+Group A -hemolytic
+  streptococci
+Adenovirus
+EBV
+CMV
+HSV
+HHV-6
+Enterovirus
+Tests for group A streptococci
+  Rapid antigen detection test
+  Throat culture, PCR
+± CBC
+± “Monospot”
+± EBV titers
+± Viral polymerase chain reaction
+Sub-acute/
+chronic onset
+(>1-3 wk)
+Consider:
+CBC
+ESR
+CRP
+PPD and/or interferon-
+  gamma release
+  assay for tuberculosis
+Chest x-ray
+Test for group
+  A streptococci
+PCR/serology for EBV,
+  CMV, toxoplasmosis,
+  B. henselae, HIV
+Echocardiogram
+EBV
+CMV
+Toxoplasmosis
+M. tuberculosis
+Atypical mycobacterium
+S. aureus
+Group A -hemolytic
+  streptococci
+Cat-scratch disease
+Herpes simplex
+Kawasaki disease
+Kikachi-Fujimoto
+  disease
+CBC
+CRP
+ESR
+LDH
+Alkaline phosphatase
+Uric acid
+Imaging (chest x-ray/
+  CT/PET-MRI)
+Consider referral for
+  biopsy and/or bone
+  marrow studies
+Hodgkin disease
+Non-Hodgkin lymphoma
+Leukemia
+Neuroblastoma
+Rhabdomyosarcoma
+Thyroid cancer
+Fig. 48.3  Diagnostic algorithm for the evaluation of regional lymphadenopathy. CMV, cytomegalovirus; EBV, 
+Epstein-­Barr virus; HHV, human herpesvirus; HSV, herpes simplex virus; LDH, lactate dehydrogenase; LGV, 
+lymphogranuloma venereum; PCR, polymerase chain reaction; PET, position emission tomography; PPD, 
+purified protein derivative (tuberculosis skin test); RPR, rapid plasma reagin; URI, upper respiratory infection; 
+VDRL, Venereal Disease Research Laboratory. (Modified from Pomeranz AJ, Sabnis S, Busey SL, et al. Pedi­
+atric Decision-­Making Strategies. 2nd ed. Philadelphia: Elsevier; 2016:229.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+894
+SECTION 9  Hematologic Disorders
+Lymphadenopathy Patterns
+Several patterns of lymphadenopathy and their underlying causes 
+deserve special mention, due either to the frequency with which they 
+are encountered in pediatric practice or to the potential severity of the 
+underlying cause.
+Infections of the oropharynx. Pharyngeal infection is the most 
+common cause of regional lymphadenopathy in children (see Chapter 
+2). Many of these pharyngeal infections are associated with cervical 
+lymphadenopathy and are viral in origin. Frequent viral causes include 
+adenovirus, parainfluenza, influenza, rhinovirus, coronaviruses 
+Generalized lymphadenopathy
+No
+Yes
+Signs and symptoms indicating
+  possible malignancy:
+  Supraclavicular location
+  Fixed and/or matted quality
+  Progressive, painless enlargement
+  Signs of airway obstruction
+  Prolonged constitutional symptoms
+    (fevers, night sweats, weight loss)
+Drug reaction
+Consider:
+CBC
+CRP
+ESR
+Ferritin
+ANA
+VDRL/RPR
+ANCA
+PPD
+Chest x-ray
+Viral serology
+HIV test
+Lyme titers
+CMV/EBV titers or PCR
+Toxoplasma titers
+± Imaging (ultrasound/CT)
+± Biopsy
+Systemic symptoms
+± Rash
+± Fever
+± Hepatosplenomegaly
+± Arthritis/arthralgia
+History of drugs/medications
+(e.g., phenytoin, phenobarbital,
+carbamazepine, isoniazid,
+aspirin, penicillin, tetracycline,
+cephalosporins, sulfonamides)
+CBC
+CRP
+ESR
+LDH
+Alkaline phosphatase
+Uric acid
+Imaging (chest x-ray/
+  CT/PET-MRI)
+Consider referral for
+  biopsy and/or bone
+  marrow studies
+Hodgkin disease
+Non-Hodgkin lymphoma
+Leukemia
+Neuroblastoma
+Rhabdomyosarcoma
+Thyroid cancer
+Infectious
+  Viral (EBV, CMV, HHV-6, parvovirus B19, HIV,
+    HSV, rubella)
+  Bacterial (syphilis, Lyme disease, Salmonella,
+    brucellosis, disseminated tuberculosis)
+  Other infections (Toxocara, histoplasmosis,
+    malaria, toxoplasmosis)
+Sinus histiocytosis
+Immunologic (serum sickness, SLE, autoimmune
+  lymphoproliferative syndrome, autoimmune
+  hemolytic anemia, JIA-systemic onset)
+Storage diseases (Gaucher, Niemann-Pick)
+Sarcoidosis
+HLH
+MAS
+Castleman disease
+Fig. 48.4  Diagnostic algorithm for generalized lymphadenopathy. ANA, antinuclear antibody; ANCA, antineu­
+trophil cytoplasmic antibody; CMV, cytomegalovirus; EBV, Epstein-­Barr virus; HHV-­6, human herpesvirus 6; 
+HLH, hemophagocytic lymphohistiocytosis; HSV, herpes simplex virus; JIA, juvenile rheumatoid arthritis; LDH, 
+lactate dehydrogenase; MAS, macrophage activation syndrome; PCR, polymerase chain reaction; PET, position 
+emission tomography; PPD, purified protein derivative (tuberculosis skin test); RPR, rapid plasma reagin; SLE, 
+systemic lupus erythematosus; VDRL, Venereal Disease Research Laboratory. (Modified from Pomeranz AJ, 
+Sabnis S, Busey SL, et al. Pediatric Decision-­Making Strategies. 2nd ed. Philadelphia: Elsevier; 2016:231.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+895
+CHAPTER 48  Lymphadenopathy and Neck Masses
+(including severe acute respiratory syndrome-­coronavirus 2 [SARS-­
+CoV-­2]), and enterovirus. EBV and CMV also commonly cause 
+exudative pharyngitis and cervical lymphadenopathy. The chief 
+complaint usually includes pain with swallowing and with talking, as well 
+as tender, enlarged lymph nodes in the neck. Systemic manifestations, 
+such as fever, myalgia, chills, and rhinorrhea, may also be present. An 
+examination of the throat typically reveals a symmetrically erythematous 
+posterior oropharynx with enlarged tonsils that often contain exudates. 
+Exudates can be seen with both viral and bacterial causes of pharyngitis 
+and adenopathy, and thus do not reliably discriminate between the 
+two causes. Herpes stomatitis with mucocutaneous involvement and 
+herpes pharyngitis with oropharyngeal vesicles are also associated with 
+bilaterally enlarged, tender, nonerythematous cervical nodes.
+Bacterial infection of the pharynx is also commonly associated with 
+enlarged, tender cervical lymph nodes. Strains of group A β-­hemolytic 
+streptococci are the most common causes of such infections and are 
+difficult to differentiate clinically from viral causes of pharyngitis and 
+lymphadenopathy; thus, throat culture, PCR, or rapid antigen detec­
+tion is necessary. An associated sandpapery rash and beefy-­red tonsils 
+with palatal petechiae are not usually seen with viral pathogens and 
+should make the examiner consider group A streptococci and toxin-­
+mediated scarlet fever as a likely cause. Other bacteria can cause phar­
+yngitis and cervical adenopathy, including non–group A streptococci 
+and anaerobic organisms, such as Fusobacterium species. Anaerobic 
+organisms can lead to painful oral gingivitis or stomatitis and phar­
+yngitis (Vincent angina) that may progress to peritonsillar abscess. 
+Asymmetry in the tonsils and surrounding tissues, as well as deviation 
+of the uvula away from the affected side, may be seen with peritonsillar 
+abscesses, along with unilateral tender, enlarged cervical lymph nodes 
+ipsilateral to the abscess. Complications of acute bacterial pharyngitis 
+may also include Lemierre syndrome, the findings of which include 
+high fever and unilateral lateral neck swelling that may be confused 
+with adenopathy. Lemierre syndrome is due to septic thrombosis of the 
+internal jugular vein (and pulmonary septic emboli), usually caused by 
+invasion of the bloodstream by Fusobacterium organisms, and should 
+lead to prompt hospitalization, blood cultures, treatment with intrave­
+nous antibiotics, and imaging of the internal jugular vein via Doppler 
+flow ultrasonography or contrast-­enhanced CT.
+Acute cervical lymphadenitis—inflammation of the cervical lymph 
+nodes with tender enlargement—is most likely to occur with group A 
+streptococcal or Staphylococcus aureus infection. There may or may not 
+be a history of sore throat or pharyngeal inflammation on examination. 
+Infection with other oral bacteria, including non–group A streptococci 
+and anaerobes such as Fusobacterium or Arcanobacterium species, may 
+also occur, presumably with the pharynx as the portal of entry. Other 
+common sites for acute lymphadenitis are the submandibular nodes. 
+Usually, these nodes quickly diminish in size after institution of appro­
+priate antibiotic therapy, providing some degree of retrospective diag­
+nosis while simultaneously being therapeutic.
+Suppuration and spontaneous drainage of the nodes are less com­
+mon than adenitis and are not typically seen in the setting of viral 
+infections. Acute suppurative cervical adenitis can be seen in infections 
+of the face and scalp and is usually caused by infection with group A 
+streptococci or S. aureus. Management of suppuration includes incision 
+T
+T
+Fig. 48.5  Suppurative lymphadenitis in a 5-­year-­old female with neck 
+swelling and redness. Contrast-­enhanced CT image reveals a group of 
+enlarged nodes in the right posterior triangle with central hypoattenuat­
+ing necrosis (arrow). Also, note the enlarged tonsils (T) in this child with 
+recurrent tonsillitis. (From Lowe LH, Smith CJ. Infection and inflamma­
+tion. In: Coley BD, ed. Caffey’s Pediatric Diagnostic Imaging. 12th ed. 
+Philadelphia: Elsevier; 2013;1:139.)
+Fig. 48.6  Atypical mycobacterial infection frequently involves the sub­
+mandibular triangle and preauricular regions. (From Rizzi MD, Wetmore 
+RF, Potsic WP. Differential diagnosis of neck masses. In: Lesperance 
+MM, ed. Cummings Pediatric Otolaryngology. Philadelphia: Elsevier; 
+2015:252, Fig. 19.14.)
+TABLE 48.5  Differential Diagnosis of 
+Atypical Lymphocytosis
+Epstein-­Barr virus primary infection (infectious mononucleosis)
+Cytomegalovirus primary infection (heterophile-­negative mononucleosis)*
+Human herpesvirus 6 primary infection (roseola)
+Primary HIV infection
+Toxoplasmosis
+Acute viral hepatitis
+Rubella, mumps
+Drug hypersensitivity reaction (e.g., phenytoin, sulfa) (DRESS)
+*Cytomegalovirus is the most common cause of heterophile-­negative 
+mononucleosis.
+DRESS, drug reaction, eosinophilia, systemic symptoms.
+From Bennett JE, Dolin R, Blaser MJ. Mandell, Douglas, and Bennett’s 
+Principles and Practice of Infectious Diseases. 9th ed. Vol. 2. 
+Philadelphia: Elsevier; 2020:1884, Table 138.8.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+896
+SECTION 9  Hematologic Disorders
+and drainage or excision of the suppurative node. Gram stain and bac­
+terial, fungal, and mycobacterial cultures of the drainage should be 
+obtained. If there is concern for mycobacterial disease, a tuberculin 
+skin test should be placed and/or interferon-­γ release assay should be 
+performed. Total excision should be performed if atypical mycobac­
+terial infection is suspected, because draining fistulas may form if a 
+needle biopsy or partial resection is performed. Fine-­needle aspiration 
+may reduce the risk of sinus formation.
+Infections of the extremities. Bacterial infections of the skin and soft 
+tissues are common causes of localized lymphadenopathy and adenitis 
+and can lead to axillary or inguinal adenopathy if these infections 
+originate in the extremities. Primarily caused by group A β-­hemolytic 
+streptococci or S. aureus, these infections may drain into and inflame 
+single or multiple regional lymph nodes. Any laceration or insect bite 
+that becomes infected may yield adenopathy upstream in the nodal 
+drainage basin of the infected site. Occasionally, penetrating injuries 
+to the feet occurring through damp shoes or in wet areas may yield 
+infections with other bacteria, such as Pseudomonas aeruginosa. These 
+penetrating infections usually manifest with cellulitis or osteomyelitis; 
+lymphadenopathy is noted during the physical examination. The most 
+common sites of infection include the foot or leg, leading to unilateral 
+inguinal lymphadenitis, and the hand or arm, causing axillary 
+lymphadenitis or unilateral inflammation of the epitrochlear nodes. 
+Sporothrix schenckii, a fungus found in soil and on plant surfaces, can 
+also produce regional lymphadenopathy after a minor penetrating 
+injury, such as pricking a finger or toe on a rose thorn. Sporotrichosis 
+presents as a small nontender nodule at the site of entry that over days 
+to weeks spreads via lymphatic channels, producing ulcerating nodules 
+along the lymphatic drainage pathway and either axillary or inguinal 
+adenopathy, depending on the site of inoculation.
+Epstein-­Barr virus infection. Infection with EBV is a common cause 
+of both regional (bilateral cervical) and diffuse lymphadenopathy (see 
+Chapter 2). This virus classically causes a mononucleosis syndrome 
+in adolescents (Fig. 48.7), consisting of acute pharyngitis that may 
+have a prolonged course, with tender and firm cervical adenopathy, 
+malaise, fever, weight loss, and anorexia. Nearly half of patients will 
+have generalized lymphadenopathy as well. More than 80% of patients 
+have mild hepatitis (transaminitis) that is clinically silent but can be 
+documented with liver enzyme studies; approximately 10% become 
+jaundiced. Splenomegaly is present in more than 50% of patients and, 
+in rare cases, progresses to splenic rupture. A small number of patients 
+also have parapharyngeal and tonsillar lymphoid hyperplasia, which 
+causes difficulty swallowing or breathing and can produce significant 
+problems, leading to dehydration or airway obstruction. Small children 
+with EBV infection often present with atypical symptoms or may be 
+completely asymptomatic. In these children, fever and mild cervical 
+adenopathy may be the major symptoms on presentation, or the child 
+may be significantly ill with high fever and pharyngitis. In some, a 
+nonspecific rash, appearing often after beginning empiric antibiotic 
+therapy with penicillins, will suggest the diagnosis. Young children 
+with acute EBV infection are more likely to have hepatosplenomegaly, 
+rash, and eyelid edema than are young adults.
+The diagnosis of EBV infection in older children focuses on the 
+characteristic clinical syndrome and a relative lymphocytosis of 
+40–50% seen in the differential white blood cell count, with up to 
+20% atypical lymphocytes. Heterophile immunoglobulin M (IgM) 
+antibodies, which are non-­EBV directed and agglutinate sheep and 
+horse red blood cells, are found in more than 80% of young adults 
+with EBV and are at maximal titer 3–4 weeks after infection. Hetero­
+phile antibodies are rarely found in children younger than 5 years 
+with EBV infections. In young children, antibody titers directed 
+to specific EBV antigens are necessary to confirm the diagnosis 
+(Table 48.6). Temporally, IgM and immunoglobulin G (IgG) anti­
+bodies develop against the viral capsid antigen (VCA) first, followed 
+by antibodies directed against early antigen (EA). Antibodies to 
+nuclear antigens develop weeks later and, if present with EA IgG, 
+are indicative of infection in the recent past. Approximately 20% of 
+children present after the VCA IgM has already declined. In these 
+children, VCA and EA IgG are present.
+Organ transplant and other immunosuppressed patients may 
+develop a lymphoproliferative syndrome due to EBV that presents 
+with generalized lymphadenopathy, hepatosplenomegaly, and fever. 
+Diagnosis is based on the EBV viral load determined by PCR on blood.
+Because group A streptococcal infection can present in a simi­
+lar manner, or be present simultaneously with EBV infection, and 
+because other viruses can cause pharyngitis and tender, enlarged 
+cervical lymph nodes, differentiating these various causes of pharyn­
+gitis and lymphadenopathy is important. Acute streptococcal phar­
+yngitis can be identified on throat culture, PCR, or antigen testing 
+and improves after institution of penicillin therapy; EBV infections 
+do not improve with antibiotics, tend to result in a diffuse rash if 
+treated with penicillins, and have a more prolonged clinical course. 
+In addition, severe malaise and splenomegaly do not occur with 
+most bacterial or viral causes of pharyngitis and cervical lymphade­
+nopathy, and these findings should prompt the clinician to consider 
+EBV infection. Similarly, most viral causes of cervical adenopathy 
+and pharyngitis, with the exception of CMV, are not associated with 
+the brisk atypical lymphocytosis commonly seen with EBV infec­
+tions, and they are not usually associated with abnormal liver func­
+tion results.
+Cytomegalovirus infection. Infection with CMV in immuno­
+competent children can result in a mononucleosis syndrome with 
+atypical leukocytosis and lymphadenopathy. CMV mononucleosis is 
+associated with fever and malaise similar to that seen in EBV; in contrast 
+to EBV, CMV mononucleosis does not usually cause severe, exudative 
+tonsillopharyngitis or the production of heterophile-­specific or EBV-­
+specific antibodies. Women who are pregnant when they have primary 
+CMV infections are at risk of delivering a child with congenital CMV 
+infection through transplacental infection; approximately 10% of these 
+neonates will have severe systemic findings. Lymphadenopathy may be 
+present in congenital CMV but is not a common finding. Intrapartum 
+transmission via cervical secretions or postpartum transmission via 
+breast milk typically does not result in clinically apparent infection. 
+Identifying CMV in the urine of the neonate in the first week of life 
+confirms congenital infection.
+7
+14
+21
+28
+Day of illness
+0
+25
+50
+75
+100
+% of patients with physical signs
+Jaundice
+Skin
+rash
+Periorbital
+Pharyngitis, tonsillitis
+Edema
+Adenopathy
+Splenomegaly
+Fever
+Palatal
+enanthem
+Fig. 48.7  The clinical course of acute Epstein-­Barr mononucleosis. 
+Adenopathy occurs early in the infection and can persist for weeks. 
+(Modified from Rapp CE, Hewston JF. Infectious mononucleosis and 
+the Epstein-­Barr virus. Am J Dis Child. 1978;132:78.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+897
+CHAPTER 48  Lymphadenopathy and Neck Masses
+The diagnosis in older children is usually made serologically, in 
+tests measuring both IgM and IgG antibodies directed to CMV. Simul­
+taneous testing for EBV may reveal cross-­reactivity, with some patients 
+with positive CMV titers also demonstrating low-­level positivity for 
+EBV; a similar phenomenon may be seen in patients with EBV who 
+demonstrate low-­level cross-­reactivity with CMV. Viral culture and 
+nucleic acid amplification assays can also identify CMV from blood, 
+throat swab, and urine specimens. Although CMV culture (especially 
+from the urine) is frequently positive in children with CMV infection, 
+many children, especially those in daycare, are silently infected and 
+excrete CMV in the absence of clinical signs and symptoms. Therefore, 
+CMV culture is less useful in the toddler age group.
+Cat-­scratch disease. Cat-­scratch disease is caused by a small 
+gram-­negative bacillus, B. henselae, which can also cause bacillary 
+angiomatosis in patients with HIV infection. Cat-­scratch disease 
+occurs several days after the scratch or bite of an infected cat or kitten. 
+A papule at the site of the trauma usually develops, followed 1–3 
+weeks later by regional lymphadenopathy; there is no lymphangitis. 
+Most patients with cat-­scratch disease have a single enlarged, usually 
+nonsuppurative lymph node. Nodes may be tender, particularly in 
+the up to 30% of patients whose nodes suppurate. Axillary nodes 
+are the most common to be enlarged, likely secondary to the upper 
+extremities being the part of the body most frequently scratched or 
+bitten. The next most common sites for adenopathy are the neck and 
+jaw, followed by the inguinal region. Although single nodes are most 
+commonly affected, regional adenopathy may also occur. Generalized 
+lymphadenopathy is unusual in the immunocompetent host.
+Approximately half the patients have low-­grade fever and mal­
+aise, but a small number have high fevers (>39.5°C) and more severe 
+systemic symptoms. In most patients, the swollen, inflamed nodes 
+regress spontaneously within several weeks, though almost one-­third 
+of patients progress to have purulent drainage that is culture negative 
+by standard techniques. Uncommon complications include a sponta­
+neously resolving encephalopathy, erythema nodosum, oculoglandular 
+syndrome of Parinaud (in which B. henselae is inoculated into the eye 
+and causes conjunctivitis and preauricular adenopathy), thrombocyto­
+penia, hepatitis or splenitis with granulomas, transverse myelitis, and 
+in rare cases osteolytic bone lesions. Other causes of oculoglandular 
+syndrome include tularemia, adenoviruses, and enteroviruses.
+The diagnosis is based on the history of contact with kittens or 
+cats and the classic clinical manifestations; evaluation should include 
+a careful search for an entrance site papule. Confirmatory testing is 
+difficult, as B. henselae is a fastidious organism and is difficult to iso­
+late via conventional culture techniques. Acute and convalescent anti­
+body titers are typically employed, though the clinician should exercise 
+caution in interpretation given the high rate of seroprevalence in the 
+general population and the potential for cross-­reactivity with other 
+infections. Pathologic samples of tissue from the involved node may 
+provide further evidence if they demonstrate granulomas, central 
+necrosis, and organisms on Warthin-­Starry silver stain. The decision to 
+perform a biopsy is usually predicated on there being no clear history 
+of a preceding contact with a cat or kitten or when the presentation is 
+atypical and cannot be differentiated from other, more serious illnesses, 
+such as mycobacterial adenitis.
+Chronic granulomatous disease. Chronic granulomatous disease 
+(see Chapter 54) comprises a group of rare inherited disorders of 
+neutrophil function, characterized by recurrent pyogenic infections 
+that are often accompanied by lymphadenopathy and/or abscess 
+formation. Most cases are inherited in an X-­linked manner; the 
+remining one-­third are autosomal recessive. Chronic granulomatous 
+disease should be considered in a young child (often a male) who 
+presents with recurrent fevers and infection, pneumonia, adenopathy, 
+and abdominal pain. Family history often reveals another relative 
+with the disease or includes a death from an infection in a young 
+child. Common pathogens contain catalase and include S. aureus and 
+Aspergillus species.
+The diagnosis is established via neutrophil function tests, such as 
+nitroblue tetrazolium testing, which demonstrate the defective neutro­
+phil oxidation. Positive findings on neutrophil function tests are con­
+firmed via molecular genetic analysis that demonstrates pathogenic 
+variants in genes that encode subunits of phagocyte nicotinamide 
+adenine dinucleotide phosphate (NADPH) oxidase: X-­linked disease 
+is caused by pathogenic variants in CYBB; autosomal recessive disease 
+is caused by pathogenic variants in CYBA, NCF1, NCF2, and NCF4.
+TABLE 48.6  Antibodies to Epstein-­Barr Virus
+Antibody 
+Specificity
+Time of Appearance 
+in Infectious 
+Mononucleosis
+Percentage of EBV-­
+Induced Mononucleosis 
+Cases with Antibody
+Persistence
+Comments
+Viral Capsid Antigens
+IgM VCA
+At clinical presentation
+100
+4–8 wk
+Highly sensitive and specific major diagnostic utility
+IgG VCA
+At clinical presentation
+100
+Lifelong
+High titer at presentation and lifelong persistence 
+make IgG VCA more useful as epidemiologic tool 
+than as diagnostic tool in individual cases
+Early Antigens
+Anti-­EA-­D
+Peaks at 3–4 wk after onset
+70
+3–6 mo
+Correlated with severe disease; also seen in 
+nasopharyngeal carcinoma
+Anti-EA-R
+2 wk to several months after 
+onset
+Low
+2 mo to >3 yr
+Occasionally seen with unusually severe or protracted 
+illness, also seen in African Burkitt lymphoma
+Latent Antigen
+EBV nuclear antigen
+3–4 wk after onset
+100
+Lifelong
+Late appearance helpful in diagnosis of heterophile-­
+negative cases
+EA, early antigen; EBV, Epstein-­Barr virus; IgG, immunoglobulin G; IgM immunoglobulin M; VCA, viral capsid antigen.
+From Bennett JE, Dolin R, Blaser MJ. Mandell, Douglas, and Bennett’s Principles and Practice of Infectious Diseases. 9th ed. Vol. 2. Philadelphia: 
+Elsevier; 2020:1884, Table 138.9.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+898
+SECTION 9  Hematologic Disorders
+Human immunodeficiency virus. Initial infection with HIV may 
+manifest as a heterophile-­negative mononucleosis-­like acute retroviral 
+syndrome consisting of diffuse lymphadenopathy, fever, sore throat, 
+rash, myalgia, diarrhea, leukopenia, thrombocytopenia, and general 
+malaise. Patients with HIV infection who are not diagnosed and treated 
+go on to have weight loss or poor weight gain and acquire thrush and 
+other opportunistic infections, such as pneumonia caused by 
+Pneumocystis jirovecii; the presence of such infections should 
+prompt consideration of congenital or acquired immunodeficiency 
+(see Chapter 54). HIV-­infected children are also more likely 
+than immunocompetent hosts to have other infectious causes of 
+lymphadenopathy, such as tuberculosis, atypical mycobacterium, CMV, 
+or fungi, or noninfectious causes, such as lymphoma or Kaposi sarcoma 
+(human herpesvirus type 8 [HHV-­8]). Regional lymphadenopathy 
+is not a common manifestation of HIV infection unless the regional 
+adenopathy represents a distinct focal infection. The diagnosis of HIV 
+infection is typically established via a rapid combined antibody/antigen 
+immunoassay that detects antibodies to HIV-­1 and HIV-­2, as well as 
+the p24 antigen present in early stages of HIV-­1 infection. Patients 
+for whom this combined immunoassay is negative should not require 
+further testing unless there is concern for very early infection or recent 
+significant exposure, in which case HIV-­1 nucleic acid testing should 
+be performed immediately and the immunoassay repeated after a short 
+interval. Patients for whom the initial immunoassay is positive require 
+further testing to determine whether infection is due to HIV-­1 or HIV-­
+2. Negative or indeterminate results on this further testing should be 
+followed by nucleic acid amplification testing for HIV-­1 or by repeating 
+the testing algorithm if HIV-­2 is suspected.
+Mycobacterial infections. Tubercular cervical adenitis is not 
+common in the United States, though can be associated with ingestion 
+of raw, contaminated milk and infection with M. bovis. Regional or 
+diffuse lymphadenopathy caused by infection with Mycobacterium 
+tuberculosis is also unusual in nonendemic nations; it is increasing in 
+frequency in children in the United States as a result of an increase in 
+the number of adults actively infected with tuberculosis. This increase 
+is attributable to several issues, including immigration from endemic 
+areas, reduction in tuberculosis control programs, the likelihood 
+of HIV-­infected individuals to have a high mycobacterial burden, 
+noncompliance by infected individuals with multidrug treatment 
+regimens, and drug resistance by the organism. Most adenitis caused 
+by mycobacteria in the United States is caused by atypical strains that 
+are not serious pathogens in the immunocompetent host.
+Several historical and clinical criteria can be used to differentiate 
+tuberculous adenitis from atypical mycobacterial infections. Most chil­
+dren with tuberculosis have a history of exposure to an adult with active 
+tuberculosis. Infection with atypical mycobacteria is more common in 
+the southern parts of the United States. Children with tuberculous ade­
+nitis may have hilar lymphadenopathy because the lungs are usually 
+the source of primary infection. Evidence of extralymphatic disease 
+is also common in children with tuberculosis; such disease includes 
+pneumonia, pleural effusions, bone marrow suppression, liver function 
+abnormalities, and disseminated (miliary) disease. Miliary tuberculo­
+sis may manifest with diffuse lymphadenopathy and should be con­
+sidered if pulmonary infiltrates and systemic symptoms are present. 
+Such extralymphatic disease and diffuse lymphadenopathy are rare in 
+immunocompetent children with adenitis caused by atypical mycobac­
+teria but may occur in the setting of HIV infection.
+The most common mycobacterial infection in children in the United 
+States is the infection of the lymph nodes with the atypical mycobac­
+teria, primarily Mycobacterium avium-­intracellulare complex, Myco­
+bacterium kansasii, Mycobacterium scrofulaceum, and Mycobacterium 
+marinum. The involved lymph nodes are usually tender, unilateral, and 
+cervical in most infections, presumably because the organism enters 
+via the oropharynx. Most frequently, a previously healthy child pre­
+sents with a mass that is really unilateral lymphadenitis or adenopa­
+thy in the cervical, submandibular, or submaxillary region (Figs. 48.6 
+and 48.8). Although fever may be present, other significant systemic 
+symptoms are usually not present. In a small number of patients, the 
+affected node spontaneously ruptures and drains before the visit to 
+the physician. The drainage is not usually grossly purulent and may 
+be a clue that atypical mycobacteria are the cause of the infected node. 
+Regional adenopathy may also be seen after immunization with bacille 
+Calmette-­Guérin (BCG) vaccine.
+The gold standard for diagnosis of lymphadenitis caused by atypi­
+cal mycobacteria is acid-­fast staining and culture of the excised node. 
+Incision and drainage of these nodes may lead to chronically draining 
+sinus tracts, which may leave scars; thus, this method is contrain­
+dicated. The usual scenario involves a young, preschool-­aged child 
+with an enlarged cervical node (or nodes) that responds poorly to 
+antibiotics. The child has no history of contact with cats and is oth­
+erwise well. A tuberculin skin test often yields 5–9 mm of induration 
+because atypical mycobacteria have antigens cross-­reactive to those of 
+tuberculosis. This amount of induration is considered indeterminate 
+for tuberculosis in low-­risk patients and suggests that the adenop­
+athy is caused by an atypical mycobacterium. Interferon-­γ release 
+assays will be positive for M. tuberculosis, M. bovis, and some atyp­
+ical mycobacterium (M. marinum, M. kansasii) but will be negative 
+for BCG and infection with M. avium-intracellulare complex. Grad­
+ual resolution of lymphadenitis sometimes occurs in children with 
+atypical mycobacterial infections. Excisional biopsy is not necessary 
+if the diagnosis is made presumptively from skin test results of <10 
+mm induration, if other infections are ruled out, if resolution occurs, 
+Fig. 48.8  Nontuberculous mycobacterial infection in a 10-­year-­old male 
+with left neck swelling. Axial contrast-­enhanced CT image shows a 
+cluster of enlarged nodes in the left neck containing low-­attenuation 
+necrotic centers (arrow). (From Lowe LH, Smith CJ. Infection and 
+inflammation. In: Coley BD, ed. Caffey’s Pediatric Diagnostic Imaging. 
+12th ed. Philadelphia: Elsevier; 2013;1:139.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+899
+CHAPTER 48  Lymphadenopathy and Neck Masses
+and if the child is at low risk for infection with M. tuberculosis (see 
+Chapter 3). If the node does not improve, continues to enlarge, or 
+spontaneously drains, excision is recommended and is usually cura­
+tive. Fine-­needle aspiration (for culture and acid-­fast staining) may 
+also be used if the node is in an area where excision is impractical.
+Toxoplasmosis. Toxoplasma gondii is a protozoan organism that 
+is a parasite of cats. Many other animals, including humans, can 
+be incidentally and chronically infected hosts in which the parasite 
+cannot complete its life cycle. Human acquisition of toxoplasmosis can 
+result from contact with cat feces or soil that contains oocysts, which 
+infect the host upon ingestion. Alternatively, the ingestion of tissue 
+cyst-­containing raw or undercooked meat, particularly lamb or pork, 
+may lead to infection. Adults in the United States are more likely to be 
+infected from ingestion of raw meat than from contact with oocysts 
+in cat feces or soil. Finally, infection can be transmitted to the fetus, 
+especially when a pregnant woman is acutely infected with toxoplasmosis. 
+Although many fetal infections are asymptomatic, transplacental 
+infection with toxoplasmosis can result in severe neurologic damage, 
+chorioretinitis, aseptic meningitis, and significant systemic illness 
+manifesting with the classic triad of hepatosplenomegaly, intracranial 
+calcifications, and hydrocephalus. Although lymphadenopathy can occur 
+in the newborn with congenital toxoplasmosis, it is a more common 
+symptom of acute toxoplasmosis in older children and young adults.
+The most common symptoms in children who acquire toxoplas­
+mosis are lymphadenopathy, fever, malaise, myalgia, and pharyngitis. 
+Most commonly affected are the anterior and posterior cervical and 
+axillary nodes, which may be tender; involvement is usually bilateral. 
+The lymph node enlargement seen in toxoplasmosis is caused by retic­
+ular hyperplasia and inflammation. Most laboratory results are normal, 
+but the white blood cell count may show an absolute lymphocytosis 
+with atypical lymphocytes, which can cause confusion with EBV, HIV, 
+or CMV mononucleosis.
+The diagnosis is made primarily with serologic studies. Various diag­
+nostic techniques can be used on the patient’s serum, including indirect 
+immunofluorescence, complement fixation, and enzyme-­linked immu­
+nosorbent assay. A fourfold rise in IgG titer or the presence of IgM anti­
+bodies is diagnostic. In neonatal infections, tests measuring IgM have 
+become more sensitive and specific. If biopsy is performed, actual par­
+asite forms can sometimes be demonstrated. Antigen tests and cultures 
+that grow the parasite are also available but primarily on an investiga­
+tional level.
+Syphilis. Syphilis, caused by the spirochete Treponema pallidum, is 
+common in the United States (see Chapter 21). The natural course of 
+noncongenital syphilis includes three major clinical manifestations:
+ • Primary syphilis, in which the individual develops a painless chan­
+cre at the site of inoculation
+ • Secondary syphilis, in which the organism disseminates hematog­
+enously to many organs
+ • Tertiary syphilis, in which gummatous lesions develop in end 
+organs, such as the brain, heart, and bones
+Lymphadenopathy can be seen as one of the manifestations of syphi­
+lis in several situations. In primary syphilis, in which the inoculation site 
+is usually the genital area, regional lymphadenopathy with painless, firm 
+nodes occurs at the time that a chancre is observed. Inguinal adenopathy 
+in an adolescent who is sexually active mandates further examination 
+and work-­up for sexually transmitted infections such as syphilis. In sec­
+ondary syphilis, the organism has disseminated, with multiple organs 
+involved. The classic manifestations are protean and usually include non­
+vesicular rashes and systemic symptoms that may include fever, malaise, 
+anorexia, and weight loss. Lymphadenopathy, regional or generalized, is 
+common and often includes epitrochlear nodes.
+Pregnant women with syphilis who are untreated readily trans­
+mit the disease to the fetus, causing congenital syphilis, often with 
+significant sequelae. Infants with congenital syphilis may also have 
+generalized lymphadenopathy, although this finding is less common 
+than other systemic symptoms, such as hepatosplenomegaly, snuffles, 
+and periosteal reactive disease.
+The diagnosis has been complicated by the inability to grow the 
+organism in vitro. Dark-­field examination of exudate from a chancre 
+or other superficial lesion, nasal discharge, or placental tissue shows 
+numerous spirochetes, but dark-­field methods are often unavailable to 
+routine laboratories. The organism can be detected via nucleic acid–
+based testing, though such assays have not been approved for clinical 
+use; serologic assays continue to be the primary mode of diagnosis. 
+Nontreponemal serologic studies rely on host production of antibod­
+ies to nonspecific lipoidal host tissue antigens that arise as a result of 
+infection with the spirochete. These tests include the Venereal Disease 
+Research Laboratory (VDRL) test, the serologic test for syphilis, and 
+the rapid plasma reagin (RPR) test. Levels of these antibodies decline 
+after adequate treatment and are useful in confirming eradication of the 
+infection. False-­positive reactions can occur, particularly in individu­
+als with connective tissue disorders or mononucleosis. False-­negative 
+results can be seen in early primary syphilis, in latent infection, late in 
+congenital syphilis, or in the presence of high antibody concentrations, 
+in which case retesting a diluted specimen can produce a true-­positive 
+result. In contrast to nontreponemal assays, the fluorescent treponemal 
+antibody absorption test (FTA-­ABS) measures antibodies directed spe­
+cifically to T. pallidum and can be used as a confirmatory test in indi­
+viduals with positive results on nontreponemal tests. These antibodies 
+usually remain present for the life of the infected individual, even if 
+the patient receives adequate therapy. Thus, in contrast to nontrepo­
+nemal tests, the FTA-­ABS has little use in monitoring the efficacy of 
+treatment.
+Acute leukemia, lymphoma, and other malignancies. Lymphade­
+no­pathy is frequently among the presenting findings in patients 
+with leukemia or lymphoma. Enlarged lymph nodes may be noted 
+in an isolated, regional, or generalized distribution, with or without 
+classic systemic symptoms, such as fever, malaise, night sweats, 
+weight loss, and anorexia. Malignant nodes are usually firm, rubbery, 
+fixed, and nontender, and may be matted. Unlike many of the acute 
+lymphadenopathies caused by infectious agents, most lymph nodes that 
+are malignant increase in size gradually. Additional findings suggestive 
+of malignancy include age older than 10 years, size >2.5 cm, duration 
+>6 weeks (and increasing in size), and supraclavicular location.
+Approximately 50% of children with acute lymphoblastic leu­
+kemia have adenopathy at the time of diagnosis. Nodal disease may 
+be either generalized or localized to regional nodal groups, often the 
+cervical chains. Nodal disease is frequently accompanied by other 
+signs and symptoms, including fevers, malaise, weight loss, pallor, 
+bone pain, petechiae and bruising, splenomegaly, or hepatomegaly. 
+The CBC usually demonstrates anemia, thrombocytopenia, leukocy­
+tosis or leukopenia, circulating blasts, or some combination thereof. 
+Some patients may have normal peripheral blood laboratory results 
+on initial evaluation. Acute myelogenous leukemia is less common in 
+children but may manifest in a similar manner. Bone marrow biopsy 
+and aspiration must be performed, and the findings are diagnostic.
+Non-­Hodgkin lymphoma is a relatively common childhood malig­
+nancy and often manifests with mediastinal or pleural disease. Ade­
+nopathy in the supraclavicular, cervical, or axillary regions is usually 
+present and may occur in the absence of chest involvement. Systemic 
+symptoms are variable at the time of diagnosis. Lymph nodes, as in 
+other malignancies, tend to be firm, nontender, and rubbery, and their 
+size may increase relatively rapidly over several weeks. Because lym­
+phoblastic lymphoma may represent a variant of acute lymphoblas­
+tic leukemia, the signs and symptoms of leukemia and lymphoma 
+may merge. Non-­Hodgkin lymphoma of B-­cell origin (Burkitt and 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+900
+SECTION 9  Hematologic Disorders
+non-­Burkitt lymphoma) in children in the United States usually orig­
+inates in an intraabdominal site, and regional adenopathy, if present, 
+is then in the inguinal or iliac regions. The African variety of Burkitt 
+lymphoma often manifests as an expanding jaw mass.
+Hodgkin disease often presents with painless cervical or supracla­
+vicular lymphadenopathy in older school-­aged children and adolescents. 
+Nodes are firmer than those seen in patients whose nodes are enlarged in 
+reaction to infections. In a small number of children with Hodgkin dis­
+ease, the size of the nodes may wax and wane for several months before 
+a definitive diagnosis is made. Supraclavicular nodes usually indicate 
+intrathoracic disease, which is present in 60–70% of patients at the time 
+of diagnosis. Axillary or inguinal nodes may also be the sites of present­
+ing lymphadenopathy. Approximately 30% of patients with Hodgkin dis­
+ease have systemic symptoms at presentation, including fatigue, weight 
+loss, fevers, night sweats, and poor appetite. Some patients with Hodgkin 
+disease also have unusual symptoms, such as pruritus, hemolytic anemia, 
+and chest pain after alcohol ingestion. Such systemic symptoms with 
+lymphadenopathy are red flags for immediate work-­up for malignancy. 
+Diagnosis is confirmed by biopsy of involved nodes and/or bone marrow 
+aspiration, if the tumor has spread to the bone marrow.
+Disseminated neuroblastoma may manifest as diffuse adenopa­
+thy in younger children. Such children often have primary adrenal or 
+paraspinal masses with bone metastasis and have nonspecific systemic 
+symptoms, abdominal mass, bone pain, and, sometimes, symptoms of 
+spinal cord compression. Other tumors, such as rhabdomyosarcoma 
+and thyroid cancer, manifest in rare cases with lymphadenopathy 
+caused by local or disseminated metastasis.
+Ulceroglandular disorders. Ulceroglandular (lymphocutaneous) 
+disorders usually involve an initial injury or bite to an extremity with a 
+resulting cutaneous lesion (ulcer, eschar, or papule) and enlarged regional 
+nodes, with or without lymphangitis (Table 48.7). In some, the cutaneous 
+lesion is secondary to hematogenous spread; in these circumstances the 
+lymph node enlargement may then be generalized (e.g., monkeypox).
+Kimura disease. Kimura disease is characterized by the development 
+of benign, nontender subcutaneous nodules in the head and neck with 
+associated regional lymphadenopathy, blood and tissue eosinophilia, 
+and elevations in serum immunoglobulin E. Lesions typically appear 
+in adolescence or early adulthood; the condition is more common in 
+biological males of Asian descent. Biopsies should be performed to 
+rule out malignancy. Histologic specimens show massive eosinophilic 
+infiltration of the nodules and affected lymph nodes. Up to 60% of 
+affected patients may develop kidney disease, oftentimes nephrotic 
+syndrome. Treatment modalities include surgery, radiation therapy, 
+and glucocorticoids, though are typically reserved for patients with 
+functional or aesthetic impairments secondary to the lesions.
+Kikuchi-­Fujimoto disease (histiocytic necrotizing lymphadenitis). 
+Kikuchi disease is a rare, usually self-­limiting disease with onset in 
+late childhood through early adolescence, usually presenting as firm 
+unilateral posterior cervical adenitis, fever, malaise, elevated ESR, 
+atypical lymphocytosis, and leukopenia. Nodes are often as large 
+as 3 cm, though some can be larger. Nodes are painful or tender in 
+approximately 50% of cases, may be multiple in number, and must be 
+differentiated from lymphoma. Node involvement may occasionally be 
+bilateral or present in locations other than the cervical region, such as 
+in the axillary or supraclavicular regions.
+The etiology is presumed to be secondary to an abnormal immune 
+response; diagnosis is established via lymph node biopsy. Histologic fea­
+tures include necrosis with karyorrhexis (i.e., fragmentation of the nucleus 
+with breakup of chromatin), a histiocytic infiltrate, crescentic plasmacyt­
+oid monocytes, and an absence of neutrophils. The disease is self-­limiting 
+and usually spontaneously resolves within 6 months, although relapses 
+may occur. Therapy with systemic steroids is reserved for cases with 
+severe symptoms. Autoimmune diseases have been associated with Kiku­
+chi disease, most commonly systemic lupus erythematosus.
+Sinus histiocytosis with massive lymphadenopathy (Rosai-­
+Dorfman disease). This rare non-­Langerhans histiocytosis typically 
+presents with massive, bilateral, painless, and mobile cervical 
+lymphadenopathy with associated fever, leukocytosis, and elevated 
+ESR; polyclonal elevation of IgG may be present. Night sweats and 
+weight loss are common; autoimmune hemolytic anemia is a less 
+common associated finding.
+Other nodal chains may be involved. Extranodal disease occurs in 
+40% of cases; the most common sites are the skin, followed by the nasal 
+cavity and sinuses, palate, orbit, bone (lytic lesions), and central nervous 
+system. Patients presenting with features suggestive of Rosai-­Dorfman 
+disease (RDD) should undergo a comprehensive evaluation aimed 
+at identifying conditions that may predispose to RDD and excluding 
+alternate diagnoses such as malignancy or hemophagocytic lympho­
+histiocytosis (see Chapter 54), as well as establishing the extent of any 
+extranodal involvement. Predisposing conditions include a family his­
+tory (pathogenic variants in SLC29A3 and TNFRSF have been associated 
+with RDD), concurrent lymphoma, autoimmune disease (in particular, 
+systemic lupus erythematosus and juvenile idiopathic arthritis), and 
+elevated IgG4 levels. Diagnosis requires biopsy: histology demonstrates 
+pale S100+, CD68+, and CD1a− histiocytes containing engulfed lympho­
+cytes. These histologic findings, in conjunction with expected clinical 
+features, are diagnostic. Spontaneous remission may occur after a pro­
+longed course, though most patients benefit from treatment, which may 
+include glucocorticoids, surgical resection, immunomodulators such as 
+sirolimus, chemotherapy, or radiation therapy.
+Castleman disease (angiofollicular lymph node hyperplasia). 
+Castleman disease is an uncommon lymphoproliferative disease usually 
+seen in adolescents or young adults. Enlargement of a single node, most 
+often in the mediastinum or abdomen, is the most common localized 
+presentation. Some patients may have fever, night sweats, weight loss, 
+and fatigue. Management includes surgery and/or radiation therapy.
+Multicentric Castleman disease is a systemic lymphoproliferative 
+disorder that causes lymphadenopathy, hepatosplenomegaly, fever, ane­
+mia, overexpression of interleukin-­6 (IL-­6), and polyclonal hypergam­
+maglobulinemia. Multicentric Castleman disease is classified as being 
+associated with human herpesvirus-­8 infection or as being idiopathic; 
+TABLE 48.7  Ulceroglandular Disorders
+Anthrax
+Tularemia
+Herpes simplex
+Pasteurella multocida (dog or cat bite)
+Rickettsialpox
+Tick-­borne lymphadenopathy syndrome
+Mediterranean spotted fever
+African tick bite fever
+Typhus
+Cat-­scratch disease
+BCG immunization
+Spirillary rat-­bite fever
+Plague
+Nocardiosis
+Actinomycosis
+Cutaneous diphtheria
+Cutaneous coccidioidomycosis
+Cutaneous histoplasmosis
+Cutaneous leishmaniasis
+Cutaneous tetanus
+Monkeypox
+BCG, bacille Calmette-­Guérin.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+901
+CHAPTER 48  Lymphadenopathy and Neck Masses
+rarely, some patients with idiopathic multicentric Castleman disease 
+develop a potentially life-­threatening variant characterized by throm­
+bocytopenia, anasarca, fevers, reticulin myelofibrosis, and organomeg­
+aly (TAFRO syndrome). Treatment options include glucocorticoids, 
+chemotherapy, and immunomodulating therapy directed against 
+CD20 or the IL-­6 pathway.
+Kawasaki disease. Kawasaki disease (see Chapter 53) is a medium-­
+vessel vasculitis of childhood of uncertain etiology. The hallmark of 
+Kawasaki disease is a high, unremitting, and prolonged fever of 5 or 
+more days’ duration in the presence of specific associated symptoms; 
+diagnostic criteria for classic Kawasaki disease include four or more 
+of the following: cervical lymphadenopathy that is typically >1.5 cm in 
+diameter and unilateral; a polymorphous rash; bilateral nonexudative 
+bulbar conjunctivitis; extremity changes (acutely, palmar erythema or 
+swelling of the hands and feet; subacutely, periungual peeling of the 
+fingers and toes), and changes in the lips or oral cavity (e.g., redness, lip 
+cracking, strawberry tongue, mucosal injection).
+Mimics of Kawasaki disease include certain viral infections such 
+as adenovirus, though the identification of a specific viral pathogen 
+in the setting of findings strongly consistent with Kawasaki disease 
+does not preclude the possibility that the virus induced an aberrant 
+host response resulting in Kawasaki disease. Features of Kawasaki dis­
+ease are also shared with multisystem inflammatory syndrome in 
+children (MIS-­C) associated with COVID-­19 infection. Estimated 
+to affect <1% of children infected with SARS-­CoV-­2, MIS-­C typically 
+presents with prolonged fevers of approximately 5 days’ duration, 
+prominent gastrointestinal symptoms (e.g., abdominal pain, vomiting, 
+or diarrhea), rash, altered sensorium, mucous membrane changes, and 
+conjunctivitis. Lymphadenopathy is a less frequent presenting symp­
+tom and is found in approximately 15% of cases. Some patients with 
+MIS-­C present critically ill, with findings suggestive of toxic shock syn­
+drome, and have hypotension, myocardial dysfunction, serositis, and 
+multisystem organ involvement; coagulation abnormalities may also 
+present (see Chapter 53).
+MIMICS OF HEAD AND NECK LYMPHADENOPATHY: 
+HEAD AND NECK MASSES
+Given the density of anatomic structures within the head and neck and 
+the frequency with which these structures may be confused for enlarged 
+lymph nodes, congenital and acquired lesions of these head and neck 
+structures, many of which are benign, may mimic lymphadenopathy and 
+deserve consideration. Primary among these structures and lesions are 
+the salivary glands, including the parotid gland, as well the thyroid gland, 
+branchial cleft cysts, hemangiomas, cystic hygromas, and non-­nodal soft 
+tissue malignancy. History and physical examination should provide suf­
+ficient information to arrive at an appropriate differential diagnosis and 
+evaluation strategy of these mimics. Important factors in distinguishing 
+lymphadenopathy from non-­nodal congenital or acquired lesions of the 
+head and neck include the age of the child, anatomic position, presence 
+of signs of inflammation, associated symptoms, and the time course of 
+the development of symptoms (Figs. 48.9 and 48.10).
+Consider:
+Free T4, TSH
+Thyroid scan
+Imaging (CT/ultrasound)
+± Aspiration
+Thyroglossal duct cyst
+Dermoid cyst
+Thymic cyst
+Goiter
+  Congenital hyperthyroidism
+  Defect in thyroid hormone
+    synthesis
+  Maternal goitrogens
+  lodide deficiency
+Teratoma
+Laryngocele
+Imaging
+  Ultrasound
+  CT/MRI
+Anterior midline or
+paramedian
+Location
+Physical findings
+Congenital
+Perform H and P
+NECK MASSES
+Acquired
+Any location
+Soft, spongy
+Red/purplish color
+Transilluminates
+Within the belly of the
+  sternocleidomastoid
+Firm/solid
+Anterior triangle
+  Postauricular
+  Angle of the mandible
+  Anterior border of
+    sternocleidomastoid
+± Fistula
+See Fig. 48-10
+Imaging
+  Ultrasound
+  CT/MRI
+Branchial
+cleft cyst
+Congenital muscular
+torticollis
+Cystic hygroma
+Hemangioma
+Fig. 48.9  Diagnostic algorithm for congenital neck masses. H and P, history and physical examination; T4, thy­
+roxine; TSH, thyroid-­stimulating hormone. (Modified from Pomeranz AJ, Sabnis S, Busey SL, et al. Pediatric 
+Decision-­Making Strategies. 2nd ed. Philadelphia: Elsevier; 2016:9.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+902
+SECTION 9  Hematologic Disorders
+Salivary Gland Lesions
+Enlargement and inflammation of the salivary glands may be mistaken 
+for lymphadenopathy and most frequently affect the parotid glands 
+in children. Infectious etiologies include acute suppurative sialadeni­
+tis, which is typically caused by S. aureus, as well as viral mumps or 
+HIV-­related parotitis. Noninfectious inflammatory conditions may 
+be primary, part of a systemic inflammatory disorder, or related to 
+obstruction (i.e., sialolithiasis). Diagnosis involves distinguishing the 
+involved salivary gland from adjacent structures such as submandib­
+ular lymph nodes, identifying findings on physical examination that 
+suggest salivary gland involvement (such as the expression of pus into 
+the oral cavity from the salivary duct upon massaging an acutely sup­
+purative gland or the inability to express normal saliva from the duct 
+when obstructed), and obtaining imaging (CT, MRI, or ultrasound) 
+and fine-­needle aspiration as needed, particularly if there is concern 
+for solid malignancy.
+Thyroid Lesions
+Diffuse enlargement of the thyroid gland, or goiter, may present at 
+any age, including in neonates. Goiter is typically readily distinguished 
+from cervical lymphadenopathy by virtue of its midline location and, 
+in older children able to follow commands, its mobility upon mimick­
+ing a swallow during physical examination. Congenital goiter may be 
+due to inborn defects in thyroid hormone biosynthesis, developmental 
+anomaly, or exposure to maternal antithyroid antibodies or antithyroid 
+medications given for maternal hyperthyroidism. In older children 
+and adolescents in areas of the world with adequate iodine supple­
+mentation, goiter is typically due to autoimmune thyroiditis; how­
+ever, iodine-­deficiency goiter is the most common cause worldwide. 
+Acquired goiter is associated with hypothyroidism, hyperthyroidism, 
+or a euthyroid state. A diffusely enlarged thyroid gland without nod­
+ules should be investigated with determination of the free thyroxine 
+and thyroid-­stimulating hormone levels, assessment for the presence of 
+NECK MASSES
+Acquired
+Location
+Physical findings
+Lateral neck
+Obscuring angle of
+the mandible
+Lymph node
+involvement
+Yes
+No
+Yes
+Yes
+No
+MRI
+Hypothyroid
+Euthyroid
+Hyperthyroid
+Graves
+  disease
+Autoimmune
+  thyroiditis
+Free T4, TSH
+Antithyroid
+  antibodies
+± Thyroid scan,
+  Imaging (ultrasound/CT)
+Rhabdomyo-
+  sarcoma
+Neuroblastoma
+Pendred
+  syndrome
+Simple colloid
+  goiter
+Autoimmune
+  thyroiditis
+Thyroglossal
+  duct cyst
+Autoimmune
+  thyroiditis
+Endemic goiter
+  (iodine
+  deficiency)
+Goitrogenic
+  drugs
+Defect in thyroid
+  hormone
+  synthesis
+Thyroglossal
+  duct cyst
+Salivary calculus
+Collagen vascular disease
+Recurrent emesis (bulimia)
+Cystic fibrosis
+Recurrent idiopathic parotitis
+Mucocele
+Tumor
+No
+Midline
+Moves with swallowing
+Goiter
+Parotid gland
+enlargement
+Inflammation
+present
+(warm, tender)
+Thyroid scan
+Ultrasound
+± Fine-needle
+  aspiration
+  or biopsy
+Acute parotid
+gland infection
+Branchial
+cleft cyst
+Benign
+  adenoma
+Carcinoma
+Lymphadenitis
+Lymphadenopathy
+Nonsuppurative
+  Mumps
+  Coxsackie A
+  HIV
+Suppurative
+  S. aureus
+Hard, solitary,
+rapidly growing
+nodule
+Enlarging and persistent
+  cervical mass with
+  any of the following:
+Persistent drainage from
+  nose or ear that is
+  refractory to therapy
+Horner syndrome
+Iris heterochromia
+“Raccoon eyes”
+  (periorbital ecchymosis)
+Fig. 48.10  Diagnostic algorithm for acquired neck masses. T4, thyroxine; TSH, thyroid-­stimulating hormone. 
+(Modified from Pomeranz AJ, Sabnis S, Busey SL, et al. Pediatric Decision-­Making Strategies. 2nd ed. Phila­
+delphia: Elsevier; 2016:11.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+903
+CHAPTER 48  Lymphadenopathy and Neck Masses
+antithyroid antibodies, and consideration of ultrasound imaging (see 
+Fig. 48.10). Isolated thyroid nodules may be more difficult to distin­
+guish from lymphadenopathy, suggest benign adenoma or carcinoma, 
+and should be investigated with a thyroid scan, ultrasound, and either 
+fine-­needle aspiration or biopsy to obtain histologic diagnosis.
+Developmental Anomalies and Soft Tissue Tumors
+Infantile hemangioma (lymphangioma) is a venous malformation 
+that typically enlarges to the point of being noticed within the first 
+year of life. Superficial lesions are often readily distinguished by their 
+red, blue, or violaceous appearance and by being blanchable. Deeper 
+lesions may be mistaken for an enlarged lymph node if overlying skin 
+changes are not overt, requiring ultrasonography to establish the diag­
+nosis. Isolated lesions tend to spontaneously regress in early childhood, 
+though lesions that are large or that have negative functional or aes­
+thetic sequelae may be treated, oftentimes with enteral propranolol. 
+Multiple head and neck hemangiomas may be associated with PHACE 
+(posterior fossa anomalies, hemangioma, arterial anomalies, cardiac 
+anomalies, and eye anomalies) syndrome (see Chapter 37).
+Cystic hygroma typically presents as a large translucent soft tis­
+sue mass in the lateral neck, axilla, or chest wall that is often detected 
+on prenatal ultrasound or noted at the time of or shortly after birth. 
+Though a malformation of lymphatic vessels, the lesion is rarely con­
+fused for lymphadenopathy unless small. Cystic hygroma is associated 
+with chromosomal abnormalities such as trisomy 21, Turner syn­
+drome, and Noonan syndrome in approximately 50% of cases.
+Branchial cleft cysts make up approximately 20% of congenital 
+neck masses and often remain asymptomatic until late childhood, 
+when they become infected, typically by oropharyngeal flora or sin­
+opulmonary pathogens. Given that the majority are located anterior to 
+the sternocleidomastoid muscle, an acutely inflamed cyst may be con­
+fused with a suppurative lymph node and the two can be distinguished 
+via CT, MRI, or fluoroscopic studies (Figs. 48.11 and 48.12).
+Thyroglossal duct cysts are distinguished by their midline position 
+in the anterior neck and are rarely confused with lymphadenopathy 
+(Fig. 48.13). Most remain asymptomatic though may be diagnosed 
+after developing secondary bacterial infection in the context of an 
+upper respiratory tract infection. Thyroid studies and imaging should 
+be obtained; surgical resection is typically advised.
+Rare soft tissue masses of the head and neck include congenital cer­
+vicofacial teratoma and rhabdomyosarcoma. The former may involve 
+the orbit, nasopharynx, oropharynx, tongue, palate, or anterior neck, 
+and, if interfering with in utero swallowing, may be associated with 
+pulmonary hypoplasia and fetal hydrops and require fetal surgery to 
+correct. The latter may be confused with congenital muscular torti­
+collis and may be difficult to distinguish on ultrasonography or even 
+MRI. Gadolinium administration with MRI will reveal heterogeneous 
+enhancement, allowing for presumptive diagnosis as well as surgical 
+planning.
+Meckel’s
+cartilage
+Stapes
+Styloid process
+III
+II
+I
+IV
+V
+Styloid
+ligament
+Fig. 48.11  Skeletal derivatives of the branchial arches. (From Flint PW, 
+Haughey BH, Lund VJ, et al., eds. Cummings Otolaryngology Head & 
+Neck Surgery. 5th ed. Philadelphia: Elsevier; 2010:2583, Fig. 181.10.)
+Fig. 48.12  First branchial derivatives present as a pit or a mass near 
+the angle of the mandible (arrow). They frequently originate in or near 
+the external canal and, during their course, involve the facial nerve. 
+(From Rizzi MD, Wetmore RF, Potsic WP. Differential diagnosis of neck 
+masses. In: Lesperance MM, ed. Cummings Pediatric Otolaryngology. 
+Philadelphia: Elsevier; 2015:248, Fig. 19.3.)
+Fig. 48.13  Thyroglossal duct cysts are often found in the midline of the 
+neck at or near the hyoid bone. (From Rizzi MD, Wetmore RF, Potsic WP. 
+Differential diagnosis of neck masses. In: Lesperance MM, ed. Cummings 
+Pediatric Otolaryngology. Philadelphia: Elsevier; 2015:248, Fig. 19.5.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+904
+SECTION 9  Hematologic Disorders
+   	 S U MMA RY  A N D  R E D  F L A G S
+Lymphadenopathy is a common manifestation of many childhood ill­
+nesses. Most often, regional adenopathy is associated with a bacterial 
+infection in the vicinity of the node or with viral pharyngitis. General­
+ized adenopathy does not always indicate a serious underlying disease. 
+Adenopathy usually resolves either spontaneously or after appropriate 
+antibiotic therapy. When adenopathy is accompanied by weight loss, 
+recurrent fevers, night sweats, or other systemic signs or symptoms, 
+a more serious cause must be vigorously sought. The presence of 
+supraclavicular nodes is usually a red flag for serious illness such as 
+malignancy. Adenopathy associated with hepatomegaly, splenomegaly, 
+or an abdominal mass must be quickly investigated. Furthermore, if 
+the adenopathy does not diminish or resolve after antibiotic therapy 
+or after 3 weeks, a more thorough evaluation is necessary. A chest 
+x-ray must be performed for children with peripheral lymphadenop­
+athy who are suspected of having a malignancy to look for mediasti­
+nal nodes. In children with known immunodeficiency, the cause of the 
+adenopathy may be far more serious. These children are more prone to 
+opportunistic infections; malignancies also occur at a higher frequency 
+in immunosuppressed children than in the general population. Several 
+conditions may mimic head and neck lymphadenopathy, including sal­
+ivary gland and thyroid disorders, as well as developmental anomalies 
+such as branchial cleft cysts, hemangiomas, or cystic hygromas.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+904.e1
+BIBLIOGRAPHY
+General References
+Grossman M, Shiramizu B. Evaluation of lymphadenopathy in children. Curr 
+Opin Pediatr. 1994;6:68.
+Kelly CS, Kelly Jr RE. Lymphadenopathy in children. Pediatr Clin N Am. 
+1998;45:875.
+Medication-­Related Causes of Lymphadenopathy
+Gru AA, O’Malley DP. Autoimmune and medication-­induced 
+lymphadenopathies. Semin Diagn Pathol. 2018;35(1):34–43.
+Cervical Adenopathy
+Alvarez A, Schreiber J. Lemierre’s syndrome in adolescent children—anaerobic 
+sepsis with internal jugular vein thrombophlebitis following pharyngitis. 
+Pediatrics. 1995;96:354.
+Peters TR, Edwards KM. Cervical lymphadenopathy and adenitis. Pediatr Rev. 
+2000;21:399.
+Epstein-Barr Viral Infections
+Case records of the Massachusetts General Hospital. Case 24-­1994. N Engl J 
+Med. 1994;330:1739.
+Cohen JI. Epstein-­Barr virus infection. N Engl J Med. 2000;343:481.
+Cat-­Scratch Disease
+Bass JW, Freitas BC, Freitas AD, et al. Prospective randomized double blind 
+placebo-­controlled evaluation of azithromycin for treatment of cat-­scratch 
+diseases. Pediatr Infect Dis J. 1998;17:447.
+Bass JW, Vincent JM, Person DA. The expanding spectrum of Bartonella 
+infections: II. Cat scratch disease. Pediatr Infect Dis J. 1997;16:163.
+Schutze GE. Diagnosis and treatment of Bartonella henselae infections. Pediatr 
+Infect Dis J. 2000;19:1185.
+Human Immunodeficiency Virus
+Nag D, Dey S, Nandi A, et al. Etiological study of lymphadenopathy in HIV-­
+infected patients in a tertiary care hospital. J Cytol. 2016;33(2):66–70.
+Toxoplasmosis
+Maldonado YA, Read JS. AAP Committee on Infectious Diseases. Diagnosis, 
+treatment, and prevention of congenital toxoplasmosis in the United States. 
+Pediatrics. 2017;139(2):e20163860.
+Sexually Transmitted Diseases
+Centers for Disease Control and Prevention. Sexually transmitted diseases 
+treatment guidelines, 2015. MMWR Recomm Rep (Morb Mortal Wkly Rep). 
+2015;64(No. RR-­3):1–137.
+Other Disorders
+Abla O, Jacobsen E, Picarsic J, et al. Consensus recommendations for the 
+diagnosis and clinical management of Rosai-­Dorfman-­Destombes disease. 
+Blood. 2018;131(26):2877–2890.
+Alamo L, Beck-­Popovic M, Gudinchet F, et al. Congenital tumors: imaging 
+when life just begins. Insights Imaging. 2011;2(3):297–308.
+Bower M, Newsom-­Davis T, Naresh K, et al. Clinical features and outcome 
+in HIV-­associated multicentric Castleman’s disease. J Clin Oncol. 
+2011;29:2481–2486.
+Lee BC, Patel R. Kikuchi-­Fujimoto disease: a 15-­year analysis at a children’s 
+hospital in United States. Clin Pediatr. 2013;52(1):92–95.
+Leroy S, Moshous D, Cassar O, et al. Multicentric Castleman disease in 
+an HHV-­8-­infected child born to consanguineous parents. Pediatrics. 
+2012;129(1):e199–e203.
+Muskardin TW, Peterson BA, Molitor JA. Castleman disease and associated 
+autoimmune disease. Curr Opin Rheumatol. 2012;24:76–83.
+Srkalovic G, Marijanovic I, Srkalovic MB, et al. TAFRO syndrome: new 
+subtype of idiopathic multicentric Castleman disease. Bosn J Basic Med Sci. 
+2017;17(2):81–84.
+Unadkat RJ, Khubchandani SR, Gurjar AS. Kikuchi-­Fujimoto disease. Pediatr 
+Infect Dis. 2015;7:13–16.
+Weitzman S, Jaffe R. Uncommon histiocytic disorders: the non-­Langerhans cell 
+histiocytoses. Pediatr Blood Cancer. 2005;45:256–264.
+Zhu F, Zhang J, Xing X, et al. Rosai-­Dorfman disease: a retrospective analysis 
+of 13 cases. Am J Med Sci. 2013;345:200–210.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

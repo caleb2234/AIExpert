@@ -1,0 +1,2547 @@
+320
+Jaundice, the yellow discoloration of skin and sclerae, results when the 
+serum level of bilirubin, a pigmented compound, is elevated. Jaundice 
+is not evident until the total serum bilirubin is at least 2–2.5 mg/dL in 
+children out of the neonatal period.
+Bilirubin is formed from the degradation of heme-­containing 
+compounds, particularly hemoglobin (Fig. 18.1). Microsomal heme 
+oxygenase, located principally in the reticuloendothelial system, catab­
+olizes heme to biliverdin, which is then reduced to bilirubin by bili­
+verdin reductase. This unconjugated bilirubin (UCB) is lipophilic and 
+cannot be easily eliminated via the kidney because of its insolubility in 
+water. It can easily cross cell membranes and the blood-­brain barrier. 
+UCB is transported bound primarily to albumin. A receptor on the 
+hepatocyte surface facilitates bilirubin uptake. Bilirubin is then con­
+jugated with glucuronic acid by bilirubin uridine diphosphate glucu­
+ronosyltransferase (UDPGT). UDPGT can be induced by a variety of 
+drugs (e.g., narcotics, anticonvulsants, and oral contraceptives) and by 
+bilirubin itself. Enzyme activity is decreased by restriction of calorie 
+and protein intake.
+Conjugated bilirubin (CB) is a polar, water-­soluble compound. It is 
+excreted from the hepatocyte to the canaliculi, through the biliary tree, 
+and into the duodenum. Once CB reaches the colon, bacterial hydro­
+lysis converts CB to urobilinogen. A small amount of urobilinogen is 
+reabsorbed and returned to the liver via enterohepatic circulation or 
+excreted by the kidneys. The remainder is converted to stercobilin and 
+excreted in feces. In neonates, β-­glucuronidase in the intestinal lumen 
+hydrolyzes CB to UCB, which is then reabsorbed and returned to the 
+liver via the enterohepatic circulation.
+Hyperbilirubinemia can result from alteration of any step in this 
+process. Hyperbilirubinemia can be classified as conjugated (direct) 
+or unconjugated (indirect), depending on the concentration of CB in 
+the serum. Conjugated and unconjugated are more accurate terms, 
+because “direct” and “indirect” refer to the van den Bergh reaction, his­
+torically used for measuring bilirubin. In this assay, the unconjugated 
+fraction is determined by subtracting the direct fraction from the total 
+and, therefore, is an indirect measurement. The direct fraction includes 
+both conjugated bilirubin and Δ-­bilirubin, an albumin-­bound fraction. 
+Conjugated hyperbilirubinemia exists when more than 20% of the total 
+bilirubin or more than 2 mg/dL is conjugated. If neither criterion is 
+met, the hyperbilirubinemia is classified as unconjugated.
+Unconjugated hyperbilirubinemia can be caused by any process 
+that results in increased production, decreased delivery to the liver, 
+decreased hepatic uptake, decreased conjugation, or increased entero­
+hepatic circulation of bilirubin. The primary concern in patients with 
+high levels of unconjugated bilirubin is kernicterus, resulting from the 
+neurotoxicity of UCB across the blood-­brain barrier mostly in the basal 
+ganglia, pons, or cerebellum. This is a concern primarily in neonates.
+Conjugated hyperbilirubinemia can occur due to hepatocellular 
+dysfunction, biliary obstruction, and abnormal excretion of bile acids 
+or bilirubin.
+DIAGNOSTIC STRATEGIES
+The causes of jaundice in the neonate and older infant are not the same 
+as the causes of jaundice in the older child or adolescent (Figs. 18.2 and 
+18.3). The approach to the problem varies with age.
+Bilirubin
+In any patient with jaundice, the total serum bilirubin should be frac­
+tionated, as the differential diagnosis of unconjugated hyperbilirubin­
+emia is distinct from that of conjugated hyperbilirubinemia (see Figs. 
+18.2 and 18.3). On occasion, hemolysis interferes with some assays and 
+may result in a falsely elevated conjugated fraction. This can be prob­
+lematic with specimens obtained by heelstick or fingerstick. If the clin­
+ical picture is consistent with unconjugated hyperbilirubinemia, the 
+assay should be repeated with a venous sample.
+Aminotransferases
+Aspartate aminotransferase (AST) and alanine aminotransferase 
+(ALT) are frequently used as markers of hepatocellular injury. AST is 
+expressed in mitochondria of the liver and cytosol of red blood cells 
+and muscles; thus, it is not specific for liver injury. Since ALT is less 
+abundant outside of the liver, an increased ALT level is more suggestive 
+of liver disease. Levels of both are markedly elevated (>5-­ to 10-­fold 
+normal) with hepatocellular injury caused by hepatitis, hepatotoxicity, 
+ischemia, and genetic or metabolic liver disorders. Elevation of AST in 
+excess of ALT suggests an extrahepatic source of injury. With acute bil­
+iary obstruction, there are initial sharp increases in ALT and AST levels 
+and a rapid decline in 12–72 hours as obstruction is relieved. In chronic 
+cholestasis, aminotransferases are usually only mildly elevated. With 
+hepatocellular injury, ALT and AST levels tend to remain more signifi­
+cantly elevated longer. In acute liver failure a rapid decline in ALT and 
+AST levels with worsening coagulopathy is a poor prognostic factor.
+It is important to remember that aminotransferases reflect cell 
+injury, not liver function. There is no correlation between the severity of 
+the liver dysfunction and the degree of elevation of ALT and AST levels. 
+Temporal trends in serum aminotransferase levels are useful in moni­
+toring disease activity in chronic viral and autoimmune hepatitis.
+Alkaline Phosphatase
+Alkaline phosphatase is an enzyme found in bile ducts, bone, intestine, 
+placenta, and tumors. Elevations in the serum alkaline phosphatase 
+level occur with hepatobiliary disease but also normal growth, healing 
+fractures, vitamin D deficiency, bone disease, pregnancy, and malig­
+nancy. Fractionation of the alkaline phosphatase isoenzymes can help 
+to determine its site of origin. A mild increase can be seen transiently 
+in normal individuals. In the evaluation of conjugated hyperbiliru­
+binemia, an alkaline phosphatase level of >3 times normal indicates 
+cholestasis; a milder elevation is more consistent with hepatocellular 
+disease.
+Jaundice
+Grzegorz W. Telega
+18
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+321
+CHAPTER 18  Jaundice
+Heme-containing Compounds
+(hemoglobin, myoglobin, cytochromes)
+Heme
+Heme oxygenase
+Iron
+CO
+Biliverdin
+Biliverdin reductase
+Unconjugated bilirubin (UCB)
+Conjugated 
+bilirubin (CB)
+Albumin
+Albumin
+UCB-albumin
+GST
+GST
+UCB-GST
+Receptor
+UCB
+Bilirubin monoglucuronide
+2 bilirubin monoglucuronides
+Bilirubin diglucuronide
+UDP glucuronic
+acid (UDPGA)
+UDPGT
+UDP
+Endoplasmic 
+reticulum
+CB
+CB
+CB
+Urobilinogen
+Stercobilin
+Renal excretion
+UCB
+Intestinal
+β-glucuronidase
+(neonates)
+Bacterial
+β-glucuronidase
+Canaliculus
+Enterohepatic
+recirculation
+Reticuloendothelial
+system
+Bloodstream
+Liver
+Duodenum
+Feces
+Distal small intestine 
+and colon
+}
+Fig. 18.1  Bilirubin production and metabolism. CB, conjugated bilirubin; CO, carbon monoxide; GST, gluta­
+thione S-­transferase B; UCB, unconjugated bilirubin; UDP, uridine diphosphate; UDPGA, uridine diphosphate 
+glucuronic acid; UDPGT, uridine diphosphate glucuronosyltransferase. (Modified from Gourley GR. Jaundice. 
+In: Wyllie R, Hyams JS, eds. Pediatric Gastrointestinal Disease: Pathophysiology, Diagnosis, Management. 
+2nd ed. Philadelphia: WB Saunders; 1999:89.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+322
+SECTION 4  Gastrointestinal Disorders
+Jaundice in Neonate or Young Infant
+Yes
+No
+Yes
+No
+Yes
+No
+Unremarkable history
+Normal physical examination
+Onset after 24 hr of age
+Bilirubin <13 mg/dL (<15 mg/dL if breast-fed)
+Not persisting beyond 14 days of age (1 mo
+  if breast-fed)
+Fractionation of bilirubin
+Physiologic jaundice
+or
+Breast-feeding/breast milk jaundice
+Conjugated >20% of total
+>2 mg/dL
+Conjugated <20% of total
+<2 mg/dL
+Diagnosis = UNCONJUGATED HYPERBILIRUBINEMIA
+Diagnosis = CONJUGATED HYPERBILIRUBINEMIA
+Hematocrit
+High (>65%)
+Low or normal
+PT-if elevated, administer vitamin K
+Glucose-if low, give glucose enterally or parenterally
+AST, ALT, GGT, alkaline phosphatase, CBC
+Evaluate for treatable causes:
+1. Infection - blood culture
+ 
+               urine culture
+ 
+               VDRL
+2. Metabolic disorders -
+ 
+urine-reducing substances
+ 
+serum amino acids
+ 
+urine amino acids
+ 
+urine organic acids
+ 
+serum bile acids
+ 
+urine FAB-MS
+ 
+T4, TSH
+Polycythemia
+Normal reticulocyte count
+Elevated reticulocyte count
+Abnormal findings
+Reticulocyte count
+Blood type
+Coombs test
+Platelets
+PT/PTT
+Evaluate smear
+Look for evidence of:
+1. Infection—blood culture
+                   urine culture
+2. Obstruction of GI tract
+3. Enclosed hemorrhage
+4. Congestive heart failure
+5. Hypoxia or acidosis
+6. Hypopituitarism or
+    hypothyroidism—T4, TSH
+7. Drugs or toxins
+Consider:
+1. Isoimmunization—Coombs positive
+2. Erythrocyte membrane defect—
+    characteristic smear
+3. Erythrocyte enzyme defect
+4. DIC—decreased platelets
+           prolonged PT/PTT
+Evaluate for other identifiable causes:
+1. 1-Antitrypsin deficiency—phenotype
+2. Cystic fibrosis—sweat chloride
+3. Congenital viral infection—
+    selected viral PCR testing based
+    on index of suspicion
+4. Neonatal iron storage disease*
+5. Familial hemophagocytic syndromes
+6. Biliary atresia
+7. Alagille syndrome 
+Specific confirmatory
+    studies
+Specific treatment
+None found
+Abnormal findings
+Familial disorders:
+    Gilbert syndrome
+    Crigler-Najjar syndromes
+    Lucey-Driscoll syndrome
+Supportive therapy
+Evaluate for anatomic abnormalities
+and intrahepatic cholestasis:
+1. Stool color
+2. Ultrasonography
+3. Hepatobiliary scintigraphy
+4. Liver biopsy
+Fig. 18.2  Diagnostic approach to the neonate or infant with hyperbilirubinemia. *Also called congenital alloim­
+mune hepatitis or neonatal hemochromatosis. ALT, alanine aminotransferase; AST, aspartate aminotransferase; 
+DIC, disseminated intravascular coagulation; FAB-­MS, fast atom bombardment mass spectrometry; GGT, 
+γ-­glutamyltransferase; GI, gastrointestinal; PT, prothrombin time; PTT, partial thromboplastin time; T4, thyroxine; 
+TSH, thyroid-­stimulating hormone; VDRL, Venereal Disease Research Laboratory.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+History—associated symptoms
+ 
+ risk factors
+ 
+ exposures
+ 
+ past medical history
+ 
+ family history
+Jaundice in Child or Adolescent
+Physical examination
+Findings suggesting specific diagnosis
+No
+Fractionation of bilirubin
+Yes
+Confirmatory diagnostic studies
+Conjugated >20% of total 
+           >2 mg/dL
+Conjugated <20% of total 
+           <2 mg/dL
+Diagnosis = UNCONJUGATED HYPERBILIRUBINEMIA
+Diagnosis = CONJUGATED HYPERBILIRUBINEMIA
+CBC 
+PT
+Reticulocyte count 
+Albumin
+Coombs test 
+Glucose
+PT/PTT 
+ALT, AST
+Evaluate smear 
+Alkaline phosphatase, GGT
+Normal reticulocyte count
+Elevated reticulocyte count
+Markedly    ALT, AST
+Mildly    alkaline phosphatase
+Alkaline phosphatase
+>3 times normal
+Mildly   ALT, AST
+Obstructive process
+Ultrasonography
+MRCP, ERCP, or PTC
+Definitive diagnosis
+Look for evidence of:           
+Consider:
+1. Infection                    
+1. Autoimmune hemolytic anemia                                         
+2. Congestive heart failure     
+2. Drug-induced hemolytic anemia                      
+3. Drugs                      
+3. Paroxysmal nocturnal hemoglobinuria                                
+                     
+4. Erythrocyte membrane defect                             
+                   
+5. Erythrocyte enzyme defect                               
+None found 
+6. DIC                                                                                                      
+ 
+7. Transfusion reaction                                         
+Familial disorders:               
+8. Hemolytic uremic syndrome             
+   Gilbert syndrome            
+9. Hemoglobinopathy           
+   Crigler-Najjar syndrome                                                                        
+                                                  
+1. Infection (viral serology)                       
+ 
+HAV IgM               
+ 
+HbsAg
+ 
+anti-HBc
+ 
+EBV
+2. Wilson disease
+ 
+serum ceruloplasmin
+ 
+urine copper
+ 
+liver biopsy
+3. Drugs or toxins
+4. Autoimmune hepatitis
+ 
+autoantibodies (ANA, ASMA, anti-LKM)
+ 
+serum globulin
+ 
+liver biopsy
+Specific treatment
+No
+Yes
+Look for evidence of:
+Fig. 18.3  Diagnostic approach to the child or adolescent with hyperbilirubinemia. ALT, alanine aminotrans­
+ferase; ANA, antinuclear antibody; ASMA, anti–smooth muscle antibody; AST, aspartate transaminase; DIC, 
+disseminated intravascular coagulation; EBV, Epstein-­Barr virus; ERCP, endoscopic retrograde cholangiopan­
+creatography; GGT, γ-­glutamyltransferase; HAV, hepatitis A virus; HBc, hepatitis B core; HBsAg, hepatitis B 
+surface antigen; IgM, immunoglobulin M; LKM, liver-­kidney microsomal; MRCP, magnetic resonance chol­
+angiopancreatography; PT, prothrombin time; PTC, percutaneous transhepatic cholangiography; PTT, partial 
+thromboplastin time.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+324
+SECTION 4  Gastrointestinal Disorders
+γ-­Glutamyltransferase
+The γ-­glutamyltransferase (GGT) level is more specific for biliary tract 
+disease than are ALT and AST levels. GGT elevations are inducible by 
+alcohol and certain drugs, including phenytoin and phenobarbital. 
+GGT is found in a variety of tissues and can be elevated in chronic 
+pulmonary disease, renal failure, and diabetes mellitus. The GGT con­
+centration is most helpful in confirming that an elevated alkaline phos­
+phatase level is a result of liver disease rather than bone disease and in 
+differentiating familial cholestatic syndromes.
+Bile Acids
+Serum bile acids are a very sensitive measure of cholestatic disease. Bile 
+acid levels may be elevated before an increase in bilirubin. Levels are 
+generally very high in primary cholestasis and biliary obstruction but 
+only mildly increased (more than twice normal) in hepatocellular dis­
+ease. Bile acids should be measured while fasting.
+Albumin
+Albumin is produced in the liver, and levels can reflect hepatic syn­
+thetic function. Serum albumin levels can be useful in monitoring 
+progression of chronic liver disease and in discriminating an acute ill­
+ness from a previously unrecognized chronic disorder. Hypoalbumin­
+emia can also be secondary to nephrotic syndrome or a protein-­losing 
+enteropathy. Due to a long half-­life (20 days), albumin is of limited use 
+in assessing synthetic dysfunction in acute liver failure.
+Prothrombin Time
+Prothrombin time (PT) is the best marker of hepatic synthetic func­
+tion, as most clotting factors are produced in the liver. It is important 
+not only to measure the PT but also to document the response to par­
+enteral administration of vitamin K because vitamin K deficiency may 
+be an alternative explanation of the elevation of the PT. With severe 
+hepatocellular injury, there is little improvement in the PT. Dissemi­
+nated intravascular coagulation and thrombosis of a major blood vessel 
+should not be overlooked as the cause of a prolonged PT.
+Ultrasonography
+Ultrasound studies are useful, noninvasive, relatively inexpensive diag­
+nostic tools for the evaluation of liver disease. Ultrasonography pro­
+vides information on the size and consistency of the liver and spleen 
+and anatomic abnormalities of the biliary tree, gallstones, and hepatic 
+masses such as cysts, tumors, or abscesses. Dilated intrahepatic ducts 
+may indicate extrahepatic obstruction; however, the absence of dilata­
+tion on ultrasonography cannot exclude obstruction, and further stud­
+ies are required for definitive diagnosis. The utility of ultrasonography 
+is limited in obese patients and in patients with excessive bowel gas. 
+Doppler ultrasonography also demonstrates dynamic flow in hepatic 
+blood vessels and the portal vein; it can identify vascular anomalies 
+of the liver and suggest presence of portal hypertension. Ultrasound 
+elastography can provide an indirect measure of liver fibrosis.
+Scintigraphy
+Hepatobiliary scintigraphy can aid in the diagnosis of biliary atresia. 
+In a healthy individual, hepatic uptake and excretion of the radionu­
+clide via the biliary system are prompt. When there is an injury to the 
+hepatocyte, the uptake of radionuclide by the liver is diminished; how­
+ever, the tracer should eventually be visualized in the intestinal tract. 
+With obstructive processes, such as biliary atresia, uptake should be 
+relatively normal unless the problem has been present long enough to 
+have caused hepatocellular injury; however, there is no excretion into 
+the intestinal tract. Administration of phenobarbital (5 mg/kg/day) for 
+5 days before the study may increase bile flow and thus can increase the 
+diagnostic accuracy. Unfortunately, a significant percentage of patients 
+with intrahepatic cholestasis and neonatal hepatitis do not demon­
+strate biliary excretion, and further evaluation is needed; thus, final 
+diagnosis is delayed. In patients with high level of suspicion for biliary 
+atresia (acholic stools, high GGT), liver biopsy and percutaneous chol­
+angiogram provide a faster and more direct way to reach the diagnosis.
+Computed Tomography
+CT is useful for identifying mass lesions within the liver and when 
+there are technical problems with ultrasonography. CT with contrast 
+can be used to define the nature of liver tumors. CT angiography can 
+define the anatomy of portal and hepatic circulation. CT has limited 
+value in the evaluation of biliary anatomy.
+Magnetic Resonance
+Magnetic resonance (MR) studies provide valuable information regard­
+ing the anatomy of the liver. Since many imaging protocols can be used 
+depending on the purpose of the study, contacting a radiologist prior 
+to ordering the study is recommended. Cost and frequent need for 
+sedation make MR evaluation the tool for secondary evaluation after 
+screening imaging with ultrasound leaves diagnostic questions. MRI 
+can demonstrate storage of heavy metals, such as iron in neonatal iron 
+storage disease. MR with contrast can define the nature of liver tumors. 
+MR angiography is useful in studying the vascular system, including 
+the vascular supply of tumors. MR cholangiopancreatography (MRCP) 
+visualizes abnormalities of the intrahepatic and extrahepatic biliary 
+tree and is also quite useful in evaluating the pancreatic duct sys­
+tem. At this point resolution of MRCP is inadequate to diagnose bil­
+iary atresia. Unlike endoscopic retrograde cholangiopancreatography 
+(ERCP) or percutaneous transhepatic cholangiography (PTC), MRCP 
+is noninvasive.
+Endoscopic Retrograde Cholangiopancreatography
+ERCP is performed for the evaluation of biliary anatomy in situations 
+when endoscopic intervention is likely. Unlike MRCP, ERCP is both 
+diagnostic and potentially therapeutic for common duct stones and 
+for strictures. Complications of the procedure include cholangitis and 
+pancreatitis. ERCP is recommended for evaluation of the biliary tree 
+when therapeutic intervention is likely.
+Percutaneous Transhepatic Cholangiography
+PTC can be used as an alternative to ERCP as a diagnostic and thera­
+peutic tool in evaluating the biliary tree. Under ultrasound guidance, 
+a needle is passed through the liver and into the biliary tree, and con­
+trast material is injected. If obstruction is identified, biliary drainage, if 
+required, can be performed at the same time. PTC is contraindicated if 
+there are marked ascites or irreversible coagulopathy. The complications 
+of PTC include bleeding, pneumothorax, infection, and bile leakage.
+Liver Biopsy
+Percutaneous liver biopsy is often necessary to determine the cause of 
+conjugated hyperbilirubinemia. In some instances, a specific pattern of 
+injury, such as paucity of bile ducts or bile duct proliferation, may be 
+evident. In other cases, specific markers of disease may be identified 
+(the distinctive inclusions in α1-­antitrypsin deficiency) or measured 
+(metabolic enzyme activity). Ultrasound-­guided biopsy is useful when 
+a specific lesion needs to be evaluated or if there is abnormal anatomy 
+of the liver. An open biopsy may be necessary when a large sample of 
+tissue is needed or when there are contraindications to the percutane­
+ous approach, such as ascites or severe coagulopathy. Transjugular liver 
+biopsy can reduce the risk of bleeding in patients with coagulopathy. 
+The complications of liver biopsy are the same as those for PTC.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+325
+CHAPTER 18  Jaundice
+JAUNDICE IN THE NEONATE AND INFANT
+History
+Evaluation of the infant with jaundice starts with a thorough history, 
+including age at onset and duration of jaundice (see Fig. 18.2). In the 
+neonate, the causes of jaundice range from a benign, self-­limited pro­
+cess associated with immaturity of bilirubin excretion (physiologic 
+jaundice) to life-­threatening biliary atresia or metabolic disorders 
+(galactosemia, fructosemia, tyrosinemia). In older infants, there are 
+fewer benign explanations for jaundice. For example, physiologic jaun­
+dice generally resolves by 1–2 weeks of age, and jaundice associated 
+with breast milk usually resolves by the time the infant is 1 month old.
+Acholic stools usually indicate obstruction of the biliary tree; how­
+ever, nonpigmented stools can be seen with severe hepatocellular injury. 
+The clinician should document the presence or absence of acholic stool 
+in every infant evaluated for jaundice. The center of the stool should be 
+examined because the outside may be lightly pigmented from sloughed 
+jaundiced cells of the intestinal tract. Delayed passage of meconium 
+may be secondary to cystic fibrosis or Hirschsprung disease. Delayed 
+passage of stools, by itself, can lead to increased enterohepatic circula­
+tion of bilirubin.
+Clues to the diagnosis of hyperbilirubinemia are often found in the 
+prenatal and perinatal history (Table 18.1). Maternal infections that can 
+be transmitted to the fetus or neonate, such as syphilis, toxoplasmosis, 
+cytomegalovirus (CMV), hepatitis B, enterovirus, herpes simplex, and 
+HIV, are rare causes of cholestatic liver disease in the neonate. Prena­
+tal growth pattern should be carefully evaluated. Perinatal infections 
+such as CMV, rubella, and toxoplasmosis can present with intrauterine 
+growth restriction. Premature infants are prone to higher bilirubin lev­
+els and more prolonged hyperbilirubinemia; they are also more likely 
+to have risk factors for hyperbilirubinemia such as delayed enteral 
+feedings, require parenteral nutrition, and have perinatal insults with 
+hypoxia and acidosis.
+Delay of feeding can contribute to both conjugated and unconju­
+gated hyperbilirubinemia; this effect is usually transient and should 
+not be overinterpreted. Breast-­feeding is associated with higher levels 
+of unconjugated bilirubin and a longer duration of jaundice than in 
+formula-­feeding. Even when diagnosis of breast milk jaundice is likely, 
+conjugated bilirubin should be checked because it provides an easy 
+screening tool for liver disorders, including biliary atresia. Galactose­
+mia does not manifest in the infant who receives a lactose-­free for­
+mula. Hereditary fructose intolerance is not clinically apparent until 
+the infant ingests fluids or solids containing fructose or sucrose. Infants 
+with metabolic disorders often present with a history of vomiting, leth­
+argy, and poor feeding. Vomiting may also be a symptom of intestinal 
+obstruction including malrotation/volvulus.
+The family history can often provide direction to the evaluation, 
+particularly with some of the less common hereditary disorders. This 
+can include most of the metabolic disorders, hemolytic diseases, and 
+disorders associated with intrahepatic cholestasis (Tables 18.2 and 
+18.3). Diseases that lead to severe liver dysfunction resulting in neona­
+tal hepatic failure have some characteristic features (Table 18.4).
+Physical Examination
+With increasing levels of bilirubin, neonatal icterus becomes more 
+extensive, spreading in a cephalopedal direction. Pallor may indicate 
+hemolytic disease. Petechiae alert the clinician to thrombocytopenia, 
+possible sepsis, congenital infections, or severe hemolytic disease.
+Dysmorphic face can be present in Zellweger syndrome or Alagille 
+syndrome (see Table 18.1). The characteristic facies of Alagille syn­
+drome may not be recognizable until later in childhood. Microcephaly 
+that accompanies jaundice is associated with congenital viral infections.
+An ophthalmologic examination can demonstrate a variety 
+of abnormalities. Cataracts are seen in galactosemia and rubella. 
+Chorioretinitis accompanies congenital infections (toxoplasmosis, 
+syphilis, rubella, CMV, herpes simplex virus). Nystagmus with hypo­
+plasia of the optic nerve suggests hypopituitarism associated with 
+septo-­optic dysplasia. Posterior embryotoxon is found in Alagille 
+syndrome.
+A heart murmur may be caused by an underlying congenital 
+heart disease, which may be associated with Alagille syndrome, 
+one of the trisomies, and syndromic forms of biliary atresia 
+TABLE 18.1  Diagnostic Clues in the 
+Evaluation of Infants with Jaundice
+Symptom
+Possible Diagnosis
+Prenatal/Perinatal Findings
+Polyhydramnios
+Intestinal atresia
+In utero growth restriction
+Cytomegalovirus; rubella; toxoplas­
+mosis
+Vomiting/poor feeding
+Metabolic disorders
+Delayed passage of meconium
+Cystic fibrosis; Hirschsprung disease
+Constipation, hypotonia, hypothermia
+Hypothyroidism
+Maternal preeclampsia
+HELLP: fatty acid oxidation disorders
+Microphallus
+Hypopituitarism associated with SOD
+Intrahepatic cholestasis of pregnancy
+PFIC type 2 and 3
+Repeated affected neonates
+Alloimmune hepatitis
+Characteristic Facies
+Narrow cranium, prominent forehead, 
+hypertelorism, epicanthal folds, 
+large fontanel
+Zellweger syndrome
+Triangular face with broad forehead, 
+hypertelorism, deep-­set eyes, long 
+nose, pointed mandible
+Alagille syndrome
+Microcephaly
+Congenital viral infections
+Ophthalmologic Findings
+Cataracts
+Galactosemia; rubella
+Chorioretinitis
+Congenital infections
+Nystagmus with hypoplasia of optic 
+nerve
+Hypopituitarism with SOD
+Posterior embryotoxon
+Alagille syndrome
+Perinatal Infections
+Syphilis
+Syphilis
+Toxoplasmosis
+Toxoplasmosis
+Cytomegalovirus
+Cytomegalovirus
+Hepatitis B
+Hepatitis B
+Herpes simplex
+Herpes simplex
+Enterovirus
+Enterovirus
+HIV
+HIV infection
+Renal Disease
+RTA
+Tyrosinemia
+RTA
+Galactosemia
+Congenital hepatic fibrosis
+ARPKD
+Alagille syndrome
+Alagille syndrome
+Arthrogryposis
+RTA–cholestasis syndrome
+Fibrocystic disease
+Congenital hepatic fibrosis
+ARPKD, autosomal recessive polycystic kidney disease; HELLP, hemo­
+lysis, elevated liver enzymes, low platelets; PFIC, progressive familial 
+intrahepatic cholestasis; RTA, renal tubular acidosis; SOD, septo-­optic 
+dysplasia.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+326
+SECTION 4  Gastrointestinal Disorders
+(polysplenia syndrome). Heart disease that results in hepatic ische­
+mia or congestion can be a cause of conjugated or unconjugated 
+hyperbilirubinemia.
+Hepatomegaly, splenomegaly, and ascites may be caused by both 
+hepatic and nonhepatic etiologies, but they always require evaluation 
+as they are not associated with physiologic or breast milk jaundice.
+Microphallus can be associated with septo-­optic dysplasia and 
+hypopituitarism.
+Differential Diagnosis
+When a neonate has jaundice, a thorough history, including the obstet­
+ric history, and physical examination should provide most of the 
+information necessary to determine whether the condition represents 
+physiologic jaundice (see Fig. 18.2). A total and fractionated bilirubin 
+measurement should be performed if there is any question about the 
+diagnosis of physiologic jaundice.
+Physiologic and Breast Milk Jaundice
+In neonates, increased bilirubin production is caused by the nor­
+mally increased neonatal red blood cell mass and the decreased life 
+span of the red blood cells (80 vs 120 days). Albumin binding is 
+decreased because of lower albumin concentrations and diminished 
+binding capacity, which results in decreased transport of UCB to the 
+liver with increased deposition in tissues. Uptake of bilirubin by the 
+hepatocytes during the first weeks of life is defective. Low levels of 
+glutathione S-­transferase B decrease intracellular binding, which 
+may impede the transport of UCB to the endoplasmic reticulum. 
+Conjugation is impaired by decreased activity of UDPGT. Secretion 
+into the canaliculi is impaired. There is increased enterohepatic cir­
+culation of unconjugated bilirubin as a result of increased activity of 
+β-­glucuronidase in the intestinal lumen and as a result of intestinal 
+bacterial flora with lower capacity for urobilinogen formation (see 
+Fig. 18.1).
+These features contribute in varying degrees to physiologic jaun­
+dice, characterized by a peak bilirubin level of <13 mg/dL on postnatal 
+days 3–5, a decrease to normal by 2 weeks of age, and a conjugated 
+fraction of <20%. In premature, breast-­fed infants, infants of diabetic 
+mothers, and Asian and Native American infants, the peak is higher 
+and lasts longer. Conjugated bilirubin should be checked if there is any 
+question of the nature of jaundice.
+Breast-­feeding has been associated with an increased incidence of 
+unconjugated hyperbilirubinemia outside the expected range (>13 mg/
+dL). Jaundice of this level may occur in 10–25% of breast-­fed infants, 
+in contrast to 4–7% of formula-­fed infants. It can occur within the first 
+5 days of life and is referred to as “early” or “breast-­feeding” jaundice. 
+Breast-­feeding jaundice is seen in infants who are not feeding ade­
+quately and may be dehydrated or malnourished. In a second group of 
+breast-­fed infants, the jaundice develops slowly, occurring after the first 
+TABLE 18.2  Differential Diagnosis of Unconjugated Hyperbilirubinemia in Neonates and Infants
+Physiologic Jaundice
+Breast-­Feeding/Breast Milk Jaundice
+Polycythemia
+Diabetic mother
+Fetal transfusion (maternal, twin)
+Intrauterine hypoxemia
+Delayed cord clamping
+Congenital adrenal hyperplasia
+Neonatal thyrotoxicosis
+Hemolysis
+Isoimmune
+Rh incompatibility
+ABO incompatibility
+Other (M, S, Kidd, Kell, Duffy)
+Erythrocyte membrane defects
+Hereditary spherocytosis
+Hereditary elliptocytosis
+Infantile pyknocytosis
+Erythrocyte enzyme defects
+Glucose-­6-­phosphate dehydrogenase
+Pyruvate kinase
+Hexokinase
+Other
+Hemoglobinopathy
+Thalassemia
+Sepsis
+Hemangioma
+Congenital erythropoietic porphyria
+Familial TTP (ADAM TS13)
+Infection
+Intestinal Obstruction
+Pyloric stenosis
+Intestinal atresia
+Hirschsprung disease
+Cystic fibrosis
+Enclosed Hematoma (Cephalohematoma, Ecchymoses)
+Congestive Heart Failure
+Hypoxia
+Acidosis
+Hypothyroidism or Hypopituitarism
+Drugs/Toxins
+Maternal oxytocin
+Vitamin K
+Antibiotics
+Phenol disinfectants
+Herbs
+Familial Disorders of Bilirubin Metabolism
+Gilbert syndrome
+Crigler-­Najjar syndrome types I and II
+Lucey-­Driscoll syndrome
+TTP, thrombotic thrombocytopenic purpura.
+Modified from Balistreri WF. Liver disease in infancy and childhood. In: Schiff ER, Sorrell MF, Maddrey WC, eds. Schiff’s Diseases of the Liver. 8th 
+ed. Philadelphia: Lippincott-­Raven; 1999:1364.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+TABLE 18.3  Mechanistic Classification of the Etiologies of Neonatal Cholestasis
+Impaired bile flow
+Extrahepatic ducts
+Biliary atresia
+Choledochal cyst
+Spontaneous bile duct perforation
+Choledocholithiasis, biliary sludge
+Duct compression (may also be intrahepatic), e.g., hepatoblastoma, neu­
+roblastoma, rhabdomyosarcoma, neonatal leukemia, systemic juvenile 
+xanthogranuloma, Langerhans cell histiocytosis
+Bile duct stenosis
+Intrahepatic duct obstruction/formation
+Alagille syndrome
+“Nonsyndromic paucity of interlobular bile ducts,” e.g., Williams syndrome
+Cystic fibrosis
+Ductal plate malformations: congenital hepatic fibrosis; ARPKD; Caroli 
+disease; Ivemark, Jeune, Joubert, Bardet-­Biedl syndromes
+Neonatal sclerosing cholangitis
+Canalicular membrane transporters
+PFIC type 1, BRIC, Nielsen syndrome (familial Greenland cholestasis)
+PFIC type 2
+PFIC type 3
+Neonatal Dubin-­Johnson syndrome
+Villin functional defect
+Overload of excretory mechanism capacity: ABO blood group incompatibility 
+with hemolysis
+Hepatocyte tight junctions
+Neonatal ichthyosis–sclerosing cholangitis syndrome–claudin-­1 protein
+Familial hypercholanemia due to TJP2 (zonulin-­2) deficiency
+Hepatocyte dysfunction
+Bile acid synthesis
+First-degree: BASD
+3-­Oxo-­Δ4-­steroid 5β-­reductase deficiency
+3β-­Hydroxy-­Δ5-­C27-­steroid dehydrogenase/isomerase deficiency
+Oxysterol 7α-­hydroxylase deficiency
+Familial hypercholanemia due to BAAT deficiency
+Second-degree: organelle dysfunction
+Smith-­Lemli-­Opitz syndrome (cholesterol formation)
+Peroxisomal disorders: Zellweger, infantile Refsum, neonatal ALD
+Infectious
+Bacterial: sepsis (endotoxemia, e.g., UTI, gastroenteritis)
+Listeria
+Syphilis
+TB
+Viral: herpes viruses: CMV, HSV, HHV-­6
+Parvovirus B19
+Hepatitis A, B, C
+Enterovirus: coxsackieviruses, echoviruses, “numbered” enteroviruses
+Adenovirus
+Rubella
+HIV
+Paramyxovirus
+Protozoal
+Toxoplasmosis
+Toxic
+Parenteral nutrition–associated liver disease
+Fetal alcohol syndrome
+Drugs: maternal amphetamines, anticonvulsants; infant antifungals
+Endocrine
+Panhypopituitarism
+Hypothyroidism, cortisol deficiency
+McCune-­Albright syndrome
+Donohue syndrome (leprechaunism)
+Metabolic
+α1-­Antitrypsin deficiency
+Carbohydrate disorders
+Galactosemia
+Fructosemia (hereditary fructose intolerance)
+Glycogen storage disease type IV (Andersen disease)
+Amino acid disorders
+Tyrosinemia type I
+Lipid disorders
+Niemann-­Pick disease type C
+Gaucher disease
+Cerebrotendinous xanthomatosis
+Farber disease
+β-­Oxidation defects: short-­ and long-­chain acyl-­CoA dehydrogenase deficien­
+cies
+Lysosomal storage disorders
+Niemann-­Pick disease, type C
+Gaucher disease
+Farber disease
+Mucopolysaccharidosis VI (Maroteaux-­Lamy syndrome)
+Mucolipidosis II (I-­cell disease)
+Urea cycle defects
+Citrin deficiency (formerly type II citrullinemia)
+Mitochondrial respiratory chain disorders
+Growth retardation, amino aciduria, cholestasis, iron overload, lactic acido­
+sis, and early death (GRACILE)
+Immune mediated:
+Gestational alloimmune liver disease
+Neonatal lupus erythematosus
+Autoimmune hemolytic anemia with giant cell hepatitis
+Hemophagocytic lymphohistiocytosis
+Other:
+Hypoxic/ischemic/vascular
+Shock/hypoperfusion/hypoxia
+Budd-­Chiari syndrome
+Cardiac insufficiency (congenital heart disease, arrhythmia)
+Multiple hemangiomata
+Sinusoidal obstruction syndrome
+ARC syndrome (arthrogryposis–renal tubular dysfunction–cholestasis; defec­
+tive vacuolar protein sorting)
+Chromosomal: trisomy 18, 21
+Congenital disorders of glycosylation
+Hardikar syndrome
+Lymphedema cholestasis syndrome (Aagenaes syndrome)
+Kabuki syndrome
+North American Indian childhood cirrhosis (defective cirhin protein–unknown 
+function)
+Pseudo-­TORCH syndrome
+“Idiopathic neonatal hepatitis”
+ALD, adrenoleukodystrophy; ARC, arthrogryposis-­renal-­cholestasis; ARPKD, autosomal recessive polycystic kidney disease; BAAT, bile acid coenzyme 
+A: amino acid N-­acyltransferase; BASD, bile acid synthetic defects; BRIC, benign recurrent intrahepatic cholestasis; CMV, cytomegalovirus; HHV-­
+6, human herpesvirus type 6; HIV, human immunodeficiency virus; HSV, herpes simplex virus; PFIC, progressive familial intrahepatic cholesta­
+sis; TORCH, toxoplasmosis, other (syphilis, varicella-­zoster, parvovirus B19), rubella, cytomegalovirus, and herpes infections; UTI, urinary tract infection.
+From Wyllie R, Hyams JS, Kay M, eds. Pediatric Gastrointestinal and Liver Disease. 6th ed. Philadelphia: Elsevier; 2021:745, Table 68.1.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+328
+SECTION 4  Gastrointestinal Disorders
+TABLE 18.4  Typical Laboratory Findings in Neonatal Liver Failure
+GALD
+HLH
+Mitochondrial
+Viral
+Ischemic
+Transaminase levels 
+(IU/L)
+Normal/mild increase 
+<100
+Moderate/significant 
+increase (>1,000)
+Moderate increase 
+(100–500)
+Significant increase 
+(>1,000)
+Significant increase 
+(>1,000–6,000)
+INR
+Significant increase
+Moderate/significant 
+increase
+Moderate/significant 
+increase
+Moderate/significant 
+increase
+Moderate/significant 
+increase
+Ferritin level (ng/mL)
+800–7,000
+Significant increase 
+(>20,000)
+Variable
+Significant increase 
+(>20,000)
+Variable depending on 
+underlying cause of 
+ischemia
+Triglyceride levels
+Normal
+Increased
+Normal
+Normal
+Normal
+Hypoglycemia
+Yes
+Often
+Yes
+Often
+Variable
+Lactic acidosis
+Normal
+Normal
+Increased
+Normal unless shock
+Often
+α-­Fetoprotein level (for 
+age)
+Increased
+Normal
+Normal/increased
+Normal
+Normal
+Cholestasis
+Progressive after birth
+Moderate/significant
+Moderate
+None/mild at presen­
+tation
+Mild/moderate
+GALD, gestational alloimmune liver disease; HLH, hemophagocytic lymphohistiocytosis.
+Data from Sundaram SS, Alonso EM, Narkewicz MR, et al. Characterization and outcomes of young infants with acute liver failure. J Pediatr. 
+2011;159:813–818; Taylor SA, Whitington PF. Neonatal acute liver failure. Liver Transpl. 2016;22:677–685; Bitar R, Thwaites R, Davison S, et al. 
+Liver failure in early infancy: aetiology, presentation, and outcome. J Pediatr Gastroenterol Nutr. 2017;64:70–75; Fellman V, Kotarsky H. Mitochon­
+drial hepatopathies in the newborn period. Semin Fetal Neonatal Med. 2011;16:222–228.
+week of life, and peaks between the second and third weeks of life at 
+10–20 mg/dL. This is referred to as “late” or “breast milk” jaundice. The 
+precise cause of increased bilirubin levels in this latter setting has not 
+been established; alternative theories include inhibition of glucurono­
+syltransferase activity and increased enterohepatic circulation of UCB. 
+Kernicterus appears to be very rare but has been reported in associ­
+ation with breast-­feeding. No treatment is necessary for physiologic 
+jaundice. Practices that support breast-­feeding, such as rooming-­in on 
+the maternity ward and frequent feedings, decrease the risk for breast-­
+feeding jaundice. If the bilirubin exceeds 20 mg/dL in the breast-­fed 
+infant, discontinuing breast-­feeding for 24 hours and supplementing 
+with formula feeds results in a decreased bilirubin level. Phototherapy 
+or rarely exchange transfusion may also be needed. Diagnosis of breast 
+milk jaundice should include a blood test for conjugated bilirubin and 
+can be diagnosed only with appropriate clinical history in the absence 
+of conjugated hyperbilirubinemia.
+If there are any red flags or uncertainty about the diagnosis (Table 
+18.5), or if treatment is being considered, the hyperbilirubinemia 
+should be investigated further. Any abnormality identified by history, 
+physical examination, or laboratory findings is a matter of concern.
+Unconjugated Hyperbilirubinemia
+The differential diagnosis of unconjugated hyperbilirubinemia in the 
+neonate and infant is presented in Table 18.2. Unless abnormalities in 
+the history and physical examination direct the evaluation more specif­
+ically, hematologic evaluation, which may identify causes of increased 
+bilirubin production, should be performed. This includes a CBC with 
+examination of the smear, a reticulocyte count, a direct Coombs test, 
+and blood typing (mother and infant).
+Polycythemia. Neonatal polycythemia, defined as a hematocrit 
+>65% by venipuncture, can be caused by maternal diabetes, twin-­
+twin transfusion, intrauterine hypoxemia, endocrine disorders, and 
+delayed cord clamping (see Table 18.2). Polycythemia results in 
+increased bilirubin production because of the increased red blood 
+cell mass.
+Hemolytic disorders. Reticulocytosis, unconjugated hyperbili­
+rubinemia, and an increased nucleated red blood cell count, with 
+either a low or normal hematocrit, suggest hemolysis. This can 
+result from isoimmunization; erythrocyte membrane, hemoglobin, or 
+enzyme defects; or sepsis with disseminated intravascular coagulation. 
+Some causes of isoimmunization have low reticulocyte counts because 
+the antibody binds to these precursor cells. Rarer causes of hemolysis 
+include hemangiomas and congenital erythropoietic porphyria.
+Isoimmune hemolytic disease. In this group of disorders, maternal 
+antibodies (immunoglobulin G) to the infant’s erythrocytes cross the 
+placenta, resulting in red blood cell destruction. The administration of 
+anti-­D gamma globulin (RhO[D] immune globulin [RhoGAM]) after 
+delivery to women who are Rh-­negative has reduced the incidence 
+of Rh sensitization and erythroblastosis fetalis. If a woman has been 
+sensitized, the fetus can be monitored with serial amniocenteses. If 
+necessary, intrauterine transfusion can then be performed to prevent 
+the sequelae of severe hemolysis, which include fetal and neonatal 
+anemia, edema, hepatosplenomegaly, and circulatory collapse or 
+stillbirth of an infant with hydrops fetalis. If the problem has not been 
+recognized prenatally, the infant with Rh incompatibility presents with 
+pallor, hepatosplenomegaly, and rapidly developing jaundice.
+The diagnosis is confirmed by demonstrating that the infant is Rh-­
+positive, that the direct Coombs test result is positive, and that mater­
+nal antibody is coating the infant’s red blood cells. These test results are 
+modified with in utero transfusions with Rh-­negative cells. Depending 
+on the degree of hemolysis, postnatal phototherapy and/or exchange 
+transfusion may be required.
+ABO blood type incompatibility causes a less severe form of iso­
+immune hemolytic disease with a less rapid development of jaundice. 
+It is more common in infants with blood type A or B who are born 
+to mothers with blood type O. Hemolysis develops in 50% of sensi­
+tized infants; of these infants, 50% have a bilirubin level >10 mg/dL. 
+In addition to showing anemia, reticulocytosis, and spherocytes on the 
+smear, the direct Coombs test result is weakly positive, and the indirect 
+Coombs test result is positive. In rare cases, other minor blood group 
+antibodies can also cause hemolysis.
+Erythrocyte membrane defects. Red blood cell membrane defects 
+are relatively uncommon causes of unconjugated hyperbilirubinemia. 
+There is often a family history of hemolysis, transfusions, 
+cholecystectomy for bilirubin stones, or splenectomy. Hemolysis 
+results from fragility of the red blood cell membrane. When the defect 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+329
+CHAPTER 18  Jaundice
+is present in infancy, there are anemia, jaundice, and splenomegaly, and 
+the smear is often characteristic (e.g., spherocytosis or elliptocytosis). 
+Spherocytes are also seen with ABO incompatibility. All membrane 
+defects yield negative results of the Coombs tests.
+Erythrocyte enzyme defects (see Chapter 49). Glucose-­6-­phosphate 
+dehydrogenase (G6PD) deficiency is common. Jaundice is seen more 
+frequently in persons with a Mediterranean or Far Eastern ancestry who 
+have a complete absence of the enzyme. In these individuals, hemolysis 
+can occur without a precipitant. In African-­American patients, the disease 
+is generally less severe, and hemolysis is rare without exposure to a drug, 
+a toxin, or an infection that causes an oxidant stress. G6PD deficiency can 
+manifest as neonatal jaundice on day 2 or 3 after birth; alternatively, it may 
+not manifest until later in childhood, when jaundice is associated with an 
+acute hemolytic crisis. The diagnosis of G6PD deficiency is confirmed 
+by documenting deficiency of the enzyme in red blood cells.
+Numerous deficiencies of enzymes in the glycolytic pathway 
+have been identified. Pyruvate kinase deficiency is the most com­
+mon of these rare disorders. Most of these disorders are thought to 
+have an autosomal recessive mode of transmission and have been 
+identified in only a small number of individuals. They all result 
+in hemolysis. The time of manifestation depends on the degree of 
+hemolysis.
+Other considerations. If the hematocrit is normal and there is no 
+evidence of hemolysis or a consumptive process, other explanations 
+for unconjugated hyperbilirubinemia should be sought. Blood and 
+urine cultures rarely identify infectious etiologic agents if the patient 
+is otherwise clinically normal. Vomiting, abdominal distention, and 
+delayed passage of meconium suggest obstruction of the gastrointestinal 
+tract and should be further investigated by imaging. Clinical examination 
+should also identify cephalohematoma, ecchymoses, heart failure, 
+hypoxia, and acidosis. Thyroxine and thyroid-­stimulating hormone 
+levels should be obtained or checked from the state neonatal screening 
+program to look for evidence of hypothyroidism or hypopituitarism.
+Drugs, administered to either mother or neonate, and toxins should 
+be identified by careful record review. Examples include oxytocin, 
+excess vitamin K in premature infants, some antibiotics, and phenol 
+disinfectants used in nurseries. Use of herbal remedies should also be 
+investigated.
+In the evaluation process, it is important to remember that the divi­
+sion of causes into hemolytic and nonhemolytic is an arbitrary one. 
+Drugs, infection, and G6PD deficiency can contribute to both hemo­
+lytic and nonhemolytic neonatal jaundice. In addition, the cause of 
+jaundice can be multifactorial.
+Familial disorders of bilirubin metabolism
+Gilbert syndrome. Gilbert syndrome is a benign condition that 
+occurs in up to 8% of the population. A familial incidence is reported 
+in 15–40% of cases. Gilbert syndrome is a heterogeneous group of 
+disorders that have in common at least a 50% decrease in UDPGT 
+activity as a result of a defect in the gene responsible for this enzyme. In 
+20–30% of individuals with Gilbert syndrome, there is also a decrease 
+TABLE 18.5  Red Flags in the Evaluation of Infants with Jaundice
+Onset
+<24 hr of age
+>2 wk of age
+Bilirubin
+Conjugated
+>20% of total or >2 mg/dL
+Total
+>13 mg/dL formula-­fed
+>14–­15 mg/dL breast-­fed
+Course
+Increases by >5 mg/dL/day
+Persists beyond 14 days of age
+Prenatal History
+Maternal infection
+Maternal diabetes mellitus
+Maternal drug use
+Polyhydramnios
+Intrauterine growth restriction
+Delivery
+Prematurity
+Perinatal asphyxia
+Small for gestational age
+Feeding
+Delayed enteral feeding
+Vomiting
+Poor feeding
+Associated with change in formula
+Stools
+Acholic
+Delayed passage of meconium
+Family History
+Jaundice
+Anemia
+Liver disease
+Splenectomy
+Cholecystectomy
+Physical Examination
+Ill-­appearing
+Pallor
+Petechiae
+Hematoma or ecchymoses
+Chromosomal stigmata
+Abnormal facies
+Microcephaly
+Cataracts
+Chorioretinitis
+Nystagmus
+Optic nerve hypoplasia
+Posterior embryotoxon
+Heart murmur
+Hepatosplenomegaly (or isolated hepatomegaly or splenomegaly)
+Ascites
+Acholic stools
+Dark urine
+Microphallus
+Encephalopathy—seizures, lethargy, coma
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+330
+SECTION 4  Gastrointestinal Disorders
+in hepatocyte bilirubin uptake. Affected individuals are generally 
+asymptomatic and may not present with jaundice until the second or 
+third decade of life. Gilbert syndrome may be responsible for some 
+cases of neonatal jaundice. Mild jaundice with a bilirubin level up to 
+7 mg/dL can occur transiently with fatigue, exercise, fasting, febrile 
+illness, and alcohol ingestion in older patients. Except for showing an 
+increased indirect bilirubin level, all laboratory studies are normal. 
+The diagnosis is generally a clinical one but can be confirmed by 
+documenting a twofold to threefold rise in unconjugated bilirubin 
+during a 24-­hour fast.
+Crigler-­Najjar syndrome. Crigler-­Najjar syndrome types I and 
+II (also known as Arias syndrome) are rare autosomal recessive 
+conditions caused by variants (different alleles from those of Gilbert 
+syndrome) in the gene coding for UDPGT. Crigler-­Najjar syndrome 
+type I is characterized by marked hyperbilirubinemia (20–40 mg/
+dL) in the neonatal period in an otherwise healthy infant. Among 
+untreated infants, kernicterus is universal, and affected individuals 
+usually die with severe neurologic problems. Because UDPGT is 
+undetectable, there is no conjugated bilirubin in the bile or serum, 
+and the bile is colorless. There is no decrease in serum UCB levels 
+during phenobarbital administration. The only therapies are exchange 
+transfusion, intensive phototherapy, and liver transplantation.
+The onset of Crigler-­Najjar syndrome type II is usually at birth, 
+although it can be in late childhood. There is <5% of the normal 
+UDPGT activity. Bile contains bilirubin monoglucuronides. Bilirubin 
+levels, generally 8–25 mg/dL, respond to phenobarbital administration 
+with a significant decrease. Neurologic disease is rare.
+Lucey-­Driscoll syndrome. Lucey-­Driscoll syndrome is a transient 
+familial neonatal hyperbilirubinemia that appears in the first few days 
+of life and resolves by 2–3 weeks of age. This results from inhibition 
+of UDPGT by a substance that has been found in both maternal and 
+infant serum. The bilirubin level can rise to >60 mg/dL in untreated 
+infants, resulting in severe neurotoxicity. The condition is treated with 
+exchange transfusion.
+Therapy. Treatment of unconjugated hyperbilirubinemia depends on 
+the degree of elevation of bilirubin. Considerable controversy exists over 
+which level is toxic and when treatment should be initiated. Because it is 
+lipid soluble, unconjugated bilirubin can diffuse into the central nervous 
+system, which results in neurologic toxicity. Most authorities agree that 
+kernicterus does not occur below a bilirubin level of 20–30 mg/dL in 
+the healthy, full-­term infant without evidence of hemolysis. Kernicterus 
+may occur at lower bilirubin levels in premature or sick neonates.
+Treatment options include phototherapy and exchange transfu­
+sion. Phototherapy produces a reduction of bilirubin by 1–2 mg/dL in 
+4–6 hours by causing the photoisomerization and photodegradation 
+of unconjugated bilirubin to more water-­soluble forms that are more 
+readily excreted in bile and urine. Potential complications include reti­
+nal damage, diarrhea, and dehydration. Phototherapy is begun at levels 
+below that for exchange transfusion (∼5 mg/dL less) or during prepa­
+rations for an exchange transfusion.
+Exchange transfusion with blood cross-­matched against that of the 
+mother is indicated for severe hyperbilirubinemia. This decision must 
+be based not only on the bilirubin level but also, as important, on the 
+infant’s age and clinical condition. In full-­ or near-­term infants (>2,000 
+g in weight) with evidence of hemolysis, exchange transfusion is indi­
+cated if the serum unconjugated bilirubin level is higher than 25–30 
+mg/dL or if the bilirubin level does not rapidly respond to photother­
+apy. Signs of kernicterus (i.e., a high-­pitched cry, gaze paralysis, fever, 
+lethargy, and opisthotonic posture) warrant exchange transfusion, no 
+matter what the bilirubin level.
+Neonatal conjugated hyperbilirubinemia. Conjugated hyper­
+bilirubinemia in the neonate and infant has an extensive differential 
+diagnosis (see Table 18.3). It is important to first evaluate the infant for 
+potentially treatable problems (Table 18.6) and institute specific ther­
+apy that prevents significant morbidity and may be life-­saving. Figure 
+18.2 outlines a diagnostic approach when the clinical presentation has 
+not suggested a likely diagnosis.
+Common to all of these conditions is the potential for coagulopathy. 
+If the PT is prolonged, the infant should be treated with intravenous 
+vitamin K to avoid spontaneous hemorrhage, particularly intracranial. 
+Depending on the degree of hepatocellular damage, vitamin K may not 
+correct the PT. This mandates prompt evaluation for the underlying 
+cause of neonatal liver failure or extrahepatic causes of coagulopathy. 
+Interpretation of PT should be based on neonatal norms, as normal 
+PT is higher in newborns, particularly in premature newborns versus 
+older infants. Even with a normal PT at the outset, infants with conju­
+gated hyperbilirubinemia should be on oral fat-­soluble vitamin supple­
+mentation until their cholestasis resolves.
+Hypoglycemia is another danger that is associated with diseases 
+that cause severe hepatic dysfunction but also with metabolic disorders 
+as well as with hypopituitarism. The infant may be relatively asymp­
+tomatic despite significant hypoglycemia. The serum glucose level can 
+be measured before a feeding. If hypoglycemia is present, the infant 
+should receive frequent feedings, continuous feedings, or intravenous 
+dextrose infusions. Glucose level should always be the part of the eval­
+uation of conjugated hyperbilirubinemia.
+Hyperammonemia can be present in severe liver dysfunction and 
+metabolic liver disorders. Ammonia should be checked on infants with 
+lethargy or with a change in mental status.
+TABLE 18.6  Conditions Not to Miss in 
+Infants with Conjugated Hyperbilirubinemia
+Priorities
+Hypoprothrombinemia
+Hypoglycemia
+Extrahepatic biliary atresia
+Infections
+Sepsis
+Urinary tract infection
+Syphilis
+Toxoplasmosis
+Herpes simplex virus
+Endocrine Disorders
+Hypopituitarism
+Hypothyroidism
+Metabolic Disorders
+Galactosemia
+Hereditary fructose intolerance (fructosemia)
+Tyrosinemia
+Mitochondrial hepatocerebral subtypes
+Other
+Neonatal hemochromatosis
+Bile acid abnormalities
+Choledochal cyst
+Intestinal obstruction
+Familial hemophagocytic syndromes
+Heart disease
+Toxins
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+331
+CHAPTER 18  Jaundice
+Serum levels of aminotransferases, GGT, and alkaline phosphatase, 
+in addition to a CBC, should be included in the initial evaluation.
+Obstructive/anatomic abnormalities, idiopathic cholestasis, and 
+idiopathic neonatal hepatitis
+Biliary atresia. Untreated biliary atresia is universally lethal, and only 
+prompt diagnosis and surgical treatment can prevent mortality. Biliary 
+atresia accounts for approximately 30% of cases of neonatal cholestasis 
+seen at major referral centers. It occurs in 1 in 8,000–15,000 live births. It 
+is the result of a progressive inflammatory process leading to obliteration 
+of the lumen of the extrahepatic ducts. It is the leading indication for liver 
+transplantation in the pediatric population. Infants are less often icteric 
+from birth and more often develop jaundice at 2–6 weeks of age. Infants 
+are usually full term and initially appear healthy except for jaundice, dark 
+urine, and acholic stools. The family history usually is negative for liver 
+disease. There appear to be two forms of biliary atresia:
+	1.	 In the “embryonic” or “fetal form,” which occurs in 15–30% of 
+cases, there is no jaundice-­free period. There are often associated 
+other anatomic defects, including cardiac defects, polysplenia, mal­
+rotation, and abdominal heterotaxia.
+	2.	 In the “perinatal form,” there may be a jaundice-­free interval after 
+resolution of the normal physiologic jaundice, and there are no 
+associated anomalies.
+At the time of presentation, infants with biliary atresia may have 
+an enlarged, firm liver. Pruritus, splenomegaly, and ascites can develop 
+later with advanced disease. The work-­up should be performed expe­
+ditiously; it is important to identify biliary atresia early because the 
+success of surgical establishment of drainage is correlated with early 
+age at surgery. Surgery performed before the infant is 2 months old 
+carries an approximately 80% rate of success in terms of obtaining 
+some bile flow. This rate decreases to about 20% for surgery performed 
+in patients older than 3 months. Diagnostic work-­up includes evalua­
+tion of other identifiable causes of neonatal cholestasis including CMV 
+or syphilis infection, α1-­antitrypsin deficiency, hypothyroidism, and 
+other anatomic abnormalities of the biliary tree. Combination of con­
+jugated hyperbilirubinemia, acholic stools, and elevated GGT should 
+trigger prompt evaluation for biliary atresia. An ultrasound study helps 
+exclude other treatable anatomic abnormalities, such as a choledochal 
+cyst. The gallbladder is usually absent or collapsed in infants with bil­
+iary atresia. It is strongly recommended that noninvasive work-­up is 
+completed by 1 month of age and the infant is referred to a pediatric 
+tertiary center if biliary atresia cannot be ruled out.
+Liver biopsy and percutaneous cholangiogram should follow if no 
+alternative cause of jaundice is identified. Characteristic findings on 
+liver biopsy are periportal edema and fibrosis, bile duct proliferation, 
+and bile duct plugs. Some centers utilize hepatobiliary scintigraphy, 
+which demonstrates uptake of the tracer but no excretion into the 
+duodenum if biliary atresia is present. However, this study can lead to 
+delay in diagnosis (requires pretreatment with phenobarbital) and can 
+be inconclusive in hepatic dysfunction due to poor uptake of the tracer.
+The diagnosis is confirmed by intraoperative cholangiography at 
+the time of surgery. The surgical procedure, a portoenterostomy, was 
+initially described by Kasai. The porta hepatis is transected, and a loop 
+of intestine is brought up to drain the bile ducts. Those in whom bile 
+drainage is not established require early liver transplantation. In the 
+majority of patients, surgery is palliative, allowing time before liver 
+transplantation is needed; overall and post-­transplant mortality are 
+significantly reduced with a timely Kasai procedure.
+The important, potentially life-­threatening complication of the 
+Kasai procedure is bacterial ascending cholangitis. Febrile patients 
+with biliary atresia need to be promptly evaluated for causes of fever. 
+If no alternative source of fever is identified, they should be evaluated 
+for cholangitis.
+Most of the patients with biliary atresia remain cholestatic despite 
+the Kasai procedure; thus, they require supplementation with medium-­
+chain triglyceride (MCT) oil (or MCT-­enriched formulas) and fat-­
+soluble vitamins. Pruritus can be managed with rifampin or naltrexone. 
+Portal hypertension with splenomegaly, esophageal varices, and ascites 
+can develop over time in many patients with biliary atresia. Due to sig­
+nificant risk of complications and frequent need for liver transplant, 
+patients with biliary atresia should be followed in centers with pediat­
+ric transplant/hepatology expertise.
+Alagille syndrome. Alagille syndrome is characterized by the 
+abnormal development of multiple organs related to defective JAG-­1/
+NOTCH-­2 signaling. Alagille syndrome has an autosomal dominant 
+transmission with highly variable expression. Often other family 
+members are recognized as being affected when an infant is brought 
+to medical attention. There is a high proportion of sporadic cases (up 
+to 70%) with de novo variants in the JAG-­1 gene responsible for this 
+syndrome. Variants of the NOTCH-­2 receptor can result in a similar 
+clinical picture, though they are less common than JAG-­1 variants.
+The most important clinical feature is a marked reduction in the 
+number of interlobular bile ducts. Jaundice may have its onset in 
+the neonatal period or may not appear until later in childhood. The 
+diagnosis is confirmed by liver biopsy. Symptoms of cholestasis often 
+improve over time.
+Additionally, patients with Alagille syndrome can have unusual 
+facies (a triangular face with broad forehead, widely spaced and 
+deep-­set eyes, a long nose, and a pointed mandible), vertebral arch 
+defects (butterfly vertebrae, hemivertebrae, decreased interpedicular 
+distance), posterior embryotoxon (ocular), and cardiac anomalies 
+(ranging from peripheral pulmonic stenosis to complex congenital 
+heart disease) (Fig. 18.4). There is a 20–25% rate of mortality from 
+serious cardiac or liver disease. Renal anomalies, pancreatic insuf­
+ficiency, and growth retardation are present in some patients (Table 
+18.7). Cerebral vascular anomalies are the main reason for increased 
+mortality later in life. Screening with MR angiography is recom­
+mended in school age. By the age of 4–6 months, pruritus develops 
+and can be severe. Pruritus can be managed with rifampin or nal­
+trexone. Xanthomas appear in association with a markedly elevated 
+cholesterol level.
+There is a nonsyndromic form of bile duct paucity with cholestasis 
+caused by bile duct paucity but not associated with clinical or genetic 
+variants characteristic of Alagille syndrome. The prognosis for this 
+form is less favorable.
+Choledochal cysts. Manifestations include conjugated hyperbiliru­
+binemia with jaundice, vomiting, acholic stools, and hepatomegaly in 
+the neonate. Alternatively, choledochal cysts can manifest with jaun­
+dice, abdominal pain, and a right upper quadrant mass in the older 
+child. There are five main anatomic types of cystic dilatations of the 
+extrahepatic or intrahepatic bile ducts (Fig. 18.5). The diagnosis is 
+made by ultrasound studies and confirmed by MR cholangiography or 
+intraoperative cholangiography. Treatment involves surgical excision. 
+Cholangitis may occur postoperatively. If the cyst is not fully excised, 
+cholangiocarcinoma can develop in the residual cyst tissue.
+Treatable infections
+Bacterial infection. An infant may, in rare cases, appear clinically 
+well, with jaundice as the only sign of a bacterial infection. Blood 
+and urine cultures should be obtained in infants with unexplained 
+conjugated hyperbilirubinemia. Infection is less likely to be missed 
+in the symptomatic infant who presents with poor feeding, lethargy, 
+vomiting, temperature instability, apnea, bradycardia, or shock. 
+Escherichia coli is the most common organism identified in either sepsis 
+or urinary tract infection (often with bacteremia) when jaundice is 
+present. The hyperbilirubinemia may be caused by endotoxin-­mediated 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+332
+SECTION 4  Gastrointestinal Disorders
+canalicular dysfunction. Less often, other gram-­negative bacilli or 
+Listeria, Staphylococcus, or Streptococcus species may be identified as 
+the causative agent. Although sepsis accounts for only a small percent 
+of the cases of neonatal cholestasis, it is easily diagnosed and treated.
+Herpes simplex. Herpes simplex causes a severe neonatal infection 
+that usually manifests at 7–14 days of age with lethargy, poor feeding, 
+a vesicular rash (in 60–70% of patients), jaundice, hepatomegaly, 
+temperature instability, encephalitis, and coagulopathy. The diagnosis 
+is made by identification of the virus in skin lesions through direct 
+fluorescent antibody staining or PCR of herpes simplex DNA in blood 
+or cerebrospinal fluid. Treatment is with intravenous acyclovir. Among 
+infants with disseminated infection, the mortality rate is 15–35%.
+Enteroviruses. Maternal infection at the time of delivery may result 
+in severe enteroviral disease in the infant within 1–7 days of birth. 
+Manifestations are similar to that of herpes simplex virus except a 
+macular rash. Severe hepatitis, carditis, or encephalitis or a sepsis picture 
+may develop. Diagnosis is made through PCR or viral culture. Treatment 
+strategies include intravenous immunoglobulin (IVIG) and pleconaril.
+Coronavirus (COVID-­19). Infection with COVID-­19 has been 
+associated with liver dysfunction, although additional studies are needed 
+to understand the severity and long-­term effects of this new virus.
+Cytomegalovirus infection. CMV infection is common, but 90% 
+of affected infants are asymptomatic at birth. In the severely affected 
+infant with vertical transmission, CMV can manifest within the first 
+24 hours after birth with intrauterine growth restriction, conjugated 
+hyperbilirubinemia, hemolytic anemia, thrombocytopenic purpura, 
+and hepatosplenomegaly. Often an infant with low birthweight presents 
+with microcephaly, periventricular calcifications, and chorioretinitis. 
+The diagnosis can be made by obtaining urine and saliva specimens 
+for CMV DNA.
+A
+B
+Fig. 18.4  Alagille syndrome. A, A 1½-­year-­old with broad forehead 
+and prominent chin. B, Note the deep-­set eyes; broad forehead; long, 
+straight nose with flattened tip; and prominent chin. (A, From Jones KL, 
+Jones MC, Del Campo M. Smith’s Recognizable Patterns of Human 
+Malformation. 7th ed. Philadelphia: Elsevier; 2013:760, Fig. 1 A and B; 
+B, Courtesy Dr. Ian Krantz, University of Pennsylvania.)
+TABLE 18.7  Extrahepatic Manifestations of 
+Alagille Syndrome
+Cardiac
+Peripheral pulmonary stenosis
+Tetralogy of Fallot
+Ventricular septal defect
+Atrial septal defect
+Aortic coarctation
+Pulmonary atresia
+Skeletal
+Short stature
+Butterfly vertebrae
+Fused vertebrae
+Rib anomalies
+Spina bifida occulta
+Thin cortical bones
+Ocular
+Posterior embryotoxon
+Axenfeld anomaly
+Optic disc drusen
+Shallow anterior chamber
+Microcornea
+Vascular
+Renal artery stenosis
+Intracranial bleeding
+Central nervous system malformations
+Other
+Renal developmental abnormalities
+Renal tubulopathies
+Pancreatic exocrine and endocrine insufficiency
+High-­pitched voice
+Microcolon
+Growth restriction
+From Mieli-­Vergani G, Hadzic N. Biliary atresia and neonatal disorders 
+of the bile ducts. In: Wyllie R, Hyams JS, Kay M, eds. Pediatric Gastro­
+intestinal and Liver Disease. 4th ed. Philadelphia: Elsevier/Saunders; 
+2011:749.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+333
+CHAPTER 18  Jaundice
+Treatment includes the use of ganciclovir and possibly CMV immu­
+noglobulin. The liver disease resolves in most patients, but neurologic 
+sequelae are common. Postnatal acquisition from CMV-­positive blood 
+transfusion may produce a sepsis syndrome and hepatitis.
+The findings of CMV in a cholestatic infant without other features 
+of congenital CMV infection should not stop the search for other 
+causes of cholestasis, particularly biliary atresia.
+Hepatitis B. Hepatitis B infection manifests with jaundice in 
+fewer than 5% of perinatal infections. Perinatal transmission is high 
+when mothers are chronic carriers who are seropositive for hepatitis 
+B e antigen (HBeAg) or when they acquire acute infection in the last 
+trimester. Most infants are asymptomatic, but there is a high incidence 
+of subsequent chronic infection. Perinatal infection can be prevented 
+with hepatitis B immune globulin and vaccination. It is important to 
+identify mothers who are seropositive for hepatitis B surface antigen 
+(HBsAg); identification requires universal screening.
+Syphilis. Congenital syphilis remains a problem despite maternal 
+screening. With severe infection, the infant has fever, a diffuse macular-­
+papular rash, hepatosplenomegaly, edema, anemia, and periostitis, in 
+addition to jaundice. Nontreponemal serologic tests (Venereal Disease 
+Research Laboratory) may be routinely performed on cord blood. If the 
+result is positive, the diagnosis should be confirmed on serum from the 
+infant. Confirmation requires a positive specific test for syphilis such 
+as the immunoglobulin M (IgM) or immunoglobulin G fluorescent 
+treponemal antibody. Treatment is with intravenous penicillin for 
+10–14 days.
+Toxoplasmosis. If toxoplasmosis is suspected on clinical grounds, 
+IgM titers should be obtained, or the placenta should be examined 
+histologically. Most infected infants are asymptomatic. Infants with severe 
+congenital infection may have hydrocephaly or microcephaly, intracranial 
+calcifications, chorioretinitis, aseptic meningitis, jaundice, purpura, 
+and hepatomegaly. Postnatal treatment consists of pyrimethamine and 
+sulfadiazine; folinic acid is added to prevent folate deficiency.
+Treatable metabolic disorders. Many metabolic disorders are part 
+of the universal newborn screening program in developed countries. 
+The clinician needs to be aware of which disorders are and which are 
+not screened for in a particular country or state. Even in the presence 
+of universal neonatal screening for metabolic disorders, the test may 
+be falsely negative, particularly if the newborn was tested too early, was 
+premature, or underwent transfusions before the test was performed. 
+In countries with robust neonatal screening programs, repeating the 
+newborn screen may be an easy and cost-­effective first step in evaluation 
+for possible metabolic disease. Other useful screening modalities 
+include urine-­reducing substances (galactosemia), serum amino acids, 
+ammonia level, urine organic acids, quantitative serum bile acids, 
+qualitative analysis of urinary bile acids by fast atom bombardment mass 
+spectrometry (FAB-­MS), the thyroxine level, and the thyroid-­stimulating 
+hormone level, succinyl-­acetone (tyrosinemia), triglycerides, lactate, 
+pyruvate, and acyl carnitines (mitochondrial disorders).
+Galactosemia. Galactosemia, a life-­threatening disorder, can easily 
+be detected. It is an autosomal recessive disorder with deficiency 
+of galactose-­1-­phosphate uridyltransferase, which is required for 
+conversion of galactose to glucose. As a result, galactose-­1-­phosphate 
+accumulates; this compound is thought to be hepatotoxic. Once lactose 
+(glucose-­galactose) is introduced into the infant’s diet, vomiting, 
+diarrhea, jaundice, hepatomegaly, and cataracts develop. Affected 
+infants often present with E. coli sepsis in the first weeks of life.
+Laboratory evaluation may demonstrate elevations of aminotrans­
+ferase levels, a prolonged PT, hemolytic anemia, and aminoaciduria. 
+The urine yields positive findings for reducing substances (galactose) if 
+the infant is receiving a lactose-­containing formula or breast milk. The 
+diagnosis can be confirmed by documenting deficiency of the enzyme 
+in erythrocytes or leukocytes. Transfusions may cause false-­negative 
+results. Treatment consists of eliminating galactose from the diet.
+Hereditary fructose intolerance (fructosemia) is an uncommon 
+disorder; it can manifest with hepatic failure in an infant exposed to 
+fructose or sucrose in formula, juice, fruit, or medications. A thorough 
+diet history in relation to the onset of jaundice is often the key to this 
+diagnosis. Prompt removal of fructose, sucrose, and sorbitol from the 
+diet is essential.
+Tyrosinemia is diagnosed from serum amino acid levels and urine 
+organic acid levels. Elevated urinary succinylacetone is pathognomonic. 
+Treatment involves the dietary restriction of phenylalanine, methionine, 
+and tyrosine and the use of 2-­(2-­nitro-­4-­trifluoromethylbenzoyl)-­1,
+3-­cyclohexanedione to prevent the formation of toxic metabolites. 
+Liver transplantation may still be required.
+Disorders of bile acid metabolism typically are suggested by 
+conjugated hyperbilirubinemia with low or normal GGT and low or 
+normal total bile acid levels. They can be detected by bile acid FAB-­MS 
+analysis of urine. Treatment of some forms of bile acid synthetic disorder 
+is possible with oral cholic acid supplementation.
+Fatty acid oxidation defects often present with hypoketotic hypo­
+glycemia, hepatomegaly, variable hyperammonemia, and cholestasis 
+(Table 18.8).
+IA
+IB
+IC
+II
+III
+IVA
+IVB
+V
+Fig. 18.5  Todani classification of choledochal cysts based on cholangio­
+graphic morphology. Types IA and IB involve cystic dilatation of the com­
+mon duct, with IB limited to the area below the insertion of the cystic duct; 
+IC is cylindrical dilatation of the duct. Type II is a saccular diverticulum from 
+the common bile duct. Type III is a choledochocele at the ampulla of Vater. 
+Types IVA and IVB are multiple cystic dilatations of both the intra-­ and 
+extrahepatic ducts and extrahepatic biliary tree only, respectively. Type 
+V is equivalent to Caroli disease with numerous intrahepatic cystic dilata­
+tions throughout the biliary tree and liver. (From Kim OH, Chung HJ, Choi 
+BG. Imaging of the choledochal cyst. Radiographics. 1995;15:69–88.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+334
+SECTION 4  Gastrointestinal Disorders
+Mitochondrial disorders with a hepatocerebral phenotype often 
+present in infancy with liver dysfunction, hepatomegaly, and liver fail­
+ure or cirrhosis (Table 18.9).
+Other identifiable infectious and metabolic causes of cholestasis
+α1-­Antitrypsin deficiency. An α1-­antitrypsin protein immunoelec­
+trophoresis can detect an α1-­antitrypsin deficiency, which is the most 
+common inherited cause of neonatal cholestasis. Deficiency occurs 
+in 1 in 1,600–2,000 live births. α1-­Antitrypsin is a protease inhibitor 
+that is synthesized in the liver and inactivates neutrophil proteases. 
+The normal α1-­antitrypsin phenotype, MM, is found in 80–90% of the 
+population. There are numerous allelic variants. Liver disease is asso­
+ciated with the ZZ phenotype and sporadically with other variants. 
+The exact mechanism of liver injury is unclear, and there is variabil­
+ity in expression so that clinically significant liver disease develops 
+in only 10–15% of individuals with the ZZ phenotype. There is also 
+great variability in manifestation. Commonly, the disorder manifests 
+in early infancy with prolonged conjugated hyperbilirubinemia, failure 
+to thrive, acholic stools, hepatomegaly, and less commonly ascites. In 
+some patients it manifests later in childhood or even adulthood. Man­
+ifestations in older individuals include jaundice, hepatosplenomegaly, 
+ascites, portal hypertension with varices, chronic hepatitis, cryptogenic 
+cirrhosis, or, rarely, hepatocellular carcinoma. The diagnosis is estab­
+lished by serum phenotyping (ZZ). Treatment is supportive. Some 
+individuals do very well with minimal liver dysfunction. Others have 
+progressive liver disease, requiring transplantation. α1-­Antitrypsin 
+deficiency can enhance hepatotoxicity of hepatotoxic drugs. All indi­
+viduals with α1-­antitrypsin deficiency should be aware of the potential 
+for lung disease when they are older.
+TABLE 18.8  Individual Fatty Acid Oxidation Defects
+Defect
+Clinical Phenotype
+Other Features
+Metabolic Abnormalities
+Diagnosis Confirmation
+Carnitine transporter deficiency
+H, C, M
+Low free carnitine
+EM
+Carnitine palmitoyl transferase 1
+H, R, M
+RTA
+High free carnitine
+EM
+Carnitine/acyl carnitine translocase
+H, C, M
+Early death
+C16 and 18 species
+EM
+Carnitine palmitoyl transferase 2
+H, C, M
+RTA
+C16 and 18
+493C>T
+Very long-­chain acyl-­CoA dehydrogenase H, C, R, M
+C14, 16, and 18
+Medium-­chain acyl-­CoA dehydrogenase
+H, C, R, M
+C8 DCA
+985A>G in 90% symptomatic 
+cases
+Long-­chain 3-­hydroxyacyl-­CoA dehydro­
+genase/mitochondrial trifunctional 
+protein
+H, C, M
+Retinopathy, neu­
+ropathy
+C16 and 18 species DCA
+1528G>C
+Short-­chain 3-­hydroxyacyl-­CoA dehydro­
+genase
+H
+Hyperinsulinism
+C4-­OH urinary ethylmalonic acid
+EM
+Multiple acyl-­CoA dehydrogenase
+H, C, M
+Congenital malfor­
+mations, renal 
+cysts, RTA
+C6, 8, 10, and 12 urinary ethyl­
+malonic, glutaric, and adipic 
+acids; DCA
+EM
+C, acylcarnitine species; C, cardiomyopathy or arrhythmia; DCA, dicarboxylic aciduria; EM, enzyme measurement in cultured fibroblast; H, acute 
+hepatic presentation; M, myopathic presentation; R, rhabdomyolysis; RTA, renal tubular acidosis.
+From Wyllie R, Hyams JS, Kay M, eds. Pediatric Gastrointestinal and Liver Disease. 6th ed. Philadelphia: Elsevier; 2021:787, Table 71.1.
+TABLE 18.9  “Pathognomonic” Presentations of Mitochondrial Disorders with Prominent 
+Hepatic Involvement
+Clinical Features
+Disorder
+Gene(s)
+Liver failure and seizures
+Alpers-­Huttenlocher syndrome
+POLG (PEO1, FARS2)
+Liver failure and rotatory nystagmus ± developmental stasis/regression and elevated 
+plasma tyrosine
+Hepatocerebral MDDS
+DGUOK
+Liver failure and peripheral neuropathy
+Hepatocerebral MDDS
+MPV17
+Liver disease with sensorimotor neuropathy, corneal anaesthesia/scarring, and acral mutilation Navajo neurohepatopathy
+MPV17
+Liver failure, Leigh-­like encephalopathy, SNHL, and methylmalonic aciduria
+Hepatocerebral MDDS (succinyl-­CoA ligase 
+deficiency)
+SUCLG1
+Liver failure with spontaneous recovery
+“Benign reversible” mitochondrial hepa­
+topathy
+TRMU
+Liver failure and renal tubulopathy
+Complex III deficiency
+BCS1L
+Cholestasis with iron overload, intrauterine growth restriction, amino aciduria, lactic 
+acidosis, and early death
+GRACILE syndrome
+BCS1L
+Liver disease with SNHL, Leigh-­like encephalopathy, and 3-­methylglutaconic aciduria
+MEGDEL syndrome
+SERAC1
+GRACILE, growth restriction, amino aciduria, cholestasis, iron overload, lactic acidosis, early death; MDDS, mitochondrial DNA depletion syndrome; 
+MEGDEL, 3-­methylglutaconic aciduria, deafness, encephalopathy, Leigh like; mtDNA, mitochondrial DNA; SNHL, sensorineural hearing loss.
+Modified from Rahman S. Gastrointestinal and hepatic manifestations of mitochondrial disorders. J Inherit Metab Dis. 2013;36:659–673.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+335
+CHAPTER 18  Jaundice
+Cystic fibrosis. As many as one third of infants with cystic fibrosis 
+may have evidence of liver involvement, frequently cholestasis. The 
+incidence is increased among infants with meconium ileus. The 
+diagnosis can be confirmed with a sweat chloride test or by detecting 
+the abnormal gene. Although the cholestasis resolves, the infant with 
+cystic fibrosis can develop problems including focal biliary cirrhosis, 
+multilobular cirrhosis, fatty liver, obstruction of the common duct, 
+cholelithiasis, sclerosing cholangitis, and, rarely, cholangiocarcinoma.
+Hypothyroidism and hypopituitarism. Jaundice can be a 
+manifestation 
+of 
+both 
+hypothyroidism 
+and 
+hypopituitarism. 
+Hypopituitarism may manifest with hypoglycemia, microphallus, 
+and signs of hypothyroidism in addition to jaundice. Wandering 
+nystagmus is present when hypopituitarism is associated with septo-­
+optic dysplasia. Treatment of the underlying endocrinopathy leads to 
+resolution of the liver disease.
+Progressive familial intrahepatic cholestasis. Progressive familial 
+intrahepatic cholestasis (PFIC) is a group of disorders related to defective 
+transport of bile acids (Table 18.10). PFIC is clinically suggested by the 
+presence of cholestasis in the absence of physical damage to the bile 
+ducts. GGT is normal except in PFIC type 3. The molecular defects 
+for three PFIC types involve molecules expressed on the canalicular 
+membrane of the hepatocyte. All types of PFIC are inherited in an 
+autosomal recessive manner. PFIC results in progressive cholestasis 
+and pruritus, leading to cirrhosis and end-­stage liver disease. PFIC type 
+1 has low or normal serum GGT and high serum concentrations of bile 
+acids. The defect of the FIC-­1 gene, which encodes a P-­type adenosine 
+triphosphatase (ATP8B1), is involved in phospholipid translocation 
+in the enterocytes and canalicular membrane of the hepatocyte. In 
+addition to cholestasis, patients have chronic secretory diarrhea. PFIC 
+type 1 can also be associated with sensorineural hearing loss and 
+pancreatitis.
+Patients with PFIC type 2 also exhibit cholestasis, normal serum 
+GGT, and high levels of serum bile acids. A PFIC type 2 disorder is 
+caused by defective function of the bile salt export pump (BSEP) pro­
+tein, encoded by the ABCB11 gene. Since BSEP is expressed only in 
+hepatocytes, symptoms are limited to cholestatic liver disease.
+Patients with PFIC type 3 have high serum GGT and cholesterol 
+levels. They demonstrate symptoms later in life and reach end-­stage 
+liver disease at a later age. PFIC type 3 is caused by a defect in the 
+ABCB4 gene, which encodes a phospholipid transporter (MDR3) in the 
+canalicular membrane and results in low biliary phospholipid levels.
+Except in cases necessitating liver transplantation, chronic biliary 
+diversion and ursodeoxycholic acid therapy may reduce pruritus and 
+improve liver function. In benign recurrent intrahepatic cholesta­
+sis (BRIC), homozygous or compound heterozygous variants of 
+respective genes (ATP8B1, ABCB11, ABCB4) develop a milder form 
+of cholestatic liver disease, which generally does not progress to end-­
+stage liver disease. In patients with BRIC jaundice, pruritus or fat 
+malabsorption symptoms can be triggered by pregnancy, toxins, and 
+medications.
+Idiopathic neonatal hepatitis. Idiopathic neonatal hepatitis is a 
+descriptive term rather than a specific disease entity. The diagnosis 
+is made by exclusion of other causes of cholestasis, particularly 
+biliary atresia. The infant with neonatal hepatitis is more likely to be 
+premature or small for gestational age. Acholic stools are uncommon 
+but can occur when the hepatitis is severe. In 5–15% of cases, there is 
+a familial incidence. Hepatobiliary scintigraphy demonstrates delayed 
+uptake, but there is usually excretion into the duodenum unless the 
+hepatitis is severe. In this case, intraoperative cholangiography may 
+be required. Biopsy findings include panlobular disarray indicative 
+of severe hepatocellular disease, inflammatory infiltrate in the portal 
+areas, focal hepatocellular necrosis, multinucleated giant cells, and 
+increased extramedullary hematopoiesis.
+Treatment is supportive. The outcome is variable and is better for 
+infants with sporadic (nonfamilial) cases; of such infants, approxi­
+mately 60% recover, 10% have chronic liver disease, and 30% die with­
+out liver transplantation. The percentages for recovery and death are 
+reversed (30% and 60%, respectively) in familial cases.
+Treatment of cholestasis. Some interventions are essential for all 
+infants with cholestasis. Malabsorption of fats and fat-­soluble vitamins 
+occurs as a result of a decreased concentration of bile salts in the 
+intestinal lumen. Affected infants should be given a formula containing 
+TABLE 18.10  Progressive Familial Intrahepatic Cholestasis
+PFIC 1
+PFIC 2
+PFIC 3
+Transmission
+Autosomal recessive
+Autosomal recessive
+Autosomal recessive
+Chromosome
+18q21-­22
+2q24
+7q21
+Gene
+ATP8B1/F1C1
+ABCB11/BSEP
+ABCB4/MDR3
+Protein
+FIC1
+BSEP
+MDR3
+Location
+Hepatocyte, colon, intestine, pancreas; on apical membranes Hepatocyte canalicular membrane
+Hepatocyte canalicular membrane
+Function
+ATP-­dependent aminophospholipid flippase; unknown 
+effects on intracellular signaling
+ATP-­dependent bile acid transport
+ATP-­dependent phosphatidylcholine 
+translocation
+Phenotype
+Progressive cholestasis, diarrhea, steatorrhea, growth 
+failure, severe pruritus
+Rapidly progressive cholestatic giant cell 
+hepatitis, growth failure, pruritus
+Later-­onset cholestasis, portal hyperten­
+sion, minimal pruritus, intraductal and 
+gallbladder lithiasis
+Histology
+Initial bland cholestatic; coarse, granular canalicular bile 
+on EM
+Neonatal giant cell hepatitis, amorphous 
+canalicular bile on EM
+Proliferation of bile ductules, periportal 
+fibrosis, eventually biliary cirrhosis
+Biochemical 
+features
+Normal serum GGT; high serum, low biliary bile acid 
+concentrations
+Normal serum GGT; high serum, low 
+biliary bile acid concentrations
+Elevated serum GGT; low to absent biliary 
+PC; absent serum LPX; normal biliary 
+bile acid concentrations
+Treatment
+Biliary diversion, ileal exclusion, liver transplantation, but 
+post-­OLT diarrhea, steatorrhea, fatty liver
+Biliary diversion, liver transplantation
+UDCA if residual PC secretion; liver 
+transplantation
+ATP, adenosine triphosphate; BSEP, bile salt export pump; EM, electron microscopy; GGT, γ-­glutamyltransferase; LPX, lipoprotein X; OLT, orthotopic 
+liver transplantation; PC, phosphatidylcholine; PFIC, progressive familial intrahepatic cholestasis; UDCA, ursodeoxycholic acid.
+From Suchy FJ, Sokol RJ, Balistreri WF, eds. Liver Disease in Children. 3rd ed. New York: Cambridge University Press; 2007.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+336
+SECTION 4  Gastrointestinal Disorders
+MCTs, which are more easily digested and absorbed in the absence of 
+bile acids. Even with MCT supplementation, many patients will require 
+caloric intake in excess of 150 kcal/kg/day to maintain growth. Due to 
+organomegaly and ascites, weight alone may overestimate nutritional 
+status. Proper monitoring of growth requires a routine anthropometric 
+evaluation of skinfold and mid-­arm circumference. Some affected 
+infants require supplemental tube feedings. Supplemental vitamins 
+A, D, E, and K are given to prevent symptoms of vitamin deficiency 
+visual problems, rickets, neuropathy, and coagulopathy, respectively. 
+Fat-­soluble vitamin levels need to be monitored. Pruritus is often 
+severe and is not readily treatable. Several medications have been 
+tried, including ursodeoxycholic acid, antihistamines, cholestyramine, 
+rifampin, and naltrexone. Ursodeoxycholic acid is beneficial in some 
+infants with cholestasis, and helps to improve bile excretion, thus 
+reducing serum bile acid levels. Biliary diversion has been effective in 
+some cases. Ascites can be managed with sodium restriction, albumin 
+infusions, and diuretics.
+JAUNDICE IN THE CHILD AND ADOLESCENT
+History
+Chronic fatigue, though nonspecific, is a common symptom of liver 
+disease and should trigger at least a basic evaluation including amino­
+transferases even in the absence of overt jaundice. Myalgias, nausea, 
+vomiting, and fever are often seen in patients with viral hepatitis or 
+autoimmune hepatitis. Acute biliary obstruction is signaled by right 
+upper quadrant pain, vomiting, fever, and acholic stools in addition 
+to jaundice. Neurologic and psychiatric symptoms may be among the 
+manifestations of Wilson disease. Autoimmune hepatitis may or may 
+not be accompanied by manifestations of other autoimmune disorders.
+The child’s age at the onset of symptoms may be helpful. Wilson 
+disease commonly manifests in school-­aged children and adolescents. 
+Similarly, autoimmune hepatitis is most prevalent in school-­aged chil­
+dren and adolescents with female predominance. A thorough history 
+should include past and present use of prescription, over-­the-­counter 
+(e.g., acetaminophen, herbal supplements), and street drugs. Many 
+medications have been associated with hepatobiliary damage; others, 
+with hemolysis. Intravenous drug use is a risk factor for viral hepatitis 
+and HIV. Adolescents in particular should be asked about alcohol use.
+Symptoms of cholestasis such as jaundice, dark urine, steatorrhea, 
+symptoms of fat-­soluble vitamin deficiency, failure to thrive, and pru­
+ritus should be explored in detail.
+Information about exposure to viral hepatitis, either by travel to an 
+endemic area or during an outbreak, should be pursued. There is a high 
+transmission rate in daycare centers.
+The patient’s medical history should be reviewed because some 
+chronic illnesses are associated with specific hepatobiliary complica­
+tions. These should include AIDS, cystic fibrosis, heart disease, renal 
+disease, hemolytic disorders, autoimmune disorders, celiac disease, 
+and inflammatory bowel disease.
+A family history of inheritable disorders, such as Wilson disease, 
+autosomal recessive polycystic kidney disease, Alagille syndrome, or 
+spherocytosis, is informative. Less specific but still useful clues are a 
+history of autoimmune disorders, jaundice, anemia, cholecystectomy, 
+or splenectomy in other family members.
+Physical Examination
+Some patients present with previously unidentified chronic liver dis­
+ease. The clinician should focus on signs of portal hypertension: spi­
+der angiomas, palmar erythema, dilated abdominal veins, ascites, and 
+splenomegaly with a small liver. Cutaneous excoriation as evidence of 
+pruritus, xanthomas, and jaundice support cholestasis. Clubbing of 
+digits may suggest hepatopulmonary syndrome. A large, tender liver 
+is suggestive of acute viral hepatitis or congestive heart failure. A small 
+liver may be found in patients with severe hepatitis or cirrhosis. A 
+tender gallbladder is indicative of choledocholithiasis or cholecystitis. 
+Abnormal neurologic findings, including tremor, fine motor incoor­
+dination, clumsy gait, and choleriform movements, suggest Wilson 
+disease. A slit-­lamp examination should be included to look for the 
+Kayser-­Fleischer rings (a brownish discoloration at the periphery of 
+the cornea) of Wilson disease.
+Differential Diagnosis
+Unconjugated Hyperbilirubinemia
+Most causes of unconjugated hyperbilirubinemia in the child and ado­
+lescent are secondary to hemolysis (Table 18.11) (see Chapter 49). A 
+CBC with evaluation of the smear, reticulocyte count, and Coombs test 
+can differentiate hemolytic from nonhemolytic disorders.
+TABLE 18.11  Differential Diagnosis 
+of Unconjugated Hyperbilirubinemia in 
+Childhood and Adolescence
+Increased Bilirubin Production
+Autoimmune hemolytic anemia
+  Idiopathic
+  Secondary
+  Infection (viral, mycoplasma)
+  Diseases with autoantibody production
+  Immunodeficiency
+  Malignancy
+Drug-­induced hemolytic anemia
+Paroxysmal nocturnal hemoglobinuria
+Erythrocyte membrane defects
+  Hereditary spherocytosis
+  Hereditary elliptocytosis
+Erythrocyte enzyme defects
+  Glucose-­6-­phosphate dehydrogenase
+  Pyruvate kinase
+  Hexokinase
+  Other
+Hemoglobinopathy
+  Sickle cell disease
+  Thalassemia
+Hemolytic uremic syndrome
+Thrombotic thrombocytopenia purpura
+Sepsis with disseminated intravascular coagulation
+Reabsorption of hematoma
+Transfusion reaction
+Decreased Uptake, Storage, or Metabolism
+Congestive heart failure
+Sepsis
+Acidosis
+Gilbert syndrome
+Crigler-­Najjar syndrome type II
+Prolonged fasting
+Drugs
+Portacaval shunt
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+337
+CHAPTER 18  Jaundice
+Erythrocyte membrane defects (spherocytosis) and enzyme 
+defects (pyruvate kinase deficiency, G6PD) may not be apparent 
+until childhood or adolescence. Acquired autoimmune hemolytic 
+anemia is characterized by pallor, abdominal pain, fever, and dark 
+urine in addition to jaundice. Laboratory studies document anemia 
+and reticulocytosis. The direct Coombs test result can be positive in 
+autoimmune hemolytic anemia. Hemolytic anemia can be associated 
+with infection, immunodeficiency, malignancy, hemolytic uremic 
+syndrome, or autoimmune disorders, such as systemic lupus erythe­
+matosus, rheumatoid arthritis, thyroid disorders, and autoimmune 
+hepatitis.
+Unconjugated hyperbilirubinemia can be caused by congestive 
+heart failure and infection. In such circumstances extrahepatic symp­
+toms, cardiac failure, or sepsis dominate the picture. If no other expla­
+nation is found, Gilbert syndrome or Crigler-­Najjar syndrome type II 
+should be considered.
+Conjugated Hyperbilirubinemia
+In the child with conjugated hyperbilirubinemia, the PT, albumin, 
+glucose, AST, ALT, GGT, and alkaline phosphatase levels should be 
+measured. Albumin and PT reflect hepatocyte synthetic function. 
+Hypoglycemia is another marker of severity of hepatocellular damage. 
+This is important in considering how quickly the evaluation should 
+proceed or how closely the patient should be monitored. Patients 
+with coagulopathy, hyperammonemia, encephalopathy, or hypoglyce­
+mia should be admitted to the hospital and observed very closely. PT 
+should be repeated after a dose of parenteral vitamin K to differenti­
+ate synthetic liver failure from a vitamin K deficiency. Hypoglycemia 
+should be corrected with frequent meals or intravenous dextrose.
+Obstruction. The relative elevation of AST/ALT and alkaline 
+phosphatase levels in the context of the clinical picture determines 
+the likelihood of an obstructive cause. Although obstructions occur 
+less commonly in children than in adults, it is important not to miss 
+correctable causes of obstruction that, if left untreated, can cause 
+hepatocellular damage. These patients usually have markedly elevated 
+alkaline phosphatase and minimally elevated AST and ALT levels. They 
+should be evaluated promptly with ultrasonography and possibly with 
+MRCP, ERCP, or PTC. The possible causes of obstruction are listed in 
+Table 18.12.
+Gallstones. Gallstones are particularly common in children with 
+hemolytic disorders, such as sickle cell disease, thalassemia, erythrocyte 
+membrane defects, erythrocyte enzyme defects, and autoimmune 
+hemolytic anemia. The mean age at presentation is 12 years. Gallstones 
+are also associated with anatomic abnormalities of the biliary tract, 
+cystic fibrosis, ileal dysfunction, obesity, parenteral nutrition, sepsis, 
+prematurity, and pregnancy. Stones may be found incidentally on 
+abdominal radiographs or ultrasound studies in asymptomatic 
+individuals. Alternatively, gallstones may manifest with symptoms of 
+biliary colic: nausea, vomiting, right upper quadrant or nonspecific 
+abdominal pain, and jaundice. Ultrasonography is a very sensitive 
+diagnostic test. Treatment for symptomatic patients is cholecystectomy. 
+ERCP can be used to remove common bile duct stones.
+Primary sclerosing cholangitis. Primary sclerosing cholangitis 
+(PSC) is characterized by focal dilatation and stenosis of the intrahepatic 
+or extrahepatic bile ducts with surrounding fibrosis resulting from an 
+inflammatory process. It can manifest from early childhood through 
+adulthood. In adults, it is frequently associated with inflammatory 
+bowel disease, especially ulcerative colitis. PSC may precede the 
+onset of inflammatory bowel disease by many years. It can occur in 
+the absence of any underlying condition. The onset may be insidious 
+with fatigue and pruritus being the only symptoms. Steatorrhea, weight 
+loss, and symptoms of fat-­soluble deficiency can be present in some 
+patients. Abdominal pain, fever, and jaundice may signify ascending 
+cholangitis with bacterial infection complicating PSC. Diagnostic 
+evaluation includes ultrasound studies, which may show dilated ducts. 
+MR cholangiography can provide a detailed anatomy of the biliary 
+tree and is more sensitive than an ultrasound. ERCP and PTC do not 
+provide an advantage in diagnosing PSC but are useful, minimally 
+invasive procedures that can be performed if the dominant stricture 
+is identified and biliary obstruction can be improved by dilation and/
+or stent placement. PTC can progress to cirrhosis with ultimate liver 
+failure. Cholangiocarcinoma complicates PTC in 10–15% of adults. 
+No medical therapy has been shown to improve outcomes in PSC; 
+thus, treatment is supportive, focused on management of cholestasis. 
+Liver transplantation is available as curative intervention once disease 
+progresses to end-­stage liver disease.
+Multiple biliary strictures have also been found in association with 
+Langerhans cell histiocytosis, congenital hepatic fibrosis, and autoso­
+mal recessive polycystic kidney disease; following ischemic/hypoxic 
+injury; and in immunodeficiency states.
+Overlap syndrome with features of both sclerosing cholangitis and 
+autoimmune hepatitis and autoimmune cholangitis with inflammation 
+focused on small bile ducts has been described as variants of the dis­
+ease. In those conditions, response to immunosuppressive therapy is 
+better than in PSC but worse than in autoimmune hepatitis.
+Infection. Infections are a common cause of jaundice in the child 
+and adolescent. The most important step is to evaluate patients for 
+synthetic liver failure and for signs of chronicity (portal hypertension, 
+growth failure, risk factors for blood-­borne or sexually transmitted 
+disorders). Patients with synthetic liver failure should be referred for 
+urgent evaluation by the liver transplant center.
+Diagnostic work-­up should focus on potentially treatable disorders 
+(CMV, hepatitis B and C) and disorders preventable for contacts (hepa­
+titis A). Screening for common community-­acquired disorders such as 
+EBV, adenovirus, or enterovirus is optional. In the absence of an identi­
+fiable viral agent, idiopathic acute hepatitis can be diagnosed only after 
+the complete resolution of abnormal bilirubin and aminotransferases is 
+documented. If abnormalities persist, a work-­up for chronic liver dis­
+eases should be initiated.
+Hepatitis A. Hepatitis A virus (HAV) infection is usually anicteric 
+or asymptomatic in children younger than 5 years of age. However, 
+in almost 66% of infected patients between 5 and 17 years of age, a 
+symptomatic illness with jaundice develops. Two to 7 days before the 
+onset of jaundice, there is a flulike illness with symptoms that can 
+include malaise, headache, myalgias, anorexia, vomiting, diarrhea, 
+right upper quadrant pain, and fever. Some children present with 
+cough and coryza. The urine becomes dark, and jaundice and pale 
+or acholic stools develop. Aminotransferase levels are 10–100 times 
+normal. The diagnosis is confirmed by an HAV IgM study. Children 
+generally recover within 2 weeks. Rarely fulminant hepatitis develops 
+from HAV infection. Small percentages of patients develop either a 
+relapsing or protracted cholestatic illness lasting up to 8 months. There 
+is no carrier state or chronic illness.
+HAV is an enterovirus of the picornavirus group. Transmission is 
+by the fecal-­oral route, which may include contaminated water and 
+food, especially shellfish. The greatest fecal excretion is before the 
+onset of jaundice when the disease has not yet been recognized (Fig. 
+18.6). Transmission rates are high in daycare centers and institutions 
+with developmentally delayed children. The incubation period is 15–40 
+days. After exposure, infection can be prevented in 85–90% of cases by 
+giving intramuscular immunoglobulin to contacts within 2 weeks of 
+exposure. Hepatitis A vaccine is available for long-­term prophylaxis.
+Hepatitis B. Hepatitis B virus (HBV) is a DNA virus that is 
+transmitted through blood products, shared needles, and sexual 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+338
+SECTION 4  Gastrointestinal Disorders
+contact; vertically during childbirth; and from occupational exposure. 
+Infection in the newborn can be prevented by administration of 
+hepatitis B immunoglobulin within 12 hours of birth and a series of 
+three hepatitis B vaccinations. HBV infection is diagnosed mostly in 
+children from countries with high prevalence of hepatitis B and no 
+effective immunization or perinatal screening program. In developed 
+countries, hepatitis B should be suspected in children born from 
+mothers with pre-­existing hepatitis B or mothers with no prenatal 
+care. Hepatitis B risk factors in adolescents include intravenous drug 
+use and unprotected sex. The majority of children with hepatitis B are 
+asymptomatic; few develop symptoms of acute or chronic hepatitis. 
+Extrahepatic symptoms of arthritis, polyarteritis, urticaria, and 
+nephritis from circulating immune complexes can be present. HBsAg 
+is the first antigenic marker to appear; it disappears after 1–3 months 
+TABLE 18.12  Differential Diagnosis of Conjugated Hyperbilirubinemia in Childhood and 
+Adolescence
+*Many other drugs have been implicated in the etiology of conjugated hyperbilirubinemia; these are the most commonly cited.
+Autoimmune Hepatitis
+Anatomic/Obstructive
+Gallstones
+Primary sclerosing cholangitis
+Choledochal cyst
+Bile duct stenosis
+Anomalies of the choledocho-­pancreatico-­duodenal junction
+Pancreatitis
+Caroli disease
+Congenital hepatic fibrosis
+Tumor
+  Hepatic
+  Biliary
+  Pancreatic
+  Duodenal
+Infection
+Non-A–Non-E hepatitis
+Hepatitis A
+Hepatitis B
+Hepatitis C
+Hepatitis D
+Hepatitis E
+Epstein-­Barr virus
+Cytomegalovirus
+Human herpesvirus 6
+Coronavirus (COVID-­19)
+Herpes simplex virus
+Varicella-­zoster virus
+Enteroviruses
+Measles
+Parvovirus
+Human immunodeficiency virus
+Leptospirosis
+Sepsis/shock
+Liver abscess
+Metabolic Disorders
+Wilson disease
+Cystic fibrosis
+Cholesterol ester storage disease
+Alpers syndrome
+α1-­Antitrypsin deficiency
+Navajo neurohepatopathy
+Fatty acid oxidation disorders
+Drug or Toxin
+Drugs*
+Chlorpromazine
+Hormones (estrogens, androgens)
+Antibiotics (amoxicillin-­clavulanate, dicloxacillin, erythromycin, sulfonamides, 
+tetracycline)
+Anticonvulsants (carbamazepine, phenytoin, valproate)
+Acetaminophen
+Alcohol
+Halothane
+Isoniazid
+Antineoplastics
+Toxins
+Amanita phalloides (mushroom)
+Insecticides
+Carbon tetrachloride
+Phosphorus
+Herbal teas
+Total Parenteral Nutrition
+Intrahepatic Cholestasis
+Benign recurrent intrahepatic cholestasis
+Progressive familial intrahepatic cholestasis type 3
+Miscellaneous
+Dubin-­Johnson syndrome
+Rotor syndrome
+Budd-­Chiari syndrome
+Hepatic venoocclusive disease
+Systemic lupus erythematosus
+Indian childhood cirrhosis (ICC) and ICC-­like disorders
+Cardiovascular
+Ischemia
+Congestive heart failure
+Cardiomyopathy
+Oncologic
+Leukemia
+Langerhans cell histiocytosis
+Lymphoma
+Graft versus host disease
+Sickle cell disease with intrahepatic sickling
+Hemophagocytic lymphohistiocytosis
+Heat stroke
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+339
+CHAPTER 18  Jaundice
+if HBV resolves (Fig. 18.7). Hepatitis B surface antibody (anti-­HBs) is 
+a protective antibody that develops after immunization or resolution 
+of infection. In patients whose infections resolve, there is a window of 
+2–6 weeks between the disappearance of HBsAg and the appearance 
+of anti-­HBs. During this window, anti-­HBc or HBV DNA may be 
+the only evidence of infection with HBV. HBeAg correlates with viral 
+replication. HBV DNA is a measure of viral replication. Screening for 
+infection is made with HBsAg and anti-­HBc. Although acute HBV 
+infection is rarely a severe illness, fulminant hepatic failure develops 
+in up to 1% of patients. Chronic infection, defined as the persistence 
+of HBsAg for at least 6 months, occurs in 90% of infected neonates, 
+25–50% of infected children younger than 5 years, and 5–10% of 
+infected adults. Children with chronic active hepatitis B can be treated 
+with antiviral agents.
+Hepatitis C. Acute hepatitis C virus (HCV) infection is often 
+mild and usually subclinical. Jaundice is unusual. Chronic infection 
+develops in 40–60% of affected children, in contrast with up to 80% of 
+infected adults, and can progress to cirrhosis (Fig. 18.8). Screening for 
+hepatitis uses anti-­HCV antibodies, and infection is confirmed via PCR 
+for HCV RNA. Transmission may be parenteral due to intravenous 
+drug use or exposure to blood, or sexual or vertical transmission is 
+also possible. Elimination of hepatitis C is possible with directly acting 
+antiviral agents. The treatment regimen is selected based on hepatitis C 
+genotype. Highly effective antiviral therapies are available and can lead 
+to complete eradication of hepatitis C virus in the majority of patients 
+with hepatitis C.
+Hepatitis D. Hepatitis D virus (HDV) infection can occur only 
+in the presence of HBV as either a co-­infection or a superinfection. 
+Its route of transmission is parenteral. As with HBV, it can become 
+chronic. The diagnosis is confirmed by the presence of HDV antibody.
+Hepatitis E. Hepatitis E virus (HEV) infection is similar to HAV in 
+its manifestation and mode of transmission. It is a self-­limited illness 
+with no chronic state. However, fulminant hepatitis may occur in up 
+to 20% of cases. Serologic diagnosis can be made by finding antibodies 
+to HEV.
+Epstein-­Barr virus. Epstein-­Barr virus infection can mimic HAV, 
+HBV, or HCV infection. Often there is an exudative pharyngitis and 
+lymphadenopathy. Fatal hepatic necrosis can occur. This is rare, but it is 
+of particular concern in the immunocompromised host. The diagnosis 
+is confirmed by elevation of Epstein-­Barr virus PCR.
+Cytomegalovirus hepatitis can be symptomatic particularly in 
+infants. Hepatitis is usually self-­limited. Ganciclovir can be used as 
+treatment in severe cases.
+Other viruses. Other viruses including herpes simplex, human 
+herpesvirus 6, parvovirus B19, coronavirus COVID-­19, and norovirus 
+can also cause hepatitis, particularly in the immunosuppressed patient.
+Wilson disease. Wilson disease is an autosomal recessive disorder 
+of copper metabolism. As a result of ATP7B variant, copper cannot 
+be excreted and it accumulates in the liver, which causes hepatic 
+steatosis and necrosis. Copper is then released into the circulation 
+Anti-HAV (lgM)
+Anti-HAV (lgG)
+ALT
+viremia
+anorexia, malaise
+? jaundice
+fever, headache
+fecal HAV
+excretion
+PHASES OF HAV INFECTION
+INCUBATION
+“SYMPTOMATIC”
+CONVALESCENCE
+2
+4
+6
+8
+10
+12
+Weeks post exposure
+Fig. 18.6  Typical course of hepatitis A virus (HAV) infection. ALT, ala­
+nine aminotransferase; IgG, immunoglobulin G; IgM, immunoglob­
+ulin M. (From Balistreri WF. Viral hepatitis. Pediatr Clin North Am. 
+1988;35:640.)
+0
+Infection
+HBsAg
+HBV viremia
+HBeAg
+Clinical illness
+ALT
+Anti-HBe
+IgM anti-HBc
+Total anti-HBc
+Anti-HBs
+4
+8
+12
+16
+20
+24
+Weeks
+28
+32
+36
+52
+100
+Fig. 18.7  Clinical, virologic, and serologic course of acute hepatitis B 
+virus (HBV) infection. ALT, alanine aminotransferase; HBc, hepatitis B 
+core; HBe, hepatitis B envelope; HBeAg, hepatitis B e antigen; HBs, 
+hepatitis B surface; HBsAg, hepatitis B surface antigen; IgM, immuno­
+globulin M. (From Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Doug­
+las, and Bennett’s Principles and Practices of Infectious Diseases. 9th 
+ed. Philadelphia: Elsevier; 2020:1552, Fig. 117.2.)
+0
+1
+2
+HCV
+Jaundice
+Symptoms
+RNA
+Normal or negative
+(PCR)
+Anti-HCV
+ALT
+3
+Months
+Time after exposure
+Years
+4
+5
+6
+1
+2
+3
+4
+5
+Fig. 18.8  Typical clinical, virologic, and serologic course of chronic hep­
+atitis C virus (HCV). ALT, alanine aminotransferase; PCR, polymerase 
+chain reaction; RNA, ribonucleic acid. (From Hoofnagle JH. Chronic hep­
+atitis. In: Goldman L, Ausiello D, eds. Cecil Medicine. 23rd ed. Philadel­
+phia: Saunders; 2008.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+340
+SECTION 4  Gastrointestinal Disorders
+TABLE 18.13  Classification of Autoimmune Hepatitis
+Variable
+Type 1 Autoimmune Hepatitis
+Type 2 Autoimmune Hepatitis
+Characteristic autoantibodies
+Antinuclear antibody*
+Antibody against liver-­kidney microsome type 1*
+Smooth-­muscle antibody*
+Antibody against liver cytosol type 1*
+Antiactin antibody†
+Antibody against liver-­kidney microsomal type 3
+Autoantibodies against soluble liver antigen and liver-­
+pancreas antigen‡
+Atypical perinuclear antineutrophil cytoplasmic 
+antibody
+Geographic variation
+Worldwide
+Worldwide; rare in North America
+Age at presentation
+Any age
+Predominantly childhood and young adulthood
+Gender of patients
+Female in ∼75% of cases
+Female in ∼95% of cases
+Association with other autoimmune diseases
+Common
+Common§
+Clinical severity
+Broad range, variable
+Generally severe
+Histopathologic features at presentation
+Broad range, mild disease to cirrhosis
+Generally advanced
+Treatment failure
+Infrequent
+Frequent
+Relapse after drug withdrawal
+Variable
+Common
+Need for long-­term maintenance
+Variable
+∼100%
+*The conventional method of detection is immunofluorescence.
+†Tests for this antibody are rarely available in commercial laboratories.
+‡This antibody is detected by an enzyme-­linked immunosorbent assay.
+§Autoimmune polyendocrinopathy–candidiasis–ectodermal dystrophy is seen only in patients with type 2 disease.
+From Krawitt EL. Autoimmune hepatitis. N Engl J Med. 2006;354:54–66.
+and is ultimately deposited in the central nervous system, kidneys, 
+and cornea. The hepatic manifestation predominates in childhood; 
+a neuropsychiatric manifestation becomes more common later, in 
+adolescence and adulthood. The liver involvement may manifest 
+as acute hepatitis, fulminant hepatic failure, chronic hepatitis, 
+cirrhosis, or asymptomatic elevation of serum aminotransferases. 
+Neurologic symptoms such as dysarthria, clumsiness, tremor, and 
+mood disorders may or may not be present. In the kidney, the result is 
+tubular dysfunction; in the cornea, the result is Kayser-­Fleischer rings. 
+Hemolysis can be present as a result of copper toxicity. The diagnosis 
+is supported by documenting a low serum ceruloplasmin level, high 
+urinary copper excretion, and increased hepatic copper concentrations 
+on liver biopsy. d-­Penicillamine or trientine to chelate copper can 
+successfully treat Wilson disease. Dietary restriction of copper can aid 
+treatment. Wilson disease requires lifelong therapy. Wilson disease is a 
+potentially lethal treatable disorder that should be promptly diagnosed. 
+Patients presenting with synthetic liver failure should be promptly 
+referred for liver transplant evaluation.
+Drugs and toxins. Numerous drugs and toxins are associated 
+with hepatic injury (see Table 18.12) and should be considered in 
+the evaluation of jaundice. The reaction can be idiosyncratic or dose 
+related. In the latter case, this may be associated with either accidental 
+or purposeful overdose. The manifestation can be that of acute hepatitis, 
+fulminant hepatic failure, or cholestatic disease, depending on the drug.
+Autoimmune hepatitis. Autoimmune hepatitis (AIH) is a common 
+cause of chronic liver injury (Table 18.13). The most frequent course is 
+insidious with fatigue as a dominant symptom. Autoimmune hepatitis 
+can present acutely with malaise, anorexia, nausea, vomiting, and 
+jaundice. Autoimmune disorders such as arthritis, thyroiditis, vasculitis, 
+nephritis, hemolytic anemia, or diabetes mellitus are often associated 
+with AIH. AIH may be associated with inflammatory bowel disease. 
+Laboratory studies demonstrate elevated aminotransferase levels, 
+mild hyperbilirubinemia, and hypergammaglobulinemia. Antinuclear 
+antibody, actin, or anti–smooth muscle antibody is present in type 1 
+AIH, whereas anti–liver-­kidney microsomal antibody is found in type 
+2 AIH (see Table 18.13).
+Liver biopsy is required for diagnosis. Characteristic findings are 
+plasma cells and an inflammatory infiltrate expanding the portal area 
+and moderate to severe piecemeal necrosis. Treatment consists of ste­
+roids and azathioprine.
+   	 S U MMA RY  A N D  R E D  F L A G S
+When evaluating a patient with jaundice, it is important to deter­
+mine whether the condition represents a hepatobiliary problem, 
+a hematologic disorder, or a systemic illness. If there is conju­
+gated hyperbilirubinemia, it is essential to evaluate for severe 
+dysfunction, as manifest by prolonged PT, hyperammonemia, 
+encephalopathy, and/or hypoglycemia. Coagulopathy, encephalopathy, 
+or hypoglycemia can signify severe hepatic failure, which mandates 
+early intervention.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+340.e1
+BIBLIOGRAPHY
+General
+Kelly DA, ed. Diseases of the Liver and Biliary System in Children. 4th ed. 
+Oxford, West Sussex: UK: John Wiley & Sons; 2017.
+Suchy FJ, Sokol RJ, Balistreri WF, eds. Liver Disease in Children. 5th ed. 
+Cambridge, UK: Cambridge University Press; 2021.
+Diagnostic Strategies
+Gubernick JA, Rosenberg HK, Ilaslan H, et al. US approach to jaundice in 
+infants and children. Radiographics. 2000;20:173–195.
+Jensen MK, Biank VF, Moe DC, et al. HIDA, percutaneous transhepatic 
+cholecysto-­cholangiography and liver biopsy in infants with persistent 
+jaundice: can a combination of PTCC and liver biopsy reduce unnecessary 
+laparotomy? Pediatr Radiol. 2012;42(1):32–39.
+Pal S, Curley A, Stanworth SJ. Interpretation of clotting tests in the neonate. 
+Arch Dis Child Fetal Neonatal Ed. 2015;100(3):F270–F274.
+Rosenthal P. Assessing liver function and hyperbilirubinemia in the newborn. 
+Clin Chem. 1997;43:228–234.
+Neonatal Jaundice
+Lane E, Murray KF. Neonatal cholestasis. Pediatr Clin N Am. 2017;64(3):621–639.
+Jacquemin E, Lykavieris P, Chaoui N, et al. Transient neonatal cholestasis: 
+origin and outcome. J Pediatr. 1998;133:563–567.
+Watchko JF. Vigintiphobia revisited. Pediatrics. 2005;115(6):1747–1753.
+Alagille Syndrome, Primary Intrahepatic Cholestasis
+Alissa FT, Jaffe R, Shneider BL. Update on progressive familial intrahepatic 
+cholestasis. J Pediatr Gastroenterol Nutr. 2008;46(3):241–252.
+Balistreri WF. Inherited disorders of bile acid transport or synthesis. Gastroen­
+terol Hepatol. 2007;3(5):343–345.
+Mitchell E, Gilbert M, Loomes KM. Alagille syndrome. Clin Liver Dis. 
+2018;22(4):625–641.
+α1-­Antitrypsin Deficiency
+Patel D, Teckman JH. Alpha-­1-­Antitrypsin deficiency liver disease. Clin Liver 
+Dis. 2018;22(4):643–655.
+Biliary Atresia
+McKiernan PJ, Baker AJ, Kelly DA. The frequency and outcome of biliary 
+atresia in the UK and Ireland. Lancet. 2000;355:25–29.
+Verkade HJ, Bezerra JA, Davenport M, et al. Biliary atresia and other 
+cholestatic childhood diseases: advances and future challenges. J Hepatol. 
+2016;65(3):631–642.
+Crigler-­Najjar Syndromes
+Fox IJ, Chowdhury JR, Kaufman SS, et al. Treatment of the Crigler-­Najjar 
+syndrome type I with hepatocyte transplantation. N Engl J Med. 
+1998;338:1422–1426.
+Hardikar W. Genes for jaundice. J Paediatr Child Health. 1999;35:522–524.
+Cystic Fibrosis
+Shapira R, Hadzic N, Francavilla R, et al. Retrospective review of cystic fi­
+brosis presenting as infantile liver disease. Arch Dis Child. 1999;81:125–
+128.
+Erythrocyte Enzyme Defects
+Kaplan M, Hammerman C. Severe neonatal hyperbilirubinemia: a potential 
+complication of glucose-­6-­phosphate dehydrogenase deficiency. Clin Peri­
+natol. 1998;25:575–590.
+Nathan DG, Orkin SH, eds. Nathan and Oski’s Hematology of Infancy and 
+Childhood. 5th ed. Philadelphia: WB Saunders; 1998.
+Gilbert Syndrome
+Burchell B, Hume R. Molecular genetic basis of Gilbert’s syndrome. J Gastroen­
+terol Hepatol. 1999;14:960–966.
+Monaghan G, McLellan A, McGeehan A, et al. Gilbert’s syndrome is a 
+contributory factor in prolonged unconjugated hyperbilirubinemia of the 
+newborn. J Pediatr. 1999;134:441–446.
+Lucey-­Driscoll Syndrome
+Arias IM, Wolfson S, Lucey JF, et al. Transient familial neonatal hyperbiliru­
+binemia. J Clin Invest. 1965;44:1442–1450.
+Physiologic and Breast Milk Jaundice
+Gartner LM, Lee K-­S. Jaundice in the breastfed infant. Clin Perinatol. 
+1999;26:431–445.
+Jaundice in Older Children and Adolescents
+Balistreri WF. Liver disease in infancy and childhood. In: Schiff ER, Sorrell 
+MF, Maddrey WC, eds. Schiff’s Diseases of the Liver. 8th ed. Philadelphia: 
+Lippincott-­Raven; 1999:1357–1512.
+Perez A, Kogan-­Liberman D, Sheflin-­Findling S, et al. Presentation of severe 
+acute respiratory syndrome-­coronavirus 2 infection as cholestatic jaundice 
+in two healthy adolescents. J Pediatr. 2020;226:278–280. https://doi.
+org/10.1016/j.jpeds.2020.07.054.
+Autoimmune Hemolytic Anemia
+Neely J, von Scheven E. Autoimmune haemolytic anaemia and autoim­
+mune thrombocytopenia in childhood-­onset systemic lupus erythema­
+tosus: updates on pathogenesis and treatment. Curr Opin Rheumatol. 
+2018;30(5):498–505.
+Autoimmune Hepatitis
+Doycheva I, Watt KD, Gulamhusein AF. Autoimmune hepatitis: current and 
+future therapeutic options. Liver Int. 2019;39(6):1002–1013.
+Sokollik C, McLin VA, Vergani D, et al. Juvenile autoimmune hepatitis: 
+a comprehensive review. J Autoimmun. 2018;95:69–76.
+Drugs
+Tillmann HL, Suzuki A, Barnhart HX, et al. Tools for causality assessment in 
+drug-­induced liver disease. Curr Opin Gastroenterol. 2019;35(3):183–190.
+Zimmerman HJ. Hepatotoxicity: The Adverse Effects of Drugs and Other Chem­
+icals on the Liver. 2nd ed. Philadelphia: Lippincott Williams & Wilkins; 
+1999.
+Gallstones
+Rescorla FJ. Cholelithiasis, cholecystitis, and common bile duct stones. Curr 
+Opin Pediatr. 1997;9:276–282.
+Hepatitis
+Balistreri WF. Viral hepatitis. Pediatr Clin N Am. 1988;35:637–669.
+Debray D, Cullufi P, Devictor D, et al. Liver failure in children with hepatitis 
+A. Hepatology. 1997;26:1018–1022.
+Duchon J, Zachariah P. TORCH infections. Clin Perinatol. 2015;42(1):77–103.
+Kemmer NM, Miskovsky EP. Hepatitis A. Infect Dis Clin North Am. 
+2000;14:605–615.
+Lombardi A, Mondelli MU, ESCMID Study Group for Viral Hepatitis 
+(ESGVH). Hepatitis C: is eradication possible? Liver Int. 2019;39(3):
+416–426.
+Rovegno M, Vera M, Ruiz A, et al. Current concepts in acute liver failure. 
+Ann Hepatol. 2019;18(4):543–552.
+Ryder SD, Beckingham IJ. Acute hepatitis. BMJ. 2001;322:151–153.
+Trepo C, Chan HL, Lok A. Hepatitis B virus infection. Lancet. 
+2014;384(9959):2053–2063.
+Primary Sclerosing Cholangitis
+Mieli-­Vergani G, Vergani D. Sclerosing cholangitis in children and adolescents. 
+Clin Liver Dis. 2016;20(1):99–111.
+Roberts EA. Primary sclerosing cholangitis in children. J Gastroenterol Hepa­
+tol. 1999;14:588–593.
+Williamson KD, Chapman RW. Primary sclerosing cholangitis. Dig Dis. 
+2014;32(4):438–445.
+Wilson Disease
+Fernando M, van Mourik I, Wassmer E, et al. Wilson disease in children 
+and adolescents. Arch Dis Child. 2020;105(5):499–505.
+Wilson DC, Phillips MJ, Cox DW. Severe hepatic Wilson’s disease in 
+preschool-­aged children. J Pediatr. 2000;137:719–722.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

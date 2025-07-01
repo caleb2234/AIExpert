@@ -1,0 +1,2872 @@
+1067
+Short stature (usually defined as height >2 standard deviations [SD] 
+below the mean for age) and growth failure (a subnormal height veloc­
+ity that leads to decline in growth percentiles, usually height velocity 
+>1.5 SD below the mean for age) are symptoms, not diseases. Of the 
+two, short stature is more likely to be noticed, but growth failure is more 
+likely to be pathologic.
+Short stature may represent a normal variant or it may be a sig­
+nal of serious physical or emotional illness. Because linear growth is a 
+crucial component of childhood, growth is in many ways an index of 
+childhood well-­being. Illnesses, even those not involving aberrations 
+of growth-­regulating hormones, often interfere with growth. There­
+fore, the measurement and charting of heights sequentially on stan­
+dardized growth charts constitute a central part of a child’s medical 
+evaluation, and the finding of short stature, particularly if associated 
+with a subnormal height velocity, deserves close attention and appro­
+priate evaluation.
+DEFINITION
+Short stature is defined as height more than 2 SD below the mean for 
+age, which is at the 2.3 percentile (Fig. 56.1A, B). On growth charts 
+(and in clinical practice) it is more common to define short stature as 
+height below the 3rd percentile for age, which is −1.88 SD. Implicit 
+in this definition is the understanding that height is a normally dis­
+tributed characteristic; therefore, a proportion of normal individuals 
+have heights more than 2 SD above or below the mean. Since height 
+is strongly heritable (i.e., a large proportion of the observed variation 
+between individuals is hereditary), stature that is inappropriately low 
+for the child’s genetic endowment may also be a cause for concern.
+Growth failure is defined as a subnormal rate of growth, a height 
+velocity that is below the norm for that age. Since sustained height 
+velocity below the 25th percentile is insufficient to maintain a child’s 
+position on the growth chart, growth failure is sometimes defined as 
+height velocity below the 25th percentile for age. Other authorities pre­
+fer to use >1.5 SD below the average height velocity for that age as the 
+cut-­off (see Chapter 12).
+Short stature should be distinguished from “failure to thrive.” The 
+latter term refers primarily to poor weight gain in infants and young 
+children (although linear growth may be secondarily affected), whereas 
+short stature refers primarily to subnormal linear growth in childhood 
+and adolescence (see Chapter 12).
+Normal Growth
+Height is highly heritable, but the genetic program underlying this 
+regulation is not fully understood. The growth of individual organs as 
+well as the growth of the skeleton as a whole is regulated by negative 
+feedback mechanisms that slow and eventually stop growth as organs 
+and the organism reach their final size. This gradual deceleration of 
+growth with age does not appear to be driven primarily by changes in 
+the endocrine system, since levels of growth hormone (GH) and the 
+insulin-­like growth factors remain elevated even as growth slows in 
+the latter part of puberty. The final height and growth pattern of any 
+given individual are affected by subtle variations in many genes, while 
+more significant variants in individual-­specific genes cause the various 
+genetic forms of short stature and skeletal dysplasias (Fig. 56.2).
+FETAL GROWTH AND BIRTH SIZE
+A human being experiences the most rapid linear growth in the prena­
+tal period (growing from near-­zero to about 50 cm in length in just 9 
+months). While genetic factors play a major role in postnatal growth, 
+fetal growth and birth size mainly reflect maternal and placental fac­
+tors, including maternal or uterine size, parity, multiparity, nutrition, 
+and placental function. Many congenital disorders such as Turner syn­
+drome and congenital GH deficiency that markedly stunt postnatal 
+growth have only minimal effects on prenatal growth and birth size. 
+Birth size is generally a poor predictor of the eventual growth pattern 
+in most children. An exception is the neonate who is small for gesta­
+tional age as a result of intrauterine growth restriction (IUGR) (Table 
+56.1). While most infants with IUGR (caused by nutritional problems 
+or poor placental function) show catch-­up growth (a period of rapid 
+growth that occurs spontaneously after relief from the adverse intra­
+uterine condition that had suppressed the rate of growth), 10–20% 
+remain shorter than expected beyond infancy and early childhood, 
+making IUGR one of the causes of childhood short stature.
+Postnatal Growth Patterns
+Infancy is also a period of relatively rapid growth (faster than at any 
+other time in postnatal life). Growth then gradually slows as the infant 
+gets older, declining to its lowest point just before puberty, before accel­
+erating again during the pubertal growth spurt and finally ending with 
+the completion of linear growth about 5 years after the onset of puberty 
+(Table 56.2 and Fig. 56.3).
+Since birth length is mostly determined by maternal and placental 
+factors, size at birth may not reflect the infant’s genetic growth poten­
+tial. It is during the first 2 years of life that infants gradually transition 
+from their birth size to their own genetically determined height poten­
+tial. Therefore, it is normal for infants to shift linear growth percentiles 
+during this period; 65% of infants will exhibit such shifts, moving up 
+or down on the growth chart. By 24 months, these shifts are complete, 
+and most children have entered a specific “growth channel” or linear 
+growth percentile in relation to peers and any significant deviation 
+from this channel should evince concern.
+After a period of slow but steady growth during childhood, many 
+children experience a further “prepubertal dip” in height velocity, 
+reaching a nadir just before onset of puberty. Height velocity then 
+Short Stature
+Omar Ali
+56
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1068
+SECTION 11  Endocrine and Metabolic Disorders
+A
+B
+Fig. 56.1  Centers for Disease Control and Prevention (CDC) growth charts for ages 2–20. A, Males, stature 
+for age. B, Females, stature for age.
+Intracellular regulation
+• Noonan syndrome (PTPN11, etc.)
+• SHOX deﬁciency (SHOX)
+• Seckel syndrome (PCNT, etc.)
+• 3-M syndrome (CUL7, etc.)
+Extracellular matrix regulation
+• Multiple epiphyseal dysplasia
+  (COL9A1, etc.)
+• Spondyloepimetaphyseal dysplasia
+  (ACAN, etc.)
+• Acromicric dysplasia (FBN1, etc.)
+Paracrine regulation
+• Achondroplasia (FGFR3, etc.)
+• Acromesomelic dysplasia (NPR2)
+• Metaphyseal chondrodysplasia
+  (PTH1R, etc.)
+Endocrine regulation
+• GH deﬁciency (GH1, etc.)
+• Laron syndrome (GHR)
+• IGF-1 deﬁciency (IGF1)
+• ALS deﬁciency (IGFALS)
+Fig. 56.2  Molecular mechanisms of short stature. Short stature is caused by multiple molecular defects, 
+including intracellular signaling, extracellular matrix, and paracrine and endocrine regulation. Ovoid shapes 
+represent growth plate chondrocytes. Arrows indicate mechanisms regulating chondrocytes. Examples of 
+clinical syndrome and the genetic cause under different molecular mechanisms are shown in each box. GH, 
+growth hormone; IGF, insulin-­like growth factor. (From Jee YH, Andrade AC, Baron J, et al., Genetics of short 
+stature. Endocrinol Metab Clin N Am. 2017;46[2]:259–281, Fig. 1.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1069
+CHAPTER 56  Short Stature
+accelerates once again as puberty advances. This acceleration of growth 
+during puberty reaches a peak known as the “pubertal growth spurt.” 
+The timing of the pubertal growth spurt differs between females and 
+males. Females generally begin pubertal development at 10 to 11 years 
+of age and their pubertal growth spurt starts coincidentally with breast 
+development and peaks before menarche. For females with an average 
+tempo of puberty, peak growth velocity (8–9 cm per year) is reached at 
+11–12 years of age. After menarche (which generally occurs 2–2.5 years 
+after onset of puberty), the growth rate declines and growth finally 
+stops about 2 years after menarche, with girls gaining an average of 7 
+cm in height after menarche.
+In males, testicular enlargement is generally the first sign of puberty 
+and occurs at approximately 11.5 years on average (range, 9–14.3 
+years). In males with an average tempo of pubertal development, peak 
+growth velocity occurs about 2 years after onset of puberty (so it is later 
+than girls in absolute terms, as well as in terms of stage of puberty) at 
+approximately 13–14 years, with an average rate of 10.3 cm (4 inches) 
+per year. It is worth noting that prepubertal males and females grow at 
+very similar rates; the ultimate taller stature of males relative to females 
+is mostly the result of a longer period of growth and a higher peak growth 
+velocity during puberty.
+These are the average timings of puberty and pubertal growth, but 
+it should be kept in mind that there are large variations in the timing 
+of puberty—and therefore in growth rates—among individuals of the 
+same age during the period of adolescence.
+Because of these characteristic patterns of growth during childhood 
+and adolescence, the rate of growth (centimeters per year or inches per 
+year) is a key variable in evaluating a short child. Growth rates may 
+vary somewhat with season and can be affected by transient illness, but 
+a child should maintain a relatively set growth channel on the linear 
+growth percentile charts after 2–3 years of age. A persistently slow rate 
+of growth in relation to age-­appropriate norms is alarming and is likely 
+to reflect an underlying medical disorder.
+MEASURING A CHILD
+Stature is evaluated as supine length until 2 years of age and as 
+standing height thereafter (Fig. 56.4). For measurement of supine 
+length, an infant lies on an inflexible ruled horizontal surface, at 
+one end of which one person holds the infant’s head in contact with 
+a fixed board; a second person extends the infant’s leg as much as 
+possible and brings a movable plate in contact with the infant’s heel. 
+Recumbent measurements average 1 cm (0.4 inch) more than stand­
+ing height.
+After 2 years of age, children are measured standing and barefoot 
+with a device such as a Harpenden stadiometer; a vertical metal bar is 
+affixed to an upright board or wall, and height is measured at the top 
+of the head by a sliding perpendicular plate or block. Measurements of 
+length using pen marks on the examining table at the head and foot of 
+infants are often grossly inaccurate, as are height measurements using a 
+flexible metal rod atop a standard weight scale.
+With the use of optimal techniques, the variation in measurement 
+among observers is <0.3 cm (0.1 inch). It is then possible to determine 
+changes in height over 3-­ to 4-­month intervals to estimate the annu­
+alized growth rate. However, because of normal seasonal variations in 
+growth rates, a longer interval between measurements (6–12 months) 
+is more reliable in the calculation of height velocity.
+Measurements are then plotted on standard growth charts; it is rec­
+ommended that World Health Organization (WHO) growth charts be 
+used for infants from birth to 2 years of age and Centers for Disease 
+Control and Prevention (CDC) growth charts for children from ages 
+2 to 18 years (see Fig. 56.1). These CDC and WHO growth charts are 
+available at http://www.cdc.gov/growthcharts/ and https://www.who.
+int/childgrowth/standards/en/.
+For children with specific disorders, such as Turner syndrome, 
+there are disorder-­specific standardized growth curves for many of 
+these disorders. Children with known disorders should be plotted 
+on these curves to avoid unintentional evaluation for growth failure, 
+as they may appear to be abnormally short on the standard growth 
+charts. Calculated growth rates (centimeters per year or inches per 
+year) should be evaluated in relation to age-­related norms with 
+growth velocity charts for North American children for children 
+over 2 years of age (see Fig. 56.3).
+TABLE 56.1  Factors Often Associated with 
+Intrauterine Growth Restriction
+FETAL
+Chromosomal and genetic disorders
+Chronic fetal infections (cytomegalic inclusion disease, congenital rubella, 
+syphilis)
+Congenital anomalies—syndrome complexes
+Irradiation
+Multiple gestation
+Pancreatic hypoplasia
+Insulin deficiency (production or action of insulin)
+Insulin-­like growth factor type 1 deficiency
+PLACENTAL
+Decreased placental weight, cellularity, or both
+Decrease in surface area
+Villous placentitis (bacterial, viral, parasitic)
+Infarction
+Tumor (chorioangioma, hydatidiform mole)
+Placental separation
+Twin transfusion syndrome
+MATERNAL/PATERNAL
+Toxemia
+Hypertension or renal disease, or both
+Hypoxemia (high altitude, cyanotic cardiac or pulmonary disease)
+Malnutrition (micronutrient or macronutrient deficiencies)
+Chronic illness
+Sickle cell anemia
+Drugs (narcotics, alcohol, cigarettes, cocaine, antimetabolites)
+IGF2 gene variant (paternal)
+From Kliegman RM, St. Geme JW III, Blum NJ, et al., eds. Nelson 
+Textbook of Pediatrics. 21st ed. Philadelphia: Elsevier; 2020, Table 
+117.4.
+TABLE 56.2  Growth Velocity at Various 
+Ages
+Age Interval
+Average Height Velocity
+Prenatal
+66 cm/yr
+0–1 yr
+25 cm/yr
+1–2 yr
+12 cm/yr
+2–3 yr
+8 cm/yr
+3–5 yr
+7 cm/yr
+5 yr–onset of puberty
+5–6 cm/yr
+Pubertal growth spurt
+Girls 8–12 cm
+Boys 10–14 cm
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1070
+SECTION 11  Endocrine and Metabolic Disorders
+BODY PROPORTIONS
+The cephalo-­caudal ratios change with age until adult height is attained 
+(Fig. 56.5). Thus, apart from linear height, it is also useful to assess the 
+upper-­to-­lower segment ratio (U/L) (Fig. 56.6) and the arm span. The 
+U/L is determined by measuring the lower segment (vertical distance 
+between the top of the symphysis pubis and the floor, with the child 
+standing) and the upper segment (height minus lower segment). Arm 
+span is the distance between the outstretched middle fingertips with 
+the child standing against a flat board or wall. The U/L and arm span 
+are used to determine whether the child is normally proportioned or 
+not (in Europe it is more common to assess sitting height vs standing 
+height for the same purpose).
+The U/L gradually declines with age throughout childhood (see 
+Fig. 56.6). Since infants have relatively short legs, the U/L is high (an 
+average of 1.7) at birth. It then declines throughout childhood as the 
+legs increase in length relative to the upper body, decreasing to a mean 
+of 0.9 by late puberty (in males; in females the ratio may be closer to 
+0.95). The arm span as compared to the height is another measure of 
+body proportions and is normally shorter than the height in younger 
+children and increases to become slightly longer than the height by 
+late puberty (about 5 cm more than height in boys, 1.2 cm more than 
+height in girls). Deviations from the norm in the U/L and the arm 
+span may point to syndromic conditions such as skeletal dysplasias, 
+Turner syndrome, or longstanding hypothyroidism (increased U/L, 
+i.e., relatively short extremities) and radiation-­induced spinal damage 
+or genetic disorders like Klinefelter or Marfan syndrome and homo­
+cystinuria (low U/L, due to a relatively short trunk or unusually long 
+extremities).
+Weight should also be considered in relation to a child’s stature. 
+Undernutrition is generally caused by nonendocrine factors (poor 
+nutritional intake, malabsorption, systemic illness) and typically leads 
+to a decrease in weight before a decrease in linear growth. Obesity in 
+childhood is usually exogenous; exogenous obesity is generally asso­
+ciated with an accelerated growth rate. In contrast, endocrine disor­
+ders that cause poor growth and short stature are often associated with 
+weight gain and obesity (Cushing syndrome, hypothyroidism, and, in 
+some instances, GH deficiency). Therefore, the obese child who has a 
+slow growth velocity is more likely to have an endocrine cause of short 
+stature, while the undernourished child with short stature likely has 
+short stature secondary to poor weight gain and is unlikely to have an 
+endocrine disorder.
+Familial and Genetic Factors
+Both parental height and parental pattern of growth are key determi­
+nants of a child’s growth pattern. This strong familial influence on height 
+is not detectable at birth but is manifested by 2–3 years of age. Final 
+adult height is strongly heritable with heritability estimates ranging 
+Centiles for boys
+maturing
+at average time
+97
+97
+90
+75
+25 50
+10
+3
+97
+90
+75
+25
+50
+10
+3
+50
+3
+97 and 3 centiles at peak
+height velocity for
+Early (+2SD) maturers
+Late (–2SD) maturers
+Centiles for girls
+maturing
+at average time
+97
+50
+3
+97 and 3 centiles at peak
+height velocity for
+Early (+2SD) maturers
+Late (–2SD) maturers
+Boys
+Height velocity
+Age, years
+Age, years
+Girls
+Height velocity
+1
+A
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+cm/yr
+2
+3
+4
+5
+6
+7
+8
+9 10 11 12 13 14 15 16 17 18 19
+1
+2
+3
+4
+5
+6
+7
+8
+9 10 11 12 13 14 15 16 17 18 19
+1
+B
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+cm/yr
+2
+3
+4
+5
+6
+7
+8
+9 10 11 12 13 14 15 16 17 18 19
+1
+2
+3
+4
+5
+6
+7
+8
+9 10 11 12 13 14 15 16 17 18 19
+Fig. 56.3  A, Height velocity for American males. Lines with early velocity refer to the 50th centile for boys 2 
+standard deviations (SD) early in growth tempo; lines with late or gradual velocity refer to the 50th centile for 
+boys 2 SD late in growth tempo. ^ and v, 97th and 3rd centiles for peak velocities of early and late maturers, 
+respectively. B, Height velocity for American females. Lines with early velocity refer to the 50th centile for 
+girls 2 SD early in growth tempo; lines with late or gradual velocity refer to the 50th centile for girls 2 SD late 
+in growth tempo. ^ and v, 97th and 3rd centiles for peak velocities of early and late maturers, respectively. 
+(Redrawn from Tanner J, Davies P. Clinical longitudinal standards for height and height velocity in North Amer­
+ican children. J Pediatr. 1985;107:317–329.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1071
+CHAPTER 56  Short Stature
+from 0.8 to 0.95 (i.e., 80–95% of the observed variation is explained by 
+hereditary rather than environmental factors). The midparental height 
+(MPH) is used as a measure of the child’s genetic growth potential and 
+is an average of the height of both parents after correcting for gender. 
+Because the average adult male is taller than the average adult female 
+by 13 cm (5 inches), 13 cm is added to the mother’s height in the case 
+of a male child, while 13 cm is subtracted from the father’s height in the 
+case of a female child; the parental heights, after correction for gender, 
+are then averaged to obtain the MPH.
+MPH is determined in the following manner: 
+Males: [father's height in cm + (mother's height in cm + 13 cm) ]/2
+Females: [(father's height in cm − 13 cm) + mother's height in cm] /2
+The MPH is a good index of the child’s genetic height potential but 
+tends to become less accurate if one parent is unusually tall or short; 
+that is, the offspring of an exceptionally tall parent or exceptionally 
+short parent will be closer to the average height than is predicted by the 
+MPH because of the phenomenon of regression to the mean.
+In addition to the influence on final adult height, parents’ patterns 
+of growth are also often repeated in their children. In particular, many 
+males who were “late bloomers” with delayed onset of puberty and 
+delayed but normal growth spurts have sons with a similar growth 
+pattern.
+Ethnic Factors and Secular Trend
+The average height of various populations across the globe is not 
+the same; Northern European populations are taller than many (but 
+not all) other ethnic groups and it therefore seems to make sense to 
+use population-­specific standards of growth because a child from 
+a generally short ethnic group may be labeled as “short stature” by 
+Northern European standards, but may be normal for their own 
+ethnic group. Two additional observations need to be kept in mind 
+though:
+	1.	 Migrants from countries where the average height is lower tend to 
+have children who are taller than their parents when they move to 
+a country with a higher standard of living. This indicates that at 
+least some of the observed height difference may be environmental 
+(most likely related to nutrition and childhood disease burden) and 
+that this height difference may shrink or disappear in subsequent 
+generations.
+	2.	 The Northern European populations were themselves much shorter 
+in the 18th and 19th centuries and average heights have steadily 
+increased as living standards improved (reflecting improvements in 
+nutrition and other public health measures). This “secular trend” 
+A
+B
+Fig. 56.4  A, Technique for measuring length. B, Technique for measur­
+ing erect height. (From Wilson JD, Foster DW, eds. Williams Textbook 
+of Endocrinology. 8th ed. Philadelphia: WB Saunders; 1992:1106–1107.)
+Newborn
+2 years
+6 years
+12 years
+25 years
+Fig. 56.5  Approximate changes in body proportions from birth through 
+adulthood. (Modified from Leifer G. Introduction to Maternity & Pediat­
+ric Nursing. Philadelphia: Saunders; 2011:347–385, Fig. 15-­2.)
+4
+6
+8
+10
+12
+14
+16
+18
+Age, years
++250
++150
+Mean
+-150
+-250
+0.80
+0.90
+1.00
+1.10
+1.20
+US/LS
+Fig. 56.6  Normal upper-­to-­lower segment ratios (US/LS) for White chil­
+dren. (From McKusick V. Hereditable Disorders of Connective Tissue. 
+4th ed. St. Louis: CV Mosby; 1972.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1072
+SECTION 11  Endocrine and Metabolic Disorders
+in height slows down and plateaus over time (most likely because 
+a “genetic ceiling” is reached) but is much more marked in popula­
+tions that have recently seen an improvement in living standards.
+Practitioners should make allowances for ethnic differences in 
+height when evaluating children from different ethnic backgrounds but 
+should not automatically assume such differences as the sole explana­
+tion for short stature in children from historically shorter populations. 
+Growth velocity in particular should not be abnormal even in histori­
+cally shorter populations, and a subnormal growth velocity should trigger 
+an evaluation in the same way as it would in children from a Northern 
+European background.
+GENERAL WELL-­BEING
+Because growth is a barometer of a child’s health and general well-­
+being, freedom from serious illness is necessary for a child to achieve 
+their genetic growth potential. Chronic illnesses that are not primarily 
+problems of stature often interfere with growth secondarily, and short 
+stature may be the presenting feature of such conditions as inflamma­
+tory bowel disease, celiac disease, and renal disease.
+Psychological Factors
+Under normal circumstances, emotional and psychological factors do 
+not have a great effect on growth. However, in certain cases, emotional 
+deprivation can lead to very significant growth failure (sometimes 
+labeled “deprivation dwarfism” or “psychosocial dwarfism”) via mech­
+anisms that are still poorly understood.
+Endocrine Regulation of Growth
+Growth hormone (GH) is produced by the anterior pituitary under 
+the control of growth hormone–releasing hormone (GHRH) from the 
+hypothalamus and is essential for normal growth in childhood and 
+adolescence (though it appears to play a relatively small role in prena­
+tal growth). GH is secreted in brief pulses and peak secretion occurs 
+during sleep, so random serum levels have little utility in the evaluation 
+of GH deficiency except in the immediate newborn period (when ran­
+dom GH levels are usually elevated and a level below 7 ng/mL is very 
+likely to reflect GH deficiency).
+GH exerts its growth-­promoting effect mainly through stimulating 
+the production of insulin-­like growth factor 1 (IGF-­1) (primarily in the 
+liver, but also in some target tissues), though there is also some direct 
+actions of GH on bone. Most circulating IGF-­1 is bound to IGF-­binding 
+proteins, with the largest proportion being bound in a ternary com­
+plex with IGF-­binding protein-­3 (IGFBP3) and a protein named the 
+acid-­labile-­subunit (ALS). Because IGF-­1 levels in the blood are stable 
+through the day and reflect the integrated effect of GH secretion, mea­
+surement of IGF-­1 is often used as a surrogate measure of GH secretion.
+Thyroid hormone also has a relatively limited role in prenatal 
+growth but is essential for normal postnatal linear growth, both via 
+direct actions on the epiphyseal growth plate and via a permissive effect 
+on GH secretion. Hypothyroidism can therefore lead to very profound 
+growth failure and an evaluation of thyroid hormone status is essential 
+in the investigation of growth failure.
+Glucocorticoids do not play any significant role in normal growth 
+but are powerful inhibitors of growth when present in excess. Persistent 
+exposure to excess corticosteroids (whether endogenous or exogenous) 
+can lead to very severe growth failure (along with significant weight 
+gain). Deficiency of glucocorticoids generally does not adversely affect 
+growth if the child is otherwise healthy.
+Sex steroids mediate the pubertal growth spurt (see Chapter 
+55). This involves direct effects of sex steroids on bone growth as 
+well as steroid-­induced amplification of GH secretion. Most of the 
+bone-­maturing action of sex steroids is mediated by estrogen in both 
+sexes; while testosterone has some direct effect on bone strength and 
+thickness, most of the effects of testosterone on linear growth and 
+the maturation of growth plates in males also occur via the action of 
+estrogen produced by the peripheral conversion of testosterone. Con­
+sequently, even in males, bone maturation can be affected by genetic 
+defects in the production or action of estrogen, as well as by pharma­
+cologic inhibition of this pathway (e.g., by using aromatase inhibitors 
+that block the conversion of testosterone to estrogen). Sexual precocity 
+(true precocious puberty, exogenous exposure, or congenital adrenal 
+hyperplasia) tends to accelerate linear growth transiently as a result 
+of premature or excessive production of sex steroids (see Chapter 55). 
+But, if left untreated, these conditions eventually advance osseous mat­
+uration, leading to premature epiphyseal fusion and short final adult 
+height. Absence of sex steroids (hypogonadism), in the absence of 
+other abnormalities, blunts the pubertal growth spurt but tends not 
+to limit final height as bone maturation and epiphyseal fusion are also 
+delayed by the lack of estrogen in these patients.
+BONE AGE
+Osseous maturation follows a very predictable pattern during the 
+growth and development of the child and an X-­ray of the nondominant 
+hand can be used to assess bone age (i.e., the degree of maturation of 
+the bones compared to age-­matched standards). Bone age is usually 
+estimated by comparing the child’s radiologic findings with a standard 
+set of radiologic images, or by using various scoring algorithms. These 
+readings are subject to observer bias and error (other methods that use 
+artificial intelligence to automatically assess bone age may bypass this 
+issue) but are still useful as long as this inherent subjectivity is kept 
+in mind. Bone age is very closely correlated with pubertal maturation, 
+and an assessment of bone age can be especially useful in cases of pre­
+cocious puberty, delayed puberty, and constitutional growth delay. 
+Except in cases of precocious puberty, bone age is rarely useful in the 
+evaluation of short stature in a child younger than 5 years of age.
+Causes of Short Stature
+Understanding the factors that influence childhood growth leads 
+directly to an understanding of the causes of short stature and to the 
+differential diagnosis of short stature for an individual child (Tables 
+56.3, 56.4, 56.5, 56.6, and 56.7). While a very large number of con­
+ditions can potentially lead to short stature and growth failure, the 
+vast majority of children with short stature either are normal variants 
+(familial short stature, constitutional delay of growth and puberty) or 
+have no discernible cause (idiopathic short stature). It is also important 
+to remember that the child with growth failure is far more likely to have 
+an underlying pathology than a child who happens to be short but has 
+a normal growth velocity.
+Normal Variants
+The two most frequent causes of short stature in children are familial 
+short stature and constitutional delay of growth and puberty. These 
+are considered normal variants and their recognition can help avoid 
+expensive and unnecessary testing and interventions.
+Familial Short Stature
+The term familial short stature is usually reserved for familial forms 
+of mild to moderate short stature that do not have a specific identifi­
+able genetic defect; since hundreds of genes play a role in growth, this 
+height potential reflects the influence of multiple loci of small effect or 
+a few loci of relatively moderate effect. Genetic disorders that result in 
+severe short stature, or that are associated with other abnormal physical 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1073
+CHAPTER 56  Short Stature
+findings (syndromes), or that are caused by known genetic defects (see 
+Table 56.7), are conventionally treated separately from familial short 
+stature. In familial short stature the child’s height is in keeping with 
+their genetic endowment, and the child is otherwise healthy. Typically, 
+one or both parents (and often other family members) are about 1.5 to 
+2 SD below the mean in height. This relatively short genetic potential 
+is reflected in short MPH, and if the child continues to grow along the 
+current percentile, the child would fall within 9 cm of this MPH (this 
+is approximately 2 SD of the MPH); by age 2 the child is usually noted 
+to be small in relation to peers. Although the growth channel is low, it 
+should parallel the normal growth curve from that point onward. Con­
+tinued deviation away from the normal growth curve (indicating a sub­
+normal growth velocity) is not typical and should raise concerns about 
+a disorder other than familial short stature. Stature that is extremely low 
+(2.5–3 or more SD below the mean) raises concerns even if the parents 
+are short, since this degree of short stature may reflect a specific genetic 
+cause of short stature (e.g., a mild defect in GH secretion or action, or a 
+form of hypochondroplasia) in the parents as well as the child.
+The review of systems is generally negative in the otherwise healthy 
+child, as are the physical examination findings (aside from short stature). 
+The height-­to-­weight ratio, body proportions, muscularity, and pubertal 
+development are normal for age. Abnormalities found on review of systems 
+or physical examination should prompt consideration of other diagnoses.
+Laboratory studies are not mandatory but if done are all normal. 
+The bone age is also normal. Prediction of adult height can be made on 
+the basis of bone age but the accuracy is variable; the predicted height 
+is within 9 cm of the MPH.
+TABLE 56.3  Classification of Growth 
+Disorders
+	I.	 PROPORTIONAL SHORT STATURE
+	 A. GENETIC CAUSES
+Single-­gene disorders (GHRH-­receptor, GH gene, SHOX, etc.)
+Syndromic short stature (Prader-­Willi syndrome, Russell-­Silver 
+syndrome, etc.)
+Polygenic (familial) short stature
+Chromosomal abnormalities
+Turner syndrome
+Down syndrome
+	 B.	SECONDARY GROWTH DISORDERS
+	
+A.	Malnutrition
+	
+B.	Chronic disease
+Cardiac disorders
+Left-­to-­right shunts
+Congestive heart failure
+Pulmonary disorders
+Cystic fibrosis
+Gastrointestinal disorders
+Inflammatory bowel disease
+Celiac disease
+Malabsorption
+Chronic diarrhea
+Hematologic disorders
+Chronic anemia (including sickle cell disease, thalassemias)
+Renal disorders
+Chronic renal failure
+Renal tubular acidosis
+Immunologic disorders
+Congenital immunodeficiency
+HIV
+	
+C.	Intrauterine growth restriction
+	
+D.	Endocrine disorders
+Hypothyroidism
+Growth hormone deficiency
+IGF-­1 deficiency or resistance
+Cushing syndrome
+Pseudohypoparathyroidism
+Vitamin D–deficient or –resistant rickets
+	 C.	IDIOPATHIC SHORT STATURE (ISS)
+	 D.	CONSTITUTIONAL DELAY OF GROWTH AND PUBERTY
+	II.	DISPROPORTIONATE SHORT STATURE (skeletal dysplasias) (see 
+Table 56.4)
+GH, growth hormone; GHRH, growth hormone–releasing hormone; 
+IGF-­1, insulin-­like growth factor 1.
+TABLE 56.4  Nosology and Classification of 
+Genetic Skeletal Disorders: 2019 Revision
+	 1.	 FGFR3 chondrodysplasia group
+	 2.	 Type 2 collagen group
+	 3.	 Type 11 collagen group
+	 4.	 Sulphation disorders group
+	 5.	 Perlecan group
+	 6.	 Aggrecan group
+	 7.	 Filamin group and related disorders
+	 8.	 TRPV4 group
+	 9.	 Ciliopathies with major skeletal involvement
+	10.	 Multiple epiphyseal dysplasia and pseudoachondroplasia group
+	11.	 Metaphyseal dysplasias
+	12.	 Spondylometaphyseal dysplasias (SMDs)
+	13.	 Spondylo-­epi-­(meta)-­physeal dysplasias (SEMDs)
+	14.	 Severe spondylodysplastic dysplasias
+	15.	 Acromelic dysplasias
+	16.	 Acromesomelic dysplasias
+	17.	 Mesomelic and rhizo-­mesomelic dysplasias
+	18.	 Bent bone dysplasia group
+	19.	 Primordial dwarfism and slender bones group
+	20.	 Dysplasias with multiple joint dislocations
+	21.	 Chondrodysplasia punctata (CDP) group
+	22.	 Neonatal osteosclerotic dysplasias
+	23.	 Osteopetrosis and related disorders
+	24.	 Other sclerosing bone disorders
+	25.	 Osteogenesis imperfecta and decreased bone density group
+	26.	 Abnormal mineralization group
+	27.	 Lysosomal storage diseases with skeletal involvement (dysostosis 
+multiplex group)
+	28.	 Osteolysis group
+	29.	 Disorganized development of skeletal components group
+	30.	 Overgrowth (tall stature) syndromes with skeletal involvement
+	31.	 Genetic inflammatory/rheumatoid-­like osteoarthropathies
+	32.	 Cleidocranial dysplasia and related disorders
+	33.	 Craniosynostosis syndromes
+	34.	 Dysostoses with predominant craniofacial involvement
+	35.	 Dysostoses with predominant vertebral with and without costal involvement
+	36.	 Patellar dysostoses
+	37.	 Brachydactylies (without extraskeletal manifestations)
+	38.	 Brachydactylies (with extraskeletal manifestations)
+	39.	 Limb hypoplasia–reduction defects group
+	40.	 Ectrodactyly with and without other manifestations
+	41.	 Polydactyly-­syndactyly-­triphalangism group
+	42.	 Defects in joint formation and synostoses
+From Mortier GR, et al. Nosology and classification of genetic skeletal 
+disorders: 2019 revision. Am J Med Genet. 2019;179A:2393–2419.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1074
+SECTION 11  Endocrine and Metabolic Disorders
+TABLE 56.5  Genetic Defects of the GH-­IGF Axis Resulting in Somatotroph Dysfunction and 
+GH Deficiency
+Factor
+Gene Function
+Affected Cell 
+Types
+Clinical Phenotype
+Mode of 
+Inheritance
+Gene Variants in Factors Resulting in Growth Hormone and Associated Hormone Deficiencies
+Hesx1
+ • Paired-­like homeobox gene
+ • Early marker for pituitary primordium 
+and Rathke pouch
+ • Requires Lhx3 for maintenance and 
+PROP1 for repression
+Somatotrophs, 
+thyrotrophs, 
+gonadotrophs 
+(posterior pituitary 
+may also be 
+affected)
+ • Isolated GH deficiency or multiple 
+hormone deficiency (including diabetes 
+insipidus)
+ • Puberty may be delayed
+ • Associated with septo-­optic dysplasia
+ • Abnormal MRI findings: pituitary hypoplasia, 
+ectopic posterior pituitary, midline forebrain 
+abnormalities
+AD, AR
+Lhx3 (Lim 3, P-­LIM)
+ • Member of LIM-­homeodomain family 
+of gene regulatory proteins
+ • Required for survival and proliferation 
+of Rathke pouch
+ • Activates α-­GSU promoter
+ • Acts with Pit1 to activate TSH-­β gene 
+promoter
+Somatotrophs, 
+lactotrophs, 
+thyrotrophs, 
+gonadotrophs, 
+possibly 
+corticotrophs
+ • Patients may present with rigid cervical 
+spine causing limited neck rotation
+ • Hypoplastic anterior/intermediate pituitary 
+lobe
+AR
+Lhx4
+ • A LIM protein with close resemblance 
+to Lhx3
+ • Important for proliferation and 
+differentiation of cell lineages
+ • May have overlapping function with 
+PROP1 and POU1F1
+Somatotrophs, 
+lactotrophs, 
+thyrotrophs, 
+gonadotrophs, 
+corticotrophs
+ • Combined pituitary hormone deficiencies 
+with predominant GH deficiency
+ • Severe anterior pituitary hypoplasia, ectopic 
+neurohypophysis
+AD
+SIX6
+ • Member of the SIX/sine oculis family 
+of homeobox genes
+ • Expressed early in hypothalamus, later 
+in Rathke pouch, neural retina, and 
+optic chiasma
+Somatotrophs, 
+gonadotrophs
+ • Bilateral anophthalmia
+ • Pituitary hypoplasia
+ • Associated with deletion at chromosome 
+14q22-­23
+Unknown
+FGF8, FGFR1, PROKR2
+ • Ventral diencephalon
+Somatotrophs, 
+gonadotrophs
+ • Septo-­optic dysplasia
+AD
+PITX2 (RIEG1)
+ • Bicoid-­related homeobox gene 
+expressed early in Rathke pouch
+ • Important in maintaining expression of 
+Hesx1 and PROP1
+Somatotrophs, 
+lactotrophs, 
+thyrotrophs, reduced 
+expression of 
+gonadotrophs
+ • Associated with Rieger syndrome:
+ • Anterior-­chamber eye anomalies
+ • Dental hypoplasia
+ • Protuberant umbilicus
+ • Intellectual disability
+ • Pituitary dysfunction
+AD
+PROP1 (Prophet of Pit1)  • Paired-­like homeodomain transcription 
+factor required for PIT1 expression
+ • Coexpressed with Hesx1
+Somatotrophs, 
+lactotrophs, 
+thyrotrophs, 
+gonadotrophs, 
+corticotrophs 
+(delayed)
+ • Combined pituitary deficiencies 
+(GH, TSH, PRL, and late-­onset ACTH 
+reported)
+ • Gonadotropin insufficiency or normal 
+puberty with later onset of deficiency
+ • Several gene variants noted in 
+nonconsanguineous families
+AR
+POU1F1 (PIT1)
+ • Member of the POU transcription 
+factor family
+ • Important for activation of GH1, PRL, 
+and TSH-­β genes
+Somatotrophs, 
+lactotrophs, 
+thyrotrophs
+ • Combined pituitary deficiencies (GH, TSH, 
+PRL, and late-­onset ACTH reported); TSH 
+secretion may initially be normal
+ • Pituitary hypoplasia
+AD, AR
+Otx2
+ • Bicoid-­type homeodomain gene 
+required for forebrain and eye 
+development
+ • Antagonizes FGF8 and SHH expression
+ • May have importance in activation of 
+Hesx1
+Somatotrophs, 
+thyrotrophs, 
+corticotrophs, 
+and probably 
+gonadotrophs
+ • Severe ocular malformation including 
+anophthalmia
+ • Combined pituitary hormone deficiencies 
+with LH/FSH deficiency
+ • Anterior pituitary hypoplasia with ectopic 
+posterior pituitary
+Unknown
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1075
+CHAPTER 56  Short Stature
+Constitutional Delay of Growth and Puberty
+Constitutional delay of growth and puberty is a growth pattern that is 
+also considered a variant of normal. These children appear to have a 
+slowed maturational pattern and their bone age is delayed relative to 
+their peers. As part of this slowed maturation, they also enter puberty 
+later than their peers. This variant occurs in both sexes but is more 
+common in males and is recognized predominantly in them for this 
+reason, as well as for cultural reasons (greater attention being paid to 
+short stature in adolescent males than females).
+These children often begin to show moderate short stature (height 
+−1.5 to −2.5 SD) during early to middle childhood but are otherwise 
+healthy. They have delayed onset of puberty and therefore a delayed 
+growth spurt. One or both parents (or other family members) may 
+have a history of delayed puberty and a late adolescent growth spurt, 
+with eventual cessation of growth during late adolescence or even into 
+the third decade of life. The affected parent usually is of normal adult 
+stature. Otherwise, the history and review of systems are negative. The 
+physical examination findings are normal except for delayed onset of 
+puberty in children of an appropriate age.
+Laboratory tests are not mandatory but are normal if performed, 
+with the important exception of a delayed bone age (bone age < 
+chronologic age). It is important to note that IGF-­1 levels normally 
+increase with onset of puberty and should be compared with standards 
+for the child’s pubertal stage and bone age rather than the chronologic 
+age. The delayed bone age suggests that the child has more “room to 
+grow” than the average age-­matched child and that the child is likely to 
+reach an adult height taller than that suggested by the current height 
+percentile. Some children have mixed familial short stature and con­
+stitutional delay in growth and development; they tend to have both 
+delayed puberty and a short-­predicted adult height.
+Chronic illness may mimic constitutional delay in growth and 
+development and should be considered in the differential diagnosis. It 
+is sometimes difficult to distinguish children with constitutional delay 
+in growth and development from the more unusual condition of cen­
+tral (hypothalamic/pituitary) hypogonadism; a positive family history 
+of delayed but normal puberty and growth, a normal sense of smell (to 
+exclude Kallmann syndrome), and normal neurologic findings favor 
+constitutional delay. Evaluation for permanent central hypogonadism 
+is indicated if puberty fails to begin by age 13 in females or 14 in males, 
+particularly if there is no family history of constitutional growth delay.
+Females with delayed puberty are more likely to have an under­
+lying pathologic cause, so the threshold for investigation is lower in 
+TABLE 56.5  Genetic Defects of the GH-­IGF Axis Resulting in Somatotroph Dysfunction and 
+GH Deficiency—cont’d
+Factor
+Gene Function
+Affected Cell 
+Types
+Clinical Phenotype
+Mode of 
+Inheritance
+SOX2
+ • Member of SOXB1 subfamily as 
+SOX1 and SOX3 expressed early in 
+development
+Somatotrophs, 
+gonado­trophs (and, 
+in animal models, 
+thyrotrophs)
+ • Hypogonadotropic hypogonadism
+ • Anterior pituitary hypoplasia
+ • Bilateral anophthalmia/microphthalmia
+ • Midbrain defects, including corpus callosum 
+and hippocampus
+ • Sensorineural defects
+ • Esophageal atresia and learning difficulty
+De novo
+SOX3
+ • Member of SOX (SRY-­related HMG 
+box)
+ • Developmental factor expressed 
+in developing infundibulum and 
+hypothalamus
+Somatotrophs, 
+additional anterior 
+pituitary cell types
+ • Duplications of Xq26-­27 in affected males 
+(female carriers unaffected)
+ • Variable intellectual disability
+ • Hypopituitarism with abnormal MRI
+ • Anterior pituitary hypoplasia
+ • Infundibular hypoplasia
+ • Ectopic/undescended posterior pituitary
+ • Abnormal corpus callosum
+ • Murine studies suggest SOX3 dosage 
+critical for normal pituitary development
+X-­linked
+Isolated Growth Hormone Deficiency
+GLI2
+ • Member of the GLI gene family; 
+transcription factors that mediate 
+SHH signaling
+Somatotrophs
+ • Heterozygous loss-­of-­function gene variants 
+in patients with holoprosencephaly
+ • Penetrance variable
+ • Pituitary dysfunction accompanied by 
+variable craniofacial abnormalities
+Unknown
+GHRHr
+ • Encodes GHRH receptor
+Somatotrophs
+ • Short stature
+ • Anterior pituitary hypoplasia
+AR
+GH1
+ • Encodes GH peptide
+ • Several gene variants shown to affect 
+GH secretion or function
+Somatotrophs
+ • Short stature
+ • Abnormal facies
+ • Presentation includes bioinactive GH
+AR, AD, or X-­linked
+ACTH, adrenocorticotropic hormone; AD, autosomal dominant; AR, autosomal recessive; FSH, follicle-­stimulating hormone; GH, growth hormone; 
+GHRH, growth hormone–releasing hormone; α-­GSU, glycoprotein α subunit; HMG, high-­mobility group; IGF, insulin-­like growth factor; LH, luteinizing 
+hormone; PRL, prolactin; SHH, Sonic hedgehog; TSH, thyroid-­stimulating hormone (thyrotropin).
+From Melmed S, Auchus RJ, Goldfine AB, et al., eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia: Elsevier; 2020:962–963, Table 25.2.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1076
+SECTION 11  Endocrine and Metabolic Disorders
+females. On the other hand, benign constitutional delay is common 
+in males and in the presence of a positive family history further eval­
+uation may be delayed even beyond the age of 14. The possibility of 
+central hypogonadism becomes stronger the longer the onset of 
+puberty is delayed, but it should be noted that cases of spontaneous 
+development of normal puberty can occur up to and even beyond the 
+age of 18.
+In most cases only reassurance and an explanation of the growth 
+pattern is required, but if the parents and the child are eager to has­
+ten pubertal development (usually because of involvement in sports 
+or because of bullying and other psychosocial considerations), then 
+a short course of low-­dose sex steroids can accelerate the onset of 
+puberty. Such intervention does not change the final height but hastens 
+the child’s progression to that height. Treatment options are discussed 
+in detail later in this chapter.
+Idiopathic Short Stature
+Idiopathic short stature (ISS) is a clinical description rather than a 
+disease. ISS is generally considered a normal variant of growth (since 
+pathologic causes are excluded, by definition). The exact definition var­
+ies from country to country; in the United States, the Food and Drug 
+Administration (FDA) used a definition of height >2.25 SD below the 
+age mean (which is the 1st percentile for height) in children in whom 
+no specific cause of short stature has been identified after a thorough 
+evaluation. This corresponds to an adult height <160 cm (5 feet 3 
+inches) for males and <150 cm (4 feet 11 inches) for females.
+In many cases these children have familial short stature and their 
+height is not inappropriate for parental height. But in most definitions 
+they are included in the category of ISS because the purpose of the defi­
+nition was to identify children who may not have any pathology, but 
+whose short stature per se constitutes a possible reason to treat them 
+with GH. This notion remains controversial because there is no univer­
+sal agreement about the psychosocial or economic impact of ISS. Those 
+who support treatment of these children argue that such a degree of 
+short stature may have adverse psychological, social, and economic 
+consequences and deserves to be treated even if no underlying pathol­
+ogy is identified. Opponents argue that there is no convincing evidence 
+that short stature of this degree itself leads to any significant handi­
+caps that would justify prolonged invasive therapy with an extremely 
+expensive medication that may itself have future adverse health conse­
+quences. Third-­party payers often regard such treatment as cosmetic 
+TABLE 56.6  Clinical Features of Growth 
+Hormone Insensitivity
+Parameter
+Clinical Finding
+Growth and Development
+Birthweight
+Near normal
+Birth length
+May be slightly decreased
+Postnatal growth
+Severe growth failure
+Bone age
+Delayed, but may be advanced relative to 
+height age
+Genitalia
+Micropenis in childhood; normal for body size 
+in adults
+Puberty
+Delayed 3–7 yr
+Sexual function and fertility
+Normal
+Craniofacies
+Hair
+Sparse before age 7 yr
+Forehead
+Prominent; frontal bossing
+Skull
+Normal head circumference; craniofacial 
+disproportion due to small facies
+Facies
+Small
+Nasal bridge
+Hypoplastic
+Orbits
+Shallow
+Definition
+Delayed eruption
+Sclerae
+Blue
+Voice
+High pitched
+Musculoskeletal/Metabolic/Miscellaneous
+Blood glucose
+Hypoglycemia in infants and children; fasting 
+symptoms in some adults
+Waking and motor milestones
+Delayed
+Hips
+Dysplasia; avascular necrosis of femoral head
+Elbow
+Limited extensibility
+Skin
+Thin, prematurely aged
+Bone mineral density
+Osteopenia
+From Melmed S, Auchus RJ, Goldfine AB, et al., eds. Williams 
+Textbook of Endocrinology. 14th ed. Philadelphia: Elsevier; 2020:973, 
+Table 25.4.
+TABLE 56.7  Genetics of Syndromic Short Stature
+Genes
+Function
+Disorder
+Key Clinical Features
+FGD1
+Guanine nucleotide exchange 
+factor
+Aarskog-­Scott 
+(faciogenital dysplasia)
+IUGR, hypertelorism, ptosis, everted lower lip vermilion, joint 
+hyperextension, finger abnormalities, shawl scrotum
+PRKAR1A
+cAMP-­dependent regulatory 
+subunit of protein kinase A
+Acrodysostosis, type 1
+IUGR, skeletal dysplasia, severe brachydactyly, facial dysostosis, nasal 
+hypoplasia, advanced bone age, obesity, hormone resistance
+PDE4D
+cAMP-­specific 3′,5′-­cyclic 
+phosphodiesterase 4D
+Acrodysostosis, type 2
+IUGR (variable), skeletal dysplasia, accelerated bone age progression, 
+variable hormone resistance
+GNAS
+G-­protein α subunit
+Albright hereditary 
+osteodystrophy
+IUGR, obesity, round-­shaped face, subcutaneous ossifications, 
+brachymetacarpal bone (fourth and fifth)
+RPS6KA3
+Serine/threonine kinase in RAS-­
+MAPK pathway
+Coffin-­Lowry syndrome
+No IUGR, microcephaly, facial dysmorphism, skeletal abnormalities, 
+intellectual disability, hypotonia, X-­linked disorder
+HRAS
+Signal transduction with GTPase 
+activity in RAS-­MAPK pathway
+Costello 
+(faciocutaneoskeletal 
+syndrome)
+No IUGR, delayed development, intellectual disability, distinctive facial 
+features, loose folds of extra skin (especially, hands and feet), flexible 
+joints
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1077
+CHAPTER 56  Short Stature
+Genes
+Function
+Disorder
+Key Clinical Features
+PTPN11, RAF1, 
+BRAF
+Protein-­tyrosine phosphatase/
+RAS-­MAPK regulation
+Multiple lentigines 
+syndrome (LEOPARD 
+syndrome)
+No IUGR, lentigines, hypertrophic myopathy, electrocardiographic 
+conduction abnormalities, ocular hypertelorism, pulmonic stenosis, 
+abnormalities of genitalia, sensorineural deafness
+NF1
+RAS signal transduction
+Neurofibromatosis type 1
+No IUGR, café-­au-­lait spot, malignancy (pheochromocytoma and 
+gastrointestinal stromal tumor), Lisch nodules, osteoporosis
+PTPN11, BRAF, SOS1, 
+KRAS, RAF1, NRAS, 
+RASA2, SHOC2, CBL, 
+RIT1 (activating)
+Protein-­tyrosine phosphatase/
+RAS-­MAPK regulation
+Noonan syndrome or 
+Noonan-­like syndrome
+No IUGR, distinctive facial appearance, a broad or webbed neck, 
+congenital heart defects, coagulopathy, skeletal malformations, 
+developmental delay
+ROR2, WNT5A, DVL1
+Cell surface receptor, secreted 
+signaling protein
+Robinow syndrome 
+(acral dysostosis with 
+facial and genital 
+abnormalities)
+IUGR (variable); short-­limb dwarfism; costovertebral segmentation defects; 
+abnormalities of head, face, and external genitalia; chest deformities; 
+rib fusions; scoliosis; brachydactyly; aplasia/hypoplasia of the phalanges 
+and metacarpal/metatarsal bones
+LARP7
+Transcriptional regulator of 
+polymerase II genes
+Alazami syndrome
+IUGR (variable), facial dysmorphism (triangular face), intellectual disability, 
+tendon or skeletal abnormalities
+SOX9
+Chondrocyte differentiation 
+factor
+Campomelic dysplasia
+IUGR, born with bowing of the long bones, short legs, dislocated hips, 
+ambiguous genitalia, distinctive facial features
+BRF1
+RNA polymerase III transcription 
+initiation factor
+Cerebello-­facio-­dental 
+syndrome
+IUGR, facial dysmorphism, hypoplastic cerebellum, markedly delayed 
+bone age
+SOX11
+Transcriptional regulation of 
+GDF5
+Coffin-­Siris syndrome
+IUGR (variable), intellectual disability, facial dysmorphism, hearing or 
+vision impairment, severe scoliosis
+MLL2 (KMT2D), 
+KDM6A
+Histone methyltransferase/
+histone demethylase
+Kabuki syndrome
+IUGR (variable), facial features that resemble the make-­up worn by 
+actors of Kabuki (long eye openings slanting upward, arched eyebrows, 
+prominent ears, and corners of the mouth turning downward), mild to 
+moderate intellectual disability; problems involving heart, skeleton, 
+teeth, and immune system
+ANKRD11
+Transcription regulator
+KBG syndrome
+IUGR (variable), facial dysmorphism, hearing loss, congenital heart defect, 
+skeletal anomalies, global developmental delay, seizures, intellectual 
+disability
+SHOX
+Transcription factor
+Leri-­Weill dyschondrosteo­
+sis, mesomelic dysplasia 
+(Langer type)
+No IUGR, skeletal dysplasia, Madelung deformity
+CREBBP, EP300
+Transcriptional coactivator
+Rubinstein-­Taybi syndrome
+IUGR (variable), facial dysmorphism, moderate to severe intellectual 
+disability, broad thumbs and first toes
+BLM
+DNA repair enzyme
+Bloom syndrome
+IUGR (as case report); increased risk of cancer; sun-­sensitive skin changes 
+on face, hands, and/or arms; a high-­pitched voice; distinctive facial 
+features, including a long, narrow face, small lower jaw, large nose, and 
+prominent ears
+ERCC6, ERCC8
+DNA repair
+Cockayne syndrome
+IUGR (variable), microcephaly, photosensitivity progeroid appearance, 
+progressive pigmentary retinopathy, sensorineural deafness
+FANCA, FANCC, FANCG
+DNA repair
+Fanconi anemia
+IUGR, absence of thumb, hyperpigmentation, early-­onset bone marrow 
+failure, predisposition to cancers
+LIG4
+DNA repair
+LIG 4 syndrome
+No IUGR, distinctive facial features, microcephaly, pancytopenia, various 
+skin abnormalities, immune deficiency
+NSMCE2
+DNA repair
+Microcephalic primordial 
+dwarfism–insulin 
+resistance syndrome
+No IUGR reported, microcephaly, insulin resistance
+NBN (NBS1)
+DNA repair
+Nijmegen breakage 
+syndrome
+No IUGR, microcephaly, distinctive facial features, immunodeficiency, and 
+cancer predisposition
+SMARCAL1
+DNA repair
+Schimke immunoosseous 
+dysplasia
+IUGR, kidney disease, immune deficiency, stroke, bone marrow failure, 
+kidney failure
+ATR, ATRIP, CENPJ, 
+CEP152, CEP63, 
+DNA2, PCNT, PLK4, 
+RBBP8, XRCC4
+DNA repair, centrosome 
+maintenance, DNA stability
+Seckel syndrome
+IUGR, microcephaly, beaklike protrusion of nose, facial dysmorphism
+TABLE 56.7  Genetics of Syndromic Short Stature—cont’d
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1078
+SECTION 11  Endocrine and Metabolic Disorders
+Genes
+Function
+Disorder
+Key Clinical Features
+CUL7, OBSL1, CCDC8
+Microtubule stabilization and 
+genome stability
+3-­M syndrome
+IUGR, facial dysmorphism (triangular face), relatively large head 
+circumference, prominent fleshy heels
+ALMS1
+Microtubule organization
+Alström syndrome
+No IUGR, vision and hearing abnormalities, childhood obesity, diabetes 
+mellitus, heart disease, and slowly progressive kidney dysfunction
+SMARCB1, SMARCE1, 
+SMARCA4, ARID1A, 
+ARID1B
+Chromatin remodeling
+Coffin-­Siris syndrome
+IUGR (variable), intellectual disability, facial dysmorphism, hearing or 
+vision impairment, severe scoliosis
+NIPBL (50%), SMC1A, 
+HDAC8, RAD21, 
+SMC3
+Cohesin pathway (sister 
+chromatid cohesion)
+Cornelia de Lange 
+syndrome
+IUGR, dysmorphic facial features (facial hirsutism), microcephaly, limb 
+reduction defects, cardiac defect, and intellectual disability
+SRCAP
+Chromatin remodeling
+Floating-­Harbor syndrome
+IUGR (variable), facial dysmorphism, abnormal thumb, delayed bone age, 
+early puberty, delay in expressive language
+LMNA
+Nuclear stability
+Hutchinson-­Gilford 
+progeria
+No IUGR, failure to thrive, distinctive facial features (aged-­looking skin), 
+alopecia, loss of subcutaneous fat, joint abnormalities
+RNU4ATAC
+Minor intron splicing
+MOPD I
+IUGR, microcephaly, dysmorphic face, skin and skeletal abnormalities, 
+developmental delay
+PCNT
+Mitotic spindle/chromosome 
+segregation
+MOPD II
+IUGR, facial dysmorphism, microcephaly, near-­normal intelligence, cancer 
+susceptibility
+TRIM37
+Peroxisomal protein, possibly 
+ubiquitin-­dependent 
+degradation
+Mulibrey nanism
+IUGR, dysmorphic craniofacial features, heart disease (constrictive 
+pericardium), hepatomegaly, Wilms tumor
+CRIPT
+Interaction with cytoskeleton
+Primordial dwarfism
+IUGR (not established), facial dysmorphism, microcephaly, ophthalmologic 
+abnormalities, intellectual disabilities, skeletal abnormalities, 
+pigmentation abnormalities
+POC1A
+Centriole assembly/ciliogenesis
+SOFT syndrome
+IUGR, disproportionate short stature, onychodysplasia, facial dysmorphism, 
+hypotrichosis
+DHCR7
+Steroid biosynthesis
+Smith-­Lemli-­Opitz 
+syndrome
+IUGR; distinctive facial features; microcephaly; intellectual disability or 
+learning problems; behavioral problems; malformations of heart, lungs, 
+kidneys, gastrointestinal tract, and genitalia
+COL2A1
+Extracellular matrix, collagen
+Achondrogenesis (type II), 
+hypochondrogenesis, 
+Kniest dysplasia, 
+spondyloepiphyseal 
+dysplasia congenita, 
+Stickler syndrome type 1
+IUGR, skeletal abnormalities, problems with vision and hearing
+FBN1
+Extracellular matrix, fibrillin 1
+Acromicric dysplasia, 
+geleophysic dysplasia 2
+No IUGR; short hands and feet; thickened skin and joint contractures; 
+limited range of motion in fingers, toes, wrists, and elbows; cardiac issue
+COL11A1
+Extracellular matrix, collagen 11
+Fibrochondrogenesis
+IUGR (variable), skeletal dysplasia, broad long bone metaphyses, pear-­
+shaped vertebral bodies, flat midface with a small nose and anteverted 
+nares, significant shortening of all limb segments
+COL10A1
+Extracellular matrix, collagen 10
+Metaphyseal dysplasia, 
+Schmid type
+No IUGR, coxa vara, relatively short limbs, bow legs, waddling gait
+MATN3, COL9A1, 
+COL9A2, COL9A3
+Extracellular matrix, cartilage 
+oligomeric matrix protein, 
+collagen, matrilin-­3
+Multiple epiphyseal 
+dysplasia
+No IUGR, skeletal dysplasia, joint pain, joint deformity, waddling gait
+COMP
+Extracellular matrix, cartilage 
+oligomeric matrix protein
+Multiple epiphyseal 
+dysplasia, 
+pseudoachondroplasia
+No IUGR, short arms and legs, a waddling walk, early-­onset joint pain 
+(osteoarthritis), limited range of motion at elbows and hips
+HSPG2
+Extracellular matrix, perlecan
+Schwartz-­Jampel 
+syndrome
+IUGR (not established), permanent myotonia (prolonged failure of muscle 
+relaxation), skeletal dysplasia, kyphoscoliosis, bowing of diaphyses and 
+irregular epiphyses
+ACAN
+Extracellular matrix, aggrecan
+Spondyloepimetaphyseal 
+dysplasia, aggrecan/
+Kimberly type
+IUGR, macrocephaly, severe midface hypoplasia, short neck, barrel chest, 
+brachydactyly, advanced bone age
+FGFR3 (activating)
+Fibroblast growth factor receptor
+Achondroplasia, 
+hypochondroplasia
+IUGR, short upper arms and thighs, limited range of motion at elbows, 
+relative macrocephaly with a prominent forehead, trident hand
+TABLE 56.7  Genetics of Syndromic Short Stature—cont’d
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1079
+CHAPTER 56  Short Stature
+and may not approve requests for therapy. It should be noted that in 
+most cases there are no consistent adverse effects of short stature on 
+quality of life in children at or just below the 1st percentile; however, 
+some studies do indicate that practical and psychosocial difficulties 
+increase in those with extreme degrees of short stature.
+ISS is a diagnosis of exclusion; history, physical examination, labo­
+ratory studies, and imaging studies do not reveal any specific cause of 
+short stature in an otherwise normal child. How much investigation 
+is needed before a child can be labeled as having ISS remains a matter 
+of controversy and clinical practice can vary significantly within and 
+between different countries. Treatment with GH was approved by the 
+FDA in 2003 but remains controversial and may not be approved by 
+third-­party payers. Treatment is more likely to be beneficial in those 
+with more extreme degrees of short stature. A predicted adult height 
+<136 cm (about 4 feet 6 inches) in females and less than 149 cm (about 
+4 feet 11 inches) in males is very likely to be associated with quality-­of-­
+life issues and deserves treatment even in the absence of any underly­
+ing cause.
+Small for Gestational Age
+Children who are born small for gestational age (SGA) usually catch up 
+with their peers by 2–3 years of age, but 10–20% of children born SGA 
+will fail to catch up and will continue to be below the 3rd percentile. 
+This is more likely in children who are born premature as well as SGA 
+and in those most severely affected at birth. The mechanism underlying 
+this failure of catch-­up growth is not well understood. Children with 
+IUGR also have an increased future risk of metabolic disorders like 
+type 2 diabetes. Children who were SGA typically have normal propor­
+tions and no other physical findings; in some cases, the IUGR is just 
+one component of a genetic syndrome (see Tables 56.3, 56.6, and 56.7) 
+and other features of the syndrome are present.
+Children who were born SGA with poor postnatal growth typ­
+ically have normal or even elevated GH levels but lower average 
+values of IGF-­1 and IGFBP3 (though most are still in the normal 
+range), indicating some degree of GH resistance in at least some of 
+these children. GH treatment increases final height by about 1 SD 
+on average (about 6 cm) if started early in life and continued for 
+at least 7 years. In the United States, treatment is approved by the 
+FDA for children who were born SGA and whose height remains >2 
+SD below the mean at age 2. In Europe, treatment is approved for 
+children whose height is >2.5 SD below the mean by age 4. These 
+children can be mildly GH resistant and may therefore require GH 
+doses at the higher end of the dose range. Since individual response 
+varies, GH treatment can be started at the usual dose (30–50 μg/kg/
+day) and then increased if needed based on growth response and 
+IGF-­1 levels.
+Genes
+Function
+Disorder
+Key Clinical Features
+IHH
+Secreted signaling molecule, 
+Indian hedgehog
+Acrocapitofemoral 
+dysplasia, brachydactyly, 
+type A1
+No IUGR, brachydactyly
+NPR2 (inactivating)
+CNP receptor
+Acromesomelic dysplasia, 
+Maroteaux type
+IUGR (variable), short limbs and hand/foot malformations
+BMPR1B, GDF5
+BMP receptor/interacting protein 
+(ligand)
+Brachydactyly, type A1 
+and A2
+No IUGR, brachydactyly
+PTHLH
+Secreted signaling molecules 
+(PTH-­related protein)
+Brachydactyly, type E2
+No IUGR, shortening of fingers mainly in metacarpals and metatarsals
+IGF2
+Secreted signaling molecule 
+(insulin-­like growth factor 2)
+IGF-­2 deficiency
+IUGR, Silver-Russell–like facies
+PTH1R
+PTH and PTHrP receptor
+Metaphyseal 
+chondrodysplasia 
+(Jansen type), 
+Eiken dysplasia, 
+chondrodysplasia 
+(Blomstrand type)
+No IUGR, skeletal dysplasia, micrognathia, failure of tooth eruption, low-­
+set/posteriorly rotated ears, proptosis
+IGFALS
+Acid-­labile subunit
+ALS deficiency
+IUGR (variable), low IGF-­1 and IGF-­BP3
+GH1, GHRHR, SOX3, 
+BTK
+GH production
+GH deficiency
+No IUGR, GH deficiency
+IGF1
+IGF-­1
+IGF-­1 deficiency
+IUGR, microcephaly, intellectual disability, low IGF-­1 level
+IGF1R
+Insulin-­like growth factor 
+receptor
+IGF-­1 insensitivity
+IUGR, normal to high IGF-­1 level
+STAT5B
+Growth hormone signaling
+Immune deficiency and GH 
+resistance
+No IUGR, elevated random GH but low IGF-­1 or IGFBP3, immunodeficiency
+GHR
+Growth hormone receptor
+Laron syndrome
+IUGR, elevated GH and low IGF-­1
+ALS, acid labile subunit; BMP, bone morphogenetic protein; cAMP, cyclic adenosine monophosphate; CNP, C-­type natriuretic peptide; GH, growth 
+hormone; GTP, guanosine triphosphate; GWA, genome-­wide association; IGF-­1, insulin-­like growth factor 1; IUGR, intrauterine growth restriction; 
+MAPK, mitogen-­activated protein kinase; MOPD, microcephalic osteodysplastic primordial dwarfism; PTH, parathyroid hormone; PTHrP, PTH-­related 
+protein; RAF, rapidly accelerated fibrosarcoma; RAS, rat sarcoma.
+Modified from Jee YH, Andrade AC, Baron J, et al. Genetics of short stature. Endocrinol Metab Clin N Am 2017;46(2):259–281 (Table 1, pp. 
+262–269).
+TABLE 56.7  Genetics of Syndromic Short Stature—cont’d
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1080
+SECTION 11  Endocrine and Metabolic Disorders
+ENDOCRINE DISORDERS
+Growth Hormone Deficiency
+GH is essential for postnatal growth, and children who lack it are 
+extremely stunted. GH deficiency may be congenital or acquired. The 
+congenital form may be associated with other pituitary hormone defi­
+ciencies (multiple pituitary hormone deficiency, MPHD) and may be 
+associated with midline craniofacial defects (absence of the septum 
+pellucidum and optic nerve hypoplasia [septo-­optic dysplasia], cleft 
+palate, holoprosencephaly, single central incisor). Genetic testing has 
+revealed underlying genetic variants in transcription factors involved 
+in the development of the anterior pituitary in many (but not all) of 
+these cases (see Table 56.5). Isolated congenital GH deficiency is rela­
+tively rare (i.e., it is more common to see congenital GH deficiency as a 
+component of multiple pituitary hormone deficiencies). Some of these 
+isolated cases are related to genetic abnormalities in the growth hor­
+mone–releasing hormone receptor (GHRHR variants) and others to 
+variants in the GH gene itself. Variants in the GH receptor or in down­
+stream signaling molecules lead to various rare forms of GH resistance. 
+Variants in the IGF-­1 gene, in the ALS protein (a component of the 
+IGF-­IGFBP3-­ALS ternary complex), and in the IGF-­1 receptor can 
+also lead to growth failure on rare occasions. But most cases of GH 
+deficiency discovered during the evaluation of short stature are not 
+due to known genetic variants in the GH-­IGF axis and are regarded 
+as idiopathic.
+GH deficiency may also be acquired secondary to birth injury, 
+head trauma, midline tumors (most commonly craniopharyngioma), 
+histiocytic infiltrative disorders, and cranial irradiation. Most such 
+cases are associated with deficiencies of other pituitary hormones, but 
+isolated GH deficiency may also occur after such insults. Injury to the 
+anterior pituitary during childhood most often affects GH secretion, 
+followed by gonadotropins, thyroid-­stimulating hormone (TSH), and 
+adrenocorticotropic hormone (ACTH) in that order (in adults, gonad­
+otropins may be affected more than GH). It is therefore possible to see 
+isolated GH deficiency after a cranial injury, while it is very unusual to 
+see central hypothyroidism or adrenal insufficiency in the absence of 
+GH deficiency.
+Growth Hormone Deficiency Presenting in the Neonatal 
+Period
+Isolated congenital GH deficiency that presents in the newborn period 
+is uncommon. If GH deficiency presents in the newborn period, it usu­
+ally does so in the setting of MPHD. It may be associated with mid­
+line defects (central incisor, septo-­optic dysplasia, holoprosencephaly, 
+cleft palate). Affected infants are often normal in birth size, although 
+statistical analysis suggests that, as a group, they are somewhat small. 
+These newborns have an increased incidence of hypoglycemia and 
+may also have jaundice with a hepatitis-­type picture and conjugated 
+hyperbilirubinemia (there are cases that have been mistaken for bil­
+iary atresia). Males frequently have micropenis; cryptorchidism may 
+be seen in cases with concomitant gonadotropin deficiency. Hypogly­
+cemia may be worsened by associated ACTH deficiency, which may 
+also lead to hypotension and hypothermia. Associated central hypo­
+thyroidism may also cause hypothermia, poor growth, poor feeding, 
+and prolonged jaundice.
+Laboratory testing reveals a low random GH level (this is the only 
+stage in life at which a random GH level is useful; levels <7 ng/mL in 
+the first week of life are considered abnormal), as well as low levels 
+of IGF-­1 (not very useful because the normal range overlaps with the 
+deficient range) and low IGFBP3. Associated central hypothyroidism, 
+if present, is suggested by a low thyroxine (T4) and an inappropriately 
+normal (or even slightly elevated) TSH level; one would have 
+expected the TSH level to be markedly elevated in a baby with low 
+T4, but instead it is either normal or just minimally elevated. A low 
+cortisol level (especially in the face of hypoglycemia or other stressful 
+situations) and low or low-­normal ACTH level may hint at central 
+ACTH deficiency; an ACTH stimulation test may be required to con­
+firm the diagnosis. Gonadotropin levels may be affected and, if so, 
+will remain low instead of rising in the first 2–3 months of life as they 
+normally do in infants. GH stimulation testing is not required for the 
+diagnosis of GH deficiency in the newborn period. Genetic testing 
+may show pathogenic variation in one of several genes involved in 
+the normal development of the pituitary and the GH-­producing cells 
+of the pituitary (POUF1, PROP1, HESX1, LXH3, LHX4, and SOX3) 
+(see Table 56.5). Treatment with GH (and with other pituitary hor­
+mones that are frequently deficient in these neonates) will permit 
+normal growth and development and prevents hypoglycemia and 
+other complications.
+Growth Hormone Deficiency in Childhood
+Most children who are diagnosed with GH deficiency in childhood 
+demonstrate no manifestations in the neonatal period. A very small 
+proportion has specific genetic defects in GH secretion or action that 
+did not present (or were not obvious) in the newborn period; these 
+children will usually exhibit very profound growth failure by the sec­
+ond or third year of life. They typically look younger than their actual 
+age and are classically described as chubby or cherubic; their heights 
+are depressed more than their weights. They may have high-­pitched 
+voices, delayed dentition, and poor musculature. On testing, they are 
+found to have very low IGF-­1 and IGFBP3 levels; GH stimulation 
+testing reveals peak GH levels that are almost always lower than 5 ng/
+mL. Bone age is typically delayed and an MRI of the brain may show 
+a hypoplastic pituitary gland, an empty sella, or an abnormal pituitary 
+bright spot. Genetic testing may show defects in the GHRHR gene or 
+the GH gene (see Table 56.5). Defects in other genes involved in regu­
+lating GH secretion may be seen, but all are extremely rare. These chil­
+dren typically respond very dramatically to GH replacement therapy 
+and will grow very poorly in the absence of such therapy
+Much more common is the phenomenon of the child who presents 
+with short stature in childhood but does not have any known genetic 
+or acquired cause of GH deficiency. These children are diagnosed as 
+GH deficient based on a combination of auxologic and laboratory 
+criteria and are candidates for GH therapy. But unlike children with 
+neonatally apparent GH deficiency or children with obvious causes of 
+acquired GH deficiency (tumors, trauma, radiation), these children 
+are frequently not GH deficient when retested after puberty. This idio­
+pathic growth hormone deficiency may be due to multiple genetic 
+loci of small effect or a few loci of moderate effect, but the exact cause 
+usually remains unknown. Poor linear growth usually becomes evi­
+dent by age 3 years, but many cases are not brought to the attention of 
+physicians until later in childhood. Diagnosis and treatment of chil­
+dren with idiopathic GH deficiency is based on consensus guidelines 
+and expert opinion and may vary from country to country. In most 
+cases, children are investigated for idiopathic GH deficiency if they 
+are below the normal range for height (>2 SD below the mean, or <3rd 
+percentile) or are extremely short for their genetic target height (pro­
+jected adult height more than 9 cm below the MPH). A subnormal 
+growth velocity (growth velocity <25th percentile or >1.5 SD below 
+the mean) is seen and no other obvious cause of short stature can be 
+found.
+No single test can be regarded as the gold standard for making this 
+diagnosis. Most children will have an IGF-­1 level that is low for age 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1081
+CHAPTER 56  Short Stature
+(and in older children, for pubertal stage and bone age), but occasion­
+ally a child who meets all other criteria for GH deficiency will have a 
+normal IGF-­1 level, while in other cases the IGF-­1 level may be low 
+because of malnutrition or chronic disease in a child who is not GH 
+deficient. IGFBP3 level is also frequently used as a measure of GH 
+secretion but is less sensitive than the IGF-­1 level and may not be help­
+ful in most cases. Bone age is almost always delayed. If the diagnosis 
+is suspected as a result of auxologic findings (short stature, subnormal 
+growth velocity), a delayed bone age, and low IGF-­1 and/or IGFBP3 
+levels, then most authorities recommend performing two GH stimu­
+lation tests. In these tests, GH secretion is provoked by one of several 
+pharmacologic agents and multiple GH levels are drawn over the next 
+2–3 hours. Glucagon, arginine, L-­dopa, and clonidine are the most 
+commonly used agents in children; insulin-­induced hypoglycemia is 
+considered by many to be the gold standard test in adults but is asso­
+ciated with the risk of life-­threatening hypoglycemia and is not recom­
+mended in children. If all levels remain below an arbitrary cut-­off (10 
+ng/mL in the United States), then the child is considered GH deficient. 
+It should be noted that provocative testing is known to have both false-­
+positive and false-­negative results and should only be interpreted in 
+the context of all available auxologic, laboratory, and imaging infor­
+mation. Because of these issues, some authorities recommend using 
+auxologic criteria and growth factor levels to make the diagnosis of GH 
+deficiency without performing any provocative tests of GH secretion.
+Any child diagnosed as having GH deficiency should have cranial 
+imaging performed to rule out intracranial pathology before treatment 
+is started. Once imaging (usually an MRI of the brain with fine cuts 
+through the pituitary region) has been performed, treatment can be 
+started with GH. The usual starting dose ranges from 30 to 50 μg/kg/
+day and this can then be increased in case of poor response. Doses of 
+70 μg/kg/day or higher may be needed in some cases. IGF-­1 levels can 
+be used to assess biochemical response and to see if there is room to 
+increase GH dose any further. Some authorities have recommended 
+IGF-­based dosing (adjusting the GH dose to keep the IGF-­1 level in 
+the high-­normal range), but very high doses of GH may be required 
+in some children to achieve such levels and because of safety concerns 
+this method has not been widely adopted.
+Acquired Growth Hormone Deficiency
+In acquired forms of GH deficiency, there may be a history of a precip­
+itating event (cranial irradiation, head trauma) or a history suggestive 
+of an intracranial lesion (headaches, vomiting, visual disturbances). 
+Affected children often have normal growth until the onset of the dis­
+order; thereafter, their growth is attenuated.
+On physical examination, there may be evidence of the underlying 
+disturbance (bitemporal hemianopsia, optic atrophy, or papilledema in 
+midline tumors such as craniopharyngioma; dermatitis, scalp lesions, 
+or hepatosplenomegaly in Langerhans cell histiocytosis). The typical 
+case will either be a child with a known history of conditions that 
+can affect the anterior pituitary (head injury, irradiation, tumor) who 
+shows deceleration of growth or a child who was growing normally 
+and then has an obvious growth failure. Lab tests will show decreased 
+IGF-­1 levels (and in some cases, abnormal levels of other pituitary hor­
+mones); cranial imaging (usually an MRI with and without contrast) 
+should then be done in all such cases. Bone age may not be delayed 
+if the onset of GH deficiency was relatively recent. The diagnosis of 
+GH deficiency is usually confirmed by provocative testing and patients 
+can then be treated with the usual doses of GH. In patients with brain 
+tumors, treatment is usually delayed for at least 1 year after completion 
+of therapy because of the theoretical risk that GH therapy may increase 
+the size of any tumor that is present.
+Traditionally, GH therapy for GH deficiency was continued until 
+linear growth was completed (i.e., until the closure of epiphyses), 
+though it could be stopped at any point before that if the child is sat­
+isfied with their attained height. Because of the extremely high cost of 
+GH therapy ($50,000–$100,000 per year in the United States), many 
+third-­party payers require cessation of therapy once a reasonable adult 
+height has been reached (exact targets vary depending on the plan).
+Growth Hormone Insensitivity
+GH action may be impaired due to variants of the GH receptor (Laron 
+syndrome), defects in postreceptor signaling, variants in the IGF-­1 
+gene, deficiency of the ALS protein, and defects in IGF-­1 action (see 
+Tables 56.3, 56.5, 56.6, and 56.7). All of these conditions are very rare 
+and constitute only a tiny fraction of the cases of short stature and 
+growth failure seen in clinical practice.
+The GH receptor consists of an extracellular ligand-­binding domain, 
+a single membrane-­spanning domain, and a cytoplasmic signaling 
+component. Circulating GH-­binding protein (GHBP) is just the extra­
+cellular domain of the GH receptor protein. Pathologic variants in this 
+receptor lead to various forms of Laron syndrome, characterized by 
+GH resistance (hence elevated GH levels), low IGF-­1 and IGFBP3, and 
+extreme degrees of growth failure. In some (but not all) cases, the extra­
+cellular domain of the receptor is involved, so GHBP level is also low.
+Other clinical features of Laron syndrome include small head cir­
+cumference, characteristic facies with saddle nose and prominent fore­
+head, delayed skeletal maturation, small genitalia and testes, short limb 
+length compared to trunk length, and abnormal body composition, 
+with osteopenia and obesity. Intellectual development is normal or 
+only modestly impaired. Prenatal growth is near normal, but postnatal 
+growth is profoundly affected, with heights as low as −10 SD.
+It is worth noting that untreated children do not have a shortened 
+lifespan and have a lower-­than-­average risk for cancer.
+Defects in the post-­GH receptor signaling pathway can also cause 
+short stature. Several patients have been described with GH insensi­
+tive caused by a homozygous missense variant in the gene encoding 
+STAT5B protein, which is an essential component of the JAK-­STAT 
+signaling pathway that is activated by the GH receptor. These patients 
+have severe postnatal growth failure as well as immune disregulation 
+related to the role of STAT5B in the immune system.
+Variants in the gene encoding IGF-­1 cause profound prenatal 
+as well as postnatal growth failure. Complete absence of IGF-­1 is 
+probably lethal in humans, but individuals have been described with 
+deletions in the IGF-­1 gene causing partial loss of function. These 
+patients also have microcephaly, significant developmental delay, and 
+hearing loss.
+IGF-­1 is carried in the bloodstream primarily as part of a ternary 
+complex with IGFBP3 and ALS. ALS deficiency leads to low circulat­
+ing IGF-­1 levels (probably via accelerated IGF-­1 metabolism) and leads 
+to mild short stature and pubertal delay.
+IGF-­1 receptor variants are extremely rare in liveborn babies and 
+present with profound prenatal and postnatal growth failure. These 
+children may have normal or only mildly abnormal cognitive develop­
+ment. Unlike the other GH insensitivity syndromes, circulating levels 
+of IGF-­1 are normal or elevated in these patients.
+All forms of GH insensitivity (except rare IGF-­1 receptor defects) 
+lead to IGF-­1 deficiency. The FDA has approved treatment of these dis­
+orders with recombinant IGF-­1 in cases where height and IGF-­1 lev­
+els are more than 3 SD below the mean, with elevated or normal GH 
+levels, and no response to GH therapy. Commercial availability of this 
+product has varied and obtaining supplies for therapy may sometimes 
+be a problem.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1082
+SECTION 11  Endocrine and Metabolic Disorders
+HYPOTHYROIDISM
+Hypothyroidism impairs linear growth (Fig. 56.7). Thyroid deficiency 
+may be congenital or acquired (Fig. 56.8). In view of the usefulness of 
+neonatal thyroid screening programs, it is very uncommon for congen­
+ital hypothyroidism to go untreated and cause short stature.
+Acquired hypothyroidism in children usually results from auto­
+immune thyroiditis. Children with Turner syndrome, Down syn­
+drome, Klinefelter syndrome, celiac disease, or diabetes mellitus are at 
+increased risk for autoimmune hypothyroidism, as are children with a 
+family history of autoimmune disease. Acquired hypothyroidism tends 
+to manifest most commonly in older children and teenagers. Often 
+there are few complaints except for slow growth (after previously nor­
+mal growth), weight gain, a goiter, or a combination of these. Other 
+symptoms (dry hair or skin, constipation, cold intolerance) are less 
+common. Postmenarchal females may have menorrhagia, amenor­
+rhea, or, in rare cases, galactorrhea. School performance is generally 
+not impaired. On physical examination, the major features are a height 
+suggestive of deceleration from the previous growth curve, a goiter, and 
+relative obesity (weight age > height age). The physical examination 
+may also reveal bradycardia, dry hair or skin, and delayed reflexes.
+In acquired hypothyroidism, the laboratory test results include a high 
+level of TSH and a low or low-­normal T4 level or free thyroxine level 
+(FT4). The presence of positive thyroid antibodies (antithyroperoxidase 
+and antithyroglobulin antibodies) is consistent with autoimmune thy­
+roiditis. The bone age is often significantly delayed in hypothyroidism.
+Central hypothyroidism is uncommon. In the newborn period it 
+usually (but not always) presents as a component of MPHD with TSH 
+levels that are normal or even mildly elevated but that are inappropri­
+ately low for the decreased T4 level. Acquired central hypothyroidism is 
+usually due to known injury to the anterior pituitary (e.g., central ner­
+vous system [CNS] tumors, granulomas, irradiation, head trauma) and 
+is associated with other pituitary hormone deficiencies. In practice, it is 
+much more common to see low T4 and normal or mildly elevated TSH 
+levels in children who have another illness and have the syndrome of 
+nonthyroidal illness (NTI) (previously known as euthyroid sick syn­
+drome) leading to temporarily abnormal thyroid function tests.
+The treatment of hypothyroidism is thyroid replacement therapy 
+(l-­thyroxine).
+Glucocorticoid Excess (Cushing Syndrome)
+Cushing syndrome results from excessive levels of glucocorticoids. 
+Whether endogenous or exogenous, glucocorticoids markedly stunt 
+growth. In general, because such conditions are acquired, the history 
+reveals a child previously growing well whose growth velocity slows. 
+The child typically continues to gain weight at a rapid rate, even though 
+linear growth is attenuated. This is in contrast to exogenous obesity, 
+in which affected children tend to grow at normal or rapid rates. The 
+history may indicate that the child was treated with oral, topical (espe­
+cially with occlusive dressings), or intradermal glucocorticoids at high 
+doses or for long durations. Alternate-­day oral glucocorticoids are 
+much less likely to attenuate growth than are daily doses. Cushing syn­
+drome is very unlikely with inhaled corticosteroids (ICSs), but a small 
+effect on linear growth may be seen with the use of high-­potency ICSs.
+Physical findings in endogenous Cushing syndrome may include 
+acne, virilization, and increased appetite. Hyperpigmentation may 
+occur when Cushing syndrome is secondary to excessive ACTH levels. 
+This may be caused by ACTH from a pituitary tumor (Cushing dis­
+ease) or (less commonly) from a nonpituitary source (ectopic ACTH 
+syndrome).
+The physical examination usually reveals short stature with relative 
+obesity. Many affected children have the moon face and plethora char­
+acteristic of Cushing syndrome. A buffalo hump, large purple striae, 
+acne, and hypertension may also be present. Marked virilization is 
+worrisome because it may indicate an adrenal tumor.
+The diagnosis of endogenous Cushing syndrome is based on demon­
+strating abnormally high glucocorticoid production (on 24-­hour urine 
+sample for free cortisol, normalized to creatinine) and failure to sup­
+press cortisol production adequately in response to exogenous gluco­
+corticoid. A screening test for capacity to suppress cortisol secretion in 
+response to exogenous glucocorticoid is the overnight dexamethasone 
+suppression test. This involves the child taking 0.3 mg/m2 of dexameth­
+asone at 11:00 p.m. (the standard dose of dexamethasone in adults is 1 
+mg), followed by a measurement of circulating cortisol the following 
+morning; a normal cortisol level after dexamethasone suppression is 
+<2 mcg/dL (<55 nmol/L). False-­positive results may occur in the set­
+ting of obesity, chronic illness, or stress. If the child shows biochem­
+ical evidence of Cushing syndrome, further investigations, including 
+CT, MRI, and measurement of ACTH levels, are needed to determine 
+whether a pituitary tumor (commonest cause), an adrenal tumor, or 
+ectopic ACTH production is present. Exogenous Cushing syndrome 
+is usually evident from the history and physical examination results.
+Treatment involves the removal of excess glucocorticoids by either 
+reducing or discontinuing exogenous steroids if medically feasible or, 
+in the case of endogenous hypercortisolism caused by a pituitary or 
+adrenal tumor, by surgery.
+Genetic Causes of Short Stature
+A large number of single gene defects and copy number variants are 
+known to be associated with short stature (see Table 56.7). Some of 
+4
+5
+10
+15
+18
+Age (Yr)
+95
+50
+5
+B
+A
+130
+170
+150
+Height (cm)
+C
+Fig. 56.7  Patterns of linear growth. Normal growth percentiles (5th, 
+50th, 95th) are shown along with typical growth curves for constitu­
+tional delay of growth and adolescence (A), familial short stature (B), 
+and acquired pathologic growth failure (C) (e.g., acquired primary hypo­
+thyroidism). (From Styne DM. Endocrine disorders. In: Behrman RE, 
+Kliegman RM, eds. Nelson Essentials of Pediatrics. 2nd ed. Philadel­
+phia: WB Saunders; 1994:616.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1083
+CHAPTER 56  Short Stature
+them cause other abnormal physical findings (syndromic), but genetic 
+causes of short stature are also found in children who do not have any 
+other physical finding. Genes that have been found to be associated 
+with short stature include variants in PAPPA2, ACAN (aggrecan), 
+NPPC (C-­natriuretic peptide, CNP), NPR2 (CNP receptor), PTPN11 
+(and other RASopathies), FBN1, IHH, and BMP2. It is not routine 
+practice to obtain genetic tests in otherwise normal children with 
+short stature, but as technology progresses this may become standard 
+of care in the future. Several chromosomal aneuploidies are associated 
+with significant short stature, but apart from Turner syndrome and 
+Down syndrome, these are relatively uncommon causes of short stat­
+ure. Because of the relatively high prevalence of Turner syndrome, a 
+karyotype is indicated in the evaluation of all prepubertal females with 
+significant short stature.
+Turner Syndrome
+Turner syndrome is relatively common, with an incidence of 1 per 
+2,500 liveborn females, and is caused by the absence or abnormality 
+of an X chromosome. Short stature is the single most common physical 
+finding in Turner syndrome and may occur in the absence of any other 
+physical finding (Fig. 56.9). The mechanism by which short stature 
+occurs in Turner syndrome is multifactorial, but haplo-­insufficiency 
+(absence of one copy) of the Short Stature HomeoboX gene (SHOX) 
+is believed to play a major role. This gene is located within the pseudo-­
+autosomal region of the X chromosome, which escapes X-­inactivation 
+and is therefore normally expressed from both copies of the X chro­
+mosome. It is highly active in skeletal tissues and its absence in Turner 
+syndrome (where only one X chromosome is present, or if present, the 
+second X chromosome is abnormal) leads to haplo-­insufficiency and 
+causes severe short stature.
+Linear growth is only mildly affected in utero and birth size is 
+normal or near normal. By early childhood, marked short stature is 
+usually noted and there is progressive deviation of height away from 
+the normal growth curve. Linear growth is further attenuated during 
+the teenage years and mean adult height ranges from 142 cm to 146 
+cm in various populations. Even in females with Turner syndrome, 
+adult height is influenced by the height of the parents, and females 
+with Turner syndrome who are born to tall parents tend to be taller. 
+Breast enlargement and menses generally fail to occur as a result of 
+ovarian failure. However, the presence of pubertal development should 
+not deter consideration of the diagnosis because approximately 10% of 
+patients have some residual ovarian tissue rather than streak gonads. In 
+a few cases, even fertility has been reported.
+In addition to short stature and ovarian failure, there may be various 
+dysmorphic features, including webbed neck, low posterior hairline, 
+lymphedema beginning in the neonatal period (manifesting mainly as 
+puffy hands and feet), increased carrying angle of the arm, pigmented 
+nevi, short fourth metacarpals, nail abnormalities, and renal and car­
+diac anomalies (coarctation of the aorta). But any or all of these may be 
+absent and short stature may be the only abnormality in some females 
+with Turner syndrome (particularly in those with chromosomal mosa­
+icism, which can occur in up to a third of cases). Therefore, the absence 
+of dysmorphic features should not preclude consideration of Turner syn­
+drome in short females.
+A karyotype analysis is necessary to confirm or rule out the diag­
+nosis of Turner syndrome in any female with short stature of unknown 
+A
+B
+C
+Fig. 56.8  A, B, A 10-­year-­old boy with acquired hypothyroidism, before treatment. Note short stature, 
+immature body proportions, sleepy expression, generalized myxedema, and protuberant abdomen. C, After 
+4 months of thyroid hormone therapy, the child has grown, has lost myxedema, and has a bright facial 
+expression. (From Kaplan SA, ed. Clinical Pediatric and Adolescent Endocrinology. Philadelphia: WB Saun­
+ders; 1982:93.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1084
+SECTION 11  Endocrine and Metabolic Disorders
+origin. This should initially be performed on a blood sample, but if 
+there is a high index of suspicion, other tissues (such as a skin biopsy 
+for fibroblast analysis) should be screened due to the high prevalence 
+of mosaicism. Additional laboratory features may include abnormally 
+high levels of the gonadotropins, luteinizing hormone, and follicle-­
+stimulating hormone (FSH), which are indicative of ovarian failure; 
+however, levels may be normal in middle childhood because of normal 
+CNS suppression of gonadotropin secretion at that time.
+Although short stature in Turner syndrome is not believed to result 
+from GH deficiency, treatment of Turner syndrome with GH therapy 
+(typically in higher doses than those required for classical GH defi­
+ciency) increases final height and is recommended. Addition of low-­
+dose oxandrolone may further increase the growth of females with 
+Turner syndrome and is a useful adjunct in females who are diagnosed 
+relatively late and who may not reach a normal height with GH therapy 
+alone.
+Down Syndrome
+Short stature is a prominent feature in Down syndrome, but the mech­
+anism by which trisomy 21 causes impaired growth is not known. It is 
+independent of the hypothyroidism that may also occur in this condi­
+tion. Specific treatment for short stature is typically not recommended 
+in this condition.
+Prader-­Willi Syndrome
+Prader-­Willi syndrome (PWS) is characterized by hypotonia, failure 
+to thrive with poor suck during infancy, hypogonadism (manifested 
+as cryptorchidism in males), short stature with small hands and feet, 
+hyperphagia leading to morbid obesity beginning in early childhood, 
+developmental delay/intellectual disability, and behavioral issues, 
+including obsessive-­compulsive disorder. Average adult height is 147 
+cm (4 feet, 9 inches) in females and 155 cm (5 feet, 1 inch) in males. 
+PWS is caused by the absence or inactivity of a segment of the pater­
+nally inherited chromosome 15 (15q11.2-­13), whereas deletion of 
+the same chromosomal segment in the maternally inherited chro­
+mosome causes Angelman syndrome. It is thus a classic example of 
+genomic imprinting, a phenomenon in which the expression of a gene 
+or genomic region differs depending on the chromosome’s parent of 
+origin.
+PWS may be due to a deletion of the PWS region of the paternal 
+chromosome (about 65% of cases) or the inheritance of two complete 
+copies of the maternal chromosome 15 and the absence of the pater­
+nal chromosome (a condition labeled maternal uniparental disomy, 
+responsible for 30–35% of the cases). In about 2% of the cases it appears 
+to be due to a defect in the imprinting center rather than the absence 
+of the paternal genes. DNA methylation probes will detect almost 
+all cases by revealing whether the patient has maternal and paternal 
+methylation patterns (normal), absence of the paternal pattern (caus­
+ing PWS), or absence of the maternal pattern (causing Angelman syn­
+drome). Further genetic testing is then needed to determine whether 
+the cause is a deletion, a disomy, or an imprinting center defect.
+Early treatment with GH increases final height, and it also improves 
+body composition and the achievement of developmental milestones. 
+It may also decrease the incidence of morbid obesity. For these reasons, 
+most authorities consider early treatment with GH (starting between 
+4 months and 2 years of age) to be standard of care in PWS. Because 
+of some reports of possible increase in the rate of sudden death from 
+upper airway obstruction in the first months of treatment, a sleep study 
+and/or an ear, nose, and throat (ENT) consult may be recommended 
+before initiating treatment, with the sleep study repeated 6–12 weeks 
+after starting treatment and annually thereafter.
+Russell-­Silver Syndrome/Silver-Russell Syndrome
+Russell-­Silver syndrome is characterized by severe IUGR that persists 
+in postnatal life. These children have proportionate short stature, a nor­
+mal head circumference, triangular facies, downturned corners of the 
+mouth, and a prominent forehead. A clinical diagnosis is made when 
+the presence of four or more of the Netchine-­Harbison criterion are 
+present (Table 56.8). Molecular testing only identifies a causal varia­
+tion in 60% of cases. Other features may include fifth finger clinodac­
+tyly, multiple café-­au-­lait macules, fasting hypoglycemia, and excessive 
+sweating. These children usually have feeding difficulties and may 
+exhibit mild developmental delay.
+Russell-­Silver syndrome is associated with methylation abnor­
+malities in an imprinting control region on the paternal chromosome 
+11p15.5 in ~60% of subjects. In another 10% it is caused by maternal 
+uniparental disomy of chromosome 7 (absence of the paternal chro­
+mosome 7). Rare sequence variants can be seen involving the genes 
+Fig. 56.9  Five different females with 45,XO syndrome illustrating the variability of features such as webbed 
+neck and broad chest. (From Lemli L, Smith D. The XO syndrome. A study of the differentiated phenotype in 
+25 patients. J Pediatr. 1963;63:577–588.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1085
+CHAPTER 56  Short Stature
+IGF2, CDKN1C, PLAG1, and HMGA2. No genetic cause is identified in 
+up to 40% of remaining children and the diagnosis is based on clinical 
+criteria. Treatment with GH increases height, but the doses required 
+may be higher than average because of some element of GH resistance.
+Short Stature HomeoboX (SHOX) Gene Variants
+The short stature homeobox (SHOX) gene is located within the pseu­
+doautosomal region of the X and Y chromosomes. This region escapes 
+X-­inactivation and so it is normally expressed from both X chromo­
+somes in females. In males the gene is expressed from the X as well 
+as the Y chromosomes. Haplo-­insufficiency of the SHOX gene (vari­
+ants affecting one copy of the gene) leads to short stature that may be 
+associated with other skeletal findings such as the Madelung deformity 
+(a dinner fork deformity of the distal forearm and wrist), mesomelia 
+(shortening of the forearm and leg), cubitus valgus, and dislocation of 
+the ulna. The combination of short stature and several of the aforemen­
+tioned significant skeletal abnormalities is labeled Leri-­Weill dyschon­
+drosteosis and is more common in females (ratio 4:1). In other cases, 
+the skeletal abnormalities may be relatively subtle and isolated short 
+stature may be the only notable finding.
+Screening for SHOX gene variants is reserved for children with 
+any combination of the following physical findings: increased U/L, 
+reduced arm span/height ratio, increased sitting height/height ratio, 
+above-­average body mass index, Madelung deformity, cubitus val­
+gus, short or bowed forearm, dislocation of the ulna at the elbow, or 
+the appearance of muscular hypertrophy. In otherwise short chil­
+dren who do not have any of these associated findings, the yield 
+from testing for SHOX variants is very low. Treatment with GH can 
+increase final height, though higher-­than-­average doses may be 
+required.
+Noonan Syndrome
+Noonan syndrome has an incidence of 1 in 1,000–2,500 live births. 
+Molecular testing of the 13 genes known to be causally associated 
+with Noonan syndrome identifies a pathogenic variant in PTPN11 in 
+50% of affected individuals; SOS1 is the next most frequent seen in 
+approximately 13%, while RAF1, RIT1, and KRAS are seen in approx­
+imately 5% each, respectively. The remaining genes are noted in fewer 
+than 1% of cases. They include BRAF, LZTR1, NRAS, PPP1CB, MRAS, 
+SHOC2, RRAS2, and SOS2. In about 20% of the patients, no casually 
+associated pathogenic variant is detected. One of the reasons for this is 
+that RAS-­related disorders are known to have a relatively high degree 
+of somatic mosaicism. The syndrome is characterized by minor facial 
+dysmorphism (hypertelorism, downward eye slant, and low-­set ears), 
+proportionate short stature, and right-­sided heart disease, most often 
+pulmonic stenosis and hypertrophic cardiomyopathy. Other common 
+findings include a short, webbed neck; chest deformity (pectus exca­
+vatum); cryptorchidism; intellectual disability; bleeding diathesis; and 
+lymphedema. GH therapy is recommended to treat short stature asso­
+ciated with Noonan syndrome and is an FDA-­approved indication for 
+the use of GH.
+Malnutrition
+Worldwide, malnutrition resulting from poverty is still the common­
+est cause of short stature. In North America, malnutrition may arise 
+from inadequate intake secondary to poverty or deprivation, poor 
+intake secondary to overt or occult chronic illness (e.g., inflammatory 
+bowel disease, renal failure), or inability to utilize food intake (mal­
+absorption). In all these conditions, weight tends to be depressed to 
+a greater degree than height. The history should include review of the 
+child’s food intake (often best obtained by a 3-­day diet record), appe­
+tite, and detailed review of systems. Specific nutritional disorders, such 
+as rickets, may also lead to short stature. Appropriate treatment leads to 
+acceleration of linear growth, typically lagging a few weeks or months 
+behind weight gain. Catch-­up growth occurs but may not compensate 
+for all of the lost height potential in longstanding cases, leading to a 
+permanent height deficit.
+Chronic Illness
+Chronic illnesses, such as inflammatory bowel disease, celiac disease, 
+renal dysfunction, and chronic inflammation, can lead to short stat­
+ure. The mechanisms of impaired growth include poor appetite or 
+poor intake (inflammatory bowel disease, renal dysfunction), mal­
+absorption (celiac disease), medications (chronic glucocorticoids for 
+severe asthma), chronic acidosis (renal tubular acidosis), and second­
+ary endocrine dysfunction (GH resistance associated with systemic 
+inflammation). Although the primary disorder is evident in many 
+cases, short stature is sometimes the presenting feature of the chronic 
+disease. This occurs notably in inflammatory bowel disease, celiac dis­
+ease, and renal dysfunction.
+Gastrointestinal Disease: Children usually have a greater deficit in 
+weight than height. Gastrointestinal symptoms are frequently present, 
+but short stature alone may be the initial presentation of celiac disease 
+and inflammatory bowel syndrome. The growth failure in inflamma­
+tory bowel disease is due to a combination of decreased food intake, 
+malabsorption, and the inflammatory process (mediated by proin­
+flammatory cytokines). This may be further aggravated by the use of 
+high-­dose glucocorticoids for treatment. GH therapy has been shown 
+to increase height velocity in some small trials in inflammatory bowel 
+disease, but no consensus exists yet about its role in these children. 
+Celiac disease responds to a gluten-­free diet and height velocity nor­
+malizes with adequate treatment.
+Renal Disease: Children with chronic kidney disease may develop 
+growth failure due to chronic metabolic acidosis, uremia, poor nutri­
+tion, anorexia, anemia, calcium and phosphorus imbalance, renal 
+osteodystrophy, and impairment of GH action. It may also be aggra­
+vated by the use of high-­dose glucocorticoids. GH therapy is recom­
+mended for children with profound growth failure and is typically 
+continued until renal transplantation.
+Pulmonary Disease: Growth failure in cystic fibrosis is secondary 
+to both its pulmonary and gastrointestinal manifestations. Chronic 
+infection and systemic inflammation contribute to short stature.
+TABLE 56.8  Netchine-­Harbison Clinical 
+Scoring System (NH-­CSS) for Silver-­Russell 
+Syndrome
+Small for gestational age (birthweight and/or length ≥2 standard deviations 
+(SD) below the mean for gestational age)
+Postnatal growth failure (length/height ≥ SD below the mean at 24 mo)
+Relative macrocephaly at birth (head circumference >1.5 SD above 
+birthweight and/or length)
+Frontal bossing or prominent forehead (forehead projecting beyond the facial 
+plane on a side view as a toddler [1–3 yr])
+Body asymmetry (limb length discrepancy ≥0.5 cm, or <0.5 cm with two or 
+more other asymmetric body parts)
+Feeding difficulties or body mass index ≤2 SD at 24 mo or current use of a 
+feeding tube or cyproheptadine for appetite stimulation
+A score of 4 or more indicates a high likelihood for clinical diagnosis 
+and molecular testing is warranted. Adapted from Aziz S, et al. A pro­
+spective study validating a clinical scoring system and demonstrating 
+phenotypical-­genotypical correlations in Silver-­Russell syndrome. J Med 
+Genet. 2015;52(7):446–453.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1086
+SECTION 11  Endocrine and Metabolic Disorders
+Severe asthma may interfere with growth directly as well as via the 
+effect of glucocorticoid therapy. Daily use of systemic glucocorticoids 
+for any significant length of time will lead to growth suppression, but 
+potent ICSs may also have noticeable systemic effects in some cases 
+(probably due to individual differences in technique and sensitivity). 
+Alternate-­day dosing and drug holidays can reduce this risk of growth 
+suppression from oral corticosteroids. In the case of ICSs, the use of 
+the minimum effective potency and dose may help ameliorate systemic 
+effects in children who exhibit signs of growth failure.
+Immunodeficiencies: Both congenital and acquired immunode­
+ficiencies (HIV infection) are associated with growth failure. Mech­
+anisms include anorexia, malabsorption, diarrhea, chronic infection, 
+and systemic inflammation. Diagnosis is usually evident but an occa­
+sional child with common variable immune deficiency may present 
+with growth failure before clues in the history and physical exam­
+ination lead to an evaluation of immune status. Successful treatment 
+of the underlying disease will usually lead to an improvement in 
+growth.
+In most of these systemic illnesses, the history typically reveals 
+that the child had been growing normally until some point. Then 
+the growth rate slowed, which is suggestive of onset of an illness. The 
+history may reveal a clear earlier diagnosis of chronic illness or may 
+include symptoms suggestive of the underlying disorder (e.g., loss of 
+appetite, diarrhea, mouth sores, and fever). The physical examination 
+typically shows that the weight is more depressed than the height, but 
+typically head circumference is preserved. If there is microcephaly, 
+a primary genetic etiology should be considered. There may also be 
+features indicative of the underlying disorder (e.g., pallor in anemia, 
+perianal findings in Crohn disease).
+Laboratory studies that screen for chronic illness (CBC, ESR, chem­
+istry profile, UA) may at times provide clues to the diagnosis. Screen­
+ing for celiac disease with tissue transglutaminase immunoglobulin A 
+(IgA) antibody testing may be indicated, especially if failure to thrive 
+appears after a period of normal growth or if weight is affected more 
+than height. If indicated by the clinical features and/or screening labo­
+ratory studies, definitive diagnosis requires directed tests (e.g., endos­
+copy and biopsy for inflammatory bowel disease or celiac disease, 
+sweat chloride test for cystic fibrosis).
+The management of these conditions rests on specific therapy 
+directed at the underlying condition (e.g., gluten-­free diet for celiac 
+disease). When the disease is adequately treated, the growth rate often 
+improves but catch-­up growth may not compensate for all of the lost 
+height potential in long-standing cases, leading to a permanent height 
+deficit. GH therapy may be indicated if the height deficit is severe and is 
+unlikely to correct with treatment of the underlying disease alone. GH 
+is specifically approved for the treatment of short stature in children 
+with renal insufficiency.
+Emotional Deprivation
+Deprivation can stunt growth in two ways. First, a child may be 
+deprived of food (an example of malnutrition); in this case, the child’s 
+weight is generally depressed more than the height. Second (and more 
+rarely), a child who is emotionally deprived (and emotional depri­
+vation, rather than actual physical abuse, seems to be key) may have 
+profound short stature without apparent malnutrition (psychosocial 
+dwarfism). In this case, the height is depressed more than the weight 
+(Fig. 56.10). Such a child may (in some but not all cases) have the clini­
+cal features of GH deficiency and may in fact show laboratory evidence 
+of hypopituitarism. But when placed in a more nurturing environment, 
+the child grows markedly, and the GH levels revert to normal. This dis­
+order may be difficult to diagnose, and the social history is critical. The 
+diagnosis ultimately rests on significant improvement of growth once 
+the environment improves.
+Iatrogenic Causes
+Treatments for medical conditions may secondarily impair growth. 
+The classic example is glucocorticoids. This is obviously a risk with 
+prolonged systemic steroid use but even inhaled or topical steroids 
+(especially if used over a wide area or under occlusive cover) may sup­
+press growth. A significant proportion of the dose of ICSs is depos­
+ited in the oral cavity and oropharynx and after being swallowed is 
+absorbed via the gastrointestinal tract. Much of this is metabolized to 
+inactive metabolites in the liver (first-­pass metabolism), but some still 
+escapes inactivation and may have systemic effects. Systemic effects 
+are generally mild, but long-­term studies show that high-­potency ICSs 
+(budesonide, fluticasone) do have a small but measurable impact on 
+linear growth. The final adult height may be decreased by 1–2 cm in 
+long-­term users of ICSs. Since poorly controlled asthma is a serious 
+condition and may have an even bigger impact on growth, this rela­
+tively small effect should not prevent the use of ICSs in asthmatics who 
+need it. But an occasional child may have more significant slowing of 
+growth based on individual differences in sensitivity, metabolism, and 
+technique, and this possibility should be kept in mind as a possible 
+cause of slow growth.
+Spinal irradiation for treatment of malignancies may stunt growth 
+by limiting further spinal growth; this is associated with a high U/L. 
+Treatments for hyperactivity (sympathomimetic agents suppress 
+appetite) may interfere with growth and cause a small but measurable 
+decrease in final height in some children.
+BONE DYSPLASIAS
+Skeletal dysplasias constitute a broad group of genetic disorders in 
+which there is innate failure of normal bone or cartilage development. 
+S
+T
+A
+T
+U
+R
+E
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+62
+42
+44
+46
+48
+60
+58
+52
+54
+56
+in
+30
+32
+34
+36
+38
+40
+80
+85
+90
+95
+100
+105
+110
+115
+120
+125
+130
+135
+140
+150
+155
+AGE (YEARS)
+cm
+in
+cm
+11
+12
+3
+2
+4
+5
+6
+7
+8
+9
+10
+145
+50
+160
+Fig. 56.10  Growth chart of a boy with deprivation dwarfism (psychoso­
+cial dwarfism). Between ages 6 and 87/12 years, he had chemical evi­
+dence of growth hormone (GH) deficiency. After placement in a chronic 
+care facility (arrow), his growth rate improved markedly, and his GH levels 
+reverted to normal. NCHS, National Center for Health Statistics. (From 
+Styne DM. Growth. In: Greenspan FS, Forsham PH, eds. Basic and Clini­
+cal Endocrinology. 3rd ed. Los Altos, CA: Appleton & Lange; 1991.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1087
+CHAPTER 56  Short Stature
+There are 461 unique skeletal disorders classified into 42 groups 
+(see Table 56.4).
+Abnormal body proportions are characteristic of these conditions (dis­
+proportionate short stature), although there are some exceptions. Bone 
+ages are not reliable indicators of osseous maturity in these conditions.
+Achondroplasia
+Achondroplasia is the classic example of an osteochondrodystrophy 
+(Fig. 56.11). The incidence is 1 per 20,000. This condition is caused by 
+the autosomal dominant pathogenic variant p.Gly380Arg in the fibro­
+blast growth factor receptor 3 (FGFR3) in 98% of cases; approximately 
+80% are due to de novo variation (i.e., spontaneous new pathogenic 
+variant in offspring). Short stature, body disproportion with short 
+limbs, hypotonia, and a relatively large head with midface hypoplasia 
+are often noted at birth. Progressive deceleration of growth rate begins 
+in infancy, and the humerus and femur are particularly shortened (rhi­
+zomelia, i.e., proximal shortening of the limbs). The hands may show 
+a three-­pronged configuration (trident hand). In addition, there may 
+be hydrocephalus as a result of narrowing of the foramen magnum, 
+kyphosis, stenosis of the spinal canal, and vertebral disk lesions. The 
+diagnosis is clinical and is supported by characteristic radiologic fea­
+tures that include small cuboid vertebral bodies and anterior beaking 
+of the first or second lumbar vertebra. The average adult height is 
+125 cm (4 feet, 1 inch) in girls and 131 cm (4 feet, 3 inches) in boys. 
+Treatment with an agent that antagonizes the gain-­of-­function effect 
+on chondrocyte maturation results in an increased annualized growth 
+velocity. Longitudinal studies are ongoing to determine the impact on 
+the foramen magnum and risk for spinal stenosis.
+Hypochondroplasia
+Hypochondroplasia is an allelic variant of achondroplasia and mani­
+fests with short stature and dysmorphic features that are often milder 
+than in achondroplasia. In particular there are few craniofacial abnor­
+malities, and body disproportion may be subtle. Newborns may be 
+slightly small, but short stature generally becomes apparent by age 3 
+years. The short stature is minimally disproportionate with relatively 
+short limbs. The hands and feet are usually stubby. Genu varum may 
+occur. Radiologic hallmarks include metaphyseal indentation and flar­
+ing as well as hypoplasia of the ilia with small greater sciatic notches. 
+Some reports suggested a beneficial effect of GH but this remains a 
+nonstandard indication for GH treatment.
+Spondyloepiphysial dysplasias are a heterogeneous group of dys­
+plasias that primarily affect the epiphyses and the vertebral bodies. 
+Most forms are characterized by short-­trunk dwarfism (preferential 
+shortening of the trunk as compared with the extremities) and vertebral 
+anomalies. These conditions may lead to spinal cord compression due 
+to subluxation of the cervical spine. GH therapy is not recommended.
+Osteogenesis Imperfecta
+Moderate and severe forms of osteogenesis imperfecta are associated 
+with proportional short stature. The diagnosis is typically made on the 
+basis of bone fragility and fractures; short stature is not a presenting 
+feature.
+EVALUATING THE CHILD WITH SHORT STATURE
+Statistically, most children with short stature will turn out to have one 
+of the normal variant causes of short stature (familial short stature or 
+constitutional delay) or will have ISS. An extensive evaluation will not 
+reveal a specific cause in most patients. On the other hand, short stat­
+ure in general and growth failure in particular may be the first sign of 
+serious systemic disease or endocrine disorder and appropriate evalua­
+tion is essential to make the correct diagnosis. It is best to start the eval­
+uation with a thorough history (including a family history and direct 
+A
+B
+Fig. 56.11  Achondroplasia. A, One-­year-­old boy with height age of 4 months.B,Four-­year-­old girl with height 
+age of 20 months. (A, From Smith DW. Compendium on shortness of stature. J Pediatr. 1967;70:504; B, from 
+Jones KL, ed. Smith’s Recognizable Patterns of Human Malformation. 4th ed. Philadelphia: WB Saunders; 
+1988.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1088
+SECTION 11  Endocrine and Metabolic Disorders
+measurement of the heights of both parents if possible) and physical 
+examination (including careful measurement and plotting of height on 
+appropriate growth charts) and then order laboratory tests and imag­
+ing studies based on this evaluation and specifically tailored to the par­
+ticular child instead of simply ordering a certain panel of tests on every 
+child with short stature.
+At the first contact with a short child, the physician usually does 
+not know if the height velocity is also abnormal. If the initial history 
+and examination do not indicate that a specific cause may be present, 
+it is best to schedule a second visit in 4–6 months to reassess the height 
+and to accurately measure the height velocity. But if the initial history 
+and examination indicate possible pathology, or if the short stature is 
+unusually severe (more than 2.5 SD below the mean is a good cut-­off), 
+then some immediate lab tests and a bone-­age X-­ray may be performed 
+at the first visit.
+At any stage, the finding of a subnormal growth velocity is more con­
+cerning than the finding of short stature. Normal growth variants are not 
+characterized by a subnormal growth velocity, and (barring mismea­
+surement) a growth rate below the normal range is a cause of concern 
+and should trigger an evaluation. A figure of 5 cm per year is frequently 
+used as a rough measure of the minimum height velocity in childhood 
+(after age 3), though strictly speaking, normal height velocity may be as 
+low as 4 cm per year for boys and 4.5 cm per year for girls in children 
+between age 6 and puberty.
+Initial screening labs should include an IGF-­1 level (to assess GH 
+secretion), a TSH (to evaluate the thyroid gland), and a bone-age 
+X-­ray to assess bone maturation and obtain an estimate of the final 
+adult height. A CBC (to rule out anemia) and a creatinine level (to 
+assess renal function) as well as an ESR or CRP to identify systemic 
+inflammation may be indicated as well. A karyotype is mandatory in 
+any female with significant short stature because of the possibility of 
+Turner syndrome. Beyond that, the testing will be guided by the his­
+tory, the physical examination, and the results of initial screening labs.
+IMPORTANT CONSIDERATIONS IN THE HISTORY
+Pregnancy and Birth History
+Did the mother have illnesses or take medication during the pregnancy? 
+Maternal illness or use of certain drugs can cause poor fetal growth.
+What was the birthweight and length? IUGR may lead to continu­
+ing small stature.
+Did the baby have perinatal problems such as unexplained hypogly­
+cemia, prolonged jaundice, or, in males, a small phallus? These are all 
+suggestive of congenital GH deficiency.
+Did the neonate have other perinatal problems (birth asphyxia, 
+puffy extremities)? These may provide clues to the underlying cause of 
+short stature (significant hypoxia may lead to hypopituitarism; puffy 
+extremities in a female are suggestive of Turner syndrome).
+Infancy and Childhood
+What was the child’s growth pattern? The child who is short but grow­
+ing at a normal rate and paralleling the 3rd percentile is more likely to 
+have familial or constitutional short stature. The child whose height 
+deviates progressively away from the normal curve (especially after 24 
+months of age) is much more likely to have an underlying medical dis­
+order. When this progressive deviation occurs from early childhood 
+and continues, it often represents a congenital disorder (e.g., Turner 
+syndrome, congenital GH deficiency). However, growth attenuation 
+that occurs after a sustained period of normal growth suggests that a 
+disorder has been acquired (e.g., acquired GH deficiency, inflamma­
+tory bowel disease).
+What were the child’s developmental milestones? How is the 
+school performance? Slow development or poor school performance 
+may indicate a central disorder or may represent part of a syndrome 
+(e.g., PWS). Hypothyroidism acquired after age 3 years usually does 
+not interfere with school performance, although inadequately treated 
+congenital hypothyroidism often leads to intellectual impairment. This 
+question may also elicit a history of emotional problems.
+Has the child had any serious illnesses or been on medication? 
+Chronic illness often impedes growth, as do certain medications (glu­
+cocorticoids). A history of nonendocrine medical problems may also 
+provide clues to the underlying disorder (e.g., the presence of aortic 
+coarctation may be suggestive of Turner syndrome).
+Review of Systems
+How is the child’s appetite? What does the child eat in a typical 3-­day 
+period (often best described by a formal diet record)? Adequate caloric 
+intake is needed for growth. Inadequate intake may be a symptom of 
+underlying chronic disease.
+Does the child have abdominal pain, diarrhea, unexplained fevers, 
+mouth or anal sores, or joint pain? These symptoms suggest occult 
+inflammatory bowel disease.
+Does the child have neck swelling, lethargy, constipation, cold 
+intolerance, or weight gain without much increase in height? These are 
+among the symptoms of acquired hypothyroidism.
+Does the child have headaches, vomiting, or visual disturbances? 
+Symptoms of CNS dysfunction, raised intracranial pressure, or both 
+suggest the possibility of acquired hypopituitarism in association with 
+a central lesion such as a tumor or hydrocephalus.
+Has the child begun pubertal development? Puberty influences 
+growth. Children with constitutional delay in growth and development 
+have delayed puberty and often have an exaggerated nadir of growth 
+velocity before puberty begins. However, the more puberty is delayed, 
+the greater the likelihood of a medical disorder such as hypogonad­
+ism. Delayed puberty may also be a manifestation of hypogonadism 
+(Turner syndrome), or it may be secondary to a growth-­impeding 
+disorder (hypothyroidism, malnutrition, chronic illness). Precocious 
+puberty is not a cause of growth failure (it should accelerate growth), but 
+it may lead to short final adult height because of premature fusion of the 
+epiphyses.
+Family History
+What were the heights of parents and other family members at the child’s 
+age, and when did they undergo puberty? What are the current heights of 
+parents and family members? The most frequent causes of short stature 
+are familial short stature and constitutional delay in growth and devel­
+opment. In the former, a family history of short stature is elicited. In the 
+latter, a family history of delayed puberty is elicited.
+Physical Examination
+Height and weight should each be plotted carefully on growth charts. 
+The degree of short stature in relation to peers is ascertained. Previous 
+height measurements provide an index of the child’s pattern of growth. 
+Weight that is depressed more than height in a short child is suggestive 
+of chronic illness or malnutrition. In contrast, a child who is short but 
+chubby is more likely to have an endocrine disorder or syndrome (e.g., 
+GH deficiency, hypothyroidism, Cushing syndrome, PWS).
+Exogenous obesity is usually associated with relatively tall stature. 
+Disproportionate short stature is characteristic of skeletal dysplasias 
+(short limbs in the case of achondroplasia and hypochondroplasia, 
+short trunk in some rare forms of skeletal dysplasia) and may also be 
+seen in long-standing hypothyroidism.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1089
+CHAPTER 56  Short Stature
+The presence of dysmorphic features is often suggestive of a syn­
+drome or genetic disorder (e.g., Turner syndrome, Noonan syndrome). 
+Midline craniofacial defects are suggestive of hypopituitarism.
+Goiter, delayed dentition, bradycardia, dry hair or skin, or delayed 
+reflexes may be suggestive of hypothyroidism.
+Cherubic or doll-­like appearance, high-­pitched voice, delayed den­
+tition, poor musculature, or relative adiposity may be suggestive of GH 
+deficiency.
+Bitemporal hemianopsia, papilledema, optic atrophy, or accelerat­
+ing head circumference in a young child is suggestive of a CNS abnor­
+mality (craniopharyngioma) causing hypopituitarism.
+The stage of puberty is noted. Delayed puberty is compatible with 
+constitutional delay in growth and development, hypogonadism, pan­
+hypopituitarism, severe hypothyroidism, or chronic illness.
+THERAPEUTIC OPTIONS
+Specific Treatment of the Primary Disorder
+If a child is found to have a clear medical condition causing short stat­
+ure and for which treatment is available (e.g., hypothyroidism, GH 
+deficiency), the appropriate treatment (thyroid replacement therapy 
+or GH therapy, respectively) improves growth markedly as long as the 
+epiphyses remain open. Often, such children experience accelerated 
+(catch-­up) growth for some time after appropriate treatment is insti­
+tuted. Complete compensation for growth failure is unlikely to occur if 
+the disorder was many years in duration or occurred very close to the 
+onset of normal puberty.
+Sex Steroids
+Sex steroid treatments may be administered to adolescents with consti­
+tutional delay of growth and development. Males with delayed puberty 
+may be treated with testosterone enanthate or cypionate (50–100 mg/
+mo intramuscularly or subcutaneously for 3–6 months; smaller doses 
+given more frequently may be more physiologic and are preferred by 
+some practitioners) to gradually bring about secondary sexual char­
+acteristics and accelerated linear growth. This is often gratifying for 
+males and is usually followed by spontaneous pubertal development. 
+The low dose of testosterone is designed to avoid undue advancement 
+of bone age and loss of growth potential. Oxandrolone is a testos­
+terone derivative with less androgenic effects than testosterone, and 
+does not aromatize to estrogen, so theoretically it may be preferable to 
+depot-­testosterone injections. Several small studies report beneficial 
+effects of oxandrolone in males with constitutional delay of growth 
+and puberty. The usual dose is 2.5 mg daily for anywhere from 3 to 12 
+months. Giving oxandrolone (in addition to GH therapy) to females 
+with Turner syndrome leads to better height outcomes than GH alone, 
+so this is frequently done at around age 8–10 years in females who are 
+still well short of a normal height. Females with Turner syndrome who 
+started GH relatively early in life are less likely to require the addition 
+of oxandrolone. The usual dose is 0.03–0.05 mg/kg/day. Side effects at 
+this dose are rare, but signs of virilization should prompt a reduction 
+in dose.
+Estrogen
+Just as males with constitutional delay are treated with androgens, 
+females with pubertal delay and mild short stature may be treated with 
+a short course of estrogen therapy. However, benign constitutional 
+delay is less likely in females (who are more likely to have an underlying 
+pathologic cause such as Turner syndrome) and such treatment is rel­
+atively rare. If it is contemplated, care should be taken to exclude other 
+causes of pubertal delay and to use low doses of estrogens because 
+estrogens promote epiphyseal closure.
+Counseling
+Reassurance and counseling should be available for all patients. For many 
+children with familial short stature or constitutional delay in growth and 
+development, it is reassuring to be told that they are normal and are likely 
+to reach a normal adult height or one in keeping with the family heights. 
+This is particularly true for children with delayed puberty, in whom the 
+discrepancy in height in comparison with peers (who have gone through 
+their pubertal growth spurts) is disconcerting. It is helpful if parents do 
+not dwell on the child’s height but focus on the child’s strengths. Gym­
+nastics, wrestling, soccer, and swimming are often activities at which 
+short children are not at a disadvantage and in which they may excel.
+Growth Hormone Therapy
+There is a broad consensus for the use of GH therapy in children with 
+short stature caused by classical GH deficiency, Turner syndrome, 
+Noonan syndrome, SHOX haplo-­insufficiency, PWS, Russell-­Silver 
+syndrome, and chronic renal failure. Children who were born SGA 
+and fail to catch up to the normal range of height by age 2 (by age 4 
+in Europe) are also candidates for GH therapy. The FDA has approved 
+GH for children with ISS, but this treatment remains controversial and 
+the cost-­benefit ratio remains uncertain.
+Side effects of GH therapy include fluid retention that is usually 
+mild and tends to resolve with continued treatment. Mild headaches 
+are also common and are usually benign. Increased intracranial pres­
+sure (pseudotumor cerebri) is a rare but serious dose-­related side 
+effect. It usually resolves if treatment is stopped, and after resolution, 
+treatment can frequently be restarted at a lower dose. The incidence of 
+slipped capital femoral epiphyses is increased and scoliosis may be 
+worsened during GH therapy, likely secondary to accelerated growth. 
+GH-­neutralizing antibodies may appear but are rarely of clinical signif­
+icance. GH can accelerate the growth of existing nevi and can induce 
+insulin resistance, but this does not appear to be clinically significant.
+Because of its growth-­promoting effects, there has long been con­
+cern about a possible increase in the incidence of cancer. No significant 
+increase in common childhood cancers has been noted yet in surveil­
+lance studies, but (somewhat unexpectedly) in one French study (the 
+Safety and Appropriateness of Growth hormone treatments in Europe 
+[SAGhE] study) the group treated with GH had a standardized mor­
+tality ratio (SMR) of 1.33 (95% confidence interval [CI], 1.08–1.64) 
+compared to controls. Cardiovascular disease was responsible for most 
+of the excess mortality. Although all-­type cancer-­related mortality 
+was not increased in the French cohort, bone tumor–related mortality 
+was increased. There were weaknesses in the design of this study and 
+a smaller study from Belgium, the Netherlands, and Sweden did not 
+show the same results, but the study did raise concerns about long-­
+term safety. More long-­term follow-­up data is being collected to deter­
+mine the true long-­term safety profile of GH. Until more information 
+becomes available, most authorities do not recommend any changes in 
+current practice, but this may change if new studies reveal new hazards. 
+It should be kept in mind that GH therapy on a large scale did not begin 
+until 1985, so even the earliest treated subjects are not very old at this 
+time; impact on the risk of cancer or heart disease in the elderly (if any) 
+may not be detectable in various study cohorts at this time.
+OTHER TREATMENTS
+Recombinant human IGF-­1 is indicated for the treatment of extremely 
+short children with primary IGF-­1 deficiency (both height and IGF-­1 
+>3 SD below the mean for age) caused by severe GH insensitivity (e.g., 
+Laron syndrome and IGF-­1 gene defects). Availability may be an issue. 
+Possible side effects include hypoglycemia, increased intracranial pres­
+sure, and adenotonsillar hypertrophy.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1090
+SECTION 11  Endocrine and Metabolic Disorders
+   	 S U MMA RY  A N D  R E D  F L A G S (TAB L ES  5 6 .9  AN D 5 6 .1 0)
+Short stature may be a variant of normal development or may indicate a 
+serious underlying problem (see Tables 56.3, 56.5, 56.7, and 56.9). When 
+short stature is associated with a slow growth velocity, progressive devi­
+ation from the child’s previous growth channel, obesity, headache, vom­
+iting, dysmorphic features, or a goiter, or if short height is inconsistent 
+with the family history, a search for an underlying medical disorder 
+should be undertaken. Understanding how to measure a child accurately, 
+performing simple proportion measurements, and calculating growth 
+velocity are skills that all pediatricians must have to diagnose short stat­
+ure and identify associated disease states and syndromes.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+TABLE 56.9  Red Flags in the Evaluation of 
+Short Stature
+Height >2–2.5 standard deviations below the mean for age
+Subnormal growth velocity
+Abnormal body proportions
+Abnormal height:weight ratio
+Dysmorphic features including midline facial defects
+Goiter
+Abnormal central nervous system (headache, cranial neuropathies) and 
+ophthalmologic (visual field defects, papilledema) examinations
+Acquired growth failure in a previously growing child
+TABLE 56.10  Conditions Not to Miss
+Hypoglycemia in a child with no risk 
+factors for hypoglycemia
+Consider hypopituitarism in the 
+differential
+Hypoglycemia, jaundice, and 
+microphallus in a newborn boy
+Rule out growth hormone deficiency
+Obesity in a child who is short
+Rule out hypothyroidism, growth 
+hormone deficiency, Cushing 
+syndrome, Prader-­Willi syndrome, 
+Laurence-­Moon-­Biedl syndrome
+Shortness in a child with a goiter
+Rule out hypothyroidism
+Shortness in a child with headache, 
+vomiting, or visual disturbance
+Rule out hypopituitarism secondary 
+to central nervous system lesion, 
+including craniopharyngioma or 
+hydrocephalus
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+1090.e1
+BIBLIOGRAPHY
+Alatzoglou KS, Dattani MT. Genetic causes and treatment of isolated growth 
+hormone deficiency—an update. Nat Rev Endocrinol. 2010;6(10):562–576.
+Allen DB, Cuttler L. Clinical practice. Short stature in childhood—challenges 
+and choices. N Engl J Med. 2013;368(13):1220–1228.
+Ambler GR, Fairchild J, Wilkinson DJ. Debate: idiopathic short stature should 
+be treated with growth hormone. J Paediatr Child Health. 2013;49(3):165–
+169.
+Andrade AC, Jee YH, Nilsson O. New genetic diagnoses of short stature 
+provide insights into local regulation of childhood growth. Horm Res 
+Paediatr. 2017;88:22–37.
+Azzi S, Salem J, Thibaud N, et al. A prospective study validating a clinical 
+scoring system and demonstrating phenotypical-genotypical correlations 
+in Silver-Russell syndrome. J Med Genet. 2015;52:446–453.
+Badaru A, Wilson DM. Alternatives to growth hormone stimulation testing in 
+children. Trends Endocrinol Metab. 2004;15(6):252–258.
+Bogin B, Varela-Silva MI. Leg length, body proportion, and health: a review 
+with a note on beauty. Int J Environ Res Public Health. 2010;7:1047–1075.
+Bouali H, Latrech H. Achondroplasia: current options and future perspective. 
+Pediatr Endocrinol Rev. 2015;12(4):388–395.
+Chen EY, Liao YC, Smith DH, et al. The human growth hormone locus: 
+nucleotide sequence, biology, and evolution. Genomics. 1989;4:479–497.
+Cohen J, Blethen S, Kuntze J, et al. Managing the child with severe primary 
+insulin-like growth factor-1 deficiency (IGFD): IGFD diagnosis and 
+management. Drugs R D. 2014; 14(1):25–29.
+Cohen LE. Idiopathic short stature: a clinical review. J Am Med Assoc. 
+2014;311(17):1787–1796.
+Coste J, Pouchot J, Carel JC. Height and health-related quality of life: a 
+nationwide population study. J Clin Endocrinol Metab. 2012;97(9):3231–
+3239. https://doi.org/10.1210/jc.2012-1543.
+Dauber A, Rosenfeld RG, Hirschhorn JN. Genetic evaluation of short stature. J 
+Clin Endocrinol Metab. 2014;99(9):3080–3092.
+de Paula FJ, Góis-Júnior MB, Aguiar-Oliveira MH, et al. Consequences of 
+lifetime isolated growth hormone (GH) deficiency and effects of short-
+term GH treatment on bone in adults with a mutation in the GHRH-
+receptor gene. Clin Endocrinol. 2009;70(1):35–40.
+Downie AB, Mulligan J, Stratford RJ, et al. Are short normal children at a 
+disadvantage? The Wessex growth study. BMJ. 1997;314:97–100.
+Ghigo E, Bellone J, Aimaretti G, et al. Reliability of provocative tests to assess 
+growth hormone secretory status. Study in 472 normally growing children. 
+J Clin Endocrinol Metab. 1996;81(9):3323–3327.
+Grimberg A, Allen DB. Growth hormone treatment for growth hormone 
+deficiency and idiopathic short stature: new guidelines shaped by the 
+presence and absence of evidence. Curr Opin Pediatr. 2017;29(4):466–471. 
+https://doi.org/10.1097/MOP.0000000000000505.
+Jee YH, Baron J, Nilsson O. New developments in the genetic diagnosis 
+of short stature. Curr Opin Pediatr. 2018;30(4):541–547. https://doi.
+org/10.1097/MOP.0000000000000653.
+Kayemba-Kay’s S, Epstein S, Hindmarsh P, et al. Does plasma IGF-BP3 
+measurement contribute to the diagnosis of growth hormone deficiency 
+in children? Ann Endocrinol. 2011;72(3):218–223.
+Larson A, Nokoff NJ, Meeks NJ. Genetic causes of pituitary hormone 
+deficiencies. Discov Med. 2015;19(104):175–183.
+Lee PA, Chernausek SD, Hokken-Koelega AC, et al. International Small For 
+Gestational Age Advisory Board consensus development conference 
+statement: management of short children born small for gestational 
+age, April 24–October 1, 2001. International Small For Gestational Age 
+Advisory Board. Pediatrics. 2003;111(6 Pt 1):1253–1261.
+Little MA. Evolutionary strategies for body size. Front Endocrinol. 2020;11:107. 
+https://doi.org/10.3389/fendo.2020.00107. Published 2020 Mar 10.
+Mehlman CT, Ain MC. Evaluation of the child with short stature. Orthop Clin 
+North Am. 2015;46(4):523–531. https://doi.org/10.1016/j.ocl.2015.06.006.
+Navarro R, Dunn JD, Lee PA, et al. Translating clinical guidelines into practice: 
+the effective and appropriate use of human growth hormone. Am J Manag 
+Care. 2013;19(suppl 15):s281–s289.
+Oberfield SE. Growth hormone use in normal, short children—a plea for 
+reason. N Engl J Med. 1999;340:557–559.
+Pfäffle R. Hormone replacement therapy in children: the use of growth 
+hormone and IGF-I. Best Pract Res Clin Endocrinol Metab. 2015;29(3):
+339–352.
+Pinto G, Cormier-Daire V, Le Merrer M, et al. Efficacy and safety of growth 
+hormone treatment in children with hypochondroplasia: comparison with 
+an historical cohort. Horm Res Paediatr. 2014;82(6):355–363.
+Polidori N, Castorani V, Mohn A, et al. Deciphering short stature in children. 
+Ann Pediatr Endocrinol Metab. 2020;25(2):69–79. https://doi.org/10.6065/
+apem.2040064.032.
+Ranke MB. Treatment with recombinant human insulin-like growth factor-1 
+in severe primary IGF deficiency and beyond. Horm Res Paediatr. 
+2015;83(5):358–360.
+Rochira V, Kara E, Carani C. The endocrine role of estrogens on human male 
+skeleton. Int J Endocrinol. 2015;2015:165215.
+Sandberg DE, Colsman M. Growth hormone treatment of short stature: status 
+of the quality of life rationale. Horm Res. 2005;63(6):275–283.
+Savarirayan R, Tofts L, Irving M, et al. Once-daily, subcutaneous vosoritide 
+therapy in children with achondroplasia: a randomised, double-blind, 
+phase 3, placebo-controlled, multicentre trial. Lancet. 2020;396:684–692.
+Şıklar Z, Berberoğlu M. Syndromic disorders with short stature. J Clin Res 
+Pediatr Endocrinol. 2014;6(1):1–8. https://doi.org/10.4274/Jcrpe.1149.
+Swerdlow AJ, Cooke R, Albertsson-Wikland K, et al. Description of the 
+SAGhE cohort: a large European study of mortality and cancer incidence 
+risks after childhood treatment with recombinant growth hormone. Horm 
+Res Paediatr. 2015.
+Tanner J, Davies P. Clinical longitudinal standards for height and height 
+velocity for North American children. J Pediatr. 1985;107:317–329.
+Zahnleiter D, Uebe S, Ekici AB, et al. Rare copy number variants are a 
+common cause of short stature. PLoS Genet. 2013;9(3):e1003365. https://
+doi.org/10.1371/journal.pgen.1003365.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

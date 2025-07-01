@@ -1,0 +1,1830 @@
+385
+Proteinuria can be detected by various means, and the most common 
+is the dipstick test, a calorimetric assay that spots only albumin and 
+not low-­molecular-­weight proteins. In addition, false-­positive dipstick 
+assessment can be seen with highly concentrated urine, alkaline urine, 
+the presence of contrast media, vaginal secretions, or semen. False neg­
+atives are less common but can be seen with very dilute urine. Though 
+24-­hour urine collection is the gold standard to quantify the protein­
+uria, spot urine protein-­to-­creatinine ratio can be used for initial con­
+firmation after a positive screen with dipstick or to trend proteinuria 
+(Table 22.1). A ratio <0.2 protein mg/creatinine mg is considered nor­
+mal in children older than 2 years of age and a ratio <0.5 mg/mg is 
+considered normal in younger children between 6 months and 2 years 
+of age. In timed collection, protein excretion >240 mg/m2 in 24 hours 
+in children younger than 6 months of age and >150 mg/m2 in older 
+children is considered abnormal, and over 40 mg/m2/hr (>3 g/1.73 m2/
+day) is considered nephrotic range. Qualitative analysis of protein in 
+urine by immunonephelometry or electrophoresis helps distinguish 
+glomerular from tubular proteinuria.
+Proteinuria in children can be transient, orthostatic, or persistent. 
+Transient and orthostatic proteinuria are benign conditions and require 
+no treatment. Several factors including fever, stress, hypovolemia, exer­
+cise, and seizures can lead to transient proteinuria (Table 22.2). Ortho­
+static proteinuria is defined as increased protein in urine only when 
+upright. In this condition, absence of proteinuria when horizontal and 
+resting can be confirmed by documenting absence of protein in a first 
+morning void. Split day/night urine collection is the gold standard to 
+diagnose orthostatic proteinuria, which is a common benign cause of 
+proteinuria, especially in adolescents. Persistent proteinuria requires 
+meticulous evaluation to rule out renal pathology.
+Evaluation of proteinuria begins with a detailed history and physical 
+examination. Pertinent histories that help distinguish pathologic from 
+benign proteinuria include history of respiratory symptoms concur­
+rent with or preceding the proteinuria, presence of red urine, edema, 
+positive family history of kidney disease, or hearing loss. Findings of 
+edema and hypertension suggest pathologic proteinuria. Repeating 
+urine dipstick in asymptomatic children with a negative history can 
+eliminate unnecessary further testing for transient proteinuria. If still 
+positive, spot urine protein-­to-­creatinine ratio can help confirm the 
+presence of proteinuria. If confirmed, a first morning void protein-­
+to-­creatinine ratio can then identify orthostatic proteinuria. Once the 
+benign conditions are ruled out in asymptomatic children, further 
+testing is similar to that of symptomatic children and these children 
+should be referred to nephrologists. This more detailed evaluation 
+begins with 24-­hour urine collection where possible, complete urinal­
+ysis, and sediment evaluation looking for glomerular or other paren­
+chymal pathology that could be causing the proteinuria (Fig. 22.1). 
+Positive leukocyte esterase, nitrite, and presence of pyuria or bacteri­
+uria suggest a urinary tract infection. If not resolved with treatment 
+of infection, proteinuria will need further evaluation. Low molecular 
+proteins, such as β2-­microglobulin, α1-­microglobulin, lysozyme, and 
+retinol-­binding protein, are found in tubular proteinuria as is seen 
+in Fanconi syndrome or Dent disease. Red blood cell (RBC) casts are 
+pathognomonic of glomerulonephritis. Serum chemistry including 
+creatinine, BUN, electrolytes, albumin, and cholesterol will also help 
+separate proteinuria secondary to glomerulonephritis or nephrotic 
+syndrome. Lupus antibody studies, streptococcal infection, and com­
+plement C3 and C4 levels along with viral studies can help delineate the 
+various causes of glomerulonephritis and nephrotic syndrome. Renal 
+ultrasound should be considered to rule out any gross parenchymal 
+etiology for the proteinuria, such as dysplastic kidney and cystic kidney 
+disease. Renal biopsy may be indicated if there is evidence for worsen­
+ing of proteinuria, hypoalbuminemia, deteriorating renal function, or 
+a poor response to the initial therapy.
+Differential diagnoses for proteinuria are extensive, as described 
+in Table 22.2. The initial evaluation of a patient with proteinuria is pre­
+sented in Table 22.3. Indications for a referral to a pediatric nephrologist 
+are described in Table 22.4. If there is obvious edema with proteinuria, 
+the diagnostic evaluation noted in Table 22.3 advances directly to the 
+second phase and, if necessary, to the third phase.
+The combination of proteinuria, hypoalbuminemia, edema, and 
+hyperlipidemia are the defining features of nephrotic syndrome. 
+Nephrotic syndrome may be a result of many primary etiologic factors, 
+with varying renal pathologic processes and long-­term consequences. 
+Proteinuria that causes edema is always clinically significant, although 
+not all edema is secondary to proteinuria (Table 22.5). All children 
+with nephrotic syndrome invariably have “nephrotic range” protein­
+uria, necessitating detailed evaluation, and most require treatment. In 
+rare cases, a child with asymptomatic proteinuria has nephrotic-­range 
+proteinuria. If there is concomitant hypoalbuminemia and hyperlip­
+idemia, the work-­up proceeds as if the child presented with nephrotic 
+syndrome, despite the absence of edema. Even without hypoalbumin­
+emia and hyperlipidemia, nephrotic-­range proteinuria is less likely to 
+be benign than is less marked asymptomatic proteinuria.
+NEPHROTIC SYNDROME IN YOUNG CHILDREN
+Differential Diagnosis
+Three diseases constitute all cases of isolated nephrotic syndrome: 
+minimal change disease (the most common), focal segmental sclerosis 
+(also called focal glomerular sclerosis), and membranous glomerulop­
+athy. These classifications are based on pathologic findings. Thus, these 
+presentations could be primary or secondary due to other causes. In 
+addition, nephrotic syndrome can be present along with glomerulone­
+phritis (GN), such as postinfectious GN, immunoglobulin A (IgA) GN, 
+or membranoproliferative GN. Systemic diseases also cause childhood 
+nephrotic syndrome, accounting for 10% of cases. The three foremost 
+Proteinuria
+Rajasree Sreedharan
+22
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+386
+SECTION 5  Genitourinary Disorders
+considerations include systemic lupus erythematosus (SLE), IgA vas­
+culitis (Henoch-­Schönlein purpura), and hemolytic uremic syndrome. 
+These diseases have extrarenal manifestations in addition to the pro­
+teinuria and must be considered in any child who presents with sys­
+temic illness and significant proteinuria. Hereditary forms of nephrotic 
+syndrome are a genetically heterogeneous group of disorders repre­
+senting a spectrum of hereditary renal diseases (Table 22.6 and Fig. 
+22.2). Over 45 recessive or dominant genes have been associated with 
+steroid-­resistant nephrotic syndrome (SRNS)/hereditary nephrotic 
+syndrome in humans (Table 22.7). Several of the more common disor­
+ders along with other causes of nephrotic syndrome are noted in Tables 
+22.8 and 22.9. Causes of congenital nephrotic syndrome (in infants 3 
+months of age or younger) are noted in Table 22.10.
+MINIMAL CHANGE DISEASE
+Most cases of nephrotic syndrome in children are caused by min­
+imal change nephrotic syndrome, defined as normal histologic 
+features of the kidney by light microscopy and immune stains. 
+Preschool-­aged children constitute the age group in which minimal 
+change nephrotic syndrome is most common. Patients often present 
+with asymptomatic edema, which may manifest as swollen or puffy 
+eyes upon awakening in the morning; increasing abdominal girth 
+(increased waist or belt size) from ascites; pedal or leg edema, which 
+causes difficulty in putting on their regular-­sized shoes, especially 
+after being upright during the daytime; or swelling in other sites, 
+such as the scrotum, penis, vulva, and scalp. Tense edema or ascites 
+is occasionally painful.
+Minimal change nephrotic syndrome is slightly more common in 
+males than in females. The hallmark of this disease is total clearing of 
+the proteinuria with oral prednisone therapy. A common misconcep­
+tion is that neither hematuria nor hypertension is present in children 
+with minimal change disease. Microscopic hematuria and hyperten­
+sion are present in up to 20% of children who have minimal change 
+disease. The BUN or serum creatinine level may also be elevated in up 
+to 30% of the cases, usually from prerenal causes. Serum complement 
+studies are normal. Older age, hematuria, hypertension, and azotemia 
+may occur with minimal change nephrotic syndrome, but the combi­
+nation suggests another disease.
+Diagnosis
+Studies that would help confirm that a patient with nephrotic syn­
+drome has minimal change disease include urinalysis; serum chem­
+istry including BUN, creatinine, albumin, and cholesterol levels; and 
+complements and lupus antibody titers.
+The urinalysis would be expected to show 3+ to 4+ protein, which 
+is correlated with a urine concentration of 300–2,000 mg/dL. The urine 
+may also occasionally yield positive results for blood. Microscopic 
+examination of the urine sediment often shows oval fat bodies and/
+or refractile granular casts, which are seen when there is significant 
+lipiduria. Red blood cells might also be present, but it is unusual to 
+see red blood cell casts. Their presence would suggest a diagnosis of 
+glomerulonephritis (see Chapter 23).
+The complement C3 and C4 levels are normal in minimal change dis­
+ease and are depressed in some other causes of nephritis (see Chapter 23). 
+The serum cholesterol values are elevated in minimal change nephrotic 
+syndrome and are usually >250 mg/dL; levels in the range of 500–600 mg/
+dL may occur. The serum albumin concentration is invariably <2.5 and 
+often <2.0 g/dL. A renal biopsy is not immediately indicated because most 
+patients (>90%) with minimal change disease respond to prednisone, a 
+response that is considered diagnostic.
+Treatment
+With a presumptive diagnosis of minimal change nephrotic syn­
+drome, it is recommended that patients be placed on a therapeutic 
+course of prednisone, 60 mg/m2/day or 2 mg/kg/day, up to a maxi­
+mum of 60 mg for 4–6 weeks, followed by a dose of 40 mg/m2 or 1.5 
+mg/kg (maximum 40 mg) given every other day for another 6 weeks. 
+In most patients, there is total resolution of proteinuria within 10–21 
+days of initiating therapy. Patients who do not respond to prednisone 
+therapy should be considered candidates for a renal biopsy to guide 
+further therapy.
+TABLE 22.1  Quantification of Proteinuria in Children
+Method
+Indications
+Normal Range
+Comments
+Dipstick testing
+Routine screening for 
+proteinuria performed in 
+the office
+Negative or trace in a concentrated 
+urine specimen (specific gravity: 
+≥1.020)
+Test interpretation:
+1+ ∼30 mg/dL
+2+ ∼100 mg/dL
+3+ ∼300 mg/dL
+False-­positive test can occur if urine is very alkaline (pH >8.0) or 
+very concentrated (specific gravity: >1.025), when there is pus, 
+vaginal secretions, or semen present
+24-­hr urine for protein and 
+creatinine*excretion
+Quantitation of proteinuria 
+(as well as creatinine 
+clearances)
+<150 mg/m2/24 hr
+More accurate than spot urine analysis; inconvenient for 
+patient; the creatinine content should be measured to deter­
+mine whether the specimen is truly a 24-­hr collection. The 
+amount of creatinine in a 24-­hr specimen can be estimated as 
+follows: females, 15–20 mg/kg; males, 20–25 mg/kg
+Spot urine for protein/
+creatinine ratio—­
+preferably on first 
+morning urine specimen
+Semiquantitative assess­
+ment of proteinuria
+<0.2 mg protein/mg creatinine in 
+children older than 2 yr old
+<0.5 mg protein/mg creatinine in those 
+6–24 mo old
+Simplest method to quantitate proteinuria; less accurate than 
+measuring 24-­hr proteinuria
+Microalbuminuria
+Assess risk of progressive 
+glomerulopathy in patients 
+with diabetes mellitus
+<30 mg urine albumin per gram of 
+creatinine on first morning urine
+Therapy should be intensified in diabetics with microalbuminuria
+Modified from Flores FX. Clinical evaluation of the child with proteinuria. In: Kliegman FM, St. Geme J, eds. Nelson Textbook of Pediatrics. 21st ed. 
+Elsevier; 2020:2749–2750.e1.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+387
+CHAPTER 22  Proteinuria
+Total clearing of proteinuria in response to prednisone is an 
+excellent prognostic sign. Very few patients progress to renal failure, 
+although many patients (∼80%) who initially respond to prednisone 
+therapy with total clearing of proteinuria may have relapses and require 
+intermittent prednisone therapy for many years. Approximately 18% 
+of patients treated with prednisone for minimal change nephrotic syn­
+drome respond to therapy and never experience a relapse.
+Patients with recurrent nephrotic syndrome are subgrouped into 
+those who experience frequent and infrequent relapses. A patient 
+with infrequent relapse has fewer than two relapses in any 6-­month 
+period; a person with frequent relapse has two or more relapses within 
+6 months. Prednisone should be reinitiated at a dose of 60 mg/m2/day 
+or 2 mg/kg/day until a maximum of 60 mg/day and continued until the 
+urine test results are negative for protein for 3 consecutive days. After 
+that, alternate-­day prednisone is given at a dose of 40 mg/m2 or 1.5 mg/
+kg (maximum 40 mg) in the morning for another 4 weeks and then dis­
+continued altogether. Relapses are frequent during the influenza virus 
+seasons; any minor upper respiratory infection may trigger a relapse 
+of nephrotic syndrome. Patients who suffer infrequent relapses may be 
+treated with prednisone alone.
+Patients with frequently relapsing nephrotic syndrome may be ste­
+roid dependent and require constant daily prednisone therapy to main­
+tain a remission. Because constant daily prednisone has significant 
+untoward side effects (growth failure, cushingoid facies, osteoporosis, 
+cataracts, opportunistic infections, hypertension, and glucose intoler­
+ance), other therapies need to be considered. A renal biopsy is recom­
+mended prior to initiating alternative agents to confirm the diagnosis 
+of minimal change nephrotic syndrome. Treatment strategies with 
+corticosteroid-­sparing agents for patients with frequent relapse who 
+develop steroid-­related adverse effects include alkylating agents, cyclo­
+phosphamide or chlorambucil, and more recently rituximab.
+Complications of Nephrotic Syndrome
+Even in patients with the frequent relapse variant of minimal change 
+disease, the incidence of renal failure is only 1%. The reported mortal­
+ity rate remains higher, at approximately 5%.
+Infection
+The major cause of death in nephrotic syndrome is overwhelming 
+infection, usually secondary to spontaneous bacterial peritonitis, 
+which develops in as many as 10% of patients with nephrotic syndrome 
+at some point in the course of illness. Such infection is most frequent 
+in patients who are edematous with significant ascites. Peritoneal fluid 
+interferes with macrophage function, whereas ascitic fluid may dilute 
+local complement or immunoglobulin levels, altering host defense 
+mechanisms in the peritoneum.
+The most common pathogen is Streptococcus pneumoniae. Escherichia 
+coli and Staphylococcus aureus are other etiologic agents that may cause 
+spontaneous peritonitis in patients with minimal change disease. With 
+the use of appropriate antibiotics, mortality from peritonitis is ∼10%. Any 
+child with nephrotic syndrome in relapse with evidence of ascites needs to 
+be evaluated quickly if either abdominal pain or fever develops. A blood 
+specimen and paracentesis (e.g., Gram stain, culture, neutrophil count, 
+measurement of glucose and protein levels) should be obtained, and the 
+patient should be started on intravenous cefotaxime and an aminoglyco­
+side or ceftriaxone alone without further delay. The neutrophil count in 
+spontaneous bacterial peritonitis is usually ≥250 cells/mm3.
+Thrombosis
+A second serious complication of nephrotic syndrome is spontaneous 
+thrombosis, pulmonary embolus, or both. The blood of patients with 
+nephrotic syndrome is hypercoagulable, and there is an increased inci­
+dence of thrombotic phenomena in these children. Children can have 
+arterial thrombosis, as well as venous thrombosis with resultant pul­
+monary emboli. The renal vein and dural sinus veins are other possible 
+sites of thrombosis. Use of injectable and oral antithrombolytic agents, 
+in addition to heparin, have allowed for more effective treatment of 
+thrombotic complications.
+Hyperlipidemia
+Hyperlipidemia is treated by some authorities with statins to lower the 
+serum cholesterol levels and theoretically reduce vascular pathologic 
+processes.
+TABLE 22.2  Causes of Proteinuria
+Transient Proteinuria
+Fever
+Exercise
+Dehydration
+Cold exposure
+Congestive heart failure
+Seizure
+Stress
+Orthostatic (Postural) Proteinuria
+Glomerular Diseases Characterized by Isolated Proteinuria
+Idiopathic (minimal change) nephrotic syndrome
+Focal segmental glomerulosclerosis
+Mesangial proliferative glomerulonephritis
+Membranous nephropathy
+Membranoproliferative glomerulonephritis
+Amyloidosis
+Diabetic nephropathy
+Sickle cell nephropathy
+Glomerular Diseases with Proteinuria as a Prominent 
+Feature
+Acute postinfectious glomerulonephritis (e.g., streptococcal, endocarditis, 
+hepatitis B or C virus, and HIV)
+Immunoglobulin A nephropathy
+Henoch-­Schönlein purpura nephritis
+Lupus nephritis
+Serum sickness
+Alport syndrome
+Vasculitic disorders
+Reflux nephropathy
+Tubular Diseases
+Cystinosis
+Wilson disease
+Lowe syndrome
+Dent disease (X-­linked recessive nephrolithiasis)
+Galactosemia
+Tubulointerstitial nephritis
+Acute tubular necrosis
+Renal dysplasia
+Polycystic kidney disease
+Reflux nephropathy
+Drugs (e.g., penicillamine, lithium, NSAID)
+Heavy metals (e.g., lead, gold, mercury)
+NSAID, nonsteroidal antiinflammatory drug.
+From Pais P, Avner ED. Fixed proteinuria. In: Kliegman RM, Stanton BF, 
+St. Geme JW III, eds. Nelson Textbook of Pediatrics. 20th ed. Philadel­
+phia: Elsevier; 2016:2520, Table 526.1.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+388
+SECTION 5  Genitourinary Disorders
+OTHER FORMS OF NEPHROTIC SYNDROME
+Focal Segmental Sclerosis
+Diagnosis
+Clinical criteria do not always allow clinicians to differentiate mini­
+mal change disease from focal segmental sclerosis before completion 
+of a course of prednisone therapy. Inability to clear proteinuria com­
+pletely during prednisone therapy may be the first indication of focal 
+segmental sclerosis. Patients who respond to prednisone initially 
+with clearing of proteinuria but do not respond to a course of ste­
+roids in a subsequent relapse should also be considered to have focal 
+segmental sclerosis. Such patients represent about 7% of those who 
+have an initial response to prednisone therapy. A patient who does 
+not respond to prednisone with total clearing of proteinuria should 
+undergo renal biopsy.
+Focal segmental sclerosis may be primary (idiopathic) or sec­
+ondary to severe obesity, reflux nephropathy, sickle cell nephropa­
+thy, reduced renal mass (single kidney), opiate or analgesic abuse, 
+chronic bacteremia (endocarditis), renal transplant rejection, or 
+nephropathy resulting from HIV infection. Genetic variants in 
+several genes result in focal segmental glomerulosclerosis. The 
+genetic basis of these hereditary focal segmental glomerulosclerotic 
+disorders is genetically heterogeneous. Nine hereditary subtypes 
+have been described. FSGS1:ACTN4; FSGS2:TRPC6; FSGS3:C­
+D2AP; FSGS4:APOL1; FSGS5:INF2; FSGS6:MYO1E; FSGS7:PAX2; 
+FSGS8:ANLN; and FSGS9:CRB2. Many of these genes code for 
+≥1+
+≥1+
+Urine dipstick protein
+Trace
+Negative or
+trace
+Repeat urine
+dipstick protein
+Obtain 1st morning urine for
+protein/creatinine ratio and
+urinalysis with microscopic
+examination
+Repeat urine dipstick 
+6 mo to 1 yr later
+Consider discharge if
+urine dipstick protein
+negative or trace
+Urine protein/creatinine ratio >0.02 g/mmol
+(0.2 mg/mg) ± microscopic hematuria
+Urine protein/creatinine ratio ≤0.02 g/mmol
+(0.2 mg/mg) and no microscopic hematuria
+Possibilities
+1.
+2.
+3.
+24-hr urinary total protein
+Urine dipstick
+false positive
+Transient proteinuria
+≤0.3 g/1.73 m2/day
+>0.3 g/1.73 m2/day
+Repeat urine tests
+6 mo later
+Postural/orthostatic proteinuria
+Consider:
+    • 24-hr urinary total
+      protein
+    • Renal Doppler ultrasound
+      (if nutcracker syndrome is
+      suspected)
+Further evaluation
+History (drugs, family history)
+Physical examination (including BP)
+Investigations:
+    • Serum urea, creatinine,
+      electrolytes
+    • Serum total cholesterol
+    • Serum albumin
+    • Serum complements C3 and C4
+    • ANA or anti-dsDNA antibodies,
+      ANCA (if indicated)
+    • Hepatitis B and C, HIV serology
+      (if indicated)
+    • Renal ultrasound
+    • Consider renal biopsy (see
+      section on indications for renal
+      biopsy)
+Fig. 22.1  Algorithm for investigating proteinuria. ANA, antinuclear antibody; ANCA, antinuclear cytoplasmic anti­
+body; anti-­dsDNA, anti–double-­stranded DNA; BP, blood pressure. (From Yap HK, Lau PYW. Hematuria and pro­
+teinuria. In: Geary DF, Scharfer F, eds. Comprehensive Pediatric Nephrology. Philadelphia: Elsevier; 2008:190.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+389
+CHAPTER 22  Proteinuria
+proteins that are involved in the structure and function of the podo­
+cyte foot process (see Table 22.7).
+Treatment
+Results of treatment of focal segmental sclerosis have been poor. 
+Patients have severe and unremitting proteinuria despite treatment 
+with prednisone, chlorambucil, or cyclophosphamide. The long-­term 
+outcome has been poor; 33% are in renal failure ∼10 years after diag­
+nosis, and nearly 100% are in renal failure 20 years after diagnosis. The 
+incidence of focal segmental sclerosis appears to be increasing, possibly 
+related to obesity and genetic predisposition.
+Patients with focal segmental sclerosis present two difficult prob­
+lems. First, renal function may be maintained reasonably well for 
+years, but massive proteinuria persists. Hence, patients are often 
+edematous for months or years, and stigmata of protein malnutrition 
+may develop as a result of large protein losses. Symptomatic ther­
+apy with a low-­sodium diet and judicious use of diuretics is some­
+times effective. Dietary manipulation of protein intake is ineffective; 
+increasing dietary protein intake is accompanied by a concomitant 
+increase in urinary protein excretion. There is no evidence that pro­
+tein restriction either modifies serum proteins or prevents progres­
+sion to renal insufficiency.
+The second problem occurs when affected patients progress to end-­
+stage renal failure. Recurrence of the disease in transplanted kidneys 
+occurs in 25–30% of recipients. Therefore, many patients undergo a 
+long period of dialysis before receiving a kidney transplant in an effort 
+to diminish the frequency of recurrent disease.
+Some patients respond to calcineurin inhibitors, cyclosporine, or 
+tacrolimus, with total clearing of their proteinuria. There may be no 
+progression to renal insufficiency. It is unknown what percentage of 
+patients with focal segmental sclerosis respond to cyclosporine; it is 
+estimated that 25–60% have an initial response.
+Membranous Nephropathy
+Membranous nephropathy is a pathologic diagnosis made follow­
+ing renal biopsy and may be primary or secondary to other diseases 
+(e.g., hepatitis, SLE, or malignancy) or toxins and drugs such as non­
+steroidal antiinflammatory drugs, gold, mercury, bismuth, silver, 
+d-­penicillamine, trimethadione, probenecid, and captopril. All the 
+secondary causes must be considered and should be addressed and 
+treated before the condition is considered primary. Antibodies against 
+the phospholipase A2 receptor (PLA2R) in the serum or a renal biopsy 
+by immune staining have been identified in 70% of patients with pri­
+mary or idiopathic membranous nephropathy. Circulating antibodies 
+against thrombospondin type-­1 domain-­containing 7A (THSD7A) are 
+found in another 5–10% of the remaining patients with primary mem­
+branous nephropathy. The changes in the antibody titers correspond 
+to remission or relapse of proteinuria and can be used to monitor the 
+disease.
+Treatment
+Addressing the triggers of secondary membranous nephropathy in 
+itself may result in resolution of proteinuria in the majority of cases. 
+Membranous nephropathy secondary to SLE is more difficult to treat. 
+In addition, the increased incidence of spontaneous resolution of the 
+proteinuria makes selecting the patients who should be treated very 
+complicated. Close monitoring of primary membranous nephropathy 
+to determine the need for treatment is recommended for 6 months prior 
+to initiating treatment. Sodium restriction, diuretics, and angiotensin-­
+converting enzyme (ACE) inhibitors can be used for control of protein­
+uria and symptoms. In patients with no decrease of proteinuria, or with 
+TABLE 22.3  Work-­up of a Child with 
+Proteinuria
+Pediatrician’s Work-­up: Phase I
+Early morning urinalysis to include examination of the sediment
+Ambulatory and recumbent urinalyses for dipstick protein testing
+Pediatrician’s Work-­up: Phase II
+Blood electrolytes, BUN, creatinine, serum proteins, cholesterol
+Timed 12 hr urine collections, recumbent and ambulatory
+Renal ultrasonography
+Pediatric Nephrologist’s Work-­up: Phase III
+Complement, ANA, viral studies, genetic studies
+Renal biopsy
+Management of established renal disease
+ANA, antinuclear antibody.
+Modified from Norman ME. An office approach to hematuria and pro­
+teinuria. Pediatr Clin North Am. 1987;34:545–562.
+TABLE 22.4  When to Refer the Child with 
+Proteinuria to a Nephrologist
+Persistent nonorthostatic proteinuria
+A family history of glomerulonephritis, chronic renal failure, or kidney trans­
+plantation
+Systemic complaints such as fever, arthritis or arthralgias, and rash
+Hypertension, edema, cutaneous vasculitis, or purpura
+Coexistent hematuria with or without cellular casts in the spun sediment
+Elevated blood urea nitrogen and creatinine levels or unexplained electrolyte 
+abnormalities
+Increased parental anxiety
+Modified from Norman ME. An office approach to hematuria and pro­
+teinuria. Pediatr Clin North Am. 1987;34:545–561, Table 24.9.
+TABLE 22.5  Causes of Edema
+Kidney Diseases
+Acute glomerulonephritis
+Nephrotic syndrome
+Acute renal failure
+Chronic renal failure
+Heart Failure
+Liver Failure
+Nutritional and Gastrointestinal Disorders
+Protein-­calorie malnutrition
+Protein-­losing enteropathy
+Nutritional edema (especially on refeeding)
+Iron deficiency anemia associated
+Endocrine Disorders
+Hypothyroidism
+Mineralocorticoid excess
+Miscellaneous
+Hydrops fetalis
+Venocaval obstruction
+Capillary leak syndrome (systemic inflammatory response syndrome)
+Turner syndrome (lymphedema)
+Allergic reaction (periorbital edema)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+390
+SECTION 5  Genitourinary Disorders
+TABLE 22.6  Genetic Heterogeneity of Primary Nephrotic Syndrome and Syndromic Disorders 
+Associated with Nephrotic Syndrome
+Location
+Phenotype
+Inheritance
+OMIM
+Gene/Locus
+Primarily Renal 
+1q23.3
+Nephrotic syndrome, type 22
+AR
+619155
+NOS1AP
+1q25.2
+Nephrotic syndrome, type 2
+AR
+600995
+PDCN
+1q42.13
+Nephrotic syndrome, type 18
+AR
+618177
+NUP133
+3p21.31
+Nephrotic syndrome, type 5, with or without ocular 
+abnormalities
+AR
+614199
+LAMB2
+7q21.11
+Nephrotic syndrome, type 15
+AR
+617609
+MAGI2
+7q33
+Nephrotic syndrome, type 13
+AR
+616893
+NUP205
+10q22.1
+Nephrotic syndrome, type 14
+AR
+617575
+SGPL1
+10q23.33
+Nephrotic syndrome, type 3
+AR
+610725
+PLCE1
+11p13
+Nephrotic syndrome, type 4
+AD
+256370
+WT1
+11p11.2
+Nephrotic syndrome, type 19
+AR
+618178
+NUP160
+12p12.3
+Nephrotic syndrome, type 6
+AR
+614196
+PTPRO
+12q14.1
+Nephrotic syndrome, type 21
+AR
+618594
+AVIL
+12q15
+Nephrotic syndrome, type 11
+AR
+616730
+NUP107
+16p13.13
+Nephrotic syndrome, type 10
+AR
+615861
+EMP2
+16q13
+Nephrotic syndrome, type 12
+AR
+616892
+NUP93
+17q22
+Nephrotic syndrome, type 7
+AR
+615008
+DGKE
+17q22
+Hemolytic uremic syndrome, atypical, susceptibility 
+to, 7
+AR
+615008
+DGKE
+17q25.1
+Nephrotic syndrome, type 17
+AR
+618176
+NUP85
+17q25.3
+Nephrotic syndrome, type 8
+AR
+615244
+ARHGDIA
+19p13.2
+Nephrotic syndrome, type 16
+AR
+617783
+KANK2
+19q13.12
+Nephrotic syndrome, type 1
+AR
+256300
+NPHS1
+19q13.2
+Nephrotic syndrome, type 9
+AR
+615573
+COQ8B
+Xq22.3
+Nephrotic syndrome, type 20
+XL
+301028
+TBC1D8B
+ 
+19q13.2
+Glomerulosclerosis, focal segmental, 1
+AD
+603278
+ACTN4
+11q22.1
+Glomerulosclerosis, focal segmental, 2
+AD
+603965
+TRPC6
+6p12.3
+Glomerulosclerosis, focal segmental, 3
+CD2AP-AD
+607832
+CD2AP
+14q32.33
+Glomerulosclerosis, focal segmental, 5
+INF2-AD
+613237
+INF2
+15q22.2
+Glomerulosclerosis, focal segmental, 6
+AR
+614131
+MYO1E
+10q24.31
+Glomerulosclerosis, focal segmental, 7
+AD
+616002
+PAX2
+2q35
+Glomerulopathy with fibronectin deposits 2
+AD
+601894
+FN1
+7p14.2
+Focal segmental glomerulosclerosis 8
+AD
+616032
+ANLN
+9q33.3
+Focal segmental glomerulosclerosis 10
+AR
+256020
+LMX1B
+1q32
+Glomerulopathy with fibronectin deposits 1
+AD
+137950
+GFND1
+2q35
+Glomerulopathy with fibronectin deposits 2
+AD
+601894
+FN1
+Systemic Disorders 
+1p33-­p31.1
+Forsythe-­Wakeling syndrome
+AR
+613606
+ 
+17q21.33
+Interstitial lung disease, nephrotic syndrome, and 
+epidermolysis bullosa, congenital
+AR
+614748
+ITGA3
+3p21.31
+Pierson syndrome
+AR
+609049
+LAMB2
+15q25.2
+Galloway-­Mowat syndrome 1
+AR
+251300
+WDR73
+Xq28
+Galloway-­Mowat syndrome 2, X-­linked
+XLR
+301006
+LAGE3
+14q11.2
+Galloway-­Mowat syndrome 3
+AR
+617729
+OSGEP
+20q13.12
+Galloway-­Mowat syndrome 4
+AR
+617730
+TP53RK
+2p13.1
+Galloway-­Mowat syndrome 5
+AR
+617731
+TPRKB
+21q22.3
+Galloway-­Mowat syndrome 6
+AR
+618347
+WDR4
+12q15
+Galloway-­Mowat syndrome 7
+AR
+618348
+NUP107
+1q42.13
+Galloway-­Mowat syndrome 8
+AR
+618349
+NUP133
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+391
+CHAPTER 22  Proteinuria
+TABLE 22.6  Genetic Heterogeneity of Primary Nephrotic Syndrome and Syndromic Disorders 
+Associated with Nephrotic Syndrome—cont’d
+Location
+Phenotype
+Inheritance
+OMIM
+Gene/Locus
+16p13.3
+Congenital disorder of glycosylation, type Ik
+AR
+608540
+ALG1
+11p13
+Denys-­Drash syndrome
+AD, SMu
+194080
+WT1
+2q11.2
+Autoimmune disease, multisystem, infantile onset, 2 AR
+617006
+ZAP70
+4q21.1
+Epilepsy, progressive myoclonic 4, with or without 
+renal failure
+AR
+254900
+SCARB2
+2q35
+Schimke immunoosseous dysplasia
+AR
+242900
+SMARCAL1
+10q24.32
+Immunodeficiency, common variable, 10
+AD
+615577
+NFKB2
+9q33.2
+Amyloidosis, Finnish type
+AD
+105120
+GSN
+16p13.2
+Congenital disorder of glycosylation, type Ia
+AR
+212065
+PMM2
+11p13
+Frasier syndrome
+AD, SMu
+136680
+WT1
+2q33.1
+Autoimmune lymphoproliferative syndrome, type II
+AD
+603909
+CASP10
+1p31.3
+Autoinflammation, immune disregulation, and 
+eosinophilia
+AD
+618999
+JAK1
+Xp11.23
+Congenital disorder of glycosylation, type IIm
+SMo, XLD
+300896
+SLC35A2
+4q31.3
+Amyloidosis, familial visceral
+AD
+105200
+FGA
+11q23.3
+Amyloidosis, 3 or more types
+AD
+105200
+APOA1
+12q15
+Amyloidosis, renal
+AD
+105200
+LYZ
+15q21.1
+Amyloidosis, familial visceral
+AD
+105200
+B2M
+2q24.2
+Aicardi-­Goutieres syndrome 7
+AD
+615846
+IFIH1
+3p21.1
+Autoimmune lymphoproliferative syndrome, type III
+AR
+615559
+PRKCD
+6q13
+Sialic acid storage disorder, infantile
+AR
+269920
+SLC17A5
+2q36.3
+Alport syndrome 2, autosomal recessive
+AR
+203780
+COL4A4
+2q36.3
+Alport syndrome 2, autosomal recessive
+AR
+203780
+COL4A3
+9q33.3
+Nail-­patella syndrome
+AD
+161200
+LMX1B
+Xq22.3
+Alport syndrome 1, X-­linked
+XLD
+301050
+COL4A5
+16p13.3
+Familial Mediterranean fever, AR
+AR
+249100
+MEFV
+19p13.3
+C3 deficiency
+AR
+613779
+C3
+12q24.31
+Mucopolysaccharidosis-­plus syndrome
+AR
+617303
+VPS33A
+10p13
+Omenn syndrome
+AR
+603554
+DCLRE1C
+11p12
+Omenn syndrome
+AR
+603554
+RAG1
+11p12
+Omenn syndrome
+AR
+603554
+RAG2
+11p15.5
+Nephropathy with pretibial epidermolysis bullosa 
+and deafness
+AR
+609057
+CD151
+22q12.3
+End-­stage renal disease, nondiabetic, suscepti­
+bility to
+612551
+APOL1
+22q12.3
+Glomerulosclerosis, focal segmental, 4, suscepti­
+bility to
+612551
+APOL1
+9q33.3
+Ventriculomegaly with cystic kidney disease
+AR
+219730
+CRB2
+1q44
+Muckle-­Wells syndrome
+AD
+191900
+NLRP3
+12q13.3
+Pseudo-­TORCH syndrome 3
+AR
+618886
+STAT2
+Xq13.3
+Intellectual disability, X-­linked 98
+XLD
+300912
+NEXMIF
+15q26.1
+Arthrogryposis, renal dysfunction, and cholestasis 1
+AR
+208085
+VPS33B
+11p15.4
+Immunodeficiency 10
+AR
+612783
+STIM1
+14q32.32
+Imerslund-­Grasbeck syndrome 2
+AR
+618882
+AMN
+10p14
+Hypoparathyroidism, sensorineural deafness, and 
+renal dysplasia
+AD
+146255
+GATA3
+12q24.11
+Hyper-­IgD syndrome
+AR
+260920
+MVK
+Xp11.23
+Immunodisregulation, polyendocrinopathy, and 
+enteropathy, X-­linked
+XLR
+304790
+FOXP3
+Xq26.2-­q26.3
+Lesch-­Nyhan syndrome
+XLR
+300322
+HPRT1
+12q23.2
+Microcephaly 24, primary, autosomal recessive
+AR
+618179
+NUP37
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+392
+SECTION 5  Genitourinary Disorders
+severe, life-­threatening symptoms related to the nephrotic syndrome, 
+immunosuppression with steroids and cyclophosphamide can be tried.
+NEPHROTIC SYNDROME IN INFANTS 
+YOUNGER THAN 1 YEAR
+Nephrotic syndrome that manifests very early in life is a much more 
+serious entity, and the prognosis is guarded (see Table 22.9). The out­
+look is poorest in younger infants (younger than 6 months of age) and 
+improves as the age at presentation approaches 1 year. Minimal change 
+disease is rarely seen in infants younger than 6 months of age. It is more 
+common in infants who present at 6–8 months. By 1 year, it is the most 
+common cause of nephrotic syndrome.
+The conditions that result in nephrotic syndrome in infants differ 
+markedly from those seen in older children. Secondary causes are more 
+prominent and need to be considered, particularly in newborns or very 
+young infants. It is especially important to test for syphilis because the 
+early institution of penicillin therapy may lead to the resolution of the 
+renal disease and may mitigate the involvement of other organ systems 
+as well. Congenital toxoplasmosis is also treatable with the combina­
+tion of steroids and pyrimethamine–sulfadiazine–folinic acid. Other 
+congenital infections offer less opportunity for treatment to influence 
+the outcome; extrarenal manifestations of these infections are much 
+more serious than kidney disease.
+Primary renal disease–causing nephrotic syndrome in early infancy 
+is most often caused by either congenital nephrotic syndrome or dif­
+fuse mesangial sclerosis. In both diseases, the prognosis for survival is 
+poor unless aggressive supportive therapy and kidney transplantation 
+are undertaken.
+Congenital Nephrotic Syndrome
+Congenital nephrotic syndrome is an autosomal recessive disor­
+der resulting from variants in the gene encoding the protein, neph­
+rin, and other genes (see Table 22.10 and Fig. 22.2). Infants with 
+TABLE 22.6  Genetic Heterogeneity of Primary Nephrotic Syndrome and Syndromic Disorders 
+Associated with Nephrotic Syndrome—cont’d
+Location
+Phenotype
+Inheritance
+OMIM
+Gene/Locus
+1q21
+Nephropathy-­hypertension
+AD
+161900
+ 
+15q22.31
+Melorheostosis, isolated, somatic mosaic
+155950
+MAP2K1
+7q11.23
+Cutis laxa, autosomal dominant
+AD
+123700
+ELN
+2p21
+Cystinuria
+AD, AR
+220100
+SLC3A1
+19q13.11
+Cystinuria
+AD, AR
+220100
+SLC7A9
+AD, autosomal dominant; AR, autosomal recessive; SMo, somatic mosaicism; SMu, somatic mutation; TORCH, toxoplasmosis, other infections, 
+rubella, cytomegalovirus, herpes simplex virus; XL, X-­linked; XLD, X-­linked dominant; XLR, X-­linked recessive.
+NPHS1
+LAMB2
+PLCE1
+NPHS2
+WT1
+SMARCAL1
+COQ6/COQ2/ADCK4/PDSS2
+INF2
+TRPC6
+Other
+12.5
+10.0
+7.5
+5.0
+2.5
+0.0
+Percent families with
+dominant variants
+39.9%
+25.0
+NPHS1
+NPHS2
+Percent families with recessive
+variant(s)/age group (%)
+22.5
+20.0
+17.5
+15.0
+12.5
+10.0
+7.5
+5.0
+2.5
+0.0
+0-3 months
+4-12 months
+1-6 years
+7-12 years
+Age of onset of proteinuria (month/years)
+13-18 years
+19-25 years
+Fig. 22.2  Relative distribution of steroid-­resistant nephrotic syndrome (SRNS)-­causing genes by their age of 
+onset. Percentages of families in an international cohort with SRNS that manifested at 25 years of age and 
+resulted from variants in monogenic genes are interconnected by lines between age groups and shown in 
+different colors for each causative gene (lower panel for recessive genes, upper panel for dominant genes). 
+NPHS1 variants (red), LAMB2 (orange), and PLCE1 (dark blue) have early age of onset and are rarely found 
+in patients older than 6 years. The dominant genes INF2 (light blue) and TRPC6 (brown) manifest in early 
+adulthood, and WT1 (black) shows a biphasic distribution with a first peak at 4–12 months and a second 
+peak for age of onset beyond 18 years (upper panel). These findings are compatible with the notion that 
+variants in recessive disease genes are found more frequently in early-­onset disease, whereas variants in 
+dominant genes more frequently cause adult-­onset disease. (Modified from Sadowski CE, Lovric S, Ashraf 
+S, et al. A single-­gene cause in 29.5% of cases of steroid-­resistant nephrotic syndrome. J Am Soc Nephrol. 
+2015;26:1279–1289.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+393
+CHAPTER 22  Proteinuria
+TABLE 22.7  Genetic Causes of Nephrotic Syndrome Categorized According to the Location of 
+Abnormal Proteins in Podocytes
+Gene
+Protein
+Inheritance
+Locus
+Phenotypes
+Slit Diaphragm and Adaptor Proteins
+NPHS1
+Nephrin
+AR
+19q13.1
+CNS, SRNS (NPHS1)
+NPHS2
+Podocin
+AR
+1q25–q31
+CNS, SRNS (NPHS2)
+PLCE1
+Phospholipase C, ε1
+AR
+10q23
+DMS, SRNS (NPHS3)
+CD2AP
+CD2-­associated protein
+AD/AR
+6p12.3
+SRNS (FSGS3)
+FAT1
+FAT1
+AR
+4q35.2
+NS, ciliopathy
+Cytoskeleton Components
+ACTN4
+α-­Actinin-­4
+AD
+19q13
+Late-­onset SRNS (FSGS1)
+INF2
+Inverted formin-­2
+AD
+SRNS (FSGS5), Charcot-­Marie-­Tooth disease with 
+glomerulopathy
+MYH9
+Myosin, heavy chain 9
+AD
+22q12.3–13.1
+Macrothrombocytopenia with sensorineural deaf­
+ness, Epstein syndrome, Sebastian syndrome, 
+Fechtner syndrome
+MYO1E
+Myosin IE
+AR
+15q22.2
+Childhood-­onset SRNS (FSGS6)
+ARHGDIA
+Rho GDP-­dissociation inhibitor 
+(GDI) a1
+AR
+17q25.3
+Childhood-­onset SRNS (NPHS8), seizures, cortical 
+blindness
+ARHGAP24
+Arhgap24 (RhoGAP)
+AD
+4q22.1
+Adolescent-­onset FSGS
+ANLN
+Anillin
+AD
+7p14.2
+FSGS8
+GBM and Basal Membrane Proteins and Related Components
+LAMB2
+Laminin subunit β2
+AR
+3p21
+Pierson syndrome DMS, FSGS (NPHS5)
+ITGB4
+Integrin-­β4
+AR
+17q25.1
+Epidermolysis bullosa, anecdotic cases presenting 
+with NS and FSGS
+ITGA3
+Integrin-­β3
+AR
+Epidermolysis bullosa, interstitial lung disease, 
+SRNS/FSGS
+CD151
+Tetraspanin
+AR
+11p15.5
+Epidermolysis bullosa, sensorineural deafness, 
+ESRD
+EXT1
+Glycosyltransferase
+AR
+8q24.11
+SRNS
+COL4A3,4
+Collagen (IV) α3/α4
+AD/AR
+2q36–q37
+Alport syndrome, FSGS
+COL4A5
+Collagen (IV) α5
+XD
+Xq22.3
+Alport syndrome, FSGS
+Apical Membrane Proteins
+TRPC6
+Transient receptor potential 
+channel 6
+AD
+11q21–q22
+SRNS (FSGS2)
+EMP2
+Epithelial membrane protein 2
+AD
+16p13.2
+Childhood SRNS/SSNS (MCD) (NPHS10)
+Nuclear Proteins
+WT1
+Wilms tumor protein
+AD/AR
+11p13
+SRNS (NPHS4), Denys-­Drash syndrome, Frasier 
+syndrome, WAGR syndrome
+LMX1B
+LIM homeobox transcription 
+factor 1-­β
+AD
+9q34.1
+Nail-­patella syndrome, NS
+SMARCAL1
+HepA-­related protein
+AR
+2q35
+Schimke immunoosseous dysplasia
+PAX2
+Paired box gene 2
+AD
+10q24.3–q25.1
+Adult-­onset FSGS (FSGS7), renal coloboma 
+syndrome
+MAFB
+A transcription factor
+AD
+20q11.2–q13.1
+Carpotarsal osteolysis progressive ESRD
+LMNA
+Lamins A and C
+XD
+1q22
+Familial partial lipodystrophy, FSGS
+NXF5
+Nuclear RNA export factor 5
+XR
+Xq21
+SRNS/FSGS cardiac conduction disorder
+GATA3
+GATA binding protein 3
+AD
+10p14
+HDR syndrome (hypoparathyroidism, sensorineural 
+deafness, renal abnormalities)
+NUP93
+Nucleoporin 93kD
+N/A
+16q13
+SRNS
+NUP107
+Nucleoporin 107kD
+N/A
+12q15
+Early-­childhood-­onset SRNS/FSGS
+Mitochondrial Proteins
+COQ2
+4-­Hydroxybenzoate polyprenyl­
+transferase
+AR
+4q21–q22
+Early-­onset SRNS, CoQ10 deficiency
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+394
+SECTION 5  Genitourinary Disorders
+TABLE 22.7  Genetic Causes of Nephrotic Syndrome Categorized According to the Location of 
+Abnormal Proteins in Podocytes—cont’d
+Gene
+Protein
+Inheritance
+Locus
+Phenotypes
+COQ6
+Ubiquinone biosynthesis 
+monooxygenase COQ6
+AR
+14q24.3
+NS with sensorineural deafness, CoQ10 deficiency
+PDSS2
+Decaprenyl-­diphosphate 
+synthase subunit 2
+AR
+6q21
+Leigh syndrome, CoQ10 deficiency, FSGS
+MTTL1
+Mitochondrially encoded tRNA 
+leucine 1 (UUA/G)
+Maternal
+mtDNA
+Mitochondrial diabetes, deafness with FSGS, 
+MELAS syndrome
+ADCK4
+aarF domain containing kinase 
+4
+AR
+19q13.1
+Childhood-­onset SRNS (NPHS9), CoQ10 deficiency
+Lysosomal Proteins
+SCARB2
+Scavenger receptor class B, 
+member 2 (LIMP II)
+AR
+4q13–q21
+Action myoclonus-­renal failure syndrome, 
+lysosomal storage disease
+NEU1
+Sialidase 1
+N-­Acetyl-­α-­neuraminidase
+AR
+6p21.33
+Nephrosialidosis, SRNS
+Other Intracellular Proteins
+APOL1
+Apolipoprotein L1
+AR
+22q12.3
+FSGS in African-­Americans (FSGS4)
+PTPRO
+Tyrosine phosphatase receptor-­
+type O (GLEPP1)
+AR
+12p12.3
+SRNS (NPHS6)
+CRB2
+Crumbs homolog 2
+AR
+9q33.3
+Early-­onset familial SRNS (FSGS9)
+DGKE
+Diacylglycerol kinase-­ε
+AR
+17q22
+Atypical hemolytic uremic syndrome, 
+membranoproliferative lesions (NPHS7)
+ZMPSTE24
+Zinc metalloproteinase
+AR
+1q34
+Mandibuloacral dysplasia, FSGS
+PMM2
+Phosphomannomutase 2
+AR
+16p13.2
+CDG syndrome, FSGS
+ALG1
+β1,4 Mannosyltransferase
+AR
+16p13.3
+CDG syndrome, congenital NS
+CUBN
+Cubilin
+AR
+10p13
+Childhood-­onset SRNS megaloblastic anemia
+TTC21B
+IFT139 (a component of intrafla­
+gellar transport-­A)
+AR
+2q24.3
+Nephronophthisis (NPHP12), FSGS
+WDR73
+WD repeat domain 73
+AR
+15q25.2
+Galloway-­Mowat syndrome, SRNS/FSGS
+ACTN4, actinin-­alpha 4; ADCK4, AarF domain containing kinase 4; AD, autosomal dominant; ALG1, asparagine-­linked glycosylation protein 1; ANLN, 
+anillin; APOL1, apolipoprotein L1; AR, autosomal recessive; ARHGAP24, Rho GTPase-­activating protein 24; ARHGDIA, Rho GDP dissociation inhibitor 
+(GDI) alpha; CD2AP, CD2-­associated protein; CDG syndrome, congenital disorders of glycosylation; CNS, congenital nephrotic syndrome; COQ2, 
+coenzyme Q2 4-­hydroxybenzoate polyprenyltransferase; COQ6, coenzyme Q6 monooxygenase; CoQ10, coenzyme Q10; CRB2, Crumbs family 
+member 2; DGKE, diacylglycerol kinase epsilon; DMS, diffuse mesangial sclerosis; EMP2, epithelial membrane protein 2; ESRD, end-­stage renal 
+disease; EXT1, exostosin 1; FSGS, focal segmental glomerulosclerosis; GBM, glomerular basement membrane; GLEPP-­1, glomerular epithelial cell 
+protein 1; HDR syndrome, hypoparathyroidism, sensorineural deafness, and renal abnormalities; ITGA3, integrin alpha 3; ITGB4, integrin beta 4; 
+INF2, inverted formin, FH2 and WH2 domain containing; LAMB2, laminin beta 2; LIMP2, lysosome membrane protein 2; LMX1B, LIM homeobox 
+transcription factor 1 beta; MAFB, v-­maf avian musculoaponeurotic fibrosarcoma oncogene homolog B; MELAS syndrome, mitochondrial enceph­
+alomyopathy, lactic acidosis, and strokelike episodes; MTTL1, mitochondrially encoded tRNA leucine 1 (UUA/G); MYH9, myosin heavy chain 9, 
+nonmuscle; MYO1E, Homo sapiens myosin IE; N/A, not available; NPHS1, nephrin; NPHS2, podocin; NS, nephrotic syndrome; NUP93, Nucleoporin 
+93 kD; NUP107, Nucleoporin 107 kD; PDSS2, prenyl (solanesyl) diphosphate synthase, subunit 2; PLCE1, phospholipase C, epsilon 1; PTPRO, 
+protein tyrosine phosphatase receptor type O; SCARB2, scavenger receptor class B, member 2; SMARCAL, SWI/SNF-­related, matrix associated, 
+actin-­dependent regulator of chromatin, subfamily a-­like 1; SRNS, steroid-­resistant nephrotic syndrome; TRPC6, transient receptor potential cation 
+channel, subfamily C, member 6; TTC21B, tetratricopeptide repeat domain 21B; WAGR syndrome, Wilms tumor, aniridia, genitourinary anomalies, 
+and mental retardation syndrome; WDR73, WD repeat domain 73; WT1, Wilms tumor 1.
+From Tae-­Sun Ha, MD. Genetics of hereditary nephrotic syndrome: a clinical review. Korean J Pediatr. 2017;60(3):55–63.
+congenital nephrotic syndrome are often premature, with a low birth­
+weight, placentomegaly, increased amniotic fluid α-­fetoprotein levels, 
+and hypogammaglobinemia (decreased immunoglobulin G levels).
+Ascites and edema, caused by massive proteinuria, are usually pres­
+ent in affected infants during the first few weeks after birth. Patients 
+do not respond to steroids or cytotoxic therapy. Infections and throm­
+bosis are the two major complications; they cause considerable mor­
+bidity and mortality. Because of the massive proteinuria, patients 
+fail to thrive; they require nasogastric feeding with a high-­calorie, 
+high-­protein formula. Nephrectomy and peritoneal dialysis are often 
+necessary to control protein losses and allow for adequate growth and 
+control of uremia so that the infant can reach a size and nutritional 
+state sufficient for renal transplantation.
+Diffuse Mesangial Sclerosis
+Diffuse mesangial sclerosis is the other diagnostic entity seen in infants. 
+This disease is similar to congenital nephrotic syndrome, but it often 
+results in less severe protein losses. Patients are often full term and of a 
+normal birthweight. The amniotic fluid α-­fetoprotein is normal, and the 
+onset of edema (1 week–33 months) is later than in congenital nephrotic 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+395
+CHAPTER 22  Proteinuria
+Modified from Eddy AA, Symons JM. Nephrotic syndrome in childhood. Lancet. 2003;362:629–638; from Pais P, Avner ED. Fixed proteinuria. In: 
+Kliegman RM, Stanton BF, St. Geme JW III, eds. Nelson Textbook of Pediatrics. 20th ed. Philadelphia: Elsevier; 2016:2522, Table 527.1.
+TABLE 22.8  Causes of Childhood Nephrotic Syndrome
+Idiopathic Nephrotic Syndrome
+Minimal change disease
+Focal segmental glomerulosclerosis
+Membranous nephropathy
+Glomerulonephritis associated with nephrotic syndrome–membranoprolifer­
+ative glomerulonephritis, crescentic glomerulonephritis, immunoglobulin A 
+nephropathy
+Genetic Disorders Associated with Proteinuria or 
+Nephrotic Syndrome
+Over 100 genetic syndromic disorders are associated with proteinuria; the 
+more common disorders are listed below (see Tables 22.6, 22.7, and 22.10)
+Nephrotic Syndrome (Typical)
+Finnish-­type congenital nephrotic syndrome (absence of nephrin)
+Focal segmental glomerulosclerosis (variants in nephrin, podocin, MYO1E, 
+α-­actinin-­4, TRPC6)
+Diffuse mesangial sclerosis (variants in laminin β2 chain)
+Denys-­Drash syndrome (variants in WT1 transcription factor)
+Congenital nephrotic syndrome with lung and skin involvement (integrin α3 
+variant)
+Mitochondrial disorders (rare association, steroid resistance, MELAS)
+Proteinuria with or Without Nephrotic Syndrome
+Nail-­patella syndrome (variant in LMX1B transcription factor)
+Alport syndrome (variant in collagen 4 biosynthesis genes)
+Multisystem Syndromes with or Without Nephrotic 
+Syndrome
+Galloway-­Mowat syndrome
+Charcot-­Marie-­Tooth disease
+Jeune syndrome
+Cockayne syndrome
+Bardet-Biedl syndrome
+Metabolic Disorders with or Without Nephrotic 
+Syndrome
+Alagille syndrome
+α1-­Antitrypsin deficiency
+Fabry disease
+Glutaric acidemia
+Glycogen storage disease
+Hurler syndrome
+Partial lipodystrophy
+Mitochondrial cytopathies
+Sickle cell disease
+Secondary Causes of Nephrotic Syndrome
+Infections
+Endocarditis
+Hepatitis B, C
+HIV-­1
+Infectious mononucleosis
+Malaria
+Syphilis (congenital and secondary)
+Toxoplasmosis
+Schistosomiasis
+Filariasis
+Drugs
+Captopril
+Penicillamine
+Gold
+Nonsteroidal antiinflammatory drugs
+Pamidronate
+Interferon
+Mercury
+Heroin
+Lithium
+Immunologic or Allergic Disorders
+Vasculitis syndromes
+Castleman disease
+Kimura disease
+Bee sting
+Food allergens
+Serum sickness
+Associated with Malignant Disease
+Lymphoma
+Leukemia
+Solid tumors
+Glomerular Hyperfiltration
+Oligomeganephronia
+Morbid obesity
+Adaptation to nephron reduction
+syndrome (birth–3 months). The patients have hypertension, hematuria, 
+and renal insufficiency at presentation. When diffuse mesangial sclerosis 
+is seen in association with a female phenotype, chromosome typing is rec­
+ommended to look for patients with Drash syndrome (XY gonadal dys­
+genesis, nephropathy, and Wilms tumor). When this syndrome is present, 
+bilateral nephrectomy and gonadectomy are recommended because the 
+potential for malignancy is very high.
+Treatment is similar to patients with congenital nephrotic syn­
+drome and eventually requires renal transplantation. The major goal is 
+to help these infants achieve the growth and good nutrition necessary 
+for successful renal transplantation. Nephrotic syndrome occasionally 
+occurs after transplantation for congenital nephrotic syndrome, proba­
+bly secondarily to an autoimmune reaction to nephrin.
+ASYMPTOMATIC PROTEINURIA DISORDERS
+Many patients have proteinuria, but there is no edema, the blood pres­
+sure is normal, and serum protein levels are normal. The extent of the 
+work-­up must be tailored to the seriousness of the problem. Whether 
+an evaluation should be performed depends on whether the protein­
+uria is both persistent and nonorthostatic (Fig. 22.3). A child younger 
+than 7 or 8 years of age who has persistent isolated proteinuria, normal 
+blood pressure, renal function, and total protein and serum albumin 
+levels should be observed carefully with repeated urinalyses every 3–6 
+months and parents counseled with regard to swelling and/or ascites, 
+which may develop in association with influenza or an upper respira­
+tory infection. If there is evidence of overt nephrotic syndrome with 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+396
+SECTION 5  Genitourinary Disorders
+Both positive for
+protein
+Proteinuria
+One negative
+Repeat ×2 (one in a.m.)
+Routine pediatric
+follow-up
+No significant
+proteinuria at night
+Day/Night split
+24-hr urine
+Nonorthostatic
+Proteinuria
+<8 years
+>8 years
+>1 g/day
+<1 g/day
+OR
+OR
+Prednisone
+Follow in
+3 mo
+Follow & repeat
+in 3 mo
+Renal biopsy
+Proteinuria
+persists
+Proteinuria
+clears
+Prednisone for
+symptoms of
+persistence/recurrence 
+of nephrotic range 
+proteinuria 
+Fig. 22.3  Algorithm for age-­based management of proteinuria.
+TABLE 22.10  The Etiology of Congenital 
+(3 Months of Age or Younger) Nephrotic 
+Syndrome (CNS)
+Primary CNS
+ Nephrin gene variants (NPHS1, Finnish type of CNS [CNF])
+ Podocin gene variants (NPHS2)
+ WT1 gene variants (Denys-­Drash, isolated CNS)
+ LamB2 gene variants (Pierson syndrome, isolated CNS)
+ PLCE1 gene variants
+ LMX1B variants (nail-­patella syndrome)
+ LamB3 gene variants (Herlitz junctional epidermolysis bullosa)
+ Mitochondrial myopathies
+ CNS with or without brain and other malformations (no gene defect identified 
+as yet)
+ Secondary CNS
+ Congenital syphilis
+ Toxoplasmosis, malaria
+ Cytomegalovirus, rubella, hepatitis B, HIV
+ Maternal systemic lupus erythematosus
+ Neonatal autoantibodies against neutral endopeptidase
+ Maternal steroid–chlorpheniramine treatment
+From Jalanko H. Congenital nephrotic syndrome. Pediatr Nephrol. 
+2009;24:2121–2128 (Table 1, p. 2122).
+TABLE 22.9  Causes of Nephrotic Syndrome 
+in Infants Younger Than 1 Year
+Secondary Causes
+Infections
+Syphilis
+Cytomegalovirus
+Toxoplasmosis
+Rubella
+Hepatitis B
+HIV
+Malaria
+Toxins
+Mercury
+Other
+Systemic lupus erythematosus
+Syndromes with associated renal disease
+Nail-­patella syndrome
+Lowe syndrome
+Nephropathy associated with congenital brain malformation
+Denys-­Drash syndrome: Wilms tumor
+Hemolytic uremic syndrome
+Primary Causes
+Congenital nephrotic syndrome (see Table 22.10)
+Diffuse mesangial sclerosis
+Minimal change disease
+Focal segmental sclerosis
+Membranous nephropathy
+From Kliegman RM, Greenbaum LA, Lye PS. Practical Strategies in 
+Pediatric Diagnosis and Therapy. 2nd ed. Philadelphia: Saunders; 
+2004:418.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+397
+CHAPTER 22  Proteinuria
+edema, a decrease in serum albumin, and an increase in serum choles­
+terol, a trial of daily prednisone therapy is indicated. It is good practice 
+to give the pneumococcal vaccine to patients who have persistent pro­
+teinuria but no evidence of edema or nephrotic syndrome, because of 
+the risk of pneumococcal peritonitis if nephrotic syndrome develops. If 
+the patient has a more serious lesion, symptoms will develop, at which 
+time evaluation and therapy may be undertaken.
+In a patient older than 8 or 9 years, once the presence of persistent 
+and nonorthostatic proteinuria is established, the next step is to quan­
+tify the amount of protein in a 24-­hour specimen. If urinary protein 
+excretion is >1 g/day, a renal biopsy may be considered. Alternatively, 
+these patients can also be treated with steroids and the response 
+assessed. If proteinuria does not clear after 6–8 weeks of therapy, 
+renal biopsy is then indicated. The choice of 1 g/day of proteinuria 
+is arbitrary; nephrotic syndrome is defined as 40 mg/m2/hr. Hence, 
+an average 8-­year-­old patient who weighs 30 kg and has surface area 
+1 m2 nephrotic syndrome by this definition is at a level of 960 mg/
+day. Renal biopsy should be considered at lower range if there are 
+additional features suggestive of glomerulonephritis. This guideline 
+helps avoid a biopsy for the patient with minimal proteinuria because 
+isolated proteinuria is an unlikely possibility with membranoprolif­
+erative glomerulonephritis (MPGN) or SLE. However, the incidence 
+of focal segmental sclerosis is much higher in adolescents than in 
+younger children. With the possibility of treatment with cyclospo­
+rine and/or ACE inhibitors preventing future renal failure, aggressive 
+evaluation is warranted to identify patients who might benefit from 
+these therapies.
+Low molecular protein, such as β2-microglobulin, α1-­microglobulin, 
+lysozyme, and retinol-­binding protein, can be seen in urine in tubular 
+disorders, such as Fanconi syndrome or Dent disease. If associated with 
+acidosis, hypokalemia, and hypophosphatemia, Fanconi syndrome 
+should be considered. In males, if proteinuria is associated with hyper­
+calciuria and nephrocalcinosis, Dent disease, an X-­linked proximal 
+tubulopathy that eventually leads to end-­stage renal disease, should be 
+considered, and the urine should be tested for β2-microglobulin. Genetic 
+testing can confirm the diagnosis.
+The presence of protein in the urine increases the risk of renal insuf­
+ficiency, regardless of its cause. This has led to therapies that reduce 
+proteinuria, thereby decreasing the risk of a progressive loss of renal 
+function. The traffic of protein across the glomerular capillary mem­
+brane appears to stimulate a cascade of inflammatory events that cause 
+interstitial fibrosis. ACE inhibitors result in efferent arteriolar vasodi­
+latation, leading to a decrease in intraglomerular pressure, which in 
+turn leads to a decreased transport of protein across the glomerular 
+filter. Patients who are treated with ACE inhibitors are less likely to 
+increase their level of proteinuria and are less likely to lose their renal 
+function than are patients who are not treated with these agents. This 
+was first apparent in the treatment of diabetic nephropathy, but there 
+is evidence that ACE inhibitors offer advantages to patients with other 
+nephropathies as well. Angiotensin II blockers offer another avenue for 
+accomplishing a decrease in intraglomerular pressures, and these also 
+decrease proteinuria when used alone or in conjunction with an ACE 
+inhibitor. ACE inhibitors and angiotensin II blockers may be useful for 
+patients with proteinuria either as a first step or as adjunctive therapy 
+for those who fail to respond to other medications.
+   	 S U MMA RY  A N D  R E D  F L A G S
+Asymptomatic proteinuria may be associated with nonspecific febrile 
+benign illnesses, postural mechanisms, and glomerular or tubular dys­
+function. Significant proteinuria with edema suggests nephrotic syn­
+drome, which in most children suggests minimal change nephrotic 
+syndrome. An age younger than 1 year or older than 10 years plus sig­
+nificant hematuria, azotemia, and hypertension are red flags that sug­
+gest a cause of nephrosis other than the more benign minimal change 
+disease. Additional red flags include a poor response to prednisone 
+therapy and signs of multiple organ system involvement by a primary 
+systemic disease, such as SLE. Fever and abdominal pain in a patient 
+with nephrotic syndrome should suggest spontaneous primary bacte­
+rial peritonitis. Severe headache and respiratory distress in a patient 
+with nephrotic syndrome should raise concerns for thrombosis or pul­
+monary embolus.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+397.e1
+BIBLIOGRAPHY
+The 2012 Kidney Disease: Improving Global Outcomes (KDIGO) Clinical 
+Practice Guideline on Glomerulonephritis (GN), Chapters 3 and 4.
+Bergstein JM. A practical approach to proteinuria. Pediatr Nephrol. 
+1999;13:697–700.
+Bonilla-­Felix M, Parra C, Dajani T, et al. Changing patterns in the histo­
+pathology of idiopathic nephrotic syndrome in children. Kidney Int. 
+1999;55:1885–1890.
+Carroll MF, Temte JL. Proteinuria in adults: a diagnostic approach. Am Fam 
+Physician. 2000;62(6):1333–1340.
+Chesney RW. The idiopathic nephrotic syndrome. Curr Opin Pediatr. 
+1999;11:158–161.
+Cil O, Perwad F. Monogenic causes of proteinuria in children. Front Med 
+(Lausanne). 2018;5:55. https://doi.org/10.3389/fmed.2018.00055.
+Durkan A, Hodson E, Willis N, et al. Non-­corticosteroid treatment for 
+nephrotic syndrome in children. Cochrane Database Syst Rev. 2001;4: 
+CD002290.
+Gorensek MJ, Lebel MH, Nelson JD. Peritonitis in children with nephrotic 
+syndrome. Pediatrics. 1988;81:849.
+Greenstein SM, Delrio M, Ong E, et al. Plasmapheresis treatment for recurrent 
+focal sclerosis in pediatric renal allografts. Pediatr Nephrol. 2000;14:1061–1065.
+Hodson EM, Knight JF, Willis NS, et al. Corticosteroid therapy for nephrotic 
+syndrome in children. Cochrane Database Syst Rev. 2001;1:CD001533.
+Hogg RJ, Portman RJ, Milliner D, et al. Evaluation and management of 
+proteinuria and nephrotic syndrome in children: recommendations from a 
+pediatric nephrology panel established at the National Kidney Foundation 
+Conference on Proteinuria, Albuminuria, Risk, Assessment, Detection, and 
+Elimination (PARADE). Pediatrics. 2000;105:1242–1249.
+Homberg C, Jalanko H, Tryggvason K, et al. Congenital nephrotic syndrome. 
+In: Barratt TM, Avner ED, Harmon WE, eds. Pediatr Nephrol. Baltimore: 
+Lippincott Williams & Wilkins; 1999:765–777.
+Jalanko H. Congenital nephrotic syndrome. Pediatr Nephrol. 2009;24:2121–
+2128.
+Korbet SM. Clinical picture and outcome of primary focal segmental glomeru­
+losclerosis. Nephrol Dial Transplant. 1999;14:68–73.
+Leung AK, Robson WL. Evaluating the child with proteinuria. J R Soc Promot 
+Health. 2000;120:16–22.
+Lin CY, Sheng CC, Chen CH, et al. The prevalence of heavy proteinuria and 
+progression risk factors in children undergoing urinary screening. Pediatr 
+Nephrol. 2000;14:953–959.
+McBryde KD, Kershaw DB, Smoyer WE. Pediatric steroid-­resistant nephrotic 
+syndrome. Curr Probl Pediatr Adolesc Health Care. 2001;31:280–307.
+Nephrotic syndrome in children: prediction of histopathology from clinical 
+and laboratory characteristics at time of diagnosis. A report of the Interna­
+tional Study of Kidney Disease in Children. Kidney Int. 1978;13:159–165.
+The primary nephrotic syndrome in children: identification of patients with 
+minimal change nephrotic syndrome from initial response to prednisone. 
+A report of the International Study of Kidney Disease in Children. J 
+Pediatr. 1981;98:561–564.
+Remuzzi G, Ruggenenti P, Benigni A. Understanding the nature of renal 
+disease progression. Perspective in Clinical Nephrology. Kidney Int. 
+1997;51:2–15.
+Ronco P, Debiec H. Pathophysiological advances in membranous nephropa­
+thy: time for a shift in patient’s care. Lancet. 2015;385:1983–1992.
+Rood I, Deegens J, Wetzels J. Genetic causes of focal segmental glomeru­
+losclerosis: implications for clinical practice. Nephrol Dial Transplant. 
+2012;27:882–890.
+Roth KS, Amaker BH, Chan JC. Nephrotic syndrome: pathogenesis and 
+management. Pediatr Rev. 2002;23:237–248.
+Ruggenenti P, Perna A, Gherardi G, et al. Renoprotective properties of ACE-­
+inhibition in non-­diabetic nephropathies with non-­nephrotic proteinuria. 
+Lancet. 1999;53:359–364.
+Rytand DA, Spreiter S. Prognosis in postural (orthostatic) proteinuria. N Engl J 
+Med. 1981;305:618.
+Tae-­Sun Ha MD. Genetics of hereditary nephrotic syndrome: a clinical review. 
+Korean J Pediatr. 2017;60(3):55–63.
+Trompeter RS, Lloyd BW, Hicko J, et al. Long-­term outcome for children with 
+minimal change nephrotic syndrome. Lancet. 1985;1:368.
+Vehaskari VM, Rapola J. Isolated proteinuria: analysis of a school-­age 
+population. J Pediatr. 1982;101:661.
+Wenderfer SE, Gaut JP. Glomerular disease in children. Adv Chronic Kidney 
+Dis. 2017;24(6):364–371.
+Yashikawa N, Kitagawa K, Ohta K, et al. Asymptomatic constant isolated 
+proteinuria in children. J Pediatr. 1991;119:375.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

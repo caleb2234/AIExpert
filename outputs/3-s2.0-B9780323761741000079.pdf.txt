@@ -1,0 +1,2731 @@
+109
+SECTION 3  Cardiac Disorders
+Dizziness is a common but very nonspecific chief complaint about 
+which some elaboration by the patient is generally required for the 
+physician to understand exactly what the patient is experiencing. The 
+description of the sensation is critical in distinguishing whether it is 
+caused by vertigo, disequilibrium, lightheadedness, presyncope, or 
+ataxia (Table 7.1). Although the differential diagnoses of these entities 
+may overlap, there are conditions that are most specific to the individ­
+ual symptom. All the entities are conditions that may affect children at 
+any age, but older children are more capable of articulating the abnor­
+mal sensation they feel. Children younger than 6 years of age may pres­
+ent with nausea, vomiting, ataxia, or syncope.
+Syncope is the abrupt transient loss of consciousness and postural 
+tone that results from inadequate cerebral perfusion. There is a rapid 
+and spontaneous recovery. Syncope is a common phenomenon in chil­
+dren and adolescents that is usually benign. Between 30% and 40% of 
+all adolescents and young adults have had one episode of syncope.
+Presyncope is the feeling that the person is “about to pass out.” 
+The patient feels as if they are going to lose consciousness but does 
+not. The patient may experience lightheadedness, tunnel vision, 
+graying out, and a spectrum of altered consciousness without loss of 
+consciousness. Presyncope may or may not reflect the same patho­
+physiologic process as true syncope. Presyncope may abort or prog­
+ress to syncope. The diagnostic approach to presyncope is the same 
+as for syncope.
+Dizziness must be considered a change in mental status. It may 
+potentially herald serious underlying central nervous system dysfunc­
+tion. Dizziness must be better defined to distinguish vertigo from light­
+headedness. The principal distinction with vertigo is the description 
+of perceived environmental motion: swaying, whirling, or spinning. 
+Lightheadedness is frequently associated with psychological stress, 
+including anxiety, hyperventilation, depression, and panic attacks. The 
+history surrounding episodes of lightheadedness is vital for formulat­
+ing the differential diagnosis.
+Disequilibrium refers to “balance problems” without vertigo. The 
+characteristic historical feature is difficulty ambulating. A rare com­
+plaint among children, disequilibrium in the young is most often 
+caused by vestibular or cerebellar dysfunction and manifests as ataxia. 
+Ataxia is an impairment of coordination, movement, and balance; this 
+impairment is generally associated with dysfunction of the cerebellum 
+or of the sensory and/or motor pathways connecting to the cerebellum. 
+There are transient forms and progressive degenerative conditions that 
+produce ataxia.
+SYNCOPE
+Syncope is a common phenomenon among children and adolescents. 
+As many as 40% of children experience a syncopal event between the 
+ages of 8 and 18 years. Before age 6 years, syncope is very unusual 
+except in the setting of seizure disorders, breath-­holding spells, sys­
+temic illnesses, and primary cardiac dysrhythmias. Syncopal episodes 
+cause a large number of health care visits and a number of admissions 
+to hospitals. Neurocardiogenic syncope (vasovagal) is reported as the 
+most common cause followed by cardiogenic syncope. The differential 
+diagnosis of syncope is noted in Tables 7.2 and 7.3; distinguishing fea­
+tures are noted in Tables 7.4 and 7.5.
+The pathophysiologic mechanism of syncope follows a common 
+pathway with many inciting stimuli. Cerebral perfusion is compro­
+mised by a transient decrease in cardiac output as a result of vasomotor 
+changes, decreasing venous return, primary dysrhythmia, or impair­
+ment of cerebral vascular tone. Adolescents with syncope subjected 
+to a head-­up tilt-­table test reported blurred vision and constriction 
+of visual fields before losing consciousness, as well as nausea, pallor, 
+sweating, and dizziness, which may be accompanied by hypotension 
+(systolic blood pressure <60 mm Hg) or bradycardia (heart rate <40 
+beats/min) with an occasional junctional rhythm and occasionally 
+asystole. Symptoms are relieved rapidly by returning to the supine posi­
+tion. Several situational factors can exacerbate this response, including 
+warm temperature, a confined space such as being in a crowded room, 
+anxiety or fear, sudden surprise, the sight of blood, and pain such as 
+from needle sticks or shots. Other situational factors include urination, 
+swallowing, coughing, defecation, and hair combing.
+This response is caused by an imbalance of parasympathetic and 
+sympathetic tone, which results in peripheral vasodilation, including 
+venodilation, but in no augmentation of venous return, because there is 
+no accompanying increase in large skeletal muscle activity to augment 
+systemic venous return and maintain cardiac filling. Subsequent vagal 
+output results in inappropriate bradycardia and further compromises 
+cardiac output. The child faints and becomes supine, which restores 
+systemic venous return. Awakening is accompanied by increased sym­
+pathetic output, which restores the heart rate. The episode tends to be 
+brief but may recur if the patient stands too quickly after the event.
+In obtaining the history of a syncopal episode, attention should be 
+paid to the time of day, time of last meal, activities leading up to the 
+event, and associated symptoms such as palpitations, racing heartbeat, 
+chest pain, headache, shortness of breath, nausea, diaphoresis, visual 
+Syncope and Dizziness
+Gary Cohen
+7
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+110
+SECTION 3  Cardiac Disorders
+TABLE 7.1  Syncope and Dizziness
+Vertigo
+Presyncope
+Disequilibrium
+Lightheadedness
+Patient complaint
+“My head is spinning”
+“The room is whirling”
+“I feel I might pass out”
+“I feel faint”
+“I feel like blacking out”
+“I feel unsteady”
+“My balance is off”
+“I feel dizzy”
+“I feel disconnected, drugged”
+Associated features
+Motion, swaying, spinning, 
+nystagmus
+Syncope: loss of postural tone, brief 
+loss of consciousness
+Situational
+Poor balance
+No vertigo or ataxia
+Anxiety, hyperventilation, 
+paresthesias, respiratory 
+alkalosis, panic attacks
+Usual cause
+Vestibular disorders
+Impaired cerebral perfusion
+Sensory and/or central neuro­
+logic dysfunction
+Anxiety and/or depressive 
+disorders
+Key differential 
+diagnoses
+Peripheral (labyrinthine-­ 
+cochlear)
+vs Central neurologic disorder
+Neurocardiogenic (vagal)
+vs Cardiac syncope
+vs Neuropsychiatric syncope
+Sensory deficit
+vs Central neurologic disease
+Anxiety/depression
+vs Hyperventilation
+vs Medication effects
+changes, and hearing changes. Cataplexy may be confused with syn­
+cope and is characterized by partial or complete paralysis of skeletal 
+muscles resulting in a rapid progression of weakness of the face and 
+neck followed by the muscles of the trunk and extremities. The patient 
+loses tone and may fall to the floor but remains awake and immobile 
+for 1–2 minutes. The patient usually senses an episode and may sit or 
+lie down. Cataplexy is seen in patients with narcolepsy characterized 
+by daytime sleepiness, hypnagogic hallucinations, or sleep paralysis. 
+Triggers of cataplexy include intense positive or negative emotions, such 
+as laughing, frustration, fright, surprise, or anger. Details of the synco­
+pal event, such as the patient’s position (syncope while supine suggests a 
+cardiac arrhythmia) when symptoms appeared, duration of the episode, 
+and characterization of the patient’s appearance during and immedi­
+ately after the episode, are also important. Almost without exception, by 
+the time the patient presents to the office or emergency room, the phys­
+ical examination findings are normal. Therefore, the history becomes 
+TABLE 7.2  Noncardiac Causes of Syncope
+ • Reflex vasodepressor syncope
+ • Neurocardiogenic (vasovagal)
+ • Emotion (seeing blood)
+ • Pain (needle phobia)
+ • Miscellaneous situational reflex
+ • Tussive
+ • Sneeze
+ • Exercise, after exercise
+ • Swallowing
+ • Stretching
+ • Defecation
+ • Micturition
+ • Hair grooming
+ • Valsalva (increased intrathoracic pressure)
+ • Trumpet playing
+ • Weightlifting
+ • Breath-­holding spells
+ • Systemic illness
+ • Hypoglycemia
+ • Anemia
+ • Infection
+ • Hypovolemia, dehydration
+ • Adrenal insufficiency
+ • Narcolepsy, cataplexy
+ • Pulmonary embolism
+ • Pheochromocytoma
+ • Carcinoid
+ • Mastocytosis
+ • Ruptured ectopic pregnancy
+ • Central nervous system
+ • Seizure (atonic, absence, myoclonic-­astatic)
+ • Stroke, transient ischemic attack
+ • Subarachnoid hemorrhage
+ • Myotonic dystrophy
+ • Kearns-­Sayre syndrome
+ • Friedreich ataxia
+ • Basilar artery migraine
+ • Dysautonomia
+ • Congenital myasthenia gravis
+ • Syringomyelia
+ • Arnold Chiari malformation
+ • Drug effects
+ • β-­Blocking agents
+ • Vasodilating agents
+ • Opiates
+ • Sedatives
+ • Drugs prolonging QT interval
+ • Diuretics
+ • Anticonvulsant agents
+ • Antihistamines
+ • Antidepressant agents
+ • Anxiolytic agents
+ • Drugs of abuse
+ • Insulin, oral hypoglycemic agents
+ • Carbon monoxide
+ • Other etiologies
+ • Carotid sinus sensitivity
+ • Subclavian steal
+ • Panic attack, anxiety
+ • Conversion disorder
+From Kliegman RM, St. Geme JW III, Blum NJ, et al., eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:567, Table 87.1.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+111
+CHAPTER 7  Syncope and Dizziness
+the most important piece of information for developing the differential 
+diagnosis, diagnostic evaluation, and management plan.
+NEUROCARDIOGENIC SYNCOPE
+There are several causes of neurocardiogenic syncope (vasovagal); 
+this is the dominant etiology of syncope in children and adolescents. 
+Excessive vagal tone may be primary or secondary to breath holding, 
+cough, deglutition syncope, micturition, defecation, carotid sinus pres­
+sure sensitivity, and orthostasis. Neurocardiogenic syncope has been 
+described in association with hair brushing, swallowing, stretching, 
+orthodontic maneuvers, anomalies of the cervical spine, and dental 
+trauma. Many of these episodes may be forms of carotid sinus sensi­
+tivity. Cough syncope may be related to prolongation of high intratho­
+racic pressure that results in decreased venous return and subsequent 
+decreased cardiac output.
+The prodromal history is very important in evaluating neurocardio­
+genic syncope. Syncope without warning, while the patient is supine, or 
+during exercise implies a primary cardiac cause and a more serious etiology; 
+it is associated with greater morbidity and potential mortality (see Table 7.3).
+Neurocardiogenic syncope is a type of autonomic dysfunction that 
+is also referred to as vasodepressor syncope, vasovagal syncope, and 
+reflex syncope. Presentations include:
+	1.	 Primary bradycardia, sometimes to the extreme of sinus arrest or 
+even brief asystole, with subsequent hypotension. This is known as 
+the cardioinhibitory response.
+	2.	 Primary vasodepressor response that is characterized by hypoten­
+sion with the heart rate relatively preserved.
+	3.	 Mixed response, the most common response that features simulta­
+neous hypotension and bradycardia.
+The common pathway producing the heart rate and blood pressure 
+responses and cerebral hypoperfusion is the Bezold-­Jarisch reflex (Fig. 
+7.1). For most children and adolescents, prodromal warning signs 
+herald the impending syncopal episode and can, after the first episode, 
+allow the child enough time to prevent fainting by sitting with the head 
+between the knees or by lying supine.
+The physiologic mechanisms of neurocardiogenic syncope have 
+been demonstrated with head-­up tilt-­table testing. Tilt-­table test­
+ing can be performed with or without invasive blood pressure mon­
+itoring. The goal is to reproduce the patient’s symptoms under close 
+TABLE 7.3  Causes of Cardiovascular 
+Syncope: Potentially Fatal if Unrecognized
+	1.	ARRHYTHMIAS
+	 A.	 Bradyarrhythmias
+	
+a.	 Sinus node dysfunction (especially in patients with congenital 
+heart defects)
+	
+b.	 Atrioventricular block (congenital or acquired, Lyme, Fabry, Chagas 
+diseases)
+	
+c.	 Kearns-­Sayre syndrome
+	
+d.	 Pacemaker malfunction
+	 B.	 Tachyarrhythmias
+	
+a.	 Supraventricular
+	
+1.	 Wolff-­Parkinson-­White syndrome
+	
+2.	 Supraventricular tachycardia/atrial arrhythmias (especially in 
+patients with congenital heart defects)
+	
+b.	 Ventricular: ventricular tachycardia/torsades/ventricular fibrillation
+	
+1.	 Channelopathies
+	
+a.	 Long QT syndromes
+	
+b.	 Catecholaminergic polymorphic ventricular tachycardia
+	
+c.	 Brugada syndrome
+	
+d.	 Short QT syndrome
+	
+2.	 Drug induced
+	
+3.	 Idiopathic
+	
+a.	 Ventricular fibrillation
+	
+b.	 Ventricular tachycardia from outflow tract
+	2.	STRUCTURAL/FUNCTIONAL HEART DISEASE
+	 A.	 Cardiomyopathy
+	
+a.	 Hypertrophic cardiomyopathy
+	
+b.	 Dilated cardiomyopathy
+	
+c.	 Arrhythmogenic right ventricular dysplasia
+	
+d.	 Left ventricular noncompaction
+	 B.	 Coronary anomalies
+	
+a.	 Anomalous origin
+	
+b.	 Kawasaki disease
+	
+c.	 COVID-­19
+	 C.	 Valvar aortic mitral or pulmonary stenosis
+	 D.	 Takotsubo disease
+	
+E.	 Acute myocarditis
+	
+F.	 Congenital heart disease (repaired and unrepaired)
+	 G.	 Pulmonary hypertension, pulmonary embolus
+	 H.	 Aortic dissection (Marfan syndrome)
+	
+I.	 Cardiac masses (myxoma, rhabdomyoma, thrombus)
+	
+J.	 Eisenmenger syndrome
+From MacNeill E, Vashist S. Approach to syncope and altered mental 
+status. Pediatr Clin N Am. 2013;60:1083–1106.
+TABLE 7.4  Clinical Features Suggesting 
+Specific Causes of Syncope
+Diagnostic Consideration
+Neurocardiogenic
+Symptoms after prolonged motionless standing, sudden unexpected pain, 
+fear, or unpleasant sight, sound, or smell
+Syncope in a well-­trained athlete after exertion (without heart disease)
+Situational syncope during or immediately after micturition, cough, swallow­
+ing, or defecation
+Syncope with throat or facial pain (glossopharyngeal or trigeminal neuralgia)
+Organic Heart Disease (e.g., Coronary Artery Disease, 
+Aortic Stenosis, Primary Arrhythmia, Obstructive Hyper­
+trophic Cardiomyopathy, Pulmonary Hypertension)
+Brief sudden loss of consciousness, no prodrome, history of heart disease
+Syncope with exertion, while sitting or supine
+History of palpitations
+Family history of sudden death
+Neurologic
+Seizures: longer period of being unconscious and confusion for >5 min after 
+regaining consciousness (postictal)
+Transient ischemic attack, subclavian steal, basilar migraine: syncope associ­
+ated with vertigo, dysarthria, diplopia, arm exercise
+Migraine: syncope associated with antecedent headaches
+Other Vascular
+Carotid sinus: syncope with head rotation or pressure on the carotid sinus (as 
+in tumors, shaving, tight collars)
+Orthostatic hypotension: syncope immediately on standing
+Subclavian steal or aortic dissection: differences in blood pressure or pulse 
+between the two arms
+Drug Induced
+Patient is taking a medication that may lead to long QT syndrome, orthosta­
+sis, or bradycardia
+Psychiatric Illness
+Frequent syncope, somatic complaints, no heart disease
+Modified from Kapoor WN. Syncope. N Engl J Med. 2000;343:1856–1862.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+112
+SECTION 3  Cardiac Disorders
+monitoring. Various tilt angles and durations have been described, as 
+has the use of isoproterenol as a provocative stimulus.
+If the history suggests the diagnosis of neurocardiogenic syncope 
+with normal physical examination findings and a normal ECG, treat­
+ment may be empirically started.
+An ECG is recommended for all patients with syncope. Even when no 
+longer symptomatic, the ECG may demonstrate characteristic features 
+of Wolff-­Parkinson-­White syndrome, Brugada syndrome, long and 
+short QT syndromes, hypertrophic cardiomyopathy, arrhythmogenic 
+right ventricular dysplasia, and heart block.
+Guidelines for the treatment of neurocardiogenic syncope are 
+found in Table 7.6. The first line of treatment is education and counsel­
+ing. Most patients will eventually outgrow neurocardiogenic syncope. 
+Patients should maintain hydration and increase dietary salt if there 
+are not any contraindications. Patients should be counseled to avoid 
+situations that precipitate an event and taught to abort an event by lying 
+down. Physical counterpressure maneuvers are helpful when there is a 
+prodrome (see Table 7.6).
+If the patient fails conservative therapies, pharmacologic treatments 
+may be tried. Physicians have used fludrocortisone with increased salt 
+intake, β-­adrenergic blockers, and midodrine, which has had promis­
+ing results.
+ORTHOSTATIC SYNCOPE
+Conditions that produce hypotension (orthostatic or supine) fre­
+quently produce syncope or presyncope. Cardiac function and struc­
+ture are usually normal before the episode; during the predisposing 
+illness, cardiac filling pressures are often reduced because of reduced 
+venous return from hypovolemia or decreased peripheral vascular 
+resistance (peripheral pooling of blood). Dehydration from diarrhea 
+and vomiting, hyperthermia, hyperpyrexia, heat exhaustion, polyuria 
+(diabetes mellitus), or poor intake from anorexia, together with the 
+systemic effects of the primary illness, may produce orthostatic or true 
+hypotension and syncope. In these conditions, dizziness, hypotension, 
+or syncope occurs rapidly when the patient assumes an upright posi­
+tion. Prolonged bed rest, combined with poor fluid intake during an 
+illness, may also result in syncope or presyncope when the child arises 
+to leave the bed. In most of these situations, fluid administration is suf­
+ficient to restore intravascular volume and venous return to alleviate 
+postural or supine hypotension.
+POSTURAL ORTHOSTATIC TACHYCARDIA 
+SYNDROME
+Postural orthostatic tachycardia syndrome (POTS) is characterized 
+by recurrent (often daily) and long-­standing symptoms of orthostatic 
+intolerance, exercise intolerance, lightheadedness, fatigue, sweating, 
+TABLE 7.5  Comparison of Clinical Features of Syncope and Seizures
+Features
+Syncope
+Seizures
+Relation to posture
+Common
+No
+Time of day
+Diurnal
+Diurnal or nocturnal
+Precipitating factors
+Emotion, injury, pain, crowds, heat, exercise, fear, 
+dehydration, coughing, micturition
+Sleep loss, drug/alcohol withdrawal
+Skin color
+Pallor
+Cyanosis or normal
+Diaphoresis
+Common
+Rare
+Aura or premonitory symptoms
+Long
+Brief
+Convulsion
+Rare, brief
+Common
+Other abnormal movements
+Minor twitching
+Rhythmic jerks
+Injury
+Rare
+Common (with convulsive seizures)
+Urinary incontinence
+Rare
+Common
+Tongue biting
+No
+Can occur with convulsive seizures
+Postictal confusion
+Rare
+Common
+Postictal headache
+No
+Common
+Postevent recovery
+Seconds to minutes
+Often delayed
+Focal neurologic signs
+No
+Occasional
+Cardiovascular signs
+Common (cardiac syncope)
+No
+Abnormal findings on EEG
+Rare (generalized slowing may occur during the event)
+Common
+From Bruni J. Episodic impairment of consciousness. In: Daroff RB, Jankovic JM, Mazziotta JC, Pomeroy SL, eds. Bradley’s Neurology in Clinical 
+Practice. 7th ed. Philadelphia: Elsevier; 2016:9.
+SYNCOPE
+BP
+BP
+Venous return
+Vasodilation
+Vagal efferent
+Sympathetic tone
+LVEDV
+Inotropy
+Contractility
+Catechols
+Reflex
+Tilt
+HR
+BP
+Fig. 7.1  Tilt-­table testing: the Bezold-­Jarisch reflex. BP, blood pressure; 
+HR, heart rate; LVEDV, left ventricular end-­diastolic volume.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+113
+CHAPTER 7  Syncope and Dizziness
+headache, chest tightness, brain fog, palpitations, anxiety, tremor, and 
+presyncope when upright. The syndrome may be secondary to auto­
+nomic dysfunction. Symptoms are improved with lying down. Criteria 
+to diagnose POTS include symptoms that have lasted >6 months; heart 
+rate that increases by at least 40 beats/min or a maximum rate of 130 
+if younger than 18 years or 30 beats/min or a maximum rate of >125 
+if older than 18 years after assuming a standing from supine position 
+for at least 10 minutes; symptoms worsen with standing and improve 
+with recumbence; and the absence of other overt causes of orthostatic 
+intolerance.
+Several different pathophysiologic mechanisms have been described 
+in patients with POTS, including:
+	1.	 Peripheral autonomic denervation (neuropathic) leading to reduced 
+venoconstriction and venous pooling with secondary tachycardia
+	2.	 Hypovolemia
+	3.	 Hyperadrenergic POTS associated with elevated systolic blood 
+pressure and increased norepinephrine levels after standing for 10 
+minutes
+	4.	 Poor exercise tolerance
+	5.	 POTS associated with other diseases including autoimmunity
+A detailed history of orthostatic intolerance may identify symp­
+toms of headache, fatigue, sleep disorder, weakness, hyperventilation, 
+shaking, sweating, anxiety, dizziness, and presyncope. An evaluation 
+for POTS may include a CBC, glucose, electrolytes, and thyroid func­
+tion. Cardiac evaluation should include an ECG. A tilt-­table test is 
+helpful to demonstrate the effects of orthostatic stress (increased 
+heart rate).
+There is no specific treatment for POTS. Medications that may 
+aggravate symptoms of POTS should be avoided, including antihy­
+pertensive agents, sedatives, and many other psychiatric medica­
+tions. Patients should avoid aggravating factors, such as dehydration, 
+extreme heat, and alcohol. Nonpharmacologic treatment includes 
+aerobic exercise, compressive stockings, and increased fluid and salt 
+intake. Pharmacologic treatment should be tailored to the variant the 
+patient exhibits (Table 7.7).
+Inappropriate sinus tachycardia (IST) presents with palpitations, 
+fatigue, dizziness, and near syncope. It may be initially confused with 
+POTS. In IST, the heart rate is elevated at rest (>100 beats/min) when 
+supine and increases further with exercise. The mean 24-­hour heart 
+rate is >90 beats/min. The differential diagnosis includes hyperthy­
+roidism and pheochromocytoma. Treatment is difficult, but ivabradine 
+with or without metoprolol may be effective.
+CARDIAC SYNCOPE/SUDDEN CARDIAC DEATH
+A variety of cardiac conditions can result in hypotension and syncope 
+(Tables 7.8, 7.9, and 7.10; see Table 7.3). Dysrhythmias are common 
+and are usually silent between episodes (see Table 7.8). Supraventric­
+ular tachycardia, ventricular tachycardia, and heart block are the most 
+common types of dysrhythmia and may be primary or result from 
+medications or illicit drugs. Any form of acquired heart block carries a 
+high mortality rate (Fig. 7.2). A common cause of acquired heart block 
+is Lyme disease. Heart block may necessitate temporary or permanent 
+electronic pacing to maintain cardiac output.
+TABLE 7.6  Treatment of Neurocardiogenic Syncope/Vasovagal Syncope (VVS)
+RECOMMENDATIONS
+Patient education on the diagnosis and prognosis of VVS is recommended.
+In all patents with the common faint or VVS, an explanation of the diagnosis, education targeting awareness of and possible avoidance of triggers (prolonged 
+standing, warm environments, coping with dental and medical settings), and reassurance about the benign nature of the condition should be provided.
+Physical counterpressure maneuvers can be useful in patients with VVS who have a sufficiently long prodromal period.
+Patients with a syncope prodrome should be instructed to assume a supine position to prevent a faint and minimize possible injury. In patients with a sufficiently 
+long prodrome, physical counter-­maneuvers (leg crossing, limb and/or abdominal contraction, squatting, isometric handgrip, arm tensing) are a core manage­
+ment strategy.
+Midodrine is reasonable in patients with recurrent VVS with no history of hypertension, heart failure, or urinary retention.
+Midodrine is a prodrug that is metabolized to desglymidodrine, which is a peripherally active α-­agonist used to ameliorate the reduction in peripheral sympa­
+thetic neural outflow responsible for venous pooling and vasodepression in VVS.
+The usefulness of orthostatic training is uncertain in patients with frequent VVS.
+There are two main methods of orthostatic training. Patients undergo repetitive tilt-­table tests in a monitored setting until a negative tilt-­table test occurs and 
+then are encouraged to stand quietly against a wall for 30–60 min daily, or patients simply stand quietly against a wall at home for a prolonged period of time 
+daily.
+Fludrocortisone might be reasonable for patients with recurrent VVS and inadequate response to salt and fluid intake, unless contra­indicated.
+Fludrocortisone has mineral corticoid activity resulting in sodium and water retention and potassium excretion, which results in increased blood volume. Serum 
+potassium level should be monitored because of potential drug-­induced hypokalemia. POST II (Prevention of Syncope Trial II) reported a marginally insignificant 
+31% risk of reduction in adults with moderately frequent VVS, which was significant in patients after 2 wk dose stabilization period.
+Encouraging increases in salt and fluid intake may be reasonable in selected patients with VVS, unless contraindicated.
+Evidence for the effectiveness of salt and fluid intake for patients with VVS is limited. Nonetheless, in patients with recurrent VVS and no clear contraindication, 
+such as a history of hypertension, renal disease, heart failure, or cardiac dysfunction, it may be reasonable to encourage ingestion of 2–3 L of fluid per day and 
+a total of 6–9 g (100–150 mmol) of salt per day, or about 1–2 heaping teaspoonfuls. The long-­term balance of risks and benefits of a strategy of increasing salt 
+and water intake is unknown.
+In selected patients with VVS, it may be reasonable to reduce or withdraw medications that cause hypotension when appropriate.
+A careful examination of the patient’s history for medications that may lower blood pressure (hypotensive agents) should be performed. Care should be taken to 
+withdraw or reduce medications only when safe to do so and in conjunction with the prescribing health care provider.
+In patients with recurrent VVS, a selective serotonin reuptake inhibitor might be considered.
+Serotonin has central neurophysiologic effects on blood pressure and heart rate and acutely induces syncope during tilt-­table 
+testing.
+Modified from Shen W-­K, et al. 2017 ACC/AHA/HRS guideline for the evaluation and management of patients with syncope: a report of the Ameri­
+can College of Cardiology/American Heart (e84-­85). Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. Circula­
+tion. 2017;136:e60–e122.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+114
+SECTION 3  Cardiac Disorders
+TABLE 7.7  Treatment for Postural Orthostatic Tachycardia Syndrome (POTS)
+A regular, structured, and progressive exercise program.
+Acute intravenous infusion of up to 2 L of saline if short-­term clinical decompensation.
+Patients with POTS need a multidisciplinary approach.
+The consumption of up to 2–3 L of water and 10–12 g of NaCl daily may be considered.
+Fludrocortisone or pyridostigmine.
+Treatment with midodrine or low-­dose propranolol may be considered.
+Those with prominent hyperadrenergic features are treated with clonidine or α-­methyldopa.
+Drugs that block the norepinephrine reuptake transporter can worsen symptoms in patients with POTS.
+Regular intravenous infusions of saline are not recommended in the absence of evidence, and chronic or repeated intravenous cannulation is potentially harmful.
+Radiofrequency sinus node modification, surgical correction of a Chiari malformation type I, and balloon dilation or stenting of the jugular vein are not recommended 
+for routine use in patients with POTS and are potentially harmful.
+Modified from Sheldon RS, et al. 2015 Heart Rhythm Society expert consensus statement on the diagnosis and treatment of postural tachycardia 
+syndrome, inappropriate sinus tachycardia and vasovagal syncope. Heart Rhythm. 2015;12:e44.
+TABLE 7.8  Primary Electrical Abnormalities: Features, ECG, and Treatment
+Primary Electrical 
+Abnormalities
+Features
+ECG
+Treatment
+LQTS: Romano-­Ward, Jervell–Lange-­
+Nielsen, acquired
+Familial genetic disorder
+Ion channel variant
+Presents in torsades de pointes
+Romano-­Ward is MC inherited LQTS
+Jervell–Lange-­Nielsen has congenital 
+deafness
+Prolonged QT measured from the onset 
+of the Q wave to the end of the T 
+wave in lead II
+Varies with HR but >0.44 in men, >0.46 
+in children and women for HR 50–90 
+beats/min is prolonged
+Torsades de pointes can occur
+Can deteriorate from polymorphic 
+ventricular tachycardia to ventricular 
+fibrillation
+β Blocker therapy
+Recommendations on exercise intensity 
+by a cardiologist
+ICD if β blockers fail
+Brugada syndrome
+Inherited autosomal dominant arrhyth­
+mogenic syndrome characterized by 
+life-­threatening ventricular arrhyth­
+mias
+Genetic variant in SCN5A and 13 other 
+genes
+ECG abnormalities are from repolariza­
+tion and depolarization abnormalities
+Coved-­type ST segment elevations in 
+the right precordial leads
+J wave amplitude ≥2 mm followed by a 
+negative T wave
+Placement of ICD
+Wolff-­Parkinson-­White
+Owing to one or more re-­entrant path­
+ways inducing SVT or atrial fibrillation
+Up to 14% associated with malignant 
+tachycardias
+Malignant arrhythmias from short 
+re-­entrant pathway repolarization or 
+multiple pathways
+Short PR interval
+Delta waves present
+Undergo EPT and ablation
+Dilated cardiomyopathy: ventricular 
+tachycardia/fibrillation
+Cardiac dilation and systolic dysfunction
+Inherited or acquired
+Lamin AC gene variant a common cause 
+of DCM and SCD
+Marked LVH
+Poor R wave progression
+Left atrial enlargement
+Right axis deviation
+Permanent pacemaker and ICD place­
+ment
+Catecholamine-­exercise: ventricular 
+tachycardia
+Ventricular ectopy induced by exercise 
+or emotional stress
+Variant in gene that encodes Ca-­
+mediated sarcoplasmic fibers
+Lethal in 30–50% if left untreated
+Pre-­exercise ECG is usually normal, 
+stress testing recommended
+ECG with exercise
+Nonsustained wide ventricular tachy­
+cardia
+β Blocker therapy
+Recommendations on exercise intensity 
+by a cardiologist
+ICD if β blockers fail
+DCM, dilated cardiomyopathy; EPT, electrophysiologic testing; HR, heart rate; ICD, implantable cardioverter defibrillator; LQTS, long QT syndrome; 
+LVH, left ventricular hypertrophy; MC, most common; SCD, sudden cardiac death; SVT, supraventricular tachycardia.
+From Ellison S. Sudden cardiac death in adolescents. Prim Care Clin Office Pract. 2015;42:57–76.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+115
+CHAPTER 7  Syncope and Dizziness
+Primary cardiac conduction abnormalities that may result in 
+syncope include Wolff-­Parkinson-­White syndrome, long QT syn­
+dromes, and catecholamine-­sensitive ventricular tachycardia. Wolff-­
+Parkinson-­White syndrome is characterized by a short PR interval, 
+pre-­excitation seen as a widened QRS duration, and a delta wave on the 
+proximal portion of the QRS. The delta wave represents the presence of 
+accessory electrical tissue from atria to ventricle, with rapid antegrade 
+conduction causing excitation of ventricular tissue before atrioventric­
+ular node–His bundle stimulation. If that pathway can conduct in the 
+retrograde manner, a re-­entrant circuit is created, causing a narrow 
+QRS complex tachycardia. This greatly shortens the diastolic ventric­
+ular filling time and results in diminished left ventricular end-­diastolic 
+volume, with subsequently decreased stroke volume and decreased car­
+diac output. Although the tachycardia is rarely sufficiently fast to result 
+in syncope, some children have profound hypotension and a rapid loss 
+of consciousness. In adults, a similar mechanism results from atrial 
+flutter or fibrillation if the ventricular response rate is fast.
+Long QT syndromes are inherited (usually autosomal dominant) or 
+acquired abnormalities in the electrical recovery (repolarization) of the 
+heart (Fig. 7.3). Prolongation of the repolarization phase results in the 
+risk of simultaneous depolarization, the “R-­on-­T” phenomenon, which 
+causes disorganized ventricular electrical stimulation characterized 
+by torsades de pointes (coarse ventricular tachycardia), a potentially 
+lethal dysrhythmia (Fig. 7.4). There may be a family history of sudden 
+cardiac death. Family studies with the same gene variant have demon­
+strated that affected patients may not always have a long QT interval on 
+ECG as defined for the syndrome, but an increased QT interval may 
+become evident with exercise or during catecholamine infusion. Long 
+QT syndromes may be responsible for some cases of sudden infant 
+death syndrome and drowning. Although additional genetic forms have 
+been described, most gene variants for prolonged QT involve either 
+a potassium or sodium ion channel (see Table 7.10). There is some 
+genotype-­phenotype correlation in LQT genes: LQT1 events are fre­
+quently associated with stress, exercise, emotion, or swimming; LQT2 
+events are associated with auditory triggers (alarm clocks); while LQT3 
+events may be associated with sleep. Long QT syndromes may present 
+as a syncopal episode, seizures, palpitations, or presyncope. Diagnosing 
+long QT syndromes is based on clinical history and ECG findings of 
+a prolonged rate-­corrected QT interval. Genetic testing may identify 
+approximately 75% of patients. Acquired prolongation of the QT inter­
+val is seen in electrolyte abnormalities (hyperkalemia) and with a vari­
+ety of medications (Table 7.11). A drug history and toxicology screen 
+may be warranted if there is any question of QT prolongation.
+Patients who have undergone corrective or palliative surgery for 
+congenital cardiac disease are at risk for both early-­ and late-­onset dys­
+rhythmias that might result in syncope. Sinus node disease (in patients 
+undergoing atrial surgery) may result in tachycardia-­bradycardia epi­
+sodes that can be associated with hypotension. Ventricular dysrhythmias 
+are particularly common after repair of tetralogy of Fallot, double-­outlet 
+right ventricle, truncus arteriosus, and pulmonary atresia involving right 
+ventriculotomy with subsequent ventricular scar formation.
+Uncorrected structural heart disease is a relatively rare cause of a 
+sudden decrease in cardiac output. However, hypertrophic cardio­
+myopathies can result in obstruction of left ventricular outflow with 
+resultant high transmural pressure and secondary cardiac ischemia, 
+which can be fatal. This type of obstruction is exacerbated by high 
+sympathetic tone, causing increased contractility, and is a frequent 
+mechanism of syncope associated with exercise in competitive athletes. 
+The presence of an outflow tract murmur in the setting of syncope, 
+especially if there is a positive family history, warrants evaluation with 
+both electrocardiography and echocardiography. Any condition that 
+impedes left ventricular outflow (valvular aortic stenosis or subaortic 
+stenosis), left ventricular inflow or filling (mitral stenosis or pericardial 
+tamponade), or blood flow through the pulmonary vasculature (pri­
+mary or secondary pulmonary hypertension) may result in syncope. 
+In almost all cases, characteristic physical findings lead the clinician to 
+the diagnosis. Pulmonary hypertension may be associated with cyano­
+sis, in which case there is cerebral hypoxia resulting from right-­to-­left 
+TABLE 7.9  Potential Causes of Sudden 
+Death in Infants, Children, and Adolescents
+SIDS and SIDS “Mimics”
+SIDS
+Long QT syndromes*
+Inborn errors of metabolism
+Child abuse
+Myocarditis
+Ductal-­dependent congenital heart disease
+Corrected or Unoperated Congenital Heart Disease
+Aortic stenosis
+Tetralogy of Fallot
+Transposition of great vessels (postoperative atrial switch)
+Mitral valve prolapse
+Hypoplastic left-­heart syndrome
+Eisenmenger syndrome
+Coronary Arterial Disease
+Anomalous origin*
+Anomalous tract (tunneled)
+Kawasaki disease
+COVID-19
+Periarteritis
+Arterial dissection
+Marfan syndrome (rupture of aorta)
+Myocardial infarction
+Myocardial Disease
+Myocarditis
+Hypertrophic cardiomyopathy*
+Dilated cardiomyopathy
+Arrhythmogenic right ventricular dysplasia
+Lyme carditis
+Takotsubo syndrome
+Conduction System Abnormality/Arrhythmia
+Long QT syndromes*
+Brugada syndrome
+Proarrhythmic drugs
+Pre-­excitation syndromes
+Heart block
+Commotio cordis
+Idiopathic ventricular fibrillation
+Arrhythmogenic right ventricular dysplasia
+Catecholaminergic polymorphic ventricular tachycardia
+Heart tumor (myxoma, rhabdomyoma)
+Miscellaneous
+Pulmonary hypertension
+Pulmonary embolism
+Heat stroke
+Cocaine and other stimulant drugs or medications
+Anorexia nervosa
+Seizures
+Electrolyte disturbances
+SIDS, sudden infant death syndrome.
+*Common.
+From Van Hare GF. Sudden death. In: Kliegman RM, Stanton BF, St. 
+Geme JW III, Schor NF, eds. Nelson Textbook of Pediatrics. 20th ed. 
+Philadelphia: Elsevier; 2016:2262.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+116
+SECTION 3  Cardiac Disorders
+TABLE 7.10  Summary of Heritable Arrhythmia Syndrome Susceptibility Gene
+Gene
+Locus
+Protein
+Long QT Syndrome (LQTS)
+Major LQTS Genes
+KCNQ1 (LQT1)
+11p15.5
+IKs potassium channel α subunit (KVLQT1, Kv7.1)
+KCNH2 (LQT2)
+7q35-­36
+IKr potassium channel α subunit (HERG, Kv11.1)
+SCN5A (LQT3)
+3p21-­p24
+Cardiac sodium channel α subunit (Nav1.5)
+Minor LQTS Genes (listed alphabetically)
+AKAP9
+7q21-­q22
+Yotiao
+CACNA1C
+12p13.3
+Voltage-­gated L-­type calcium channel (Cav1.2)
+CALM1
+14q32.11
+Calmodulin 1
+CALM2
+2p21
+Calmodulin 2
+CALM3
+19q13.2-­q13.3
+Calmodulin 3
+CAV3
+3p25
+Caveolin-­3
+KCNE1
+21q22.1
+Potassium channel β subunit (MinK)
+KCNE2
+21q22.1
+Potassium channel β subunit (MiRP1)
+KCNJ5
+11q24.3
+Kir3.4 subunit of IKACH channel
+SCN4B
+11q23.3
+Sodium channel β4 subunit
+SNTA1
+20q11.2
+Syntrophin-­α1
+Triadin Knockout (TKO) Syndrome
+TRDN
+6q22.31
+Cardiac triadin
+Andersen-­Tawil Syndrome (ATS)
+KCNJ2 (ATS1)
+17q23
+IK1 potassium channel (Kir2.1)
+Timothy Syndrome (TS)
+CACNA1C
+12p13.3
+Voltage-­gated L-­type calcium channel (Cav1.2)
+Cardiac-­Only Timothy Syndrome (COTS)
+CACNA1C
+12p13.3
+Voltage-­gated L-­type calcium channel (Cav1.2)
+Short QT Syndrome (SQTS)
+KCNH2 (SQT1)
+7q35-­36
+IKr potassium channel α subunit (HERG, Kv11.1)
+KCNQ1 (SQT2)
+11p15.5
+IKs potassium channel α subunit (KVLQT1, Kv7.1)
+KCNJ2 (SQT3)
+17q23
+IK1 potassium channel (Kir2.1)
+CACNA1C (SQT4)
+12p13.3
+Voltage-­gated L-­type calcium channel (Cav1.2)
+CACNB2 (SQT5)
+10p12
+Voltage-­gated L-­type calcium channel β2 subunit
+CACN2D1 (SQT6)
+7q21-­q22
+Voltage-­gated L-­type calcium channel 2 δ1 subunit
+Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)
+RYR2 (CPVT1)
+1q42.1-­q43
+Ryanodine receptor 2
+CASQ2 (CPVT2)
+1p13.3
+Calsequestrin 2
+KCNJ2 (CPVT3)
+17q23
+IK1 potassium channel (Kir2.1)
+CALM1
+14q32.11
+Calmodulin 1
+CALM3
+19q13.2-­q13.3
+Calmodulin 3
+TRDN
+6q22.31
+Cardiac triadin
+Brugada Syndrome (BrS)
+SCN5A (BrS1)
+3p21-­p24
+Cardiac sodium channel α subunit (Nav1.5)
+Minor BrS Genes (listed alphabetically)
+ABCC9
+12p12.1
+ATP-­binding cassette, subfamily C member 9
+CACNA1C
+2p13.3
+Voltage-­gated L-­type calcium channel (Cav1.2)
+CACNA2D1
+7q21-­q22
+Voltage-­gated L-­type calcium channel 2 δ1 subunit
+CACNB2
+10p12
+Voltage-­gated L-­type calcium channel β2 subunit
+FGF12
+3q28
+Fibroblast growth factor 12
+GPD1L
+3p22.3
+Glycerol-­3-­phosphate dehydrogenase 1–like
+KCND3
+1p13.2
+Voltage-­gated potassium channel (Ito) subunit Kv4.3
+KCNE3
+11q13.4
+Potassium channel β3 subunit (MiRP2)
+KCNJ8
+12p12.1
+Inward rectifier K+ channel Kir6.1
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+117
+CHAPTER 7  Syncope and Dizziness
+TABLE 7.10  Summary of Heritable Arrhythmia Syndrome Susceptibility Gene—cont’d
+Gene
+Locus
+Protein
+HEY2
+6q
+Hes-­related family BHLH transcription factor with 
+YRPW motif 2
+PKP2
+12p11
+Plakophilin-­2
+RANGRF
+17p13.1
+RAN guanine nucleotide release factor 1
+SCN1B
+19q13
+Sodium channel β1
+SCN2B
+11q23
+Sodium channel β2
+SCN3B
+11q24.1
+Sodium channel β3
+SCN10A
+3p22.2
+Sodium voltage-­gated channel α10 subunit (Nav1.8)
+SLMAP
+3p14.3
+Sarcolemma-­associated protein
+Early Repolarization Syndrome (ERS)
+ABCC9
+12p12.1
+ATP-­binding cassette, subfamily C member 9
+CACNA1C
+2p13.3
+Voltage-­gated L-­type calcium channel (Cav1.2)
+CACNA2D1
+7q21-­q22
+Voltage-­gated L-­type calcium channel 2 δ1 subunit
+CACNB2
+10p12
+Voltage-­gated L-­type calcium channel β2 subunit
+KCNJ8
+12p12.1
+Inward rectifier K+ channel Kir6.1
+SCN5A
+3p21-­p24
+Cardiac sodium channel α subunit (Nav1.5)
+SCN10A
+3p22.2
+Sodium voltage-­gated channel α10 subunit (Nav1.8)
+Idiopathic Ventricular Fibrillation (IVF)
+ANK2
+4q25-­q27
+Ankyrin B
+CALM1
+14q32.11
+Calmodulin 1
+DPP6
+7q36
+Dipeptidyl-­peptidase-­6
+KCNJ8
+12p12.1
+Inward rectifier K+ channel Kir6.1
+RYR2
+1q42.1-­q43
+Ryanodine receptor 2
+SCN3B
+11q23
+Sodium channel β3 subunit
+SCN5A
+3p21-­p24
+Cardiac sodium channel α subunit (Nav1.5)
+Progressive Cardiac Conduction Disease/Defect (PCCD)
+SCN5A
+3p21-­p24
+Cardiac sodium channel α subunit (Nav1.5)
+TRPM4
+19q13.33
+Transient receptor potential cation channel, subfamily 
+M, member 4
+Sick Sinus Syndrome (SSS)
+ANK2
+4q25-­q27
+Ankyrin B
+HCN4
+15q24-­q25
+Hyperpolarization-­activated cyclic nucleotide–gated 
+channel 4
+MYH6
+14q11.2
+Myosin, heavy chain 6, cardiac muscle, α
+SCN5A
+3p21-­p24
+Cardiac sodium channel α subunit (Nav1.5)
+“Ankyrin-­B Syndrome”
+ANK2
+4q25-­q27
+Ankyrin B
+Familial Atrial Fibrillation (FAF)
+ANK2
+4q25-­q27
+Ankyrin B
+GATA4
+8p23.1-­p22
+GATA-­binding protein 4
+GATA5
+20q13.33
+GATA-­binding protein 5
+GJA5
+1q21
+Connexin 40
+KCNA5
+12p13
+IKur potassium channel (Kv1.5)
+KCNE2
+21q22.1
+Potassium channel β subunit (MiRP1)
+KCNH2
+7q35-­36
+IKr potassium channel α subunit (HERG, Kv11.1)
+KCNJ2
+17q23
+IK1 potassium channel (Kir2.1)
+KCNQ1
+11p15.5
+IKs potassium channel α subunit (KVLQT1, Kv7.1)
+NPPA
+1p36
+Atrial natriuretic peptide precursor A
+NUP155
+5p13
+Nucleoporin 155 KD
+SCN5A
+3p21-­p24
+Cardiac sodium channel α subunit (Nav1.5)
+From Tester DJ, Ackerman MJ. Genetics of cardiac arrhythmias. In: Zipes DP, Libby P, Bonow RO, et al., eds. Braunwald’s Heart Disease. 11th ed. 
+Philadelphia: Elsevier; 2019:605–606, Table 33.1.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+118
+SECTION 3  Cardiac Disorders
+shunting, as well as decreased left ventricular output resulting from 
+poor transpulmonary flow and decreased left ventricular filling.
+Other rare causes of cardiac syncope are thoracic masses and intra­
+cardiac tumors or masses, coronary artery abnormalities, and inflam­
+matory cardiac diseases (myocarditis). Masses or tumors, such as 
+myxomas, fibromas, and rhabdomyomas, tend to produce paroxysmal 
+symptoms, which are often associated with position changes, especially 
+from the recumbent position. Coronary artery anomalies are usu­
+ally not accompanied by signs of ischemia. Rather, the most common 
+manifestation is syncope or sudden cardiac death from compression 
+of the anomalous left main coronary artery as it courses between the 
+pulmonary outflow and the aortic root (Fig. 7.5). This usually occurs 
+in a competitive athlete whose hypertrophied heart responds to cat­
+echolamine stimulation during activity and inadvertently compresses 
+the anomalous coronary artery. Inflammatory conditions, such as heart 
+block associated with Lyme disease and ventricular tachycardia associ­
+ated with myocarditis or pericarditis, predispose to dysrhythmias.
+Cardiac syncopal episodes can be accompanied by brief tonic-­
+clonic seizure activity known as Stokes-­Adams syndrome. The seizure 
+activity appears 10–20 seconds after the onset of asystole and is usually 
+of short duration with no subsequent postictal phase. Many children 
+with cardiac syncope are initially referred to a neurologist.
+Sudden cardiac death is discussed with cardiac causes of syncope 
+because cardiac causes of syncope may also produce sudden death 
+(see Table 7.3). Sudden cardiac arrest or death is defined as the abrupt 
+and unexpected loss of heart function. Structural causes include val­
+vular aortic stenosis, coronary artery anomalies, cardiomyopathies, 
+and myocarditis. Cardiac arrhythmias associated with sudden death 
+include Wolff-­Parkinson-­White syndrome and prolonged QT syn­
+drome. A less common cause is commotio cordis resulting from non­
+penetrating blunt trauma to the chest. Warning events or symptoms 
+may not always be evident prior to sudden cardiac death; if it presents, 
+patients may complain of episodes of dizziness, lightheadedness, pre­
+syncope, syncope, dyspnea, or palpitations. Other relevant history may 
+include fatigue, unexplained seizure, or chest pain. It is important for 
+the physician to perform a detailed history and physical examination 
+to look for warning signs of cardiovascular disease in the patient and 
+family (Table 7.12). Key elements of the physical examination should 
+include measurement of blood pressure and a complete cardiovascu­
+lar exam with attention to heart rate, rhythm, murmurs, pulses, and 
+features of possible hereditary disorders with recognizable phenotypes 
+such as Marfan syndrome.
+Predictors of a cardiac etiology of syncope versus a more benign 
+etiology such as neurocardiogenic syncope include:
+	1.	 Syncope associated with activity or while sitting or supine
+	2.	 Family history of cardiac disease or sudden/unexplained cardiac 
+death
+	3.	 Physical examination consistent with cardiac disease
+	4.	 Abnormal ECG
+	5.	 Palpitations
+NEUROLOGIC CAUSES OF SYNCOPE-­LIKE 
+EPISODES
+Primary neurologic causes of syncope are more unusual in otherwise 
+healthy children and adolescents than in adults. Seizures must be con­
+sidered if there is a history of an aural prodrome, focal or generalized 
+tonic-­clonic activity, and a prolonged postictal phase of lethargy or con­
+fusion (see Tables 7.4 and 7.5). Prolonged postevent lethargy is unusual 
+with more common causes of syncope if the vital signs have returned 
+to normal. Seizures are a common cause of loss of consciousness in 
+the recumbent patient. Seizures are often accompanied by tachycar­
+dia and normal or elevated blood pressure. A premonitory aura may 
+herald vertebrobasilar vascular spasm, which appears to occur when 
+syncope is with basilar type migraines. There may be a history of uni­
+lateral visual changes; the loss of consciousness usually has a somewhat 
+longer onset and duration. The patient frequently complains of head­
+ache after regaining consciousness. Basilar type migraine or migraine 
+affecting the vertebrobasilar circulation can cause dizziness, vertigo, 
+Lead II
+Fig. 7.2  Congenital complete atrioventricular (AV) block. The ventricular 
+rate is regular at 53 beats/min. The atrial rate is somewhat variable, 
+from 65 to 95 beats/min, and completely dissociated from the ventricle. 
+The QRS morphology is normal, which is common in congenital com­
+plete AV block. (From Van Hare GF. AV block. In: Kliegman RM, Stanton 
+BF, St. Geme JW III, Schor NF, eds. Nelson Textbook of Pediatrics. 20th 
+ed. Philadelphia: Elsevier; 2016:2260.)
+Fig. 7.3  An ECG showing a QT interval of 640 milliseconds in a patient with LQT1 syndrome, with the termi­
+nal portion of the T wave merging with the P wave. (From Garan H. Ventricular arrhythmias. In: Goldman L, 
+Schafer AI, eds. Goldman-­Cecil Medicine. 25th ed. Philadelphia: Elsevier; 2016:373.)
+Fig. 7.4  Episode of torsades de pointes in a patient with long QT syn­
+drome. (From Van Hare GF. Sudden death. In: Kliegman RM, Stanton BF, 
+St. Geme JW III, Schor NF, eds. Nelson Textbook of Pediatrics. 20th ed. 
+Philadelphia, Elsevier; 2016:2262.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+119
+CHAPTER 7  Syncope and Dizziness
+ataxia, confusion, and headache. There is often a positive family his­
+tory of migraines.
+METABOLIC CAUSES OF SYNCOPE
+Hypoglycemia should always be included as a cause of syncope, but 
+it is rare in children and adolescents except in patients with insulin-­
+dependent diabetes or inborn errors of glucose, glycogen, fatty acid 
+metabolism, or adrenal insufficiency (see Chapter 57). With hypogly­
+cemia, the patient feels weak, hungry, sweaty, agitated, and confused 
+and eventually experiences altered mental status. Onset is gradual, and 
+the patient remains hemodynamically stable, although tachycardia 
+may be evident. Ingestion of oral hypoglycemic agents may exceed the 
+body’s normal glucose homeostasis, resulting in hypoglycemia.
+SYNCOPAL-­LIKE EPISODES IN INFANTS AND 
+TODDLERS
+Reflex asystolic syncope, also known as “pallid breath-­holding spells,” 
+is often initiated in a toddler-­aged child with a minor stimulus (bump 
+to the head). This is not true breath holding; the child becomes pale, 
+loses tone, and may have asystole and on awakening red color returns 
+to the child’s face. This may be an early predictor of vasovagal syncope 
+in an older child.
+Cyanotic breath-­holding spells are triggered by pain or frustration 
+in a toddler-­aged infant. The child experiences a prolonged expiratory 
+apnea and loses tone. Treatment is reassurance and iron supplementa­
+tion if the serum ferritin level is low.
+Infant hyperekplexia manifests with hypertonia, apnea, exagger­
+ated startle response to unexpected stimuli (noise), and poststartle 
+rigidity. Associated gene variants include GLRA1, SLC6A5, GLRB, 
+GPHN, and ARHGEF9 (X-­linked). Most are autosomal dominant, but 
+autosomal recessive and X-­linked inheritance is possible. Treatment 
+includes clonazepam and placing the patient in a curled-­up position 
+during an episode.
+Paroxysmal extreme pain disorder may manifest in the neonate 
+and infant and is often triggered by defecation or by changes in tem­
+perature, emotional distress, eating spicy foods, or drinking cold fluids 
+in an older child (see Chapter 39). The manifestations include flush­
+ing (occasionally Harlequin change), apnea, stiffening, and paroxys­
+mal localized pain (jaw, perianal area). Gene variants in SCN9A cause 
+this autosomal dominant disorder. The differential diagnosis includes 
+erythromelalgia and hyperekplexia. Carbamazepine has been one 
+effective medication to manage the neuropathic pain.
+PSYCHIATRIC CAUSES OF SYNCOPE
+Patients with a history of panic attacks may become syncopal second­
+ary to hyperventilation. The mechanism is not completely understood 
+but may involve the reaction of cerebral blood flow in response to 
+hypocapnia and respiratory alkalosis. Tetany or paresthesias may be 
+present in some patients. The history of the episode is critical, and 
+witnesses are especially helpful. The patient frequently relates a feeling 
+of suffocation, smothering, shortness of breath, or chest tightness. In 
+TABLE 7.11  Drugs That Prolong the QT 
+Interval and Produce Torsades de Pointes
+Drugs Commonly 
+Involved
+Other Drugs
+Disopyramide
+Amiodarone
+Dofetilide
+Arsenic trioxide
+Ibutilide
+Cisapride
+Procainamide
+Quinidine
+Sotalol
+Bepridil
+Calcium channel blockers: lidoflazine (not mar­
+keted in the United States)
+Anti-infective agents: clarithromycin, erythromy­
+cin, halofantrine, pentamidine, quinoline-­class 
+antibiotics, hydroxychloroquine
+Antiemetic agents: domperidone, droperidol
+Antipsychotic agents: chlorpromazine, haloperidol, 
+mesoridazine, thioridazine, pimozide
+Methadone
+From Roden D. Drug-­induced prolongation of the QT interval. N Engl J 
+Med. 2004;350:1013–1022.
+Ao
+Ao
+PA
+PA
+Ant
+Post
+L
+R
+RCA
+RCA
+LCCA
+LCCA
+LAD
+LAD
+Normal
+coronary 
+anatomy
+Anomalous left
+coronary from the
+right between the
+ great arteries
+Fig. 7.5  Coronary artery anomalies associated with sudden cardiac death. Ant, anterior; Ao, aorta; L, left; 
+LAD, left anterior descending coronary artery; LCCA, left circumflex coronary artery; PA, pulmonary artery; 
+Post, posterior; R, right; RCA, right coronary artery.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+120
+SECTION 3  Cardiac Disorders
+retrospect, the patient may also admit to numbness and tingling of the 
+extremities and visual changes. Hyperventilation and hypocapnia may 
+be detected during a tilt-­table test by measuring end-­tidal co2.
+A psychiatric cause of syncope (pseudosyncope) is a diagnosis 
+of exclusion. The patient is usually an adolescent and frequently has 
+episodes in the presence of others. The patient is unusually calm in 
+describing the episodes and relates details that may indicate no loss 
+of consciousness. During the episode, there are no associated hemo­
+dynamic changes and no pallor, sweating, or respiratory changes. 
+Typically, the patient falls without injury. The key is to define what sec­
+ondary gain the patient attains through the disorder.
+EVALUATION OF THE SYNCOPAL CHILD
+History
+The history of the event is the critical information for most patients 
+(see Table 7.4). A detailed account of what the patient felt immedi­
+ately before losing consciousness, what the patient was doing, what 
+the posture or position was, how the patient looked, how long the 
+episode lasted, and associated signs or symptoms direct the diagnos­
+tic work-­up. A thorough and detailed family history is necessary to 
+discover risk for sudden death, dysrhythmia, heart disease, seizures, 
+and metabolic disorders. The medication history, including over-­the-­
+counter, prescribed, and illicit drugs, as well as any accessible medica­
+tion of other family members should be gathered.
+Physical Examination
+Any person who has a syncopal episode should undergo a thorough 
+physical examination, with special attention to the cardiovascular and 
+neurologic systems. The examination should include obtaining vital 
+signs with the patient supine and after standing for 5–10 minutes. 
+Upon careful auscultation, the presence of an outflow tract murmur 
+radiating to the neck, an abnormally loud second heart sound, or the 
+presence of a long decrescendo diastolic murmur at the apex leads to 
+more involved diagnostic testing. A complete neurologic exam should 
+be performed. In most cases, patients with a history of syncope have 
+normal physical findings at the time of the examination.
+Diagnostic Tests
+Because the child or adolescent who has had a syncopal episode is often 
+evaluated hours or days after the episode, testing serum glucose, electro­
+lytes, or urine toxicology screening is usually of no value. The routine 
+use of blood tests without an indication are of low diagnostic value. All 
+patients presenting with syncope need an ECG (Fig. 7.6). The ECG should 
+be inspected for the rhythm, with special attention to nonsinus rhythms 
+and bradycardia. Measurements of the intervals should be performed 
+manually regardless of any preprogrammed measurements printed on 
+the ECG. Abnormalities of the PR, QRS, or QT/corrected QT (QTc) 
+interval imply an underlying conduction abnormality. The P wave, QRS, 
+and T wave amplitudes may indicate chamber enlargement or hyper­
+trophy, each of which carries an increased risk for dysrhythmia. In the 
+patient who also has a history of palpitations associated with syncope, 
+long-­term cardiac monitoring, with or without a subsequent patient-­
+activated cardiac event recorder monitor, may help capture the cardiac 
+rhythm when the patient is symptomatic. If a heart murmur is appre­
+ciated, if there is a family history of sudden death or cardiomyopathy, 
+or if the ECG is at all questionable, a cardiology consultation should 
+be obtained, and two-­dimensional, Doppler, and color-­flow echocardi­
+ography should be performed. If the syncopal event is associated with 
+exercise, echocardiography is critical; if the results are normal, a graded 
+treadmill exercise stress test should be performed with full ECG and 
+blood pressure monitoring. Patients with primary dysrhythmias may 
+require cardiac catheterization and electrophysiologic testing. Patients 
+suspected of having a congenital dysrhythmia syndrome or cardiomyop­
+athy should undergo specific gene panel or exome genetic testing.
+Patients exhibiting prolonged loss of consciousness, seizure activity, 
+and a postictal phase of lethargy or confusion should be referred for 
+neurologic consultation and EEG. Without this history, the reported 
+positive yield of EEG is less than 1 in 300 studies. Likewise, neuroim­
+aging studies generally have an exceptionally low yield in the absence 
+of abnormality upon physical examination (see Fig. 7.6).
+SUMMARY AND RED FLAGS
+Hypotension, both supine and orthostatic, is a major red flag, as are 
+associated palpitations, exertional symptoms, or chest pain (Tables 
+7.13 and 7.14); participation in gym class or sports must be restricted 
+until a complete diagnostic work-­up is completed. Additional red flags 
+include syncope while supine, a positive family history of heart dis­
+ease or sudden death, prolonged loss of consciousness, prolonged sei­
+zures, prolonged postevent neurologic signs, and abrupt onset with no 
+prodrome. Laboratory tests, except for the ECG, which is mandatory, 
+TABLE 7.12  Pediatric Sudden Cardiac 
+Death Risk Assessment*
+Patient History Questions:
+Tell Me About Any of These in Your Child … Yes or No
+Has your child fainted or passed out during or after exercise, emotion, or 
+startle?
+Has your child ever had extreme shortness of breath and/or discomfort, pain, 
+or pressure in their chest during exercise?
+Has your child had extreme fatigue associated with exercise (different from 
+other children)?
+Has a doctor ever ordered a test for your child’s heart?
+Has your child ever been diagnosed with an unexplained seizure disorder? Or 
+exercise-­induced asthma not well controlled with medication?
+Family History Questions:
+Tell Me About Any of These in Your Family…
+Are there any family members who had a sudden, unexpected, unexplained 
+death before the age of 50 (including sudden infant death syndrome, car 
+crash, drowning, others) or near drowning?
+Are there any family members who died suddenly of “heart problems” before 
+the age of 50?
+Are there any family members who have had unexplained fainting or 
+seizures?
+Are there any relatives with certain conditions, such as:
+Enlarged heart: hypertrophic cardiomyopathy
+Dilated cardiomyopathy
+Heart rhythm problems: long QT syndrome
+Short QT syndrome
+Brugada syndrome
+Catecholaminergic ventricular tachycardia
+Arrhythmogenic right ventricular cardiomyopathy
+Marfan syndrome (aortic rupture)
+Heart attack, age 50 or younger
+Pacemaker or implanted defibrillator
+Deaf at birth (congenital deafness)
+Please Explain More About Any “Yes” Answers.
+*Ask these questions (or have parents complete for your review) at 
+periodic times during well-­child visits (neonatal, preschool, before or 
+during middle school, and before or during high school).
+From Campell R, Berger S, Ackerman M, et al. Policy statement pedi­
+atric sudden cardiac arrest. AAP Pediatr. 2012;e1094–e1102.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+121
+CHAPTER 7  Syncope and Dizziness
+are generally of limited value unless guided by pertinent findings in 
+the history and physical examination. The ECG allows screening for 
+Wolff-­Parkinson-­White syndrome, heart block, and long QT syn­
+drome as well as hypertrophic cardiomyopathies and myocarditis. The 
+most common identifiable etiology in an otherwise healthy child or 
+adolescent is neurocardiogenic syncope, usually a benign and transient 
+condition.
+VERTIGO
+The characteristic description of vertigo is the illusion of motion usu­
+ally described as the environment spinning or whirling. The perception 
+of motion may be internal (“My head is [or eyes are] spinning”) or 
+external (“The room is spinning or moving”). The sensation is usually 
+rotatory, but it can be linear (“It feels like the swaying of a boat”).
+Obtaining an accurate description from younger children is diffi­
+cult. Using terms that the child may understand such as “sliding” or 
+“swinging” may be helpful. The patient’s description is critical although 
+potentially vague; further questioning may lead to the rather discrete 
+differential diagnosis of vertigo.
+The presence of associated symptoms may help locate the pathology 
+to a central or peripheral cause of vertigo (Tables 7.15, 7.16, and 7.17). 
+Fortunately, peripheral causes of vertigo are more common. Sponta­
+neous rotary vertigo, nystagmus, and abnormal head positions are 
+Perform ECG, orthostatic 
+BPs ± urine HCG in 
+adolescent females
+Arrhythmias
+Wolff-Parkinson-White
+  syndrome
+Long QT syndromes
+Brugada syndrome
+Obstructive lesions
+Aortic stenosis
+Pulmonic stenosis
+Hypertrophic cardiomyopathy
+Coronary artery anomalies
+(congenital, Kawasaki)
+Other causes of myocardial
+ischemia/infarction
+Myocarditis/other
+myocardial dysfunction
+Pulmonary hypertension
+Intracardiac mass or tumor
+Subclavian steal syndrome
+Vasovagal (postural reflex,
+neurally mediated)
+Situational syncope
+Cough
+Micturition
+Defecation
+Hair grooming
+Stretching
+Orthostatic hypotension
+Hypovolemia
+Related to medications
+Postural orthostatic
+tachycardia syndrome
+Vasovagal (postural reflex,
+neurally mediated)
+Situational syncope
+Cough
+Micturition
+Defecation
+Hair grooming
+Stretching
+Orthostatic hypotension
+Hypovolemia
+Related to medications
+Postural orthostatic
+tachycardia syndrome
+Breath-holding spells
+Hysteria/conversion
+Metabolic (hypoglycemia,
+electrolyte disorders)
+Anemia
+Hyperventilation
+Pregnancy
+Anorexia nervosa
+Carbon monoxide poisoning
+Positive
+HCG
+Pregnancy
+Abnormal
+ECG
+Refer to cardiology
+for further evaluation
+Suspect neurologic
+disorder
+Orthostatic
+hypotension
+Recurrent episodes
+(>2 to 3)
+Refer to cardiology
+for consideration of
+tilt test, other
+evaluation
+Obtain EEG,
+neurology consult
+Seizure disorder
+Brain tumor
+Migraine
+Signs or symptoms
+suggestive of
+cardiac etiology
+Normal
+results
+SYNCOPE
+Perform H and P
+Abnormal
+orthostatic
+blood pressures
+YES
+NO
+YES
+NO
+YES
+NO
+Fig. 7.6  Syncope algorithm. BP, blood pressure; H, history; HCG, human chorionic gonadotropin; P, physical 
+examination. (From Pomeranz A, Sabnis S, Busey SL, Kliegman RM, eds. Pediatric Decision-­Making Strate­
+gies. Philadelphia: Elsevier; 2016:59.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+122
+SECTION 3  Cardiac Disorders
+symptoms associated more with peripheral causes of vertigo along with 
+nausea, vomiting, sweating, faintness, and fright. Peripheral vertigo 
+results in stimulation of the autonomic nervous system with resultant 
+intense nausea, vomiting, pallor, and diaphoresis. If the vertigo occurs 
+with abrupt changes in the position of the head, peripheral causes of 
+vertigo should be suspected. Peripheral vertigo can be caused by the 
+following: middle ear infections, paroxysmal positional vertigo, laby­
+rinthitis, vestibular neuronitis, Ménière disease (rare in pediatrics), or 
+trauma (see Table 7.16).
+Patients suffering from acute ongoing peripheral vertigo appear 
+very ill and very uncomfortable. Because middle ear infection can 
+cause peripheral vertigo, some children seen with otitis media and 
+vomiting may in fact have peripheral vertigo and secondary vomiting.
+Benign paroxysmal vertigo of childhood is a common cause of 
+episodes of vertigo in pediatrics. It is thought to be a precursor of 
+future migraines. The episodes may be associated with imbalance 
+and nystagmus. The child will have recurrent brief attacks of vertigo 
+that resolve quickly. There is no associated headache. The episodes 
+improve with age; however, later in life the patient may develop 
+migraine headaches.
+A more indolent course, a change in consciousness or behavior, or 
+seizures may indicate a central origin of vertigo (see Table 7.17). Under­
+lying causes of central vestibular dysfunction include acute vascular 
+ischemic or thromboembolic events, acute demyelinating diseases, and 
+pharmacologic vertigo (alcohol, barbiturates, benzodiazepines). More 
+indolent causes of vertigo include tumors of the brainstem or cerebel­
+lum, chronic demyelinating diseases, or trauma (see Table 7.17).
+Rare syndromes producing vertigo include Cogan syndrome (inter­
+stitial keratitis, sensorineural hearing loss, Ménière-­like symptoms), 
+Vogt-­Koyanagi-­Harada syndrome (uveomeningitis, sensorineural 
+hearing loss), Susac syndrome (microangiopathy, stroke, visual loss, 
+sensorineural hearing loss), relapsing polychondritis, and granuloma­
+tosis with polyangiitis.
+EVALUATION OF THE PATIENT WITH VERTIGO
+History
+A careful, detailed description of the prodrome and the actual symp­
+toms, including timing, duration, associated symptoms, preceding 
+infections (especially of the upper respiratory tract, such as otitis 
+media or sinusitis), medications, and a history of trauma, must be doc­
+umented. A past, personal, or family history of vertigo or any other 
+neurologic condition is important.
+Physical Examination
+Special attention must be paid to the head, ears, eyes, nose, and throat 
+examination. Good visualization of the tympanic membranes and of 
+their mobility is necessary, along with testing both air and bony con­
+duction with a tuning fork (Figs. 7.7 and 7.8). Visualization of the fundi 
+is important. Testing of all the cranial nerves should be performed 
+along with a complete neurologic exam.
+The neurologic examination must include an evaluation of the gait, 
+a Romberg test, and an assessment of the visual fields and visual acuity 
+(Fig. 7.9). In most children and adolescents, the physical examination 
+results are normal with only subtle findings when the symptoms are 
+provoked.
+The HINTS exam (Head Impulse, Nystagmus, Test of Skew) may 
+help differentiate peripheral vs central causes of vertigo (Table 7.18).
+Diagnostic Tests
+The history and physical examination results direct the diagnostic 
+work-­up and indicate which tests need to be performed. Imaging stud­
+ies important in the work-­up of the vertiginous patient include MRI 
+with visualization of the inner ear, the labyrinthine apparatus, the 
+brainstem, and the cerebellum. If an infectious cause is suspected, it 
+may be useful to perform a lumbar puncture if increased intracranial 
+pressure is not suspected. In the setting of trauma, the simple use of the 
+pneumatic otoscope may allow the examiner to perform a “fistula test,” 
+reproducing or worsening the patient’s symptoms because of an abnor­
+mal communication to the labyrinthine system. If hearing loss is a fea­
+ture, audiometry and evoked response testing should be considered.
+SUMMARY AND RED FLAGS
+Vertigo is characterized by the perception of movement, particularly 
+rotational movement, and can be a most distressing and incapacitating 
+phenomenon. The history and examination should allow the examiner 
+to distinguish between peripheral and central vestibular dysfunction.
+In children and adolescents, peripheral vertigo is far more common 
+than central vertigo. However, in certain at-­risk populations, such as 
+children with sickle cell disease, hemophilia, or congenital heart dis­
+ease (especially children with right-­to-­left shunts or mixing lesions) 
+and children receiving anticoagulation therapy, the central causes 
+resulting from hemorrhagic and thromboembolic phenomena must 
+be considered. Chronicity, persistence, vertical nystagmus, and signs 
+of increased intracranial pressure are red flags. Because the diagnosis 
+of vertigo requires that the patient be able to articulate the perception 
+TABLE 7.13  “Red Flags” in the Evaluation 
+of Patients with Syncope
+Syncope with activity or exercise or supine
+Syncope not associated with prolonged standing
+Syncope precipitated by loud noise or extreme emotion
+Absence of presyncope or lightheadedness
+Family history of syncope, drowning, sudden death, familial ventricular 
+arrhythmia syndromes, cardiomyopathy
+Syncope requiring CPR
+Injury with syncope
+Anemia
+Chest pain
+Dyspnea
+Palpitations
+History of cardiac surgery
+History of Kawasaki disease
+Implanted pacemaker
+Abnormal physical examination
+Murmur
+Gallop rhythm
+Loud and single second heart sound
+Systolic click
+Increased apical impulse (tachycardia)
+Irregular rhythm
+Hypo-­ or hypertension
+Clubbing
+Cyanosis
+From Van Hare GF. Syncope. In: Kliegman RM, Stanton BF, St. Geme 
+JW III, Schor NF, eds. Nelson Textbook of Pediatrics. 20th ed. Philadel­
+phia: Elsevier; 2016:515.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+123
+CHAPTER 7  Syncope and Dizziness
+TABLE 7.14  Summary of Clinical Recommendations for Transient Loss of Consciousness
+Topic
+Recommendations
+Initial assessment
+Detailed history, especially from witnesses
+Full clinical examination
+12-­lead ECG
+Uncomplicated faints
+Suggestive features include:
+Posture: occurrence during prolonged standing or previous similar episodes avoided by lying down Provoking factors, such 
+as pain or a medical procedure
+Prodromal symptoms, such as sweating or feeling warm or hot before TLoC
+Further investigation and specialist referral are not needed.
+Epilepsy
+Suggestive features are a bitten tongue; head turning to one side during TLoC; no memory of abnormal behavior that occurred 
+before, during, or after TLoC; unusual posturing; prolonged limb jerking; confusion after the event; or prodromal déjà vu or 
+jamais vu.
+If features of epilepsy are present, arrange for early review by an epilepsy specialist.
+Do not arrange for EEG before neurologic assessment.
+Note that brief seizure-­like activity often occurs during syncope, including uncomplicated faints.
+Do not suspect epilepsy unless suggestive features are present. Arrange for cardiovascular assessment if the cause of TLoC is 
+unclear.
+Urgent specialist referral
+Give immediate treatment for clinically urgent problems (such as complete AV block or severe bleeding).
+Arrange for urgent specialist cardiovascular assessment for patients at risk for a severe adverse event (such as those with long 
+QT interval, cardiac arrhythmia, or structural heart disease).
+Further cardiovascular assessment
+Focus on specific disorders that may cause TLoC, such as orthostatic hypotension, the carotid sinus syndrome, structural heart 
+disease, or cardiac arrhythmia.
+Assessment should include repeated history, clinical examination, and 12-­lead ECG.
+For suspected cardiac arrhythmia or unexplained TLoC, use ambulatory ECG for further assessment:
+Very frequent episodes: use 24-­ to 48-­hr Holter monitoring.
+Moderately frequent episodes: use external event monitoring.
+Infrequent episodes: use an implantable event recorder.
+AV, atrioventricular; TLoC, transient loss of consciousness.
+Modified from Cooper PN, et al. Synopsis of the National Institute for Health and Clinical Excellence Guideline for management of transient loss of 
+consciousness. Ann Intern Med. 2011;155:543–549.
+TABLE 7.15  Differences Between Peripheral and Central Vestibular Dysfunctions
+Symptom/Sign
+Peripheral
+Central
+Severity of vertigo
+Marked
+Often mild
+Nausea and vomiting common
+Nystagmus
+Bilateral
+Bilateral or unilateral
+Unidirectional
+Bidirectional or unidirectional
+Rotatory/horizontal
+May be vertical
+Never vertical
+Usually no change with visual fixation
+Fast phase usually opposite to side of lesion
+Improves with visual fixation
+Begins within 2–10 sec
+Begins immediately
+Fatigues with time
+Persistent
+Habituates
+Reproducibly repetitive
+Direction of environmental spin
+Toward fast phase of nystagmus
+Variable
+Direction of past pointing
+Toward slow phase of nystagmus
+Variable
+Tinnitus/deafness
+Often present
+Usually absent
+Examples
+Labyrinthitis
+Multiple sclerosis
+Ménière disease
+Vertebrobasilar ischemia (see Table 7.17)
+Positional vertigo (see Table 7.16)
+Modified from Reilly BM. Practical Strategies in Outpatient Medicine. 2nd ed. Philadelphia: WB Saunders; 1991:191.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+124
+SECTION 3  Cardiac Disorders
+TABLE 7.16  Peripheral Vestibulopathy
+Syndrome
+Usual Presentation
+Typical Course
+Hearing Loss?
+Diagnosis
+Benign paroxys­
+mal positional 
+vertigo
+Paroxysmal, brief, purely positional vertigo
+Often polyphasic illness with 
+gradual improvement but 
+intermittent brief recurrences 
+for weeks/months
+Does not cause ongoing severe 
+vertigo
+No
+History
+Nylen-­Bárány maneuvers
+Vestibular neu­
+ronitis
+Acute-­onset, severe vertigo, sometimes 
+after viral respiratory infection
+Severe ongoing vertigo for 
+many hours or a few days
+Monophasic illness
+Resolves spontaneously
+No hearing loss
+No
+Clinical history
+Normal hearing
+Peripheral nystagmus
+Rapid (hours–days) resolution without 
+recurrence
+Infectious labyrin­
+thitis
+Usually, mild vertigo accompanying obvious 
+sinusitis, otitis media, or serous otitis
+Resolves over several days with 
+resolution of otitis/sinusitis
+Very rarely: severe purulent 
+labyrinthitis, mastoiditis, 
+meningitis
+No, unless conductive 
+loss due to otitis 
+associated
+ENT examination: otitis media? serous 
+otitis? sinusitis?
+Toxic vestibulop­
+athy
+Vertigo and/or hearing loss associated with 
+use of toxic drugs
+Usually dose related and 
+reversible after withdrawal or 
+dose reduction of offending 
+drug
+Depends on drug, but 
+sensorineural deaf­
+ness is common with 
+aminoglycosides, 
+aspirin, loop diuretics, 
+platinum; hearing is 
+usually normal with 
+alcohol and quinidine
+Peripheral vertigo with or without 
+hearing loss while/after patient takes 
+vestibulotoxic drugs; most are revers­
+ible with discontinuation of drug
+Cervicogenic 
+vestibulopathy
+Brief positional vertigo, associated with 
+head and neck movements
+Usually recurrent, brief, nonde­
+bilitating vertigo in patients 
+with cervical spondylosis or 
+other craniovertebral disease 
+(rheumatoid arthritis, Klippel-­
+Feil deformity)
+No (but unrelated 
+presbycusis common 
+in this age group)
+Typical history
+Nylen-­Bárány maneuvers not consistent 
+with benign positional vertigo
+Exclude:
+Vertebrobasilar ischemia
+Carotid sinus hypersensitivity
+Cholesteatoma
+Recurrent, often positional vertigo in 
+patients with a history of chronic otitis, 
+TM perforation, mastoiditis
+Indolent progression of 
+symptoms
+Conductive
+Usually visible (at superior border of 
+tympanic membrane) on otoscope 
+examination of ear
+Otosclerosis
+Progressive hearing loss, sometimes with 
+intermittent vertigo
+Indolent progressive hearing 
+loss
+Conductive
+Family history
+Audiometry
+Post-­Traumatic
+Basilar (temporal 
+bone) fracture
+Severe vertigo, often with profound hearing 
+loss immediately after head trauma
+Gradual (days–weeks) 
+resolution of vertigo; hearing 
+loss, facial nerve injury often 
+permanent
+Often: sensorineural
+Radiograph: fracture
+Hemotympanum?
+CSF otorrhea?
+Facial paresis?
+Postconcussive
+Ongoing, often mild/chronic vertigo after 
+concussion, without fracture
+Gradual resolution but often 
+delayed for months–years
+No
+Persistent/chronic symptoms without 
+evidence of other post-­traumatic 
+syndromes
+Cupulolithiasis
+Classic benign positional vertigo, but after 
+head trauma
+Same as for benign positional 
+vertigo
+No
+Clinical history
+Nylen-­Bárány maneuvers
+Exclude fistulas
+Perilymphatic 
+fistula
+Trauma may be remote or indirect (swim­
+ming, diving injuries)
+Usually, positional vertigo, recurrent; or 
+mild persistent vertigo
+Post-­traumatic vertigo that 
+does not improve over time
+Often: mixed or senso­
+rineural
+Clinical history
+Positive fistula test
+Valsalva maneuver: symptoms worsen?
+Whiplash
+Positional vertigo, worse with neck 
+extension or turning, after deceleration 
+neck injury
+Gradual but slow improvement 
+with resolution of neck 
+symptoms
+Usually none
+Clinical history
+Exclude fractures and fistulas
+Ossicular disrup­
+tion
+Hearing loss, acute vertigo, following 
+head/facial trauma
+Gradual (days) resolution of 
+vertigo; hearing loss persists
+Conductive
+Clinical history
+Audiometry
+Exclude fistulas
+CSF, cerebrospinal fluid; ENT, ear–nose–throat; TM, tympanic membrane.
+Modified from Reilly BM. Practical Strategies in Outpatient Medicine. 2nd ed. Philadelphia: WB Saunders; 1991:196–197.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+125
+CHAPTER 7  Syncope and Dizziness
+of movement, it is difficult to make this diagnosis in young children; 
+the condition must be carefully distinguished from other movement 
+impairments, especially disequilibrium.
+DISEQUILIBRIUM
+When a “dizzy” patient describes feeling unsteady on their feet, off bal­
+ance, or uncoordinated, the patient is describing a disturbance in the 
+body’s equilibrium system. The fundamental complaint is difficulty in 
+walking, not from weakness but from a feeling of lack of control.
+Walking is a complex activity. The constant integration of visual, 
+vestibular, and proprioceptive afferent information regarding the 
+changing spatial orientation is performed by using all levels of the 
+central nervous system: the cerebral cortex, cerebellum, brainstem, 
+spinal cord, and peripheral neuromuscular system. These spatial data 
+are then utilized by the efferent system, producing both voluntary and 
+involuntary movements and spatial adjustments (Fig. 7.10). Distur­
+bances in any of these pathways can result in difficulty with locomotion.
+Disequilibrium, therefore, may result from any perceptual distor­
+tion of spatial orientation. Humans depend heavily on visual percep­
+tion to orient themselves in space. Vestibulocochlear dysfunction can 
+also severely impair a person’s ability to ambulate. Peripheral neuropa­
+thies affecting proprioceptive function impair the ability of the central 
+nervous system to accurately perceive the position of the limbs with 
+regard to one another and to either the ground or the body. Disorders 
+causing diffuse damage to the integrative mechanism or cortical or cer­
+ebellar diseases can impair proprioception as well. Likewise, efferent 
+motor disability produces impairment of locomotion by producing 
+weakness or apraxias (Table 7.19).
+The history is critical for patients complaining of dizziness or dif­
+ficulty ambulating. For children, this includes a detailed developmen­
+tal history, because the differential diagnosis varies significantly for 
+TABLE 7.17  Central Vertigo
+Cause
+Clinical Clues
+Diagnosis
+Vertebrobasilar ischemia
+Known (suspected) vascular disease: hypertensive, diabetic
+Almost always accompanied by brainstem symptoms and signs: diplopia, 
+dysarthria, dysesthesias, motor weakness
+TIA: clinical history
+Stroke: neurologic examination
+CT scan may be unreliable
+MRI more sensitive
+Angiography?
+Cerebellar hemorrhage
+Hypertensive, anticoagulated, post-­traumatic
+Sudden headache: diplopia, ataxia usually more prominent than vertigo
+CT scan
+Cerebellopontine angle tumors 
+(acoustic neuroma)
+Hearing loss, tinnitus much more prominent than vertigo
+Mild disequilibrium
+Early: normal neurologic examination, except sensorineural hearing loss
+Later: cranial nerves V and VII abnormal; papilledema?
+Audiometry: retrocochlear, sensorineural hearing loss
+CT scan, MRI
+Internal audiometry canal tomography
+ENG, ABER
+Multiple sclerosis
+Optic neuritis
+Internuclear ophthalmoplegia
+Spastic paraparesis/incontinence
+Vertigo first isolated symptom in only 10% of cases
+Multiplicity of symptoms and signs dissociated in time 
+and space
+MRI scanning
+CSF: oligoclonal bands
+Drug toxicity
+Alcohol, sedatives, tranquilizers, opiates, anticonvulsants
+Discontinue drug
+Basilar migraine
+Vertigo part of headache syndrome
+Usually positive family history
+Clinical history
+Vertiginous (temporal lobe) 
+epilepsy
+Vertigo as aura prior to loss of consciousness
+Very rare
+Clinical history
+Exclude other diagnoses
+EEG
+Cranial neuropathy
+Many types, all uncommon:
+Herpes zoster: external ear/palate skin lesions and cranial nerve VIII 
+symptoms
+Postinfectious: after viral syndromes: polyneuritis and/or cerebellitis 
+and/or encephalitis
+Chronic meningitis: syphilis, tuberculosis, sarcoid, carcinomatous
+Vasculitis: Cogan syndrome, polyangiitis with granulomatosis, tempo­
+ral arteritis, syphilis
+Head and neck carcinoma
+Vascular compression syndromes
+Others: heredofamilial disorders (Friedreich ataxia, spinocerebellar degeneration, olivopontocerebellar degeneration)
+Cerebellar degeneration (alcohol, cancer)
+Tumor of brainstem, cerebellum
+Syrinx cervical cord
+Post-­traumatic concussion
+ABER, auditory brainstem-­evoked response; CSF, cerebrospinal fluid; ENG, electronystagmography; TIA, transient ischemic attack.
+Modified from Reilly BM. Practical Strategies in Outpatient Medicine. 2nd ed. Philadelphia: WB Saunders; 1991:200.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+126
+SECTION 3  Cardiac Disorders
+children who were walking and then stop and for those who do not 
+achieve that milestone. For younger children, it may be very difficult 
+to determine whether refusal or reluctance to walk is related to imbal­
+ance, pain, or weakness. Nausea and vomiting are usually associated 
+with vertigo but tend to be rare with disequilibrium. Nausea and vom­
+iting may accompany a viral illness that results in an acute cerebellar 
+ataxia and thus may precede the onset of disequilibrium. If nausea is 
+simultaneous with the disequilibrium, drug or alcohol intoxication 
+must be considered. Morning nausea or vomiting can be seen with 
+increased intracranial pressure, as in hydrocephalus and posterior 
+fossa tumors. Any history of head trauma, especially in toddlers, and 
+any history of congenital heart disease with the potential for paradox­
+ical embolization, including septic emboli resulting in brain abscess, 
+must be considered.
+It is important to distinguish acute intermittent ataxia from more 
+chronic or progressive forms (Tables 7.20 and 7.21). Drugs and post­
+viral cerebellitis are common causes of acute sudden-­onset ataxia. 
+Varicella-­associated postinfectious acute cerebellar ataxia usually 
+comes after the infection, but in rare instances, it may occur before 
+or during chickenpox. Its nature is benign. Metabolic hereditary 
+disorders may cause intermittent symptoms provoked by fever, as in 
+maple syrup urine disease, ataxia-­telangiectasia, Hartnup disease, Ref­
+sum disease, pyruvate decarboxylase deficiency, abetalipoproteinemia, 
+biotinidase deficiency, and some enzyme deficiencies. These must be 
+distinguished from hypothyroidism, demyelinating disorders, muscu­
+lar dystrophies, and neoplasms of the posterior fossa, brainstem, and 
+spinal cord. Paraneoplastic effects of neuroblastoma produce ataxia, 
+opsoclonus, and myoclonus. The Miller Fisher variant of Guillain-­
+Barre syndrome produces ataxia, ophthalmoplegia, and areflexia.
+Progressive ataxias have a poorer prognosis. Age at onset can be 
+used to distinguish some causes: Posterior fossa tumors and neuro­
+blastoma generally occur within the first decade, Friedreich ataxia and 
+Duchenne muscular dystrophy during the late first to second decades, 
+and multiple sclerosis and diabetic peripheral neuropathy in the sec­
+ond decade.
+Observation of the child’s gait is an important component of the 
+physical examination. Sufficient room should be found to allow the 
+child to initiate walking, to proceed in a straight line for 10–20 paces, 
+and to turn and return. The normal child, older than 2–3 years, initiates 
+walking without hesitation and steps smoothly with a consistent stride 
+length and height and a narrow base. The arms should swing freely and 
+rhythmically, alternating with the feet, and there should be little sway 
+in the trunk. When the child stops, there should be no hesitation again 
+and no wavering or compensation.
+One of the most common gait abnormalities in children is the wide-­
+based gait. Careful observation of toddlers at various stages of develop­
+ment familiarizes the observer with the transition from the wide-­based, 
+lurching steps of a 12 month old to the smooth, sure, rhythmic stride 
+of children older than 2–3 years. Excessive trunk sway is typical of 
+cerebellar ataxia. Waddling tends to be caused by proximal muscle 
+weakness with a forward-­leaning, stiff appearance. It is important to 
+A
+B
+Fig. 7.7  The Rinne test. The tuning fork is first placed on the mastoid 
+process (A). When the sound can no longer be heard, the tuning fork 
+is placed in front of the external auditory meatus (B). Normally, air con­
+duction is better than bone conduction. (From Swartz MH. Textbook of 
+Physical Diagnosis: History and Examination. Philadelphia: WB Saun­
+ders; 1989:175.)
+A
+B
+Fig. 7.8  The Weber test. When a vibrating tuning fork is placed on the 
+center of the forehead, the sound is normally heard in the center with­
+out lateralization to either side (top). A, In the presence of a conductive 
+hearing loss, the sound is heard on the side of the conductive loss. B, 
+In the presence of a sensorineural loss, the sound is better heard on 
+the opposite (unaffected) side. (From Swartz MH. Textbook of Phys­
+ical Diagnosis: History and Examination. Philadelphia: WB Saunders; 
+1989:175.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+127
+CHAPTER 7  Syncope and Dizziness
+distinguish an unsteady gait with irregular steps from a limp or a sen­
+sory deficit resulting in a high step with a slapping foot plant.
+In a toddler, passive and active range of motion exercises should be 
+performed to ensure the observer that there is no joint or muscle pain. 
+Reflexes, including the Babinski sign, should be carefully tested. Test­
+ing the sensory system in a toddler, especially proprioception, vibra­
+tion, and two-­point discrimination, can be a challenge. The Romberg 
+test may also be difficult for younger children.
+Evaluation of the Patient with Disequilibrium
+History
+A detailed developmental history, especially for a younger child, is 
+obtained. The family history should also be complete. The examiner 
+should check for prodromal illnesses, especially viral in nature:
+Is there any history of trauma?
+What is the character of the disability?
+Does the child feel unsteady standing, starting to walk, stopping, or 
+turning?
+How do the parents characterize the child’s gait?
+Are there associated symptoms, such as nausea, vomiting, pain, or vertigo?
+Does the child take or have access to any medications or drugs?
+Is the disequilibrium intermittent or constant?
+Are there any other medical conditions?
+Physical Examination
+A thorough general physical examination should precede a very 
+detailed neuromuscular examination. The presence of a goiter, cuta­
+neous lesions of neurofibromatosis, or tuberous sclerosis may point to 
+a diagnosis immediately. The neuromuscular examination should pro­
+ceed from head to toe in an organized and systematic manner. Mus­
+cle tone, bulk, and symmetry of the face, trunk, and extremities are 
+important. Cranial nerves should be examined, as should the sensory 
+system. During the motor examination, the physician should isolate 
+muscle groups and joints by observing the gait more than once before 
+assessing overall function. The Romberg test should be performed in 
+all patients old enough to cooperate, as should the lateralizing cerebel­
+lar tests, such as the finger-­to-­nose and rapid, alternating movements. 
+A
+B
+Fig. 7.9  The Romberg test. The patient stands upright, feet together, 
+arms at sides. The examiner should stand next to the patient. The test is 
+performed in two stages: with the patient’s eyes open and then with the 
+eyes closed. Even a normal person may experience mild subjective dis­
+equilibrium and may “waver” with the eyes closed. Thus, the Romberg 
+test can sometimes stimulate the feeling of disequilibrium. A, With the 
+eyes open, the patient can stand unsupported without difficulty. B, With 
+the eyes closed, the patient loses their balance. This test result suggests 
+peripheral neuropathy or vestibular dysfunction or both. Cerebellar dis­
+ease more often results in an inability to maintain posture with the eyes 
+either open or closed. (From Reilly BM. Practical Strategies in Outpatient 
+Medicine. 2nd ed. Philadelphia: WB Saunders; 1991:168.)
+TABLE 7.18  Interpretation of the HINTS 
+Exam
+HINTS Exam 
+Component
+Peripheral Vertigo
+Central 
+Vertigo
+Head Impulse Test (HIT)
+Loss of eye fixation with 
+head impulse; “positive” or 
+“abnormal”
+Intact vestibulo-­
+ocular reflex; 
+“negative” or 
+“normal”
+Nystagmus (N)
+None or horizontal unidirec­
+tional
+Vertical, rotatory, 
+or horizontal 
+bidirectional
+Test of Skew (TS)
+No skew; “negative”
+Skew; “positive”
+From Quimby AE, Kwok ESH, Lelli D, et al. Usage of the HINTS exam 
+and neuroimaging on the assessment of peripheral vertigo in the 
+emergency department. J Otolaryngol Head Neck Surg. 2018;47:54.
+Efferent arc:
+Muscles
+Joints
+Coordination
+Afferent arc:
+Vestibular
+Visual
+Proprioceptive
+Integrative mechanisms:
+Cerebellum
+Cerebral cortex
+Spinal cord
+Fig. 7.10  The afferent, integrative, and efferent components of the 
+equilibrium system. (From Reilly BM. Practical Strategies in Outpatient 
+Medicine. 2nd ed. Philadelphia: WB Saunders; 1991:166.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+128
+SECTION 3  Cardiac Disorders
+TABLE 7.19  Disequilibrium
+Cause
+Clues
+Gait/Romberg Test Result
+Most Common
+Multiple sensory deficits
+Visual impairment?
+Hearing/vestibular dysfunction?
+Neuropathy?
+Spondylosis/degenerative joint disease?
+Neuropathy?
+Weakness?
+Timid: slow, short-­stepped, apprehensive
+Remarkably improved with sensory assist (cane, 
+companion)
+Romberg: normal or sensory
+Hyperventilation/anxiety disorders
+Young, healthy, anxious patient with episodic “spells” of disequi­
+librium
+or
+Constant, chronic, elusive disequilibrium with or without obvious 
+medical/psychosocial stress
+Usually normal gait
+Romberg: normal
+or
+“Nonphysiologic”
+Vestibular disorders
+Chronic unilateral vestibulopathy may cause ongoing disequilibrium: 
+Ménière disease, cholesteatoma, fistula, acoustic neuroma, drug-­
+induced vestibulopathy
+Usually normal gait
+May veer to side of vestibular lesion
+Romberg: sensory
+Drug induced
+Central nervous system agents: tranquilizers, barbiturates, seda­
+tives, alcohol, H2 blockers, β blockers, calcium agents, indometh­
+acin
+Timid and/or ataxic gait
+Romberg: normal or cerebellar
+Vestibulotoxic agents: aspirin, loop diuretics, aminoglycosides, 
+quinidine
+Romberg: sensory or normal
+Alcoholic
+Heavy alcohol abuse may cause cerebellar and/or sensory degen­
+eration
+Nystagmus uncommon
+Ataxic gait
+Romberg: cerebellar or sensory
+Painful ambulation
+Arthritis?
+Claudication?
+Pain is limiting factor!
+Limping?
+Waddling?
+Normal gait?
+Romberg: usually normal
+Fear of falling
+Normal examination
+No apraxia or ataxia
+Rarely, phobic
+Timid gait
+Romberg: often cerebellar but fluctuates, inorganic
+Less Common
+Hypothyroidism
+Weight gain or poor growth, cold intolerance, hoarseness, fatigue
+Usually normal gait
+Severe: ataxic gait
+Hypoglycemia
+Episodic
+Romberg: usually normal
+Apraxia
+Usually diffuse cortical dysfunction or frontal lobe disease
+Usually apraxic in execution of other skilled movements (e.g., 
+combing hair, brushing teeth)
+Apraxic gait
+Romberg: normal
+Peripheral disease
+Diabetes, alcoholism, pernicious anemia
+Only very severe (proprioceptive) neuropathy causes gait disorder
+Sensory gait: footdrop and/or circus clown
+Romberg: sensory
+Cerebellar disease (nonalcoholic)
+See text
+Ataxic gait
+Romberg: cerebellar
+Spasticity
+Multiple sclerosis, spinal cord tumor/trauma
+Legs: weak, hyperreflexic, clonus
+Often bowel/bladder dysfunction
+Spastic, scissors gait
+Romberg: often normal
+Normal-­pressure hydrocephalus
+Urinary incontinence
+Cognitive impairment
+Gait disturbance
+Ataxic/apraxic
+Hemiplegia
+Prior cerebrovascular accident
+Hemiparesis on neurologic examination
+Hemiplegic gait
+Romberg: often normal (if able to perform at all)
+Proximal myopathy
+Severe bilateral proximal leg weakness: hip disease, muscular 
+dystrophy, myositis, etc.
+Waddling gait
+Romberg: normal
+Somatic symptom disorder
+Unpredictable, intermittent or bizarre
+“Secondary gain”
+Gait varies: sometimes normal, timid, limping, apraxic
+Romberg: often cerebellar, but fluctuates, inorganic
+CNS, central nervous system; CSF, cerebrospinal fluid.
+Modified from Reilly BM. Practical Strategies in Outpatient Medicine. 2nd ed. Philadelphia: WB Saunders; 1991:172–173.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+129
+CHAPTER 7  Syncope and Dizziness
+Attention to detail in the history and physical examination findings 
+usually yields a diagnosis.
+Diagnostic Tests
+Testing for drugs/medications may be the most useful test for children 
+with ataxia. Neuroimaging is indicated for acute ataxia when associated 
+with focal findings on exam, increased intracranial pressure, a history 
+of trauma, or altered mental status. Imaging is indicated for patients 
+with findings concerning for an intracranial mass. Lumbar puncture 
+should be performed for concern of infection or Guillain-­Barre syn­
+drome. Metabolic tests and thyroid function tests are indicated by 
+either history or physical findings. When weakness is associated with 
+the disequilibrium, electromyography and nerve conduction studies 
+may be indicated.
+SUMMARY AND RED FLAGS
+Ataxia can be seen in children at any age; it may portend serious patho­
+logic processes, including posterior fossa tumors, leukodystrophies, 
+metabolic disorders, and familial-­hereditary disorders. The history 
+must be obtained carefully, with attention to developmental milestones, 
+family history, specifics of prodromal illnesses, associated symptoms, 
+and a description of the gait. The physical examination must also be 
+detailed and methodical, with special emphasis on the neuromuscular 
+examination. Imaging studies of the central nervous system are usually 
+required, especially for younger children, in whom the possibility of 
+neoplasms is the greatest.
+LIGHTHEADEDNESS
+Lightheadedness is the most difficult to characterize without using 
+the term “dizzy.” The lightheaded patient’s description is usually vague 
+and nonspecific. The key is to elicit an adequate description from the 
+patient to rule out vertigo, disequilibrium, and presyncope. The differ­
+ential diagnosis for lightheadedness is then rather short in comparison 
+with the other “dizziness” conditions (Fig. 7.11). It is often difficult to 
+distinguish lightheadedness from presyncope.
+In the patient who complains of lightheadedness, voluntary hyper­
+ventilation may reproduce the patient’s symptoms. Voluntary hyper­
+ventilation in normal subjects produces a variety of symptoms (Table 
+7.22). This test is predictive only if the patient’s symptoms are precisely 
+reproduced and all other investigation results are negative.
+Lightheadedness that is episodic frequently follows a pattern 
+related to the underlying psychogenic disorder: phobic disorders, post-­
+traumatic stress syndrome, panic attacks, and anxiety disorders. Such 
+situational anxieties, phobias, or panic attacks may occur with or with­
+out hyperventilation. Careful history taking is the key to recognizing 
+the pattern. If the history is that of constant lightheadedness, the origin 
+is almost always psychogenic. This is a somatization generally of anxi­
+ety disorder or depression. The clinician must nonetheless remain cau­
+tious with predictable episodes because postural episodes, drug-­related 
+episodes, and perimenstrual episodes can follow a pattern and repre­
+sent physiologic abnormalities that predispose to lightheadedness.
+TABLE 7.20  Acute or Recurrent Ataxia
+Brain tumor
+Conversion reaction
+Drug ingestion
+Encephalitis (brainstem)
+Genetic disorders
+Dominant recurrent ataxia
+Episodic ataxia type 1
+Episodic ataxia type 2
+Hartnup disease
+Maple syrup urine disease
+Pyruvate dehydrogenase deficiency
+Migraine
+Basilar
+Benign paroxysmal vertigo
+Postinfectious/immune
+Acute disseminated encephalomyelitis
+Acute postinfectious cerebellitis (varicella)
+Miller Fisher syndrome
+Multiple sclerosis
+Myoclonic encephalopathy/neuroblastoma
+Pseudoataxia (epileptic)
+Trauma
+Hematoma
+Postconcussion
+Vertebrobasilar occlusion
+Vascular disorders
+Cerebellar hemorrhage
+Kawasaki disease
+From Augustine E, Mink J. Movement disorders. In: Kliegman R, 
+Stanton B, Schor N, et al, eds. Nelson Textbook of Pediatrics. 19th ed. 
+Philadelphia: Elsevier; 2011:2053–2055.
+TABLE 7.21  Chronic or Progressive Ataxia
+Brain Tumors
+Cerebellar astrocytoma
+Cerebellar hemangioblastoma (von Hippel–Landau disease)
+Ependymoma
+Medulloblastoma
+Supratentorial tumors
+Congenital Malformations
+Basilar impression
+Cerebellar aplasias
+Cerebellar hemisphere aplasia
+Dandy-­Walker malformation
+Vernal aplasia
+Chiari malformation
+Hereditary Ataxias
+Autosomal dominant inheritance
+Autosomal recessive inheritance
+Abetalipoproteinemia
+Ataxia-­telangiectasia
+Ataxia without oculomotor apraxia
+Ataxia with episodic dystonia
+Friedreich ataxia
+Hartnup disease
+Juvenile GM2 gangliosidosis
+Juvenile sulfatide lipidoses
+Maple syrup urine disease
+Marinesco-­Sjögren syndrome
+Pyruvate dehydrogenase deficiency
+Ramsay Hunt syndrome
+Refsum disease (HSMN IV)
+Respiratory chain disorders
+X-­Linked Inheritance
+Adrenoleukodystrophy
+Leber optic neuropathy
+With adult-­onset dementia
+With deafness
+With deafness and loss of vision
+From Augustine E, Mink J. Movement disorders. In: Kliegman R, 
+Stanton B, Schor N, et al, eds. Nelson Textbook of Pediatrics. 19th ed. 
+Philadelphia: Elsevier; 2011:2053–2055.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+130
+SECTION 3  Cardiac Disorders
+If the episodes of lightheadedness are unpredictable, the clinician 
+is advised to consider a broader differential diagnosis. Severe ane­
+mia, low cardiac output, thyroid disease, and medications may pro­
+duce occasional lightheadedness. Of greater concern are episodes of 
+lightheadedness associated with other symptoms, chest pain, seizures, 
+confusion, and visual or auditory changes. Exertional lightheadedness 
+must be pursued to rule out a cardiac dysrhythmia.
+If hyperventilation reproduces the patient’s symptoms, it is not the 
+diagnosis in and of itself. Hyperventilation is a feature of many psy­
+chogenic syndromes and may be acute or chronic. Part of the perfor­
+mance of the hyperventilation should be educating the patient to the 
+feelings and the scenario leading to the hyperventilation reaction. Even 
+young children can then be trained to regulate their breathing to avoid 
+the symptoms. However, this does not address the underlying cause 
+of the hyperventilation reaction; that requires patient, nonjudgmental, 
+longer-­term counseling and careful categorization of the underlying 
+disorder. The clinician should not hesitate to consult a psychiatrist to 
+facilitate this process as well as treat the definitive psychogenic disorder.
+EVALUATION OF THE PATIENT WITH 
+LIGHTHEADEDNESS
+History
+The examiner should listen for descriptions suggesting vertigo, dis­
+equilibrium, or presyncope and should establish whether there is any 
+pattern to the occurrence of the feeling of lightheadedness. History 
+should include associated symptoms, such as diaphoresis, hyperpnea, 
+pallor or flushing, headache, and chest pain. After the more serious 
+physiologic disorders are ruled out by history, physical examination, or 
+diagnostic testing, psychogenic disorders should be pursued.
+Physical Examination
+After a thorough general physical examination including examination 
+of the fundi, a full, detailed neurologic examination should be per­
+formed. In addition to allowing primary cardiac, endocrine, or neu­
+rologic disorders to be ruled out, the examination allows the clinician 
+Dizzy?
+Chronic,
+constant
+Acute,
+episodic
+Generalized anxiety
+disorder
+Depression
+Hypochondriasis
+Situational anxiety
+Panic disorder
+Phobic
+With or
+without
+hyperventilation
+LIGHTHEADED
+USUALLY PSYCHOGENIC
+BUT REMEMBER:
+Vertigo?
+Disequilibrium?
+(Pre) syncope?
+Severe anemia?
+Low cardiac output?
+Thyroid disease?
+Drug induced?
+Unpredictable
+episodes
+Cardiac symptoms:
+arrhythmia?
+Neurologic symptoms:
+  transient ischemic
+attack? seizure?
+Ear symptoms:
+vestibular?
+Hypertension:
+pheochromocytoma?
+hyper-beta-adrenergic
+slate?
+Drug related?
+Predictable
+episodes
+Exertional: cardiac?
+Postural: orthostatic?
+vestibular?
+Postprandial
+hypoglycemia?
+Drug related:
+alcohol, sedatives,
+antihypertensive
+withdrawal
+Substance abuse
+Perimenstrual:
+premenstrual
+syndrome?
+Fig. 7.11  Evaluation for lightheadedness. (From Reilly BM. Practical 
+Strategies in Outpatient Medicine. 2nd ed. Philadelphia: WB Saunders; 
+1991:206.)
+TABLE 7.22  Symptoms Associated with 
+Hyperventilation
+General
+Fatigue
+Diffuse weakness
+Insomnia
+Nightmares
+Headache
+“Feel cold”
+Sweats
+Cardiovascular
+Palpitations
+Tachycardia
+Precordial pain
+Raynaud phenomenon
+Respiratory
+Shortness of breath
+Chest pain
+Sighing respirations
+Yawning
+“Can’t get deep breath”
+Paroxysmal nocturnal dyspnea
+Unexplained cough
+Dry mouth
+Musculoskeletal
+Muscle spasm
+Tremors
+Twitching
+Tetany
+Neurologic
+Dizziness
+Paresthesias (especially distal)
+Unsteadiness
+Impaired memory and/or concentration
+Slurred speech
+Blurred vision
+Gastrointestinal
+Globus hystericus
+Mouth dryness
+Dysphagia
+Bloating
+Belching/flatulence
+Abdominal pain
+Psychic
+Tension
+Anxiety
+Depression
+Apprehension
+From Reilly BM. Practical Strategies in Outpatient Medicine. 2nd ed. 
+Philadelphia: WB Saunders; 1991:208.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+131
+CHAPTER 7  Syncope and Dizziness
+to gain the confidence of the patient and demonstrates the physician’s 
+concern about the patient’s complaints.
+Diagnostic Tests
+Diagnostic testing is directed by the history and physical examination 
+findings. In the setting of lightheadedness, tests are generally done to 
+rule out potentially serious cardiovascular and neurologic conditions.
+SUMMARY AND RED FLAGS
+Lightheadedness must be distinguished from vertigo, disequilibrium, 
+and presyncope. Frequently, the patient’s description of the sensation 
+is vague and uncertain. A pattern of the appearance of the symptoms 
+may suggest an underlying cause. The coexistence of any other symp­
+toms must be carefully sought. Physical findings are generally normal, 
+including the neurologic examination; specific attention is given to cer­
+ebellar, vestibular, and sensory function. Voluntary hyperventilation 
+in the supine position frequently reproduces the patient’s lighthead­
+edness. Hyperventilation may be acute or chronic and is a symptom 
+itself, rarely a diagnosis.
+Treatment must address the underlying psychogenic cause to be 
+successful.
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+131.e1
+BIBLIOGRAPHY
+General
+Alboni P, Brignole M, Menozzi C, et al. Diagnostic value of history in 
+patients with syncope with or without heart disease. J Am Coll Cardiol. 
+2001;37:1921–1928.
+Johnsrude CL. Current approach to pediatric syncope. Pediatr Cardiol. 
+2000;21:522–531.
+Narchi H. The child who passes out. Pediatr Rev. 2000;21:384–388.
+Paris Y, Toro-­Salazar OH, Gauthier NS, et al. Regional implementation of a 
+pediatric cardiology syncope algorithm using SCAMPS methodology. J Am 
+Heart Assoc. 2016;5(2):e002931. https://doi.org/10.1161/JAHA.115.002931.
+Post R, Dickerson L. Dizziness: a diagnostic approach. Am Fam Physician. 
+2010;82:361–368.
+Tanel RE. Putting the bite into the pediatric syncope evaluation. Pediatr Case 
+Rev. 2001;1:3–18.
+Willis J. Syncope. Pediatr Rev. 2000;21:201–204.
+Syncope
+Agarwal AK, Garg R, Sarkar P. Postural orthostatic tachycardia syndrome. 
+Postgrad Med J. 2007;83:478–480.
+Albassam OT, Redelmeier RJ, Shadowitz S, et al. Did this patient have cardiac 
+syncope? The rational clinical examination systematic review. J Am Med 
+Assoc. 2019;321(24):2448–2457.
+Berger S, Dhala A, Friedberg D. Sudden cardiac death in infants, children, and 
+adolescents. Pediatr Cardiol. 1999;46:221–234.
+Bradley T, Dixon J, Easthope R. Unexplained fainting, near drowning and 
+unusual seizures in childhood: screening for long QT syndrome in New 
+Zealand families. N Z Med J. 1999;112:299–302.
+Campell R, Berger S, Ackerman M, et al. Policy statement pediatric sudden 
+cardiac arrest. Pediatrics. 2012:e1094–e1102.
+Campuzano O, Sarquella-­Brugada G, Cesar S, et al. Genetics of inherited 
+arrhythmias in pediatrics. Curr Opin Pediatr. 2015;27:665–674.
+Charlton NP, Pellegrino JL, Kule A, et al. 2019 American Heart Associa­
+tion and American Red Cross focused update for first aid. Circulation. 
+2019;140:e931–e938.
+Coleman DK, Long B, Koyfman A. Clinical mimics: an emergency medicine-­
+focused review of syncope mimics. J Emerg Med. 2018;54(1):81–89.
+Dalal A, Czosek RJ, Kovach K, et al. Clinical presentation of pediatric patients 
+at risk for sudden cardiac arrest. J Pediatr. 2016;177:191–196.
+Dalal AS, Van Hare GF. Long QT syndromes. In: Kliegman RM, St. Geme III 
+JW, Blum NJ, et al., eds. Nelson Textbook of Pediatrics. Philadelphia: Elsevi­
+er; 2020:2443–2446. 21e.
+DiMario Jr FJ. Prospective study of children with cyanotic and pallid breath-­
+holding spells. Pediatrics. 2001;107:265–269.
+Eirís-­Pual J, Rodríguez-­Nunez A, Fernandez-­Martínez N, et al. Usefulness 
+of the head-­upright tilt test for distinguishing syncope and epilepsy in 
+children. Epilepsia. 2001;42:709–713.
+Ellison S. Sudden cardiac death in adolescents. Prim Care. 2015;42:57–76.
+Jacob G, Costa F, Shannon JR, et al. The neuropathic postural tachycardia 
+syndrome. N Engl J Med. 2000;343:1008–1014.
+Kanjwal K, Calkins H. Syncope in children and adolescents. Cardiol Clin. 
+2015;33:397–409.
+Kouakam C, Vaksmann G, Pachy E, et al. Long-­term follow up of children and 
+adolescents with syncope. Eur Heart J. 2001;22:1618–1625.
+Lahat H, Eldar M, Levy-­Nissenbaum E, et al. Autosomal recessive catechol­
+amine-­ or exercise-­induced polymorphic ventricular tachycardia. Circula­
+tion. 2001;103:2822–2827.
+MacNeil E, Vashist S. Approach to syncope and altered mental status. Pediatr 
+Clin North Am. 2013;60:1083–1106.
+Meadow MS, Guber K, Chokshi S, et al. The benefits of oral rehydration on 
+orthostatic intolerance in children with postural tachycardia syndrome. J 
+Pediatr. 2019;214:96–102.
+Moodley M. Clinical approach to syncope in children. Semin Pediatr Neurol. 
+2013;20:12–17.
+Olshansky B, Sullivan RM. Inappropriate sinus tachycardia. J Am Col Cardiol. 
+2013;61(8):793–801.
+Pfammatter JP, Paul T. Idiopathic ventricular tachycardia in infancy and child­
+hood. J Am Coll Cardiol. 1999;33:2067–2072.
+Pomeranz A, Busey S, Sabnis S, et al., eds. Pediatric Decision-­Making Strategies. 
+Philadelphia: Saunders; 2002:58–61.
+Priori SG, Napolitano C, Gioedano U, et al. Brugada syndrome and sudden 
+cardiac death in children. Lancet. 2000;355:808–809.
+Ritter S, Tani LY, Etheridge SP, et al. What is the yield of screening echocardi­
+ography in pediatric syncope? Pediatrics. 2000;105:E58.
+Roden D. Drug-­induced prolongation of the QT interval. N Engl J Med. 
+2004;350:1013–1022.
+Rodríguez-­Nunez A, Fernandez-­Cebrian S, Perez-­Munuzuri A, et al. Cerebral 
+syncope in children. J Pediatr. 2000;136:542–544.
+Salim MA, Ware LE, Barnard M, et al. Syncope recurrence in children: relation 
+to tilt-­test results. Pediatrics. 1998;102:924–926.
+Satish R. Postural tachycardia syndrome. Circulation. 2013;127:2336–2342.
+Shalev Y, Gal R, Tchou PJ, et al. Echocardiographic demonstration of 
+decreased left ventricular dimensions and vigorous myocardial con­
+traction during syncope induced by head-­up tilt test. J Am Coll Cardiol. 
+1991;18:746–751.
+Sheldon RS, et al. 2015 Heart Rhythm Society expert consensus statement 
+on the diagnosis and treatment of postural tachycardia syndrome, 
+inappropriate sinus tachycardia and vasovagal syncope. Heart Rhythm. 
+2015;12(6):e41–e63.
+Shen W-­K, et al. 2017 ACC/AHA/HRS guideline for the evaluation and 
+management of patients with syncope: a report of the American College of 
+Cardiology/American Heart Association Task Force on Clinical Practice 
+Guidelines and the Heart Rhythm Society. Circulation. 2017;136:e60–e122.
+Shen W-­K, Sheldon RS, Benditt DG, et al. 2017 ACC/AHA/HRS guideline for 
+the evaluation and management of patients with syncope: a report of the 
+American College of Cardiology / American Heart Association Task Force 
+on Clinical Practice Guideline and the Heart Rhythm Society. J Am Coll 
+Cardiol. 2017.
+Sutton R. Clinical classification of syncope. Prog Cardiovasc Dis. 
+2013;55:339–344.
+Thilenius OG, Quinones JA, Husanyi TS, et al. Tilt test for diagnosis of unex­
+plained syncope in pediatric patients. Pediatrics. 1991;87:334–338.
+Tretter JT, Kavey RE. Distinguishing features of cardiac-­related syncope. J 
+Pediatr. 2014;164:1240–1241.
+Wang Y, Zhang C, Chen S, et al. Frequency domain indices of heart rate 
+variability are useful for differentiating vasovagal syncope and postural 
+tachycardia syndrome in children. J Pediatr. 2019;207:59–63.
+Vertigo
+Bertholon P, Karkas A. Otologic disorders causing dizziness, including surgery 
+for vestibular disorders. Handb Clin Neurol. 2016;137(3rd Series):279–293.
+Bower C, Cotton R. The spectrum of vertigo in children. Arch Otolaryngol 
+Head Neck Surg. 1995;121:911–915.
+Davitt M, Delvecchio MT, Aronoff SC. The differential diagnosis of vertigo in 
+children – a systematic review of 2726 cases. Pediatr Emerg Care. 2017.
+Dunn DW, Snyder H. Benign positional vertigo of childhood. Am J Dis Child. 
+1976;176:1099.
+Froehling DA, Bowen JM, Mohr DN, et al. The canalith repositioning proce­
+dure for the treatment of benign paroxysmal positional vertigo: a random­
+ized trial. Mayo Clin Proc. 2000;75:695–700.
+Hotson JR. Clinical detection of acute vestibulocerebellar disorders. West J 
+Med. 1984;140:910–913.
+Jahn K. Vertigo and dizziness in children. Handbook of Clinical Neurology. 
+Vol. 137 (3rd series) Neuro-­Otology. Furman JM and Lempert T, eds. 2016 
+Elsevier B.V.
+Katsarkas A, Kirkham TH. Paroxysmal positional vertigo: a study of 255 cases. 
+J Otolaryngol. 1978;7:320–330.
+Weisleder P, Fife TD. Dizziness and headache: a common association in chil­
+dren and adolescents. J Child Neurol. 2001;16:727–730.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+References
+131.e2
+Disequilibrium
+DeAngelis C. Ataxia. Pediatr Rev. 1995;16:114–115.
+Dinolfo EA, Adam HM. Evaluation of ataxia. Pediatr Rev. 2001;22:177–178.
+Dreyfus PM, Oshtory M, Gardner ED, et al. Cerebellar ataxia: anatomical, 
+physiological and clinical implications. West J Med. 1978;128:499–511.
+Kinast M, Levin HS, Rothner AD, et al. Cerebellar ataxia, opsoclonus and 
+occult neural crest tumor. Am J Dis Child. 1980;134:1057–1059.
+Mink J. Movement disorders. In: Kliegman RM, St. Geme III JW, Blum 
+NJ, et al. eds. Nelson Textbook of Pediatrics. Philadelphia: Elsevier; 
+2020:2882–2896. 21e.
+Whelan H, et al. Evaluation of the child with acute ataxia: a systematic review. 
+Pediatr Neurol. 2013;49e:15-e24.
+Lightheadedness
+Magarian GJ. Hyperventilation syndromes: infrequently recognized common 
+expressions of anxiety and stress. Medicine (Baltimore). 1982;61:219–236.
+Naschitz JE, Hardoff D, Bystritzki I, et al. The role of the capnography head-­up 
+tilt test in the diagnosis of syncope in children and adolescents. Pediatrics. 
+1998;101:E6.
+Tiwari S, Bakris GL. Psychogenic vertigo: a review. Postgrad Med. 1981;70:69–77.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

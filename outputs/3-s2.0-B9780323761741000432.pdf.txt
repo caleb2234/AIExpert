@@ -1,0 +1,3794 @@
+784
+EYE AND VISUAL SYSTEM ANATOMY
+The anatomies of the eye and visual system are shown in Figs. 43.1 and 
+43.2. The optic nerves, made up of the converging nerve fiber layer of 
+the retina, have intraocular, intraorbital, intracanalicular, and intracra­
+nial portions. Partial decussation of the optic nerve fibers occurs in the 
+chiasm, which gives binocular visual input to each side of the brain. 
+The visual cortex is where the conscious process of seeing occurs.
+DEVELOPMENT OF THE EYE AND VISUAL SYSTEM
+The eyes and vision of a newborn are immature and require several 
+years to reach adult proportions and functional status. By the ninth 
+month of gestation, the retinal vessels have reached the periphery of 
+the retina (an important factor in the pathogenesis of retinopathy of 
+prematurity [ROP]), the optic nerve has completed myelination, and 
+the pupillary membrane has disappeared. Postnatal reorganization of 
+neuron-to-neuron connections in the visual cortex improves the poor 
+visual acuity and other visual processes, which are not fully developed 
+at birth. The visual acuity of the newborn has been estimated to be 
+20/400–20/600 and may reach the normal 20/20 level as early as 6–12 
+months of age as tested with visual evoked cortical responses. Acuity 
+of 20/20 is not reached with other types of testing such as preferential 
+looking with Teller acuity cards until ages 3–5 years. Visual acuity mea­
+sured with conventional letter or symbol recognition methods does not 
+reach 20/20 until 6 years of age because of cognitive factors. Binocular 
+vision, including establishment of normal ocular alignment and depth 
+perception, and improved facility of accommodation, the ability to 
+focus on images at different distances, develop rapidly in the first year 
+of life. The rapid maturation of visual function in the first year of life 
+accounts for the critical period of visual development and the extreme 
+sensitivity of the visual system to abnormal visual input from strabis­
+mus or cataracts. Children deprived of vision in this critical period will 
+have limited visual potential and may develop nystagmus (abnormal 
+eye movements).
+The majority of newborns are moderately hyperopic. Heredity con­
+tributes to the refractive status of the eyes and the environment and 
+visual experience also plays a role.
+AMBLYOPIA AND VISION SCREENING
+Amblyopia is defined as a unilateral or, less commonly, bilateral reduc­
+tion in visual acuity that cannot be immediately corrected with glasses 
+or surgery. In children whose visual acuity can be accurately measured, 
+a practical definition of amblyopia is a two-line or greater difference 
+between the best-corrected visual acuity of the eyes. For preverbal 
+children, differences between the eyes in fixation and following behav­
+ior or fixation preference are used to diagnose amblyopia. Automated 
+photoscreeners can aid in the diagnosis of risk factors for amblyopia 
+and strabismus, particularly in preverbal children who perform poorly 
+on subjective testing. Amblyopia results from abnormal visual experi­
+ence early in life during the critical period for visual development. The 
+sensitive period for amblyopia starts in early infancy and continues to 
+at least the age of 6 years and sometimes beyond the age of 8 years. 
+There is a suggestion of cortical plasticity in adults that may allow for 
+some vision improvement into adulthood. The prevalence of amblyo­
+pia in the North American population is 2–4%.
+Unilateral amblyopia results from three types of abnormal visual 
+experience: strabismus, anisometropia (unequal refractive errors), and 
+monocular visual deprivation (e.g., cataract, corneal opacity, hemangi­
+oma [severe ptosis]). Bilateral amblyopia results from bilateral media 
+opacities or significant bilateral refractive errors (ametropia). Nearly all 
+amblyopia is reversible if discovered at an early age and treated appro­
+priately. Treatment effectiveness declines after the age of 5 years.
+Detection strategies for amblyopia can involve early recognition of 
+factors that give rise to amblyopia or actual measurement of reduced 
+visual acuity that may be caused by amblyopia. Most amblyopia risk 
+factors can be detected through routine pediatric screening such as 
+ocular history, red reflex evaluation, ocular motility, and vision assess­
+ment. Recommended screening and referral guidelines are shown in 
+Table 43.1. Whenever possible, a line of symbols or isolated symbols 
+with surrounding crowding bars is recommended for screening (Fig. 
+43.3). Isolated symbols can lead to overestimates of the visual acuity 
+of an eye with amblyopia due to a crowding phenomenon or contour 
+interaction in which symbols of a given size are more difficult to rec­
+ognize if they are surrounded by similar symbols. Hence, visual acuity 
+obtained with single optotypes without crowding bars can result in fail­
+ure to detect amblyopia.
+The treatment of amblyopia involves eliminating amblyopia risk fac­
+tors, providing a focused retinal image with appropriate optical correc­
+tion, and forcing use of the amblyopic eye through occlusion of the sound 
+eye or blurring the image the sound eye receives. For patients with visual 
+deprivation amblyopia, the depriving factor must be addressed medi­
+cally or surgically. Optical correction including a bifocal is required for 
+patients who have had cataract surgery. Intraocular implants are not gen­
+erally placed in children under 1 year of age due to the high postoperative 
+complication rates. For patients with anisometropic amblyopia, optical 
+correction usually involves spectacles or, less commonly, contact lenses.
+An adhesive patch worn over the sound eye most commonly 
+achieves forced use of the amblyopic eye. Occlusive devices can be 
+attached to glasses but may be less reliable since the child can peek 
+over the glasses or around the occlusive device. The use of the potent 
+cycloplegic agent atropine sulfate may also be used to encourage use 
+of the amblyopic eye. A drop of atropine is applied to the sound eye 
+each day; this temporarily impairs its accommodative ability and, in 
+the presence of sufficient hyperopia, prevents that eye from obtaining 
+Eye Disorders
+Deborah M. Costakos
+43
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+785
+CHAPTER 43  Eye Disorders
+a clear retinal image. Atropine “penalization” for amblyopia works best 
+in hyperopic patients with mild to moderate amblyopia (visual acu­
+ity of 20/100 or better). Close follow-up of patients being treated for 
+amblyopia is important for monitoring compliance with treatment and 
+for preventing the development of iatrogenic reverse amblyopia in the 
+sound eye from excessive occlusion or penalization.
+VISUAL FIELDS
+Quantitative testing of the visual field of most children is difficult before 
+the age of 10 years (see Fig. 43.2). Confrontation field tests can be per­
+formed to detect gross abnormalities of the visual field (hemianopsias), 
+but even these are not reliable and need to be confirmed at an older age. 
+Visual field defects in children are uncommon despite parental concerns 
+about a child who seems to bump into objects frequently. Unilateral ret­
+inal or optic nerve disease can produce unilateral visual field defects, 
+but these are almost always associated with reduced visual acuity in the 
+involved eye. Bilateral visual field defects, particularly if symmetric (hom­
+onymous), indicate disease of the optic radiations or visual cortex. Visual 
+acuity may be entirely normal. Causes of bilateral visual field defects in 
+children include cerebrovascular accidents, pituitary or hypothalamic 
+tumors, or congenital central nervous system (CNS) abnormalities.
+STRABISMUS
+Strabismus is derived from the Greek word strabismos, “to squint to 
+look obliquely or askance.” It implies misalignment of the eyes in such 
+a way that they are not simultaneously viewing the same object. Terms 
+to describe eye alignment and movement are noted in Table 43.2. 
+Strabismus can be constant or intermittent and can be the same in all 
+directions of gaze (comitant) or greater in one direction of gaze than in 
+others (incomitant). Furthermore, it can be categorized as congenital 
+or acquired, monocular or alternating. The direction of misalignment 
+can be vertical or horizontal. Vertical strabismus is referred to as a 
+hypertropia of the higher eye. Horizontal strabismus can be conver­
+gent (esotropia) or divergent (exotropia). The importance of strabismus 
+detection derives primarily from the fact that it is the leading cause of 
+amblyopia. Other reasons for detecting strabismus are the possibility 
+of being able to restore normal binocular use of the eyes, improving 
+depth perception, and minimizing the social and economic drawbacks 
+to strabismus in society.
+Anterior pole of lens
+LENS
+Epithelium of cornea
+Anterior chamber of eye
+Iris
+Iridocorneal angle
+Vitreous Chamber
+Ciliary body
+Zonular
+fibers
+Posterior pole
+of lens
+Canal of Schlemm
+Bulbar conjunctiva
+Tendon of lateral
+rectus m.
+Retina
+Choroid
+Sclera
+Fovea
+Optic nerve sheath
+Tendon of medial
+rectus m.
+Fig. 43.1  Anatomy of the right eye as seen in cross section. (Modified 
+from Reilly BM. Practical Strategies in Outpatient Medicine. 2nd ed. Phil­
+adelphia: WB Saunders; 1991:36.)
+1
+1
+1
+1
+1
+3
+4
+5
+Anterior Lesions:
+Chiasmal Lesions:
+Postchiasmal Lesions:
+Retina
+Optic nerves
+Optic chiasm
+Optic tract
+Optic radiations
+2
+2
+3
+Constricted visual field
+Bitemporal hemianopsia
+Arcuate scotoma
+Altitudinal defect
+Central scotoma
+Left homonymous superior 
+quadrantanopia
+4
+Left homonymous inferior
+quadrantanopia
+5
+Left homonymous hemianopsia
+with macular sparing
+Fig. 43.2  Anatomy of the visual pathways. The anatomy of the visual 
+pathways appears at the top of the figure, the pink shading indicating 
+how visual information from the left visual space eventually courses 
+to the right brain. Visual field defects are at the bottom of the figure. 
+Anterior defects (labeled 1 from disease of the optic nerve or retina) 
+characteristically affect one eye and cause defects (red shading) that 
+may cross the vertical meridian (i.e., the vertical meridian is the ver­
+tical line bisecting each visual field). Chiasmal defects (labeled 2) and 
+postchiasmal defects (labeled 3 for a lesion in the anterior temporal 
+lobe, 4 for the parietal lobe, and 5 for the occipital cortex) characteristi­
+cally affect both eyes and respect the vertical meridian. (Modified from 
+McGee S. Evidence-Based Physical Diagnosis. 3rd ed. Philadelphia: 
+Elsevier; 2012:514.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+786
+SECTION 7  Neurosensory Disorders
+Strabismus detection can be simple, as in patients with a large 
+angle of deviation (Fig. 43.4), or difficult, as in patients with more 
+subtle deviations or no deviation at all (pseudostrabismus) (Fig. 
+43.5). Evaluation of the symmetry of the corneal light reflexes from a 
+penlight directed at the eyes can reliably detect many cases (see Fig. 
+43.4). With smaller angles of strabismus or when the results of the 
+corneal light reflex are in doubt, the cover test should be performed 
+(Fig. 43.6). It is important to provide attractive fixation targets for the 
+child to view during the test.
+Infantile esotropia is defined as convergent strabismus with onset 
+within the first 6 months of life (see Fig. 43.4). Transient crossing or 
+divergence of the eyes is common in newborns and is probably not 
+significant unless it persists beyond 3 months of age. In the classic 
+form of infantile esotropia, there is a large-angle, constant deviation. 
+The child may alternate fixation (cross-fixate), in which case the visual 
+acuity is usually good in both eyes. Cross-fixation may mimic bilateral 
+sixth nerve palsy. If the crossing is present in only one eye, amblyopia 
+occurs in the nonfixating eye. Binocular vision is disrupted in infantile 
+esotropia. The cause of infantile esotropia is not known, but hereditary 
+factors play a definite role. The incidence of infantile esotropia is <1% 
+among neurologically normal infants.
+Early surgical correction of infantile esotropia may result in full 
+or nearly full restoration of normal binocular function, a result not 
+believed to be obtainable with correction of misalignment at older ages. 
+The ideal timing of surgery for infantile esotropia is not known, but 
+children operated on before 2 years of age are more likely to obtain 
+TABLE 43.1  Vision Screening Recommendations
+Age
+Tests
+Referral Criteria Comments
+Newborn to 12 mo
+ • Ocular history
+ • Vision assessment
+ • External inspection of the eyes and lids
+ • Ocular motility assessment
+ • Pupil examination
+ • Red reflex examination
+ • Poor tracking after 3 mo of age
+ • Abnormal red reflex
+ • Ptosis
+ • Positive ocular history of retinoblastoma in a parent or sibling
+ • Positive history of metabolic disease with risk of cataract
+ • Abnormal ocular alignment (strabismus) in infant older than 3 mo of age
+ • Pupil asymmetry of >1 mm
+12–36 mo
+ • Ocular history
+ • Vision assessment
+ • External inspection of the eyes and lids
+ • Ocular motility assessment
+ • Pupil examination
+ • Red reflex examination
+ • Visual acuity testing
+ • Objective screening device “photoscreening”
+ • Ophthalmoscopy
+ • Fail photoscreening
+ • Visual acuity worse than 20/50 in one or both eyes
+ • Visual acuity difference of two or more lines
+ • Strabismus
+ • Abnormal head position
+ • Chronic tearing or discharge
+ • Abnormal exam
+36 mo–5 yr
+ • Ocular history
+ • Vision assessment
+ • External inspection of the eyes and lids
+ • Ocular motility assessment
+ • Pupil examination
+ • Red reflex examination
+ • Visual acuity testing (preferred) or photoscreening
+ • Ophthalmoscopy
+ • Visual acuity thresholds below
+ • Ages 36–47 mo: must correctly identify the majority of the optotypes on the 
+20/50 line to pass
+ • Ages 48–59 mo: must correctly identify the majority of the optotypes on the 
+20/40 line to pass
+ • Fail photoscreening
+ • Visual acuity difference of two or more lines
+ • Strabismus
+ • Abnormal exam
+5 yr and older*
+ • Ocular history
+ • Vision assessment
+ • External inspection of the eyes and lids
+ • Ocular motility assessment
+ • Pupil examination
+ • Red reflex examination
+ • Visual acuity testing
+ • Ophthalmoscopy
+ • Children who cannot read at least 20/30 with either eye. Must be able to identify 
+the majority of the optotypes on the 20/30 line
+ • Visual acuity difference of two or more lines
+ • Strabismus
+ • Abnormal exam
+*Repeat screening every 1–2 yr after the age of 5 yr.
+From American Academy of Pediatric Ophthalmology and Strabismus Techniques for Pediatric Vision Screening, May 2014.
+Fig. 43.3  The Lea symbols in chart format (middle) and the Lea sym­
+bols and HOTV tests with crowding bars (right and left). All tests should 
+be administered at a distance of 10 feet.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+787
+CHAPTER 43  Eye Disorders
+binocular single vision. Early detection and prompt referral of infants 
+with suspected esotropia are indicated.
+A second category of esotropia occurs in children whose eyes are 
+initially straight but start to cross, usually intermittently at first, at 1–3 
+years of age. These children have excessive hyperopia and an abnormal 
+relationship between accommodation and convergence. This type of 
+esotropia is called accommodative esotropia. Amblyopia frequently 
+develops. Treatment consists of correcting amblyopia and providing 
+spectacles to correct hyperopia, thereby modulating the amount of 
+accommodation required by the child (Fig. 43.7). Bifocal spectacles 
+may also be necessary for some forms of accommodative esotropia.
+Esotropia caused by paralysis of a lateral rectus muscle, a sixth 
+cranial nerve palsy, occurs much more frequently in children than in 
+infancy (Fig. 43.8). Approximately 30% of children will have an intra­
+cranial tumor (brainstem glioma, medulloblastoma, ependymoma, 
+craniopharyngioma). Other causes include head trauma or a recent 
+benign viral illness. The sixth nerve palsy may resolve spontaneously 
+if the cause is benign. Other acquired etiologies include acute demye­
+linating encephalomyelitis (ADEM) or multiple sclerosis (MS), Lyme 
+disease, pontine vascular malformations, raised intracranial pressure 
+(nonlocalizing), and middle ear infection complicated by petrous 
+apicitis (Gradenigo syndrome). An older child may present with com­
+plaints of diplopia or a face turn or closure of one eye to avoid diplopia, 
+whereas a younger child may present with only the esotropia because 
+of rapid development of suppression to eliminate diplopia. Neurologic 
+investigation is indicated if the history does not support a benign eti­
+ology or the paralysis does not spontaneously abate in a few weeks 
+(a so-called benign sixth nerve palsy believed to be postviral in ori­
+gin) or if the child demonstrates other neurologic impairment or has 
+papilledema.
+Infantile exotropia is much less common than infantile esotropia. 
+Infantile exotropia presents as a large deviation of the eyes prior to 6 
+months of age. Infantile exotropia is uncommon in otherwise healthy 
+infants. It is, however, commonly associated with craniofacial disorders 
+or neurologic impairment. Surgery may be done early in life, but these 
+patients are less likely to obtain good binocular vision than infantile 
+esotropia.
+Intermittent exotropia is the most common type of exotropia. This 
+usually manifests by 5 years of age. Parents will notice that the eyes 
+deviate out at times and yet not at others. The deviation is most likely 
+to occur when the child is tired or ill. Because the child maintains the 
+ability to keep the eyes aligned part of the time, amblyopia is uncom­
+mon. Diplopia is prevented by active cortical suppression of input from 
+the portion of the retina of the deviated eye that overlaps the central 
+view of the fixating eye. When the eyes are straight, the child gener­
+ally maintains normal binocular function, including stereopsis. The 
+clinical management of intermittent exotropia is not clear. Treatment 
+is not necessarily indicated as observation of children 3–11 years old 
+shows that <15% of children are unlikely to develop a constant exo­
+tropia or amblyopia or lose stereopsis. Part-time patching, additional 
+minus power spectacles in patients with myopia, and orthoptic exer­
+cises are treatment options, but there is insufficient evidence that these 
+TABLE 43.2  Description of Alignment 
+and Movement
+Normal Ocular Alignment: Orthophoria
+Latency
+-phoria: development of abnormality only during certain conditions (fatigue, 
+illness, cover test)
+-tropia: abnormality present during normal conditions; deviation may be 
+constant or intermittent
+Direction of Deviation
+Eso-: inward, horizontal deviation (“crossing”)
+Exo-: outward, horizontal deviation (“wall eye”)
+Hyper-: upward, vertical deviation
+Hypo-: downward, vertical deviation
+Incyclo-: nasal torsional deviation of the superior pole of the cornea
+Excyclo-: temporal torsional deviation of the superior pole of the cornea
+Equality of Deviation
+Concomitant: misalignment is equal in all positions of gaze
+Noncomitant: misalignment varies significantly in different positions of gaze
+Neuromuscular Dysfunction
+Paralytic: misalignment secondary to a cranial nerve palsy, muscle weakness, 
+or mechanical restriction (usually noncomitant)
+Nonparalytic: no underlying neuromuscular dysfunction; usually concomitant 
+but can be noncomitant
+Tandem Movements of Both Eyes
+-version: both eyes move in same direction (conjugate); direction of 
+movement: levo- (left), dextro- (right), supra- (up), infra- (down)
+-vergence: eyes move in opposite directions (disconjugate); convergence 
+(inward movement), divergence (outward movement)
+Fig. 43.4  Corneal light reflex test reveals an asymmetrically placed 
+reflex that is laterally displaced in the right eye. This indicates an inward 
+deviation of the eye (esotropia). (From Lavrich JB, Nelson LB. Diag­
+nosis and treatment of strabismus disorders. Pediatr Clin North Am. 
+1993;40:739.)
+Fig. 43.5  A child with pseudoesotropia. Note that the wide nasal bridge 
+and prominent epicanthal folds create the illusion of an esotropia. The 
+corneal light reflexes are centered in each eye; therefore, the eyes are 
+straight. (From Lavrich JB, Nelson LB. Diagnosis and treatment of stra­
+bismus disorders. Pediatr Clin North Am. 1993;40:741.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+788
+SECTION 7  Neurosensory Disorders
+No movement
+Orthotropia
+Inward movement
+Exotropia
+Downward movement
+Left hypertropia
+Outward movement
+Esotropia
+Fig. 43.6  The cover test. In each instance, the occluder is placed over the right eye while the patient is view­
+ing a fixation target and the examiner is watching for movement of the patient’s left eye. If the left eye is not 
+aligned, it will need to move to look at the fixation target. If there is no movement of the left eye, the test 
+needs to be repeated by occluding the left eye and watching for movement of the right eye.
+Fig. 43.7  Accommodative esotropia (top). The deviation is completely 
+controlled with glasses at both distant (middle) and near (bottom) fixa­
+tion distances.
+Fig. 43.8  Left sixth cranial nerve palsy in a 4-year-old. A large manifest 
+esotropia is present when the child looks straight ahead (top). The left 
+eye does not abduct beyond the midline in gaze to the left (middle). 
+Gaze to the right is normal (bottom).
+treatments are more effective than observation. For those patients 
+whose control over an intermittent exotropia deteriorates, surgery can 
+be offered.
+Primary vertical strabismus is far less common than horizontal 
+strabismus. A small vertical deviation (hypertropia or hypotropia) in 
+association with a larger amount of horizontal strabismus, however, is 
+common, and is managed in conjunction with the horizontal deviation. 
+A common cause of hypertropia in children is congenital paralysis of 
+the superior oblique muscle, a fourth cranial nerve paralysis. In some 
+children, the “paralysis” is actually caused by an anatomic abnormality 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+789
+CHAPTER 43  Eye Disorders
+of the superior oblique tendon. Acquired causes of a superior oblique 
+palsy include trauma, CNS abnormalities, or brain tumors. Children 
+with a superior oblique paralysis of any cause frequently present with a 
+head tilt and face turn toward the side opposite the paralyzed superior 
+oblique muscle. If there is a question as to the timing of the onset of 
+the superior oblique palsy, a review of pictures at a younger age may be 
+helpful in determining chronicity. Superior oblique paralysis is one of 
+the more common causes of ocular torticollis. An eye muscle disorder 
+needs to be ruled out in any child with a chronic abnormality of head 
+position. The anomalous head position and hypertropia caused by a 
+superior oblique paralysis can be improved by eye muscle surgery in 
+most instances. An approach to the evaluation of strabismus is noted in 
+Fig. 43.9, and less common forms of strabismus are listed in Table 43.3.
+REFRACTIVE ERRORS
+Refractive errors include myopia (nearsightedness), hyperopia (far­
+sightedness), and astigmatism. Refractive errors may be similar 
+(isometropia) or different (anisometropia) between the two eyes. 
+Bilateral amblyopia may result from a high refractive error that is 
+isometropic. Full-time spectacle correction will often correct bilat­
+eral amblyopia. Unilateral amblyopia may result from anisometropia. 
+Patching or atropine penalization may be necessary in these children.
+Myopia
+In patients with myopia (nearsightedness), the parallel rays of light in 
+the resting (nonaccommodating) eye are focused in front of the retina. 
+The symptoms of myopia are squinting, holding or viewing an object 
+more closely than normal, and complaining of blurred far vision.
+The incidence and degree of myopia increase with age, especially 
+during growth spurts, as in adolescence. There is a complex interac­
+tion between genetic and environmental factors in the development of 
+myopia. The incidence of myopia varies with ethnicity and geographic 
+regions and has been increasing in prevalence over the past 50 years. 
+There have been several genetic markers linked to myopia, but the 
+increasing frequency among younger generations suggests environ­
+ment plays an important role. The increase in prevalence from 10% to 
+90% in some populations is a public health concern, particularly with 
+high myopia. Myopia can be associated with increased risk of retinal 
+detachment, early cataract, and glaucoma. In very high myopia there 
+can be thinning of the retina and retinal degeneration. This can result 
+in decreased vision even with spectacle or contact lens correction. A 
+promising strategy to slow the progression of myopia is application of 
+a dilute formulation of atropine. Increasing the time spent outdoors 
+appears to slow progression.
+Myopia may be associated with other ocular abnormalities, such as 
+keratoconus (central conical protrusion of the cornea), cataracts, ectopia 
+lentis (dislocated lens), spherophakia (overly spherical lens), glaucoma, 
+and medullated (myelinated) nerve fibers. There is an increased prev­
+alence of myopia in premature infants, especially with ROP (retinop­
+athy of prematurity). Children with high degrees of myopia may have 
+an underlying systemic association, such as Marfan, Stickler, Noonan, 
+or Down syndrome. If myopia is sufficient to produce visual symptoms, 
+spherical concave (minus) lenses in the form of spectacles or contact 
+lenses are prescribed to correct the refractive error. Prescription changes 
+may be needed every 1–2 years and more often during growth spurts.
+Hyperopia
+In patients with hyperopia (farsightedness), parallel rays of light in the 
+nonaccommodating eye would be focused behind the retina. The pro­
+cess of accommodation (focusing), which alters the shape of the lens, 
+can compensate for some degrees of hyperopia. Because most children 
+have a tremendous range of accommodation, mildly hyperopic chil­
+dren can see clearly without any visual symptoms. Moderate to severely 
+NEUROMUSCULAR FUNCTION
+USUAL AGE OF
+PRESENTATION
+USUAL AGE OF
+PRESENTATION
+Non-paralytic
+Paralytic
+Infantile esotropia
+Nystagmus blockage
+syndrome
+Infantile exotropia
+Dissociated vertical
+deviation
+<6 months
+<3 months
+Congenital fibrosis
+syndrome
+Duane syndrome
+Möbius syndrome
+Brown syndrome
+Congenital nerve
+palsy (birth trauma)
+Congenital
+syndromes
+Cyclic esotropia
+Acquired comitant 
+ esotropia
+Convergence 
+ insufficiency
+Accommodative
+ esotropia
+Intermittent
+ exotropia
+>6 months
+Acquired ocular
+nerve palsies
+CNS tumor/lesion
+Trauma (CNS, orbital)
+Infection (meningitis)
+Postinfectious
+>3 months
+Hydrocephalus
+Ophthalmoplegic 
+migraine
+Myasthenia gravis
+Gradenigo syndrome
+(otitis media)
+Fig. 43.9  Evaluation of strabismus. CNS, central nervous system.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+790
+SECTION 7  Neurosensory Disorders
+hyperopic children may be unable to fully compensate through accom­
+modation. The greater accommodative effort may lead to symptoms of 
+“eyestrain,” which consist of headaches, fatigue, or eye rubbing. These 
+symptoms may lead to a lack of interest in reading or in prolonged 
+close work. Some children may also develop accommodative esotropia. 
+Some children have a decreased ability to accommodate, or accom­
+modative insufficiency, and are symptomatic even with low degrees 
+of hyperopia. If hyperopia produces symptoms, decreases vision, or 
+causes esotropia, spherical convex (plus) lenses usually in the form of 
+glasses are prescribed to correct the refractive error.
+Astigmatism
+In astigmatism, the refractive power differs in various meridians of 
+the eye. In most cases, astigmatism is caused by abnormal curvature 
+of the cornea; although rare, lens abnormalities or dislocation may 
+cause astigmatism. Infants and children with corneal distortion sec­
+ondary to scarring (trauma or infection) or to external compression 
+(neurofibroma or hemangioma of eyelid) are at an increased risk for 
+astigmatism. Moderate levels of astigmatism may produce blurring of 
+vision (far and near), leading to squinting, fatigue, headaches, and lack 
+of interest in close-up work in older children and amblyopia in younger 
+children. Cylindric or spherocylindric lenses (usually glasses) are used 
+to improve vision and comfort.
+Anisometropia
+In patients with anisometropia, the refractive error of one eye differs 
+significantly from that of the other eye. The difference in refraction can 
+be spherical (hyperopia or myopia) or cylindric (unequal amounts of 
+astigmatism). Mild degrees of anisometropia usually cause no visual 
+symptoms and do not lead to amblyopia. Amblyopia develops with 
+higher degrees of anisometropia because the child uses the less ame­
+tropic eye and suppresses vision in the other. Strabismus frequently 
+coexists with anisometropia, and both conditions may be involved in 
+the pathophysiologic mechanisms of amblyopia. Anisometropia may 
+initially be detected by comparison of the red reflex between the two 
+eyes (Brückner test). The affected eye has the duller red reflex. Early 
+detection and treatment of anisometropia are essential for the develop­
+ment of optimal visual function.
+VISION IMPAIRMENT IN CHILDREN
+Vision impairment is formally defined as best-corrected visual acuity of 
+20/70 or worse in both eyes. Impairment of vision exists as a continuum 
+from 20/70 to no light perception. Unrestricted, noncommercial driver’s 
+license has a requirement of best-corrected vision of 20/40 or better in 
+most states. Legal blindness is said to be present when best-corrected 
+visual acuity is 20/200 or less in each eye. Constricted visual fields may 
+also play a role in the diagnosis of vision impairment or legal blindness. 
+An infant or child whose visual acuity and visual field cannot be quanti­
+tated may be judged visually impaired on the basis of inability to fixate on 
+and follow movement of the examiner’s face or other objects or, in severe 
+instances, inability to perceive light. Milder vision impairment may be 
+suspected on the basis of associated eye signs but can be difficult to con­
+firm in a preverbal child because of compensatory behavior (holding 
+objects close, a face turn) that allows the child to have relatively normal 
+overall function and development. Observation of the child’s behavior 
+in the examination room, examination of the eyes (Table 43.4), and a 
+detailed history (Table 43.5) taken from the parents about the child’s 
+visual behavior at home can be important in establishing the degree of 
+impairment. Many visually impaired infants and children have objective 
+signs such as nystagmus, sluggish pupillary light reflexes, or anatomic 
+abnormalities such as optic nerve hypoplasia or chorioretinal scarring. 
+Visual evoked potential (VEP) and electroretinogram (ERG) can help 
+delineate optic nerve or retina pathology, respectively.
+TABLE 43.3  Less Common Forms of Strabismus
+Type of Strabismus
+Presenting Symptoms and Signs
+Cause
+Treatment
+Duane syndrome
+Esotropia with deficient abduction or 
+exotropia with deficient adduction of one 
+eye; head turn
+Absence of sixth nerve nucleus and 
+aberrant innervation of lateral rectus 
+muscle from third cranial nerve
+Strabismus surgery for correction of large 
+deviations or abnormal head position
+Dissociated vertical deviation
+One eye turns up intermittently, especially 
+with fatigue
+Eye movement abnormality related most 
+commonly to congenital esotropia
+Eye muscle surgery on superior rectus and 
+inferior oblique muscles
+Brown syndrome
+Head tilt; inability to elevate eye in 
+adduction
+Restriction of free passage of superior 
+oblique tendon through trochlea
+Observation if not severe; superior oblique 
+tendon surgery if severe
+Möbius syndrome
+Masklike facies; inability to abduct both 
+eyes; difficulty closing eyes
+Bilateral sixth and seventh nerve palsies
+Protect corneas from exposure; strabismus 
+surgery
+Congenital fibrosis syndrome
+Chin-up head position; inability to elevate 
+eyes; ptosis
+Autosomal dominant gene on 
+chromosome 16 in some patients; 
+superior division of third nerve in others
+Surgical release of tight extraocular 
+muscles
+Third nerve palsy
+Exotropia and hypertropia; ptosis; dilated, 
+nonreactive pupil
+Congenital absence of third nerve; 
+trauma; tumor
+Ptosis and strabismus surgery
+Double elevator palsy
+Chin-up head posture; inability to elevate 
+one eye
+Paresis of superior rectus muscle
+Transposition strabismus surgery
+Orbital floor fracture
+Vertical diplopia; chin-up head position
+Entrapment of orbital tissues in fracture
+Repair of floor fracture; release of inferior 
+rectus muscle restriction
+Myasthenia: congenital or 
+acquired
+Variable ptosis and eye movement 
+abnormalities
+Blockage of acetylcholine receptor sites 
+by immune complexes
+Treatment of systematic myasthenia; 
+strabismus surgery if patient is stable
+Mitochondrial disorders
+Ptosis, progressive external 
+ophthalmoplegia, optic neuropathy, 
+cardiomyopathy, peripheral myopathy
+Various mitochondrial variants
+Supportive
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+791
+CHAPTER 43  Eye Disorders
+Visual inattentiveness in an infant deserves special attention 
+because of the possibility that the child has a treatable but not obvious 
+form of vision impairment such as bilateral congenital cataracts. Even 
+if the cause of impairment is not remediable, early diagnosis is import­
+ant for referral of the infant for physical and occupational therapy for 
+visual impairment since these children have very specific needs. Vision 
+impairment (monocular or binocular) acquired after infancy obli­
+gates the physician to search for a cause such as a retinal degeneration 
+because some causes are treatable (Tables 43.6, 43.7, and 43.8).
+Optic neuropathies may be isolated or part of a broader multisys­
+tem disease. Leber hereditary optic neuropathy, a mitochondrial disor­
+der, presents with subacute and severe vision loss (Table 43.9). Other 
+mitochondrial disorders with optic atrophy include Leigh syndrome 
+TABLE 43.4  Red Flags in Inspection and 
+Direct Ophthalmoscopy in Evaluating Visual 
+Impairment
+Physical Findings
+Possible Pathologic Process
+Inspection
+Globe
+Small
+High hyperopia, persistent hyperplastic primary 
+vitreous, phthisis bulbi (shrinkage related to 
+deteriorating eye disease)
+Large
+Glaucoma, high myopia
+Red eye
+Inflammatory disease (infection, uveitis), trauma, 
+tumor, glaucoma
+Protrusion
+Retrobulbar or orbital infection/tumor, 
+hyperthyroidism, nonspecific orbital 
+inflammation (orbital pseudotumor), sarcoidosis
+Sunken
+Orbital fracture, Horner syndrome, atrophy, 
+microphthalmia
+Misalignment
+Impairment of extraocular muscles: congenital 
+weakness, muscle entrapment (tumor/trauma), 
+cranial nerve palsy (infection, tumor, stroke, 
+congenital)
+Ophthalmoscopy
+Cloudy cornea
+Anterior segment dysgenesis (Peter anomaly), 
+glaucoma, trauma, infection, metabolic storage 
+diseases (mucopolysaccharidoses)
+Lens
+Cloudy
+Cataracts (congenital vs systemic diseases)
+Dislocated
+Homocystinuria, Marfan syndrome
+Cloudy vitreous
+Retinoblastoma, detached retina, 
+endophthalmitis, uveitis, hemorrhage
+Optic disk
+Pale
+Optic atrophy (congenital, trauma, tumor, 
+hydrocephalus, degenerative neurologic disease)
+Swollen
+Increased intracranial pressure, optic neuritis
+Hemorrhage
+Optic neuritis, increased intracranial pressure
+Retina/choroid
+Abnormal color
+Retinitis pigmentosa (spicule pattern), 
+chorioretinitis (atrophy with 
+hyperpigmentation), Tay-Sachs disease (cherry-
+red macula), albinism
+Exudates
+Diabetes mellitus, Coats disease, increased 
+intracranial pressure, sickle cell, arteriovenous 
+malformations
+Hemorrhage
+Hypertension, diabetes mellitus, increased 
+intracranial pressure, trauma, blood disorders
+Phakomatoses
+Tuberous sclerosis (yellow plaques, nodules), von 
+Hippel–Lindau disease (reddish globular mass), 
+Sturge-Weber syndrome (choroidal hemangioma), 
+neurofibromatosis (yellow plaques)
+Blood vessels
+Constricted
+Hypertension
+Microaneurysm
+Diabetes mellitus
+Perivascular 
+sheathing, cuffing, 
+leakage, occlusion
+Retinal vasculitis
+TABLE 43.5  Red Flags in History for Visual 
+Impairment
+Manifestation
+Possible Pathologic Process
+Child’s Complaint
+Generalized blurred vision
+Far vision only
+Myopia
+Near vision only
+Hyperopia, disorder of accommodation
+Both far and near
+Astigmatism or defect of visual pathways
+Focal blurred vision (veil, 
+shadow)
+Unilateral
+Ipsilateral retinal or optic nerve
+Bilateral
+Chiasmal, postchiasmal, or bilateral 
+prechiasmal lesion
+Ghost/double vision
+With binocular vision
+Cranial nerve or extraocular muscle
+With monocular vision
+Ocular media or macular disease
+Changes in special visions
+Poorer color vision
+Retinal or optic nerve disease
+Poorer night vision
+Retinal disease (retinitis pigmentosa), 
+congenital stationary night blindness, 
+vitamin A deficiency
+Visual sensations
+Floaters, spots
+Uveitis, retinal detachment, or hemorrhage
+Shimmering lines or scotoma Migraines
+Visual hallucinations
+Cerebral lesion, psychogenic, autoimmune 
+encephalitis
+Parents’ Observations
+Age-appropriate infant does 
+not track
+Severe ocular (myopia, cataracts) or 
+systemic (meningitis) pathologic process
+Objects viewed too closely
+Decreased visual acuity related to 
+refractive error; ocular or neurologic 
+disorder
+Squinting
+Decreased visual acuity related to 
+refractive error; ocular or neurologic 
+disorder
+Roving or wandering eyes
+Nystagmus or strabismus; rule out ocular 
+or neurologic disorder
+Head tilting
+Compensatory posturing for nystagmus, 
+strabismus, astigmatism, or visual field 
+defect
+Bumping into objects
+Visual field defect, decreased visual acuity
+Reading problems
+Visual impairment, visual processing disorder
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+792
+SECTION 7  Neurosensory Disorders
+and myoclonus epilepsy with ragged-red fibers (MERRF) syndrome. 
+Hereditary neuropathies (Charcot-Marie-Tooth, familial dysautono­
+mia, spinocerebellar ataxia, Friedreich ataxia), some leukodystrophies, 
+and lipidosis are also associated with optic neuropathy.
+RETINOPATHY OF PREMATURITY
+Premature infants are at risk for the development of ROP because the 
+retinal vessels have not yet grown out to the periphery of the retina and 
+are susceptible to a variety of postnatal influences, including oxygen 
+that can adversely affect retinal vessel maturation. In advanced stages 
+of ROP, retinal neovascularization and fibrosis may lead to traction on 
+the retina and result in a retinal detachment, the most common cause 
+of blindness in premature infants. In most cases, fortunately, ROP 
+spontaneously resolves.
+The international classification system for the acute stages of ROP 
+describes the location, extent, and stage of the disease according to the 
+position of the advancing wave of retinal vessels (Fig. 43.10). The retina 
+is divided into zones I, II, and III. Zone I is centered on the optic nerve, 
+from which the retinal arterioles emerge, and zone III exists as a cres­
+cent of retina on the temporal side; zone II occupies the midportion of 
+the retina in all four quadrants. The severity is indicated by stages 1–5, 
+with stage 1 representing mild ROP and stage 5 representing a total 
+retinal detachment.
+The management of ROP begins with a systematic program of eye 
+examinations at well-defined times in infants judged to be at risk for 
+developing ROP. The frequency of examinations is dependent on the 
+findings and progression of the disease. Infants with a birthweight of 
+<1,500 g are first examined 4–6 weeks after birth. Follow-up exam­
+inations are performed at regular intervals until the retina is fully 
+TABLE 43.6  Childhood Amaurosis (Blindness): Principal Neurologic Considerations
+Congenital Malformations
+Optic nerve hypoplasia
+Congenital hydrocephalus
+Hydranencephaly
+Porencephaly
+Microencephaly
+Encephalocele, particularly occipital type
+Phakomatoses
+Tuberous sclerosis
+Neurofibromatosis (special association with optic glioma)
+Sturge-Weber syndrome 
+von Hippel–Lindau disease
+Tumors
+Retinoblastoma
+Optic glioma
+Perioptic meningioma
+Craniopharyngioma
+Cerebral glioma
+Posterior and intraventricular tumors when complicated by hydrocephalus
+Neurodegenerative Diseases
+Cerebral storage disease
+Gangliosidoses, particularly Tay-Sachs disease Sandhoff variant, generalized 
+gangliosidosis
+Other lipidoses and ceroid lipofuscinoses, particularly the late-onset such as 
+Jansky-Bielschowsky and Batten-Mayou-Spielmeyer-Vogt
+Mucopolysaccharidoses, particularly Hurler syndrome and Hunter syndrome
+Leukodystrophies (dysmyelination disorders), particularly metachromatic 
+leukodystrophy and Canavan disease
+Demyelinating sclerosis (myelinoclastic diseases), especially Schilder disease 
+and Devic neuromyelitis optica
+Special types: Dawson disease, Leigh disease, Bassen-Kornzweig syndrome, 
+Refsum disease
+Retinal degenerations: “retinitis pigmentosa” and its variants, Leber 
+congenital type
+Optic atrophies: congenital autosomal recessive type, infantile and congenital 
+autosomal dominant types
+Leber disease, and atrophies associated with hereditary ataxias: Behr, Marie, 
+and Sanger-Brown
+Usher syndrome
+Infectious Processes
+Encephalitis, especially in the prenatal infection syndromes due to 
+Toxoplasma gondii, cytomegalovirus, rubella virus, Treponema pallidum
+Meningitis; arachnoiditis
+Optic neuritis
+Chorioretinitis
+Hematologic Disorders
+Leukemia with central nervous system involvement
+Vascular and Circulatory Disorders
+Inflammatory vascular diseases (lupus, sarcoidosis, granulomatosis with 
+polyangiitis, vasculitis)
+Coats disease*
+Arteriovenous malformations: intracerebral hemorrhage, subarachnoid hemorrhage
+Susac syndrome†
+Trauma
+Contusion or avulsion of optic nerves or chiasm
+Cerebral contusion or laceration
+Intracerebral, subarachnoid, or subdural hemorrhage
+Drugs and Toxins
+*Coats disease: poor vision, leukocoria, retinal telangiectasia, and exudation.
+†Susac syndrome: branch retinal artery occlusions, hearing deficits, central nervous system dysfunction.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+793
+CHAPTER 43  Eye Disorders
+TABLE 43.7  Causes of Monocular Visual Loss
+Disorder
+Timing
+Pattern 
+of Loss
+Other Clues
+Fundus 
+Appearance
+Pupil
+Refractive error
+Gradual*
+Varies
+Improves with pinhole
+Normal
+Normal
+Cataract
+Very gradual
+Tunnel?
+Opacity visible
+Normal
+Normal, but red reflex 
+decreased
+Corneal disease
+Acute or chronic
+Murky
+Opacity visible or positive 
+fluorescein
+Normal
+Normal, but red reflex 
+decreased
+Iritis
+Acute or chronic
+Murky
+Pain
+Ciliary flush
+Normal
+Small
+Disfigured?
+Open-angle glaucoma
+Gradual
+Varies
+Elevated pressures
+Normal
+Normal
+Angle-closure glaucoma
+Acute
+Varies
+Pain
+Steamy cornea
+Patient ill
+Normal
+Dilated
+Fixed
+Central retinal occlusion
+Acute
+Varies
+Painless
+Abrupt
+Pale with cherry-red 
+macula
+Normal
+Retinal detachment
+Acute
+Varies
+Painless
+Floaters
+Unremarkable or 
+diagnostic
+Afferent pupillary defect 
+if extensive
+Vitreous hemorrhage
+Acute
+“Dark”
+Cannot see in the eye
+Obscured
+Normal, but red reflex 
+decreased
+Amaurosis fugax
+Acute
+Transient
+5–10 min
+Carotid or heart disease, 
+migraine
+Normal
+Normal
+Migraine
+Acute
+Transient
+5–30 min
+Headache
+History
+Scintillations
+Normal
+Normal
+Optic neuropathy, neuritis
+Gradual or acute
+Central scotoma
+Decreased visual acuity, loss 
+of color vision, pain on eye 
+movement, may also have 
+spinal cord lesion
+Normal
+Pale optic disk?
+Afferent defect
+Diffuse retinopathy
+Gradual
+Varies
+Genetic
+AIDS
+Retinal lesions
+Afferent defect?
+Papilledema (chronic)
+Late
+Varies
+CNS tumor
+Pseudotumor cerebri
+Hypertensive crisis
+Diagnostic; optic atrophy
+Normal
+Endophthalmitis
+Varies
+Varies
+Corneal, systemic infection
+Penetrating injury
+Systemic inflammation or injury
+Hypopyon
+Varies
+Often obscured
+Varies
+*Refractive error may be more acute when caused by diabetes mellitus.
+CNS, central nervous system.
+Modified from Reilly BM. Practical Strategies in Outpatient Medicine. 2nd ed. Philadelphia: WB Saunders; 1991:60.
+TABLE 43.8  Organic Causes of Vision Loss in Neonates
+Condition
+Physical Findings
+Comments
+Corneal Disease
+Corneal forceps injury
+Cloudy cornea
+May lead to astigmatism and amblyopia; associated with intraocular hemorrhage, retinal 
+detachment
+Sclerocornea
+Opaque cornea
+Scleralization of cornea; familial or sporadic; keratoplasty possibly needed to provide vision
+Anterior microphthalmia
+Small cornea
+Familial inheritance; associated with congenital cataracts, glaucoma, and/or coloboma
+Anterior Chamber Diseases
+Peter anomaly
+Corneal opacity with iridocorneal/
+lenticulocorneal adhesions
+Maldevelopment of anterior segment of eye; associated with glaucoma and lens 
+abnormalities
+Persistent pupillary 
+membrane
+Bands or membranes obscuring pupil
+Rupture of vessels in membranes may lead to hyphema; membrane may need to be 
+removed to restore vision
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+794
+SECTION 7  Neurosensory Disorders
+TABLE 43.8  Organic Causes of Vision Loss in Neonates—cont’d
+Condition
+Physical Findings
+Comments
+Anterior Chamber Diseases—cont’d
+Glaucoma
+Tearing, enlarged eye, photophobia, 
+cloudy cornea, pale optic disk
+Increased intraocular pressure leading to blindness (optic nerve damage)
+Causes: anomalies of anterior segment, intraocular hemorrhage, ocular inflammatory 
+disease, intraocular tumors
+Treatment: surgery
+Iris and Lens Disorders
+Aniridia
+Large, irregular, unreactive pupil
+Hypoplasia of iris—may be heritable or sporadic, which is associated with a deletion of 
+chromosome 11 and Wilms tumor or WAGR syndrome
+Cataracts
+Lens opacity
+Multiple causes, ranging from familial inheritance to drugs
+Anterior PHPV
+Leukocoria (white pupillary reflex), lens 
+opacity, cloudy cornea, small lens and 
+eye
+Persistence of fetal hyaloid vascular system, resulting in fibrovascular plaque on back of 
+lens; as plaque contracts, ciliary process and lens become distorted
+Complications: glaucoma, cataract, intraocular hemorrhage, rupture of posterior capsule
+Treatment: removal of membrane, lens aspiration
+Prognosis: poor visual outcome
+Retinal and Optic Nerve Disorders
+Posterior PHPV
+Fibroglial veils around disk/macula, 
+vitreous opacities (membrane, vessels)
+Persistence of posterior fetal hyaloid vascular system; remnants of vascular system may 
+cause traction detachment of retina
+Chorioretinitis
+Diffuse or local retinal atrophy 
+demarcated by hyperpigmentation
+Inflammation of posterior uvea with retinal involvement
+Causes: toxoplasmosis, histoplasmosis, herpes simplex, cytomegalic inclusion virus, 
+syphilis, tuberculosis, and toxocariasis
+Other complications: glaucoma, detached retina
+Retinoblastoma
+Leukocoria
+Neoplastic tumor with locus on chromosome 13; high incidence of secondary malignancy; 
+poor prognosis with extraorbital metastasis
+Retinopathy of prematurity
+Leukocoria, cloudy vitreous; retinal white 
+lines and ridges
+Abnormal vascularization of retina; associated with retinal traction and detachment
+Leber congenital retinal 
+amaurosis
+Normal findings to degeneration of retina
+Failure of both rods and cones in retina; reduced or absent response to 
+electroretinography; autosomal recessive
+Achromatopsia
+Color cannot be detected, photophobia
+Failure of cone system in retina; autosomal recessive, or X-linked; diagnosed with ERG
+Congenital stationary 
+night blindness
+Disk anomalies, poor night vision
+Defect in rod system of retina; autosomal recessive, dominant, or X-linked recessive
+Optic nerve hypoplasia
+Pale, small optic disk; peripapillary halo 
+of pigmentation
+Secondary to failure in differentiation or degeneration of retinal ganglion cell axons
+Some causes: septo-optic dysplasia (hypopituitary, midline CNS defects), chromosomal 
+defects (trisomy 13), albinism, fetal drug exposure (phenytoin, ethanol), infant of 
+diabetic mother, CNS defects (hydrocephalus, anencephaly, encephalocele)
+Optic nerve aplasia
+Absence of retinal vessels and optic disk
+Maldevelopment of optic nerve; associated with severe eye and CNS anomalies
+Morning glory disk 
+anomaly
+Enlarged, funnel-shaped disk
+Associated with retinal detachments and midline defects (cleft palate, encephalocele, 
+agenesis of corpus callosum)
+Coloboma
+White, wedge-shaped retinal defect; 
+visual field loss
+Malclosure of embryonic fissure that leaves a gap in the retina, hence exposing sclera; 
+defect may extend to lens; associated with many congenital syndromes
+Aicardi syndrome
+Retinal lacunae, coloboma of optic disk
+Occurs mostly in females; associated with agenesis of corpus callosum, seizures, 
+intellectual disability, vertebral anomalies
+Albinism
+Photophobia; blue-gray to yellow-brown 
+iris; macular hypoplasia
+Defect in formation of melanin, resulting in lack of pigment in eyes and sometimes skin; 
+increases risk of skin cancer with hypopigmented skin
+CNS, central nervous system; ERG, electroretinogram; PHPV, persistent hyperplastic primary vitreous; WAGR, Wilms tumor, sporadic aniridia, geni­
+tourinary malformations, and mental retardation.
+vascularized. If treatment is required, laser ablation of immature ret­
+ina or intravitreal injections of anti–vascular endothelial growth factor 
+(VEGF) medication such as bevacizumab are options. The choice of 
+treatment depends on the zone and the rate of progression of disease. 
+Insulin-like growth factor (IGF)-1 supplementation or alterations may 
+be a means to prevent ROP in the future.
+LEUKOCORIA AND RETINOBLASTOMA
+Leukocoria or “white pupil” is a sign, not a specific disease (Table 
+43.10). True leukocoria mandates prompt referral to an ophthalmol­
+ogist as the causes may threaten either vision and/or life. Retinoblas­
+toma is the most feared cause of leukocoria because of its potential to 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+795
+CHAPTER 43  Eye Disorders
+metastasize and cause death. It is the most common malignant ocular 
+tumor of childhood, with an incidence of about 1/15,000. Leukoco­
+ria, the most common presenting sign, is caused by light reflection 
+from the tumor’s white surface (Fig. 43.11) as opposed to the usual 
+red reflex from the retina. Approximately 25% present with strabis­
+mus. Less common presentations include periocular inflammation, 
+glaucoma, and proptosis. Imaging is helpful to evaluate for calcifica­
+tions that occur in retinoblastoma and to help confirm the diagnosis 
+as well as to evaluate for pinealoblastoma and extension of the tumor 
+into the orbit. MRI should be done because CT scan poses concern 
+for radiation exposure and the development of secondary cancers, for 
+which patients with retinoblastoma are at increased risk. Referral of a 
+patient with suspected retinoblastoma to an ophthalmologist experi­
+enced in its diagnosis and management is critical. Genetic counseling 
+is indicated, as is examination of parents and siblings. In about 1% of 
+cases a parent will have a regressed retinoblastoma or retinocytoma. 
+Treatment options are focused on vision-sparing therapies including 
+ophthalmic artery chemosurgery, laser photocoagulation, cryotherapy, 
+intravitreal chemotherapy, systemic chemotherapy, and enucleation 
+depending on laterality, location, extent of tumor, and vision potential. 
+There is concerted effort to save the globes through advances in thera­
+pies, and in most cases, this can be achieved.
+CHILDHOOD CATARACTS
+Congenital cataracts are a common cause of unilateral or bilateral 
+vision loss in children, usually resulting from irreversible amblyopia 
+in one or both eyes and occasionally from other accompanying struc­
+tural ocular abnormalities (Table 43.11). Many infants with cataracts 
+have leukocoria, but all visually significant cataracts can be detected by 
+careful evaluation of the red reflex (Figs. 43.12 and 43.13). Infants with 
+bilateral, visually significant cataracts may present with visual inatten­
+tiveness or nystagmus, signs that significant impairment of vision has 
+already occurred.
+TABLE 43.9  Genetic and Clinical Features of Primary Hereditary Optic Atrophies and Their 
+Respective Genes
+OPA1
+LHON
+OPA3
+TMEM126A
+WFS1
+Inheritance
+Autosomal dominant
+Maternal
+Autosomal dominant
+Autosomal recessive
+Autosomal dominant
+Age of onset
+Childhood
+Young adult, male >> female
+Late childhood
+Childhood
+Childhood to adult
+Ophthalmologic 
+features
+Slowly progressive, 
+tritanomaly
+Sudden visual loss 
+Frequently beginning unilateral
+Often additional 
+cataract
+Early manifestation and 
+progression
+Highly variable
+Loss of visual acuity
+Moderate-severe
+Pronounced visual impairment
+Moderate
+Severe visual loss
+Variable
+Possible extraocular 
+signs
+∼20% of patients 
+have neurologic 
+symptoms (e.g., ataxia, 
+neuropathy)
+Mild neurologic symptoms 
+possible; multiple sclerosis–
+like symptoms
+Late in life; mild 
+neurologic signs 
+possible late in life
+Subclinical hearing 
+impairment
+Hearing impairment, 
+disturbed glucose 
+tolerance, behavioral 
+abnormalities
+LHON, Leber hereditary optic neuropathy; OPA1, optic atrophy type 1; OPA3, optic atrophy type 3; TMEM126A, optic atrophy type 7; WFS1, Wolfgram 
+syndrome.
+From Neuhann T, Rautenstrauss B. Genetic and phenotypic variability of optic neuropathies. Expert Rev Neurother. 2013;13(4):357–367.
+Fig. 43.10  The international classification of retinopathy of prematurity 
+(ROP). The stage of ROP is determined by the location, extent, and 
+stage of disease according to the position of the advancing waves of 
+retinal vessels. LE, left eye; RE, right eye.
+TABLE 43.10  Differential Diagnosis of 
+Leukocoria (White Pupillary Reflex)
+Common Causes
+Cataracts
+Cicatricial retinopathy of prematurity
+Coloboma
+Exudative retinopathy
+Fundus coloboma
+Larval granulomatosis (toxocariasis)
+Persistent hyperplastic primary vitreous
+Retinoblastoma
+Other Causes
+Atrophic chorioretinal scars
+Coats disease
+Congenital retinal fold
+Endophthalmitis
+Glioneuroma
+Hemangioma
+Hamartoma
+Leukemic ophthalmopathy
+Incontinentia pigmenti
+Medullated nerve fibers
+Medulloepithelioma
+Morning glory disk anomaly
+Norrie disease
+Organized vitreous hemorrhage
+Phakomatoses
+Retinal gliosis
+Retinal dysplasia
+Retinoschisis
+Toxoplasmosis
+Vitreoretinopathy (exudative)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+796
+SECTION 7  Neurosensory Disorders
+Most cases of unilateral cataract are idiopathic in origin or associ­
+ated with other ocular anomalies (persistent hyperplastic primary vit­
+reous, anterior segment dysgenesis). Bilateral cataracts have a known 
+genetic basis in about 60–70% of the cases, but this is increasing as 
+novel pathologic genetic variants continue to be described. Cataracts 
+are commonly inherited in an autosomal dominant manner but may 
+be inherited in an autosomal recessive or X-linked pattern. They can 
+be associated with metabolic disease such as galactosemia or Fabry 
+syndrome. Cataracts found to be a result of a metabolic disease may 
+be reversible by removal of the offending agent; galactosemic cat­
+aracts are potentially reversible if lactose is eliminated from the diet 
+promptly. Intrauterine TORCH(S) infections (toxoplasmosis, rubella, 
+Fig. 43.11  Infant with leukocoria of right eye caused by retinoblastoma.
+TABLE 43.11  Differential Diagnosis of Cataracts
+Developmental Variants
+Prematurity (“y” suture vacuoles) with or without retinopathy of prematurity
+Genetic Disorders
+Simple Mendelian Inheritance
+Autosomal dominant (most common)
+Autosomal recessive
+X-linked
+Major Chromosomal Defects
+Trisomy disorders (13, 18, 21)
+Turner syndrome (45X)
+Deletion syndromes (11p13, 18p, 18q)
+Duplication syndromes (3q, 20q, 10q)
+Multisystem Genetic Disorders
+Alport syndrome (hearing loss, renal disease)
+Alström disease (nerve deafness, diabetes mellitus)
+Apert syndrome (craniosynostosis, syndactyly)
+Bardet-Biedl syndrome
+Cockayne syndrome (premature senility, skin photosensitivity)
+Conradi syndrome (chondrodysplasia punctata)
+Crouzon syndrome (dysostosis craniofacialis)
+Hallermann-Streiff syndrome (microphthalmia; small, pinched nose; skin 
+atrophy; and hypotrichosis)
+Hypohidrotic ectodermal dysplasia (anomalous dentition, hypohidrosis, 
+hypotrichosis)
+Ichthyosis (keratinizing disorder with thick, scaly skin)
+Incontinentia pigmenti (dental anomalies, intellectual disability, cutaneous 
+lesions)
+Lowe syndrome (oculocerebrorenal syndrome: hypotonia, renal disease)
+Marfan syndrome
+Meckel-Gruber syndrome (renal dysplasia, encephalocele)
+Myotonic dystrophy
+Nail-patella syndrome (renal dysfunction, dysplastic nails, hypoplastic patella)
+Marinesco-Sjögren syndrome (cerebellar ataxia, hypotonia)
+Nevoid basal cell carcinoma syndrome (autosomal dominant, basal cell 
+carcinoma erupts in childhood)
+Peter anomaly (corneal opacifications with iris-corneal dysgenesis)
+Reiger syndrome (iris dysplasia, myotonic dystrophy)
+Rothmund-Thomson (poikiloderma: skin atrophy)
+Rubinstein-Taybi syndrome (broad great toe, intellectual disability)
+Smith-Lemli-Opitz syndrome (toe syndactyly, hypospadias, intellectual 
+disability)
+Sotos syndrome (cerebral gigantism)
+Spondyloepiphyseal dysplasia (dwarfism, short trunk)
+Stickler syndrome
+Werner syndrome (premature aging in second decade of life)
+Inborn Errors of Metabolism
+Abetalipoproteinemia (absent chylomicrons, retinal degeneration)
+Cerebrotendinous xanthomatosis (CTX)
+Fabry disease (α-galactosidase A deficiency)
+Galactokinase deficiency
+Galactosemia (galactose-1-phosphate uridyltransferase deficiency)
+Homocystinemia (subluxation of lens, intellectual disability)
+Hyperferritinemia
+Infantile ceroid-lipofuscinosis
+Mannosidosis (acid α-mannosidase deficiency)
+Niemann-Pick disease (sphingomyelinase deficiency)
+Refsum syndrome (phytanic acid α-hydrolase deficiency)
+Wilson disease (accumulation of copper leads to cirrhosis and neurologic symptoms)
+Zellweger syndrome
+Endocrinopathies
+Hypocalcemia (hypoparathyroidism)
+Hypoglycemia
+Diabetes mellitus
+Congenital Infections
+Toxoplasmosis
+Cytomegalovirus infection
+Syphilis
+Rubella
+Perinatal herpes simplex infection
+Measles (rubeola)
+Poliomyelitis
+Influenza
+Varicella-zoster
+Ocular Anomalies
+Microphthalmia
+Coloboma
+Aniridia
+Mesodermal dysgenesis
+Persistent pupillary membrane
+Posterior lenticonus
+Persistent hyperplastic primary vitreous
+Primitive hyaloid vascular system
+Retinitis pigmentosa
+Miscellaneous Disorders
+Atopic dermatitis
+Drugs (corticosteroids)
+Radiation
+Trauma
+Idiopathic
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+797
+CHAPTER 43  Eye Disorders
+cytomegalovirus, herpes simplex, and syphilis) can also cause cataracts. 
+Usually these are bilateral but in the case of congenital rubella infection 
+unilateral cataract may occur. Evaluation for a systemic cause should 
+include a pediatric physical examination, ophthalmologic examina­
+tion of the infant and family members, urine for reducing substances 
+after lactose-containing milk feeding, and labs for TORCH infections, 
+calcium, phosphorus, and glucose. Other metabolic studies, chromo­
+somal evaluation, and genetic consultation may be indicated.
+Cataracts in older children may be newly acquired due to a met­
+abolic disease, drug exposure such as steroids, or a manifestation of 
+progressive congenital cataracts. Cataract may rarely be the initial 
+manifestation of diabetes type 1 but can occur as a complication 
+particularly in patients with poor glycemic control. Bilateral cat­
+aracts are often the presenting sign in patients with unrecognized 
+cerebrotendinous xanthomatosis (CTX). These patients usually have 
+had chronic diarrhea without a known cause. Unfortunately, CTX is 
+often diagnosed late after mental and neurodegeneration has started 
+to occur. Since chenodeoxycholic acid can be used to prevent mental 
+and neurologic deterioration, CTX should be considered in the pres­
+ence of a juvenile-onset cataract and chronic diarrhea. Occasionally 
+cataracts, unilateral or bilateral, are caused by an underlying con­
+genital lens defect, which develops into a visually significant cataract 
+at a later age. Trauma is a common cause of an acquired unilateral 
+cataract.
+Ideally, unilateral cataracts must be removed, and amblyopia treat­
+ment begun in the first or second month of life. Bilateral cataracts 
+judged to be visually significant must be treated in the first 3 months 
+of life to facilitate an optimal outcome. After this critical period max­
+imum visual potential is decreased. Aphakic correction in infants 
+younger than 6–12 months with bilateral cataracts is generally pro­
+vided with extended-wear contact lenses or spectacles. Unilateral 
+aphakia in this age group is best managed with a contact lens. A pos­
+terior chamber intraocular lens may be placed in children over the age 
+of 1 year unless the child has an underlying inflammatory condition 
+such as juvenile idiopathic arthritis (JIA). An intraocular lens may be 
+placed in a child with a traumatic cataract if the intraocular structures 
+that support the lens are intact. The management of a cataract goes 
+well beyond cataract surgery. Amblyopia must be treated with occlu­
+sion of the sound eye, often for several years, until stable visual acuity 
+can be demonstrated. Most children (80%) will develop strabismus by 
+age 5 years. Those who have had cataract surgery must be monitored 
+indefinitely to evaluate for delayed complications such as glaucoma 
+and retinal detachment.
+GLAUCOMA IN CHILDHOOD
+Pediatric glaucomas result from abnormalities of the aqueous outflow 
+pathways (primary congenital glaucoma) or abnormalities that affect 
+other parts of the eye (secondary glaucoma) (Table 43.12). Several 
+genes causing primary congenital glaucoma, usually autosomal reces­
+sive, have been identified. Primary congenital glaucoma is bilateral 
+in about 65% of patients. This presents as a classic triad consisting 
+of blepharospasm, photophobia, and epiphora (Fig. 43.14). The cor­
+nea may be cloudy due to edema resulting from elevated intraocular 
+pressure. The cornea also enlarges and the axial length of the eye may 
+increase with elevated intraocular pressure. Onset usually occurs in the 
+first year of life, but only 25% are present at birth. If glaucoma presents 
+A
+B
+Fig. 43.12  A, Photograph of an infant taken when 4 months of age 
+showing normal red reflexes in both eyes. B, Photograph of the same 
+infant 2 months later showing loss of the red reflex in the right eye. At 
+the time of cataract surgery, the right eye was found to have a dense 
+central cataract and persistent fetal vasculature. (From Lambert SR, 
+Lyons CJ, eds. Taylor & Hoyt’s Pediatric Ophthalmology and Strabis­
+mus. 5th ed. Philadelphia: Elsevier; 2017:353, Fig. 37-22.)
+A
+B
+Fig. 43.13  Autosomal dominant cataracts. A, A 3-month-old infant with bilateral dense cataracts. B, His 
+mother has mild cataracts. (From Lambert SR, Lyons CJ, eds. Taylor & Hoyt’s Pediatric Ophthalmology and 
+Strabismus. 5th ed. Philadelphia: Elsevier; 2017:354, Fig. 37-23.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+798
+SECTION 7  Neurosensory Disorders
+after the age of 5 years, it is known as primary juvenile open-angle 
+glaucoma. The natural history of untreated primary congenital glau­
+coma is blindness resulting from progressive corneal opacification and 
+optic nerve damage. Treatment is surgical, although eye pressure–low­
+ering medications such as topical β blockers and topical or oral car­
+bonic anhydrase inhibitors may be used as temporizing measures. 
+Even with treatment, final visual acuity is worse than 20/50 in more 
+than 50% of the patients.
+Secondary glaucoma may present similarly to primary glau­
+coma but is associated with other factors such as ocular trauma, 
+inflammation, prolonged steroid use, or cataract. Some systemic 
+conditions such as neurofibromatosis and Sturge-Weber syndrome 
+are also associated with secondary glaucoma. The differential diag­
+nosis of congenital glaucoma includes anterior segment dysgenesis 
+and conditions that demonstrate corneal opacities (Table 43.13) 
+or an enlarged cornea (Table 43.14). Epiphora also occurs with 
+Fig. 43.14  Infant with right buphthalmos. (From Lambert SR, Lyons CJ, eds. Taylor & Hoyt’s Pediatric Oph­
+thalmology and Strabismus. 5th ed. Philadelphia: Elsevier; 2017:363, Fig. 38-1.)
+TABLE 43.12  Classifications of Childhood Glaucomas
+PRIMARY CHILDHOOD GLAUCOMA
+SECONDARY CHILDHOOD GLAUCOMA—CONT’D
+Chromosomal disorders such as trisomy 21 (Down syndrome)
+Connective tissue disorders
+Marfan syndrome
+Weill-Marchesani syndrome
+Stickler syndrome
+Metabolic disorders
+Homocystinuria
+Lowe syndrome
+Mucopolysaccharidoses
+Rubinstein-Taybi
+Congenital rubella
+Primary congenital glaucoma (isolated trabeculodysgenesis)
+Neonatal or newborn onset (0–1 mo)
+Infantile onset (>1 mo–2 yr)
+Late onset or late recognized (>2 yr)
+Spontaneously arrested (nonprogressive buphthalmos, Haab striae, normal 
+intraocular pressure [IOP] and optic nerves)
+Juvenile open-angle glaucoma
+SECONDARY CHILDHOOD GLAUCOMA
+Glaucoma Associated with Nonacquired Ocular Anomalies
+Conditions with predominantly ocular anomalies present at birth that may or 
+may not be associated with systemic signs:
+Axenfeld-Rieger anomaly (“syndrome” if systemic associations)
+Peters anomaly (“syndrome” if systemic associations)
+Congenital ectropion uveae
+Congenital iris hypoplasia
+Aniridia
+Persistent fetal vasculature (PFV) (if glaucoma present before cataract surgery)
+Oculodermal melanocytosis (nevus of Ota)
+Microphthalmos/microcornea
+Ectopia lentis
+Simple ectopia lentis (no systemic associations)
+Ectopia lentis et pupillae
+Glaucoma Associated with Nonacquired Systemic Disease or 
+Syndrome
+Conditions predominantly with known syndromes, systemic anomalies, or 
+systemic disease present at birth that may be associated with ocular signs:
+Phakomatoses
+Sturge-Weber syndrome
+Neurofibromatosis (NF-1)
+Klippel-Trenaunay-Weber syndrome
+Glaucoma Associated with Acquired Condition
+Conditions that are not inherited or present at birth but that develop after 
+birth:
+Uveitis
+Trauma (hyphema, angle recession, ectopia lentis)
+Steroid induced
+Tumors (benign/malignant, ocular/orbital)
+Retinopathy of prematurity (ROP)
+Postsurgery other than cataract surgery
+Glaucoma Following Cataract Surgery
+Subdivided into three categories based upon cataract type and there being no 
+glaucoma prior to cataract surgery:
+Congenital idiopathic cataract
+Congenital cataract associated with ocular anomalies/systemic disease or 
+syndrome
+Acquired cataract
+Adapted from Beck A, Chang TCP, Freedman S. Definition, classification and differential diagnosis. In: Welnreb RN, Grajewskl A, Papadopoulos M, 
+et al., eds. Childhood Glaucoma, WGA Consensus Series - 9. Amsterdam: Kugler Publications; 2013:3–10.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+799
+CHAPTER 43  Eye Disorders
+TABLE 43.13  STUMPED: Differential Diagnosis of Neonatal Corneal Opacities
+Diagnosis
+Laterality
+Opacity
+Ocular 
+Pressure
+Other Ocular 
+Abnormalities
+Natural History
+Inheritance
+S – Sclerocornea
+Unilateral or 
+bilateral
+Vascularized, blends 
+with sclera, clearer 
+centrally
+Normal (or 
+elevated)
+Cornea plana
+Nonprogressive
+Sporadic
+T – Tears in endothelium 
+and Descemet membrane
+Birth trauma
+Unilateral
+Diffuse edema
+Normal
+Possible hyphema, 
+periorbital ecchymoses
+Spontaneous 
+improvement in 
+1 mo
+Sporadic
+Infantile glaucoma
+Bilateral
+Diffuse edema
+Elevated
+Megalocornea, 
+photophobia and 
+tearing, abnormal 
+angle
+Progressive unless 
+treated
+Autosomal 
+recessive
+U – Ulcers
+Herpes simplex keratitis
+Unilateral
+Diffuse with geographic 
+epithelial defect
+Normal
+None
+Progressive
+Sporadic
+Congenital rubella
+Bilateral
+Disciform or diffuse 
+edema, no frank 
+ulceration
+Normal or 
+elevated
+Microphthalmos, 
+cataract, pigment 
+epithelial 
+mottling
+Stable, may clear
+Sporadic
+Neurotrophic – exposure
+Unilateral or 
+bilateral
+Central ulcer
+Normal
+Lid anomalies, 
+congenital sensory 
+neuropathy
+Progressive
+Sporadic
+M – Metabolic (rarely 
+present at birth) 
+(mucopolysaccharidoses 
+IH, IS; mucolipidoses 
+type IV)*
+Bilateral
+Diffuse haze, denser 
+peripherally
+Normal
+Few
+Progressive
+Autosomal 
+recessive
+P – Posterior corneal 
+defect
+Unilateral or 
+bilateral
+Central, diffuse haze or 
+vascularized leukoma
+Normal or 
+elevated
+Anterior chamber 
+cleavage syndrome
+Stable; sometimes 
+early clearing or 
+vascularization
+Sporadic, autosomal 
+recessive
+E – Endothelial dystrophy
+Congenital hereditary 
+endothelial dystrophy
+Bilateral
+Diffuse corneal edema, 
+marked corneal 
+thickening
+Normal
+None
+Stable
+Autosomal 
+dominant or 
+recessive
+Posterior polymorphous 
+dystrophy
+Bilateral
+Diffuse haze, normal 
+corneal thickness
+Normal
+Occasional peripheral 
+anterior synechiae
+Slowly progressive
+Autosomal 
+dominant
+Congenital hereditary stromal 
+dystrophy
+Bilateral
+Flaky, feathery
+stromal opacities; 
+normal corneal 
+thickness
+Normal
+None
+Stable
+Autosomal 
+dominant
+D – Dermoid
+Unilateral or 
+bilateral
+White vascularized 
+mass, hair, lipid arc
+Normal
+None
+Stable
+Sporadic
+*Mucopolysaccharidosis IH, Hurler syndrome; mucopolysaccharidosis IS, Scheie syndrome.
+From Nelson LB, Calhoun JH, Harley RD. Pediatric Ophthalmology. 3rd ed. Philadelphia: WB Saunders; 1991:210.
+conjunctivitis, corneal trauma, and nasolacrimal duct obstruction 
+(NLDO). Photophobia is observed in infants with corneal trauma, 
+corneal deposits, cystinosis, and inflammation (uveitis). Corneal 
+opacification can also be found in infants with corneal dystrophies, 
+metabolic storage diseases such as mucopolysaccharidoses, and for­
+ceps-related obstetric trauma.
+The diagnosis of primary congenital glaucoma or secondary 
+glaucoma is generally confirmed by performing an examination 
+with the patient under anesthesia. The child needs to be quiet and 
+very cooperative in order to get an accurate intraocular pressure 
+reading and a careful examination of the cornea and anterior seg­
+ment structures. The diagnosis rests on a constellation of abnormal 
+ocular findings, including elevated intraocular pressure, corneal 
+enlargement, increased axial length, anomalies of the drainage 
+angle, and signs of damage to the optic nerve in conjunction with 
+medical history.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+800
+SECTION 7  Neurosensory Disorders
+CHILDHOOD UVEITIS
+Uveitis is defined as inflammation of the uveal tissue of the eye, 
+which includes the iris, ciliary body, and choroid. Inflammation 
+can involve any or all of these structures, and terms such as iritis 
+(Fig. 43.15), iridocyclitis, choroiditis, and chorioretinitis are used to 
+designate which portion of the uveal tissue is involved. Anatomic 
+location such as anterior, posterior, intermediate, or panuveitis or 
+associated with meningitis is useful in determining etiology (Table 
+43.15). Masquerade syndromes such as lymphoma or leukemia can 
+mimic uveitis since they can have a leukocyte response that can be 
+mistaken for inflammation.
+JIA (juvenile idiopathic arthritis) is the most common cause of 
+childhood anterior uveitis. JIA uveitis is most common in the pauci­
+articular form, when the onset occurs before the age of 7 years, and 
+when the antinuclear antibody blood test is positive. Females are at 
+higher risk than males; 10–15% of children with JIA develop uveitis 
+and 10% of those who develop uveitis do so prior to the diagnosis 
+of JIA. It is common for children with JIA to have no symptoms of 
+inflammation in the eye. Despite the lack of symptoms, uveitis can 
+cause severe vision loss due to the development of edema or depo­
+sition of calcium (band keratopathy) in the cornea or retinal edema 
+(Fig. 43.15). A cataract and/or glaucoma may result from inflamma­
+tion in the eye or chronic use of steroids used to quiet the inflamma­
+tion. The pupil may have an irregular shape as a result of adhesions to 
+the underlying lens (posterior synechiae). Visual impairment occurs 
+in up to 40% of children with JIA uveitis and blindness occurs in 10% 
+of affected eyes. For this reason there are screening guidelines for the 
+recommended frequency of eye exams based on the risk factors that 
+predispose patients with JIA to uveitis including category of arthritis 
+(oligoarthritis vs polyarthritis), age of onset of arthritis, presence of 
+antinuclear antibody positivity, and duration of disease (Fig. 43.16).
+The diagnosis of uveitis can be made from an eye examination. 
+Because uveitis can be caused by infections, trauma, or autoimmune 
+disorders and often is idiopathic, evaluation of the cause of the uveitis 
+requires a thorough pediatric physical examination as well as supple­
+mentary radiologic and laboratory testing. A chest radiograph may 
+demonstrate tuberculosis and sarcoidosis. Serologic evaluation may 
+include tests for syphilis, sarcoidosis, JIA, Lyme disease, herpes, mea­
+sles, and toxoplasmosis. In males, haplotype testing for human leuko­
+cyte antigen B27 may be indicated because of the association between 
+iritis and pauciarticular arthritis that may later evolve into ankylosing 
+spondylitis.
+The management of iritis in children is the elimination of intra­
+ocular inflammation. In some cases of noninfectious uveitis, local 
+treatment with topical corticosteroid drops or periocular corticoste­
+roid injections may control the inflammation. In many cases, local 
+corticosteroids are not sufficient to control chronic uveitis. Immu­
+nomodulatory agents such as oral corticosteroids and corticoste­
+roid-sparing agents, including nonsteroidal antiinflammatory drugs 
+(NSAIDs), antimetabolites, T-cell inhibitors, alkylating agents, and 
+antitumor necrosis factor biologic agents, are options. Short courses 
+of corticosteroids may be used, but corticosteroid-sparing drugs are 
+the first-line therapy for long-term use due to the many side effects 
+of corticosteroids. Biologic agents are commonly used in severe 
+disease or when the child has not responded to NSAIDs. Mydriatic 
+drops are used to prevent the formation of posterior synechiae.
+Toxoplasmosis caused by the intracellular parasite Toxoplasma gon­
+dii is the most common cause of posterior uveitis in children. Most 
+ocular toxoplasmosis in the pediatric age group is probably acquired 
+from the mother during pregnancy. In some instances, the infection 
+is inactive at birth and goes unrecognized until inflammation occurs. 
+Toxoplasmosis that is active at birth may result in widespread fetal 
+tissue damage or may be associated with chorioretinitis, encephalo­
+myelitis, and visceral disease. The diagnosis of toxoplasmosis is based 
+on clinical findings, intracranial calcification in some children, and 
+laboratory tests for specific immunoglobulin G (IgG) and immuno­
+globulin M antibodies. Isolated ocular toxoplasmosis does not require 
+TABLE 43.14  Differential Diagnosis of Enlarged Cornea
+Anterior
+Primary Infantile 
+Simple Megalocornea
+Megalophthalmos
+Glaucoma with Buphthalmos
+Inheritance
+Autosomal dominant (?)
+X-linked recessive (male preponderance)
+Sporadic
+Time of appearance
+Congenital
+Congenital
+First year of life
+Bilaterality
+Bilateral
+Bilateral
+Unilateral or bilateral
+Symmetric
+Symmetric
+Asymmetric
+Natural history
+Nonprogressive
+Nonprogressive
+Progressive
+Symptoms
+None
+None
+Photophobia, epiphora
+Corneal clarity
+Clear
+Clear or mosaic dystrophy
+Diffuse edema, tears in Descemet membrane
+Intraocular pressure
+Normal
+Elevated in some adults
+Elevated
+Corneal diameter
+13–18 mm
+13–18 mm
+13–18 mm
+Corneal thickness
+Normal
+Normal
+Thick
+Keratometry
+Normal
+Normal; astigmatism
+Flat
+Gonioscopy
+Normal
+Excessive mesenchymal tissue
+Excessive mesenchymal tissue
+Globe diameter (A scan)
+23–26 mm
+23–26 mm
+27–30 mm
+Major ocular complications
+None
+Lens dislocation; cataract, <40 yr; secondary glaucoma
+Optic disk damage, late corneal edema
+Associated systemic disorders
+None
+Occasionally Marfan and other skeletal abnormalities
+None consistent
+From Nelson LB, Calhoun JH, Harley RD. Pediatric Ophthalmology. 3rd ed. Philadelphia: WB Saunders; 1991:201.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+801
+CHAPTER 43  Eye Disorders
+TABLE 43.15  Differential Diagnosis and 
+Etiology of Uveitis
+Anterior Uveitis
+Juvenile idiopathic arthritis
+Trauma
+Herpes
+Syphilis
+Lyme disease
+Fuchs heterochromic iridocyclitis
+Kawasaki syndrome
+Tubulointerstitial nephritis and uveitis syndrome
+Enthesitis related arthritis
+Orbital pseudotumor
+Ulcerative colitis
+Idiopathic
+Intermediate Uveitis
+Pars planitis
+Sarcoidosis
+Tuberculosis
+Juvenile xanthogranuloma
+Lyme disease
+Idiopathic
+Posterior Uveitis and Panuveitis
+Toxoplasmosis
+Toxocariasis
+Herpes, rubella, rubeola, measles
+Histoplasmosis
+Syphilis
+Sympathetic ophthalmia
+Sarcoidosis
+Bartonella
+Candida albicans
+Lyme disease
+Familial juvenile systemic granulomatosis (Blau syndrome)
+Diffuse unilateral subacute neuroretinitis (DUSN)
+Tuberous sclerosis
+Vogt-Koyanagi-Harada syndrome
+Behçet disease
+Idiopathic
+Uveo-Meningeal Syndromes
+Vogt-Koyanagi-Harada disease
+Behçet
+Sarcoidosis
+Granulomatosis with polyangiitis
+Cat-scratch disease
+Whipple disease
+Syphilis
+Lyme disease
+Acute posterior multifocal placoid pigment epitheliopathy
+Lymphoma
+Herpes simplex
+Cytomegalovirus
+From Basic and Clinical Science Course, Section 6. Ophthalmology 
+and Strabismus. San Francisco: American Academy of Ophthalmology; 
+2013–2014:268, Table 22-1.
+Fig. 43.15  Ciliary flush associated with iritis. Note the straight, radially ori­
+ented vessels extending out from the iris. (From Reilly BM. Practical Strate­
+gies in Outpatient Medicine. 2nd ed. Philadelphia: WB Saunders; 1991:41.)
+treatment unless it threatens vision. When treatment is indicated, it 
+involves the use of one or more antimicrobial drugs. The most com­
+mon therapy consists of combination therapy with pyrimethamine and 
+sulfadiazine. Steroids may be given in combination with antibiotics. 
+Intravitreal clindamycin with dexamethasone may be as effective as 
+systemic therapies. Several other entities can simulate uveitis in chil­
+dren and must be considered. These entities include retinoblastoma, 
+leukemia, lymphoma, juvenile xanthogranuloma, and an intraocular 
+foreign body.
+NASOLACRIMAL PROBLEMS IN CHILDHOOD
+The nasolacrimal system consists of tear-secreting glands and a drainage 
+system. The lacrimal gland, located in the superotemporal orbit, is the 
+primary producer of tears; accessory lacrimal glands in the upper eye­
+lid supplement its output. The lacrimal drainage apparatus begins with 
+puncta on the nasal aspect of the upper and lower eyelid margins. The 
+puncta continue as canaliculi that course nasally to empty into the lacri­
+mal sac. The lacrimal sac in turn drains inferiorly through the nasolacri­
+mal duct just under the inferior turbinate in the nose (Fig. 43.17).
+The most common developmental anomaly of the nasolacrimal 
+drainage system is nasolacrimal duct obstruction (NLDO), which 
+occurs in up to 20% of infants. A thin mucosal membrane at the dis­
+tal end of the duct, the valve of Hasner, is the most common cause of 
+obstruction. Typically, the infant has epiphora and a mucopurulent dis­
+charge that causes matting of the eyelids beginning at about 1 month 
+of age. Pressure applied to the lacrimal sac with a finger or cotton swab 
+often results in reflux of cloudy fluid from the puncta. If infected, the 
+source is usually polymicrobial, but a bacteriologic diagnosis is not 
+necessary for clinical management. Eyelash washes with dilute baby 
+shampoo can decrease the frequency of infections. Topical antibiot­
+ics can be used to decrease purulence, but this likely leads to resistant 
+organisms. Recurrent infections may be considered an indication for 
+early probing. Lacrimal sac massage may push fluid through the muco­
+sal membrane and thereby open the duct, but the pressure applied to 
+the lacrimal sac needs to be forceful. Most NLDOs will spontaneously 
+resolve. If resolution does not occur within the first year of life, probing 
+of the duct can be done and is effective in 90% of cases. Effectiveness of 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+802
+SECTION 7  Neurosensory Disorders
+nasolacrimal duct probing decreases after the age of 18 months. A sil­
+icon stent can be placed temporarily to maintain an open duct, which 
+increases the success of long-term patency.
+NLDO must be differentiated from atresia of the puncta or cana­
+liculi causing tearing but not infection and lacrimal-cutaneous fistula 
+causing tears to drain to the skin surface. These conditions require sur­
+gery to re-form the canalicular system and puncta and repair the fistula 
+if present. NLDO should be differentiated from infectious conjunctivi­
+tis, especially gonococcal, chlamydial, and herpetic infections. Chronic 
+tearing also occurs in congenital glaucoma in addition to blepharo­
+spasm and photophobia.
+A dacryocystocele is a variation of congenital NLDO that occurs in 
+newborns. These infants present with a bluish mass in the naso-orbital 
+region below the medial canthal tendon. This mass is a dilated lacrimal 
+sac that has both distal obstruction from a membrane and proximal 
+obstruction from a one-way valve effect from an incompetent valve of 
+Rosenmüller (Fig. 43.18). A hemangioma or dermoid cyst may have 
+a bluish hue, but hemangiomas typically do not present at birth. An 
+encephalocele or dermoid cyst may also appear to be a bluish mass 
+but will lie above the medial canthus. On occasion, the dilated sac is 
+accompanied by bulging of the nasal mucosa at the distal end of the 
+nasolacrimal duct. The nasal mucocele can compromise the infant’s 
+breathing. Imaging may help determine the location of the medial can­
+thus in the presence of swelling, confirm the suspected diagnosis, and 
+evaluate for the presence of a nasal mucocele, which is important for 
+surgical planning. If the dacryocystocele fails to resolve with topical 
+antibiotics and massage, or if cellulitis develops, systemic antibiotics 
+and surgical decompression must be considered. Decompression is 
+accomplished by relieving the distal obstruction by probing the naso­
+lacrimal duct, removing any nasal cyst, and possibly placing a stent.
+RED EYE
+The term red eye usually refers to inflammation of the conjunctiva that 
+causes the eye to appear red. Much less commonly (and much more 
+Systemic JIA, polyarthritis
+[RF positive], enthesitis-
+related arthritis
+Oligoarthritis, polyarthritis
+[RF negative], psoriatic,
+and undifferentiated
+ANA positive, JIA
+age of onset < 7
+years, and disease
+duration ≤ 4 years
+ANA negative, JIA
+age of onset ≥ 7
+years, or disease
+duration > 4 years
+Screen every 3 months
+(high risk)
+Screen every 6-12 months
+(low or moderate risk)
+Fig. 43.16  Ophthalmology screening recommendations. ANA, antinuclear antibody; JIA, juvenile idiopathic 
+arthritis; RF, rheumatoid factor. (From Angeles-Han ST, Ringold S, Beukelman T, et al. 2019 American College 
+of Rheumatology/Arthritis Foundation Guideline for the Screening, Monitoring, and Treatment of Juvenile 
+Idiopathic Arthritis-Associated Uveitis. Arthritis Care Res (Hoboken). 2019;71(6):703–716.)
+Fig. 43.18  Dacryocystocele of the left lacrimal sac in a 2-week-old 
+infant. The dacryocystocele resolved with a probing of the left tear duct.
+Lacrimal sac
+Punctum
+Canaliculus
+Nasolacrimal duct
+Inferior turbinate
+Fig. 43.17  Anatomy of the nasolacrimal drainage system. (Modified 
+from Rev Ophthalmol. 2001;8:122. Reprinted with permission from 
+Jobson Publishing: New York.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+803
+CHAPTER 43  Eye Disorders
+seriously), the sclera is injected. Causes of red eye include infection of 
+the ocular surface (cornea, conjunctiva, and sclera), allergy, intraocular 
+inflammation, glaucoma, foreign body, and trauma. Evaluation must 
+be directed toward discerning whether a child’s red eye is caused by a 
+benign condition that will spontaneously resolve (viral conjunctivitis) 
+or easily be treated with topical medication (bacterial conjunctivitis) 
+or whether the cause is potentially vision threatening (iritis, corneal 
+ulceration, glaucoma) and requires urgent ophthalmologic evalua­
+tion (Table 43.16). Signs that should raise concerns for a serious eti­
+ology of red eye are in an immunocompromised host, severe pain, 
+TABLE 43.16  The Red Eye
+Condition
+Cause
+Signs/Symptoms
+Treatment
+Bacterial 
+conjunctivitis
+Haemophilus influenzae, H. influenzae 
+aegyptius, Streptococcus pneumoniae, 
+Neisseria gonorrhoeae, Staphylococcus 
+aureus, Yersinia species, cat-scratch bacillus 
+less common
+Mucopurulent unilateral or bilateral discharge, normal 
+vision, photophobia usually absent
+Conjunctival injection and edema (chemosis); gritty 
+sensation
+Topical antibiotics: systemic 
+ceftriaxone for gonococcus, 
+H. influenzae
+Viral conjunctivitis
+Adenovirus, ECHO virus, coxsackievirus, herpes 
+simplex virus, coronavirus
+As above; may be hemorrhagic, unilateral enlarged 
+preauricular lymph nodes
+Self-limited
+Neonatal 
+conjunctivitis
+Chlamydia trachomatis, gonococcus, chemical 
+(silver nitrate), S. aureus
+Palpebral conjunctival follicle or papillae; as above
+Ceftriaxone for gonococcus 
+and oral erythromycin for C. 
+trachomatis
+Allergic 
+conjunctivitis
+Seasonal pollens or allergen exposure
+Itching, incidence of bilateral chemosis (edema) greater 
+than that of erythema, tarsal papillae
+Antihistamines, steroids, 
+cromolyn
+Keratitis
+Herpes simplex, adenovirus, S. pneumoniae, 
+S. aureus, Pseudomonas species, 
+Acanthamoeba species, chemicals
+Severe pain, corneal swelling, clouding, limbus erythema, 
+hypopyon, cataracts; contact lens history with amebic 
+infection
+Specific antibiotics for bacterial/
+fungal infections; keratoplasty, 
+acyclovir for herpes
+Endophthalmitis
+S. aureus, S. pneumoniae, Candida albicans, 
+associated surgery or trauma
+Acute onset, pain, loss of vision, swelling, chemosis, 
+redness; hypopyon and vitreous haze
+Antibiotics
+Anterior uveitis 
+(iridocyclitis)
+JIA, reactive arthritis, sarcoidosis, Behçet 
+disease, Kawasaki disease, inflammatory 
+bowel disease
+Unilateral/bilateral; erythema, ciliary flush (in circumcorneal 
+area), irregular pupil, iris adhesions; pain, marked 
+photophobia, small pupil, poor vision, no discharge
+Topical steroids, plus therapy 
+for primary disease
+Posterior uveitis 
+(choroiditis)
+Toxoplasmosis, histoplasmosis, Toxocara canis
+No sign of erythema, decreased vision, no discharge
+Specific therapy for pathogen
+Episcleritis/scleritis
+Idiopathic autoimmune disease (e.g., SLE, 
+Henoch-Schönlein purpura)
+Localized pain, intense erythema, unilateral; blood vessels 
+bigger than in conjunctivitis; scleritis may cause globe 
+perforation, no discharge
+Episcleritis is self-limiting; 
+topical steroids for fast relief
+Foreign body
+Occupational exposure
+Unilateral, red, gritty feeling; visible or microscopic size
+Irrigation, removal; check for 
+ulceration
+Blepharitis
+S. aureus, S. epidermidis, seborrheic, blocked 
+lacrimal duct: rarely, molluscum contagiosum, 
+Pthirus pubis, Pediculosis capitis
+Bilateral, irritation, itching, hyperemia, crusting, affecting 
+lid margins
+Topical antibiotics, warm 
+compresses
+Dacryocystitis
+Obstructed lacrimal sac: S. aureus, H. 
+influenzae, pneumococcus
+Pain, tenderness, erythema and exudate in area of lacrimal 
+sac (inferomedial to inner canthus); tearing (epiphora); 
+possible orbital cellulitis
+Systemic, topical antibiotics; 
+surgical drainage
+Dacryoadenitis
+S. aureus, Streptococcus species, CMV, 
+measles, EBV, enteroviruses, trauma, 
+sarcoidosis, leukemia
+Pain, tenderness, edema, erythema over gland area (upper 
+temporal lid); fever, leukocytosis
+Systemic antibiotics; drainage 
+of orbital abscesses
+Orbital cellulitis
+Paranasal sinusitis: H. influenzae, S. aureus, S. 
+pneumoniae, other Streptococcus species
+Trauma: S. aureus
+Fungi: Aspergillus, Mucor species if 
+immunodeficient
+Rhinorrhea, chemosis, vision loss, painful extraocular 
+motion, proptosis, ophthalmoplegia, fever, lid edema, 
+leukocytosis
+S. aureus
+Systemic antibiotics (postseptal 
+cellulitis), drainage of orbital 
+abscesses
+Periorbital cellulitis
+Trauma: S. aureus, Streptococcus species
+Bacteremia: H. influenzae, pneumococci, S. 
+pyogenes, S. aureus
+Cutaneous erythema, warmth, normal vision, minimal 
+involvement of orbit, fever, leukocytosis, toxic 
+appearance
+Systemic antibiotics (preseptal 
+cellulitis)
+CMV, cytomegalovirus; EBV, Epstein-Barr virus; ECHO, enteric cytopathogenic human orphan; JIA, juvenile idiopathic arthritis; SLE, systemic lupus 
+erythematosus.
+Modified from Behrman RE, Kliegman RM. Nelson Essentials of Pediatrics. 3rd ed. Philadelphia: WB Saunders; 1998; with data from Rosenbaum 
+JT, Nozik RA. Uveitis: many diseases, one diagnosis. Am J Med. 1985;79:545–547; Elkington AR, Khaw PT. The red eye. BMJ. 1988;296:1720–
+1724; Wilhemus KR. The red eye. Infectious conjunctivitis, keratitis, endophthalmitis, and periocular cellulitis. Infect Dis Clin North Am. 1988;2:99–
+116; Forrester JV. Uveitis: pathogenesis. Lancet. 1991;338:1498–1501; Gioliotti F. Acute conjunctivitis of childhood. Pediatr Ann. 1993;22:353–356.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+804
+SECTION 7  Neurosensory Disorders
+proptosis, limitation of eye movements, opacified cornea, abnormal 
+pupil response, or lack of response to therapy.
+In taking the history, the examiner should inquire about lateral­
+ity, onset, associated illnesses, contact with others with “pink eye,” the 
+presence of pain or itching, the characteristics of any discharge (watery, 
+mucoid, purulent), and blurring of vision. The examination of the child 
+should start with as precise a measurement of visual acuity as possible. 
+The presence and type of discharge should be noted. Inspection of the 
+surface of the eye with a penlight should determine whether the cornea 
+is clear. Fluorescein staining of the cornea to assess for a corneal abra­
+sion should be done. The red reflex should be checked. The presence of 
+foreign bodies should be considered.
+The most common cause of a red eye in a child is infectious con­
+junctivitis (Table 43.17). Streptococcus pneumoniae is the most fre­
+quent bacterial pathogen, followed by some Haemophilus species 
+and Moraxella. However, infections from Haemophilus species have 
+decreased because of immunization. In hospitalized patients, staph­
+ylococcal infections (including methicillin-resistant Staphylococcus 
+aureus) are more common. A bacterial culture is not necessary in 
+mild cases of suspected bacterial conjunctivitis because the infection 
+tends to be self-limiting but may last up to 2 weeks. Treatment with a 
+broad-spectrum topical antibiotic may relieve symptoms and shorten 
+the course of infection, allowing the child to return to school or day­
+care. Topical antibiotic options include trimethoprim–polymyxin B, 
+erythromycin, gentamicin or tobramycin, ciprofloxacin, moxifloxacin, 
+gatifloxacin, azithromycin, and sulfacetamide. Sulfacetamide prepara­
+tions are inexpensive but have a narrower range of effectiveness and 
+cause a great deal of stinging. Sulfa drugs also have an association with 
+Stevens-Johnson syndrome. Gentamicin can cause redness, which 
+can cause difficulty in determining whether or not the conjunctivitis 
+is treated. The aminoglycosides are less effective with gram-positive 
+organisms, particularly streptococcal species. Trimethoprim sulfate/
+polymyxin B is bacteriostatic and a 7–10-day course of therapy is rec­
+ommended. The fluoroquinolones are rapidly effective but have differ­
+ent dosing recommendations. Azithromycin has a very short course. 
+Steroid-antibiotic combinations should be avoided because of the risk 
+of worsening a bacterial corneal ulcer or an unsuspected herpes sim­
+plex infection.
+Viral conjunctivitis tends to be associated with a watery or mucoid 
+discharge. Follicles may be visible with low magnification on the pal­
+pebral conjunctiva, and a preauricular lymph node can often be pal­
+pated. Adenovirus is a common pathogen; epidemic outbreaks are 
+frequent. In children as old as 2 years, adenovirus can manifest with 
+severe periorbital edema and erythema that mimics bacterial preseptal 
+or orbital cellulitis; a conjunctival pseudomembrane is common in this 
+setting. Adenovirus types 8, 19, and 35; enterovirus 70; and coxsackie 
+24 are associated with subconjunctival hemorrhages or hemorrhagic 
+conjunctivitis. Pharyngoconjunctival fever, conjunctivitis accompa­
+nied by a sore throat and fever, is associated with adenovirus types 
+3 and 7. Cultures are not usually necessary but can be performed if 
+there is a question of etiology. Antibiotics are ineffective in adenovirus 
+infections. Treatment is largely supportive, with cool compresses and 
+artificial tears providing symptomatic relief. Adenovirus is highly con­
+tagious so careful attention to hygiene should be taken among family 
+members, caregivers, and contacts to prevent the spread of infection.
+Less frequent causes of viral conjunctivitis are herpes simplex and 
+varicella. These may be associated with vesicular involvement of the 
+eyelid and face. Treatment with oral antiviral medications can be used 
+if lesions are very near the cornea or there is corneal involvement. 
+Oral antivirals are also considered in individuals who are immuno­
+compromised. Topical antivirals are also used in patients with corneal 
+involvement. Topical corticosteroid medications are contraindicated in 
+TABLE 43.17  Conjunctivitis: Differential Diagnosis
+CLINICAL FINDINGS
+Cause
+Unilateral or Bilateral
+Discharge
+Lids
+Onset/Course
+Treatment
+Viral* (usually 
+adenovirus)
+Bilateral
+Thin, mucoid
+Follicular
+Gradual
+Upper respiratory tract infection?
+Preauricular adenopathy
+Compresses
+Herpes simplex
+Unilateral
+Thin, mucoid
+Follicular
+Gradual
+Keratitis
+Dendritic ulcer
+Acyclovir
+Bacterial
+Unilateral or bilateral
+Purulent
+Papillary, purulent
+Gradual
+Topical antibiotics
+Gonococcal
+Unilateral
+Purulent
+Edema, inflamed
+Hyperacute
+Systemic antibiotics
+Chlamydial
+Unilateral or bilateral
+Thin, mucoid
+Follicular
+Indolent
+Persistent
+Neonatal period
+Sexually active
+Oral erythromycin any 
+age or tetracycline 
+(>10 yr of age)
+Allergic
+Bilateral
+Watery
+Papillary
+Gradual
+Seasonal
+Pruritic
+Topical vasoconstrictors
+Systemic antihistamine
+Topical steroids
+Vernal
+Bilateral
+Watery
+Giant papillary
+Adolescence
+Seasonal
+Cromolyn?
+Contact lens irritation
+Bilateral
+Watery
+Giant papillary
+Lenses
+Adjust lens
+Change solution
+Chemical
+Unilateral or bilateral
+Watery
+Variable
+Acute
+Irrigate
+Remove irritant
+*Undifferentiated viral conjunctivitis, not caused by herpes virus infection.
+Modified from Reilly BM. Practical Strategies in Outpatient Medicine. 2nd ed. Philadelphia: WB Saunders; 1991:46.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+805
+CHAPTER 43  Eye Disorders
+herpetic infections because of the potential for worsening the infec­
+tion. However, the ophthalmologist often uses topical steroids to con­
+trol inflammation after the viral infection has been treated.
+The DNA poxvirus Molluscum contagiosum can cause a chronic 
+conjunctivitis when lesions are located on the eyelid margin (Fig. 
+43.19). The conjunctivitis is caused by release of poxvirus particles into 
+the tear film. Additional waxy, umbilicated lesions are oftentimes found 
+elsewhere on the face. The infection may be self-limited, but treatment 
+of more severe cases requires incision and debridement of the central 
+core from each lesion.
+Allergic conjunctivitis manifests with a bilateral watery or mucoid 
+discharge and must always be considered in the differential diagnosis 
+of bilateral red eyes. The child may rub the eyes because of pruritus; 
+nasal allergic symptoms may also be present. About 80% of individuals 
+with allergies have ocular symptoms and these may occur in isolation. 
+A more severe form of allergic conjunctivitis, vernal keratoconjuncti­
+vitis (VKC), tends to occur in males in the first 2 decades of life and 
+is seasonal, occurring in the spring and fall. Ulceration of the cornea 
+can occur. Usually the ulceration is sterile but it can impair vision. 
+Treatment of allergic conjunctivitis includes topical antihistamines, 
+mast cell stabilizers, or a combination of the two. Systemic treatment of 
+allergies often improves the ocular symptoms. In severe cases of aller­
+gic conjunctivitis or VKC, steroids or cyclosporines can be used.
+Systemic syndromes must also be considered in a child with a 
+red eye. In Stevens-Johnson syndrome, conjunctival inflammation is 
+associated with other mucous membrane or cutaneous involvement. 
+This disease can have severe ophthalmic consequences as a result of 
+conjunctival scarring, changes of the eyelid position, and dry eye syn­
+drome. Kawasaki syndrome is a febrile illness of young children who 
+frequently manifest bilateral nonpurulent conjunctival injection and, 
+in rare cases, iritis. Similarly, self-limited conjunctivitis can also be 
+seen in COVID-19–associated multisystem inflammatory syndrome in 
+children (MIS-C) and COVID-19 infections. Ophthalmic consultation 
+may be indicated to assist in the diagnosis and management of children 
+with Stevens-Johnson syndrome.
+EYELID ABNORMALITIES
+Congenital abnormalities of the eyelids can be severe as in the case of 
+cryptophthalmos, in which there is a failure of differentiation of eyelid 
+structures and the skin passes uninterrupted from the forehead to the 
+cheek. This is often associated with corneal abnormalities and systemic 
+abnormalities. Colobomas of the eyelid can occur and are usually on 
+the upper lid and can range in severity from a notch to the entire length 
+of the eyelid. Eyelid colobomas are often associated with Goldenhar 
+and CHARGE (coloboma, heart defects, choanal atresia, retardation, 
+and ear abnormalities) syndromes. Surgery can be done to reconstruct 
+the eyelids. More common eyelid abnormalities include entropion 
+(inward turning of the eyelid margin), ectropion (eversion of the eye­
+lid margin), epiblepharon (in which a horizontal fold of skin in the 
+lower eyelid causes the lashes to rub against the cornea), and distichi­
+asis (in which an accessory row of eyelashes is more posterior than the 
+normal ones and can rub against the cornea). All these may resolve 
+spontaneously or, if necessary, can be corrected with eyelid surgery. 
+Epiblepharon tends to be well tolerated by patients. Epicanthus, a cres­
+cent-shaped fold of skin, is usually most prominent in the upper eyelid 
+that can make the child appear esotropic by obscuring the underlying 
+nasal sclera.
+Congenital ptosis (Fig. 43.20A), droopiness of the upper eyelid, is 
+usually caused by abnormal development of the levator muscle. Other 
+causes in children are trauma, congenital third nerve palsy, and congen­
+ital Horner syndrome. Acute onset of ptosis in the absence of trauma 
+requires evaluation for new-onset Horner syndrome, which may be 
+associated with neuroblastoma, and evaluation for a third nerve palsy, 
+which may be associated with an intracranial mass. A child with con­
+genital ptosis needs to be monitored for deprivational amblyopia due 
+to the eyelid occluding their visual axis. Also, these children are at risk 
+of refractive amblyopia since they commonly have refractive errors. 
+Treatment of ptosis is delayed until the child is several years old unless 
+it is causing amblyopia due to occlusion of the visual axis or astigma­
+tism that is difficult to treat with glasses, or when severe chin-up head 
+posture is necessary to allow the child to see (Fig. 43.20B). Surgical cor­
+rection consists of resection of the levator muscle or suspension of the 
+upper eyelid to the frontalis muscle with a silicon sling or autogenous 
+or cadaveric fascia lata.
+A diagnostic approach to congenital and acquired ptosis is noted in 
+Figs. 43.22 and 43.23, respectively.
+ORBITAL TUMORS
+Orbital tumors, either benign or malignant, may occur in children. 
+The space-occupying lesions can present with proptosis, swelling or 
+Fig. 43.19  Chronic eczematoid and follicular conjunctivitis in only the 
+left eye, caused by Molluscum contagiosum, in a 5-year-old. Note the 
+elevated lesions on the lateral aspect of the left upper eyelid.
+A
+B
+Fig. 43.20  A, Congenital ptosis of the right upper eyelid. B, The child 
+adopted a compensatory chin-up head posture to allow use of both 
+eyes together and did not have amblyopia.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+806
+SECTION 7  Neurosensory Disorders
+discoloration of the eyelids, ptosis, or strabismus. Some of the most 
+common benign tumors are vascular lesions. Hemangiomas occur in 
+1–3% of term newborns and are more common in premature infants. 
+Hemangiomas are classified by depth of skin involvement and type 
+of orbital involvement. The natural history involves rapid prolifer­
+ation over the first several months of life. Ulceration, hemorrhage, 
+and occlusion or induced astigmatism of the eye causing amblyopia 
+(Fig. 43.21) can occur. After the first year of life, the lesion begins to 
+regress. Systemic diseases such as PHACE syndrome (posterior fossa 
+malformations, hemangiomas, arterial anomalies, coarctation of the 
+aorta and cardiac defects, eye abnormalities) and multiple cutaneous 
+hemangiomas with hepatic hemangiomas may have an orbital or eye­
+lid hemangioma as the presenting finding. First-line treatment consists 
+of oral propranolol 1–3 mg/kg/day divided into three oral doses. Side 
+effects include bradycardia, hypoglycemia, hypotension, somnolence, 
+bronchospasm, and cough. Treatment initiation is done under medical 
+supervision and care is taken to administer the medicine with feeds to 
+limit the side effects. Topical timolol maleate may be used with mini­
+mal side effects for superficial skin lesions but is not effective in deeper 
+or orbital lesions. A pulsed dye laser can also be used to treat the super­
+ficial lesions.
+Lymphangiomas may cause proptosis. Most commonly these pres­
+ent in the second or third decade but may present in infancy. The size 
+may increase with the onset of an upper respiratory infection. Lymph­
+angiomas are usually managed conservatively but short courses of 
+steroids can be used. Rapid expansion may occur if bleeding into the 
+lesion occurs. This may require surgical intervention if the pressure in 
+the orbit is threatening damage to the optic nerve.
+Dermoid cysts are benign choristomas that arise from primitive 
+dermal elements that develop in fetal suture lines. This tissue forms a 
+keratinized epithelium cyst and includes hair follicles, sweat glands, 
+and sebaceous glands. It most commonly occurs superotemporally in 
+the zygomatic frontal suture but may be superonasal in the frontal-­
+nasal suture. Imaging can be valuable in confirming the diagnosis and 
+determining if the dermoid extends into the orbit. If the cyst ruptures, 
+a marked inflammatory reaction ensues, so removal is recommended 
+prior to the child becoming very active, which increases the chances 
+of the child rupturing the cyst traumatically.
+Malignant tumors of the orbit can rapidly enlarge, which makes 
+them difficult to differentiate from inflammatory and infectious 
+causes. Rhabdomyosarcomas are the most common primary pediat­
+ric orbital tumor. Average age of onset is 5–7 years. Usually the tumor 
+arises in the orbit but it can arise in the conjunctiva, eyelid, or uveal tis­
+sue. Patients present with rapidly progressing proptosis. Tumors need 
+to be removed completely and chemotherapy or radiation may also be 
+needed.
+Neuroblastoma is the most common metastatic orbital tumor of 
+childhood. It usually arises from the adrenal gland or sympathetic gan­
+glion chain, hence the association with acquired Horner syndrome. 
+Unilateral or bilateral proptosis and eyelid ecchymosis are the classic 
+B
+A
+Fig. 43.21  A, A capillary hemangioma of the right upper eyelid and ante­
+rior orbit. This lesion necessitated treatment because it was causing 
+amblyopia from astigmatism as a result of pressure against the globe 
+and by occlusion of the visual axis. B, This capillary hemangioma of 
+the left lower eyelid is not causing amblyopia and does not necessitate 
+treatment unless it grows substantially.
+No other signs
+Idiopathic
+congenital
+ptosis
+Malformation
+syndromes
+Inability to move
+the eyes in one
+or more directions
+Congenital
+fibrosis
+Extraocular
+muscles
+Gonadal dysgenesis, webbed neck, shield chest
+Turner syndrome
+Heart and chest anomalies, webbed neck
+Noonan syndrome
+Underdeveloped external genitalia, post-axial polydactyly,
+pre- and postnatal microcephaly
+Smith-Lemli-Opitz syndrome
+Distinctive facial features, broadening of the thumbs and big toes
+Rubinstein-Taybi syndrome
+Congenital
+myasthenic
+syndromes
+Congenital
+facial
+palsy
+With facial palsy
+Duane
+retraction
+syndrome
+Absent horizontal
+eye movements
+Globe retraction
+Narrowing of
+palpebral fissure
+Blepharophimosis
+Ptosis epicanthus
+Inversus syndrome
+Narrowing of the
+eye opening
+Droopy eyelids
+Upward fold of the
+inner lower eyelids
+Marcus-
+Gunn
+syndrome
+Synkinetic
+phenomenon
+Unilaterally ptotic
+eyelid elevated with
+jaw winking
+Horner
+syndrome
+Ipsilateral globe
+miosis and
+anhidrosis
+Ocular and
+limb muscles
+involvement
+Congenital ptosis
+Fig. 43.22  Flow chart outlining congenital types of ptosis. (From Pavone P, Cho YC, Pratico AD, et al. Ptosis 
+in childhood: a clinical sign of several disorders. Medicine. 2018 Sep;97[36]:e12124, Fig. 8A.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+807
+CHAPTER 43  Eye Disorders
+presentations. Opsoclonus (rapid, multidirectional eye movements) is 
+a paraneoplastic syndrome associated with neuroblastoma and is not 
+related to orbital involvement. The mean age of diagnosis of orbital 
+metastasis of neuroblastoma is 2 years.
+Other, less common orbital tumors in childhood are Ewing sar­
+coma, Burkitt lymphoma, leukemia, and Langerhans cell histiocytosis. 
+Ewing sarcoma is the second most common solid tumor metastatic to 
+the orbit (after neuroblastoma). Orbital involvement occurs in 1–2% 
+of children with leukemia and this must be differentiated from orbital 
+infections.
+Nonspecific Orbital Inflammation/Idiopathic Orbital 
+Inflammation/Orbital Pseudotumor
+Nonspecific orbital inflammation (NSOI) is an acute or subacute 
+benign idiopathic inflammatory process associated with multiple 
+orbital structures. After thyroid-associated disease and lymphoprolif­
+erative disorders, it is the third most common noninfectious masslike 
+inflammatory lesion of the orbit. It is unilateral in ∼75% of patients who 
+often present with periorbital edema, blepharoptosis, limited extra­
+ocular motion, pain, proptosis, conjunctival injection, or decreased 
+visual acuity. There are five subtypes involving specific orbit tissues: 
+dacryoadenitis (Fig. 43.24), myositis (Fig. 43.25), anterior orbit (Fig. 
+43.26), orbit apex (optic nerve) (Fig. 43.27), and diffuse. There is an 
+association with IgG4-related disease, which may also manifest with 
+inflammation and fibrosis in extraorbital tissue (pancreas, retroperito­
+neal); systemic IgG4-related disease is more common in patients with 
+bilateral lacrimal gland involvement.
+The differential diagnosis of NSOI includes sarcoidosis, granulo­
+matosis with polyangiitis, lymphoma, and thyroid orbitopathy. Biopsy 
+is not initially needed for patients with a typical presentation (usually 
+myositis) or a higher risk (orbital apex-optic nerve). Therapy is usually 
+initiated with systemic corticosteroids.
+OCULAR MANIFESTATIONS OF SYSTEMIC DISEASE
+Neurologic Disease
+Ocular abnormalities frequently accompany neurologic disease, and 
+their detection can help in the localization and diagnosis of a specific 
+condition. Abnormal findings of pupillary reaction, decreased visual 
+acuity, or decreased color vision can indicate abnormities of the optic 
+nerve, which can be associated with other neurologic conditions. An 
+afferent pupillary defect is an important finding that may signify uni­
+lateral optic nerve disease. The condition may be intrinsic to the optic 
+Chronic
+Acute
+Progressive
+bilateral
+Bilateral ptosis
+CPEO
+Oculo-pharyngeal
+muscular dystrophy
+Miller-Fischer
+syndrome
+Botulin
+infection
+Bell palsy
+Ophthalmoplegia
+migraine
+3rd cranial
+nerve palsy
+KSS
+Retinitis pigmentosa
+Heart-block
+PMPS
+Sideroblastic anemia
+Pancreatic dysfunction
+MELAS
+Lactic acidosis
+SANDO
+Sensory ataxia
+Dysarthria
+Ophthalmoplegia
+Other disorders
+With muscle
+involvement
+Spinocerebellar degeneration
+Refsum disease
+Abetalipoproteinemia
+Swallowing anomalies
+Proximal limb weakness
+Nuclear aggregates
+in muscles
+Ataxia
+Areflexia
+Dysphagia
+Dyspraxia
+Dysarthria
+Hemifacial
+paralysis
+Lagophthalmos
+Migraine
+Strabismus
+Dyslexia
+Acquired ptosis
+Fig. 43.23  Flow chart outlining acquired types of ptosis. CPEO, chronic progressive external ophthalmo­
+plegia; KSS, Kearns-Sayre syndrome; MELAS, mitochondrial encephalopathy, lactic acidosis, and strokelike 
+episodes; PMPS, Pearson marrow pancreas syndrome; SANDO, sensory ataxic neuropathy, dysarthria, and 
+ophthalmoparesis. (From Pavone P, Cho YC, Pratico AD, et al. Ptosis in childhood: a clinical sign of several 
+disorders. Medicine. 2018 Sep;97[36]:e12124, Fig. 8B.)
+Fig. 43.24  Noncontrast axial CT study exhibiting right acute dacryoad­
+enitis with inflammation adjacent to the lateral orbital wall and lateral 
+rectus muscle. (From Maamari RN, Couch SM. Nonspecific orbital 
+inflammation. Adv Ophthalmol Optom. 2018;3[1]:315–335, Fig. 3.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+808
+SECTION 7  Neurosensory Disorders
+nerve such as a glioma in neurofibromatosis type 1, extrinsic such as 
+an orbital tumor, applying pressure on the nerve, or inflammation of 
+the optic nerve as seen with optic neuritis in MS, neuromyelitis optica, 
+and ADEM. Color perception and the visual acuity of the affected eye 
+are usually reduced in comparison with that of the normal eye. The 
+presence of an afferent pupillary defect necessitates a comprehensive 
+eye examination and imaging studies of the orbit and brain.
+Optic nerve edema (Fig. 43.28) is a worrisome sign because of its 
+association with conditions that cause increased intracranial pressure. 
+A
+B
+Fig. 43.25  Left superior rectus myositis in a 16-year-old boy. Ptosis 
+(A) and pain limitation of upgaze with diplopia were the presenting 
+signs; this was due to left superior rectus myositis shown as a thick­
+ened muscle complex on CT scan (B). (Patient from the University of 
+British Columbia.) (From Lambert SR, Lyons CJ, eds. Taylor & Hoyt’s 
+Pediatric Ophthalmology and Strabismus. 5th ed. Philadelphia: Elsevier; 
+2017:277, Fig. 30-8.)
+Fig. 43.26  Bilateral anterior orbital nonspecific orbital inflammation. 
+Contrast-enhanced, T1-weighted, coronal MRI with fat suppression 
+demonstrating bilateral scleritis and enhancement of the Tenon space. 
+Dilated fundus examination also revealed bilateral choroidal effusions. 
+(From Maamari RN, Couch SM. Nonspecific orbital inflammation. Adv 
+Ophthalmol Optom. 2018;3[1]:315–335, Fig. 6.)
+Fig. 43.27  Nonspecific orbital inflammation involving the orbital apex. 
+Contrast-enhanced, T1-weighted, axial MRI with fat suppression show­
+ing inflammatory tissue at the left orbital apex resulting in compression 
+and obliteration of the optic nerve. (From Maamari RN, Couch SM. Non­
+specific orbital inflammation. Adv Ophthalmol Optom. 2018;3[1]:315–
+335 [Fig. 7, p. 322].)
+A
+B
+Fig. 43.28  Right (A) and left (B) fundi showing acute papilledema. (From 
+Lambert SR, Lyons CJ, eds. Hoyt and Taylor Pediatric Ophthalmology 
+and Strabismus. 4th ed. Philadelphia: Elsevier; 2013:593, Fig. 55.1.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+809
+CHAPTER 43  Eye Disorders
+The elevation of the optic nerve and blurring of the disk margins must 
+be differentiated from optic nerve drusen, which can have similar 
+clinical appearances. Autofluorescent photography and ultrasound 
+(B-scan) of the optic nerves can help differentiate optic nerve edema 
+and optic nerve drusen. Papilledema, swelling of the optic nerve as 
+a result of increased intracranial pressure, is almost always bilateral. 
+Visual acuity may be normal initially but decreases with chronic or 
+severe optic nerve swelling. Color vision may be decreased prior to a 
+decrease in visual acuity.
+Strabismus of truly acute onset is most often incomitant and 
+caused by paralysis of extraocular muscles innervated by the third or 
+sixth cranial nerves. Cranial trauma, brain tumors, and viral infections 
+are the most common causes of acute, incomitant strabismus in chil­
+dren. A sixth nerve palsy is of less localizing value than a third nerve 
+palsy because of the more tortuous intracranial course of the sixth 
+nerve. This nerve can be affected by direct pressure from a mass and 
+indirectly by conditions that cause diffuse increased intracranial pres­
+sure. A patient with an acute sixth nerve paralysis typically has esotro­
+pia that increases when they gaze toward the affected side (see Fig. 
+43.8). The patient may have a compensatory face turn toward the side 
+of the lesion to allow fusion and prevent diplopia. A third nerve paral­
+ysis usually causes exotropia and hypotropia of the involved eye (Fig. 
+43.29). There may also be ipsilateral ptosis and a dilated, nonreactive 
+pupil. A verbal child will typically complain of diplopia at the onset. A 
+general approach to an acquired diplopia is noted in Fig. 43.30.
+The neurocutaneous syndromes are a group of inherited dis­
+orders featuring multiple, discrete lesions of two or more organ 
+systems, most commonly the skin and brain. These include 
+neurofibromatosis, 
+tuberous 
+sclerosis, 
+angiomatosis 
+of 
+the 
+retina and cerebellum (von Hippel–Lindau disease), and encephalo­
+facial or encephalotrigeminal angiomatosis (Sturge-Weber syndrome). 
+Sometimes ataxia-telangiectasia, incontinentia pigmenti, and race­
+mose angioma are included in neurocutaneous syndromes. Ocular 
+involvement is common and may be a site of comorbidity or may 
+serve as a marker for the overall condition. Lisch nodules are benign 
+tan, smooth-surfaced lesions on the iris surface that look somewhat 
+gelatinous and are seen in neurofibromatosis type 1 (NF-1). They are 
+usually not present until 3 years and thereafter about 10% of patients 
+develop Lisch nodules per year. They do not have malignant potential. 
+Other ocular features of NF-1 are plexiform neurofibromas of the eye­
+lid that give the eyelid margin a sigmoid shape and cause a variable 
+amount of ptosis, astigmatism, and possibly amblyopia. Glaucoma is a 
+significant problem in patients with NF-1. It is usually unilateral and 
+associated with an ipsilateral plexiform neurofibroma of the upper eye­
+lid. This is generally managed surgically. Visual prognosis in patients 
+who develop glaucoma is poor.
+Optic gliomas, such as low-grade pilocytic astrocytomas, have the 
+potential to cause severe vision loss in patients with NF-1. The gliomas 
+can involve one or both optic nerves as well as the optic chiasm. They 
+are found prospectively in 15% of patients with NF-1 but cause visual 
+symptoms such as vision loss or proptosis in only 1–5% of patients. 
+Treatment of optic gliomas is reserved for lesions that are documented 
+to be growing and causing visual morbidity, although it is difficult to 
+determine which patients require treatment before vision loss occurs. 
+NF-2 is much less common than NF-1 and involves primarily the 
+acoustic nerves. Ocular involvement can consist of posterior lens opac­
+ities and hamartomas of the retina.
+Tuberous sclerosis is an autosomal dominant disorder localized 
+to chromosome 9. In children with tuberous sclerosis, angiofibromas 
+of the eyelids and retinal lesions known as astrocytic hamartomas can 
+occur but rarely cause significant problems with vision. The retinal 
+lesions are not pathognomonic of tuberous sclerosis, inasmuch as sim­
+ilar lesions have been reported in NF-1 and in unaffected individuals.
+Von Hippel–Lindau disease is autosomal dominant. Both benign 
+and malignant tumors can occur in affected individuals as a result of a 
+variant in a tumor suppressor gene. Hemangioblastomas of the retina 
+can produce a lipid exudate in the retina as a result of leakage from 
+the thin vessel walls. This can lead to vision loss and ultimately a reti­
+nal detachment. Symptoms of vision loss do not occur until extensive 
+leakage or retinal detachment occurs. More than 65% of lesions can 
+be treated effectively with laser photocoagulation. Because lesions are 
+most effectively treated prior to the development of symptoms, chil­
+dren known to have von Hippel–Lindau disease should have regular 
+eye examinations beginning at the age of 5 years.
+Sturge-Weber syndrome results from a somatic pathologic genetic 
+variant in GNAQ. Ocular involvement is common. Abnormalities of 
+the ocular circulation can occur when the eyelids are affected. These 
+abnormalities range from increased conjunctival vascularity to angio­
+mas of the choroid. Choroidal angiomas usually remain asymptomatic 
+in childhood but can thicken in adolescence and cause degeneration 
+of the overlying retina. Glaucoma is the most serious ocular complica­
+tion and occurs in 70% of affected patients. Regular eye examinations 
+in infancy are necessary to rule out glaucoma. Treatment of glaucoma 
+associated with Sturge-Weber syndrome may be difficult. Topical drops 
+may be effective in initially lowering eye pressure, but the patient may 
+eventually require surgical intervention.
+Ataxia-telangiectasia syndrome is an autosomal recessive disor­
+der. Oculomotor abnormalities may be early manifestations of this syn­
+drome. In 90% of patients, telangiectasia develops in the conjunctiva in 
+children between the ages of 3 and 5 years.
+Incontinentia pigmenti syndrome is an X-linked dominant con­
+dition in which proliferative retinal vasculopathy develops in about 
+30% of affected patients. The retinal changes can mimic ROP with 
+Fig. 43.29  Left third cranial nerve palsy. The boy has exotropia (top), 
+limitation of adduction of his left eye (middle), and normal gaze to his 
+left (bottom).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+810
+SECTION 7  Neurosensory Disorders
+incomplete peripheral retinal vascularization. Retinal detachment can 
+occur. Treatment includes laser photocoagulation or cryotherapy, but 
+these treatments have varying degrees of success.
+In Wyburn-Mason syndrome, an arteriovenous malformation 
+syndrome can affect the retina with shunting of blood directly from 
+arteries to veins. Vision can be normal or markedly reduced, depend­
+ing on the location of the lesion.
+Dermatologic Disease
+Albinism is a heterogeneous group of genetic disorders resulting 
+from absence of melanin in the eye, skin, or both. Clinically, albinism 
+is divided into ocular and oculocutaneous forms. Oculocutaneous 
+albinism (OCA) results from variants in the tyrosinase gene (TYR) 
+or OCA1 gene. There are two subtypes and hair color can range from 
+blond to light brown as the most prevalent type of albinism worldwide. 
+Ocular albinism is autosomal recessive or an X-linked gene variant in 
+the OCA1 gene. Ocular albinism mainly affects pigmentation in the 
+visual system and the most common ocular finding is iris transillu­
+mination, which may be observable in a darkened room by placing a 
+penlight against the lower eyelid and noting the red reflex and passage 
+of light from both the pupil and the iris. Other frequent ocular find­
+ings are nystagmus, light fundus pigmentation (blonde fundus), foveal 
+hypoplasia, and high refractive errors. Visual acuity usually ranges 
+from 20/40 to 20/400. The Chédiak-Higashi and Hermansky-Pudlak 
+syndromes can manifest features of albinism. If either of these condi­
+tions is suspected, hematologic consultation is recommended because 
+of the lethal nature of these forms of albinism. All patients with OCA 
+are at an increased risk of skin cancer and should be counseled as such.
+Suspect 3rd nerve
+palsy or
+myasthenia gravis
+Suspect myasthenia
+gravis
+Suspect thyroid
+myopathy
+Binocular diplopia
+Suspect cranial neuropathy,
+internuclear ophthalmoplegia,
+skew deviation
+Suspect increased ICP
+Suspect orbital
+fracture
+Is there associated
+ptosis?
+Does diplopia resolve when
+1 eye is occluded?
+Is diplopia variable?
+Does diplopia worsen
+during the day?
+YES
+NO
+NO
+NO
+NO
+YES
+YES
+YES
+YES
+YES
+Monocular diplopia
+Problem with contact
+lenses, spectacles,
+or eye
+May be psychogenic
+NO
+Is there proptosis,
+lid edema, lid lag,
+or lid retraction?
+Are there associated
+neurologic signs?
+Is there a history of
+facial trauma?
+Fig. 43.30  General approach to diplopia. The clinician should first distinguish monocular from binocular dip­
+lopia and, in patients with binocular diplopia, address the five questions on the right side of the figure. Only 
+then should the clinician identify which muscle is weak, although this is unnecessary if the clinician already 
+suspects myasthenia (from fatigability) or full third nerve palsy (from weakness of the medial rectus, superior 
+rectus, inferior rectus, and inferior oblique muscles, with or without a dilated pupil). Uncommon causes of 
+diplopia and associated ptosis, not presented in the figure, are botulism, the Miller-Fisher variant of Guil­
+lain-Barré syndrome, and aberrant regeneration of the third nerve. Uncommon causes of diplopia and associ­
+ated orbital findings (e.g., proptosis) are carotid-cavernous fistula (which causes an orbital bruit), orbital tumor, 
+and pseudotumor. ICP, intracranial pressure. (From McGee S. Evidence-Based Physical Diagnosis. 3rd ed. 
+Philadelphia: Elsevier; 2012:522, Fig. 57-1.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+811
+CHAPTER 43  Eye Disorders
+Stevens-Johnson syndrome is an acute inflammatory condition 
+affecting skin and mucous membranes. Drugs, particularly sulfon­
+amide medications, are common precipitating factors. Microbial 
+agents, especially Mycoplasma pneumoniae, have also been implicated 
+in this condition. Ocular involvement, which occurs in half of the 
+patients, consists of eyelid edema and ulceration, conjunctival injec­
+tion with vesicle formation, and, in severe cases, conjunctival scar for­
+mation that may result in adhesions between the palpebral and bulbar 
+conjunctiva (symblepharon). The severity of late ocular complications 
+depends primarily on the extent of conjunctival involvement. Malposi­
+tion of the eyelids with corneal irritation from inward-turned eyelashes 
+(trichiasis) can occur from severe conjunctival scarring. The most seri­
+ous complication is dry eye syndrome, caused by damage to the ducts 
+of the lacrimal glands and obliteration of conjunctival mucus-forming 
+cells (goblet cells). Eyelid surgery may be required, and the child with a 
+dry eye may face a lifetime of needing ocular lubrication from artificial 
+tears and ointments. Aggressive lubrication during the acute phase of 
+the disease is recommended to keep tissues moist and prevent con­
+junctival adhesions. Treatments may include regular debridement of 
+the fornices of the eye or placement of symblepharon rings or amniotic 
+membranes in severe cases.
+Hyperkeratotic disorders such as lamellar ichthyosis can cause 
+scaling of the eyelids, ectropion, lagophthalmos, and exposure kera­
+topathy. Although eyelid surgery may be required, the mainstay of 
+treatment is ocular lubrication with artificial tears and ointments. Con­
+nective tissue disorders such as Marfan syndrome, Stickler syndrome, 
+Ehlers-Danlos syndrome, and pseudoxanthoma elasticum (PXE) are 
+associated with particular ocular abnormalities. Patients with Stick­
+ler syndrome, Marfan syndrome, and Ehlers-Danlos syndrome have 
+myopic retinal degeneration and can develop retinal detachment. Lens 
+subluxation is common in Marfan syndrome. Cracks in the Bruch 
+membrane of the retina, known as angioid streaks, occur in 85% of 
+patients with PXE, and 70% of these patients experience vision loss 
+from hemorrhage, extension into the macula, choroidal sclerosis, and 
+atrophy of the retinal pigment epithelium. Angioid streaks rarely occur 
+before the second decade of life.
+Skin disorders causing neoplasia such as juvenile xanthogranu­
+loma can affect the eye, sometimes even in the absence of typical skin 
+lesions. Ocular complications from juvenile xanthogranuloma occur 
+most commonly in infants and consist of nodular tumors of the iris 
+and ciliary body. The iris lesions have thin-walled vessels that are prone 
+to bleeding and to causing a hyphema. Glaucoma and iridocyclitis can 
+also occur. The iris lesions may respond to topical corticosteroids.
+Hematologic Disorders
+The hemoglobinopathies can have direct ocular consequences. 
+Patients with hemoglobin SC or S thalassemia are more prone to retinal 
+vascular occlusive disease because of a higher hematocrit and greater 
+blood viscosity than are patients with hemoglobin SS, but retinal com­
+plications are frequently not seen until adolescence or early adulthood. 
+Patients develop hemorrhages, angioid streaks, and arterial occlusions. 
+Patients with sickle cell disease or sickle cell trait are at higher risk of 
+complications of trauma, particularly hyphema. These patients may 
+develop glaucoma, optic nerve damage, and artery occlusion in this 
+setting and require close monitoring.
+Leukemia in children is usually acute. All ocular structures may 
+be affected by direct infiltration of leukemic cells, hemorrhage, or 
+infection. Conjunctival thickening, hypopyon, corneal ulcers, iris 
+infiltrates, retinal hemorrhages, and neovascularization may occur. 
+Infiltration of the optic nerve can be difficult to distinguish from pap­
+illedema secondary to CNS relapse. Infectious processes may pres­
+ent with similar findings as leukemia and can be difficult to discern 
+from leukemic infiltrates. Papilledema and intraocular infection are 
+true emergencies as the findings not only threaten vision but also are 
+highly correlated with CNS involvement. Prompt diagnosis and treat­
+ment are necessary.
+Congenital Heart Disease
+Eye disease can be related to congenital heart disease by associa­
+tion, which is not surprising because there is a temporal relation­
+ship between the embryogenesis of the heart and that of the eyes; an 
+embryopathic insult may result in malformations of both systems. 
+CHARGE syndrome is a result of a pathologic genetic variant in the 
+CHD7 transcription regulator of tissue-specific genes. The effects are 
+tissue and developmental stage dependent. Colobomas of the eyelid, 
+iris, retina, choroid, and optic nerve occur. They are usually bilateral 
+and the effects on vision are determined by the extent of the colo­
+boma. If the macula is involved, the visual prognosis is poor. Con­
+genital heart disease can be a cause of eye disease as a direct effect 
+of complications such as cyanosis or systemic hypertension. Severe 
+hypoxia can cause cortical visual impairment or damage to the optic 
+nerve resulting in optic atrophy.
+Gastrointestinal Disorders
+Ocular manifestations of inherited metabolic abnormalities of the gas­
+trointestinal system occur primarily in the cornea and retina. Wilson 
+disease is an autosomal recessive disorder of copper metabolism. The 
+excess copper is deposited in the liver, basal ganglia, cornea, and kid­
+ney. Liver damage and neurologic and psychiatric disorders result at 
+a young age. The deposition of copper in the Descemet membrane of 
+the cornea creates the Kayser-Fleischer ring, which is pathognomonic 
+of the disease. Copper may also be deposited in the lens. The corneal 
+deposition of copper is not generally symptomatic, but lens deposition 
+may adversely affect vision.
+Alagille syndrome, an autosomal dominant condition with intra­
+hepatic bile duct hypoplasia, is associated with a peripheral corneal 
+finding known as posterior embryotoxon. This finding consists of 
+thickening and anterior displacement of the Schwalbe line, which is the 
+peripheral extent of the Descemet membrane of the cornea. It can best 
+be seen with a slit-lamp biomicroscope. Posterior embryotoxon occurs 
+in more than 90% of patients with Alagille syndrome, but because it 
+also occurs in up to 15% of normal individuals, it is not pathogno­
+monic for this syndrome.
+Inflammatory bowel disease also can be associated with ocular 
+disease. Anterior uveitis occurs in both Crohn disease and ulcerative 
+colitis. Uveitis is diagnosed in almost half of cases of Crohn disease and 
+fewer in ulcerative colitis. In turn, untreated chronic uveitis can lead to 
+cataracts, glaucoma, and retinal edema. Conjunctivitis, keratitis, and 
+retinal vasculitis are less frequent complications of these diseases.
+Genitourinary Disease
+Oculorenal syndromes may result from chromosomal abnormality 
+syndromes or from inherited metabolic or developmental defects. The 
+Wilms tumor gene WT1 lies near the PAX6 gene locus on 11p13. A 
+chromosomal deletion of both results in Wilms tumor and aniridia. A 
+larger deletion may result in WAGR syndrome (Wilms tumor, sporadic 
+aniridia, genitourinary malformations, and mental retardation). Any 
+child with nonfamilial aniridia is at risk for Wilms tumor and needs 
+appropriate genetic evaluation.
+The Bardet-Biedl syndrome is an autosomal recessive disorder 
+combining retinal dystrophy, polydactyly, obesity, renal abnormalities, 
+and hypogenitalism. An ERG may be the earliest means of detecting 
+the cone-rod dystrophy in suspected cases. Visual acuity and the fun­
+duscopic appearance may be normal in early childhood. Vision may 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+812
+SECTION 7  Neurosensory Disorders
+then decrease and pigmentary retinopathy, which appears around the 
+age of 8 years, becomes more prominent with age.
+Cystinosis is also an autosomal recessive disorder of cystine trans­
+port from lysosomes that leads to intracellular accumulation of cys­
+tine in many tissues, including the eyes and kidneys. Cystine crystals 
+accumulate in the anterior layer of the cornea beginning in the first 
+year of life. This can cause photophobia, which can be severe. Retinal 
+deposits of cystine can lead to focal degeneration of the retinal pigment 
+epithelium. Frequent topical administration of cysteamine drops (6–12 
+times per day) can clear the cornea of cystine crystals and relieve ocu­
+lar discomfort.
+Alport syndrome is an X-linked syndrome characterized by 
+nephritis, hearing loss, and ocular signs, particularly of the lens. An 
+“oil droplet” appearance can be seen in the pupil with an ophthalmo­
+scope. This represents an abnormality in the anterior capsule of the 
+lens, anterior lenticonus, which can sometimes be associated with a 
+cataract. Perimacular flecks are frequently present in the retina but do 
+not tend to reduce visual acuity.
+The Lowe oculocerebrorenal syndrome is also an X-linked disor­
+der comprising congenital cataracts, intellectual disability, and renal 
+tubular dysfunction. Glaucoma develops in a high proportion of 
+affected boys and men. The carrier state can frequently be detected in 
+girls and women by the appearance of numerous punctate opacities of 
+the lens.
+Endocrine Disease
+Optic nerve hypoplasia is the most common congenital optic nerve 
+anomaly. It can involve only a segment of the optic nerve. A superior 
+segmental hypoplasia sometimes occurs in children of diabetic moth­
+ers. Optic nerve hypoplasia can occur with other CNS abnormalities. 
+Patients with optic nerve hypoplasia may have septo-optic dysplasia, 
+which denotes the absence of the septum pellucidum and agenesis of 
+the corpus callosum or additional findings including pituitary abnor­
+malities and cerebral hemisphere abnormalities. Evaluation of hypo­
+thalamic and pituitary functions is indicated in patients found to have 
+pituitary abnormalities on imaging or if there is clinical suspicion of 
+endocrine abnormalities such as neonatal jaundice, hypoglycemia, or 
+difficulty with temperature control.
+Diabetes mellitus (DM) results in retinopathy at some point in 
+nearly all persons with insulin-dependent type 1 diabetes. The prev­
+alence of retinopathy is directly proportional to the duration of dis­
+ease after puberty. It rarely occurs within 5 years of diagnosis, occurs 
+in about 50% of patients at 7 years after diagnosis, and is seen in 90% 
+at 15 years after diagnosis. Funduscopic signs of diabetic retinopathy 
+are microaneurysms, retinal hemorrhages, cotton wool spots, and hard 
+exudates. Proliferative diabetic retinopathy with neovascularization 
+is uncommon in children. Intensive glucose control as monitored by 
+hemoglobin A1c decreases the incidence and progression of diabetic 
+retinopathy. Type 2 DM patients are more likely to develop diabetic 
+retinopathy at a younger age. Screening for diabetic retinopathy can 
+be done by dilated eye exam or retinal photography. In type 1 DM, 
+screening should start by age 11 or at the onset of puberty, younger 
+when the patient has had DM for a minimum of 3 years. Children with 
+type 2 DM should undergo a dilated eye exam at the time of diagnosis.
+Diabetic cataracts caused by sorbitol accumulation in the lens are 
+also complications of DM in children. Refractive changes such as 
+myopia can occur with rapid rises in blood sugar because of osmotic 
+changes in the lens.
+Thyroid ophthalmopathy related to Graves disease occurs in chil­
+dren much less frequently than in adults. It can be a cause of proptosis, 
+lid edema, eyelid retraction, or restrictive strabismus due to lympho­
+cytic infiltration of the muscles.
+Infectious Diseases
+Intrauterine or maternally transmitted infections can cause tissue dam­
+age or malformation. The common types of congenital infections are 
+the TORCH. The infectious agent, T. gondii, is acquired transplacen­
+tally or postnatally and has particular affinity for the CNS, including 
+the retina. Chorioretinitis and uveitis may occur and resolution leaves 
+scarring. Reactivation can occur and thus serial eye examinations are 
+necessary. The macula is commonly involved, and vision can be quite 
+poor. Intrauterine rubella infection has become a rarity in the United 
+States because of immunization with the measles-mumps-rubella vac­
+cine. A fetus infected transplacentally in the first trimester of preg­
+nancy is prone to multiple congenital defects, including heart disease, 
+microcephaly with intellectual disability, and deafness. Ocular sequelae 
+include cataracts, glaucoma, and chorioretinitis. Cataracts may be uni­
+lateral. Permanent visual impairment despite cataract surgery is com­
+mon in these children. Cytomegalovirus (CMV) is the most common 
+congenital infection in humans occurring in 1% of infants, although 
+over 90% are asymptomatic and may not require treatment. Ophthal­
+mic manifestations include retinochoroiditis, optic nerve anomalies, 
+microphthalmos, cataract, and uveitis. CMV retinitis can be acquired 
+in children who are immunocompromised.
+Herpes simplex virus (HSV) may be acquired during passage 
+through the birth canal or by close contact. Skin lesions on the eyelids 
+(Fig. 43.31), keratoconjunctivitis, uveitis, or retinitis may occur. Acute 
+retinal necrosis may occur in conjunction with CNS involvement. Ker­
+atitis is treated with topical antivirals, while systemic disease or retinitis 
+is treated with oral or intravenous antiviral therapy. Congenital syph­
+ilis may occur following maternal infection. Early eye involvement is 
+rare and symptoms may occur as late as adolescence. Chorioretinitis 
+appears as a salt-and-pepper granularity. Uveitis, glaucoma, or intersti­
+tial keratitis may occur. Affected children are treated with intravenous 
+penicillin G and monitored until serologic tests become nonreactive or 
+the titer has decreased fourfold.
+Ophthalmia neonatorum is defined as conjunctival infection or 
+inflammation occurring in the first month of life. Almost any bac­
+terial pathogen can cause conjunctivitis in a newborn, but infection 
+with Neisseria gonorrhoeae is of particular concern because it pro­
+duces a hyperacute, profusely purulent conjunctivitis that can lead 
+to corneal perforation and blindness. The U.S. Preventive Services 
+Task Force recommends prophylactic topical 1% tetracycline or 0.5% 
+erythromycin ointment administered within 24 hours after birth 
+for prevention of gonococcal neonatorum. A 2.5% solution of povi­
+done-iodine is used effectively and inexpensively in other countries 
+but has not been approved for this use in the United States at this 
+Fig. 43.31  Vesicular eruptions of the right lower eyelid and the right side 
+of the nose, caused by primary herpes simplex infection. The cornea was 
+not involved.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+813
+CHAPTER 43  Eye Disorders
+time. Chlamydia trachomatis (also known as trachoma–inclusion 
+conjunctivitis or TRIC) is a common cause of neonatal conjunctivi­
+tis and is acquired from an infected cervix during delivery. Because 
+this organism can also cause pneumonia, systemic treatment with 
+oral erythromycin is indicated for treatment. In a child presenting 
+with ophthalmia neonatorum it is important to obtain the history of 
+whether prophylaxis has been given, particularly in cases of home 
+births, where this is unlikely. Evaluation with Gram and Giemsa 
+stains and bacterial cultures are indicated. Polymerase chain reaction 
+(PCR) testing can be done for suspicion of HSV infection. Chlamydia 
+can be diagnosed by culture, fluorescent antibody-staining tech­
+niques, or enzyme immunoassays.
+Preseptal cellulitis, defined as infection confined to the eyelid 
+tissues anterior to the orbital septum, is a common infection in chil­
+dren and needs to be distinguished from infection involving the orbit 
+(Fig. 43.32). Preseptal infections may result from trauma and insect 
+bites involving the eyelids, severe conjunctivitis, primary bactere­
+mia, or upper respiratory infection, or they may spread to the eye­
+lids from the paranasal sinuses. The affected eyelids are swollen and 
+red, and the infection can spread further into the eyebrow, forehead, 
+and cheek. Proptosis and limitation or pain of eye movements do not 
+occur in preseptal cellulitis, but confirmation of this can be problem­
+atic because of the difficulty of opening the eye. S. aureus, group A 
+streptococcus, and S. pneumoniae are the most common pathogens. 
+Patients with signs and symptoms of systemic toxicity should be hos­
+pitalized for intravenous antibiotics; milder cases of preseptal cellulitis 
+may be managed with oral antibiotics as long as appropriate follow-up 
+is ensured.
+Orbital cellulitis is an infection of the orbit that involves the tis­
+sues posterior to the orbital septum. Most frequently, this is a result of 
+spread of infection from the ethmoid or frontal sinuses. Ocular signs 
+include eyelid edema and erythema, proptosis, and inferior and lateral 
+displacement of the globe with limited eye movements. Ocular move­
+ment is painful; visual activity may be reduced. If orbital cellulitis is 
+suspected, CT of the orbit and sinuses is indicated. Children younger 
+than 9 years are more likely to have an infection caused by a single aer­
+obic pathogen, whereas children older than 9 years may have complex 
+infections with multiple pathogens. Often, orbital cellulitis begins as 
+a subperiosteal abscess that forms in the potential space between the 
+periorbital (analogous to the periosteum of long bones) and the orbital 
+bones (Fig. 43.33). Left untreated, this space-occupying mass can apply 
+pressure to the optic nerve and cause permanent damage to vision. It 
+can also spread into the intracranial space and result in a cavernous 
+sinus thrombosis, a subdural empyema, or cerebral abscess. Systemic 
+toxicity is quite common and severe with orbital cellulitis. Most chil­
+dren younger than 9 years who have small- to medium-sized sub­
+periosteal abscesses can be treated successfully with broad-spectrum 
+intravenous antibiotics (ceftriaxone and vancomycin, ampicillin/sul­
+bactam, or piperacillin/tazobactam). Close observation with periodic 
+checks of vision and pupillary function is important in the first 24–48 
+hours of treatment. Older children, those with large subperiosteal 
+abscesses, and children who fail to respond to intravenous antibiotics 
+within 48 hours require surgical drainage of the abscess. Emergency 
+drainage is indicated in a patient of any age where there is compromise 
+of the optic nerve.
+NYSTAGMUS
+Nystagmus is defined as an involuntary rhythmic, to-and-fro move­
+ment of the eyes. Horizontal nystagmus is the most common form of 
+nystagmus, but vertical nystagmus and torsional nystagmus also occur 
+(Table 43.18). Nystagmus may be congenital or acquired. Gaze posi­
+tions can affect the eye movement. Congenital nystagmus is somewhat 
+of a misnomer because the abnormal eye movements are generally not 
+noted until an infant is 1 or 2 months of age, when the fixation reflex 
+becomes established. The etiologies of nystagmus are varied. A child 
+presenting with infantile nystagmus without neurologic symptoms is 
+more likely to have an ocular etiology than neurologic. Non-nystagmus 
+eye movements are noted in Table 43.19.
+Fig. 43.32  Preseptal cellulitis in a young girl. The infection is confined 
+to the space anterior to the superior and inferior orbital septa and does 
+not involve the orbit.
+A
+B
+Fig. 43.33  A, A 7-year-old child with right orbital cellulitis, proptosis, 
+white eye, limitation of eye movements, but no optic nerve compromise. 
+B, CT scan shows ethmoid sinusitis, significant proptosis, and a small 
+medial subperiosteal abscess (arrow). He was successfully treated with 
+antibiotics alone and did not need surgical intervention. (From Lambert 
+SR, Lyons CJ, eds. Taylor & Hoyt’s Pediatric Ophthalmology and Strabis­
+mus. 5th ed. Philadelphia: Elsevier; 2017:95, Fig. 14.11.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+814
+SECTION 7  Neurosensory Disorders
+Idiopathic infantile motor nystagmus syndrome (INS) in some 
+patients is associated with variants in the GPR143 gene, which is an 
+X-linked recessive disorder that also produces isolated ocular albinism. 
+Patients with idiopathic infantile nystagmus with this variant do not 
+have decreased ocular pigmentation. In these patients, visual acuity is 
+only moderately impaired, and the fundus examination findings and 
+the ERG are normal. Usually an affected individual will have a null 
+point or a preferred position in which the eye movements are mini­
+mized. This may affect the head position as the patient tries to keep the 
+eyes in the null point. In patients with INS there is often dampening 
+or quieting of the nystagmus with convergence. Vision may be quite 
+good (20/40 or better) in the patient’s preferred gaze and head position. 
+Sometimes surgery is done on the eye muscles to move them into a 
+position such that the head is straighter. A family history of nystagmus 
+can frequently be ascertained.
+Congenital sensory nystagmus occurs with disorders that impair 
+normal image formation (bilateral congenital cataracts) or image 
+processing in both eyes (a retinal dystrophy or bilateral optic nerve 
+atrophy or hypoplasia). Eye movements may be searching and there 
+is no null point. Visual acuity is more severely impaired than in idio­
+pathic congenital nystagmus (20/200 or less), and visual loss may be 
+progressive in some instances. The evaluation of a child with congen­
+ital nystagmus entails a thorough health and family history, a general 
+physical examination, and an eye examination by an ophthalmologist 
+with expertise in pediatric eye disorders. Electroretinography, VEPs, 
+or optical coherence tomography (OCT) may be useful in establishing 
+a specific diagnosis.
+A cranial MRI scan is indicated when the optic nerves are anoma­
+lous, the child is delayed or has neurologic abnormalities, or the nys­
+tagmus is acquired. Early determination of the etiology of nystagmus is 
+important with the availability of gene therapy treatments for specific 
+retinal dystrophies. Gene therapy for Leber congenital amaurosis is 
+U.S. Food and Drug Administration approved for children as young 
+as 1 year old, and multiple clinical trials for other retinal dystrophy 
+therapies are ongoing. Acquired nystagmus is less common than con­
+genital nystagmus. Nystagmus that is truly acquired beyond the first 
+few months of life is of concern and may represent a significant neuro­
+logic abnormality. It may be caused by CNS disorders, particularly of 
+the cerebellum, brainstem, or suprasellar region. In children, the most 
+common tumor causing acquired nystagmus is a craniopharyngioma. 
+Vertically oriented nystagmus is also of concern; it may be associated 
+with the Arnold-Chiari malformation or with pharmacologic agents 
+such as lithium, tranquilizers, or anticonvulsants.
+Spasmus nutans is a special form of acquired nystagmus with 
+onset in the first 2 years of life. The usual triad of findings consists of 
+nystagmus (often a shimmering type of nystagmus that is frequently 
+asymmetric or even monocular), head nodding, and torticollis. This 
+form of nystagmus is generally benign and disappears by the age of 3–4 
+years. In some cases, spasmus nutans can be associated with chiasmal 
+or suprachiasmal lesions or retinal dystrophies. Neuroradiologic inves­
+tigation is indicated.
+Opsoclonus is a special form of eye movement abnormal­
+ity that is not truly nystagmus in that the bizarre, seemingly ran­
+dom oscillations of the eyes are not rhythmic and are frequently 
+TABLE 43.18  Specific Patterns of Nystagmus
+Pattern
+Description
+Associated Conditions
+Latent nystagmus
+Conjugate jerk nystagmus toward viewing eye
+Congenital vision defects, occurs with occlusion of eye
+Manifest latent nystagmus
+Fast jerk to viewing eye
+Strabismus, congenital idiopathic nystagmus
+Periodic alternating
+Cycles of horizontal and horizontal-rotary movements 
+that change direction
+Caused by both visual and neurologic conditions
+Seesaw nystagmus
+One eye rises and intorts as other eye falls and extorts
+Usually associated with optic chiasm defects
+Retraction nystagmus
+Eyes jerk back into orbit or toward each other
+Caused by pressure on mesencephalic tegmentum (Parinaud syndrome)
+Gaze-evoked nystagmus
+Jerk nystagmus in direction of gaze
+Caused by medications, brainstem lesion, or labyrinthine dysfunction
+Gaze-paretic nystagmus
+Eyes jerk back to maintain eccentric gaze
+Cerebellar disease
+Downbeat nystagmus
+Fast-phase beating downward
+Posterior fossa disease, drugs
+Upbeat nystagmus
+Fast-phase beating upward
+Brainstem and cerebellar disease, and some visual conditions
+Vestibular nystagmus
+Horizontal-torsional or horizontal jerks
+Vestibular system dysfunction
+Asymmetric or monocular nystagmus
+Pendular vertical nystagmus
+Disease of retina and visual pathways
+Spasmus nutans
+Fine, rapid, pendular nystagmus
+Torticollis, head nodding; idiopathic or gliomas of visual pathways
+TABLE 43.19  Specific Patterns of Non-Nystagmus Eye Movements
+Pattern
+Description
+Associated Conditions
+Opsoclonus
+Multidirectional conjugate movements of varying rate and amplitude
+Hydrocephalus, diseases of brainstem and cerebellum, neuroblastoma
+Ocular dysmetria
+Overshoot of eyes on rapid fixation
+Cerebellar dysfunction
+Ocular flutter
+Horizontal oscillations with forward gaze and sometimes with blinking
+Cerebellar disease, hydrocephalus, or central nervous system neoplasm
+Ocular bobbing
+Downward jerk of eyes from primary gaze; eyes remain for a few 
+seconds, then drift back
+Pontine disease
+Ocular myoclonus
+Rhythmic to-and-fro pendular oscillations of the eyes, with 
+synchronous nonocular muscle movement
+Damage to red nucleus, inferior olivary nucleus and ipsilateral 
+dentate nucleus
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+815
+CHAPTER 43  Eye Disorders
+multivectorial. The most common cause of opsoclonus in children 
+is acute cerebellar ataxia. The child presents with “dancing eyes and 
+dancing feet.” Opsoclonus can occur also with occult neuroblas­
+toma, as a paraneoplastic phenomenon, with viral encephalitis, and 
+with hydrocephalus.
+OCULAR TRAUMA
+Trauma is a major cause of acquired visual loss in children. Ninety 
+percent of trauma cases are preventable and 50% occur in the home. 
+The nature of the traumatic injury varies by age but there is a per­
+sistent male preponderance. In school-aged children, sports-related 
+injuries are the most common cause of ocular injury, accounting for 
+25% of hospitalizations. There is some effort to reduce injuries by 
+legislation. The incidence of eye injuries from ice hockey are almost 
+zero since the institution of mandatory face masks in children play­
+ing organized hockey. Projectile injuries from firearms, air guns, 
+and fireworks are relatively frequent in the United States; however, 
+these injuries are very rare in countries without easy access to guns 
+or fireworks.
+The extent of the eye examination is determined by the child’s 
+level of cooperation. If the circumstances of the injury suggest a high 
+likelihood of a perforating injury (from a sharp object that could go 
+through the cornea or sclera), the eye should not be forced open but 
+rather should be covered with a protective shield to prevent further 
+injury until the child can be seen by an ophthalmologist and an exam 
+under anesthesia can be done if necessary. If a perforating injury is 
+considered unlikely (a blunt or scratching type of injury), a sterile, top­
+ical ophthalmic anesthetic agent can be applied to the eye to reduce 
+surface pain, which is a major cause of the child’s reluctance to open 
+the eye. The eye can then be inspected for foreign bodies or corneal 
+abrasion. Fluorescein dye may be of help in diagnosing a corneal abra­
+sion. The fluorescein may have a linear pattern of staining that suggests 
+a foreign body may be on the tarsal conjunctiva under the upper eyelid 
+and during an eye blink the cornea is being abraded. Lid eversion is 
+needed to investigate this possibility. The inferior fornix should also be 
+inspected for foreign bodies.
+Corneal or conjunctival foreign bodies can sometimes be irri­
+gated out of the eye. Otherwise, the foreign body may be removed at 
+a slit-lamp using topical anesthesia if the patient is cooperative. If not, 
+the patient will require anesthesia. Management of a corneal abra­
+sion entails relief of pain, prevention of infection, and promotion of 
+healing of the corneal epithelium. Ibuprofen or similar analgesics are 
+usually sufficient for pain relief. Topical anesthesia, while used in the 
+office, should not be used at home as it prevents epithelial healing and 
+can be toxic to the cornea with longer-term use. A drop of a cyclople­
+gic agent (cyclopentolate) may provide comfort by relieving ciliary 
+spasm. Application of a topical antibiotic ointment such as erythro­
+mycin helps prevent infection and provides lubrication to the ocular 
+surface to allow the new epithelium to form and adhere to the base­
+ment membrane of the cornea. Patching the eye has not been shown 
+to be of any additional benefit. Close follow-up is indicated to make 
+sure that the cornea is healing and has not developed an infection that 
+could lead to a corneal ulcer. Most abrasions heal completely within 
+24–48 hours.
+Hyphema
+Any child with blunt trauma to the eye should be evaluated for blood 
+in the anterior chamber of the eye, known as a hyphema (Fig. 43.34). 
+The visual acuity of the injured eye should be measured if possible. 
+The anterior segment and pupillary function should be assessed if 
+the hyphema only partially fills the anterior chamber. Fundoscopy 
+should be attempted to look for associated retinal hemorrhage, 
+edema (Fig. 43.35; also see Fig. 43.34), or detachment. The view of 
+the retina may be obscured by blood. If necessary, ultrasound can 
+be used to determine if the retina is attached. Usually the blood 
+will resolve if the patient can limit their activity. NSAIDs should be 
+avoided. The complications of hyphema include glaucoma, corneal 
+blood staining, and rebleeding. The glaucoma may be managed ini­
+tially with topical medications but the blood may need to be washed 
+out of the anterior chamber surgically if the intraocular pressure 
+cannot be controlled, blood is not resolving, or corneal blood stain­
+ing is severe and threatening vision.
+Hemorrhage into vitreous
+Retinal
+hemorrhage
+Subretinal
+hemorrhage
+Retinal edema
+Hyphema
+Fig. 43.34  Various types of ocular hemorrhage after blunt trauma to the 
+globe. (From Reilly BM. Practical Strategies in Outpatient Medicine. 2nd 
+ed. Philadelphia: WB Saunders; 1991:68.)
+Fig. 43.35  Hemorrhage and edema of the retina from blunt ocular 
+trauma (commotio retinae).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+816
+SECTION 7  Neurosensory Disorders
+Eye Injuries in Child Abuse
+In cases of child abuse, the presenting sign may involve the eye. Ocu­
+lar injuries are also detected in the course of examining many other 
+child abuse injuries. Blunt injuries to the eyelids and anterior segment 
+of the eye from fingers, fists, or belts may cause eyelid ecchymosis, sub­
+conjunctival hemorrhage, hyphema, cataract, and lens dislocation. The 
+finding of such an injury should alert the physician to the possibility of 
+child abuse. Abusive head trauma is caused by forceful acceleration and 
+deceleration motion such as shaking, which results in subdural hemor­
+rhage and retinal or vitreous hemorrhages (Fig. 43.36). The vitreous is 
+adherent to the retina and the traction of the moving vitreous results in 
+multiple retinal hemorrhages, often in all layers of the retina. In severe 
+cases, the optic nerve may be avulsed. Vitreous or retinal hemorrhage 
+may take a long time to resolve and the child is at risk for amblyopia 
+during the time the vision is obscured by blood. In cases of persistent 
+hemorrhage, a vitrectomy may need to be done to clear the blood in 
+the visual axis. Cortical brain damage also has a role in limiting visual 
+function. Fewer than half of the patients diagnosed with abusive head 
+trauma with retinal or vitreous hemorrhage see better than 20/40 after 
+recovery.
+FUNCTIONAL VISION LOSS
+Some patients complain of vision loss or blurring or other visual distur­
+bances (seeing spots, colors, or patterns) while the eye exam is normal. 
+Functional visual disturbances occur most commonly in girls of ages 
+8–15 years. The key to confirming functional vision loss is to demon­
+strate objective findings that indicate better vision than the subjective 
+responses. The patient’s responses to visual acuity testing are frequently 
+inconsistent. Stereoacuity testing may demonstrate better visual acuity 
+than the patient is reporting. There are several examining techniques 
+that the ophthalmologist can employ to get this information. There are 
+also objective tests available to further delineate etiologies of possible 
+vision loss; however, these are rarely needed. These include imaging 
+tests such as OCT, fluorescein angiogram, ERG, or VEPs. The relation­
+ship of functional vision loss to true psychologic disease is unclear but 
+it is worth keeping in mind that there is a higher incidence of func­
+tional vision loss in children who are experiencing psychologic stress­
+ors. Some children willfully complain of vision loss because they want 
+glasses. The treatment should consist of reassurance. It may be of bene­
+fit to refer the patient to a psychiatrist if the symptoms do not subside.
+VISUAL COMPLAINTS OF CHILDREN
+Frequently, a child is brought to the pediatrician because of a subjective 
+visual complaint from the child rather than because of an abnormality 
+observed by a parent. Symptoms associated with reading are common 
+and include seeing blurred print, words “swimming” together, and 
+skipping words or lines. Other children complain primarily of blurred 
+distance vision. Uncommon visual phenomena may include seeing 
+colored lights, objects appearing larger or smaller, seeing spots, and 
+double vision. Eye pain localized to one or both eyes is also common. 
+There may be physiologic explanations for each of the complaints, and 
+the child is usually interested in an explanation of the reason proposed 
+for their complaint. A careful history of the exact nature of the com­
+plaint and any associated concerns should be sought and a screening 
+eye examination performed. Specifically, distance and near visual acu­
+ity should be measured in each eye. A cover test or stereopsis test rules 
+out manifest strabismus. An external eye examination may reveal a rea­
+son for eye pain (conjunctival injection, tearing, corneal abrasion, for­
+eign body). Pupillary reactions should be assessed. Fundoscopy should 
+be done to evaluate optic nerve and retinal status. A color vision test 
+may be helpful. Having the child read an age-appropriate passage may 
+reveal information about the child’s reading ability and the severity 
+of the reading complaint. If the examination is normal, simple reas­
+surance may ease the concerns of the child and parent, particularly if 
+combined with an offer to follow up on the complaint if it persists or if 
+the parent notes objective changes in the child’s eyes. If difficulty read­
+ing persists despite correction of any refractive error and an otherwise 
+normal eye exam, the child may have learning disabilities that war­
+rant further evaluation. Behavioral vision therapy has not been proven 
+to improve reading skills, learning disabilities, or dyslexia and is not 
+recommended.
+Fig. 43.36  Gross pathologic specimen from an infant who died of 
+shaken baby syndrome. Note the diffuse retinal hemorrhages.
+   	 S U MMA RY  A N D  R E D  F L A G S
+Ocular manifestations of vision loss, strabismus, and nystagmus may 
+be caused by isolated ocular pathologic processes or by significant 
+systemic disease. Vision screening and basic evaluations done in the 
+pediatrician’s office are important for detection of vision loss. Impaired 
+visual function resulting from strabismus, cataracts, or other conditions 
+may produce amblyopia and blindness. It is important to detect ambly­
+opia because in most cases, amblyopia is reversible if discovered early 
+and treated appropriately. Symptoms and signs that suggest potentially 
+life- or vision-threatening diseases are listed in Table 43.20.
+   
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+817
+CHAPTER 43  Eye Disorders
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+TABLE 43.20  Concerning Symptoms and 
+Signs That Should Raise Red Flags
+Symptom or Sign
+Most Worrisome or Urgent Cause
+Leukocoria
+Retinoblastoma
+Acute onset of strabismus
+Cranial nerve palsy from brain tumor, ↑ ICP
+Acute vision loss
+Compression or infiltration of optic nerve by 
+an orbital or intracranial lesion
+Proptosis
+Rhabdomyosarcoma
+Sudden onset of ptosis
+Third nerve palsy from tumor, ↑ ICP
+Severe progressive headaches ↑ ICP
+Black eye
+Trauma with associated hyphema
+Light sensitivity
+Uveitis
+Head tilt or turn
+Cranial nerve palsy causing strabismus, ↑ ICP
+Loss of corneal luster
+Corneal edema from glaucoma or uveitis
+Purulent conjunctivitis in a 
+newborn
+Gonococcal infection
+Acquired anisocoria
+Horner syndrome caused by cervical 
+neuroblastoma, ↑ ICP
+Bilateral cataracts in a 
+newborn
+Galactosemia
+Retinal hemorrhage in an 
+infant or toddler
+Child abuse
+Onset of nystagmus after 
+early infancy
+Brainstem or posterior fossa tumor
+↑ ICP, increased intracranial pressure.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+817.e1
+BIBLIOGRAPHY
+Basic and clinical science course, section 6. Pediatric Ophthalmology and 
+Strabismus. San Francisco: American Academy of Ophthalmology; 
+2020–21.
+Wright KW, Strube Y, eds. Pediatric Ophthalmology and Strabismus. 3rd ed. 
+New York: Oxford University Press; 2012.
+Anatomy and Neurophysiology of the Visual System
+Livingstone MS. Art, illusion and the visual system. Sci Am. 1988;258:78.
+Development of the Eye and Visual System
+Tripathi BJ, Tripathi RC. Development of the human eye. In: Bron AJ, Tripathi 
+RC, Tripathi BJ, eds. Wolff’s Anatomy of the Eye and Orbit. 8th ed. London: 
+Chapman & Hall; 1997.
+Amblyopia and Vision Screening
+Berardi N, Sale A, Maffei L. Brain structural and functional development: 
+genetics and experience. Dev Med Child Neurol. 2015;57(suppl 2):4–9.
+Committee on Practice and Ambulatory Medicine, Section on Ophthalmology, 
+et al. Visual system assessment in infants, children and young adults by 
+pediatricians. Pediatrics. 2016;137(1):28–30.
+Dolgin E. The myopia boom. Nature. 2015;519:276–278.
+Donahue SP, Arthur B, Neely DF, et al. On behalf of the AAPOS Vision 
+Screening Committee. Guidelines for automated preschool vision 
+screening: a 10-year, evidence based update. J AAPOS. 2013;17:4–8.
+Holmes JM, Lazar EL, Melia BM, et al. Pediatric eye disease investigator 
+group. Effect of age on response to amblyopia treatment in children. Arch 
+Ophthalmol. 2011;129:1451–1457.
+Repka MX, Kraker RT, Holmes JM, et al., Pediatric Eye Disease Investigator 
+Group. Atropine vs. patching for treatment of moderate amblyopia: follow 
+up at 15 years of age of a randomized clinical trial. JAMA Ophthalmol. 
+2014;132(7):799–805.
+Wiesel TN, Hubel DH. Single-cell responses in striate cortex of kittens 
+deprived of vision in one eye. J Neurophysiol. 1963;26:1003.
+Strabismus
+Hug D. Management of infantile esotropia. Curr Opin Ophthalmol. 
+2015;26(5):371–374.
+Lavrich JB. Intermittent exotropia: continued controversies and current 
+management. Curr Opin Ophthalmol. 2015;26(5):375–381.
+Magli A, Carelli R, Esposito F, et al. Essential infantile esotropia: 
+postoperative sensory outcomes of strabismus surgery. Semin Ophthalmol. 
+2017;32(6):663–671.
+Pediatric Eye Disease Investigator Group, Cotter SA, Mohney BG, et al. 
+Three-year observation of children 3 to 10 years of age with intermittent 
+exotropia. Ophthalmology. 2019;126(10):1249–1260.
+Pediatric Eye Disease Investigator Group, Mohney BG, Cotter SA, et al. A 
+randomized trial comparing part time patching with observation for 
+intermittent exotropia in children 12 to 35 months of age. Ophthalmology. 
+2015;122(8):1718–1725.
+Simonsz HJ, Kolling GH, Ummenbrink K. Final report of early vs. late infantile 
+strabismus surgery study (ELISSS): a controlled, prospective, multicenter 
+study. Strabismus. 2005;13:169–199.
+Refractive Errors
+Chia A, Lu QS, Tan D. Five-year clinical trial on atropine for the treatment of 
+myopia 2: myopia control with atropine 0.01% eyedrops. Ophthalmology. 
+2016;123:391.
+He M, Xiang F, Zeng Y, et al. Effect of time spent outdoors at school on the 
+development of myopia among children in China: a randomized clinical 
+trial. J Am Med Assoc. 2015;314:1142.
+Vision Impairment in Children
+Dörr J, Krautwald S, Wildemann B, et al. Characteristics of Susac syndrome: a 
+review of all reported cases. Nature Rev Neurol. 2013;9(6):307–316.
+Driving restrictions per state. Updated June 6, 2020.
+EyeWiki.aao.org
+Mervis CA, Yeargin-Allsopp M, Winter S, et al. Aetiology of childhood vision 
+impairment, metropolitan Atlanta, 1991–93. Paediatr Perinat Epidemiol. 
+2000;14:70.
+Sigler EJ, Randolph JC, Calzada JI, et al. Current management of Coats disease. 
+Surv Ophthalmol. 2014;59(1):30–46.
+Steinkuller PG. Legal vision requirements for drivers in the United States. 
+AMA J Ethics. 2010;12(12):938–940.
+Retinopathy of Prematurity
+Early Treatment for Retinopathy of Prematurity Cooperative Group. Revised 
+indications for the treatment of retinopathy of prematurity: results of the 
+early treatment for retinopathy of prematurity randomized trial. Arch 
+Ophthalmol. 2003;121:1684–1696.
+Good WV, Early Treatment for Retinopathy of Prematurity Cooperative 
+Group. Final results of the early treatment for retinopathy of prematurity 
+(ETROP) randomized trial. Trans Am Ophthalmol Soc. 2004;102:233–248.
+Mintz-Hittner HA, Kennedy KA, Chuang AZ, BEAT-ROP Cooperative Group, 
+et al. Efficacy of intravitreal bevacizumab for stage 3+ retinopathy of 
+prematurity. N Engl J Med. 2011;364(7):603–615.
+Nasolacrimal Problems in Childhood
+Becker BB. The treatment of congenital dacryocystocele. Am J Ophthalmol. 
+2006;142(5):835–838.
+Lueder GT. Endoscopic treatment of intranasal abnormalities associated with 
+nasolacrimal duct obstruction. J AAPOS. 2004;8(2):128–132.
+The Red Eye
+Azari AA, Barney NP. Conjunctivitis. A systemic review of diagnosis and 
+treatment. J Am Med Assoc. 2013;310(16):1721–1729.
+Nakra NA, Blumberg DA, Herrera-Guerra A, et al. Multi-system inflammatory 
+syndrome in children (MIS-C) following SARS-CoV-2 infection: 
+review of clinical presentation, hypothetical pathogenesis and proposed 
+management. Children. 2020;7(7):69.
+Seth D, Khan FI. Causes and management of red eye in pediatric 
+ophthalmology. Curr Allergy Asthma Rep. 2011;11(3):212–219.
+Sethuramen U, Kamat D. The red eye: evaluation and management. Clin 
+Pediatr (Phila). 2009;48(6):588–600.
+Leukocoria and Retinoblastoma
+Abramson DH, Frank CM, Susman M, et al. Presenting signs of 
+retinoblastoma. J Pediatr. 1998;132:505.
+Abramson DH, Shields CL, Munier FL, et al. Treatment of retinoblastoma in 2015: 
+agreement and disagreement. JAMA Ophthalmol. 2015;133:1341.
+Mendoza PR, Grossniklaus HE. The biology of retinoblastoma. Prog Mol Biol 
+Transl Sci. 2015;135:503–516.
+Childhood Cataracts
+Birch EE, Stager DR. The critical period for surgical treatment of dense 
+congenital unilateral cataract. Invest Ophthalmol Vis Sci. 1996;37:1532.
+Bothun ED, Lynn MJ, Christiansen SP, et al. Sensorimotor outcomes by age 
+5 years after monocular cataract surgery in the Infant Aphakia Treatment 
+Study (IATS). J AAPOS. 2016;20(1):49–53.
+Francis PJ, Moore AT. Genetics of childhood cataract. Curr Opin Ophthalmol. 
+2004;15(1):10–15.
+Infant Aphakia Treatment Study Group, Lambert SR, Lynn MJ, et al. 
+Comparison of contact lens and intraocular lens correction of monocular 
+aphakia during infancy: a randomized clinical trial of HOTV optotype 
+acuity at age 4.5 years and clinical findings at age 5 years. JAMA 
+Ophthalmol. 2014;132(6):676–682.
+Infant Aphakia Treatment Study Group, Plager DA, Lynn MJ, et al. 
+Complications, adverse events, and additional intraocular surgery 
+1 year after cataract surgery in the Infant Aphakia Treatment Study. 
+Ophthalmology. 2011;118(12):2330–2334.
+Mignarri A, Gallus GN, Dotti MT, et al. A suspicion index for early diagnosis 
+and treatment of cerebrotendinous xanthomatosis. J Inherit Metab Dis. 
+2014;37(3):421–429.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+References
+817.e2
+Glaucoma in Childhood
+Aponte EP, Diehl N, Mohney BG. Medical and surgical outcomes in childhood 
+glaucoma: a population based study. J AAPOS. 2011;15(3):263–267.
+Bohnsack BL, Freedman SF. Surgical outcomes in childhood uveitic glaucoma. 
+Am J Ophthalmol. 2013;155(1):134–142.
+Lewis CJ, Hedberg-Buenz A, DeLuca AP, et al. Primary congenital and 
+developmental glaucomas. Hum Mol Genet. 2017;26(R1):R28–R36.
+Childhood Uveitis
+American Academy of Pediatrics Section on Rheumatology and Section on 
+Ophthalmology, Cassidy J, Kivlin J, et al. Ophthalmologic examinations in 
+children with juvenile rheumatoid arthritis. Pediatrics. 2006;117(5):1843–1845.
+	American College of Rheumatology/Arthritis Foundation guideline for 
+screening, monitoring and treatment of juvenile idiopathic arthritis-
+associated uveitis. Arthritis Care Res. 2019;71(6):703–716.
+Brazis PW, Stewart M, Lee AG. The uveo-meningeal syndromes. Neurol. 
+2004;10(4):171–184.
+Harrell M, Carvounis PE. Current treatment of toxoplasma retinochoroiditis: 
+an evidence-based review. J Ophthalmol. 2014;2014:273–506.
+Klotz SA, Penn CC, Negvesky GJ, et al. Fungal and parasitic infections of the 
+eye. Clin Microbiol Rev. 2000;13(4):662–685.
+Levy-Clark G, Jabs DA, Read RW, et al. Expert panel recommendations for 
+the use of anti-tumor necrosis factor biologic agents in patients with ocular 
+inflammatory disorders. Ophthalmology. 2014;121(3):785–796.
+Street D, Sivaguru A, Sreekantan S, et al. Vogt-Koyanagi-Harada disease. Pract 
+Neurol. 2019;19:364–367.
+Eyelid and Orbital Problems
+Al-Haddad C, El Salloukh NA, El Moussawi Z. β-blockers in the treatment 
+of periocular infantile hemangioma. Curr Opin Ophthalmol. 2019;30(5):
+319–325.
+Drolet BA, Frommelt PC, Chamlin SL, et al. Initiation and use of propanolol 
+for infantile hemangioma: a report of a consensus conference. Pediatrics. 
+2013;131(1):128–140.
+Gandhi NG, Lin LK, O’Hara M. Sildenafil for pediatric orbital lymphangioma. 
+JAMA Ophthalmol. 2013;131(9):1228–1230.
+Gooding C, Meyer D. Intralesional bleomycin: a potential treatment 
+for refractory orbital lymphangiomas. Ophthal Plast Reconstr Surg. 
+2014;30(3):e65–e67.
+Holland KE, Drolet BA. Approach to the patient with an infantile 
+hemangioma. Dermatol Clin. 2013;31(2):289–301.
+Holland KE, Drolet BA. Infantile hemangioma. Pediatr Clin North Am. 
+2010;57:1069–1083.
+Maamari RN, Couch SM. In: Nonspecific Orbital Inflammation in Advances in 
+Ophthalmology and Optometry. Vol. 3. 2018:315–335.
+Rao AA, Naheedy JH, Chen JY, et al. A clinical update and radiologic review of 
+pediatric orbital and ocular tumors. J Oncol. 2013;2013:975908.
+Spindle J, Tang SX, Davies B, et al. Pediatric idiopathic orbital inflammation: 
+clinical features of 30 cases. Ophthal Plast Reconstr Surg. 2016;32(4):270–274.
+Ocular Manifestations of Systemic Disease
+Ali Z, Khadije D, Elahe A, et al. Prophylaxis of ophthalmia neonatorum: 
+comparison of betadine, erythromycin and no prophylaxis. J Trop Pediatr. 
+2007;53(6):388–392.
+American Diabetes Association. 13. Children and adolescents: standards of 
+medical care in diabetes—2019. Diabetes Care. 2019;42:S148.
+American Diabetes Association. 13. Children and adolescents: standards of 
+medical care in diabetes—2020. Diabetes Care. 2020;43:S163.
+Dabelea D, Stafford JM, Mayer-Davis EJ, et al. Association of type 1 diabetes 
+vs. type 2 diabetes diagnosed during childhood and adolescence with 
+complications during teenage years and young adulthood. J Am Med Assoc. 
+2017;317:825.
+Garcia GH, Harris GJ. Criteria for nonsurgical management of subperiosteal 
+abscess of the orbit: analysis of outcomes, 1988-1998. Ophthalmology. 
+2000;107(8):1454–1458.
+Ocular prophylaxis for gonococcal ophthalmia neonatorum. U.S. Preventive 
+Services Task Force reaffirmation recommendation statement. Am Family 
+Physician. 2012;85:195–196.
+Summers CG. Albinism: classification, clinical characteristics, and recent 
+findings. Optom Vis Sci. 2009;86(6):659–662.
+Virk SA, Donaghue KC, Wong TY, et al. Interventions for diabetic retinopathy 
+in type 1 diabetes: systemic review and meta-analysis. Am J Ophthalmol. 
+2015;160:1055–1064.
+Nystagmus
+Bertsch M, Floyd M, Kehoe T, et al. The clinical evaluation of infantile 
+nystagmus: what to do first and why. Ophthalmic Genet. 2017;38(1):22–23.
+Brodsky MC. Pediatric Neuro-Ophthalmology. 2nd ed. New York: Springer; 2010.
+clinicaltrials.gov – a website of ongoing clinical trials.
+Ehrt O. Infantile and acquired nystagmus in childhood. Eur J Paediatr Neurol. 
+2012;16(6):567–572.
+Ocular Trauma
+Kivlin JD, Simons KB, Lazoritz S, et al. Shaken baby syndrome. 
+Ophthalmology. 2000;107:1246.
+Levin AV. Retinal hemorrhages in abusive head trauma. Pediatrics. 
+2010;126(5):961–970.
+SooHoo JR, Davies BW, Braverman RS, et al. Pediatric traumatic hyphema: a 
+review of 138 consecutive cases. J AAPOS. 2013;17(6):565–567.
+Trief D, Adebona OT, Turalba AV, et al. The pediatric traumatic hyphema. Int 
+Ophthalmol Clin. 2013;53(4):43–57.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

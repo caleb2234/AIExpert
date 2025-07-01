@@ -1,0 +1,3416 @@
+54
+The main function of the respiratory system is to supply oxygen to 
+meet the body’s demands and remove excess carbon dioxide. Many 
+processes are involved in ensuring that this occurs, including venti­
+lation (gas delivery to and from the lungs), perfusion (blood supply 
+to the lungs), and diffusion (the exchange of gases along the alveoli). 
+Respiratory distress arises when there is impaired air exchange that 
+leads to decreased ventilation and oxygenation, and can be caused by 
+problems in any of these pathways. It is essential to identify and treat 
+the location and cause of respiratory distress to prevent respiratory 
+failure, which ensues if the respiratory effort is inadequate to provide 
+appropriate tissue oxygenation and maintenance of blood pH.
+Respiratory distress occurs for a variety of reasons and with many 
+levels of severity. There are also age-­related etiologies (Table 4.1). It can 
+be caused by intrapulmonary pathology (airway, alveolar, interstitium, 
+vascular) or a change in respiratory drive, impaired neuromuscular 
+reserve, or increased ventilatory demand (Table 4.2).
+DIAGNOSTIC APPROACH
+Signs and symptoms of respiratory distress vary, depending on the 
+severity and cause. The initial approach to a patient includes determin­
+ing the severity of illness and then determining if immediate treatment 
+is needed by first ensuring that airway, breathing, and circulation are 
+intact. After these steps are completed, further work-­up into the cause 
+of respiratory distress may be done. A careful history and physical 
+examination are often sufficient to elucidate the cause of respiratory 
+distress. Not all causes of respiratory distress arise within the respi­
+ratory tract. Heart failure, neuromuscular disorders, toxic ingestion, 
+and central nervous system disorders may all manifest with respiratory 
+signs and symptoms. In severe respiratory distress or suspicion of air­
+way obstruction, a feeding trial should not be done as this may increase 
+the risk of aspiration or further respiratory compromise.
+HISTORY
+An appropriate medical history is important in the child with respira­
+tory distress. The chief complaint provides insight into the nature of 
+the distress (i.e., cough, wheezing, stridor, cyanosis, dyspnea, and/or 
+chest pain). The onset, duration, and chronicity of symptoms should 
+also be obtained. It is important to obtain data regarding any pro­
+drome, exacerbating or ameliorating factors, history of trauma, pre­
+vious occurrence of similar symptoms, and response to any therapy. 
+Questions should also be directed toward any change in voice or cry, 
+change with positioning, feeding problems, or any choking episodes. 
+The possibility of a foreign body should be raised, although this is often 
+not observed. Past medical history of neonatal events (prematurity), 
+previous endotracheal intubation, recurrent infections, hospitaliza­
+tions, noisy breathing, and prior gagging or choking episodes may also 
+provide valuable information. A family history of asthma and allergies, 
+travel, and environmental exposure (i.e., smoking, pets, or irritants) 
+may also uncover etiologic clues. A review of systems with regard to 
+systemic signs and symptoms associated with respiratory disease, such 
+as fever, weight loss, night sweats, or dysphagia, is useful (Table 4.3). 
+Determining whether the respiratory difficulties are acute or chronic 
+or an acute worsening of an underlying chronic respiratory condition 
+is important to address the child’s condition.
+PHYSICAL EXAMINATION
+Pulmonary Physical Examination
+The physical examination begins with measurement of vital signs, with 
+attention paid to respiratory rate, pulse oximetry, heart rate, and blood 
+pressure. Tachypnea is often the most prominent manifestation of 
+respiratory distress. A respiratory rate of more than 50 breaths/min in 
+infants 2–12 months of age, 40 breaths/min in children 1–5 years, and 
+30 breaths/min in children older than 5 years is abnormal. The physical 
+examination should be performed in a warm, well-­lit room, preferably 
+with the child in the parent’s lap and the child’s chest exposed. It is 
+essential to observe the child’s general appearance, sense of well-­being, 
+degree of dyspnea or cyanosis, and respiratory pattern, including nasal 
+flaring, retractions, and accessory muscle use. Central cyanosis (lips, 
+tongue, sublingual tissue as well as hands and feet) is related to both 
+the degree of oxygen desaturation and the hemoglobin level (Table 
+4.4). Cyanosis is detected when the average amount of deoxygenated 
+hemoglobin is 5 g/dL. Any posture assumed in an effort to minimize 
+the airway difficulties should be determined. The degree and location 
+of retractions should be noted. Retractions may be intercostal, subcos­
+tal, or suprasternal, and often signify worsening respiratory distress, 
+particularly in the older child. Infants have a particularly compliant 
+chest wall and are therefore more predisposed to intercostal and ster­
+nal retractions; in older children, these features may be less prominent. 
+Nasal flaring and accessory muscle use signify significant respiratory 
+distress; and, as fatigue sets in, head bobbing and/or grunting can be 
+noted, which requires prompt management as this may be a sign of 
+impending respiratory failure. Altered mental status (either agitation 
+or somnolence) may be indicative of severe respiratory distress, hypox­
+emia, hypercapnia, and impending respiratory failure. Palpation of 
+the chest wall and cervical region may enable the examiner to detect 
+the presence of subcutaneous emphysema indicative of pulmonary air 
+leak. On percussion of the chest and back, a hyperresonant note during 
+percussion of the chest wall indicates hyperinflation, whereas dullness 
+to percussion suggests atelectasis, pulmonary consolidation, or pleural 
+effusion.
+Auscultation of the chest should focus on identifying the degree 
+of air exchange and the presence, timing, and symmetry of adventi­
+tious breath sounds. Air entry should be evaluated over all discrete 
+Respiratory Distress
+Alyssa Stephany
+4
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+55
+CHAPTER 4  Respiratory Distress
+TABLE 4.1  Age-­Related Causes of Respiratory Distress
+Cause
+Full-­Term Neonate
+Infant-­Toddler
+Child
+Adolescent
+COMMON
+Meconium aspiration pneumonia
+Bronchiolitis
+Pneumonia∥
+Pneumonia#
+Congenital heart disease
+Viral pneumonia†
+Asthma
+Asthma
+Transient tachypnea
+Bacterial pneumonia‡
+Cystic fibrosis
+Sickle cell acute chest crisis
+Persistent fetal circulation
+Croup (infectious, spasmodic)
+Sickle cell acute chest crisis
+Tonsillitis
+Congenital pneumonia
+Aspiration§
+Aspiration§
+Peritonsillar abscess
+Cystic fibrosis
+Tonsillitis
+Cystic fibrosis
+Laryngomalacia
+Panic attack
+Asthma
+E-­cigarette or vaping associated lung 
+injury (EVALI)
+UNCOMMON
+Pneumothorax
+Congenital anomalies
+ARDS
+ARDS
+Congenital anomalies*
+Epiglottitis
+Anaphylaxis
+Spontaneous pneumothorax
+Pneumopericardium
+Near drowning
+Interstitial lung disease¶
+Pulmonary embolism
+Polycythemia
+Pulmonary hemosiderosis
+Hemoptysis
+Drug induced**
+Vocal cord paralysis
+Pulmonary hemorrhage
+Retropharyngeal abscess
+Interstitial lung disease¶
+Pleural effusions
+Retropharyngeal abscess
+Near drowning
+Collagen vascular disease††
+Severe anemia
+Trauma
+Hydrocarbon aspiration
+Hypersensitivity pneumonitis‡‡
+Pulmonary hypoplasia
+Hydrocarbon aspiration
+Trauma
+Allergic bronchopulmonary aspergillosis
+Surfactant protein deficiency
+Smoke inhalation (burn)
+Pulmonary fibrosis
+Alveolar proteinosis
+Pulmonary lymphangiectasia
+Airway hemangioma
+Desquamating interstitial pneumonia
+Trauma
+Papilloma of vocal cords
+Pulmonary alveolar proteinosis
+Anaphylaxis
+Bacterial tracheitis
+Smoke inhalation (burn)
+Smoke inhalation (burn)
+Heart failure
+HIV associated∥∥
+Scoliosis
+HIV associated∥∥
+Primary ciliary dyskinesia
+Bronchiectasis
+Primary ciliary dyskinesia
+Mediastinal mass§§
+Hemoptysis
+HIV associated∥∥
+*Congenital anomalies = tracheoesophageal fistula; choanal atresia; tracheal web-­stenosis-­atresia-­cleft; diaphragmatic hernia; eventration of the 
+diaphragm; congenital pulmonary airway malformation (previously called cystic adenomatoid malformation); lobar emphysema; cleft palate–macro­
+glossia (Pierre Robin syndrome); thyroid goiter; pulmonary hypoplasia, including Potter syndrome (renal agenesis, oligohydramnios, pulmonary hypo­
+plasia); lung cysts; chylothorax; pulmonary lymphangiectasia; asphyxiating thoracic dystrophy; vascular rings and slings; arteriovenous malformation; 
+subglottic stenosis.
+†Viral pneumonia: see Table 4.12 for common causes.
+‡Pneumonia (infant–toddler): see Table 4.12 for common causes.
+§Aspiration = gastric fluid or formula aspiration in gastroesophageal reflux, foreign body aspiration.
+∥Pneumonia (child): see Table 4.12 for common causes.
+¶Interstitial lung disease = idiopathic, rheumatoid, infection (Pneumocystis carinii), Langerhans cell histiocytosis, hypereosinophilia syndromes, 
+Goodpasture syndrome, LIP, alveolar proteinosis, familial fibrosis, chronic active hepatitis, inflammatory bowel disease, vasculitis (granulomatosis 
+with polyangiitis with or without eosinophilia, hypersensitivity), graft-­versus-­host disease, pulmonary venoocclusive disease, sarcoidosis, leuke­
+mia, lymphoma, neurofibromatosis, tuberous sclerosis, Gaucher disease, Niemann-­Pick disease, Weber-­Christian disease, organic dusts (e.g., 
+farmer’s lung, humidifier/air-­conditioner lung, bird feeder, pancreatic extract, rodent handler, cheese worker), inorganic dusts (pneumoconiosis), 
+irradiation.
+#Pneumonia (adolescent): see Table 4.12 for common causes.
+**Drugs = azathioprine, bleomycin, cyclophosphamide, methotrexate, nitrosoureas, busulfan, nitrofurantoin, penicillin, sulfonamides, erythromy­
+cin, isoniazid, hydralazine, phenytoin, carbamazepine, imipramine, naproxen, penicillamine, cromolyn sodium, mineral oil, paraquat, inhaled drugs 
+(cocaine, hydrocarbons), talc, shoe spray.
+††Collagen vascular disease = rheumatoid arthritis, progressive systemic sclerosis, systemic lupus erythematosus, dermatomyositis, mixed connec­
+tive tissue disease.
+‡‡Hypersensitivity pneumonia (also called extrinsic allergic alveolitis): see¶ above for some specific organic dusts (antigens).
+§§Mediastinal masses = anterior (teratoma, T-­cell lymphoma, thymus, thyroid), middle (lymph nodes–infection–tumor–sarcoidosis, cysts), posterior 
+(neuroenteric cysts–duplication, meningocele, neural tumors–neuroblastoma, ganglioneuroblastoma, neurofibroma, pheochromocytoma), and paren­
+chymal tumors (hamartoma, arteriovenous malformation, carcinoid, adenoma; metastatic–osteogenic sarcoma, Wilms tumor).
+∥∥HIV associated = P. jiroveci, LIP, CMV, Mycobacterium tuberculosis, atypical mycobacteria, measles, common bacterial pathogens.
+ARDS, acute respiratory distress syndrome; BPD, bronchopulmonary dysplasia; CMV, cytomegalovirus; LIP, lymphocytic interstitial pneumonia; RDS, 
+respiratory distress syndrome; RSV, respiratory syncytial virus.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+56
+SECTION 2   Respiratory Disorders
+anatomic locations bilaterally. Homologous segments of each lung 
+should be examined sequentially to compare similar areas. The pres­
+ence of adventitious sounds should be determined next. The most 
+encountered sounds are wheezing, stridor, crackles, and rhonchi 
+(Table 4.5).
+Crackles (previously called “rales”) are intermittent, nonmusical 
+low-­ or higher-­pitched, largely inspiratory noises that are produced by 
+the opening (reinflation) of groups of alveoli closed during the previ­
+ous expiration.
+Wheezing is a continuous, high-­pitched musical noise, similar to 
+a hiss or whistle.
+Rhonchi are continuous sounds that are lower pitched and more 
+rumbling or sonorous, heard more during expiration, and primarily 
+heard over the trachea and bronchi; however, if loud enough they can 
+be heard throughout all lung fields.
+Stridor is a high-­pitched musical noise generated by turbulent flow 
+of air through the large upper airways.
+Other adventitious breath sounds that are described include 
+pleural rub, which has a grating quality heard best during inspira­
+tion, and stertor, a low-­pitched, nonmusical noise generated by the 
+vibration of the pharyngeal tissues (nasopharynx, oropharynx, soft 
+palate) due to significant upper respiratory obstruction and sub­
+sequent turbulent airflow downstream in the upper airway heard 
+only during inspiration. Determination of the timing (inspiration, 
+expiration, or biphasic) and distribution of the adventitious sounds 
+offers clues as to the site of airway and lung involvement. Wheez­
+ing that is continuous and heard equally over both lung fields is 
+associated with diffuse airway narrowing and limitation of air­
+flow, whereas unilateral or very localized wheezing or decreased 
+breath sounds suggest segmental airway obstruction, such as that 
+found with retained foreign body aspiration, mucus plugging, or 
+atelectasis. Additionally, inspiratory stridor is characteristic of par­
+tial airway obstruction at or above the vocal cords, whereas biphasic 
+or expiratory stridor is characteristic of airway obstruction in the 
+subglottic space or trachea (Fig. 4.1).
+Other Parts of the Physical Examination
+Other elements of the physical examination may have direct bearing 
+on the respiratory system. Pulsus paradoxus, the difference between 
+the systolic blood pressure obtained during inspiration and during 
+exhalation, is exaggerated by airway obstruction and pulmonary 
+hyperinflation. As pulmonary overinflation gets worse, pulsus par­
+adoxus values increase and correlate well with the degree of airway 
+obstruction. It is difficult to measure pulsus paradoxus in young 
+children with rapid heart rates. A method that allows a reasonable 
+approximation of the pulsus paradoxus can be obtained by using a 
+sphygmomanometer and noting the difference between the pressure 
+at which the first sporadic faint pulse sounds and the pressure at which 
+all sounds are heard. Values >10 mm Hg are abnormal, and values 
+>20 mm Hg are consistent with severe airway obstruction. Although 
+digital clubbing is very rarely seen as a normal and familial variant, 
+its presence in a child with respiratory distress suggests an acute ill­
+ness superimposed on an underlying chronic respiratory condition. 
+The most common pulmonary causes of digital clubbing in pediat­
+ric patients are cystic fibrosis, bronchiectasis, and other destructive 
+pulmonary diseases. Digital clubbing is rarely seen in children with 
+asthma. Other physical findings to observe include mouth breath­
+ing and morphologic features suggestive of craniofacial anomalies, 
+such as maxillary hypoplasia, nasal septal deflection, micrognathia, 
+retrognathia, absent nasal airflow (choanal obstructions), platybasia, 
+or macroglossia.
+LABORATORY TESTS
+The arterial blood gas analysis, obtained while the patient is breathing 
+a known fraction of inspired oxygen (Fio2), is the “gold standard” for 
+assessing oxygenation, ventilation, and acid-­base status. In lieu of an 
+arterial blood gas determination, capillary or venous blood gases may 
+be utilized, but these are less helpful for evaluating oxygenation. Non­
+invasive measurement of oxygenation by pulse oximetry can provide 
+valuable information. Oximetry measures the degree of hemoglobin 
+saturation with oxygen and should not be confused with partial pres­
+sure of oxygen in the blood, as measured by blood gas analysis or esti­
+mated by transcutaneous measures. At or near sea level, hemoglobin 
+oxygen saturation lower than 93% indicates that significant hypoxemia 
+may be present, and saturations of 90% or lower are clearly abnormal. 
+A blood gas analysis may be necessary to confirm the presence and 
+degree of hypoxemia, as well as information on acid-­base status (pH) 
+and ventilation (Paco2). Hemoglobin oxygen saturation, measured by 
+pulse oximetry, cannot detect significant hypoxia, but it is relatively 
+accurate at oxygen saturations of 70% or more. Various conditions, 
+such as poor circulation, presence of carboxyhemoglobin or methe­
+moglobin, nail polish, and improper sensor alignment and motion, can 
+result in inaccurate oximetry measures.
+IMAGING
+Radiography
+A plain x-­ray of the chest, taken in the posterior-­anterior and lateral projec­
+tions, should be obtained in any patient with respiratory distress in which 
+an etiology has not been determined from the history and physical exam­
+ination. Important information regarding the presence of parenchymal 
+TABLE 4.2  Causes of Respiratory Distress
+Extrathoracic
+Intrathoracic
+Nervous System–Metabolic
+Intracranial hemorrhage
+Acidosis
+Ingestion (aspirin)
+Ketoacidosis (diabetes)
+Meningitis
+Shock/sepsis
+Neuromuscular disease
+Diaphragmatic paralysis, paresis
+Psychologic (anxiety)
+Vocal cord dysfunction
+Panic attack
+Lesions of Upper Airway
+Malacia
+Web
+Cyst
+Hemangioma
+Stenosis (glottic or choanal)
+Papillomatosis
+Miscellaneous
+Abdominal masses, distention
+Ascites
+Anemia
+Pulmonary
+Airway obstruction
+Parenchymal lesions: pneumonia, 
+hemorrhage, malformation
+Air leaks: pneumomediastinum, 
+pneumothorax
+Pleural effusion, empyema
+Acute respiratory distress syndrome
+Chest wall trauma
+Pulmonary embolus
+Foreign body (airway or esophagus)
+Tumor (cyst, adenoma)
+Cystic fibrosis
+Primary ciliary dyskinesia
+Cardiac
+Myocarditis
+Cardiomyopathy
+Shunt (left to right)
+Congestive heart failure
+Pulmonary edema
+Pericardial effusion
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+57
+CHAPTER 4  Respiratory Distress
+TABLE 4.3  Focused History for a Patient with Respiratory Distress
+Component
+Comments and Examples
+Onset, duration, and 
+chronicity
+Abrupt onset: suggests upper airway conditions such as foreign body, allergy, anaphylaxis, irritant exposure, or pulmonary embolism
+Gradual onset: more consistent with process such as infection or heart failure
+Alleviating and provoking 
+factors
+A child with respiratory distress caused by upper airway obstruction may have some degree of relief by assuming the “sniffing 
+position” to maximize airway patency
+Treatment attempted
+A child with wheezing secondary to asthma may respond readily to inhaled bronchodilators, but a child with wheezing caused by 
+foreign body aspiration may continue to show symptoms after treatment
+Respiratory symptoms
+Cold symptoms: may indicate viral upper respiratory infection
+Cough: “seal-­like” or “barky” cough is commonly heard in patients with croup
+Eliciting descriptions of the difficulty breathing may provide clues to the underlying cause (e.g., supraclavicular or suprasternal 
+retractions point to upper airway obstruction)
+Color change: Pallor may indicate anemia; cyanosis is indicative of decreased oxygen content in the blood, as seen in some forms of 
+congenital heart disease and in methemoglobinemia
+Respiratory effort: Poor effort may be seen in patients with underlying muscular dystrophies
+Change in voice: Whereas muffled or hoarse voice points to upper airway pathology, lower airway disease does not typically change 
+the character of the voice
+Systemic or associated 
+symptoms
+Fever: Presence suggests an infectious cause
+Hydration status, including intake and output (urine, emesis, diarrhea, excessive perspiration, or high respiratory rate)
+Weight loss or failure to gain weight: may indicate systemic process (e.g., inborn error of metabolism) or the severity of respiratory 
+distress is impairing growth (as seen in congestive heart failure)
+Abdominal pain: may suggest abdominal pathology such as obstruction or appendicitis or may represent referred pain from diaphrag­
+matic irritation (as in basilar pneumonia)
+Other organ involvement: AKI, myocarditis, rash, cytopenias, thrombosis, shock, emesis, diarrhea, jaundice
+Past medical history
+Underlying disorders may predispose patients to certain conditions: For example, a patient with sickle cell disease and respiratory 
+distress may be exhibiting signs of acute chest syndrome; a patient with known gastroesophageal reflux and coarse lung findings 
+on examination could have an aspiration pneumonia. History of vaping or smoking
+Exposures or environmental 
+factors
+For example, a patient involved in a fire may be affected by not only thermal injury to the airways but also systemic toxins such as 
+carbon monoxide and cyanide
+A patient with allergy and a potential exposure to the allergen could be showing signs of anaphylaxis
+Exposure to sick contacts
+Trauma
+History of trauma suggests diagnoses such as pneumothorax, flail chest, cardiac tamponade, or abdominal injury
+Immunization status
+Children with incomplete or lack of immunization against Haemophilus influenzae type B are at increased risk for epiglottitis
+Last oral intake
+If advanced airway management becomes necessary (e.g., positive-­pressure ventilation), the presence of stomach contents may 
+increase the risk of pulmonary aspiration
+AKI, acute kidney injury.
+From Viteri SD, Sampayo EM. Respiratory distress. In: Florin TA, Ludwig S, eds. Netter’s Pediatrics. Philadelphia: Elsevier; 2011:17–23.
+TABLE 4.4  Cyanosis and Hemoglobin Concentration
+CYANOSIS APPEARS AT*
+Hemoglobin Concentration (g/dL)
+Oxygen Saturation (%) Below:
+Arterial Po2 (mm Hg) Below:
+6
+60
+31
+8
+70
+36
+10
+76
+40
+12
+80
+45
+14
+83
+47
+16
+85
+50
+18
+87
+54
+20
+88
+56
+*These figures assume that central cyanosis begins to appear when 2.38 g/dL of deoxygenated hemoglobin accumulates in arterial blood. The cor­
+responding Po2 was obtained from standard hemoglobin dissociation curves for oxygen.
+From McGee S. Cyanosis. In: Evidence-­Based Physical Diagnosis. 3rd ed. Philadelphia: Elsevier; 2012:71.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+58
+SECTION 2   Respiratory Disorders
+infiltrates, pleural effusions, airway obstruction, cardiac size, pulmonary 
+vascular markings, extrapulmonary air leaks, and the presence of radi­
+opaque foreign bodies may be obtained from this test. Radiopaque foreign 
+bodies are generally seen easily on a radiograph. If there is a possibility of 
+a radiolucent foreign body, inspiratory and expiratory chest radiographic 
+studies must be performed. Demonstration of unilateral hyperinflation or 
+a mediastinal shift during expiration suggests localized bronchial obstruc­
+tion, such as a retained foreign body. Lateral decubitus positioning of the 
+patient during the radiographic procedure can reveal a pleural effusion in 
+the lower dependent lung. Ultrasonography of the chest is also useful in 
+detecting pleural fluid and loculations within pleural effusions.
+In patients with stridor, anteroposterior and lateral soft tissue radio­
+graphic studies of the neck and chest are frequently needed. These 
+should be obtained during inspiration, because the soft tissues of the 
+pharynx may bulge with expiration, causing a false-­positive finding of 
+a soft tissue mass that may mimic a retropharyngeal infection.
+Computed Tomography
+CT of the upper airway and chest can help detect the relationship of 
+the vasculature to the airways (trachea and large central airways); pul­
+monary parenchymal lesions (infiltrates, abscesses, cysts) or lesions 
+(abscesses, inflammation) in the airway; and central airway caliber. 
+Rapid, fine-­cut CT is a technique of high resolution and short duration, 
+which increases its acceptability for pediatric patients. It is the method 
+of choice for noninvasive detection and evaluation of bronchiectasis 
+and interstitial lung disease. In some patients with a normal chest x-­ray, 
+the CT will be abnormal. Helical CT is a valuable method of detecting 
+pulmonary embolism. A PET scan may be used in combination with a 
+CT scan to evaluate for malignancy or other etiologies.
+Magnetic Resonance Imaging
+MRI of the pulmonary system may also be useful in elucidating the 
+relationship of the great vessels to the airways and may be superior 
+to CT for this purpose. MRI is less useful for imaging the lung paren­
+chyma. The need for long imaging times often means sedation for 
+young children, and this limits the utility of MRI of the chest for some 
+pediatric patients. Sedatives must be used very carefully, particularly 
+in patients with respiratory distress, and only in monitored situations 
+with the availability of experienced personnel and equipment to pro­
+vide possible resuscitation.
+Fluoroscopy
+Fluoroscopic examination of the chest may be useful in determining 
+the cause of respiratory distress. Real-­time visualization of the dia­
+phragm can determine whether paralysis or paresis of this major mus­
+cle of respiration is contributing to respiratory distress. Asymmetric 
+chest wall motion or unilateral hyperinflation during the respiratory 
+cycle suggests bronchial obstruction, such as that seen with a retained 
+foreign body in the airways. An upper gastrointestinal series is useful 
+to assess for abnormalities of swallowing causing aspiration, presence 
+of tracheoesophageal fistula, or presence of a vascular ring.
+TABLE 4.5  Classification of Common Lung Sounds
+Acoustic Characteristics
+American Thoracic 
+Society Nomenclature
+Common 
+Synonyms
+Normal
+200–600 Hz
+Decreasing power with increasing Hz
+Normal
+Vesicular
+75–1,600 Hz
+Flat until sharp decrease in power (900 Hz)
+Bronchial
+Bronchial
+Tracheal
+Adventitious
+Adventitious
+Abnormal
+Discontinuous, interrupted explosive sounds (loud, low in pitch), early inspiratory 
+or expiratory
+Coarse crackles
+Coarse crackles
+Discontinuous, interrupted explosive sounds (less loud than above and of shorter 
+duration; higher in pitch than coarse crackles or crackles), mid-­ to late inspiratory
+Fine crackles
+Fine crackles, crepitation
+Continuous sounds (>250 msec, high pitched; dominant frequency of 400 Hz or more, 
+a hissing sound)
+Wheezes
+Sibilant rhonchus, high-­
+pitched wheeze
+Continuous sounds (>250 msec, low pitched; dominant frequency <200 Hz, a snoring 
+sound)
+Rhonchi
+Sonorous rhonchus, low-­
+pitched wheeze
+From Davis JL, Murray JF. History and physical examination. In: Broaddus VC, Mason RJ, Ernst JD, et al., eds. Murray and Nadel’s Textbook of 
+Respiratory Medicine. 6th ed. Philadelphia: Saunders-­Elsevier; 2016:263–277.e2.
+Stridor
+•  Inspiratory
+ – Supraglottic/epiglottic
+ – Vocal cords/glottic
+•  Biphasic
+ – Glottic
+ – Subglottic
+•  Expiratory
+ – Tracheal
+ – Bronchial
+Fig. 4.1  Stridor. Inspiratory stridor is characteristic of partial airway 
+obstruction at or above the vocal cords (supraglottic/epiglottic and glot­
+tis areas). Biphasic stridor is characteristic at the glottis or subglottic 
+areas, and is typically caused by a fixed obstruction. Expiratory stridor is 
+characteristic of a high tracheal lesion as there is a decrease in airway 
+diameter with expiration. (From Ida JB, Thompson DM. Pediatric stridor. 
+Otolaryngol Clin North Am. 2014;47:795–819.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+59
+CHAPTER 4  Respiratory Distress
+Endoscopy
+Endoscopy can provide direct visualization of the cause of the airway 
+obstruction and lung lesions; its use involves manipulation of the air­
+way, which should not be undertaken unless the personnel and equip­
+ment are present to manage possible worsening airway compromise. 
+Flexible, direct laryngoscopy is widely used to visualize the upper 
+airway without the need for sedation. Rigid bronchoscopy provides 
+visualization of both the upper and lower airways; cardiopulmonary 
+monitoring and intravenous access for sedative administration are 
+required. In cases of significant upper airway obstruction necessitat­
+ing intervention, or if there is any likelihood of a foreign body, direct 
+laryngoscopy and rigid bronchoscopy in the operating room are the 
+safest procedures that can secure the airway, provide a diagnosis, and 
+accomplish treatment.
+CAUSES OF RESPIRATORY DISTRESS
+Wheezing
+Wheezing is best characterized as a continuous musical sound most 
+often heard on expiration, but it may occur in both phases of respi­
+ration. The most common causes of acute wheezing in children are 
+bronchiolitis and asthma. However, it is critical to rule out other 
+causes of wheezing that necessitate different therapy (Table 4.6). Ana­
+tomic abnormalities of the airway, such as vascular ring, tracheobron­
+chomalacia, primary ciliary dyskinesia, and foreign body aspiration, 
+may cause airway obstruction and wheezing, especially in infants and 
+young children. Viral infections, notably those of respiratory syncy­
+tial virus (RSV), human metapneumovirus, adenovirus, parainfluenza, 
+and influenza, are also common causes of wheezing (bronchiolitis) in 
+TABLE 4.6  Causes of Wheezing in Childhood
+ACUTE
+Reactive Airways Disease
+Asthma*
+Exercise-­induced asthma*
+Hypersensitivity reactions
+Anaphylaxis
+Bronchial Edema
+Infection* (bronchiolitis, ILD, pneumonia)
+Inhalation of irritant gases or particulates
+Increased pulmonary venous pressure
+Bronchial Hypersecretion
+Infection
+Inhalation of irritant gases or particulates
+Cholinergic drugs
+Aspiration
+Foreign body*
+Aspiration of gastric contents (reflux, H-­type TEF)
+E-­cigarette-­ or Vaping-­Associated Lung Injury
+CHRONIC OR RECURRENT
+Reactive Airways Disease (Same as in Acute)
+Hypersensitivity Reactions, Allergic Bronchopulmonary
+Aspergillosis
+Dynamic Airways Collapse
+Bronchomalacia
+Tracheomalacia*
+Vocal cord adduction*
+Airway Compression by Mass or Blood Vessel
+Vascular ring/sling
+Anomalous innominate artery
+Pulmonary artery dilation (absent pulmonary valve)
+Bronchial or pulmonary cysts
+Lymph nodes or tumors
+Aspiration
+Foreign body
+Gastroesophageal reflux*
+Tracheoesophageal fistula (repaired or unrepaired)
+Bronchial Hypersecretion or Failure to Clear Secretions
+Bronchitis, bronchiectasis
+Cystic fibrosis*
+Primary ciliary dyskinesia
+Immunodeficiency disorder
+Vasculitis
+Lymphangiectasia
+α1-­Antitrypsin deficiency
+Intrinsic Airway Lesions
+Endobronchial tumors
+Endobronchial granulation tissue
+Plastic bronchitis syndrome
+Bronchial or tracheal stenosis
+Bronchiolitis obliterans
+Sequelae of bronchopulmonary dysplasia
+Sarcoidosis
+Congestive Heart Failure/Pulmonary Edema
+*Common.
+ILD, interstitial lung disease; TEF, tracheoesophageal fistula. 
+Modified from Kercsmar CM. The respiratory system. In: Behrman RE, Kliegman RM, eds. Nelson Essentials of Pediatrics. 2nd ed. Philadelphia: 
+WB Saunders; 1994:445.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+60
+SECTION 2   Respiratory Disorders
+infants and young children. Infection with Mycoplasma species may 
+produce airway hyperactivity in older children. Other entities to con­
+sider are cystic fibrosis, interstitial lung disease, or vocal cord dysfunc­
+tion. In comparison with asthma, one key distinguishing feature of 
+these diagnoses is that the wheezing does not respond to treatment 
+with bronchodilators.
+Asthma
+Asthma is defined as airway obstruction that is reversible either spon­
+taneously or with the use of medication. Chronic airway inflammation 
+and bronchial hyperresponsiveness are the likely causes of the airway 
+obstruction. The airways of patients with even mild asthma demon­
+strate inflammation, manifested as mucosal edema, hypersecretion of 
+mucus, smooth muscle constriction, and inflammatory cell infiltrate. 
+Even when asthma symptoms are not present, airway inflammation 
+may be demonstrated. Furthermore, bronchial hyperresponsiveness, 
+the tendency of airway smooth muscle to constrict in response to a 
+variety of environmental stimuli, is present in virtually all children 
+with asthma and may be exacerbated by airway inflammation. Airway 
+remodeling, the deposition of collagen in the subepithelial basement 
+membrane area, occurs in some but not all asthmatic patients. Fixed 
+airway obstruction is a long-­term complication that may occur as a 
+result of airway remodeling.
+The diagnosis of asthma is made by a combination of history, phys­
+ical examination, and spirometry testing. For the child with acute 
+wheezing and respiratory distress, a therapeutic trial of an inhaled β-­
+agonist is the best “diagnostic test” for reversible airway obstruction. 
+Once the acute symptoms have improved, other diagnostic studies can 
+be undertaken. Spirometry, particularly measurement of the forced 
+expiratory volume in 1 second (FEV1) and mid-­maximal forced expi­
+ratory flow rates (FEF25–75%), provides a good indication of airflow 
+obstruction in the larger and smaller airways, respectively. If airway 
+obstruction is detected in the resting state, a bronchodilator (typically 
+albuterol) is administered, and spirometry is repeated. An improve­
+ment of ≥12% and ≥200 mL in FEV1 above baseline is considered sig­
+nificant and indicative of reversible airway obstruction (Fig. 4.2). If 
+the baseline spirometry is normal, an inhalation challenge test, with 
+either increasing doses of methacholine or hyperventilation of cold, 
+dry air, can provoke a statistically (but usually not clinically) signifi­
+cant decrease in FEV1; a fall in FEV1 of 10% or greater is considered 
+diagnostic of airway hyperresponsiveness and asthma. In children too 
+young to perform spirometry (typically under the age of 5 years), the 
+repeated nature of wheezing episodes and the improvement in symp­
+toms after treatment with antiinflammatory agents and bronchodila­
+tors, peripheral blood eosinophilia (>4%), a family history of atopy, 
+and/or a personal history of atopy (eczema, food allergy, or allergic rhi­
+nitis) are strongly suggestive of the diagnosis of asthma. Other studies 
+include measurement of total serum immunoglobulin E (IgE) levels. 
+This immunoglobulin is often elevated in individuals with asthma and/
+or allergy, as well as in those predisposed to asthma.
+Patients with acute asthma typically present with shortness of 
+breath, wheezing, cough, and increased work of breathing. Persistent 
+cough may be the most prominent or even sole feature of acute asthma 
+(see Chapter 3). Many asthma episodes are misdiagnosed as bronchitis 
+(which is rare in children). Chest wall retractions and the use of acces­
+sory muscles indicate significant airway obstruction. Acute asthma 
+exacerbations that are unresponsive to aggressive bronchodilator 
+administration are termed status asthmaticus. The severity of asthma 
+0
+–1
+0
+1
+2
+3
+Time
+4
+5
+6
+7
+8
+2
+4
+6
+8
+Volume
+0
+16
+12
+8
+4
+–4
+Flow (L/sec)
+PRED
+PRE
+POST
+4.71
+4.01
+85
+4.19
+89
+5
+4.06
+2.97
+73
+3.38
+83
+14
+86
+74
+81
+Ref
+Pre
+%Ref
+Post
+%Ref
+%Chg
+4.50
+2.32
+52
+3.18
+71
+37
+8.22
+6.59
+80
+7.02
+85
+7
+8.22
+6.59
+80
+7.02
+85
+7
+3.72
+4.17
+12
+Spirometry
+Litres
+Litres
+L/sec
+L/sec
+L/sec
+L/sec
+FVC
+FEV1
+FEV1/FVC
+FEF25–75%
+PEF
+PIF
+Fig. 4.2  Spirometry demonstrating a scooped flow volume loop seen in obstructive disease in asthma. Fol­
+lowing bronchodilator use (PRED, predicted), there is a positive bronchodilator response of >12% in forced 
+expiratory volume in 1 second (FEV1). FEF, forced expiratory flow rate; FVC, forced vital capacity; PEF, peak 
+expiratory flow rate; PIF, peak inspiratory flow rate. (From South M, Isaacs D. Practical Paediatrics. 7th ed. 
+Oxford: Churchill Livingstone; 2013.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+61
+CHAPTER 4  Respiratory Distress
+exacerbation may be assessed with the parameters presented in Table 
+4.7. Common triggers of acute asthma episodes include upper respi­
+ratory tract infections, exposure to cold air, exercise, allergens, pollut­
+ants, strong odors, and tobacco smoke.
+A brief history should be obtained for every child with acute 
+asthma to determine the duration of symptoms, the character of 
+previous episodes (severity, need for hospitalization, and need for 
+intensive care, including mechanical ventilation), antecedent illness, 
+symptoms, exposures, and both chronic and acute use of medica­
+tions, including dose and time of last administration. History should 
+also focus on identifying risk factors for severe asthma (Table 4.8) 
+and classification of asthma type, which are based on age (Figs. 4.3, 
+4.4, and 4.5). It is also important to assess the degree of asthma con­
+trol. The physical examination should focus on respiratory rate, air 
+exchange, degree and localization of wheezing, other adventitious 
+lung sounds, mental status, presence of cyanosis, and degree of 
+fatigue. A chest radiograph should be obtained for all patients with 
+a first episode of wheezing to evaluate for other causes of wheezing 
+if clinically indicated. Patients with recurrent asthma should have a 
+chest radiograph if there is evidence for a foreign body or pneumo­
+nia, or concern for a pneumothorax. Chest radiograph findings in 
+asthma are nonspecific, but they usually show symmetric hyperin­
+flation and increased peribronchial thickening. Spirometry has lim­
+ited efficacy in the emergency management of status asthmaticus. 
+TABLE 4.7  Severity of Asthma Exacerbations
+Mild
+Moderate
+Severe
+Respiratory Arrest 
+Imminent
+Symptoms
+Breathlessness
+While walking
+While at rest (infant―softer, 
+shorter cry; difficulty feeding)
+While at rest (infant―
+stops feeding)
+Can lie down
+Prefers sitting
+Sits upright
+Talks in
+Sentences
+Phrases
+Words
+Alertness
+May be agitated
+Usually agitated
+Usually agitated
+Drowsy or confused
+Signs
+Respiratory rate
+Increased
+Increased
+Often >30/min
+Guide to rates of breathing in awake children:
+Age
+<2 mo
+2–12 mo
+1–5 yr
+6–8 yr
+Normal rate
+<60/min
+<50/min
+<40/min
+<30/min
+Use of accessory muscles; 
+suprasternal retractions
+Usually not
+Commonly
+Usually
+Paradoxical thoracoabdominal 
+movement
+Wheeze
+Moderate, often only end 
+expiratory
+Loud; throughout exhalation
+Usually loud; throughout 
+inhalation and exhalation
+Absence of wheeze
+Pulse/minute
+<100
+100–120
+>120
+Bradycardia
+Guide to normal pulse rates in children:
+Age
+2–12 mo
+1–2 yr
+2–8 yr
+Normal rate
+<160/min
+<120/min
+<110/min
+Pulsus paradoxus
+Absent <10 mm Hg
+May be present
+10–25 mm Hg
+Often present
+>25 mm Hg (adult)
+20–40 mm Hg (child)
+Absence suggests respiratory 
+muscle fatigue
+Functional Assessment
+PEF percent predicted or 
+percent personal best
+≥70%
+∼40–69% or response lasts <2 hr <40%
+<25%
+Note: PEF testing may not be needed 
+in very severe attacks
+Pao2 (on air)
+Normal (test not 
+necessary)
+≥60 mm Hg (test not usually 
+necessary)
+<60 mm Hg: possible cyanosis
+and/or Pco2
+<42 mm Hg (test not 
+usually necessary)
+<42 mm Hg (test not usually 
+necessary)
+≥42 mm Hg: possible respira­
+tory failure
+Sao2 (on air) at sea level
+>95% (test not usually 
+necessary)
+90–95% (test not usually 
+necessary)
+<90%
+Hypercapnia (hypoventilation) develops more readily in young children than in adults and adolescents.
+Pao2, arterial oxygen pressure; Pco2, partial pressure of carbon dioxide; PEF, peak expiratory flow; Sao2, oxygen saturation.
+From NHLBI/National Asthma Education and Prevention Program, Expert Panel Report 3: Guidelines for the Diagnosis and Management of 
+Asthma. NIH Publication; 2007.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+62
+SECTION 2   Respiratory Disorders
+Although peak expiratory flow rates are often measured, this test is a 
+measure of large airway function only, is effort dependent, and may 
+be unreliable in an anxious, untrained patient. The major value of 
+peak flow measurements in acute asthma is to provide an objective 
+trend indicative of improvement (or lack thereof) in airway caliber if 
+frequent and scheduled treatments are needed.
+A CBC is not of use unless other complicating conditions (i.e., 
+bacterial infection, anemia, hemoglobinopathy) are suspected. Serum 
+electrolyte measurements are of little value unless dehydration is sus­
+pected. Hypokalemia can be associated with the frequent administra­
+tion of β-­agonists.
+Treatment of acute asthma should be instituted in any child with 
+wheezing, dyspnea, cough, and no other immediately discernible 
+cause of the symptoms. Patients with moderate to severe airway 
+obstruction can have significant hypoxemia as a result of ventilation-­
+perfusion mismatch. Consequently, supplemental humidified oxygen 
+should be administered to any child who has significant wheezing, 
+accessory muscle use, or an oxygen saturation of <93%. The mainstay 
+of treatment for an asthma exacerbation is the administration of an 
+inhaled β-­adrenergic agonist and systemic corticosteroids. Inhala­
+tion of β-­agonist by nebulizer or metered-­dose inhaler is the route 
+of choice because the onset of action is rapid, sustained, and rela­
+tively free of significant side effects even in the most severely affected 
+patients. Anticholinergic agents (ipratropium bromide), when com­
+bined with a β-­agonist as inhaled treatment, can provide additional 
+bronchodilation. The effect is most marked in children who pres­
+ent to the emergency department with significant airway obstruc­
+tion. With few exceptions, any patient who presents with wheezing 
+responsive to bronchodilator therapy or any patient requiring hos­
+pital admission should receive corticosteroids. In severe respiratory 
+distress, intravenous magnesium or theophylline (or the intravenous 
+formulation aminophylline) may be of benefit. A small percentage of 
+children with acute asthma progress to severe status asthmaticus and 
+respiratory failure. A number of clinical signs and symptoms define 
+respiratory failure in such severely affected patients: a Pao2 <60 mm 
+in room air or cyanosis in 40% Fio2, a Paco2 of 40 mm or higher or 
+rising and accompanied by respiratory distress, deterioration in clin­
+ical status in spite of aggressive treatment, a change in mental status, 
+and fatigue. Patients meeting any of these criteria should be admitted 
+to an intensive care unit.
+TABLE 4.8  Risk Factors for Death from 
+Asthma
+Asthma History
+Previous severe exacerbation (e.g., intubation or ICU admission for asthma)
+Two or more hospitalizations for asthma in the past year
+Three or more ED visits for asthma in the past year
+Hospitalization or ED visit for asthma in the past month
+Using more than two canisters of SABA per month
+Difficulty perceiving asthma symptoms or severity of exacerbations by 
+patient, family, and physician
+Other risk factors: lack of a written asthma action plan, sensitivity to Alter­
+naria
+Social History
+Low socioeconomic status or inner-­city residence
+Illicit drug use
+Major psychosocial problems
+Comorbidities
+Cardiovascular disease
+Other chronic lung disease
+Chronic psychiatric disease
+ED, emergency department; ICU, intensive care unit; SABA, short-­
+acting β2-­agonist.
+From National Heart, Lung and Blood Institute. Expert Panel Report 
+3 (EPR 3). Guidelines for the Diagnosis and Management of Asthma. 
+Available at: http://www.nhlbi.nih.gov/guidelines/asthma/asthgdln.htm
+Components of
+Severity
+Symptoms
+≤2 days/week
+≥2 days/week
+but not daily
+Daily
+Throughout
+the day
+0
+Nighttime
+awakenings
+Interference with
+normal activity
+Impairment
+Risk
+Step 1
+0–1/year
+Exacerbations
+requiring oral
+systemic
+corticosteroids
+Short-acting
+beta2-agonist use
+for symptom
+control (not
+prevention of EIB)
+Step 2
+≥2 exacerbations in 6 months requiring oral systemic
+corticosteroids, or ≥4 wheezing episodes/1 year lasting
+>1 day AND risk factors for persistent asthma
+Exacerbations of any severity may occur in patients in any severity category.
+Consider severity and interval since last exacerbation.
+Frequency and severity may fluctuate over time.
+Step 3 and consider short course of
+oral systemic corticosteroids
+In 2–6 weeks, depending on severity, evaluate level of asthma control that is
+achieved. If no clear benefit is observed in 4–6 weeks, consider adjusting
+therapy or alternative diagnoses.
+Recommended Step for
+Initiating Therapy
+1–2x/month
+3–4x/month
+Daily
+Several times
+per day
+>2 days/week
+but not daily
+>1x/week
+≤2 days/week
+None
+Minor limitation
+Some limitation
+Extremely limited
+Classification of Asthma Severity
+(0–4 years of age)
+Intermittent
+Moderate
+Persistent
+Severe
+Mild
+Key: EIB, exercise-induced bronchospasm
+Notes
+• The stepwise approach is meant to assist, 
+   
+   not replace, the clinical decision-making 
+   required to meet individual patient needs.
+• Level of severity is determined by both 
+    impairment and risk. Assess impairment 
+  domain by patient's/caregiver's recall of 
+  previous 2–4 weeks. Symptom assessment
+  for longer periods  should reflect a global 
+  assessment such as inquiring whether the
+  patient’s asthma is better or worse since the
+  last visit. Assign severity to the most severe 
+  category in which any feature  occurs.
+• At present, there are inadequate data to 
+    correspond frequencies of exacerbations 
+  with different levels of asthma severity. 
+  For treatment purposes, patients who had ≥2 
+  exacerbations requiring oral systemic 
+  corticosteroids in the past 6 months, or ≥4 
+  wheezing episodes in the past year, and who 
+  have risk factors for persistent asthma may be
+  considered the same as patients who have
+  persistent asthma, even in the absence of
+  impairment levels consistent with persistent 
+  asthma.
+Fig. 4.3  Classifying asthma severity ages 0–4. (From NHLBI/National Asthma Education and Prevention Pro­
+gram, Expert Panel Report 3: Guidelines for the Diagnosis and Management of Asthma. NIH Publication; 2007.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+63
+CHAPTER 4  Respiratory Distress
+Components of
+Severity
+Symptoms
+≤2 days/week
+≤2x/month
+>2 days/week
+but not daily
+Daily
+Throughout
+the day
+Nighttime
+awakenings
+Lung function
+Interference with
+normal activity
+Impairment
+Risk
+Step 1
+0–1/year (see note)
+≥2/year (see note)
+Exacerbations
+requiring oral
+systemic
+corticosteroids
+Short-acting
+beta2-agonist use for
+symptom control (not
+prevention of EIB)
+Step 2
+Relative annual risk of exacerbations may be related to FEV1.
+Consider severity and interval since last exacerbation.
+Frequency and severity may fluctuate over time for patients in any severity category.
+Step 3, medium-
+dose ICS option
+Step 3, medium-dose
+ICS option, or step 4
+and consider short course of
+oral systemic corticosteroids
+In 2–6 weeks, evaluate level of asthma control that is achieved, and adjust therapy
+accordingly.
+Recommended Step for
+Initiating Therapy
+3–4x/month
+>1x/week
+but nightly
+Daily
+Several times
+per day
+>2 days/week
+but not daily
+Often 7x/week
+≤2 days/week
+None
+Minor limitation
+• Normal FEV1
+  between
+  exacerbations
+• FEV1 >80%
+  predicted
+• FEV1/FVC >85%
+• FEV1 <60%
+  predicted
+• FEV1/FVC <75%
+• FEV1 = >80%
+  predicted
+• FEV1/FVC >80%
+• FEV1 = 60–80%
+  predicted
+• FEV1/FVC = 75–80%
+Some limitation
+Extremely limited
+Classification of Asthma Severity
+(5–11 years of age)
+Intermittent
+Moderate
+Persistent
+Severe
+Mild
+Key: EIB, exercise-induced bronchospasm; 
+FEV1, forced expiratory volume in 1 second; 
+FVC, forced vital capacity; ICS, inhaled 
+corticosteroids; ICU, intensive care unit
+Notes
+• The stepwise approach is meant to assist, 
+   not replace, the clinical decision-making 
+  required to meet individual patient needs.
+• Level of severity is determined by both 
+ impairment and risk. Assess impairment 
+ domain by patient's/caregiver's recall of the 
+ previous 2–4 weeks and spirometry. Assign
+ severity to the most severe category in which
+ any feature occurs.
+• At present, there are inadequate data to 
+  correspond frequencies of exacerbations with
+ different levels of  asthma severity. In general, 
+ more frequent and intense exacerbations (e.g., 
+ requiring urgent, unscheduled care,
+ hospitalization, or ICU admission) indicate 
+ greater underlying disease severity. For 
+ treatment purposes, patients who had ≥2 
+ exacerbations requiring oral systemic 
+ corticosteroids in the past year may be 
+ considered the same as patients who
+ have persistent asthma, even in the 
+ absence of impairment levels consistent 
+ with persistent asthma.
+Fig. 4.4  Classifying asthma severity ages 5–11. (From NHLBI/National Asthma Education and Prevention 
+Program, Expert Panel Report 3: Guidelines for the Diagnosis and Management of Asthma. NIH Publication; 
+2007.)
+Identification and treatment of chronic asthma require careful 
+assessment of the severity of the disease, according to frequency and 
+intensity of symptoms, and subsequent grading into mild, moderate, 
+and severe categories (see Figs. 4.3, 4.4, and 4.5). All patients except 
+those with mild intermittent disease are best managed with chronic 
+administration of an inhaled antiinflammatory agent (corticosteroids) 
+and the intermittent use of an inhaled β-­agonist for treatment of acute 
+wheezing episodes. Leukotriene receptor antagonists may be consid­
+ered as an alternative preventive therapy for mild asthma. Oral corti­
+costeroids are administered for short intervals to control more severe 
+exacerbations. Avoidance of environmental triggers (allergens, tobacco 
+smoke) is also paramount to successful management.
+Bronchiolitis
+Bronchiolitis is a common, acute viral infection of the distal lower 
+respiratory tract, and is characterized as lower airway obstruction 
+secondary to airway edema, mucus, and cellular debris. Impaired gas 
+exchange can occur as a result of airway obstruction and ventilation-­
+perfusion inequalities. RSV is the most important respiratory pathogen 
+in infants and young children. In addition, it has been identified as 
+the etiologic agent in 5–40% of pneumonias in young children. Other 
+viruses, such as adenovirus, influenza, human metapneumovirus, 
+parainfluenza, and coronavirus, can also cause bronchiolitis. The most 
+severe disease occurs in infants younger than 6 months. By 5 years of 
+age, 95% of all children have serologic evidence of RSV infection. Rein­
+fections are common in older children and adults, because immunity 
+to RSV is short lived and incomplete. In older children and adoles­
+cents, infections with RSV are often limited to the upper respiratory 
+tract. In temperate climates, RSV epidemics occur yearly, beginning in 
+midwinter and persisting through early spring.
+In infected infants, upper respiratory tract symptoms usually pre­
+cede the lower respiratory tract involvement by 3–7 days. Low-­grade 
+fever, rhinitis, and pharyngitis are common signs in the initial phase of 
+the disease. This then progresses to cough, increased work of breath­
+ing, and wheezing (see Chapter 3). Apnea may also occur, particularly 
+in infants younger than 3 months of age. Chest wall retractions and 
+dyspnea are frequently observed, and adventitious sounds (wheezing, 
+crackles) are appreciated on auscultation of the chest. Most children 
+with bronchiolitis demonstrate clinical improvement after 5–7 days, 
+but the duration of illness can be as long as 21 days. Bacterial super­
+infection of the lower respiratory tract is rare. Approximately 30% of 
+infants with bronchiolitis caused by RSV have recurrent episodes of 
+wheezing caused by bronchial hyperactivity and are diagnosed with 
+asthma. This is in part due to persistent inflammation of the distal 
+respiratory tract produced by the viral infection.
+The clinical determination of the severity of the lower respiratory 
+tract involvement in infants infected with bronchiolitis can be diffi­
+cult. Physical findings often associated with respiratory distress, such 
+as tachypnea, intercostal retractions, and wheezing, are not necessarily 
+correlated with the level of hypoxemia. Carbon dioxide retention sec­
+ondary to alveolar hypoventilation is not a common finding in other­
+wise previously normal children, but hypercapnia and acute respiratory 
+acidosis can be serious problems in infants with chronic pulmonary 
+disease or congenital heart disease. Chest radiograph findings include a 
+diffuse interstitial pneumonitis and bilateral lung overinflation; alveolar 
+infiltrates or consolidation are present in approximately 20% of children. 
+Infants with congenital heart disease, pulmonary hypertension, prema­
+turity, and young age (younger than 12 weeks) have an increased rate of 
+severe disease and mortality; the course of illness is usually prolonged, 
+and intensive care and mechanical ventilation are frequently needed.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+64
+SECTION 2   Respiratory Disorders
+Components of
+Severity
+Symptoms
+≤2 days/week
+≥2 days/week
+but not daily
+Daily
+Throughout
+the day
+Nighttime
+awakenings
+Interference with
+normal activity
+Impairment
+Normal FEV1/FVC:
+8–19 yr
+20–39 yr
+40–59 yr
+60–80 yr
+85%
+80%
+75%
+70%
+Risk
+Step 1
+Exacerbations
+requiring oral
+systemic
+corticosteroids
+Short-acting
+beta2-agonist use for
+symptom control (not
+prevention of EIB)
+Step 2
+Step 3
+Step 4 or 5
+Recommended Step for
+Initiating Treatment
+3–4x/month
+Daily
+Several times
+per day
+>2 days/week
+but not daily, and
+not more than
+1x on any day
+≤2x/month
+≤2 days/week
+None
+Minor limitation
+Some limitation
+Extremely limited
+Classification of Asthma Severity
+≥12 years of age
+Intermittent
+Moderate
+Persistent
+Severe
+Mild
+Lung function
+• Normal FEV1
+  between
+  exacerbations
+• FEV1 >80%
+  predicted
+• FEV1/FVC normal
+• FEV1 <60%
+  predicted
+• FEV1/FVC
+  reduced >5%
+• FEV1  >80%
+  predicted
+• FEV1/FVC normal
+• FEV1 >60% but
+  <80% predicted
+• FEV1/FVC reduced
+  5%
+0–1/year (see note)
+≥2/year (see note)
+Relative annual risk of exacerbations may be related to FEV1.
+Consider severity and interval since last exacerbation.
+Frequency and severity may fluctuate over time for patients in any severity category.
+>1x/week
+but not nightly
+Often 7x/week
+Key: FEV1, forced expiratory volume in 1 
+second; FVC, forced vital capacity; ICU, 
+intensive care unit
+Notes:
+• The stepwise approach is meant to assist, 
+   not replace, the clinical decision-making 
+   required to meet individual patient needs.
+• Level of severity is determined by 
+   assessment of both impairment and risk.
+  Assess impairment domain by patient's/
+  caregiver's recall of previous 2–4 weeks 
+  and spirometry. Assign severity to the 
+  most severe category in which any feature 
+  occurs.
+• At present, there are inadequate data to 
+ correspond frequencies of exacerbations 
+ with different levels of  asthma severity. 
+ In general, more frequent and intense 
+ exacerbations (e.g., requiring urgent, 
+ unscheduled care, hospitalization, or ICU 
+ admission) indicate greater underlying 
+ disease severity. For treatment purposes, 
+ patients who had ≥2 exacerbations requiring 
+ oral systemic corticosteroids in the past year 
+ may be considered the same as patients who 
+ have persistent asthma, even in the absence 
+ of impairment levels consistent with persistent 
+ asthma.
+and consider short course of
+oral systemic corticosteroids
+In 2–6 weeks, evaluate level of asthma control that is achieved, and adjust therapy
+accordingly.
+Fig. 4.5  Classifying asthma severity ages 12 and older. (From NHLBI/National Asthma Education and Pre­
+vention Program, Expert Panel Report 3: Guidelines for the Diagnosis and Management of Asthma. NIH 
+Publication; 2007.)
+The diagnosis of bronchiolitis is usually made on clinical grounds. 
+Bronchiolitis is most common in children under 2 years of age and 
+should be suspected in the wheezing child who has current or anteced­
+ent upper respiratory tract infection symptoms in the late fall or win­
+ter months. The definitive diagnosis of RSV or other viral infection is 
+based on the presence of the viral genome in respiratory secretions. 
+This testing is often not needed if the clinical findings are consistent 
+with bronchiolitis. Polymerase chain reaction (PCR) testing is specific 
+and accurate, and has a short turnaround time in identifying the virus 
+from nasopharyngeal swabs.
+Suctioning and supplemental oxygen remain the cornerstone of 
+treatment for bronchiolitis if needed. Unlike asthma, the wheezing 
+accompanying bronchiolitis is often less responsive to bronchodila­
+tors. Nonetheless, patients with significant hypoxia and hypercapnia 
+may receive a trial treatment with aerosol bronchodilators to determine 
+if this may improve symptoms, which may be continued if infants do 
+show improvement. Infants with bronchiolitis do not respond to treat­
+ment with antiinflammatory agents, such as corticosteroids, so these 
+are not recommended. Severely ill patients may require mechani­
+cal ventilation; heated, humidified, high-­flow nasal cannula oxygen 
+decreases intubation rates and is used in children with severe respi­
+ratory distress. Other modalities, such as hypertonic or normal saline 
+aerosols, positive expiratory pressure (PEP) therapy, and chest phys­
+iotherapy have shown mixed results but may be of benefit for patients 
+who are hospitalized.
+Monthly administration (intramuscularly) of a humanized mono­
+clonal antibody (palivizumab) against RSV can reduce morbidity from 
+bronchiolitis but does not completely prevent infection. Infants at high 
+risk (infants who are premature, those with bronchopulmonary dys­
+plasia or other forms of chronic obstructive pulmonary disease, those 
+with complex congenital heart disease) who are younger than 2 years 
+are most likely to benefit.
+Mycoplasma pneumoniae Infections
+One of the basic tenets regarding respiratory infections in children is 
+that “bacteria do not make you wheeze.” Mycoplasma pneumoniae is 
+an exception to that rule and should be considered in an older child 
+who presents with new-­onset wheezing. In addition, infections with 
+M. pneumoniae can precipitate exacerbations in patients with asthma. 
+Productive or dry coughs secondary to tracheobronchitis are the 
+most common symptoms of M. pneumoniae infections. Pulmonary 
+symptoms span from mild viral symptoms to more severe presen­
+tations of pneumonia. Other clinical manifestations of M. pneumo­
+niae infections include fever/chills, rhinorrhea, and otitis media (see 
+Chapter 5). Extrapulmonary manifestations not only are due to the 
+infection itself but also can be due to immune or vascular complica­
+tions. Examples of M. pneumoniae extrapulmonary findings include 
+hemolytic anemia, rash, mucositis, cardiac disease, polyarthritis, 
+transverse myelitis, rhabdomyolysis, and central nervous system dis­
+ease. The incidence of M. pneumoniae infection peaks between the 
+ages of 5 and 19 years; the organism usually does not produce disease 
+in children younger than age 2. Infections with M. pneumoniae tend 
+to be seasonal, occurring most frequently during autumn and early 
+winter.
+The findings of M. pneumoniae on chest radiographs are vari­
+able. In about 5% of patients, the chest radiograph appears normal. 
+A diffuse, bilateral, reticular infiltrate is the classic appearance in 
+about half of patients. However, lobar, alveolar, and interstitial infil­
+trates have also been described (Fig. 4.6). Enlargement of hilar or 
+peritracheal lymph nodes may also be evident. Pleural effusions 
+(usually small) are found in 14% of patients with M. pneumoniae. 
+Atypical pneumonia (diffuse infiltrates with nonlobar pattern; fever, 
+malaise, myalgias) is often caused by M. pneumoniae but may also 
+be caused by Chlamydia pneumoniae, Legionella species, and other 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+65
+CHAPTER 4  Respiratory Distress
+related pathogens. PCR may help to confirm a diagnosis. Many M. 
+pneumoniae infections are self-­limiting within 7–10 days. When 
+antibiotics are used, treatment is with azithromycin. Doxycycline or 
+fluoroquinolones may also be used in older children, although there 
+is increasing emergence of M. pneumoniae resistance to macrolides 
+in some areas of the world.
+Vocal Cord Dysfunction
+A functional disorder that mimics asthma, vocal cord dysfunction is 
+typically manifested as wheezing, dyspnea, and shortness of breath 
+refractory to treatment with inhaled bronchodilators. Vocal cord 
+dysfunction should be considered in patients with wheezing who 
+present with atypical findings or those who are difficult to treat. 
+The wheezing is produced by adduction of the vocal cords during 
+inspiration and expiration. The resultant high-­pitched inspiratory 
+and expiratory noises are transmitted to the chest, although the 
+sounds are best appreciated over the larynx. Despite the patient’s 
+apparent dyspnea, gas exchange is usually unaffected. Spirometry 
+shows variable flattening of the inspiratory flow loop. The diagnosis 
+is established by direct laryngoscopy, which demonstrates paradox­
+ical motion of the vocal cords. Speech therapy is the treatment of 
+choice.
+Foreign Body Aspiration
+Aspiration of a foreign body into the intrathoracic airways must be 
+considered in the differential diagnosis of a child with the sudden onset 
+of respiratory distress or wheezing. If both main stem bronchi and the 
+trachea are obstructed (typically by larger foreign bodies), the patient 
+may have asphyxia and sudden death; aspiration of foreign bodies in 
+the distal airways often takes a more indolent course. Aspiration of 
+foreign bodies is most common in children between 1 and 4 years of 
+age, particularly in males or in children with neurologic disorders or 
+delayed development. It is rare in children younger than 6 months. The 
+most common objects aspirated by children are small toy parts, coins, 
+marbles, balloons, and food products (e.g., hot dogs, popcorn, seeds, 
+nuts, grapes, carrots, and beans). Endobronchial aspiration of peanuts, 
+raisins, popcorn kernels, or seeds tends to produce more difficulties 
+than other kinds of foreign bodies (metallic or plastic objects) because, 
+in addition to causing physical obstruction of the airway, vegetable 
+matter produces an intense, local inflammatory response secondary to 
+chemical and allergic bronchitis. Larger objects, such as coins, usually 
+lodge in the esophagus. Esophageal foreign bodies can produce signif­
+icant respiratory symptoms as a result of extrinsic compression of the 
+posterior trachea. This compression can produce respiratory distress, 
+stridor, and wheezing, especially in infants and young children. Dys­
+phagia and vomiting can be late symptoms associated with an esopha­
+geal foreign body.
+The typical clinical manifestation after the acute event is abrupt 
+respiratory distress, characterized by choking, gagging, cyanosis, and 
+a harsh, paroxysmal cough (see Chapter 3). However, because many 
+aspiration events occur while children are unsupervised, the history of 
+foreign body ingestion or aspiration is frequently not elicited. Chronic 
+cough, dyspnea, hemoptysis, and wheezing may develop. Because the 
+object is most frequently aspirated into the main stem or segmental 
+bronchi (distal airway), the wheezing is typically unilateral. Physi­
+cal examination may also reveal a decrease in breath sounds on the 
+obstructed side, prolongation of the expiratory phase, and a tracheal 
+shift. In some instances, retained foreign bodies in the airways can pro­
+duce a persistent pneumonitis, and the chronic inflammatory response 
+can result in bronchiectasis or lung abscess. Retained foreign body 
+should be considered in a child with presumed asthma or pneumonia 
+who is not improving with appropriate treatment.
+The diagnosis of foreign body aspiration can be difficult to establish 
+and necessitates a combination of clinical examination, radiographic 
+studies, and ultimately endoscopic visualization. Radiopaque foreign 
+bodies are generally easily visualized by radiographic studies. Radiolu­
+cent foreign bodies may become apparent on inspiratory or expiratory 
+chest radiographs, lateral decubitus films, fluoroscopy, or barium swal­
+low studies when an esophageal foreign body could be compressing the 
+posterior tracheal wall (Fig. 4.7). Because an occasional foreign body 
+may not lodge in a bronchus, typical radiologic findings may not be 
+seen. If a foreign body is likely to be present, rigid bronchoscopy for 
+examination of the lower airway and foreign body removal is indicated. 
+Flexible bronchoscopy provides an excellent visualization of the airway 
+and should be reserved for when other diagnoses appear to be much 
+more likely.
+Stridor
+Stridor, a harsh medium-­pitched sound typically heard on inspira­
+tion, is caused by turbulent airflow in the upper airway. The phase of 
+A
+B
+Fig. 4.6  Mycoplasma atypical pneumonia in an 8-­year-­old girl who pre­
+sented with fatigue, low-­grade fever, and cough. A, The chest radio­
+graph shows irregularity of the right hilum and bibasilar infiltration. B, 
+Contrast-­enhanced CT demonstrates bilateral bronchopneumonia in the 
+lower lobes. A direct fluorescent antibody test from nasopharyngeal 
+aspirate confirmed the diagnosis. (From Coley BD, ed. Caffey’s Pedi­
+atric Diagnostic Imaging. 13th ed. Philadelphia: Elsevier; 2019:519, Fig. 
+54.16.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+66
+SECTION 2   Respiratory Disorders
+respiration in which stridor occurs is helpful in identifying the site of 
+the airway obstruction (see Fig. 4.1). The relative anatomy of the upper 
+airway in an adult versus in an infant is shown in Figure 4.8. The most 
+common cause of stridor of infants and young children is laryngomala­
+cia. Congenital anomalies should be suspected in children with recur­
+rent or persistent stridor. Acute inspiratory stridor is most commonly 
+caused by acute inflammation/infection, typically croup; however, an 
+acute foreign body aspiration in the upper airway may also cause acute-­
+onset stridor. Epiglottitis is the most serious life-­threatening infection 
+in this area and must be identified quickly. A history of prior intubation 
+in a patient with stridor and respiratory distress should raise concern 
+for vocal cord paralysis or subglottic stenosis. An age-­related differen­
+tial diagnosis is noted in Table 4.9. Differentiating features of common 
+disorders are noted in Table 4.10.
+Croup
+Laryngotracheal bronchitis (croup) is generally a slowly progressive, 
+mild, self-­limited viral inflammation of the subglottic larynx occurring 
+in infants and young children. The most common causes are parainflu­
+enza virus types 1 and 3, influenza A, respiratory syncytial virus, and 
+adenovirus. The circumferential cricoid cartilage, which consists of the 
+subglottic airway just below the vocal cords, is the narrowest part of the 
+upper airway in a child (see Fig. 4.8). The inflammation associated with 
+a viral infection in this location causes airway obstruction as edema 
+develops within the confines of the cricoid cartilage. Most patients will 
+develop mild rhinorrhea, cough, and low-­grade fever prior to charac­
+teristic barky cough and inspiratory stridor (see Chapter 3). The cry or 
+voice may become hoarse. Stridor typically worsens when the patient is 
+upset or active and improves with warm humidified air. Unless the air­
+way obstruction is severe, the child generally has no trouble handling 
+saliva. If a patient develops drooling or rapid progression of respiratory 
+distress, epiglottitis or bacterial tracheitis should be considered. The 
+diagnosis is usually apparent from the history and physical examina­
+tion. If the diagnosis is not clear, obtaining a lateral neck radiograph is 
+indicated and will show the classic “steeple” sign (Fig. 4.9).
+Management varies from outpatient observation with parent edu­
+cation to endotracheal intubation. For mild cases, the patient must 
+be well hydrated; the use of extra humidity is soothing to the airways 
+and helps to keep secretions from being tenacious, so that they are 
+less likely to become obstructive. In more severe cases (stridor at rest, 
+retractions), nebulized epinephrine used as a mucosal vasoconstric­
+tor may provide relief. Usually, patients being treated in this manner 
+are observed in the hospital for a possible “rebound” effect that may 
+occur 2–6 hours after treatment. Parenteral or oral dexamethasone is 
+a safe and effective additional therapy for moderate to severe croup; 
+3
+3
+4
+4
+4
+4
+5
+5
+1
+1
+2
+2
+Fig. 4.8  Anatomy of upper airway. Relative comparative anatomy of the 
+larynx in an infant (left) and an adult (right). Specific landmarks: 1, epi­
+glottis; 2, arytenoid cartilages; 3, thyroid cartilage; 4, cricoid cartilage; 5, 
+laryngeal ventricle, the air space below the false vocal cords and above 
+the true vocal cords. Its radiolucency is an excellent landmark on lateral 
+radiograph. The infant larynx is situated relatively high in the cervical 
+region. In addition, the base of the infant’s tongue is close to the larynx, 
+and the epiglottis is located near the palate. These anatomic differences 
+partially explain the predominantly obligate nose breathing of the young 
+infant, as well as the relative ease with which upper airway obstructions 
+develop in infants.
+A
+B
+C
+*
+*
+*
+Fig. 4.7  Nonradiopaque foreign body aspiration in a 5-­year-­old girl who presented with persistent coughing 
+and respiratory distress while eating popcorn. A, Frontal chest radiograph obtained at end-­inspiration shows 
+mild hyperinflation (asterisk) of the right lower lobe. B, Frontal chest radiograph obtained at end-­inspiration 
+in the left lateral decubitus position demonstrates normal volume loss in the left lung and mild hyperinflation 
+(asterisk) of the right lower lobe. C, Frontal chest radiograph obtained at end-­inspiration in the right lateral 
+decubitus position shows persistent hyperinflation (asterisk) of the right lower lobe. (From Coley BD, ed. 
+Caffey’s Pediatric Diagnostic Imaging. 13th ed. Philadelphia: Elsevier; 2019:490, Fig. 52.7.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+67
+CHAPTER 4  Respiratory Distress
+steroid use has decreased the requirement for endotracheal intuba­
+tion. Patients with severe croup are usually admitted to the hospital 
+for observation. If intubation is needed, an endotracheal tube one-­half 
+to one size smaller than that used for a child with a normal airway of 
+the same age and size is chosen. In atypical cases of recurrent croup 
+or in patients in whom extubation is difficult, an endoscopic evalua­
+tion of the airway with laryngoscopy and bronchoscopy is necessary to 
+exclude an underlying anatomic abnormality.
+Bacterial Tracheitis
+Bacterial tracheitis is a bacterial superinfection of a previous tracheal 
+(croup, influenza virus) viral process and is usually caused by Staphylo­
+coccus aureus. A variety of other organisms, including Moraxella catarrh­
+alis, Streptococcus pneumoniae, and non-­typable Haemophilus influenzae, 
+have also been identified as being occasionally involved. There is gen­
+erally a virus-­like mild phase, followed by a rapid deterioration, during 
+which the patient clinically appears more ill with high fever and respira­
+tory distress. Some patients have a two-­phased illness with croup, initial 
+recovery, followed by tracheitis. Neck and chest radiographs often show 
+irregular scalloping of the trachea. Radiopaque densities from inspis­
+sated mucus may be seen. Close monitoring and intravenous antibiotic 
+treatment directed toward the likely causative organisms are required. 
+Endotracheal intubation for control of the airway is usually necessary, 
+particularly in younger patients. Extubation is performed on the basis of 
+clinical improvement and a resolution of excessive amounts of purulent 
+secretions. Sometimes the exudate secondary to the tracheitis is thick 
+and can cause airway obstruction similar to that from a foreign body. 
+Antistaphylococcal antibiotic therapy is indicated.
+Epiglottitis
+Epiglottitis is an acute, rapidly progressive, potentially lethal infection 
+of the epiglottis, aryepiglottic folds, and false vocal cord area. It is an 
+emergency because of the potential for rapid airway obstruction; eval­
+uation and treatment are directed toward establishing an airway while 
+the physician is confirming the diagnosis and treating the infection. 
+In the past, epiglottitis was caused by H. influenzae type b in nearly 
+100% of cases. Since the introduction of the polysaccharide conju­
+gated H. influenzae type b vaccine, there has been a dramatic fall in 
+the incidence of acute epiglottitis in the United States. However, in an 
+internationally mobile world, patients who have not been vaccinated 
+may acquire epiglottitis in any country. In addition, other, less com­
+mon pathogens, such as S. pneumoniae, S. aureus, and β-­hemolytic 
+streptococci, may produce epiglottitis. Unusual presentations will also 
+become more common, with children presenting at a younger age and 
+immunosuppressive diseases being caused by atypical organisms.
+Typically, there is an abrupt onset, usually without an obvious pro­
+drome, with rapid progression toward airway compromise. Initially, 
+complaints of sore throat and odynophagia are common. Patients are 
+usually febrile, and drooling is present. The typical presentation is an 
+ill-­appearing child sitting forward with their head hyperextended who 
+does not want to lie down (Fig. 4.10). There is a “hot potato” voice and 
+drooling, the mouth is open, and the tongue is protruding. Mild inspi­
+ratory stridor and retractions may be present, but these are usually not 
+obvious, because the patient generally takes short, shallow breaths. An 
+intraoral examination is contraindicated because it may predispose to 
+laryngospasm and airway obstruction.
+TABLE 4.9  Age-­Related Differential Diagnosis of Airway Obstruction
+Newborn
+Foreign material (meconium, amniotic fluid)
+Congenital subglottic stenosis (uncommon)
+Choanal atresia
+Congenital cysts
+Micrognathia (Pierre Robin syndrome, Treacher Collins syndrome, DiGeorge 
+syndrome)
+Macroglossia (Beckwith-­Wiedemann syndrome, hypothyroidism, Pompe 
+disease, trisomy 21, hemangioma)
+Laryngeal web, clefts, atresia
+Laryngospasm (intubation, aspiration, hypocalcemia, transient)
+Lingual thyroid
+Vocal cord paralysis (weak cry; unilateral or bilateral, with or without 
+increased intracranial pressure from Arnold-­Chiari malformation or other 
+CNS pathology; birth trauma)
+Tracheal web, stenosis, malacia, atresia
+Pharyngeal collapse (cause of apnea in preterm infant)
+Tumors*
+Infant
+Laryngomalacia (most common cause)
+Subglottic stenosis (congenital; acquired after intubation)
+Tumors*
+Tongue tumor (dermoid, teratoma, ectopic thyroid)
+Laryngeal papillomatosis
+Vascular rings
+Toddler
+Viral croup (most common etiology in children 3 mo–4 yr of age)
+Bacterial tracheitis (toxic, high fever)
+Foreign body (sudden cough; airway or esophageal) (see Chapter 3)
+Spasmodic (recurrent) croup (see Chapter 3)
+Laryngeal papillomatosis
+Retropharyngeal abscess
+Diphtheria (uncommon)
+Infant Older Than 2–3 Yr
+Epiglottitis (epiglottis, aryepiglottic folds)
+Inhalation injury (burns, toxic gas, hydrocarbons)
+Foreign bodies
+Angioedema (family history, cutaneous angioedema)
+Anaphylaxis (allergic history, wheezing, hypotension)
+Peritonsillar abscess (adolescents)
+Ludwig angina
+Diphtheria
+Parapharyngeal abscess
+Tumors*
+Trauma (blunt or penetrating airway injury; tracheal/larynx fracture; chemical 
+burns, e.g., caustic ingestions)
+*Tumors include lymphangiomas, hemangiomas, papillomas, neuroblastoma, lymphoma, rhabdomyosarcoma, and chondrosarcomas.
+CNS, central nervous system.
+Modified from Kercsmar C. The respiratory system. In: Behrman RE, Kliegman RM, eds. Nelson Essentials of Pediatrics. 2nd ed. Philadelphia: WB 
+Saunders; 1994:444.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+68
+SECTION 2   Respiratory Disorders
+TABLE 4.10  Differential Diagnosis of Upper Airway Obstruction
+Laryngotracheobronchitis 
+(Croup)
+Laryngitis
+Spasmodic 
+Croup
+Epiglottitis
+Membranous 
+Croup 
+(Bacterial 
+Tracheitis)
+Retropharyngeal 
+Abscess
+Foreign 
+Body
+Angioedema
+Peritonsillar 
+Abscess
+Laryngeal 
+Papillomatosis
+Age
+3 mo–3 yr
+5 yr–teens
+3 mo–3 yr
+2–6 yr
+Any age (3–10 yr)
+<6 yr
+6 mo–5 yr
+All ages
+>10 yr
+3 mo–3 yr
+Location
+Subglottic
+Subglottic
+Subglottic
+Supraglottic
+Trachea
+Posterior pharynx
+Supraglottic, 
+subglottic, 
+variable
+Variable
+Oropharynx
+Larynx, vocal 
+cords, trachea
+Etiology
+Parainfluenza, influenza virus, 
+RSV; rarely Mycoplasma, 
+measles, adenovirus
+As per croup
+Unknown
+Haemophilus 
+influenzae 
+type b
+Prior croup or influ­
+enza virus with 
+secondary bac­
+terial infection 
+by Staphylo­
+coccus aureus, 
+Moraxella 
+catarrhalis, H. 
+influenzae
+S. aureus, anaerobes
+Small objects, 
+vegetable, 
+toys, coins
+Congenital C-­1 
+esterase defi­
+ciency; acquired 
+anaphylaxis
+Group A 
+streptococci, 
+anaerobes
+HPV
+Prodrome 
+onset
+Insidious, URI
+As per croup
+Sudden 
+onset at 
+night; prior 
+episodes
+Rapid, short 
+prodrome
+Biphasic illness 
+with sudden 
+deterioration
+Insidious to sudden
+Sudden
+Sudden
+Biphasic with 
+sudden 
+worsening
+Chronic
+Stridor
+Yes—biphasic
+No
+Yes
+Yes—soft 
+inspiratory
+Yes
+No
+Yes
+Yes
+No
+Possible
+Retractions
+Yes
+No
+Rare
+Yes
+Yes
+Yes
+Yes (variable)
+Yes
+No
+No
+Voice
+Hoarse
+Hoarse; 
+whispered
+Hoarse
+Muffled
+Normal or hoarse
+Muffled
+Complete 
+obstruc­
+tion—
+aphonic; 
+other 
+variable
+Hoarse, may be 
+normal
+“Hot potato,” 
+muffled
+Hoarse
+Position and 
+appear­
+ance
+Normal
+Normal
+Normal
+Tripod sitting, 
+leaning 
+forward; 
+agitation
+Normal
+Arching of neck or 
+normal
+Normal
+Normal; may have 
+facial edema
+Normal
+Normal
+Swallowing 
+(dyspha­
+gia)
+Normal
+Normal
+Normal
+Drooling
+Normal
+Drooling
+Variable; usu­
+ally normal
+Normal
+Drooling, 
+trismus
+Normal
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+69
+CHAPTER 4  Respiratory Distress
+Laryngotracheobronchitis 
+(Croup)
+Laryngitis
+Spasmodic 
+Croup
+Epiglottitis
+Membranous 
+Croup 
+(Bacterial 
+Tracheitis)
+Retropharyngeal 
+Abscess
+Foreign 
+Body
+Angioedema
+Peritonsillar 
+Abscess
+Laryngeal 
+Papillomatosis
+Barking 
+cough
+Yes
+Rare
+Yes
+No
+Yes
+No
+Variable; 
+brassy if 
+tracheal
+Possible
+No
+Variable
+Toxicity
+Rare
+No
+No
+Severe
+Severe
+Severe
+No, but 
+dyspnea
+No, unless 
+anaphylactic 
+shock or severe 
+anoxia
+Dyspnea
+None
+Fever
+<101°F
+<101°F
+None
+>102°F
+>102°F
+>101°F
+None
+None
+>101°F
+None
+Radio­
+graphic 
+findings
+Subglottic narrowing; steeple 
+sign
+Normal
+Subglottic 
+narrowing
+Thumb sign of 
+thickened 
+epiglottis
+Ragged irregular 
+tracheal border; 
+as per croup
+Thickened retropha­
+ryngeal space
+Radiopaque 
+object may 
+be seen
+As per croup
+None needed
+May be normal
+WBC count
+Normal
+Normal
+Normal
+Leukocytosis 
+with left shift
+Leukocytosis with 
+left shift
+Leukocytosis with 
+left shift
+Normal
+Normal
+Leukocytosis 
+with left shift
+Normal
+Therapy
+Racemic epinephrine: aerosol, 
+systemic steroids, aerosolized 
+steroids, cool mist
+None
+Cool mist; 
+occasion­
+ally as for 
+croup
+Endotracheal 
+intubation, 
+ceftriaxone
+Vancomycin; 
+ceftriaxone; 
+intubation if 
+needed
+Clindamycin; 
+ampicillin-­
+sulbactam (or 
+vancomycin); 
+ceftriaxone; 
+surgical drainage if 
+abscess
+Endoscopic 
+removal
+Anaphylaxis; 
+epinephrine, IV 
+fluids, steroids; 
+C-­1 esterase 
+deficiency; 
+replacement 
+infusion therapy
+Penicillin; 
+aspiration
+Laser therapy, 
+repeated exci­
+sion, interferon
+Prevention
+None
+None
+None
+H. influenzae 
+type b 
+conjugated 
+vaccine
+None
+None
+Avoid small 
+objects; 
+supervision
+Avoid aller­
+gens; FFP for 
+hereditary 
+angioedema
+Treat group A 
+streptococci 
+early
+Treat maternal 
+genitourinary 
+lesions; possible 
+cesarean 
+section?
+HPV vaccine to 
+mother
+FFP, fresh-­frozen plasma; HPV, human papillomavirus; IV, intravenous; RSV, respiratory syncytial virus; URI, upper respiratory tract infection; WBC, white blood cell.
+TABLE 4.10  Differential Diagnosis of Upper Airway Obstruction—cont’d
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+70
+SECTION 2   Respiratory Disorders
+If there is any question as to the diagnosis, a lateral soft tissue radio­
+graph of the neck can be confirmatory (Fig. 4.11). Someone who has 
+the expertise and equipment to handle sudden airway decompensation 
+in a pediatric patient should accompany the patient to the radiology 
+suite. When a clinical diagnosis of epiglottitis is at all likely, the patient 
+should be taken immediately to the operating room and cared for by 
+experienced pediatric anesthesiology and otolaryngology personnel 
+capable of endotracheal intubation or less often tracheostomy.
+Once the airway is secured and the diagnosis confirmed, blood 
+specimens are obtained for culture and treatment is begun with cef­
+triaxone. Patients usually require 36–48 hours of endotracheal intuba­
+tion, with observation in the pediatric intensive care unit. If there is a 
+question of safety of extubation, a second laryngoscopy is indicated.
+Laryngomalacia
+Laryngomalacia is the most common cause of inspiratory stridor 
+and noisy respiration in neonates and infants. It is caused by the 
+inspiratory collapse of the laryngeal cartilages, with prolapse of 
+the epiglottis or arytenoid cartilages into the airway during inspi­
+ration. It typically presents with high-­pitched inspiratory stridor. 
+Stridor may occur at birth, but the onset is often delayed, occur­
+ring at 2–4 weeks of age. The condition is usually self-­limited and 
+resolves with time: often by 8–12 months of age but occasionally not 
+until 18–24 months of age. Laryngomalacia should be suspected in 
+infants with recurrent croup, as acute viral infections or agitation 
+can worsen symptoms. Patients often will have associated gastro­
+esophageal reflux disease, and some may have feeding difficulties or 
+A
+B
+Fig. 4.9  Croup in a 1-­year-­old child. A, Frontal radiograph of the neck shows a tapered reduction of the sub­
+glottic tracheal caliber from the level of the vocal cords (upper arrow) to the normal-­caliber trachea below 
+(lower arrow). The right mild tracheal deviation is a normal sign resulting from the left aortic arch. B, Lateral 
+view shows a normal epiglottis (upper arrow), distention of the pharynx, normal palatine tonsils (arrowhead), 
+and increased density in the subglottic trachea (lower arrow).
+Fig. 4.10  Child with epiglottitis. Characteristic posture in a patient with 
+epiglottitis. The child is leaning forward and drooling, and the neck is 
+hyperextended.
+Fig. 4.11  Epiglottitis. The patient is a 3½-­year-­old child with fever and 
+sudden onset of stridor. Lateral radiograph shows an enlarged epiglottis 
+(“thumbprint” sign) and aryepiglottic folds (arrow) and distention of the 
+pharynx.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+71
+CHAPTER 4  Respiratory Distress
+failure to thrive. Severe cases may cause apneic events or pulmonary 
+hypertension.
+The diagnosis is made on the basis of the clinical presentation 
+(stridor is worse when the patient is supine or during activity, and 
+exacerbations occur with upper respiratory tract infections) and find­
+ings on flexible laryngoscopy. Approximately 15–25% of patients with 
+laryngomalacia may have other airway lesions. Therefore a complete 
+airway evaluation with rigid bronchoscopy has been recommended 
+in patients with severe respiratory distress, failure to thrive, or any 
+underlying concern for a concurrent airway lesion, and if the stri­
+dor of laryngomalacia does not follow the typical course. Unusually 
+severe cases of laryngomalacia may necessitate operative interven­
+tion, such as a supraglottoplasty to trim redundant soft tissue or even 
+a temporary tracheotomy. Laryngomalacia may be accompanied by 
+tracheomalacia, a partial collapse of the tracheal cartilages with res­
+piration. Tracheomalacia may be congenital or secondary to extrinsic 
+compression by vascular rings or tumors. Patients with tracheoma­
+lacia manifest with wheezing, cough, stridor, dyspnea, tachypnea, or 
+cyanosis.
+Vocal Cord Paralysis
+Vocal cord paralysis is a common cause of congenital neonatal 
+laryngeal obstruction, but can also occur in older children. Vocal 
+cord paralysis may be bilateral or unilateral, and it often can cause 
+difficulty feeding, respiratory distress, and a weak cry. In neonates 
+with no surgical history, it is associated with neurologic syndromes, 
+such as the Arnold-­Chiari malformation. Traction on the brainstem 
+or increased intracranial pressure and herniation put pressure on 
+the vagus nerve, which is thought to cause the paralysis. It can also 
+be iatrogenic, particularly in neonates with a history of thoracic sur­
+gery or difficult birth delivery. Tracheotomy is often necessary to 
+maintain the airway in bilateral vocal cord paralysis, and neurologic 
+and MRI evaluation should be performed to identify any central 
+causes. Vocal cord paralysis also occurs in older children and may 
+be caused by a polyneuropathy (Guillain-­Barré syndrome), brain­
+stem encephalitis, neck or thoracic surgery, or compression by local 
+masses.
+Vascular Rings
+Vascular rings are common and can produce symptoms related to 
+compression of the trachea and/or the esophagus (Table 4.11). Feeding 
+often exacerbates manifestations when the obstructed esophagus acts 
+as an additional extrinsic force on the trachea. Patients present with 
+cough, dysphagia, odynophagia, tachypnea, emesis, noisy breathing, 
+stridor, and/or wheezing. Because they handle oral secretions poorly, 
+they may develop aspiration pneumonia. They also do not tolerate 
+neck flexion. The two most common symptomatic lesions are the right 
+aortic arch with a left ligamentum arteriosus (or patent ductus arteri­
+osus) and the double aortic arch. The diagnosis may be suspected on 
+a chest radiograph by a demonstrated right-­sided aortic arch or a nar­
+row displaced trachea. An upper gastrointestinal series demonstrates 
+the indentation of the anterior and/or posterior esophagus, whereas 
+endoscopy demonstrates the pulsatile extrinsic compressing vessels 
+(Fig. 4.12). MRI or echocardiography is usually diagnostic; angiogra­
+phy is not needed to find most of these lesions.
+Subglottic Stenosis
+Congenital subglottic stenosis occurs when the subglottic space is 
+narrowed, and typically presents in children younger than 3 months 
+with respiratory distress, biphasic or inspiratory stridor, and recurrent 
+croup. Acquired subglottic stenosis may develop secondary to endotra­
+cheal intubation, particularly if the intubation has been prolonged for 
+several months, if an oversized tube was used, or if multiple intubations 
+were required. Subglottic stenosis should be suspected in any child with 
+these risk factors who does not tolerate extubation because of upper 
+airway obstruction. Laryngoscopy and bronchoscopy are required for 
+evaluation to diagnose subglottic stenosis and also evaluate for other 
+lesions such as subglottic cysts or hemangiomas. Acquired subglottic 
+stenosis is often more severe than the congenital type. In both types of 
+subglottic stenosis, infection and gastroesophageal reflux may exacer­
+bate symptoms and contribute to narrowing of the airway. A cricoid 
+split operation, tracheotomy, or laryngotracheal reconstruction may be 
+needed. Serial dilatations are no longer commonly used because they 
+may continue to injure the cartilage and its overlying mucosa.
+Cough
+Cough is a common complaint in children (see Chapter 3). The nature 
+of the cough is often helpful in establishing the etiology of respiratory 
+distress. For example, a barky cough is typically associated with viral 
+croup, whereas a more productive cough can be associated with pneu­
+monia. Pneumonia is most commonly caused by bacteria or viruses; 
+however, there are other common noninfectious causes of pneumonia 
+and pneumonitis.
+Viral and Bacterial Pneumonia
+Pneumonia is defined as acute inflammation of the lung parenchyma, 
+and can be caused by viruses, bacteria, or fungi (see Chapter 3). Clini­
+cally, it is often defined as a lower respiratory tract infection, associated 
+with fever, respiratory symptoms, and evidence of lung parenchyma 
+involvement, either by physical examination or chest radiograph 
+findings. S. pneumoniae is the most common bacterial pathogen of 
+community-­acquired pneumonia; H. influenzae and S. aureus are less 
+common causes. Viral pathogens are a common cause of pneumonia in 
+young children; it can be difficult to discern which pathogen is causing 
+the clinical symptoms. Atypical pathogens, such as M. pneumoniae, are 
+a common cause of pneumonia in school-­aged children (Table 4.12). 
+Children with immunodeficiency, sickle cell disease, cystic fibrosis, or 
+HIV may present with more atypical pathogens.
+Patients will often begin with an upper respiratory infection with 
+rhinitis and cough (see Chapter 3). They then develop tachypnea and 
+fever and then may develop respiratory distress with subcostal, inter­
+costal, and suprasternal retractions; nasal flaring and use of accessory 
+muscles; and hypoxia. Tachypnea and worsening cough are commonly 
+noted. Patients with lower lobe pneumonias may also present with 
+abdominal pain. Early in the course of illness, crackles, rhonchi, and 
+wheezing are common findings. Later in the course of illness, as lungs 
+consolidate and/or pleural effusions or empyema develops, decreased 
+breath sounds and dullness to percussion may develop. Wheezing is 
+more likely in viral or atypical pneumonia; however, unilateral wheez­
+ing may also correlate with a bacterial lobar pneumonia.
+Diagnosis is made by chest radiograph, which will show a consol­
+idation, and may show empyema or pleural effusion if present (Fig. 
+4.13). However, it is important to note that in children with mild 
+lower respiratory tract disease with clinical symptoms consistent with 
+pneumonia, a chest radiograph is not needed to make a diagnosis. 
+Patchy infiltrates are most suggestive of atypical or viral pneumo­
+nia. A lobar consolidation or large pleural effusion is likely from a 
+bacterial etiology. Laboratory testing may be helpful in patients with 
+more severe disease, but is not necessary in all patients. Peripheral 
+white blood cell (WBC) count and acute phase reactants are likely 
+elevated, and can be used to follow response to therapy along with 
+clinical response. Blood cultures should be obtained for patients with 
+moderate to severe disease, or who fail to demonstrate improvement 
+after the initiation of antibiotics. Viral or atypical pathogen testing 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+72
+SECTION 2   Respiratory Disorders
+TABLE 4.11  Vascular Rings
+Lesion
+Symptoms
+Plain Film
+Barium Swallow
+Bronchoscopy
+MRI 
+Echocardiography
+Treatment
+Double arch
+Stridor, respiratory 
+distress
+Swallowing dysfunc­
+tion
+Reflex apnea
+AP—wider base of 
+heart
+Lat.—narrowed 
+trachea displaced 
+forward at C3–C4
+Bilateral indentation 
+of esophagus
+Bilateral tracheal 
+compression—both 
+pulsatile
+Diagnostic
+Ligate and divide 
+smaller arch 
+(usually left)
+Right arch and
+ligamentum/ductus
+Respiratory distress
+Swallowing dysfunc­
+tion
+AP—tracheal devi­
+ation to left (right 
+arch)
+Bilateral indentation 
+of esophagus R > L
+Bilateral tracheal 
+compression—R 
+pulsatile
+Diagnostic
+Ligate ligamentum 
+or ductus
+Anomalous
+innominate
+Cough
+Stridor
+Reflex apnea
+AP—normal
+Lat.—anterior tra­
+cheal compression
+Normal
+Pulsatile anterior tra­
+cheal compression
+Unnecessary
+Conservative
+Aberrant right
+subclavian
+Occasional swallow­
+ing dysfunction
+Normal
+AP—oblique defect 
+upward to right
+Lat.—small defect on 
+right posterior wall
+Usually normal
+Diagnostic
+Ligate artery
+Pulmonary
+sling
+Expiratory stridor
+Respiratory distress
+AP—low L hilum, R 
+emphysema/atel­
+ectasis
+Lat.—anterior bowing 
+of right bronchus 
+and trachea
+±Anterior indenta­
+tion above carina 
+between esophagus 
+and trachea
+Tracheal displace­
+ment to left
+Compression of right 
+main bronchus
+Diagnostic
+Detach and 
+reanastomose to 
+main pulmonary 
+artery in front of 
+trachea
+AP, anteroposterior; L, left; Lat., lateral; R, right.
+From Kliegman RM, Greenbaum LA, Lye PS. Practical Strategies in Pediatric Diagnosis and Therapy. 2nd ed. Philadelphia: Elsevier; 2004:88.
+may be helpful as this may decrease the need for additional testing 
+or antibiotic use.
+Treatment for bacterial pneumonia is antibiotics directed at the 
+suspected cause of pneumonia and supplemental care (oxygen, intra­
+venous fluids) as indicated based on the patient’s clinical presentation. 
+Hospitalization may be required for patients with hypoxia or toxic 
+appearance, moderate to severe respiratory distress, or age younger 
+than 6 months, or if there are concerns about observation or com­
+pliance with therapy at home. Those with complicated pneumonia 
+(pleural effusion, empyema, abscess, or extrapulmonary infection) 
+or suspected/documented pathogen with increased virulence are also 
+likely to require hospitalization and further interventions.
+Hypersensitivity Pneumonitis
+Hypersensitivity pneumonitis, or extrinsic allergic alveolitis, results 
+from the inhalation of organic dust particles. Although numerous 
+causes have been identified, the clinical features of the various types 
+of hypersensitivity pneumonitis are similar and depend on the inten­
+sity and frequency of exposure to the allergen; both acute and chronic 
+forms have been described.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+73
+CHAPTER 4  Respiratory Distress
+TABLE 4.12  Etiologic Agents of Pneumonia Grouped by Age of the Patient
+Age Group
+Frequent Pathogens (in Order of Frequency)
+Neonates (<3 wk)
+Group B streptococcus, Escherichia coli, other gram-­negative bacilli, Streptococcus pneumoniae, Haemophilus influenzae (type b,* non­
+typable), herpes simplex
+3 wk–3 mo
+Respiratory syncytial virus, other respiratory viruses (rhinoviruses, parainfluenza viruses, influenza viruses, adenovirus, coronavirus), 
+S. pneumoniae, H. influenzae (type b,* nontypable); if patient is afebrile, consider Chlamydia trachomatis
+4 mo–4 yr
+Respiratory syncytial virus, other respiratory viruses (rhinoviruses, parainfluenza viruses, influenza viruses, adenovirus, coronavirus), 
+S. pneumoniae, H. influenzae (type b,* nontypable), Mycoplasma pneumoniae, group A streptococcus
+≥5 yr
+M. pneumoniae, S. pneumoniae, Chlamydophila pneumoniae, H. influenzae (type b,* nontypable), influenza viruses, adenovirus, 
+coronaviruses, other respiratory viruses, Legionella pneumophila
+*H. influenzae type b is uncommon with routine H. influenzae immunization.
+From Kelly MS, Sandora TJ. Community acquired pneumonia. In: Kliegman RM, St. Geme JW III, Blum NJ, et al., eds. Nelson Textbook of Pediat­
+rics. 21st ed. Philadelphia: Elsevier; 2020.
+A
+B
+Fig. 4.13  Radiographic findings characteristic of pneumococcal pneumonia in a 14-­year-­old boy with cough 
+and fever. Posteroanterior (A) and lateral (B) chest radiographs reveal consolidation in the right lower lobe, 
+strongly suggesting bacterial lobar pneumonia. (From Kelly MS, Sandora TJ. Community acquired pneumonia. 
+In Kliegman RM, St. Geme JW III, Blum NJ, et al., eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia: 
+Elsevier; 2020: Fig. 428.3.)
+A
+B
+Fig. 4.12  Double aortic arch in an infant aged 5 months. A, Anteroposterior view. The barium-­filled esophagus 
+is constricted on both sides. B, Lateral view. The esophagus is displaced forward. The anterior arch was the 
+smaller and was divided at surgery. (From Bernstein D. Other congenital heart and vascular malformations. 
+In Kliegman RM, St. Geme JW III, Blum NJ, et al., eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia: 
+Elsevier; 2020:2422, Fig. 459.2.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+74
+SECTION 2   Respiratory Disorders
+In the acute form of the disease, the patient typically has fever, rig­
+ors, cough, and dyspnea several hours after exposure. The symptoms 
+usually resolve within 24 hours of the onset once the offending mate­
+rial is removed. In the chronic or subacute forms of hypersensitivity 
+pneumonitis, the affected individual may have exercise intolerance, 
+anorexia, weight loss, and a productive cough. Diffuse crackles are the 
+prominent finding on physical examination; the patient may be cya­
+notic if gas exchange is significantly impaired. Digital clubbing is an 
+unusual finding. In acute cases, inflammation of the alveoli and pul­
+monary interstitium are common reactions, whereas the chronic form 
+can result in interstitial fibrosis and noncaseating granulomas. Chronic 
+hypersensitivity pneumonitis can insidiously lead to respiratory failure 
+and cor pulmonale.
+A number of laboratory studies may be helpful in confirming the 
+diagnosis of hypersensitivity pneumonitis. Chest radiograph demon­
+strates diffuse reticulonodular infiltrate. Pulmonary function studies 
+(spirometry) characteristically show a restrictive defect, and the car­
+bon monoxide diffusion capacity is reduced. During the acute phase of 
+the disease, the patient may have a peripheral leukocytosis and eosin­
+ophilia. Serologic studies looking for precipitating immunoglobulin G 
+antibodies to specific antigens are useful in identifying the offending 
+agent. However, these antibodies may be found in asymptomatic indi­
+viduals exposed to the allergen, and thus their presence is not neces­
+sarily correlated with severity of pulmonary disease. Percutaneous or 
+intradermal tests may also be useful, particularly if an avian hypersen­
+sitivity pneumonitis is suspected.
+Removal of the specific organic dust from the patient’s environment 
+is critical to treatment. Mild episodes of hypersensitivity pneumonitis 
+may resolve spontaneously once the offending allergen is eliminated. 
+Severe exacerbations often necessitate treatment with systemic cortico­
+steroids; bronchodilators may be beneficial if the patient is experienc­
+ing symptoms of bronchospasm. Hypersensitivity pneumonitis must 
+be differentiated from other causes of interstitial or diffuse lung disease 
+(Table 4.13).
+Allergic Bronchopulmonary Aspergillosis
+Allergic bronchopulmonary aspergillosis (ABPA) is an immunologic 
+disorder identified in patients with chronic lung disease, in which air­
+way colonization (but not invasive infection) with Aspergillus fumigatus 
+causes chronic antigen exposure and increased bronchial hyperactivity. 
+This condition can lead to bronchiectasis, pulmonary fibrosis, and pro­
+gressive respiratory insufficiency. Hypersensitivity to other fungal species 
+that produces a clinical picture similar to that of ABPA has been reported.
+It is important that the diagnosis of ABPA be made and that 
+appropriate therapy with systemic corticosteroids be instituted, 
+because this condition can result in irreversible lung damage. ABPA 
+is characterized by fever, weight loss, wheezing, and productive cough 
+yielding purulent or rust-­colored sputum. This condition should be 
+TABLE 4.13  Classification of Interstitial Lung Disease (Pediatric Diffuse Lung Disease)*
+I. Disorders More Prevalent in Infancy
+	A.	 Diffuse developmental disorders
+	
+1.	Acinar dysplasia
+	
+2.	Congenital alveolar dysplasia
+	
+3.	Alveolar–capillary dysplasia with pulmonary vein misalignment
+	B.	 Growth abnormalities
+	
+1.	Pulmonary hypoplasia
+	
+2.	Chronic neonatal lung disease
+	C.	 Prematurity-­related chronic lung disease (bronchopulmonary dysplasia)
+	D.	 Acquired chronic lung disease in term infants
+	E.	 Structural pulmonary changes with chromosomal abnormalities
+	
+1.	Trisomy 21
+	F.	 Others
+	
+1.	Associated with congenital heart disease in chromosomally normal 
+children
+	G.	 Specific conditions of undefined etiology
+	
+1.	Pulmonary interstitial glycogenosis
+	
+2.	Neuroendocrine cell hyperplasia of infancy
+	H.	 Surfactant dysfunction mutations and related disorders
+	
+1.	SPFTB pathologic genetic or gene variants—PAP and variant dominant 
+histologic pattern
+	
+2.	SPFTC pathologic genetic or gene variants—CPI dominant histologic 
+pattern; also DIP and NSIP
+	
+3.	ABCA3 pathologic genetic or gene variants—PAP variant dominant 
+pattern; also CPI, DIP, NSIP
+	
+4.	Others with histology consistent with surfactant dysfunction disorder 
+without a yet recognized genetic disorder
+II. Disorders Not Specific to Infancy
+	A.	 Disorders of the normal host
+	
+1.	Infectious and postinfectious processes
+	
+2.	Disorders related to environmental agents: hypersensitivity pneumo­
+nia, toxic inhalation
+	
+3.	Aspiration syndromes
+	
+4.	Eosinophilic pneumonia
+	B.	 Disorders related to systemic disease processes
+	
+1.	Immune-­related disorders
+	
+2.	Storage disease
+	
+3.	Sarcoidosis
+	
+4.	Langerhans cell histiocytosis
+	
+5.	Malignant infiltrates
+	C.	 Disorders of the immunocompromised host
+	
+1.	Opportunistic infection
+	
+2.	Disorders related to therapeutic intervention
+	
+3.	Disorders related to transplantation and rejection syndromes
+	
+4.	Diffuse alveolar damage of unknown etiology
+	D.	 Disorders masquerading as interstitial disease
+	
+1.	Arterial hypertensive vasculopathy
+	
+2.	Congestive vasculopathy, including venoocclusive disease
+	
+3.	Lymphatic disorders
+	
+4.	Congestive changes related to cardiac dysfunction
+III. Unclassified
+	A.	 Includes end-­stage disease, nondiagnostic biopsies, and those with 
+inadequate material
+*Many of these entities may present as child interstitial lung disease syndromes.
+CPI, chronic pneumonitis of infancy; DIP, desquamative cell interstitial pneumonia; NSIP, nonspecific interstitial pneumonia; PAP, pulmonary alveolar 
+proteinosis.
+From Kurland G, Deterding RR, Hagood JS, et al. An official American Thoracic Society clinical practice guideline: classification, evaluation, and 
+management of childhood interstitial lung disease in infancy. Am J Resp Crit Care Med. 2013;188:376–394.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+75
+CHAPTER 4  Respiratory Distress
+considered in patients with chronic or atypical and progressive or fre­
+quently relapsing lung diseases, such as asthma or cystic fibrosis, who 
+have undergone clinical deterioration. In developing countries, it is 
+often misdiagnosed as pulmonary tuberculosis. ABPA is associated 
+with peripheral eosinophilia and markedly elevated serum IgE levels. 
+Although these laboratory findings are not pathognomonic for this 
+condition, the presence of a normal serum IgE makes the diagno­
+sis of active disease unlikely. Affected individuals have evidence of 
+hypersensitivity to A. fumigatus, and sputum evaluation may demon­
+strate Aspergillus hyphal elements. Elevated levels of specific IgE and 
+immunoglobulin G antibodies to A. fumigatus can be useful in estab­
+lishing the diagnosis.
+The typical chest radiographic findings include increased bron­
+chopulmonary markings, opacification of the affected area, and local­
+ized pulmonary consolidation. Linear radiolucencies and parallel 
+markings radiating from the hilum (“tram lines”) caused by dilated, 
+thickened bronchi may also be present. Chest CT may demonstrate 
+bronchiectasis, mucoid impaction, and pleuropulmonary fibrosis. 
+The treatment of choice is systemic corticosteroids, administered 
+for weeks to months. Antifungal agents, such as itraconazole, may 
+be effective in preventing exacerbations, but are not helpful in treat­
+ing acute exacerbations; therefore, these may be a helpful adjunctive 
+therapy.
+Other Causes of Respiratory Distress
+Aspiration of Oropharyngeal Contents
+Central nervous system or neuromuscular disease in infants and chil­
+dren can result in dysfunction of the swallowing mechanism, leading 
+to repeated episodes of pulmonary aspiration. Aspiration is the most 
+common cause of respiratory distress in such children and typically 
+manifests with intractable wheezing, chronic airway inflammation, 
+and recurrent pneumonias.
+Video fluoroscopic swallow studies, in which barium mixed with 
+foods of a variety of textures and consistencies are fed to a child under 
+direct visualization and fluoroscopy, can be useful in making the 
+diagnosis and establishing that the child has an abnormal swallowing 
+mechanism. These studies can be helpful with regard to therapy and 
+may determine the appropriate feeding techniques, food consistencies, 
+and feeding volumes that are less likely to cause aspiration in a vulner­
+able child.
+Nasogastric tube or gastrostomy tube feedings may be necessary in 
+children who do not respond to conservative management and who 
+continue to have repeated episodes of aspiration. Nevertheless, the 
+affected child can continue to have periodic aspiration of oropharyn­
+geal secretions despite these interventions. A Nissan fundoplication 
+or jejunostomy tube may be needed to reduce the incidence of gastric 
+aspiration.
+Gastroesophageal Reflux
+Gastroesophageal reflux can be a primary cause of or an exacerbat­
+ing factor in wheezing in infants and young children (see Chapter 15). 
+Direct inhalation of stomach contents into the lungs can produce bron­
+chospasm and a chemical pneumonitis. Gastroesophageal reflux with 
+aspiration has also been implicated in cases of bacterial pneumonia, 
+bronchiectasis, obliterative bronchiolitis, and lung abscesses. Tachy­
+pnea, wheezing, and cough are the usual clinical findings, typically 
+occurring within 1 hour of the aspiration event. The signs and symp­
+toms of the pneumonitis, however, can be delayed.
+Although pulmonary aspiration of gastric contents was once assumed 
+to be the basis of reflux-­induced wheezing, reflex bronchoconstriction 
+in response to esophageal acidification can also produce bronchospasm 
+in some patients. Other respiratory symptoms associated with gastro­
+esophageal reflux, such as stridor and obstructive apnea, can manifest 
+as the result of reflex laryngospasm. Gastroesophageal reflux can also 
+complicate and worsen underlying lung diseases, such as asthma or sub­
+glottic stenosis, by provoking bronchospasm and potentiating airway or 
+laryngeal inflammation and possibly bronchial hyperactivity.
+Pneumothorax
+A pneumothorax occurs when air leaks from the alveoli or airways 
+into the pleural space. The most common cause of pneumothorax 
+in children is chest wall trauma. Children with asthma or other 
+underlying chest disease may also develop a pneumothorax. How­
+ever, spontaneous pneumothorax can occur in otherwise healthy 
+children with no antecedent illness or injury, most commonly ado­
+lescent males or young adult men who are tall, thin, and athletic 
+(Fig. 4.14). In patients with an acute pneumothorax with no history 
+of trauma or asthma, the presence of Marfan or Ehlers-­Danlos syn­
+dromes should be considered. Familial autosomal dominant pneu­
+mothorax may be a forme fruste of Birt-­Hogg-­Dube syndrome due 
+to pathologic variants in the FLCN gene. Clinical presentation usu­
+ally includes acute onset of dyspnea and chest or shoulder pain. The 
+physical examination reveals hyperresonance to percussion over 
+the ipsilateral chest, with decreased breath sounds auscultated on 
+the affected side. If the air dissects up through the mediastinum, it 
+may escape into the subcutaneous tissues, producing subcutaneous 
+emphysema. Diagnosis can be confirmed by chest radiograph. Pro­
+gressive air leak without air escape can lead to a tension pneumo­
+thorax. With increasing pressure, there is mediastinal shift, airway 
+compression, and a decrease in cardiac output. Tension pneumo­
+thorax can be life-­threatening if it is not recognized and treated 
+rapidly. Small, spontaneous pneumothoraces will often resolve with 
+supportive care and supplemental oxygen. The treatment of choice 
+for a pneumothorax of greater than 20% volume is drainage with 
+needle aspiration or with an indwelling chest tube.
+Pneumomediastinum
+Pneumomediastinum is the presence of air or other gas in the medias­
+tinum and is characterized as either traumatic or spontaneous. Blunt 
+or penetrating trauma to the chest or iatrogenic (i.e., during surgical 
+procedures) can cause a traumatic pneumomediastinum. Spontaneous 
+pneumomediastinum can be either primary, where there is no under­
+lying airway/lung condition that would predispose an individual to an 
+air leak, or secondary, where a predisposition is from an underlying 
+airway/lung condition such as asthma or cystic fibrosis. In general, 
+spontaneous pneumomediastinum is uncommon in pediatrics; how­
+ever, it should be kept in the differential in children presenting with 
+sudden chest pain or shortness of breath.
+Cystic Fibrosis
+Cystic fibrosis is a multisystem disorder that involves the eccrine 
+and mucous secretory glands. Inherited as an autosomal recessive 
+trait, cystic fibrosis is the most common life-­shortening genetic 
+disease in Caucasian children of northern European ancestry and 
+is an important cause of chronic suppurative lung disease (see 
+Chapter 3). Chronic infection and inflammation lead to the weak­
+ening and destruction of the airway wall, which results in bron­
+chiectasis, the abnormal dilatation of the subsegmental airways, 
+and in pulmonary abscesses. The pulmonary deterioration char­
+acteristic of cystic fibrosis is rather insidious and is characterized 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+76
+SECTION 2   Respiratory Disorders
+by increasing airway obstruction over a period of years. How­
+ever, some infants and children with cystic fibrosis can present 
+in acute respiratory distress because of pneumonia, empyema, or 
+pneumothorax.
+Primary Ciliary Dyskinesia
+Primary ciliary dyskinesia (PCD), another progressive lung disease 
+(ciliopathy), occurs in approximately 1 in 16,000 children and is the 
+result of ultrastructural abnormalities of the cilia (see Chapter 3). 
+The absence of dynein arms (inner and outer) is the most common 
+form of the syndrome, but other structural abnormalities can result 
+in decreased or absent ciliary movement. Acquired ciliary dyskine­
+sia may be caused by a number of different environmental and infec­
+tious agents and is usually a temporary condition. The abnormal 
+mucociliary clearance of endobronchial secretions causes a chronic 
+bronchitis. Wheezing is a common clinical manifestation resulting 
+from the obstruction of the airways by mucus. Neonatal tachypnea is 
+the earliest manifestation. Repeated or persistent severe upper respi­
+ratory tract infections, usually in the form of chronic pansinusitis or 
+recurrent suppurative otitis media, are typical. Male sterility result­
+ing from the impaired movement of spermatozoa is also present. 
+Although Kartagener initially described several patients with situs 
+inversus totalis, chronic sinusitis, and bronchiectasis, dextrocardia is 
+present in only 50% of patients with this syndrome.
+Arriving at a diagnosis necessitates a high index of suspicion and 
+warrants pursuit in the child with recurrent wheezing, bronchitis, 
+sinusitis, and otitis media. Findings on chest radiographs are gener­
+ally nonspecific, and frequently demonstrate areas of pulmonary con­
+solidation. Extensive atelectasis with significant respiratory distress 
+has been described in neonates with this condition. Bronchiectasis 
+is a late sequela of dyskinetic cilia syndrome. Functional assays for 
+mucociliary clearance or examination of nasal or tracheal epithe­
+lial cells for ultrastructural ciliary defects with electron microscopy 
+is necessary to establish a diagnosis. Exhaled nitric oxide fraction 
+(FeNO) is very low in PCD. Genetic testing is also available for the 
+∼30 etiologic genes; nonetheless, ∼50% have no identifiable patho­
+logic gene variant. Most cases are inherited as autosomal recessives; 
+however, autosomal dominant and X-­linked inheritance have been 
+reported.
+Hemoptysis
+Hemoptysis is the expectoration of blood or blood-­tinged sputum and 
+is a rare finding in pediatric patients. First, one must differentiate if the 
+blood is from the airway or an extrapulmonary source. Oral or naso­
+pharyngeal causes as well as hematemesis from the gastrointestinal 
+tract can present similarly. The most common cause of hemoptysis in 
+pediatrics is lower respiratory infections like pneumonia or tracheo­
+bronchitis—most of which cases are mild and self-­limiting. Foreign 
+body aspiration where the bleeding is caused from mechanical injury 
+to the airway is the second most likely etiology of hemoptysis in chil­
+dren. Other potential etiologies that can lead to severe hemoptysis and 
+respiratory compromise include vascular abnormalities, interstitial or 
+granulomatous lung disease resulting in diffuse alveolar hemorrhage, 
+or pulmonary hemosiderosis (Table 4.14). A CBC to help quantify the 
+amount of blood lost as well as look for thrombocytopenia is important 
+in these cases. Inflammatory markers and coagulation studies can also 
+be useful. A plain chest radiograph is normal in 33–55% of patients, 
+but can be helpful to evaluate for a foreign body or signs of infection. 
+CT scanning with contrast angiography can assist in finding vascu­
+lar abnormalities. Acute hemorrhage on CT scan will appear as focal 
+consolidation with surrounding ground-­glass appearance. Ultimately, 
+bronchoscopy is indicated if a foreign body is suspected, the etiology 
+remains unknown, or respiratory compromise is occurring. Specifi­
+cally, rigid bronchoscopy allows visualization of the airway as well as 
+potential therapy for the etiology—injection of hemostatic agents, tam­
+ponading of a lesion if necessary—while providing a way for mechan­
+ical ventilation.
+Electronic Cigarette, or Vaping, Product Use–Associated 
+Lung Injury
+The use of electronic cigarettes (e-­cigarettes), also known as vap­
+ing, where a battery-­powered device produces aerosol for inhaling, 
+has been associated with respiratory distress. These devices are 
+commonly used for inhaling nicotine and/or tetrahydrocannabinol 
+A
+B
+*
+*
+Fig. 4.14  Spontaneous pneumothorax in a tall, thin teenager presenting with tachypnea, tachycardia, and 
+normal blood pressure. A, Frontal chest radiograph shows a large pneumothorax occupying the entire left 
+hemithorax (asterisks), with a mild cardiomediastinal shift to the right. A bleb is noted along the surface of the 
+collapsed left lung (arrow). B, Coronal CT image obtained 1 month after thoracostomy tube removal shows 
+biapical blebs (arrows), which are larger on the right. The right apical bleb was not seen on the chest radio­
+graphs. (From Coley BD, ed. Caffey’s Pediatric Diagnostic Imaging. 13th ed. Philadelphia: Elsevier; 2019:585, 
+Fig. 60.6.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+77
+CHAPTER 4  Respiratory Distress
+(THC). The syndrome is named e-­cigarette, or vaping, use–asso­
+ciated lung injury (EVALI). A diagnosis of EVALI should be sus­
+pected in any patient with a history of using e-­cigarette or vaping 
+products within the prior 3 months presenting with shortness of 
+breath, cough, respiratory distress, myalgias, headaches, or gastro­
+intestinal symptoms like nausea, vomiting, diarrhea, or abdominal 
+pain (Table 4.15). Pulmonary infiltrates are usually noted on chest 
+x-­ray but are universally noted on chest CT. The typical CT find­
+ings include lower lobe “crazy paving” consisting of ground-­glass 
+opacities (GGOs) combined with thickened interlobular septa and 
+subpleural sparing. In addition, there may be ground-­glass nod­
+ules and consolidation (Figs. 4.15 and 4.16). Although alternative 
+diagnoses need to be excluded, it is important to note that influ­
+enza, COVID-­19, or other respiratory infections cannot be read­
+ily distinguished from EVALI by signs, symptoms, presentation, or 
+imaging. The inhalation injury that has been seen associated with 
+e-­cigarettes/vaping includes exacerbation of asthma, hypersensi­
+tivity pneumonitis, eosinophilic pneumonia, lipoid pneumonia, 
+and diffuse alveolar hemorrhage. The severity of the illness ranges 
+from minimal or no respiratory support to the need for invasive 
+mechanical ventilation, extracorporeal membrane oxygenation 
+(ECMO), and death. Vitamin E acetate, an additive in some of the 
+THC-­containing e-­cigarette/vaping products, is strongly linked 
+to EVALI. Systemic glucocorticoids provide patients with clinical 
+improvement. Treating any concurrent or possible other infections, 
+connecting patients with services for cessation of e-­cigarette/vaping 
+products, and close follow-­up are also necessary. Figure 4.17 shows 
+the clinical algorithm for patients hospitalized with suspected 
+EVALI.
+COVID-­19
+Severe acute respiratory syndrome–associated coronavirus 2 
+(SARS-­CoV-­2) produces a broad spectrum of presentations and 
+manifestations within the COVID-­19 (coronavirus disease 2019) 
+pandemic. Many pediatric patients are asymptomatic or minimally 
+symptomatic, while others develop various degrees of pulmonary 
+symptoms: mild-­moderate (mild pneumonia), severe (dyspnea, 
+hypoxia, or >50% lung involvement on imaging), and critical 
+(respiratory failure, shock, or multiorgan system dysfunction) 
+often in the context of the multisystem inflammatory syndrome 
+in children (MIS-­C) (Table 4.16) (see Chapter 53). The case defi­
+nition for other presentations of COVID-­19 is noted in Table 4.17. 
+The presentation may depend on the stage of the illness (Fig. 4.18). 
+Early systemic features include fever, cough, headache, myalgias, 
+and gastrointestinal manifestations (abdominal pain, emesis, and 
+diarrhea). In patients with a pulmonary presentation, COVID-­19 
+pneumonia presents with cough, dyspnea, cyanosis, and fever. 
+Chest x-­rays are usually abnormal, and CT imaging demonstrates 
+the “crazy paving” pattern predominantly with bilateral multifo­
+cal GGOs or a combination of GGOs with consolidation usually 
+of the lower lobes with a subpleural predominance (Figs. 4.19 and 
+4.20). The differential diagnosis of COVID-­19 pneumonia includes 
+other causes of acute respiratory distress syndrome, pneumocys­
+tis or adenovirus pneumonia, EVALI, hypersensitivity pneumonia, 
+granulomatosis with polyangiitis, Lemierre disease, and acute or 
+chronic interstitial lung disease in childhood. The diagnosis is 
+confirmed by nasopharyngeal PCR viral testing (usually in the 
+acute COVID pneumonia syndrome) or by immunoglobulin M 
+and immunoglobulin G antibodies to COVID-­19 (usually the later 
+inflammatory MIS-­C).
+NONPULMONARY CAUSES OF RESPIRATORY 
+DISTRESS
+Cardiac
+Cardiac disease is an important and common nonpulmonary cause 
+of respiratory distress. Increased work of breathing and respira­
+tory distress most commonly occur in cardiac diseases caused by 
+large left-­to-­right shunts, dysfunction of the systemic ventricle, 
+and vascular lesions that obstruct the airway (see Chapter 9). Car­
+diac failure from any cause is often manifested as respiratory dis­
+tress. Infants with congenital heart defects that produce a large 
+left-­to-­right shunt that results in pulmonary vascular engorge­
+ment, edema formation, and reduced lung compliance demon­
+strate tachypnea, dyspnea, and grunting. Wheezing or “cardiac 
+asthma” can occur when there is compression of intrathoracic air­
+ways by vascular engorgement and interstitial edema. With most 
+TABLE 4.14  Etiology of Pulmonary 
+Hemorrhage (Hemoptysis)
+Focal Hemorrhage
+Bronchitis and bronchiectasis (especially cystic fibrosis related)
+Infection (acute or chronic), pneumonia, abscess
+Tuberculosis
+Trauma
+Pulmonary arteriovenous malformation (with or without hereditary hemor­
+rhagic telangiectasia)
+Foreign body (chronic)
+Neoplasm including hemangioma
+Pulmonary embolus with or without infarction
+Bronchogenic cysts
+Diffuse Hemorrhage
+Idiopathic of infancy
+Congenital heart disease (including pulmonary hypertension, venoocclusive 
+disease, congestive heart failure)
+Prematurity
+Cow’s milk hyperreactivity (Heiner syndrome)
+Goodpasture syndrome
+Collagen vascular diseases (systemic lupus erythematosus, rheumatoid 
+arthritis)
+Henoch-­Schönlein purpura and vasculitic disorders
+Granulomatous disease (granulomatosis with polyangiitis)
+Celiac disease
+Coagulopathy (congenital or acquired)
+Malignancy
+Immunodeficiency
+Exogenous toxins, especially inhaled
+Hyperammonemia
+Pulmonary hypertension
+Pulmonary alveolar proteinosis
+Idiopathic pulmonary hemosiderosis
+Tuberous sclerosis
+Lymphangiomyomatosis or lymphangioleiomyomatosis
+Physical injury or abuse
+Catamenial
+From Kliegman RM, St. Geme JW III, Blum NJ, et al., eds. Nelson 
+Textbook of Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:2313, 
+Table 436.4.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+78
+SECTION 2   Respiratory Disorders
+TABLE 4.15  CDC Surveillance Case Definitions* for Severe Pulmonary Disease Associated with 
+E-­cigarette Use (August 30, 2019)
+Case Classification
+Criteria
+Confirmed
+Using an e-­cigarette (“vaping”) or dabbing† during the 90 days before symptom onset
+AND
+Pulmonary infiltrate, such as opacities on plain film chest radiograph or ground-­glass opacities on chest computed tomography
+AND
+Absence of pulmonary infection on initial work-­up: Minimum criteria include negative respiratory viral panel influenza polymerase 
+chain reaction or rapid test if local epidemiology supports testing. All other clinically indicated respiratory infectious disease test­
+ing (e.g., urine antigen for Streptococcus pneumoniae and Legionella, sputum culture if productive cough, bronchoalveolar lavage 
+culture if done, blood culture, HIV-­related opportunistic respiratory infections if appropriate) must be negative
+AND
+No evidence in medical record of alternative plausible diagnoses (e.g., cardiac, rheumatologic, or neoplastic process)
+Probable
+Using an e-­cigarette (“vaping”) or dabbing† in 90 days before symptom onset
+AND
+Pulmonary infiltrate, such as opacities on plain film chest radiograph or ground-­glass opacities on chest computed tomography
+AND
+Infection identified via culture or polymerase chain reaction, but clinical team§ believes this is not the sole cause of the underlying 
+respiratory disease process OR minimum criteria to rule out pulmonary infection not met (testing not performed) and clinical 
+team* believes this is not the sole cause of the underlying respiratory disease process
+.
+AND
+No evidence in medical record of alternative plausible diagnoses (e.g., cardiac, rheumatologic, or neoplastic process)
+*These surveillance case definitions are meant for surveillance and not clinical diagnosis; they are subject to change and will be updated as additional 
+information becomes available if needed.
+†Using an electronic device (e.g., electronic nicotine delivery system [ENDS], electronic cigarette [e-­cigarette], vaporizer, vape[s], vape pen, dab pen, 
+or other device) or dabbing to inhale substances (e.g., nicotine, marijuana, tetrahydrocannabinol, tetrahydrocannabinol concentrates, cannabinoids, 
+synthetic cannabinoids, flavorings, or other substances).
+§Clinical team caring for the patient.
+From Schier JG, Meiman JG, Layden J, et al. Severe pulmonary disease associated with electronic-­cigarette–product use — interim guidance. 
+MMWR Morb Mortal Wkly Rep. 2019;68:787–790. https://doi.org/10.15585/mmwr.mm6836e2external icon
+congenital heart defects with left-­to-­right shunts, an abnormal 
+heart murmur and cardiomegaly are prominent clues to the diag­
+nosis. Acute myocarditis, usually of viral etiology, can manifest 
+with tachypnea, dyspnea, grunting, and diaphoresis. The physical 
+examination reveals tachycardia and decreased heart sounds, and 
+chest radiography shows an enlarged heart. Cardiomyopathy may 
+be congenital, may have a metabolic or toxic cause, may be famil­
+ial, or may be idiopathic. Other causes of cardiac failure, such 
+as severe hypertension, renal failure, and severe anemia, should 
+also be sought. Systemic ventricular failure caused by obstructing 
+lesions, such as aortic stenosis, coarctation of the aorta, or mitral 
+stenosis, also causes increased pulmonary vascular engorge­
+ment and edema, which results in the same symptoms as those 
+for a large left-­to-­right shunt. Depending on the severity of the 
+left ventricular outflow obstruction, systemic blood flow may be 
+decreased, resulting in poor perfusion and metabolic acidosis. If 
+blood flow into the systemic ventricle from the pulmonary veins or 
+left atrium is decreased or obstructed, as in total anomalous pul­
+monary venous return or mitral stenosis, then severe pulmonary 
+edema, hypoxemia, and respiratory distress ensue. Many of these 
+lesions manifest early in infancy. Tachypnea, wheezing, cyanosis, 
+and metabolic acidosis are typical presenting signs. Accurate diag­
+nosis depends on echocardiography; cardiac catheterization may 
+be needed in complex cases.
+Neurologic
+Children with certain primary neurologic disorders, such as 
+increased intracranial pressure or neuromyopathic weakness, may 
+present in respiratory distress. Common symptoms include irregular 
+respirations, hypoventilation, and hyperventilation. These symptoms, 
+accompanied by an altered mental status, should prompt an evalua­
+tion of the central nervous system for problems such as meningitis, 
+cerebritis or encephalitis, intracranial hemorrhage, mass lesion, or 
+toxic ingestion.
+Other
+Metabolic derangement that results in acidosis can produce tachypnea 
+and possible dyspnea. Common causes of acidosis include diabetic 
+ketoacidosis, sepsis, and ingestions (such as aspirin). The presence of 
+multisystem involvement in addition to respiratory distress should lead 
+to arterial blood gas determination, urinalysis, and possibly a toxicol­
+ogy screen.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+79
+CHAPTER 4  Respiratory Distress
+A
+C
+D
+B
+Fig. 4.16  A–B, Axial and coronal images of a high-resolution CT chest scan significant for diffuse mid- and 
+lower zone predominant airspace abnormalities comprising ground-glass opacities and consolidation. C, 
+Transbronchial biopsy with organizing pneumonia, characterized by numerous airspace plugs of fibromyxoid 
+tissue (arrows) (hematoxylin and eosin stain, original magnification ×150). D, Scant acute inflammatory cells 
+and associated pulmonary macrophages (Papanicolaou stain, original magnification 60×). (From MacMurdo 
+M, Lin C, Saeedan MB, et al. e-Cigarette or Vaping Product Use-Associated Lung Injury: Clinical, Radiologic, 
+and Pathologic Findings of 15 Cases. Chest. 2020;157:e181–e187. Fig. 1 A-D, Case 4.)
+A
+B
+Fig. 4.15  A, Chest x-ray of a patient with E-cigarette or Vaping-product associated lung injury showing significant bilateral alveolar opacities. B, CT 
+scans in axial view showing bilateral ground-glass opacities and dependent consolidations with a subpleural sparing pattern. (From Cherian SV, Kumar 
+A, Estrada-Y-Martin RM. E-Cigarette or Vaping Product-Associated Lung Injury: A Review. Am J Med. 2020;133:657–663. Fig. 2.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+Child admitted with respiratory distress, dyspnea, cough, chest pain, or GI symptoms (nausea, vomiting, diarrhea, abdominal pain)
+History of e-cigarette use within past 90 daysa
+CXR and/or chest CT scan findings: Bilateral diffuse ground-glass opacities (CXR is less sensitive); findings often out of proportion to examination
+Suspicion of EVALI
+Consult pulmonology and medical toxicology
+Concern for infection (may require discussion with subspecialists)
+Yes
+No
+Yes
+No
+Treat infection first
+Respiratory symptoms improving as
+expected (team discussion)
+Continue standard of care
+• Complete blood cell count with differential
+• Sputum culture (can order induced sputum in children aged ≥13 years old or endotracheal tube culture if intubated
+• Respiratory viral panel
+• HIV
+• Blood culture
+• High-resolution chest CT scan without contrast or CT angiography of the chest if pulmonary embolus is suspected
+  (e.g., teenager is on oral contraception)
+• Electrolytes, liver function tests, serum urea nitrogen, creatinine
+• Erythrocyte sedimentation rate and/or C-reactive protein
+• Urine drug screen (especially important if vaping use > 3 months, as elicited on history)
+• Consider flexible bronchoscopy with BAL, viral and bacterial culture, fungal culture, cytology
+• Consider rheumatologic work-up
+• PFTs: Spirometry, lung volumes (TLC), DLCO
+• 6MWT when patient is stable
+1. Treatment with systemic glucocorticoidsb
+2. PFTs before and after steroids if possible: Spirometry, TLC, DLCO, 6MWT when
+    patient is stable
+3. Consult psychiatry if concerns for chemical dependency
+4. Consult child life and social work
+5. Discharge with steroid taper per pulmonology (longer taper if bronchiolitis obliterans
+    are seen on transbronchial biopsy specimen, if biopsy was done)
+6. Discharge with primary care visit within 1–2 days and pulmonology clinic
+    appointment within 2 weeks
+7. Consider referral to teenager recovery program (addiction treatment program)
+Glucocorticoid treatment considerationsb
+• High dose (1 g IV daily for 3 doses): Moderate-severe disease on CT scan, patients in
+  the ICU, lack of improvement with lower dose
+• Moderate dose (500 mg IV daily for 3 doses): moderate disease on CT scan,
+  mild hypoxemia not improving, mild PFT abnormalities, lack of improvement
+  with lower dose
+• Low dose (60–300 mg/day IV for 3–5 days); mild disease on CT scan, mild or no
+  hypoxemia, normal PFT and/or normal 6MWT results, concern for coinfection
+• Oral dose (30–40 mg twice daily for 5 days): mild disease on CT scan, no hypoxemia,
+  normal PFT results, minimal respiratory symptoms, concern for coinfection,
+  systemic hypertension
+Fig. 4.17  Clinical algorithm for pediatric patients hospitalized for suspected electronic cigarette or vaping prod­
+uct use–associated lung injury (EVALI). The algorithm includes U.S. Centers for Disease Control and Prevention 
+(CDC)-­based diagnostic criteria, recommended consultations, laboratory work-­up and imaging, and recommended 
+treatment and follow-­up.a May need to speak with peers and family, especially for patients who are intubated. 
+bGlucocorticoid dosage considerations. 6MWT, 6-­minute walk test; CXR, chest radiography; DLCO, diffusing 
+capacity for carbon monoxide; GI, gastrointestinal; IV, intravenously; PFT, pulmonary function test; TLC, total 
+lung capacity. (From Rao DR, Maple KL, Dettori A, et al. Clinical features of e-­cigarette, or vaping, product use-­
+associated lung injury in teenagers. Pediatrics. 2020;146[1]:e20194104. https://doi.org/10.1542/peds.2019-­4104.)
+TABLE 4.16  Case Definition for Multisystem Inflammatory Syndrome in Children (MIS-­C)
+ • An individual aged <21 yr presenting with fever,* laboratory evidence of inflammation,† and evidence of clinically severe illness requiring hospitalization, with 
+multisystem (two or more) organ involvement (cardiac, renal, respiratory, hematologic, gastrointestinal, dermatologic, or neurologic); AND
+ • No alternative plausible diagnoses; AND
+ • Positive for current or recent SARS-­CoV-­2 infection by RT-­PCR, serology, or antigen test; or COVID-­19 exposure within the 4 wk prior to the onset of symptoms
+*Fever >38.0°C for ≥24 hr, or report of subjective fever lasting ≥24 hr.
+†Including, but not limited to, one or more of the following: an elevated C-­reactive protein, erythrocyte sedimentation rate, fibrinogen, procalcitonin, 
+d-­dimer, ferritin, lactic acid dehydrogenase, or interleukin 6, elevated neutrophils, reduced lymphocytes, and low albumin.
+RT-­PCR, reverse transcription polymerase chain reaction.
+From Centers for Disease Control and Prevention (https://emergency.cdc.gov/han/2020/han00432.asp).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+TABLE 4.17  Clinical Criteria for COVID-­19
+In the absence of a more likely diagnosis:
+ • At least two of the following symptoms:
+ • Fever (measured or subjective)
+ • Chills
+ • Rigors
+ • Myalgia
+ • Headache
+ • Sore throat
+ • Nausea or vomiting
+ • Diarrhea
+ • Fatigue
+ • Congestion or runny nose
+OR
+ • Any one of the following symptoms:
+ • Cough
+ • Shortness of breath
+ • Difficulty breathing
+ • New olfactory disorder
+ • New taste disorder
+OR
+ • Severe respiratory illness with at least one of the following:
+ • Clinical or radiographic evidence of pneumonia
+ • Acute respiratory distress syndrome (ARDS)
+Laboratory Criteria
+Laboratory evidence using a method approved or authorized by the Food and Drug Administration (FDA) or designated authority:
+Confirmatory* laboratory evidence:
+ • Detection of severe acute respiratory syndrome–coronavirus 2 ribonucleic acid (SARS-­CoV-­2 RNA) in a clinical or an autopsy specimen using a molecular amplifi­
+cation test
+Presumptive* laboratory evidence:
+ • Detection of SARS-­CoV-­2 by antigen test in a respiratory specimen
+Supportive* laboratory evidence:
+ • Detection of specific antibody in serum, plasma, or whole blood
+ • Detection of specific antigen by immunocytochemistry in an autopsy specimen
+Epidemiologic Linkage
+One or more of the following exposures in the prior 14 days:
+ • Close contact† with a confirmed or probable case of COVID-­19 disease
+ • Member of a risk cohort as defined by public health authorities during an outbreak
+Criteria to Distinguish a New Case from an Existing Case
+A repeat positive test for SARS-­CoV-­2 RNA using a molecular amplification detection test within 3 mo of the initial report should not be enumerated as a new case for surveil­
+lance purposes. To date, there has been minimal evidence of reinfection among persons with a prior confirmed COVID-­19 infection and growing evidence that repeat positive 
+RNA tests do not correlate with active infection when viral culture is performed. Similarly, the experience with other coronaviruses is that reinfection is rare within the first 
+year. NOTE: The time period of 3 mo will be extended further when more data become available to show that risk of reinfection remains low within 1 yr of the initial report.
+Case Classification
+Suspect
+ • Meets supportive laboratory evidence‡ with no prior history of being a confirmed or probable case.
+Probable
+ • Meets clinical criteria AND epidemiologic linkage with no confirmatory laboratory testing performed for SARS-­CoV-­2
+ • Meets presumptive laboratory evidence
+ • Meets vital records criteria with no confirmatory laboratory evidence for SARS-­CoV-­2
+Confirmed
+ • Meets confirmatory laboratory evidence
+Other Criteria
+Vital Records Criteria
+ • A death certificate that lists COVID-­19 disease or SARS-­CoV-­2 as an underlying cause of death or a significant condition contributing to death.
+*The terms confirmatory, presumptive, and supportive are categorical labels used here to standardize case classifications for public health surveil­
+lance. The terms should not be used to interpret the utility or validity of any laboratory test methodology.
+†Close contact is generally defined as being within 6 feet for at least 15 min. However, it depends on the exposure level and setting; for example, in 
+the setting of an aerosol-generating procedure in health care settings without proper personal protective equipment (PPE), this may be defined as 
+any duration. Data are insufficient to precisely define the duration of exposure that constitutes prolonged exposure and thus a close contact.
+‡For suspect cases (positive serology only), jurisdictions may opt to place them in a registry for other epidemiologic analyses or investigate to deter­
+mine probable or confirmed status.
+From Centers for Disease Control and Prevention. Coronavirus disease 2019 (COVID-­19): 2020 interim case definition. Approved August 5, 2020. 
+https://wwwn.cdc.gov/nndss/conditions/coronavirus-­disease-­2019-­covid-­19/case-­definition/2020/08/05/
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+82
+SECTION 2   Respiratory Disorders
+Stage I
+(early infection)
+Viral response phase
+Host inflammatory response phase
+Severity of illness
+Stage II
+(pulmonary phase)
+IIA
+IIB
+Mild constitutional symptoms
+Fever >99.6˚F
+Dry cough
+Lymphopenia
+Remdesivir
+Reduce immunosuppression
+(avoid excess steroids)
+Careful use of corticosteroids; statins; human immunoglobulin,
+IL-1/IL-2/IL-6/JAK inhibitors/GM-CSF inhibitors
+Shortness of breath without
+(IIA) and with hypoxia (IIB)
+(PaO2/FiO2 ≤300 mm Hg)
+Abnormal chest imaging
+Transaminitis
+Low-normal procalcitonin
+ARDS
+SIRS/shock
+Cardiac failure
+Elevated inflammatory markers
+(CRP, LDH, IL-6, D-dimer, ferritin)
+Troponin, NT-proBNP elevation
+Clinical
+symptoms
+Clinical signs
+Potential
+therapies
+Time course
+Stage III
+(hyperinflammation phase)
+Fig. 4.18  Staging of acute COVID-­19 infection. Classification of COVID-­19 disease states and potential ther­
+apeutic targets. The figure illustrates three escalating phases of COVID-­19 disease progression, with asso­
+ciated signs, symptoms, and potential phase-­specific therapies. ARDS, acute respiratory distress syndrome; 
+JAK, Janus kinase; LDH, lactate dehydrogenase; NT-­proBNP, N-­terminal pro B-­type natriuretic peptide; SIRS, 
+systemic inflammatory response syndrome; GM-­CSF, granulocyte macrophage colony-­stimulating factor. 
+(Modified from Siddiqi HK, Mehra MR. COVID-­19 illness in native and immunosuppressed states: a clinical-­
+therapeutic staging proposal. J Heart Lung Transpl. 2020;39[5]:405–407 [Fig. 1, p. 406].)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+83
+CHAPTER 4  Respiratory Distress
+A
+H
+I
+G
+B
+C
+D
+E
+F
+Fig. 4.19  Chest radiography and chest CT findings of children with COVID-19 in conjunction with symptom and time interval between imaging studies. (A 
+and B) Imaging findings of a 13-year-old female patient with COVID-19. A, Posteroanterior chest radiograph of a 13-year-old female patient presented with 
+fever for 2 days. Chest radiography and chest CT images were obtained on the same day. The chest radiography was normal. B, Chest CT image in the axial 
+plan revealed a single, peripheral located, ground-glass opacity (GGO) at the posterobasal segment of the right lower lobe. The opacity was obscured with 
+the right liver lobe and diaphragm on chest radiography. (C and D) Imaging findings of a 10-year-old male patient with COVID-19. C, Posteroanterior chest 
+radiograph of a 10-year-old male patient presented with cough and fever for 2 days. Chest radiography and chest CT images were obtained on the same 
+day. The chest radiography revealed peripheral GGO (arrow) at the basal segments of the right liver lobe. D, Axial section chest CT examination revealed 
+bronchovascular distributed GGOs in a 10-year-old male patient at the periphery of the basal segments of the right lower lobe. (E and F) Imaging findings 
+of a 13-year-old male patient with COVID-19. E, Posteroanterior chest radiograph of a 13-year-old male patient presented with cough and fever for 2 days. 
+Chest radiography and chest CT images were obtained on the same day. The chest radiography was interpreted as normal. F, Axial chest CT image of the 
+13-year-old male patient without contrast demonstrates bilateral, multifocal, peripheral, and perivascular distributed millimetric nodular-shaped GGOs. The 
+opacities were not detected on chest radiography due to the smaller size and lower density. (G and H) Imaging findings of a 16-year-old female patient with 
+COVID-19. G, Posteroanterior chest radiograph of the 16-year-old female patient presented with cough and fever for 3 days. Chest radiography and chest 
+CT images were obtained on the same day. The chest radiography demonstrates paramediastinal GGO at the right upper lobe (red frame). H, Axial chest CT 
+image of the 16-year-old female patient without contrast demonstrates peripherally distributed GGO at the right upper lobe with an interlobular interstitial 
+thickening. I, Anteroposterior chest radiography of an intubated 15-year-old female patient who presented with diarrhea and hypotension on the 4th day of 
+fever demonstrates diffusely distributed GGOs in the right lung in addition to left perihilar and basilar opacities. Right-sided pleural effusion (arrows) was 
+also depicted. The patient was diagnosed with multisystem inflammatory syndrome associated with COVID-19, and she was the only patient that resulted 
+in COVID-19–related pediatric death in our clinic. Laboratory examinations revealed lymphopenia (6.64 × 10 9/L), thrombocytopenia (94 × 10 9/L), elevated 
+creatinine (1.24 mg/dL), troponin-T (37.45 pg/mL), PRO-BNP (5578 pg/mL), bilirubin (0.48 mg/dL), alanine transaminase (43.8 (U/L), and C-reactive protein 
+(377 mg/L). (From Bayramoglu Z, Canıpek E, Comert RG, et al. Imaging Features of Pediatric COVID-19 on Chest Radiography and Chest CT: A Retrospective, 
+Single-Center Study. Acad Radiol. 2021;28:18–27. Fig. 1.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+84
+SECTION 2   Respiratory Disorders
+A
+B
+Fig. 4.20  Axial (A) and coronal (B) contrast enhanced chest CT in a 16-year-old female with cough, fever, and 
+tachycardia, who was COVID-19 positive. The images show geographic ground-glass opacities with septal 
+thickening (crazy paving) in the left lower lobe, with increased density near the diaphragm. (From Rom­
+berg EK, Menashe SJ, Kronman MP, et al. Pediatric radiologic manifestations of COVID-19. Clin Imaging. 
+2021;75:165–170. Fig. 6.)
+   	 S U MMA RY  A N D  R E D  F L A G S
+Respiratory distress may be a result of disorders of the extratho­
+racic or intrathoracic airways (intrinsic or extrinsic compression-­
+obstruction), alveoli, pulmonary vasculature, pleural spaces, or 
+thorax. The distress may be secondary to pulmonary, cardiovascular, 
+hematologic, or central nervous system diseases. The most important 
+aspect of the evaluation of a child with respiratory distress is obser­
+vation of the child’s breathing pattern and a brief, directed history 
+and physical examination. Laboratory testing, imaging studies and/or 
+endoscopy may be required. Once the cause is identified, treatment 
+should be started quickly to avoid progression to respiratory failure.
+Red flags for impending respiratory failure include cyanosis, dys­
+pnea as well as sudden onset of distress (epiglottitis, foreign body aspi­
+ration), hemoptysis, severe retractions, lethargy, a sitting up–leaning 
+forward posture, dysphagia, drooling, and aphonia. It is imperative 
+to identify the symptoms of impending respiratory failure (decreased 
+mental status, cyanosis) and not delay treatment with unnecessary 
+clinical or radiologic studies. It is also important not to miss a foreign 
+body, which with time may produce chronic respiratory disease that is 
+often confused with pneumonia or asthma.
+Signs of a more chronic process include lack of resolution with 
+normal therapy, chronicity of symptoms, positive family history, dig­
+ital clubbing, weight loss, and/or failure to thrive. These signs should 
+prompt further work-­up and consultation with a pulmonary specialist 
+as needed. Asthma will rarely cause digital clubbing, so its presence 
+should raise concern for another underlying primary lung disease 
+process.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+84.e1
+BIBLIOGRAPHY
+General
+Bohadana A, Izbicki G, Kraman SS. Fundamentals of lung auscultation. N Engl 
+J Med. 2014;370:744–751.
+Davis JL, Murray JF. History and physical examination. In: Broaddus VC, 
+Mason RJ, Ernst JD, et al., eds. Murray and Nadel’s Textbook of Respiratory 
+Medicine. 6th ed. Philadelphia: Saunders-­Elsevier; 2016:263–277.e2.
+Meeks M, Bush A. Primary ciliary dyskinesia (PCD). Pediatr Pulmonol. 
+2000;29:307–316.
+Ryu J, Hagood JS, Haddad GG. Diagnostic approach to respiratory disease. In: 
+Kliegman RM, St. Geme JW, et al., eds. Nelson’s Textbook of Pediatrics. 21st 
+ed. Philadelphia: Elsevier; 2020:2150–2161.
+Viteri SD, Sampayo EM. Respiratory distress. In: Florin TA, Ludwig S, eds. 
+Netter’s Pediatrics. Philadelphia: Elsevier-­Saunders; 2011:17–23.
+Zarogoulidis P, Kioumis I, Pitsiou G, et al. Pneumothorax: from definition to 
+diagnosis and treatment. J Thorac Dis. 2014;6:S372–S376.
+Wheezing
+Bajantri B, Venkatram S, Diaz-­Fuentes G. Mycoplasma pneumoniae: a poten­
+tially severe infection. J Clin Med Res. 2018;(7):535–544.
+Bakker DA, Berger RM, Witsenburg M, et al. Vascular rings: a rare cause of 
+common respiratory symptoms. Acta Pediatr. 1999;88:947–952.
+Cave AJ, Atkinson LL. Asthma in preschool children: a review of diagnostic 
+challenges. J Am Board Fam Med. 2014;27:538–548.
+Ducharme FM, Tse SM, Chauhan B. Diagnosis, management, and prognosis of 
+preschool wheeze. Lancet. 2014;383:1593–1604.
+Esposito S, Blasi F, Arosio C, et al. Importance of acute Mycoplasma pneumoni­
+ae and Chlamydia pneumoniae infections in children with wheezing. Eur 
+Respir J. 2000;16:1142–1146.
+Gardiner SJ, Gavranich JB, Chang AB. Antibiotics for community-­acquired 
+lower respiratory tract infections secondary to Mycoplasma pneumoniae in 
+children. Cochrane Database Syst Rev. 2015;1:CD004875.
+Global Initiative for Asthma. GINA report: global strategy for asthma man­
+agement and prevention; 2020. Available online at: https://ginasthma.org/
+gina-­reports/.
+Johnson JD, Theurer WM. A stepwise approach to the interpretation of pulmo­
+nary function tests. Am Fam Physician. 2014;89:359–366.
+NHLBI/National Asthma Education and Prevention Program. Expert Panel 
+Report 3: Guidelines for the Diagnosis and Management of Asthma. NIH 
+Publication; 2007.
+Principi N, Esposito S, Blasi F, et al. Role of Mycoplasma pneumoniae and 
+Chlamydia pneumoniae in children with community-­acquired lower respi­
+ratory tract infections. Clin Infect Dis. 2001;32:1281–1289.
+Ralston SL, Lierthal AS, Messiner HC, et al. The diagnosis, management, and 
+prevention of bronchiolitis. Pediatrics. 2014;134:e1474–e1502.
+Tesse R, Borrelli G, Mongelli G, et al. Treating pediatric asthma according to 
+guidelines. Front Pediatr. 2018;6:1–7.
+Wagner T. Bronchiolitis. Pediatr Rev. 2009;30:386–395. https://www.nhlbi.nih.
+gov/health-­topics/all-­publications-­and-­resources/2020-­focused-­updates-­
+asthma-­management-­guidelines.
+Stridor
+Ahmad SM, Soliman AM. Congenital anomalies of the larynx. Otolaryngol 
+Clin North Am. 2007;40:177–191.
+Alcaide ML, Bisno AL. Pharyngitis and epiglottitis. Infect Dis Clin North Am. 
+2007;21:449–469.
+D’Souza JN, Schroeder JW. Congenital anomalies of the larynx, trachea, and 
+bronchi. In: Kliegman RM, St. Geme JW, et al., eds. Nelson’s Textbook of 
+Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:2207–2211.
+Friedman ER, Robson CD, Hudgins PA. Pediatric airway disease. In: Som PM, 
+Curtin HD, eds. Head and Neck Imaging. 5th ed. St. Louis: Mosby-­Elsevier; 
+2011:1811–1903.
+Halpin LJ, Anderson CA, Corriette N. Stridor in children. BMJ. 
+2010;340:c2193.
+Ida JB, Thompson DM. Pediatric stridor. Otolaryngol Clin North Am. 
+2014;47:795–819.
+Rodrigues KK, Roosevelt GE. Acute inflammatory upper airway obstruction 
+(croup, epiglottitis, laryngitis, and bacterial tracheitis). In: Kliegman RM, 
+St. Geme JW, et al., eds. Nelson’s Textbook of Pediatrics. 21st ed. Philadel­
+phia: Elsevier; 2020:2202–2206.
+Valika T, Schroeder JW. Laryngotracheal stenosis and subglottic stenosis. In: 
+Kliegman RM, St. Geme JW, et al., eds. Nelson’s Textbook of Pediatrics. 20th 
+ed. Philadelphia: Elsevier; 2020:2213.
+Cough
+Agrawal R, Chakabarti A, Shah A, et al. Allergic bronchopulmonary aspergil­
+losis: review of literature and proposal of new diagnostic and classification 
+criteria. Clin Exp Allergy. 2013;43:850–873.
+Bradley JS, Byington CL, Shah SS, et al. Executive summary: the management 
+of community acquired pneumonia in infants and children older than 3 
+months: clinical practice guidelines by the Pediatric Infectious Disease 
+Society and the Infectious Diseases Society of America. Clin Infect Dis. 
+2011;53:617–630.
+Gereige RS, Laufer PM. Pneumonia. Pediatr Rev. 2013;34:438–456.
+Howenstine MS, Eigen H. Current concepts on interstitial lung disease in 
+children. Curr Opin Pediatr. 1999;11:200–204.
+Hu X, Lee JS, Pianosis PT, et al. Aspiration related pulmonary syndromes. 
+Chest. 2015;147:815–823.
+Kelly MS, Sandora TJ. Community acquired pneumonia. In: Kliegman RM, St. 
+Geme JW III, Blum NJ, et al. (eds): Nelson Textbook of Pediatrics. 21st ed. 
+Philadelphia: Elsevier; 2020.
+Kurland G, Deterding RR, Hagood JS, et al. An official American Thoracic 
+Society clinical practice guideline: classification, evaluation, and manage­
+ment of childhood interstitial lung disease in infancy. Am J Resp Crit Care 
+Med. 2013;188:376–394.
+Sullivan JS, Sundaram SS. Gastroesophageal reflux. Pediatr Rev. 2012;33:243–
+254.
+Wark PA, Gibson PG. Allergic bronchopulmonary aspergillosis: new concepts 
+of pathogenesis and treatment. Respirology. 2001;6:1–7.
+Other Causes
+Ahmed M, Advani S, Moreira A, et al. Multisystem inflammatory syndrome in 
+children: a systematic review. EClinical Medicine. 2020;26:100527.
+Artunduaga M, Rao D, Friedman J, et al. Pediatric chest radiographic and CT 
+findings of electronic cigarette or vaping product use – associated lung 
+injury (EVALI). Radiology. 2020;295:430–438.
+Batra PS, Holinger LD. Etiology and management of pediatric hemoptysis. 
+Arch Otolaryngol Head Neck Surg. 2001;127(4):377–382.
+Bayramoglu Z, Canipek E, Comert RG, et al. Imaging features of pediatric 
+COVID-­19 on chest radiography and chest CT: a retrospective, single-­
+center study. Acad Radiol. 2021;28(1):18–27. https://doi.org/10.1016/j.
+acra.2020.10.002. Epub 2020 Oct 5.
+Cai J, Xu J, Lin D, et al. A case series of children with 2019 novel corona­
+virus infection: clinical and epidemiological features. Clin Infect Dis. 
+2020;71(6):1547–1551.
+Centers for Disease Control and Prevention. Coronavirus disease 2019 
+(COVID-­19) 2020 interim case definition, approved August 5, 2020. 
+https://wwwn.cdc.gov/nndss/conditions/coronavirus-­disease-­2019-­
+covid-­19/case-­definition/2020/08/05/.
+Centers for Disease Control and Prevention. Electronic cigarettes. www.
+cdc.gov/tobacco/basic_information/e-­cigarettes/severe-­lung-­disease/
+healthcare-­providers/index.html.
+Centers for Disease Control and Prevention. Information for healthcare 
+providers about multisystem inflammatory syndrome in children (MIS-­C) 
+partner updates. https://www.cdc.gov/mis-­c/hcp/.
+Centers for Disease Control and Prevention. Interim clinical guidance for 
+management of patients with confirmed coronavirus disease (COVID-­19). 
+https://www.cdc.gov/coronavirus/2019-­ncov/hcp/clinical-­guidance-­
+management-­patients.html.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+84.e2
+SECTION 2   Respiratory Disorders
+Centers for Disease Control and Prevention. Multisystem inflammatory 
+syndrome in children (MIS-­C) associated with coronavirus disease 2019 
+(COVID-­19). https://emergency.cdc.gov/han/2020/han00432.asp.
+Chao JY, Derespina KR, Herold BC, et al. Clinical characteristics and 
+outcomes of hospitalized and critically ill children and adolescents with 
+coronavirus disease 2019 (COVID-­19) at a tertiary care medical center in 
+New York City. J Pediatr. 2020;223:14–19.e2.
+Cui X, Zhang T, Zheng J, et al. Children with coronavirus disease 2019: a 
+review of demographic, clinical, laboratory and imaging features in 2,597 
+pediatric patients. J Med Virol. 2020;92(9):1501–1510.
+DeBiasi RL, Song X, Delaney M, et al. Severe COVID-­19 in children and 
+young adults in the Washington, DC metropolitan region. J Pediatr. 
+2020;223:199–203.e1.
+Dong Y, Mo X, Hu Y, et al. Epidemiological characteristics of 2,143 pediatric 
+patients with 2019 coronavirus disease in China. Pediatrics. 2020.
+FDA website: https://www.fda.gov/news-­events/press-­announcements/
+coronavirus-­covid-­19-­update-­fda-­authorizes-­drug-­combination-­
+treatment-­covid-­19.
+FDA website: https://www.fda.gov/news-­events/press-­announcements/
+coronavirus-­covid-­19-­update-­fda-­authorizes-­monoclonal-­antibody-­
+treatment-­covid-­19.
+Gonsalves CL, Zhu JW, Kam AJ. Diagnosis and acute management of E-­
+cigarette or vaping product use-­associated lung injury in the pediatric 
+population: a systematic review. J Peds. 2021;228:260–270.
+Hoang A, Chorath K, Moreira A, et al. COVID-­19 in 7780 pediatric patients: a 
+systematic review. EClinical Medicine. 2020;24:100433.
+Jiang L, Tang K, Levin M, et al. COVID-­19 and multisystem inflammatory syn­
+drome in children and adolescents. Lancet Infect Dis. 2020;20:e276–e288.
+Katal S, Johnston SK, Johnston JH, et al. Imaging findings of SARS-­CoV-­2 
+infection in pediatrics: a systematic review of coronavirus disease 2019 
+(COVID-­19) in 850 patients. Acad Radiol. 2020;27:1608–1621.
+Kazachkov M, Pirzada. Diagnosis of EVALI in the COVID-­19 era. Lancet 
+Respir Med. 2020;8(12):1169–1170.
+Kim L, Whitaker M, O’Halloran A, et al. Hospitalization rates and character­
+istics of children aged <18 years hospitalized with laboratory-­confirmed 
+COVID-­19, COVID-­NET, 14 states, March 1-­July 25, 2020. MMWR (Morb 
+Mortal Wkly Rep). 2020;69(32):1081–1088.
+Kligerman S, Raptis C, Larsen B, et al. Radiologic, pathologic, clinical, and 
+physiologic findings of electronic cigarette or vaping product use-­
+associated lung injury (EVALO): evolving knowledge and remaining 
+questions. Radiology. 2020;294:491–505.
+Laws RL, Chancey RJ, Rabold EM, et al. Symptoms and transmission of 
+SARS-­CoV-­2 among children – Utah and Wisconsin, March-­May 2020. 
+Pediatrics. 2021;147(1):e2020027628.
+Oualha M, Bendavid M, Berteloot L, et al. Severe and fatal forms of COVID-­19 
+in children. Arch de Pediatrie. 2020;27:235–238.
+Rao DR, et al. Clinical features of E-­cigarette, or vaping, product use-­
+associated lung injury in teenagers. Pediatrics. 2020;146:e20194104.
+Reddy A, et al. Characterizing e-­cigarette vaping-­associated lung injury in the 
+pediatric intensive care unit. Pediatr Pulmonol. 2021;56(1):162–170.
+Schier JG, Meiman JG, Layden J, et al. Severe pulmonary disease associated 
+with electronic-­cigarette–product use — interim guidance. MMWR Morb 
+Mortal Wkly Rep. 2019;68:787–790. https://doi.org/10.15585/mmwr.
+mm6836e2external icon.
+Shnayder R, Needleman JP. Hemoptysis. Pediatrics in review. 2018; 39(6):319–
+321.
+Siddiqi HK, Mehra MR. COVID-­19 illness in native and immunosuppressed 
+states: a clinical-­therapeutic staging proposal. J Heart Lung Transpl 
+202;39(5):405–407.
+Steinberger S, Lin B, Bernheim A, et al. CT features of coronavirus disease 
+(COVID-­19) in 30 pediatric patients. AJR. 2020;215:1303–1311.
+Sun D, Li H, Lu XX, et al. Clinical features of severe pediatric patients with 
+coronavirus disease 2019 in Wuhan: a single center’s observational study. 
+World J Pediatr. 2020;16:251–259.
+Tagarro A, Epalza C, Santos M, et al. Screening and severity of coronavirus 
+disease 2019 (COVID-­19) in children in Madrid, Spain. JAMA Pediatr. 
+2021;175(3):316–317.
+Thakrar PD, Boyd KP, Swanson CP, et al. E-­cigarette, or vaping, product use-­
+associated lung injury in adolescents: a review of imaging features. Pediatr 
+Radiol. 2020;50:338–344.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

@@ -1,0 +1,1971 @@
+9
+Most causes of sore throat are nonbacterial and neither require nor are 
+alleviated by antibacterial therapy (Tables 2.1, 2.2, and 2.3). Accurate 
+diagnosis is essential. Acute streptococcal pharyngitis warrants proper 
+diagnosis and prompt therapy to prevent serious suppurative and non­
+suppurative sequelae. Life-­threatening complications of oropharyngeal 
+infections, whether caused by streptococci or other pathogens, may 
+manifest initially with poorly differentiated symptoms of mouth pain 
+and pharyngitis and then extend into the parapharyngeal space, cause 
+jugular venous thrombophlebitis, or result in critical airway obstruc­
+tion (Tables 2.4 and 2.5). Noninfectious causes of sore throat, such 
+as solid tumors, hematologic malignancy, or Kawasaki disease, if not 
+appropriately diagnosed, may similarly carry a high risk of morbid­
+ity and even mortality. In most cases, history and physical examina­
+tion identify the etiology of a sore throat or sufficiently narrow the 
+differential diagnosis so as to direct an evaluation strategy or empiric 
+treatment. It is important to note that in many of these diseases sore 
+throat is not the defining symptom but part of a systemic illness 
+(e.g., measles, COVID-­19, Kawasaki disease).
+VIRAL PHARYNGITIS
+Most episodes of pharyngitis are caused by viruses (see Tables 2.2 
+and 2.3). It is difficult to precisely distinguish between viral and bac­
+terial pharyngitis on clinical grounds, though certain clues may help. 
+Accompanying findings of rhinitis, conjunctivitis, cough, croup, lar­
+yngitis, or discrete oropharyngeal ulcerations are common with viral 
+infection but are rare in bacterial pharyngitis (Table 2.6).
+Many viruses can produce pharyngitis (see Tables 2.2 and 2.3). 
+Some cause distinct clinical syndromes that are readily diagnosed 
+without laboratory testing (Table 2.7; see also Tables 2.1 and 2.4). In 
+pharyngitis caused by parainfluenza viruses, influenza viruses, rhino­
+viruses, coronaviruses, and respiratory syncytial viruses, symptoms 
+of coryza and cough often overshadow sore throat, which is generally 
+mild. Parainfluenza viruses are associated with croup and bronchiol­
+itis; minor sore throat and signs of pharyngitis are common at the out­
+set but rapidly resolve. Influenza infection is often associated with high 
+fever, cough, headache, malaise, myalgia, and cervical adenopathy in 
+addition to pharyngitis. In young children, croup or bronchiolitis may 
+develop. When influenza is suspected on clinical and epidemiologic 
+grounds or confirmed by testing (polymerase chain reaction [PCR] is 
+most accurate), specific antiviral therapy is available for treatment of 
+patients and prophylaxis of family members and other close contacts. 
+In young children, respiratory syncytial virus (RSV) infection is asso­
+ciated with bronchiolitis and, to a lesser degree, pneumonia and croup. 
+In older children, RSV infection is usually indistinguishable from a 
+simple upper respiratory tract infection. Pharyngitis is not a promi­
+nent finding of RSV infection in any age group. Infections caused by 
+parainfluenza, influenza, and RSV are often seen in seasonal (winter) 
+epidemics. Many viral pathogens can be identified using multiplex or 
+targeted PCR testing, but there is rarely reason to test patients in the out­
+patient setting and infrequent benefit to testing in the inpatient setting, 
+except to confirm and treat influenza.
+Adenoviruses can cause upper and lower respiratory tract disease, 
+ranging from ordinary colds to severe pneumonia and multisystem 
+disease, including hepatitis, myocarditis, and myositis. The incubation 
+period of adenovirus infection is 2–4 days. Upper respiratory tract 
+infection typically produces fever, erythema of the pharynx, and fol­
+licular hyperplasia of the tonsils, together with exudate. Enlargement 
+of the cervical lymph nodes occurs frequently. When conjunctivitis 
+occurs in association with adenoviral pharyngitis, the resulting syn­
+drome is called pharyngoconjunctival fever. Pharyngitis may last as 
+long as 7 days and does not respond to antibacterials. There are many 
+adenovirus serotypes; adenovirus infections may therefore develop in 
+children more than once. Outbreaks have been associated with swim­
+ming pools and contamination in health care workers. If obtained, lab­
+oratory studies may reveal a leukocytosis and an elevated ESR.
+The enteroviruses can cause sore throat. High fever is common, 
+and the throat is mildly erythematous; tonsillar exudate and cervical 
+adenopathy are unusual. Symptoms usually resolve within a few days. 
+Enteroviruses historically were classified as nonpolio enteroviruses, 
+coxsackie A viruses, coxsackie B viruses, and echoviruses, though with 
+increasing recognition of the multitude of enterovirus serotypes they 
+are now numbered consecutively as novel serotypes are identified. 
+Enteroviruses can also cause meningitis, acute flaccid myelitis, myo­
+carditis, rash, and two specific syndromes that involve the oropharynx: 
+herpangina and hand-­foot-­mouth disease. Herpangina is character­
+ized by distinctive discrete, painful, gray-­white papulovesicular lesions 
+distributed over the posterior oropharynx (see Table 2.7). The vesicles 
+are 1–2 mm in diameter and are initially surrounded by a halo of ery­
+thema before they ulcerate (Fig. 2.1). Fevers are typically present at 
+illness onset, last several days before abating, and may reach 39.5°C 
+or higher. The illness is typically caused by coxsackie A viruses and 
+Sore Throat
+Sarah C. Yale
+2
+SECTION 2  Respiratory Disorders
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+10
+SECTION 2  Respiratory Disorders
+generally lasts <7 days, but severe pain may impair fluid intake and 
+occasionally necessitates medical support. Hand-­foot-­mouth disease 
+is also caused by enteroviruses, most commonly coxsackievirus A16. 
+Painful vesicles that ulcerate can occur throughout the oropharynx, as 
+opposed to the lesions of herpangina, which tend to be restricted to 
+the posterior oropharynx. Vesicles also develop on the palms and soles 
+and, less often, on the trunk, extremities, or diaper region (Fig. 2.2). 
+Fever is present in most cases, but many children do not appear seri­
+ously ill. Illness typically lasts <7 days.
+Primary infection caused by herpes simplex virus (HSV) (Fig. 2.3) 
+usually produces high fever with acute gingivostomatitis, involving 
+TABLE 2.1  Etiology of Sore Throat
+Infection
+Bacterial (see Tables 2.2 and 2.3)
+Viral (see Tables 2.2 and 2.3)
+Fungal (see Table 2.3)
+Neutropenic mucositis (invasive anaerobic mouth flora)
+Tonsillitis
+Epiglottitis
+Uvulitis
+Tracheitis
+Peritonsillar abscess (quinsy)
+Retropharyngeal abscess (prevertebral space)
+Ludwig angina (submandibular space)
+Lateral pharyngeal space cellulitis or ­abscess
+Buccal space cellulitis
+Suppurative thyroiditis
+Lemierre syndrome (septic jugular thrombophlebitis)
+Vincent angina (mixed anaerobic bacteria–gingivitis–pharyngitis)
+Irritation
+Cigarette or electronic cigarette/vaping use
+Inhaled irritants; occupational, environmental
+Reflux esophagitis
+Allergic rhinitis
+Chemical toxins (caustic agents including household cleaners, laundry 
+detergent pods)
+Medications
+Paraquat ingestion
+Smog, air pollutants
+Dry, hot air
+Hot foods, liquids
+Shouting
+Other
+Tumor, including Kaposi sarcoma, leukemia
+Granulomatosis with polyangiitis (formerly Wegener granulomatosis)
+Sarcoidosis
+Glossopharyngeal neuralgia
+Foreign body
+Stylohyoid syndrome
+Behçet disease
+Kawasaki disease
+Posterior pharyngeal trauma—pseudodiverticulum
+Pneumomediastinum with air dissection
+Hematoma
+Systemic lupus erythematosus
+Bullous pemphigoid
+Syndrome of periodic fever, aphthous stomatitis, pharyngitis, cervical 
+adenitis (PFAPA)
+TABLE 2.2  Infectious Etiology 
+of Pharyngitis
+Definite Causes
+Streptococcus pyogenes (group A streptococci)
+Corynebacterium diphtheriae
+Arcanobacterium haemolyticum
+Neisseria gonorrhoeae
+Epstein-­Barr virus
+HIV (primary infection)
+Parainfluenza viruses (types 1–4)
+Influenza viruses
+Rhinoviruses
+Enteroviruses
+Coronavirus, including SARS-­CoV-­2
+Adenovirus (types 3, 4, 7, 14, 21, others)
+Respiratory syncytial virus
+Herpes simplex virus (types 1, 2)
+Probable or Occasional Causes
+Group C streptococci
+Group G streptococci
+Chlamydia pneumoniae
+Chlamydia trachomatis
+Mycoplasma pneumoniae
+Toxoplasma gondii
+SARS-­CoV-­2, severe acute respiratory syndrome-­coronavirus 2.
+TABLE 2.3  Additional Potential Pathogens 
+Associated with Sore Throat
+Bacteria
+Fusobacterium necrophorum (Lemierre syndrome)
+Neisseria meningitidis
+Yersinia enterocolitica
+Tularemia (oropharyngeal)
+Yersinia pestis
+Bacillus anthracis
+Chlamydia psittaci
+Secondary syphilis
+Mycobacterium tuberculosis
+Lyme disease
+Corynebacterium ulcerans
+Leptospira species
+Mycoplasma hominis
+Coxiella burnetii
+Virus
+Cytomegalovirus
+Viral hemorrhagic fevers
+HIV (primary infection)
+Human herpesvirus 6
+Measles
+Varicella
+Rubella
+Fungus
+Candida species
+Histoplasmosis
+Cryptococcosis
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+11
+CHAPTER 2  Sore Throat
+TABLE 2.4  Distinguishing Features of Parapharyngeal–Upper Respiratory Tract Infections
+Peritonsillar 
+Abscess
+Retropharyn­
+geal Abscess 
+(Cellulitis)
+Submandibular 
+Space (Ludwig 
+Angina)*
+Lateral 
+Pharyngeal 
+Space
+Masticator 
+Space*
+Epiglottitis
+Laryngotracheo­
+bronchitis 
+(Croup)
+Bacterial 
+Tracheitis
+Postanginal 
+Sepsis 
+(Lemierre 
+Syndrome)
+Etiology
+Group A 
+streptococci, oral 
+anaerobes†
+Staphylococcus 
+aureus, oral 
+anaerobes,† 
+group A 
+streptococci, 
+“suppurative 
+adenitis”
+Oral anaerobes†
+Oral anaerobes†
+Oral anaerobes†
+Haemophilus 
+influenzae type 
+b (rarely), group 
+A streptococci, 
+Streptococcus 
+pneumoniae, 
+Staphylococcus 
+aureus, and 
+non–type b 
+H. influenzae
+Parainfluenza 
+virus; influenza, 
+adenovirus, 
+and respiratory 
+syncytial virus less 
+common
+Moraxella 
+catarrhalis, 
+S. aureus, 
+H. influenzae 
+type b or 
+nontypeable
+Fusobacterium 
+necrophorum
+Age
+Teens
+Infancy, preteens, 
+occasionally 
+teens
+Teens
+Teens
+Teens
+2–5 yr
+3 mo–3 yr
+3–10 yr
+Teens
+Manifestations
+Initial episode 
+of pharyngitis, 
+followed by 
+sudden worsening 
+of unilateral 
+odynophagia, 
+trismus, hot 
+potato (muffled) 
+voice, drooling, 
+displacement of 
+uvula
+Fever, dyspnea, 
+stridor, dysphagia, 
+drooling, 
+stiff neck, 
+pain, cervical 
+adenopathy, 
+swelling of 
+posterior 
+pharyngeal space
+Descending 
+mediastinitis (rare)
+Lateral neck 
+radiograph 
+reveals swollen 
+retropharyngeal 
+prevertebral 
+space: infants, 
+>1× width of 
+adjacent vertebral 
+body (>2–7 mm); 
+teens, >1/3× 
+width of vertebral 
+body (>1–7 mm)
+CT distinguishes 
+cellulitis from 
+abscess
+Fever, dysphagia, 
+odynophagia, 
+stiff neck, 
+dyspnea; airway 
+obstruction, 
+swollen tongue 
+and floor of 
+mouth (tender)
+Muffled voice
+Severe pain, 
+fever, trismus, 
+dysphagia, 
+edematous 
+appearing, painful 
+lateral facial (jaw) 
+or neck swelling 
+(induration)
+May lead to 
+Lemierre 
+syndrome
+Pain, prominent 
+trismus, fever
+Swelling not 
+always evident
+Sudden-­onset high 
+fever, “toxic” 
+appearance; 
+muffled voice; 
+anxiety; pain, 
+retractions; 
+dysphagia; 
+drooling; stridor; 
+sitting-­up, 
+leaning-­forward 
+tripod position; 
+cherry-­red 
+swollen epiglottis
+Usually not hoarse 
+or coughing
+Lateral neck 
+radiograph shows 
+“thumb sign” of 
+swollen epiglottis
+Low-­grade fever, 
+barking cough, 
+hoarseness, 
+aphonia, stridor; 
+mild retractions; 
+radiograph shows 
+“steeple sign” 
+of subglottic 
+narrowing on 
+anteroposterior 
+neck view
+Prior history of 
+croup with 
+sudden onset 
+of respiratory 
+distress, high 
+fever, “toxic” 
+appearance, 
+hoarseness, 
+stridor, barking 
+cough, tripod 
+sitting position; 
+radiograph as 
+per croup plus 
+ragged tracheal 
+air column
+Prior pharyngitis 
+with sudden-­
+onset fever, 
+chills, 
+odynophagia, 
+neck pain, septic 
+thrombophlebitis 
+of internal 
+jugular vein 
+with septic 
+emboli (e.g., 
+lungs, joints), 
+bacteremia
+*Often odontogenic; check for tooth abscess, caries, tender teeth.
+†Peptostreptococcus, Fusobacterium, Bacteroides.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+12
+SECTION 2  Respiratory Disorders
+vesicles throughout the anterior portion of the mouth, including the 
+lips; vesicles eventually ulcerate. There is sparing of the posterior phar­
+ynx in herpes gingivostomatitis; the infection usually occurs in young 
+children. High fever is common, pain is intense, and intake of oral 
+fluids is often impaired, which may lead to dehydration and need for 
+medical support. In adolescents, HSV may manifest as poorly differ­
+entiated pharyngitis. Approximately 35% of new-­onset HSV-­positive 
+adolescent patients have herpetic lesions; most teenage patients with 
+HSV pharyngitis cannot be distinguished from patients with other 
+causes of pharyngitis. The classic syndrome of herpetic gingivostoma­
+titis in infants and toddlers lasts up to 2 weeks; data on the course of 
+more benign HSV pharyngitis infections in older children and adoles­
+cents are lacking. The differential diagnosis of vesicular-­ulcerating oral 
+lesions is noted in Tables 2.7 and 2.8.
+Infants and toddlers with measles often have prominent oral find­
+ings early in the course of the disease. In addition to high fever, cough, 
+coryza, and conjunctivitis, the pharynx may be intensely and diffusely 
+erythematous, without tonsillar enlargement or exudate. Koplik spots, 
+the pathognomonic white or blue-­white enanthem of measles, appear 
+on the buccal mucosa near the mandibular molars, generally before 
+the typical measles rash develops. Complications of measles include 
+ear infections, pneumonia, and encephalitis. In the United States, 
+widespread measles vaccination virtually eliminated transmission of 
+natural measles infection except among unvaccinated subpopulations 
+(e.g., children younger than 12 months old, families who have refused 
+immunization). Most recent cases are related to unimmunized visitors 
+from countries with endemic measles, although there has been a rise in 
+cases within the United States due to increasing rates of unvaccinated 
+children.
+The lesions of herpangina, hand-­foot-­mouth disease, herpes gingi­
+vostomatitis, and measles should be distinguished from noninfectious 
+aphthous ulcers, colloquially referred to as canker sores. Aphthous 
+ulcers are typically discrete, 3–5 mm in diameter, round or ovoid, with 
+a peripheral erythematous halo and a white to yellow-­white covering 
+exudate. Lesions tend to be painful, though some may be noted only 
+incidentally. An isolated episode of individual or clustered lesions may 
+be related to physical or chemical irritation, a reaction to an allergic 
+or infectious exposure, nutritional deficiency, or immune-­mediated 
+inflammation. Individuals with recurrent aphthous stomatitis may 
+lack associated features during or between episodes and experience 
+one to several outbreaks per year, a condition known as simple aphtho­
+sis. The outbreaks of simple aphthosis tend to start in late childhood 
+or adolescence, last up to 2 weeks, and abate by adulthood. Patients 
+with complex aphthosis tend to have more frequent outbreaks, have 
+more numerous and painful lesions, and occasionally have lesions on 
+the genital mucosa as well. In such circumstances, complex aphtho­
+sis must be distinguished from Behçet disease, the latter of which is a 
+systemic inflammatory disorder that may include arthritis, neurologic 
+manifestations, and cutaneous lesions, in addition to orogenital muco­
+sal aphthae (see Table 2.6).
+An autoinflammatory periodic fever syndrome known as PFAPA 
+(periodic fever, aphthous stomatitis, pharyngitis, and cervical 
+adenitis) occurs predictably every 2–8 weeks. The onset of PFAPA 
+is usually before the age of 5 years. In addition to aphthous stomati­
+tis and pharyngitis, PFAPA is characterized by high fever lasting 4–6 
+days. The diagnosis is clinical and is typically made in patients with 
+a phenotype consistent with PFAPA after excluding cyclic neutrope­
+nia, other periodic fever syndromes, infections, malignancy, and the 
+persistence of elevated acute-­phase reactants between episodes. Indi­
+vidual episodes resolve spontaneously but may respond to oral predni­
+sone. Cimetidine in PFAPA syndrome is ineffective. As corticosteroids 
+do not prevent future fever cycles, long-­term intervention may also 
+TABLE 2.5  Red Flags Associated with Sore 
+Throat
+Toxic appearance
+Shock
+Fever >2 wk
+Duration of sore throat >2 wk
+Dysphagia
+Trismus
+Stridor
+Drooling
+Dysphonia
+Cyanosis
+Hemorrhage
+Asymmetric tonsillar swelling or asymmetric cervical adenopathy
+Respiratory distress (airway obstruction or pneumonia)
+Suspicion of parapharyngeal space infection
+Suspicion of diphtheria (bull neck, uvula paralysis, thick membrane)
+Apnea
+Severe, unremitting pain
+Tripod sitting position
+“Hot potato” or muffled voice
+Chest or neck pain
+Weight loss
+Systemic lymphadenopathy
+Pharyngeal pseudomembrane
+Marked neck swelling (bull neck)
+Uvula paralysis
+Travel or exposure to individuals from diphtheria endemic region
+HIV behavioral risk
+TABLE 2.6  Findings Suggestive of Group 
+A Streptococcus and Viral Pharyngitis
+Suggestive of Group A Streptococcus
+Sudden onset
+Sore throat
+Fever >100.4°F
+Headache
+Nausea, vomiting, and abdominal pain
+Erythema of pharynx and tonsils
+Patchy discrete exudates
+Tender, enlarged anterior cervical nodes
+Patient aged 3–15 yr
+Presentation in winter or early spring
+History of exposure
+Scarlet fever
+Suggestive of Viral Etiology
+Conjunctivitis
+Coryza
+Cough
+Hoarseness
+Diarrhea
+Discrete ulcerative lesions
+Myalgia
+Typical viral rash (measles, etc.)
+Posterior cervical or generalized lymphadenopathy
+Hepatosplenomegaly
+EBV-­ampicillin rash
+EBV, Epstein-­Barr virus.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+TABLE 2.7  Vesicular-­Ulcerating Eruptions of the Mouth and Pharynx
+Gingivostomatitis Herpangina
+Hand-­Foot-­
+Mouth Disease
+Chickenpox
+Systemic Lupus 
+Erythematosus 
+(SLE)
+Inflammatory 
+Bowel Disease 
+(IBD)
+Aphthous 
+Stomatitis
+Behçet Disease
+Vincent 
+Stomatitis
+Recurrent 
+Scarifying 
+Ulcerative 
+Stomatitis 
+(Sutton 
+Disease)
+Etiology
+Herpes simplex virus 
+(HSV I)
+Coxsackievirus A, 
+B; echovirus or 
+HSV (rarely)
+Coxsackievirus A, 
+coxsackievirus B 
+(rarely)
+Varicella-­zoster 
+virus
+Autoimmune
+Autoimmune
+Unknown
+Unknown; vasculitis Unknown; or 
+anaerobic 
+bacteria
+Unknown
+Location
+Ulcerative vesicles of 
+pharynx, tongue, and 
+palate plus lesions 
+of mucocutaneous 
+(perioral) margin
+Anterior fauces 
+(tonsils), soft 
+palate (uvula), 
+less often 
+pharynx
+Tongue, buccal 
+mucosa, palate, 
+palms, soles, 
+anterior oral 
+cavity
+Tongue, gingiva, 
+buccal mucosa, 
+marked 
+cutaneous 
+lesions; trunk > 
+face
+Oral, nasal mucosa; 
+palate, pharynx, 
+buccal mucosa
+Lips, tongue, 
+buccal mucosa, 
+oropharynx
+As in IBD
+Oral (similar to 
+IBD); genital 
+ulcers
+Gingiva; ulceration 
+at base of teeth
+Tongue; buccal 
+mucosa
+Age
+<5 yr
+3–10 yr
+1 yr–teens
+Any age
+Any age
+Any age
+Teens and 
+adulthood
+Teens, adulthood, 
+occasionally 
+<10 yr
+Teens; if younger, 
+consider 
+immunodeficiency 
+and blood 
+dyscrasia
+Teens
+Manifestations Fever, mouth 
+pain, toxic, fetid 
+breath, drooling, 
+anorexia, cervical 
+lymphadenopathy; 
+cracked, swollen 
+hemorrhagic 
+gums; secondary 
+inoculation possible 
+(fingers, eye, skin); 
+reactivation with 
+long latency (any 
+age)
+Fever, sore throat, 
+odynophagia; 
+summer 
+outbreaks; 6–12 
+lesions (2–4 mm 
+papule) → vesicle 
+→ ulceration; 
+headache, 
+myalgia
+Painful bilateral 
+vesicles, fever
+Fever, pruritic 
+cutaneous 
+vesicles, painful 
+oral lesions
+Renal, central 
+nervous system, 
+arthritis, 
+cutaneous, 
+hematologic, 
+other organ 
+involvement; 
+ulcers minimally 
+to moderately 
+painful; may be 
+painless
+Multiple 
+recurrences; 
+painful 
+ulcerations 
+1–2 mm, but may 
+be 5–15 mm; 
+abdominal 
+pain, diarrhea, 
+hematochezia, 
+weight loss
+Similar to IBD
+Painful ulcerations 
+(heal without 
+scarring); uveitis, 
+arthralgia, 
+arthritis, lower 
+gastrointestinal 
+ulceration 
+(similar to IBD); 
+recurrences; 
+spontaneous 
+remissions
+Fever, bleeding 
+gums; gray 
+membrane
+Deep, large, painful 
+ulcerations; 
+relapsing; 
+scarring with 
+distortion of 
+mucosa
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+14
+SECTION 2  Respiratory Disorders
+Fig. 2.1  Herpangina with shallow ulcers in the posterior oropharynx. 
+(From Cohen J, Powderly WG. Infectious Diseases. 2nd ed. St Louis: 
+Mosby; 2004.)
+A
+B
+C
+Fig. 2.2  A, Hand-­foot-­mouth disease. Aphthae-­like erosions may appear anywhere in the oral cavity. B, 
+Hand-­foot-­mouth disease. Cloudy vesicles with a red halo are highly characteristic of this disease. C, Hand-­
+foot-­mouth disease. The pale, white, oval vesicles with a red areola are a distinguishing feature of this 
+disease. (From Dinulos JGH. Habif’s Clinical Dermatology. 7th ed. Philadelphia: Elsevier; 2021, Figs. 14.4, 
+14.6, and 14.7.)
+C
+A
+B
+Fig. 2.3  Herpes simplex infections. A, Herpetic gingivostomatitis is characterized by discrete mucosal ulcer­
+ations and diffuse gingival erythema, edema, and friability in association with fever, dysphagia, and cervical 
+adenopathy. B, Numerous yellow ulcerations with thin red halos are seen on the patient’s tongue as well. 
+C, Thick-­walled vesicles on an erythematous base were noted in this child, who showed early findings of 
+intraoral involvement. (From Michaels MG, Williams JV. Infectious diseases. In Zitelli BJ, McIntire SC, Nowalk 
+AJ, eds. Zitelli and Davis’ Atlas of Pediatric Physical Diagnosis. 7th ed. Philadelphia: Elsevier; 2018, Fig. 13.3.)
+include tonsillectomy with or without adenoidectomy, although risks 
+of surgical intervention such as anesthetic and postoperative complica­
+tions must be considered. In most patients PFAPA completely resolves 
+without sequelae before puberty; a few persist into adulthood. Some 
+patients initially diagnosed as having PFAPA actually had a monoge­
+netic recurrent fever syndrome (see Chapter 54).
+INFECTIOUS MONONUCLEOSIS
+Pathogenesis
+Acute exudative pharyngitis commonly occurs with infectious mono­
+nucleosis caused by primary infection with the Epstein-­Barr virus 
+(EBV). Mononucleosis is a febrile, systemic, self-­limited lymphopro­
+liferative disorder that is usually associated with hepatosplenomegaly 
+and generalized lymphadenopathy. Acute pharyngitis may be mild or 
+severe, with erythema, impressive tonsillar exudates, and significant 
+tonsillar hypertrophy that can result in airway obstruction. Regional 
+lymph nodes may be particularly enlarged and slightly tender. Infec­
+tious mononucleosis usually occurs in adolescents and young adults; 
+EBV infection is generally milder or subclinical in preadolescent chil­
+dren. In U.S. high school and college students, attack rates are 200–800 
+per 100,000 per year. EBV is transmitted primarily by saliva.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+15
+CHAPTER 2  Sore Throat
+Clinical Features
+After a 2–4-­week incubation period, patients with infectious mononu­
+cleosis usually experience an abrupt onset of malaise, fatigue, fever, and 
+headache, followed closely by pharyngitis. The tonsils are enlarged with 
+exudates and cervical (often posterior) adenopathy. More generalized 
+adenopathy with hepatosplenomegaly often follows. Fever and pharyn­
+gitis typically last 1–3 weeks, and lymphadenopathy and hepatospleno­
+megaly resolve over 3–6 weeks. Malaise and lethargy can persist for 
+several months and can affect school or work performance.
+Diagnosis
+The findings of acute exudative pharyngitis together with hepatomeg­
+aly, splenomegaly, and generalized lymphadenopathy suggest infec­
+tious mononucleosis. Early in the disease and in cases without liver 
+or spleen enlargement, differentiation from other causes of pharyn­
+gitis, including streptococcal pharyngitis, is difficult. Indeed, a small 
+number of patients with infectious mononucleosis have a throat 
+culture positive for group A streptococci, though these patients are 
+likely streptococcal carriers. Patients with infectious mononucleo­
+sis treated for presumed streptococcal pharyngitis with antibacteri­
+als, particularly with ampicillin or amoxicillin, frequently develop a 
+diffuse, erythematous, papular exanthem during the course of ther­
+apy that retrospectively suggests infectious mononucleosis due to 
+EBV. An indistinguishable mononucleosis syndrome can occur with 
+cytomegalovirus, but differentiation is rarely of clinical importance. 
+Acute toxoplasmosis may also present similarly. Serologic evidence of 
+mononucleosis should be sought when splenomegaly or other features 
+are present or if symptoms persist longer than expected. Laboratory 
+studies of diagnostic value include atypical lymphocytosis; these lym­
+phocytes are primarily EBV-­specific, cytotoxic T lymphocytes that rep­
+resent a reactive response to EBV-­infected B lymphocytes. A modest 
+elevation of serum aminotransferase levels, reflecting EBV hepatitis, is 
+common. Tests useful for diagnosis include detection of heterophile 
+antibodies that react with bovine erythrocytes (most often detected 
+by the monospot test) and a specific antibody against EBV viral cap­
+sid antigen (VCA), early antigen (EA), and nuclear antigen (EBNA). 
+Acute infectious mononucleosis is usually associated with a positive 
+heterophile antibody test result and the presence of antibodies to VCA 
+and EA in a specific pattern; subacute and remote infections produce 
+distinct antibody profiles (Fig. 2.4). In young children, the monospot 
+may be negative.
+Primary infection with HIV may produce a mononucleosis-­like 
+illness with sore throat, fever, lymphadenopathy, rash, myalgia, and 
+hepatosplenomegaly. Early infection may be detected by viral RNA or 
+DNA load because immunoglobulin M (IgM) or immunoglobulin G 
+(IgG) titers may have not yet developed.
+TABLE 2.8  Broad Differential Diagnosis of Oral Ulceration
+Condition
+Comment
+Common
+Aphthous ulcers (canker sores)
+Painful circumscribed lesions; recurrences
+Traumatic ulcers
+Accidents, chronic cheek biter, after dental local anesthesia
+Hand-­foot-­mouth disease
+Painful; lesions on tongue, anterior oral cavity, hands, and feet
+Herpangina
+Painful; lesions confined to soft palate and oropharynx
+Herpetic gingivostomatitis
+Vesicles on mucocutaneous borders; painful, febrile
+Recurrent herpes labialis
+Vesicles on lips; painful
+Other viruses
+HIV, varicella, EBV
+Chemical burns
+Alkali, acid, aspirin; painful
+Heat burns
+Hot food, electrical
+Drugs
+NSAIDs, chemotherapy, sulfa drugs, phenytoin, ACE inhibitors, others
+Uncommon
+Neutrophil defects
+Agranulocytosis, leukemia, cyclic neutropenia; painful
+Systemic lupus erythematosus
+Recurrent; may be painless or bullous
+Behçet syndrome
+Resembles aphthous lesions; associated with genital ulcers, uveitis
+Necrotizing ulcerative gingivostomatitis
+Vincent stomatitis; painful
+Syphilis
+Chancre or gumma; painless
+Oral Crohn disease
+Aphthous-­like; painful
+Histoplasmosis
+Lingual
+Pneumococcal sepsis or pneumonia
+Gingival cystic ulcerations
+Pemphigus
+May be isolated to the oral cavity
+Stevens-­Johnson syndrome
+May be isolated to or appear initially in the oral cavity
+Mycoplasma (MIRM)
+Rash may be absent
+RIME
+Non-­mycoplasma infections; lesions similar to MIRM; may be reactive
+PFAPA
+Unknown etiology recurrent autoinflammatory fever syndrome
+Celiac disease
+Primary or nutritional deficiencies
+Nutritional deficiencies
+Vitamin B12, iron, folate
+ACE, angiotensin-­converting enzyme; EBV, Epstein-­Barr virus; MIRM, mycoplasma-­induced rash and mucositis; NSAIDs, nonsteroidal antiinflamma­
+tory drugs; PFAPA, periodic fever, aphthous stomatitis, pharyngitis, adenitis syndrome; RIME, reactive infectious mucocutaneous eruption.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+16
+SECTION 2  Respiratory Disorders
+BACTERIAL PHARYNGITIS
+Group A Streptococcal Infection
+In evaluating a patient with sore throat, the primary concern is usu­
+ally accurate diagnosis and treatment of pharyngitis caused by group 
+A streptococci (GAS), also known as Streptococcus pyogenes, which 
+accounts for up to 30% of all episodes of pharyngitis in children in the 
+United States. The sequelae of GAS pharyngitis, especially acute rheu­
+matic fever (ARF) and poststreptococcal glomerulonephritis (PSGN), 
+at one time resulted in considerable morbidity and mortality in the 
+United States and continue to do so in other parts of the world. Preven­
+tion of ARF in particular depends on timely diagnosis of streptococcal 
+pharyngitis and prompt antibacterial treatment. Group A streptococci 
+are characterized by the presence of group A carbohydrate in the cell 
+wall, and they are further distinguished by several cell wall protein 
+antigens (M, R, T). These protein antigens, especially the M protein, a 
+virulence factor, are useful for studies of epidemiology and pathogene­
+sis but are not used in clinical care.
+Epidemiology
+Group A streptococcal pharyngitis is endemic in the United States; 
+epidemics occur sporadically. Episodes peak in the late winter and 
+early spring. Rates of GAS pharyngitis are highest among children 
+aged 5–11 years old. Spread of GAS in classrooms and among fam­
+ily members is common, especially in the presence of crowded living 
+conditions. Transmission occurs primarily by the inhalation of organ­
+isms in large droplets or by direct contact with respiratory secretions. 
+Pets do not appear to be a frequent reservoir. Untreated streptococcal 
+pharyngitis is particularly contagious early in the acute illness and for 
+the first 2 weeks after the organism has been acquired. Antibacterial 
+therapy effectively prevents disease transmission: Within 24 hours of 
+institution of therapy with penicillin, it is difficult to isolate GAS from 
+patients with acute streptococcal pharyngitis, and infected children 
+can return to school.
+Molecular epidemiology studies of streptococcal pharyngitis have 
+shown that the prevalent M protein types vary among communities 
+and over time. Numerous distinct strains of GAS can circulate simul­
+taneously in a community during the peak season. Molecular genetic 
+studies can establish the specific M protein gene (i.e., emm gene); M 
+protein identification is not available or useful for clinical care. Chil­
+dren with streptococcal pharyngitis can serve as a local reservoir for 
+strains that cause invasive disease (e.g., sepsis, streptococcal toxic 
+shock syndrome, cellulitis, necrotizing fasciitis) in the same geographic 
+area and season.
+Clinical Features
+Acute streptococcal pharyngitis classically presents with the sud­
+den onset of fever and sore throat (see Table 2.6). Headache, malaise, 
+abdominal pain, nausea, and vomiting occur frequently. Cough, rhi­
+norrhea, conjunctivitis, stridor, diarrhea, discrete ulcerated lesions, 
+and hoarseness are distinctly unusual and suggest a viral etiology (see 
+Table 2.6).
+Physical examination reveals marked pharyngeal erythema. Pete­
+chiae may be noted on the palate but can also occur in viral pharyn­
+gitis, especially mononucleosis. Tonsils are enlarged, symmetric, and 
+bright red, with patchy exudates on their surfaces. Anterior cervical 
+lymph nodes are often tender and enlarged.
+Combinations of these signs can be used to assist in diagnosis; in 
+particular, tonsillar exudates in association with fever, palatal pete­
+chiae, and tender anterior cervical lymphadenopathy strongly suggest 
+infection with GAS. However, other diseases can produce this con­
+stellation of findings, including infectious mononucleosis. Some or all 
+Heterophile antibody
+Infectious mononucleosis
+Antibody titer
+1:320
+1:160
+1:80
+1:40
+1:20
+1:10
+0
+0
+2
+4
+2
+4
+Weeks
+IgM-VCA
+(4 years)
+IgM-VCA
+(4 years)
+IgG-VCA
+Early antigen
+Nuclear antigen
+Months
+Time after Clinical Onset
+6
+1
+Years
+3
+Fig. 2.4  Schematic representation of the evolution of antibodies to various Epstein-­Barr virus antigens in 
+patients with infectious mononucleosis. The titers are geometric mean values expressed as reciprocals of the 
+serum dilution. The minimal titer tested for viral capsid antigen (VCA) and early antigen antibodies was 1:10; 
+for Epstein-­Barr nuclear antigen, it was 1:2.5. The immunoglobulin M (IgM) response to capsid antigen was 
+divided because of the significant differences noted according to age. IgG, immunoglobulin G. (From Jenson 
+HB, Ench Y, Sumaya CV. Epstein-­Barr virus. In: Rose NR, de Macario EC, Folds JD, et al., eds. Manual of 
+Clinical Laboratory Immunology. 5th ed. Washington, DC: American Society for Microbiology; 1997:634–643.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+17
+CHAPTER 2  Sore Throat
+of these classic characteristics may be absent in patients with strep­
+tococcal pharyngitis. Symptoms usually resolve within 5 days even in 
+the absence of antibacterial therapy. Younger children can have a syn­
+drome called streptococcosis—coryza with crusting below the nares, 
+more generalized adenopathy, and a more chronic course. When rash 
+accompanies the illness, accurate clinical diagnosis is easier. Scarlet 
+fever, so-­called because of the characteristic fine, diffuse red rash, is 
+essentially pathognomonic for infection with group A streptococci. 
+Scarlet fever is rarely seen in children younger than 3 years old or in 
+adults.
+Scarlet Fever
+The rash of scarlet fever is caused by infection with a strain of GAS 
+that contains a bacteriophage encoding for production of an eryth­
+rogenic (redness-­producing) toxin, usually erythrogenic (also called 
+pyrogenic) exotoxin A (designated SPE A). Scarlet fever is simply GAS 
+pharyngitis with a rash and should be explained as such to patients 
+and their families. Although patients with streptococcal toxic shock 
+syndrome are also infected with GAS that produces SPE A, most GAS 
+pharyngeal infections are not associated with development of severe 
+invasive or systemic disease.
+The rash of scarlet fever has a texture like sandpaper and blanches 
+with pressure (Figs. 2.5 and 2.6). It usually begins on the face, but after 
+24 hours, it becomes generalized. The face is red, especially over the 
+cheeks, and the area around the mouth often appears pale in compar­
+ison, giving the appearance of circumoral pallor. Accentuation of ery­
+thema occurs in flexor skin creases, especially in the antecubital fossae, 
+a finding termed Pastia lines. The papillae of the tongue may be red 
+and swollen, hence the designation “strawberry tongue.” The erythema 
+begins to fade within a few days. Desquamation begins within a week 
+of onset on the face and progresses downward, often resembling that 
+seen after mild sunburn. On occasion, sheetlike desquamation occurs 
+around the free margins of the fingernails; this is usually coarser than 
+the desquamation seen with Kawasaki disease. The differential diagno­
+sis of scarlet fever includes Kawasaki disease, measles, and staphylo­
+coccal toxic shock syndrome (Table 2.9).
+Diagnosis
+Although signs and symptoms may strongly suggest acute streptococ­
+cal pharyngitis, laboratory diagnosis is strongly recommended, even 
+for patients with scarlet fever (Fig. 2.5). Scoring systems for diagnos­
+ing acute GAS pharyngitis on clinical grounds, such as the McIsaac or 
+Centor criteria, have not proved very satisfactory. Using clinical cri­
+teria alone, physicians overestimate the likelihood that patients have 
+streptococcal infection. Historically, the throat culture on blood agar 
+plate was used to diagnose streptococcal pharyngitis, but results were 
+typically not available for 24–48 hours. Rapid antigen detection tests 
+(RADTs) that take <15 minutes can detect the presence of the cell 
+wall group A carbohydrate antigen after acid extraction of organisms 
+obtained by throat swab. These RADTs are highly specific (generally 
+>95%) when compared to throat culture. One recommendation is 
+that two throat swabs be obtained simultaneously from patients with 
+suspected GAS pharyngitis. One swab is used for a rapid test. When 
+the RADT result is positive, it is highly likely that the patient has GAS 
+pharyngitis, and the extra swab can be discarded. When the RADT is 
+negative, GAS may nonetheless be present; thus, the extra swab should 
+be processed for culture. One of the best validated scoring systems 
+for determining pretest probability in children is the McIsaac criteria 
+(fever, cervical adenopathy, tonsillar exudates, no cough, 3–15 years 
+old), but the positive predictive value of the highest McIsaac score is 
+C
+A
+B
+Fig. 2.5  A, Scarlet fever. Early eruptive stage on the trunk showing numerous pinpoint red papules. B, Fully 
+evolved eruption. Numerous papules giving a sandpaper-­like texture to the skin. C, Portions of the white coat 
+remain in the center, but the remainder of the tongue is red with engorged papillae (“strawberry tongue”). (From 
+Dinulos JGH. Habif’s Clinical Dermatology. 7th ed, Philadelphia: Elsevier; 2021, Figs. 14.9, 14.10, and 14.11.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+18
+SECTION 2  Respiratory Disorders
+only about 60%. In contrast, a score ≤2 is associated with a negative 
+predictive value of about 80%. The presence of viral symptoms such as 
+cough, rhinorrhea, conjunctivitis, laryngitis, stridor, croup, or diarrhea 
+decreases the likelihood that the illness is due to GAS. Patients with a 
+negative RADT result should not be treated before culture verification 
+unless there is a particularly high suspicion of GAS infection (e.g., scar­
+let fever, peritonsillar abscess, or tonsillar exudates in addition to ten­
+der cervical adenopathy, palatal petechiae, fever, and recent exposure 
+to a person with GAS pharyngitis).
+Nucleic acid amplification tests (NAATs) for GAS are available for 
+use in hospital and reference laboratories and are supplanting RADTs 
+in many settings. These simplified molecular tests use methods that 
+amplify the DNA of a specific GAS gene. They take <1 hour to perform 
+and are reported to have both sensitivity and specificity ≥99% when 
+compared to standard throat culture and PCR. They can be used as a 
+“stand-­alone” test for GAS or as a confirmatory test when the RADT 
+is negative. There are three concerns with these molecular tests: (1) 
+they are so sensitive it is likely they may identify more patients who 
+are carriers than would ordinarily be identified by RADT and/or cul­
+ture; (2) unless rigorous technique is followed, they may be prone to 
+contamination with exogenous GAS DNA from other swabs, a partic­
+ular concern in physician offices when performed by staff who are not 
+trained laboratory technologists; and (3) depending on the institution, 
+they can be more expensive than throat culture, and their costs may not 
+be covered by all insurance plans. As NAAT testing becomes more cost 
+efficient the use will likely continue to rise as these assays can provide 
+sensitive and actionable results quicker than a traditional culture.
+Testing patients for serologic evidence of an antibody response to 
+extracellular products of GAS is not useful for diagnosing acute phar­
+yngitis. Because it generally takes several weeks for antibody levels to 
+rise, streptococcal antibody tests are valid only for determining past 
+infection. Specific antibodies that are often measured in the appropriate 
+0
+1
+2
+3
+1
+2
+4
+1
+7
+6
+5
+4
+3
+2
+1
+4
+103° F
+White tongue
+Red tongue
+Temperature
+Incubation
+days
+Pharyngitis (sudden onset)
+Nausea + Vomit + Headache + Abdominal pain
+Exanthem
+Desquamation
+Fig. 2.6  Scarlet fever. Evolution of signs and symptoms. (From Dinulos JGH. Habif’s Clinical Dermatology. 
+7th ed. Philadelphia: Elsevier; 2021, Fig. 14.8.)
+TABLE 2.9  Differential Diagnosis of Scarlet Fever
+Scarlet Fever
+Kawasaki Disease
+Measles
+Staphylococcal 
+Toxic Shock 
+Syndrome
+Staphylococcal 
+Scalded Skin 
+Syndrome
+Agent
+Group A streptococci
+Unknown
+Measles virus
+Staphylococcus aureus
+S. aureus
+Age range
+All (peak, 5–15 yr)
+Usually <5 yr
+<2 yr, 10–20 yr
+All (especially >10 yr)
+Usually <5 yr
+Prodrome
+No
+No
+Fever, coryza, cough, 
+conjunctivitis
+Usually no
+No
+Enanthem
+No
+Occasionally
+Koplik spots
+No
+Limited
+Mouth
+Strawberry tongue, 
+exudative pharyngitis, 
+palatal petechiae
+Erythema; red, cracked lips; 
+strawberry tongue
+Diffusely red, no cracked 
+lips
+Usually normal
+Erythema
+Rash
+Fine, red, “sandpaper,” 
+membranous 
+desquamation, 
+circumoral pallor, Pastia 
+lines
+Variable polymorphic; 
+erythematous face, trunk, and 
+diaper area; tips of fingers and 
+toes desquamate
+10–28 days after onset
+Maculopapular; 
+progressing from 
+forehead to feet; may 
+desquamate
+Diffuse erythroderma; 
+desquamates
+Erythema, painful 
+bullous lesions; 
+positive Nikolsky sign; 
+desquamates
+Other
+Cervical adenitis, 
+gallbladder hydrops, 
+fever
+Coronary artery disease; fever >5 
+days; conjunctival (nonpurulent) 
+injection; tender, swollen hands 
+and feet; cervical adenopathy 
+(size >1.5 cm); thrombocytosis;
+pyuria (sterile); gallbladder 
+hydrops
+“Toxic” appearance; 
+dehydration; 
+encephalitis, 
+pneumonia;
+Shock (hypotension, 
+including orthostatic); 
+encephalopathy; 
+diarrhea; headache
+Fever, cracked lips; 
+conjunctivitis
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+19
+CHAPTER 2  Sore Throat
+clinical setting include antistreptolysin O (ASO), anti–DNase B, and 
+antihyaluronidase (AHT). When antibody testing is desired to evaluate 
+a possible poststreptococcal illness, more than one of these tests should 
+be performed to improve sensitivity.
+Treatment
+Treatment begun within 9 days of the onset of GAS pharyngitis is effec­
+tive in preventing ARF. Therapy does not affect the risk of acute post­
+streptococcal glomerulonephritis. Antibacterial therapy also reduces the 
+incidence of suppurative sequelae of GAS pharyngitis, such as peritonsil­
+lar abscess and cervical adenitis. In addition, treatment produces a more 
+rapid resolution of signs and symptoms and terminates contagiousness 
+within 24 hours. For these reasons, antibacterials should be instituted as 
+soon as the diagnosis is supported by laboratory studies.
+There are numerous antibiotics available for treating streptococcal 
+pharyngitis (Table 2.10). The drugs of choice are penicillin and amox­
+icillin. Despite the widespread use of penicillin to treat streptococcal 
+and other infections for many decades, resistance of GAS to penicillin 
+or any other β-­lactam antibiotic has not developed. Amoxicillin has 
+been demonstrated to be effective in eradicating GAS when given by 
+mouth once daily for 10 days.
+Patients who are allergic to penicillin can receive a cephalosporin 
+if they have not had an immediate hypersensitivity reaction. Eryth­
+romycin or another non-­β-­lactam antibiotic, such as clarithromycin, 
+azithromycin, or clindamycin, can be used. Resistance of GAS to mac­
+rolides has increased dramatically in many areas of the world where 
+erythromycin has been widely used. Macrolide resistance also affects 
+azithromycin and can affect clindamycin.
+Suppurative Complications
+Antibacterial therapy has greatly reduced the likelihood of developing 
+suppurative complications caused by spread of GAS from the pharynx 
+to adjacent parapharyngeal structures. Peritonsillar abscess (“quinsy”) 
+manifests with fever, severe throat pain, dysphagia, “hot potato voice,” 
+pain referred to the ear, and bulging of the peritonsillar area with asym­
+metry of the tonsils and sometimes displacement of the uvula to the 
+opposite side (Fig. 2.8; see also Table 2.4). There can be peritonsillar 
+cellulitis without a well-­defined abscess cavity. Trismus may be present. 
+When an abscess is found clinically or by an imaging study such as a 
+CT scan, needle aspiration or surgical drainage is indicated. Peritonsil­
+lar abscess occurs most commonly in older children and adolescents. 
+Group A streptococcus is recovered from the abscess in ∼50%; other 
+organisms include other streptococci and oral anaerobic bacteria.
+Retropharyngeal abscess represents extension of an infection from 
+the pharynx or peritonsillar region into the retropharyngeal (prever­
+tebral) space, which is rich in lymphoid structures (Figs. 2.9 and 2.10; 
+see also Table 2.4). Penetrating trauma from a foreign object (e.g., fish 
+bone) may rarely cause this. Children younger than 4 years old are 
+most often affected. Fever, dysphagia, drooling, stridor, extension and 
+limited motion of the neck, and a mass in the posterior pharyngeal 
+wall may be noted. Retropharyngeal abscesses may rarely extend into 
+the posterior mediastinum. The organisms are often polymicrobial and 
+include streptococci, Staphylococcus aureus, and anaerobic bacteria. 
+Surgical drainage is often required if frank suppuration has occurred.
+Spread of GAS via pharyngeal lymphatic vessels to regional nodes 
+can cause cervical lymphadenitis. The markedly swollen and tender 
+anterior cervical nodes that result can suppurate. Otitis media, mas­
+toiditis, and sinusitis also may occur as complications of GAS pharyngi­
+tis. Additional parapharyngeal suppurative infections that may mimic 
+streptococcal disease are noted in Table 2.4. Furthermore, any pharyn­
+geal infectious process may produce torticollis if there is inflammation 
+that extends to the paraspinal muscles and ligaments, producing pain, 
+spasm, and, on occasion, rotatory subluxation of the cervical spine, a 
+condition termed Grisel syndrome. Oropharyngeal torticollis lasts <2 
+weeks and is not associated with abnormal neurologic signs or pain 
+over the spinous process. Invasive sterile site or bacteremic infections 
+with GAS are unusual sequelae of pharyngitis.
+Nonsuppurative Sequelae
+Nonsuppurative complications include ARF, PSGN, and possibly reac­
+tive arthritis or synovitis. In addition, an association between strepto­
+coccal infection and neuropsychiatric disorders such as tic disorder, 
+obsessive-­compulsive disorder, and Tourette syndrome has been postu­
+lated. This possible association has been called PANDAS (pediatric auto­
+immune neuropsychiatric disorders associated with streptococci). The 
+terminology has been modified to “pediatric acute-­onset neuropsychiat­
+ric syndrome” (PANS) or “childhood acute neuropsychiatric syndrome” 
+(CANS), in recognition that the etiologic role of GAS and benefit from 
+antibacterial treatment have been difficult to establish, and it is likely 
+Signs and Symptoms Compatible with GAS
+Scarlet fever?
+Positive
+Yes
+No
+Confirm with rapid test,
+throat culture, or
+molecular test; treat 
+with antibiotics
+Viral pharyngitis
+Symptomatic therapy
+(No antibiotics)
+Treat with
+antibiotics
+Sore throat persists
+≥7 days?
+Positive
+1) Repeat testing for GAS
+2) Mono test
+Throat culture
+or
+Molecular test
+Negative
+Viral
+  pharyngitis
+Symptomatic
+  therapy
+(No antibiotics)
+Yes
+GAS pharyngitis
+No
+Rapid
+test
+Negative
+Not GAS
+pharyngitis
+GAS
+pharyngitis
+GAS
+pharyngitis
+Positive
+No
+Negative
+Negative
+Viral pharyngitis
+Viral pharyngitis
+Symptomatic therapy
+(No antibiotics)
+No antibiotics
+Mononucleosis
+Positive
+Yes
+Fig. 2.7  Management of patients with sore throat. GAS, group A strep­
+tococci.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+20
+SECTION 2  Respiratory Disorders
+that infections other than GAS infection are associated with the develop­
+ment, recurrence, or exacerbation of neuropsychiatric symptoms.
+Therapy with an appropriate antibacterial within 9 days of onset of 
+symptoms is highly effective in preventing ARF. Except in certain geo­
+graphic areas (e.g., Salt Lake City) and populations (e.g., Hasidic Jew­
+ish communities), ARF is quite rare in North America. The impressive 
+reduction in ARF prevalence in the United States since the mid-­1960s 
+may be related to reductions in the prevalence of so-­called “rheumato­
+genic” GAS M types. The reason for the near disappearance of rheu­
+matogenic types in the United States is unknown. Areas of the world 
+with persistently high rates of ARF have different M types than the 
+United States had in the past and has currently. PSGN is not prevented 
+by treatment of the antecedent streptococcal infection. Pharyngitis 
+caused by one of the “nephritogenic” strains of GAS precedes glomeru­
+lonephritis by about 10 days. Unlike ARF, which occurs only after GAS 
+pharyngitis, PSGN also can follow GAS skin infection.
+Treatment Failure and Chronic Carriage
+Treatment with penicillin cures GAS pharyngitis but does not eradi­
+cate GAS from the pharynx in as many as 25% of patients (Fig. 2.11), 
+causing considerable consternation among affected patients and their 
+families. Resistance to penicillin is not the cause of treatment fail­
+ure. A few such patients are symptomatic and are characterized as 
+having clinical treatment failure. Reinfection with the same strain 
+or a different strain is possible, as is intercurrent viral pharyngitis. 
+Some of these patients may be chronic pharyngeal carriers of GAS 
+who are suffering from a new superimposed viral infection; others 
+may have been nonadherent to therapy. Many patients who continue 
+to have positive tests for GAS despite antimicrobial treatment are 
+asymptomatic and are identified only when follow-­up throat swabs 
+are obtained, a practice that is usually unnecessary in North America. 
+Patients who adhered to therapy are at minimal risk for ARF. One 
+explanation for asymptomatic persistence of GAS after treatment is 
+that these patients are chronically colonized with GAS, were initially 
+TABLE 2.10  Recommended Treatment Regimens for Acute Streptococcal Pharyngitis*
+Dose/Route
+Duration
+Frequency
+Standard Treatment
+Amoxicillin
+50 mg/kg up to 1,000 mg/oral
+10 days
+Once daily
+Penicillin V
+250 mg (weight <27 kg)/oral
+500 mg (weight >27 kg) for adolescents and 
+adults/oral
+10 days
+b.i.d.
+Benzathine penicillin G
+600,000 U (weight <27 kg)/IM
+1.2 million U (weight ≥27 kg)/IM
+N/A
+N/A
+Once
+Oral Dose
+Duration
+Frequency
+Treatment for Penicillin-­Allergic Patients
+Clarithromycin
+15 mg/kg/day up to 500 mg/day
+10 days
+b.i.d.
+Azithromycin†
+12 mg/kg on day 1 then 6 mg/kg/day on days 2–5
+5 days
+Once daily
+Clindamycin
+21 mg/kg/day up to 900 mg/day
+10 days
+t.i.d.
+Cephalosporins‡
+Cephalexin
+40 mg/kg/day up to 1,000 mg/day
+10 days
+b.i.d.
+Cefadroxil
+30 mg/kg/day up to 1,000 mg/day
+10 days
+Once daily
+*Based on Infectious Diseases Society of America 2012 and AAP Red Book recommendations.
+†Maximum dose for children is 500 mg/day. Adult dosage: 500 mg the first day, 250 mg the subsequent 4 days.
+‡First-­generation cephalosporins (e.g., cephalexin and cefadroxil) are preferred but all cephalosporins are effective. Dosage and frequency vary 
+among agents. Avoid use in patients with history of immediate (anaphylactic) hypersensitivity to penicillin or other β-­lactam antibiotics.
+b.i.d., two times a day; IM, intramuscular; t.i.d., three times a day.
+Fig. 2.8  Peritonsillar abscess (quinsy, sore throat). The left tonsil is 
+asymmetrically inflamed and swollen; there is displacement of the uvula 
+to the opposite side. The supratonsillar space (arrow) is also swollen; 
+this is the usual site of the surgical incision for drainage. Prominent 
+unilateral cervical adenopathy typically coexists. (From Reilly BM. Sore 
+throat. In: Practical Strategies in Outpatient Medicine. 2nd ed. Philadel­
+phia: WB Saunders; 1991.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+21
+CHAPTER 2  Sore Throat
+2
+*
+A
+B
+Fig. 2.9  Retropharyngeal abscess in a 3-­year-­old female with sore throat and fever. A, Lateral soft tissue neck 
+radiograph reveals extensive soft tissue swelling displacing the airway anteriorly from the skull base to C6 
+(arrow). B, Sagittal reconstructed contrast-­enhanced CT confirms thickened, enhancing retropharyngeal soft 
+tissues indicating cellulitis. Region of hypoattenuating fluid is concerning for retropharyngeal abscess (aster­
+isk). (From Lowe LH, Smith CJ. Infection and inflammation. In: Caffey’s Pediatric Diagnostic Imaging. 12th ed. 
+Philadelphia: Elsevier; 2013:138, Fig. 15.4.)
+Tongue
+Epiglottis
+Thyroid
+cartilage
+Cricoid
+cartilage
+1
+2
+3
+4
+5
+6
+7
+Retropharyngeal
+space
+Retrotracheal
+space
+Fig. 2.10  In an adolescent, the retropharyngeal space normally does not 
+exceed 7 mm when measured from the anterior aspect of the C2 verte­
+bral body to the posterior pharynx. In infants the retropharyngeal space 
+is usually less than one width of the adjacent vertebral body. However, 
+during crying, this distance may be three widths of the vertebral body. In 
+addition, under normal circumstances, the retrotracheal space does not 
+exceed 22 mm in adolescents when measured from the anterior aspect 
+of C6 to the trachea. Dotted lines depict the “thumbprint” sign, noted 
+on a lateral neck radiograph, made by a swollen epiglottis. (From Reilly 
+BM. Sore throat. In: Practical Strategies in Outpatient Medicine. 2nd ed. 
+Philadelphia: WB Saunders; 1991.)
+Signs and Symptoms of bona fide
+Acute GAS Pharyngitis
+No
+Yes
+Throat culture
+or
+Molecular test
+Positive
+Negative
+Probable GAS carrier
+GAS carrier
+Antibiotic treatment (optional)
+1. Oral clindamycin or
+2. IM benzathine penicillin plus
+    oral rifampin
+Recurrent pharyngitis
+No
+Yes
+Special situation?
+Family or physician
+overly concerned?
+Evaluate and treat
+each symptomatic
+episode individually
+Fig. 2.11  Management of patients with repeated or frequent positive 
+rapid tests or throat cultures. GAS, group A streptococci; IM, intramus­
+cular.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+22
+SECTION 2  Respiratory Disorders
+symptomatic because of a viral pharyngitis, and did not truly have 
+acute streptococcal pharyngitis.
+Patients who are chronically colonized with GAS are called chronic 
+carriers. Carriers do not appear to be at risk for ARF or for development 
+of suppurative complications, and are rarely sources of spread of GAS in 
+the community. There is no reason to exclude carriers from school. There 
+is no easy way to identify chronic carriers prospectively among patients 
+with symptoms of acute pharyngitis. The pathophysiology of chronic car­
+riage is unknown. As resistance to penicillin is not a factor, many other 
+causes have been hypothesized including nonadherence to antibacterial 
+treatment, tolerance to antibacterials (suppression but lack of killing by 
+antimicrobials), internalization of GAS by epithelial cells, and presence 
+of β-­lactamase-­producing “co-­pathogens,” but none has been proven. The 
+clinician should consider the possibility of chronic GAS carriage when a 
+patient or a family member has multiple test-­positive episodes of pharyn­
+gitis, especially when symptoms are mild or atypical. A culture or other test 
+is usually positive for GAS when the suspected carrier is symptom-­free or 
+is receiving antibacterial treatment (intramuscular benzathine penicillin is 
+recommended to eliminate concerns about compliance).
+Carriers often receive multiple unsuccessful courses of antibacte­
+rial therapy in attempts to eliminate GAS. Physician and patient/family 
+anxiety is common and can develop into “streptophobia.” Unproven 
+and ineffective therapies include tonsillectomy, prolonged adminis­
+tration of antibacterials, use of β-­lactamase-­inhibiting antibacterials, 
+and culture or treatment of pets. Available options for approaching the 
+patient with chronic streptococcal carriage include the following:
+	1.	 Evaluate for GAS pharyngitis by throat swab each time the patient has 
+pharyngitis with features that suggest streptococcal pharyngitis. Treat 
+as acute GAS pharyngitis with amoxicillin or penicillin (or an alterna­
+tive agent) each time a test is positive; this will prevent ARF if the GAS 
+identified has been newly acquired. Avoid testing patients who do not 
+have signs and symptoms suggestive of acute GAS pharyngitis.
+	2.	 Treat with one of the regimens effective for terminating chronic car­
+riage.
+The first option is simple, as safe as amoxicillin and penicillin, and 
+appropriate for most patients. The second option should be reserved 
+for particularly anxious patients/families; those with a history of ARF 
+or living with someone who had it; or those living or working in nurs­
+ing homes, chronic care facilities, and hospitals. Two antibacterial 
+treatment regimens have been demonstrated in randomized trials to 
+be effective for eradication of the carrier state:
+ • Intramuscular benzathine penicillin plus oral rifampin (10 mg/kg/
+dose up to 300 mg, given twice daily for 4 days beginning on the day 
+of the penicillin injection)
+ • Oral clindamycin, given for 10 days (20 mg/kg/day up to 450 mg, 
+divided into three equal doses)
+Clindamycin is easier to use than intramuscular penicillin plus oral 
+rifampin and may be somewhat more effective. Amoxicillin-­clavulanate 
+(40 mg amoxicillin/kg/day up to 2,000 mg amoxicillin/day divided t.i.d. 
+for 10 days) has also been used. Successful eradication of the carrier state 
+makes evaluation of subsequent episodes of pharyngitis much easier, 
+although chronic carriage can recur upon re-­exposure to GAS.
+Recurrent Acute Pharyngitis
+Some patients seem remarkably susceptible to developing GAS phar­
+yngitis. The reasons for frequent bona fide acute GAS pharyngitis are 
+obscure. In contrast to chronic carriers, appropriate antibacterial treat­
+ment of each episode results in eradication of the organism.
+The role of tonsillectomy in the management of patients with multi­
+ple episodes of streptococcal pharyngitis is controversial. The presence 
+of tonsils is not necessary for GAS to infect the throat. Fewer episodes 
+of sore throat were reported among patients treated with tonsillectomy 
+(in contrast to patients treated without surgery) during the first 2 years 
+after operation. Patients had experienced numerous episodes of pharyn­
+gitis over several years, and it appears that not all episodes were caused 
+by GAS. By 2 years after tonsillectomy there was no difference between 
+the groups in the frequency of pharyngitis. The postoperative complica­
+tion rate among tonsillectomy patients was 14%. Tonsillectomy cannot 
+be recommended for treatment of recurrent pharyngitis except in unusual 
+circumstances. It is preferable to treat most patients with penicillin or 
+amoxicillin whenever symptomatic GAS pharyngitis occurs. Obtaining 
+follow-­up throat specimens for lab testing can help distinguish recurrent 
+pharyngitis from chronic carriage but is unnecessary in most instances.
+INFECTION WITH STREPTOCOCCI THAT ARE NOT 
+GROUP A (NON-­A STREPTOCOCCI)
+Certain β-­hemolytic streptococci of serogroups other than group A 
+cause acute pharyngitis. Well-­documented epidemics of food-­borne 
+group C and group G streptococcal pharyngitis have been reported in 
+young adults. In these situations, a high percentage of individuals who 
+had ingested the contaminated food promptly developed acute phar­
+yngitis, and throat cultures yielded virtually pure growth of the epi­
+demiologically linked organism. There have been outbreaks of group 
+G streptococcal pharyngitis among children. However, the role of 
+non-­A streptococcal organisms as etiologic agents of acute pharyngitis 
+in endemic circumstances has been difficult to establish. Group C and 
+group G streptococci may be responsible for acute pharyngitis, partic­
+ularly in adolescents. However, the exact role of these agents, most of 
+which are carried asymptomatically in the pharynx of some children 
+and young adults, remains to be fully characterized. When they are 
+implicated as agents of acute pharyngitis, group C and G organisms 
+do not appear to necessitate treatment, inasmuch as they cause self-­
+limited infections. ARF is not a sequela to these non-­A streptococci 
+infections, but acute glomerulonephritis has been documented in rare 
+cases after epidemic group C and group G streptococcal pharyngitis.
+Fusobacterium necrophorum
+Fusobacterium necrophorum, an anaerobic gram-­negative organism, is 
+increasingly recognized as a cause of pharyngitis in older adolescents 
+and adults aged up to approximately 30 years. Prevalence in studies in 
+Europe is reported to be about 10% in patients with pharyngitis not 
+caused by GAS, but large surveillance studies have not been performed. 
+In a U.S. study of students at a university health clinic, F. necrophorum 
+was detected by PCR in 20.5% of patients with pharyngitis and 9.4% of 
+an asymptomatic convenience sample; some had more than one bacte­
+rium detected by PCR of throat swabs. Many of the pharyngitis patients 
+with F. necrophorum had signs and symptoms indistinguishable from 
+patients with increased likelihood for GAS pharyngitis: About one third 
+had fever, one third had tonsillar exudates, two thirds had anterior cervi­
+cal adenopathy, and most did not have cough. The symptomatic overlap 
+of F. necrophorum and GAS and the presence of asymptomatic carriage 
+could complicate the clinical assessment of sore throat in adolescents, 
+but F. necrophorum is difficult to culture from the throat and neither a 
+rapid test nor PCR is available for use in clinical care.
+F. necrophorum pharyngitis can be associated with develop­
+ment of septic thrombophlebitis of the internal jugular vein, known 
+as Lemierre syndrome (Fig. 2.12). Approximately 80% of cases of 
+Lemierre syndrome are due to this gram-­negative rod, but the propor­
+tion of patients infected or colonized with F. necrophorum who develop 
+pharyngitis and Lemierre syndrome is unknown. Patients present ini­
+tially with fever, sore throat, exudative pharyngitis, and/or peritonsillar 
+abscess. The symptoms persist, severe neck pain and swelling develop, 
+and the patient appears toxic. Septic shock may ensue along with met­
+astatic complications, especially septic pulmonary emboli. Diagnosis 
+is confirmed by CT or MRI of the neck and isolation of the organism 
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+23
+CHAPTER 2  Sore Throat
+on anaerobic blood culture. F. necrophorum is usually sensitive to met­
+ronidazole, clindamycin, a carbapenem, and β-­lactam in combination 
+with a β-­lactamase inhibitor (such as ampicillin-­sulbactam). The sep­
+tic thrombophlebitis of Lemierre syndrome can also be polymicrobial 
+(Bacteroides, Prevotella); combination antibacterial therapy may be 
+beneficial. Some patients require surgical debridement and/or incision 
+and drainage. The case-­fatality rate may be as high as 9%.
+Arcanobacterium Infection
+Arcanobacterium haemolyticum is a gram-­positive rod that has been 
+reported to cause acute pharyngitis and scarlet fever–like rash, particu­
+larly in teenagers and young adults. Detecting this agent requires special 
+methods for culture, and it has not routinely been sought in patients with 
+scarlet fever or pharyngitis. The clinical features of A. haemolyticum are 
+indistinguishable from GAS pharyngitis; pharyngeal erythema is present 
+in almost all patients, patchy white to gray exudates in about 70%, cervi­
+cal adenitis in about 50%, and moderate fever in 40%. Palatal petechiae 
+and strawberry tongue may also occur. The scarlatiniform rash usually 
+spares the face, palms, and soles. The rash is erythematous and blanches; 
+it may be pruritic and demonstrate minimal desquamation. Erythromy­
+cin appears to be the treatment of choice.
+Epiglottitis and Bacterial Tracheitis
+Epiglottitis (or supraglottitis) is a life-­threatening infection of the 
+airway proximal to the vocal cords (Fig. 2.13; see also Fig. 2.10). His­
+torically, it was an infection in 1-­ to 4-­year-­old children caused by 
+Haemophilus influenzae type b. Epiglottitis presents with acute onset of 
+fever and severe sore throat. This disease progresses rapidly to airway 
+compromise. Patients are often drooling and leaning forward with the 
+neck extended. Some patients may have stridor, but a muffled voice is 
+more common. Management depends on establishing a secure airway 
+by intubation and treating with antibacterials. When epiglottitis is sus­
+pected, the oropharynx should not be visualized or manipulated except 
+in a controlled environment (e.g., intensive care unit or operating 
+room) by someone with expertise in management of the airway who 
+is prepared to immediately intubate the patient. Vaccination against H. 
+influenzae type b has nearly eliminated this disease in childhood; how­
+ever, epiglottitis caused by GAS, Streptococcus pneumoniae, S. aureus, 
+and non–type b H. influenzae occurs occasionally.
+Bacterial tracheitis (bacterial croup, bacterial laryngotracheitis) is 
+a rare complication of viral croup. S. aureus is the most common super­
+infecting bacterium identified. Patients have a history of prolonged 
+croup symptoms that become dramatically worse with fever and signs 
+of airway obstruction. While sore throat may have been present at the 
+onset of croup, it is not a prominent complaint once bacterial infection 
+*
+A
+B
+C
+Fig. 2.12  Lemierre syndrome (Fusobacterium necrophorum infection) complicated by stroke in a 6-­year-­old 
+female presenting with fever, difficulty swallowing, and nuchal rigidity. A, Axial contrast-­enhanced CT image 
+shows low-­attenuation retropharyngeal fluid (asterisk). B, MRI 2 days later, performed because of acute 
+left arm weakness, confirms lack of left internal jugular vein patency on magnetic resonance venogram. 
+C, Diffusion-­weighted image of the brain reveals multiple small foci of bright signal infarction secondary to 
+emboli from thrombophlebitis, vasospasm, or both. (From Lowe LH, Smith CJ. Infection and inflammation. In: 
+Caffey’s Pediatric Diagnostic Imaging. 12th ed. Philadelphia: Elsevier; 2013:137, Fig. 15.2.)
+Fig. 2.13  Epiglottis in a 5-­year-­old boy with respiratory distress and 
+drooling. A lateral soft tissue neck radiograph shows a markedly thick­
+ened epiglottis (white arrow), which is referred to as the “thumb” sign. 
+The aryepiglottic folds (black arrow) also are thickened. (From Laya BF, 
+Lee EY. Upper airway disease. In: Caffey’s Pediatric Diagnostic Imaging. 
+12th ed. Philadelphia: Elsevier; 2013:529, Fig. 51.2.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+24
+SECTION 2  Respiratory Disorders
+of the airway occurs. The clinical appearance of patients with bacterial 
+tracheitis may mimic that of patients with epiglottitis.
+DIPHTHERIA
+Diphtheria is a very serious disease that is caused by pharyngeal infec­
+tion by toxigenic strains of Corynebacterium diphtheriae. It has become 
+very rare in the United States and other developed countries because of 
+immunization but is endemic in Asia, the Middle East, Eastern Europe, 
+Haiti, and the Dominican Republic. The few diphtheria cases recog­
+nized annually in the United States usually occur in unimmunized 
+individuals; the fatality rate is about 5%.
+Pathogenesis
+The pathogenesis of diphtheria involves nasopharyngeal mucosal 
+colonization by C. diphtheriae and toxin elaboration after an incuba­
+tion period of 1–5 days. Toxin leads to local tissue inflammation and 
+necrosis, producing an adherent grayish membrane made up of fibrin, 
+blood, inflammatory cells, and epithelial cells; toxin is absorbed into 
+the bloodstream. Fragment B of the polypeptide toxin binds particu­
+larly well to cardiac, neural, and renal cells, and the smaller fragment 
+A enters cells and interferes with protein synthesis. Toxin fixation by 
+tissues may lead to fatal myocarditis with arrhythmias within 10–14 
+days and to peripheral neuritis within 3–7 weeks.
+Clinical Features
+Acute tonsillar and pharyngeal diphtheria is characterized by sore 
+throat, anorexia, malaise, and low-­grade fever. The grayish membrane 
+forms within 1–2 days over the tonsils and pharyngeal walls and occa­
+sionally extends into the larynx and trachea. Cervical adenopathy var­
+ies but may be severe and associated with development of a “bull neck.” 
+In mild cases, the membrane sloughs after 7–10 days and the patient 
+recovers. In severe cases, an increasingly toxic appearance can lead 
+to prostration, stupor, coma, and death within 6–10 days. Distinctive 
+features include palatal and uvula paralysis, laryngeal paralysis, ocular 
+palsies, diaphragmatic palsy, and myocarditis. Airway obstruction from 
+membrane formation may complicate the toxigenic manifestations.
+Diagnosis
+Accurate diagnosis requires isolation of C. diphtheriae on culture of 
+material from beneath the membrane, with confirmation of toxin pro­
+duction by the organism isolated. Laboratories must be forewarned 
+that diphtheria is suspected. Other tests are of little value.
+GONOCOCCAL PHARYNGITIS
+Acute symptomatic pharyngitis caused by Neisseria gonorrhoeae occurs 
+occasionally in sexually active individuals from oral-­genital contact. In 
+cases involving young children, sexual abuse must be suspected. The 
+infection usually manifests as an ulcerative, exudative tonsillopharyn­
+gitis but may be asymptomatic and resolve spontaneously. Gonococcal 
+pharyngitis is more readily transmitted via fellatio than via cunnilin­
+gus. Gonorrhea rarely is transmitted from the pharynx to a sexual part­
+ner, but pharyngitis can serve as a source for gonococcemia. Diagnosis 
+requires culture on appropriate selective media (e.g., Thayer-­Martin 
+medium). NAAT may also detect the organism from pharyngeal and 
+other sites. Examination and testing for other sexually transmitted 
+infections and pregnancy are recommended.
+CHLAMYDIAL AND MYCOPLASMAL INFECTIONS
+Chlamydia species and Mycoplasma pneumoniae may cause pharyn­
+gitis, although the frequency of these infections is unclear. Chlamydia 
+trachomatis has been implicated serologically as a cause of pharyngi­
+tis in as many as 20% of adults with pharyngitis, but isolation of the 
+organism from the pharynx has proved more difficult. Chlamydia 
+pneumoniae has also been identified as a cause of pharyngitis. Because 
+antibodies to this organism show some cross reaction with C. tracho­
+matis, it is possible that infections formerly attributed to C. tracho­
+matis were really caused by C. pneumoniae. Diagnosis of chlamydial 
+pharyngitis is difficult, whether by culture or serologically, and neither 
+method is readily available to the clinician.
+M. pneumoniae most likely causes pharyngitis. Serologic (positive 
+mycoplasma IgM) or, less often, culture methods can be used to iden­
+tify this infectious agent, which was found in 33% of college students 
+with pharyngitis in one study. PCR is diagnostic but there is no need 
+to seek evidence of these organisms routinely in pharyngitis patients in 
+the absence of ongoing research studies of nonstreptococcal pharyngitis. 
+The efficacy of antibacterial treatment for M. pneumoniae and chlamyd­
+ial pharyngitis is not known, but these illnesses appear to be self-­limited.
+ORAL-­PHARYNGEAL FACIAL SPACE PAIN
+Facial space infections are usually polymicrobial, are odontogenic in 
+origin, and develop after a periapical tooth abscess spreads through the 
+maxillary or mandibular bone (Figs. 2.14, 2.15, and 2.16 and Table 2.11). 
+In many of these infections there is localized swelling often out of pro­
+portion to facial tenderness, erythema, and specific tooth tenderness.
+Lateral (buccal side) extension of an infected molar produces 
+marked lateral facial swelling (buccal space), while involvement of 
+canines (canine space) produces anterior mid-­facial edema, which 
+may extend to the periorbital space. Extension to the angle of the jaw 
+(parotid space) may be confused with parotitis.
+Abscess spread toward the medial-­lingual location may irritate 
+muscles of mastication producing trismus, while further extension 
+may produce lateral pharyngeal space infection with the risk of 
+involvement of the internal jugular vein and carotid artery as well as 
+producing airway compromise. Other complications may include cav­
+ernous sinus thrombosis and brain abscess.
+Submandibular and sublingual spread produces Ludwig angina, a 
+potentially life-­threatening rapidly spreading indurated cellulitis mani­
+fest by brawny nonpitting edema, an elevated swollen tongue, pain, tris­
+mus, fever, drooling, and a risk for airway compromise (Fig. 2.17).
+Dominant 
+bacteria 
+include 
+a 
+combination 
+of 
+anaerobic 
+gram-­negative rods and gram-­positive cocci plus facultative and 
+Abscess
+A
+B
+Abscess
+Fig. 2.14  When the infection process is allowed to progress, it erodes 
+through the nearest cortical plate. A, Tooth apex is near thin labial bone, 
+so infection erodes onto labial side. B, Apex is near palatal side and erodes 
+through that side. (Modified from Christian JM. Odontogenic infections. 
+In: Flint PW, Haughey BH, Lund VJ, et al., eds. Cummings Otolaryngol­
+ogy Head & Neck Surgery. 5th ed. Philadelphia: Elsevier; 2010, Fig. 12.1.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+25
+CHAPTER 2  Sore Throat
+Mylohyoid
+muscle
+Platysma
+muscle
+Buccinator
+muscle
+2
+5
+4
+1
+1
+6
+3
+6
+2
+Fig. 2.15  As the infection erodes through the bone, it can express itself 
+in a variety of places, depending on thickness of overlying bone and 
+relationship of muscle attachments to the site of perforation. This illus­
+tration notes six possible locations: 1, vestibule; 2, buccal space; 3, pal­
+ate; 4, sublingual space; 5, submandibular space; and 6, maxillary sinus. 
+(From Christian JM. Odontogenic infections. In Flint PW, Haughey BH, 
+Lund VJ, et al., eds. Cummings Otolaryngology Head & Neck Surgery. 
+5th ed. Philadelphia: Elsevier; 2010, Fig. 12.2.)
+Canine space
+lnfratemporal space
+Maxillary periapical abscess
+Mandibular periapical abscess
+Submandibular and
+sublingual spaces
+Masticator spaces
+Lateral pharyngeal space
+Carotid sheath
+Cranium
+Mediastinum
+Retropharyngeal space
+Buccal
+space
+Parotid
+space
+Masseteric
+Pterygoid
+Temporal
+Orbit
+Fig. 2.16  Potential pathways of extension in deep fascial space infec­
+tions. (From Chow AW. Infections of the oral cavity, neck, and head. In: 
+Bennett JE, Dolin R, Blaser MF, eds. Mandell, Douglas, and Bennett’s 
+Principles and Practices of Infectious Diseases. 9th ed. Philadelphia: 
+Elsevier; 2020, Fig. 64.6.)
+TABLE 2.11  Clinical Presentation of 
+Odontogenic Infections by Location
+Type of Infection
+Clinical Presentation
+Dentoalveolar infection
+Swelling of the alveolar ridge with periodontal, 
+periapical, and subperiosteal abscess.
+Submental space 
+infection
+Firm midline swelling beneath the chin. Caused by 
+infection from the mandibular incisors.
+Submandibular space 
+infection
+Swelling of the submandibular triangle of the 
+neck around the angle of the mandible. Infection 
+is caused by mandibular molar infections. 
+Trismus is typical.
+Sublingual space 
+infection
+Swelling of the floor of the mouth with possible 
+elevation of the tongue and dysphagia.
+Retropharyngeal space 
+infection
+Stiff neck, sore throat, dysphagia, raspy voice. 
+These infections are caused by infections of the 
+molars. The retropharyngeal space infection has 
+a high potential to spread to the mediastinum.
+Buccal space infection
+Swelling of the cheek. Caused by infection of 
+premolar or molar tooth.
+Masticator space 
+infection
+Swelling on either side of the mandibular ramus. 
+Caused by infection of the mandibular third 
+molar. Trismus is present.
+Canine space infection
+Swelling of the anterior cheek with loss of the 
+nasolabial fold and possible extension to the 
+infraorbital region.
+From Ogle OE. Odontogenic infections. Dent Clin North Am. 
+2017;61(2):235–252 (Table 1, p. 236).
+Fig. 2.17  Early appearance of a patient with Ludwig angina with a 
+brawny, boardlike swelling in the submandibular spaces. (From Megran 
+DW, Scheifele DW, Chow AW. Odontogenic infections. Pediatr Infect 
+Dis. 1984;3:262; with permission.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+26
+SECTION 2  Respiratory Disorders
+microaerophilic streptococci. Panoramic x-­rays and CT imaging help 
+confirm the diagnosis and characterize facial space involvement. Treat­
+ment includes involved tooth abscess drainage, root canal or tooth 
+extraction, and surgical debridement of the other infected tissue. 
+Antibiotic therapy includes clindamycin or ampicillin-­sulbactam 
+plus metronidazole. Concerning features include swelling involving 
+the submandibular and submental spaces, swelling in the floor of the 
+mouth, drooling, sitting-­up “sniffing” posture, and fever >38.9°C.
+   	 S U MMA RY  A N D  R E D  F L A G S
+Sore throat is a common pediatric complaint. Most children with acute 
+sore throat have a viral illness. Accurate diagnosis of acute streptococ­
+cal pharyngitis is essential because appropriate therapy ensures pre­
+vention of serious suppurative and nonsuppurative complications. 
+Life-­threatening infectious complications of oropharyngeal infections 
+may manifest with mouth pain, pharyngitis, parapharyngeal space 
+infectious extension, and/or airway obstruction. Other red flags are pro­
+longed fever, prolonged sore throat, drooling, muffled voice, trismus, 
+and severe, unremitting pain (see Table 2.5). Considering noninfectious 
+mimics of pharyngitis with or without oral lesions, such as solid tumors, 
+hematologic malignancy, Kawasaki disease, and other noninfectious 
+inflammatory conditions, is essential prior to instituting therapy.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+26.e1
+BIBLIOGRAPHY
+Group A Streptococci
+Anderson NW, Buchan BW, Mayne D, et al. Multicenter clinical evaluation 
+of the illumigene group A streptococcus DNA amplification assay for 
+detection of group A streptococcus from pharyngeal swabs. J Clin 
+Microbiol. 2013;51:1474–1477.
+Attia MW, Zaoutis T, Klein JD, et al. Performance of a predictive model 
+for streptococcal pharyngitis in children. Arch Pediatr Adolesc Med. 
+2001;155:687–691.
+Bisno AL. Acute pharyngitis. N Engl J Med. 2001;344:205–211.
+Carapetis JR, Steer AC, Mulholland EK, et al. The global burden of group A 
+streptococcal diseases. Lancet Infect Dis. 2005;5:685–694.
+Gerber MA, Shulman ST. Rapid diagnosis of pharyngitis caused by group A 
+streptococci. Clin Microbiol Rev. 2004;17:571–580.
+Henson AM, Carter D, Todd K, et al. Detection of Streptococcus pyogenes 
+using the illumigene group A Streptococcus assay. J Clin Microbiol. 
+2013;51:4207–4209.
+Leckman JF, King RA, Gilbert DL, et al. Streptococcal upper respiratory tract 
+infections and exacerbations of tic and obsessive-­compulsive symptoms: 
+a prospective longitudinal study. J Am Acad Child Adolesc Psychiatry. 
+2011;50:108–118.
+McIsaac WJ, Kellmer JD, Aufricht P, et al. Empirical validation of guidelines 
+for the management of pharyngitis in children and adults. J Am Med Assoc. 
+2004;291:1587–1595.
+Podbielski A, Kreikemeyer B. Persistence of group A streptococci in eukaryotic 
+cells—a safe place? Lancet. 2001;358:3.
+Pritt B, Patel R, Kirn T. Point-­counterpoint: a nucleic acid amplification 
+test for Streptococcus pyogenes should replace antigen detection 
+and culture for detection of bacterial pharyngitis. J Clin Microbiol. 
+2016;54:2413–2419.
+Shulman ST, Bisno AL, Clegg HW, et al. Clinical practice guideline for the 
+diagnosis and management of group A streptococcal pharyngitis: 2012 
+update by the Infectious Diseases Society of America. Clin Infect Dis. 
+2012;55:e86–e102.
+Shulman ST, Stollerman G, Beall B, et al. Temporal changes in streptococcal M 
+protein types and the near-­disappearance of acute rheumatic fever in the 
+U.S. Clin Infect Dis. 2006;42:441–447.
+Singer HS, Gilbert DL, Wolf DS, et al. Moving from PANDAS to CANS. J 
+Pediatr. 2012;160:725–731.
+Tanz RR, Gerber MA, Kabat W, et al. Performance of a rapid antigen detection 
+test and throat culture in community pediatric offices: implications for 
+management of pharyngitis. Pediatrics. 2009;123:437–444.
+Torres-­Martinez C, Mehta D, Butt A, et al. Streptococcus associated toxic 
+shock. Arch Dis Child. 1992;67:126–130.
+Willis BH, Coomar D, Baragilly M. Comparison of Centor and McIsaac scores 
+in primary care: a meta-­analysis over multiple thresholds. Br J Gen Pract. 
+2020;70(693):e245–e254.
+Other Causes
+Canavan TN, Mathes EF, Frieden I, et al. Mycoplasma pneumoniae-­induced 
+rash and mucositis as a syndrome distinct from Stevens-­Johnson syndrome 
+and erythema multiforme: a systematic review. J Am Acad Dermatol. 
+2015;72:239–245.
+Centor RM, Arkinson TP, Ratliff AE, et al. The clinical presentation of 
+Fusobacterium-­positive pharyngitis at a university health clinic: a cross-­
+sectional study. Ann Intern Med. 2015;162:241–247.
+Feder Jr HM. Periodic fever, aphthous stomatitis, pharyngitis, adenitis: clinical 
+review of a new syndrome. Curr Opin Pediatr. 2000;12:253–256.
+Gotlieb M, Long B, Koyfman A. Clinical mimics: an emergency medicine-­
+focused review of streptococcal pharyngitis mimics. J Emerg Med. 
+2018;54(5):619–629.
+Peridis S, Pilgrim G, Koudoumnakis E, et al. PFAPA syndrome in children: 
+a meta-­analysis on surgical versus medical treatment. Int J Pediatr 
+Otorhinolaryngol. 2010;74:1203–1208.
+Pillay R, Fernando SL. The importance of distinguishing Mycoplasma pneumoniae-­
+induced rash and mucositis (MIRM) and Stevens-­Johnson syndrome in a 
+clinical setting. Hematol Med Oncol. 5. https://doi.org/10.15761/HMO.1000209.
+Preeti L, Magesh K, Rajkumar K, et al. Recurrent aphthous stomatitis. J Oral 
+Maxillofac Pathol. 2011;15(3):252–256. https://doi.org/10.4103/0973-­
+029X.86669.
+Renner B, Mueller CA, Shephard A. Environmental and non-­infectious factors in 
+the aetiology of pharyngitis (sore throat). Inflamm Res. 2012;61:1041–1052.
+Truelove SA, Keegan LT, Moss WJ, et al. Clinical and epidemiological aspects 
+of diphtheria: a systematic review and pooled analysis. Clin Infect Dis. 
+202;71(1):89–97.
+Waagner DC. Arcanobacterium haemolyticum: biology of the organism and 
+diseases in man. Pediatr Infect Dis J. 1991;10:933–939.
+Wurster VM, Carlucci JG, Feder Jr HM, et al. Long-­term follow-­up of children 
+with periodic fever, aphthous stomatitis, pharyngitis, and cervical adenitis 
+syndrome. J Pediatr. 2011;159:958–964.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

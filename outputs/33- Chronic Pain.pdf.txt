@@ -1,0 +1,622 @@
+545
+CHRONIC PAIN
+Chronic pain is often defined as recurrent or persistent pain lasting ≥3 
+months. The child may have a definable medical condition but often 
+does not have a specific disease diagnosis or identifiable etiology for 
+the pain other than the pain symptoms (often called chronic primary 
+pain or central pain syndrome), and the central pain syndrome is often 
+associated with other overlapping pain conditions. Chronic primary 
+pain is associated with functional and emotional disabilities but is 
+independent of identifiable biologic or psychologic contributors. The 
+central nature of the pain may occur when the central nervous sys­
+tem’s response to pain is hypersensitive. Simple touch that should not 
+be painful is perceived as pain (allodynia), or minor noxious stim­
+uli produce an exaggerated pain perception (hyperalgesia). This pain 
+amplification and hypersensitivity to pain create a cascade of events 
+resulting in localized (migraine, low back, jaw) or generalized pain 
+perception. In most patients, the pain is constant but may be intermit­
+tent and manifest in a broad spectrum of severity and characterizations 
+(burning, stabbing, dull, paresthesias, sharp). Comorbidities are com­
+mon and include fatigue, sleep impairment, poor concentration, and 
+disturbances in affect.
+Chronic Overlapping Pain Condition
+Many pain conditions tend to co-­aggregate, coexist, or overlap. 
+Approximately 20% of adults in the United States who report chronic 
+generalized pain will also report having pain in the face or jaw, back, 
+or neck, as well as headache. The National Institutes of Health desig­
+nated 10 conditions that often co-­occur with chronic pain as part of 
+the chronic overlapping pain conditions (COPCs). These conditions 
+include temporomandibular joint (TMJ) disorder, myalgic encephalo­
+myelitis/chronic fatigue syndrome (CFS), fibromyalgia (FM), irritable 
+bowel syndrome (IBS), vulvodynia, painful bladder syndrome/inter­
+stitial cystitis (PBS/IC), headaches and migraines, chronic lower back 
+syndrome, and endometriosis. The prevalence of COPCs in adults is 
+∼4–44 million persons. Fifteen percent of the adult population will 
+report neck pain and migraine or severe headache and almost 29% 
+report back pain. Interestingly, when assessing the other comorbid 
+pain conditions, it is important to understand that they will depend 
+on which is the index symptom that is being evaluated. Furthermore, 
+although the cardinal symptom of COPC is pain, other nonpainful 
+symptoms coexist with the COPC such as fatigue, anxiety, depression, 
+sleep disorders, difficulty concentrating, and reduced ability to per­
+form physical activities.
+Comorbid Conditions
+The term chronic overlapping pain conditions implies that these are 
+associated with and comorbid with one another. The concept of comor­
+bidity implies a second condition that either was present or develops 
+during the course of a subject’s disease that was a primary initial index 
+disorder. In contrast, multimorbidity describes the occurrence of two 
+or more conditions without assigning one condition as the index dis­
+ease. Understanding the pathophysiology of a disorder can be aided 
+by grasping the chronology of disorder development after the index 
+disease. A patient with depression who develops FM should be distin­
+guished from a patient with FM who then develops depression. This 
+distinction is important particularly given traditional beliefs that a psy­
+chiatric condition predisposes to a chronic pain condition; however, 
+the evidence does not support this concept. Depression and chronic 
+pain do coexist in 30–50% of patients but may also occur without the 
+other syndrome being present. More than 50% of subjects may have 
+either depression without chronic pain or chronic pain without depres­
+sion. But in subjects with both conditions, depression and chronic pain 
+have an adverse effect on the other disorder. An antecedent change in 
+either pain or depression predicts subsequent worsening of the other 
+symptom. Depression itself does not cause chronic pain.
+A common chronic pain location in adults is the low back, followed 
+in decreasing order by the shoulder, neck or throat, head, hips, abdom­
+inal pain, chest/lungs, face/gums, and genital or pelvic pain. Among 
+diagnosed pain conditions, such as FM or migraines, ∼60% of adult 
+patients will report multiple pain conditions. The average number of 
+other pain conditions co-­occurring with a specific diagnosis varies; 
+cluster headaches, FM, chronic pelvic pain, migraine headaches, and 
+chronic lower back pain have the most other pain conditions. The num­
+ber of pain conditions and sites involved are predictors of emotional 
+distress. Pain severity itself is not consistently a predictor of depressive 
+or anxiety symptoms. In addition, the number of comorbid disorders 
+is higher with a prior history of post-­traumatic stress disorder (PTSD).
+Pathophysiology
+The pathophysiologic factors for individuals who develop a COPC 
+include certain predispositions such as genetic or epigenetic factors 
+and early-­life pain, stress, or traumatic experiences. Later specific 
+environmental changes such as psychologic or physical trauma, infec­
+tion, or injury may trigger the development of COPC. Patients with 
+COPC have a disordered pain amplification state that is either central 
+or peripherally mediated. A biopsychosocial model may explain the 
+development of and response to a COPC. Most pain syndromes are 
+thought to depend on a neurobiologic mechanism that includes cen­
+tral hyperalgesia, pain amplification, and psychosocial factors that 
+feed back to further amplify pain (Fig. 33.1). These factors include 
+anxiety, depression, history of trauma, current or past stress, previous 
+pain experience, and attitudes and beliefs about pain. In addition, the 
+patient’s fear of a significant undiagnosed problem, catastrophizing 
+behaviors or beliefs, loss of control and self-­efficacy, and fear avoidance 
+all contribute. Coping strategies play a critical role in managing chal­
+lenges that the person views as difficult or impossible to deal with based 
+Chronic Pain
+Gisela G. Chelimsky and Thomas C. Chelimsky
+33
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+546
+SECTION 6  Developmental and Psychiatric Disorders
+on self-­perception and pain beliefs. These strategies require an active 
+effort to overcome thoughts and behaviors that reinforce negative pain 
+beliefs. The pain beliefs constitute the core factor that modulates how 
+the patient will respond to a pain exacerbation (“I am disabled from the 
+pain”; “I will never get back to normal”). Catastrophizing reflects the 
+cognitive bias of a negative pain belief, with the expectation that pain 
+will produce a bad outcome in any setting. It contains the three compo­
+nents of rumination (“I can’t get my mind off the pain”), amplification 
+(“My pain is always getting worse”), and hopelessness (“Nothing will 
+help my pain”); catastrophizing is associated with a more difficult pain 
+experience, decreased physical and psychosocial function, and more 
+disability.
+Pain beliefs are independently associated with physical disability 
+and depression. Poor coping is associated with physical disability, and 
+catastrophizing is associated with depression. It is important to note 
+that coping style can be trained and has a major role in the belief sys­
+tem. Passive coping strategies reinforce the negative pain construct and 
+learned passivity of the chronic pain syndrome (“When my pain gets 
+bad, I take a pill”), whereas active coping strategies constitute an excel­
+lent long-­term strategy toward chronic pain recovery (“When my pain 
+gets bad, I relax my low back muscles through this exercise”). Pain may 
+also lead to depressed mood probably through fatigue and decreased 
+functionality. Fatigue also contributes to decreased activity and func­
+tion, worse pain, and poor sleep. Poor sleep, which may be related to 
+pain, in turn leads to decreased pain threshold and more fatigue.
+Epidemiology
+The prevalence of chronic pain between adult males and females is 
+similar. In adolescents with chronic pain ∼30% had both headache 
+and stomachache, ∼12% had backache and headache, and ∼35% had 
+all three pains (headache, stomachache, and backache), demonstrating 
+the prevalence of these disorders in teens with chronic pain and their 
+overlap. The prevalence of FM in pediatrics is ∼6–12% and is associated 
+with generalized aches in >90%, headaches in ∼75%, sleep complaints 
+in 70%, reports of joint swelling in 24%, fatigue in 20%, abdominal 
+pain in 17%, and joint hypermobility in 14% (Fig. 33.2). Functional 
+abdominal pain has a high prevalence in pediatrics (2–30%) and is 
+often associated with other chronic pain disorders such as headaches 
+and pain in the extremities, back, and neck.
+Management
+When evaluating a patient with chronic pain, a careful family and per­
+sonal history and then a detailed physical exam must occur. Identifying 
+red flags (Table 33.1) should lead to a diagnostic evaluation to uncover 
+their cause. Even when such red flags are not present, the disorders 
+presented in Table 33.2 should always be considered as possible under­
+lying contributors to a chronic pain syndrome.
+The practitioner needs to recognize that pain has two critical com­
+ponents: (1) nociception, or sensory pain, the input, and (2) suffering 
+pain, the emotional component. When the patient can distinguish the 
+two components (although the patient may not be able to modify the 
+sensory aspect), they can often learn to modify the emotional response 
+through active coping strategies. The approach to the management 
+of chronic pain needs to include an interdisciplinary team. The team 
+typically includes a practitioner who manages medications, a physical 
+a Ascending afferent nociceptive pathways for pain perception
+b Descending pain modulatory pathways 
+Disease
+Treatment of
+primary medical
+etiology
+Cognition
+Modulation of pain
+Perception
+Anxiety
+Stress
+Fear
+Anticipation
+Persistence or
+recurrence of
+pain
+Pain relief
+Injury
+Lesion
+Medical etiology
+a
+b
+Perception of pain
+Fig. 33.1  Analytic framework or logic model: a possible analytic frame­
+work for the effect of the intervention to modulate pain. (From WHO 
+Guideline for the Management of Chronic Pain in ­Children, https://
+www.who.int/publications/m/item/guideline-­for-­the-­manage­ment-­of-­
+chronic-­pain-­in-­children.)
+Headache
+Neck pain
+Jaw/face pain
+2.4x
+1.8x
+5.6x
+1.1x
+1.4x
+3.3x
+Jaw/face pain
+Low back
+pain
+2 or more
+painful joints
+Fig. 33.2  Venn diagram depicting overlap of jaw/face pain and other painful conditions, U.S., adults. Patients 
+with neck pain or headache have about twice the risk of associated jaw/face pain. The association of back pain 
+or joint pain with jaw/face pain was less robust. In both diagrams, the combination of two pain syndromes 
+greatly increased the risk of jaw/face pain (5.6x and 3.3x). (From Maixner W, Fillingham RB, Williams DA, 
+et al. Overlapping chronic pain conditions: implications for diagnosis and classification. J Pain. 2016;17[Sup­
+pl]:T93–T107 [Fig. 2, p. T96].)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+547
+CHAPTER 33  Chronic Pain
+therapist who modifies the motor patterns and behaviors associated 
+with pain, and a psychologist who helps to defuse the negative cogni­
+tive set and reduce catastrophizing. Together these specialists set goals 
+to address the easy-­to-­manage issues based on the patient’s goals and 
+motivation. When treating pediatric chronic pain, the practitioner also 
+needs to understand the role parents and patients play in accepting the 
+medical treatment. The factors involved in that decision include the 
+specific pain beliefs and the readiness to take ownership of the disease 
+and engage in the treatment. Chronic pain needs to be understood as 
+a disorder of the brain that requires brain retraining, using the concept 
+of the biopsychosocial model, which includes the social, psychologic, 
+biologic, and behavioral factors that contribute to the manifestation 
+of both health and disease. This model helps the patient move from 
+a pure sensory understanding of pain to a broader understanding 
+that includes the emotional, motor, and stress factors responsible for 
+suffering.
+Regardless of whether organic causes are identified that contribute 
+to the chronic pain syndrome, the critical role of the practitioner is to 
+believe the patient. Patients with COPC usually have been told that their 
+pain is in their head, that they have school avoidance, that everything is 
+anxiety driven, and to go back to school and stop complaining. To make 
+any progress, a foundation of trust must be built upon the practitioner 
+listening to and validating the complaints. The history should include 
+enough of a review of systems to understand the extent of the COPC 
+comorbid disorders. The history should also include sleep complaints 
+and fatigue, as well as anxiety, depression, and history of PTSD.
+It is useful to ask the patient to keep a diary of their pain and what 
+exacerbates the pain. Often, the patients will report that the pain is 
+exacerbated by stress, bad news, or school activities, or on Sunday 
+night.
+The practitioner also needs to elicit the feelings of catastrophizing. 
+The clues to catastrophizing may be some variation of the following 
+statements: (1) “I will never get better”; (2) “With this pain, I will never 
+be able to play basketball again”; (3) “ I am so tired that I will never be 
+able to get up and start rehab”; and (4) “I will never be able to go to 
+college.”
+Parents may also express feelings of catastrophizing, which may 
+sound like “We’ve been to so many doctors without any clear answer 
+they feel hopeless that they will never get better.”
+Fear avoidance is another factor that interferes with improvement. 
+This can be expressed by the child or by the parent. The child may 
+report that they cannot exercise because of the pain, or the parent may 
+express similar feelings that the abdominal pain is so severe the child 
+cannot start physical therapy.
+Readiness for change, measured in pediatrics by the Pain Stages of 
+Change Questionnaire for Adolescents (PSOCQ-­A) and for the par­
+ents (PSOCQ-­P), helps the practitioner understand where the patient 
+and family stand in relation to taking ownership of the disease. These 
+questionnaires have 30 items rated on a 5-­point scale. Based on the 
+results, the parents and adolescents can be in the precontemplation, 
+contemplation, and action/maintenance stages (Fig. 33.3). Greater 
+catastrophizing in the parents is correlated with precontemplation. In 
+adolescents, higher catastrophizing is inversely correlated with action 
+and maintenance. The perception that “pain always means a part of 
+the body is damaged” is associated with precontemplation. In contrast, 
+“pain is affected by feeling and emotions” is inversely correlated with 
+TABLE 33.1  Red Flags
+Focal neurologic findings
+Abnormal or asymmetric deep tendon reflexes
+Papilledema
+Age <5 yr
+Morning joint stiffness
+Pain awakens from sleep
+Anemia
+Persistent emesis
+Chronic diarrhea
+Fever, night sweats
+Failure to thrive or new weight loss
+Bowel, bladder dysfunction
+Muscle wasting
+Localized pain particularly in distribution of a cranial or peripheral nerve
+Positive family history of pain syndromes or chronic medical disorders
+TABLE 33.2  Disorders to Consider
+Channelopathies
+Erythromelalgia: primary (associated with the SCN9A gene) or secondary
+Paroxysmal extreme pain disorder (SCN9A gene)
+Small-­fiber neuropathy (SCN9A, SCN1OA genes)
+Familial episodic pain syndrome (SCN11A, TRPA1 genes)
+Connective Tissue Disorders
+Ehlers-­Danlos
+Marfan
+Immune/Autoimmune
+Systemic lupus erythematosus
+Sarcoidosis
+Juvenile idiopathic arthritis
+Sjögren syndrome
+Familial Mediterranean fever and other autoinflammatory recurrent fever 
+syndromes
+Hereditary angioedema
+Chronic recurrent multifocal osteomyelitis
+Mononeuritis multiplex associated with vasculitis
+Metabolic/Nutrition
+Fabry disease
+Gaucher disease
+Porphyria
+Mitochondrial neuropathies
+Vitamin deficiency (thiamine, B12, C, D)
+X-­linked adrenoleukodystrophy
+Other
+Guillain-­Barré syndrome
+Multiple sclerosis
+Toxic: lead, arsenic, chemotherapy
+HIV
+Familial amyloid neuropathy
+Complex regional pain syndrome types 1 and 2
+Sickle cell anemia
+Thalamic stroke
+Primary, metastatic, or recurrent malignancy (acute lymphocytic leukemia, 
+neuroblastoma)
+Neurofibromatosis
+Radiculopathy
+Nerve entrapment syndromes
+	 1.	Peroneal
+	 2.	Suprascapular
+	 3.	Anterior, posterior hip
+	 4.	Anterior cutaneous nerve (abdominal)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+548
+SECTION 6  Developmental and Psychiatric Disorders
+precontemplation. The stages of change are described as follows: (1) 
+Precontemplation: The patient and/or parent feel that they have little 
+responsibility for the pain management or control and are not inter­
+ested in behavioral changes. They feel it is the practitioner’s role to man­
+age the pain, therefore still thinking in the biopharmacologic model; 
+they employ a passive coping strategy, which will further amplify the 
+neurobiologic mechanism behind the chronic pain syndrome. (2) 
+Contemplation: The patient and/or the parents start realizing that they 
+have some personal responsibility for the pain management/control, 
+and they are considering the biobehavioral role and need to implement 
+behavioral changes. They are still of two minds, one that is resisting and 
+one that is considering the need for behavioral change; their phrases 
+typically include the conjunction “but”: “Yes I know I should exercise, 
+but I just don’t think I will tolerate it.” (3) Action: The patient and/or 
+parent are ready to start making behavioral changes.
+Knowing in what stage the patient and the parents are determines 
+how the practitioner will manage the patient. If the adolescent or the 
+parents are in the precontemplative stage, the visit should be short, 
+agree to disagree, and build the trust relationship with the patient. 
+Pushing the patient to adopt the biobehavioral model will accomplish 
+nothing or, worse, push them away. With the patient who is a contem­
+plator, educate them about the biobehavioral model and let them think 
+about it, and with the patient who is ready for action, the role of the 
+practitioner is to coach them, monitor how they are doing, guide them, 
+and schedule frequent follow-­ups to keep them from falling back.
+Therapeutic Approach
+The pharmacologic strategy should be viewed as temporary tools (win­
+dows of opportunity with lower pain) to help patients start exercising 
+(activation) and advance other behavioral changes through cognitive-­
+behavioral therapy (CBT). The efficacy of pharmacotherapy for the 
+management of chronic pain is limited with a short-­lived role. Empha­
+sis should be toward treatments centered on the biopsychosocial or 
+biobehavioral model. Therapy may reduce the perception of pain and 
+enhance positive coping responses, but in general the patient may 
+always have some degree of pain.
+Exercise: Often patients have the erroneous concept that exer­
+cise will worsen their condition (a common and highly limiting pain 
+belief). Exercise may produce some muscle soreness that resolves over 
+several weeks. The data on improved pain (rather than function or 
+well-­being) with exercise are more controversial, with some studies 
+showing improvement and others not, particularly in the shorter term. 
+More importantly, exercise does not worsen pain in the long term, 
+and critically, it improves patient function, leading to greater activa­
+tion, the definitive treatment of the chronic pain syndrome. Physical 
+activity often improves the psychological well-­being of the subjects, 
+leading to less fatigue and depression. When looking at FM in adults, 
+moderate aerobic exercise or tai-­chi is helpful. Tai-­chi may produce 
+more improvement in pain than aerobic exercise, probably due to 
+the added mind-­body therapeutic effect. When comparing resistance 
+training and aerobic activity, both groups have improvement, but the 
+group that performs aerobic activity has a greater reduction in pain. 
+Water or land aerobic exercises offer similar improvement. Sleep may 
+not necessarily improve with exercise.
+Given that hypermobile Ehlers-­Danlos syndrome (h-­EDS) often is 
+comorbid with FM and other COPCs, it is important to discuss exercise 
+in patients with h-­EDS. Children with muscular-­skeletal symptoms 
+with h-­EDS often complain of pain and have decreased maximal exer­
+cise capacity. This is thought to be related to deconditioning. Often 
+patients with h-­EDS fear movement or activity (fear-­avoidance), which 
+leads to increased pain, decreased quality of life, and increased fatigue. 
+Physical therapy improves the pain and quality of life in children with 
+h-­EDS and pain; physical therapy is recommended in this setting.
+The effectiveness of CBT is often explained by the “neuromatrix 
+theory” of Melzack suggesting that sensory, emotional, and cognitive 
+inputs affect the brain’s homeostasis, producing a prolonged stress 
+response with high and continuous cortisol secretion, setting the stage 
+for the development of a chronic pain syndrome. CBT identifies mal­
+adaptive thoughts and beliefs and hidden fears and then reframes the 
+thinking process to adapt behaviors that will increase function and 
+activation. CBT sessions are aimed at problem solving, goal setting 
+mainly related to doing activities that produce pleasure, exercising and 
+pacing, and some relaxation techniques that the patient can apply at 
+home. An important part of CBT is the assignment of patient home­
+work to practice the new skills and report back.
+Patients may be reluctant to see a psychologist because of prior 
+invalidating experiences with practitioners whose message was received 
+as the dismissal “everything is in your head.” To avoid this resistance, 
+it is suggested to describe the current biobehavioral model of pain to 
+the patient along with the emotional and sensory components of pain. 
+Patients usually accept this model, and with an appropriate interview 
+and asking what exacerbates their pain and symptoms, they realize that 
+stress is a component and agree to do CBT. Furthermore, the concept 
+of CBT should be introduced early in the relationship to set the foun­
+dation for the biobehavioral model. The psychologists should not be 
+introduced late in the relationship when “nothing was found,” mak­
+ing the patient feel rejected and dismissed. Rather, the behaviorist is 
+viewed as an active and key member of the team who provides a skill­
+set critical to the recovery process. It should be emphasized that the 
+referral is for the purpose of acquiring a new skillset, and not for any 
+psychiatric diagnosis.
+Pharmacologic Management: Opioids should never be used in 
+chronic pain syndromes. Prescription of daily opioids, use of extended-­
+release opioids, and combination of opioids with benzodiazepines 
+Assess readiness to change
+Precontemplative
+Contemplative
+Action
+Agree to disagree
+Keep the relationship
+Visit should be short,
+no need to try to
+convince patient
+Educate about the
+biobehavioral model
+Coach the patient and family
+Monitor how they are doing
+and guide them
+Schedule frequent follow-ups
+to keep them from falling back
+Fig. 33.3  Approach the practitioner should take in each stage of readiness to change.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+549
+CHAPTER 33  Chronic Pain
+increase the risk of opioid overdose. Furthermore, every increase in 
+opioid dosage is associated with an 18% increased chance of the pedi­
+atric patient overdosing. This risk persists even 6 months after stopping 
+the prescribed opioid medication.
+Acceptable pharmacologic interventions include acetaminophen, 
+antidepressants such as amitriptyline or citalopram, antiepileptics such 
+as gabapentin or pregabalin, and serotonin antagonists like pizotifen. 
+One systematic review of the pediatric data did not show convincing 
+evidence that any of these medications was superior to placebo in the 
+very few randomized controlled trial studies in pediatrics. The data 
+available in pediatrics are very limited. In contrast, there is a large 
+body of literature for adult chronic pain. The problem in the pediat­
+ric literature is not only the scarcity of publications but also the very 
+low doses of medications used to assess whether tricyclics (amitrip­
+tyline), citalopram, and gabapentin were efficacious. Amitriptyline 
+dosage ranged from 10 to 30 mg/day, citalopram from 10 to 20 mg/
+day, and gabapentin 300 mg t.i.d. Similar data were found with prega­
+balin (75–450 mg/day) vs placebo in the management of FM, although 
+in this study the doses of pregabalin were higher. When looking at 
+nonsteroidal antiinflammatory drugs, the only reliable studies were 
+done comparing them to other medications. There was no difference 
+in pain improvement between naproxen and meloxicam, celecoxib, or 
+rofecoxib.
+In clinical practice when treating adolescents, start with amitripty­
+line 10 mg at bedtime after checking an ECG for QTc and increase the 
+dosage by 10 mg every 3–4 days to about 1 mg/kg/day if needed. The 
+ECG should be monitored when getting to about 1 mg/kg/day; blood 
+levels can also be monitored. Often if the patient is a rapid metabolizer, 
+doses may need to be increased further while monitoring blood levels 
+and the ECG for prolonged QTc. Similarly, one may use higher doses of 
+gabapentin, sometimes of up to 900 mg t.i.d. Due to fatigue, sometimes 
+we only increase the bedtime dose to 600 or 900 mg.
+   	 S U MMA RY  A N D  R E D  F L A G S
+COPC is common in pediatrics. The pathophysiology is not well under­
+stood, but there is a clear understanding that the chronic pain in COPC 
+is not playing the protective role that it does in acute pain, but rather 
+reinforcing the learned passive role of the patient and reinforcing the 
+neurobiologic basis of the pain syndrome. As a treating physician, it 
+is critical to determine the stage of readiness to change (precontem­
+plative, contemplative, or action) for both the patient and the family, 
+which will dictate the management approach and decrease the time 
+spent in visits when patients or families are not ready to accept the 
+biobehavioral approach. Knowing that the biopharmacologic approach 
+has shown little benefit, practitioners should emphasize gradually 
+increasing activity, exercise, and referral to behavioral health for CBT, 
+with medications playing primarily an adjuvant role when there is need 
+for a “window of opportunity” to pass beyond a physical or behavioral 
+barrier. Red flags (Table 33.1) and disorders not to miss (Table 33.2) are 
+noted in the respective tables.
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+549.e1
+BIBLIOGRAPHY
+Arnold LM, et al. Safety and efficacy of pregabalin in adolescents with fibromy­
+algia: a randomized, double-blind, placebo-controlled trial and a 6-month 
+open-label extension study. Pediatr Rheumatol Online J. 2016;14(1):46.
+Bahar RJ, et al. Double-blind placebo-controlled trial of amitriptyline for 
+the treatment of irritable bowel syndrome in adolescents. J Pediatr. 
+2008;152(5):685–689.
+Bennett DLH, Woods CG. Painful and painless channelopathies. Lancet Neu­
+rol. 2014;13:587–599.
+Brown S, et al. A randomized controlled trial of amitriptyline versus gabapen­
+tin for complex regional pain syndrome type I and neuropathic pain in 
+children. Scand J Pain. 2016;13:156–163.
+Busch AJ, et al. Resistance exercise training for fibromyalgia. Cochrane Data­
+base Syst Rev. 2013;(12):CD010884.
+Buskila D. Pediatric fibromyalgia. Rheum Dis Clin North Am. 2009;35(2):253–
+261.
+Celletti C, et al. Evaluation of kinesiophobia and its correlations with pain and 
+fatigue in joint hypermobility syndrome/Ehlers-Danlos syndrome hyper­
+mobility type. BioMed Res Int. 2013;2013:580460.
+Chelimsky G, et al. Autonomic neurophysiologic implications of disorders 
+comorbid with bladder pain syndrome vs myofascial pelvic pain. Neurourol 
+Urodyn. 2019;38:1370–1377.
+Chelimsky G, Safder S, Chelimsky T. FGIDs in children are associated with 
+many nonpsychiatric comorbidities: the tip of an iceberg? J Pediatr Gastro­
+enterol Nutr. 2012;54(5):690–691.
+Chua KP, et al. Association of opioid prescribing patterns with prescrip­
+tion opioid overdose in adolescents and young adults. JAMA Pediatr. 
+2020;174(2):141–148.
+Cooper TE, et al. Antiepileptic drugs for chronic non-cancer pain in children 
+and adolescents. Cochrane Database Syst Rev. 2017;8:CD012536.
+Dydyk AM, Givler A. Central pain syndrome. In: StatPearls [Internet]. Vol 
+2021. Treasure Island, FL: StatPearls Publishing; 2021.
+Eccleston C, et al. Non-steroidal anti-inflammatory drugs (NSAIDs) for chron­
+ic non-cancer pain in children and adolescents. Cochrane Database Syst 
+Rev. 2017;8:CD012537.
+Eccleston C, et al. Pharmacological interventions for chronic pain in children: 
+an overview of systematic reviews. Pain. 2019;160(8):1698–1707.
+Ehde DM, Dillworth TM, Turner JA. Cognitive-behavioral therapy for individ­
+uals with chronic pain: efficacy, innovations, and directions for research. 
+Am Psychol. 2014;69(2):153–166.
+Engelbert RH, et al. Exercise tolerance in children and adolescents with mus­
+culoskeletal pain in joint hypermobility and joint hypomobility syndrome. 
+Pediatrics. 2006;118(3):e690–e696.
+Gedalia A, et al. Fibromyalgia syndrome: experience in a pediatric rheumatol­
+ogy clinic. Clin Exp Rheumatol. 2000;18(3):415–419.
+Geneen LJ, et al. Physical activity and exercise for chronic pain in adults: 
+an overview of Cochrane Reviews. Cochrane Database Syst Rev. 
+2017;4:CD011279.
+Guite JW, et al. Pain beliefs and readiness to change among adolescents with 
+chronic musculoskeletal pain and their parents before an initial pain clinic 
+evaluation. Clin J Pain. 2014;30(1):27–35.
+Guite JW, et al. Readiness to change in pediatric chronic pain: initial validation 
+of adolescent and parent versions of the Pain Stages of Change Question­
+naire. Pain. 2011;152(10):2301–2311.
+Hauser W, et al. Efficacy of different types of aerobic exercise in fibromyalgia 
+syndrome: a systematic review and meta-analysis of randomised controlled 
+trials. Arthritis Res Ther. 2010;12(3):R79.
+Hawker GA, et al. A longitudinal study to explain the pain-depression link in 
+older adults with osteoarthritis. Arthritis Care Res. 2011;63(10):1382–1390.
+Hoeijmakers JGJ, Faber CG, Miedema CJ, et al. Small fiber neuropathy in 
+children: two case reports illustrating the importance of recognition. 
+­Pediatrics. 2016;138(4):e20161215.
+Hoffmann B, Mayatepek E. Fabry disease—often seen, rarely diagnosed. Dtsch 
+Arztebl Int. 2009;106(26):440–447.
+Hovaguimian A, Gibbons CH. Diagnosis and treatment of pain in small fiber 
+neuropathy. Curr Pain Headache Rep. 2011;15(3):193–200.
+Hyams JS, et al. Dyspepsia in children and adolescents: a prospective study. J 
+Pediatr Gastroenterol Nutr. 2000;30(4):413–418.
+Kemp S, et al. A randomized comparative trial of generalized vs targeted phys­
+iotherapy in the management of childhood hypermobility. Rheumatology. 
+2010;49(2):315–325.
+Knoerl R, Lavoie Smith EM, Weisberg J. Chronic pain and cognitive behavioral 
+therapy: an integrative review. West J Nurs Res. 2016;38(5):596–628.
+Kroenke K, et al. Reciprocal relationship between pain and depression: a 
+12-month longitudinal analysis in primary care. J Pain. 2011;12(9):964–
+973.
+Lewis ML, et al. Prevalence of functional gastrointestinal disorders in children 
+and adolescents. J Pediatr. 2016;177:39–43.e3.
+Maixner W, et al. Overlapping chronic pain conditions: implications for diag­
+nosis and classification. J Pain. 2016;17(9 suppl):T93–T107.
+Marchettini P, Lacerenza M, Mauri E, et al. Painful peripheral -neuropathies. 
+Curr Neuropharmacol. 2006;4:175–181.
+Melzack R. From the gate to the neuromatrix. Pain. 1999;82(suppl 6):S121–
+S126.
+Mogil JS. Pain genetics: past, present, and future. Trends Genet. 
+2010;28(6):258–266.
+Mun CJ, Ruehlman L, Karoly P. Examining the adjustment patterns of adults 
+with multiple chronic pain conditions and multiple pain sites: more pain, 
+no gain. J Pain. 2020;21:108–120.
+National Organization for Rare Disorders (NORD). Central pain syndrome. 
+https://rarediseases.org/rare-diseases/central-pain-syndrome/.
+Peralta-Palmezano JJ, Guerrero-Lozano R. Prevalence of functional gastroin­
+testinal disorders in school children and adolescents. Korean J Gastroenter­
+ol. 2019;73(4):207–212.
+Revivo G, et al. Interdisciplinary pain management improves pain and func­
+tion in pediatric patients with chronic pain associated with joint hypermo­
+bility syndrome. PM R. 2019;11(2):150–157.
+Roohafza H, et al. Citalopram for pediatric functional abdominal pain: 
+a randomized, placebo-controlled trial. Neuro Gastroenterol Motil. 
+2014;26(11):1642–1650.
+Saps M, et al. A prospective school-based study of abdominal pain and other 
+common somatic complaints in children. J Pediatr. 2009;154(3):322–326.
+Saps M, et al. Prevalence of functional gastrointestinal disorders in Colombian 
+school children. J Pediatr. 2014;164(3):542–545.e1.
+Swain MS, et al. An international survey of pain in adolescents. BMC Publ 
+Health. 2014;14:447.
+Turner JA, Jensen MP, Romano JM. Do beliefs, coping, and catastrophizing 
+independently predict functioning in patients with chronic pain? Pain. 
+2000;85(1–2):115–125.
+Valderas JM, et al. Defining comorbidity: implications for understanding 
+health and health services. Ann Fam Med. 2009;7(4):357–363.
+van den Ameele J, Fuge J, Pitceathly RDS, et al. Chronic pain is common in 
+mitochondrial disease. Neuromuscul Disord. 2020;30:413–419.
+Veasley CCD, Clauw D, Cowley T, et al. In: Alliance CPR, ed. Impact of Chron­
+ic Overlapping Pain Conditions on Public Health and the Urgent Need for 
+Safe and Effective Treatment: 2015 Analysis and Policy Recommendations. 
+Milwaukee, WI: The TMJ Association; 2015.
+Walker SM. Neuropathic pain in children: steps towards improved recognition 
+and management. EBioMedicine. 2020;62:103124.
+Wang C, et al. A randomized trial of tai chi for fibromyalgia. N Engl J Med. 
+2010;363(8):743–754.
+Wang C, et al. Effect of tai chi versus aerobic exercise for fibromyalgia: compar­
+ative effectiveness randomized controlled trial. BMJ. 2018;360:k851.
+Williams FMK, Spector TD, MacGregor AJ. Pain reporting at different body 
+sites is explained by a single underlying genetic factor. Rheumatology. 
+2010;49:1753–1755.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

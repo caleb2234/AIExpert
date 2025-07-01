@@ -1,0 +1,2847 @@
+717
+The clinical evaluation of childhood movement disorders depends on 
+the crucial step of phenomenology that precedes and guides evaluation 
+and management. Historically, many of the chronic movement disor­
+ders were identified as phenotypic syndromes based on clinical pre­
+sentation, associated symptoms, and disease course. With the growing 
+availability of genetic testing, more of the underlying metabolic and 
+heredodegenerative disorders causing chronic movement disorders are 
+being identified, producing a clearer understanding of the full clinical 
+spectrum of these disorders (Fig. 40.1).
+MOVEMENT DISORDERS
+Movement disorders are a group of disorders where there is excessive 
+movement or a paucity of voluntary movement (Table 40.1). The prob­
+lem is not primarily due to weakness or abnormality of tone (spastic­
+ity). This group of disorders is characterized by difficulty initiating 
+movement, abnormal control of voluntary movement, abnormalities of 
+posture, or the presence of unwanted involuntary movements. Primary 
+movement disorders imply a dysfunction in the basal ganglia and its 
+connections or dysfunction of the cerebellum and its connections.
+Movements disorders in general can be divided into two main 
+categories. There may be a paucity of normal voluntary movements 
+(hypokinetic) or the presence of abnormal involuntary movements 
+(hyperkinetic). The hyperkinetic movement disorders include dystonia, 
+ataxia, tremor, chorea, athetosis, ballismus, tics, and myoclonus. In the 
+hypokinetic disorders there is a paucity or decreased amplitude of nor­
+mal voluntary movements (hypokinesia), slow voluntary movements or 
+difficulty initiating voluntary movement (bradykinesia), or loss of move­
+ment (akinesia). One example of a hypokinetic movement disorder is 
+parkinsonism (resting tremor, slow voluntary movements, rigidity).
+CHIEF COMPLAINT
+The presenting symptom or chief complaint in a child with a move­
+ment disorder may be any of the following:
+ • Inability to sit still
+ • Gait abnormality
+ • Twitching
+ • “Weakness” or dropping things
+ • Shaking/trembling of the hands
+ • Unsteadiness
+ • Abnormal movements
+The goal of the history and examination is to confirm the presence of 
+the abnormal movement and correctly characterize it. Phenomenology 
+is the study or observation of the abnormality. The clinical evaluation 
+of movement disorders emphasizes the question “What type of abnor­
+mal movement is present?” or “What is the phenomenology?” rather 
+than “Where is the lesion in the neurologic axis?” Phenomenology is 
+determined by clinical examination, observation, and, when necessary, 
+videotape review. Videotape review is especially useful when a parox­
+ysmal movement is not witnessed during the clinic visit. Phenomenol­
+ogy links directly to potential differential diagnosis as well as choice of 
+symptomatic therapy.
+HISTORY
+The clinical history in the child with a suspected movement disorder 
+should include the course of the problem, whether acute or chronic. 
+Specific information on whether the movements are paroxysmal (epi­
+sodic) should be obtained. If the abnormal movements are paroxysmal, 
+the history should indicate whether the abnormal movements are task 
+specific (e.g., writer’s cramp, which is a task-­specific focal dystonia) and 
+whether there are specific triggers that provoke the abnormal move­
+ments. Initiation of sudden movement that triggers dystonia is the hall­
+mark of paroxysmal kinesigenic dystonia or dyskinesia (Table 40.2). 
+Anticipation, emotional change, and stress can increase the frequency 
+of tics. Excitement and emotional distress tend to bring out stereotyp­
+ies. In general, abnormal movements do not awaken a child from sleep. 
+Most movement disorders disappear in deep sleep except for ballismus 
+and severe torsion dystonia. An abnormal movement that awakens a 
+child from sleep should raise the suspicion for seizures.
+The history should clarify the areas of the body affected, severity, 
+and degree of functional impairment. Associated neurologic symp­
+toms such as weakness, visual disturbance, seizures, and mental status 
+changes imply a more widespread neurologic process than that primar­
+ily affecting the basal ganglia. Symptoms such as fever, rash, and phar­
+yngitis suggest the presence of systemic illness.
+The impact of the abnormal movement on the child’s day-­to-­day 
+function as well as limitations of function should be documented.
+A detailed academic, behavioral, and psychiatric history should be 
+obtained as movement disorders are often accompanied by behavioral, 
+emotional, cognitive, and psychiatric comorbidities.
+The history should include medications that have been recently 
+started or stopped as well as chronic medications.
+The child’s birth and developmental history clarify whether the 
+movement disorder occurred in a child who had no preceding neuro­
+logic conditions or in a child who had prior neurologic/developmental 
+difficulty. The age of onset may provide a clue to the diagnosis (Fig. 40.2 
+and Table 40.3).
+Family history of similar symptoms or a variation of the same type 
+of problem suggests a genetically inherited disorder.
+PHYSICAL EXAMINATION
+The general physical examination should determine the presence of 
+systemic signs.
+Movement Disorders in Childhood
+S. Anne Joseph
+40
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+718
+SECTION 7  Neurosensory Disorders
+The comprehensive neurologic examination determines whether 
+there are other neurologic abnormalities besides involuntary move­
+ments. The mental status examination should include observations 
+about alertness, attention, behavior, mood, and emotions. Cranial 
+nerve examination should specifically determine whether there is nys­
+tagmus, limitation of eye movements, or weakness of the face, tongue, 
+and jaw muscles. In general, the motor exam portion of the neurologic 
+examination tends to emphasize muscle tone, strength, and the muscle 
+stretch reflexes (deep tendon reflexes). This portion of the motor exam 
+is effective in identifying the presence of weakness, spasticity, or hypo­
+tonia. Some features of involuntary movements such as the inability to 
+maintain a voluntary contraction may be detected during the general 
+motor examination. The template of the motor examination that starts 
+with muscle tone, then goes on to testing of strength, and ends with 
+reflex testing is useful for localization but insufficient for characteri­
+zation of abnormal movements. Although it is assumed that general 
+observation of the patient occurs throughout the visit, this alone is 
+often insufficient for accurate characterization of the movement disor­
+der. Therefore, once the motor exam that assesses tone, strength, and 
+reflexes is completed, an additional portion of time should be allocated 
+specifically for the observation of the involuntary movements to cate­
+gorize them (phenomenology).
+Posture and abnormal movements should be observed while the 
+patient is in the recumbent position, in the seated position, standing 
+upright with arms by the side, and then standing with arms and fingers 
+outstretched. The child’s ability to maintain a voluntary posture or vol­
+untary muscle contraction should be assessed. This includes the ability 
+to maintain grip while holding the examiner’s hands and the ability to 
+maintain tongue protrusion. Observation of tasks such as picking up, 
+grasping, playing with small toys, pouring water from glass to glass, 
+and writing is useful in the characterization of involuntary movements 
+affecting the upper extremities, trunk, and neck. Stance, gait, swivel, 
+running, stooping, and recovering should be assessed. Observation 
+of speech is important as abnormal movements of the tongue, palate, 
+lower face, and jaw affect the quality of speech. Abnormal movements 
+of the laryngeal muscles affect voice production and quality. Motor 
+impersistence and parakinesia (described in the section on chorea) 
+should be recognized and identified when present. Paroxysmal move­
+ments such as tics may be briefly suppressible during a voluntary motor 
+task, only to emerge once the task is accomplished. Tics when mild may 
+not be witnessed in the clinic. Paroxysmal kinesigenic dystonia is often 
+provoked by getting up from the seated position or at the beginning 
+of a short sprint (see Table 40.2). Paroxysmal movements that occur 
+between periods of normalcy may not be witnessed during the exam­
+ination. When a paroxysmal movement is not witnessed in the clinic, 
+videotape review is often helpful.
+The gait examination is an essential component of the neurologic 
+examination in a child with a movement disorder. The various gait 
+abnormalities linked to the different movement disorders are listed in 
+Table 40.4.
+DYSTONIA
+Dystonia is defined as a movement disorder in which involuntary 
+sustained or intermittent muscle contractions cause twisting and 
+repetitive movements, abnormal postures, or both. Dystonia is often 
+initiated or worsened by voluntary action and associated with overflow 
+muscle activation.
+Dystonia can affect any part of the body. Terms used to describe 
+the distribution of dystonia include focal, segmental, multifocal, and 
+Define the dominant
+movement disorder
+Presence of one or more
+movement disorders?
+Identify all subtypes of
+movement disorders
+Identify associated
+neurologic features
+Clinically based
+syndrome
+Diagnostic
+work-up
+Identify associated non-
+neurologic features
+Diagnosis
+Diagnosis
+Fig. 40.1  A systematic approach to diagnosis in patients presenting with movement disorders. (From 
+Abdo WF, van de Warrenburg BPC, Burn DJ, et al. The clinical approach to movement disorders. Nat Rev. 
+2010;6:29–37 [Fig. 1, p. 34].)
+TABLE 40.1  Types of Childhood Movement 
+Disorders
+Dystonia
+Chorea, athetosis, ballismus
+Myoclonus
+Tremor
+Ataxia
+Stereotypies
+Tics
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+719
+CHAPTER 40  Movement Disorders in Childhood
+TABLE 40.2  Classification of Primary and Epilepsy Paroxysmal Dyskinesias
+PKD
+PNKD
+PED
+PHD*
+Inheritance
+AD
+AD
+AD
+Usually sporadic
+Gender M:F
+4:1
+2:1
+2:3
+7:3
+Age at onset, yr
+<1–20
+<1–20s
+2–30
+4–20s
+Phenomenology of 
+abnormal movements
+Dystonia with or without chorea/
+ballism, uni-­ or bilateral
+Dystonia with or without 
+choreoathetosis, uni-­ or 
+bilateral, rarely spasticity
+Dystonia, sometimes 
+in combination with 
+choreoathetosis, uni-­ or 
+bilateral
+Dystonia, chorea, ballism
+Triggers
+Sudden movement, change in 
+direction, acceleration, startle
+Alcohol, caffeine, emotions, 
+fatigue
+Prolonged exercise, muscle 
+vibration
+Sleep
+Duration of paroxysms
+Seconds up to 5 min
+2 min–4 hr
+5 min–2 hr
+30 min up to 50 min
+Frequency of paroxysms
+1 per month to 100 per day
+Few per week to few in a lifetime
+Few per month
+Few per year to few per night
+Genetics
+	1.	EKD1: 16p11.2-­q12.1 (DYT10) with 
+PRRT2 gene within this region
+	2.	EKD2: 16q13-­q22.1 (DYT19)
+	3.	EKD3: no variant on 
+chromosome 16
+	1.	PNKD: 2q35 (DYT8)
+	2.	SCL2A1: chromosome 1 (DYT9)
+	3.	KCNMA1: 10q22
+	4.	Locus on 2q31 (DYT20)
+	1.	SCL2A1: 1p35-­p31.3 
+(DYT18)
+	1.	CHRNA4: 20q13.2-­q13.3
+	2.	CHRNB2: chromosome 1q21
+	3.	Locus on chromosome 15q24
+	4.	Locus on chromosome 8p21
+Treatment
+Anticonvulsants (carbamazepine, 
+phenytoin, others)
+Avoiding triggers, benzodiazepines 
+(clonazepam)
+Avoiding triggers, ketogenic 
+diet (in GLUT-­1 deficiency)
+Anticonvulsants
+*Also known as autosomal dominant nocturnal frontal lobe epilepsy.
+AD, autosomal dominant; AR, autosomal recessive; PED, paroxysmal exercise-­induced dyskinesia; PHD, paroxysmal hypogenic dyskinesia (a seizure 
+disorder); PKD, paroxysmal kinesigenic dyskinesia; PNKD, paroxysmal nonkinesigenic dyskinesia.
+BNSM
+Exaggerated startle
+Other PEM
+Oculogyric crisis
+Paroxysmal tonic upgaze
+BPTI
+TDI
+PKD
+PED
+Episodic ataxia
+Acquired PMD
+PNKD
+BMEI spectrum
+Hemiplegic attacks
+Neonatal
+age
+Infancy
+Childhood
+Adolescence
+Adulthood
+Fig. 40.2  Onset of different paroxysmal movement disorders (PMDs) according to age. BNSM, benign 
+neonatal sleep myoclonus; BMEI, benign myoclonus of early infancy; BPTI, benign paroxysmal torticollis of 
+infancy; PEM, paroxysmal eye movements; PED, paroxysmal exercise-­induced dyskinesia; PKD, paroxysmal 
+kinesigenic dyskinesia; PNKD: paroxysmal nonkinesigenic dyskinesia. (From Garone G, Capuano A, Travaglini 
+L, et al. Clinical and genetic overview of paroxysmal movement disorders and episodic ataxias. Intern J Mol 
+Sci. 2020;21:3630, Fig. 1.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+720
+SECTION 7  Neurosensory Disorders
+generalized. Focal dystonia affects a single body part. Examples of focal 
+dystonia include blepharospasm (involuntary spasms of the eyelids), 
+torticollis (dystonia of the neck muscles), and writer’s cramp (dysto­
+nia of the hand). Dystonia that affects two contiguous body parts is 
+referred to as segmental dystonia (e.g., neck and arm or face and arm). 
+Dystonia of two noncontiguous body parts is referred to as multifocal 
+dystonia. Dystonia on one side of the body (e.g., left leg and left arm) 
+is described as hemidystonia. Dystonia of more than one limb with 
+involvement of the trunk is termed generalized dystonia. Dystonia may 
+affect the larynx in isolation as a focal dystonia or as part of a more gen­
+eralized dystonia giving rise to a “strangled,” “whispery,” or “breathy” 
+quality of voice production. The distribution of dystonia may be some­
+times helpful in localization. For example, acute hemidystonia may be 
+due to pathology in the contralateral basal ganglia. The documentation 
+of the distribution of dystonia also helps in the clinical detection of 
+progression of disease over time.
+The clinical evaluation of a patient with dystonia should delin­
+eate the time course of symptoms (acute, subacute, or chronic), 
+distribution, whether it is present all the time or paroxysmal 
+(if paroxysmal, whether it is provoked by initiation of movement), 
+whether there is a diurnal variation (worse toward the end of the 
+day), presence of other symptoms, and family history of similar 
+conditions.
+The etiology or underlying causes of pediatric dystonia are quite 
+heterogenous. It is helpful in the clinical setting to differentiate acute 
+dystonia from subacute or chronic dystonia. Acute dystonia in general 
+suggests that the dysfunction in the brain is acute and therefore should 
+be evaluated urgently. Associated symptoms of fever or systemic symp­
+toms suggest a primary central nervous system (CNS) infection or 
+inflammation that requires urgent evaluation.
+Subacute and chronic dystonia are usually due to more slowly pro­
+gressive acquired conditions, genetic disorders, or heredodegenerative 
+conditions.
+Acute Dystonia
+When faced with a child presenting with acute dystonia, the evalua­
+tion should be conducted rapidly considering drugs/toxins, infection, 
+inflammation, and acute ischemia as possible causes (Table 40.5).
+TABLE 40.3  IEMs Associated with Movement Disorder by Age at Onset
+Prenatal
+Neonatal
+Infancy and Childhood
+Adolescence and Adulthood
+ • Atypical Gaucher 
+disease due to saposin 
+C deficiency
+ • Glycine encephalopathy
+ • Hyperekplexia or hyperexcitability: 
+SUOX—isolated sulfite oxidase 
+deficiency
+ • Absence of voluntary movements or 
+HRS: CLPB 3-­methylglutaconic aciduria 
+disorder, ADSL adenylosuccinate 
+lyase deficiency, and PC pyruvate 
+carboxylase deficiency
+ • Myoclonic jerks: GLDC and 
+ATM-glycine encephalopathy
+ • Tremor, jitteriness, dystonia: HTRA2 
+3-­methylglutaconic aciduria type 8
+ • Most of the IEMs presenting with MD 
+begin in this age group
+ • Onset before 2 yr of age: disorders 
+of purine and creatine metabolism, 
+neurotransmitter disorders, propionic 
+and methylmalonic acidemia, glutaric 
+aciduria type 1, disorders of cobalamin 
+metabolism, biotinidase deficiency, 
+manganese disorders (SLC39A8), GLUT-­1 
+deficiency, mitochondrial disorders 
+(including Leigh syndrome), SNX14 
+deficiency, CLN14 disease, Niemann-­Pick 
+type C, sialidosis, PMM2-­CDG and other 
+congenital disorders of glycosylation
+ • Adult-­onset ataxia:
+3-­methylglutaconyl-­CoA hydratase 
+deficiency, 3-­phosphoglycerate 
+dehydrogenase deficiency, 
+g-­glutamylcysteine synthetase deficiency, 
+OPA1 deficiency, very long-­chain fatty 
+acid elongase 4 deficiency, very long-­
+chain fatty acid elongase 5 deficiency, 
+abetalipoproteinemia, hereditary 
+coproporphyria, complex MD (tremor, 
+ataxia, myoclonus, perioral dyskinesias), 
+cathepsin F deficiency (myoclonus, 
+cerebellar ataxia, parkinsonism), neuronal 
+ceroid lipofuscinosis type 4 (Parry type)
+Many IEMs presenting with MD do not have a specific age of onset, and hence this parameter may not be extremely valuable in evaluating a par­
+ticular case.
+IEMs, inborn errors of metabolism; MD, movement disorder.
+From Ortigoza-­Escobar JD. A proposed diagnostic algorithm for inborn errors of metabolism presenting with movements disorders. Front Neurol. 
+2020;11:582160, Table 2.
+TABLE 40.4  Gait Abnormalities in Movement Disorders
+Ataxia
+Wide-­based stance. Extra steps to the side or backward to maintain balance while standing still. Extra steps to the side and a “drunken”-­type 
+gait with trunk sway when walking. Veering to the side and falls especially when turning or changing direction. Hurls self forward while 
+running with a tendency to fall at the end of the run. In general, the mildly ataxic child tends to have a harder time standing still or walking 
+slowly compared to running. When severe, standing, walking, and running are all significantly impaired.
+Choreoathetosis
+Lurching-­type gait. Difficulty standing still or motionless with intermittent, random jerky movements of arms, neck, trunk, legs, and face giving 
+rise to a “fidgety” appearance.
+Tics
+Normal gait and coordination.
+Stereotypies
+Normal gait.
+Dystonia
+If dystonia is focal and does not involve the legs or trunk, gait may be normal. In generalized dystonia, look for twisting and/or prominent 
+lordosis of the trunk or twisting inward or medially of the legs. The feet may be inverted and plantarflexed. The abnormality tends to become 
+more noticeable the longer the patient walks or runs. When dystonia is severe, the affected limbs tend to move “en bloc” with little apparent 
+flexibility at the joints.
+Tremor
+Gait can be normal. In the parkinsonian patient there is difficulty initiating movement and the gait is often slow and “stiff.” In the patient with 
+orthostatic tremor, standing brings out the tremor in the legs. The tremor disappears or improves when seated or walking.
+Myoclonus
+Gait is usually normal. If myoclonus affects the trunk or legs, lightning-­like jerks depending on the amplitude can result in falls.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+721
+CHAPTER 40  Movement Disorders in Childhood
+In these situations, dystonia is often not isolated and is often accom­
+panied by systemic symptoms and signs or other abnormalities in the 
+neurologic system such as mental status changes, seizures, or acute 
+psychiatric symptoms.
+Infections
+Viral or bacterial encephalitis may affect the basal ganglia, giving rise 
+to an acute movement disorder with dystonia, usually in the setting 
+of systemic symptoms and symptoms arising from multifocal involve­
+ment of the brain.
+Inflammation
+Postinfectious syndromes such as acute disseminated encephalomy­
+elitis (ADEM) may present with a mixed movement disorder with 
+dystonia.
+­N-­methyl-­d-­aspartate receptor (NMDAR antibody) encephali­
+tis is one of the more well-­defined autoimmune disorders presenting 
+with both movement disorders (chorea, dystonia) and neuropsychiat­
+ric symptoms. The symptoms usually evolve in a subacute to chronic 
+fashion occasionally with acute worsening. A clinical suspicion of the 
+condition, often with MRI signal changes in the hippocampi, mesial 
+temporal lobes, thalamus, and brainstem (not all cases have MRI 
+changes), with NMDAR antibody positivity in serum and cerebrospi­
+nal fluid (CSF) help clinch the diagnosis. Screening for an underlying 
+tumor should be undertaken. Cases in children and adolescents have 
+been linked to ovarian or testicular teratoma, seminoma, and small-­
+cell lung cancer. The incidence of tumors in children with this condi­
+tion is lower than that of adults. Management is with immune therapy 
+following tumor resection (in the cases linked to tumors).
+Acute Dystonic Reactions from Medications
+Areas affected include the jaw muscles (trismus), neck (torticollis), 
+back (opisthotonus), and extraocular muscles (oculogyric deviation 
+of eyes). The patient may also have trouble chewing or swallowing. 
+Although these sudden movements can mimic seizures, the patient 
+remains fully aware of their surroundings and the dystonia resolves 
+almost immediately with intravenous Benadryl. Commonly used med­
+ications such as antiemetics, anticonvulsants, and neuroleptics with 
+dopamine-­blocking properties can give rise to acute or delayed dys­
+tonic reactions.
+Paroxysmal Dystonia
+Paroxysmal dystonia in sleep should raise the suspicion of seizures and 
+appropriate neurophysiologic evaluation may be needed to differenti­
+ate seizures from a movement disorder. Paroxysmal dystonic move­
+ments with alteration of consciousness should also raise the suspicion 
+of seizures (Table 40.6).
+Paroxysmal Kinesigenic Dyskinesia
+Paroxysmal dystonia or choreoathetosis triggered by the initiation of 
+movement suggests the diagnosis of paroxysmal kinesigenic dyskine­
+sia (PKD) (see Table 40.2). PKD appears to be a heterogenous disor­
+der in which initiation of movement triggers episodes of dystonia or 
+choreoathetoid movements. The symptoms are often unilateral. Onset 
+of symptoms is between ages 1 and 20 years. The episodes of dysto­
+nia are clinically distinct from seizures because consciousness is fully 
+preserved, and the episodes are triggered by the initiation of move­
+ment. There is no associated pain with these episodes. The episodes last 
+seconds to less than a minute. Some patients have additional neuro­
+logic disorders such as benign infantile epilepsy. Infantile convulsions 
+followed by PKD in late childhood or adolescence is thought to be a 
+variant form of PKD.
+The diagnosis of PKD is confirmed by the absence of organic dis­
+ease or structural abnormality on neuroimaging and the response to 
+anticonvulsant medications such as carbamazepine, usually in low 
+doses. This condition may be sporadic or familial. Familial PKD can 
+be caused by variants in the proline-­rich transmembrane protein 2 
+(PRRT2). However, this gene is found in only a portion of individu­
+als with PKD. Variants in KCNA1 are identified in some families with 
+PKD. A diagnostic approach to paroxysmal dyskinesias is noted in 
+Fig. 40.3.
+Sandifer Syndrome
+Episodic arching or dystonic posture of the neck and back in an infant 
+or child can be seen in the setting of reflux. These episodes are usually 
+related to feeds.
+Benign Paroxysmal Torticollis
+This is thought to be a migraine variant. In this condition children have 
+paroxysmal episodes of head and/or trunk tilt that can last for hours 
+or days, usually without other symptoms. Onset can be as early as the 
+first year of life. Usually these episodes gradually decrease with age and 
+resolve or evolve into episodes of migraine as the child grows older. 
+At initial presentation, a detailed clinical evaluation should be under­
+taken, with appropriate testing to rule out organic causes. Careful 
+monitoring should occur to determine whether these symptoms evolve 
+into those of migraine or change to suggest a chronic neurogenetic dys­
+tonia that would warrant further evaluation.
+Alternating Hemiplegia of Childhood
+Alternating hemiplegia of childhood (AHC) is a rare condition presenting 
+in childhood with episodes of temporary paralysis, often affecting one side 
+of the body (hemiplegia). The episodes usually occur before age 18 months 
+and last from minutes to days. Although not primarily a movement dis­
+order, individuals can also have episodic choreoathetosis or dystonia in 
+addition to episodes of hemiplegia. The episodes of abnormal movements 
+can occur during or separate from the episodes of paralysis. These epi­
+sodes can occur with triggers of stress, cold, or extreme tiredness. Some­
+times there is no recognizable trigger. Other potential symptoms include 
+TABLE 40.5  Differential Diagnosis of 
+Acute Dystonia
+Drugs: L-­dopa, dopamine antagonists, fenfluramine, antipsychotics, antiemetics, 
+anticonvulsants, flecainide, ergots, some calcium channel blocking agents
+Toxins: carbon monoxide, magnesium, carbon disulfide, cyanide, methanol, 
+disulfiram, wasp sting
+Structural: stroke or lesion involving the basal ganglia
+Infection: viral or bacterial encephalitis; other infections with focal brain 
+lesions: tuberculosis, neurocysticercosis
+Inflammation: involving the basal ganglia: acute disseminated 
+encephalomyelitis (ADEM), ­N-­methyl-­d-­aspartate receptor (NMDAR) 
+encephalitis, rarely antiphospholipid antibody syndrome
+TABLE 40.6  Differential Diagnosis of 
+Paroxysmal Dystonia
+Paroxysmal kinesigenic dystonia
+Paroxysmal nonkinesigenic dystonia
+Sandifer syndrome
+Benign paroxysmal dystonia
+Seizures
+Alternating hemiplegia of childhood
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+722
+SECTION 7  Neurosensory Disorders
+developmental delay, abnormal eye movements, and seizures. Most indi­
+viduals have pathogenic variants in ATP1A3, and a smaller number have 
+variants in ATP1A2. There is a high rate of de novo (sporadic) events, so 
+many patients do not have a family history of similar symptoms. When 
+there is a family history, it tends to follow an autosomal dominant pattern. 
+Several treatments have been used including flunarizine, benzodiazepines, 
+topiramate, oral adenosine triphosphate (ATP), coenzyme Q, acetazol­
+amide, aripiprazole, and dextromethorphan, with various rates of success 
+in aborting attacks or decreasing their frequency.
+Chronic Dystonia
+Classification of chronic dystonia is linked to etiology (Tables 40.7 and 
+40.8).
+Primary pure dystonia: Dystonia is the only clinical symptom and 
+there is no identifiable exogenous cause or other inherited degen­
+erative disease.
+Primary dystonia plus syndromes: Dystonia may be a prominent or early 
+sign but there are other abnormal movements such as myoclonus, 
+ataxia, or parkinsonism, and there is no evidence of neurodegeneration.
+Primary paroxysmal dystonia: Dystonia occurs in brief episodes with 
+normalcy in between. These disorders can be familial or sporadic.
+Secondary dystonia: Dystonia is a symptom of an identified neuro­
+logic condition such as brain tumor, stroke, infection, inflamma­
+tion, drugs, or toxins.
+Heredodegenerative: Dystonia is one of many other neurologic signs 
+or symptoms of a heredodegenerative or metabolic disorder (see 
+Table 40.8).
+Primary Dystonia
+Early-­Onset Dystonia
+Early-­onset idiopathic torsion dystonia caused by variants in DYTI 
+(TOR1A/torsin A) represents the most common and most severe form 
+of pure primary chronic dystonia in childhood. Previously referred 
+to as dystonia musculorum deformans, it accounts for 16–53% of 
+pediatric-­onset dystonia in the non-­Jewish population and for 80–90% 
+of cases in the Ashkenazi Jewish population. The dystonia usually 
+Paroxysmal
+choreoathetosis
+and spasticity
+Main causes of recurring paroxysmal
+episodes of dyskinesia
+Classic
+paroxysmal dyskinesias
+Complex
+migraine
+Alternating
+hemiplegia
+of childhood
+ATP1A3
+variants
+SCL2A1
+variants
+GCH1
+variants
+Parkin
+variants
+PED
+Paroxysmal
+exercise-
+induced
+dyskinesia
+PNKD
+Paroxysmal
+non-
+kinesigenic
+dyskinesia
+CACNA1A
+variants
+SCN1A
+variants
+Paroxysmal
+hypnogenic
+dyskinesia
+Could this be
+nocturnal frontal
+lobe epilepsy?
+PNKD
+variants
+PKD
+Paroxysmal
+kinesigenic
+dyskinesia
+ICCA
+Infantile convulsions
+and paroxysmal
+choreoathetosis
+PRRT2
+variants
+Variants in
+CHRNA2, CHRNA4,
+CHRNB2 or KCNT1
+Fig. 40.3  Main genetic causes of recurring paroxysmal episodes of dyskinesia. (From Swaiman KF, Ashwal A, 
+Ferriero DM, et al., eds. Swaiman’s Pediatric Neurology. 6th ed. Philadelphia: Elsevier; 2018:722, Fig. 94-­1.)
+TABLE 40.7  Types of Chronic Dystonia
+PRIMARY (PURE) DYSTONIA
+Autosomal Dominant
+Idiopathic torsion dystonia: DYTI (TOR1A)
+Idiopathic torsion dystonia/whispering dysphonia: DYT4 (TUBB4A)
+Adolescent/early adulthood onset: DYT6 (THAP1)
+DYT13
+Autosomal Recessive
+DYT17
+PRIMARY DYSTONIA PLUS SYNDROMES
+Autosomal Dominant
+Guanosine triphosphate (GTP) cyclohydrolase-­1: DYT5 (dopa-­responsive 
+dystonia)
+Dystonia myoclonus: DYT11: epsilon sarcoglycan gene variant
+Rapid-­onset dystonia parkinsonism: DYT12
+Alcohol-­responsive dystonia myoclonic dystonia: DYT15
+Autosomal Recessive
+Young-­onset dystonia parkinsonism: DYT16
+PRIMARY PAROXYSMAL DYSTONIA
+Paroxysmal kinesigenic dyskinesia (PKD): DYT10 (PxMD-PRRT2)
+Paroxysmal nonkinesigenic dyskinesia (PNKD1): DYT8 (PxMD-PNKD)
+Paroxysmal exercise-­induced dyskinesia (PED): DYT18 (PxMD-SLC2A1) 
+gene variants
+SECONDARY DYSTONIA
+Structural defects: stroke, tumor
+Infection/inflammation
+Drugs, toxins
+Hypoxic-­ischemic encephalopathy
+Rasmussen syndrome
+DYT, prefix nomenclature for numbering monogenic dystonias.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+723
+CHAPTER 40  Movement Disorders in Childhood
+TABLE 40.8  Diseases with Complex Symptoms and Dystonia: Inherited Neurodegenerative/
+Metabolic Disorders
+Disorder
+MOI
+Gene(s)
+Clues to the Diagnosis
+Neurodegenerative Diseases
+DRPLA (dentatorubral-­pallidoluysian atrophy) AD
+ATN1
+Huntington disease–like; prominent myoclonus
+Huntington disease (Westphal variant 
+juvenile-­ or childhood-­onset HD)
+AD
+HTT
+Family history; caudate atrophy on MRI
+Huntington disease–like 2
+AD
+JPH3
+African ancestry
+Rett or Rett-­like syndrome
+XL, AD
+MECP2, FOXG1, GNB1
+Unusual stereotypies; autism
+Parkin type of early-­onset Parkinson disease
+AR
+PARK2
+Abnormal DaTscan
+Chorea-­acanthocytosis
+AR (and possible AD)
+VPS13A
+Acanthocytes in blood smear
+McLeod neuroacanthocytosis syndrome
+XL
+XK
+Weak expression of Kell antigens; acanthocytes in blood smear
+Neuronal intranuclear inclusion disease
+AD or sporadic
+Unknown
+MRI: high-­intensity signal in cortico-­medullary junction on DWI 
+images; intranuclear inclusions on skin biopsies
+Disorders Leading to Brain Calcification
+Primary familial brain calcification
+AD
+PDGFB, PDGFRB, SLC20A2, 
+XPR1
+MRI/CT: calcifications in basal ganglia, white matter, and 
+cerebellum
+Disorders of Heavy Metal Metabolism
+Wilson disease
+AR
+ATP7B
+↓ Plasma ceruloplasmin; Kaiser-­Fleischer corneal ring; face of 
+the giant panda sign on MRI
+Hypermanganesemia with dystonia, 
+polycythemia, and cirrhosis
+AR
+SLC30A10
+T1-­weighted hyperintensities in basal ganglia and cerebellum 
+on MRI
+AR
+SLC39A14
+Neurodegeneration with Brain Iron Accumulation (NBIA)
+Mitochondrial membrane protein-­associated 
+neurodegeneration
+AR
+C19orf12
+T2-­weighted hypointensities in substantia nigra and globus 
+pallidus on MRI; T2-­weighted hyperintense streaking between 
+hypointense internal globus pallidus and external globus pallidus
+Aceruloplasminemia
+AR
+CP
+MRI: hypointensity of basal ganglia, thalamus, red nucleus, 
+occipital cortex, and cerebellar dentate nuclei on T2-­
+weighted images
+Woodhouse-­Sakati syndrome
+AR
+DCAF17
+Dystonia deafness syndrome; hypogonadism; alopecia
+Fatty acid hydroxylase–associated 
+neurodegeneration
+AR
+FA2H
+MRI: hypointensity of the globus pallidus, confluent 
+hyperintensities of white matter on T2-­weighted images, 
+pontocerebellar atrophy, thin corpus callosum
+Neuroferritinopathy
+AD
+FTL
+MRI: cystic lesions in the basal ganglia, bilateral pallidal necrosis; 
+hypointensity of caudate, globus pallidus, putamen, substantia 
+nigra, and red nuclei on T2-­weighted images
+Pantothenate kinase–associated 
+neurodegeneration
+AR
+PANK2
+Eye-­of-­the-­tiger sign on MRI
+PLA2G6-­associated neurodegeneration
+AR
+PLA2G6
+Cerebellar hypoplasia and T2-­weighted high signal in the 
+cerebellum on MRI
+β-­Propeller protein–associated 
+neurodegeneration
+XL
+WDR45
+MRI: hypointense globus pallidus and substantia nigra on 
+T2-­weighted images
+Lipid Storage Disorders
+Neuronal ceroid-­lipofuscinoses
+AR; adult-­onset AD 
+or AR
+ATP13A2, CLN3, CLN5, 
+CLN6, CLN8, CTSD, 
+CTSF, DNAJC5, GRN, KCTD7, 
+MFSD8, PPT1, TPP1
+Dementia; epilepsy; visual loss in children
+Fucosidosis
+AR
+FUCA1
+MRI: hypointensity of globus pallidus and substantia nigra on 
+T2-­weighted images; dysostosis multiplex
+Niemann-­Pick disease type C
+AR
+NPC1, NPC2
+Supranuclear gaze palsy, splenomegaly, ↑ oxysterol blood levels
+Sphingolipidosis
+Arylsulfatase A deficiency
+AR
+ARSA
+Progressive demyelination
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+TABLE 40.8  Diseases with Complex Symptoms and Dystonia: Inherited Neurodegenerative/
+Metabolic Disorders—cont’d
+Disorder
+MOI
+Gene(s)
+Clues to the Diagnosis
+Lysosomal Storage Diseases
+Krabbe disease
+AR
+GALC
+Progressive demyelination, enlargement of optic nerve and chiasm
+GM1-­gangliosidosis
+AR
+GLB1
+MRI: hyperintensity of caudate nucleus and putamen with 
+signs of diffuse hypomyelination on T2-­weighted images
+GM2-­gangliosidosis, AB variant
+AR
+GM2A
+Indistinguishable from GM1-­gangliosidosis
+Leukodystrophies
+Creatine deficiency syndromes
+GAMT, GATM, SLC6A8
+MR spectroscopy: no creatine peak
+Pelizaeus-­Merzbacher disease
+XL
+PLP1
+Hypomyelination on MRI
+Disorders of Purine Metabolism
+Lesch-­Nyhan syndrome
+XL
+HPRT1
+Self-­mutilation; ↑ uric acid in plasma and urine
+Mitochondrial Disorders
+Leigh syndrome
+AR, mt
+Pathogenic variants in the 
+mtDNA; nuclear genes*
+Bilateral basal ganglia lesions on MRI; ↑ lactate levels on 
+magnetic resonance spectroscopy
+Leber hereditary optic neuropathy
+Mt
+Pathogenic variants in the 
+mtDNA
+Optic nerve changes on fundoscopy
+MELAS (mitochondrial encephalomyopathy, 
+lactic acidosis, and strokelike episodes)
+Mt
+Pathogenic variants in the 
+mtDNA
+Deep white matter changes and strokelike lesions on MRI
+MERRF (myoclonus epilepsy associated 
+with ragged-­red fibers)
+Mt
+Pathogenic variants in the 
+mtDNA
+Progressive myoclonus, epilepsy, and ataxia; muscle biopsy 
+showing ragged-­red fibers; ↑ lactate in serum and CSF
+POLG-­related disorders
+AR, AD
+POLG
+Progressive external ophthalmoplegia, ataxia
+Deafness-­dystonia-­optic neuronopathy 
+syndrome (Mohr-­Tranebjaerg syndrome)
+XL
+TIMM8A
+Dystonia (particularly oromandibular) and deafness
+Other dystonia-­deafness syndromes
+AD
+SERAC1, SUCLA2
+Dystonia and deafness
+XL
+DDP
+Dystonia and deafness
+Organic Acidurias
+D-­2-­hydroxyglutaric aciduria
+AR
+D2HGDH
+Newborn screening
+Glutaric aciduria type 1
+AR
+GCDH
+Newborn screening
+Methylmalonic acidemia
+AR
+MCEE, MMAA, MMAB, 
+MMADHC, MMUT
+Newborn screening
+Aminoacidurias
+Homocystinuria caused by cystathionine 
+β-­synthase deficiency
+AR
+CBS
+Homocysteine levels ↑ in blood
+Phenylketonuria
+AR
+PAH
+Newborn screening
+Hartnup disorder
+AR
+SLC6A19
+Levels of neutral amino acids ↑ in urine
+Disorders of Biotin Metabolism
+Biotinidase deficiency
+AR
+BTD
+Newborn screening
+Disorders of Thiamine Metabolism
+Biotin-­thiamine-­responsive basal ganglia 
+disease
+AR
+SLC19A3
+Recurrent subacute encephalopathy; symmetric and bilateral 
+edematous lesions in caudate nucleus, putamen, and cortex 
+on MRI
+Disorders of Galactose Metabolism
+Classic galactosemia and clinical variant 
+galactosemia
+AR
+GALT
+Newborn screening
+Encephalopathy with Uncertain Pathogenesis
+Aicardi-­Goutières syndrome
+AD, AR
+ADAR, RNASEH2A, 
+RNASEH2B, RNASEH2C, 
+SAMHD1, TREX1
+Early-­onset encephalopathy; chilblain lesions
+Disorders with ataxia as a predominant feature, particularly AD SCA (e.g., SCA3) and AR early-­onset ataxias (e.g., ataxia-­telangiectasia)
+*Genes associated with mitochondrial DNA-­associated Leigh syndrome and NARP: BCS1L, C20ORF7, C8ORF38, COX10, COX15, FOXRED1, 
+MTFMT, NDUFA2, NDUFA9, NDUFA10, NDUFA12, NDUFAF2, NDUFAF6, NDUFS1, NDUFS3, NDUFS4, NDUFS7, NDUFS8, SDHA, SURF1.
+AD, autosomal dominant; AR, autosomal recessive; CSF, cerebrospinal fluid; DWI, diffusion-­weighted imaging; MOI, mode of inheritance; mt, mito­
+chondrial; SCA, spinocerebellar ataxia; XL, X-­linked.
+Klein C, Lohmann K, Marras C, et al. Hereditary dystonia overview. In: GeneReviews [Internet]. Seattle: University of Washington, 
+1993–2021. 2003 Oct 28 [updated 2017 Jun 22], Table 4.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+725
+CHAPTER 40  Movement Disorders in Childhood
+begins in childhood or early adolescence as a focal dystonia either in 
+the hand or foot and gradually progresses. Rarely the neck or facial 
+muscles may be involved first. Treatment is symptomatic.
+Dopa-­Responsive Dystonia
+This group of disorders with onset in childhood, adolescence, or early 
+adulthood presents with dystonia with dramatic and sustained response 
+to levodopa. This condition was initially referred to as dopa-­responsive 
+dystonia (DRD) with marked diurnal fluctuation or Segawa syndrome. 
+Symptoms have marked diurnal fluctuation, with mild or minimal dys­
+tonia in the morning (after overnight sleep), progressively worsening 
+toward the end of the day. Several clinically similar conditions with 
+dystonia have been described, all with the common features of diurnal 
+variation and responsiveness to levodopa. The collective group of DRD 
+appears to be a fairly heterogenous group with either a dominant or 
+recessive pattern of inheritance. Although most cases of DRD in child­
+hood are due to pathogenic variants in guanosine triphosphate (GTP) 
+cyclohydrolase 1 (GCH1), other abnormalities such as compound het­
+erozygous variants in GCH1, tyrosine hydroxylase (TH), sepiapterin 
+reductase (SPR), or 6-pyruvoyltetrahydropterin synthase (6-­PTS) 
+genes have been found. Older adolescents with symptoms of DRD have 
+been linked to juvenile parkinsonism and Parkin gene variants. Not 
+all clinical forms have an identified genotype. CSF neurotransmitter 
+metabolites show abnormalities in the dopamine metabolites neop­
+terin and biopterin.
+The age of onset is around 6 years, often with dystonia of the foot as 
+the first presenting symptom. This gradually progresses to generalized 
+dystonia. However, onset can be as young as infancy with dystonia and 
+rigidity. It is not uncommon for such young children to be misdiagnosed 
+as having cerebral palsy. Treatment with levodopa results in a dramatic 
+improvement. In a child with chronic dystonia without an identified 
+etiology, a trial of levodopa should be considered.
+Symptomatic Dystonia
+Acute or subacute hemidystonia should alert the clinician of the possi­
+bility of a space-­occupying lesion in the contralateral basal ganglia such 
+as a tumor or a stroke.
+Hemidystonia has been reported as a symptom of Rasmussen 
+syndrome.
+Dystonia has also been reported as an early symptom of ataxia-­
+telangiectasia occurring prior to the onset of ataxia.
+Wilson Disease
+Wilson disease is an autosomal recessive disorder of copper metabo­
+lism that manifests with damage to hepatic cells and the basal ganglia. 
+The disorder in childhood usually presents with hepatic symptoms (see 
+Chapter 18). Adolescent patients present with psychiatric and behav­
+ioral manifestations, while in young adults, dystonia, parkinsonism, 
+tremor, and abnormal gait can be seen. Although rare, movement dis­
+orders have been reported in younger children with Wilson disease. 
+Children with Wilson disease and movement disorder present with 
+dystonia, tremor, ataxia, or gait abnormality with rigidity. The initial 
+presentation may be any one of these in isolation or in combination, 
+remaining stable for years before progression occurs. The presence 
+of Kayser-­Fleischer (K-­F) rings in the eyes (due to copper deposition 
+in the Descemet membrane of the cornea) is a helpful sign but not 
+pathognomonic when present (Fig. 40.4). This can sometimes be seen 
+with bedside ophthalmoscopy but often requires a slit-­lamp examina­
+tion to be visualized. The diagnosis of Wilson disease is made with 
+a low serum copper and ceruloplasmin, increased 24-­hour urinary 
+copper excretion, and the presence of K-­F corneal rings or detection 
+of biallelic ATP7B pathogenic variants on molecular genetic testing. 
+When a diagnosis remains unclear, the definitive test is a liver biopsy 
+for measurement of copper concentration in liver tissue. Treatment is 
+lifelong with copper chelating agents.
+Lesch-­Nyhan Syndrome
+This X-­linked condition is characterized by severe, impulsive self-­
+mutilatory behaviors. It results from a deficiency of the enzyme 
+hypoxanthine-­guanine-­phosphoribosyltransferase (HGPRT), which 
+is associated with hyperuricemia, developmental delays, and severe 
+intellectual disability. Symptoms of motor dysfunction and dystonia or 
+choreoathetosis often precede the self-­mutilatory behavior, with chil­
+dren mistakenly given a diagnosis of cerebral palsy. Serum uric acid 
+levels are elevated, and diagnosis is confirmed with enzyme testing or 
+gene sequencing.
+Rasmussen Syndrome
+This immune-­based disorder usually affects one side of the brain caus­
+ing refractory focal seizures and progressive unilateral loss of motor 
+function (hemiparesis) and intellectual disability. The progressive loss 
+of function occurs because of chronic inflammation and atrophy of one 
+hemisphere of the brain.
+Although primarily linked to focal seizures and epilepsia partialis 
+continua, basal ganglia involvement resulting in unilateral dystonia or 
+chorea has been reported.
+Niemann-­Pick Type C
+Niemann-­Pick type C is a lysosomal storage disorder caused by defects 
+in intracellular cholesterol and lipid transport. The clinical manifes­
+tations typically begin in childhood or early adulthood and include 
+slowly progressive dementia, often with seizures. Most patients also 
+have progressive ataxia with a supranuclear vertical gaze palsy, although 
+other phenotypes with dystonia, spasticity, myoclonus, or parkinson­
+ism may also occur.
+Management of Dystonia
+Management in primary dystonia is symptomatic. Anticholinergic 
+medications, dopamine-blocking and -­depleting agents, baclofen, 
+and benzodiazepines have been utilized, often with incomplete bene­
+fit and with side effects limiting dose escalation. Botulinum toxin can 
+be effective in focal dystonia. In generalized dystonia, botulinum toxin 
+injections can be helpful when administered to the most disabling 
+sites. Levodopa is the mainstay of treatment for DRD. Other forms of 
+dystonia may respond partially to levodopa. Since complete response 
+to levodopa can be clinically diagnostic for DRD, a trial of levodopa 
+Fig. 40.4  Kayser-­Fleischer ring. There is a brown discoloration at the 
+outer margin of the cornea because of the deposition of copper in the 
+Descemet membrane. Here it is clearly seen against the light green 
+iris. Slit-­lamp examination is required for secure detection. (From Ala A, 
+Walker AP, Ashkan K, et al. Wilson’s disease. Lancet. 2007;369:397–408.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+726
+SECTION 7  Neurosensory Disorders
+should be considered in every child who presents with a primary 
+dystonia.
+Deep brain stimulation has been utilized with some success in cases 
+refractory to medication.
+Management for secondary dystonia targets the underlying etiol­
+ogy as well as symptom treatment.
+CHOREA/ATHETOSIS/BALLISMUS
+Chorea is defined as an ongoing random-­appearing sequence of one 
+or more discrete involuntary movements or movement fragments.
+Ballismus is defined as chorea that affects proximal joints such as 
+the shoulder or hip. This leads to more dramatic, large-­amplitude 
+movements with a “flinging” or “flailing” quality.
+Athetosis is defined as a slow, continuous, writhing movement that 
+prevents maintenance of a stable posture.
+Chorea and athetosis often coexist and are referred to as 
+choreoathetosis.
+Choreic movements appear random due to their timing, duration, 
+and anatomic location. These movements are usually rapid and tend to 
+have a jerky quality. Chorea is present during voluntary movements as 
+well as at rest. Children with chorea tend to appear “fidgety.” Chorea is 
+distinguished from tremor by its randomness and lack of rhythmicity.
+Choreoathetosis is usually accompanied by two clinical phenomena. 
+Motor impersistence observed in choreoathetosis is the inability to sus­
+tain voluntary contraction of muscles. The individual often drops objects 
+in their grasp. During the examination when asked to grasp the examin­
+er’s hand and sustain a grip, repetitive intermittent involuntary relaxation 
+and voluntary contraction trying to maintain this muscle contraction 
+give rise to the milkmaid grip. The combination of random, jerky 
+movements of chorea and motor impersistence gives rise to the piano 
+playing movements of fingers while trying to hold arms and fingers out­
+stretched. If chorea is generalized or affects the buccolingual muscles, 
+there is inability to keep the tongue protruded (darting tongue).
+The second phenomenon seen in chorea is parakinesia. These are 
+voluntary movements made to mask or camouflage the involuntary 
+movements.
+Chorea can be acquired or occur in the setting of an underlying 
+chronic disorder.
+Acute Chorea
+Acute chorea tends to be acquired (Table 40.9) and should be evaluated 
+urgently. In a child with acute chorea the following questions should be 
+answered at the initial evaluation:
+ 1. Is there evidence for a primary CNS infection or a postinfectious 
+condition such as ADEM or Sydenham chorea?
+	2.	 If the chorea is unilateral, is there evidence of a focal lesion such as 
+an acute stroke or lesion in the basal ganglia?
+	3.	 Is there evidence of systemic involvement?
+	4.	 Is there evidence for cardiac involvement?
+ 5. Are any of the following tests needed:
+ 
+a. ECG/echocardiogram
+ 
+b. Neuroimaging: MRI of the brain with magnetic resonance angi­
+ography
+ 
+c. ASO titers and anti-­DNase B titers
+ 
+d. Antinuclear antibody (ANA), antiphospholipid antibody panel
+	
+e.	 Throat swab for culture
+ 
+f. CSF analysis for infection or inflammation
+Sydenham Chorea
+This is one of the most common causes of acquired chorea affecting 
+children between the ages of 5 and 15 years. The onset is often insidious 
+and occurs after a streptococcal infection. The chorea is usually gener­
+alized but can affect one side more than the other at onset. Sydenham 
+chorea is considered a major clinical criterion of acute rheumatic fever. 
+The onset of chorea and emotional lability in an otherwise healthy child 
+should raise the suspicion of this condition. The diagnosis is based on 
+finding a link to a previous streptococcal infection with a throat swab 
+(culture) and high blood titers of streptococcal antibodies (ASO, anti-­
+DNase B), or the presence of arthritis, carditis, or cardiac valvular dis­
+ease. This condition occurs anywhere from a few weeks to 8 months 
+after the acute streptococcal infection or exposure to streptococcus. 
+Therefore, at the onset of choreoathetosis, the characteristic signs of 
+an acute streptococcal pharyngitis are no longer present. About 25% of 
+individuals with rheumatic fever develop Sydenham chorea, and in one 
+series, up to 50% of individuals who presented with Sydenham cho­
+rea had cardiac involvement. Differential diagnosis in the absence of 
+laboratory tests that support previous streptococcal exposure includes 
+other inflammatory conditions such as antiphospholipid antibody 
+­syndrome or lupus. In most cases, the chorea in Sydenham chorea grad­
+ually resolves but can take anywhere from weeks to a year to disappear. 
+In some cases, chorea persists chronically. Sydenham chorea can recur 
+with reinfection. Antiepileptic agents such as levetiracetam, carbamaz­
+epine, benzodiazepines, valproate, and low-­dose dopamine-­depleting 
+agents have been utilized for symptomatic treatment to decrease the 
+chorea in Sydenham chorea. There has been some support for using a 
+short course of oral steroids or intravenous immunoglobulin based on 
+the idea that ongoing inflammation is contributing to the symptoms. 
+In every child suspected of Sydenham chorea a cardiology evaluation 
+is recommended, and once the diagnosis is confirmed, management is 
+similar to that of rheumatic fever, with long-­term antibiotic prophy­
+laxis against streptococcal infection. Neuroimaging of the brain with 
+MRI is done to rule out alternative causes.
+Acute Disseminated Encephalomyelitis
+ADEM is thought to be an immune-­based disorder of the brain and 
+spinal cord, triggered by a preceding environmental stimulus such as a 
+viral/bacterial infection or immunization.
+The diagnosis is made based on the acute presentation of a child 
+with neurologic signs and symptoms pointing to multifocal brain dis­
+ease, diffuse/scattered fairly discrete signal changes on the MRI of the 
+brain and/or spinal cord, occasional involvement of the optic nerves 
+(optic neuritis), the absence of a primary CNS infection (bacterial or 
+TABLE 40.9  Causes of Acute 
+Choreoathetosis
+Acute infection/encephalitis
+Autoimmune: Sydenham chorea, lupus, antiphospholipid antibody syndrome, 
+acute disseminated encephalomyelitis (ADEM), ­N-­methyl-­d-­aspartate 
+receptor (NMDAR) encephalitis, system lupus erythematosus (SLE)
+Drug induced: withdrawal emergent syndrome (abrupt discontinuation 
+of a dopamine receptor antagonist), anticonvulsants (phenytoin, 
+carbamazepine), tardive dyskinesia (long-­term side effects of dopamine 
+receptor antagonists and neuroleptics), amphetamines, cocaine, tricyclic 
+antidepressants
+Toxins: alcohol, anoxia, carbon monoxide, toluene, thallium, mercury, 
+manganese
+Systemic disease: hyperthyroidism, hypoparathyroidism, hypoglycemia, 
+hyperglycemia
+Vascular: bilateral chorea has been linked to cardiopulmonary bypass 
+surgery: Stroke from ischemia, embolus, hemorrhage, moyamoya disease, 
+midsize vessel cerebral vasculopathy usually unilateral at onset
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+727
+CHAPTER 40  Movement Disorders in Childhood
+viral), and either normal CSF or mild CSF pleocytosis with elevated 
+protein. The patient often looks ill and may have a fever. Although 
+this condition is thought to predominantly affect white matter, signal 
+changes are often seen in the basal ganglia and abnormal movements 
+such as choreoathetosis can be part of the presenting symptoms. At 
+presentation acute encephalitis and ADEM can be difficult to differen­
+tiate. When suspected, the evaluation, which includes neuroimaging 
+and CSF evaluation, should be performed urgently. The treatment of 
+ADEM targets suppressing inflammation with intravenous corticoste­
+roids. Intravenous immunoglobulins or plasmapheresis may benefit 
+children who fail to respond to corticosteroids.
+Drug-­Induced Chorea
+Chorea can be seen when dopamine receptor blocking drugs are 
+abruptly withdrawn. This is referred to as withdrawal emergent 
+syndrome. The chorea gradually resolves within weeks to months. 
+Slow tapering of the medication when possible instead of abrupt 
+withdrawal decreases the risk of this syndrome. Tardive syndromes 
+or tardive dyskinesia can be seen with the chronic use of neuroleptic 
+agents for psychiatric disorders, as well as some neurologic and gas­
+trointestinal disorders. Neuroleptics such as phenothiazines, haloper­
+idol, risperidone, quetiapine, and olanzapine, and antiemetics such as 
+metoclopramide and prochlorperazine, have been linked to the occur­
+rence of chorea late in the course of treatment. The risk of tardive dys­
+kinesia in children appears lower than adults but has been reported as 
+high as 9.8% after long-­term exposure.
+Chronic Chorea
+Chronic choreoathetosis in childhood is due to disorders that may be 
+static (perinatal hypoxic ischemic encephalopathy or malformations of 
+brain development) or progressive (genetic, metabolic, or heredode­
+generative diseases).
+Disorders that present with chronic chorea are broadly considered 
+as isolated (Table 40.10), in which chorea may be the only symptom, or 
+a part of more complex disorders (Table 40.11), with other neurologic 
+symptoms as well as chorea.
+TABLE 40.10  Genetic Disorders with 
+Chorea as the Primary Symptom
+Benign hereditary chorea
+Paroxysmal kinesigenic dyskinesia
+Paroxysmal nonkinesigenic dyskinesia
+TABLE 40.11  List of Monogenic Causes of Chorea
+Gene
+Main Associated 
+Phenotype
+Gene Product
+Inheritance
+Age of Onset
+Diagnostic Clues
+HTT
+Huntington disease
+Huntingtin
+AD (CAG 
+expansion)
+Childhood to late 
+adulthood
+Cognitive decline, psychiatric 
+disturbances
+Progressive course
+MRI: caudate nucleus head atrophy
+PRNP
+HDL1
+Prion protein
+AD (octapeptide 
+coding repeat 
+expansion)
+Adulthood
+Dementia and psychiatric features
+Possible parkinsonism at onset and 
+longer survival than HD
+JPH3
+HDL2
+Junctophilin 3
+AD (CAG/CTG 
+expansion)
+Adulthood
+Parkinsonism may be first manifestation
+High frequency in people with Black 
+African ancestry
+TBP
+HDL4
+Spinocerebellar ataxia 
+type 17
+TATA box-­binding protein
+AD (CAG 
+expansion)
+Childhood to 
+adulthood
+Ataxia and cognitive decline
+Frequent parkinsonism
+MRI: cerebellar atrophy
+ATN1
+Dentatorubral-­
+pallidoluysian atrophy
+Atrophin-­1
+AD (CAG 
+expansion)
+Childhood to 
+adulthood
+Seizures, myoclonus, and cognitive decline
+MRI: cerebellar and brainstem atrophy 
+(especially pons)
+High frequency in Japan
+C9orf72
+FTD/MND
+Chromosome 9
+Open reading 
+frame 72
+AD (GGGGCC 
+expansion)
+Childhood to 
+adulthood
+Prominent cognitive and psychiatric 
+features
+Pyramidal signs
+MRI: diffuse cerebral atrophy
+FTL
+Neuroferritinopathy
+Ferritin light chain
+AD
+Teenage to late 
+adulthood
+Action-­specific facial dystonia
+Reduced ferritin plasma levels
+MRI: iron deposition in basal ganglia 
+and cortical pencil lining
+SLC20A2
+Idiopathic basal ganglia 
+calcification (IBGC)
+Na-­dependent phosphate transporter 
+type 2
+AD
+Symptoms: early to 
+late adulthood
+Calcium deposition: 
+childhood to 
+adolescence
+CT scan: basal ganglia, cerebellar 
+dentate nuclei, and subcortical white 
+matter calcification
+PDGFB
+Platelet-­derived growth factor β 
+polypeptide
+PDGFRB
+Platelet-­derived growth factor receptor β
+XPR1
+Xenotropic and polytropic retroviruses 
+receptor
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+TABLE 40.11  List of Monogenic Causes of Chorea—cont’d
+Gene
+Main Associated 
+Phenotype
+Gene Product
+Inheritance
+Age of Onset
+Diagnostic Clues
+VPS13A
+Chorea-­acanthocytosis
+Chorein
+AR
+Early adulthood
+Severe oromandibular dystonia with lip 
+and tongue biting
+Head drops
+Peripheral axonal neuropathy
+Elevated serum CK
+MRI: caudate nucleus head atrophy
+XK
+McLeod syndrome
+Kell blood group protein
+X-­linked 
+recessive
+Adulthood
+Peripheral sensorimotor neuropathy
+Cardiomyopathy
+Elevated serum CK
+ATM
+Ataxia-­telangiectasia
+Ataxia-­telangiectasia mutated gene
+AR
+Childhood to 
+adulthood
+Oculocutaneous telangiectases
+Sensorimotor neuropathy
+Elevated serum α-­fetoprotein
+Predisposition to malignancy
+MRI: cerebellar atrophy
+APTX
+Ataxia with oculomotor 
+apraxia (AOA) types 1, 
+2, and 4
+Aprataxin
+AR
+Childhood to 
+adulthood
+Sensorimotor neuropathy
+Hypoalbuminemia in AOA1
+Hypercholesterolemia in AOA1 and AOA4
+Elevated α-­fetoprotein in AOA2 and 
+AOA4
+MRI: cerebellar atrophy
+SETX
+Senataxin
+PNKP
+Polynucleotide kinase 3’-­phosphatase
+RNF216
+Gordon-­Holmes syndrome
+Ring finger protein 216
+AR
+Adulthood
+Hypogonadism
+MRI: cerebellar atrophy
+NKX2-­1
+NKX2-­1-­related chorea
+Thyroid transcription factor 1
+AD/de novo
+Infancy
+Nonprogressive course
+Hypotonia and early falls
+Learning difficulties
+Frequent pulmonary and thyroid 
+dysfunction
+ADCY5
+ADCY5-­related chorea
+Adenylate cyclase 5
+AD/de novo
+Infancy to childhood
+Normal cognition
+Dystonia and myoclonus may become 
+prominent with age
+Severe diurnal and nocturnal 
+exacerbations
+Axial hypotonia and delayed milestones 
+in most severe cases
+PDE10A
+PDE10A-­related chorea
+Phosphodiesterase 10A
+De novo/AR
+Infancy to childhood
+Delayed milestones and language 
+development and dysarthria in cases 
+with recessive variants
+MRI: symmetric T2-­hyperintense 
+bilateral striatal lesions in cases with 
+dominant de novo variants
+GPR88
+GPR88-­related chorea
+G protein–coupled receptor 88
+AR
+Childhood
+Language delay and learning disabilities
+GNAO1
+Early infantile epileptic 
+encephalopathy type 17 
+(Ohtahara syndrome)
+Gαo
+De novo
+Infancy to childhood
+Progressive and severe movement 
+disorder associated with developmental 
+delay, with or without seizures
+FOXG1
+Congenital Rett disease
+Forkhead box G1
+De novo
+Infancy to early 
+childhood
+Severe intellectual disability, absent 
+language, acquired microcephaly
+MRI: corpus callosum abnormalities, 
+frontal or frontotemporal 
+underdevelopment, mild cerebellar 
+hypoplasia, and delayed myelination
+SYT1
+Severe motor delay and 
+intellectual disability
+Synaptotagmin-­1
+De novo
+Infancy
+Severe delayed motor development 
+without seizures
+SCN8A
+Early infantile epileptic 
+encephalopathy type 13
+BFIS
+NaV1.6α-­subunit of voltage-­gated Na 
+channels
+AD/de novo
+Infancy to childhood
+Paroxysmal dystonia/chorea triggered 
+by sudden movements or emotional 
+stress
+Focal EEG abnormalities during attacks
+AD, autosomal dominant; AR, autosomal recessive; BFIS, benign familial infantile seizures; CK, creatine kinase; HD, Huntington disease; HDL, ­Huntington 
+disease–like.
+From Menacci NE, Carecchio M. Recent advances in genetics of chorea. Curr Opin Neurol. 2016;29(4):486–495.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+729
+CHAPTER 40  Movement Disorders in Childhood
+Benign Hereditary Chorea
+Benign hereditary chorea (BHC) was initially described clinically as 
+a rare autosomal dominant disorder presenting with chorea in early 
+childhood and a family history of the same. Although it was recognized 
+that some children with this condition also had associated hypotonia, 
+mildly delayed motor development, and tremor, there was usually 
+no progression of symptoms and apart from chorea children usually 
+remained well. The family history often helped confirm this clinical 
+diagnosis. The disorder is caused by a pathogenic variant in the NKX2.1 
+(TITF1) gene. Since the identification of the genetic etiology, there has 
+been a phenotypic expansion leading to the consideration of NKX2-­1-­
+related disorders that range from BHC to choreoathetosis, congenital 
+hypothyroidism, and neonatal respiratory distress (known as brain-­
+lung-­thyroid syndrome). Interestingly, some of the original families 
+described as having BHC did not harbor identifiable variants in this 
+gene, suggesting that this disorder may be genetically heterogeneous.
+Classical BHC presents with hypotonia in infancy and delayed motor 
+milestones, with the onset of chorea around age 2 years or earlier. The 
+chorea is generalized, increasing with excitement or stress. Usually the 
+chorea remains stable with some improvement in adolescence and young 
+adulthood. Other types of movements seen in individuals who have 
+pathogenic variants in NKX2.1 include dystonia, ataxia, tremor, sudden 
+falls (nonepileptic drops), and tics. These symptoms may occur with or 
+without chorea. Speech difficulty consisting of dysarthria or stuttering 
+have been reported in BHC. Cognitive skills were previously thought to 
+be normal in BHC; however, recent studies show conflicting results, with 
+some individuals having higher cognitive skills than expected for age, 
+and some lower. Depression, psychosis, attention-­deficit/hyperactivity 
+disorder (ADHD), and obsessive-­compulsive disorder (OCD) have all 
+been reported with NKX2.1 gene variants. NKX2.1 testing should be 
+considered in individuals with neonatal hypotonia, motor developmen­
+tal delay, and early-­onset chorea and/or dystonia. The presence of lung or 
+thyroid symptoms should further increase the suspicion of this disorder.
+Treatment
+Treatment of chorea should target the underlying cause. Symptom 
+treatment can be with dopamine receptor blocking agents (neuroleptics 
+and tetrabenazine), although potential side effects of these medications 
+should be taken into consideration. Other medications that have been 
+used for symptomatic treatment of chorea include anticonvulsants, 
+specifically sodium valproate, levetiracetam, and the benzodiazepines.
+ATAXIA
+Ataxia is unsteadiness out of proportion to the degree of weakness and 
+involuntary movements. True ataxia implies a disorder of the cerebel­
+lum and its connections.
+Many of the ataxic disorders have myoclonus, chorea, and dystonia 
+as part of the phenotype. These abnormal movements when present do 
+not directly cause the unsteadiness. The presence of other abnormal 
+movements and symptoms in an ataxic child may be helpful in identi­
+fication of the underlying cause.
+The clinical exam in a child suspected of having ataxia should focus 
+on the presence of cerebellar tremor (intention tremor), nystagmus, 
+dysarthria, and truncal titubation. Stance, gait, and coordination are 
+important parts of the examination of the ataxic child. The clinical 
+exam should also determine whether other abnormal movements such 
+as choreoathetosis, myoclonus, or dystonia are present. In every child 
+with ataxia, careful observation of eye movements should occur specif­
+ically looking for the presence of opsoclonus. This sign may be subtle 
+and difficult to detect, especially if the child is irritable. Signs that point 
+to the underlying etiology include cutaneous/conjunctival telangiec­
+tasia (ataxia telangiectasia) and opsoclonus (opsoclonus-­myoclonus 
+ataxic encephalopathy) (Tables 40.12, 40.13, and 40.14).
+Opsoclonus-­Myoclonus Ataxic Encephalopathy/Opsoclonus 
+Myoclonus Syndrome
+The diagnosis of this syndrome is entirely clinical. In this condition, 
+otherwise healthy children between the ages of 1 and 4 years (mean 
+age of onset about 18 months) develop ataxia over days to weeks. At 
+onset the condition may mimic acute cerebellar ataxia, which tends 
+to be a self-­limiting postinfectious disorder, resolving within a few 
+weeks. However, in opsoclonus myoclonus syndrome (OMS) the ataxia 
+does not resolve within a few weeks but tends to gradually worsen, or 
+remain the same, with gradual increase in irritability and the occur­
+rence of myoclonus and opsoclonus. Myoclonus and opsoclonus may 
+be present at onset but may occur after the onset of ataxia. When opso­
+clonus and myoclonus are mild, they can be missed during the exam­
+ination of an irritable ataxic child. The clinical diagnosis is much easier 
+to arrive at when the triad of symptoms—myoclonus, opsoclonus, and 
+ataxia—are present from onset or when opsoclonus is severe. However, 
+the diagnosis may be missed for months when opsoclonus is mild and 
+starts indolently a few weeks after the onset of ataxia.
+Opsoclonus is defined as chaotic, multidirectional, rapid, conjugate 
+eye movements. There is often a subtle eyelid flutter accompanying the 
+darting eye movements. When opsoclonus is mild, the child has dif­
+ficulty maintaining eye contact or maintaining gaze on a toy. Quick 
+darting movements of the eyes when the child is asked to visually focus 
+on an object may initially appear to suggest that the child is volitionally 
+looking away. However, with careful observation of eye movements, it 
+gradually becomes apparent that the multidirectional jerky, involuntary 
+eye movements interfere with visual focus. When severe or dramatic, 
+parents usually notice the movement and bring it to the clinician’s 
+attention, often using descriptive terms that illustrate why the disorder 
+was historically referred to as “dancing eyes–dancing feet syndrome.”
+Myoclonus is easily recognizable when large in amplitude. When 
+subtle, the isolated, lightning-­like jerks may be easier to feel rather than 
+detect visually.
+Encephalopathy in OMS is usually profound and consists of irri­
+tability, sleep disturbance, and rage attacks. With time, encephalopa­
+thy worsens and is accompanied by potentially irreversible neurologic 
+regression.
+TABLE 40.12  Causes of Ataxia
+Acute Ataxia
+Cerebellar stroke: embolic/dissection/thrombosis of the vertebral arteries, 
+hemorrhage
+Acute hydrocephalus
+Acute decompensation from a posterior fossa tumor (astrocytoma, 
+ependymoma, medulloblastoma), primitive neurectodermal tumor (PNET), 
+cerebellar hemangioblastoma (von Hippel–Lindau syndrome)
+Postinfectious: postinfectious cerebellar ataxia, acute disseminated 
+encephalomyelitis (ADEM), Miller Fisher variant of Guillain-­Barré syndrome 
+(acute inflammatory demyelinating polyradiculoneuropathy [AIDP])
+Drug ingestion/toxins
+Subacute Ataxia
+Paraneoplastic: opsoclonus-­myoclonus ataxic encephalopathy
+Brain tumor: posterior fossa/cerebellar/brainstem tumors
+Hydrocephalus
+Celiac disease
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+730
+SECTION 7  Neurosensory Disorders
+The condition is thought to be a neuroinflammatory, often para­
+neoplastic disorder. Once the diagnosis is made, a careful search for a 
+neuroblastoma (in the chest/abdomen/pelvis) should be undertaken. 
+In about 50% of children, a remote neuroblastoma is found. However, 
+resection of tumor alone is insufficient to reverse or stop the progres­
+sion of OMS. Long-­term immune therapy with continued surveillance 
+for tumor recurrence or detection is the mainstay of management. The 
+challenge is to consider this condition early in the differential diagnosis 
+of acute or subacute ataxia, exclude other conditions that cause acute 
+ataxia in children, and shorten the time to treatment.
+Clinical Observations in Children with Ataxia
+When ataxia is mild, young children tend to have an easier time run­
+ning compared to standing still. Running may be easier as children 
+tend to launch themselves forward to compensate for their difficulty 
+with balance. Standing still, with feet together, is often accompanied 
+by steps backward or to the side to maintain balance. Changing direc­
+tion while walking or turning around is often accompanied by a step to 
+the side to maintain balance. Stooping and recovering may be difficult. 
+When the ataxia is mild, children can stoop and recover but tend to do 
+so with feet placed wide apart. When ataxia is severe, standing, walk­
+ing, running, and even sitting become difficult and require support.
+The muscle stretch reflexes (deep tendon reflexes) should be evalu­
+ated in all children as part of the neurologic examination. In cerebellar 
+disorders the reflexes may be blunted. However, if there is peripheral 
+nerve involvement (e.g., in the Miller Fisher variant of Guillain-­Barré), 
+reflexes are lost.
+Acute Cerebellar Ataxia
+This condition is usually seen in children between ages 2 and 7 years 
+(see Table 40.12). The onset is usually explosive with ataxia that is max­
+imal on the day of onset. Often the symptom of ataxia is preceded by a 
+febrile illness. The condition is thought to be postinfectious in nature. 
+Infectious agents that have been linked to acute cerebellar ataxia include 
+coxsackievirus, echoviruses, Epstein-­Barr virus, hepatitis A, measles, 
+TABLE 40.14  Phenotypic Clues to Specific 
+Gene Variants in the Dominant Ataxias
+Clue
+Related Dominant Ataxia
+Age at onset
+Young adult: SCA1, 2, 3, 7; childhood onset: 
+DRPLA, SCA7, SCA13
+Older adult: SCA6
+Degree of anticipation in age 
+at onset
+Often large in SCA7, DRPLA
+Often seen in all CAG repeat–related SCAs
+Benign course
+SCA6
+Upper motor neuron signs
+SCA1, 5, 7, 8; MJD
+Rare in SCA2
+Akinetic-­rigid syndrome
+MJD, SCA2
+Chorea
+Prominent in DRPLA; may occur late in other 
+SCAs
+Action tremor
+SCA12, SCA15/16
+Very slow saccades
+SCA2, 7; may occur late in SCA1, 3; 
+uncommon in SCA6
+Downbeat nystagmus
+SCA6, EA2
+Generalized areflexia
+SCA2, 4
+SCA3 with older-­adult onset
+Visual loss
+SCA7
+Seizures
+SCA10; early-­onset cases of DRPLA and 
+SCA7
+Dementia/psychiatric features
+SCA12, 17, 27; DRPLA
+Myoclonus
+DRPLA, SCA14
+Intellectual disability
+SCA13
+Episodic symptoms
+EA1 and EA2
+DRPLA, dentatorubral-­pallidoluysian ataxia; EA, episodic ataxia; MJD, 
+Machado-­Joseph disease; SCA, spinocerebellar ataxia.
+From Daroff RB, Jankovic J, Mazziotta JC, et al., eds. Bradley’s 
+Neurology in Clinical Practice. 7th ed. Philadelphia: Elsevier; 
+2016:1471, Table 97.4.
+TABLE 40.13  Ataxias in Which Specific 
+Abnormalities May Confirm or Point to the 
+Diagnosis*
+Disorder
+Diagnosis
+Abetalipoproteinemia
+Low vitamin E levels, abnormal lipoprotein 
+electrophoresis
+Aceruloplasminemia
+Cognitive changes, craniofacial dyskinesia, ataxia, 
+retinal degeneration, low serum copper, absent 
+ceruloplasmin, abnormal MRI brain; variants in 
+the ceruloplasmin gene
+Adrenomyeloneuropathy
+Ataxia, neuropsychiatric changes, abnormal MRI, 
+elevated serum long-­chain fatty acids; variants in 
+the ABCD2 gene
+Ataxia with coenzyme 
+Q10 (CoQ10) 
+deficiency
+Low CoQ10 in muscle biopsy
+AOA1
+High serum cholesterol, low albumin
+AOA2
+High α-­fetoprotein
+AT
+High α-­fetoprotein, low immunoglobulin (Ig)
+Celiac disease
+Antitissue transglutaminase antibody
+Cerebrotendinous 
+xanthomatosis
+Intestinal symptoms, spastic ataxia, cognitive 
+impairment, tendon xanthoma, high serum 
+cholestanol; variants in the CYP27A1 gene
+Late-­onset Tay-­Sachs 
+(LOTS)
+Ataxia, neurogenic weakness, cognitive changes; 
+hexosaminidase levels, hex-­A variant analysis
+Niemann-­Pick type C 
+(NPC) disease
+Vertical gaze palsy, hepatosplenomegaly, 
+fibroblast and NPC variants
+Pyruvate dehydrogenase 
+complex (PDHC) 
+deficiency
+Plasma and CSF lactate; PDHC in fibroblasts; 
+variants in PDHC complex genes
+Refsum disease
+Ataxia, neural deafness, retinitis pigmentosa, 
+ichthyosis, elevated plasma phytanic acid; 
+variants in PHYH and PEX 7 genes
+Syndromes of myoclonic 
+epilepsy
+Many associated with ataxia
+Vanishing white matter 
+disease
+MRI and MRS
+Wilson disease
+Serum copper, ceruloplasmin
+AOA, ataxia with oculomotor apraxia; AT, ataxia-­telangiectasia; CNS, 
+central nervous system; CSF, cerebrospinal fluid; MRS, magnetic res­
+onance spectroscopy.
+*Some also appear in Table 40.14, and many have additional CNS fea­
+tures. Clinical features summarized only for those not described in main 
+text.
+From Daroff RB, Jankovic J, Mazziotta JC, et al., eds. Bradley’s 
+Neurology in Clinical Practice. 7th ed. Philadelphia: Elsevier; 
+2016:1470, Table 97.3.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+731
+CHAPTER 40  Movement Disorders in Childhood
+mumps, parvovirus B19, Borrelia burgdorferi, and Mycoplasma pneu­
+moniae. Acute cerebellar ataxia is usually self-­limited, with recovery 
+occurring within a few days and resolution of symptoms within weeks 
+to months. The diagnosis in the acute phase is one of exclusion, with 
+exclusion of other postinfectious conditions (ADEM, Miller Fisher 
+variant of Guillain-­Barré syndrome) and posterior fossa structural 
+abnormalities. The diagnosis is fully confirmed retrospectively once 
+the course of recovery has taken place. Most children get neuroimag­
+ing at the onset to evaluate for other conditions such as posterior fossa 
+abnormalities and ADEM. CSF analysis is indicated after neuroimag­
+ing if encephalitis is suspected. Children with acute cerebellar ataxia 
+should be monitored closely to make sure that they are following the 
+expected course of recovery. If recovery does not continue as expected, 
+alternative diagnoses such as OMS should be considered.
+Causes of Chronic Ataxia
+Chronic ataxia is often due to a structural abnormality of brain devel­
+opment such as Dandy-­Walker syndrome or due to a progressive hered­
+itary or neurodegenerative disorder (Tables 40.15, 40.16, and 40.17). 
+The progressive hereditary ataxias are often accompanied by additional 
+neurologic signs and symptoms. Clinical features that may be seen in 
+the progressive genetic ataxias include other abnormal movements, 
+encephalopathy, peripheral nerve involvement, and spasticity. Hyper­
+kinetic movements such as dystonia, myoclonus, chorea, and tremor 
+have been reported to occur in about one third of patients with progres­
+sive autosomal recessive ataxia. The presence of ataxia, with involuntary 
+movements with progressive loss of reflexes, should raise suspicion for 
+Friedreich ataxia.
+Glucose Transporter-­1 Deficiency Syndrome
+The glucose transporter-­1 (GLUT-­1) deficiency syndrome is caused by 
+variants in the SLC2A1 gene, which encodes for the glucose transporter 
+protein type 1. GLUT-­1 deficiency was previously recognized as a cause 
+TABLE 40.15  Autosomal Recessive Ataxias
+Entity
+Gene Locus/Gene/
+Protein
+Variant
+Friedreich ataxia
+9q/FRDA/frataxin
+Homozygous GAA 
+expansion; rarely 
+heterozygous expansion 
+and point mutation in 
+second allele
+MIRAS
+15q/POLG 1/polymerase γ Point mutations
+IOSCA
+6p/C10orf2/Twinkle
+Point mutations
+Abetalipoproteinemia
+8q/αTTP/αTTP
+Frameshift or missense 
+variants
+Cayman ataxia
+19q/ATCAY/caytaxin
+Missense variants
+Ataxia-­telangiectasia
+11q/ATM/ATM
+Deletions, missense 
+variants, insertions
+AOA1
+9p/APTX/aprataxin
+Point mutations
+AOA2
+9q/SETX/senataxin
+Point mutations
+ATLD
+11q/mRE11/mRE11
+Missense, nonsense 
+variants
+SCAN1
+14q/TDP1
+Missense, nonsense 
+variants
+ARSACS
+13q11/SACS/sacsin
+Missense, nonsense 
+variants
+MSS
+5q/SIL1/BiP-­associated 
+protein
+Point mutations
+ARCA1
+6q/SYNE1/SYNE 1
+Point mutations
+ARCA 2
+Several genes in CoQ 10 
+pathway
+AOA1, ataxia with oculomotor apraxia type 1; AOA2, ataxia with ocu­
+lomotor apraxia type 2; ARCA1, 2, autosomal recessive cerebellar 
+ataxia type 1 and 2; ARSACS, autosomal recessive ataxia of Charlevoix-­
+Saguenay; ATLD, ataxia-­telangiectasia–like disorder; IOSCA, infantile-­
+onset spinocerebellar ataxia; MIRAS, mitochondrial recessive ataxia 
+syndrome; MSS, Marinesco-­Sjögren syndrome; SCAN1, spinocerebellar 
+ataxia with axonal neuropathy.
+From Daroff RB, Jankovic J, Mazziotta JC, et al., eds. Bradley’s 
+Neurology in Clinical Practice. 7th ed. Philadelphia: Elsevier; 
+2016:1465, Table 97.2.
+TABLE 40.16  Autosomal Dominant Ataxias 
+Related to Nucleotide Expansions
+Disease
+Gene/Protein
+Repeat
+Locus
+SCA1
+ATXN1/ataxin-­1
+CAG
+6p
+SCA2
+ATXN2/ataxin-­2
+CAG
+12q
+SCA3 (MJD) ATXN3/ataxin-­3
+CAG
+14q
+SCA6
+CACNA1A/calcium channel CAG
+19p
+SCA7
+ATXN7/ataxin-­7
+CAG
+3p
+SCA8
+ATXN8/untranslated
+CTG-­CAG
+13q
+SCA10
+ATXN10/untranslated
+ATTCT
+22q
+SCA12
+PP2R2B/phosphatase
+CAG
+5q
+SCA17
+TBP/TATA binding protein
+CAG
+6q
+SCA 31
+Unknown
+TGGAA insertion
+SCA 36
+NOP56
+GGCCTG untranslated
+DRPLA
+ATN
+CAG
+12p
+ATN, atrophin; ATXN, ataxin; MJD, Machado-­Joseph disease; SCA, 
+spinocerebellar ataxia; TBP, TATA binding protein.
+From Daroff RB, Jankovic J, Mazziotta JC, et al., eds. Bradley’s 
+Neurology in Clinical Practice. 7th ed. Philadelphia: Elsevier; 
+2016:1474, Table 97.5.
+TABLE 40.17  Autosomal Dominant 
+Ataxias with Defined Variants Unrelated 
+to Nucleotide Expansions
+Disease
+Gene
+Locus
+Mutation
+SCA5
+SPTBN2
+11p
+Deletions, point mutation
+SCA11
+TTBK2
+15q
+Insertion/deletion
+SCA13
+KCNC3
+19q
+Point mutations
+SCA14
+PRKCG
+19q
+Deletions, point mutations
+SCA15/16
+ITPR1
+3p
+Deletions, point mutations
+SCA20*
+Unknown
+11q
+Duplication
+SCA27
+FGF14
+13q
+Point mutations
+SCA28
+AFG3L2
+18p
+Point mutations
+*In SCA20, the region duplicated has multiple genes.
+SCA, spinocerebellar ataxia.
+From Daroff RB, Jankovic J, Mazziotta JC, et al., eds. Bradley’s 
+Neurology in Clinical Practice. 7th ed. Philadelphia: Elsevier; 
+2016:1474, Table 97.6.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+732
+SECTION 7  Neurosensory Disorders
+of infantile epilepsy, developmental delay, cognitive impairment, spas­
+ticity, and ataxia. The GLUT-­1 protein is involved in moving glucose 
+across the blood-­brain barrier. The diagnosis is suspected when the 
+CSF glucose is lower than expected when compared with serum glucose 
+and confirmed by erythrocyte glucose uptake studies and by GLUT-­1 
+gene sequencing. With the availability of genetic testing, the spectrum 
+of symptoms from this disorder has expanded. This disorder can pres­
+ent not only with seizures and movement disorders but also exclusively 
+with movement disorders. The most common movement disorder in 
+GLUT-­1 deficiency is ataxia and dystonia often combined with spas­
+ticity. Gene variants in the GLUT-­1 gene have also been described as a 
+cause of dominant and sporadic paroxysmal exertion-­induced dyskine­
+sia (PED/DYT18) and slowly progressive spastic paraparesis combined 
+with PED (DYT19). The spectrum of movement disorders that can be 
+seen in GLUT-­1 deficiency includes gait disturbance, dystonia, chorea, 
+cerebellar action tremor, myoclonus, dyspraxia, episodic ataxia, weak­
+ness, parkinsonism, exercise-­induced dyskinesias, and nonkinesigenic 
+dyskinesia. Treatment with the ketogenic diet may lead to symptom­
+atic improvement. With the availability of a potential treatment linked 
+to symptomatic improvement, it becomes important to consider this 
+condition in children who present with chronic and paroxysmal move­
+ment disorders.
+Ataxia-­Telangiectasia
+Ataxia-­telangiectasia (AT) is an autosomal recessive disorder charac­
+terized by ataxia, cutaneous telangiectasia, immune dysfunction, can­
+cer susceptibility, and radiation sensitivity (Fig. 40.5). Although there is 
+a wide variability in severity of symptoms between affected individuals, 
+in general, motor dysfunction starts in infancy. Ataxia may be subtle 
+and noticed when the child starts to ambulate. Dystonia or chorea may 
+be present prior to the onset of frank ataxia. Immune dysfunction with 
+frequent sinopulmonary infections may be noted in early childhood. 
+Cutaneous telangiectasias tend to develop after age 2 years, sometimes 
+much later. Usually they first appear on the conjunctiva. Other areas 
+where they may be seen include the ears, flexor surfaces of the limbs, 
+and face.
+AT has been clinically referred to as a chromosomal instability 
+syndrome, a neurocutaneous syndrome, and a DNA repair disorder. 
+Most but not all patients with AT have high serum α-­fetoprotein levels. 
+About 80% have decreased levels of immunoglobulin A (IgA), immu­
+noglobulin E (IgE), and immunoglobulin G (IgG) (selective deficiency 
+of IgG-­2 subclass).
+Individuals with AT have an increased risk of malignancies, espe­
+cially lymphoma and leukemia. They are also highly sensitive to radia­
+tion, which produces cellular and chromosomal damage and may be a 
+precipitant in the development of neoplasia.
+The diagnosis should be suspected in a child with chronic ataxia. 
+Serum α-­fetoprotein is utilized as a screening tool but may be normal 
+in a minority of patients. MRI of the brain may be normal initially with 
+cerebellar degeneration becoming apparent later. The diagnosis of AT 
+can be confirmed by the absence or deficiency of ataxia-­telangiectasia 
+mutated (ATM) protein and/or ATM kinase activity in cell lines estab­
+lished from lymphocytes or skin biopsies, or the identification of 
+pathologic variants in the ATM gene. With the availability of whole 
+exome sequencing (WES) and its use in children with undiagnosed 
+neurologic or motor symptoms, milder and atypical forms of AT are 
+being identified.
+Management is supportive, targeting motor dysfunction, infec­
+tions, immune function, and pulmonary function. Exposure to radia­
+tion should be minimized.
+Evaluation and Testing in a Child with Ataxia
+Overall, the evaluation of a child with acute or subacute ataxia is dif­
+ferent from that of a child with chronic ataxia. In a child with acute 
+ataxia an acquired etiology requiring rapid diagnosis and treatment is 
+assumed. Chronic ataxia is often due to a heredodegenerative disorder 
+or chronic structural brain abnormality.
+Consideration for testing in a child with acute ataxia should 
+include neuroimaging with MRI. Consider both brain and spine if 
+a postinfectious cause such as ADEM is suspected with assessment 
+of cerebral vasculature if ischemia/stroke is suspected. Contrast with 
+neuroimaging is indicated if infection or inflammation is suspected. 
+Evaluation of CSF for infectious agents, pleocytosis, autoimmune 
+markers, glucose (with simultaneous serum glucose), protein, and 
+lactate should be performed if a primary CNS infection or inflam­
+mation is suspected. If acute ataxia continues to evolve and takes on a 
+subacute course, celiac disease and OMS should be considered. OMS 
+tends to be overlooked if not considered, leading to irreversible neu­
+rologic regression.
+In chronic ataxia treatable causes should be screened for. Screen­
+ing should include serum α-­fetoprotein, vitamin E levels, antitissue 
+transglutaminase antibody (for celiac disease), and lipoprotein profile. 
+Serum α-­fetoprotein may be elevated in AT. Although AT is not treat­
+able, it would be important to identify individuals with this condition 
+to avoid unnecessary radiation, which could predispose them to future 
+tumors. In all children with chronic ataxia with or without seizures, 
+testing for GLUT-­1 deficiency should be strongly considered. Further 
+tiered testing should proceed for children with chronic ataxia who 
+remain undiagnosed, eventually proceeding to WES or targeted next-­
+generation sequencing panels.
+TREMOR
+Tremor is an involuntary, rhythmic oscillatory movement of a body 
+part. In general, the limbs and head when unsupported exhibit a 
+slight tremor. This is referred to as a physiologic tremor. Physiologic 
+tremor is usually not visible, unless it is enhanced by fatigue, anxiety, 
+or medication. A pathologic tremor is usually visible under normal 
+circumstances.
+Tremor is classified by its frequency, amplitude, distribution 
+(what parts of the body are affected), whether it is present at rest, 
+whether it is induced by trying to sustain posture (sustension) or by 
+motion (action or kinesis), and whether it increases at the end point 
+of motion.
+Fig. 40.5  Conjunctival telangiectasia in a patient with ataxia-­
+telangiectasia. (From Daroff RB, Jankovic J, Mazziotta JC, et al., eds. 
+Bradley’s Neurology in Clinical Practice. 7th ed. Philadelphia: Elsevier; 
+2016:1468, Fig. 97.6.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+733
+CHAPTER 40  Movement Disorders in Childhood
+The clinical examination should note which parts of the body are 
+involved and activation conditions (what conditions bring out the 
+tremor). Activation conditions consist of either rest or action. Action 
+implies voluntary muscle contraction either while maintaining pos­
+ture (postural) or during voluntary movement of the affected area 
+(kinesis).
+Resting tremor is a tremor in a body part in conditions where that 
+body part is at rest and not voluntarily activated. This is examined with 
+the specific body part relaxed and completely supported.
+Action tremor occurs while voluntarily maintaining a position 
+against gravity (postural and orthostatic tremor) or during voluntary 
+movement of that body part (kinetic tremor). Kinetic tremor is fur­
+ther subdivided into simple kinetic tremor (tremor is roughly the same 
+throughout the movement) and intention tremor (tremor that is pres­
+ent during movement of that body part and increases as the body part 
+approaches its target).
+Once the tremor is confirmed and classified, the next clinical deter­
+mination is whether it is isolated or associated with other symptoms or 
+signs (e.g., seizures, other movement disorders, or systemic signs such 
+as hepatomegaly, K-­F ring, or exophthalmos).
+The aforementioned describes phenomenology and not etiology. 
+However, once the tremor is classified, the search for an underlying 
+cause is undertaken based on the diseases linked to the tremor syn­
+drome (Table 40.18). A tremor syndrome may have multiple etiologies. 
+Intention tremor implies a lesion or dysfunction in the cerebellum or 
+its connections. Combined tremor syndromes usually have an under­
+lying structural, metabolic, or heredodegenerative basis.
+Unless the child or adolescent presents with an isolated tremor that 
+has the clinical features of an isolated essential tremor combined with a 
+strong family history of the same, further evaluation to determine the 
+cause should be undertaken.
+Essential Tremor
+This condition causes an isolated tremor syndrome. The tremor is a 
+postural, mid-­amplitude, mid-­frequency tremor usually starting in 
+the adolescent age group without any other associated neurologic/
+movement disorder symptoms. A family history is helpful, but usually 
+diagnosis is made in the absence of other etiologies and with normal 
+neuroimaging. Longitudinal follow-­up is necessary to make sure no 
+other symptoms emerge with time indicating an alternative underlying 
+disorder. Treatment is usually not needed. However, if tremor impairs 
+fine motor skills, symptomatic treatment with propranolol or primi­
+done can be attempted.
+Shudder Attacks
+These are discrete episodes of a rapid tremor of the head, shoulder, and 
+arms, often accompanied by facial grimacing. The episodes last several 
+seconds and can occur multiple times a day. There is no alteration of 
+consciousness with these episodes. Onset is usually in infancy or early 
+childhood. They typically abate as the child grows older. There has been 
+some suggestion that shudder attacks may be the earliest manifesta­
+tion of essential tremor, but this link has not been proven. Seizures 
+with shuddering semiology have been described; therefore, an EEG to 
+capture and characterize the movements may be warranted. The EEG 
+should remain normal during a shudder if indeed the shudder is a 
+movement and not a seizure.
+TICS
+Tics are repeated, intermittent movements or movement fragments 
+that are almost always briefly suppressible and are usually associated 
+with awareness of an urge to perform the movement. Tics can be motor 
+(movement) or vocal.
+Simple motor tics consist of repetitive movements in one small 
+muscle group, for example, blinking or eyebrow elevation. Complex 
+motor tics consist of a sequence of stereotyped movements involving 
+multiple muscle groups, for example, flailing of arms with a simultane­
+ous facial grimace and neck thrust.
+Simple vocal tics consist of rudimentary sounds such as sniffing 
+or throat clearing or a repetitive simple sound such as “uh” or “ah.” 
+Complex vocal tics consist of repetitive words or phrases, for exam­
+ple, “gotta go.” Tics have two additional phenomena. They are often 
+preceded by an unpleasant sensory feeling or “premonitory urge,” and 
+they can be voluntarily suppressed for brief periods. Tics are most often 
+seen in the setting of a tic disorder or Tourette disorder.
+Tourette Disorder
+Both multiple motor and one or more vocal tics have been present at 
+some time during the illness, waxing and waning for more than a year 
+since first tic onset before age 18 years, not due to the direct physiologic 
+effects of a substance (e.g., cocaine) or a general medical condition 
+(e.g., Huntington disease, encephalitis).
+Chronic Motor Tic or Vocal Tic Disorder
+Single or multiple motor or vocal tics, but not both, have been pres­
+ent at some time during the illness, waxing and waning for more 
+than a year since tic onset, starting prior to age 18 years, not due to 
+a substance such as cocaine or a general medical condition such as 
+encephalitis.
+Provisional Tic Disorder
+Single or multiple motor and/or vocal tics have been present for less 
+than a year with onset prior to age 18 years, not due to the direct effect 
+of a substance (such as stimulants) or a general medical condition (e.g., 
+postviral encephalitis).
+Comorbidities that can be seen in individuals with a tic disorder 
+include ADHD, learning difficulties, obsessive compulsions/OCD, 
+anxiety, depression, behavior difficulty (oppositional defiance, disrup­
+tive behavior, explosive outbursts), and sleep difficulty. Comorbidities, 
+when present, tend to manifest earlier than tics. Tics in childhood tend 
+to start around the early school years. A positive family history is pres­
+ent in about one half of patients. Reports indicate that tic severity in 
+general may decline during adolescence. By early adulthood tic symp­
+toms in the greater proportion of patients with Tourette syndrome may 
+be greatly diminished.
+TABLE 40.18  Causes of Tremor
+Metabolic/electrolyte derangement: abnormality of glucose, calcium, 
+magnesium
+Endocrine: thyroid, parathyroid dysfunction
+Drugs/medication: antiepileptic agents (lamotrigine, valproate), 
+β2-­adrenergic agonists, nicotine, caffeine stimulants, antihistamines, 
+tricyclic antidepressants, theophylline, neuroleptics
+Heredodegenerative disorders: Wilson disease
+Screening Tests to Consider for the Child Who Presents 
+with Tremor
+Thyroid function
+Serum copper and ceruloplasmin
+Glucose and electrolytes
+MRI of the brain
+Eye exam
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+734
+SECTION 7  Neurosensory Disorders
+Treatment is aimed at the comorbidities that interfere with aca­
+demic and social function. Treatment of tics is purely symptomatic, 
+and the goal is not for complete tic suppression but rather a reduc­
+tion in tics to decrease the secondary psychosocial impairment. Most 
+children have mild tics that do not interfere with activity and do not 
+require treatment. However, tics can be disabling and cause social 
+embarrassment. Treatments that have been used to suppress tics 
+include non-­neuroleptic medications (guanfacine, clonidine, topira­
+mate), neuroleptics (pimozide, haloperidol, aripiprazole), and behav­
+ior therapy. Although tic-­suppressing typical and atypical neuroleptics 
+are often effective, their side effects often limit their usefulness. Com­
+prehensive behavior interventions for tics (CBIT) can improve symp­
+toms of Tourette syndrome.
+STEREOTYPIES
+Stereotypies are repetitive, simple movements that can be voluntarily 
+suppressed. These are involuntary, patterned, purposeless movements 
+such as body rocking; head nodding; head shaking; head banging; hand 
+flapping; repetitive, sequential finger movements; fluttering fingers in 
+front of face; and head nodding. These primary movements may be 
+accompanied by stereotypic jumping or jaw opening. Stereotypies tend 
+to occur when the child is excited, stressed, distracted, or engrossed. 
+Stereotypies can be stopped by distraction. They can continue for many 
+minutes if the child is not distracted by another activity. Stereotypies 
+can be seen in typically developing children as well as in children with 
+autism spectrum disorder, developmental disorders, sensory depriva­
+tion, and adaptive and language difficulty. They can be seen in individ­
+uals with tic disorders but are distinct from tics and do not respond to 
+the usual medications used to suppress tics. Stereotypies typically begin 
+before age 3 years.
+MYOCLONUS
+Myoclonus is a sequence of repeated, often nonrhythmic, brief, shock­
+like jerks due to sudden involuntary contraction or relaxation of one 
+or more muscles.
+Myoclonus can either be a movement disorder (Table 40.19) or 
+epileptic. The EEG is a useful tool in differentiating the two, as myo­
+clonic seizures are associated with epileptiform discharges on the EEG. 
+Although sometimes difficult to clinically differentiate, myoclonic 
+seizures are distinct from myoclonus (movement disorder) in their 
+mechanism. However, myoclonic seizures and myoclonus can both be 
+present together in certain specific progressive neurologic diseases.
+Neonatal Sleep Myoclonus
+This is a self-­limiting disorder seen in otherwise normal neonates 
+during sleep. The myoclonic jerks can affect the arms, legs, or face; are 
+often fragmented, typically occurring in clusters of jerks over a few 
+seconds; only occur in sleep; and disappear as soon as arousal occurs. 
+Waking the baby while the movement is occurring causes the move­
+ments to cease. Benign sleep myoclonus begins in the first month of 
+life, gradually diminishing and resolving by age 6 months. Due to the 
+possibility of myoclonic seizures in this age group, an EEG is usually 
+done. In benign neonatal sleep myoclonus, the EEG remains normal 
+during the myoclonic jerk. Inadvertent treatment with benzodiaze­
+pines or sedating medications can exacerbate the myoclonus in benign 
+neonatal sleep myoclonus.
+Hereditary Hyperekplexia
+Hyperekplexias are a group of nonepileptic, exaggerated stimulus-­
+induced startle disorders (see Chapter 38). Tactile, auditory, or 
+emotional stimuli provoke an excessive myoclonic or startle response. 
+The phenomenology involves myoclonic-­type jerks that simultane­
+ously involve the neck, trunk, and arms. When the onset occurs in 
+infancy, there is often “stiffness” or persistent hypertonia with super­
+imposed repetitive startles, thus leading to the descriptive term stiff 
+baby syndrome. There are several genetically distinct hyperekplex­
+ias, some associated with epileptic seizures and others remaining a 
+pure movement disorder. The pure movement disorder forms tend 
+to gradually improve with age and respond well to benzodiazepines 
+such as valium or clonazepam.
+Essential Myoclonus
+Onset of myoclonus is in the first 2 decades of life. There should be 
+no associated epilepsy, cognitive impairment, ataxia, or other move­
+ment disorders. Differential diagnosis in adolescence includes juvenile 
+myoclonic epilepsy (JME) and in a younger child, Jeavons syndrome. 
+In JME, epileptic myoclonic and absence seizures in the first few hours 
+after waking up in the morning often remain unrecognized as seizures 
+until the onset of a generalized tonic-­clonic seizure several years later. 
+Jeavons syndrome is a type of generalized epilepsy characterized by 
+childhood-­onset eyelid myoclonia, with or without absence seizures, 
+photosensitivity, and, in some patients, generalized tonic-­clonic sei­
+zures. Differentiating the epilepsy syndromes with myoclonic seizures 
+from a movement disorder is fairly straightforward in the presence of 
+generalized tonic-­clonic seizures or absence seizures. When the diag­
+nosis is in doubt, an EEG capturing the myoclonus is helpful. In essen­
+tial myoclonus, the EEG remains normal during the myoclonic jerk, 
+differentiating it from myoclonic epilepsy.
+DYSKINETIC CEREBRAL PALSY
+Cerebral palsy is a descriptive term used for a motor disorder appear­
+ing early in life, caused by a nonprogressive injury or lesion in the 
+developing brain. The most common form of cerebral palsy affects 
+tone (spastic hemiparesis, spastic quadriparesis, spastic diplegia). The 
+second most common is dyskinetic (involuntary movements) cere­
+bral palsy caused by nonprogressive abnormality or damage in the 
+basal ganglia or thalamus. Often a child with cerebral palsy will have 
+both spasticity and dyskinesias (mixed-­type cerebral palsy). Mixed-­
+type cerebral palsy and dyskinetic cerebral palsy together account 
+for a large portion of childhood movement disorders. The involun­
+tary movements in dyskinetic cerebral palsy are commonly dysto­
+nia, chorea, or both. Pure dyskinetic cerebral palsy appears to be the 
+dominant type of cerebral palsy found in term babies with perinatal 
+hypoxic-­ischemic encephalopathy.
+The diagnosis of dyskinetic cerebral palsy is clinical and illustrates 
+the contrast between adults and children with neurologic problems. In 
+contrast to adults, the clinical picture in an infant or young child with 
+motor dysfunction can evolve or change over time with brain matura­
+tion. However, when there is an evolution of clinical symptoms over 
+time, the concern for a progressive neurologic disorder or alternative 
+diagnosis arises. The presence of an identifiable injury such as perinatal 
+hypoxic ischemia, kernicterus, or MRI changes indicating old ischemia 
+or a recognized malformation of the brain assists in confirming a non­
+progressive insult. However, in the absence of an identifiable injury, 
+diseases that “mimic” dyskinetic cerebral palsy including metabolic 
+and other neurologic disorders should be considered. These disorders 
+would include those listed under heredodegenerative causes of sec­
+ondary dystonia as well as the disorders causing chronic chorea and 
+chronic ataxia (see Tables 40.7, 40.11, and 40.15). In addition to these, 
+Table 40.20 lists some of the conditions that mimic dyskinetic cerebral 
+palsy.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+735
+CHAPTER 40  Movement Disorders in Childhood
+TABLE 40.19  Etiologic Classification of Myoclonus
+Physiologic Myoclonus (Normal Subjects)
+Sleep jerks (hypnagogic jerks)
+Anxiety-­induced
+Exercise-­induced
+Hiccup (singultus)
+Benign infantile myoclonus with feeding
+Essential Myoclonus (No Known Cause and No Other 
+Gross Neurologic Deficit)
+Hereditary (phenotype may be pure myoclonus or myoclonus-­dystonia)
+Sporadic
+Epileptic Myoclonus (No Known Cause and No Other 
+Gross Neurologic Deficit)
+Fragments of epilepsy
+Isolated epileptic myoclonic jerks
+Epilepsia partialis continua
+Idiopathic stimulus-­sensitive myoclonus
+Photosensitive myoclonus
+Myoclonic absences in petit mal
+Childhood myoclonic epilepsies
+Infantile spasms
+Myoclonic astatic epilepsy (Lennox-­Gastaut syndrome)
+Cryptogenic myoclonus epilepsy
+Myoclonic epilepsy of Janz
+Benign familial myoclonic epilepsy (Rabot syndrome)
+Progressive myoclonic epilepsy: Baltic myoclonus (Unverricht-­Lundborg 
+syndrome)
+Symptomatic Myoclonus (Progressive or Static 
+Encephalopathy Dominates)
+Storage diseases
+Lafora body disease
+Lipidoses, such as GM2 gangliosidosis, Tay-­Sachs disease, Krabbe disease
+Ceroid lipofuscinosis (Batten disease, Kufs disease)
+Sialidosis (cherry red spot)
+Spinocerebellar degeneration
+Ramsay Hunt syndrome (many causes)
+Friedreich ataxia
+Ataxia-­telangiectasia
+Basal ganglia degenerations
+Wilson disease
+Torsion dystonia
+Hallervorden-­Spatz disease
+Progressive supranuclear palsy
+Huntington disease
+Parkinson disease
+Corticobasal degeneration
+Pallidal degenerations
+Multiple system atrophy
+Mitochondrial encephalopathies, including myoclonic epilepsy and ragged-­
+red fibers
+Dementias
+Creutzfeldt-­Jakob disease
+Alzheimer disease
+Viral encephalopathies
+Subacute sclerosing panencephalitis
+Encephalitis lethargica
+Arbovirus encephalitis
+Herpes simplex encephalitis
+Postinfectious encephalitis
+Metabolic
+Hepatic failure
+Renal failure
+Dialysis syndrome
+Hyponatremia
+Hypoglycemia
+Infantile myoclonic encephalopathy (polymyoclonus, with or without 
+neuroblastoma)
+Nonketotic hyperglycemia
+Multiple carboxylase deficiency
+Toxic encephalopathies
+Bismuth
+Heavy metal poisons
+Methyl bromide, dichlorodiphenyltrichloroethane
+Drugs, including L-­dopa, tricyclic antidepressants
+Physical encephalopathies
+Posthypoxia (Lance-­Adams syndrome)
+Post-­traumatic
+Heat stroke
+Electric shock
+Decompression injury
+Focal central nervous system damage
+Poststroke
+Post-thalamotomy
+Tumor
+Trauma
+Olivo-­dentate lesions (palatal myoclonus)
+Spinal cord lesions (segmental or spinal myoclonus) disease
+From Daroff RB, Jankovic J, Mazziotta JC, et al., eds. Bradley’s Neurology in Clinical Practice. 7th ed. Philadelphia: Elsevier; 2016:243, Box 23-­10.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+736
+SECTION 7  Neurosensory Disorders
+CONDITIONS THAT MIMIC MOVEMENT DISORDERS
+Epilepsia Partialis Continua
+Epilepsia partialis continua (EPC) is a condition in which focal non­
+rhythmic jerking usually in one limb occurs for hours or weeks without 
+alteration of consciousness. The phenomenology is that of myoclonus. 
+Sometimes the movements can mimic chorea. However, the persistent, 
+focal nature of the fragmented jerks affecting a single limb should raise 
+the possibility of EPC. A high index of clinical suspicion followed 
+by EEG helps confirm the diagnosis of EPC. Underlying conditions 
+causing EPC include focal structural abnormalities of the cerebral 
+cortex, focal infection (cerebritis), cerebral ischemia, and Rasmussen 
+syndrome.
+Psychogenic Movement Disorders
+Tremor, dystonia, myoclonus, and gait difficulty have all been 
+reported. The mean age at symptom onset is ∼14 years, with no patient 
+younger than 7 years. Psychogenic movement disorders (PMDs) 
+tend to be paroxysmal, abrupt in onset, with selective disability. 
+Organic movement disorders that are often mistakenly diagnosed 
+as PMDs include paroxysmal dystonia or paroxysmal dyskinesias, 
+episodic ataxia, task-­specific dystonia, and drug-­induced dystonia. 
+Little is known about the long-­term prognosis of childhood-­onset 
+PMDs.
+Chronic movement disorders not only affect motor function but 
+also are often accompanied by behavioral, social, cognitive, academic, 
+and psychiatric difficulties. Symptom treatment is aimed at the symp­
+toms that impair daily function. Management in the chronic move­
+ment disorders is usually multidisciplinary, with the management team 
+consisting of pediatricians, physical medicine and rehabilitation spe­
+cialists, physical and occupational therapists, geneticists and metabolic 
+specialists, neurologists, orthopedics, developmental specialists, school 
+counselors, and teachers.
+TABLE 40.20  Diseases That Mimic 
+Dyskinetic Cerebral Palsy
+Lesch-­Nyhan syndrome
+Glutaric aciduria type 1
+Ataxia-­telangiectasia
+Rett syndrome
+Angelman syndrome
+Dopa-­responsive dystonia
+Glucose transporter deficiency
+Pyruvate dehydrogenase complex deficiency
+Creatine transporter deficiency
+Mitochondrial disorders
+Familial idiopathic basal ganglia calcification
+Neuroacanthocytosis
+Early-­onset Parkinson disease
+Wilson disease
+From Debopam S. Management of alternating hemiplegia of 
+childhood: a review. Pediatr Neurol. 2020;103:12–20.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+737
+CHAPTER 40  Movement Disorders in Childhood
+Hypokinetic
+(Parkinsonian syndrome)
+VSGP
+PSP
+(SWJ also present)
+and its mimics
+such as CBS, NPC
+Myoclonus
+Movement disorder
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Saccadic breakdown of
+smooth pursuit and/or
+hypermetric saccades
+MSA
+PD
+CBS
+Chorea
+Delayed initiation
+of saccades
+Opsoclonus
+OMAS
+Pendular
+nystagmus
+Palatal myoclonus
+HD
+Hyperkinetic
+Other choreic disorders
+such as
+neuroacanthocytosis
+Hypermetric saccades
+Downbeat and/or GEN,
+rebound nystagmus
+Prominent macrosaccadic
+FA oscillation without
+cerebellar atrophy on MRI
+Ataxia
+Oculomotor
+apraxia
+Slow saccadic
+velocity
+Look for other
+cerebellar eye
+signs
+AT*
+AOA1
+AOA2
+SCA2
+SCA8
+SCA6
+FA
+Fig. 40.6  An algorithmic approach to movement disorders utilizing phenomenology and saccades. The 
+approach starts with classifying the patient as hypokinetic or hyperkinetic. Various saccadic abnormalities can 
+help lead to the final diagnosis in each phenomenology. *Cerebellar eye movement abnormalities including 
+downbeat, upbeat, position, gaze-­evoked nystagmus, and saccadic dysmetria are also common in ataxia-­
+telangiectasia. AOA1, ataxia with oculomotor apraxia type 1; AOA2, ataxia with oculomotor apraxia type 2; 
+AT, ataxia-­telangiectasia; CBS, corticobasal syndrome; FA, Friedreich ataxia; GEN, gaze-­evoked nystagmus; 
+HD, Huntington disease; MSA, multiple system atrophy; NPC, Niemann-­Pick type C; OMAS, opsoclonus-­
+myoclonus ataxia syndrome; PD, Parkinson disease; SCA2, spinocerebellar ataxia type 2; SCA6, spinocerebel­
+lar ataxia type 6; SCA8, spinocerebellar ataxia type 8; SWJ, square wave jerks; VSGP, vertical supranuclear gaze 
+palsy. Y = Yes; N = No. (From Termsarasab P, Thammongkolchai T, Rucker JC, et al., The diagnostic value of 
+saccades in movement disorder patients: a practical guide and review. J Clin Move Disord. 2015;2:14, Fig. 4.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+TABLE 40.22  Commonly Seen “Mixed” Movement Disorders
+Combinations
+Possible Etiology
+Tremor and akinesia
+Parkinson disease or atypical parkinsonism
+Parkinsonism, ataxia, autonomic dysfunction, spasticity, myoclonus
+Multiple system atrophy
+Vertical supranuclear gaze palsy and falls, symmetric parkinsonism
+Progressive supranuclear palsy
+Akinesia, rigidity, myoclonus, dystonia and apraxia, asymmetric clinical phenotype
+Corticobasal degeneration
+Chorea, dystonia, and bradykinesia
+Huntington disease
+Dystonia plus tremor
+Primary dystonia
+Tremor (rest and postural), dystonia, akinetic–rigid syndrome
+Wilson disease
+Ataxia and myoclonus (Ramsay-­Hunt syndrome, “progressive myoclonic ataxia”)
+Mitochondrial disease; celiac disease; Unverricht-­Lundborg disease
+From Abdo WF, van de Warrenburg BPC, Burn DJ, et al. The clinical approach to movement disorders. Nature Rev Neurol. 2010;6:29–37 (Table 2, p. 36).
+TABLE 40.23  Medications with Movement Disorder as Side Effects
+Medication
+Parkinsonism
+Myoclonus
+Dystonia
+Ataxia
+Tremor
+Chorea
+Anticonvulsants
+✓
+✓
+✓
+✓
+✓
+✓
+Antipsychotics
+✓
+✓
+✓
+✓
+Antidepressants
+✓
+✓
+✓
+✓
+Antihypertensives
+✓
+Antiparkinson drugs
+✓
+✓
+Antibiotics
+✓
+✓
+Antineoplastic
+✓
+✓
+✓
+Opiates
+✓
+Anxiolytics
+✓
+✓
+Anaesthetics
+✓
+Oral contraceptives
+✓
+Antiemetics
+✓
+✓
+Immunosuppressants
+✓
+✓
+Corticosteroids
+✓
+✓
+From Brandsma R, Vanegmond ME, Tijssen MA, et al. Diagnostic approach to paediatric movement disorders: a clinical practice guideline. Dev 
+Med Child Neurol. 2020. doi:10.1111/dmcn.14721.
+TABLE 40.21  Commonly Seen Movement Disorder Mimics
+Mimics of Parkinsonism
+ • Depression
+ • Obsessive slowness
+ • Hypothyroidism
+ • Spasticity
+ • Dystonic tremor
+ • Frozen shoulder
+ • Slowing due to normal aging
+ • Catatonia
+Mimics of Craniocervical Dystonia (Torticollis)
+ • Retropharyngeal abscess
+ • Atlantoaxial subluxation
+ • Congenital muscular torticollis
+ • Correcting head tilt in cranial nerve palsy (“ocular torticollis”)
+ • Space-­occupying lesion in posterior fossa
+ • Sandifer syndrome with head tilt
+ • Dropped head syndrome in neuromuscular disease
+Mimics of Limb Dystonia
+ • Contracture
+ • Spasticity
+ • Abnormal posture due to paresis or atrophy
+ • Myotonia or neuromyotonia
+ • Sensory ataxia and/or pseudoathetosis
+ • Stiff-­person syndrome
+ • Tonic spasms
+ • Seizures or epilepsia partialis continua
+Mimics of Facial Dystonia
+ • Ptosis or pseudoptosis
+ • Trismus
+ • Hemimasticatory spasm
+ • Hemifacial spasm (tonic component)
+ • Myotonia
+ • Tetanic spasms
+ • Apraxia of eyelid opening (levator inhibition)
+Mimics of Myoclonus
+ • Tics
+ • Tremor
+ • Fasciculations (spontaneous contractions of muscle fibers supplied by a 
+single motor unit that are too small to cause movement across a joint)
+ • Myokymia (involuntary, subtle, continuous, rippling quivering of muscles, 
+which does not produce movement across a joint)
+ • Chorea
+From Abdo WF, van de Warrenburg BPC, Burn DJ, et al. The clinical approach to movement disorders. Nature Rev Neurol. 2010;6:29–37 (Box 2, p. 35).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+739
+CHAPTER 40  Movement Disorders in Childhood
+TABLE 40.24  Inborn Errors of Metabolism Presenting with Paroxysmal Movement Disorders
+Ataxia
+Dystonia
+Chorea
+Dyskinesia
+ • Pyruvate dehydrogenase complex deficiency
+ • BTD-­biotinidase deficiency
+ • Hartnup disease
+ • GLDC and AMT-­glycine encephalopathy
+ • HTD-­tyrosinemia type III
+ • SLC2A1-GLUT1 deficiency
+ • SLC2A1-­GLUT1 deficiency
+ • ECHS1-­mitochondrial short-­chain enoyl-­CoA 
+hydratase 1 deficiency
+ • HIBCH-­3-­hydroxyisobutyryl-­CoA hydrolase 
+deficiency
+ • Pyruvate dehydrogenase complex deficiency
+ • OTC-­ornithine 
+transcarbamylase 
+deficiency
+ • ABAT-­GABA transaminase deficiency
+ • ALDH5A1-­succinic semialdehyde 
+dehydrogenase deficiency
+ • PARK2-­Parkin deficiency
+From Ortigoza-­Escobar JD. A proposed diagnostic algorithm for inborn errors of metabolism presenting with movements disorders. Front Neurol. 
+2020;11:582160, Table 3.
+   	 S U MMA RY  A N D  R E D  F L A G S
+A stepwise approach to the evaluation of a child with a movement dis­
+order should be undertaken (see Fig. 40.1).
+	1.	 Delineate the phenomenology.
+	2.	 Determine whether symptoms are acute or chronic.
+	3.	 Formulate differential diagnoses.
+	4.	 Decide on urgency of evaluation and treatment based on differen­
+tial diagnoses.
+	5.	 Perform tiered testing in the child with a chronic movement disor­
+der, with emphasis on the treatable conditions.
+A diagnostic approach is noted in Fig. 40.6. Mimics and mixed 
+movement disorders are noted in Tables 40.21 and 40.22, respectively. 
+In addition, drugs may produce more than one pattern of movement 
+disorder (Table 40.23). Furthermore, inborn errors of metabolism 
+must be considered in the differential diagnosis (Table 40.24). Manage­
+ment includes treatment of the underlying condition (when treatable), 
+symptom treatment of the movement when necessary, and treatment 
+of comorbid conditions.
+Red flags include chronicity, developmental regression, intellec­
+tual disability, seizures, syndromic phenotype, and systemic organ 
+involvement.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+739.e1
+BIBLIOGRAPHY
+Anheim M, Fleury M, Monga B, et al. Epidemiological, clinical, paraclinical 
+and molecular study of a cohort of 102 patients affected with autosomal 
+recessive progressive cerebellar ataxia from Alsace, Eastern France: 
+implications for clinical management. Neurogenetics. 2010;11:1–12.
+Anselm IA, Alkuraya FS, Salomons GS, et al. X-­linked creatine transporter 
+defect: a report on two unrelated boys with a severe clinical phenotype 
+(published correction appears in J Inherit Metab Dis. 2006 Dec;29(6):764. 
+Anselm, IM [corrected to Anselm, IA]). J Inherit Metab Dis. 
+2006;29(1):214–219.
+Ashwal S, Russman BS, Blasco PA, et al. Practice parameter: diagnostic 
+assessment of the child with cerebral palsy: report of the Quality Standards 
+Subcommittee of the American Academy of Neurology and the Practice 
+Committee of the Child Neurology Society. Neurology. 2004;62:851–863.
+Baum PA, Barkovich AJ, Koch TK, et al. Deep gray matter involvement 
+in children with acute disseminated encephalomyelitis. AJNR Am J 
+Neuroradiol. 1994;15(7):1275–1283.
+Bayram AK, Gümüş H, Arslan D, et al. Neurological features and management 
+of Wilson disease in children: an evaluation of 12 cases. Turk Pediatri Ars. 
+2016;51(1):15–21.
+Bhatia KP, Bain P, Bajaj N, et al. Consensus statement of classification of 
+tremors from the task force of the International Parkinson and Movement 
+Disorder Society. Mov Disord. 2018;33(1):75–87.
+Blackburn JS, Mink JW, Augustine EF. Pediatric movement disorders. Five 
+new things. Neurol Clin Pract. 2012;2(4):311–318.
+Bloch MH, Leckman JF. Clinical course of Tourette syndrome. J Psychosom 
+Res. 2009;67(6):497–501.
+Breedveld GJ, Percy AK, MacDonald ME, et al. Clinical and genetic 
+heterogeneity in benign hereditary chorea. Neurology. 2002;59:579–584.
+Bressman SB. Genetics of dystonia: an overview. Park Relat Disord. 
+2007;13:S347–S355.
+Brockmann K. The expanding phenotype of GLUT1-­deficiency syndrome. 
+Brain Dev. 2009;31:545–552.
+Bruno MK, Hallett M, Gwinn-­Hardy K, et al. Clinical evaluation of idiopathic 
+paroxysmal kinesigenic dyskinesia: new diagnostic criteria. Neurology. 
+2004;63(12):2280–2287.
+Chinchilla D, Dulac O, Robain O, et al. Reappraisal of Rasmussen’s syndrome 
+with special emphasis on treatment with high doses of steroids. J Neurol 
+Neurosurg Psychiatry. 1994;57:1325–1333.
+Cordeiro D, Bullivant G, Siriwardena K, et al. Genetic landscape of pediatric 
+movement disorders and management implications. GNeurol Genet. 
+2018;4(5):e265.
+Debopam S. Management of alternating hemiplegia of childhood: a review. 
+Pediatr Neurol. 2020;103:12–20.
+Dubey S, Ghosh R, Jana Dubey M, et al. Bilateral thalamic changes in anti-­
+NMDAR encephalitis presenting with hemichorea and dystonia and acute 
+transient psychotic disorder. J Neuroimmunol. 2020;45:1–5.
+Erenberg G, Cruse RP, Rothner AD. The natural history of Tourette syndrome: 
+a follow-­up study. Ann Neurol. 1987;22(3):383–385.
+Fahn S, Jankovic J. Principles and Practice of Movements Disorders. Churchill 
+Livingstone Elsevier; 2007.
+Feinstein E, Walker R. Treatment of secondary chorea: a review of the current 
+literature. Tremor Other Hyperkinet Mov. 2020;10(1):1–14.
+Fernandez-­Alvarez E, Nardocci N. Update on pediatric dystonia: etiology, 
+epidemiology and management. Degener Neurol Neuromuscul Dis. 
+2012;2:29–41.
+Ferrara J, Jankovic J. Psychogenic movement disorders in children. Move Dis. 
+2008;23(13):1875–1881.
+Florance NR, Davis RL, Lam C, et al. Anti-­N-­methyl-­D-­aspartate receptor 
+(NMDAR) encephalitis in children and adolescents. Ann Neurol. 
+2009;66(1):11–18.
+Frucht S. Dystonia, athetosis, and epilepsia partialis continua in a patient with 
+late-­onset Rasmussen’s encephalitis. Mov Disord. 2002;17:609–612.
+Gardiner AR, Jaffer F, Dale RC, et al. The clinical and genetic heterogeneity or 
+paroxysmal dyskinesias. Brain. 2015;138:3567–3580.
+Garone G, Capuano A, Travaglini L, et al. Clinical and genetic overview 
+of paroxysmal movement disorders and episodic ataxias. Int J Mol Sci. 
+2020;21:3603.
+Gilbert DL. Acute and chronic chorea in childhood. Sem Pediatr Neurol. 
+2009;16:71–76.
+Gupta R. Appleton RE. Cerebral palsy: not always what it seems. Arch Dis 
+Child. 2001;85:356–360.
+Hermann A, Walker RH. Diagnosis and treatment of chorea syndromes. Curr 
+Neurol Neurosci Rep. 2015;15:1.
+Himmelman K, Hagberg G, Wiklund LM, et al. Dyskinetic cerebral palsy: a 
+population-­based study of children born between 1991 and 1998. Dev Med 
+Child Neurol. 2007;49(4):246–251.
+Jankovic J, Kurlan R. Tourette syndrome: evolving concepts. Mov Disord. 
+2011;26:1149–1156.
+Jinnah HA, Albanese A, Bhatia KP, et al. Treatable inherited rare movement 
+disorders. Mov Disord. 2018;33(1):21–35.
+Klein C, Lohmann K, Marras C, et al. Hereditary dystonia overview. In: 
+GeneReviews® [Internet]. Seattle (WA): University of Washington, Seattle; 
+1993–2021. 2003 Oct 28 [updated 2017 Jun 22].
+Koehn M, Zupanc ML. Unusual presentation and MRI findings in Rasmussen’s 
+syndrome. Pediatr Neurol. 1999;21(5):839–842.
+Kurlan R. Clinical practice: Tourette’s syndrome. N Engl J Med. 2010;363:2332–
+2338.
+Kyncehodova A, Krsek P, Komarek V, et al. Frontal lobe epilepsy with atypical 
+seizure semiology resembling shuddering attacks or wet dog shakes. 
+Epileptic Disord. 2012;14(1):69–75.
+Lang A. Ataxia-­telangiectasia: a review of movement disorders, clinical features 
+and genotype correlations. Mov Disord. 2018;33(8):1238–1247.
+Leach EL, Shevell M, Bowden K, et al. Treatable inborn errors of metabolism 
+presenting as cerebral palsy mimics: systematic literature review. Orphanet 
+J Rare Dis. 2014;9:197.
+LeDoux MS. The genetics of dystonias. Adv Genetics. 2012;79:35–85.
+Lee WW, Jeon BS. Clinical spectrum of dopa-­responsive dystonia and related 
+disorders. Curr Neurol Neurosci Rep. 2014;14(7):461.
+Lohmann K, Klein C. Update on the genetics of dystonia. Curr Neurol Neurosci 
+Rep. 2017;17:26.
+Mameniskiene R, Wolf P. Epilepsia partialis continua: a review. Seizure. 
+2017;44:74–80.
+Manso-­Calderon R. The spectrum of paroxysmal dyskinesias. Future Neurol. 
+2019;14(3):FNL26.
+Mejia NI, Jankovic J. Tardive dyskinesia and withdrawal emergent syndrome in 
+children. Expert Rev Neurother. 2010;10(6):893–901.
+Mink JW. Special concerns in defining, studying and treating dystonia in 
+children. Mov Disorder. 2013;28(7):921–925.
+Mohammad SS, Paget SP, Dale RC. Current therapies and therapeutic 
+decision making for childhood-­onset movement disorders. Move Disord. 
+2019;34(5):637–656.
+Monbaliu E, Himmelmann K, Lin JP, et al. Clinical presentation and 
+management of dyskinetic cerebral palsy. Lancet Neurol. 2017;16(9):741–
+749. https://doi.org/10.1016/S1474-­4422(17)30252-­1.
+Moore DM, Rizzolo D. Sandifer syndrome. JAAPA. 2018;31(4):18–22.
+Nutt JG, Nygaard TG. Response to levodopa treatment in dopa-­responsive 
+dystonia. Arch Neurol. 2001;58(6):905–910.
+Ozelius LJ, Lubarr N, Bressman SB. Milestones in dystonia. Mov Disord. 
+2011;26(6):1106–1119.
+Panamonta M, Chaikitpinyo A, Kaplan EL, et al. The relationship of carditis to 
+the initial attack of Sydenham’s chorea. Int J Cardiol. 2004;94(2–3):241–248.
+Pandian JD, Thomas SV, Santoshkumar B, et al. Epilepsia partialis continua—a 
+clinical and electroencephalography study. Seizure. 2002;11(7):437–441.
+Peall KJ, Kurian MA. Benign hereditary chorea: an update. Tremor Other 
+Hyperkinet Mov (N Y). 2015;5:314.
+Pearson TS. More than ataxia. Hyperkinetic movement disorders in childhood 
+autosomal recessive ataxia syndrome. Tremor Other Hyperkinetic Mov 
+(N.Y). 2016;6:368.
+Pearson TS, Pons R, Ghaoui R. Genetic mimics of cerebral palsy. Move Disord. 
+2019;34(5):625–636.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+Bibliography
+739.e2
+Piacentini J, Woods DW, Scahill L, et al. Behavior therapy for children 
+with Tourette disorder: a randomized controlled trial. J Am Med Assoc. 
+2010;303:1929–1937.
+Piña-Garza JE. Movement disorders. Fenichel’s Clinical Pediatric Neurology. 7th 
+ed. Elsevier Saunders; 2013:277–294.
+Pons R, Collins A, Rotstein M, et al. The spectrum of movement disorders in 
+GLUT-­1 deficiency. Mov Disord. 2010;25(3):
+275–281.
+Pranzatelli MR, Tate ED, McGee NR. Multifactorial analysis of opsoclonus-­
+myoclonus syndrome etiology (“tumor” vs. “no tumor”) in a cohort of 356 
+US children. Pediatr Blood Canc. 2018;65(8):e27097.
+Rothblum-­Oviatt C, Wright J, Lefton-­Greif MA, et al. Ataxia telangiectasia: a 
+review. Orphanet J Rare Dis. 2016;11(1):159.
+Sanger TD, et al. Definition and classification of hyperkinetic movements in 
+childhood. Mov Disord. 2010;25(11):1538–1549.
+Sanger TD, Chen D, Delgado MR, et al. Definition and classification of 
+negative motor signs in childhood. Pediatrics. 2006;118:2159–2167.
+Sanger TD, Delgado MR, Gaebler-­Spira D, et al. Classification and definition 
+of disorders causing hypertonia in childhood. Pediatrics. 2003;111(1):
+e89–e97.
+Segawa M, Ohmi K, Itoh S, et al. Childhood basal ganglia disease with marked 
+response to L-­dopa: hereditary progressive basal ganglia disease with 
+marked diurnal variation. Shinryo. 1972;24:667–672.
+Sullivan R, Yan Yau W, O’Connor E, et al. Spinocerebellar ataxia: an update. J 
+Neurol. 2019;266(2):533–544.
+Van der Veen S, Zutt R, Klein C, et al. Nomenclature of genetically determined 
+myoclonus syndromes: recommendations of the International Parkinson and 
+Movement Disorder Society task force. Mov Disord. 2019;34(11):1602–1611.
+Wild EJ, Tabrizi SJ. The differential diagnosis of chorea. Pract Neurol. 
+2007;7:360–373.
+Yilmaz S, Mink JW. Treatment of chorea in childhood. Pediatr Neurol. 
+2020;102:10–19.
+Yin XM, Lin JH, et al. Familial Paroxysmal kinesigenic dyskinesia is associated with 
+mutations in the KCNA1 gene. Hum Mol Genet. 2018; 27(4):625–637.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

@@ -1,0 +1,1413 @@
+85
+Earache (otalgia) is pain that arises from a pathologic process in the 
+external, middle, or inner ear or that is referred to the ear from another 
+structure. Acute otitis media (AOM) is the most common cause of 
+otalgia in children (Table 5.1). At least 80% of children will experience 
+one or more episodes of AOM in the first 3 years of life. The second 
+most common cause of ear pain is otitis externa, followed by dermatitis 
+and infections of the pinna (Table 5.2). Other causes of otalgia are rare 
+(Table 5.3). A careful examination of the pinna, external auditory canal, 
+and tympanic membrane can identify most causes of ear pain. When 
+the findings are normal, referred pain should be considered (Table 5.4).
+HISTORY
+Older, verbal children with ear pain are often able to localize and 
+accurately describe their symptoms. Younger children often cannot 
+localize their pain and may present with a variety of nonspecific symp­
+toms, including fever, irritability, emesis, rhinorrhea from an associ­
+ated upper respiratory tract illness (URI), and ear rubbing or pulling. 
+Even though ear pulling is associated with ear pain, it is neither specific 
+nor sensitive in the diagnosis of ear disease. In addition, infants with 
+AOM may occasionally be afebrile and present with various degrees of 
+irritability, such as sleep disturbances and/or eating or drinking inad­
+equately. Ear disease should be considered in infants during the first 
+year of life or in any preschool child with fever, irritability, or a URI.
+In taking a history from a child who presents with ear pain, true ear 
+pain must be distinguished from the sensation of fullness and discom­
+fort that children experience when they have an effusion or retracted 
+tympanic membrane secondary to a dysfunctional eustachian tube. 
+The clinician should review the child’s history for factors placing the 
+child at risk for infection such as craniofacial abnormalities (e.g., cleft 
+palate), immunodeficiencies, autoimmune disease, diabetes, previous 
+ear infections, placement of tympanostomy tubes, and recent dental 
+procedures, trauma, and air travel. Immunization status should also be 
+reviewed. A careful review of systems should elicit associated fevers, 
+sore throat, reflux symptoms, otorrhea, neurologic symptoms, and 
+symptoms of sinusitis. Children with a middle ear effusion may have 
+decreased hearing acuity.
+Acute otitis media presents with abrupt onset of otalgia associ­
+ated with middle ear fluid, signs and symptoms of inflammation, and 
+local or systemic infection. Risk factors for AOM include a family or 
+personal history of recurrent AOM, trisomy 21, household cigarette 
+smoke exposure, lack of breast-­feeding, lower socioeconomic status, 
+males, cleft palate, immunodeficiency, and group daycare attendance 
+or siblings in the household. Children with otitis externa (“swim­
+mer’s ear”) present with either ear pain, purulent otorrhea, or both 
+as well as ear fullness, localized ear pain with mastication, and ear 
+itching. Relapsing polychondritis is a rare multisystemic inflam­
+matory disorder that targets cartilaginous structures throughout the 
+body. If the external ears are involved, symptoms may include epi­
+sodic swelling and redness of the pinnae that is usually bilateral and 
+recurrent. Other cartilaginous structures are often affected, though 
+if findings are unilateral and subtle, the disorder may mimic otitis 
+externa and the diagnosis may remain elusive until symptoms recur. 
+With referred ear pain, such as from tooth decay or teething, there 
+are often additional symptoms associated with the respective head 
+and neck structures (see Table 5.4). Patients with ear pain secondary 
+to maxillary sinusitis may also complain of headaches and purulent 
+rhinorrhea.
+PHYSICAL EXAMINATION
+In a child presenting with a chief complaint of ear pain, the general 
+examination includes the temperature, the respiratory rate, and a 
+determination of whether the infant or child has a toxic appearance. 
+Then the clinician proceeds with the complete head, eyes, ears, nose, 
+oral cavity, and throat examination and with an appropriately focused 
+physical examination of other pertinent systems.
+The examination of the ear begins with the less symptomatic 
+ear. The clinician should inspect the pinna and adjacent tissues for 
+dermatitis, redness, and edema. The mastoid process and the pinna, 
+including its cartilaginous portions, are palpated for any tenderness. 
+Erythema, swelling, and tenderness over the posterior auricular 
+mastoid process suggest mastoiditis, whereas localization of these 
+findings to the external auditory canal and the pinna suggests otitis 
+externa. In both conditions, the swelling may be so severe that the 
+pinna is laterally displaced. The opening of the external ear canal is 
+also examined for the presence of discharge or exudate. Manipulating 
+the tragus and pinna causes extreme pain with otitis externa. Most 
+disorders of the external ear can be detected through this examina­
+tion (see Tables 5.2 and 5.3).
+Otoscopy provides an opportunity to indirectly view the middle ear 
+through the tympanic membrane. The middle ear is normally an air-­
+filled cavity that transmits sound from the eardrum to the ossicle and 
+then into the internal ear (Fig. 5.1). Otoscopy begins by properly posi­
+tioning and, if necessary, gently restraining the patient. Both shoulders 
+and hips need to be stabilized so that the patient cannot roll during 
+the examination. Infants are best examined on an examining table in 
+the prone position, with a parent or an attendant firmly holding the 
+patient’s shoulders, thus preventing the patient from moving. Tod­
+dlers should sit on a parent’s lap, with the examiner sitting in a chair 
+opposite them. The child is held against the parent’s chest, with one 
+of the parent’s hands and arms holding the child’s arms and the other 
+around the child’s head so that one ear is exposed. To avoid trauma 
+with movement, the otoscope should be held in the examiner’s hand 
+making direct contact with the patient’s head, allowing the otoscope to 
+move with the head.
+Earache
+Brittany Player
+5
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+86
+SECTION 2   Respiratory Disorders
+Cerumen (ear wax) is a waxy substance consisting of glandular 
+discharge from cells in the outer external canal mixing with exfoliated 
+epithelial cells. Cerumen can both obscure visualization of the ear­
+drum leading to diagnostic errors and be a cause of otalgia if impaction 
+occurs. To view the eardrum properly, the examiner should remove 
+the wax by irrigating the ear canal gently with lukewarm water, lifting 
+the wax out with a blunt curette, or dissolving the wax by placing 1–2 
+drops of docusate sodium liquid in the canal for 10–15 minutes. Con­
+traindications for irrigation or use of a cerumenolytic solution are the 
+presence of a tympanostomy tube, a perforated tympanic membrane, 
+or an organic foreign body (e.g., legumes swell in contact with fluids).
+During the insertion of the speculum, the clinician should note any 
+redness, edema, tenderness, exudate, furuncles, or vesicles that may be 
+present in the external auditory canal. In some illnesses such as otitis 
+externa, the ear canal may be so edematous that the speculum cannot 
+be inserted, and the eardrum cannot be seen. In addition, in neonates 
+and in some children with craniofacial anomalies such as trisomy 21 
+or Goldenhar syndrome, the external canal may be so small that it pre­
+cludes an accurate assessment of the tympanic membrane.
+Pneumatic otoscopy allows evaluation of the tympanic membrane’s 
+mobility. Because it is more accurate than otoscopy alone in detecting 
+middle ear effusion, pneumatic otoscopy should be part of every ear 
+examination. In performing pneumatic otoscopy, the examiner should 
+select a speculum that fits snugly in the external auditory canal. The 
+examiner then partially depresses the rubber bulb of the pneumatic 
+otoscope and inserts the otoscope into the ear canal (Fig. 5.2). Once the 
+eardrum is seen, the examiner should observe the color, appearance, 
+position, bony landmarks, and mobility of the tympanic membrane 
+(Table 5.5 and Fig. 5.3). If the eardrum is not perforated, the clinician 
+observes its mobility by alternating positive and negative pressure by 
+gently depressing and releasing the bulb of the pneumatic otoscope. 
+Poor mobility of the eardrum may be secondary to middle ear effusion, 
+a perforated tympanic membrane, or lack of an airtight seal (Fig. 5.4).
+In neonates and young infants, the eardrum is less perpendicular 
+to the observer, the bony landmarks are less distinct, and the eardrum 
+is less mobile than in older infants and children. Failure to appreciate 
+these normal otoscopic findings may lead to the overdiagnosis of mid­
+dle ear effusion.
+In the first few hours of AOM, the middle ear cavity may not yet 
+be filled with fluid, and the mobility may be normal. By the time the 
+patient is examined, though, the middle ear is usually filled with fluid, 
+and the eardrum is opaque and bulging with decreased mobility (see 
+Fig. 5.4). A reddened eardrum may indicate inflammation of the tym­
+panic membrane (TM), but this physical finding is not specific because 
+crying alone can induce diffuse redness of the eardrum. In addition, 
+differentiation of color is highly variable among observers, which 
+may in part result from the intensity and type of light source used in 
+otoscopy.
+TABLE 5.1  Differential Diagnosis of Painful 
+Middle Ear Disorders
+Disorder
+Clinical Features
+Acute otitis media
+Immobile tympanic membrane that may appear 
+bulging, red, and/or opaque
+Bullous myringitis
+Hemorrhagic or serous bullae on the tympanic 
+membrane; more severe pain than acute otitis 
+media
+Mastoiditis
+Tenderness and erythema over mastoid with 
+periostitis process; no destruction of bone 
+trabeculae
+Acute mastoid osteitis
+Destruction of bone trabeculae; tenderness and 
+erythema over mastoid process coupled with 
+outward displacement of pinna
+Granulomatosis
+Severe necrotizing vasculitis; ulcerative and 
+destructive granulomatous lesions of upper and 
+lower respiratory tract with polyangiitis
+Langerhans cell histio­
+cytosis
+Pituitary dysfunction, exophthalmos, seborrheic 
+dermatitis, and bone lesions; if bone lesions 
+involve the ear, patient presents with mastoid 
+tenderness and otorrhea
+TABLE 5.2  Differential Diagnoses of Painful 
+External Ear and Auditory Canal Disorders
+Disorder
+Clinical Features
+Acute otitis externa
+Diffuse redness, swelling, and pain of the canal 
+with greenish to whitish exudate; often very 
+tender pinna
+Necrotizing (malignant) 
+otitis externa (± skull 
+base osteomyelitis)
+Rapidly progressive, severe swelling and redness 
+of pinna; pinna may be laterally displaced; risk 
+factors include diabetes mellitus, congenital or 
+acquired immunodeficiency, severe neutropenia
+Dermatitis
+  Eczema
+History of atopy, presence of lesions elsewhere; 
+lesions are scaly, red, pruritic, and weeping
+  Contact
+History of cosmetic use or irritant exposure; 
+lesions are scaly, red, pruritic, and weeping
+  Seborrhea
+Scaly, red, papular dermatitis; scalp may have 
+thick, yellow scales
+  Psoriasis
+History or presence of psoriasis elsewhere; 
+erythematous papules that coalesce into thick, 
+white plaques
+Cellulitis
+Diffuse redness, tenderness, and swelling of the 
+pinna
+Furuncles
+Red, tender papules in areas with hair follicles 
+(distal third of the ear canal)
+Infected periauricular 
+cyst
+Discrete, palpable lesions; history of previous 
+swelling at same site; cellulitis may develop, 
+obscuring cystic structure
+Insect bites
+History of exposure; lesions are red, tender papules
+Herpes zoster oticus
+Painful, vesicular lesions in the ear canal and 
+tympanic membrane, hearing loss, vestibulitis; 
+with addition of seventh cranial nerve palsy—
+Ramsay Hunt syndrome
+Perichondritis
+Inflammation of the cartilage, usually secondary 
+to cellulitis
+Relapsing polychondritis
+Recurrent episodes, involves other cartilage sites 
+(nose)
+Granulomatosis with 
+polyangiitis
+Fever, weight loss, respiratory and/or renal 
+manifestations
+Tumors including 
+Langerhans cell 
+histiocytosis
+Palpable mass, destruction of surrounding 
+structures
+Foreign body
+Foreign body may cause secondary trauma to the 
+ear canal or become a nidus for an infection of 
+the ear canal
+Trauma
+Bruising and swelling of external ear; there may 
+be signs of basilar skull fracture (cerebrospinal 
+fluid otorrhea, hemotympanum)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+87
+CHAPTER 5  Earache
+In otitis media with effusion (OME), also known as serous otitis 
+media, the cardinal sign is decreased mobility of the eardrum. The ear­
+drum may be opaque, but not bulging or grossly inflamed (see Fig. 5.5 
+and Table 5.5). A challenge for the clinician is the child with symptoms 
+consistent with AOM (ear pain) but with the physical findings of OME. 
+In such cases, it is difficult to decide whether there is an acute infection 
+of the middle ear or whether it is OME with an illness at another site 
+causing the symptoms.
+When the external ear and tympanic membrane are normal in a 
+child with an earache, the clinician must consider the possibility of 
+referred pain (see Table 5.4). Innervation of the external and mid­
+dle ear includes pain fibers of the trigeminal, glossopharyngeal, and 
+vagus nerves and, to a lesser extent, the facial nerve and upper cervical 
+nerves. The clinician should examine the neck, parotid gland, thyroid, 
+mouth, tongue, teeth, temporomandibular joint, tonsils, and throat. In 
+children, the cause of referred pain is usually infectious rather than 
+noninfectious (e.g., a tumor).
+DIAGNOSTIC TESTS
+Bacterial Cultures
+Routine cultures of middle or external ear fluid are not required because 
+most infections are self-­limited and respond to empiric antimicrobial 
+therapy. In selected instances (e.g., persistent treatment failure, severe 
+pain, an immunocompromised host, a neonate), culture of otorrhea 
+from the external auditory canal or cultures of middle ear fluid by tym­
+panocentesis may guide therapy. In a child with AOM, the offending 
+pathogen is usually also present in the nasopharynx. Unfortunately, 
+nasopharyngeal cultures are not helpful in directing therapy because 
+multiple pathogens are typically isolated, and it is unclear which organ­
+ism is actually causing the middle ear infection. With the emergence 
+of strains of Streptococcus pneumoniae that are resistant to commonly 
+used antibacterials, the incidence of treatment failures may increase. 
+This increasing rate of treatment failure may necessitate a greater reli­
+ance on tympanocentesis for culture of middle ear fluid to determine 
+the appropriate antimicrobial agent.
+Tympanometry
+Tympanometry is an objective, painless method for detecting the pres­
+ence of middle ear effusion by providing information about tympanic 
+membrane compliance. A soft plastic probe is inserted into the exter­
+nal auditory canal to obtain an airtight seal. The tympanometer mea­
+sures the flow of sound energy into the middle ear under conditions of 
+changing air pressure. When the air pressure is equal on both sides of 
+an intact eardrum, with the drum in neutral position, the transmission 
+of sound energy through the tympanic membrane is at its maximum. 
+The peak on the tympanogram represents the pressure at which the 
+flow of sound energy is maximal. For example, in a normal air-­filled 
+TABLE 5.3  Causes of Otalgia and Sources for Referred Pain
+Intrinsic
+	I.	 External Ear
+External otitis
+Cerumen impaction
+Foreign body
+Perichondritis
+Preauricular cyst or sinus
+Impacted insects
+Myringitis
+Trauma
+Tumor
+Infection
+	II.	Middle Ear, Eustachian Tube, and Mastoid
+Barotrauma
+Middle ear effusion
+Negative intratympanic pressure (eustachian tube dysfunction)
+Acute otitis media
+Mastoiditis
+Gradenigo syndrome (eye pain, otorrhea, cranial nerve VI weakness ± 
+petrositis)
+Aditus block
+Complication of otitis media
+Tumor
+Eosinophilic granuloma
+Granulomatosis with polyangiitis
+Extrinsic
+	 I.	 Trigeminal Nerve
+Dental
+Jaw
+Temporomandibular joint
+Oral cavity (tongue)
+Infratemporal fossa tumors
+	 II.	 Facial Nerve
+Bell palsy
+Tumors
+Herpes zoster
+	III.	 Glossopharyngeal Nerve
+Tonsil
+Oropharynx
+Nasopharynx
+	IV.	 Vagus Nerve
+Laryngopharynx
+Esophagus
+Gastroesophageal reflux
+Thyroid
+	V.	 Cervical Nerves
+Lymph nodes
+Cysts
+Cervical spine
+Neck infections
+	VI.	Miscellaneous
+Migraine
+Neuralgias
+Paranasal sinuses
+Central nervous system
+Drug induced (mesalazine, sulfasalazine)
+Factitious disorder by proxy
+From Bluestone CD, Stool SE, Alper CM, et al. Pediatric Otolaryngology. 4th ed. Vol 1. Philadelphia: Saunders; 2003:288.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+88
+SECTION 2   Respiratory Disorders
+middle ear cavity, the peak occurs at ambient atmospheric pressure 
+(Fig. 5.6A). With eustachian tube dysfunction (a retracted eardrum 
+but no middle ear effusion), the peak occurs in the negative pressure 
+range on the recording (Fig. 5.6C). With middle ear effusion, the sound 
+energy flowing into the middle ear is reduced, which produces a flat 
+tympanogram (Fig. 5.6B). A flat tympanogram may also result from 
+cerumen, a foreign body, or occlusion of the opening of the probe by 
+the wall of the external auditory canal. In these circumstances, the tym­
+panogram is flat and the estimated volume of the ear canal is lower 
+than anticipated. In a perforated eardrum, the sound energy is read­
+ily transmitted through the hole in the drum throughout the entire 
+pressure range, resulting in a flat tympanogram with a higher-­than-­
+anticipated ear canal volume.
+The use of tympanometry can be limited by patient age and coop­
+eration with testing, cerumen impaction, and the skill of the individual 
+performing the testing. When performed by experts, tympanometry 
+and pneumatic otoscopy have equivalent sensitivity (approximately 
+90%) and specificity (70–80%). Tympanometry is neither more accu­
+rate nor more convenient than is properly performed pneumatic otos­
+copy. Some tympanometers do not perform well in infants younger 
+than 6 months of age. Tympanometry is advantageous if the clinician 
+is unsure of the otoscopic findings. Tympanometry can only indicate 
+presence of middle ear effusion but cannot distinguish between AOM and 
+OME.
+Acoustic Reflectometry
+Acoustic reflectometers are used to detect middle ear effusion. The 
+device directs sonar-­like sound waves of varying frequency toward the 
+tympanic membrane and measures the intensity of reflected sound. 
+This hand-­held instrument is similar in size to an otoscope. The tip 
+of the reflectometer is inserted into the ear canal. In contrast to tym­
+panometry, an airtight seal is not required. The frequency of maximal 
+reflected sound depends on the distance of the probe from the ear­
+drum. Middle ear effusion is detected not by the frequency but by the 
+magnitude of maximal reflected sound. When middle ear effusion is 
+present, reflectance is increased in comparison with that in the air-­
+filled middle ear.
+Improvements in technology have been made such that reflectome­
+try includes spectral gradient analysis. Reflectometry is easily learned, 
+quick, convenient, and useful in a crying child. It has a lower sensi­
+tivity and specificity than properly performed pneumatic otoscopy in 
+detecting middle ear effusion. Because the accuracy of current mod­
+els decreases in infants younger than 1 year, this technique should not 
+be used in infants younger than 6 months of age. Like tympanometry, 
+reflectometry can reveal only whether middle ear effusion is present 
+and cannot reveal whether the effusion is secondary to AOM or OME. 
+Reflectometry is useful if otoscopic findings are indeterminate.
+Diagnostic Imaging
+Radiologic techniques are rarely required in the evaluation of external 
+or middle ear disease, but may be useful in the assessment of intra­
+temporal and intracranial complications of otitis media or mastoiditis. 
+Opacification of the normally aerated mastoid air cells is usually seen 
+in AOM because the mastoid air cells communicate with the middle 
+ear space. By definition, this is acute mastoiditis; however, this opaci­
+fication resolves concomitantly with the successful treatment of AOM. 
+In contrast, in acute mastoid osteitis, also called acute coalescent mas­
+toiditis, there is destruction of bone trabeculations in the mastoid air 
+cells. CT scan is the preferred imaging modality to aid in this diag­
+nosis. Imaging studies can be useful in evaluating a patient for other 
+intracranial complications of AOM. CT scans of the head can evalu­
+ate for suspected cholesteatomas. MRI should be used for diagnosing 
+intracranial mass lesions (e.g., brain abscess) and soft tissue sequelae 
+of infection, while magnetic resonance venography may identify dural 
+sinus thrombosis.
+DIFFERENTIAL DIAGNOSIS
+Most disorders of the external and middle ear are readily apparent after 
+the examination of the ear (see Tables 5.1 to 5.3). If examination find­
+ings are unremarkable, the clinician should consider referred pain (see 
+Table 5.4). Most cases of otitis media are uncomplicated; however, the 
+clinician should be alert to the complications and sequelae of AOM 
+(Table 5.6).
+OTITIS EXTERNA
+Otitis externa is mainly an inflammation of the external ear canal 
+with or without involvement of the pinna or tympanic membrane, 
+typically secondary to acute bacterial infection. Excessive moisture 
+may cause small abrasions in the protective lipid layer of skin in the 
+external canal, making it vulnerable to infection by normal external 
+TABLE 5.4  Causes of Referred Ear Pain
+Neck
+Cervical lymphadenitis
+Infected cervical cysts
+Subluxation of the atlantoaxial joint (torticollis and otalgia)
+Salivary Glands
+Parotitis
+Thyroid
+Thyroiditis
+Teeth and Gums
+Dental caries
+Dental abscess
+Impacted teeth
+Gingivitis
+Temporomandibular Joint
+Temporomandibular disorder
+Arthritis, juvenile idiopathic arthritis
+Spasm from bruxism or dental malocclusion
+Tonsils
+Tonsillitis
+Peritonsillar abscess
+Post-­tonsillectomy neuralgia
+Pharynx
+Pharyngitis
+Paranasal Sinuses
+Maxillary sinusitis
+Other
+Herpes zoster (Ramsay Hunt syndrome: postherpetic neuralgia)
+Bell palsy
+Migraine
+Tumors (e.g., of facial nerve)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+89
+CHAPTER 5  Earache
+ear flora or pathogenic bacteria. Dryness or presence of underlying 
+skin conditions (such as eczema) and trauma (including cotton ear 
+swabs) can also predispose the external canal to infection. Less com­
+monly, otorrhea draining from a perforated tympanic membrane 
+secondary to otitis media may cause otitis externa. Cerumen has 
+protective effects by decreasing the pH, thereby inhibiting infection; 
+removal of cerumen alters this pH, leaving the canal vulnerable. 
+Additionally, cerumen impaction can trap water and bacteria in the 
+external canal, leading to infection.
+The presenting symptoms are often rapid onset of intense pain 
+(especially with manipulation of the pinna, pressure on the tragus, or 
+jaw movement), erythema, and otorrhea. On physical examination, 
+the ear canal will be red, edematous, and tender. Occasionally, the 
+edema and pain may be so severe as to prevent complete examination 
+of the entire canal and tympanic membrane. Otorrhea may be pres­
+ent in the external canal. While otitis externa can occur at all ages, 
+occurrence peaks between 7 and 12 years of age, with 10% of people 
+having an episode in their lifetime. Otitis externa is rarely bilateral 
+in nature.
+Pseudomonas aeruginosa is the predominant organism causing 
+otitis externa and is isolated in up to 60% of microbiologically con­
+firmed cases, but staphylococcal (Staphylococcus aureus and coagulase-­
+negative staphylococci) and streptococcal species have been isolated. 
+Gram-­negative organisms, such as Enterobacter, Proteus, and Klebsiella 
+species, and fungal organisms, such as Candida and Aspergillus species, 
+have also been isolated.
+Treatment consists of a topical suspension, commonly ofloxacin or 
+ciprofloxacin combined with hydrocortisone or dexamethasone. The 
+addition of the topical steroid is associated with improvement in pain. 
+Most patients respond within a few days. If there is marked edema of 
+the canal, antibacterials may not reach the site of infection. In this case, 
+the canal should be cleaned with gentle suction, and a cotton wick 
+should be inserted into the auditory canal. Antibacterial suspension is 
+then dripped into the wick, which allows the medication to diffuse far­
+ther into the ear canal. In some cases, daily cleaning and replacement 
+of the wick are necessary. If the infection progresses and/or the patient 
+has associated fever and lymphadenitis, the patient may need oral or 
+A
+B
+Helix
+Antihelix
+Triangular
+fossa
+Root 
+of helix
+Tragus
+Clavum
+conchae
+Antitragus
+Lobule
+Intertragal
+notch
+Auricle
+Ossicles
+Malleus Incus Stapes
+Semicircular canals
+External
+auditory
+canal
+Mastoid
+bone
+Cranial nerve VII
+Tympanic membrane
+Cochlea
+Cochlea
+Eustachian tube
+Cranial
+nerve
+VIII
+Facial nerve
+(VII)
+Fig. 5.1  Anatomy of the ear. A, A normal external ear (auricle or pinna) is shown, with its various landmarks 
+labeled. It is helpful to refer to such a diagram in assessing congenital anomalies. B, This coronal section 
+shows the various structures of the hearing and vestibular apparatus. The three main regions are the external 
+ear, middle ear, and inner ear. The eustachian tube connects the middle ear and the nasopharynx and serves 
+to drain and ventilate the middle ear. (From Yellon R, Chi D. Otolaryngology. In: Zitelli B, ed. Atlas of Pediatric 
+Physical Diagnosis. 7th ed. Philadelphia: Elsevier; 2018:869.)
+Fig. 5.2  Technique for pneumatic otoscopy. (From Bluestone CD, Klein 
+JO. Otitis Media in Infants and Children. 2nd ed. Philadelphia: WB Saun­
+ders; 1995:92.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+90
+SECTION 2   Respiratory Disorders
+parenteral antimicrobials and consultation with an otolaryngologist. 
+Prevention should be aimed at keeping the ear canal dry and maintain­
+ing healthy skin within the canal.
+Chondritis is a potential complication of severe otitis externa and 
+occurs when the infection progresses into the cartilaginous structures 
+of the ear canal. This complication is rare without a history of previous 
+trauma (including ear piercing) or surgery. The most common patho­
+gens are Pseudomonas and S. aureus. Treatment requires systemic anti­
+bacterials, removal of foreign bodies such as earrings, and, if necessary, 
+surgical debridement of tissue.
+Furunculosis is an infection of a hair follicle in the outer third of 
+the external ear that can mimic acute external otitis. The causative 
+organism is typically S. aureus. Symptoms include a focal area of ery­
+thema, swelling, and pain. Draining the abscess and antistaphylococcal 
+antibiotics provide appropriate treatment.
+NECROTIZING (MALIGNANT) OTITIS EXTERNA
+Necrotizing otitis externa is an extension of infection to the tempo­
+ral bone and skull base causing extensive tissue destruction (skull base 
+osteomyelitis). The illness may result in chondritis and osteitis of both 
+the middle and inner ears. This condition is rare in pediatrics, occur­
+ring primarily in neutropenic or other immunocompromised patients. 
+In adults, diabetes mellitus is a common predisposing condition, 
+though it is not a common comorbidity in children with diabetes. Pre­
+senting symptoms include a markedly swollen and laterally displaced 
+pinna associated with fever, malaise, and persistent, deep-­seated otal­
+gia out of proportion to findings on examination. Occasionally, facial 
+nerve paralysis, vertigo, and sensorineural hearing loss may be noted. 
+Diagnosis is supported by radiologic imaging, including CT scan and 
+MRI, which help to characterize the anatomic extent of disease as well 
+as the soft tissue and bone involvement. Aggressive treatment with 
+broad-­spectrum parenteral antibiotics is indicated. P. aeruginosa is the 
+most commonly isolated pathogen, and coverage should include anti­
+bacterials directed against it. Other, less commonly isolated organisms 
+include Klebsiella species, S. aureus, Staphylococcus epididymis, and 
+Aspergillus. Surgical intervention may be necessary to obtain cultures 
+for therapy guidance and provide local tissue debridement.
+ACUTE OTITIS MEDIA
+Acute otitis media is most commonly a bacterial complication of a pre­
+ceding or concurrent viral URI, usually occurring several days after 
+the onset of the URI. The viral infection enables pathogenic bacteria in 
+the nasopharynx to ascend through the eustachian tube into the mid­
+dle ear either by impairing local host defenses or by eustachian tube 
+dysfunction. The bacterial pathogens then cause a secondary infection.
+A diagnosis of AOM should be made in children presenting with 
+the following:
+ • Moderate to severe bulging of the TM or new onset of otorrhea not 
+due to acute otitis externa
+ • Mild bulging of the TM and recent (<48 hours) onset of significant 
+TM erythema or ear pain (Fig. 5.7; see Table 5.5)
+Erythema of the TM is not specific and therefore should be consid­
+ered a characteristic of AOM only if associated with bulging of the TM.
+Microbiology
+The leading bacterial pathogens isolated from middle ear fluid in chil­
+dren with AOM are S. pneumoniae, nontypable Haemophilus influ­
+enzae, and Moraxella catarrhalis. S. aureus and group A streptococci 
+are uncommon pathogens, though S. aureus should be considered in 
+patients with persistent otorrhea after tympanostomy tube placement. 
+In the first month of life (especially the first 2 weeks), gram-­negative 
+enteric bacteria (e.g., Escherichia coli, Klebsiella pneumoniae) or group 
+B streptococcus may also be isolated. Otitis media associated with an 
+TABLE 5.5  The Tympanic Membrane in Acute Otitis Media and Otitis Media with Effusion
+Characteristic
+Normal Findings
+Acute Otitis Media
+Otitis Media with Effusion
+Comments
+Color
+Gray to pink
+Often red from inflammation; yellow to 
+white from purulent fluid behind tympanic 
+membrane
+Usually gray to pink, but may still be 
+yellow or white; not red
+Interobserver variation of color 
+is high; redness can occur 
+from crying alone
+Appearance
+Translucent
+Opaque
+Translucent or opaque
+Opacity is caused by opaque 
+fluid or by scarring of tym­
+panic membrane
+Position
+Neutral
+Fluid under pressure produces bulging of 
+tympanic membrane; bony landmarks 
+may be distorted and the light reflex lost
+Not bulging; may be retracted
+Mobility
+Tympanic membrane 
+moves freely
+Mobility to positive and negative pressure 
+reduced
+Mobility to positive and negative 
+pressure reduced
+Other findings
+Perforation with otorrhea
+Short process
+Handle of
+malleus
+Umbo
+Light reflex
+Fig. 5.3  Normal tympanic membrane with normal landmarks identified. 
+(From Cherry JD, Harrison GJ, Kaplan SL, et al., eds. Feigin and Cherry’s 
+Textbook of Pediatric Infectious Diseases. 8th ed. Philadelphia: Else­
+vier; 2019:154, Fig. 16.7.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+91
+CHAPTER 5  Earache
+erythematous ipsilateral conjunctivitis with purulent exudate is often 
+caused by nontypable H. influenzae.
+The pneumococcal conjugate vaccine (PCV) 7 was introduced in 
+2000, covering serotypes 4, 6B, 9V, 14, 18C, 19F, and 23F of S. pneu­
+moniae. Widespread use of this vaccine resulted in a 29% reduction 
+in AOM caused by all pneumococcal strains in children prior to 24 
+months of age. There was also a reduction in tympanostomy tube 
+placement. In the first few years following introduction of PCV7, 
+a shift from S. pneumoniae to nontypable H. influenzae as the lead­
+ing pathogen causing AOM was noted. Shortly thereafter, there was 
+a shift to non-­PCV7 S. pneumoniae isolates as the primary patho­
+gen of AOM, including multiresistant serotype 19A, which was 
+responsible for more cases of AOM and for more severe and invasive 
+infections. Licensing and widespread use of the PCV13 vaccination 
+began in 2010 in the United States, adding coverage for an additional 
+NORMAL 
+Position—neutral
+Color—normal
+Translucency—translucent
+Mobility—moves briskly with
+   slight positive and negative
+   pressure
+A
+B
+C
+D
+E
+F
+NEGATIVE MIDDLE EAR
+   PRESSURE
+Position—retracted
+Color—normal
+Translucency—translucent
+Mobility—moves only with
+   applied negative pressure
+ACUTE OTITIS MEDIA
+Position—full to bulging
+Color—red (can be pink,
+   white, or yellow)
+Translucency—opaque
+Mobility—poor when both
+   positive and negative
+   pressures are applied
+FLUID LEVEL
+Position—retracted
+Color—yellow or amber
+Translucency—translucent
+Mobility—same as with high
+   negative pressure, but fluid
+   level and bubbles change with
+   applied pressure
+OTITIS MEDIA WITH
+   EFFUSION
+Position—usually retracted
+Color—white (or yellow or blue)
+Translucency—opaque (may be
+ translucent)
+Mobility—poor when both
+   positive and negative
+   pressures are applied
+PERFORATION (OR PATENT
+   TYMPANOSTOMY TUBE)
+Position—neutral or retracted
+Color—white, pink, red, or
+   normal
+Translucency—translucent or 
+   opaque
+Mobility—none
+Fig. 5.4  A–F, Common conditions of the middle ear, as assessed with the otoscope. (From Bluestone C, Klein 
+J. Otitis Media in Infants and Children. 3rd ed. Philadelphia: Saunders; 2001:131.)
+Fig. 5.5  Tympanic membrane in otitis media with effusion. (From Ker­
+schner J, Preciado D. Otitis media. In: Kliegman RM, St. Geme JW III, 
+Blum NJ, et al., eds. Textbook of Pediatrics. 21st ed. Philadelphia: Else­
+vier; 2020:3421.)
+5
+400
+0
+200
+ 400
+0
+200
+ 400
+0
+200
+10
+Air pressure (mm H2O)
+5
+10
+5
+10
+Compliance
+ 100
+A
+B
+C
+Fig. 5.6  A, A normal tympanogram with a peak at atmospheric pressure, 
+indicating an air-­filled middle ear with normal (atmospheric) pressure. B, 
+A “flat” tympanogram, indicating middle ear effusion. C, A tympanogram 
+with a negative peak pressure, indicating eustachian tube obstruction.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+92
+SECTION 2   Respiratory Disorders
+six serotypes of S. pneumoniae (serotypes included in the PCV7 vac­
+cination plus serotypes 1, 3, 5, 6A, 7F, and 19A). Subsequently, there 
+has been emergence of nonvaccine strains of S. pneumoniae, though 
+there has been an overall decrease in S. pneumoniae as the cause of 
+AOM.
+Viruses also have an important etiologic role. It is not clear 
+whether the virus alone or a combination of virus and bacteria are 
+involved in the pathogenesis. Several studies have documented the 
+presence of viruses (in up to 44% of cases, with or without bacteria) 
+in the middle ear fluid of children with otitis media. URIs second­
+ary to respiratory syncytial virus, influenza, and adenovirus have 
+been associated with up to 40% of AOM cases in children attending 
+daycare. To a lesser degree, URIs secondary to parainfluenza, rhi­
+novirus, and enteroviruses have also been associated with AOM. 
+Viruses enhance bacterial adherence and colonization in the naso­
+pharynx, impair local host immune defenses, and cause eustachian 
+tube dysfunction.
+Strains of S. pneumoniae have emerged with altered penicillin-­
+binding proteins on the bacterial cell wall, which makes them less 
+susceptible to β-­lactam drugs such as penicillins and cephalosporins. 
+In addition, because resistance genes are frequently linked, organisms 
+with resistance to β-­lactam drugs are more likely to be resistant to 
+sulfa antibacterials and to the macrolide class. Nonetheless, high-­dose 
+amoxicillin remains the best oral antibiotic available for drug-­resistant 
+S. pneumoniae. Approximately 40% of H. influenzae strains and nearly 
+all strains of M. catarrhalis produce β-­lactamase enzymes, which 
+hydrolyze penicillins and some cephalosporins, making them resistant 
+to beta-lactam antibiotics. Use of β-­lactamase inhibitors such as clavu­
+lanate can overcome this resistance.
+Treatment
+The goals of treatment in AOM are to relieve discomfort and to prevent 
+infectious complications (Fig. 5.8). Evaluating the treatment of otitis 
+media is complicated by the high rate of spontaneous resolution of the 
+TABLE 5.6  Manifestations of the Sequelae and Complications of Otitis Media
+Complication
+Clinical Features
+Acute
+Perforation with otorrhea
+Immobile tympanic membrane secondary to visible perforation, exudate in ear canal
+Acute mastoiditis with periostitis
+Tenderness and erythema over mastoid process, no destruction of bony trabeculae
+Acute mastoid osteitis
+Destruction of bony trabeculae; tenderness and erythema over mastoid process coupled with outward displacement of pinna
+Petrositis
+Infection of perilabyrinthine cells; may present with otitis, paralysis of lateral rectus, and ipsilateral orbital or facial pain 
+(Gradenigo syndrome)
+Facial nerve palsy
+Peripheral cranial nerve VII paralysis
+Labyrinthitis
+Vertigo, fever, ear pain, nystagmus, hearing loss, tinnitus, nausea and vomiting
+Lateral sinus thrombosis
+Headache, fever, seizures, altered states of consciousness, septic emboli
+Meningitis
+Fever, headache, nuchal rigidity, seizures, altered states of consciousness
+Extradural empyema
+Fever, headache, seizures, altered states of consciousness
+Subdural empyema
+Fever, headache, seizures, altered states of consciousness
+Brain abscess
+Fever, headache, seizures, altered states of consciousness, focal neurologic examination
+Nonacute
+Chronic perforation
+Immobile tympanic membrane secondary to perforation
+Otitis media with effusion (OME)
+Immobile, opaque tympanic membrane
+Adhesive otitis
+Irreversible conductive hearing loss secondary to chronic OME
+Tympanosclerosis
+Thickened white plaques, may cause conductive hearing loss
+Chronic suppurative otitis media
+Following acute otitis media with perforation, secondary infection with Staphylococcus aureus, Pseudomonas aeruginosa, or 
+anaerobes develops, causing chronic otorrhea
+Cholesteatoma
+White, pearl-­like destructive tumor with otorrhea arising near or within tympanic membrane; may be secondary to chronic 
+negative middle ear pressure
+Otitic hydrocephalus
+Increased intracranial pressure secondary to acute otitis media; signs and symptoms include severe headaches, blurred vision, 
+nausea, vomiting, papilledema, diplopia (abducens paralysis)
+Fig. 5.7  Tympanic membrane in acute otitis media. (From Kerschner J, 
+Preciado D. Otitis media. In: Kliegman RM, St. Geme JW III, Blum 
+NJ, et  al., eds. Nelson Textbook of Pediatrics, 21st ed. Philadelphia: 
+Elsevier; 2020:3419.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+93
+CHAPTER 5  Earache
+infection: In children with AOM, up to 19% with S. pneumoniae and 48% 
+with H. influenzae cultured on initial tympanocentesis are culture nega­
+tive within 1 week without antibacterial therapy. Despite M. catarrhalis 
+resistance to amoxicillin, approximately 75% of children infected with 
+that organism demonstrated cure when treated with amoxicillin. The 
+emergence of drug-­resistant S. pneumoniae strains and concerns about 
+treating a disease with a high rate of spontaneous resolution have led 
+to change in the recommended treatment for otitis media (see Fig. 5.8).
+Yes
+Yes
+1
+2
+3
+5
+6
+9
+10
+11
+8
+7
+12
+13
+No
+No
+No
+Yes
+Child aged 2 mo through 12
+yr with uncomplicated AOM
+presents to office.
+A diagnosis of acute otitis media requires:
+1) History of acute onset of signs and symptoms
+2) The presence of middle ear effusion (MEE)
+3) Signs and symptoms of middle ear inflammation
+a) moderate to severe bulging of the TM or new
+onset of otorrhea not due to otitis externa
+b) mild bulging of the TM and recent (48 hr)
+onset of ear pain or intense TM erythema
+A diagnosis of AOM should not be made in
+children without MEE.
+The clinician
+assesses pain.
+Is pain
+present?
+Clinician recommends 
+treatment to reduce
+pain.
+Is observation an
+appropriate initial
+treatment option?*
+Does the child
+have fever
+39C and/or moderate
+or severe otalgia?
+Amoxicillin at a dose of
+90 mg/kg/day is the
+initial antibacterial of
+choice for most children.
+Child is observed for 48 to
+72 hr with assurance of
+appropriate follow-up.
+Child managed with
+appropriate
+antibacterial therapy.
+Go to Box 6.
+Go to Box 14.
+Go to Box 14.
+Go to Box 14.
+Criteria for antibacterial treatment or observation
+in children with nonsevere illness:* 
+1) 6 mo: antibacterial treatment
+2) 6 mo to 2 yr: antibacterial treatment with cer-
+tain diagnosis or severe illness or observation with
+uncertain diagnosis and nonsevere illness
+3) 2 yr and older: antibacterial treatment if severe
+illness or observe with nonsevere illness with certain
+diagnosis; observation for uncertain diagnosis
+*Caregiver is informed and agrees to the option of 
+observation.
+Caregiver is able to monitor child and return should
+condition worsen.
+Systems are in place for ready communication with
+the clinician, re-evaluation, and obtaining medication
+if necessary.
+4
+14
+15
+17
+19
+18
+16
+No
+No
+Yes
+Yes
+Clinician reassesses
+and confirms
+diagnosis of AOM.
+Is diagnosis
+of AOM
+confirmed?
+Assess for other causes
+of illness and manage
+appropriately.
+Clinician should initiate
+antibacterial treatment for children
+initially managed with observation
+or change antibacterial treatment
+for patients initially managed with
+antibacterial therapy.
+Antibacterial choice
+should be based on the 
+likely pathogen(s)
+present and on clinical
+experience.
+Did patient respond
+to initial treatment
+intervention (either
+antibacterial
+treatment or 
+observation)?
+Patient follow-up
+as appropriate.
+Fig. 5.8  Management of acute otitis media (AOM). TM, tympanic membrane. (From Kerschner J, Preciado D. 
+Otitis media. In: Kliegman R, ed. Nelson Textbook of Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:3424.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+94
+SECTION 2   Respiratory Disorders
+Withholding antibacterials in children at low risk for complications 
+may be appropriate under certain circumstances. In the Netherlands, 
+antibacterial therapy is commonly delayed for 48–72 hours following 
+diagnosis to determine whether there is spontaneous resolution. While 
+antibacterial use is lower, rates of acute mastoiditis may be higher, 
+emphasizing the need for close follow-­up of patients in whom a watch­
+ful waiting approach is employed. There are specific guidelines on the 
+use of watchful waiting and patients for whom its use may be appro­
+priate (Table 5.7). However, the key to observation prior to antibacte­
+rial initiation is close follow-­up for assessment of worsening symptoms 
+or spontaneous resolution. Additionally, adequate analgesia, includ­
+ing acetaminophen and/or ibuprofen, should be provided during the 
+observation period. While watchful waiting is appropriate for certain 
+populations, the benefits of antibacterial treatment are most clearly seen 
+in children younger than 2 years.
+When an antibacterial is used, efficacy against S. pneumoniae is the 
+most important consideration. In addition, the clinician must consider 
+the drug safety, convenience, palatability, and cost. High-­dose amox­
+icillin (90 mg/kg/day given in two divided doses) is the appropriate 
+initial therapy for most cases (Table 5.8). Because otitis media is usu­
+ally a self-­limited illness, the use of broad-­spectrum antibacterials for 
+the initial treatment should be discouraged because of high cost, the 
+increased risk of adverse reactions, and the increased likelihood of the 
+development of resistant strains.
+The dose of amoxicillin depends on the risk for the presence of 
+drug-­resistant pneumococci. Risk factors for drug resistance include 
+age younger than 2 years, daycare attendance, recent antibacterial expo­
+sure, and cigarette smoke exposure. In addition, clinicians should con­
+sider community resistance patterns. In penicillin-­allergic patients, the 
+cross-­reactivity between penicillins and cephalosporins is likely lower 
+than previously reported. Cephalosporins are therefore an alternative 
+therapy option in patients without severe and/or recent allergic reac­
+tion to penicillins (see Table 5.8). Clindamycin is not effective against 
+H. influenzae but may be effective against some penicillin-­resistant 
+strains of S. pneumoniae. Macrolides (i.e., erythromycin, azithromy­
+cin) are minimally effective against S. pneumoniae or H. influenzae and 
+therefore not appropriate alternatives.
+Patients with Persistent Symptoms
+After 48–72 hours of antibacterial therapy, most patients are either 
+asymptomatic or improving. Beyond this time period, many patients 
+with ongoing symptoms may have an active viral infection, whereas 
+TABLE 5.7  Recommendations for Initial Management for Uncomplicated Acute Otitis Media 
+(AOM)*
+Age
+Otorrhea with AOM
+Unilateral or Bilateral AOM with 
+Severe Symptoms†
+Bilateral AOM Without 
+Otorrhea
+Unilateral AOM Without 
+Otorrhea
+6 mo–2 yr
+Antibiotic therapy
+Antibiotic therapy
+Antibiotic therapy
+Antibiotic therapy or additional 
+observation
+≥2 yr
+Antibiotic therapy
+Antibiotic therapy
+Antibiotic therapy or additional 
+observation
+Antibiotic therapy or additional 
+observation‡
+*Applies only to children with well-­documented AOM with high certainty of diagnosis (see Fig. 5.8).
+†A toxic-­appearing child, persistent otalgia more than 48 hr, temperature ≥39°C (102.2°F) in the past 48 hr, or if there is uncertain access to follow-­up 
+after the visit.
+‡This plan of initial management provides an opportunity for shared decision-­making with the child’s family for those categories appropriate for 
+additional observation. If observation is offered, a mechanism must be in place to ensure follow-­up and begin antibiotics if the child worsens or fails 
+to improve within 48–72 hr of AOM onset.
+From Lieberthal A, Carroll A, Chonmaitree T, et al. The diagnosis and management of acute otitis media. Pediatrics. 2013;131:e976.
+TABLE 5.8  Recommended Antibacterials for (Initial or Delayed) Treatment and for Patients Who 
+Have Failed Initial Antibacterial Treatment
+INITIAL IMMEDIATE OR DELAYED ANTIBIOTIC TREAT­
+MENT
+ANTIBIOTIC TREATMENT AFTER 48–72 HR OF FAILURE OF 
+INITIAL ANTIBIOTIC TREATMENT
+Recommended First-­Line 
+Treatment
+Alternative Treatment (if 
+Penicillin Allergy)
+Recommended First-­
+Line Treatment
+Alternative Treatment
+Amoxicillin (90 mg/kg/day divided b.i.d.) 
+or 
+Amoxicillin-­clavulanate (90 mg/kg/day 
+of amoxicillin divided b.i.d.) 
+or 
+Ceftriaxone (50 mg/kg/day IM or IV for 
+1–3 days)
+Cefdinir (14 mg/kg/day once daily or 
+divided b.i.d.) 
+or 
+Cefpodoxime (10 mg/kg/day divided b.i.d.) 
+or 
+Ceftriaxone (50 mg/kg/day IM or IV for 
+1–3 days)
+Amoxicillin-­clavulanate 
+(90 mg/kg/day of amoxicillin 
+divided b.i.d.)
+Ceftriaxone 50 mg/kg/day daily IM or IV for 1–3 days 
+or 
+Clindamycin (30–40 mg/kg/day in 3 divided doses)
+Failure of second antibiotic:
+Clindamycin (30–40 mg/kg/day in 3 divided doses)
+Tympanocentesis*
+Consultation with otolaryngology†
+*May be considered in patients in whom response to therapy has been inadequate or when identification of the causative organism and susceptibility 
+profile are necessary.
+†Consultation with a specialist (i.e., otolaryngology) to perform a tympanocentesis.
+b.i.d., twice daily; IM, intramuscular; IV, intravenous.
+Adapted from Lieberthal A, Carroll A, Chonmaitree T, et al. The diagnosis and management of acute otitis media. Pediatrics. 2014:133:347; Molloy 
+L, Barron S, Khan N, et al. Oral B-­lactam antibiotics for pediatric otitis media, rhinosinusitis, and pneumonia. J Pediatr Health Care. 2020;34(3):291–
+300. Kerschner J, Preciado D. Otitis media. In: Kliegman R, ed. Nelson Textbook of Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:3418–3431.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+95
+CHAPTER 5  Earache
+others may have a persistent inflammatory reaction despite elimination 
+of viable bacteria. Studies are conflicting regarding continued presence 
+of bacteria in the middle ear of persistently symptomatic patients, with 
+some finding ongoing bacterial presence while others report sterile 
+bacterial cultures of middle ear fluid in up to 50% of patients with per­
+sistent symptoms. Therefore, in children with mild persistent symp­
+toms, a clinician should consider analgesic-­antipyretic medications for 
+relief of symptoms while addressing any issues of drug nonadherence, 
+including palatability and dosing interval. In children with more severe, 
+persistent signs of AOM without otologic improvement, prescribing an 
+alternative antibiotic effective against possible resistant S. pneumoniae 
+and β-­lactamase–producing H. influenzae and M. catarrhalis such as 
+amoxicillin-­clavulanate (90 mg/kg/day of the amoxicillin component) 
+or 3 days of intramuscular ceftriaxone should be considered (see Table 
+5.8). With the emergence of S. pneumoniae resistance, tympanocentesis 
+with culture of middle ear effusion should be considered for bacterio­
+logic diagnosis and susceptibility testing.
+Recurrent Acute Otitis Media
+Recurrent otitis media is defined as three episodes of AOM in a 
+6-­month period or four episodes in a 12-­month period with at least 
+one episode in the preceding 6 months. Risk factors for recurrent AOM 
+include the following:
+ • Onset of AOM in the first year of life, especially if the first episode 
+is before the patient is 6 months of age
+ • Males
+ • A sibling’s history of recurrent AOM
+ • Cleft palate
+ • Craniofacial anomalies
+ • Trisomy 21
+ • Daycare attendance
+ • Household cigarette smoke exposure
+ • HIV infection
+ • Lack of breast-­feeding
+ • History of atopy/allergies
+Children with recurrent otitis media present a particular challenge 
+with regard to treatment options. Long-­term, low-­dose antibacterial 
+agents have been used as a method of prophylaxis in children with 
+recurrent AOM in attempts to prevent additional episodes. While 
+there is some evidence of decreased episodes of AOM, this benefit only 
+occurred while receiving the prophylactic antibacterial, without ben­
+efits after discontinuation of the antibacterial. Other studies have not 
+demonstrated a difference in recurrence of AOM among children with 
+or without prophylactic antibacterials. Given the risks of emergence of 
+antibacterial resistance, side effects of antibacterials, and cost of ther­
+apy weighed against the questionable benefits of long-­term antibacte­
+rial use, prophylaxis is not recommended.
+The benefits of placing tympanostomy tubes for recurrent AOM or 
+OME include improving hearing, decreasing effusion burden, decreas­
+ing episodes of acute otitis media, and improving quality of life for 
+children that suffer from recurrent AOM or chronic effusion. As with 
+any surgical procedure, the benefits must be weighed against the risks, 
+including cost of the procedure and risks of anesthesia. Tympanos­
+tomy tubes are eventually extruded from the eardrum by the normal 
+process of epithelial growth. Recurrent episodes of otitis media may 
+then resume. Long-­term consequences of tympanostomy tubes include 
+focal atrophy, tympanosclerosis, and chronic perforation at the site of 
+tube insertion.
+OTITIS MEDIA WITH EFFUSION
+Otitis media with effusion, also known as “glue ear,” may occur 
+after an acute episode of otitis media or because of eustachian tube 
+obstruction resulting from another cause, most commonly URI. 
+OME differs from AOM in that there is middle ear effusion present 
+without signs or symptoms of acute infection (Fig. 5.9). The most 
+common presenting complaint with OME is decreased hearing. 
+Middle ear fluid can persist for weeks after AOM. Two weeks after 
+AOM, approximately 75% of children will have persistent effusion. 
+The percentage drops to 50% at 1 month and 10–25% at 3 months 
+post-­AOM. Because most cases of OME resolve without treatment, a 
+period of observation is the most appropriate initial strategy. If effu­
+sion persists for 3 months or longer, or if at any time there is concern 
+for language delay, learning difficulties, or significant hearing loss, 
+hearing testing should be performed.
+The guideline for affected children between 2 months and 12 years 
+distinguishes between children with OME at risk for speech, language, 
+or learning problems and children not at risk for such problems. The 
+clinician should document laterality, duration, and severity of effusion 
+with pneumatic otoscopy and confirmation of effusion by tympanom­
+etry when pneumatic otoscopy is inconclusive. Based on the updated 
+guidelines, use of decongestants, steroids (intranasal or systemic), anti­
+histamines, and/or antibacterial agents are not recommended in the 
+management of persistent OME. Antihistamines, decongestants, and 
+nonsteroidal antiinflammatory agents do not promote the resolution 
+of middle ear effusion and should not be used. With systemic cortico­
+steroids (prednisone), the effusion may resolve initially, but it recurs 
+within a few weeks of steroid discontinuation. Additionally, the side 
+effect profile of systemic steroids precludes its use in children with 
+OME. Although bacteria may be present in some cases, antibacterial 
+therapy has only a minimal effect on the resolution of effusion and does 
+not demonstrate long-­term benefit. A period of observation is recom­
+mended before surgical intervention is considered.
+MASTOIDITIS
+Mastoiditis is a potentially serious acute or chronic suppurative com­
+plication of otitis media, occurring in approximately 1–4 cases per 
+100,000 children younger than 2 years old. Life-­threatening complica­
+tions of mastoiditis are related to intracranial extension of the suppu­
+rative process. Mastoiditis begins with the development of hyperemia 
+A
+B
+C
+D
+Fig. 5.9  Examples of normal tympanic membrane (A) and of mild bulg­
+ing (B), moderate bulging (C), and severe bulging (D) of the tympanic 
+membrane from middle ear effusion. (From Kerschner J, Preciado D. 
+Otitis media. In: Kliegman R, ed. Nelson Textbook of Pediatrics. 21st ed. 
+Philadelphia: Elsevier; 2020:3419.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+96
+SECTION 2   Respiratory Disorders
+and edema of the mastoid process, which then progresses to a suppura­
+tive process that may produce demineralization and necrosis of bone, 
+abscess formation, and contiguous spread to intracranial or other head 
+and neck soft tissue areas. Mastoiditis with periosteitis indicates that 
+the infection has spread to the periosteum of the mastoid process and 
+manifests most commonly in children younger than 2 years, although 
+children of any age may be affected. Diagnosis typically relies on history 
+and physical examination findings. Otalgia, posterior ear pain, fever, 
+and otorrhea are frequent symptoms. Posterior auricular tenderness 
+and erythema, anterior-­inferior pinna protrusion, loss of the posterior 
+auricular crease, middle ear effusion, a bulging or perforated tympanic 
+membrane, and sagging of the posterior auditory canal wall are observ­
+able signs. Acute mastoid osteitis designates further spread of infection 
+causing bony trabeculae destruction. Mastoiditis may result in trans­
+verse sinus thrombosis (Fig. 5.10), hearing loss, and labyrinthitis.
+Petrositis occurs when the infection spreads medially to the petrous 
+portion of the temporal bone and manifests as eye pain secondary to 
+irritation of the ophthalmic branch of cranial nerve V (Fig. 5.11). Gra­
+denigo syndrome is the triad of ipsilateral orbital or facial pain, paral­
+ysis of the lateral rectus muscle, and suppurative otitis media. Rarely, 
+the infection can spread externally to musculature of the neck resulting 
+in a neck abscess (Bezold abscess).
+The pathogens responsible for mastoiditis are the same as those of 
+AOM, including S. pneumoniae and H. influenzae, though Pseudomo­
+nas and group A streptococci are also causative agents (Table 5.9). A 
+CT scan is usually diagnostic and reveals various stages of mastoid­
+itis, including mastoiditis with periostitis and mastoiditis with osteitis 
+with or without subperiosteal abscess. Treatment is based on the stage 
+and extent of disease. High-­dose intravenous antibacterials and myrin­
+gotomy with or without tympanostomy tube placement are important 
+therapeutic (for drainage) and diagnostic (for culture) procedures. If 
+there is no improvement after 2 days, mastoidectomy may be indicated. 
+Mastoidectomy with myringotomy and tympanostomy tube placement 
+is indicated if a subperiosteal abscess is present.
+CHOLESTEATOMA
+Cholesteatomas are cystlike growths of the middle ear or mastoid 
+formed by keratinizing squamous epithelial cells (Fig. 5.12) and can 
+be either congenital or acquired. Congenital cholesteatomas likely 
+A
+D
+B
+E
+C
+F
+Fig. 5.10  Transverse sinus thrombosis associated with otomastoiditis or middle ear disease. A patient with 
+otitis media, headache, and papilledema. Axial noncontrast (A) and contrast-­enhanced (B) CT of the head 
+through the level of the posterior fossa, axial magnetization transfer T1 precontrast (C) and postcontrast (D) 
+MRI scans, coronal T2 (E) and coronal multiple intensity projection image from a three-­dimensional time-­of-­
+flight magnetic resonance venogram (MRV) (F) were obtained. Note the dense appearance within the right 
+transverse sinus on the noncontrast CT study (arrow in A), with corresponding lack of contrast filling on the 
+postcontrast CT study (arrow in B). Corresponding T1 shortening is seen in the precontrast MRI (arrow in C), 
+with corresponding abnormal signal on the postcontrast images in keeping with clot or slow flow within the 
+region of the right transverse sinus or sigmoid sinus (arrow in D). Corresponding T2 prolongation is seen on 
+the coronal T2 image (arrow in E). Note the striking asymmetry of flow within the right posterior fossa dural 
+venous system or internal jugular vein on the right on the three-­dimensional time-­of-­flight MRV (arrows in F). 
+(From Coley BD, ed. Caffey’s Pediatric Diagnostic Imaging. 12th ed. Vol 1. Philadelphia: Elsevier; 2013:360.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+97
+CHAPTER 5  Earache
+result from epithelial cells implanted during otologic development 
+in utero. Acquired cholesteatomas are potential complications from 
+chronic otitis media or secondary to a deep retraction pocket (or 
+invagination) in the tympanic membrane. The condition can also 
+develop after tympanostomy tube placement. Cholesteatomas can 
+cause bony resorption by expansion, often to the mastoid, but occa­
+sionally intracranially with potentially life-­threatening consequences. 
+This condition should be suspected in children with history of chronic 
+otitis media, persistent otorrhea, and a tympanic membrane with a 
+retraction pocket or perforation with white debris overlying the area. 
+Cholesteatomas commonly present over the superior portion of the 
+tympanic membrane. Urgent otolaryngology consultation should be 
+obtained as delay in treatment can result in intracranial extension, 
+permanent hearing loss, facial nerve injury, and middle and inner 
+ear destruction.
+INTRACRANIAL COMPLICATIONS
+Meningitis, epidural or subdural empyema, brain abscess, and sigmoid 
+or lateral sinus thrombosis can develop as complications of acute or 
+chronic ear or mastoid infection. If suspected, imaging of the head 
+should be done prior to lumbar puncture to evaluate for hydrocephalus 
+or mass effect. Meningitis most commonly results from hematogenous 
+spread of the infection and is diagnosed by cerebrospinal fluid (CSF) 
+analysis and culture. Tympanocentesis should be performed for bacte­
+rial culture to aid in diagnosis and management choices. Brain abscess 
+can occur from direct extension of acute or chronic otitis media or can 
+develop adjacent to petrositis (Fig. 5.13). Clinical signs and symptoms 
+should lead one to suspect this complication, and diagnosis can be 
+made with CT or MRI. CSF for culture should be obtained to aid in 
+Fig. 5.11  Axial T2-­weighted MRI showing left mastoiditis and petrous 
+apicitis (arrows) as high signal in mastoid and petrous apex. (From Flint 
+PW, Haughey BH, Lund VJ, et al., eds. Cummings Otolaryngology Head 
+& Neck Surgery. 5th ed. Vol. 2. Philadelphia: Elsevier; 2010.)
+TABLE 5.9  Etiology of Acute Mastoiditis
+Bacteria
+Frequency
+Streptococcus pneumoniae
+10–51%
+Streptococcus pyogenes
+0–12%
+Staphylococcus aureus
+2–10%
+Pseudomonas aeruginosa
+∼10%
+Haemophilus influenzae
+2–3%
+No growth
+20–40%
+From Faria J, Chun R, Kerschner J. Acute mastoiditis. In: Kliegman 
+R, ed. Nelson Textbook of Pediatrics. 21st ed. Philadelphia: Elsevier; 
+2020:3432.
+S
+Fig. 5.12  A retraction-­pocket cholesteatoma of the posterosuperior 
+quadrant. The incus long process is eroded, which leaves the drum 
+adherent to the stapes head (S). An effusion is present in the middle 
+ear, and squamous debris emanates from the attic. (From Isaacson G. 
+Diagnosis of pediatric cholesteatoma. Pediatrics. 2007;120:603–608.)
+Fig. 5.13  Coronal enhanced T1-­weighted MRI of the patient show­
+ing enhancing tissue in left mastoid (white arrow) and temporal lobe 
+abscess with enhancing capsule (black arrow). (From Flint PW, Haughey 
+BH, Lund VJ, et al., eds. Cummings Otolaryngology Head & Neck Sur­
+gery. 5th ed. Vol 2. Philadelphia: Elsevier; 2010:1995.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+98
+SECTION 2   Respiratory Disorders
+directing therapy; culture may be negative depending on the location 
+and loculation of the abscess. Lateral sinus thrombosis, also known 
+as sigmoid sinus thrombosis, forms when infection from the adjacent 
+mastoid contacts and penetrates the venous wall and forms a thrombus. 
+Embolization of the thrombus can cause distal disease. These intracra­
+nial complications require broad-­spectrum antibacterials and con­
+sultation with otolaryngology and neurosurgery for possible surgical 
+interventions.
+   	 S U MMA RY  A N D  R E D  F L A G S
+A careful examination of the pinna, external auditory canal, and tym­
+panic membrane can identify most causes of ear pain. If findings are 
+normal, the clinician should consider pain referred from another 
+source (see Table 5.3). Because young children may have trouble local­
+izing their pain, clinicians should be highly suspicious of ear disease in 
+any infant or preschool child with fever, irritability, or URI.
+Even though most conditions causing ear pain respond readily to 
+therapy, the clinician must be aware of the following red flags associ­
+ated with these conditions:
+ • Laterally displaced pinna (malignant otitis externa, mastoid oste­
+itis)
+ • Mastoid tenderness (mastoid osteitis)
+ • Perforated tympanic membrane
+ • A pearl-­like tumor in the tympanic membrane (cholesteatoma)
+ • Subacute headache, meningismus, and altered mental status (brain 
+abscess, subdural or epidural empyema)
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+98.e1
+BIBLIOGRAPHY
+Bernius M, Perlin D. Pediatric ear, nose, and throat emergencies. Pediatr Clin 
+North Am. 2006;53:195–214.
+Conover K. Earache. Emerg Med Clin North Am. 2013;31:413–442.
+Faria J, Chun R, Kerschner J. Acute mastoiditis. In: Kliegman R, ed. Nelson 
+Textbook of Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:3431–3434.
+Haddad J, Dodhia S. General considerations and evaluation of the ear. In: 
+Kliegman R, ed. Nelson Textbook of Pediatrics. 21st ed. Philadelphia: Else­
+vier; 2020:3408.
+Haddad J, Keesecker S. External otitis (otitis externa). In: Kliegman R, ed. Nel­
+son Textbook of Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:3414–3417.
+Hollis S, Evans K. Management of malignant (necrotizing) otitis externa. J 
+Laryngol Otol. 2011;125:1212–1217.
+Kaur R, Morris M, Pichichero M. Epidemiology of acute otitis me­
+dia in the postpneumococcal conjugate vaccine era. Pediatrics. 
+2017;140(3):e20170181.
+Kerschner J, Preciado D. Otitis media. In: Kliegman R, ed. Nelson Textbook of 
+Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:3418–3431.
+Lieberthal A, Carroll A, Chonmaitree T, et al. The diagnosis and management 
+of acute otitis media. Pediatrics. 2013;131:e964–e999.
+Molloy L, Barron S, Khan N, et al. Oral B-lactam antibiotics for pediat­
+ric otitis media, rhinosinusitis, and pneumonia. J Pediatr Health Care. 
+2020;34(3):291–300.
+Oliver A, Simpson E, Jerath R. A rare cause of ear pain in a young boy. J Pedi­
+atr. 2012;160:350.
+Puhakka T, Pulkkinen J, Silvennoinen H, et al. Comparison of spectral gradi­
+ent acoustic reflectometry and tympanometry for detection of middle ear 
+effusion in children. Pediatr Infect Dis J. 2014;33:e183–e186.
+Rosenfeld R, Schwartz S, Cannon C, et al. Clinical practice guideline: acute 
+otitis externa. Otolaryngol Head Neck Surg. 2014;150(IS):S1–S24.
+Rosenfeld R, Schwartz S, Pynnonen M, et al. Clinical practice guidelines: 
+tympanostomy tube in children. Otolaryngology-Head Neck Surg (Tokyo). 
+2013;149(IS):S1–S35.
+Rosenfeld R, Shin J, Schwartz S, et al. Clinical practice guideline: otitis 
+media with effusion (update). Otolaryngology-Head Neck Surg (Tokyo). 
+2016;154(IS):S1–S41.
+Van Zuijlen D, Schilder A, Van Balen F, et al. National differences in incidence 
+of acute mastoiditis: relationship to prescribing patterns of antibiotics for 
+acute otitis media? Pediatr Infect Dis J. 2001;20(2):140–144.
+Wald E, Conway J. Mastoiditis. In: Long, Prober, and Fischer’s Principles and 
+Practice of Pediatric Infectious Diseases. 5th ed. Philadelphia: Elsevier; 
+2018:225–230.
+Wald E, DeMuri G. Antibiotic recommendations for acute otitis media and 
+acute bacterial sinusitis. Pediatr Infect Dis J. 2018;37:1255–1257.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

@@ -1,0 +1,1060 @@
+1
+SECTION 1  Symptom-Based Diagnosis
+“Getting the right diagnosis is a key aspect of health care, as it 
+provides an explanation of a patient’s health problem and informs 
+subsequent health care decisions.”
+The Institute of Medicine; The National Academies of Sciences, Engi­
+neering, and Medicine, 2015
+At its core, medicine is committed to identifying, preventing, and 
+treating disease to maintain or restore health. Fundamental to this 
+commitment is diagnosis, the process of uncovering the cause of a 
+patient’s health-­related concerns. Patients rarely present to their phy­
+sicians with a diagnosis already identified, even with the widespread 
+and increasing availability of health-­related information and technol­
+ogy. Rather, patients present with a symptom: a subjective physical 
+finding, sensation, or phenomenon that indicates to them that they 
+may no longer be in their baseline state of health. A symptom may be 
+accompanied by a sign: an objective finding on physical examination, 
+laboratory investigation, or imaging study that indicates an abnormal 
+deviation from homeostasis. Some signs, like elevated blood pressure, 
+may not be associated with any noticeable symptoms. While not all 
+symptoms or signs denote underlying pathophysiology, their mere 
+presence is often unsettling to the person experiencing them, requiring 
+either reassurance in instances of benign etiologies or a specific diag­
+nosis and management plan in instances of pathology. Diagnosis is the 
+process by which the health care team uncovers the precise explanation 
+for those symptoms and signs so as to inform any subsequent health 
+care–related decisions. The diagnostic process is complex, iterative, col­
+laborative, often subject to revision, and fraught with the possibility 
+of diagnostic error, yet when properly engaged holds the potential for 
+restoring a patient to health.
+DIAGNOSIS: IT ALL STARTS WITH A SYMPTOM
+While asymptomatic individuals may have abnormalities detected on 
+screening investigations, most patients enter into the diagnostic process 
+by virtue of symptoms. With the exception of certain pathognomonic 
+findings, such as Koplik spots in measles, presenting features rarely 
+correlate directly and discretely to one individual disease process. It is 
+up to the diagnostician to methodically gather information, categoriz­
+ing and assigning importance to each historical and physical finding, 
+noting both what is present and what is absent, so that this informa­
+tion can define the patient’s phenotype, the unique constellation of 
+subjective and objective information indicating the functional health 
+status of the patient, how current physiology differs in ways that may 
+suggest pathology, and the context in which these changes are occur­
+ring. Establishing this phenotype is the starting point for developing a 
+structured working differential diagnosis, the possible diseases and 
+mechanisms by which the patient’s symptoms are produced, which 
+then drives additional investigation. This process is not random but 
+rather has evolved through years of collective experience and analysis 
+into the evidence-­based standard of care (Fig. 1.1). Advances in medi­
+cal science have been accompanied by refinements and improvements 
+in diagnosis, ranging from enhanced understanding of physiology, 
+allowing for more rapid and sophisticated identification of pathology, 
+to the development of diagnostic technologies, such as MRI, molecular 
+genetic assays, or the use of data aggregation and machine learning, 
+allowing for the implementation of artificial intelligence–assisted diag­
+nosis (Fig. 1.2).
+DIAGNOSIS AS AN ITERATIVE PROCESS
+Diagnosis is an iterative process, progressing in a stepwise fashion from 
+an undifferentiated primary medical concern, or chief complaint, to 
+an identified cause of the patient’s concerns with an associated man­
+agement plan. The iterative process often requires one to go back to 
+the beginning and, based on new data from the history, physical exam, 
+imaging, or diagnostic tests, to re-­evaluate the original hypothesis. 
+Regardless of the ways in which diagnostic techniques and modalities 
+have advanced over time, the fundamental components of diagnosis 
+remain relatively unchanged and begin with establishing the history of 
+the presenting concern.
+History
+The goal of obtaining the medical history is to develop a comprehensive 
+yet concise narrative summary of the patient’s primary health concern, 
+while placing that concern in the context of the patient’s past medical 
+history, determining what social and environmental factors may be 
+contributing to the patient’s health, eliciting which health conditions 
+may have a familial tendency, and delineating what other symptoms 
+or signs may be associated with the presenting concern. The scope of 
+history gathering during any patient encounter is highly individualized 
+and depends on both the clinician’s experience and the circumstances 
+of the encounter; for example, an annual health supervision visit in an 
+Disease Mimics: An Approach 
+to Undiagnosed Diseases
+Brett J. Bordini and Donald Basel
+1
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+2
+SECTION 1  Symptom-Based Diagnosis 
+outpatient clinic and an emergency department visit for acute lateral­
+ized weakness would generate vastly different sets of questions.
+While matching the pace and scope of history gathering to the 
+acuity of the patient’s presentation, the physician should conduct the 
+medical interview in a manner that establishes trust, confidence, and 
+rapport with the patient; creates sufficient space for the patient to tell 
+the story; and focuses on eliciting high-­yield information in a timely 
+fashion. To accomplish these aims, a combination of patient-­driven, 
+clinician-­driven, and evidence-­based medical interview techniques 
+are employed. Typically, these interview styles are not implemented 
+in isolation, but rather are blended to nurture conversational flow 
+while allowing for comprehensive information gathering. The patient-­
+centered portions focus on encouraging the patient to express what 
+is most important, while the clinician-­centered portions allow the 
+physician to expand, clarify, and refine the history so that it is both 
+comprehensive and specific. Evidence-­based elements allow for prob­
+ing aspects of the history and physical examination with higher-­yield 
+questions that help distinguish diagnostic possibilities with a high 
+likelihood from those with a lower likelihood. This discrimination is 
+best accomplished through the use of key pointer questions. These ques­
+tions are often disease or specialty specific and are designed to tease 
+out the nuances of relevant or pertinent information during history 
+taking. When deciding if a suggestive history and physical examina­
+tion are consistent with Kawasaki disease, a rheumatologist knows 
+to investigate not simply whether the patient does or does not have 
+conjunctivitis, but rather whether conjunctivitis is purulent (exclude), 
+nonpurulent (include), limbic sparing (include), or not (exclude). Such 
+questions leverage high likelihood ratios for crucial aspects of the his­
+tory and physical examination to allow for more rapid refinement of 
+the differential diagnosis (Fig. 1.3).
+In addition to providing crucial information regarding the patient’s 
+concerns, the medical history is an interactive process that allows the 
+clinician to establish rapport and hopefully to avoid scenarios in which 
+the patient or family state that the clinician “is a good doctor but never 
+listens to what I say.” Building trust, setting expectations, and estab­
+lishing the primacy of the patient-­clinician relationship can be just as 
+crucial as collecting informative data. Listening and being aware of 
+nonverbal cues such as vocal inflection and body language can inform 
+the data collection process as much as directive questioning. In some 
+cases, obtaining that critical piece of information is highly dependent 
+on the tone of the relationship between the two parties.
+The medical history, and the quality of data obtained from it, can also 
+be enhanced by the electronic medical record and the ways in which 
+technology has evolved to facilitate good patient care and a good patient 
+experience. Pre-­charting, or familiarizing oneself with what is already 
+known of the patient’s medical history, should be encouraged for any 
+Patient
+experiences
+a health
+problem
+Patient
+engages with
+health care
+system
+Communication
+of the diagnosis
+The explanation of
+the health problem
+that is communicated
+to the patient
+Clinical
+history and
+interview
+Physical
+exam
+Referral and
+consultation
+Diagnostic
+testing
+The planned path of
+care based on the
+diagnosis
+Patient and
+system outcomes
+Learning from
+diagnostic errors,
+near misses, and
+accurate, timely
+diagnoses
+Outcomes
+Treatment
+H
+a
+s
+ 
+s
+u
+ff
+ic
+i
+e
+n
+t 
+i
+n
+f
+o
+r
+m
+at
+i
+o
+n
+ 
+b
+e
+e
+n
+ 
+c
+o
+ll
+e
+c
+t
+e
+d
+?
+In
+fo
+r
+m
+at
+io
+n 
+in
+te
+gr
+at
+io
+n
+&
+ i
+nt
+e
+r
+p
+r
+et
+at
+io
+n
+g
+at
+h
+er
+in
+g
+In
+fo
+r
+m
+at
+io
+n
+di
+a
+g
+n
+o
+si
+s
+W
+or
+ki
+n
+g
+Fig. 1.1  An overview of the diagnostic process. (From Balogh EP, Miller BT, Ball JR, Committee on Diagnostic 
+Error in Health Care; Board on Health Care Services; Institute of Medicine. Improving Diagnosis in Health 
+Care. Washington, DC: National Academies Press; December 29, 2015: Fig. 2.1.)
+A century ago:
+Diagnostic standard:
+Bedside observation
+Technologic test
+Modern times:
+Classic rash (measles, zoster,
+  lupus)
+Neurology (Bell palsy,
+  peripheral neuropathy)
+Infection (otitis media, scarlet fever)
+Immune (Kawasaki disease)  
+Bedside observation
+is diagnostic standard
+Technologic test
+or imaging
+is diagnostic standard
+Fig. 1.2  The evolution of the diagnostic evaluation over time and 
+with advances in diagnostic technology. (Modified from McGee S. 
+Evidence-­Based Physical Diagnosis. 3rd ed. Philadelphia: Elsevier; 
+2012.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+3
+CHAPTER 1  Disease Mimics: An Approach to Undiagnosed Diseases
+nonurgent health visit, as a comprehensive chart review can save a sig­
+nificant amount of time during the patient encounter and can create an 
+immediate sense of clinician engagement for the patient, wherein the 
+patient knows that the physician has taken an interest in and has an imme­
+diate knowledge of the past history. This preparatory information should 
+always be confirmed though, as diagnostic labels and medical problem 
+lists can sometimes be inaccurate and perpetuate incorrect information 
+about the patient that can increase the risk of diagnostic error.
+Physical Examination
+While advances in medical technology have changed the degree to 
+which diagnosis is solely reliant on physical examination findings, 
+comprehensive physical examination remains a cornerstone in iden­
+tifying key phenotypic features that can then be further informed by 
+applying appropriate technologic testing (see Fig. 1.2). The office visit 
+is a snapshot in time of the person being evaluated, and not all perti­
+nent features are necessarily present for this evaluation: a fever noted 
+at home may resolve or a rash may fade by the time of the appoint­
+ment; new features may evolve following the medical evaluation. These 
+reported findings, even if not present during the actual physical exam­
+ination, should still be considered in the diagnostic formulation, given 
+that many diseases and their associated findings are dynamic.
+When examining a patient, the traditional dichotomous concept 
+of “positive” and “negative” findings either supporting or negating the 
+possibility of a diagnosis remains important; however, the presence or 
+absence of findings is not weighted equally and requires the application 
+of evidence to determine significance. When evaluating the signifi­
+cance of a finding or result of a test, there are four concepts to consider: 
+Create a working
+differential diagnosis
+Data gathered
+from physical
+examination
+Review working
+differential diagnosis
+Narrow options with
+high LR
+Exclude from working
+differential diagnosis
+Choose relevant
+investigations with
+high sensitivity and
+specificity for primary
+working diagnosis
+Data to support
+current working
+diagnosis
+“Key
+pointer”
+questions
+Yes
+Yes
+No
+No
+Review options to
+exclude with low LR
+Pattern
+recognition
+History of presenting
+complaint
+EMR review
+Collaborative
+narrative
+Review pretest
+probabilities
+System 1
+process
+Fig. 1.3  The use of “key pointer” questions in developing a deliberate and analytical diagnosis. EMR, elec­
+tronic medical record; LR, likelihood ratio.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+4
+SECTION 1  Symptom-Based Diagnosis 
+pretest probability, sensitivity, specificity, and likelihood ratios (Figs. 
+1.4 and 1.5).
+Pretest Probability
+The pretest probability is the general prevalence of the condition within 
+the patient population being evaluated. In this context it is the popula­
+tion risk prior to any bias of the examination or testing.
+Sensitivity
+Sensitivity refers to the ability of a test to correctly identify the presence 
+of disease in a population of people who are affected by the disease.
+Specificity
+Specificity refers to the ability of a test to accurately identify the absence 
+of disease through a negative test result.
+Pretest probability
+0.001
+0.002
+0.003
+0.005
+0.007
+0.01
+0.02
+0.03
+0.05
+0.07
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+0.93
+0.95
+0.97
+0.98
+0.99
+0.993
+0.995
+0.997
+0.998
+0.999
+Post-test probability
+0.999
+0.998
+0.997
+0.995
+0.993
+0.99
+0.98
+0.97
+0.95
+0.93
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.07
+0.05
+0.03
+0.02
+0.01
+0.007
+0.005
+0.003
+0.002
+0.001
+LR
+1000
+500
+200
+100
+50
+20
+10
+5
+2
+1
+0.5
+0.2
+0.1
+0.05
+0.02
+0.01
+0.005
+0.002
+0.001
+Diagnostic
+sensitivity
+0.999
+Test +
+Test –
+0.001
+0.999
+0.002
+0.998
+0.003
+0.997
+0.005
+0.995
+0.007
+0.993
+0.01
+0.99
+0.02
+0.98
+0.03
+0.97
+0.05
+0.95
+0.07
+0.93
+0.1
+0.9
+0.2
+0.8
+0.3
+0.7
+0.4
+0.6
+0.5
+0.5
+0.6
+0.4
+0.7
+0.3
+0.8
+0.2
+0.9
+0.1
+0.001
+Diagnostic
+specificity
+Test +
+Test –
+0.001
+0.999
+0.5
+0.5
+0.4
+0.6
+0.3
+0.7
+0.2
+0.8
+0.1
+0.9
+0.7
+0.3
+0.6
+0.4
+0.8
+0.2
+0.9
+0.1
+0.95
+0.05
+0.93
+0.07
+0.97
+0.03
+0.98
+0.02
+0.993
+0.007
+0.99
+0.01
+0.995
+0.005
+0.997
+0.003
+0.998
+0.002
+0.999
+0.001
+Fig. 1.4  The extended Fagan nomogram for the use of likelihood ratios and pretest probability to determine 
+post-­test probability according to Bayes’ theorem. LR, likelihood ratio.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+5
+CHAPTER 1  Disease Mimics: An Approach to Undiagnosed Diseases
+Likelihood Ratio
+Likelihood ratios (LRs) synthesize sensitivity and specificity of exam­
+ination findings or test results to inform the probability of the presence 
+or absence of disease for the individual patient. The greater the absolute 
+value of the LR, the higher the clinical utility of the test in establishing 
+or excluding a particular disease. Thus, it could be seen as a measure 
+of how “useful” a particular test is in the context of the diagnosis in 
+question. Considered from a diagnostic perspective, it is also a measure 
+of the likelihood of the presence or absence of disease in a patient after 
+the test has been performed (i.e., the post-­test probability of a specific 
+diagnosis). The accuracy of an LR is entirely dependent on the quality 
+of data used to generate the LR.
+Relying purely on clinical findings, without the aid of additional 
+testing, can on occasion lead the physician to the wrong diagnosis. 
+Fever, cough, rhinorrhea, abdominal pain, headache, tonsillar exudate, 
+and palatal petechiae all have low sensitivity and specificity when con­
+sidering streptococcal pharyngitis, despite being common findings in 
+patients with streptococcal pharyngitis. The positive predictive value 
+of these signs and symptoms is no more than 50%; other clinical fea­
+tures carry more diagnostic weight: sore throat, tonsillar swelling, ante­
+rior cervical adenopathy, and scarlatiniform rash have all been shown 
+to have a significant correlation with culture-­positive group A β-­
+hemolytic streptococcal pharyngitis. Therefore, it is important to focus 
+on features with high likelihood ratios when formulating differential 
+diagnoses and testing strategies. When doing so, it may be tempting to 
+aggregate likelihood ratios into clinical reasoning, using the post-­test 
+probability of one finding to serve as the pretest probability for the next 
+finding, but when using these tools, each point needs to be considered 
+in isolation and cannot be cascaded to inform one another. In addi­
+tion, diseases are often complex, and thinking of disease paradigms as 
+either present or absent does not account for the real-­life variability in 
+clinical presentation and severity that results from the unique inter­
+play between the patient’s individual health status and the dynamic 
+nature of many diseases. It is precisely this interplay that can lead to 
+certain unrelated disorders presenting with similar features (mimic), 
+or the same disorder presenting differently in different patients or 
+with changing features over time in the same patient (chameleon). 
+An example of considering mimics in the differential diagnosis while 
+looking for distinguishing features is noted in Table 1.1. An example of 
+the same disease with different manifestations acting as chameleons is 
+noted in Table 1.2. At the gene level there are multiple genes produc­
+ing the Noonan phenotype, while one gene (ADA-­2 deficiency) may 
+Disease present
+a
+c
+b
+d
+Sign present
+Sign absent
+Disease absent
+Sensitivity
+Specificity
+Positive
+predictive value
+Negative
+predictive value
+Accuracy
+Likelihood ratio:
+Positive test
+Negative test
+a/ (a+c)
+d/ (b+d)
+a/ (a+b)
+d/ (c+d)
+(a+d)/ (a+b+c+d)
+Sensitivity/ (1-specificity)
+(1-sensitivity)/ specificity
+Fig. 1.5  Formulas used to calculate sensitivity, specificity, positive 
+predictive value, negative predictive value, accuracy, and likelihood 
+ratios.
+TABLE 1.1  MRI Red Flags for the Diagnosis of Children with Acquired Demyelinating 
+Syndromes
+MRI Finding
+Differential Diagnosis
+Distinguishing Features
+Leptomeningeal 
+enhancement
+SVcPACNS
+Infection
+Tumor
+HLH
+Leptomeningeal enhancement is not a feature of MS in adults and emerged as a red flag for vasculitic 
+or malignant processes in the pediatric cohort.
+Lesion expansion
+Tumor
+Lymphoma
+PML
+Sarcoidosis
+Increased size of T2 lesions on serial imaging is well recognized in MS, although this should always 
+prompt consideration of malignancy. Increasing size of a white matter–predominant lesion without 
+lesion enhancement in a patient treated with immunosuppressant therapy (or a patient with known 
+HIV) should prompt consideration of PML. PML is a risk for MS patients exposed to more intense 
+immunosuppressive therapies.
+Hemorrhage
+ANE
+Stroke
+Cerebellitis
+AHLE
+Large-­vessel CNS vasculitis
+SVcPACNS
+Although susceptibility-­weighted imaging reveals tiny microfoci of hemosiderin in MS patients, 
+hemorrhage large enough to be visible on conventional MRI sequences is not a feature of ADS or 
+MS and should prompt consideration of disorders in which the cerebral vasculature is specifically 
+involved.
+ADS, acquired demyelinating syndrome; AHLE, acute hemorrhagic leukoencephalitis; ANE, acute necrotizing encephalopathy; CNS, central nervous 
+system; HLH, hemophagocytic lymphohistiocytosis; MS, multiple sclerosis; PML, progressive multifocal leukoencephalopathy; SVcPACNS, small-­
+vessel childhood primary angiitis of the central nervous system.
+From O’Mahony J, Shroff M, Banwell B. Mimics and rare presentations of pediatric demyelination. Neuroimag Clin N Am. 2013;23(2):321–336 
+(Table 2, p. 323).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+6
+SECTION 1  Symptom-Based Diagnosis 
+produce what appears as unrelated phenotypes (stroke, cytopenias, 
+intestinal lesions). The application of sensitivity, specificity, and LRs 
+thus needs to be judicious, with insight into what is being offered to aid 
+the question at hand. Applied appropriately, these tools offer an estab­
+lished methodology for adjusting disease probability in the context of a 
+specific defined parameter (see Fig. 1.4).
+Physical examinations have two paradigms, one in which no addi­
+tional evidence is required and one that is reliant on advanced testing. 
+Certain presenting disorders remain clinical diagnoses. The diagnosis 
+of otitis media relies on clinical features: the presence of fever along 
+with an erythematous tympanic membrane that has limited mobility 
+on pneumatic otoscopy or a middle ear effusion on visual inspection. 
+Conversely, the definitive diagnosis of a structural malformation in 
+congenital heart disease requires advanced imaging technology such 
+as an echocardiogram to accurately make the diagnosis. When there is 
+a recognized standard-­of-­care evaluation or investigation that is code­
+pendent on the physical findings to achieve a clear clinical diagnosis, 
+this element of the physical examination is considered evidence based. 
+When considering the example of an adolescent biological male pre­
+senting to the emergency room with right-­sided lower quadrant pain, 
+requesting a pregnancy test is unlikely to yield an informative result as 
+pretest probability is negligible. Rather, applying appropriate clinical 
+reasoning and looking for information to support a more decisive diag­
+nosis may lead to the consideration of appendicitis (Fig. 1.6).
+Incorrect application of these diagnostic aids or inaccurate assim­
+ilation of phenotypic data forms the basis of diagnostic error. High-­
+quality information, properly synthesized, is important. Diagnostic 
+aids such as artificial intelligence (e.g., machine learning), even when 
+using natural language processing algorithms, require accurate subjec­
+tive and objective phenotypic data to perform well.
+DIAGNOSIS AS A COLLABORATIVE PROCESS AND 
+THE TEAM-­BASED APPROACH
+The success of any diagnostic endeavor depends on the nature of the 
+relationship forged with the patient, any of the patient’s family mem­
+bers or caregivers, and the health care team. The value of any subjec­
+tive information gathered, whether it be the narrative history of the 
+primary medical concern, the features and nuances of symptoms, the 
+context of any associated signs, or the impact on daily life, depends on 
+the strength of that relationship and the quality of communication that 
+relationship affords.
+The success of this team-­based approach to diagnosis extends 
+beyond the physician, patient, and the patient’s family and caregiv­
+ers. When presentations are atypical or when patients have endured 
+diagnostic delays or diagnostic errors, incorporating other health care 
+providers into the patient’s care team enhances diagnostic accuracy 
+beyond that achieved even by individual experienced expert clini­
+cians. The primary aphorism that should drive the evaluation of every 
+patient is that “none of us is as smart as all of us”; indeed, collective 
+intelligence-­based medical decision-­making has consistently and sig­
+nificantly outperformed even the most accurate single diagnostician 
+in certain clinical contexts. To the degree possible, each patient evalu­
+ation team should be composed of individuals from a wide breadth of 
+disciplines and perspectives so as to broaden the collective knowledge 
+base and solicit a variety of perspectives on pathophysiology and differ­
+ential diagnoses that may not have otherwise been considered had the 
+patient been evaluated in individual specialty settings. This collabora­
+tive and more deliberate approach to diagnosis additionally encourages 
+the generation of multiple diagnostic hypotheses and testing strategies. 
+The end goal and product of this process is the group phenotype, 
+in which the evaluation team has collectively—as a group—analyzed 
+the patient’s primary concerns, physical findings, and objective data 
+into discrete phenotypic phenomena. These phenomena can then be 
+explored further in attempts to uncover hypothesized underlying and 
+unifying pathophysiologic mechanisms that can be investigated with 
+further testing.
+Diagnostic Error
+Despite the best efforts and intentions of the health care team, the diag­
+nostic process is at risk for error: depending on the clinical setting, 
+diagnostic errors have been identified in up to 15% of patient encoun­
+ters. Diagnostic error may consist of a missed, delayed, or wrong diag­
+nosis, and the error may be attributable to faults within the structure 
+and function of the health care system, such as the unavailability or 
+inaccuracy of a particular diagnostic modality, or to factors beyond the 
+control of the patient or clinician (e.g., “no fault” error), such as a dis­
+ease process presenting with such atypical or subtle features as to com­
+pletely preclude proper diagnosis. Most diagnostic error is attributable 
+to cognitive errors related to cognitive bias.
+Dual process theory holds that clinicians engaging in medical 
+reasoning typically utilize either a predominantly intuitive approach, 
+termed a system 1 process, or a more analytical approach, termed a 
+system 2 process. System 1 processes are based in heuristics, which 
+rely on pattern recognition and rules of thumb to rapidly sort large 
+amounts of clinical information into an illness script that allows for the 
+TABLE 1.2  Guillain-­Barré and Miller Fisher 
+Syndromes and Their Subtypes
+Guillain-­Barré Syndrome
+ • Paraparetic variant*
+ • Pharyngeal-­cervical-­brachial weakness*
+Acute pharyngeal weakness* †
+ • Bifacial weakness with paraesthesias*
+Miller Fisher Syndrome
+ • Acute ataxic neuropathy†
+ • Acute ophthalmoparesis†
+ • Acute ptosis†
+ • Acute mydriasis†
+ • Bickerstaff brainstem encephalitis‡
+Acute ataxic hypersomnolence† ‡
+*Localized forms.
+†Incomplete forms.
+‡Central nervous system form.
+From Wakerley BR, Yuki N. Mimics and chameleons in Guillain-­Barré 
+and Miller Fischer syndromes. Pract Neurol. 2015;15:90–99, Box 1, p. 
+91.
+0.1
+Alvarado score, 4 or less
+–45% –30% –15%
+Probability
+APPENDICITIS
+Decrease
+Increase
++15% +30% +45%
+McBurney point tenderness
+Alvarado score, 7 or more
+Rovsing sign
+Psoas sign
+Absence of severe right lower
+quadrant tenderness
+Absence of McBurney point tenderness
+LRs
+LRs
+0.2
+0.5
+2
+5
+10
+1
+Fig. 1.6  Clinical evidence-­based evaluation of the likelihood of appen­
+dicitis. LR, likelihood ratio. (From McGee S. Evidence-­Based Physical 
+Diagnosis. 3rd ed. Philadelphia: Elsevier; 2012.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+7
+CHAPTER 1  Disease Mimics: An Approach to Undiagnosed Diseases
+quick elaboration of a diagnosis. System 2 processes, on the other hand, 
+rely on deliberate counterfactual reasoning and hypothesis generation 
+tailored to individual patient circumstances to arrive at a more robust 
+differential diagnosis. While clinicians predominantly engage system 1 
+processes and achieve relatively accurate diagnoses for most patients 
+under most circumstances, heuristics can fail when patient presenta­
+tions are multisystem, atypical, complex, or evolving, instead becoming 
+a form of bias that can result in diagnostic error (Table 1.3). Biases may 
+also be the result of errors of attribution, in which perceived charac­
+teristics or motivations of patients, family members, or members of 
+the medical evaluation team are given undue weight in the diagnostic 
+formulation. These factors can influence the affective state of the clini­
+cian and the integrity of cognition, increasing the likelihood of error. 
+Examples of attribution-­related errors are listed in Table 1.4.
+Cognitive bias may also be a product of the context in which a diag­
+nostic evaluation takes place. With context-­related biases, the setting 
+of the diagnostic evaluation influences how clinicians perceive and 
+process the information used in medical decision-­making. External 
+factors such as an increased patient volume, higher patient acuity, or 
+staffing shortages, as well as internal factors such as sleep deprivation, 
+stress, and physician burnout, can amplify individual cognitive bur­
+den and increase the likelihood of diagnostic error. Independent of 
+cognitive burden, context can introduce bias by causing physicians to 
+consciously or subconsciously de-­emphasize relevant information and 
+amplify impertinent information while formulating a diagnosis. Most 
+common among context-­related biases is the framing effect, in which 
+the manner or setting of a patient’s presentation implicitly restricts the 
+breadth of differential diagnoses considered. This framing effect is often 
+more prominent in contexts where patient handoffs occur frequently 
+and diagnostic labels can take on an independent momentum, leaving 
+little opportunity for physicians to challenge their appropriateness, or 
+in specialty care settings, where patient symptoms are more likely to be 
+considered primarily within the scope of that specialty’s pathophysio­
+logic mechanisms. Specialty-­specific settings may also increase the risk 
+of availability bias, in which familiar and more frequently encountered 
+diagnoses are more readily recalled and are given greater weight in the 
+differential diagnosis. When framing effects and availability heuristics 
+are invoked early, they may perpetuate anchoring biases and result in a 
+diagnostic momentum that precludes consideration of alternate diag­
+noses, producing both erroneous diagnoses and significant delays in 
+proper diagnosis. Further examples of context-­related biases are listed 
+in Table 1.5.
+The Well-­Calibrated Diagnostician
+Effective diagnosis extends beyond applying factual recall to the infor­
+mation gathered from a standardized medical history and instead 
+requires the integration of experiential knowledge with individualized 
+information derived from the patient, family, members of the care 
+team, and diagnostic testing to develop diagnostic considerations based 
+on evidence. The general challenge is being able to access information 
+quickly, at the appropriate time, and in a manner that enables seamless 
+patient care. It is not uncommon that clinicians need to engage these 
+more analytical diagnostic approaches while simultaneously focusing 
+on and reacting to tenuous physiology in a critically ill patient. Under 
+circumstances such as these, determining whether the patient warrants 
+a more deliberate, analytical evaluation may be difficult. Confidence 
+TABLE 1.3  Cognitive Biases Related to Heuristic Failure
+Bias
+Definition
+Anchoring
+Locking into a diagnosis based on initial presenting features, failing to adjust diagnostic impressions when new information becomes 
+available
+Confirmation bias
+Looking for and accepting only evidence that confirms a diagnostic impression, rejecting or not seeking contradictory evidence
+Diagnostic momentum
+Perpetuating a diagnostic label over time, usually by multiple providers both within and across health care systems, despite the label 
+being incomplete or inaccurate
+Expertise bias/yin-­
+yang out
+Believing that a patient who has already undergone an extensive evaluation will have nothing more to gain from further investigations, 
+despite the possibility that the disease process or diagnostic techniques may have evolved so as to allow for appropriate diagnosis
+Overconfidence bias
+Believing one knows more than one does, acting on incomplete information or hunches, and prioritizing opinion or authority as opposed 
+to evidence
+Premature closure
+Accepting the first plausible diagnosis prior to obtaining confirmatory evidence or considering all available evidence; “when the diagnosis 
+is made, thinking stops”
+Unpacking principle
+Failing to explore primary evidence or data in its entirety and subsequently failing to uncover important facts or findings, such as accept­
+ing a biopsy report or imaging study report without reviewing the actual specimen or image
+TABLE 1.4  Cognitive Biases Related to Errors of Attribution
+Bias
+Definition
+Affective bias
+Allowing emotions to interfere with a diagnosis, either positively or negatively; dislikes of patient types (e.g., “frequent flyers”)
+Appeal to authority
+Deferring to authoritative recommendations from senior, supervising, or “expert” clinicians, independent of the evidentiary support for 
+such recommendations
+Ascertainment bias
+Maintaining preconceived expectations based on patient or disease stereotypes
+Countertransference
+Being influenced by positive or negative subjective feelings toward a specific patient
+Outcome bias
+Minimizing or overemphasizing the significance of a finding or result, often based on subjective feelings about a patient, a desired 
+outcome, or personal confidence in one’s own clinical skills; the use of “slightly” to describe abnormal results
+Psych-­out bias
+Maintaining biases about people with presumed mental illness
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+8
+SECTION 1  Symptom-Based Diagnosis 
+in a proposed or working diagnosis may bias or impede consideration 
+for a more appropriate diagnosis. The degree of concordance between 
+diagnostic confidence and diagnostic accuracy is termed diagnostic 
+calibration. Given the magnitude of this challenge, in the context of a 
+busy service, be it the intensive care unit, emergency room, or routine 
+office visit in the middle of a pandemic, a variety of cognitive biases 
+may result in poor diagnostic calibration, as a result of either bias-­
+induced overconfidence or cognitive burden–related complacency, in 
+which a clinician may be aware of the possibility of diagnostic error but 
+underestimates or trivializes its frequency or impact. One mechanism 
+to avoid such diagnostic errors is the diagnostic timeout. When the 
+natural history or progression of an illness fails to conform to the orig­
+inal diagnosis, or when new physical examination, laboratory, or imag­
+ing findings contradict that diagnosis or suggest alternate diagnoses, 
+the entire diagnostic formulation must be re-evaluated without being 
+anchored to the original and possibly wrong diagnosis (Table 1.6).
+These biases may interfere with the ability to recognize when a 
+patient’s physiology or response to treatment fails to support the 
+proposed diagnosis, such as when a child with known asthma does not 
+respond to bronchodilation in the treatment room and aspiration of a 
+foreign body is not considered, or when difficulty ventilating indicates 
+interstitial lung disease or surfactant protein deficiency as opposed to 
+bronchopulmonary dysplasia in a neonate. Revisiting the initial work­
+ing diagnosis and reassessing when these red flags indicate a parallel 
+diagnosis is an essential part of nurturing the skills required to being a 
+well-­calibrated diagnostician.
+   	 S U MMA RY  A N D  R E D  F L A G S
+Diagnosis most often begins with a symptom and is a complex, iter­
+ative, and collaborative process. Despite the incorporation of evi­
+dence-based tools, the risk of diagnostic error is always present and 
+most often results from cognitive biases that can lead the clinician 
+to de-­emphasize relevant clinical information or overemphasize 
+impertinent findings. The path from symptom to diagnosis is rarely 
+straightforward, and it is improved by building strong relationships 
+with patients, employing a team-­based approach whenever possible, 
+and being aware of the cognitive biases that can increase the risk of 
+diagnostic error. Clinicians should also be aware of and consider 
+rarer disorders that may mimic more common diseases, as well as 
+atypical, variable, or slowly evolving presentations of common dis­
+eases (chameleons). When presentations are complex or confounding, 
+pausing the diagnostic process to engage more deliberate analytical 
+approaches is warranted. One must always consider the complexity 
+of the diagnostic process and emphasize the importance of develop­
+ing a differential diagnosis that includes common disorders, atypical 
+presentations, imitative mimics, and rare zebras.
+   
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+TABLE 1.5  Cognitive Biases Related to Errors of Context
+Bias
+Definition
+Availability bias
+Basing decisions on the most recent patient with similar symptoms, preferentially recalling recent and more common diseases
+Base-­rate neglect
+Over-­ or underestimating the prevalence of a disease, typically overestimating the prevalence of common diseases and underestimat­
+ing the prevalence of rare diseases
+Framing effect
+Being influenced by how or by whom a problem is described, or by the setting in which the evaluation takes place
+Frequency bias
+Believing that common things happen commonly and are usually benign in general practice
+Hindsight bias
+Reinforcing diagnostic errors once a diagnosis is discovered in spite of these errors; may lead to clinicians overestimating the efficacy 
+of their clinical reasoning and may reinforce ineffective techniques
+Posterior probability error
+Considering the likelihood of a particular diagnosis in light of a patient’s prior or chronic illnesses (new headaches in a patient with a 
+history of migraines may in fact be a tumor)
+Representative bias
+Basing decisions on an expected typical presentation; not effective for atypical presentations; overemphasis on disease diagnostic 
+criteria or “classic” presentations; “looks like a duck, quacks like a duck”
+Sutton’s slip
+Ignoring alternate explanations for “obvious” diagnoses (Sutton’s law is that one should first consider the obvious)
+Thinking in silo
+Restricting diagnostic considerations to a particular specialty or organ system; each discipline has a set of diseases within its comfort 
+zone, which reduces diagnostic flexibility or team-­based communication
+Zebra retreat
+Lacking conviction to pursue rare disorders even when suggested by evidence
+TABLE 1.6  Diagnostic Timeout
+ • Identify the clinical issues, dilemmas, or concerns needing a timeout.
+ • Remove all previous diagnoses and re-­examine all labs, imaging, and 
+other information including the history and physical exam.
+ • Did we consider the risks of heuristic (intuitive) thinking? (See Table 1.3.)
+ • Do we have biases? (See Tables 1.4 and 1.5.)
+ • What are the diseases we must not miss?
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+8.e1
+BIBLIOGRAPHY
+Balogh EP, Miller BT, Ball JR, eds. Committee on Diagnostic Error in Health 
+Care, Board on Health Care Services, Institute of Medicine, the National 
+Academies of Sciences, Engineering, and Medicine. Improving Diagnosis in 
+Health Care. National Academies Press (US); 2015.
+Barnett ML, Boddupalli D, Nundy S, et al. Comparative accuracy of diagnosis 
+by collective intelligence of multiple physicians vs individual physicians. 
+JAMA Netw Open. 2019;2(3):e190096.
+Berkwitt A, Grossman M. Cognitive bias in inpatient pediatrics. Hosp Pediatr. 
+2014;4(3):190–193.
+Berner ES, Graber ML. Overconfidence as a cause of diagnostic error in medi­
+cine. Am J Med. 2008;121(suppl 5):S2–S23.
+Bordini BJ, Stephany A, Kliegman R. Overcoming diagnostic errors in medical 
+practice. J Pediatr. 2017;185:19–­25.e1.
+Brenner H, Gefeller O. Variation of sensitivity, specificity, likelihood ratios, 
+and predictive values with disease prevalence. Stat Med. 1997;16:981–991.
+Croskerry P. Bias: a normal operating characteristic of the diagnosing brain. 
+Diagnosis. 2014;1(1):23–27.
+Custer JW, Winters BD, Goode V, et al. Diagnostic errors in the pediatric and 
+neonatal ICU: a systematic review. Pediatr Crit Care Med. 2015;16(1):29–
+36.
+Ely JW. Preventing diagnostic errors in primary care. Amer Family Phys. 
+2016;94(6):426–432.
+Fagan TJ. Letter: nomogram for Bayes theorem. N Engl J Med. 1975;293:253.
+Grimmes DA, Schulz KF. Refining clinical diagnosis with likelihood ratios. 
+Lancet. 2005;365:1500–1505.
+Henderson M, Tierney L, Smetana GW, et al. The Patient History: Evidence-­
+Based Approach. 2nd ed. McGraw-­Hill Education/Medical; 2012. 
+ISBN-­10: 0071624945.
+Kämmer JE, Hautz WE, Herzog SM, et al. The potential of collective 
+intelligence in emergency medicine: pooling medical students’ indepen­
+dent decisions improves diagnostic performance. Med Decis Making. 
+2017;37(6):715–724.
+Kohn LT, Corrigan JM, Donaldson MS, eds. Institute of Medicine (US) Com­
+mittee on Quality of Health Care in America. To Err Is Human: Building a 
+Safer Health System. National Academies Press (US); 2000.
+Kurvers RHJM, Herzog SM, Hertwig R, et al. Boosting medical diag­
+nostics by pooling independent judgments. Proc Natl Acad Sci USA. 
+2016;113(31):8777–8782.
+Kurvers RHJM, Krause J, Argenziano G, et al. Detection accuracy of collective 
+intelligence assessments for skin cancer diagnosis. JAMA Dermatol. 
+2015;151(12):1346–1353.
+Lighthall GK, Vazquez-­Guillamet C. Understanding decision making in criti­
+cal care. Clin Med Res. 2015;13(3–­4):156–168.
+Lin MH, Fong WK, Chang PF, et al. Predictive value of clinical features in dif­
+ferentiating group A beta-­hemolytic streptococcal pharyngitis in children. 
+J Microbiol Immunol Infect. 2003;36(1):21–25.
+Mamede S, Gog T van, Berge K van den, et al. Effect of availability bias and 
+reflective reasoning on diagnostic accuracy among internal medicine 
+residents. J Am Med Assoc. 2010;304(11):1198–1203.
+Mandin H, Harasym P, Eagle C, et al. Developing a “clinical presentation” curricu­
+lum at the University of Calgary. Acad Med. 1995;70(3):186–193.
+Marsicek SM, Odom B, Woodard A, et al. Time for a time-­out: the value of 
+a diagnostic time-­out in prolonged fever and lymphadenopathy. Hospital 
+Pediatr. 2019;9(2):139–141.
+McDonald CJ. Medical heuristics: the silent adjudicators of clinical practice. 
+Ann Intern Med. 1996;124(1 Pt 1):56–62.
+Mcgee S. Evidence-­Based Physical Diagnosis. 3rd ed. Elsevier; 2012. ISBN-­10: 
+1437722075.
+Moayyeri A, Soltani A, Moosapour H, et al. Evidence-­based history taking 
+under “time constraint.” J Res Med Sci. 2011;16(4):559–564.
+Moons KG, van Es GA, Deckers JW, et al. Limitations of sensitivity, specificity, 
+likelihood ratio, and Bayes’ theorem in assessing diagnostic probabilities: a 
+clinical example. Epidemiology. 1997;8:12–17.
+Norman G. Dual processing and diagnostic errors. Adv Health Sci Educ Theory 
+Pract. 2009;14(suppl 1):37–49.
+O’Mahony J, Shroff M, Banwell B. Mimics and rare presentations of pediatric 
+demyelination. Neuroimag Clin N Am. 2013;23(2):321–336.
+Rajkomar A, Dhaliwal G. Improving diagnostic reasoning to improve patient 
+safety. Perm J. 2011;15(3):68–73.
+Reiswich A, Haag M. Evaluation of chatbot prototypes for taking the virtual 
+patient’s history. Stud Health Technol Inform. 2019;260:73–80.
+Sackett DL, Haynes RB, Guyatt GH, et al. A Basic Science for Clinical Medicine. 
+New York: Little, Brown and Co.; 1991:109–167. Clinical Epidemiology.
+Saposnik G, Redelmeier D, Ruff CC, et al. Cognitive biases associated with 
+medical decisions: a systematic review. BMC Med Inform Decis Mak. 
+2016;16:138.
+Sweller J. Cognitive load theory, learning difficulty, and instructional design. 
+Learn InStruct. 1994;4(4):295–312.
+Wakerley BR, Yuki N. Mimics and chameleons in Guillain-­Barré and Miller 
+Fischer syndromes. Pract Neurol. 2015;15:90–99.
+Wolf M, Krause J, Carney PA, et al. Collective intelligence meets medical 
+decision-­making: the collective outperforms the best radiologist. PloS One. 
+2015;10(8):e0134269.
+Woloschuk W, Harasym P, Mandin H, et al. Use of scheme-­based problem 
+solving: an evaluation of the implementation and utilization of schemes in 
+a clinical presentation curriculum. Med Educ. 2000;34(6):437–442.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

@@ -1,0 +1,2022 @@
+927
+Pancytopenia is defined by a decrease in all peripheral blood cell lines, 
+including leukocytes, red blood cells (RBCs), and platelets. All of these 
+cells are produced by the bone marrow, and therefore an evaluation 
+of the bone marrow is often required (Table 50.1). Aplastic anemia is 
+a serious cause of pancytopenia with multiple etiologies (Tables 50.2 
+and 50.3).
+Patients often present with fevers and infections related to leukocy­
+topenia and/or neutropenia, anemia (pallor, tachycardia), and throm­
+bocytopenia (bleeding, bruising, petechiae). In pediatrics, one must 
+consider the age of the patient for normal ranges of cell lines, as these 
+change with age (Table 50.4).
+HISTORY
+The predisposing risk factors for pancytopenia may help guide the 
+diagnostic approach (Tables 50.5 and 50.6).
+In addition to a thorough personal history review, a family history 
+should also include questions related to congenital anomalies, syn­
+dromes associated with leukemias, thalassemias, sickle cell disease, and 
+early or unusual childhood illnesses or death in relatives.
+Physical Findings
+Patients with isolated pancytopenia might present with evidence of 
+anemia and thrombocytopenia including pallor, petechiae, and pur­
+pura or with more severe hemorrhages. Additionally, if leukopenia or 
+neutropenia is present, they might present with mild or severe infec­
+tions. Symptoms such as fever, rhinorrhea, cough, congestion, conjunc­
+tivitis, lymphadenopathy, hepatosplenomegaly, and rash can be seen in 
+common viral illnesses, cytomegalovirus (CMV) or Epstein-­Barr virus 
+(EBV) infections, and acute leukemia. One should also look for signs of 
+jaundice or scleral icterus. Hepatomegaly and splenomegaly might be 
+present and can be found in liver disease or in malignant causes, such 
+as acute leukemias.
+Because there are several syndromes associated with pancytopenia, 
+a careful review for congenital anomalies is important (Tables 50.7 and 
+50.8 and Figs. 50.1 and 50.2).
+Laboratory Evaluation
+(Tables 50.3, 50.8, 50.9, and 50.10 and Fig. 50.3)
+HYPOCELLULAR MARROW
+Inherited
+Fanconi Anemia
+Fanconi anemia (FA) is an autosomal recessive genetic disorder associ­
+ated with congenital anomalies, cancer predisposition, and pancytope­
+nia due to bone marrow failure (see Fig. 50.1). The classic physical exam 
+findings include short stature, skin hyperpigmentation, and upper limb 
+anomalies (such as absent, hypoplasia, or bifid thumb). Because ∼50% 
+of patients with FA have normal physical findings, they are often undi­
+agnosed until they present with hematologic abnormalities. This is typ­
+ically in the first decade of life.
+The test of choice for FA detects chromosomal breakage in cells 
+exposed to diepoxybutane (DEB) and mitomycin C (MMC), cross-­
+linking agents. There are multiple genes in the FA pathway and their 
+protein products are involved in the DNA damage recognition and 
+repair pathways; these lead to the chromosome fragility seen in FA (see 
+Tables 50.3 and 50.10).
+Marrow failure classically begins with thrombocytopenia followed 
+by granulocytopenia, macrocytosis, and then macrocytic anemia. The 
+marrow will often show decreased or absent megakaryocytes, hypocel­
+lularity, and fatty replacement. About 10% of patients will present with 
+acute myeloid leukemia (AML). Because of the fragility to alkylating 
+agents, these patients cannot be treated with the typical intensive ther­
+apy used in AML.
+The curative therapy for FA is hematopoietic stem cell transplanta­
+tion (HSCT). The HSCT therapy must avoid the associated chromo­
+some fragility seen in FA, and the timing of transplant is often delayed 
+as long as safely possible. Long-­term survival outcomes following a 
+matched sibling transplant is ∼80%.
+Dyskeratosis Congenita
+Dyskeratosis congenita (DC) is an inherited (X-­linked, autosomal 
+recessive or dominant) bone marrow failure syndrome (see Tables 50.3 
+and 50.10). Patients first present with lacy skin pigmentation on the 
+face, neck, chest, and arms and nail dystrophy followed by oral mucosal 
+leukoplakia (see Fig. 50.2). Marrow failure will become apparent by 
+their teen years.
+Telomeres protect the ends of chromosomes; their length decreases 
+with each cell cycle. Stem cells are able to activate telomerase, which 
+allows for self-­renewal. Gene variants seen in DC lead to inheritance of 
+short telomeres and defects in the maintenance of telomeres, leading to 
+stem cell exhaustion and eventually producing pancytopenia.
+Patients will initially present with isolated thrombocytopenia, 
+which will then evolve into pancytopenia. There is also macrocytosis 
+and elevated fetal hemoglobin levels. In addition to hypocellularity of 
+marrow, there can be signs of myelodysplasia or leukemia.
+The anabolic steroid oxymetholone can improve marrow func­
+tion. About 60% of patients will respond to this therapy, which can 
+have a long-­lasting effect. HSCT can be used in DC; however, the 
+survival rate remains poor at 50%. There is significant morbidity 
+and mortality following HSCT specific to DC including pulmonary 
+fibrosis and gastrointestinal (GI) bleeding secondary to vascular 
+anomalies.
+Pancytopenia/Aplastic Anemia/
+Bone Marrow Failure
+Amy Moskop and Julie Talano
+50
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+928
+SECTION 9  Hematologic Disorders
+Shwachman-­Diamond Syndrome
+Shwachman-­Diamond syndrome (SDS) is an autosomal recessive 
+inherited disorder. The typical clinical characteristics include exocrine 
+pancreas insufficiency, which presents as fat malabsorption; skeletal 
+changes including delayed bone maturation, metaphyseal dysostosis, 
+short or flared ribs, and bifid thumbs; and bone marrow failure (Table 
+50.11).
+The pathologic gene SBDS seen in SDS is involved in ribosomal 
+biogenesis, which is associated with pancytopenia, although the exact 
+mechanism is not completely understood. Failure of pancreatic acinar 
+development leads to fatty infiltration of the pancreas and associated 
+exocrine dysfunction. Marrow failure is a result of dysfunctional stem 
+cells, apoptosis of progenitor cells, and inability of the microenviron­
+ment to support hematopoiesis. Diagnosis is made based on clinical 
+findings and genetic variant analysis for SBDS.
+The most common hematologic finding in SDS is neutropenia, 
+which predisposes to bacterial and fungal infections. About 10–65% 
+of patients will present with pancytopenia; the majority of patients 
+will have elevated fetal hemoglobin levels. Marrow cellularity can be 
+variable; there is also a risk for myelodysplastic syndrome (MDS) and 
+AML.
+Management of SDS includes granulocyte colony-­stimulating fac­
+tor (G-­CSF) for patients with severe neutropenia as well as transfusions 
+for anemia and thrombocytopenia. The management of exocrine pan­
+creatic insufficiency involves oral pancreatic enzyme replacement and 
+fat-­soluble vitamin supplements. HSCT is used in SDS with improved 
+outcomes if performed prior to the development of leukemia, but data 
+are limited and outcomes remain poor.
+Congenital Amegakaryocytic Thrombocytopenia
+Congenital amegakaryocytic thrombocytopenia (CAMT) is an autoso­
+mal recessive disorder that begins in infancy with isolated thrombocy­
+topenia. Patients with CAMT present with signs of thrombocytopenia, 
+cerebellar and cerebral atrophy, developmental delay, and various con­
+genital heart defects. MPL is a gene for the receptor of thrombopoietin 
+that impacts megakaryocytic proliferation as well as apoptotic regula­
+tion and survival of stem cells. Pathologic gene variants of MPL have 
+different effects on thrombopoietin receptor function, which produces 
+a wide spectrum of severity.
+The marrow findings will initially demonstrate amegakaryocytosis 
+with normal cellularity. Among patients who progress to pancytopenia, 
+the marrow cellularity decreases, and fatty infiltration is noted. These 
+patients are also at risk for development of MDS and AML. Androgens 
+TABLE 50.1  Differential Diagnosis of 
+Pancytopenia
+Pancytopenia with Hypocellular Bone Marrow
+Acquired aplastic anemia
+Inherited aplastic anemia (Fanconi anemia and others)
+Some myelodysplasia syndromes
+Rare aleukemic leukemia (acute myelogenous leukemia)
+Some acute lymphoblastic leukemias
+Some lymphomas of bone marrow
+Pancytopenia with Cellular Bone Marrow
+Primary bone marrow diseases
+Myelodysplasia syndromes
+Paroxysmal nocturnal hemoglobinuria
+Myelofibrosis
+Some aleukemic leukemias
+Myelophthisis
+Bone marrow lymphoma
+Secondary to systemic diseases
+Systemic lupus erythematosus, Sjögren syndrome
+Primary immunodeficiency diseases
+Hypersplenism
+Vitamin B12, folate deficiency (familial defect)
+Overwhelming infection
+Alcohol
+Brucellosis
+Ehrlichiosis
+Sarcoidosis
+Tuberculosis and atypical mycobacteria
+Hypocellular Bone Marrow ± Cytopenia
+Q fever
+Legionnaires disease
+Mycobacteria
+Tuberculosis*
+Anorexia nervosa, starvation
+Hypothyroidism
+*Pancytopenia in tuberculosis only rarely is associated with a hypocel­
+lular bone marrow at biopsy or autopsy. Marrow failure in the setting of 
+tuberculosis is almost always fatal; exceptional patients probably had 
+underlying myelodysplasia or acute leukemia.
+From Hoffman R, Benz EJ Jr, Silberstein LE, et al., eds. Hematology: 
+Basic Principles and Practice. 7th ed. Philadelphia: Elsevier; 2018:395, 
+Table 30.1.
+TABLE 50.2  Etiology of Aplastic Anemia
+Irradiation
+Drugs and Chemicals
+Cytotoxic agents
+Benzene
+Idiosyncratic reactions
+Chloramphenicol
+Nonsteroidal antiinflammatory drugs
+Antiepileptics
+Gold
+Other drugs and chemicals
+Viruses
+Epstein-­Barr virus (infectious mononucleosis)
+Hepatitis virus (non-­A, non-­B, non-­C, non-­G hepatitis)
+Parvovirus (transient aplastic crisis, some pure red cell aplasia)
+HIV (AIDS)
+Immune Diseases
+Immune mediated (idiopathic)
+Eosinophilic fasciitis
+Hyperimmunoglobulinemia
+Thymoma and thymic carcinoma
+Graft versus host disease in immunodeficiency
+Paroxysmal nocturnal hemoglobinuria
+Other
+Pregnancy
+Modified from Hoffman R, Benz EJ Jr, Silberstein LE, et al., eds. 
+Hematology: Basic Principles and Practice. 7th ed. Philadelphia: 
+Elsevier; 2018:395, Table 30.2.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+929
+CHAPTER 50  Pancytopenia/Aplastic Anemia/Bone Marrow Failure
+TABLE 50.3  Genetic Conditions Commonly Associated with Bone Marrow Failure
+Gene
+Inheritance Condition
+ABCB7
+X-linked
+Sideroblastic anemia with ataxia
+ACD
+AR and AD
+Dyskeratosis congenita
+ADA2 (CECR1)
+AR
+Vasculitis, autoinflammation, 
+immunodeficiency, and 
+hematologic defects syndrome
+AK2
+AR
+Reticular dysgenesis
+AP3B1
+AR
+Hermansky-Pudlak type 2
+ATM
+AR
+Ataxia-­telangiectasia
+ATR
+AR
+Seckel syndrome
+BLM
+AR
+Bloom syndrome
+BRCA1, BRCA2 (FANCD1), 
+BRIP1 (FANCJ), ERCC4 
+(FANCQ), FANCA, 
+FANCB. FANCC, FANCD2, 
+FANCE, FANCF. FANCG. 
+FANCI, FANCL, FANCM, 
+MAD2L2. PALB2 (FANCN), 
+RAD51, RAD51C (FANCO), 
+RFWD3, SLX4 (FANCP), 
+UBE2T, XRCC2
+AR; except: 
+FANCB –­ 
+X-linked
+RAD51 –­ AD
+Fanconi anemia
+CD40LG
+X-linked
+X-­linked hyper-­IgM syndrome
+CLPB
+AR
+3-­methylglutaconic aciduria type 
+VII, with cataracts, neurologic 
+involvement, and neutropenia
+CSF3R
+AD, AR, and 
+somatic
+Severe congenital neutropenia 7 
+(SCN7) (germline); predisposition 
+to myelodysplastic syndrome 
+(somatic)
+CTC1
+AR
+Coats plus syndrome
+CXCR2
+AR
+Myelokathexis
+CXCR4
+AD
+WHIM syndrome
+DKC1
+XR
+Dyskeratosis congenita or Hoyeraal-
+Hreidarsson syndrome
+DNAJC21
+AR
+Familial bone marrow failure 
+syndrome type 3
+EFL1
+AR
+Shwachman-­Diamond syndrome
+EIF2AK3
+AR
+Wolcott-­Rallison syndrome
+ELANE (ELA2)
+AD
+SCN1
+EPO
+AR, AD
+Diamond-Blackfan anemia; 
+erythrocytosis
+ERCC6L2
+AR
+Familial bone marrow failure 
+syndrome type 2
+G6PC3
+AR
+SCN4, nonsyndromic SCN, Dursun 
+syndrome
+GATA1
+X-linked
+GATA1-­related X-­linked cytopenia
+GATA2
+AD
+GATA2 deficiency
+GFI1
+AD
+SCN2
+HAX1
+AR
+SCN3, Kostmann syndrome
+HYOU1
+AR
+Immunodeficiency and 
+hypoglycemia
+MRTFA (MKL1)
+AR
+Neutropenia with combined 
+immune deficiency
+MYSM1
+AR
+Familial bone marrow failure 
+syndrome type 4
+NAF1
+AD
+Pulmonary fibrosis and emphysema
+NBN
+AR
+Nijmegen breakage syndrome
+NHEJ1
+AR
+Severe combined 
+immunodeficiency with 
+microcephaly, growth 
+retardation, and sensitivity to 
+ionizing radiation
+NHP2 (NOLA2)
+AR
+Dyskeratosis congenita
+NOPIO (NOLA3)
+AR
+Dyskeratosis congenita
+NSMCE3
+AR
+Lung disease, immunodeficiency, 
+and chromosome breakage 
+syndrome
+PARN
+AD and AR
+Dyskeratosis congenita; pulmonary 
+fibrosis and/or bone marrow 
+failure
+POT1
+AD
+Familial chronic lymphocytic 
+leukemia
+RAB27A
+AR
+Griscelli syndrome type 2
+RAC2
+AR
+Neutrophil immunodeficiency 
+syndrome
+RBM8A
+AR
+Thrombocytopenia-­absent radius 
+syndrome
+RMRP
+AR
+Cartilage-­hair hypoplasia
+RNF168
+AR
+RIDDLE syndrome
+RPL5, RPL9, RPL11, RPL15, 
+RPL18, RPL26, RPL27, 
+RPL31, RPL35, RPL35A, 
+RPS7, RPS10, RPS15, 
+RPS15A, RPS17, RPS19, 
+RPS24, RPS26, RPS27, 
+RPS27A, RPS28, RPS29, 
+TSR2
+AD; except:
+TSR2 –­ 
+X-linked
+Diamond-Blackfan anemia
+RTEL1
+AD and AR
+Dyskeratosis congenita
+RUNX1
+AD and 
+somatic
+Familial platelet disorders 
+(germline); acute myeloid 
+leukemia (germline); 
+predisposition to myelodysplastic 
+syndrome/acute myeloid 
+leukemia (somatic)
+SAMD9
+AD
+MIRAGE syndrome
+SAMD9L
+AD
+Ataxia-­pancytopenia 
+syndrome
+Gene
+Inheritance Condition
+JAGN1
+AR
+SCN6
+LAMTOR2 (ROBLD3)
+AR
+p14 deficiency
+LIG4
+AR
+LIG4 syndrome
+LYST
+AR
+Chediak-Higashi syndrome
+MPL
+AR
+Congenital amegakaryocytic 
+thrombocytopenia
+Continued
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+930
+SECTION 9  Hematologic Disorders
+TABLE 50.4  Age-­Specific Blood Cell Indices
+Age
+Hb (g/dL)*
+HCT (%)*
+MCV (fL)*
+MCHC (g/dL RBC)*
+Reticulocytes
+WBCs (×103/mL)† Platelets (103/mL)†
+26–30 wk 
+gestation‡
+13.4 (11)
+41.5 (34.9)
+118.2 (106.7)
+37.9 (30.6)
+—
+4.4 (2.7)
+254 (180–327)
+28 wk
+14.5
+45
+120
+31.0
+(5–10)
+—
+275
+32 wk
+15.0
+47
+118
+32.0
+(3–10)
+—
+290
+Term§ (cord)
+16.5 (13.5)
+51 (42)
+108 (98)
+33.0 (30.0)
+(3–7)
+18.1 (9–30)||
+290
+1–3 days
+18.5 (14.5)
+56 (45)
+108 (95)
+33.0 (29.0)
+(1.8–4.6)
+18.9 (9.4–34)
+192
+2 wk
+16.6 (13.4)
+53 (41)
+105 (88)
+31.4 (28.1)
+—
+11.4 (5–20)
+252
+1 mo
+13.9 (10.7)
+44 (33)
+101 (91)
+31.8 (28.1)
+(0.1–1.7)
+10.8 (4–19.5)
+—
+2 mo
+11.2 (9.4)
+35 (28)
+95 (84)
+31.8 (28.3)
+—
+—
+—
+6 mo
+12.6 (11.1)
+36 (31)
+76 (68)
+35.0 (32.7)
+(0.7–2.3)
+11.9 (6–17.5)
+—
+6 mo–2 yr
+12.0 (10.5)
+36 (33)
+78 (70)
+33.0 (30.0)
+—
+10.6 (6–17)
+(150–350)
+2–6 yr
+12.5 (11.5)
+37 (34)
+81 (75)
+34.0 (31.0)
+(0.5–1.0)
+8.5 (5–15.5)
+(150–350)
+6–12 yr
+13.5 (11.5)
+40 (35)
+86 (77)
+34.0 (31.0)
+(0.5–1.0)
+8.1 (4.5–13.5)
+(150–350)
+12–18 yr
+Male
+14.5 (13)
+43 (36)
+88 (78)
+34.0 (31.0)
+(0.5–1.0)
+7.8 (4.5–13.5)
+(150–350)
+Female
+14.0 (12)
+41 (37)
+90 (78)
+34.0 (31.0)
+(0.5–1.0)
+7.8 (4.5–13.5)
+(150–350)
+Adult
+Male
+15.5 (13.5)
+47 (41)
+90 (80)
+34.0 (31.0)
+(0.8–2.5)
+7.4 (4.5–11)
+(150–350)
+Female
+14.0 (12)
+41 (36)
+90 (80)
+34.0 (31.0)
+(0.8–4.1)
+7.4 (4.5–11)
+(150–350)
+*Data are mean (− 2 SD).
+†Data are mean (± 2 SD).
+‡Values are from fetal samplings.
+§1 mo, capillary hemoglobin exceeds venous: 1 hr: 3.6-­g difference; 5 day: 2.2-­g difference; 3 wk: 1.1-­g difference.
+||Mean (95% confidence limits).
+Hb, hemoglobin; HCT, hematocrit; MCHC, mean cell hemoglobin concentration; MCV, mean corpuscular volume; RBC, red blood cell; WBC, white blood cell.
+From Gajjar R, Jalazo E. Hematology, Table 14-­1 Age-­Specific Blood Cell Indices. In: Harriet Lane Handbook: A Manual for Pediatric Housestaff. 
+20th ed. Philadelphia: Saunders; 2014:305–306.
+AD, autosomal dominant; AR, autosomal recessive; RIDDLE, radiosensitivity, immunodeficiency, dysmorphic features, and learning difficulties; 
+WHIM, warts, hypogammaglobulinemia, immunodeficiency, myelokathexis.
+Courtesy of the Laboratory of Genetics and Genomics, Cincinnati Children’s Hospital Medical Center, University of Cincinnati, https://www.
+cincinnatichildrens.org/service/b/bone-­marrow/therapies/bone-­marrow-­failure-­syndromes.
+TABLE 50.3  Genetic Conditions Commonly Associated with Bone Marrow Failure—cont’d
+SBDS
+AR
+Shwachman-Diamond syndrome (SDS)
+SLC37A4
+AR
+Glycogen storage disease type IB
+SMARCD2
+AR
+Specific granule deficiency 2
+SRP54
+AD
+Congenital neutropenia
+SRP72
+AD
+Familial bone marrow failure 
+syndrome type 1
+STK4
+AR
+STK4 deficiency
+STN1
+AR
+Coats plus syndrome with 
+telomere defects
+TAZ
+X-linked
+Barth syndrome
+TCIRG1
+AR, AD
+Osteopetrosis (AR), congenital 
+neutropenia (AD)
+TCN2
+AR
+Transcobalamin II deficiency
+TERC (hTR)
+AD
+Dyskeratosis congenita
+TERF2IP
+AD
+Familial melanoma
+Gene
+Inheritance Condition
+Gene
+Inheritance Condition
+TP53
+AD and 
+somatic
+Familial bone marrow failure 
+syndrome 5 (germline); 
+transformation to 
+myelodysplastic syndrome/
+acute myeloid leukemia in 
+patients with Shwachman-
+Diamond syndrome (somatic)
+USB1
+AR
+Clericuzio-­type poikiloderma with 
+neutropenia
+VPS13B
+AR
+Cohen syndrome; congenital 
+neutropenia with retinopathy
+VPS45
+AR
+SCN5
+WAS
+X-linked
+Wiskott-Aldrich syndrome, 
+X-­linked
+WDR1
+AR
+WDR1 deficiency
+WIPF1
+AR
+Wiskott-Aldrich syndrome
+WRAP53 (TCAB1, WDR79)
+AR
+Dyskeratosis congenita, 
+Revesz syndrome, 
+Hoyeraal-Hreidarrson 
+syndrome
+TERT
+AD and AR
+Dyskeratosis congenita
+TINF2
+AD
+Classic or severe DC, Revesz 
+syndrome, Hoyeraal-­Hreidarrson 
+syndrome; AD 3
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+931
+CHAPTER 50  Pancytopenia/Aplastic Anemia/Bone Marrow Failure
+and corticosteroids have been used to treat pancytopenia with some 
+improvement, but HSCT remains the only curative option.
+Other Genetic Syndromes
+There are several other genetic syndromes that can develop pancytope­
+nia. These include Down syndrome, Noonan syndrome, Dubowitz syn­
+drome, Seckel syndrome, reticular dysgenesis, Schimke immunoosseous 
+dysplasia, cartilage-­hair hypoplasia, and familial aplastic anemia (Table 
+50.12). In addition, cytopenias including pancytopenia may occur in 
+primary immunodeficiency diseases (Fig. 50.4). These include common 
+variable immunodeficiency (CVID), autoimmune lymphoproliferative 
+syndrome (ALPS), and immune disregulation polyendocrinopathy 
+enteropathy X-­linked (IPEX) and IPEX-­like syndromes.
+ACQUIRED
+Acquired aplastic anemia, a rare but severe hematologic disorder, is 
+different from inherited bone marrow failure syndromes and can be a 
+result of drugs, chemicals, radiation, infections, or immune disorders 
+(see Tables 50.1 and 50.2). A bone marrow evaluation reveals hypocel­
+lularity; severity is graded based on the Camitta criteria (Table 50.13).
+There must be a thorough review of drug and chemical exposures 
+(see Table 50.6). Medications can result in pancytopenia either by direct 
+toxicity, metabolite-­driven toxicity, or antibody-­mediated destruction. 
+Chemotherapeutic agents, radiation, benzene, chloramphenicol, anti­
+epileptics, gold, nonsteroidal antiinflammatory drugs (NSAIDs), and 
+several antibiotics are notable exposures.
+Infections
+Several viruses may result in acquired aplastic anemia. These include 
+parvovirus B19, EBV, CMV, hepatitis viruses, herpesviruses, and HIV. 
+Other infections such as mycobacterial infections can also lead to 
+pancytopenia.
+Immune Diseases
+It is thought that immune-­mediated, previously identified as idiopathic 
+aplastic, anemia is a result of immune-­mediated destruction of bone 
+marrow stem cells. This is often a diagnosis of exclusion following a 
+broad work-­up for other acquired causes and must be distinguished 
+from inherited bone marrow failure syndromes before treatment can 
+begin. Autoimmune disorders, such as systemic lupus erythematosus 
+or rheumatoid arthritis, can have hematologic abnormalities including 
+pancytopenia.
+Pregnancy
+Aplastic anemia is a rare complication of pregnancy; the cause remains 
+unknown. Management must be weighed with the risk to the fetus and 
+TABLE 50.5  History Clues for the Etiology 
+of Pancytopenia
+General Cause
+History Clues to Review
+Viral
+Fever, viral symptoms, sick contacts, rashes, 
+conjunctivitis, jaundice
+Malignant
+Fevers, bony pain, weight loss, lymphadenopathy, 
+hepatosplenomegaly, night sweats
+Liver failure
+Jaundice, abdominal pain, encephalopathy
+Environmental
+History of radiation or chemotherapy, environmental 
+toxins
+Medication
+See Table 50.6
+Immunodeficiency
+Recurrent or opportunistic infections, skin 
+infections, mouth sores, eczema, failure to thrive, 
+positive newborn screen
+Dietary
+Vegan diet, goat milk ingestion, short bowel 
+syndrome
+Genetic
+Bone marrow failure syndromes; see Table 50.3
+TABLE 50.6  Classification of Drugs and 
+Chemicals Associated with Aplastic Anemia
+I. Agents That Regularly Produce Marrow Depression as a 
+Major Toxic Effect When Used in Commonly Used Doses 
+or Normal Exposures
+ • Cytotoxic drugs used in cancer chemotherapy
+ • Alkylating agents (busulfan, melphalan, cyclophosphamide)
+ • Antimetabolites (antifolic compounds, nucleotide analogs), antimitotics 
+(vincristine, vinblastine, colchicine)
+ • Some antibiotics (daunorubicin, doxorubicin [Adriamycin])
+ • Benzene (and less often benzene-­containing chemicals: kerosene, carbon 
+tetrachloride, Stoddard solvent, chlorophenols)
+II. Agents Probably Associated with Aplastic Anemia but 
+with a Relatively Low Probability Relative to Their Use
+ • Chloramphenicol
+ • Insecticides
+ • Antiprotozoals (quinacrine and chloroquine)
+ • Nonsteroidal antiinflammatory drugs (including phenylbutazone, 
+indomethacin, ibuprofen, sulindac, diclofenac, naproxen, piroxicam, 
+fenoprofen, fenbufen, aspirin)
+ • Anticonvulsants (hydantoins, carbamazepine, phenacemide, ethosuximide)
+ • Gold, arsenic, and other heavy metals such as bismuth and mercury
+ • Sulfonamides as a class
+ • Antithyroid medications (methimazole, methylthiouracil, propylthiouracil)
+ • Antidiabetes drugs (tolbutamide, carbutamide, chlorpropamide)
+ • Carbonic anhydrase inhibitors (acetazolamide, methazolamide, mesalazine)
+ • d-­Penicillamine
+ • 2-­Chlorodeoxyadenosine
+III. Agents More Rarely Associated with Aplastic Anemia
+ • Antibiotics (streptomycin, tetracycline, methicillin, ampicillin, mebendazole 
+and albendazole, sulfonamides, flucytosine, mefloquine, dapsone)
+ • Antihistamines (cimetidine, ranitidine, chlorpheniramine)
+ • Sedatives and tranquilizers (chlorpromazine, prochlorperazine, 
+piperacetazine, chlordiazepoxide, meprobamate, methyprylon, remoxipride)
+ • Antiarrhythmics (tocainide, amiodarone)
+ • Allopurinol (can potentiate marrow suppression by cytotoxic drugs)
+ • Ticlopidine
+ • Methyldopa
+ • Quinidine
+ • Lithium
+ • Guanidine
+ • Canthaxanthin
+ • Thiocyanate
+ • Carbimazole
+ • Cyanamide
+ • Deferoxamine
+ • Amphetamines
+From Hoffman R, Benz EJ Jr, Silberstein LE, et al., eds. Hematology: Basic 
+Principles and Practice. 7th ed. Philadelphia: Elsevier; 2018:399, Table 30.3.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+932
+SECTION 9  Hematologic Disorders
+TABLE 50.7  Specific Types of Anomalies in Fanconi Anemia*
+Skin (40%)
+Generalized hyperpigmentation on the trunk, neck, and intertriginous areas; 
+café-­au-­lait spots; hypopigmented areas
+Body (40%)
+Short stature, delicate features, small size, underweight
+Upper Limbs (35%)
+Thumbs (35%): absent or hypoplastic; supernumerary, bifid, or duplicated; 
+rudimentary; short, low set, attached by a thread; triphalangeal, tubular, stiff, 
+hyperextensible
+Radii (7%): absent or hypoplastic (only with abnormal thumbs); absent or weak 
+pulse
+Hands (5%): clinodactyly; hypoplastic thenar eminence; six fingers; absent first 
+metacarpal; enlarged, abnormal fingers; short fingers; transverse crease ulnae 
+(1%): dysplastic or absent
+Lower Limbs (5%)
+Feet: toe syndactyly, abnormal toes, flat feet, short toes, clubfeet, six toes, 
+supernumerary toe
+Legs: congenital hip dislocation, Perthes disease, coxa vara, abnormal femur, 
+thigh osteoma, abnormal legs
+Gonads
+Males (25%): hypogenitalia, undescended testes, hypospadias, abnormal 
+genitalia, absent testis, atrophic testes, azoospermia, phimosis, abnormal 
+urethra, micropenis, delayed development
+Females (2%): hypogenitalia; bicornuate uterus; abnormal genitalia; aplasia of 
+uterus and vagina; atresia of uterus, vagina, and ovary
+Other Skeletal Anomalies
+Head (20%) and face (2%): microcephaly, hydrocephalus, micrognathia, peculiar 
+face, birdlike face, flat head, frontal bossing, scaphocephaly, sloped forehead, 
+choanal atresia, dental abnormalities
+Neck (1%): Sprengel deformity; short, low hairline; webbed spine (2%): spina 
+bifida (thoracic, lumbar, cervical, occult sacral)
+Spine (2%): spina bifida (thoracic, lumbar, cervical, occult sacral), scoliosis, 
+abnormal ribs, sacral agenesis, sacrococcygeal sinus, Klippel-­Feil syndrome, 
+vertebral anomalies, extra vertebrae
+Eyes (20%)
+Small eyes, strabismus, epicanthal folds, short or almond-­shaped palpebral 
+fissures, hypertelorism, ptosis, slanting, cataracts, astigmatism, blindness, 
+epiphora, nystagmus, proptosis, small iris
+Ears (10%)
+Deafness (usually conductive); abnormal shape; atresia; dysplasia; low set, large, 
+or small; infections; abnormal middle ear; absent eardrum; dimples; rotated; 
+canal stenosis
+Kidney (20%)
+Ectopic or pelvic; abnormal, horseshoe, hypoplastic, or dysplastic; absent; 
+hydronephrosis or hydroureter; infections; duplicated; rotated; reflux; 
+hyperplasia; no function; abnormal artery
+Gastrointestinal System (5%)
+High-­arched palate, atresia (esophagus, duodenum, jejunum), imperforate anus, 
+tracheoesophageal fistula, Meckel diverticulum, umbilical hernia, hypoplastic 
+uvula, abnormal biliary ducts. megacolon, abdominal diastasis, Budd-­Chiari 
+syndrome
+Urogenital
+Males (25%): micropenis, penile-­scrotal fusion, undescended or atrophic or 
+absent testes, hypospadias, chordae, phimosis, azoospermia
+Females (2%): bicornuate uterus, aplasia or hypoplasia of vagina and uterus, 
+atresia of vagina, hypoplastic uterus, hypoplastic or absent ovary, hypoplastic 
+fused labia
+Cardiopulmonary System (6%)
+Patent ductus arteriosus, ventricular septal defect, abnormal heart, peripheral 
+pulmonic stenosis, aortic stenosis, coarctation, absent lung lobes, vascular 
+malformation, aortic atheromas, atrial septal defect, tetralogy of Fallot, 
+pseudotruncus, hypoplastic aorta, abnormal pulmonary drainage, double aortic 
+arch, cardiac myopathy
+Central Nervous System (3%)
+Hyperreflexia, Bell palsy, CNS arterial malformation, moyamoya syndrome, 
+Arnold-­Chiari malformation, stenosis of internal carotid artery, small pituitary 
+gland, absent corpus callosum, slow development (10%)
+*Abnormalities are listed in the approximate order of frequency within each category.
+Adapted from Shimamura A, Aher BP. Pathophysiology and management of inherited bone marrow failure syndromes. Blood Rev. 2010;24:101–122.
+From Nelson Textbook of Pediatrics. 21st ed. Philadelphia: Elsevier; 2020:2571, Table 495.2.
+TABLE 50.8  Inherited Causes of Bone Marrow Failure
+Disease
+Supportive Clinical Findings
+Supportive Laboratory Findings
+Inheritance Pattern
+Fanconi anemia
+Skeletal abnormalities (radius, thumb); small 
+stature; urogenital abnormalities; 40% with 
+no physical findings
+Increased chromosomal breakage in response to mitomycin 
+C or diepoxybutane
+AR (most) or XLR
+Dyskeratosis congenita
+Leukoplakia; nail dystrophy; lacy skin 
+pigmentation; pulmonary fibrosis
+Genetic testing (a negative result does not rule out disease)
+AR, XLR, or AD
+Shwachman-­Diamond 
+syndrome
+Exocrine pancreatic insufficiency
+Genetic testing (a negative result does not rule out disease); 
+normal sweat chloride
+AR
+Congenital amegakaryocytic 
+thrombocytopenia
+Sequelae of severe thrombocytopenia
+Genetic testing (a negative result does not rule out disease); 
+elevated thrombopoietin levels
+AR
+Hemophagocytic 
+lymphohistiocytosis
+Fever; splenomegaly; hepatitis; neurologic 
+symptoms; rash
+Hemophagocytosis; hypertriglyceridemia; 
+hypofibrinogenemia; low/absent NK-­cell activity; elevated 
+serum ferritin; soluble CD25 >2,400 U/mL
+AR or XLR
+AD, autosomal dominant; AR, autosomal recessive; NK, natural killer; XLR, X-­linked recessive.
+Modified from Weinzierl EP, Arber DA. The differential diagnosis and bone marrow evaluation of new-­onset pancytopenia. Am J Clin Pathol. 
+2013;139:9–29 (Table 1, p. 10).
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+933
+CHAPTER 50  Pancytopenia/Aplastic Anemia/Bone Marrow Failure
+mother and often requires transfusion support to minimize the risk of 
+hemorrhage.
+Paroxysmal Nocturnal Hemoglobinuria
+Paroxysmal nocturnal hemoglobinuria (PNH) is another cause of 
+acquired aplastic anemia. A pathologic gene variant leads to a clonal pop­
+ulation of stem cells that are more susceptible to complement-­mediated 
+destruction. The majority of pediatric patients with PNH will have 
+marrow failure. Associated symptoms include thrombosis (classically 
+abdominal venous thrombosis), nocturnal hemoglobinuria, chronic 
+hemolysis, and cytopenias. The diagnostic method includes flow cytom­
+etry looking for decreased expression of both CD55 and CD59 markers.
+Marrow Replacement
+A marrow evaluation for pancytopenia may reveal abnormal develop­
+ment of stem cells or replacement of normal marrow elements. This 
+requires a careful morphologic review of the bone marrow aspirate and 
+biopsy as well as cytogenetic studies.
+A
+B
+C
+D
+Fig. 50.1  A 3-­year-­old boy with Fanconi anemia who exhibits several classic phenotypic features. A, Front 
+view. B, Face. C, Hands. D, Back right shoulder. The features to be noted include short stature, dislocated 
+hips, microcephaly, a broad nasal base, epicanthal folds, micrognathia, thumbs attached by a thread, and café-­
+au-­lait spots with hypopigmented areas beneath. (From Nathan DC, Orkin SH, Ginsburg D, et al., eds. Nathan 
+and Oski’s Hematology of Infancy and Childhood. 6th ed. Vol. I. Philadelphia: Saunders; 2003:285.)
+A
+C
+E
+B
+D
+F
+Fig. 50.2  Features of the diagnostic triad in dyskeratosis congenita. A, B, Dystrophic nails on hands and 
+feet. C, D, Lacy reticular pigmentation on neck and upper thorax. E, F, Oral leukoplakia on tongue and buccal 
+mucosa. (A–C and E, From Shimamura A, Alter BP. Pathophysiology and management of inherited bone mar­
+row failure syndromes. Blood Rev. 2010;24:101–122, Fig. 8; D and F, from Savage SA, Alter BP. Dyskeratosis 
+congenita. Hematol Oncol Clin North Am. 2009;23:215–231.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+TABLE 50.9  Laboratory Evaluation for 
+Pancytopenia
+CBC, differential, peripheral blood smear review
+Reticulocyte count
+Cell destruction
+Direct Coombs test, haptoglobin, LDH, hemoglobinuria, 
+total bilirubin
+Cell consumption
+PT, PTT, fibrinogen, creatinine
+Viral marrow 
+suppression
+CMV, EBV, HIV, coronavirus disease 2019 (COVID-­19), 
+brucellosis, TB, Q fever, Legionnaires disease, 
+hepatitis, parvovirus, dengue, measles, mumps, 
+rubella, varicella, influenza A
+Bone marrow evaluation
+Stains, chromosomal and flow cytometry
+Cellularity, myelofibrosis, infiltrative process, storage diseases
+CMV, cytomegalovirus; EBV, Epstein-­Barr virus; LDH, lactate dehydro­
+genase; PT, prothrombin time; PTT, partial thromboplastin time; TB, 
+tuberculosis.
+TABLE 50.10  Inherited Bone Marrow 
+Failure Syndromes and Associated Genes
+Syndrome
+Genes
+FA
+FANC: A, B, C, D1/BRCA2, D2, E, F, G, I, J, L, M, N, O
+DC
+X-­linked: DKC1
+AD: TINF2, TERC, TERT
+AD: NOP10, NHP2
+SDS
+SBDS
+CAMT
+MPL
+CAMT, congenital amegakaryocytic thrombocytopenia; DC, dyskera­
+tosis congenita; FA, Fanconi anemia; SDS, Shwachman-­Diamond syn­
+drome.
+Laboratory studies
+CBC with differential
+Peripheral smear
+Reticulocyte count
+Decreased reticulocytes (<2-3%)
+At least two of the following are present:
+Absolute neutrophil count (ANC) <500/µL
+Platelets <20,000/µL
+Reticulocytes <1%
+Mild/moderate
+aplastic anemia
+(hypoplastic anemia)
+Persistent
+pancytopenia
+No
+Yes
+Hypocellular marrow
+Congenital
+Acquired
+Normal CBC
+Viral infection
+   (parvovirus,
+   hepatitis, Epstein-
+   Barr virus,
+   human immuno-
+   deficiency virus)
+Transient aplastic
+   crisis
+Fanconi anemia
+Dyskeratosis
+   congenita
+Shwachman
+   Diamond
+   syndrome
+Familial aplastic
+   anemias
+Congenital
+   amegakaryocytic
+   thrombocytopenia
+Myelodysplasia
+Down syndrome
+Noonan syndrome
+Dubowitz syndrome
+Seckel syndrome
+Idiopathic
+Radiation
+Drugs/chemicals
+Viruses       (Epstein-
+   Barr virus, hepatitis,
+   parvovirus, human
+   immunodeficiency virus)
+Immune diseases (hypo-
+   gammaglobulinemia,
+   thymoma)
+Pregnancy
+Paroxysmal nocturnal
+   hemoglobinuria
+Hemophagocytic
+lymphohistiocytosis
+Systemic diseases
+Malignancy
+   (leukemia,
+   lymphoma,
+   neuroblastoma)
+Osteopetrosis
+Storage disorders
+Myelofibrosis
+Myelodysplasia
+Autoimmune
+pancytopenia
+(Systemic lupus
+erythematosus)
+Primary
+immunodeficiency
+diseases
+Megaloblastic
+   anemia
+Fanconi
+   anemia
+Dyskeratosis
+   congenita
+Referral for:
+Bone marrow aspirate
+± Viral serology
+Repeat CBC in 2-3 weeks
+± Viral serology
+± Referral to hematology
+Severe aplastic
+anemia
+Coombs
+test –
+Coombs
+test +
+Blasts on
+peripheral smear
+Or
+Evidence of
+   hemolysis
+Increased
+   reticulocytes
+   >2-3%
+Macrocytic anemia
+   (↑ MCV)
+   ↓ reticulocytes
+   ± Hypersegmented
+      neutrophils
+H and P 1
+2
+4
+5
+6
+4
+9
+6
+7
+7
+8
+Bone marrow
+infiltration/
+replacement 12
+10
+11
+13
+15
+Sepsis/shock
+Splenic sequestration
+Paroxysmal nocturnal
+   hemoglobinuria 10
+14
+3
+Pancytopenia
+  Leukoeryth-
+   roblastosis
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+935
+CHAPTER 50  Pancytopenia/Aplastic Anemia/Bone Marrow Failure
+Malignant Infiltration
+Acute leukemias are the most common cause of marrow replace­
+ment secondary to malignancies in children. Acute lymphoblastic 
+and myeloid leukemias often present with pancytopenia with periph­
+eral lymphoblasts or myeloblasts as well as a marrow filled with blasts 
+leading to pancytopenia. Some patients have no blasts in their periph­
+eral blood smears. The diagnosis can be confirmed with morphologic 
+review of the marrow, flow cytometry, and cytogenetics to confirm the 
+cells of origin. There are other malignancies that can infiltrate the mar­
+row including lymphomas, neuroblastoma, and Langerhans cell histio­
+cytosis, as well as other solid tumors.
+Myelodysplasia
+MDS typically presents with isolated cytopenias but also pancytopenia. 
+MDS is a disorder of ineffective hematopoiesis. There is also a risk for 
+MDS to develop into AML. Pediatric MDS classification is described 
+in Table 50.14. Patients with inherited bone marrow syndromes or 
+other genetic predisposition syndromes are at high risk for develop­
+ing MDS. Treatment-­related MDS can also be seen after exposure to 
+alkylating agents and topoisomerase II inhibitors during treatment 
+for other malignancies. Because of the aggressive nature of MDS in 
+children, most patients require HSCT shortly after diagnosis. Options 
+that have been used for patients without a matched donor include 
+Fig. 50.3  Pancytopenia diagnostic algorithm. 1, History should include exposure to agents that are poten­
+tially myelosuppressive. These include radiation and chemotherapy (e.g., 6-­mercaptopurine, methotrexate, 
+nitrogen mustard). Other drugs include chloramphenicol, sulfonamides, phenylbutazone, and anticonvulsants. 
+Chemicals and toxins include benzene and other aromatic hydrocarbons present in insecticides and her­
+bicides. A history and physical examination compatible with certain viral infections should be sought. An 
+increased susceptibility to infection may suggest an immunodeficiency syndrome. A family history of con­
+genital anomalies, aplastic syndromes, and leukemias may indicate syndromes associated with constitutional 
+aplastic pancytopenias. Physical examination may reveal the effects of the cytopenias, including anemia, 
+which results in tachycardia and pallor; thrombocytopenia, which may cause bleeding, bruising, epistaxis, 
+petechiae, or ecchymoses; and neutropenia, which may be associated with oral ulcerations and fevers. Exam­
+ination should include identification of congenital anomalies associated with Fanconi and other syndromes 
+(e.g., Down syndrome). 2, When blasts are seen on peripheral smear, it indicates leukemia requiring referral 
+for bone marrow examination. Leukoerythroblastosis (myelophthisic anemia) is usually due to invasion of 
+the bone marrow and resulting release of immature cells including erythroblasts (nucleated erythrocytes), 
+immature neutrophils, and giant platelets. 3, Laboratory findings suggesting hemolysis include abnormal cell 
+morphology, increased reticulocyte count, increased red blood cell distribution width, indirect bilirubin, urine 
+urobilinogen, lactate dehydrogenase, decreased serum haptoglobin, and hemoglobinuria. 4, The most com­
+mon cause of mild or moderate pancytopenias in healthy patients is suppression due to infectious agents. 
+Specific viruses include human parvovirus B19, hepatitis viruses (B, C, non-­A, non-­B, and non-­C), dengue 
+virus, cytomegalovirus, human herpesvirus 6, and Epstein-­Barr virus. Patients with HIV may have pancyto­
+penia for a number of reasons, including opportunistic infections, drugs used in treatment, and neoplasms 
+associated with the disease. Other viruses that may cause cytopenias include measles, mumps, rubella, var­
+icella, and influenza A. If a viral etiology is suggested, it is reasonable to recheck the CBC in a few weeks. If 
+the pancytopenia persists or becomes more severe, referral to a hematologist for further evaluation is recom­
+mended. 5, Patients with hemolytic anemia who have shortened red blood cell survival time are at risk of tran­
+sient aplastic crisis. This is most commonly associated with parvovirus and may occur in children with sickle 
+cell disease, thalassemia, hereditary spherocytosis, and other types of erythroid stress. 6, Fanconi anemia is 
+an autosomal recessive condition. Two-­thirds of affected children have congenital anomalies. These include 
+microcephaly, microphthalmia, absent radii and thumbs, and heart and kidney abnormalities. There may be 
+hypopigmentation of the skin and short stature. 7, Dyskeratosis congenita is a rare form of ectodermal dys­
+plasia associated with pancytopenia. Dermatologic manifestations include hyperpigmented skin, dystrophic 
+nails, and mucous membrane leukoplakia. 8, Shwachman-­Diamond syndrome is characterized by neutro­
+penia with exocrine pancreatic insufficiency (e.g., malabsorption, steatorrhea, failure to thrive). About 50% 
+develop aplastic anemia. 9, Pregnancy may be associated with aplastic anemia; estrogens may play a role. 
+10, Paroxysmal nocturnal hemoglobinuria is characterized by intravascular hemolysis and hemoglobinuria as 
+well as venous thrombosis. There is a strong association with aplastic anemia. 11, Systemic diseases may 
+be associated with pancytopenias. These may include systemic lupus erythematosus, metabolic diseases, 
+brucellosis, sarcoidosis, and tuberculosis. 12, Replacement of the marrow by malignant or nonhematopoietic 
+cells may cause pancytopenias. Conditions include leukemia, lymphomas, and neuroblastoma metastases to 
+the bone marrow. Osteopetrosis may cause obliteration of the marrow. Myelofibrosis may also be a cause. 
+Myelodysplastic syndrome is rare in children; there is an increased risk of development with Down syn­
+drome, Kostmann syndrome, Noonan syndrome, Fanconi anemia, trisomy 8 mosaicism, neurofibromatosis, 
+and Shwachman syndrome. 13, In autoimmune pancytopenia the Coombs (direct antiglobulin) test is usually 
+positive. There is evidence of hemolysis with autoimmune hemolytic anemia. It is known as Evans syndrome 
+when the patient has autoimmune hemolytic anemia and immune thrombocytopenic purpura (ITP). There 
+may also be an associated autoimmune neutropenia. It may be associated with disorders such as systemic 
+lupus erythematosus (SLE). 14, Megaloblastic anemia (large RBCs with abnormal hypersegmented neutro­
+phils due to vitamin B12 or folate deficiency) is rare in children. Neutropenia and thrombocytopenia may be 
+present, particularly in patients with long-­standing and severe deficiencies. 15, Including autoimmune lymph­
+oproliferative syndrome (ALPS), common variable immune deficiency (CVID), and immune disregulation, poly­
+endocrinopathy, endocrinopathy, X-­linked (IPEX). MCV, mean corpuscular volume. (From Pomeranz A, Busey 
+S, Sabnis S, et al. Pediatric Decision-­Making Strategies. Philadelphia: Saunders; 2002:361. Data from Sills R. 
+Practical Algorithms in Pediatric Hematology and Oncology. Basel, Switzerland: Karger; 2003:114.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+936
+SECTION 9  Hematologic Disorders
+immunosuppressive therapy, tyrosine kinase inhibitors (TKIs), and 
+DNA hypomethylating agents.
+Syndromes associated with increased risk of developing MDS 
+include:
+ • CAMT
+ • Diamond-­Blackfan anemia
+ • Dyskeratosis congenita
+ • Fanconi anemia
+ • Severe congenital neutropenia
+ • Shwachman-­Diamond syndrome
+ • Bloom syndrome
+ • Li-­Fraumeni syndrome
+ • Neurofibromatosis type 1
+ • Noonan syndrome
+ • Wiskott-­Aldrich syndrome
+GATA2 deficiency is another genetic cause of MDS. Half of the 
+patients with GATA2 deficiency have de novo gene variants that effect 
+proliferation of hematopoietic stem cells. It is associated with immuno­
+deficiencies, aplastic anemia, MDS, and progression to AML. A history 
+of warts, lymphedema, hearing loss, or thrombosis might be clues to 
+this underlying diagnosis. The natural history is variable but typically 
+begins with cytopenias, including aplastic anemia and immune dis­
+regulation in the first decade of life followed by increased infections 
+and transformation to MDS in the second decade of life. Infectious 
+complications include nontuberculosis mycobacterial, bacterial, fun­
+gal (aspergillosis), and viral infections, including human papilloma­
+virus (HPV) and EBV. A bone marrow evaluation will initially show 
+hypocellularity but then progress to hypercellular marrow, which is 
+typically associated with MDS. Nearly 75% of patients will develop a 
+myeloid neoplasm by age 40 years. The curative therapy is HSCT, but 
+it is unknown when best to proceed with transplant. It is thought that 
+undergoing HSCT prior to developing the severe complications seen 
+later in life will improve outcomes.
+Nonmalignant Causes of Infiltration That Lead to 
+Pancytopenia
+Hemophagocytic lymphohistiocytosis (HLH) is a group of life-­
+threatening syndromes that results from an overactivation of the 
+immune system (Table 50.15). HLH is characterized by proliferation of 
+macrophages that produce excessive cytokines leading to widespread 
+organ dysfunction. HLH is manifest with fever, hepatosplenomegaly, 
+rash, high ferritin levels, pancytopenia, liver dysfunction, and hypo­
+fibrinogenemia. The diagnostic criteria can be seen in Table 50.16. 
+HLH can be familial or acquired, with the latter being more common. 
+TABLE 50.11  Major Clinical Features of 
+Shwachman-­Diamond Syndrome
+Clinical Feature
+% Present
+Hematologic*
+Neutropenia
+90%
+Severe (≤500/μL)
+46%
+Anemia
+46%
+Thrombocytopenia
+42%
+Pancytopenia
+21%
+Gastrointestinal
+Exocrine pancreatic insufficiency*
+98%
+Liver (elevated transaminases)
+61%
+Skeletal abnormalities
+70%
+Metaphyseal dysostosis
+53%
+Rib cage abnormalities
+35%
+Short stature (<3rd percentile)
+66%
+*Hematologic abnormalities and exocrine pancreatic insufficiency are 
+defining features of SDS, thus the near-­100% incidence of these findings.
+Data from Ginzberg H, Shin J, Ellis L, et al. Shwachman syndrome: 
+phenotypic manifestations of sibling sets and isolated cases 
+in a large patient cohort are similar. J Pediatr. 1999;135:81–88; 
+Cipolli M, D’Orazio C, Delmarco A, et al. Shwachman’s syndrome: 
+pathomorphosis and long-­term outcome. J Pediatr Gastroenterol 
+Nutr. 1999;29:265–272; and Kuijpers TW, Alders M, Tool AT, et al. 
+Hematologic abnormalities in Shwachman-­Diamond syndrome: lack of 
+genotype-­phenotype relationship. Blood. 2005;106:356–361.
+From Nelson Textbook of Pediatrics. 21st ed. Philadelphia: Elsevier; 
+2020:2573, Table 495.3.
+TABLE 50.12  Additional Genetic 
+Syndromes Associated with Pancytopenia
+Syndrome
+Classic Clinical 
+Features
+Possible Bone 
+Marrow Findings
+Down syndrome
+Up-­slanted palpebral 
+fissures, flattened nasal 
+bridge, nuchal folds, single 
+palmar flexion crease, 
+clinodactyly of the fifth 
+finger, hypotonia
+Aplastic anemia
+MDS
+Acute leukemias
+Noonan syndrome
+Hypertelorism, ptosis, short 
+neck, low-­set ears, short 
+stature, congenital heart 
+disease, and multiple 
+skeletal and hematologic 
+abnormalities
+JMML
+Amegakaryocytic 
+thrombocytopenia
+Pancytopenia
+Dubowitz 
+syndrome
+Eczema, small stature, mild 
+microcephaly, micrognathia
+Pancytopenia
+Hypoplastic anemia
+Bone marrow hypoplasia
+Aplastic anemia
+Seckel syndrome
+Growth failure, 
+developmental delay, 
+microcephaly, hypoplastic 
+face with prominent nose
+Aplastic anemia
+Malignancies
+Reticular 
+dysgenesis
+Severe combined 
+immunodeficiency with 
+congenital agranulocytosis
+Lymphopenia and 
+neutropenia
+Variable anemia and 
+thrombocytopenia
+Aplastic anemia
+Schimke 
+immunoosseous 
+dysplasia
+Pigmentary skin changes, 
+discolored and configured 
+teeth, renal dysfunction, 
+nephrotic syndrome
+Pancytopenia
+Cartilage-­hair 
+hypoplasia
+Metaphyseal dysostosis and 
+other skeletal findings; 
+short-­limbed dwarfism; 
+fine, sparse hair; GI 
+abnormalities
+Macrocytic anemia
+Neutropenia, 
+lymphopenia, 
+lymphoma
+GI, gastrointestinal; JMML, juvenile myelomonocytic leukemia; MDS, 
+myelodysplastic syndrome.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+937
+CHAPTER 50  Pancytopenia/Aplastic Anemia/Bone Marrow Failure
+Familial HLH is a result of genetic defects and secondary HLH can be 
+a result of underlying malignancy or infection.
+Leukoerythroblastosis is the presence of leukocytosis and eryth­
+roid and myeloid blasts in the peripheral blood. This is typically indic­
+ative of marrow stress leading to immature cells being pushed out to 
+peripheral blood. It can be seen with underlying malignancies, infec­
+tions, storage diseases, medications, myelofibrosis, and osteopetrosis. 
+The bone marrow can be replaced with underlying pathology leading 
+to pancytopenia, but often many of the cell lines are preserved.
+There are reports of leukoerythroblastosis in infants with underly­
+ing intrauterine parvovirus B19 infection. It has also been reported in 
+a patient with a severe malaria episode with bacterial superinfection 
+as well as a child with a bacterial abscess. Infections can lead to diffuse 
+infiltrates or granulomata (necrotizing or non-­necrotizing).
+Glycogen storage and lysosomal storage disorders are inherited 
+metabolic disorders caused by specific enzyme deficiencies. Glycogen 
+storage disorders lack the enzyme responsible for glycogen metabolism 
+and lead to accumulation of glycogen within liver or muscle. Type 1a 
+glycogen storage disease, a deficiency in glucose-­6-­phophatase, leads 
+to hepatosplenomegaly and hypoglycemia in infancy and can develop 
+hypertension, renal insufficiency, and hepatic adenomas. Type 1b is 
+associated with neutropenia and inflammatory bowel disease later in 
+life. Patients can also have severe anemia, often related to underlying 
+adenoma (type 1a) or inflammatory bowel disease (type 1b); type 1b 
+can have neutropenia, increased risk of bacterial infection, and the risk 
+of developing AML.
+Lysosomal storage disorders, due to the inability to degrade mac­
+romolecules, lead to the accumulation of these macromolecules within 
+multiple organs including the bone marrow. Mucopolysaccharidoses, 
+Tay-­Sachs disease, Fabry disease, Gaucher disease, Krabbe disease, 
+and Pompe disease are all examples of these disorders. The associated 
+symptoms vary, but in general there is accumulation of macromole­
+cules in the liver, spleen, brain, and bones leading to physical features 
+cellular
+Cytopenias
+in PID
+CID*
+WAS, WIP
+22q11
+[SAA, MDS-RCC]
+autoimmunity
+myelosuppression
+(virus) infection-mediated
+drug-induced; nutritional
+malignoma
+myelokathexis, WHIM
+myelodysplasia
+GATA2
+SCN1
+PNH
+DKC
+CHH, Schimke
+RD, SDS
+IKAROS deficiency
+& other syndromes
+bone marrow
+failure
+immune-
+disregulation
+antibody-mediated
+CVID
+ALPS
+[SLE]
+CID*
+Good
+LRBA
+[ITP, AIHA, AIN, ES]
+phagocytosis
+hemo-
+IPEX(-like)
+FHL1-5
+Griscelli
+CHS, HPS-2
+lympho-
+proliferation
+XLP-1,2
+CD27
+ITK
+ALPS
+Fig. 50.4  Synopsis of cytopenias in primary immunodeficiency (PID). Conceptual overview, excluding primary 
+defects of phagocyte number or function, inherited non-­PID bone marrow failure syndromes, and disorders of iso­
+lated lymphopenia (without other cytopenia). *Includes hypomorphic gene variants in SCID genes, CD40, CD40L, 
+and other combined immunodeficiencies such as radiosensitive disorders, defects in the Ca2+ channel, and acti­
+vating PI3K syndrome. AIHA, autoimmune hemolytic anemia; AIN, autoimmune neutropenia; ALPS, autoimmune 
+lymphoproliferative syndrome; CHH, cartilage hair hypoplasia; CHS, Chediak-­Higashi syndrome; CID, combined 
+immunodeficiency; CVID, common variable immunodeficiency; DKC, dyskeratosis congenita; ES, Evans syn­
+drome; FHL1-­5, familial hemophagocytic lymphohistiocytosis 1-­5; HPS-­2, Hermansky-­Pudlak syndrome 2; IPEX, 
+immune dysregulation, polyendocrinopathy, and enteropathy X-linked syndrome; ITK, IL-­2–inducible T-­cell kinase 
+deficiency; ITP, immune thrombocytopenia; LRBA, lipopolysaccharide-­responsive beigelike anchor deficiency; 
+MDS, myelodysplastic syndrome; PNH, paroxysmal nocturnal hemoglobinuria; RCC, refractory cytopenia of 
+childhood; RD, reticular dysgenesis; SAA, severe aplastic anemia; SCN1, severe congenital neutropenia 1; SDS, 
+Shwachman-­Diamond syndrome; SLE, systemic lupus erythematosus; WHIM, warts, hypogammaglobulinemia, 
+immunodeficiency, myelokathexis; WIP, WAS protein–interacting protein; XLP-­1,2, X-­linked lymphoproliferative 
+disease 1,2. (From Seidel MG. Autoimmune and other cytopenias in primary immunodeficiencies: pathomecha­
+nisms, novel differential diagnoses, and treatment. Blood. 2014;124(15):2337–2344 [Fig. 1, p. 2338].)
+TABLE 50.13  Camitta Criteria for Severity 
+of Aplastic Anemia
+Moderate or Nonsevere
+Decreased Bone Marrow 
+Cellularity and Cytopenias but 
+not Fulfilling Severe Criteria
+Severe
+Bone marrow cellularity <25%
+AND at least two of the following:
+ • ANC <500
+ • Platelet count <20,000
+ • Reticulocyte count <60,000
+Very severe
+Severe criteria
+AND
+ • ANC <200
+ANC, absolute neutrophil count.
+Adapted from Hartung H, Olson, T, Bessler M. Acquired aplastic anemia 
+in children. Pediatr Clin North Am. 2013;60(6):1311–1336, Box 1, p. 2.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+938
+SECTION 9  Hematologic Disorders
+characteristic of each. There can also be accumulation within the bone 
+marrow leading to replacement of normal hematopoietic stem cells 
+and cytopenias as well as leukoerythroblastosis; Gaucher disease is the 
+prototype of these disorders affecting the marrow.
+Medications have been reported to cause leukoerythroblastosis, 
+also known as leukemoid reaction. These include G-­CSF, corticoste­
+roids, tetracycline, streptokinase, and antiepileptic drugs.
+Myelofibrosis is a clonal disorder of stem cells that can lead to 
+cytopenias, hepatosplenomegaly, and bone marrow fibrosis. Primary 
+myelofibrosis is rare in pediatrics but can be aggressive and often 
+requires HSCT.
+Osteopetrosis is characterized by arrest or dysfunction of osteo­
+clast formation, which leads to increased bone mass. Patients are also 
+prone to fractures. The classic radiographic finding is a “bone-­in-­bone” 
+appearance (Fig. 50.5). The increased bone mass prevents normal 
+development of bone marrow leading to extramedullary hematopoie­
+sis. Patients can present with anemia, thrombocytopenia, or even pan­
+cytopenia. Bone growth around cranial nerve foramina may produce 
+vision and hearing impairment.
+Megaloblastic Anemia
+Megaloblastic anemia is characterized by macrocytic anemia but can 
+often present with pancytopenia. Peripheral blood smear may show 
+hypersegmented neutrophils; marrow evaluation reveals megaloblastic 
+morphology affecting erythroid, myeloid, and platelet precursors. This 
+is often a result of nutritional deficiencies, such as vitamin B12 or folate.
+Vitamin B12
+Vitamin B12, or cobalamin, must be obtained through dietary intake; 
+deficiency often occurs in patients with unsupplemented vegan diets or 
+minimal meat intake. Cobalamin is absorbed in the ileum so patients 
+with poor absorption, such as celiac disease, inflammatory bowel dis­
+ease, or diseases requiring bowel resection, are also at risk. Intrinsic 
+factor is responsible for the absorption of cobalamin. Pernicious ane­
+mia, an acquired deficiency of intrinsic factor, is the most common 
+cause of severe cobalamin in adults. Rarely, infants can have a con­
+genital intrinsic factor deficiency; there are several rare inborn errors 
+of cobalamin uptake and transport. In addition to the hematologic 
+manifestations of cobalamin deficiency, patients can also present with 
+neurologic (central or peripheral) symptoms; heart failure may develop 
+when there is severe anemia. Neurologic symptoms can be irrevers­
+ible without treatment and include developmental delay; posterior 
+column deficits, such as loss of vibration and proprioception; pares­
+thesia; peripheral neuropathy; weakness; ataxia; and seizures. Signifi­
+cant cobalamin deficiency can occur without hematologic changes; the 
+neurologic findings can precede the megaloblastic anemia. Diagnostic 
+testing includes low serum cobalamin as well the cobalamin precursors 
+because some patients can have vitamin B12 levels in the normal range, 
+TABLE 50.14  World Health Organization Classification of Pediatric Myelodysplastic Syndrome 
+(MDS)
+Peripheral
+Marrow
+MDS with single-­lineage dysplasia
+<1% blasts
+<5% blasts
+≥10% unilineage dysplasia
+<15% ringed sideroblasts
+MDS with ring sideroblasts
+No blasts
+<5% blasts
+≥15% ring sideroblasts
+MDS with multilineage dysplasia
+<1% blasts
+No Auer rods
+<1 × 109 monocytes
+<5% blasts
+≥10% dysplasia in two or more myeloid lineages
+±15% sideroblasts
+No Auer rods
+MDS with excess blasts-­1
+<5% blasts
+No Auer rods
+<1 × 109 monocytes
+5–9% blasts
+Single or multilineage dysplasia
+No Auer rods
+MDS with excess blasts-­2
+5–19% blasts
+Auer rods
+<1 × 109 monocytes
+10–19% blasts
+Single or multilineage dysplasia
+Auer rods
+MDS with isolated del(5q)
+Anemia
+<1% blasts
+Normal to increased platelet count
+<5% blasts
+No Auer rods
+Normal to increased megakaryocytes (hypolobulated nuclei)
+Isolated del(5q)
+MDS-­unclassifiable
+Cytopenias
+≤1% blasts
+<5% blasts
+<10% dysplasia in one or more myeloid lineages
+Cytogenetic abnormality associated with MDS (i.e., unbalanced: +8, −7 or del(7q), 
+−5 or del(5q), del(20q), −Y, i(17q) or t(17p), −13 or del(13q), del(11q), del(12p) or 
+t(12p), del(9q), idic(X)(q13); balanced: t(11;16)(q23;p13.3), t(3;21)(q26.2;q22.1), 
+t(1;3)(p36.3;q21.2), t(2;11)(p21;q23), inv(3)(q21q26.2), t(6;9)(p23;q34))
+Adapted from Arber et al. The 2016 revision to the World Health Organization classification of myeloid neoplasms and acute leukemia. Blood. 
+2016;127(2):2391–2405, Table 1, p. 2392; National Cancer Institute. Childhood acute myeloid leukemia/other myeloid malignancies treatment, 
+Table 3, “World Health Organization (WHO) Classification of Bone Marrow and Peripheral Blood Findings for Myelodysplastic Syndromes 
+(MDS),” https://www.cancer.gov/types/leukemia/hp/child-­aml-­treatment-­pdq#link/_74; and Arceci R, Meshinchi S. Acute myeloid leukemia and 
+myelodysplastic syndromes. In: Pizzo P, Poplack D, Adamson P, et al., eds. Principles and Practice of Pediatric Oncology. 7th ed. Philadelphia: 
+Wolters Kluwer; 2016:498–505.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+939
+CHAPTER 50  Pancytopenia/Aplastic Anemia/Bone Marrow Failure
+TABLE 50.15  Hemophagocytic Lymphohistiocytosis (HLH)
+Disease
+Gene
+Protein
+Percentage of 
+fHLH
+Immune Impairment
+Unique Clinical Characteristics
+fHLH-­1
+Unknown 
+9q21.3–22
+Rare
+fHLH-­2
+PRF1
+Perforin
+∼20–37, 789 50delT 
+mainly in African 
+American/African 
+descent
+Cytotoxicity; forms pores in APCs
+fHLH-­3
+UNC13D
+Munc13–4
+20–33
+Cytotoxicity; vesicle priming
+Increased incidence of CNS HLH
+fHLH-­4
+STX11
+Syntaxin 11
+<5
+Cytotoxicity; vesicle fusion
+Mild, recurrent HLH and colitis
+fHLH-­5
+STXBP2
+Syntaxin binding 
+protein 2
+5–20
+Cytotoxicity; vesicle fusion
+Colitis and hypogammaglobulinemia
+Syndromes with Partial Oculocutaneous Albinism
+Griscelli syndrome
+RAB27A
+Rab27A
+∼5
+Cytotoxicity; vesicle docking
+Partial albinism and silver-­gray hair
+Chediak-­Higashi 
+syndrome
+LYST
+Lyst
+∼2
+Cytotoxicity; heterogeneous defects 
+in NK cells
+Partial albinism, bleeding tendency, and 
+recurrent infections
+Hermansky-­Pudlak 
+syndrome type II
+AP3B1
+AP-­3 complex 
+subunit β1
+Rare
+Cytotoxicity; vesicle trafficking
+Partial albinism and bleeding tendency
+EBV-­Driven and Rare Causes
+XLP1
+SH2D1A
+SAP
+∼7
+Signaling in cytotoxic NK and T cells
+Hypogammaglobulinemia and lymphoma
+XLP2
+BIRC4
+XIAP
+∼2
+NK T-­cell survival and NF-­κB 
+signaling
+Mild, recurrent HLH and colitis
+ITK deficiency
+ITK
+ITK
+Rare
+IL-­2 signaling in T cells
+Hypogammaglobulinemia, autoimmunity, and 
+Hodgkin lymphoma
+CD27 deficiency
+CD27
+CD27
+Rare
+Signal transduction in lymphocytes
+Combined immunodeficiency and lymphoma
+XMEN syndrome
+MAGT1
+MAGT1
+Rare
+Magnesium transporter, induced by 
+TCR stimulation
+Lymphoma, recurrent infections, and CD4 
+T-­cell lymphopenia
+EBV, Epstein-­Barr virus; ITK, interleukin-­2–inducible T-­cell kinase; NF-­κB, nuclear factor kappa-­B; TCR, T-­cell receptor.
+Data from Bondarenko EI. Experiences in the medical service for miners [article in Russian]. Med Sestra. 1978 Nov;37(11):47–49; and Kliegman 
+RM, Bordini BJ, eds. Undiagnosed and rare diseases in children. Pediatr Clin North Am. 2017;64(1):91–109 (Table 1, p. 95).
+TABLE 50.16  Hemophagocytic Lymphohistiocytosis (HLH) Diagnostic Criteria
+HLH Can Be Established if Either A or B Is Fulfilled
+A
+A molecular diagnosis is consistent with HLH (see Table 50.15)
+B
+Diagnostic criteria (five out of the eight criteria below)
+Cause
+1
+Fever
+Increased IL-­1 and IL-­6 levels
+2
+Splenomegaly
+Organ infiltration by lymphocytes and histiocytes
+3
+ • Cytopenias (affecting two of three lineages on peripheral blood)
+ • Hemoglobin <9 g/dL (or infants <4 wk old, use <10 g/dL)
+ • Platelets <100 × 109/L
+ • Neutrophils <1 × 109/L
+Increased TNF-­α and IFN-­γ
+4
+ • Hypertriglyceridemia and/or hypofibrinogenemia
+ • Fasting triglycerides ≥265 mg/dL
+ • Fibrinogen ≤1.5 g/L
+Increased TNF-­α inhibits lipoprotein lipase
+Activated macrophages secrete plasminogen activator, 
+which results in high plasmin levels and hyperfibrinolysis
+5
+Hemophagocytosis in bone marrow or spleen or lymph nodes
+Activated macrophages
+6
+Low or absent NK-­cell activity (using local laboratory reference)
+7
+Ferritin ≥500 mg/L*a
+Activated macrophages secrete ferritin
+8
+Soluble CD25 (i.e., soluble IL-­2 receptor) ≥2,400 U/mL
+From activated lymphocytes (sIL-­2R)
+*A ferritin level of >500 ng/mL is nonspecific and can be seen in a variety of diseases, including shock, chronic transfusions, immunodeficiency, 
+liver disease, cystic fibrosis, malignancy, after transplant, and autoimmune diseases. Experts often use a ferritin level of >2,000 ng/mL as concerning 
+and >10,000 ng/mL as highly suspicious for HLH. The sensitivity and specificity for HLH with a ferritin level >10,000 ng/mL are ∼90% and >95%, 
+respectively.
+IFN, interferon; IL, interleukin; TNF, tumor necrosis factor.
+Data from Allen CE, McClain KL. Pathophysiology and epidemiology of hemophagocytic lymphohistiocytosis. Hematology Am Soc Hematol Educ 
+Program. 2015;2015:177–182; Janka GE. Hemophagocytic syndromes. Blood Rev. 2007;21:245–253. Henter J, Horne A, Aricó M, et al. HLH-2004: 
+diagnostic and therapeutic guidelines for hemophagocytic lymphohistiocytosis. Pediatr Blood Cancer. 2007;48:124–131.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+940
+SECTION 9  Hematologic Disorders
+but because methylmalonic acid and homocysteine accumulate in 
+cobalamin deficiency, these levels are helpful in making this diagnosis. 
+Patients are treated with supplemental cobalamin often in intramuscu­
+lar replacements until response with simultaneous dietary changes or 
+indefinitely for patients with absorption etiologies.
+Folate Deficiency
+Folate is widely available in many foods, and since folate fortification of 
+foods in the United States, this nutritional deficiency remains rare. It is 
+seen in severe malnutrition and alcohol use. Patients with poor folate 
+absorption due to inflammatory bowel disease, intestinal resection, or 
+certain medications (antiepileptic drugs, methotrexate, trimethoprim) 
+are also at risk of folate deficiency. Goat’s milk is low in folate, so a 
+careful review of infants’ and young children’s milk intake is necessary. 
+Patients present similarly to those with cobalamin deficiency and have 
+the same hematologic and bone marrow findings. Serum folate levels 
+are low within 2 weeks of deficiency and the RBC folate level decreases 
+slowly over 3–4 months. Homocysteine will also be increased, but 
+unlike cobalamin deficiency, there is no accumulation of methylmalo­
+nic acid. Supplemental folic acid and improvement in dietary intake are 
+essential to treating this deficiency.
+Myelodysplasia often presents similarly to other causes of meg­
+aloblastic anemia with macrocytosis, megaloblastic changes, and 
+pancytopenia. Bone marrow evaluation and cytogenetics will help 
+differentiate the underlying etiology, which can guide appropriate 
+therapy. Drugs that cause megaloblastic anemia include antineoplastic 
+agents, immunomodulators, antibiotics, antimalarial medications, and 
+antiepileptic medications.
+Dyserythropoietic anemia is characterized by abnormal erythropoi­
+esis leading to defective RBC production. This can be inherited, such 
+as congenital dyserythropoietic anemias, or acquired. In addition to 
+defective production of RBCs and reticulocytopenia, hemolysis can also 
+be seen in these conditions. Patients present with anemia, jaundice, and 
+splenomegaly. In addition to the anemia and hemolysis, marrow find­
+ings reveal dyserythropoietic changes and megaloblastic changes. Man­
+agement includes supportive blood transfusions, and there are reports of 
+successful bone marrow transplantation for some of these patients.
+Increased Reticulocytes/Evidence of Hemolysis
+Coombs Positive
+A patient presenting with pancytopenia but with increased reticu­
+locyte count indicates a possible cellular destructive etiology. Other 
+evidence of hemolysis might be present, such as jaundice, hemo­
+globinuria, and elevated indirect bilirubin. The direct Coombs test, 
+or direct antiglobulin test (DAT), can further narrow the differen­
+tial diagnosis. The DAT can identify antibodies and complement 
+components on the surface of circulating erythrocytes. When the 
+DAT is positive, this is indicative of an antibody-­mediated destruc­
+tion of RBCs. Destruction of other cell lines can also be seen with 
+concomitant immune destruction of RBCs leading to autoimmune 
+pancytopenia.
+Autoimmune
+Autoimmune hemolytic anemia (AIHA) is antibody-­mediated 
+destruction of RBCs and can be classified into primary or second­
+ary. Warm-­reactive AIHA is the most common form and involves 
+immunoglobulin G autoantibodies that lead to hemolysis. Other less 
+common forms include paroxysmal cold hemoglobinuria and cold-­
+agglutinin disease. Secondary AIHA is a result of another underlying 
+diagnosis including autoimmune disorders, malignancies, medi­
+cations, primary immunodeficiency diseases, and infections. These 
+secondary causes often result in antibody-­mediated destruction of 
+other cell lines, which can result in pancytopenia. Evans syndrome 
+classically is associated with AIHA and immune-­mediated thrombo­
+cytopenia but can have autoimmune neutropenia. Evans syndrome 
+may be idiopathic or due to systemic lupus erythematosus, CVID, 
+ALPS, or IPEX syndromes.
+Coombs Negative
+Sepsis/Shock
+DAT-­negative hemolysis and pancytopenia can be a result of dimin­
+ished cell production or increased cell destruction.
+Disseminated intravascular consumption (DIC) is an 
+acquired disorder of hemostasis that is characterized by increased 
+thrombin formation, decreased anticoagulation, activation and 
+A
+B
+C
+Fig. 50.5  Osteopetrosis. Frontal radiograph of the chest (A) and posteroanterior image of the right wrist (B) 
+demonstrate diffusely dense bones in a young child with osteopetrosis. C, Mortise view of the right ankle in 
+an older child shows a pathologic fracture through the distal tibia in the setting of diffusely increased bone 
+density. The “bone within bone” or “picture frame” appearance is noted, most pronounced in the metatar­
+sals. (From Walters MM, Robertson RL. Pediatric Radiology: The Requisites. 4th ed. Philadelphia: Elsevier; 
+2017:211, Fig. 7.43.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+941
+CHAPTER 50  Pancytopenia/Aplastic Anemia/Bone Marrow Failure
+impairment of fibrinolysis, and activation of inflammatory 
+pathways. This is often associated with thrombocytopenia, but 
+pancytopenia can be seen. Patients can have both bleeding and 
+thrombosis as a result of the consumption of both procoagulant 
+and anticoagulant factors. In addition to cytopenias, there are pro­
+longed prothrombin time (PT) and partial thromboplastin time 
+(PTT) and low fibrinogen all consistent with this consumption. 
+Peripheral blood smear may reveal schistocytes. The most com­
+mon cause of DIC in children is shock. Management of DIC is 
+supportive but focused on identifying and treating the underlying 
+cause.
+Splenic Sequestration and Hypersplenism
+The spleen filters all RBCs daily and removes any abnormal cells. In 
+the setting of AIHA, sickle cell anemia, portal hypertension, and vari­
+ous erythrocyte membrane disorders, the erythrocytes can be trapped 
+within the spleen. Splenic sequestration, or enlargement of the spleen 
+when blood cannot exit the spleen during filtration, leads to pooling of 
+blood and expansion of the spleen. Hypersplenism starts as expansion 
+of the spleen due to RBC pooling and then becomes a reservoir for all 
+blood cells, which can lead to other cytopenias. Splenomegaly can also 
+occur in the setting of liver disease due to portal hypertension. This can 
+result in hypersplenism leading to cytopenias over time.
+   	 R E D  F L A G S
+Pancytopenia often becomes evident by bleeding (purpura, petechiae) 
+or pallor. A CBC confirms the presence of anemia, neutropenia, and 
+thrombocytopenia. Persistent, congenital, familial, and severe pancy­
+topenia are potentially life-­threatening conditions. Red flags include 
+fevers, lymphadenopathy, hepatosplenomegaly, bone pain, blasts noted 
+on the peripheral smear, hemophagocytosis, and congenital anomalies. 
+Disorders not to miss include leukemia, lymphoma, HLH, and genetic 
+causes of bone marrow failure.
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+941.e1
+BIBLIOGRAPHY
+Pancytopenia Introduction
+Gajjar R, Jalazo E. Hematology. Table 14-­1 age-­specific blood cell indices. 
+In: Harriet Lane Handbook: A Manual for Pediatric Housestaff. 20th ed. 
+Philadelphia: Elsevier; 2014:305–306.
+Pomeranz AJ, Sabnis S, Busey SL, et al. Pediatric Decision-­Making Strategies. 
+2nd ed. Philadelphia: Elsevier Saunders; 2016.
+Sills RH. Practical Algorithms in Pediatric Hematology and Oncology. Basel, 
+New York: Karger; 2003.
+Inherited
+Agarwal S. Evaluation and management of hematopoietic failure in dyskeratosis 
+congenita. Hematol Oncol Clin North Am. 2018;32(4):669–685.
+Bull MJ. Down syndrome. N Engl J Med. 2020;382(24):2344–2352.
+Burroughs L, Woolfrey A, Shimamura A. Shwachman-­Diamond syndrome: a 
+review of the clinical presentation, molecular pathogenesis, diagnosis, and 
+treatment. Hematol Oncol Clin North Am. 2009;23(2):233–248.
+Dokal I. Dyskeratosis congenita. Hematology Am Soc Hematol Educ Program. 
+2011;2011:480–486.
+Ebens CL, MacMillan ML, Wagner JE. Hematopoietic cell transplantation 
+in Fanconi anemia: current evidence, challenges and recommendations. 
+Expert Rev Hematol. 2017;10(1):81–97.
+Faber J, Lauener R, Wick F, et al. Shwachman-­Diamond syndrome: early 
+bone marrow transplantation in a high risk patient and new clues to 
+pathogenesis. Eur J Pediatr. 1999;158(12):995–1000.
+Fernandez Garcia MS, Teruya-­Feldstein J. The diagnosis and treatment of 
+dyskeratosis congenita: a review. J Blood Med. 2014;5:157–167.
+Geddis AE. Congenital amegakaryocytic thrombocytopenia. Pediatr Blood 
+Cancer. 2011;57(2):199–203.
+Green AM, Kupfer GM. Fanconi anemia. Hematol Oncol Clin North Am. 
+2009;23(2):193–214.
+Kliegman R, Behrman RE, Nelson WE. Nelson Textbook of Pediatrics. 20th ed. 
+Philadelphia: Elsevier; 2016.
+Kupfer GM. Fanconi anemia: a signal transduction and DNA repair pathway. 
+Yale J Biol Med. 2013;86(4):491–497.
+Luca D. Fanconi anemia. 2019. https://www.pathologyoutlines.com/topic/
+bonemarrowfanconis.html. Accessed June 10th, 2020.
+Acquired
+Bacigalupo A. How I treat acquired aplastic anemia. Blood. 2017;129(11):1428–
+1436.
+Brodsky RA. Paroxysmal nocturnal hemoglobinuria. Blood. 
+2014;124(18):2804–2811.
+Camitta BM, Rappeport JM, Parkman R, et al. Selection of patients for bone 
+marrow transplantation in severe aplastic anemia. Blood. 1975;45(3):355–
+363.
+Devos T, Meers S, Boeckx N, et al. Diagnosis and management of PNH: 
+review and recommendations from a Belgian expert panel. Eur J Haematol. 
+2018;101(6):737–749.
+Hartung HD, Olson TS, Bessler M. Acquired aplastic anemia in children. 
+Pediatr Clin North Am. 2013;60(6):1311–1336.
+Kliegman R, Behrman RE, Nelson WE. Nelson Textbook of Pediatrics. 20th ed. 
+Philadelphia: Elsevier; 2016.
+Peslak SA, Olson T, Babushok DV. Diagnosis and treatment of aplastic 
+anemia. Curr Treat Options Oncol. 2017;18(12):70.
+Riveros-­Perez E, Hermesch AC, Barbour LA, et al. Aplastic anemia during 
+pregnancy: a review of obstetric and anesthetic considerations. Int J 
+Womens Health. 2018;10:117–125.
+Valdez JM, Scheinberg P, Young NS, et al. Infections in patients with aplastic 
+anemia. Semin Hematol. 2009;46(3):269–276.
+Young NS, Calado RT, Scheinberg P. Current concepts in the pathophysiology 
+and treatment of aplastic anemia. Blood. 2006;108(8):2509–2519.
+Marrow Replacement
+Arber DA, et al. The 2016 revision to the World Health Organization 
+classification of myeloid neoplasms and acute leukemia. Blood. 
+2016;127(2):2391–2405, Table 1, p. 2392.
+Arceci R, Meshinchi S, Myeloid leukemia acute, syndromes myelodysplastic. 
+In: Pizzo P, Poplack D, Adamson P, et al., eds. Principles and Practice of 
+Pediatric Oncology. 7th ed. Philadelphia: Wolters Kluwer; 2016:498–505.
+Babushok DV, Bessler M, Olson TS. Genetic predisposition to myelodysplastic 
+syndrome and acute myeloid leukemia in children and young adults. Leuk 
+Lymphoma. 2016;57(3):520–536.
+Barnea Slonim L, Glasser C. Infantile osteopetrosis. J Pediatr Hematol Oncol. 
+2018;40(3):225–226.
+Bogaert DJ, Laureys G, Naesens L, et al. GATA2 deficiency and haematopoietic 
+stem cell transplantation: challenges for the clinical practitioner. Br J 
+Haematol. 2020;188(5):768–773.
+Canbolat Ayhan A, Timur C, Ayhan Y, et al. Leukoerythroblastosis mimicking 
+leukemia: a case report. Iran J Pediatr. 2014;24(3):332–333.
+Childhood Acute Myeloid Leukemia/Other Myeloid Malignancies Treatment, 
+National Cancer Institute, https://www.cancer.gov/types/leukemia/hp/
+child-­aml-­treatment-­pdq#link/_74. Table 3, “World Health Organization 
+(WHO) Classification of bone marrow and peripheral blood findings for 
+myelodysplastic syndromes (MDS)”.
+Dale DC, Bolyard AA, Marrero T, et al. Neutropenia in glycogen storage 
+disease Ib: outcomes for patients treated with granulocyte colony-­
+stimulating factor. Curr Opin Hematol. 2019;26(1):16–21.
+DeLario MR, Sheehan AM, Ataya R, et al. Clinical, histopathologic, and 
+genetic features of pediatric primary myelofibrosis—an entity different 
+from adults. Am J Hematol. 2012;87(5):461–464.
+Duran R, Vatansever U, Acunas B, et al. Transient leukoerythroblastosis in a 
+very low birth weight infant with parvovirus B19 infection. Int J Infect Dis. 
+2009;13(6):e473–e475.
+Grossman J, Cuellar-­Rodriguez J, Gea-­Banacloche J, et al. Nonmyeloablative 
+allogeneic hematopoietic stem cell transplantation for GATA2 deficiency. 
+Biol Blood Marrow Transplant. 2014;20(12):1940–1948.
+Gulen H, Basarir F, Hakan N, et al. Premature labor and leukoerythroblastosis 
+in a newborn with parvovirus B19 infection. Haematologica. 2005;90 
+Suppl:ECR38.
+Halkes CJ, Dijstelbloem HM, Eelkman Rooda SJ, et al. Extreme leucocytosis: 
+not always leukaemia. Neth J Med. 2007;65(7):248–251.
+Henter JI, Horne A, Arico M, et al. HLH-­2004: diagnostic and therapeutic 
+guidelines for hemophagocytic lymphohistiocytosis. Pediatr Blood Cancer. 
+2007;48(2):124–131.
+Hickstein D. HSCT for GATA2 deficiency across the pond. Blood. 
+2018;131(12):1272–1274.
+Kliegman RM, St. Geme III JW, Blum NJ, et al. Nelson Textbook of Pediatrics. 
+21st ed. Philadelphia: Elsevier; 2020.
+McReynolds LJ, Calvo KR, Holland SM. Germline GATA2 mutation and bone 
+marrow failure. Hematol Oncol Clin North Am. 2018;32(4):713–728.
+Mupanomunda OK, Alter BP. Transient erythroblastopenia of childhood 
+(TEC) presenting as leukoerythroblastic anemia. J Pediatr Hematol Oncol. 
+1997;19(2):165–167.
+Parta M, Shah NN, Baird K, et al. Allogeneic hematopoietic stem cell 
+transplantation for GATA2 deficiency using a busulfan-­based regimen. Biol 
+Blood Marrow Transplant. 2018;24(6):1250–1259.
+Rao, K, Drug-induced hematologic disorders. In Organ-­Specific Function Tests 
+and Drug-­Induced Diseases. 2014:359–374.
+Rice GM, Steiner RD. Inborn errors of metabolism (metabolic disorders). 
+Pediatr Rev. 2016;37(1):3–15; quiz 16-­17, 47.
+Singh ZN, Huo D, Anastasi J, et al. Therapy-­related myelodysplastic syndrome: 
+morphologic subclassification may not be clinically relevant. Am J Clin 
+Pathol. 2007;127(2):197–205.
+Sun A. Lysosomal storage disease overview. Ann Transl Med. 2018;6(24):476.
+Teti A, Teitelbaum SL. Congenital disorders of bone and blood. Bone. 
+2019;119:71–81.
+Varo R, Sitoe A, Cossa A, et al. Leukoerythroblastosis in a young child with 
+severe malaria and superimposed gram negative infection. J Trop Pediatr. 
+2018;64(6):553–556.
+Wang DQ, Carreras CT, Fiske LM, et al. Characterization and pathogenesis 
+of anemia in glycogen storage disease type Ia and Ib. Genet Med. 
+2012;14(9):795–799.
+Wlodarski MW, Collin M, Horwitz MS. GATA2 deficiency and related 
+myeloid neoplasms. Semin Hematol. 2017;54(2):81–86.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+References
+941.e2
+Zeng Q, Wu Y, Zhan Y, et al. Leukemoid reaction secondary to 
+hypersensitivity syndrome to phenobarbital: a case report. Int J Clin Exp 
+Pathol. 2013;6(1):100–104.
+Megaloblastic Anemia
+Dobrozsi S, Flood VH, Panepinto J, et al. Vitamin B12 deficiency: the great 
+masquerader. Pediatr Blood Cancer. 2014;61(4):753–755.
+Gambale A, Iolascon A, Andolfo I, et al. Diagnosis and management of congenital 
+dyserythropoietic anemias. Expert Rev Hematol. 2016;9(3):283–296.
+Hesdorffer CS, Longo DL. Drug-­Induced megaloblastic anemia. N Engl J Med. 
+2015;373(17):1649–1658.
+Orkin SH, Nathan DG. Nathan and Oski’s Hematology of Infancy and 
+Childhood. 7th ed. Philadelphia: Saunders/Elsevier; 2009.
+Increased Reticulocytes/Evidence of Hemolysis
+McCormick PA, Murphy KM. Splenomegaly, hypersplenism and coagulation 
+abnormalities in liver disease. Baillieres Best Pract Res Clin Gastroenterol. 
+2000;14(6):1009–1031.
+Orkin SH, Nathan DG. Nathan and Oski’s Hematology of Infancy and 
+Childhood. 7th ed. Philadelphia: Saunders/Elsevier; 2009.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+

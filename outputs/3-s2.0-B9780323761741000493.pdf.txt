@@ -1,0 +1,2734 @@
+905
+Pallor, a perceptible reduction in the usual color and tone of the skin 
+and/or mucosa, is a highly nonspecific finding that may be a manifes­
+tation of a diversity of diseases or may be normal for a given individ­
+ual. It may result from alterations of cutaneous blood flow, anemia, or 
+unknown mechanisms. Under normal circumstances the pink appear­
+ance of the lips, mucosa, and skin is influenced by the nature and char­
+acter of these tissues, the adequacy of vascular perfusion, and the level 
+of hemoglobin. Because pallor is most often associated with anemia, 
+parental perception of it frequently generates considerable anxiety. 
+However, a broad diagnostic approach is most appropriate (Table 49.1).
+Anemia is the condition in which hemoglobin level (or hematocrit) 
+is more than 2 standard deviations below the mean for age. Anemia 
+is clinically relevant only when the low hemoglobin level results in 
+decreased oxygen-­carrying capacity of the blood. By definition, 2.5% of 
+the general population has a hemoglobin or hematocrit level below the 
+defined limits of normal. This fact must be kept in mind when evaluat­
+ing children with mild anemia for which no explanation can be iden­
+tified. Hemoglobin level varies considerably with age and sex (Table 
+49.2). Newborns have relatively high levels of circulating hemoglobin 
+due to intrauterine adaptation to a relatively hypoxic environment. The 
+postnatal oxygen rich environment results in decreased erythropoietin 
+production, and hemoglobin production markedly diminishes for the 
+first 2 months of life until a physiologic nadir occurs. The mean hemo­
+globin level rises gradually during childhood equally for both males 
+and females until puberty when boys achieve a level approximately 
+20% higher than that of females.
+Under normal conditions, the body’s red blood cell (RBC) mass 
+is maintained at a level appropriate to support tissue oxygen needs 
+through the oxygen-­sensing regulatory feedback stimulus of the hor­
+mone erythropoietin. Produced in the kidney, erythropoietin stimu­
+lates the production of mature RBCs within the bone marrow. Over 
+a 3-­ to 5-­day period, RBC precursors mature into reticulocytes that 
+are released into the peripheral blood. In 24–48 hours, reticulocytes 
+become mature RBCs that circulate in the peripheral blood for approx­
+imately 120 days. Senescent RBCs are removed from the circulation by 
+reticuloendothelial cells within the spleen, liver, and bone marrow. A 
+metabolic by-­product of hemoglobin catabolism is bilirubin. The iron 
+from senescent RBCs is efficiently recycled for the production of new 
+erythrocytes. Anemia occurs as the result of one or a combination of 
+three pathophysiologic mechanisms:
+ • Acute blood loss
+ • Impaired bone marrow production of RBCs
+ • Increased peripheral destruction of RBCs (hemolysis)
+HISTORY
+There are several important aspects of the history that can assist 
+in the evaluation of a patient with pallor and suspected anemia. 
+Assessment of sun exposure and familial patterns of complexion are 
+crucial because many patients are intrinsically pale, and a child with 
+pallor is not necessarily anemic. A careful evaluation of the medical 
+history is fundamental in the assessment of a patient with suspected 
+pallor (Table 49.3).
+A neonatal history of hyperbilirubinemia supports a possible diag­
+nosis of congenital hemolytic anemia such as hereditary spherocyto­
+sis. This can be further supported by a family history of anemia, blood 
+transfusions, splenectomy, and/or cholecystectomy.
+Obtaining a dietary history is very important when evaluating a 
+patient for anemia. Infants delivered prematurely or exclusively breast-­
+fed infants without adequate iron supplementation from infant foods 
+in the second half of their first year of life are at risk for iron-­deficiency 
+anemia. Toddlers who consume large amounts of cow’s milk and 
+children and adolescents who consume little meat are also at risk for 
+iron-­deficiency anemia. In addition, patients and breast-­fed infants 
+of mothers who follow a strict vegan diet may become deficient in 
+­vitamin B12.
+Clinical history should also include assessment for blood loss. In 
+adolescent females, menstrual history suggestive of abnormal uterine 
+bleeding and/or heavy menstrual bleeding increases risk for iron defi­
+ciency. All children should be assessed for gastrointestinal (GI) symp­
+toms that would be suggestive of occult or gross GI blood loss as well. 
+Pulmonary hemorrhage is a rare source of blood loss in children but 
+should be considered in a child with iron-­deficiency anemia and recur­
+rent pulmonary issues including pneumonia or wheezing.
+Medication history is pertinent because certain drugs, including 
+antimalarial agents and sulfonamide antibiotics, can induce oxidant-­
+associated hemolysis in the patient deficient in glucose-­6-­phosphate 
+dehydrogenase (G6PD), whereas other medications may cause immune 
+hemolysis (penicillin) or decreased RBC production (chlorampheni­
+col). Travel history may suggest exposure to infections such as malaria.
+PHYSICAL EXAMINATION
+The general appearance of the child can provide clues to the severity 
+and chronicity of the problem. Severe anemia that develops slowly over 
+weeks or months is often well tolerated. Vital signs (including ortho­
+static blood pressure), height, weight, and growth offer further insight 
+into the severity and chronicity of the problem. Isolated pallor in a 
+well-­appearing child who does not have evidence of systemic disease 
+is less ominous than pallor noted in a child who is ill appearing or 
+who has bruising, petechiae, lymphadenopathy, hepatosplenomegaly, 
+or abdominal mass. Pallor at any site increases the likelihood of ane­
+mia; pallor of the face, nail beds, tongue, palms, and palmar creases and 
+conjunctival pallor enhance the likelihood of anemia. Conjunctival rim 
+pallor when compared to the usually more fleshlike pallor of the deeper 
+posterior region of the palpebral conjunctiva is highly specific in adult 
+Pallor and Anemia
+Jacquelyn M. Powers and Amanda M. Brandow
+49
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+906
+SECTION 9  Hematologic Disorders
+patients with anemia. Table 49.4 outlines physical examination find­
+ings that may provide clues to the underlying cause of anemia.
+Prominent cheekbones, dental malocclusion, and frontal bossing 
+may occur in patients with chronic hemolytic anemias (i.e., thalassemia 
+major) because of the expansion of bone marrow space. Tortuosity of 
+conjunctival vessels occurs in sickle cell disease. Splenomegaly is often 
+present in children with congenital hemolytic anemia. Lymphadenop­
+athy and hepatosplenomegaly may indicate the presence of infiltrative 
+disease of the bone marrow and visceral organs such as leukemia. Pur­
+pura in the anemic child is suggestive of associated thrombocytopenia 
+that may accompany aplastic anemia or leukemia.
+Many congenital anomalies and/or dysmorphic features have been 
+associated with hematologic conditions, particularly bone marrow 
+failure syndromes. Patients with Fanconi anemia are often short and 
+have hyperpigmentation, hypoplastic “finger-­like” thumbs, radial bone 
+anomalies, and structural renal abnormalities. Patients with Diamond-­
+Blackfan anemia are often short and have a “curious, intellectual” facial 
+expression.
+When pallor and anemia are seen in the context of other signs that 
+suggest chronic inflammation, infection, or systemic disease, a dili­
+gent general physical examination may yield substantive information. 
+Hypertension and short stature may suggest chronic renal disease. 
+Joint swelling and/or pain may suggest rheumatologic disorders. Digi­
+tal clubbing may suggest advanced cyanotic cardiopulmonary diseases. 
+Abdominal pain, diarrhea, and poor growth may suggest an underly­
+ing GI disorder such as inflammatory bowel disease. Recurrent pneu­
+monia or wheezing may suggest pulmonary hemorrhage.
+New onset of pallor is suggestive of anemia. The child who has 
+always appeared pale but is otherwise well with normal growth and 
+development likely has an intrinsic constitutional characteristic. In 
+such instances, the child and other family members often have light 
+hair and skin complexion. An unremarkable general medical history 
+and physical examination support a physiologic explanation for pal­
+lor. Some children may appear pale because of limited sun exposure as 
+might occur during the winter in cooler climates.
+TABLE 49.1  Causes of Pallor in Children 
+Based on Etiologic Mechanism
+	 I.	 Anemia
+	II.	 Decreased Tendency of the Skin to Pigment
+	
+A.	 Physiologic (fair-­skinned individuals)
+	
+B.	 Limited sun exposure
+	III.	 Alteration of the Consistency of the Subcutaneous Tissue
+	
+A.	 Edematous states, increased intravascular hydrostatic pressure 
+(e.g., congestive heart failure), decreased intravascular oncotic 
+pressure (hypoproteinemia), increased vascular permeability (e.g., 
+vasculitis)
+	
+B.	 Hypothyroidism
+	IV.	Decreased Perfusion of the Cutaneous/Mucosal Vasculature
+	
+A.	 Hypotension, cardiogenic shock (pump failure or rhythm disturbance), 
+hypovolemia (blood loss, dehydration), anaphylaxis, sepsis, acute 
+adrenal insufficiency, vasovagal syncope
+	
+B.	 Vasoconstriction, increased sympathetic activity (hypoglycemia, 
+pheochromocytoma), neurologic complications (head trauma, 
+seizures, migraine)
+	
+C.	 Frostbite
+	V.	 Chronic Conditions
+	
+A.	 Malignant disease
+	
+B.	 Atopy
+	
+C.	 Chronic inflammatory disease, juvenile idiopathic arthritis, 
+inflammatory bowel disease
+	
+D.	 Cardiopulmonary disease (including cystic fibrosis)
+  E.	 Diabetes mellitus
+  F .	Congenital and acquired immunodeficiencies
+	
+G.	 Ocular cutaneous albinism
+	
+H.	 Panic attack
+	
+I.	 Presyncope
+	
+J.	 Food protein–induced enterocolitis syndrome
+From Reece RM. Manual of Emergency Pediatrics. 4th ed. 
+Philadelphia: WB Saunders; 1992.
+TABLE 49.2  Values (Normal Mean and Lower Limits of Normal) for Hemoglobin, Hematocrit, 
+and MCV Determination
+HEMOGLOBIN (G/DL)
+HEMATOCRIT (%)
+MCV (FL)
+Age (yr)
+Mean
+Lower Limit
+Mean
+Lower Limit
+Mean
+Lower Limit
+0.5–1.9
+12.5
+11.0
+37
+33
+77
+70
+2–4
+12.5
+11.0
+38
+34
+79
+73
+5–7
+13.0
+11.5
+39
+35
+81
+75
+8–11
+13.5
+12.0
+40
+36
+83
+76
+12–14
+Female
+13.5
+12.0
+41
+36
+85
+78
+Male
+14.0
+12.5
+43
+37
+84
+77
+15–17
+Female
+14.0
+12.0
+41
+36
+87
+79
+Male
+15.0
+13.0
+46
+38
+86
+78
+18–49
+Female
+14.0
+12.0
+42
+37
+90
+80
+Male
+16.0
+14.0
+47
+40
+90
+89
+MCV, mean corpuscular volume.
+From Nathan DC, Oski F. Hematology of Infancy and Childhood. 4th ed. Philadelphia: WB Saunders; 1993.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+907
+CHAPTER 49  Pallor and Anemia
+Children with malignant disease or chronic illness (e.g., rheumato­
+logic disorders, inflammatory bowel disease, chronic cardiopulmonary 
+disorders, diabetes) may have a pale appearance that is unrelated or 
+out of proportion to the degree of associated anemia. Atopic children 
+often have distinctly pale mucosa related to local edema. Children 
+with generalized edema caused by hypoproteinemia, congestive heart 
+failure, or vasculitis often appear pale because of excess interstitial fluid 
+within the mucosal or cutaneous tissues. Patients with hypothyroidism 
+are pale because of myxedematous changes in the skin, subcutaneous 
+tissue, and mucosa.
+LABORATORY EVALUATION
+The initial laboratory test in a child with pallor should be a CBC 
+including a manual white blood cell (WBC) differential and reticulo­
+cyte count. Significant pallor from anemia usually does not occur until 
+the hemoglobin level falls below 8 g/dL. Appropriate sample collec­
+tion is important. “False anemia” (resulting from laboratory error or 
+sampling difficulty) should be considered when laboratory findings 
+are not consistent with clinical impressions. Capillary blood sampling 
+can be associated with substantial error, depending on the difficulty in 
+performing the procedure and the use of mechanical force necessary 
+to promote blood flow. When laboratory or sampling errors are sus­
+pected, a venipuncture sample should be obtained for confirmation. 
+By definition, 2.5% of the general population has hemoglobin levels 
+below the lower limit of normal, which is termed “statistical anemia.” 
+This phenomenon should be considered when mild, unexplained nor­
+mocytic anemia is identified in a healthy child. Statistical anemia is a 
+diagnosis of exclusion and therefore requires that other etiologies of 
+normocytic anemia such as undiagnosed kidney disease, hypothyroid­
+ism, or underlying inflammation be ruled out.
+Most laboratories perform CBCs with automated technology sys­
+tems. Hemoglobin concentration (grams per deciliter), RBC count 
+(cells per cubic millimeter), and mean corpuscular volume (MCV) 
+(expressed in femtoliters [fL]) are directly measured. Hematocrit 
+value, mean corpuscular hemoglobin (MCH), and MCH concentra­
+tion (MCHC) are derived values and therefore are less accurate. Other 
+important information reported includes RBC distribution width 
+(RDW), WBC count (cells per cubic millimeter), and platelet count. 
+In addition to the hemoglobin values, careful attention should be given 
+to the MCV, RDW, RBC morphology, platelet count, WBC count, and 
+reticulocyte count.
+CLASSIFICATION OF ANEMIA
+Reticulocyte Count
+The reticulocyte count, reported as a percentage of total RBCs, is essen­
+tial in categorizing anemia. An elevated reticulocyte count implies a 
+bone marrow response to either increased RBC destruction (hemoly­
+sis) or acute or chronic blood loss. In cases of acute blood loss, bone 
+marrow response demonstrated by reticulocytosis occurs at an average 
+of 3–4 days. Thus, in the setting of acute blood loss, the reticulocyte 
+count is most helpful when the bleeding and subsequent anemia have 
+been present for more than a few days. Likewise, in patients with nutri­
+tional anemias, a reticulocyte count should be checked several days 
+after the initiation of therapy (e.g., iron supplementation) to assess 
+appropriate response.
+Anemias are categorized on the basis of the adequacy of the retic­
+ulocyte response. The reticulocyte count is expressed as a percentage 
+of the total number of RBCs. In the setting of a normal hemoglobin, 
+the reticulocyte count is about 1–2%. In patients with moderate or 
+severe anemia, the reticulocyte count may appear elevated, but in 
+absolute terms, it may be insufficient for the degree of anemia. There­
+fore, the reticulocyte count must be corrected using the following 
+formula:
+Corrected reticulocyte count = reticulocyte count × hemoglobin
+ 
+ 
+ 
+(normal hemoglobin for age)
+TABLE 49.3  Historical Clues in Evaluation 
+of Anemia
+Variable
+Comments
+Age
+Iron deficiency rare in the absence of blood loss before 6 mo 
+in term or before doubling birthweight in preterm infants
+Neonatal anemia with reticulocytosis suggests hemolysis 
+or blood loss; with reticulocytopenia it suggests bone 
+marrow failure or rarely severe autosomal recessive 
+hereditary spherocytosis
+Sickle cell anemia and β-­thalassemia appear as fetal 
+hemoglobin disappears (4–8 mo of age)
+Nutritional iron deficiency in young children up to 4 yr of age
+Iron deficiency due to menstrual blood loss in adolescent 
+females 12 to 18 yr of age
+Family history 
+and genetic 
+considerations
+X-­linked: G6PD deficiency
+Autosomal dominant: spherocytosis, elliptocytosis, 
+stomatocytosis, ovalocytosis
+Autosomal recessive: sickle cell, Fanconi anemia (most cases)
+Family member with early age of cholecystectomy 
+(bilirubin stones) or splenectomy: hemolysis
+Ethnicity: thalassemia with Mediterranean origin; G6PD 
+deficiency in blacks, Greeks, and Sephardic Jews
+Race: β-­thalassemia in Whites; α-­thalassemia in Blacks 
+and Asians; SC and SS in Blacks
+Nutrition
+Cow’s milk diet and iron deficiency (young children)
+Strict unsupplemented vegetarian and vitamin B12 or iron 
+deficiency
+Goat’s milk and folate deficiency
+Pica: plumbism (lead poisoning) and iron deficiency
+Cholestasis: malabsorption and vitamin E deficiency
+Drugs
+G6PD-­susceptible agents
+Immune-­mediated hemolysis (e.g., penicillin)
+Bone marrow suppression
+Phenytoin: increases folate requirements
+Diarrhea
+Malabsorption of vitamins B12 and E and iron
+Inflammatory bowel disease and anemia of chronic 
+disease or blood loss with concomitant iron deficiency
+Milk protein allergy colitis–induced blood loss
+Intestinal resection and vitamin B12 deficiency
+Infection
+Giardia and iron malabsorption
+Intestinal bacterial overgrowth (blind loop) and vitamin B12 
+deficiency
+Fish tapeworm and vitamin B12 deficiency
+Epstein-­Barr virus, cytomegalovirus, and bone marrow 
+suppression
+Mycoplasma and hemolysis
+Parvovirus and bone marrow suppression
+Chronic infection
+Endocarditis
+Malaria and hemolysis
+Hepatitis and aplastic anemia
+G6PD, glucose-­6-­phosphate dehydrogenase; SC, sickle cell C disease; 
+SS, sickle cell S disease.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+908
+SECTION 9  Hematologic Disorders
+If the corrected reticulocyte count is >2%, then the bone marrow is 
+producing RBCs at an accelerated pace (Fig. 49.1).
+Red Blood Cell Size
+The MCV is vital to the classification of anemia. High MCV is termed 
+macrocytosis, and low MCV is termed microcytosis. MCV in the nor­
+mal range is termed normocytic. Normal standards for MCV are age 
+related; a simple guideline is that the lower normal limit of MCV for 
+children older than 6 months is 70 fL plus the patient’s age in years 
+until the adult standard of 80–100 fL is reached (see Table 49.2). The 
+MCV must always be interpreted in conjunction with a review of the 
+peripheral blood smear, RDW, and reticulocyte count. A varied popu­
+lation of both smaller and larger RBCs (e.g., reticulocytes) may yield a 
+falsely normal MCV and be diagnostically misleading. A high RDW 
+in the setting of a normal MCV is a clue that two populations of RBCs 
+exist. Microcytosis (low MCV) is associated with iron deficiency, thal­
+assemia, and long-­standing anemia of inflammation (Table 49.5). Mac­
+rocytosis (high MCV), an unusual finding in children, is associated 
+TABLE 49.4  Physical Findings in the Evaluation of Anemia
+System
+Observation
+Significance
+Skin
+Hyperpigmentation
+Fanconi anemia, dyskeratosis congenita
+Café-­au-­lait spots
+Fanconi anemia
+Vitiligo
+Vitamin B12 deficiency
+Partial oculocutaneous albinism
+Chediak-­Higashi syndrome
+Jaundice
+Hemolysis, hepatitis
+Petechiae, purpura
+Bone marrow infiltration, autoimmune hemolysis with autoimmune thrombocytopenia, 
+hemolytic uremic syndrome
+Erythematous rash
+Parvovirus, Epstein-­Barr virus
+Butterfly rash
+SLE
+Head
+Frontal bossing
+Thalassemia major, chronic subdural hematoma
+Microcephaly
+Fanconi anemia
+Eyes
+Microphthalmia
+Fanconi anemia
+Retinopathy
+Hemoglobin SS, SC disease
+Optic atrophy, blindness
+Osteopetrosis
+Blocked lacrimal gland
+Dyskeratosis congenita
+Kayser-­Fleischer ring
+Wilson disease
+Blue sclera
+Iron deficiency
+Ears
+Deafness
+Osteopetrosis
+Mouth
+Glossitis
+Vitamin B12 deficiency; iron deficiency
+Angular stomatitis
+Iron deficiency
+Cleft lip
+Diamond-­Blackfan syndrome
+Pigmentation
+Peutz-­Jeghers syndrome (intestinal blood loss)
+Telangiectasia
+Osler-­Weber-­Rendu syndrome (blood loss)
+Leukoplakia
+Dyskeratosis congenita
+Chest
+Shield chest or widespread nipples
+Diamond-­Blackfan syndrome
+Murmur
+Endocarditis; prosthetic valve hemolysis
+Abdomen
+Hepatomegaly
+Hemolysis, infiltrative tumor, chronic disease, hemangioma, cholecystitis
+Splenomegaly
+Hemolysis, sickle cell disease (early), thalassemia, malaria, lymphoma Epstein-­Barr 
+virus, portal hypertension, hemophagocytic syndromes
+Nephromegaly or absent kidney
+Fanconi anemia
+Extremities
+Absent thumbs
+Fanconi anemia
+Thenar eminence hypoplasia; triphalangeal thumb
+Diamond-­Blackfan syndrome
+Spoon nails
+Iron deficiency
+Beau line (nails)
+Heavy metal intoxication, severe illness
+Mees line (nails)
+Heavy metals, severe illness, sickle cell anemia
+Dystrophic nails
+Dyskeratosis congenita
+Edema
+Milk-­induced protein-­losing enteropathy with iron deficiency, renal failure
+Rectal
+Hemorrhoids
+Portal hypertension
+Heme-­positive stool
+Intestinal hemorrhage
+Nerves
+Irritable, apathy
+Iron deficiency
+Peripheral neuropathy
+Deficiency of vitamins B1 and B12 and lead poisoning
+Dementia
+Deficiency of vitamins B12 and E
+Ataxia, posterior column signs
+Deficiency of vitamins B12 and E
+Stroke
+Sickle cell anemia, paroxysmal nocturnal hemoglobinuria, severe iron-­deficiency anemia
+SC, sickle cell C disease; SLE, systemic lupus erythematosus; SS, sickle cell S disease.
+Modified from Scott JP. Hematology. In: Behrman RE, Kliegman RM, eds. Nelson Essentials of Pediatrics. 2nd ed. Philadelphia: WB Saunders; 
+1994:520.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+909
+CHAPTER 49  Pallor and Anemia
+with vitamin B12 or folate deficiency, bone marrow failure syndromes 
+(e.g., Fanconi anemia, Diamond-­Blackfan anemia), and some cases of 
+hypothyroidism (see Table 49.5).
+An individual with small RBCs may have a normal or near-­normal 
+hemoglobin level if the RBC count is increased as occurs in patients 
+with thalassemia minor who often have RBC counts of more than 5 × 
+106. The MCHC reflects the level of hemoglobin per cell and would be 
+expected to be low in patients with anemias in which RBCs are “under-­
+hemoglobinized,” such as the hypochromic anemia of iron deficiency.
+The RDW is derived from the histogram of RBC volumes. A nor­
+mal RDW (11.5–14.5%) implies a uniform population of RBCs that are 
+similar in size. In α-­thalassemia trait or β-­thalassemia trait, a uniform 
+population of small cells exists; hence, the MCV is low and the RDW 
+is normal or minimally elevated. An elevated RDW is seen in iron 
+deficiency where the population of small cells is variably sized; hence, 
+the MCV is low and the RDW is elevated. The RDW is often the last 
+hematologic parameter to normalize after successful therapy for iron 
+deficiency. In some hemolytic anemias the RDW is elevated because of 
+the presence of large reticulocytes (Table 49.6). An elevated RDW in 
+the setting of a normocytic anemia suggests two populations of RBCs, 
+namely large cells (elevated MCV) and small cells (low MCV), and is 
+concerning for a combined anemia (e.g., concomitant iron deficiency 
+and vitamin B12 or folate deficiency).
+Red Blood Cell Morphology
+Abnormalities of RBC structure may be readily apparent on inspec­
+tion of the peripheral blood smear and provide helpful diagnostic hints 
+(Table 49.7 and Fig. 49.2).
+Other Laboratory Abnormalities Associated with Anemia
+Evaluation of the WBC count, differential, and platelet count is 
+imperative in the setting of anemia. Leukopenia, neutropenia, and/or 
+thrombocytopenia occurring in a patient with anemia of underpro­
+duction are suggestive of aplastic anemia or infiltrative bone marrow 
+disease such as leukemia (see Chapter 50). The presence of immature 
+leukocytes on a smear associated with either a high or a low WBC 
+count is suggestive of leukemia. Mild neutropenia may be seen in 
+patients with transient erythroblastopenia of childhood but children 
+are otherwise well appearing, in contrast to children with underly­
+ing malignancy. Thrombocytosis may be present in patients with iron 
+deficiency, blood loss, inflammatory disease, infection, malignancy, 
+or asplenia.
+Elevated serum indirect bilirubin, lactate dehydrogenase, and uri­
+nary urobilinogen levels occur in patients with increased rates of RBC 
+destruction (hemolysis). Immune-­mediated hemolytic anemia should 
+be suspected when anemia, jaundice, reticulocytosis, splenomegaly, 
+and microspherocytes are noted. To investigate the underlying cause 
+<2% (anemia of
+underproduction)
+Corrected Reticulocyte Count
+Mean corpuscular volume
+Blood loss
+≥2%
+Normal
+Low
+Iron deficiency
+Thalassemia
+Lead
+Chronic disease
+Sideroblastic anemia
+See Table 49.5
+High
+Vitamin B12/folate
+Diamond-Blackfan
+Fanconi anemia
+See Table 49.5
+Isolated anemia
+Acute infection
+Transient erythroblastopenia
+Anemia of chronic disease
+Renal disease
+Hypothyroidism
+Drug induced
+Pancytopenia
+Aplastic anemia
+Leukemia
+Drug induced
+Hemophagocytic
+syndromes
+Hemolysis
+Intrinsic
+Membrane defect*
+Enzyme defect†
+Hemoglobinopathy
+(Sickle cell anemia)
+Extrinsic
+Immune-autoimmune
+Infection
+Microangiopathy
+Disseminated intravascular
+coagulation
+Hemolytic uremic
+syndrome
+Thrombotic thrombocytopenic
+purpura
+Liver disease
+Paroxysmal nocturnal
+hemoglobinuria
+Hypersplenism
+Mechanical injury
+Toxins
+Nutritional
+Metabolic
+Wilson disease
+Hereditary spherocytosis,
+elliptocytosis, pyropoikilocytosis, stomacytosis, or
+paroxysomal nocturnal hemoglobinuria
+Glucose-6-phosphate
+dehydrogenase, pyruvate
+kinase, or glucose
+phosphate isomerase
+deficiencies 
+*
+†
+Fig. 49.1  Diagnostic approach to anemia.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+TABLE 49.5  Causes of High or Low Mean 
+Corpuscular Volume
+Low Mean Corpuscular Volume
+Iron deficiency
+Thalassemias
+Lead toxicity
+Anemia of chronic disease
+Copper deficiency
+Sideroblastic anemia
+Hemoglobin E
+Hereditary pyropoikilocytosis
+High Mean Corpuscular Volume
+Normal newborn
+Elevated reticulocyte count
+Vitamin B12 or folate deficiency
+Diamond-­Blackfan anemia (congenital hypoplastic anemia)
+Fanconi anemia
+Aplastic anemia
+Down syndrome
+Hypothyroidism (occasionally)
+Orotic aciduria
+Lesch-­Nyhan syndrome
+Drugs (zidovudine, chemotherapy)
+Chronic liver disease
+Paroxysmal nocturnal hemoglobinuria
+Thiamine-­responsive megaloblastic anemia
+Myelodysplasias
+Dyserythropoietic anemias
+TABLE 49.6  Red Blood Cell Distribution 
+Width (RDW) in Common Anemias of 
+Childhood
+Anemia
+MCV
+Elevated RDW (Nonuniform Population of RBCs)
+Hemolytic anemia with elevated reticulocyte count
+High
+Iron-­deficiency anemia
+Low
+Anemias due to red blood cell fragmentation: DIC, HUS, TTP
+Low
+Megaloblastic anemias: vitamin B12 or folate deficiency
+High
+Normal RDW (Uniform Population of RBCs)
+Thalassemias
+Low
+Acute hemorrhage
+Normal
+Fanconi anemia
+High
+Aplastic anemia
+High
+DIC, disseminated intravascular coagulation; HUS, hemolytic uremic 
+syndrome; MCV, mean corpuscular volume; RBC, red blood cell; TTP, 
+thrombotic thrombocytopenic purpura.
+TABLE 49.7  Peripheral Blood Morphologic Findings in Various Anemias
+Microcytes
+Iron deficiency
+Thalassemias
+Lead toxicity
+Anemia of chronic disease
+Macrocytes
+Newborns
+Vitamin B12 or folate deficiency
+Diamond-­Blackfan anemia
+Fanconi anemia
+Aplastic anemia
+Liver disease
+Down syndrome
+Hypothyroidism
+Spherocytes
+Hereditary spherocytosis
+Immune hemolytic anemia (newborn or acquired)
+Hypersplenism
+Sickled Cells
+Sickle cell anemias (SS disease, SC disease, Sβ+thalassemia, 
+Sβ0thalassemia)
+Elliptocytes
+Hereditary elliptocytosis
+Iron deficiency
+Megaloblastic anemia
+Target Cells
+Hemoglobinopathies (especially hemoglobin C and SC and thalassemia)
+Liver disease
+Xerocytosis
+Basophil Stippling
+Thalassemia
+Lead intoxication
+Myelodysplasia
+Red Blood Cell Fragments, Helmet Cells, Burr Cells
+Disseminated intravascular coagulation
+Hemolytic uremic syndrome
+Thrombotic thrombocytopenic purpura
+Kasabach-­Merritt syndrome
+Waring blender syndrome (artificial heart valve)
+Uremia
+Liver disease
+Hypersegmented Neutrophils
+Vitamin B12 or folate deficiency
+Blasts
+Leukemia (ALL or AML)
+Severe infection (rarely)
+Leukopenia/Thrombocytopenia
+Fanconi anemia
+Aplastic anemia
+Leukemia
+Hemophagocytic histiocytosis
+Howell-­Jolly Bodies
+Asplenia, hyposplenia
+Severe iron deficiency
+Dacrocytes (teardrop cells)
+Myelodysplasia
+Leukemia
+Neuroblastoma
+ALL, acute lymphocytic leukemia; AML, acute myeloid leukemia; SC, sickle cell C disease; SS, sickle cell S disease.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+911
+CHAPTER 49  Pallor and Anemia
+of the hemolysis, a direct Coombs test should be performed to detect 
+the presence of an autoantibody on the RBC surface. An iron panel, 
+ideally drawn when fasting, that demonstrates a low serum iron level, 
+elevated total iron-­binding capacity, and a low percentage of iron sat­
+uration (% saturation = serum iron/total iron-­binding capacity × 100) 
+and/or decreased serum ferritin level is helpful in establishing a diag­
+nosis of iron deficiency. Hemoglobin identification via electrophoresis 
+or high-­performance liquid chromatography is necessary to identify 
+hemoglobinopathies such as sickle cell disease or thalassemia. Assess­
+ment of RBC enzyme levels (e.g., G6PD) may be necessary when infec­
+tion-­ or medication-­related hemolytic anemia is suspected in a male 
+of Mediterranean or African descent. True macrocytic anemia with 
+megaloblastic neutrophils should prompt assessment for vitamin B12 
+or folate deficiency. Bone marrow aspirate and biopsy should strongly 
+be considered when other cytopenias exist such as thrombocytopenia 
+or neutropenia.
+DIAGNOSTIC WORK-­UP
+From a clinical perspective, it is best to consider the differential diag­
+nosis of pallor in the context of the acuity and severity of the clin­
+ical findings (Fig. 49.3). The well-­appearing child may only need a 
+CBC to confirm normal counts and provide reassurance. The pale 
+child who appears mildly or moderately ill requires a CBC and other 
+potential studies to detect any suspected underlying disease. The 
+pale child who appears seriously ill requires urgent evaluation and 
+appropriate therapeutic intervention. A CBC should be obtained for 
+all children with other laboratory assessments dictated based on the 
+suspected diagnosis. If hemorrhage or severe anemia is suspected, a 
+type and cross-­match must be sent to the blood bank, intravenous 
+access should be secured, and frequent serial evaluations of hemoglo­
+bin, blood pressure, pulse, perfusion, and end-­organ function must 
+be performed.
+DIFFERENTIAL DIAGNOSIS OF ANEMIA
+The differential diagnosis of anemia is presented in Figs. 49.1 and 49.4.
+Anemia Secondary to Acute Blood Loss
+Significant blood loss on an acute or subacute basis results in ane­
+mia. In subacute bleeding, the fall in hemoglobin occurs gradually 
+and a period of about 24 hours may be required for full intravas­
+cular equi­libration after acute blood loss. When severe acute blood 
+loss occurs, intravascular volume depletion is the primary concern, 
+which cannot be assessed by hemoglobin level. Therefore, in the 
+setting of severe blood loss, blood pressure, heart rate, adequacy 
+of peripheral perfusion, and mental status are the best ways to 
+assess patients. In most instances, an obvious history of blood loss 
+is apparent (e.g., epistaxis, heavy menstrual bleeding, hematemesis, 
+lower GI bleeding, trauma). In some cases, intraabdominal bleeding 
+can occur that is not clinically apparent. Large amounts of blood 
+may accumulate in the GI tract before the development of hemate­
+mesis, hematochezia, or melena. Intraabdominal bleeding may 
+occur after trauma or may result from an ulcer (see Chapter 16) 
+and may be associated with progressive anemia in the absence of 
+an obvious source of bleeding. The clinical history coupled with the 
+physical examination (including rectal examination) and tests for 
+occult blood in the stool generally define the source of blood loss. 
+Pulmonary hemorrhage may not be readily apparent, especially if 
+chronic; thus, evaluation with pulse oximetry and chest X-­ray or 
+chest CT scan may be indicated in a child with concerns for blood 
+loss without an obvious source.
+In anemia associated with blood loss, the RBC size and morphology 
+are normal and appropriate reticulocytosis should occur within 3–5 
+days from the start of the blood loss. If hemorrhage has ceased, the 
+hemoglobin level should gradually increase unless supervening factors 
+such as iron deficiency exist.
+Severe hemorrhage associated with intravascular volume depletion 
+warrants immediate intervention to avoid shock. RBC transfusions are 
+necessary until hemorrhage has ceased. Less severe hemorrhage that is 
+not associated with intravascular volume depletion will likely manifest 
+with moderate to severe anemia. Transfusions may be necessary when 
+the oxygen-­carrying capacity of the blood is diminished to the point 
+of impending tissue hypoxia. In these cases, the need for transfusion 
+therapy is based on clinical symptoms including tachycardia, dyspnea, 
+A
+B
+C
+E
+D
+Fig. 49.2  Morphologic abnormalities of the red blood cell. A, Normal. B, Macrocytes. C, Hypochromic micro­
+cytes. D, Target cells. E, Schizocytes. (Courtesy of Dr. E. Schwartz.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+912
+SECTION 9  Hematologic Disorders
+heart failure, fatigue, or lightheadedness. If hemorrhage has ceased, 
+intravascular volume is replete, and if the patient is not manifesting 
+signs of cardiorespiratory compromise, transfusion therapy may be 
+avoided. In such instances, it is appropriate to supply therapeutic doses 
+of iron with close follow-­up to ensure adequacy of the reticulocyte 
+response (Table 49.8).
+Anemia Secondary to Underproduction
+Anemia caused by the underproduction of RBCs (see Figs. 49.1 and 
+49.4) is characterized by a suboptimal bone marrow response to the 
+anemia reflected by a corrected reticulocyte count of <2%. Associated 
+clinical symptoms can provide clues to the etiology of underproduc­
+tion, especially for nonhematologic causes of anemia. Common non­
+hematologic causes of underproduction include chronic renal disease, 
+chronic inflammation, or infection. Hematologic causes of under­
+production are outlined in subsequent text. Anemia due to under­
+production of RBCs should be evaluated in the context of RBC size: 
+microcytic, normocytic, or macrocytic.
+Microcytic Anemias
+Hemoglobin, the chief intracellular component of the RBC, is composed 
+of heme (iron and protoporphyrin IX) and globin chains (α and β). Any 
+factor that diminishes the availability or utilization of these components 
+results in microcytic anemia. The automated MCV represents the mean 
+RBC volume and does not address variations in cell size. The RDW, how­
+ever, describes variation in RBC size and if normal defines a relatively 
+uniform population of cells. Review of the peripheral blood smear also 
+provides additional evidence regarding variability in cell size and shape. 
+It is important to note that MCV is age related (see Table 49.2). When 
+the diagnosis is not immediately apparent, it is helpful to carefully select 
+from a variety of available laboratory studies to further differentiate the 
+cause of the microcytic anemia (Table 49.9). Hepcidin levels (low in iron 
+deficiency; high in anemia of chronic disease) may also be helpful.
+Iron-­Deficiency Anemia. Iron deficiency is the most common 
+nutritional deficiency that causes anemia. Iron deficiency occurs due to 
+either insufficient nutritional intake to meet demands associated with 
+growth or excessive blood loss. Iron is a key component of the hemoglobin 
+molecule; its deficiency leads to anemia associated with reduced 
+hemoglobin production (hypochromia) and small RBCs (microcytosis). 
+Infants are at particular risk for the development of iron deficiency since 
+their rapid growth and expanding blood volume impose considerable iron 
+demands. Premature infants are at the highest risk because most in utero 
+iron is transferred from the mother to the fetus during the last trimester 
+of pregnancy and postnatal growth rate is rapid. In addition, exclusively 
+breast-­fed infants are also susceptible to iron deficiency in the second 
+half of their first year of life if adequate supplemental iron via solid food 
+intake is not provided. Toddlers are at high risk for the development of iron 
+deficiency due to excessive cow’s milk intake leading to decreased intake 
+of dietary sources of iron, and GI blood loss from milk protein sensitivity. 
+Thus, appropriate counseling should be provided to the family to ensure 
+that cow’s milk is limited to no more than 24 oz/day. Unsupplemented 
+vegans are also at risk for iron deficiency. Adolescent females are at very 
+high risk due to menstrual blood loss and poor nutrition. Risk for iron 
+deficiency is high in adolescent females especially during the first year 
+PALLOR
+ACUTELY ILL
+ Urgent evaluation (vital signs
+  and focused history and
+  physical exam)
+ Urgent labs—CBC, others
+ Consider:
+  Hypotension, hypovolemia,
+   sepsis, anaphylaxis, cardiac
+   failure, adrenal insufficiency,
+   vasovagal, hemorrhage
+  Hypoglycemia
+  Severe anemia
+  Neurologic complications
+   (head trauma or seizure)
+MILD OR CHRONICALLY ILL-APPEARING
+ Complete history and
+  physical exam
+ Labs: CBC, other
+ Consider:
+  Anemia
+  Chronic medical conditions
+   Malignancy
+   Atopy
+   Edematous status: renal disease,
+   
+  
+   Gastrointestinal loss/malabsorption
+           Inflammatory diseases
+           Cardiopulmonary
+           Diabetes
+           Pheochromocytoma
+           Others
+WELL
+ Complete history
+  and physical
+  exam; CBC
+ Consider:
+  Anemia
+  Physiologic-familial
+NOT ACUTELY ILL
+congestive heart failure,
+hypothyroidism, vasculitis
+Fig. 49.3  Approach to the pale child.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+913
+CHAPTER 49  Pallor and Anemia
+after menarche. When iron deficiency occurs outside of the setting of infancy, 
+toddlers, or adolescent females (i.e., school-­age children or adolescent males), 
+a pathologic source of blood loss must be strongly considered and occult GI 
+bleeding is an important source to consider as iron-­deficiency anemia can be 
+the first clue to the presence of inflammatory bowel disease or other GI disease.
+Nutritional sources of iron include iron-­fortified infant formula (12 
+mg/L), iron-­fortified infant cereal, beef, fish, and fowl. Ascorbic acid 
+(vitamin C) may enhance the absorption of iron. The American Acad­
+emy of Pediatrics recommends iron-­fortified infant formula or breast 
+milk until the age of 1 year and the introduction of iron-­rich foods after 
+6 months of age. Cow’s milk is a very poor source of nutritional iron and 
+should not be given to infants younger than 1 year of age. After 1 year 
+of age, infants should consume no more than 24 oz/day. Iron supple­
+mentation is necessary for preterm infants, many adolescent females, 
+vegans, and pregnant women and should be strongly considered for all 
+exclusively breast-­fed infants regardless of diet. Iron deficiency must 
+be viewed as a systemic deficiency disorder, only one manifestation of 
+which is anemia (Table 49.10).
+Iron-­deficiency anemia may be detected by routine hemoglobin 
+screening. This should be performed initially in children between 9 and 
+12 months of age. It is recommended again between 18 and 24 months 
+of age as toddlers become especially vulnerable to iron deficiency after 
+transition from formula to cow’s milk at 12 months of age. Adolescent 
+females should be screened 1–2 years after menarche. Laboratory con­
+firmatory studies are necessary when iron-­deficiency anemia is sus­
+pected in patients who are not at high risk for nutritional deficiency 
+or in those in whom anemia is moderately severe (see Table 49.9). 
+A serum ferritin level of <15 ng/dL or an iron saturation of <15% con­
+firms the diagnosis.
+I. Acute blood loss with hemodilution
+ II. Anemia of RBC underproduction (i.e., inadequate reticulocyte count)
+ 
+ 
+Microcytic
+ 
+1. Iron deficiency
+ 
+2. Lead intoxication
+ 
+3. Thalassemia syndromes
+ 
+4. Anemia of chronic diseases
+III. Anemia due to increased destruction  hemolysis (i.e., adequate
+ reticulocyte count)
+ 
+Intrinsic RBC defect
+1. Hemoglobinopathies (sickle cell anemia, unstable hemoglobins)
+2. Membrane defects (hereditary spherocytosis, elliptocytosis)
+3. Enzymopathies (G6PD, pyruvate kinase deficiency)
+ 
+Extrinsic defects
+1. Immune hemolysis
+2. Infection (bacterial, viral, other)
+3. Microangiopathy (disseminated intravascular coagulation,
+ hemolytic uremic syndrome, thrombotic thrombocytopenic
+ purpura)
+4. Liver disease
+5. Paroxysmal nocturnal hemoglobinuria
+6. Hypersplenism
+7. Mechanical injury (e.g., burns)
+8. Toxins
+9. Nutritional (vitamin E deficiency)
+10. Metabolic (galactosemia)
+11. Wilson disease
+ 
+Normocytic
+Aplastic anemia
+Malignant disease
+ (bone marrow infiltration)
+Anemia of acute
+ inflammation/infection
+Transient erythroblastopenia
+ of childhood
+Isolated anemia
+ (Diamond-Blackfan)
+Pancytopenia-Fanconi
+ or aplastic anemia
+Renal failure
+Hypothyroidism
+Macrocytic
+Vitamin B12/folate deficiency
+“Stress erythropoiesis”
+With pancytopenia
+Isolated anemia
+Fig. 49.4  Differential diagnosis of anemia. G6PD, glucose-­6-­phosphate 
+dehydrogenase; RBC, red blood cell.
+TABLE 49.8  Therapy for Iron Deficiency
+Infants and Children
+3 mg/kg of elemental iron given as a single daily dose (ideally before 
+breakfast)
+Adolescents
+65–130 mg of elemental iron given in a single daily dose
+Duration of Prescription
+Continue therapeutic dose of iron for 2–3 mo after hemoglobin level has 
+been corrected (to replete stores), after which both maintenance nutritional 
+needs and underlying etiology (i.e., control of blood loss, if present) must 
+be met
+TABLE 49.9  Laboratory Findings in 
+Microcytic Anemia
+Fe
+TIBC
+Pb
+HbA2 Ferritin sTfR
+RDW
+Iron deficiency
+↓
+↑
+nl
+nl
+↓
+↑↑
+↑
+α-­Thalassemia 
+(Bart hemoglobin)
+nl
+nl
+nl
+nl
+nl
+↑
+↓
+β-­Thalassemia 
+(homozygous)
+nl
+nl
+nl
+↑
+nl
+↑
+↑
+Lead poisoning
+nl
+nl
+↑
+nl
+nl
+nl*
+nl*
+Anemia of chronic 
+disease
+↓
+↓
+nl
+nl
+nl or ↑
+nl*
+nl*
+*Unless iron deficient.
+Fe, iron; HbA2, hemoglobin A2; nl, normal; Pb, lead; RDW, red blood 
+cell distribution width; sTfR, serum transferrin free receptor; TIBC, total 
+iron-­binding capacity.
+TABLE 49.10  Nonhematologic 
+Consequences of Iron Deficiency
+Impairment of cognitive development
+Pica
+Epithelial abnormalities (gastrointestinal mucosal lesions, glossitis; spoon-­
+shaped nails)
+Exercise intolerance (muscle weakness)
+Behavioral manifestations
+Poor growth
+Impaired collagen synthesis (blue sclera)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+914
+SECTION 9  Hematologic Disorders
+Symptomatic iron deficiency in young children is infrequent, but 
+when it occurs, it is generally noted in infants who consume large 
+amounts of cow’s milk and have intestinal blood loss as a result of 
+asymptomatic milk protein–induced enterocolitis. Such children may 
+have pallor, irritability, fatigue, glossitis, blue sclera, and in extreme 
+cases signs and symptoms of high-­output cardiac failure (i.e., dyspnea, 
+diaphoresis, pallor, tachycardia, gallop rhythm, and hepatomegaly), 
+protein-­losing enteropathy, or stroke. Blood loss may be intermittent; 
+a negative stool test for blood does not rule out the diagnosis. Mild 
+anemia in otherwise well infants between 6 and 24 months of age, par­
+ticularly in association with ingestion of large amounts of cow’s milk, is 
+most likely caused by iron deficiency.
+When mild anemia is detected in the healthy, menstruating adoles­
+cent female, chronic blood loss is usually the etiology. Empirical iron 
+therapy is often prescribed in such circumstances (see Table 49.8). If 
+the hemoglobin level has normalized after 1 month of therapy, a pre­
+sumptive diagnosis has been established and the patient should receive 
+an additional 2–3 months of therapeutic doses of iron to replete stores. 
+An appropriate response to iron therapy is the diagnostic “gold stan­
+dard.” If unrecognized, iron-­deficiency anemia in adolescent females 
+can progress to severe anemia resulting in headache, dizziness, restless 
+legs, and syncope. Hemostatic evaluation should be performed and 
+hormonal therapy strongly considered to minimize ongoing blood loss 
+to prevent persistent or recurrent iron-­deficiency anemia.
+Recurrent iron-­deficiency anemia in infants and children, despite 
+limitation of cow’s milk intake and compliance with supplemental iron, 
+should raise the suspicion for blood loss, particularly GI blood loss. 
+Rarely, pulmonary hemorrhage can be a source of chronic blood loss. 
+This condition is called Heiner syndrome and is due to severe cow’s 
+milk protein hypersensitivity. Heiner syndrome should be considered 
+when chronic iron-­deficiency anemia exists with associated cough, 
+wheeze, or diagnosis of “asthma.” Chest radiograph reveals pulmonary 
+infiltrates consistent with hemorrhage. Pulmonary vascular anomalies 
+and systemic vasculitis are other causes of pulmonary hemorrhage.
+Iron-­refractory iron-­deficiency anemia. Iron deficiency that begins 
+early in infancy that is unresponsive to therapeutic doses of oral iron 
+may be due to iron-­refractory iron-­deficiency anemia (IRIDA), an 
+autosomal recessive disorder due to pathologic variants in TMPRSS6, 
+which is involved in iron homeostasis. There is a microcytic hypochro­
+mic anemia, low iron levels, and transferrin saturations but normal to 
+high ferritin or hepcidin levels. Because of iron malabsorption, oral 
+iron is usually ineffective and intravenous iron is indicated. The differ­
+ential diagnosis includes celiac disease and Helicobacter pylori or auto­
+immune atrophic gastritis.
+Standard-­of-­care treatment of iron-­deficiency anemia with oral iron 
+is outlined in Table 49.8. Intravenous iron therapy is often useful upfront 
+in certain situations (poor compliance, iron malabsorption in patients 
+with celiac disease, intestinal bacterial overgrowth syndrome, inflamma­
+tory bowel disease, and genetic causes affecting iron absorption; children 
+receiving hemodialysis). It may also be considered in iron-­deficiency 
+anemia patients with long-­standing anemia or who have failed oral iron 
+therapy for any reason, including nonadherence. The optimal approach 
+to iron-­deficiency anemia in infants and children is prevention.
+Thalassemia syndromes. The thalassemia syndromes represent 
+a heterogeneous group of inherited disorders of decreased globin 
+production that lead to microcytic anemia, which can be mistaken for 
+iron deficiency. The child with microcytic anemia, without evidence of 
+iron deficiency, should be evaluated for thalassemia (Fig. 49.5).
+Two genes, one inherited from each parent, code for the produc­
+tion of the β-­globin chains of hemoglobin. When one gene is affected 
+by the β-­thalassemia gene variant, a moderate diminution in the pro­
+duction of the β-­globin chain occurs, resulting in mild microcytic 
+anemia of underproduction. β-­Thalassemia occurs most commonly in 
+individuals of Mediterranean, Asian, or African descent. Patients with 
+β-­thalassemia trait are asymptomatic and the diagnosis is frequently 
+made when anemia and microcytosis are noted at the time of routine 
+screening for iron deficiency or incidentally when a CBC is obtained 
+for the assessment of acute or chronic symptoms. Typically patients 
+have mild anemia and a low MCV. For an equivalent degree of anemia, 
+the MCV is substantially lower than that seen in iron deficiency.
+This phenomenon is reflected in the Mentzer index calculated by 
+dividing the MCV by the RBC count (in millions). The RBC count is 
+usually elevated in thalassemia. Thus, an index of <13 is suggestive of 
+thalassemia trait, whereas an index of >13 is generally suggestive of 
+iron-­deficiency anemia. A normal MCV virtually excludes a diagnosis 
+of β-­thalassemia. A normal or mildly elevated RDW is usually seen in 
+thalassemia and reflects a relatively uniform population of microcytic 
+RBCs. This is in contrast to iron deficiency wherein the RDW is uni­
+formly elevated reflecting variation in cell size.
+The peripheral blood smear demonstrates microcytosis, hypochro­
+mia, and target cells. Occasional fragments and basophilic stippling 
+may be seen. Newborn hemoglobinopathy screening will be normal 
+in patients with β-­thalassemia trait. Hemoglobin analysis performed at 
+6 months of age or older will demonstrate an elevation of hemoglobin 
+A2. The significance of diagnosing β-­thalassemia trait is twofold: (1) its 
+confusion with iron deficiency (hence, patients may be treated unnec­
+essarily with repeated courses of iron and undergo repeated unneces­
+sary blood studies) and (2) its genetic implications. A child from two 
+individuals with β-­thalassemia trait carries a 25% risk per pregnancy 
+of being affected with homozygous β-­thalassemia (thalassemia major), 
+a severe hematologic disorder. Parents and siblings of a child with a 
+diagnosis of β-­thalassemia trait should be appropriately screened and 
+counseled. For purposes of screening, a normal, age-­adjusted MCV 
+essentially excludes a diagnosis of β-­thalassemia trait.
+Homozygous β-­thalassemia, also known as β-­thalassemia major 
+or Cooley anemia, results from the inheritance of the β-­thalassemia 
+trait variant from each parent. This results in a severe deficiency of 
+β-­globin chain production with an excess of α-­globin chains. These 
+α-­globin chains precipitate within developing erythroid elements in 
+the marrow and lead to brisk intramarrow destruction of developing 
+erythroid elements (ineffective erythropoiesis). As a result, patients 
+with β-­thalassemia major present during infancy at 6–12 months of 
+age with severe anemia and an inadequate reticulocyte count during 
+the time when transition from fetal hemoglobin to adult hemoglo­
+bin occurs. Children with β-­thalassemia major typically present with 
+fatigue, irritability, pallor, jaundice, and marked hepatosplenomegaly 
+that is caused by extramedullary hematopoiesis. Frontal bossing and 
+prominent cheek bones (maxillary hyperplasia) may be noted and 
+result from expansion of the marrow space to compensate for the 
+severe anemia. Most patients are of Mediterranean or Asian descent.
+Laboratory findings include severe anemia and a decreased age-­
+adjusted MCV. The peripheral blood smear is markedly abnormal, 
+demonstrating severely under-­hemoglobinized (hypochromic) 
+RBCs and target cells and wide variability in cell shape and size 
+(increased RDW). Chronic transfusion therapy sufficient to sup­
+press ineffective erythropoiesis (maintaining hemoglobin level >10 
+g/dL) may be associated with relatively normal growth, develop­
+ment, and functional capabilities. Long-­term iron chelation for 
+management of iron overload allows for prolonged survival and 
+decreases complications of transfusional hemosiderosis (hepatic, 
+endocrine, and cardiac dysfunction). Bone marrow transplantation 
+is curative and a potential treatment option for younger patients 
+who have a human leukocyte antigen–identical healthy sibling or 
+matched unrelated donor.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+915
+CHAPTER 49  Pallor and Anemia
+Four genes code for the α-­globin chains of hemoglobin: two genes 
+on each chromosome 16. Deletions of one, two, three, or four of these 
+genes account for the variable laboratory and clinical findings asso­
+ciated with the α-­thalassemia syndromes. Decreased α-­globin chain 
+production leads to an excess of β-­globin chains, which then precipi­
+tate within developing RBCs in the bone marrow, leading to destruc­
+tion. Mature RBCs are mildly hypochromic and microcytic and may 
+appear to be targeted.
+Deletion of one α-­thalassemia gene is known as the “silent carrier” 
+state because it is not associated with anemia or microcytosis. This 
+occurs in about 30% of individuals of African or Asian descent.
+Deletion of two genes represents α-­thalassemia trait. Similar to β-­
+thalassemia trait, such patients manifest mild anemia and microcytosis 
+with MCVs generally in the mildly decreased range (less microcyto­
+sis than is generally seen in β-­thalassemia trait). The presence of Hb 
+Barts on newborn screen confirms the diagnosis. Hemoglobin analysis 
+beyond the newborn period cannot diagnose α-­thalassemia trait.
+A three-­gene deletion leads to hemoglobin H disease, which is 
+associated with moderate hemolytic anemia, microcytosis, reticulocy­
+tosis, and splenomegaly.
+A four-­gene deletion represents α-­thalassemia major or hemo­
+globin Bart disease, in which the fetus is unable to produce any α-­
+chains. Hence, nearly all in utero hemoglobin is Bart type (composed 
+of four β-­chains). Hemoglobin Bart disease has an extremely high 
+oxygen affinity and leads to severe tissue hypoxemia and resultant fetal 
+hydrops and death. On occasion, babies with hemoglobin Bart disease 
+have been saved by extraordinary measures (intrauterine transfusion 
+and early delivery), but they are then committed to lifelong transfusion 
+support and/or bone marrow transplantation.
+Hemoglobin H disease and α-­thalassemia major occur almost 
+exclusively in individuals of Asian descent. This is because Asians and 
+Africans have different chromosomal arrangements of the abnormal 
+genes. When α-­thalassemia minor (two-­gene deletion) occurs in the 
+Asian population, deletions may be cis (both genes deleted from the 
+same chromosome) or trans (each chromosome missing one gene). In 
+individuals of African descent, α-­thalassemia minor (two-­gene dele­
+tion) occurs only on the basis of a trans distribution; hence, a child 
+from two individuals with the African variety of α-­thalassemia trait is 
+affected with only two α genes deleted (α-­thalassemia minor). A child 
+from two individuals of Asian descent who have α-­thalassemia minor 
+may be affected with all four genes deleted (α-­thalassemia major). The 
+implication of a diagnosis of α-­thalassemia trait in individuals of Afri­
+can descent usually relates primarily to its confusion with iron defi­
+ciency. Individuals of Asian descent must be appropriately counseled 
+regarding the potential for transmission of serious hematologic disease 
+if two individuals with α-­thalassemia trait have a child.
+Lead poisoning. The occurrence of elevated serum and total body 
+burdens of lead is a major public health problem. This is of particular 
+α-Gene
+α-Globin
+β-Gene
+α mRNA
+α2β2
+β-Globin
+β mRNA
+α α α α
+α α α α
+α α
+β β
+Hb A
+α
+α α α
+α α α
+α
++
+Excess α-globin
+ Precipitates
+of α-globin
+Inclusion bodies
+in RBC precursors
+Membrane damage
+Abnormal metabolism
+Massive death of RBC
+precursors in bone marrow
+(ineffective erythropoiesis)
+Few surviving RBCs are
+highly abnormal,
+carry inclusions
+Sequestration
+in spleen
+Bizarre
+morphology
+Splenomegaly
+hypersplenism
+Hb catabolism
+bilirubin
+Jaundice
+Gallstones
+Leg ulcers
+Cirrhosis
+Endocrine dysfunction
+Cardiomyopathy
+Iron overload and
+parenchymal
+iron deposition
+(hemochromatosis)
+High-output heart failure,
+infection, leg ulcers, pallor,
+growth retardation
+Transfusion
+Profound anemia
+Tissue hypoxia
+Erythropoietin
+released by
+kidney
+Massive expansion
+of bone marrow
+Bony deformities, fractures,
+extramedullary hematopoiesis
+Increased gastrointestinal
+iron absorption
+Increased blood volume,
+secondary folate deficiency,
+pathologic bone fractures
+1 
+     (hypochromia)
+2   Massive
+     production
+3   Shortened RBC survival
+mature RBC
+Hb per cell produced
+Fig. 49.5  Pathophysiology of severe forms of β-­thalassemia. The diagram outlines the pathogenesis of clin­
+ical abnormalities resulting from the primary defect in β-­globin chain synthesis. Hb, hemoglobin; RBC, red 
+blood cell. (From Chapin J, Giardina PJ. Thalassemia syndromes. In: Hoffman R, Benz EJ Jr, Silberstein LE, 
+et al., eds. Hematology: Basic Principles and Practices. 7th ed. Philadelphia: Elsevier; 2018:550, Fig. 40-­4.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+916
+SECTION 9  Hematologic Disorders
+importance for infants and young children from families living in 
+old housing with lead-­based paint. Elevated lead levels may decrease 
+erythropoiesis because lead inhibits several enzymes along the path of 
+protoporphyrin synthesis. Lead may also produce hemolysis.
+Anemia is usually seen in association with lead levels of 60–70 μg/
+dL or higher. Anemia is mild, variably microcytic, and associated with 
+prominent basophilic stippling of RBCs. Coexistent iron deficiency is 
+common because iron deficiency promotes increased lead absorption. 
+The presence of mild microcytic anemia in children with mild to mod­
+erate lead burdens is usually due to concomitant iron deficiency. Lead 
+chelation therapy is appropriate when lead levels are higher than 40–45 
+μg/dL. Additional features of marked lead toxicity include intestinal 
+colic, lead lines in long bone radiographs, behavioral changes, renal 
+tubular defects, and lead encephalopathy associated with increased 
+intracranial pressure.
+Anemia of inflammation. In a wide variety of chronic inflammatory 
+or infectious disorders, mild to moderate anemia, termed anemia 
+of inflammation (previously known as anemia of chronic disease), 
+may be present. The MCV is usually normal to mildly decreased. 
+Chronic inflammation or infection impairs the transfer of iron from 
+reticuloendothelial cells within the marrow to developing erythroid 
+elements. This results in some degree of iron-­restricted erythropoiesis 
+despite adequate marrow stores of iron. This impaired transfer of 
+iron is due in part to the iron regulatory hormone hepcidin, which is 
+elevated during times of inflammation. Often the history and physical 
+examination findings point to acute inflammation or chronic illness, 
+but occasionally patients have no obvious manifestations of systemic 
+disease. The presence of unexplained normocytic or mild microcytic 
+anemia should alert the clinician to the possibility of occult systemic 
+disease. An elevated ESR or CRP is usually noted in patients with 
+chronic inflammatory or infectious states. Anemia of inflammation is 
+characterized by no specific abnormalities on peripheral smear other 
+than mild hypochromia and microcytosis. Serum ferritin levels are 
+elevated in inflammatory states and are thus a poor reflection of iron 
+status. Serum iron level and total iron-­binding capacity are generally 
+decreased, but the percentage of iron saturation is often within the low 
+to normal range, distinguishing it from iron-­deficiency anemia.
+Rare causes of microcytic anemia. Sideroblastic anemias are 
+a group of very rare congenital (often X-­linked) inherited diseases 
+associated with impairment of protoporphyrin synthesis and variable 
+microcytic anemia. The bone marrow examination demonstrates 
+evidence of developing erythroid cells with excess iron deposited in 
+mitochondria that tend to form a circular appearance around the 
+nucleus, hence the term ringed sideroblast (Table 49.11). Copper 
+deficiency is another rare cause of microcytic anemia. Associated 
+features include neutropenia and scurvy-­like bone changes (periosteal 
+elevation). Only under unusual circumstances, when prominent 
+microcytic anemia is otherwise unexplained, should these rare 
+disorders be considered.
+Normocytic Anemia Secondary to Underproduction
+When normocytic anemia secondary to underproduction is identified 
+in a patient, the key issue is whether anemia is occurring in isolation 
+or is associated with other cytopenias (see Chapter 50 and Fig. 49.6; 
+also see Fig. 49.4). Normocytic anemia with an inadequate reticulocyte 
+response and pancytopenia raises the possibility of serious primary or 
+secondary bone marrow failure syndromes (see Chapter 50) or malig­
+nancy. The history and physical examination findings are often pre­
+dictive of the presence of thrombocytopenia (easy bruising, petechiae, 
+ecchymosis) and/or neutropenia (fever, signs of infection). Adenopa­
+thy and hepatosplenomegaly are suggestive of bone marrow infiltration 
+caused by malignancy.
+Acquired aplastic anemia is a rare disorder of childhood character­
+ized by pancytopenia (neutropenia, anemia, thrombocytopenia) and a 
+markedly hypoplastic bone marrow (see Chapter 50). Clinical man­
+ifestations may include pallor, fatigue, purpura, bleeding (cutaneous 
+petechiae and ecchymosis, epistaxis, gingival oozing), and/or recurrent 
+infection. Adenopathy and hepatosplenomegaly are not features of this 
+condition. The cause is often idiopathic but may be related to prior 
+infection (hepatitis, Epstein-­Barr virus), toxin exposure (benzene, 
+other volatile compounds), or medications (chloramphenicol, anticon­
+vulsants). The peripheral blood smear demonstrates normal-­appearing 
+RBCs, an absence of polychromasia, and few leukocytes and platelets. 
+The MCV may be elevated. A bone marrow biopsy demonstrates hypo­
+plasia involving all cell lines.
+Disorders associated with bone marrow infiltration including leu­
+kemia and metastatic malignancy often manifest with normocytic 
+anemia secondary to RBC underproduction, thrombocytopenia, and 
+either neutropenia or leukocytosis. Teardrop erythrocytes (dacrocytes) 
+may be present in the peripheral smear (see Table 49.7). The MCV may 
+be elevated. Many children with leukemia come to medical attention 
+because of pallor, fatigue, and purpura. Limping and skeletal pain are 
+also common with childhood leukemia. Pallor, purpura, adenopa­
+thy, and hepatosplenomegaly are often seen on physical examination. 
+Peripheral blood smear usually but not always has leukemic blasts. 
+Bone marrow examination findings are diagnostic.
+When normocytic anemia secondary to underproduction is iso­
+lated without associated thrombocytopenia or neutropenia, sev­
+eral diagnostic entities must be considered. Mild anemia commonly 
+accompanies acute infections and inflammatory illness. Children are 
+TABLE 49.11  Classification of Sideroblastic 
+Anemia
+Hereditary (Nonsyndromic)
+X-­linked
+Autosomal dominant or recessive
+Acquired
+Idiopathic acquired* (refractory anemia with ring sideroblasts)
+Associated with previous chemotherapy, irradiation, or in transition 
+myelodysplasia or myeloproliferative diseases
+Drugs
+Alcohol
+Isoniazid
+Chloramphenicol
+Other drugs
+Rare Causes
+Erythropoietic protoporphyria
+Copper deficiency or zinc overload
+Hypothermia
+Hereditary (Syndromic)
+X-­linked sideroblastic anemia with ring sideroblasts and cerebellar ataxia
+Myopathy, lactic acidosis, and sideroblastic anemia
+Pearson syndrome
+Thiamine-­responsive megaloblastic anemia
+Sideroblastic anemia with immunodeficiency, fevers, and developmental delay
+*Trial of pyridoxine indicated.
+From Hoffman R, Benz EJ Jr, Silberstein LE, et al., eds. Hematology: 
+Basic Principles and Practices. 7th ed. Philadelphia: Elsevier; 2018:507, 
+Table 38-­5.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+917
+CHAPTER 49  Pallor and Anemia
+often incidentally found to be anemic several days to a few weeks after 
+having childhood infectious illnesses including viral upper respiratory 
+tract infections, gastroenteritis, or undifferentiated febrile illnesses. 
+Anemia reflects impaired erythrocyte production because of bone 
+marrow–suppressive mediators of the immune/inflammatory response 
+including interleukins, interferons, and tumor necrosis factor. Cessa­
+tion of RBC production leads to a fall in hemoglobin level of about 1 
+g/dL/wk. Mild anemia discovered during or shortly after acute illness 
+does not necessitate an extensive evaluation; rather, a follow-­up hemo­
+globin determination should be obtained several weeks later. Persistent 
+anemia necessitates further evaluation.
+Transient erythroblastopenia of childhood (TEC), occurring 
+predominantly in infants and toddlers (85% between 1 and 4 years), 
+represents a temporary arrest of erythropoiesis. The underlying mech­
+anism is hypothesized to be secondary to immunoglobulin G (IgG) 
+antibodies that cross-­react with early erythroid precursor cells. Infec­
+tion is thought to be one impetus for the development of this condition. 
+Patients may present with pallor and fatigue that occurs gradually over 
+several weeks to months. Because of the very gradual fall in hemoglo­
+bin, most affected children are remarkably well compensated. Physical 
+examination usually shows only marked pallor and mild tachycardia. 
+Adenopathy and hepatosplenomegaly are not present. Congestive 
+heart failure occurs only if anemia is very severe. The CBC demon­
+strates a normocytic anemia and profound reticulocytopenia. The 
+WBC and platelet counts are normal in most patients; however, 25% 
+of patients have mild neutropenia at the time of presentation. The 
+peripheral blood smear is unremarkable. Recovery is spontaneous, 
+and treatment is supportive. Blood transfusion is indicated only for 
+patients with severe, symptomatic anemia. TEC may be difficult to 
+differentiate from congenital hypoplastic anemia (Diamond-­Blackfan 
+anemia), particularly in children younger than 1 year (Table 49.12). 
+In Diamond-­Blackfan anemia, a constitutional RBC aplasia syndrome, 
+MCV and fetal hemoglobin levels are usually elevated for the patient’s 
+age, providing clues to the diagnosis (see Chapter 50). Patients with 
+WBC, platelet count
+Abnormal
+Enlarged liver/spleen/
+ lymph nodes
+Normal
+NO
+YES
+Aplastic
+anemia
+or HLH or
+Leukemia
+Leukemia
+Moderate/
+ severe anemia
+Mild anemia
+Normal growth/
+ development
+Normal past
+ medical history
+Acute illness
+YES
+NO
+Anemia
+ of acute
+ infection/
+ inflammation
+(?) Hypothyroid
+NO
+Renal insufficiency
+YES
+Transient
+ erythroblastopenia
+ of childhood
+Fig. 49.6  Diagnostic scheme of normochromocytic anemia of underproduction. HLH, hemophagocytic 
+lymphohistiocytosis; WBC, white blood cell.
+TABLE 49.12  Distinguishing Features 
+Between Diamond-­Blackfan Anemia (DBA) and 
+Transient Erythroblastopenia of Childhood (TEC)
+DBA
+TEC
+Etiology
+Genetic
+Acquired
+Immune mediated
+None
+Common
+Family history
+= 10%
+Occasional siblings 
+with concurrent TEC
+Antecedent history
+None
+Viral infection
+Age at diagnosis
+90% by 1 yr
+6 mo–4 yr
+Physical anomalies
+= 50%
+None
+Neurologic findings
+None
+Occasional
+Transfusion dependence
+Yes, if steroid refractory
+None
+Course
+Chronic
+Full recovery
+Risk of cancer
+Increased
+Not increased
+Risk of MDS or leukemia
+Increased
+Not increased
+Laboratory findings at 
+diagnosis:
+RBC size
+Macrocytic
+Normocytic
+HbF
+Increased
+Normal*
+i Antigen
+Increased
+Normal*
+RBC enzyme activities
+Fetal levels
+Adult levels
+RBC adenosine 
+deaminase
+Increased in 40–90%
+Normal
+*During spontaneous recovery, values may be increased.
+HbF, fetal hemoglobin; MDS, myelodysplasia syndrome; RBC, red bood 
+cell.
+From Hoffman R, Benz EJ Jr, Silberstein LE, et al., eds. Hematology: 
+Basic Principles and Practices. 7th ed. Philadelphia: Elsevier; 2018:377, 
+Table 29-­7.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+918
+SECTION 9  Hematologic Disorders
+TEC are otherwise healthy with no abnormal physical exam findings 
+aside from those associated with anemia. Nonetheless, transient neu­
+rologic findings may be seen in TEC; these include papilledema, ataxia, 
+hemiparesis, and seizures.
+A patient with previously undiagnosed chronic hemolytic anemia 
+(sickle cell anemia, hereditary spherocytosis) may present with nor­
+mocytic anemia and severe reticulocytopenia if transient RBC hypo­
+plasia occurs based on a viral infection such as commonly seen with 
+parvovirus B19. Because of a shortened RBC life span in patients with 
+chronic hemolysis, a transient arrest of RBC production can cause 
+severe anemia that evolves over several days. Patients may have a his­
+tory of neonatal jaundice and/or intermittent icterus, and they often 
+have splenomegaly and an abnormal peripheral smear related to the 
+underlying hemolytic disease.
+Isolated anemia secondary to underproduction occurs in children 
+with chronic renal disease because of erythropoietin deficiency. 
+Clinical and laboratory findings often suggest a diagnosis of renal 
+insufficiency such as poor growth, hypertension, edema, abnormal 
+urinalysis, and elevated serum urea nitrogen and creatinine levels. 
+The anemia of chronic renal disease can be successfully treated by 
+recombinant human erythropoietin in conjunction with intravenous 
+iron therapy.
+Macrocytic Anemia (see Figs. 49.1 and 49.4)
+Anemia due to bone marrow failure syndromes. Diamond-­Blackfan 
+anemia is a constitutional pure RBC aplasia syndrome that manifests 
+during the first year of life with isolated severe anemia and reticulocytopenia 
+(see Chapter 50). The remainder of the CBC is unremarkable. Because 
+synthesis of RBCs containing adult hemoglobin is markedly impaired, 
+RBCs generally manifest fetal characteristics, including elevated MCV, 
+increased levels of fetal hemoglobin, and the “i” surface antigen. Bone 
+marrow aspirate demonstrates pure RBC aplasia.
+Fanconi anemia usually manifests with macrocytic anemia second­
+ary to underproduction and pancytopenia. It is a constitutional disor­
+der frequently associated with physical stigmata in ∼50% of patients 
+(see Chapter 50). Most patients do not present with overt hematologic 
+manifestations until 4 or 5 years of age. Thumb and radial anoma­
+lies should alert the clinician to possible Fanconi anemia even in the 
+absence of cytopenias. RBCs tend to have fetal characteristics including 
+increased MCV and elevated fetal hemoglobin level. There are at least 
+15 genes responsible for Fanconi anemia; sequencing may confirm the 
+diagnosis.
+Megaloblastic anemia (vitamin B12 deficiency or folate deficiency). 
+Megaloblastic anemia, characterized by macrocytic RBCs with variable 
+abnormalities of WBCs and platelets, is usually caused by vitamin B12 
+deficiency or folate deficiency. Albeit rare in children, it can occur 
+secondary to nutritional or congenital etiologies. If severe, associated 
+pancytopenia can occur (see Chapter 50). In addition to large ovoid 
+RBCs, hypersegmented neutrophils (more than 5 lobes/cell) are often 
+seen on the peripheral smear (Fig. 49.7); large platelets can be present. 
+It is appropriate to suspect vitamin B12 deficiency or folate deficiency in 
+patients with otherwise unexplained macrocytic anemia. Documenting 
+the presence of vitamin B12 deficiency or folate deficiency requires 
+an assessment of nutrition and GI absorption. Prompt diagnosis of 
+vitamin B12 deficiency is imperative due to the associated neurologic 
+manifestations that can occur. Importantly, the degree of anemia can 
+be inversely proportional to the neurologic symptoms. The diagnosis 
+of vitamin B12 deficiency and folate deficiency cannot be made solely 
+on the levels of vitamin B12 deficiency or folate. The precursors of 
+methylmalonic acid (MMA) and homocysteine must also be evaluated 
+since normal vitamin B12 levels can still be associated with vitamin B12 
+deficiency. Elevated MMA despite normal B12 levels is diagnostic of 
+B12 deficiency. RBC folate and not serum folate should be evaluated to 
+accurately assess folate levels.
+Nutritional vitamin B12 deficiency may occur in breast-­feeding 
+infants of mothers on strict vegetarian diets that exclude milk and egg 
+products. Congenital pernicious anemia is a rare syndrome associated 
+with vitamin B12 malabsorption that is caused by gastric intrinsic factor 
+deficiency. Children who have had resection of the terminal ileum, the 
+site of absorption of vitamin B12, may develop megaloblastic anemia. 
+Vitamin B12 malabsorption may occur in patients affected with auto­
+immune gastritis or with inflammatory disease involving the terminal 
+ileum such as Crohn disease or ulcerative colitis. Rare congenital dis­
+orders that affect vitamin B12 transport, absorption (i.e., Imerslund-­
+Grasbeck syndrome), or metabolism can also occur.
+Unlike body stores of vitamin B12, which may provide several years’ 
+reserve, folate stores are limited to several weeks’ supply. Folate is 
+ubiquitous in food sources; hence, nutritional deficiency is unusual. 
+Infants fed unsupplemented goat’s milk may develop profound folate 
+deficiency. Malabsorption of folate can occur in children who have lim­
+ited small bowel absorptive capacity because of surgical resection or 
+inflammatory disease.
+Anemia Caused by Increased Red Blood Cell Destruction
+The hemolytic disorders (see Figs. 49.1 and 49.4) are characterized by 
+shortened RBC survival and compensatory reticulocytosis. Normal 
+RBCs survive approximately 120 days in the circulation. New RBCs 
+are manufactured at a rate equivalent to the destruction of senescent 
+RBCs so that under normal circumstances an appropriate hemoglobin 
+level is maintained. Intrinsic or extrinsic RBC factors can lead to accel­
+erated RBC destruction. Several clinical and laboratory hallmarks are 
+associated with hemolysis (Table 49.13). It is imperative that a techni­
+cally adequate peripheral blood smear be examined whenever hemo­
+lysis is suspected. Although normal RBC structure does not exclude 
+a diagnosis of hemolytic anemia, most hemolytic diseases are associ­
+ated with morphologic abnormalities (Table 49.14). Depending on the 
+cause of the hemolysis, RBCs may be removed from the circulation by 
+reticuloendothelial cells (extravascular hemolysis) or may lyse within 
+the circulation (intravascular hemolysis). With intravascular hemoly­
+sis, hemoglobin is released into the plasma and bound by the serum 
+protein haptoglobin. In states of brisk intravascular hemolysis, hapto­
+globin may be depleted and free hemoglobin may be filtered by the 
+kidney, resulting in a pink appearance of the urine. A urinary dipstick 
+test result is positive for blood, but the microscopic examination of the 
+urinary sediment does not demonstrate intact RBCs.
+Fig. 49.7  Hypersegmented polymorphonuclear leukocyte as seen in 
+vitamin B12 deficiency or folate deficiency.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+919
+CHAPTER 49  Pallor and Anemia
+Disturbances of any of the three key components of the RBC—the 
+membrane, enzymes, and hemoglobin—may lead to ongoing or inter­
+mittent hemolysis.
+Membrane Defects
+The prototypic intrinsic red cell membrane defect is hereditary sphero­
+cytosis, which is an inherited disorder that can be inherited as autoso­
+mal dominant or autosomal recessive or be a new variant. This disorder 
+occurs in approximately 1/5,000 live births. It is seen most typically in 
+individuals of Northern European descent but may be identified in any 
+population. The basic defect is an abnormality of a membrane protein 
+(spectrin, protein 3, or ankyrin) that allows the RBC membrane to lose 
+its redundancy and the usual biconcave disk shape resulting in a small, 
+dense cell of spheroid configuration (see Fig. 49.2). Hemolysis occurs 
+because the spheroid RBCs are far less distensible and are unable to 
+successfully traverse the microcirculation of the spleen. Characteristic 
+clinical findings include anemia, reticulocytosis, and the presence of 
+abundant microspherocytes on peripheral smear. Associated nonspe­
+cific findings of chronic hemolysis are often present including pallor, 
+icterus, and splenomegaly. In autosomal dominant forms the family 
+history is often positive for anemia, splenectomy, or cholecystectomy.
+Newborns with hereditary spherocytosis frequently develop 
+jaundice within the first 24 hours after birth, necessitating photo­
+therapy and occasionally exchange transfusion. Diagnosis may be 
+confirmed by an osmotic fragility test reflecting the limited capacity 
+of the RBC to expand when incubated in a hypotonic solution. The 
+clinical spectrum of disease is broad. Some patients have mild, well-­
+compensated hemolysis and the condition is detected during their 
+adult years after a diagnosis in one of their children. Other patients 
+may have brisk hemolysis during infancy necessitating intermittent 
+transfusion support. Most patients have a disease course character­
+ized by mild to moderate anemia, reticulocytosis, and splenomegaly. 
+Patients are susceptible to exacerbations of anemia because of virus-­
+induced hyperhemolysis or transient RBC hypoplasia. Parvovirus 
+B19 may cause superimposed transient RBC hypoplasia of about 1 
+week’s duration, resulting in moderate to severe anemia that requires 
+transfusion.
+A severe form of autosomal recessive hereditary spherocyto­
+sis due to SPTA1 variants can present with fetal anemia and often 
+require intrauterine transfusion support to prevent progression to 
+hydrops. At birth, infants have severe anemia with reticulocytopenia 
+that can be difficult to distinguish from Diamond-­Blackfan anemia. 
+These patients are often transfusion dependent and share many clin­
+ical characteristics to patients with ineffective erythropoiesis such as 
+thalassemia.
+Hereditary elliptocytosis represents a heterogeneous group of 
+inherited disorders characterized by variable chronic hemolysis and 
+abundant elliptical RBCs on peripheral smear. The clinical and labo­
+ratory findings are similar to those seen in hereditary spherocytosis. 
+Splenectomy is appropriate in patients with moderate to severe hemo­
+lytic disease.
+Hereditary pyropoikilocytosis is an autosomal recessive mem­
+brane disorder that manifests in the newborn period and is charac­
+terized by marked jaundice and anemia, reticulocytosis, and striking 
+aberrations of RBC structure (see Table 49.14). Hemolysis lessens with 
+advancing age.
+Enzyme Defects
+The most common RBC enzyme defect is G6PD deficiency. An 
+X-­linked disorder, G6PD deficiency occurs most commonly in individ­
+uals of African and Mediterranean descent and should always be con­
+sidered in the differential diagnosis of acute hemolytic anemia in males 
+(though rarely females can be affected). Deficiency of G6PD activity 
+renders hemoglobin susceptible to oxidant insult, leading to precipita­
+tion of hemoglobin, membrane damage, and ultimately RBC destruc­
+tion. Oxidant injury may occur because of intercurrent infection or 
+ingestion of various substances, including medications (i.e., classically 
+sulfa drugs), toxins, and foods such as fava beans (Table 49.15).
+The common African variant of G6PD, termed G6PD deficient vari­
+ant A−, is not necessarily associated with chronic hemolysis but usually 
+manifests as mild acute hemolytic anemia related to specific precipitat­
+ing factors. Rarely is hemolysis sufficiently severe to warrant transfusion 
+therapy. Patients are often incidentally found to be anemic with evidence 
+of an appropriate reticulocyte response. A peripheral blood smear may 
+demonstrate “bite” cells as portions of the RBC (precipitates of hemoglo­
+bin) are removed by reticuloendothelial cells (Fig. 49.8). G6PD enzyme 
+assay is necessary for the establishment of a diagnosis, but the test must 
+be performed on a sample that has been depleted of reticulocytes because 
+newly released RBCs have greater amounts of G6PD. The Mediterranean 
+variety of G6PD deficiency tends to be more severe and may be asso­
+ciated with chronic hemolysis as well as hemolysis with superimposed 
+acute events caused by infection or medication leading to symptomatic 
+anemia and the occasional need for transfusion therapy.
+Although rare, pyruvate kinase deficiency (PKD) is the second 
+most common enzyme deficiency after G6PD deficiency. Inheritance 
+of PKD is autosomal recessive. PKD is characterized by absence of or 
+TABLE 49.13  Clinical and Laboratory 
+Features Suggestive of Hemolytic Anemia
+Pallor
+Icterus
+Dark or tea-­colored urine
+Splenomegaly
+Gallstones
+History of neonatal jaundice
+Positive family history of anemia, splenectomy, cholecystectomy
+↑ Reticulocyte count
+↑ RDW (due to ↑ reticulocyte count)
+Abnormal RBC morphology
+↑ Indirect bilirubin (normal direct bilirubin)
+↓ Serum haptoglobin level
+↑ Urinary urobilinogen level
+Hemoglobinuria (+ dipstick test result for blood; no RBCs in urine)
+↑ LDH level
+LDH, lactate dehydrogenase; RBC, red blood cell; RDW, red blood cell 
+distribution width.
+TABLE 49.14  Hemolytic Anemia: Diagnostic 
+Clues Based on Red Blood Cell Structure
+Sickle cells: sickle cell disease
+Target cells: hemoglobinopathies (HbC, HbS, thalassemia), liver disease
+Schistocytes/burr cells/helmet cells/RBC fragments: microangiopathic 
+hemolytic anemia—DIC, HUS, TTP
+Spherocytes: hereditary spherocytosis, autoimmune hemolytic anemia
+Cigar-­shaped cells: hereditary elliptocytosis
+“Bite” cells: G6PD deficiency
+Poikilocytosis, microcytosis, fragmented erythrocytes, elliptocytes: hereditary 
+pyropoikilocytosis
+DIC, disseminated intravascular coagulation; G6PD, glucose-­6-­phosphate 
+dehydrogenase; Hb, hemoglobin; HUS, hemolytic uremic syndrome; 
+RBC, red blood cell; TTP, thrombotic thrombocytopenic purpura.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+920
+SECTION 9  Hematologic Disorders
+significantly reduced levels of the intracellular RBC enzyme pyruvate 
+kinase. Lack of this enzyme leads to decreased levels of ATP and sub­
+sequent brisk hemolysis. The clinical spectrum of PKD is variable but 
+can result in severe chronic hemolytic anemia that is present in utero 
+and postnatally. In its most severe form, hemolysis is extremely brisk, 
+and it is not uncommon for patients with PKD to maintain reticulo­
+cyte counts of 40% or higher. Peripheral blood smear appears relatively 
+unremarkable but may demonstrate spiculated RBCs. Specific enzyme 
+assay can be performed by specialized laboratories to aid in the diag­
+nosis. Patients with PKD usually require lifelong RBC transfusions that 
+often result in transfusional iron overload. Splenomegaly is often pres­
+ent. Splenectomy is not curative but can ameliorate the condition by 
+resulting in an increment in hemoglobin by 1–2 g/dL, thereby reducing 
+the number of required transfusions. Following splenectomy, the retic­
+ulocyte count increases further. Patients with PKD are also extremely 
+susceptible to transient RBC hypoplasia caused by parvovirus B19 
+infection.
+Hemoglobinopathies
+Hemoglobinopathies usually occur because of a single amino acid substi­
+tution in α-­ or β-­globin chains. Hemoglobino­pathies are among the most 
+common causes of chronic hemolytic disease. α-­ and β-­Thalassemia syn­
+dromes were previously discussed. Sickle cell syndromes are the most fre­
+quently encountered hemoglobinopathies.
+The sickle hemoglobinopathy syndromes are a group of genetically 
+inherited disorders encountered most frequently in individuals of African 
+descent. Thus, a form of sickle cell disease should be considered in the dif­
+ferential diagnosis of anemia in any Black child. These disorders occur less 
+frequently in individuals of Mediterranean or Arabic background.
+Sickle hemoglobin is characterized by a single amino acid substitu­
+tion of valine for glutamic acid in the number 6 position of the β-­globin 
+chain. Sickle hemoglobin tends to form insoluble fibers and polymer­
+ization within the RBC when deoxygenated. This ultimately leads to 
+the formation of the characteristic crescent-­shaped sickled erythro­
+cytes (Fig. 49.9). When sickle hemoglobin trait is inherited from both 
+parents in an autosomal recessive fashion, the child has homozygous 
+hemoglobin SS disease. This is the most severe form of sickle cell dis­
+ease. Sickle hemoglobin may also be co-­inherited with other β-­globin 
+gene defects such as hemoglobin C or β-­thalassemia and give rise to 
+other heterozygous forms of sickle cell disease that can be less severe 
+than hemoglobin SS disease. Approximately 1 in 400 African Ameri­
+cans has sickle cell disease.
+TABLE 49.15  Factors Known to Promote 
+Hemolysis in Patients with G6PD Deficiency
+Viral or bacterial infection
+Fava beans
+Vitamin C (large doses)
+Mothballs (naphthalene)
+Benzene and other volatiles
+Medications
+Sulfonamides*
+Antimalarial drugs†
+Nitrofurantoin
+Nalidixic acid
+Chloramphenicol
+Vitamin K analogs
+Methylene blue
+High-­dose aspirin
+Stibophen
+Niridazole
+Probenecid
+Dimercaprol (BAL)
+Toluidine blue
+Phenylhydrazine
+Local anesthetics such as lidocaine, benzocaine
+*Sulfanilamide, sulfapyridine, sulfadimidine, sulfacetamide, sulfafura­
+zole, salicylazosulfapyridine (Azulfidine), dapsone, sulfoxone, co-trimox­
+azole (Septrin).
+†Primaquine, pamaquine, chloroquine (use with caution).
+G6PD, glucose-­6-­phosphate dehydrogenase.
+Fig. 49.8  “Bite” cells and burr cells as seen in glucose-­6-­phosphate 
+dehydrogenase deficiency hemolysis.
+Fig. 49.9  Sickle cell anemia. A, B, Sickled erythrocytes and target cells.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+921
+CHAPTER 49  Pallor and Anemia
+Approximately 8% of African Americans are carriers of the hemo­
+globin S gene, which is also termed sickle cell trait and results in 
+approximately 30–40% of hemoglobin S. Sickle cell trait is rarely asso­
+ciated with clinical disease except under states of unusually severe 
+arterial hypoxemia. Spontaneous hematuria may occasionally occur 
+in sickle trait as a result of the induction of sickling in the extremely 
+hypertonic environment of the renal medulla. Patients with sickle cell 
+trait are distinctly not anemic and have a normal peripheral blood 
+smear.
+The diagnosis of sickle cell disease is usually straightforward. 
+Children are variably anemic with reticulocytosis. The peripheral 
+blood smear demonstrates characteristic sickled erythrocytes (see 
+Fig. 49.9). The definitive diagnosis must be established by hemoglo­
+bin identification methods (Table 49.16). The hemoglobin solubility 
+test (sickle preparation, Sickledex) should not be used to make the 
+diagnosis as false-­negative tests can occur. Diagnosis in newborns 
+is routinely and accurately performed in most locations within the 
+United States as a component of state-­mandated universal neonatal 
+screening programs.
+Sickle cell disease is a multiorgan system disease. The clinical mani­
+festations are extremely broad but generally include (1) chronic hemo­
+lytic anemia, (2) vasoocclusion resulting in ischemic injury to tissue, (3) 
+susceptibility to infection, (4) acute and chronic pain, (5) cerebrovas­
+cular complications (e.g., stroke), (6) cardiopulmonary complications, 
+and (7) renal disease (Table 49.17). Infants younger than 4–6 months 
+usually show no clinical manifestations because of naturally high levels 
+of fetal hemoglobin. By 1–2 years of age, most affected patients have 
+had a specific sickle cell–related manifestation.
+Patients may appear variably pale and icteric depending on the 
+degree of hemolysis. Splenomegaly can be seen in children between 6 
+and 36 months of age in patients with hemoglobin SS disease and may 
+persist into adolescence in some patients with milder variants (SC dis­
+ease, S-­β+-­thalassemia). Autoinfarction from microvascular occlusion 
+ultimately leads to fibrosis of splenic tissue by age 3–4 years in most 
+patients with hemoglobin SS disease. Gallstones occur regularly and 
+may lead to symptoms of cholelithiasis, acute cholecystitis, biliary tract 
+obstruction, and/or pancreatitis. Many patients have delayed growth 
+and pubertal development but ultimately achieve normal adult height. 
+Exacerbation of anemia can occur as a result of infection-­induced 
+hyperhemolysis or transient RBC aplasia commonly associated with 
+parvovirus B19 infection. Hyperhemolytic episodes may also occur in 
+male patients with concomitant G6PD deficiency. RBC transfusions 
+are necessary when progressive anemia occurs in the context of splenic 
+sequestration or aplastic crises or due to other clinical complications 
+such as acute chest syndrome.
+Hemoglobin E is seen with considerable frequency among indi­
+viduals of Asian descent. Hemoglobin E trait is characterized by mild 
+anemia and mild microcytosis. There are no significant clinical impli­
+cations. The diagnosis is confirmed by hemoglobin electrophoresis. 
+When hemoglobin E occurs in the double heterozygous state with 
+β-­thalassemia, patients often have a moderately severe thalassemic 
+syndrome; hence, genetic counseling is advisable.
+Acquired Autoimmune Hemolytic Anemia
+This condition may occur as a transient, postviral process or in con­
+junction with underlying immunologic dysfunction (immunodefi­
+ciency, autoimmune disease, HIV infection, lymphoid malignancy). 
+TABLE 49.16  Hemoglobin Electrophoresis 
+Diagnosis of Sickle Hemoglobinopathy
+Disease
+Hemoglobin Type
+Normal
+A
+SS, Sβ0 disease
+S (no hemoglobin A)
+S trait
+A > S
+SC disease
+S + C (about equal proportions)
+S-­β-­thalassemia
+S > A (S predominant hemoglobin)
+TABLE 49.17  Clinical Manifestations of 
+Sickle Cell Anemia*
+Manifestation
+Comments
+Anemia
+Chronic onset, 3–4 mo of age; hematocrit usually 
+18–26%
+Aplastic crisis
+Parvovirus infection, reticulocytopenia, acute and 
+reversible
+Sequestration crisis
+Massive splenomegaly, shock; treat with transfusion
+Hemolytic crisis
+May be associated with G6PD deficiency
+Dactylitis
+Hand-­foot swelling in early infancy
+Painful crisis
+Microvascular painful vasoocclusive infarctions 
+of muscle, bone, bone marrow, lung intestines; 
+other etiologies likely contribute that are under 
+investigation
+Cerebral vascular 
+accidents (overt 
+and silent)
+Large-­ and small-­vessel sickling and thrombosis 
+(stroke); necessitates chronic transfusion
+Acute chest syndrome
+Infection, infarction, hypoventilation, bone marrow 
+emboli, severe hypoxemia, infiltrate, dyspnea, 
+rales
+Chronic lung disease
+Pulmonary fibrosis, restrictive lung disease, cor 
+pulmonale, pulmonary artery hypertension
+Priapism
+Causes eventual impotence; treat with transfusion, 
+oxygen, or corpora cavernosa to spongiosa shunt, 
+local injection of α-­adrenergic agents
+Ocular
+Retinopathy
+Gallbladder disease
+Bilirubin stones; cholecystitis
+Renal
+Hematuria, papillary necrosis, renal-­concentrating 
+deficit; nephropathy; chronic renal failure
+Cardiomyopathy
+Heart failure (fibrosis)
+Leg ulceration
+Seen in older patients
+Infections
+Functional asplenia, defects in properdin system; 
+pneumococcal bacteremia, meningitis, and 
+arthritis; deafness from meningitis, 
+Haemophilus influenzae sepsis, Salmonella and 
+Staphylococcus aureus osteomyelitis; severe 
+Mycoplasma pneumonia; Escherichia coli; urinary 
+tract infection
+Growth failure, 
+delayed puberty
+May respond to nutritional supplements
+Neurocognitive deficits Poorer school performance
+Psychosocial issues
+Depression, anxiety, attention-­deficit/hyperactivity 
+disorder (ADHD)
+*Clinical manifestations with sickle cell trait are unusual but include 
+renal papillary necrosis (hematuria), sudden death on exertion, intraocu­
+lar hyphema extension, and sickling in unpressurized airplanes.
+G6PD, glucose-­6-­phosphate dehydrogenase.
+Modified from Scott JP. Hematology. In: Behrman RE, Kliegman RM, 
+eds. Nelson Essentials of Pediatrics. 2nd ed. Philadelphia: WB Saun­
+ders; 1994:530.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+922
+SECTION 9  Hematologic Disorders
+Hemolysis is usually brisk; thus, most patients are symptomatic and 
+present with pallor, jaundice, tea-­colored urine, fatigue, and tachycar­
+dia. Splenomegaly is variably present. The degree of anemia is highly 
+variable, and the reticulocyte count is elevated in most patients; how­
+ever, a minority of patients present with a low reticulocyte count 
+because of immune destruction of reticulocytes. The peripheral smear 
+demonstrates microspherocytes. The direct Coombs test is positive, 
+confirming the diagnosis. Consideration should be given to evaluating 
+immunologic dysfunction, infection, and malignancy (immunoglob­
+ulin levels, T and B lymphocyte counts, HIV and Epstein-­Barr virus 
+studies, chest radiography). The characteristics of the antibody types 
+are noted in Table 49.18. Warm antibodies (usually IgG) may be idio­
+pathic or associated with lymphoma, HIV or Epstein-­Barr virus infec­
+tions, rheumatologic disorders (lupus), primary immunodeficiency 
+diseases, or most likely a nonspecific infectious phenomenon. Cold 
+antibodies (usually immunoglobulin M [IgM]) may also be seen in 
+response to viral infections and Mycoplasma pneumoniae and syphilis 
+infections, or in the context of autoimmune disorders.
+Aggressive therapy is recommended because life-­threatening ane­
+mia is known to occur. Corticosteroids (prednisone) should be admin­
+istered in most patients found to have warm autoimmune hemolytic 
+anemia. An exception is patients with EBV-­related autoimmune hemo­
+lytic anemia in whom the hemoglobin has stabilized. RBC transfusion 
+should be considered based on the degree of the anemia; however, 
+cross-­matching blood is likely to be difficult due to the autoantibody. 
+Intravenous immunoglobulin and high-­dose steroids (methylprednis­
+olone) should be considered in severe cases. Close hemoglobin mon­
+itoring and reticulocyte counts should be done to follow the rate of 
+hemolysis. The role of steroids in the treatment of cold autoimmune 
+hemolytic anemia is less clear and is classically reserved for prolonged 
+cases requiring frequent RBC transfusions. Recombinant antibodies 
+directed to B lymphocytes such as rituximab have been effective in 
+refractory cases.
+ANEMIA IN THE NEONATE
+Neonatal anemia should be viewed in the context of three possible 
+pathophysiologic pathways (Table 49.19): (1) acute blood loss, (2) 
+anemia of underproduction, and (3) anemia associated with increased 
+destruction. Familial genetic disorders may manifest in the neonatal 
+period or any time during infancy (Table 49.20).
+The full-­term infant has a normal hemoglobin value (hemoglobin, 
+15–21 g/dL; hematocrit, 45–65%) that is substantially higher than that 
+in older infants and young children. This finding represents a func­
+tional adaptation to the relatively hypoxic in utero environment. The 
+reticulocyte count is elevated to about 7–8% during the first 3 days of 
+life, after which there is an abrupt cessation of erythropoiesis until 2 
+months of age, when a physiologic hemoglobin nadir of about 9.5–10 
+g/dL is reached. This physiologic anemia of infancy is exaggerated in 
+preterm infants whose hemoglobin levels may fall to approximately 
+7 g/dL at about 1–1.5 months of age. This fall in hemoglobin value 
+TABLE 49.18  Characteristics of Antibodies in Immune Hemolytic Anemia
+Warm-­Antibody
+Cold Agglutinin 
+Disease
+Paroxysmal Cold 
+Hemoglobinuria
+Drug-­Related 
+Immune, Type 1
+Drug-­Related 
+Immune, Type II
+Antibody isotype
+IgG (rarely IgA)
+IgM
+IgG
+IgG
+IgM, IgG
+Optimum temperature of reaction
+37°C
+0°C
+0°C
+37°C
+37°C
+Direct Coombs test
+IgG ± C3
+C3 only
+C3 only
+IgG only
+C3 only
+Agglutination in saline
+None (rarely +)
+++++
++
+0 to +
+0 to ++ (with drug)
+Lysis by complement in vitro
+Rare
+Poor
+Well
+None
+Sometimes well
+Clinical severity
+Mild to very severe
+Mild to moderate
+Moderate to severe
+Mild to moderate
+Mild to severe
+Response to prednisone
+Often
+None
+Often
+If needed
+Not needed
+Response to splenectomy
+Often
+Rare
+None
+Not needed
+Not needed
+IgA, IgG, and IgM, immunoglobulins A, G, and M; +, strength of agglutination response.
+From Rose MG, Berliner N. Disorders of red blood cells. In: Andreoli TE, Carpenter CJ, Bennett JC, et al., eds. Cecil Essentials of Medicine. 4th ed. 
+Philadelphia: WB Saunders; 1997:389.
+TABLE 49.19  Anemia in the Neonate
+Blood Loss (Common)
+Placenta previa
+Abruptio placentae
+Twin-­twin transfusion
+Fetal–maternal hemorrhage (acute vs chronic)
+Neonatal hemorrhage
+Decreased RBC Production (Unusual)
+Diamond-­Blackfan anemia
+Autosomal recessive hereditary spherocytosis
+Congenital leukemia
+Transient myeloproliferative syndrome in Down syndrome
+Osteopetrosis
+Hemolysis
+Intrinsic RBC defect (uncommon)
+Membrane (hereditary spherocytosis or elliptocytosis)
+Enzyme (G6PD, PK)
+Hemoglobin (α or γ chain abnormality)
+Extrinsic RBC defect
+Immune (ABO, Rh, minor group incompatibilities) (common)
+Infection (intrauterine infection, bacterial, viral, protozoal)
+DIC
+Kasabach-­Merritt syndrome
+Galactosemia
+TTP (ADAMTS13)
+DIC, disseminated intravascular coagulation; G6PD, glucose-­6-­phosphate 
+dehydrogenase; PK, pyruvate kinase; RBC, red blood cell; TTP, throm­
+botic thrombocytopenic purpura.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+923
+CHAPTER 49  Pallor and Anemia
+represents a physiologic response to the oxygen-­rich extrauterine 
+environment, which decreases erythropoietin production.
+Neonatal Anemia Caused by Blood Loss
+Anemia caused by blood loss is often obvious. It occurs in placenta pre­
+via, abruptio placentae, or a large cephalohematoma. Other etiologies 
+of hemorrhage may be occult and include intracranial and intrahepatic 
+hematomas. Internal hemorrhage is much more likely to occur in diffi­
+cult deliveries. If twin-­twin transfusion occurs, one infant will develop 
+anemia while the other develops polycythemia. Fetal–maternal hem­
+orrhage is sufficiently severe to cause anemia in only a small percent­
+age of neonates. The Kleihauer-­Betke test may detect the presence of 
+fetal RBCs in the maternal circulation but may yield false-­negative 
+results, particularly in mothers with type O blood who have antibod­
+ies against infant A, B, or AB blood cells. Fetal–maternal hemorrhage 
+must always be suspected when otherwise unexplained anemia occurs 
+in a newborn.
+The time course and extent of blood loss determine the clinical 
+presentation. If blood loss is mild or chronic, infants may appear 
+normal or have mild pallor and tachycardia. In the event of severe 
+acute blood loss, the newborn may present with signs of acute illness 
+including lethargy, tachycardia, hypotension, and respiratory distress. 
+The hemoglobin value is a poor index of the severity of acute blood 
+loss because equilibration of fluid compartments may take 24–36 
+hours. Blood loss as a cause of anemia should always be suspected 
+in cases of obstetric complications, multiple births, or difficult and 
+traumatic deliveries. In cases of severe blood loss, emergency transfu­
+sion therapy is appropriate. In the neonate who is hemodynamically 
+stable but has experienced significant blood loss, a more conservative 
+approach is recommended.
+Neonatal Anemia Caused by Decreased Red Blood Cell 
+Production
+Anemia caused by decreased RBC production in the newborn is unusual. 
+Infants with congenital hypoplastic anemia (Diamond-­Blackfan ane­
+mia) are usually only mildly anemic during the newborn period. Con­
+genital leukemia is a rare disorder characterized by infiltration of the 
+bone marrow leading to anemia, thrombocytopenia, and leukocytosis 
+in association with hepatosplenomegaly and occasionally cutaneous 
+leukemic infiltrates manifesting as blue papular lesions (“blueberry 
+muffin” spots). Infants with Down syndrome may present with a clinical 
+and hematologic picture identical to that of congenital leukemia, which 
+is a transient myeloproliferative process that spontaneously remits over 
+several months. Infantile osteopetrosis (marble bone disease), a disor­
+der characterized by a limited ability to degrade bone, usually does not 
+cause pancytopenia until a few months after birth.
+TABLE 49.20  Genetic Disorders Associated with Anemia in the Neonate
+Syndrome
+Genetic Characteristics
+Hematologic Phenotype
+Diamond-­Blackfan syndrome
+Autosomal recessive (AR); sporadic 
+variants and autosomal dominant 
+(AD) inheritance have been described
+Steroid-­responsive hypoplastic anemia after 5 mo of age
+Fanconi anemia
+AR, probably abnormalities in multiple 
+genes (at least five genetic subtypes 
+have been identified)
+Steroid-­responsive hypoplastic, macrocytic anemia
+DNA is hypersensitive to injury
+Hereditary spherocytosis
+AR (SPTA1 variant)
+Present with fetal anemia and reticulocytopenia, often requiring intrauterine 
+transfusion
+Aase syndrome
+AR, possible AD
+Steroid-­responsive hypoplastic anemia; macrocytic; improves with age
+Pearson syndrome
+Mitochondrial DNA abnormalities, X-­linked 
+or AR
+Hypoplastic sideroblastic anemia unresponsive to pyridoxine
+Lethal osteopetrosis
+AR, caused by defective resorption of 
+immature bone
+Hypoplastic anemia due to marrow encroachment
+Congenital dyserythropoietic 
+anemia (CDA)
+AR
+Type I: megaloblastoid erythroid and nuclear chromatin bridges between cells
+Type II: hereditary erythroblastic multinuclearity and positive acidified serum 
+test results (HEMPAS)
+Type III: erythroblastic multinuclearity and macrocytosis
+Peutz-­Jeghers syndrome
+AD
+Iron deficiency, anemia from chronic blood loss
+Dyskeratosis congenita
+X-­linked recessive, locus on Xq28; some 
+cases with AD inheritance
+Hypoplastic anemia; usually present between 5 and 15 yr of age
+X-­linked α-­thalassemia/intellectual 
+disability (ATR-­X and ATR-­16) 
+syndromes
+ATR-­X: X-­linked recessive, mapped to 
+Xq13.3; ATR-­16: mapped to 16p13.3; 
+deletions of α-­globin locus
+ATR-­X: hypochromic, microcytic anemia, mild form of hemoglobin H disease; 
+ATR-­16: more significant hemoglobin H disease and anemia are present
+Thrombocytopenia with absent 
+radius (TAR) syndrome
+AR
+Hemorrhagic anemia, possibly hypoplastic anemia as well
+Osler hemorrhagic telangiectasia 
+syndrome
+AD, mapped to 9q33-­34
+Hemorrhagic anemia
+From Ohls RK. Evaluation and treatment of anemia in the neonate. In: Christensen RD, ed. Hematologic Problems of the Neonate. Philadelphia: 
+Saunders; 2000:153.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+924
+SECTION 9  Hematologic Disorders
+Neonatal Anemia Caused by Increased Red Blood Cell 
+Destruction
+Anemia caused by increased RBC destruction (hemolytic anemia) 
+places the neonate at risk for indirect hyperbilirubinemia because 
+of the limited hepatic bilirubin-­conjugating ability during the first 
+weeks of life. Even relatively small increases in the rate of RBC 
+destruction can lead to marked increases in serum bilirubin level. 
+All infants who have elevations of indirect bilirubin levels above 
+the normal range during the first 3 days of life should be evaluated 
+for possible hemolysis, with a CBC, reticulocyte count, peripheral 
+blood smear, maternal and infant blood type assessments, and direct 
+Coombs test.
+Intrinsic disorders of the erythrocyte may manifest in the neonate. 
+Infants with hereditary spherocytosis, pyropoikilocytosis, or ellipto­
+cytosis may develop anemia and extreme hyperbilirubinemia that 
+necessitate phototherapy and, rarely, exchange transfusion. A periph­
+eral blood smear and family history may be helpful in identifying an 
+intrinsic RBC membrane defect. A severe form of autosomal reces­
+sive hereditary spherocytosis may present with fetal anemia requir­
+ing intrauterine transfusion support. At the time of birth infants will 
+have severe anemia with reticulocytopenia with or without indirect 
+hyperbilirubinemia.
+G6PD deficiency can occur in newborn males (rarely females) of 
+African or Mediterranean descent. Because of the increased suscep­
+tibility of neonatal RBCs to oxidant injury, anemia, reticulocytosis, 
+and hyperbilirubinemia may occur without an obvious precipitating 
+oxidant insult. Hemoglobinopathies rarely manifest during the neo­
+natal period. β-­Globin chain defects such as sickle cell disease and 
+thalassemia are not clinically apparent until about 4–6 months of age 
+because of the predominance of fetal hemoglobin in the perinatal 
+period.
+Severe α-­thalassemia, including α-­thalassemia major or hemo­
+globin Bart disease, can affect the fetus. Such infants develop 
+severe in utero anemia with resultant hydrops fetalis because of 
+the limited ability of hemoglobin Bart disease to release oxygen 
+to tissues.
+Isoimmune hemolytic anemia is the most common cause of 
+hemolytic anemia in the newborn. It is caused by incompatibility 
+between maternal and fetal blood groups, including Rh, ABO, or 
+minor blood group antigens. In Rh incompatibility, the mother is 
+Rh negative, and the infant is Rh positive (inherited from the father). 
+If the mother has been exposed to Rh-­positive blood cells through 
+prior pregnancy, miscarriage, therapeutic abortion, or mismatched 
+blood transfusion, IgG antibodies may develop that traverse the 
+placenta and cause immune destruction of fetal Rh-­positive cells. 
+In such instances hemolysis occurs in utero and in the neonatal 
+period. In severe circumstances the fetus may be extremely anemic, 
+which results in heart failure, hydrops fetalis, and death. In less seri­
+ous instances infants may be born quite anemic and develop brisk 
+hyperbilirubinemia, which can lead to kernicterus. The severity of 
+Rh immune hemolytic disease increases with successive pregnancies. 
+This disorder is uncommon because of the routine practice of admin­
+istering Rh immunoglobulin to Rh-­negative mothers who are 28–30 
+weeks pregnant and within 72 hours of delivery or after spontaneous 
+or therapeutic abortion. Prenatal management of the affected fetus 
+may include ultrasonographic assessment of fetal well-­being (vascu­
+lar resistance, hydrops) and in high-­risk situations serial fetal hemo­
+globin levels obtained by ultrasonographically guided aspiration of 
+umbilical cord blood (cordocentesis). When the fetus demonstrates 
+progressive in utero severe anemia, intrauterine intravascular blood 
+transfusion therapy has been shown to decrease the risk for fetal 
+demise. Management of the neonate relates largely to the severity 
+of the hemolysis. Hyperbilirubinemia must be treated aggressively 
+with phototherapy and, if severe, exchange transfusion. RBC transfu­
+sions are appropriate for symptomatic anemia. On occasion, anemia 
+is detected several weeks after Rh hemolysis and may be associated 
+with a profoundly depressed reticulocyte count. This late anemia is of 
+uncertain origin, but inappropriately low erythropoietin levels have 
+been noted. Symptomatic infants may require transfusion therapy. 
+Affected infants have been successfully treated with human recom­
+binant erythropoietin.
+Immune incompatibility in the ABO system is common and usu­
+ally occurs when mothers with type O blood have newborns whose 
+blood type is A or B. The degree of hemolysis is usually much less 
+severe than in Rh disease. Fetal hydrops is extremely rare. Most babies 
+with ABO incompatibility manifest jaundice from indirect hyperbili­
+rubinemia during the first 1–2 days after birth. Hemoglobin levels are 
+often within the normal to mildly anemic range, but moderate anemia 
+occasionally occurs. The reticulocyte count is usually mildly elevated, 
+and the peripheral blood smear may show microspherocytes. Results 
+of the Coombs test are usually weakly or moderately positive, but 
+false-­negative results do occur. Treatment is generally directed toward 
+hyperbilirubinemia and may require phototherapy. Intravenous immu­
+noglobulin therapy has been helpful in some patients. Exchange trans­
+fusion is rarely necessary. Anemia occasionally necessitates blood 
+transfusion. Immune incompatibility may also occur on the basis of 
+minor blood group antigens such as the Duffy or Kell antigen systems. 
+Clinical and laboratory findings are similar to those in ABO hemo­
+lytic disease except that the direct Coombs test result is usually strongly 
+positive.
+Other causes of hemolytic anemia in the newborn include bacte­
+rial sepsis and intrauterine infection (cytomegalovirus, toxoplasmosis, 
+herpes, rubella, and syphilis). Intrauterine infectious syndromes can 
+cause mild to moderate hemolytic anemia of several months’ duration. 
+Such infants may demonstrate physical stigmata including small size 
+for gestational age, microcephaly, chorioretinitis, hepatosplenomegaly, 
+intracranial calcifications, and “celery stalking” of the long bones on 
+radiographic study.
+Microangiopathic hemolytic anemia can occur in the newborn as 
+a result of disseminated intravascular coagulation (DIC). In the neo­
+nate, DIC is usually caused by serious infection, hypoxemia resulting 
+from respiratory distress syndrome in the preterm infant, or isch­
+emic tissue injury related to birth asphyxia. Newborns with hemolysis 
+resulting from infection or DIC are often extremely ill and require RBC 
+transfusion support.
+Microangiopathic hemolytic anemia and consumptive thrombocy­
+topenia can occur in Kasabach-­Merritt syndrome, which is associated 
+with cavernous hemangiomas and localized intravascular coagulation. 
+Some infants have obvious expansive cutaneous and subcutaneous 
+lesions, but occult visceral hemangiomas, particularly in the liver, can 
+occur. The peripheral blood smear demonstrates evidence of RBC 
+fragments and burr cells. Kasabach-­Merritt syndrome may necessitate 
+treatment with plasma and platelet transfusions if consumptive coag­
+ulopathy is severe. Corticosteroids and interferon therapy have been 
+helpful in some affected infants.
+The diagnostic approach to anemia in the neonate requires a care­
+ful assessment of maternal, prenatal, and perinatal history as well 
+as the clinical status of the neonate (Fig. 49.10). CBC, reticulocyte 
+count, peripheral blood smear, maternal and infant blood types, and 
+direct Coombs tests are virtually always necessary laboratory studies. 
+Other studies must be dictated by the clinical and initial laboratory 
+findings.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+925
+CHAPTER 49  Pallor and Anemia
+   	 S U MMA RY  A N D  R E D  F L A G S
+Anemia is a relatively common finding in children. A complete and 
+thorough evaluation of clinical findings by a detailed history and phys­
+ical examination is the most important element in the establishment of 
+a diagnosis and in defining appropriate therapy.
+Anemia may be a primary event reflecting intrinsic hematologic 
+disease or it may be a manifestation of a wide variety of systemic 
+disorders involving any organ system. Anemia must always be fully 
+evaluated in view of the potential diagnostic and therapeutic implica­
+tions. Patients who appear acutely ill should have a more thorough and 
+prompt evaluation because acute blood loss must be treated quickly. If 
+acute blood loss is not suspected, acute hemolysis or splenic sequestra­
+tion of RBCs must be considered.
+Anemia is often a sign of underlying acute or chronic disease. In such 
+cases, anemia is not usually an isolated finding. Therefore, symptoms 
+such as shortness of breath, extreme pallor, weight loss, fevers, lethargy, 
+and fatigue should prompt a thorough evaluation of the patient.
+On physical examination, the findings of abnormal vital signs, 
+failure to thrive, bleeding or bruising, adenopathy, or organomegaly 
+should lead the examiner to suspect that a potentially serious under­
+lying disorder is present (Table 49.21). When a CBC is obtained, a low 
+hemoglobin value accompanied by any abnormality of MCV, WBC, or 
+platelet count should be taken seriously and should be more thoroughly 
+investigated. The diagnostic evaluation should be directed accordingly 
+based on these abnormal findings.
+Normal or elevated reticulocyte count (>5-10%)
+Coombs' positive
+Coombs' negative
+Isoimmunization:
+Rh (D antigen)
+ABO, C, c, E, G
+Duffy, Kell
+Other minor group
+Drug-induced (PCN)
+Blood smear
+Specific RBC
+dysmorphology
+Elliptocytes
+Poikilocytes
+Stomatocytes
+Fragmentation
+Basophilic stippling
+Spherocytes
+Obtain incubated
+osmotic fragility test
+Obtain 
+hemoglobin
+electrophoresis,
+KB stain
+Obtain specific enzyme assay
+Infections
+Bacterial infections
+Parvovirus B19
+TORCH infections
+Syphylis
+Malaria
+HIV
+Blood cultures,
+obtain maternal
+serum for IgG,
+HIV, RPR/FTA
+RBC morphology
+Congenital Enzymatic Defects
+G6PD
+Pyruvate kinase
+Hexokinase
+Glucose phosphate isomerase
+Others
+Other
+Galactosemia
+Alpha or gamma chain hemoglobinopathies
+Acidosis
+Osteopetrosis
+Congenital leukemia
+Drugs (valproic acid, oxidizing agents)
+Normal RBC morphology
+Jaundice
+No jaundice
+Consider acute blood loss due
+to obstetric complications,
+external or internal hemorrhage,
+DIC/sepsis, bleeding dyscrasias
+Chronic fetomaternal bleed
+Chronic twin-to-twin transfusion
+ATR-X and ATR-16
+Alpha-thalassemia trait
+Gamma-thalassemia
+Low reticulocyte count (0-2%)
+Diamond-Blackfan
+Aase syndrome
+Congenital dyserythropoietic anemias
+Refractory sideroblastic anemia
+Transcobalamin II deficiency
+Orotic aciduria
+Hypochromic
+Microcytic RBCs
+Obtain bone marrow
+Fig. 49.10  Differential diagnosis of neonatal anemia. The physician first seeks information from the family, 
+maternal, and labor and delivery histories and then obtains initial laboratory tests: hemoglobin, reticulocyte 
+count, blood type, direct Coombs test, peripheral smear, red blood cell (RBC) indices, and bilirubin concen­
+tration. Results are used to navigate the diagnostic flow chart. ATR-­16, α-­thalassemia retardation syndrome, 
+chromosome 16–linked; ATR-­X, α-­thalassemia retardation syndrome, X-­linked; DIC, disseminated intravas­
+cular coagulation; FTA, fluorescent treponemal antibody test; G6PD, glucose-­6-­phosphate dehydrogenase; 
+KB, Kleihauer-­Betke; PCN, penicillin; RPR, rapid plasma reagin test; TORCH, toxoplasmosis, other infections, 
+rubella, cytomegalovirus, and herpes simplex. (From Ohls RK. Evaluation and treatment of anemia in the 
+neonate. In: Christensen RD, ed. Hematologic Problems of the Neonate. Philadelphia: Saunders; 2000:162.)
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+926
+SECTION 9  Hematologic Disorders
+TABLE 49.21  Red Flags
+Anemia Accompanied by:
+Abnormal vital signs (tachycardia, hypotension, hypertension)
+Congenital anomalies
+Neutropenia and/or thrombocytopenia
+High MCV with normal RDW
+Blasts on the peripheral smear
+Lymphadenopathy (generalized)
+Bruising or bleeding
+Weight loss, failure to thrive
+Shortness of breath, fatigue
+Fever
+Hypoxia
+Hepatosplenomegaly
+Edema
+Oliguria-­anuria
+Bloody diarrhea
+Red urine (hemoglobinuria)
+Family history of anemia, splenectomy, cholecystectomy, transfusions
+MCV, mean corpuscular volume; RDW, red blood cell distribution width.
+BIBLIOGRAPHY
+A bibliography is available at ExpertConsult.com.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+926.e1
+BIBLIOGRAPHY
+Work-­up of Anemia
+Bessman JD, Jilmer PR, Gardner FH. Classification of red cell disorders by 
+MCV and RDW. Am J Clin Pathol. 1983;80:322.
+Hermiston ML, Mentzer WC. A practical approach to the evaluation of the 
+anemic child. Pediatr Clin North Am. 2002;49:877.
+Hoffman R, Benz EJ, Shattil SJ, et al. Hematology: Basic Principles and Practice. 
+3rd ed. New York: Churchill Livingstone; 2000.
+Kline NE. A practical approach to the child with anemia. J Pediatr Health Care. 
+1996;10:99.
+Kohli-­Kumar M. Screening for anemia in children: AAP recommendations—a 
+critique. Pediatrics. 2001;108:E56.
+Nathan DG, Orkin SH, Ginsburg D, et al. Nathan and Oski’s Hematology of 
+Infancy and Childhood. 6th ed. Philadelphia: Saunders; 2003.
+Novak RW. Red blood cell distribution within pediatric microcytic anemias. 
+Pediatrics. 1987;80:251.
+Segel GB, Hirsh MG, Feig SA. Managing anemia in a pediatric office practice: 
+part 1. Pediatr Rev. 2002;23:75.
+Segel GB, Hirsh MG, Feig SA. Managing anemia in a pediatric office practice: 
+part 2. Pediatr Rev. 2002;23:111.
+Walters MC, Abelson HT. Interpretation of the complete blood count. Pediatr 
+Clin North Am. 1996;43:599.
+Anemia with Acute and Chronic Disease
+Abshire TC. The anemia of inflammation: a common cause of childhood 
+anemia. Pediatr Clin North Am. 1996;43:623.
+Cowin HL, Krantz SB. Anemia of the critically ill: “acute” anemia of chronic 
+disease. Crit Care Med. 2000;28:3098.
+Ganz T. Hepcidic, a key regulator of iron metabolism and mediator of anemia 
+of inflammation. Blood. 2003;102:783–788.
+Means Jr RT. Advances in the anemia of chronic disease. Int J Hematol. 
+1999;70:7.
+Nemeth E, Ganz T. Anemia of inflammation. Hematol Oncol Clin North Am. 
+2014;28(4):671–681.
+Hemolytic Anemia
+Beutler E. Glucose-­6-­phosphate dehydrogenase deficiency. N Engl J Med. 
+1991;324:169.
+Davidson RN, Wall RA. Prevention and management of infections in patients 
+without a spleen. Clin Microbiol Infect. 2001;7:657.
+Grace RF, Mark Layton D, Barcellini W. How we manage patients with 
+pyruvate kinase deficiency. Br J Haematol. 2019;184(5):721–734.
+Lynch AM, Kapila R. Overwhelming postsplenectomy infection. Infect Dis Clin 
+North Am. 1996;10:693.
+Prchal JT, Gregg XT. Red cell enzymes. Hematology Am Soc Hematol Educ 
+Program. 2005:19–23.
+Sackey K. Hemolytic anemia: part 1. Pediatr Rev. 1999;20:152.
+Sackey K. Hemolytic anemia: part 2. Pediatr Rev. 1999;20:204.
+Trivedi DH, Bussel JB. Immunohematologic disorders. J Allergy Clin Immunol. 
+2003;111:S669–S676.
+Hypoplastic Anemia
+Alter BP. Bone marrow failure syndromes in children. Pediatr Clin North Am. 
+2002;49:973.
+Cherrick I, Karayalcin G, Lanzkowsky P. Transient erythroblastopenia of 
+childhood. Prospective study of fifty patients. Am J Pediatr Hematol Oncol. 
+1994;16:320.
+DaCosta L, Thiebant-­Noel W, Fixler J, et al. Diamond-­Blackfan anemia. Curr 
+Opin Pediatr. 2001;13:10.
+Farhi DC, Luebbers EL, Rosenthal NS. Bone marrow biopsy findings 
+in childhood anemia: prevalence of transient erythroblastopenia of 
+childhood. Arch Pathol Lab Med. 1998;122:638.
+Krijanovski OI, Sieff CA. Diamond-­Blackfan anemia. Hematol Oncol Clin 
+North Am. 1997;11:1061.
+van den Akker M, Dror Y, Odame I. Transient erythroblastopenia of 
+childhood is an underdiagnosed and self-­limiting disease. Acta Paediatr. 
+2014;103:e288–e294.
+Iron Deficiency
+Abelson HT. Complexities in recognizing and treating iron deficiency anemia. 
+Arch Pediatr Adolesc Med. 2001;155:332.
+Bogen DL, Duggan AK, Dover GJ, et al. Screening for iron deficiency anemia 
+by dietary history in a high-­risk population. Pediatrics. 2000;105:1254.
+De Falco L, Sanchez M, Beaumont C. Iron refractory iron deficiency anemia. 
+Haematologica. 2013;98(6):845–853.
+Hershko C, Camaschella C. How I treat unexplained refractory iron deficiency 
+anemia. Blood. 2014;123(2):326–333.
+Kwiatkowski JL, West TB, Heidary N, et al. Severe iron deficiency anemia in 
+young children. J Pediatr. 1999;135:514.
+Lozoff B, Wolf AW, Jimenez E. Iron-­deficiency anemia and infant 
+development: effects of extended oral iron therapy. J Pediatr. 1996;129:382.
+Nuesslein TG, Teig N, Rieger CH. Pulmonary haemosiderosis in infants and 
+children. Paediatr Respir Rev. 2006;7:45–48.
+Powers JM, Buchanan GR. Disorders of iron metabolism: new diagnostic and 
+treatment approaches to iron deficiency. Hematol Oncol Clin North Am. 
+2019;33(3):393–408.
+Powers JM, Buchanan GR, Adix L, et al. Effect of low dose ferrous sulfate 
+versus iron polysaccharide complex on hemoglobin concentration in 
+young children with nutritional iron deficiency anemia: a randomized 
+clinical trial. J Am Med Assoc. 2017;317(22):2297–2304.
+Walters T, Pino P, Pizarro F, et al. Prevention of iron deficiency anemia: 
+comparison of high and low iron formulas in healthy infants after six 
+months of life. J Pediatr. 1998;132:635.
+Wang W, Bourgeois T, Klima J, et al. Iron deficiency and fatigue in adolescent 
+females with heavy menstrual bleeding. Haemophilia. 2013;19:225–230.
+Wharton BA. Iron deficiency in children: detection and prevention. Br J 
+Haematol. 1999;106:270.
+Macrocytic Anemia
+Dobrozsi S, Flood VH, Panepinto J, et al. Vitamin B12 deficiency: the great 
+masquerader. Pediatr Blood Cancer. 2014;61:753–755.
+Fixler J, Styles L. Sickle cell disease. Pediatr Clin North Am. 2002;49:1193.
+Kapadia CR. Vitamin B12 in health and disease: part I–inherited disorders of 
+function, absorption, and transport. Gastroenterol. 1995;3(4):329–344.
+Hemoglobinopathies
+Cancio MI, Helton KJ, Schreiber JE, et al. Silent cerebral infarcts in very young 
+children with sickle cell anaemia are associated with a higher risk of stroke. 
+Br J Haematol. 2015;171(1):120–129.
+DeBaun MR, Gordon M, McKinstry RC, et al. Controlled trial of transfusions 
+for silent cerebral infarcts in sickle cell anemia. N Engl J Med. 2014;37:
+699–710.
+Kassim AA, Galadanci NA, Pruthi S, et al. How I treat and manage strokes in 
+sickle cell disease. Blood. 2015;125:3401–3410.
+Khandros E, Kwiatkowski JL. Beta thalassemia: monitoring and new treatment 
+approaches. Hematol Oncol Clin North Am. 2019;33(3):339–353.
+Kinney TR, Sleeper LA, Wang WC, et al. Silent cerebral infarcts in sickle cell 
+anemia: a risk factor analysis. The Co-­operative study of sickle cell disease. 
+Pediatrics. 1999;103:640.
+Quinn CT, Buchanan GR. The acute chest syndrome of sickle cell disease. J 
+Pediatr. 1999;135:416.
+Rucknagel DL. Progress and prospects for the acute chest syndrome of sickle 
+cell anemia. J Pediatr. 2001;138:160.
+Schatz J, Brown RT, Pascual JM, et al. Poor school and cognitive functioning 
+with silent cerebral infarcts and sickle cell disease. Neurology. 2001;56:1109.
+Section on Hematology/Oncology Committee on Genetics, American 
+Academy of Pediatrics. Health supervision for children with sickle cell 
+disease. Pediatrics. 2002;109:526.
+Vichinsky EP, Neumayr LD, Earles AN, et al. Causes and outcomes of 
+the acute chest syndrome in sickle cell disease. National Acute Chest 
+Syndrome Study Group. N Engl J Med. 2000;342:1855.
+Walters MC, Storb R, Patience M, et al. Impact of bone marrow transplantation 
+for symptomatic sickle cell disease: an interim report. Multicenter 
+investigation of bone marrow transplantation for sickle cell disease. Blood. 
+2000;95:1998.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+References
+926.e2
+Wang W, Enos L, Gallagher D, et al. Neuropsychologic performance in school-­
+aged children with sickle cell disease: a report from the cooperative study 
+of sickle cell disease. J Pediatr. 2001;139:391.
+Wethers DL. Sickle cell disease in childhood: part II. Diagnosis and treatment 
+of major complications and recent advances in treatment. Am Fam 
+Physician. 2000;62:1309.
+Woodard P, Lubin B, Walters CM. New approaches to hematopoietic cell 
+transplantation for hematological diseases in children. Pediatr Clin North 
+Am. 2002;4:989.
+Yaster M, Kost-­Byerly S, Maxwell LG. The management of pain in sickle cell 
+disease. Pediatr Clin North Am. 2000;47:699.
+Downloaded for MacKenzi Hillard (mnh9003@med.cornell.edu) at Weill Cornell Medicine Samuel J Wood Library from ClinicalKey.com by 
+Elsevier on April 18, 2024. For personal use only. No other uses without permission. Copyright ©2024. Elsevier Inc. All rights reserved.
+
