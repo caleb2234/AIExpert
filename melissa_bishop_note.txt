@@ -1,0 +1,17 @@
+Patient: Melissa Bishop (synthetic case)
+Chief Concern: shortness of breath on exertion.
+Timeline derived from structured EHR rows:
+
+Visit 400001 on 2019-06-10 00:00
+- 2019-06-10 00:00: medication/exposure RxNorm:807283
+- 2023-04-15 00:00: medication/exposure RxNorm:161
+- 2025-08-23 09:00: observation SNOMED:267036007
+- 2025-08-23 09:00: condition_occurrence SNOMED:367498001 Seasonal allergic rhinitis nan
+- 2025-08-23 09:00: observation SNOMED:414205003
+- 2025-08-23 09:00: observation SNOMED:451371000124109
+- 2025-08-23 09:00: observation SNOMED:228276006
+- 2025-08-23 09:15: measurement LOINC:718-7 = 125 g/L
+- 2025-08-23 09:15: measurement LOINC:8867-4 = 85 bpm
+- 2025-08-23 09:15: measurement LOINC:8480-6 = 118 mmHg
+- 2025-08-23 09:15: measurement LOINC:8462-4 = 72 mmHg
+- 2025-08-23 09:15: measurement LOINC:8310-5 = 98 F
